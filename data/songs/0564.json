@@ -1,0 +1,279 @@
+{
+ "id": 564,
+ "slug": "kalesh-doncho",
+ "title_cyr": "Калеш Дончо",
+ "title_latin": "Kaleš Dončo",
+ "title_en": "Prisoner Doncho",
+ "pesna_url": "https://pesna.org/song/564",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Williams)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Кирил Манчевски",
+  "Мирвет Беловска",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/830"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/831"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/832"
+  },
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3021"
+  },
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/3314"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми товарил калеш Дончо",
+       "lat": "Mi tovaril kaleš Dončo",
+       "en": "He loaded up, prisoner Doncho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "три товари ориз,",
+       "lat": "tri tovari oriz,",
+       "en": "three loads of rice.",
+       "en_mt": false
+      },
+      {
+       "cyr": "па си тргнал Дончо",
+       "lat": "pa si trgnal Dončo",
+       "en": "And he headed, prisoner Doncho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за пуста Битола.",
+       "lat": "za pusta Bitola.",
+       "en": "for damned Bitola.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо мачна душо.",
+       "lat": "Dončo mačna dušo.",
+       "en": "Doncho, tormented soul.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо штипјанчето.",
+       "lat": "Dončo štipjančeto.",
+       "en": "Doncho the Boy from Shtip.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пат го сретнале Дончо",
+       "lat": "Na pat go sretnale Dončo",
+       "en": "On the road, Doncho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "турски караколи,",
+       "lat": "turski karakoli,",
+       "en": "Turks rode round him.",
+       "en_mt": false
+      },
+      {
+       "cyr": "му најдоја пусти Турци",
+       "lat": "mu najdoja pusti Turci",
+       "en": "They turned up, damned Turks,",
+       "en_mt": false
+      },
+      {
+       "cyr": "бомби и патрони.",
+       "lat": "bombi i patroni.",
+       "en": "bombs and bullets.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо мачна душо.",
+       "lat": "Dončo mačna dušo.",
+       "en": "Doncho, tormented soul.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо штипјанчето.",
+       "lat": "Dončo štipjančeto.",
+       "en": "Doncho the Boy from Shtip.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го мачија Дончо",
+       "lat": "Go mačija Dončo",
+       "en": "They tortured him, damned Turks,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во тесни долапи,",
+       "lat": "vo tesni dolapi,",
+       "en": "in a tight press.",
+       "en_mt": false
+      },
+      {
+       "cyr": "го мачија Дончо",
+       "lat": "go mačija Dončo",
+       "en": "They tortured him, damned Turks,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во тесни долапи.",
+       "lat": "vo tesni dolapi.",
+       "en": "in a tight press.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо мачна душо.",
+       "lat": "Dončo mačna dušo.",
+       "en": "Doncho, tormented soul.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо штипјанчето.",
+       "lat": "Dončo štipjančeto.",
+       "en": "Doncho the Boy from Shtip.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Аферим бре, Дончо,",
+       "lat": "Aferim bre, Dončo,",
+       "en": "Oh bravely done, prisoner Doncho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "никој не издаде.",
+       "lat": "nikoj ne izdade.",
+       "en": "you said nothing.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Аферим бре, Дончо,",
+       "lat": "Aferim bre, Dončo,",
+       "en": "Oh bravely done, prisoner Doncho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "никој не издаде.",
+       "lat": "nikoj ne izdade.",
+       "en": "you said nothing.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо мачна душо.",
+       "lat": "Dončo mačna dušo.",
+       "en": "Doncho, tormented soul.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Леле, леле, леле, Дончо,",
+       "lat": "Lele, lele, lele, Dončo,",
+       "en": "Lele, lele, lele, grieve for Doncho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дончо штипјанчето.",
+       "lat": "Dončo štipjančeto.",
+       "en": "Doncho the Boy from Shtip.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

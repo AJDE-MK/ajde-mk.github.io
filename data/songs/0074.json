@@ -1,0 +1,213 @@
+{
+ "id": 74,
+ "slug": "shto-ja-nema-cveta-moma",
+ "title_cyr": "Што ја нема Цвета мома",
+ "title_latin": "Što ja nema Cveta moma",
+ "title_en": "Why Is Cveta Not Here, the Maiden",
+ "pesna_url": "https://pesna.org/song/74",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Стројници' rendered as matchmakers (my reading); 'крушевчанче' as 'from Kruševo'.",
+ "words_to_learn": [
+  {
+   "mk": "налани",
+   "en": "wooden clogs"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace (coin or bead)"
+  },
+  {
+   "mk": "гумно",
+   "en": "threshing floor"
+  },
+  {
+   "mk": "стројници",
+   "en": "matchmakers / wedding envoys"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "моме",
+   "en": "maiden, girl"
+  },
+  {
+   "mk": "жешкото сонце",
+   "en": "the scorching sun"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Зоран Марковски",
+  "Пепи Бафтировски",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/1450"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1473"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/1474"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1475"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1833"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ја нема Цвета мома,",
+       "lat": "Što ja nema Cveta moma,",
+       "en": "Why is Cveta the maiden not here,"
+      },
+      {
+       "cyr": "низ двор да прошета?",
+       "lat": "niz dvor da prošeta?",
+       "en": "to stroll through the yard?"
+      },
+      {
+       "cyr": "Низ двор да прошета Цвета,",
+       "lat": "Niz dvor da prošeta Cveta,",
+       "en": "To stroll through the yard, Cveta,"
+      },
+      {
+       "cyr": "боса на налани.",
+       "lat": "bosa na nalani.",
+       "en": "barefoot in wooden clogs."
+      },
+      {
+       "cyr": "Со налан да тропне Цвета,",
+       "lat": "So nalan da tropne Cveta,",
+       "en": "To clatter with her clogs, Cveta,"
+      },
+      {
+       "cyr": "со ѓердан да ѕвекне.",
+       "lat": "so ǵerdan da dzvekne.",
+       "en": "to jingle with her necklace."
+      },
+      {
+       "cyr": "Дали болна лежи Цвета,",
+       "lat": "Dali bolna leži Cveta,",
+       "en": "Is Cveta lying sick,"
+      },
+      {
+       "cyr": "или болен чува?",
+       "lat": "ili bolen čuva?",
+       "en": "or is she keeping watch over a sick one?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ниту болна лежи Цвета,",
+       "lat": "Nitu bolna leži Cveta,",
+       "en": "Neither is Cveta lying sick,"
+      },
+      {
+       "cyr": "ниту болен чува.",
+       "lat": "nitu bolen čuva.",
+       "en": "nor is she keeping watch over a sick one."
+      },
+      {
+       "cyr": "Излегла на гумно Цвета,",
+       "lat": "Izlegla na gumno Cveta,",
+       "en": "Cveta went out to the threshing floor,"
+      },
+      {
+       "cyr": "глава преврзала.",
+       "lat": "glava prevrzala.",
+       "en": "her head bound up."
+      },
+      {
+       "cyr": "Главата ја боли Цвета,",
+       "lat": "Glavata ja boli Cveta,",
+       "en": "Cveta's head aches"
+      },
+      {
+       "cyr": "од жешкото сонце.",
+       "lat": "od žeškoto sonce.",
+       "en": "from the scorching sun."
+      },
+      {
+       "cyr": "- Стани, стани, Цвето моме,",
+       "lat": "- Stani, stani, Cveto mome,",
+       "en": "- Get up, get up, Cveta maiden,"
+      },
+      {
+       "cyr": "стројници ти дошле.",
+       "lat": "strojnici ti došle.",
+       "en": "the matchmakers have come for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стројници ти дошле, Цвето,",
+       "lat": "Strojnici ti došle, Cveto,",
+       "en": "The matchmakers have come for you, Cveta,"
+      },
+      {
+       "cyr": "стројници скопјани.",
+       "lat": "strojnici skopjani.",
+       "en": "the matchmakers from Skopje."
+      },
+      {
+       "cyr": "- Како дошле, мила мајко,",
+       "lat": "- Kako došle, mila majko,",
+       "en": "- However they came, dear mother,"
+      },
+      {
+       "cyr": "така нек' си одат.",
+       "lat": "taka nek' si odat.",
+       "en": "let them go the same way."
+      },
+      {
+       "cyr": "Јас си имам мила мајко,",
+       "lat": "Jas si imam mila majko,",
+       "en": "I have, dear mother,"
+      },
+      {
+       "cyr": "либе крушевчанче.",
+       "lat": "libe kruševčanče.",
+       "en": "a sweetheart from Kruševo."
+      },
+      {
+       "cyr": "Јас си имам, мила мајко,",
+       "lat": "Jas si imam, mila majko,",
+       "en": "I have, dear mother,"
+      },
+      {
+       "cyr": "либе крушевчанче.",
+       "lat": "libe kruševčanče.",
+       "en": "a sweetheart from Kruševo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

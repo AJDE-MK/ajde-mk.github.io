@@ -1,0 +1,142 @@
+{
+ "id": 1293,
+ "slug": "pismo",
+ "title_cyr": "Писмо",
+ "title_latin": "Pismo",
+ "title_en": "The Letter",
+ "pesna_url": "https://pesna.org/song/1293",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern composed song but I cannot name an author. 'јанѕа имаш' is my reading: roughly 'are you troubled/anxious'. 'Си го прости господ Стојана' means the letter announces Stojan's death.",
+ "words_to_learn": [
+  {
+   "mk": "гурбет",
+   "en": "working abroad, migrant labor"
+  },
+  {
+   "mk": "дворој",
+   "en": "yard (dialect form)"
+  },
+  {
+   "mk": "мети",
+   "en": "sweeps"
+  },
+  {
+   "mk": "прсти кршиш",
+   "en": "you crack/wring your fingers"
+  },
+  {
+   "mk": "резе",
+   "en": "latch, bolt"
+  },
+  {
+   "mk": "абер",
+   "en": "news, word"
+  },
+  {
+   "mk": "домаќин",
+   "en": "master of the house"
+  },
+  {
+   "mk": "порти",
+   "en": "gate (here: dialect)"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Молика"
+ ],
+ "audio": [
+  {
+   "who": "Анета Љумаковска, Молика",
+   "url": "https://pesna.org/audio-download/3268"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зората си зори, мајка дворој мети,",
+       "lat": "Zorata si zori, majka dvoroj meti,",
+       "en": "Dawn is breaking, mother sweeps the yard,"
+      },
+      {
+       "cyr": "после двајсе лета татко од гурбет си иди,",
+       "lat": "posle dvajse leta tatko od gurbet si idi,",
+       "en": "after twenty years father is coming back from abroad,"
+      },
+      {
+       "cyr": "дома, пусто, да се прибери.",
+       "lat": "doma, pusto, da se priberi.",
+       "en": "home, poor man, to gather himself in."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мамо мила, мамо, оти прсти кршиш?",
+       "lat": "- Mamo mila, mamo, oti prsti kršiš?",
+       "en": "- Mother dear, mother, why do you crack your fingers?"
+      },
+      {
+       "cyr": "Оти прсти кршиш, мамо, оти очи криеш,",
+       "lat": "Oti prsti kršiš, mamo, oti oči krieš,",
+       "en": "Why do you crack your fingers, mother, why do you hide your eyes,"
+      },
+      {
+       "cyr": "јанѕа имаш ти што не спиеш?",
+       "lat": "jandza imaš ti što ne spieš?",
+       "en": "are you worried that you do not sleep?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кучињата лаат, први петли пеат,",
+       "lat": "Kučinjata laat, prvi petli peat,",
+       "en": "The dogs bark, the first roosters crow,"
+      },
+      {
+       "cyr": "и на порти некој торпа, в' гради срце скокна,",
+       "lat": "i na porti nekoj torpa, v' gradi srce skokna,",
+       "en": "and at the gate someone knocks, the heart leaps in the chest,"
+      },
+      {
+       "cyr": "ете ни го домаќинот!",
+       "lat": "ete ni go domaḱinot!",
+       "en": "here is our master of the house!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стрча мајка боса, резето го тргна,",
+       "lat": "Strča majka bosa, rezeto go trgna,",
+       "en": "Mother runs barefoot, she pulls the latch,"
+      },
+      {
+       "cyr": "а пред порти само писмо, и во писмо абер:",
+       "lat": "a pred porti samo pismo, i vo pismo aber:",
+       "en": "but before the gate there is only a letter, and in the letter news:"
+      },
+      {
+       "cyr": "си го прости господ Стојана.",
+       "lat": "si go prosti gospod Stojana.",
+       "en": "may God forgive Stojan."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

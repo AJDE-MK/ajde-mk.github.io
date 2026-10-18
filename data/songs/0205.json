@@ -1,0 +1,175 @@
+{
+ "id": 205,
+ "slug": "srce-me-boli-kje-umram",
+ "title_cyr": "Срце ме боли ќе умрам",
+ "title_latin": "Srce me boli ḱe umram",
+ "title_en": "My Heart Hurts, I Will Die",
+ "pesna_url": "https://pesna.org/song/205",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јандн аман' is a refrain, left as transliterated. 'Да га свршим Трпана' as 'to have done with Trpana' is my reading, unsure of the exact sense.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "longing, yearning"
+  },
+  {
+   "mk": "аман",
+   "en": "oh dear, alas (Turkish-derived exclamation)"
+  },
+  {
+   "mk": "сум шетал",
+   "en": "I have wandered"
+  },
+  {
+   "mk": "најдов",
+   "en": "I found"
+  },
+  {
+   "mk": "се вратив",
+   "en": "I came back"
+  },
+  {
+   "mk": "сакаш",
+   "en": "you love, want"
+  },
+  {
+   "mk": "нејќеш",
+   "en": "you don't want (dialect)"
+  },
+  {
+   "mk": "чаре",
+   "en": "remedy, way out"
+  },
+  {
+   "mk": "тражим",
+   "en": "I look for (dialect)"
+  }
+ ],
+ "performers": [
+  "Деспина",
+  "Наум Петрески",
+  "Пепи Бафтировски",
+  "Ристе Тевдоски",
+  "Серенада",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Ристе Тевдоски",
+   "url": "https://pesna.org/audio-download/987"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/988"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/989"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/990"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/991"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/992"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Срце ме боли, ќе умрем",
+       "lat": "Srce me boli, ḱe umrem",
+       "en": "My heart hurts, I will die,"
+      },
+      {
+       "cyr": "јандн аман",
+       "lat": "jandn aman",
+       "en": "yandn aman,"
+      },
+      {
+       "cyr": "од мерак за Трпана.",
+       "lat": "od merak za Trpana.",
+       "en": "from longing for Trpana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Све градови сум шетал",
+       "lat": "Sve gradovi sum šetal",
+       "en": "I have wandered through all the cities,"
+      },
+      {
+       "cyr": "јандн аман",
+       "lat": "jandn aman",
+       "en": "yandn aman,"
+      },
+      {
+       "cyr": "како тебе не најдов.",
+       "lat": "kako tebe ne najdov.",
+       "en": "and found none like you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се вратив в' Тетово",
+       "lat": "Pa se vrativ v' Tetovo",
+       "en": "Then I came back to Tetovo,"
+      },
+      {
+       "cyr": "јандн аман",
+       "lat": "jandn aman",
+       "en": "yandn aman,"
+      },
+      {
+       "cyr": "да га свршим Трпана.",
+       "lat": "da ga svršim Trpana.",
+       "en": "to have done with Trpana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме сакаш, сакај ме",
+       "lat": "Ako me sakaš, sakaj me",
+       "en": "If you love me, love me,"
+      },
+      {
+       "cyr": "јандн аман",
+       "lat": "jandn aman",
+       "en": "yandn aman,"
+      },
+      {
+       "cyr": "аку ме нејќеш кажи ми,",
+       "lat": "aku me nejḱeš kaži mi,",
+       "en": "if you don't want me, tell me,"
+      },
+      {
+       "cyr": "да си го тражим чарето.",
+       "lat": "da si go tražim čareto.",
+       "en": "so I can look for my remedy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

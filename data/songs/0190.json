@@ -1,0 +1,166 @@
+{
+ "id": 190,
+ "slug": "ti-si-mome-idealno",
+ "title_cyr": "Ти си моме идеално",
+ "title_latin": "Ti si mome idealno",
+ "title_en": "You are an ideal girl",
+ "pesna_url": "https://pesna.org/song/190",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/742"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1522"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Да мрсам твојта руса коса,",
+       "lat": "Da mrsam tvojta rusa kosa,",
+       "en": "Let me curl your blonde hair,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ја имаш либе ти, ти, ти.",
+       "lat": "što ja imaš libe ti, ti, ti.",
+       "en": "that you have dear, you, you, you.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ти си моме идеално,",
+       "lat": "Ti si mome idealno,",
+       "en": "You are an ideal girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ах мори душо каде си",
+       "lat": "ah mori dušo kade si",
+       "en": "oh my soul, where are you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да те љубам јас?",
+       "lat": "da te ljubam jas?",
+       "en": "I want to love you?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти љубам твојте црни очи,",
+       "lat": "Ti ljubam tvojte crni oči,",
+       "en": "I kiss your black eyes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ги имаш либе ти, ти, ти.",
+       "lat": "što gi imaš libe ti, ti, ti.",
+       "en": "that you have dear, you, you, you.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ти си моме идеално,",
+       "lat": "Ti si mome idealno,",
+       "en": "You are an ideal girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ах мори душо и да не си",
+       "lat": "ah mori dušo i da ne si",
+       "en": "oh, my soul, even if you were not,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пак те љубам јас.",
+       "lat": "pak te ljubam jas.",
+       "en": "I would still love you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го љубам белото ти лице,",
+       "lat": "Go ljubam beloto ti lice,",
+       "en": "I love your white face,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што го имаш либе ти, ти, ти.",
+       "lat": "što go imaš libe ti, ti, ti.",
+       "en": "that you have dear, you, you, you.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ти си моме идеално,",
+       "lat": "Ti si mome idealno,",
+       "en": "You are an ideal girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ако душо и да не си",
+       "lat": "Ako dušo i da ne si",
+       "en": "It's OK, honey, even if you were not,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пак те љубам јас.",
+       "lat": "pak te ljubam jas.",
+       "en": "I would still love you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја кршам твојта рамна снага,",
+       "lat": "Ja kršam tvojta ramna snaga,",
+       "en": "I am hugging your tall body,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ја имаш либе ти, ти, ти.",
+       "lat": "što ja imaš libe ti, ti, ti.",
+       "en": "that you have dear, you, you, you.",
+       "en_mt": false
+      },
+      {
+       "cyr": "А мор душо и да не си",
+       "lat": "A mor dušo i da ne si",
+       "en": "oh, my honey, even if you were not,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пак те љубам јас.",
+       "lat": "pak te ljubam jas.",
+       "en": "I would still love you.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

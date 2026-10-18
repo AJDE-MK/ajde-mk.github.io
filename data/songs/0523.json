@@ -1,0 +1,213 @@
+{
+ "id": 523,
+ "slug": "stanvaj-donke-stanvaj-pile",
+ "title_cyr": "Станвај Донке, станвај пиле",
+ "title_latin": "Stanvaj Donke, stanvaj pile",
+ "title_en": "Get up, Donka, get up, little bird",
+ "pesna_url": "https://pesna.org/song/523",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialogue between mother and Donka, then the suitor's oath. 'Се колни' is translated as 'swore' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "станвај",
+   "en": "get up (dialect imperative)"
+  },
+  {
+   "mk": "порано",
+   "en": "early"
+  },
+  {
+   "mk": "свршеник",
+   "en": "betrothed, fiance"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I don't want (dialect)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "колни",
+   "en": "swears, curses"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre"
+  },
+  {
+   "mk": "пушка",
+   "en": "gun, rifle"
+  },
+  {
+   "mk": "отепа",
+   "en": "kills"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова",
+  "Виданка Георгиева",
+  "Група Носталгија",
+  "Мишко Крстевски",
+  "Оливер Глигоров",
+  "Пепи Бафтировски",
+  "Рахилка Бурзевска"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1582"
+  },
+  {
+   "who": "Рахилка Бурзевска",
+   "url": "https://pesna.org/audio-download/1583"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2125"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/2126"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/2127"
+  },
+  {
+   "who": "Група Носталгија",
+   "url": "https://pesna.org/audio-download/2128"
+  },
+  {
+   "who": "Оливер Глигоров",
+   "url": "https://pesna.org/audio-download/2129"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Станвај Донке, станвај пиле порано,",
+       "lat": "- Stanvaj Donke, stanvaj pile porano,",
+       "en": "- Get up, Donka, get up, little bird, early,"
+      },
+      {
+       "cyr": "свршеникот ќе ти дојде, еј Донке бре,",
+       "lat": "svršenikot ḱe ti dojde, ej Donke bre,",
+       "en": "your betrothed will come, hey Donka,"
+      },
+      {
+       "cyr": "свршеникот ќе ти дојди, еј ќерко ле.",
+       "lat": "svršenikot ḱe ti dojdi, ej ḱerko le.",
+       "en": "your betrothed will come, hey daughter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако дојде, нека дојде, нејќам го,",
+       "lat": "- Ako dojde, neka dojde, nejḱam go,",
+       "en": "- If he comes, let him come, I don't want him,"
+      },
+      {
+       "cyr": "тој си љуби друго либе освен мене,",
+       "lat": "toj si ljubi drugo libe osven mene,",
+       "en": "he loves another sweetheart besides me,"
+      },
+      {
+       "cyr": "тој си љуби друго либе, еј мајко ле.",
+       "lat": "toj si ljubi drugo libe, ej majko le.",
+       "en": "he loves another sweetheart, hey mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште зборот недоречен, тој дојде",
+       "lat": "Ušte zborot nedorečen, toj dojde",
+       "en": "Before the word was finished, he came"
+      },
+      {
+       "cyr": "и на Донка ѝ се колни, еј до бога,",
+       "lat": "i na Donka ì se kolni, ej do boga,",
+       "en": "and swore to Donka, hey, by God,"
+      },
+      {
+       "cyr": "и на Донка ѝ се колни, еј до бога.",
+       "lat": "i na Donka ì se kolni, ej do boga.",
+       "en": "and swore to Donka, hey, by God."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Коња јавам, коњ да пукне под мене",
+       "lat": "- Konja javam, konj da pukne pod mene",
+       "en": "- I ride a horse, may the horse burst under me"
+      },
+      {
+       "cyr": "ако љубам друго либе освен тебе,",
+       "lat": "ako ljubam drugo libe osven tebe,",
+       "en": "if I love another sweetheart besides you,"
+      },
+      {
+       "cyr": "ако љубам друго либе освен тебе.",
+       "lat": "ako ljubam drugo libe osven tebe.",
+       "en": "if I love another sweetheart besides you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сабја носам, сабјата да ме исече,",
+       "lat": "Sabja nosam, sabjata da me iseče,",
+       "en": "I carry a sabre, may the sabre cut me down"
+      },
+      {
+       "cyr": "ако љубам друго либе освен тебе,",
+       "lat": "ako ljubam drugo libe osven tebe,",
+       "en": "if I love another sweetheart besides you,"
+      },
+      {
+       "cyr": "ако љубам друго либе освен тебе.",
+       "lat": "ako ljubam drugo libe osven tebe.",
+       "en": "if I love another sweetheart besides you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пушка носам, пушката да ме отепа,",
+       "lat": "Puška nosam, puškata da me otepa,",
+       "en": "I carry a gun, may the gun kill me"
+      },
+      {
+       "cyr": "ако љубам друго либе освен тебе,",
+       "lat": "ako ljubam drugo libe osven tebe,",
+       "en": "if I love another sweetheart besides you,"
+      },
+      {
+       "cyr": "ако љубам друго либе освен тебе.",
+       "lat": "ako ljubam drugo libe osven tebe.",
+       "en": "if I love another sweetheart besides you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

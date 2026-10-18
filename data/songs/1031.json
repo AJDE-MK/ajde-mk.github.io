@@ -1,0 +1,186 @@
+{
+ "id": 1031,
+ "slug": "pesna-za-samuil",
+ "title_cyr": "Песна за Самуил",
+ "title_latin": "Pesna za Samuil",
+ "title_en": "Song of Samuel",
+ "pesna_url": "https://pesna.org/song/1031",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a modern-sounding song about Tsar Samuel and his blinded army. Line 'Јас не можам ослепени да ве гледам и умирам' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "цар",
+   "en": "tsar, king"
+  },
+  {
+   "mk": "војска",
+   "en": "army"
+  },
+  {
+   "mk": "кале",
+   "en": "fortress"
+  },
+  {
+   "mk": "тврдина",
+   "en": "stronghold"
+  },
+  {
+   "mk": "ослепела",
+   "en": "has gone blind"
+  },
+  {
+   "mk": "езеро",
+   "en": "lake"
+  },
+  {
+   "mk": "верна",
+   "en": "faithful"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Ангелко Спироски",
+  "Влатко Миладиноски"
+ ],
+ "audio": [
+  {
+   "who": "Ангелко Спироски",
+   "url": "https://pesna.org/audio-download/2373"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/3755"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Самуиле, цар македонски,",
+       "lat": "Samuile, car makedonski,",
+       "en": "Samuel, Macedonian tsar,"
+      },
+      {
+       "cyr": "оздола иде твојата војска,",
+       "lat": "ozdola ide tvojata vojska,",
+       "en": "from below comes your army,"
+      },
+      {
+       "cyr": "право иде во Охрида.",
+       "lat": "pravo ide vo Ohrida.",
+       "en": "it comes straight to Ohrid."
+      },
+      {
+       "cyr": "Во Охрида, кон калето,",
+       "lat": "Vo Ohrida, kon kaleto,",
+       "en": "To Ohrid, toward the fortress,"
+      },
+      {
+       "cyr": "кон тврдината, право кај тебе.",
+       "lat": "kon tvrdinata, pravo kaj tebe.",
+       "en": "toward the stronghold, straight to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле, леле Самуиле,",
+       "lat": "Lele, lele Samuile,",
+       "en": "Alas, alas, Samuel,"
+      },
+      {
+       "cyr": "целата војска ти ослепела,",
+       "lat": "celata vojska ti oslepela,",
+       "en": "your whole army has gone blind,"
+      },
+      {
+       "cyr": "езерото се разбесна,",
+       "lat": "ezeroto se razbesna,",
+       "en": "the lake raged,"
+      },
+      {
+       "cyr": "а небото се затемна,",
+       "lat": "a neboto se zatemna,",
+       "en": "and the sky darkened,"
+      },
+      {
+       "cyr": "старо и младо се расплака.",
+       "lat": "staro i mlado se rasplaka.",
+       "en": "old and young began to weep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ти војско, моја војско,",
+       "lat": "- Oj ti vojsko, moja vojsko,",
+       "en": "- Oh you army, my army,"
+      },
+      {
+       "cyr": "верна ми беше и одана,",
+       "lat": "verna mi beše i odana,",
+       "en": "you were faithful and devoted to me,"
+      },
+      {
+       "cyr": "се бореше, победуваше.",
+       "lat": "se boreše, pobeduvaše.",
+       "en": "you fought, you won."
+      },
+      {
+       "cyr": "Јас не можам ослепени",
+       "lat": "Jas ne možam oslepeni",
+       "en": "I cannot, with you blinded,"
+      },
+      {
+       "cyr": "да ве гледам и умирам.",
+       "lat": "da ve gledam i umiram.",
+       "en": "look at you and die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еден војник проговара:",
+       "lat": "Eden vojnik progovara:",
+       "en": "One soldier speaks:"
+      },
+      {
+       "cyr": "- Нашите деца ќе пораснат,",
+       "lat": "- Našite deca ḱe porasnat,",
+       "en": "- Our children will grow up,"
+      },
+      {
+       "cyr": "ќе се борат за слобода.",
+       "lat": "ḱe se borat za sloboda.",
+       "en": "they will fight for freedom."
+      },
+      {
+       "cyr": "За слобода, за Македонија,",
+       "lat": "Za sloboda, za Makedonija,",
+       "en": "For freedom, for Macedonia,"
+      },
+      {
+       "cyr": "наша лична татковина.",
+       "lat": "naša lična tatkovina.",
+       "en": "our own homeland."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

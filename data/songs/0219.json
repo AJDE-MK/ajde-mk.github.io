@@ -1,0 +1,150 @@
+{
+ "id": 219,
+ "slug": "niknalo-cvekje-shareno",
+ "title_cyr": "Никнало цвеќе шарено",
+ "title_latin": "Niknalo cveḱe šareno",
+ "title_en": "Colourful flowers sprouted",
+ "pesna_url": "https://pesna.org/song/219",
+ "background": "A flower-and-window miniature. A bright flower grows under the girl's window; by day she tends it, by night a boy steals it. The scolding: you only know how to steal flowers, not how to kiss a girl. Flowers are for smelling; a boy is for kissing. Often sung by children, though the double meaning is there even then.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'дејгиди' is an exclamation I render as 'oh you' (my reading). 'вадело' is rendered as 'picked'; it literally means 'took out'.",
+ "words_to_learn": [
+  {
+   "mk": "никнало",
+   "en": "has sprouted"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  },
+  {
+   "mk": "шарено",
+   "en": "colourful, multicoloured"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "вадело",
+   "en": "picked (flowers)"
+  },
+  {
+   "mk": "крадело",
+   "en": "stole"
+  },
+  {
+   "mk": "будало",
+   "en": "fool, silly"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "oh you (exclamation of reproach)"
+  },
+  {
+   "mk": "мирисање",
+   "en": "smelling"
+  },
+  {
+   "mk": "љубење",
+   "en": "kissing, loving"
+  }
+ ],
+ "performers": [
+  "Анета Ефтимова",
+  "Иван Гоцев",
+  "Љупка Рондова",
+  "Љупчо Дуцевски",
+  "Секула Пупиноски"
+ ],
+ "audio": [
+  {
+   "who": "Секула Пупиноски",
+   "url": "https://pesna.org/audio-download/1562"
+  },
+  {
+   "who": "Анета Ефтимова",
+   "url": "https://pesna.org/audio-download/1563"
+  },
+  {
+   "who": "Љупчо Дуцевски",
+   "url": "https://pesna.org/audio-download/1564"
+  },
+  {
+   "who": "Љупка Рондова, Иван Гоцев",
+   "url": "https://pesna.org/audio-download/1565"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Никнало, никнало цвеќе шарено,",
+       "lat": "Niknalo, niknalo cveḱe šareno,",
+       "en": "Sprouted, sprouted, colourful flowers,"
+      },
+      {
+       "cyr": "крај моми-, крај моминото пенџере.",
+       "lat": "kraj momi-, kraj mominoto pendžere.",
+       "en": "beside the girl's, beside the girl's window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење го, дење го моме вадело,",
+       "lat": "Denje go, denje go mome vadelo,",
+       "en": "By day the girl picked them,"
+      },
+      {
+       "cyr": "ноќе го, ноќе го момче крадело.",
+       "lat": "noḱe go, noḱe go momče kradelo.",
+       "en": "by night the boy stole them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди, дејгиди момче будало,",
+       "lat": "Dejgidi, dejgidi momče budalo,",
+       "en": "Oh you, oh you foolish boy,"
+      },
+      {
+       "cyr": "не знаеш, не знаеш моме да љубиш,",
+       "lat": "ne znaeš, ne znaeš mome da ljubiš,",
+       "en": "you don't know, you don't know how to love a girl,"
+      },
+      {
+       "cyr": "тук' знаеш, тук' знаеш цвеќе да крадеш.",
+       "lat": "tuk' znaeš, tuk' znaeš cveḱe da kradeš.",
+       "en": "you only know, you only know how to steal flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цвеќето, цвеќето е за мирисање,",
+       "lat": "Cveḱeto, cveḱeto e za mirisanje,",
+       "en": "Flowers, flowers are for smelling,"
+      },
+      {
+       "cyr": "момето, момето е за љубење.",
+       "lat": "mometo, mometo e za ljubenje.",
+       "en": "a girl, a girl is for kissing."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

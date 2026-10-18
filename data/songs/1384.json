@@ -1,0 +1,121 @@
+{
+ "id": 1384,
+ "slug": "zetashtina-chuzhde-zemjanine",
+ "title_cyr": "Зеташтина чужде земјанине",
+ "title_latin": "Zetaština čužde zemjanine",
+ "title_en": "Son-in-law strange fellow",
+ "pesna_url": "https://pesna.org/song/1384",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Зеташтина, зеташтина,",
+       "lat": "- Zetaština, zetaština,",
+       "en": "- Son-in-law, son-in-law,"
+      },
+      {
+       "cyr": "чужде леле чужде, земјанине,",
+       "lat": "čužde lele čužde, zemjanine,",
+       "en": "stranger, oh, strange fellow,"
+      },
+      {
+       "cyr": "што си дошол во нашава земја,",
+       "lat": "što si došol vo našava zemja,",
+       "en": "why did you come into our land,"
+      },
+      {
+       "cyr": "што си дошол во нашава земја?",
+       "lat": "što si došol vo našava zemja?",
+       "en": "why did you come into our land?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ал' си дошол, ал си дошол,",
+       "lat": "Al' si došol, al si došol,",
+       "en": "Did you come, did you come"
+      },
+      {
+       "cyr": "оро леле, оро да играме",
+       "lat": "oro lele, oro da igrame",
+       "en": "to dance with us,"
+      },
+      {
+       "cyr": "ал' си дошол вино да пиеме,",
+       "lat": "al' si došol vino da pieme,",
+       "en": "did you come to drink wine with us,"
+      },
+      {
+       "cyr": "ал' си дошол камен да фрламе?",
+       "lat": "al' si došol kamen da frlame?",
+       "en": "did you come to join us in stone throwing games?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре вие, а бре вие,",
+       "lat": "- A bre vie, a bre vie,",
+       "en": "- Hey you, hey you"
+      },
+      {
+       "cyr": "сестри леле, сестри непознајни,",
+       "lat": "sestri lele, sestri nepoznajni,",
+       "en": "sisters, unknown sisters,"
+      },
+      {
+       "cyr": "не сум дошол оро да играме,",
+       "lat": "ne sum došol oro da igrame,",
+       "en": "I did not come to dance with you,"
+      },
+      {
+       "cyr": "не сум дошол оро да играме.",
+       "lat": "ne sum došol oro da igrame.",
+       "en": "I did not come to dance with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не сум дошол, не сум дошол,",
+       "lat": "Ne sum došol, ne sum došol,",
+       "en": "I didn’t come, I didn’t come,"
+      },
+      {
+       "cyr": "вино леле, вино да пиеме,",
+       "lat": "vino lele, vino da pieme,",
+       "en": "wine, wine to drink,"
+      },
+      {
+       "cyr": "не сум дошол камен да фрламе,",
+       "lat": "ne sum došol kamen da frlame,",
+       "en": "I did not come for the stone throwing games,"
+      },
+      {
+       "cyr": "тук' сум дошол по ваша другарчка.",
+       "lat": "tuk' sum došol po vaša drugarčka.",
+       "en": "rather I came here for your friend."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

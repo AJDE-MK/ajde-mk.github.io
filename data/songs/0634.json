@@ -1,0 +1,269 @@
+{
+ "id": 634,
+ "slug": "jana-grlo-zabolelo",
+ "title_cyr": "Јана грло заболело",
+ "title_latin": "Jana grlo zabolelo",
+ "title_en": "Jana has a sore throat",
+ "pesna_url": "https://pesna.org/song/634",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасиа Митровска",
+  "Ансамбл Билјана",
+  "Никола Бадев",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/467"
+  },
+  {
+   "who": "Никола Бадев, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3410"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4173"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јана грло заболело,",
+       "lat": "Jana grlo zabolelo,",
+       "en": "Jana has a sore throat,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не е грло како грло.",
+       "lat": "ne e grlo kako grlo.",
+       "en": "it's not a throat ache as usual.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море не е грло како грло",
+       "lat": "More ne e grlo kako grlo",
+       "en": "It's not a throat ache as usual,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тук' е в' грло лута рана.",
+       "lat": "tuk' e v' grlo luta rana.",
+       "en": "instead it is a painful wound.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој Јана не верува,",
+       "lat": "Nikoj Jana ne veruva,",
+       "en": "Nobody believes Jana,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ни мајка е, ни татко е.",
+       "lat": "ni majka e, ni tatko e.",
+       "en": "neither her mother, nor her father.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој што Јана веруваше",
+       "lat": "Koj što Jana veruvaše",
+       "en": "He who believed Jana",
+       "en_mt": false
+      },
+      {
+       "cyr": "не е тука, е далеку.",
+       "lat": "ne e tuka, e daleku.",
+       "en": "is not here, he is far away.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не е тука, е далеку",
+       "lat": "Ne e tuka, e daleku",
+       "en": "He is not here, he is far away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "е далеку в' град Солуна.",
+       "lat": "e daleku v' grad Soluna.",
+       "en": "far away in the city of Solun.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јана грло заболело,",
+       "lat": "Jana grlo zabolelo,",
+       "en": "Jana has a sore throat,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не е грло како грло.",
+       "lat": "ne e grlo kako grlo.",
+       "en": "it's not a throat ache as usual.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Море не е грло како грло",
+       "lat": "More ne e grlo kako grlo",
+       "en": "Oh, it's not a throat ache as usual,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тук' е грло лута рана.",
+       "lat": "tuk' e grlo luta rana.",
+       "en": "instead it is a painful wound in the throat.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој Јана не верува,",
+       "lat": "Nikoj Jana ne veruva,",
+       "en": "Nobody believes Jana,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ни мајка е, ни татко е.",
+       "lat": "ni majka e, ni tatko e.",
+       "en": "neither her mother, nor her father.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Море никој Јана не верува",
+       "lat": "More nikoj Jana ne veruva",
+       "en": "Oh, nobody believes Jana,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ни татко ѝ, ни мајка ѝ.",
+       "lat": "ni tatko ì, ni majka ì.",
+       "en": "neither her father, nor her mother.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој што Јана веруваше",
+       "lat": "Toj što Jana veruvaše",
+       "en": "The one who believed Jana",
+       "en_mt": true
+      },
+      {
+       "cyr": "не е дома, е далеку.",
+       "lat": "ne e doma, e daleku.",
+       "en": "is not home, he is far away.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море тој што Јана веруваше",
+       "lat": "More toj što Jana veruvaše",
+       "en": "Oh, the one who believed Jana",
+       "en_mt": true
+      },
+      {
+       "cyr": "не е дома, е далеку.",
+       "lat": "ne e doma, e daleku.",
+       "en": "is not home, he is far away.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не е дома, е далеку",
+       "lat": "Ne e doma, e daleku",
+       "en": "He is not home, he is far away,",
+       "en_mt": true
+      },
+      {
+       "cyr": "е далеку в' град Битола.",
+       "lat": "e daleku v' grad Bitola.",
+       "en": "far away in the city of Bitola.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море не е дома, е далеку",
+       "lat": "More ne e doma, e daleku",
+       "en": "Oh, he is not home, he is far away,",
+       "en_mt": true
+      },
+      {
+       "cyr": "е далеку в' град Битола.",
+       "lat": "e daleku v' grad Bitola.",
+       "en": "far away in the city of Bitola.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' град Битола, во меана",
+       "lat": "V' grad Bitola, vo meana",
+       "en": "In the city of Bitola, in the tavern,",
+       "en_mt": true
+      },
+      {
+       "cyr": "со вино се насладува.",
+       "lat": "so vino se nasladuva.",
+       "en": "he delights in wine.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море со вино се насладува",
+       "lat": "More so vino se nasladuva",
+       "en": "Oh, he delights in wine,",
+       "en_mt": true
+      },
+      {
+       "cyr": "на момите намигнува.",
+       "lat": "na momite namignuva.",
+       "en": "and winks at the girls.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

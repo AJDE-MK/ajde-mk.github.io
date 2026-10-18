@@ -1,0 +1,137 @@
+{
+ "id": 533,
+ "slug": "ohrid-ohrid-ubav-mil",
+ "title_cyr": "Охрид, Охрид убав мил",
+ "title_latin": "Ohrid, Ohrid ubav mil",
+ "title_en": "Ohrid, Ohrid, dear and beautiful",
+ "pesna_url": "https://pesna.org/song/533",
+ "background": "The song was composed by Sotir Dzingal. It describes an episode in which he and two other men from Ohrid took a boat they had rented from Vister and crossed the lake to Albania. Vister was a Viennese violinist who, with his family of musicians, played in the restaurants and hotels of Ohrid between the two world wars. Mood: nostalgic, a farewell to the home town and the mother.",
+ "background_source": "Source of these notes: the note on Pesna.org.",
+ "english_kind": "pesna",
+ "en_note": "",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/813"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3730"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Охрид, Охрид убав мил,",
+       "lat": "Ohrid, Ohrid ubav mil,",
+       "en": "Ohrid, Ohrid, dear and beautiful,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти за мене рај си бил.",
+       "lat": "ti za mene raj si bil.",
+       "en": "you have been a paradise to me.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јас ќе одам далеку",
+       "lat": "Jas ḱe odam daleku",
+       "en": "I am going far away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не знам дал' ќе се вратам пак.",
+       "lat": "ne znam dal' ḱe se vratam pak.",
+       "en": "I know not if I shall return again.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Езерото ми убаво,",
+       "lat": "Ezeroto mi ubavo,",
+       "en": "My beautiful lake,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас со солзи го оставив.",
+       "lat": "jas so solzi go ostaviv.",
+       "en": "I left it in tears.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Со кајчето од Вистера",
+       "lat": "So kajčeto od Vistera",
+       "en": "In Vister's little boat,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Албанија се најдов јас.",
+       "lat": "vo Albanija se najdov jas.",
+       "en": "I found myself in Albania.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум мајко, збогум веч",
+       "lat": "Zbogum majko, zbogum več",
+       "en": "Farewell, mother, farewell forever,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас ќе одам далеку.",
+       "lat": "jas ḱe odam daleku.",
+       "en": "I am going far away.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јас ќе одам далеку",
+       "lat": "Jas ḱe odam daleku",
+       "en": "I am going far away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не знам дал' ќе се вратам пак.",
+       "lat": "ne znam dal' ḱe se vratam pak.",
+       "en": "I know not if I shall return again.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Охрид, Охрид убав мил,",
+       "lat": "Ohrid, Ohrid ubav mil,",
+       "en": "Ohrid, Ohrid, dear and beautiful,",
+       "en_mt": false
+      },
+      {
+       "cyr": "град на Климент, Самуил.",
+       "lat": "grad na Kliment, Samuil.",
+       "en": "city of Kliment, of Samuil.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

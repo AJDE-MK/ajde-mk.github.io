@@ -1,0 +1,166 @@
+{
+ "id": 118,
+ "slug": "tamu-daleku-voda-mi-doteche",
+ "title_cyr": "Таму далеку вода ми дотече",
+ "title_latin": "Tamu daleku voda mi doteče",
+ "title_en": "Far away water came flowing",
+ "pesna_url": "https://pesna.org/song/118",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'анамче' rendered 'mother' (my reading; likely a dialect form of 'dear mother'). The linen may be a metaphor for the daughter; that is my guess, not stated in the text.",
+ "words_to_learn": [
+  {
+   "mk": "таму далеку",
+   "en": "far away there"
+  },
+  {
+   "mk": "дотече",
+   "en": "came flowing"
+  },
+  {
+   "mk": "бунар",
+   "en": "well"
+  },
+  {
+   "mk": "анамче",
+   "en": "dear mother (dialect diminutive of анама)"
+  },
+  {
+   "mk": "платно",
+   "en": "linen, cloth"
+  },
+  {
+   "mk": "бели",
+   "en": "bleaches, whitens"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "неженето",
+   "en": "unmarried (of a man)"
+  },
+  {
+   "mk": "ем",
+   "en": "and also (dialect, Turkish-origin)"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Вера Илиоска",
+  "Jenny Luna",
+  "Serkan Mesut Halili"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1319"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1320"
+  },
+  {
+   "who": "Вера Илиоска",
+   "url": "https://pesna.org/audio-download/1481"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2213"
+  },
+  {
+   "who": "Jenny Luna",
+   "url": "https://pesna.org/audio-download/2264"
+  },
+  {
+   "who": "Serkan Mesut Halili",
+   "url": "https://pesna.org/audio-download/3057"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Таму далеку",
+       "lat": "Tamu daleku",
+       "en": "Far away there"
+      },
+      {
+       "cyr": "вода ми дотече, од бунарот,",
+       "lat": "voda mi doteče, od bunarot,",
+       "en": "the water came flowing, from the well,"
+      },
+      {
+       "cyr": "и на бунарот,",
+       "lat": "i na bunarot,",
+       "en": "and at the well"
+      },
+      {
+       "cyr": "анамче ми седи, платно ми бели.",
+       "lat": "anamče mi sedi, platno mi beli.",
+       "en": "a mother sits, bleaching linen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде",
+       "lat": "Ozdola ide",
+       "en": "From below comes"
+      },
+      {
+       "cyr": "едно лудо, младо, неженето,",
+       "lat": "edno ludo, mlado, neženeto,",
+       "en": "a young fellow, unmarried,"
+      },
+      {
+       "cyr": "и на анамче,",
+       "lat": "i na anamče,",
+       "en": "and to the mother"
+      },
+      {
+       "cyr": "вели ем говори: - Аман, анамче.",
+       "lat": "veli em govori: - Aman, anamče.",
+       "en": "he says and speaks: - Mercy, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали го даваш,",
+       "lat": "Dali go davaš,",
+       "en": "Are you giving it away,"
+      },
+      {
+       "cyr": "или го продаваш, ој платното?",
+       "lat": "ili go prodavaš, oj platnoto?",
+       "en": "or are you selling it, oh, the linen?"
+      },
+      {
+       "cyr": "- И да го давам,",
+       "lat": "- I da go davam,",
+       "en": "- Whether I give it away,"
+      },
+      {
+       "cyr": "и да го продавам, тебе не давам.",
+       "lat": "i da go prodavam, tebe ne davam.",
+       "en": "or whether I sell it, I will not give it to you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

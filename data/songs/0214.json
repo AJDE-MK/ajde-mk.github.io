@@ -1,0 +1,144 @@
+{
+ "id": 214,
+ "slug": "podigni-si-bre-neveste-dulacheto",
+ "title_cyr": "Подигни си, бре невесте дулачето",
+ "title_latin": "Podigni si, bre neveste dulačeto",
+ "title_en": "Lift up, hey bride, your veil",
+ "pesna_url": "https://pesna.org/song/214",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1430"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1897"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2950"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/3300"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3301"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Подигни си, бре невесте дулачето",
+       "lat": "- Podigni si, bre neveste dulačeto",
+       "en": "Lift up, hey bride, your veil,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ти видам, бре невесте, бело лице.",
+       "lat": "da ti vidam, bre neveste, belo lice.",
+       "en": "let me see, hey bride, your white face.",
+       "en_mt": false
+      },
+      {
+       "cyr": "- И да видиш, лудо море, фајде немаш,",
+       "lat": "- I da vidiš, ludo more, fajde nemaš,",
+       "en": "No matter if you see it, crazy lad,",
+       "en_mt": false
+      },
+      {
+       "cyr": "бело лице, лудо море, продадено.",
+       "lat": "belo lice, ludo more, prodadeno.",
+       "en": "my white face, crazy lad, is sold.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Подигни си, бре невесте, дулачето",
+       "lat": "- Podigni si, bre neveste, dulačeto",
+       "en": "Lift up, hey bride, your veil",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ти видам, бре невесте, црните очи,",
+       "lat": "da ti vidam, bre neveste, crnite oči,",
+       "en": "let me see, hey bride, your black eyes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "црните очи, бре невесте, гајтан веѓи.",
+       "lat": "crnite oči, bre neveste, gajtan veǵi.",
+       "en": "black eyes, hey bride, dark eyebrows.",
+       "en_mt": false
+      },
+      {
+       "cyr": "- И да видиш, лудо море, фајде немаш,",
+       "lat": "- I da vidiš, ludo more, fajde nemaš,",
+       "en": "No matter if you see it, crazy lad,",
+       "en_mt": false
+      },
+      {
+       "cyr": "црни очи, лудо море, продадени,",
+       "lat": "crni oči, ludo more, prodadeni,",
+       "en": "my black eyes, crazy lad, are sold,",
+       "en_mt": false
+      },
+      {
+       "cyr": "гајтан веѓи, лудо море, продадени.",
+       "lat": "gajtan veǵi, ludo more, prodadeni.",
+       "en": "my dark eyebrows, crazy lad, are sold.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко зеде, лудо море, дваесет лири,",
+       "lat": "Tatko zede, ludo more, dvaeset liri,",
+       "en": "My father took, crazy lad, twenty liras,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка зеде, лудо море, срмен елек.",
+       "lat": "majka zede, ludo more, srmen elek.",
+       "en": "my mother took, crazy lad, silver-embroidered vest.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Друга верзија: Отврли си бело Ленче дулачето.",
+       "lat": "Druga verzija: Otvrli si belo Lenče dulačeto.",
+       "en": "Another version: Throw off your veil, white Lenche.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

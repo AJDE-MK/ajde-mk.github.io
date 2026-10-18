@@ -1,0 +1,221 @@
+{
+ "id": 900,
+ "slug": "stori-mi-aber-bozhano",
+ "title_cyr": "Стори ми абер Божано",
+ "title_latin": "Stori mi aber Božano",
+ "title_en": "Send me word, Bozhana",
+ "pesna_url": "https://pesna.org/song/900",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; the style may be a newer song but I cannot name an author. 'абер од тебе' and 'го барам чарето' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, word (Turkish loan)"
+  },
+  {
+   "mk": "порано",
+   "en": "sooner, earlier"
+  },
+  {
+   "mk": "приказни",
+   "en": "stories, tales"
+  },
+  {
+   "mk": "либено",
+   "en": "loved (dialect)"
+  },
+  {
+   "mk": "чаре",
+   "en": "remedy, way out"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "севда",
+   "en": "lovesickness, longing"
+  },
+  {
+   "mk": "прсти",
+   "en": "fingers"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1978"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стори ми абер Божано",
+       "lat": "Stori mi aber Božano",
+       "en": "Send me word, Bozhana,"
+      },
+      {
+       "cyr": "дали да идам порано,",
+       "lat": "dali da idam porano,",
+       "en": "whether I should come sooner,"
+      },
+      {
+       "cyr": "оти јас слушнав приказни",
+       "lat": "oti jas slušnav prikazni",
+       "en": "because I have heard stories"
+      },
+      {
+       "cyr": "дека ти ќе ме оставиш.",
+       "lat": "deka ti ḱe me ostaviš.",
+       "en": "that you will leave me."
+      },
+      {
+       "cyr": "Знам какво писмо пишуваш,",
+       "lat": "Znam kakvo pismo pišuvaš,",
+       "en": "I know what letter you are writing,"
+      },
+      {
+       "cyr": "те молам да не го праќаш",
+       "lat": "te molam da ne go praḱaš",
+       "en": "I beg you not to send it,"
+      },
+      {
+       "cyr": "писмото абер од тебе,",
+       "lat": "pismoto aber od tebe,",
+       "en": "a letter, news from you,"
+      },
+      {
+       "cyr": "писмото, камен за мене.",
+       "lat": "pismoto, kamen za mene.",
+       "en": "a letter, a stone for me."
+      },
+      {
+       "cyr": "Не можам да го прочитам,",
+       "lat": "Ne možam da go pročitam,",
+       "en": "I cannot read it,"
+      },
+      {
+       "cyr": "душава ќе ја разболам.",
+       "lat": "dušava ḱe ja razbolam.",
+       "en": "I would make my soul ill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стори ми абер, Божано,",
+       "lat": "Stori mi aber, Božano,",
+       "en": "Send me word, Bozhana,"
+      },
+      {
+       "cyr": "ако ме имаш љубено,",
+       "lat": "ako me imaš ljubeno,",
+       "en": "if you have loved me,"
+      },
+      {
+       "cyr": "стори ми абер Божано",
+       "lat": "stori mi aber Božano",
+       "en": "send me word, Bozhana,"
+      },
+      {
+       "cyr": "да си го барам чарето.",
+       "lat": "da si go baram čareto.",
+       "en": "so I can look for my remedy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти те сонив Божано,",
+       "lat": "Snošti te soniv Božano,",
+       "en": "Last night I dreamed of you, Bozhana,"
+      },
+      {
+       "cyr": "кршеше прсти насамо,",
+       "lat": "kršeše prsti nasamo,",
+       "en": "you were wringing your fingers alone,"
+      },
+      {
+       "cyr": "дали од жал по мене,",
+       "lat": "dali od žal po mene,",
+       "en": "whether from sorrow for me,"
+      },
+      {
+       "cyr": "или од севда по него.",
+       "lat": "ili od sevda po nego.",
+       "en": "or from lovesickness for him."
+      },
+      {
+       "cyr": "Знам какво писмо пишуваш,",
+       "lat": "Znam kakvo pismo pišuvaš,",
+       "en": "I know what letter you are writing,"
+      },
+      {
+       "cyr": "те молам да не го праќаш",
+       "lat": "te molam da ne go praḱaš",
+       "en": "I beg you not to send it,"
+      },
+      {
+       "cyr": "писмото абер од тебе,",
+       "lat": "pismoto aber od tebe,",
+       "en": "a letter, news from you,"
+      },
+      {
+       "cyr": "писмото, камен за мене.",
+       "lat": "pismoto, kamen za mene.",
+       "en": "a letter, a stone for me."
+      },
+      {
+       "cyr": "Не можам да го прочитам,",
+       "lat": "Ne možam da go pročitam,",
+       "en": "I cannot read it,"
+      },
+      {
+       "cyr": "душава ќе ја разболам.",
+       "lat": "dušava ḱe ja razbolam.",
+       "en": "I would make my soul ill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стори ми абер, Божано,",
+       "lat": "Stori mi aber, Božano,",
+       "en": "Send me word, Bozhana,"
+      },
+      {
+       "cyr": "ако ме имаш љубено,",
+       "lat": "ako me imaš ljubeno,",
+       "en": "if you have loved me,"
+      },
+      {
+       "cyr": "стори ми абер Божано",
+       "lat": "stori mi aber Božano",
+       "en": "send me word, Bozhana,"
+      },
+      {
+       "cyr": "да си го барам чарето.",
+       "lat": "da si go baram čareto.",
+       "en": "so I can look for my remedy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

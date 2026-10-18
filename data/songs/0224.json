@@ -1,0 +1,240 @@
+{
+ "id": 224,
+ "slug": "ne-se-krevaj-na-golemo",
+ "title_cyr": "Не се кревај на големо",
+ "title_latin": "Ne se krevaj na golemo",
+ "title_en": "Don't act so high and mighty",
+ "pesna_url": "https://pesna.org/song/224",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Колено' is a pun or double sense (knee / lineage), my reading. 'Калешо' I read as 'falcon' (калеш/калеш-птица); this is a guess, possibly dialect.",
+ "words_to_learn": [
+  {
+   "mk": "не се кревај",
+   "en": "don't raise yourself up, don't be proud"
+  },
+  {
+   "mk": "колено",
+   "en": "knee; also lineage, stock"
+  },
+  {
+   "mk": "отпетлај",
+   "en": "unbutton, undo the loops"
+  },
+  {
+   "mk": "доламава",
+   "en": "this dolama (traditional coat)"
+  },
+  {
+   "mk": "кошула",
+   "en": "shirt"
+  },
+  {
+   "mk": "куршуми",
+   "en": "bullets"
+  },
+  {
+   "mk": "облеана",
+   "en": "drenched, soaked"
+  }
+ ],
+ "performers": [
+  "Рудина",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Рудина",
+   "url": "https://pesna.org/audio-download/2268"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3266"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не се кревај на големо,",
+       "lat": "Ne se krevaj na golemo,",
+       "en": "Don't lift yourself up so high,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "барем да си од колено,",
+       "lat": "barem da si od koleno,",
+       "en": "at least be of good stock,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "пиле шарено.",
+       "lat": "pile šareno.",
+       "en": "colorful bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја елај ми на колено,",
+       "lat": "Ja elaj mi na koleno,",
+       "en": "Come here to my knee,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "отпетлај ми доламава,",
+       "lat": "otpetlaj mi dolamava,",
+       "en": "unbutton my coat,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "око калешо.",
+       "lat": "oko kalešo.",
+       "en": "eye of a falcon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ред по редум, девет реда,",
+       "lat": "Red po redum, devet reda,",
+       "en": "Row by row, nine rows,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "да ми видиш кошулава,",
+       "lat": "da mi vidiš košulava,",
+       "en": "so you can see this shirt of mine,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "пиле шарено.",
+       "lat": "pile šareno.",
+       "en": "colorful bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ми видиш кошулава,",
+       "lat": "Da mi vidiš košulava,",
+       "en": "So you can see this shirt of mine,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "три години не е прана,",
+       "lat": "tri godini ne e prana,",
+       "en": "it has not been washed in three years,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "око калешо.",
+       "lat": "oko kalešo.",
+       "en": "eye of a falcon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три години не е прана,",
+       "lat": "Tri godini ne e prana,",
+       "en": "It has not been washed in three years,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "од куршуми издупена,",
+       "lat": "od kuršumi izdupena,",
+       "en": "it is pierced by bullets,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "пиле шарено.",
+       "lat": "pile šareno.",
+       "en": "colorful bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од куршуми издупена,",
+       "lat": "Od kuršumi izdupena,",
+       "en": "Pierced by bullets,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "а со крв е облеана,",
+       "lat": "a so krv e obleana,",
+       "en": "and soaked with blood,"
+      },
+      {
+       "cyr": "Јовано, Јованке,",
+       "lat": "Jovano, Jovanke,",
+       "en": "Jovana, Jovanka,"
+      },
+      {
+       "cyr": "око калешо.",
+       "lat": "oko kalešo.",
+       "en": "eye of a falcon."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

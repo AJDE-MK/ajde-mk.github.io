@@ -1,0 +1,161 @@
+{
+ "id": 877,
+ "slug": "bog-da-bie-ubie",
+ "title_cyr": "Бог да бие, убие",
+ "title_latin": "Bog da bie, ubie",
+ "title_en": "May God Strike and Destroy",
+ "pesna_url": "https://pesna.org/song/877",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, reads as traditional. 'Чупче Јоше Бојанин' is my reading as 'Joshe Bojanin's lad'; 'пресна бира' I took as 'fresh beer'.",
+ "words_to_learn": [
+  {
+   "mk": "аман",
+   "en": "oh my (lament filler)"
+  },
+  {
+   "mk": "чупче",
+   "en": "lad, boy"
+  },
+  {
+   "mk": "помин",
+   "en": "feast, memorial meal"
+  },
+  {
+   "mk": "локум",
+   "en": "Turkish delight"
+  },
+  {
+   "mk": "ландан пајтон",
+   "en": "landau carriage"
+  },
+  {
+   "mk": "еќим",
+   "en": "doctor"
+  },
+  {
+   "mk": "лири",
+   "en": "lira (coins)"
+  },
+  {
+   "mk": "паре",
+   "en": "para (small coin)"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска"
+ ],
+ "audio": [
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1913"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие, убие, аман аман,",
+       "lat": "Bog da bie, ubie, aman aman,",
+       "en": "May God strike, destroy, aman aman,"
+      },
+      {
+       "cyr": "чупче Јоше Бојанин,",
+       "lat": "čupče Joše Bojanin,",
+       "en": "the lad of Joshe Bojanin,"
+      },
+      {
+       "cyr": "што га зеде Пауна, аман, аман,",
+       "lat": "što ga zede Pauna, aman, aman,",
+       "en": "who took Pauna, aman, aman,"
+      },
+      {
+       "cyr": "Пауна со два ума.",
+       "lat": "Pauna so dva uma.",
+       "en": "Pauna with two minds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем помин имаја, аман аман,",
+       "lat": "Golem pomin imaja, aman aman,",
+       "en": "They had a great feast, aman aman,"
+      },
+      {
+       "cyr": "покрај река идеа,",
+       "lat": "pokraj reka idea,",
+       "en": "they walked along the river,"
+      },
+      {
+       "cyr": "локум шеќер јадеа, аман, аман,",
+       "lat": "lokum šeḱer jadea, aman, aman,",
+       "en": "they ate lokum and sugar, aman, aman,"
+      },
+      {
+       "cyr": "пресна бира пиеја.",
+       "lat": "presna bira pieja.",
+       "en": "they drank fresh beer."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се разболе Пауна, аман, аман:",
+       "lat": "Se razbole Pauna, aman, aman:",
+       "en": "Pauna fell ill, aman, aman:"
+      },
+      {
+       "cyr": "- Ајде Јоше, бре Јоше,",
+       "lat": "- Ajde Joše, bre Joše,",
+       "en": "- Come on, Joshe, hey Joshe,"
+      },
+      {
+       "cyr": "иди фати ландан пајтон,",
+       "lat": "idi fati landan pajton,",
+       "en": "go get a landau phaeton,"
+      },
+      {
+       "cyr": "да ме носиш у Скопје.",
+       "lat": "da me nosiš u Skopje.",
+       "en": "to take me to Skopje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "У Скопје, у брата ми, аман, аман,",
+       "lat": "U Skopje, u brata mi, aman, aman,",
+       "en": "To Skopje, to my brother's, aman, aman,"
+      },
+      {
+       "cyr": "на визита еќиму,",
+       "lat": "na vizita eḱimu,",
+       "en": "for a visit to the doctor,"
+      },
+      {
+       "cyr": "еќим сака пет лире, аман, аман,",
+       "lat": "eḱim saka pet lire, aman, aman,",
+       "en": "the doctor wants five lira, aman, aman,"
+      },
+      {
+       "cyr": "Јоше нема пет паре.",
+       "lat": "Joše nema pet pare.",
+       "en": "Joshe has not five paras."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

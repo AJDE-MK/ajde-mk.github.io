@@ -1,0 +1,135 @@
+{
+ "id": 472,
+ "slug": "koledica",
+ "title_cyr": "Коледица",
+ "title_latin": "Koledica",
+ "title_en": "Koledica",
+ "pesna_url": "https://pesna.org/song/472",
+ "background": "A children's carol from the Bitola region. The names Koleda, Meda and Vasilica are the calendar itself dressed as people: Koleda is Christmas, Vasilica is Old New Year (St. Basil, 14 January). In the second part a child asks for a chestnut, one for me and one for my friend.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Меледица' is a rhyming filler word I left untranslated. Last line is an editorial note from the source, translated for line parity.",
+ "words_to_learn": [
+  {
+   "mk": "коледа",
+   "en": "Christmas-time carolling, carol"
+  },
+  {
+   "mk": "коледар",
+   "en": "carol singer"
+  },
+  {
+   "mk": "Василица",
+   "en": "St Basil's (New Year) festival"
+  },
+  {
+   "mk": "еднаш",
+   "en": "once"
+  },
+  {
+   "mk": "година",
+   "en": "year"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flower"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "бабо",
+   "en": "grandmother, old woman"
+  },
+  {
+   "mk": "костенче",
+   "en": "little chestnut"
+  },
+  {
+   "mk": "другарче",
+   "en": "little friend"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Ристана Николова"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2656"
+  },
+  {
+   "who": "Ристана Николова",
+   "url": "https://pesna.org/audio-download/2657"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коледица, меледица",
+       "lat": "Koledica, meledica",
+       "en": "Koledica, meledica"
+      },
+      {
+       "cyr": "и по неа Василица.",
+       "lat": "i po nea Vasilica.",
+       "en": "and after her Vasilica."
+      },
+      {
+       "cyr": "Еднаш ни е во година,",
+       "lat": "Ednaš ni e vo godina,",
+       "en": "Once a year she comes to us,"
+      },
+      {
+       "cyr": "како цвеќе во градина.",
+       "lat": "kako cveḱe vo gradina.",
+       "en": "like a flower in the garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коледе бабо, коледе,",
+       "lat": "Kolede babo, kolede,",
+       "en": "Koleda, grandmother, koleda,"
+      },
+      {
+       "cyr": "дај ми едно костенче,",
+       "lat": "daj mi edno kostenče,",
+       "en": "give me one little chestnut,"
+      },
+      {
+       "cyr": "едно за мене,",
+       "lat": "edno za mene,",
+       "en": "one for me,"
+      },
+      {
+       "cyr": "едно за другарчето.",
+       "lat": "edno za drugarčeto.",
+       "en": "one for my friend."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Оваа коледарска песна се пее во Битолско.)",
+       "lat": "(Ovaa koledarska pesna se pee vo Bitolsko.)",
+       "en": "(This koleda carol is sung in the Bitola region.)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,207 @@
+{
+ "id": 1085,
+ "slug": "sofka-na-tatko",
+ "title_cyr": "Софка на татко",
+ "title_latin": "Sofka na tatko",
+ "title_en": "Father's Sofka",
+ "pesna_url": "https://pesna.org/song/1085",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Akroama",
+  "Makedoniko meraki"
+ ],
+ "audio": [
+  {
+   "who": "Akroama",
+   "url": "https://pesna.org/audio-download/2548"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/2549"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ќе ојме,",
+       "lat": "- Stani ḱe ojme,",
+       "en": "- Get up, let's go,"
+      },
+      {
+       "cyr": "Софке на татко,",
+       "lat": "Sofke na tatko,",
+       "en": "father's Sofka,"
+      },
+      {
+       "cyr": "на града Гуменџа.",
+       "lat": "na grada Gumendža.",
+       "en": "to the city of Gumendzha."
+      },
+      {
+       "cyr": "Оф, аман, аман,",
+       "lat": "Of, aman, aman,",
+       "en": "Oh, dear,"
+      },
+      {
+       "cyr": "Софке на татко,",
+       "lat": "Sofke na tatko,",
+       "en": "father's Sofka,"
+      },
+      {
+       "cyr": "на града Гуменџа.",
+       "lat": "na grada Gumendža.",
+       "en": "to the city of Gumendzha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На града Гуменџа,",
+       "lat": "Na grada Gumendža,",
+       "en": "To the city of Gumendzha,"
+      },
+      {
+       "cyr": "Софке на татко,",
+       "lat": "Sofke na tatko,",
+       "en": "father's Sofka,"
+      },
+      {
+       "cyr": "кај екимџијата.",
+       "lat": "kaj ekimdžijata.",
+       "en": "to see the doctor."
+      },
+      {
+       "cyr": "Оф, аман, аман,",
+       "lat": "Of, aman, aman,",
+       "en": "Oh, dear,"
+      },
+      {
+       "cyr": "Софке на татко,",
+       "lat": "Sofke na tatko,",
+       "en": "father's Sofka,"
+      },
+      {
+       "cyr": "на Гоно Русино.",
+       "lat": "na Gono Rusino.",
+       "en": "to see Gono Rusino."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Он да ни каже,",
+       "lat": "On da ni kaže,",
+       "en": "He may tell us,"
+      },
+      {
+       "cyr": "Софке на татко,",
+       "lat": "Sofke na tatko,",
+       "en": "father's Sofka,"
+      },
+      {
+       "cyr": "што ти е болката.",
+       "lat": "što ti e bolkata.",
+       "en": "what is your ache."
+      },
+      {
+       "cyr": "Оф, аман, аман,",
+       "lat": "Of, aman, aman,",
+       "en": "Oh, dear,"
+      },
+      {
+       "cyr": "Софке на татко,",
+       "lat": "Sofke na tatko,",
+       "en": "father's Sofka,"
+      },
+      {
+       "cyr": "што ти е болката.",
+       "lat": "što ti e bolkata.",
+       "en": "what is your ache."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи ни, кажи,",
+       "lat": "- Kaži ni, kaži,",
+       "en": "- Tell us, tell us,"
+      },
+      {
+       "cyr": "Гонче на бајо,",
+       "lat": "Gonče na bajo,",
+       "en": "Gono tell your uncle,"
+      },
+      {
+       "cyr": "софкината болка?",
+       "lat": "sofkinata bolka?",
+       "en": "what is Sofka's ache?"
+      },
+      {
+       "cyr": "Оф, аман, аман,",
+       "lat": "Of, aman, aman,",
+       "en": "Oh, dear,"
+      },
+      {
+       "cyr": "Гонче на бајо,",
+       "lat": "Gonče na bajo,",
+       "en": "Gono, my dear,"
+      },
+      {
+       "cyr": "софкината болка?",
+       "lat": "sofkinata bolka?",
+       "en": "what is Sofka's ache?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Софкината болка,",
+       "lat": "- Sofkinata bolka,",
+       "en": "- Sofka's ache,"
+      },
+      {
+       "cyr": "миле бај Дине,",
+       "lat": "mile baj Dine,",
+       "en": "dear uncle Dean,"
+      },
+      {
+       "cyr": "мома има дете.",
+       "lat": "moma ima dete.",
+       "en": "the girl is carrying a child."
+      },
+      {
+       "cyr": "Оф, аман, аман,",
+       "lat": "Of, aman, aman,",
+       "en": "Oh, dear,"
+      },
+      {
+       "cyr": "миле бај Дине,",
+       "lat": "mile baj Dine,",
+       "en": "dear uncle Dean,"
+      },
+      {
+       "cyr": "мома има дете.",
+       "lat": "moma ima dete.",
+       "en": "the girl is carrying a child."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

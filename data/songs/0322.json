@@ -1,0 +1,157 @@
+{
+ "id": 322,
+ "slug": "poshla-moma-na-voda",
+ "title_cyr": "Пошла мома на вода",
+ "title_latin": "Pošla moma na voda",
+ "title_en": "A girl set off for water",
+ "pesna_url": "https://pesna.org/song/322",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Variant of song 360 (same story, shorter). 'Оф, аман' rendered as 'Oh, aman', an exclamation of longing or distress.",
+ "words_to_learn": [
+  {
+   "mk": "пошла",
+   "en": "set off (feminine)"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "шарени",
+   "en": "colorful, patterned"
+  },
+  {
+   "mk": "беќарче",
+   "en": "little bachelor"
+  },
+  {
+   "mk": "постој",
+   "en": "stop, wait"
+  },
+  {
+   "mk": "аман",
+   "en": "oh (plea, exclamation of distress)"
+  },
+  {
+   "mk": "речам",
+   "en": "I may say"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/214"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пошла мома на вода",
+       "lat": "Pošla moma na voda",
+       "en": "A girl set off for water"
+      },
+      {
+       "cyr": "со две стомни шарени.",
+       "lat": "so dve stomni šareni.",
+       "en": "with two colorful jugs."
+      },
+      {
+       "cyr": "Оф, аман, пошло моме на вода,",
+       "lat": "Of, aman, pošlo mome na voda,",
+       "en": "Oh, aman, the girl set off for water,"
+      },
+      {
+       "cyr": "оф аман, со две стомни шарени.",
+       "lat": "of aman, so dve stomni šareni.",
+       "en": "oh aman, with two colorful jugs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И беќарче по неа",
+       "lat": "I beḱarče po nea",
+       "en": "And a young bachelor after her"
+      },
+      {
+       "cyr": "и на моме говори.",
+       "lat": "i na mome govori.",
+       "en": "and speaks to the girl."
+      },
+      {
+       "cyr": "Оф, аман, и беќарче по неа,",
+       "lat": "Of, aman, i beḱarče po nea,",
+       "en": "Oh, aman, and a young bachelor after her,"
+      },
+      {
+       "cyr": "оф аман, и на моме говори.",
+       "lat": "of aman, i na mome govori.",
+       "en": "oh aman, and speaks to the girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Постој моме почекај",
+       "lat": "Postoj mome počekaj",
+       "en": "Stop, girl, wait"
+      },
+      {
+       "cyr": "да ти речам два збора.",
+       "lat": "da ti rečam dva zbora.",
+       "en": "that I may say two words to you."
+      },
+      {
+       "cyr": "Оф аман, постој моме, почекај,",
+       "lat": "Of aman, postoj mome, počekaj,",
+       "en": "Oh aman, stop, girl, wait,"
+      },
+      {
+       "cyr": "оф аман, да ти речам два збора.",
+       "lat": "of aman, da ti rečam dva zbora.",
+       "en": "oh aman, that I may say two words to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ѝ кажа два збора",
+       "lat": "Ne ì kaža dva zbora",
+       "en": "He did not tell her two words"
+      },
+      {
+       "cyr": "тук ја фати за рака.",
+       "lat": "tuk ja fati za raka.",
+       "en": "but grabbed her by the hand."
+      },
+      {
+       "cyr": "Оф аман, не ѝ кажа два збора,",
+       "lat": "Of aman, ne ì kaža dva zbora,",
+       "en": "Oh aman, he did not tell her two words,"
+      },
+      {
+       "cyr": "оф аман, тук' ја фати за рака.",
+       "lat": "of aman, tuk' ja fati za raka.",
+       "en": "oh aman, but grabbed her by the hand."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,215 @@
+{
+ "id": 611,
+ "slug": "ako-samo-zapeam",
+ "title_cyr": "Ако само запеам",
+ "title_latin": "Ako samo zapeam",
+ "title_en": "If I Only Sing",
+ "pesna_url": "https://pesna.org/song/611",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern song but I cannot name an author. 'Зборлива' is rendered 'talkative' (my reading: a song that speaks).",
+ "words_to_learn": [
+  {
+   "mk": "запеам",
+   "en": "I start to sing"
+  },
+  {
+   "mk": "засвирам",
+   "en": "I start to play"
+  },
+  {
+   "mk": "запира",
+   "en": "stops"
+  },
+  {
+   "mk": "трепне",
+   "en": "trembles, flinches"
+  },
+  {
+   "mk": "мома",
+   "en": "girl"
+  },
+  {
+   "mk": "весела",
+   "en": "cheerful"
+  },
+  {
+   "mk": "горлива",
+   "en": "fiery, burning"
+  },
+  {
+   "mk": "севда",
+   "en": "passionate longing"
+  },
+  {
+   "mk": "дослуша",
+   "en": "listens to the end"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1210"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ако само запеам",
+       "lat": "Ako samo zapeam",
+       "en": "If I only sing,"
+      },
+      {
+       "cyr": "ако само засвирам,",
+       "lat": "ako samo zasviram,",
+       "en": "if I only play,"
+      },
+      {
+       "cyr": "тогаш светов запира",
+       "lat": "togaš svetov zapira",
+       "en": "then the world stops"
+      },
+      {
+       "cyr": "за да ме чуе кај играм.",
+       "lat": "za da me čue kaj igram.",
+       "en": "to hear me dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нема село ниту град,",
+       "lat": "Nema selo nitu grad,",
+       "en": "There is no village or town,"
+      },
+      {
+       "cyr": "ни старец, ниту млад,",
+       "lat": "ni starec, nitu mlad,",
+       "en": "no old man or young,"
+      },
+      {
+       "cyr": "без да трепне на тој глас,",
+       "lat": "bez da trepne na toj glas,",
+       "en": "who would not tremble at that voice,"
+      },
+      {
+       "cyr": "јас сум мома весела,",
+       "lat": "jas sum moma vesela,",
+       "en": "I am a cheerful girl,"
+      },
+      {
+       "cyr": "в' срце сум песна донела,",
+       "lat": "v' srce sum pesna donela,",
+       "en": "I have brought a song in my heart,"
+      },
+      {
+       "cyr": "ајде да запееме.",
+       "lat": "ajde da zapeeme.",
+       "en": "come, let us sing."
+      },
+      {
+       "cyr": "Песнава ми е зборлива,",
+       "lat": "Pesnava mi e zborliva,",
+       "en": "This song of mine is talkative,"
+      },
+      {
+       "cyr": "играва ми е горлива,",
+       "lat": "igrava mi e gorliva,",
+       "en": "this dance of mine is fiery,"
+      },
+      {
+       "cyr": "ајде да заиграме.",
+       "lat": "ajde da zaigrame.",
+       "en": "come, let us dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој и да ме послуша,",
+       "lat": "Koj i da me posluša,",
+       "en": "Whoever listens to me,"
+      },
+      {
+       "cyr": "кој и да ме дослуша,",
+       "lat": "koj i da me dosluša,",
+       "en": "whoever listens to the end,"
+      },
+      {
+       "cyr": "срце ќе си отвори,",
+       "lat": "srce ḱe si otvori,",
+       "en": "will open his heart,"
+      },
+      {
+       "cyr": "од севда тој ќе изгори.",
+       "lat": "od sevda toj ḱe izgori.",
+       "en": "and burn with passion."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нема село, нема град,",
+       "lat": "Nema selo, nema grad,",
+       "en": "There is no village, no town,"
+      },
+      {
+       "cyr": "ни старец, ниту млад,",
+       "lat": "ni starec, nitu mlad,",
+       "en": "no old man or young,"
+      },
+      {
+       "cyr": "без да трепне на тој глас,",
+       "lat": "bez da trepne na toj glas,",
+       "en": "who would not tremble at that voice,"
+      },
+      {
+       "cyr": "јас сум мома весела,",
+       "lat": "jas sum moma vesela,",
+       "en": "I am a cheerful girl,"
+      },
+      {
+       "cyr": "в' срце сум песна донела,",
+       "lat": "v' srce sum pesna donela,",
+       "en": "I have brought a song in my heart,"
+      },
+      {
+       "cyr": "ајде да запееме.",
+       "lat": "ajde da zapeeme.",
+       "en": "come, let us sing."
+      },
+      {
+       "cyr": "Песнава ми е зборлива,",
+       "lat": "Pesnava mi e zborliva,",
+       "en": "This song of mine is talkative,"
+      },
+      {
+       "cyr": "играва ми е горлива,",
+       "lat": "igrava mi e gorliva,",
+       "en": "this dance of mine is fiery,"
+      },
+      {
+       "cyr": "ајде да заиграме.",
+       "lat": "ajde da zaigrame.",
+       "en": "come, let us dance."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

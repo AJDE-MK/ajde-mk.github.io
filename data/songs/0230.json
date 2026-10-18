@@ -1,0 +1,201 @@
+{
+ "id": 230,
+ "slug": "ljubele-se-dvajca-mladi",
+ "title_cyr": "Љубеле се двајца млади",
+ "title_latin": "Ljubele se dvajca mladi",
+ "title_en": "Two Young People Were in Love",
+ "pesna_url": "https://pesna.org/song/230",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Од малечко до големо' is rendered literally; my reading is 'since childhood'.",
+ "words_to_learn": [
+  {
+   "mk": "љубеле се",
+   "en": "they loved each other"
+  },
+  {
+   "mk": "млади",
+   "en": "young people"
+  },
+  {
+   "mk": "од малечко до големо",
+   "en": "from small to big (from childhood)"
+  },
+  {
+   "mk": "земат",
+   "en": "marry (take each other)"
+  },
+  {
+   "mk": "ќерка",
+   "en": "daughter"
+  },
+  {
+   "mk": "жени",
+   "en": "marries off (a son)"
+  },
+  {
+   "mk": "гората",
+   "en": "the forest"
+  },
+  {
+   "mk": "јавор",
+   "en": "maple (sycamore) tree"
+  },
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "љубезен",
+   "en": "beloved, dear"
+  }
+ ],
+ "performers": [
+  "Благојка Бадњикова",
+  "Васка Илиева",
+  "Зоран Џорлев",
+  "Прилепски мерак",
+  "Софија Здравковска",
+  "Тиквешија"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев, Софија Здравковска",
+   "url": "https://pesna.org/audio-download/1819"
+  },
+  {
+   "who": "Прилепски мерак",
+   "url": "https://pesna.org/audio-download/1820"
+  },
+  {
+   "who": "Тиквешија",
+   "url": "https://pesna.org/audio-download/1821"
+  },
+  {
+   "who": "Благојка Бадњикова",
+   "url": "https://pesna.org/audio-download/3003"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3378"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Љубеле се двајца млади, еј!",
+       "lat": "Ljubele se dvajca mladi, ej!",
+       "en": "Two young people were in love, hey!"
+      },
+      {
+       "cyr": "Љубеле се двајца млади,",
+       "lat": "Ljubele se dvajca mladi,",
+       "en": "Two young people were in love,"
+      },
+      {
+       "cyr": "од малечко до големо,",
+       "lat": "od malečko do golemo,",
+       "en": "from little ones up to grown,"
+      },
+      {
+       "cyr": "еј, љубезен мој.",
+       "lat": "ej, ljubezen moj.",
+       "en": "hey, my beloved."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да се земат, еј!",
+       "lat": "Dojde vreme da se zemat, ej!",
+       "en": "The time came for them to marry, hey!"
+      },
+      {
+       "cyr": "Дојде време да се земат,",
+       "lat": "Dojde vreme da se zemat,",
+       "en": "The time came for them to marry,"
+      },
+      {
+       "cyr": "мајка ќерка не ја дава,",
+       "lat": "majka ḱerka ne ja dava,",
+       "en": "the mother does not give away her daughter,"
+      },
+      {
+       "cyr": "еј, љубезен мој,",
+       "lat": "ej, ljubezen moj,",
+       "en": "hey, my beloved,"
+      },
+      {
+       "cyr": "Мајка ќерка не ја дава,",
+       "lat": "Majka ḱerka ne ja dava,",
+       "en": "the mother does not give away her daughter,"
+      },
+      {
+       "cyr": "татко сина не го жени,",
+       "lat": "tatko sina ne go ženi,",
+       "en": "the father does not marry off his son,"
+      },
+      {
+       "cyr": "еј, љубезен мој.",
+       "lat": "ej, ljubezen moj.",
+       "en": "hey, my beloved."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Решиле се двајца млади, еј!",
+       "lat": "Rešile se dvajca mladi, ej!",
+       "en": "The two young people decided, hey!"
+      },
+      {
+       "cyr": "Решиле се двајца млади,",
+       "lat": "Rešile se dvajca mladi,",
+       "en": "The two young people decided,"
+      },
+      {
+       "cyr": "да ми одат во гората,",
+       "lat": "da mi odat vo gorata,",
+       "en": "to go off into the forest,"
+      },
+      {
+       "cyr": "еј, љубезен мој.",
+       "lat": "ej, ljubezen moj.",
+       "en": "hey, my beloved."
+      },
+      {
+       "cyr": "Ти ќе станеш јавор дрво, еј!",
+       "lat": "Ti ḱe staneš javor drvo, ej!",
+       "en": "You will become a maple tree, hey!"
+      },
+      {
+       "cyr": "Ти ќе станеш јавор дрво,",
+       "lat": "Ti ḱe staneš javor drvo,",
+       "en": "You will become a maple tree,"
+      },
+      {
+       "cyr": "јас ќе станам славеј пиле,",
+       "lat": "jas ḱe stanam slavej pile,",
+       "en": "I will become a nightingale,"
+      },
+      {
+       "cyr": "еј, љубезен мој.",
+       "lat": "ej, ljubezen moj.",
+       "en": "hey, my beloved."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,262 @@
+{
+ "id": 529,
+ "slug": "razbolela-se-lenka-pingova",
+ "title_cyr": "Разболела се Ленка Пингова",
+ "title_latin": "Razbolela se Lenka Pingova",
+ "title_en": "Lenka Pingova Fell Ill",
+ "pesna_url": "https://pesna.org/song/529",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бовчалак невезен' is my reading (unembroidered kerchief/bundle). The notes field says it is based on a real 1924 event; I did not verify that.",
+ "words_to_learn": [
+  {
+   "mk": "разболела се",
+   "en": "fell ill"
+  },
+  {
+   "mk": "над глава",
+   "en": "at her head"
+  },
+  {
+   "mk": "стара мајка",
+   "en": "old mother"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul, dear"
+  },
+  {
+   "mk": "јазе",
+   "en": "I (dialect)"
+  },
+  {
+   "mk": "прво либе",
+   "en": "first love"
+  },
+  {
+   "mk": "рано в недела",
+   "en": "early on Sunday"
+  },
+  {
+   "mk": "повикајте",
+   "en": "call, summon (plural)"
+  },
+  {
+   "mk": "дарувајте",
+   "en": "give a gift to"
+  },
+  {
+   "mk": "бовчалак",
+   "en": "kerchief or bundle (my reading)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Даниела Калаџиска",
+  "Зоран Ванев",
+  "Зоран Џорлев",
+  "Зуица Лазова",
+  "Иван Узунов",
+  "Кирил Костов",
+  "Пијано бар"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1726"
+  },
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/1727"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/1958"
+  },
+  {
+   "who": "Кирил Костов",
+   "url": "https://pesna.org/audio-download/2177"
+  },
+  {
+   "who": "Зуица Лазова",
+   "url": "https://pesna.org/audio-download/2868"
+  },
+  {
+   "who": "Зоран Ванев",
+   "url": "https://pesna.org/audio-download/3045"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Разболела се, разболела се",
+       "lat": "Razbolela se, razbolela se",
+       "en": "She fell ill, she fell ill,"
+      },
+      {
+       "cyr": "разболела се, разболела се",
+       "lat": "razbolela se, razbolela se",
+       "en": "she fell ill, she fell ill,"
+      },
+      {
+       "cyr": "Ленка Пингова",
+       "lat": "Lenka Pingova",
+       "en": "Lenka Pingova,"
+      },
+      {
+       "cyr": "разболела се, разболела се",
+       "lat": "razbolela se, razbolela se",
+       "en": "she fell ill, she fell ill,"
+      },
+      {
+       "cyr": "Ленка Пингова.",
+       "lat": "Lenka Pingova.",
+       "en": "Lenka Pingova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над глава ѝ седи",
+       "lat": "Nad glava ì sedi",
+       "en": "At her head sits,"
+      },
+      {
+       "cyr": "над глава ѝ стои",
+       "lat": "nad glava ì stoi",
+       "en": "at her head stands"
+      },
+      {
+       "cyr": "стара ѝ мајка.",
+       "lat": "stara ì majka.",
+       "en": "her old mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи ми Ленче, кажи ми душо",
+       "lat": "- Kaži mi Lenče, kaži mi dušo",
+       "en": "- Tell me, Lenche, tell me, my soul,"
+      },
+      {
+       "cyr": "кажи ма Ленче, кажи ма душо,",
+       "lat": "kaži ma Lenče, kaži ma dušo,",
+       "en": "tell me, Lenche, tell me, my soul,"
+      },
+      {
+       "cyr": "од што си болна?",
+       "lat": "od što si bolna?",
+       "en": "what are you sick from?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јазе сум болна, јазе сум болна",
+       "lat": "- Jaze sum bolna, jaze sum bolna",
+       "en": "- I am sick, I am sick,"
+      },
+      {
+       "cyr": "јазе сум болна, јазе сум болна",
+       "lat": "jaze sum bolna, jaze sum bolna",
+       "en": "I am sick, I am sick,"
+      },
+      {
+       "cyr": "за прво либе.",
+       "lat": "za prvo libe.",
+       "en": "for my first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе си умрам, јас ќе си умрам",
+       "lat": "Jas ḱe si umram, jas ḱe si umram",
+       "en": "I will die, I will die,"
+      },
+      {
+       "cyr": "јас ќе си умрам, јас ќе си умрам",
+       "lat": "jas ḱe si umram, jas ḱe si umram",
+       "en": "I will die, I will die,"
+      },
+      {
+       "cyr": "рано в недела.",
+       "lat": "rano v nedela.",
+       "en": "early on Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го викнете, да го викнете,",
+       "lat": "Da go viknete, da go viknete,",
+       "en": "Call him, call him,"
+      },
+      {
+       "cyr": "повикајте го, повикајте го",
+       "lat": "povikajte go, povikajte go",
+       "en": "summon him, summon him,"
+      },
+      {
+       "cyr": "Коле Велковио.",
+       "lat": "Kole Velkovio.",
+       "en": "Kole Velkov."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дарувајте го, дарувајте го",
+       "lat": "Daruvajte go, daruvajte go",
+       "en": "Give him a gift, give him a gift,"
+      },
+      {
+       "cyr": "дарувајте го, дарувајте го",
+       "lat": "daruvajte go, daruvajte go",
+       "en": "give him a gift, give him a gift,"
+      },
+      {
+       "cyr": "бовчалак невезен.",
+       "lat": "bovčalak nevezen.",
+       "en": "an unembroidered kerchief."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И напијте го, и напијте го,",
+       "lat": "I napijte go, i napijte go,",
+       "en": "And give him a drink, and give him a drink,"
+      },
+      {
+       "cyr": "и напијте го, и напијте го",
+       "lat": "i napijte go, i napijte go",
+       "en": "and give him a drink, and give him a drink,"
+      },
+      {
+       "cyr": "вино црвено.",
+       "lat": "vino crveno.",
+       "en": "red wine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

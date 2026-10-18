@@ -1,0 +1,166 @@
+{
+ "id": 1595,
+ "slug": "ne-spij-kjerko-ne-spi-dusho",
+ "title_cyr": "Не спиј ќерко, не спи душо",
+ "title_latin": "Ne spij ḱerko, ne spi dušo",
+ "title_en": "Don't sleep, daughter, don't sleep, my soul",
+ "pesna_url": "https://pesna.org/song/1595",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'луди' here means men or lads, my reading. 'Јанета' is a name (Jana, Janeta); who gave her the pistols is unclear to me.",
+ "words_to_learn": [
+  {
+   "mk": "тремче",
+   "en": "small porch, veranda"
+  },
+  {
+   "mk": "се фалат",
+   "en": "they boast"
+  },
+  {
+   "mk": "грабат",
+   "en": "abduct, seize"
+  },
+  {
+   "mk": "полноќи",
+   "en": "midnight"
+  },
+  {
+   "mk": "херој биди",
+   "en": "be brave"
+  },
+  {
+   "mk": "ми се јадосуј",
+   "en": "grieve over me, be angry for me"
+  },
+  {
+   "mk": "пиштол",
+   "en": "pistol"
+  },
+  {
+   "mk": "утепам",
+   "en": "I kill"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  }
+ ],
+ "performers": [
+  "Јорданка Димова",
+  "Фрањо Стефановски"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Димова, Фрањо Стефановски",
+   "url": "https://pesna.org/audio-download/4159"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не спиј ќерко, не спи душо",
+       "lat": "- Ne spij ḱerko, ne spi dušo",
+       "en": "- Don't sleep, daughter, don't sleep, my soul,"
+      },
+      {
+       "cyr": "надвор на тремчево.",
+       "lat": "nadvor na tremčevo.",
+       "en": "outside on the porch."
+      },
+      {
+       "cyr": "Ми се фалат до три луди",
+       "lat": "Mi se falat do tri ludi",
+       "en": "Three men are boasting"
+      },
+      {
+       "cyr": "да те грабат на полноќи.",
+       "lat": "da te grabat na polnoḱi.",
+       "en": "they will abduct you at midnight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Херој биди, стара мајко,",
+       "lat": "- Heroj bidi, stara majko,",
+       "en": "- Be brave, old mother,"
+      },
+      {
+       "cyr": "не ми се јадосуј.",
+       "lat": "ne mi se jadosuj.",
+       "en": "don't grieve over me."
+      },
+      {
+       "cyr": "Јас си имам три пиштола,",
+       "lat": "Jas si imam tri pištola,",
+       "en": "I have three pistols,"
+      },
+      {
+       "cyr": "три пиштола од Јанета.",
+       "lat": "tri pištola od Janeta.",
+       "en": "three pistols from Janeta."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе им пукнам на три луди,",
+       "lat": "Ḱe im puknam na tri ludi,",
+       "en": "I will shoot the three men,"
+      },
+      {
+       "cyr": "ќе утепам три луди",
+       "lat": "ḱe utepam tri ludi",
+       "en": "I will kill the three men"
+      },
+      {
+       "cyr": "и ќе одам во планина,",
+       "lat": "i ḱe odam vo planina,",
+       "en": "and go to the mountains,"
+      },
+      {
+       "cyr": "во планина, кај Јанета.",
+       "lat": "vo planina, kaj Janeta.",
+       "en": "to the mountains, to Janeta."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пукна Јана, с' три пиштола,",
+       "lat": "Pukna Jana, s' tri pištola,",
+       "en": "Jana fired with all three pistols,"
+      },
+      {
+       "cyr": "ми отепа три луди",
+       "lat": "mi otepa tri ludi",
+       "en": "she killed the three men"
+      },
+      {
+       "cyr": "и си ојде во планина,",
+       "lat": "i si ojde vo planina,",
+       "en": "and went to the mountains,"
+      },
+      {
+       "cyr": "во планина, кај Јанета.",
+       "lat": "vo planina, kaj Janeta.",
+       "en": "to the mountains, to Janeta."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

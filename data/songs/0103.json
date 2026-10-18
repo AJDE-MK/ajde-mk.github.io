@@ -1,0 +1,166 @@
+{
+ "id": 103,
+ "slug": "ne-mi-go-lazhi-gjorgji-mareto",
+ "title_cyr": "Не ми го лажи Ѓорѓи Марето",
+ "title_latin": "Ne mi go laži Ǵorǵi Mareto",
+ "title_en": "Don't Lie to Me About Mare, Gjorgji",
+ "pesna_url": "https://pesna.org/song/103",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Оно се само лаже по мене' is my reading ('she is just fooling herself over me'); the exact sense of 'лаже по' and who is speaking is uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "лажи",
+   "en": "lie, deceive"
+  },
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "бабо",
+   "en": "father, dad (vocative)"
+  },
+  {
+   "mk": "малечко",
+   "en": "little, small"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "slender, straight figure"
+  },
+  {
+   "mk": "руса коса кадрава",
+   "en": "blond curly hair"
+  },
+  {
+   "mk": "убави",
+   "en": "beautiful"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Никола Бадев",
+  "Никола Костадиновски",
+  "Сузана Гавазова",
+  "Танец",
+  "Татијана Стефановска"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1494"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/1947"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1948"
+  },
+  {
+   "who": "Никола Костадиновски",
+   "url": "https://pesna.org/audio-download/1949"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2914"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/3091"
+  },
+  {
+   "who": "Татијана Стефановска",
+   "url": "https://pesna.org/audio-download/3092"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не ми го лажи Ѓорѓи Марето, џанам,",
+       "lat": "Ne mi go laži Ǵorǵi Mareto, džanam,",
+       "en": "Don't lie to me about Mare, Gjorgji, dear,"
+      },
+      {
+       "cyr": "Марето ми е Ѓорѓи малечко,",
+       "lat": "Mareto mi e Ǵorǵi malečko,",
+       "en": "Mare is little, Gjorgji,"
+      },
+      {
+       "cyr": "на седум-осумнаест години.",
+       "lat": "na sedum-osumnaest godini.",
+       "en": "seventeen or eighteen years old."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ти го лажам бабо Марето, џанам,",
+       "lat": "Ne ti go lažam babo Mareto, džanam,",
+       "en": "I'm not lying to you, father Mare, dear,"
+      },
+      {
+       "cyr": "оно се само лаже по мене,",
+       "lat": "ono se samo laže po mene,",
+       "en": "she is only fooling herself over me,"
+      },
+      {
+       "cyr": "оно се само лаже по мене.",
+       "lat": "ono se samo laže po mene.",
+       "en": "she is only fooling herself over me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оно се само лаже по мене, бабо,",
+       "lat": "Ono se samo laže po mene, babo,",
+       "en": "She is only fooling herself over me, father,"
+      },
+      {
+       "cyr": "по мојта рамна снага, висока,",
+       "lat": "po mojta ramna snaga, visoka,",
+       "en": "over my slender, tall figure,"
+      },
+      {
+       "cyr": "по мојта рамна снага, висока.",
+       "lat": "po mojta ramna snaga, visoka.",
+       "en": "over my slender, tall figure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По мојта рамна снага, висока, бабо,",
+       "lat": "Po mojta ramna snaga, visoka, babo,",
+       "en": "Over my slender, tall figure, father,"
+      },
+      {
+       "cyr": "по мојта руса коса кадрава,",
+       "lat": "po mojta rusa kosa kadrava,",
+       "en": "over my blond curly hair,"
+      },
+      {
+       "cyr": "по мојте црни очи убави.",
+       "lat": "po mojte crni oči ubavi.",
+       "en": "over my beautiful black eyes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

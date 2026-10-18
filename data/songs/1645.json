@@ -1,0 +1,128 @@
+{
+ "id": 1645,
+ "slug": "momata-mi-e-malechka",
+ "title_cyr": "Момата ми е малечка",
+ "title_latin": "Momata mi e malečka",
+ "title_en": "My girl is still young",
+ "pesna_url": "https://pesna.org/song/1645",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4423"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Димо ми врти низ двори,",
+       "lat": "Dimo mi vrti niz dvori,",
+       "en": "Dimo is sneaking around my yard,"
+      },
+      {
+       "cyr": "Калимано јоп-топ,",
+       "lat": "Kalimano jop-top,",
+       "en": "Kalimano, yop-top1,"
+      },
+      {
+       "cyr": "Димо ми гази филизо1,",
+       "lat": "Dimo mi gazi filizo1,",
+       "en": "Dimo is treading on my saplings,"
+      },
+      {
+       "cyr": "Димо ми гази фелизо.",
+       "lat": "Dimo mi gazi felizo.",
+       "en": "Dimo is treading on my saplings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ми го гази фелизо,",
+       "lat": "- Ne mi go gazi felizo,",
+       "en": "- Don't step on my saplings,"
+      },
+      {
+       "cyr": "Калимано јоп-топ,",
+       "lat": "Kalimano jop-top,",
+       "en": "Kalimano, yop-top,"
+      },
+      {
+       "cyr": "момата ми е малечка,",
+       "lat": "momata mi e malečka,",
+       "en": "my girl2 is still young,"
+      },
+      {
+       "cyr": "момата ми е малечка.",
+       "lat": "momata mi e malečka.",
+       "en": "my girl is still young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момата ми е малечка,",
+       "lat": "Momata mi e malečka,",
+       "en": "My girl is still young,"
+      },
+      {
+       "cyr": "Калимано јоп-топ,",
+       "lat": "Kalimano jop-top,",
+       "en": "Kalimano, yop-top,"
+      },
+      {
+       "cyr": "на петнајст-шестнајст години",
+       "lat": "na petnajst-šestnajst godini",
+       "en": "at fifteen-sixteen years old"
+      },
+      {
+       "cyr": "на петнајс-шестнајс години.",
+       "lat": "na petnajs-šestnajs godini.",
+       "en": "at fifteen-sixteen years old."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја не ти лага момата,",
+       "lat": "- Ja ne ti laga momata,",
+       "en": "- I'm not trying to seduce your daughter,"
+      },
+      {
+       "cyr": "Калимано јоп-топ,",
+       "lat": "Kalimano jop-top,",
+       "en": "Kalimano, yop-top,"
+      },
+      {
+       "cyr": "сама се лаже по мене,",
+       "lat": "sama se laže po mene,",
+       "en": "she's the one that's attracted to me,"
+      },
+      {
+       "cyr": "сама се лаже по мене.",
+       "lat": "sama se laže po mene.",
+       "en": "she's the one that's attracted to me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,154 @@
+{
+ "id": 975,
+ "slug": "po-pole-odat-argati",
+ "title_cyr": "По поле одат аргати",
+ "title_latin": "Po pole odat argati",
+ "title_en": "Field-Workers Walk Across the Field",
+ "pesna_url": "https://pesna.org/song/975",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Commemorates the partisan Nevena Georgieva-Dunja (from the source notes); origin unclear, I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "аргати",
+   "en": "hired field laborers"
+  },
+  {
+   "mk": "невести",
+   "en": "young brides, young married women"
+  },
+  {
+   "mk": "афион",
+   "en": "opium poppy"
+  },
+  {
+   "mk": "ниви",
+   "en": "fields"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "ајдучки",
+   "en": "haiduk (outlaw rebel) style"
+  },
+  {
+   "mk": "партизански",
+   "en": "partisan (adj.)"
+  },
+  {
+   "mk": "смрт",
+   "en": "death"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Грозданка Данилова",
+  "Група Билјана",
+  "Зетов",
+  "Нада Макеларска",
+  "Радио студио Скопје",
+  "Чукарска"
+ ],
+ "audio": [
+  {
+   "who": "Зетов, Чукарска",
+   "url": "https://pesna.org/audio-download/2261"
+  },
+  {
+   "who": "Грозданка Данилова, Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2262"
+  },
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2986"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "По поле одат аргати,",
+       "lat": "Po pole odat argati,",
+       "en": "Field-workers walk across the field,"
+      },
+      {
+       "cyr": "аргати млади невести,",
+       "lat": "argati mladi nevesti,",
+       "en": "field-workers, young brides,"
+      },
+      {
+       "cyr": "афион ќе ми копаат,",
+       "lat": "afion ḱe mi kopaat,",
+       "en": "they will dig opium poppies for me,"
+      },
+      {
+       "cyr": "по тие ниви велешки.",
+       "lat": "po tie nivi veleški.",
+       "en": "on those fields of Veles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Патот го води Гроздана,",
+       "lat": "Patot go vodi Grozdana,",
+       "en": "Grozdana leads the way,"
+      },
+      {
+       "cyr": "Гроздана, мома убава",
+       "lat": "Grozdana, moma ubava",
+       "en": "Grozdana, a beautiful girl,"
+      },
+      {
+       "cyr": "и по неа Невена,",
+       "lat": "i po nea Nevena,",
+       "en": "and after her Nevena,"
+      },
+      {
+       "cyr": "Невена Георгиева.",
+       "lat": "Nevena Georgieva.",
+       "en": "Nevena Georgieva."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Песни ми пеат ајдучки,",
+       "lat": "Pesni mi peat ajdučki,",
+       "en": "They sing haiduk songs to me,"
+      },
+      {
+       "cyr": "ајдучки, ем партизански",
+       "lat": "ajdučki, em partizanski",
+       "en": "haiduk and also partisan,"
+      },
+      {
+       "cyr": "и во песните зборуваат:",
+       "lat": "i vo pesnite zboruvaat:",
+       "en": "and in the songs they say:"
+      },
+      {
+       "cyr": "„смрт или слобода“.",
+       "lat": "„smrt ili sloboda“.",
+       "en": "\"death or freedom\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

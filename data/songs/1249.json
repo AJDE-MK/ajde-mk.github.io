@@ -1,0 +1,190 @@
+{
+ "id": 1249,
+ "slug": "kostadine-more-mili-sine",
+ "title_cyr": "Костадине, море мили сине",
+ "title_latin": "Kostadine, more mili sine",
+ "title_en": "Kostadin, hey, dear son",
+ "pesna_url": "https://pesna.org/song/1249",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect of the Nevrokop/Razlog area (Pirin Macedonia). 'да постелеш, мале' is my reading (mother addressed mid-line). 'малкај мома' read as 'little girl'.",
+ "words_to_learn": [
+  {
+   "mk": "ката вечер",
+   "en": "every evening"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "вечереш",
+   "en": "you have supper"
+  },
+  {
+   "mk": "постелеш",
+   "en": "you make the bed"
+  },
+  {
+   "mk": "легнеш",
+   "en": "you lie down"
+  },
+  {
+   "mk": "врниш",
+   "en": "you return (dialect)"
+  },
+  {
+   "mk": "шетам",
+   "en": "I stroll"
+  },
+  {
+   "mk": "пелин",
+   "en": "wormwood (bitter herb)"
+  },
+  {
+   "mk": "огин",
+   "en": "fire (dialect)"
+  },
+  {
+   "mk": "постеле",
+   "en": "bed (dialect)"
+  }
+ ],
+ "performers": [
+  "Магдалена Морарова",
+  "Народен вез",
+  "Петранка Костадинова",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3154"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3155"
+  },
+  {
+   "who": "Народен вез",
+   "url": "https://pesna.org/audio-download/3156"
+  },
+  {
+   "who": "Магдалена Морарова",
+   "url": "https://pesna.org/audio-download/3157"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Костадине, море мили сине,",
+       "lat": "- Kostadine, more mili sine,",
+       "en": "- Kostadin, hey, dear son,"
+      },
+      {
+       "cyr": "дека одиш сине ката вечер,",
+       "lat": "deka odiš sine kata večer,",
+       "en": "where do you go, son, every evening,"
+      },
+      {
+       "cyr": "ката вечер, сине, пред вечера?",
+       "lat": "kata večer, sine, pred večera?",
+       "en": "every evening, son, before supper?"
+      },
+      {
+       "cyr": "Вечерето сине тебе чека,",
+       "lat": "Večereto sine tebe čeka,",
+       "en": "Supper is waiting for you, son,"
+      },
+      {
+       "cyr": "да се врниш сине, да вечереш,",
+       "lat": "da se vrniš sine, da večereš,",
+       "en": "so you come back, son, and eat,"
+      },
+      {
+       "cyr": "да постелеш, мале, да си легнеш.",
+       "lat": "da posteleš, male, da si legneš.",
+       "en": "so you make the bed, mother, and lie down."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ле, мале мори, стара мале,",
+       "lat": "- Oj le, male mori, stara male,",
+       "en": "- Oh, mother, hey, old mother,"
+      },
+      {
+       "cyr": "штом ме питаш, мале, ќе ти кажам,",
+       "lat": "štom me pitaš, male, ḱe ti kažam,",
+       "en": "since you ask me, mother, I will tell you,"
+      },
+      {
+       "cyr": "тебе нема мале да те лажам.",
+       "lat": "tebe nema male da te lažam.",
+       "en": "I will not lie to you, mother."
+      },
+      {
+       "cyr": "Дења шетам, мале, неврокопско,",
+       "lat": "Denja šetam, male, nevrokopsko,",
+       "en": "By day I stroll, mother, around Nevrokop,"
+      },
+      {
+       "cyr": "ја по ноќа, мале, по разлошко,",
+       "lat": "ja po noḱa, male, po razloško,",
+       "en": "and by night, mother, around Razlog,"
+      },
+      {
+       "cyr": "код момите, мале, јубавите.",
+       "lat": "kod momite, male, jubavite.",
+       "en": "at the girls', mother, the pretty ones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пелин било, мале, вечерето,",
+       "lat": "Pelin bilo, male, večereto,",
+       "en": "Wormwood is the supper, mother,"
+      },
+      {
+       "cyr": "огин гори, мале, постелето,",
+       "lat": "ogin gori, male, posteleto,",
+       "en": "fire burns the bed, mother,"
+      },
+      {
+       "cyr": "огин гори, мале, постелето.",
+       "lat": "ogin gori, male, posteleto.",
+       "en": "fire burns the bed, mother."
+      },
+      {
+       "cyr": "Кога нема, мале, малкај мома,",
+       "lat": "Koga nema, male, malkaj moma,",
+       "en": "When there is no, mother, little girl,"
+      },
+      {
+       "cyr": "да ми каже мале, да вечерем,",
+       "lat": "da mi kaže male, da večerem,",
+       "en": "to tell me, mother, to have supper,"
+      },
+      {
+       "cyr": "до постеле, мале, да си легнем.",
+       "lat": "do postele, male, da si legnem.",
+       "en": "to the bed, mother, to lie down."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

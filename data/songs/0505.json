@@ -1,0 +1,324 @@
+{
+ "id": 505,
+ "slug": "za-frosina",
+ "title_cyr": "За Фросина",
+ "title_latin": "Za Frosina",
+ "title_en": "For Frosina",
+ "pesna_url": "https://pesna.org/song/505",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај",
+  "Љубојна",
+  "Никола Бадев",
+  "Охридски трубадури",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/240"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/241"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/242"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/243"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/410"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2888"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3743"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/3752"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Фросино, моме убаво)",
+       "lat": "(Frosino, mome ubavo)",
+       "en": "(Frosina, beautiful girl)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фросина седит на чардак",
+       "lat": "Frosina sedit na čardak",
+       "en": "Frosina sits on the oriel"
+      },
+      {
+       "cyr": "на шарен ѓерѓеф везеше",
+       "lat": "na šaren ǵerǵef vezeše",
+       "en": "embroidering over a colorful frame,"
+      },
+      {
+       "cyr": "лице је с'нце грееше.",
+       "lat": "lice je s'nce greeše.",
+       "en": "her face warmed by the Sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Помина што ми намина",
+       "lat": "Pomina što mi namina",
+       "en": "From somewhere came"
+      },
+      {
+       "cyr": "од Алил Паша кабатникот,",
+       "lat": "od Alil Paša kabatnikot,",
+       "en": "a worker of Alil Pasha,"
+      },
+      {
+       "cyr": "на Фросина е зборвеше:",
+       "lat": "na Frosina e zborveše:",
+       "en": "and said to Frosina:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фросино моме убаво,",
+       "lat": "Frosino mome ubavo,",
+       "en": "Frosina, beautiful girl,"
+      },
+      {
+       "cyr": "скри си го белото лице",
+       "lat": "skri si go beloto lice",
+       "en": "hide your white face"
+      },
+      {
+       "cyr": "со копринена шамија,",
+       "lat": "so koprinena šamija,",
+       "en": "with a silk headscarf."
+      },
+      {
+       "cyr": "пашата седит на диван,",
+       "lat": "pašata sedit na divan,",
+       "en": "The pasha is sitting on his sofa"
+      },
+      {
+       "cyr": "со шарената дуљбија,",
+       "lat": "so šarenata duljbija,",
+       "en": "with his monocular,"
+      },
+      {
+       "cyr": "да не те паша догледат.",
+       "lat": "da ne te paša dogledat.",
+       "en": "he might see you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ушче зборот не дорече",
+       "lat": "Ušče zborot ne doreče",
+       "en": "He didn't even finish his sentence"
+      },
+      {
+       "cyr": "пашата ми ја здогледа,",
+       "lat": "pašata mi ja zdogleda,",
+       "en": "and the pasha saw her"
+      },
+      {
+       "cyr": "в' часот ми пушти гавази",
+       "lat": "v' časot mi pušti gavazi",
+       "en": "he immediately sent messengers"
+      },
+      {
+       "cyr": "на Фросина е зборвеја:",
+       "lat": "na Frosina e zborveja:",
+       "en": "to tell Frosina:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фросино моме убаво",
+       "lat": "Frosino mome ubavo",
+       "en": "Frosina, beautiful girl,"
+      },
+      {
+       "cyr": "здраво живо од Алил Паша,",
+       "lat": "zdravo živo od Alil Paša,",
+       "en": "greetings from Alil Pash,"
+      },
+      {
+       "cyr": "вечер да готвиш вечера",
+       "lat": "večer da gotviš večera",
+       "en": "tonight make a dinner"
+      },
+      {
+       "cyr": "во шареното одајче.",
+       "lat": "vo šarenoto odajče.",
+       "en": "in your colorful room."
+      },
+      {
+       "cyr": "Миндери да му постелиш,",
+       "lat": "Minderi da mu posteliš,",
+       "en": "Prepare the settee,"
+      },
+      {
+       "cyr": "перници да ги наредиш,",
+       "lat": "pernici da gi narediš,",
+       "en": "put some extra pillows"
+      },
+      {
+       "cyr": "пашата да го пречекаш.",
+       "lat": "pašata da go prečekaš.",
+       "en": "and welcome the pasha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Алал е било на Фросина",
+       "lat": "Alal e bilo na Frosina",
+       "en": "May God bless Frosina"
+      },
+      {
+       "cyr": "на гавази му зборвеше,",
+       "lat": "na gavazi mu zborveše,",
+       "en": "for what she answered to the messengers"
+      },
+      {
+       "cyr": "ич гајле што му немаше:",
+       "lat": "ič gajle što mu nemaše:",
+       "en": "without any fear:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде бре, силни гавази",
+       "lat": "Ajde bre, silni gavazi",
+       "en": "Come on, you messengers,"
+      },
+      {
+       "cyr": "од Алил Паша пратени,",
+       "lat": "od Alil Paša prateni,",
+       "en": "sent by Alil Pasha,"
+      },
+      {
+       "cyr": "здраво живо на Алил Паша",
+       "lat": "zdravo živo na Alil Paša",
+       "en": "send my greetings to Alil Pasha"
+      },
+      {
+       "cyr": "да не се мамит да дојдит!",
+       "lat": "da ne se mamit da dojdit!",
+       "en": "and tell him not to dare to come!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не се мамит да дојдит",
+       "lat": "Da ne se mamit da dojdit",
+       "en": "He should not dare to come"
+      },
+      {
+       "cyr": "не можам паша да чекам,",
+       "lat": "ne možam paša da čekam,",
+       "en": "I can't wait for a pasha,"
+      },
+      {
+       "cyr": "и пред паша не излегвам.",
+       "lat": "i pred paša ne izlegvam.",
+       "en": "and I won't welcome him."
+      },
+      {
+       "cyr": "Јас си сум моме рисјанче,",
+       "lat": "Jas si sum mome risjanče,",
+       "en": "I am a Christian girl,"
+      },
+      {
+       "cyr": "јас си сум вера крстена.",
+       "lat": "jas si sum vera krstena.",
+       "en": "I am of a different religion."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фросино моме убаво",
+       "lat": "Frosino mome ubavo",
+       "en": "Frosina, beautiful girl,"
+      },
+      {
+       "cyr": "ти голем бакшиш да дадеш,",
+       "lat": "ti golem bakšiš da dadeš,",
+       "en": "you should give me a big tip,"
+      },
+      {
+       "cyr": "Алил Паша го загубија",
+       "lat": "Alil Paša go zagubija",
+       "en": "Alil Pasha was executed"
+      },
+      {
+       "cyr": "во Јанинската чаршија.",
+       "lat": "vo Janinskata čaršija.",
+       "en": "at the square in Janina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во Јанинската чаршија",
+       "lat": "Vo Janinskata čaršija",
+       "en": "At the bazaar in Janina,"
+      },
+      {
+       "cyr": "главата му ја шетаа",
+       "lat": "glavata mu ja šetaa",
+       "en": "they walked with his head"
+      },
+      {
+       "cyr": "низ тие пусти сокаци.",
+       "lat": "niz tie pusti sokaci.",
+       "en": "through the empty streets."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

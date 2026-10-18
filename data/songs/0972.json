@@ -1,0 +1,188 @@
+{
+ "id": 972,
+ "slug": "strumica-strumica",
+ "title_cyr": "Струмица, Струмица",
+ "title_latin": "Strumica, Strumica",
+ "title_en": "Strumica, Strumica",
+ "pesna_url": "https://pesna.org/song/972",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: it reads like a modern town anthem for Strumica but I cannot name an author. 'Бело злато' I read as cotton or tobacco, my reading; 'ви'ле' = 'видовте/виделе', 'тук'' = 'тука'.",
+ "words_to_learn": [
+  {
+   "mk": "мак",
+   "en": "poppy"
+  },
+  {
+   "mk": "жито",
+   "en": "wheat, grain"
+  },
+  {
+   "mk": "бостан",
+   "en": "melon/vegetable field"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "кикирики",
+   "en": "peanuts"
+  },
+  {
+   "mk": "расцутен",
+   "en": "in bloom"
+  },
+  {
+   "mk": "славејче",
+   "en": "nightingale"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "излет",
+   "en": "excursion, trip"
+  },
+  {
+   "mk": "стројни",
+   "en": "slender, well-built"
+  }
+ ],
+ "performers": [
+  "Јованка Ивановска",
+  "Славица Павловиќ"
+ ],
+ "audio": [
+  {
+   "who": "Јованка Ивановска, Славица Павловиќ",
+   "url": "https://pesna.org/audio-download/2251"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Макот кај белее, топло сонце грее,",
+       "lat": "Makot kaj belee, toplo sonce gree,",
+       "en": "Where the poppy whitens, the warm sun shines,"
+      },
+      {
+       "cyr": "рано жито жнее, бостанот што пее,",
+       "lat": "rano žito žnee, bostanot što pee,",
+       "en": "early wheat is reaped, the melon field sings,"
+      },
+      {
+       "cyr": "грозје црвенее, бело злато зрее,",
+       "lat": "grozje crvenee, belo zlato zree,",
+       "en": "grapes turn red, white gold ripens,"
+      },
+      {
+       "cyr": "кикирики зреат, струмичани пеат:",
+       "lat": "kikiriki zreat, strumičani peat:",
+       "en": "peanuts ripen, the people of Strumica sing:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Струмица, Струмица, убава е Струмица,",
+       "lat": "- Strumica, Strumica, ubava e Strumica,",
+       "en": "- Strumica, Strumica, beautiful is Strumica,"
+      },
+      {
+       "cyr": "расцутена в' пролет, прекрасна во есен.",
+       "lat": "rascutena v' prolet, prekrasna vo esen.",
+       "en": "in bloom in spring, magnificent in autumn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали сте ви'ле Струмица мила",
+       "lat": "Dali ste vi'le Strumica mila",
+       "en": "Have you seen, dear Strumica,"
+      },
+      {
+       "cyr": "раната пролет кога се буди?",
+       "lat": "ranata prolet koga se budi?",
+       "en": "the early spring when it wakes?"
+      },
+      {
+       "cyr": "Росно цвеќе разно сегде се расцути,",
+       "lat": "Rosno cveḱe razno segde se rascuti,",
+       "en": "Dewy flowers of all kinds bloom everywhere,"
+      },
+      {
+       "cyr": "стадата блеат, славејчиња пеат:",
+       "lat": "stadata bleat, slavejčinja peat:",
+       "en": "flocks bleat, nightingales sing:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Струмица, Струмица, убава е Струмица,",
+       "lat": "- Strumica, Strumica, ubava e Strumica,",
+       "en": "- Strumica, Strumica, beautiful is Strumica,"
+      },
+      {
+       "cyr": "расцутена в' пролет, прекрасна во есен.",
+       "lat": "rascutena v' prolet, prekrasna vo esen.",
+       "en": "in bloom in spring, magnificent in autumn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Струмица што има, секаде го нема,",
+       "lat": "Strumica što ima, sekade go nema,",
+       "en": "What Strumica has, is nowhere else,"
+      },
+      {
+       "cyr": "убави моми, стројни момчиња.",
+       "lat": "ubavi momi, strojni momčinja.",
+       "en": "beautiful girls, slender lads."
+      },
+      {
+       "cyr": "Излети прават в' Банско и Дојран,",
+       "lat": "Izleti pravat v' Bansko i Dojran,",
+       "en": "They make trips to Bansko and Dojran,"
+      },
+      {
+       "cyr": "песна тук' се ори, жива и весела:",
+       "lat": "pesna tuk' se ori, živa i vesela:",
+       "en": "song resounds here, lively and cheerful:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Струмица, Струмица, убава е Струмица,",
+       "lat": "- Strumica, Strumica, ubava e Strumica,",
+       "en": "- Strumica, Strumica, beautiful is Strumica,"
+      },
+      {
+       "cyr": "расцутена в' пролет, прекрасна во есен.",
+       "lat": "rascutena v' prolet, prekrasna vo esen.",
+       "en": "in bloom in spring, magnificent in autumn."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

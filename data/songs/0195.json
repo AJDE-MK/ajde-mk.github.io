@@ -1,0 +1,203 @@
+{
+ "id": 195,
+ "slug": "jas-sum-nesrekjnica",
+ "title_cyr": "Јас сум несреќница",
+ "title_latin": "Jas sum nesreḱnica",
+ "title_en": "I Am an Unlucky Woman",
+ "pesna_url": "https://pesna.org/song/195",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sentimental song, origin unclear, no author I can name (the hospital and doctor references suggest 20th century, but that is only a guess).",
+ "words_to_learn": [
+  {
+   "mk": "несреќница",
+   "en": "unlucky woman"
+  },
+  {
+   "mk": "плачам",
+   "en": "I cry"
+  },
+  {
+   "mk": "измамена",
+   "en": "deceived"
+  },
+  {
+   "mk": "љуби",
+   "en": "love (imperative)"
+  },
+  {
+   "mk": "заборави",
+   "en": "forget"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "овена",
+   "en": "withered"
+  },
+  {
+   "mk": "болници",
+   "en": "hospitals"
+  },
+  {
+   "mk": "отров",
+   "en": "poison"
+  },
+  {
+   "mk": "чаша",
+   "en": "glass"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Каролина Гочева",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Каролина Гочева",
+   "url": "https://pesna.org/audio-download/876"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1029"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1030"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум несреќница,",
+       "lat": "Jas sum nesreḱnica,",
+       "en": "I am an unlucky woman,"
+      },
+      {
+       "cyr": "плачам ден и ноќ,",
+       "lat": "plačam den i noḱ,",
+       "en": "I cry day and night,"
+      },
+      {
+       "cyr": "зато што сум измамена",
+       "lat": "zato što sum izmamena",
+       "en": "because I was deceived"
+      },
+      {
+       "cyr": "од првата љубов.",
+       "lat": "od prvata ljubov.",
+       "en": "by my first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љуби ме, љуби ти,",
+       "lat": "Ljubi me, ljubi ti,",
+       "en": "Love me, love me,"
+      },
+      {
+       "cyr": "не ме заборави.",
+       "lat": "ne me zaboravi.",
+       "en": "do not forget me."
+      },
+      {
+       "cyr": "Јас ќе те љубам вечно, вечно,",
+       "lat": "Jas ḱe te ljubam večno, večno,",
+       "en": "I will love you forever, forever,"
+      },
+      {
+       "cyr": "дури до гроба.",
+       "lat": "duri do groba.",
+       "en": "all the way to the grave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За мене нема живот,",
+       "lat": "Za mene nema život,",
+       "en": "For me there is no life,"
+      },
+      {
+       "cyr": "за мене нема љубов,",
+       "lat": "za mene nema ljubov,",
+       "en": "for me there is no love,"
+      },
+      {
+       "cyr": "за мене нема кој да жали",
+       "lat": "za mene nema koj da žali",
+       "en": "for me there is no one to mourn"
+      },
+      {
+       "cyr": "за мој'та младост.",
+       "lat": "za moj'ta mladost.",
+       "en": "my youth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младост ми овена,",
+       "lat": "Mladost mi ovena,",
+       "en": "My youth has withered,"
+      },
+      {
+       "cyr": "срце ми се стопи,",
+       "lat": "srce mi se stopi,",
+       "en": "my heart has melted,"
+      },
+      {
+       "cyr": "од тие пусти болници",
+       "lat": "od tie pusti bolnici",
+       "en": "from those wretched hospitals"
+      },
+      {
+       "cyr": "и тие доктори.",
+       "lat": "i tie doktori.",
+       "en": "and those doctors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми ја чашата,",
+       "lat": "Daj mi ja čašata,",
+       "en": "Give me the glass,"
+      },
+      {
+       "cyr": "во неа отровот,",
+       "lat": "vo nea otrovot,",
+       "en": "the poison in it,"
+      },
+      {
+       "cyr": "да се напијам и отрујам",
+       "lat": "da se napijam i otrujam",
+       "en": "so I can drink it and poison myself"
+      },
+      {
+       "cyr": "заради љубовта.",
+       "lat": "zaradi ljubovta.",
+       "en": "because of love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,203 @@
+{
+ "id": 576,
+ "slug": "fatila-zima",
+ "title_cyr": "Фатила зима",
+ "title_latin": "Fatila zima",
+ "title_en": "Winter Has Set In",
+ "pesna_url": "https://pesna.org/song/576",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бујата' is my reading (lush/dense); 'борба водеа' is translated as fighting. Partisan-era song of unknown origin.",
+ "words_to_learn": [
+  {
+   "mk": "фатила зима",
+   "en": "winter has set in"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "бујата",
+   "en": "lush, thick (my reading)"
+  },
+  {
+   "mk": "запаша",
+   "en": "girded on, belted on"
+  },
+  {
+   "mk": "бомби",
+   "en": "bombs, grenades"
+  },
+  {
+   "mk": "фишеци",
+   "en": "cartridges"
+  },
+  {
+   "mk": "шмајзер",
+   "en": "submachine gun (Schmeisser)"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "партизани",
+   "en": "partisans"
+  },
+  {
+   "mk": "братче",
+   "en": "little brother"
+  }
+ ],
+ "performers": [
+  "Весели прилепчани",
+  "Октет Македонија",
+  "Оркестар Трајко Прокопиев"
+ ],
+ "audio": [
+  {
+   "who": "Весели прилепчани",
+   "url": "https://pesna.org/audio-download/3195"
+  },
+  {
+   "who": "Оркестар Трајко Прокопиев",
+   "url": "https://pesna.org/audio-download/3402"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/3553"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Фатила зима, зима голема",
+       "lat": "Fatila zima, zima golema",
+       "en": "Winter has set in, a great winter,"
+      },
+      {
+       "cyr": "зима голема, снег до колена",
+       "lat": "zima golema, sneg do kolena",
+       "en": "a great winter, snow up to the knees,"
+      },
+      {
+       "cyr": "покрила гора, гора зелена",
+       "lat": "pokrila gora, gora zelena",
+       "en": "it has covered the forest, the green forest,"
+      },
+      {
+       "cyr": "гора зелена, шума бујата.",
+       "lat": "gora zelena, šuma bujata.",
+       "en": "the green forest, the lush woods."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запаша Стојна бомби, фишеци",
+       "lat": "Zapaša Stojna bombi, fišeci",
+       "en": "Stojna girded on bombs and cartridges,"
+      },
+      {
+       "cyr": "бомби, фишеци, шмајзер на рамо.",
+       "lat": "bombi, fišeci, šmajzer na ramo.",
+       "en": "bombs, cartridges, a submachine gun on her shoulder."
+      },
+      {
+       "cyr": "Тргнала Стојна во гора зелена",
+       "lat": "Trgnala Stojna vo gora zelena",
+       "en": "Stojna set off into the green forest,"
+      },
+      {
+       "cyr": "во гора зелена, шума бујата.",
+       "lat": "vo gora zelena, šuma bujata.",
+       "en": "into the green forest, the lush woods."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму ги најде нејните другари",
+       "lat": "Tamu gi najde nejnite drugari",
+       "en": "There she found her comrades,"
+      },
+      {
+       "cyr": "нејните другари, млади партизани",
+       "lat": "nejnite drugari, mladi partizani",
+       "en": "her comrades, young partisans,"
+      },
+      {
+       "cyr": "нејните другари, млади партизани",
+       "lat": "nejnite drugari, mladi partizani",
+       "en": "her comrades, young partisans,"
+      },
+      {
+       "cyr": "нејните другарки, млади партизанки.",
+       "lat": "nejnite drugarki, mladi partizanki.",
+       "en": "her female comrades, young female partisans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј вие другари, млади партизани",
+       "lat": "- Ej vie drugari, mladi partizani",
+       "en": "- Hey, you comrades, young partisans,"
+      },
+      {
+       "cyr": "млади партизани, млади партизанки",
+       "lat": "mladi partizani, mladi partizanki",
+       "en": "young partisans, young female partisans,"
+      },
+      {
+       "cyr": "дали го видовте моето братче",
+       "lat": "dali go vidovte moeto bratče",
+       "en": "have you seen my little brother,"
+      },
+      {
+       "cyr": "моето братче и моето либе?",
+       "lat": "moeto bratče i moeto libe?",
+       "en": "my little brother and my sweetheart?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ние ги видовме твоето братче",
+       "lat": "- Nie gi vidovme tvoeto bratče",
+       "en": "- We saw them, your little brother,"
+      },
+      {
+       "cyr": "твоето братче и твоето либе",
+       "lat": "tvoeto bratče i tvoeto libe",
+       "en": "your little brother and your sweetheart,"
+      },
+      {
+       "cyr": "ние ги видовме во Прилепа града",
+       "lat": "nie gi vidovme vo Prilepa grada",
+       "en": "we saw them in the town of Prilep,"
+      },
+      {
+       "cyr": "борба водеа со фашистите.",
+       "lat": "borba vodea so fašistite.",
+       "en": "they were fighting the fascists."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

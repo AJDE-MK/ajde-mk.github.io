@@ -1,0 +1,170 @@
+{
+ "id": 1490,
+ "slug": "proshtevaj-majko",
+ "title_cyr": "Проштевај мајко",
+ "title_latin": "Proštevaj majko",
+ "title_en": "Forgive me, mother",
+ "pesna_url": "https://pesna.org/song/1490",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigration/farewell song, likely modern in style but no author named, so translated; origin unclear. 'сал' is read as 'only' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "проштевај",
+   "en": "forgive, farewell (dialect imperative)"
+  },
+  {
+   "mk": "разделам",
+   "en": "I part"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "пуст",
+   "en": "forlorn, wretched"
+  },
+  {
+   "mk": "сиромав",
+   "en": "poor"
+  },
+  {
+   "mk": "сосема",
+   "en": "completely"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "далечна",
+   "en": "distant"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "тежина",
+   "en": "heaviness"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/3880"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Дојде време да се мајко разделам,",
+       "lat": "- Dojde vreme da se majko razdelam,",
+       "en": "- The time has come, mother, for me to part,"
+      },
+      {
+       "cyr": "в' туѓа да заминам, туѓа туѓина.",
+       "lat": "v' tuǵa da zaminam, tuǵa tuǵina.",
+       "en": "to go off to a foreign land, a foreign strangeness."
+      },
+      {
+       "cyr": "Либе лично немам, пуст и сиромав,",
+       "lat": "Libe lično nemam, pust i siromav,",
+       "en": "I have no love of my own, forlorn and poor,"
+      },
+      {
+       "cyr": "ниту другар имам, сосема сум сам.",
+       "lat": "nitu drugar imam, sosema sum sam.",
+       "en": "I have no comrade either, I am completely alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мила мајко ти си ми сè,",
+       "lat": "Mila majko ti si mi sè,",
+       "en": "Dear mother, you are everything to me,"
+      },
+      {
+       "cyr": "љубовта, животот, мила мајчице.",
+       "lat": "ljubovta, životot, mila majčice.",
+       "en": "love, life, dear little mother."
+      },
+      {
+       "cyr": "Мила мајко ти си ми сè,",
+       "lat": "Mila majko ti si mi sè,",
+       "en": "Dear mother, you are everything to me,"
+      },
+      {
+       "cyr": "животот, мајчице.",
+       "lat": "životot, majčice.",
+       "en": "life, little mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Солзи, твоите очи солзи полни се,",
+       "lat": "Solzi, tvoite oči solzi polni se,",
+       "en": "Tears, your eyes are full of tears,"
+      },
+      {
+       "cyr": "плачеш и за рака сал ме држиш.",
+       "lat": "plačeš i za raka sal me držiš.",
+       "en": "you weep and only hold me by the hand."
+      },
+      {
+       "cyr": "- Денес ќе одиш в' земја далечна,",
+       "lat": "- Denes ḱe odiš v' zemja dalečna,",
+       "en": "- Today you will go to a distant land,"
+      },
+      {
+       "cyr": "в' срце се стега болка, тежина.",
+       "lat": "v' srce se stega bolka, težina.",
+       "en": "in the heart pain tightens, a heaviness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мила мајко ти си ми сè,",
+       "lat": "Mila majko ti si mi sè,",
+       "en": "Dear mother, you are everything to me,"
+      },
+      {
+       "cyr": "љубовта, животот, мила мајчице.",
+       "lat": "ljubovta, životot, mila majčice.",
+       "en": "love, life, dear little mother."
+      },
+      {
+       "cyr": "Мила мајко ти си ми сè,",
+       "lat": "Mila majko ti si mi sè,",
+       "en": "Dear mother, you are everything to me,"
+      },
+      {
+       "cyr": "животот, мајчице.",
+       "lat": "životot, majčice.",
+       "en": "life, little mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

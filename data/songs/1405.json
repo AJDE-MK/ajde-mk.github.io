@@ -1,0 +1,117 @@
+{
+ "id": 1405,
+ "slug": "merak-imav-da-te-zemam",
+ "title_cyr": "Мерак имав да те земам",
+ "title_latin": "Merak imav da te zemam",
+ "title_en": "I longed to take you",
+ "pesna_url": "https://pesna.org/song/1405",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'стројник' is my reading of a wedding-related go-between; the verb forms in -ја (дадоја, даваја) are dialect. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "longing, desire, keen wish"
+  },
+  {
+   "mk": "земам",
+   "en": "I take (here: to marry)"
+  },
+  {
+   "mk": "пратив",
+   "en": "I sent"
+  },
+  {
+   "mk": "стројник",
+   "en": "wedding official/matchmaker who arranges the match (my reading)"
+  },
+  {
+   "mk": "дадоја",
+   "en": "they gave (dialect form)"
+  },
+  {
+   "mk": "пројде",
+   "en": "passed"
+  },
+  {
+   "mk": "зедов",
+   "en": "I took"
+  }
+ ],
+ "performers": [
+  "Цветан Јошевски"
+ ],
+ "audio": [
+  {
+   "who": "Цветан Јошевски",
+   "url": "https://pesna.org/audio-download/3598"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мерак имав, мерак имав",
+       "lat": "Merak imav, merak imav",
+       "en": "I had a longing, I had a longing"
+      },
+      {
+       "cyr": "тебе да те земам.",
+       "lat": "tebe da te zemam.",
+       "en": "to take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пратив стројник, пратив стројник,",
+       "lat": "Prativ strojnik, prativ strojnik,",
+       "en": "I sent a wedding steward, I sent a wedding steward,"
+      },
+      {
+       "cyr": "не ми те дадоја.",
+       "lat": "ne mi te dadoja.",
+       "en": "they did not give you to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стројник дојде, стројник рече",
+       "lat": "Strojnik dojde, strojnik reče",
+       "en": "The steward came, the steward said"
+      },
+      {
+       "cyr": "не ми ја даваја.",
+       "lat": "ne mi ja davaja.",
+       "en": "they are not giving her to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мерак пројде, мерак пројде,",
+       "lat": "Merak projde, merak projde,",
+       "en": "The longing passed, the longing passed,"
+      },
+      {
+       "cyr": "тебе не те зедов.",
+       "lat": "tebe ne te zedov.",
+       "en": "I did not take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

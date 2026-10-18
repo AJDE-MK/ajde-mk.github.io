@@ -1,0 +1,205 @@
+{
+ "id": 125,
+ "slug": "aber-mi-dojde-od-soluna-grada",
+ "title_cyr": "Абер ми дојде од Солуна града",
+ "title_latin": "Aber mi dojde od Soluna grada",
+ "title_en": "News comes to me from Solun city",
+ "pesna_url": "https://pesna.org/song/125",
+ "background": "Word arrives from Thessaloniki: the Turks have set up a gallows to hang Goce Delčev. Goce disguises himself as a little black coal-man and strolls through the Thessaloniki bazaar. Soldiers ask him whether he has seen Goce Delčev, and he answers that even if he saw him, he would not recognise him. Qwen adds that Delčev was killed in May 1903 near the village of Banitsa (I have not checked this).",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: David Golber)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасиа Митровска",
+  "Ангел Стојкоски",
+  "Васка Илиева",
+  "Гуна Иванова",
+  "Децата од Буф",
+  "Елена Димитриевска",
+  "Марица Зилковска",
+  "Непознат изведувач",
+  "Перса Николова",
+  "Спасен Силјаноски Паце",
+  "Сузана Спасовска",
+  "Танец",
+  "Темјанушки",
+  "Makedoniko meraki"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/92"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/93"
+  },
+  {
+   "who": "Темјанушки",
+   "url": "https://pesna.org/audio-download/1321"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4402"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/4412"
+  },
+  {
+   "who": "Елена Димитриевска, Марица Зилковска, Перса Николова",
+   "url": "https://pesna.org/audio-download/4413"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4414"
+  },
+  {
+   "who": "Спасен Силјаноски Паце",
+   "url": "https://pesna.org/audio-download/4415"
+  },
+  {
+   "who": "Децата од Буф",
+   "url": "https://pesna.org/audio-download/4416"
+  },
+  {
+   "who": "Ангел Стојкоски",
+   "url": "https://pesna.org/audio-download/4417"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/4418"
+  },
+  {
+   "who": "Гуна Иванова",
+   "url": "https://pesna.org/audio-download/4419"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4420"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абер ми дојде од Солуна града:",
+       "lat": "Aber mi dojde od Soluna grada:",
+       "en": "News comes to me from Solun [now Thessalonika] city",
+       "en_mt": false
+      },
+      {
+       "cyr": "солунчаните бесилка стаиле,",
+       "lat": "solunčanite besilka staile,",
+       "en": "The Solun people have made a gallows",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе ми го бесат Гоцета,",
+       "lat": "ḱe mi go besat Goceta,",
+       "en": "They will hang Goce",
+       "en_mt": false
+      },
+      {
+       "cyr": "Гоцета Делчев војвода.",
+       "lat": "Goceta Delčev vojvoda.",
+       "en": "Goce Delcev war-leader.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гоце ми се сторил",
+       "lat": "Goce mi se storil",
+       "en": "Goce disguised himself",
+       "en_mt": false
+      },
+      {
+       "cyr": "црно ќумурџиче",
+       "lat": "crno ḱumurdžiče",
+       "en": "as a black charcoal-burner",
+       "en_mt": false
+      },
+      {
+       "cyr": "па ми се шетал",
+       "lat": "pa mi se šetal",
+       "en": "And went walking",
+       "en_mt": false
+      },
+      {
+       "cyr": "Солунска чаршија.",
+       "lat": "Solunska čaršija.",
+       "en": "in the Solun market.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На среќа сретнал аскери",
+       "lat": "Na sreḱa sretnal askeri",
+       "en": "As luck would have it, he met some Turkish soldiers",
+       "en_mt": false
+      },
+      {
+       "cyr": "и на Гоцета зборуваат:",
+       "lat": "i na Goceta zboruvaat:",
+       "en": "and they spoke to Goce:",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре ѓаурче, црно ќумурџиче",
+       "lat": "- A bre ǵaurče, crno ḱumurdžiče",
+       "en": "- Hey little non-Muslim-scum, black charcoal-burner",
+       "en_mt": false
+      },
+      {
+       "cyr": "не ли го виде Гоцета,",
+       "lat": "ne li go vide Goceta,",
+       "en": "Haven't you seen Goce,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Гоцета Делчев војвода?",
+       "lat": "Goceta Delčev vojvoda?",
+       "en": "Goce Delcev war-leader?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре аскери, вие бре аскери",
+       "lat": "- A bre askeri, vie bre askeri",
+       "en": "- Hey Turkish soldiers, hey you Turkish soldiers",
+       "en_mt": false
+      },
+      {
+       "cyr": "и да го видам Гоцета,",
+       "lat": "i da go vidam Goceta,",
+       "en": "And if I see Goce",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас Гоце не го познавам.",
+       "lat": "jas Goce ne go poznavam.",
+       "en": "I wouldn't know Goce.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

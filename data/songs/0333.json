@@ -1,0 +1,164 @@
+{
+ "id": 333,
+ "slug": "otishlo-e-mome",
+ "title_cyr": "Отишло е моме",
+ "title_latin": "Otišlo e mome",
+ "title_en": "A girl has gone",
+ "pesna_url": "https://pesna.org/song/333",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). The last line is my reading: the girl is saying she will die beside him.",
+ "words_to_learn": [
+  {
+   "mk": "кладенец",
+   "en": "well"
+  },
+  {
+   "mk": "сенка",
+   "en": "shadow"
+  },
+  {
+   "mk": "јавор",
+   "en": "maple tree"
+  },
+  {
+   "mk": "изврзано",
+   "en": "tied up, bound"
+  },
+  {
+   "mk": "ѓум",
+   "en": "jug, pitcher"
+  },
+  {
+   "mk": "бакарлија",
+   "en": "of copper"
+  },
+  {
+   "mk": "оладам",
+   "en": "to cool"
+  },
+  {
+   "mk": "синџири",
+   "en": "chains"
+  },
+  {
+   "mk": "вети",
+   "en": "promise, swear"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Отишло е моме вода да налее",
+       "lat": "Otišlo e mome voda da nalee",
+       "en": "A girl has gone to fill water"
+      },
+      {
+       "cyr": "горе на крај село, горе кладенецот",
+       "lat": "gore na kraj selo, gore kladenecot",
+       "en": "up at the edge of the village, up at the well"
+      },
+      {
+       "cyr": "море кладенецот под дрво високо.",
+       "lat": "more kladenecot pod drvo visoko.",
+       "en": "hey, the well under a tall tree."
+      },
+      {
+       "cyr": "Ајде нешто виде моме во водата",
+       "lat": "Ajde nešto vide mome vo vodata",
+       "en": "Come on, the girl saw something in the water"
+      },
+      {
+       "cyr": "сенка му се сени од дрво високо",
+       "lat": "senka mu se seni od drvo visoko",
+       "en": "a shadow was cast on it from the tree"
+      },
+      {
+       "cyr": "од дрво високо, дрво јаворово.",
+       "lat": "od drvo visoko, drvo javorovo.",
+       "en": "from a tall tree, a maple tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кога крена главата нагоре",
+       "lat": "Ajde koga krena glavata nagore",
+       "en": "Come on, when she raised her head upward"
+      },
+      {
+       "cyr": "море ми видело одно лудо младо",
+       "lat": "more mi videlo odno ludo mlado",
+       "en": "hey, she saw a young lad"
+      },
+      {
+       "cyr": "едно лудо младо, цело изврзано.",
+       "lat": "edno ludo mlado, celo izvrzano.",
+       "en": "a young lad, all tied up."
+      },
+      {
+       "cyr": "Тогаш лудо вели ајде на момето",
+       "lat": "Togaš ludo veli ajde na mometo",
+       "en": "Then the lad says, come on, to the girl"
+      },
+      {
+       "cyr": "ај подај ми моме ѓумот бакарлија",
+       "lat": "aj podaj mi mome ǵumot bakarlija",
+       "en": "come, hand me, girl, the copper jug"
+      },
+      {
+       "cyr": "вода да се напијам уста да си оладам.",
+       "lat": "voda da se napijam usta da si oladam.",
+       "en": "so I can drink water and cool my mouth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде вети лудо, дека ќе ме земиш",
+       "lat": "Ajde veti ludo, deka ḱe me zemiš",
+       "en": "Come on, promise, lad, that you will take me"
+      },
+      {
+       "cyr": "вода ќе ти дадам грло да оладиш",
+       "lat": "voda ḱe ti dadam grlo da oladiš",
+       "en": "I will give you water to cool your throat"
+      },
+      {
+       "cyr": "и ќе те одврзам од клети синџири.",
+       "lat": "i ḱe te odvrzam od kleti sindžiri.",
+       "en": "and I will untie you from the cursed chains."
+      },
+      {
+       "cyr": "Тогај лудо вели ајде на момето",
+       "lat": "Togaj ludo veli ajde na mometo",
+       "en": "Then the lad says, come on, to the girl"
+      },
+      {
+       "cyr": "двајца ќе бегаме во гора зелена",
+       "lat": "dvajca ḱe begame vo gora zelena",
+       "en": "the two of us will flee to the green forest"
+      },
+      {
+       "cyr": "каде ти ќе гинеш и јас покрај тебе.",
+       "lat": "kade ti ḱe gineš i jas pokraj tebe.",
+       "en": "where you die and I beside you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

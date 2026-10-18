@@ -1,0 +1,142 @@
+{
+ "id": 1233,
+ "slug": "ej-ti-kume",
+ "title_cyr": "Еј ти куме",
+ "title_latin": "Ej ti kume",
+ "title_en": "Hey, you godfather",
+ "pesna_url": "https://pesna.org/song/1233",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A drawn-out song with sung vowel fillers (eoo, ooo) kept as is; 'тело расц'втено' I render literally as 'body in bloom'.",
+ "words_to_learn": [
+  {
+   "mk": "куме",
+   "en": "godfather, wedding sponsor (vocative)"
+  },
+  {
+   "mk": "господине",
+   "en": "sir, lord (vocative)"
+  },
+  {
+   "mk": "мина",
+   "en": "passed"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "зелена",
+   "en": "green"
+  },
+  {
+   "mk": "виде",
+   "en": "saw"
+  },
+  {
+   "mk": "разгрането",
+   "en": "branching, spreading"
+  },
+  {
+   "mk": "расцветено",
+   "en": "in bloom"
+  }
+ ],
+ "performers": [
+  "Александар Арабаџиев",
+  "Симона Танушевска"
+ ],
+ "audio": [
+  {
+   "who": "Александар Арабаџиев, Симона Танушевска",
+   "url": "https://pesna.org/audio-download/3082"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еоо, еј ти куме ооо,",
+       "lat": "Eoo, ej ti kume ooo,",
+       "en": "Eoo, hey you godfather ooo,"
+      },
+      {
+       "cyr": "куме господине, еј ти куме,",
+       "lat": "kume gospodine, ej ti kume,",
+       "en": "godfather, sir, hey you godfather,"
+      },
+      {
+       "cyr": "еооо, куме господине ооо.",
+       "lat": "eooo, kume gospodine ooo.",
+       "en": "eooo, godfather, sir ooo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еооо, нели мина ооо,",
+       "lat": "Eooo, neli mina ooo,",
+       "en": "Eooo, did you not pass ooo,"
+      },
+      {
+       "cyr": "низ гора зелена нели мина,",
+       "lat": "niz gora zelena neli mina,",
+       "en": "through the green forest, did you not pass,"
+      },
+      {
+       "cyr": "еооо, низ гора зелена ооо.",
+       "lat": "eooo, niz gora zelena ooo.",
+       "en": "eooo, through the green forest ooo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еоо, нели виде ооо,",
+       "lat": "Eoo, neli vide ooo,",
+       "en": "Eoo, did you not see ooo,"
+      },
+      {
+       "cyr": "дрво разгрането, нели виде,",
+       "lat": "drvo razgraneto, neli vide,",
+       "en": "the branching tree, did you not see,"
+      },
+      {
+       "cyr": "еоо, дрво разгрането ооо.",
+       "lat": "eoo, drvo razgraneto ooo.",
+       "en": "eoo, the branching tree ooo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еоо, разгрането ооо,",
+       "lat": "Eoo, razgraneto ooo,",
+       "en": "Eoo, branching ooo,"
+      },
+      {
+       "cyr": "тело расц'втено, оо разгрането,",
+       "lat": "telo rasc'vteno, oo razgraneto,",
+       "en": "the body in bloom, oo branching,"
+      },
+      {
+       "cyr": "еоо, тело расц'втено ооо.",
+       "lat": "eoo, telo rasc'vteno ooo.",
+       "en": "eoo, the body in bloom ooo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

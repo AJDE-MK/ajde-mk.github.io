@@ -1,0 +1,128 @@
+{
+ "id": 179,
+ "slug": "kinisav-da-odam",
+ "title_cyr": "Кинисав да одам",
+ "title_latin": "Kinisav da odam",
+ "title_en": "I was preparing to go",
+ "pesna_url": "https://pesna.org/song/179",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1691"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисав да одам,",
+       "lat": "Kinisav da odam,",
+       "en": "I was preparing to go"
+      },
+      {
+       "cyr": "во Костур на гости.",
+       "lat": "vo Kostur na gosti.",
+       "en": "to Kostur on a visit."
+      },
+      {
+       "cyr": "Деверот ми викна:",
+       "lat": "Deverot mi vikna:",
+       "en": "My borther-in-law said:"
+      },
+      {
+       "cyr": "- „Врати се невесто“.",
+       "lat": "- „Vrati se nevesto“.",
+       "en": "- \"Come back, bride-to-be\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Врати се невесто,",
+       "lat": "Vrati se nevesto,",
+       "en": "Come back, bride-to-be,"
+      },
+      {
+       "cyr": "момчето ти дојде.",
+       "lat": "momčeto ti dojde.",
+       "en": "your boyfriend came."
+      },
+      {
+       "cyr": "Момчето ти дојде,",
+       "lat": "Momčeto ti dojde,",
+       "en": "Your boyfriend came"
+      },
+      {
+       "cyr": "дома не те најде.",
+       "lat": "doma ne te najde.",
+       "en": "he didn't find you at home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Промена ти сака,",
+       "lat": "Promena ti saka,",
+       "en": "He wants you to give him clothes,"
+      },
+      {
+       "cyr": "кошулата бела.",
+       "lat": "košulata bela.",
+       "en": "the white shirt."
+      },
+      {
+       "cyr": "Кошулата бела,",
+       "lat": "Košulata bela,",
+       "en": "The white shirt"
+      },
+      {
+       "cyr": "ич не заносена.",
+       "lat": "ič ne zanosena.",
+       "en": "that is brand new."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вечера ти сакат,",
+       "lat": "Večera ti sakat,",
+       "en": "He wants a dinner from you"
+      },
+      {
+       "cyr": "кокошка печена.",
+       "lat": "kokoška pečena.",
+       "en": "a roasted chicken."
+      },
+      {
+       "cyr": "Кокошка печена,",
+       "lat": "Kokoška pečena,",
+       "en": "A roasted chicken"
+      },
+      {
+       "cyr": "ич не донесена.",
+       "lat": "ič ne donesena.",
+       "en": "that is still young."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,186 @@
+{
+ "id": 1242,
+ "slug": "smiljana-mi-se-armasa",
+ "title_cyr": "Смилјана ми се армаса",
+ "title_latin": "Smiljana mi se armasa",
+ "title_en": "Smiljana Got Engaged",
+ "pesna_url": "https://pesna.org/song/1242",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Утре осамва недела' is my reading: 'tomorrow is the eighth week/Sunday'; unsure. The first stanza's 'for me' is a dative of interest, hard to render.",
+ "words_to_learn": [
+  {
+   "mk": "се армаса",
+   "en": "got engaged"
+  },
+  {
+   "mk": "Костур",
+   "en": "Kostur (Kastoria)"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "недела",
+   "en": "week / Sunday"
+  },
+  {
+   "mk": "изметиш",
+   "en": "you sweep"
+  },
+  {
+   "mk": "расплетиш",
+   "en": "you unbraid"
+  },
+  {
+   "mk": "растресиш",
+   "en": "you shake out"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "руса",
+   "en": "blond, golden"
+  }
+ ],
+ "performers": [
+  "Љупка Рондова",
+  "Распеани струмичани",
+  "Synthesis",
+  "Trio Bulgarka"
+ ],
+ "audio": [
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/3117"
+  },
+  {
+   "who": "Распеани струмичани",
+   "url": "https://pesna.org/audio-download/3118"
+  },
+  {
+   "who": "Trio Bulgarka",
+   "url": "https://pesna.org/audio-download/3119"
+  },
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/3120"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Смилјана ми се армаса",
+       "lat": "Smiljana mi se armasa",
+       "en": "Smiljana got engaged for me"
+      },
+      {
+       "cyr": "во Костур града голема,",
+       "lat": "vo Kostur grada golema,",
+       "en": "in the big town of Kostur,"
+      },
+      {
+       "cyr": "на таа куќа чуена,",
+       "lat": "na taa kuḱa čuena,",
+       "en": "into that famous house,"
+      },
+      {
+       "cyr": "малечко момче убаво,",
+       "lat": "malečko momče ubavo,",
+       "en": "a little handsome lad,"
+      },
+      {
+       "cyr": "малечко момче убаво,",
+       "lat": "malečko momče ubavo,",
+       "en": "a little handsome lad,"
+      },
+      {
+       "cyr": "со девет порти на неа.",
+       "lat": "so devet porti na nea.",
+       "en": "with nine gates on it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мајко ле, мила мајко ле,",
+       "lat": "- Majko le, mila majko le,",
+       "en": "- Mother, oh dear mother,"
+      },
+      {
+       "cyr": "утре осамва недела,",
+       "lat": "utre osamva nedela,",
+       "en": "tomorrow is the eighth week,"
+      },
+      {
+       "cyr": "да станиш, мајко, пред зори",
+       "lat": "da staniš, majko, pred zori",
+       "en": "get up, mother, before dawn"
+      },
+      {
+       "cyr": "да ми изметиш дворови,",
+       "lat": "da mi izmetiš dvorovi,",
+       "en": "and sweep the yards for me,"
+      },
+      {
+       "cyr": "да ми наредиш столови,",
+       "lat": "da mi narediš stolovi,",
+       "en": "set out the chairs for me,"
+      },
+      {
+       "cyr": "на средно столе да седиш.",
+       "lat": "na sredno stole da sediš.",
+       "en": "and sit on the middle chair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На средно столе да седиш,",
+       "lat": "Na sredno stole da sediš,",
+       "en": "Sit on the middle chair,"
+      },
+      {
+       "cyr": "да ми расплетиш косата,",
+       "lat": "da mi raspletiš kosata,",
+       "en": "undo my hair for me,"
+      },
+      {
+       "cyr": "да ми растресиш косата,",
+       "lat": "da mi rastresiš kosata,",
+       "en": "shake out my hair for me,"
+      },
+      {
+       "cyr": "косата руса свилена,",
+       "lat": "kosata rusa svilena,",
+       "en": "my golden silken hair,"
+      },
+      {
+       "cyr": "утре ќе дојдат сватови",
+       "lat": "utre ḱe dojdat svatovi",
+       "en": "tomorrow the wedding guests will come"
+      },
+      {
+       "cyr": "да ти ја земат Смилјана.",
+       "lat": "da ti ja zemat Smiljana.",
+       "en": "to take your Smiljana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

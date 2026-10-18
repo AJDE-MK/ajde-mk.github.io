@@ -1,0 +1,155 @@
+{
+ "id": 876,
+ "slug": "bog-da-bie-adzhi-zora",
+ "title_cyr": "Бог да бие аџи Зора",
+ "title_latin": "Bog da bie adži Zora",
+ "title_en": "May God Strike Hadji Zora",
+ "pesna_url": "https://pesna.org/song/876",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, reads as traditional. 'На чучета' is my reading ('to a pup'), and 'алт'н до два' as 'two gold coins' is also my reading; dialect forms like додоја/посакаја are 3rd person plural past.",
+ "words_to_learn": [
+  {
+   "mk": "аџи",
+   "en": "hadji (title of one who made the pilgrimage)"
+  },
+  {
+   "mk": "посакаја",
+   "en": "they asked for (in marriage)"
+  },
+  {
+   "mk": "појас",
+   "en": "belt, sash"
+  },
+  {
+   "mk": "алтън",
+   "en": "gold (Turkish loan, gold coin)"
+  },
+  {
+   "mk": "чест",
+   "en": "honor"
+  },
+  {
+   "mk": "тука/туку",
+   "en": "but (dialect 'туку')"
+  },
+  {
+   "mk": "расипеш",
+   "en": "you will ruin"
+  }
+ ],
+ "performers": [
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1912"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие, ај, ај, аџи Зора,",
+       "lat": "Bog da bie, aj, aj, adži Zora,",
+       "en": "May God strike, hey hey, Hadji Zora,"
+      },
+      {
+       "cyr": "аџи Зора, ај, ај, Митурова.",
+       "lat": "adži Zora, aj, aj, Miturova.",
+       "en": "Hadji Zora, hey hey, Mitur's wife."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми га посакаја у Стефана,",
+       "lat": "Mi ga posakaja u Stefana,",
+       "en": "They asked for her at Stefan's,"
+      },
+      {
+       "cyr": "у Стефана, ај, ај, за Милета.",
+       "lat": "u Stefana, aj, aj, za Mileta.",
+       "en": "at Stefan's, hey hey, for Mile."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми га дадоја за Милета,",
+       "lat": "Ne mi ga dadoja za Mileta,",
+       "en": "They did not give her to Mile,"
+      },
+      {
+       "cyr": "туку га додоја ја Иљота,",
+       "lat": "tuku ga dodoja ja Iljota,",
+       "en": "but they gave her to Iljota,"
+      },
+      {
+       "cyr": "за Иљота, ај, ај, на чучета.",
+       "lat": "za Iljota, aj, aj, na čučeta.",
+       "en": "to Iljota, hey hey, to a pup (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми отиде Миле Горни Варош,",
+       "lat": "Mi otide Mile Gorni Varoš,",
+       "en": "Mile went to Gorni Varosh,"
+      },
+      {
+       "cyr": "Горни Варош, ај, ај, у Кочовци.",
+       "lat": "Gorni Varoš, aj, aj, u Kočovci.",
+       "en": "Gorni Varosh, hey hey, to Kochovci."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Миле тури рука у појас,",
+       "lat": "Mile turi ruka u pojas,",
+       "en": "Mile put his hand in his belt,"
+      },
+      {
+       "cyr": "та извади, ај, ај, алт'н до два.",
+       "lat": "ta izvadi, aj, aj, alt'n do dva.",
+       "en": "and took out, hey hey, two gold coins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој море Миле, што ќе сториш,",
+       "lat": "Nemoj more Mile, što ḱe storiš,",
+       "en": "Don't, hey Mile, what will you do,"
+      },
+      {
+       "cyr": "ќе расипеш честот на мајка ти,",
+       "lat": "ḱe rasipeš čestot na majka ti,",
+       "en": "you will ruin your mother's honor,"
+      },
+      {
+       "cyr": "ќе расипеш честот на татко ти.",
+       "lat": "ḱe rasipeš čestot na tatko ti.",
+       "en": "you will ruin your father's honor."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

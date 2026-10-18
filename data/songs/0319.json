@@ -1,0 +1,138 @@
+{
+ "id": 319,
+ "slug": "rajna-na-pendzhere-sedeshe",
+ "title_cyr": "Рајна на пенџере седеше",
+ "title_latin": "Rajna na pendžere sedeše",
+ "title_en": "Rajna Sat at the Window",
+ "pesna_url": "https://pesna.org/song/319",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'На Мазневи' and 'на Буреви' are read as family-name genitives ('of the Mazneas/Bureas'), my reading.",
+ "words_to_learn": [
+  {
+   "mk": "пенџере",
+   "en": "window (Turkish loan)"
+  },
+  {
+   "mk": "седеше",
+   "en": "was sitting"
+  },
+  {
+   "mk": "ф'стан",
+   "en": "dress (фустан)"
+  },
+  {
+   "mk": "везеше",
+   "en": "was embroidering"
+  },
+  {
+   "mk": "ишарет",
+   "en": "signal, sign (Turkish loan)"
+  },
+  {
+   "mk": "елај",
+   "en": "come (dialect imperative)"
+  },
+  {
+   "mk": "се прегрнеме",
+   "en": "we embrace"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2113"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Рајна на пенџере седеше",
+       "lat": "Rajna na pendžere sedeše",
+       "en": "Rajna sat at the window"
+      },
+      {
+       "cyr": "и свилен ф'стан си везеше.",
+       "lat": "i svilen f'stan si vezeše.",
+       "en": "and embroidered a silk dress."
+      },
+      {
+       "cyr": "Оф, Рајне, Рајне на Мазневи,",
+       "lat": "Of, Rajne, Rajne na Maznevi,",
+       "en": "Oh, Rajna, Rajna of the Mazneas,"
+      },
+      {
+       "cyr": "умрев, загинав за тебе.",
+       "lat": "umrev, zaginav za tebe.",
+       "en": "I died, I perished for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рајна на пенџере седеше",
+       "lat": "Rajna na pendžere sedeše",
+       "en": "Rajna sat at the window"
+      },
+      {
+       "cyr": "ишарет на Киро му даваше.",
+       "lat": "išaret na Kiro mu davaše.",
+       "en": "and gave a signal to Kiro."
+      },
+      {
+       "cyr": "Оф, Киро, Киро на Буреви,",
+       "lat": "Of, Kiro, Kiro na Burevi,",
+       "en": "Oh, Kiro, Kiro of the Bureas,"
+      },
+      {
+       "cyr": "умрев, загинав за тебе.",
+       "lat": "umrev, zaginav za tebe.",
+       "en": "I died, I perished for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Киро на Рајна ѝ велеше:",
+       "lat": "Kiro na Rajna ì veleše:",
+       "en": "Kiro said to Rajna:"
+      },
+      {
+       "cyr": "- Елај ми, Рајне, при мене!",
+       "lat": "- Elaj mi, Rajne, pri mene!",
+       "en": "- Come to me, Rajna!"
+      },
+      {
+       "cyr": "Oдново да се прегрнеме,",
+       "lat": "Odnovo da se pregrneme,",
+       "en": "Let us embrace again,"
+      },
+      {
+       "cyr": "стара љубов да си поврнеме.",
+       "lat": "stara ljubov da si povrneme.",
+       "en": "let us bring back our old love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

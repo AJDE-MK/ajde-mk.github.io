@@ -1,0 +1,161 @@
+{
+ "id": 1136,
+ "slug": "dojde-vreme-da-si-odam",
+ "title_cyr": "Дојде време да си одам",
+ "title_latin": "Dojde vreme da si odam",
+ "title_en": "The Time Has Come for Me to Go",
+ "pesna_url": "https://pesna.org/song/1136",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author known to me; translated as an emigrant (gurbet) song. 'Ќе горам' (I will burn) means to yearn for.",
+ "words_to_learn": [
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "другари",
+   "en": "friends, comrades"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "заминвам",
+   "en": "I am leaving"
+  },
+  {
+   "mk": "туѓа земја",
+   "en": "foreign land"
+  },
+  {
+   "mk": "гурбет",
+   "en": "working abroad, emigration"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native region"
+  },
+  {
+   "mk": "дај бог",
+   "en": "God willing"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/2742"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да си одам,",
+       "lat": "Dojde vreme da si odam,",
+       "en": "The time has come for me to go,"
+      },
+      {
+       "cyr": "дојде време да се делам",
+       "lat": "dojde vreme da se delam",
+       "en": "the time has come to part"
+      },
+      {
+       "cyr": "од другари и другарки,",
+       "lat": "od drugari i drugarki,",
+       "en": "from friends, male and female,"
+      },
+      {
+       "cyr": "и од моите роднини.",
+       "lat": "i od moite rodnini.",
+       "en": "and from my relatives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум мајко, збогум татко,",
+       "lat": "Zbogum majko, zbogum tatko,",
+       "en": "Farewell mother, farewell father,"
+      },
+      {
+       "cyr": "збогум браќа, мили сестри,",
+       "lat": "zbogum braḱa, mili sestri,",
+       "en": "farewell brothers, dear sisters,"
+      },
+      {
+       "cyr": "јас заминвам в' туѓа земја,",
+       "lat": "jas zaminvam v' tuǵa zemja,",
+       "en": "I am leaving for a foreign land,"
+      },
+      {
+       "cyr": "в' туѓа земја, Америка.",
+       "lat": "v' tuǵa zemja, Amerika.",
+       "en": "for a foreign land, America."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум земјо македонска,",
+       "lat": "Zbogum zemjo makedonska,",
+       "en": "Farewell Macedonian land,"
+      },
+      {
+       "cyr": "збогум поле и планино,",
+       "lat": "zbogum pole i planino,",
+       "en": "farewell field and mountain,"
+      },
+      {
+       "cyr": "вечно за вас јас ќе горам",
+       "lat": "večno za vas jas ḱe goram",
+       "en": "forever I will burn for you"
+      },
+      {
+       "cyr": "и на гурбет ако одам.",
+       "lat": "i na gurbet ako odam.",
+       "en": "even if I go abroad to work."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако дај бог да се вратам,",
+       "lat": "Ako daj bog da se vratam,",
+       "en": "If God grants that I return,"
+      },
+      {
+       "cyr": "роден крај јас да си видам,",
+       "lat": "roden kraj jas da si vidam,",
+       "en": "to see my native region,"
+      },
+      {
+       "cyr": "да го видам и да умрам,",
+       "lat": "da go vidam i da umram,",
+       "en": "to see it and then die,"
+      },
+      {
+       "cyr": "а за гурбет не споменвам.",
+       "lat": "a za gurbet ne spomenvam.",
+       "en": "and I will not mention working abroad again."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

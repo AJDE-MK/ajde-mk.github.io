@@ -1,0 +1,116 @@
+{
+ "id": 1108,
+ "slug": "more-korun-aramijo",
+ "title_cyr": "Море Корун арамијо",
+ "title_latin": "More Korun aramijo",
+ "title_en": "Hey Korun, You Rascal",
+ "pesna_url": "https://pesna.org/song/1108",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. The first word is written with Latin letters 'Mope' in the source (read as 'Море'); 'од недела на недела' could mean 'from week to week', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "арамија",
+   "en": "rascal, bandit"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday, week"
+  },
+  {
+   "mk": "ката вечер",
+   "en": "every evening (dialect)"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy"
+  },
+  {
+   "mk": "лута змија",
+   "en": "angry or sly snake"
+  },
+  {
+   "mk": "дедо",
+   "en": "grandfather"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Mope Корун арамијо,",
+       "lat": "Mope Korun aramijo,",
+       "en": "Hey Korun, you rascal,"
+      },
+      {
+       "cyr": "така ли се љубов води?",
+       "lat": "taka li se ljubov vodi?",
+       "en": "is this how love is conducted?"
+      },
+      {
+       "cyr": "Од недела на недела,",
+       "lat": "Od nedela na nedela,",
+       "en": "From Sunday to Sunday,"
+      },
+      {
+       "cyr": "јас те сакам ката вечер!",
+       "lat": "jas te sakam kata večer!",
+       "en": "I love you every evening!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Петревице, бре невесто,",
+       "lat": "- Petrevice, bre nevesto,",
+       "en": "- Petrevica, hey bride,"
+      },
+      {
+       "cyr": "како тебе и јас сакам.",
+       "lat": "kako tebe i jas sakam.",
+       "en": "I love you just as you love me."
+      },
+      {
+       "cyr": "Ти си имаш машко дете,",
+       "lat": "Ti si imaš maško dete,",
+       "en": "You have a baby boy,"
+      },
+      {
+       "cyr": "машко дете - лута змија,",
+       "lat": "maško dete - luta zmija,",
+       "en": "a baby boy, a sly snake,"
+      },
+      {
+       "cyr": "што ќе види, сè ќе каже",
+       "lat": "što ḱe vidi, sè ḱe kaže",
+       "en": "whatever he sees, he will tell it all"
+      },
+      {
+       "cyr": "на татко му, на дедо му!",
+       "lat": "na tatko mu, na dedo mu!",
+       "en": "to his father, to his grandfather!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

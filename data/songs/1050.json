@@ -1,0 +1,161 @@
+{
+ "id": 1050,
+ "slug": "vrni-se-vrni-libe-mariche",
+ "title_cyr": "Врни се, врни либе Мариче",
+ "title_latin": "Vrni se, vrni libe Mariče",
+ "title_en": "Turn Back, Turn Back, Dear Marica",
+ "pesna_url": "https://pesna.org/song/1050",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding song with the transformation motif. 'Мен'' = мене (me), 'ај' here is a filler; 'најг'ста' is my reading of 'най-густа'.",
+ "words_to_learn": [
+  {
+   "mk": "врни се",
+   "en": "turn back, return"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "најг'ста",
+   "en": "thickest, very thick"
+  },
+  {
+   "mk": "мојш",
+   "en": "you can (dialect for можеш)"
+  },
+  {
+   "mk": "преминеш",
+   "en": "cross over"
+  },
+  {
+   "mk": "шарено пиле",
+   "en": "speckled bird"
+  },
+  {
+   "mk": "дл'бока",
+   "en": "deep"
+  },
+  {
+   "mk": "мренка",
+   "en": "barbel (fish)"
+  }
+ ],
+ "performers": [
+  "Костадинка Палазова"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/2396"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Врни се, врни либе Мариче,",
+       "lat": "- Vrni se, vrni libe Mariče,",
+       "en": "- Turn back, turn back, dear Marica,"
+      },
+      {
+       "cyr": "не иди ти со мен',",
+       "lat": "ne idi ti so men',",
+       "en": "don't go with me,"
+      },
+      {
+       "cyr": "ај пред нас има најг'ста гора,",
+       "lat": "aj pred nas ima najg'sta gora,",
+       "en": "ahead of us there is a very thick forest,"
+      },
+      {
+       "cyr": "не мојш да преминеш.",
+       "lat": "ne mojš da premineš.",
+       "en": "you won't be able to cross it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ќе се сторам шарено пиле,",
+       "lat": "- Jas ḱe se storam šareno pile,",
+       "en": "- I will turn myself into a speckled bird,"
+      },
+      {
+       "cyr": "гора ќе прелетнам",
+       "lat": "gora ḱe preletnam",
+       "en": "I will fly over the forest"
+      },
+      {
+       "cyr": "и пак со тебе, либе ќе дојдам",
+       "lat": "i pak so tebe, libe ḱe dojdam",
+       "en": "and again I will come to you, love,"
+      },
+      {
+       "cyr": "и твоја ќе бидам.",
+       "lat": "i tvoja ḱe bidam.",
+       "en": "and I will be yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Врни се, врни либе Мариче,",
+       "lat": "- Vrni se, vrni libe Mariče,",
+       "en": "- Turn back, turn back, dear Marica,"
+      },
+      {
+       "cyr": "не иди ти со мен',",
+       "lat": "ne idi ti so men',",
+       "en": "don't go with me,"
+      },
+      {
+       "cyr": "ај пред нас има дл'бока река,",
+       "lat": "aj pred nas ima dl'boka reka,",
+       "en": "ahead of us there is a deep river,"
+      },
+      {
+       "cyr": "не мојш да препливаш.",
+       "lat": "ne mojš da preplivaš.",
+       "en": "you won't be able to swim across it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе се претворам во риба мренка,",
+       "lat": "- Ḱe se pretvoram vo riba mrenka,",
+       "en": "- I will turn into a barbel fish,"
+      },
+      {
+       "cyr": "река ќе препливам",
+       "lat": "reka ḱe preplivam",
+       "en": "I will swim across the river"
+      },
+      {
+       "cyr": "и пак со тебе либе ќе дојдам",
+       "lat": "i pak so tebe libe ḱe dojdam",
+       "en": "and again I will come to you, love,"
+      },
+      {
+       "cyr": "и твоја ќе бидам.",
+       "lat": "i tvoja ḱe bidam.",
+       "en": "and I will be yours."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

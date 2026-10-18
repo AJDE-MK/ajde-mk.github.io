@@ -1,0 +1,148 @@
+{
+ "id": 1661,
+ "slug": "igraj-mome",
+ "title_cyr": "Играј моме",
+ "title_latin": "Igraj mome",
+ "title_en": "Dance, dance, you girl",
+ "pesna_url": "https://pesna.org/song/1661",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4468"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Играј играј, моме ти,",
+       "lat": "Igraj igraj, mome ti,",
+       "en": "Dance, dance, you girl,"
+      },
+      {
+       "cyr": "земја да се затреси,",
+       "lat": "zemja da se zatresi,",
+       "en": "let the earth shake,"
+      },
+      {
+       "cyr": "само кога играш ти,",
+       "lat": "samo koga igraš ti,",
+       "en": "only when you dance,"
+      },
+      {
+       "cyr": "срцево ми трепери.",
+       "lat": "srcevo mi treperi.",
+       "en": "my heart trembles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде моме раце давај,",
+       "lat": "Ajde mome race davaj,",
+       "en": "Come on, girl, give me your hands,"
+      },
+      {
+       "cyr": "ти на чочек заиграј,",
+       "lat": "ti na čoček zaigraj,",
+       "en": "and dance on the dance floor,"
+      },
+      {
+       "cyr": "рата-та-та-та-та-там,",
+       "lat": "rata-ta-ta-ta-ta-tam,",
+       "en": "ra-ta-ta-ta-ta-tam,"
+      },
+      {
+       "cyr": "ајде чочек заиграј,",
+       "lat": "ajde čoček zaigraj,",
+       "en": "come on, dance chochek1,"
+      },
+      {
+       "cyr": "лала-ла-ла-ла-ла-ла,",
+       "lat": "lala-la-la-la-la-la,",
+       "en": "lala-la-la-la-la-la,"
+      },
+      {
+       "cyr": "голем мерак имам, знај.",
+       "lat": "golem merak imam, znaj.",
+       "en": "I have a great desire, you know."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вито тело имаш ти,",
+       "lat": "Vito telo imaš ti,",
+       "en": "You have a tall and slim body,"
+      },
+      {
+       "cyr": "сѐ што сакаш земај ми,",
+       "lat": "sè što sakaš zemaj mi,",
+       "en": "take everything you want from me,"
+      },
+      {
+       "cyr": "само кога играш ти,",
+       "lat": "samo koga igraš ti,",
+       "en": "only when you dance,"
+      },
+      {
+       "cyr": "срцево ми трепери.",
+       "lat": "srcevo mi treperi.",
+       "en": "my heart trembles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде моме раце давај,",
+       "lat": "Ajde mome race davaj,",
+       "en": "Come on, girl, give me your hands,"
+      },
+      {
+       "cyr": "ти на чочек заиграј,",
+       "lat": "ti na čoček zaigraj,",
+       "en": "and dance on the dance floor,"
+      },
+      {
+       "cyr": "рата-та-та-та-та-там,",
+       "lat": "rata-ta-ta-ta-ta-tam,",
+       "en": "ra-ta-ta-ta-ta-tam,"
+      },
+      {
+       "cyr": "ајде чочек заиграј,",
+       "lat": "ajde čoček zaigraj,",
+       "en": "come on, dance chochek,"
+      },
+      {
+       "cyr": "лала-ла-ла-ла-ла-ла,",
+       "lat": "lala-la-la-la-la-la,",
+       "en": "lala-la-la-la-la-la,"
+      },
+      {
+       "cyr": "голем мерак имам, знај.",
+       "lat": "golem merak imam, znaj.",
+       "en": "I have a great desire, you know."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

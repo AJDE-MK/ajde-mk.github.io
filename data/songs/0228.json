@@ -1,0 +1,117 @@
+{
+ "id": 228,
+ "slug": "maliheri-pukaja",
+ "title_cyr": "Малихери пукаја",
+ "title_latin": "Maliheri pukaja",
+ "title_en": "The Mannlicher rifles were shot",
+ "pesna_url": "https://pesna.org/song/228",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Бапчорки",
+  "Ta Aidonia"
+ ],
+ "audio": [
+  {
+   "who": "Ta Aidonia",
+   "url": "https://pesna.org/audio-download/213"
+  },
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/981"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(За Ванчо војвода)",
+       "lat": "(Za Vančo vojvoda)",
+       "en": "(About Vancho the vojvoda)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Малихери пукаја, леле, малихери пукаја,",
+       "lat": "Maliheri pukaja, lele, maliheri pukaja,",
+       "en": "The Mannlicher rifles were shot, lele1, The Mannlicher rifles were shot,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Малихери пукаја, на Гандачо планина.",
+       "lat": "Maliheri pukaja, na Gandačo planina.",
+       "en": "The Mannlicher rifles were shot on Gandacho2 mountain.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тојо Ванчо војвода, тојо Ванчо војвода,",
+       "lat": "Tojo Vančo vojvoda, tojo Vančo vojvoda,",
+       "en": "That Vancho, the leader, that Vancho, the vojvoda3",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тојо Ванчо војвода, на чукарка седеше.",
+       "lat": "Tojo Vančo vojvoda, na čukarka sedeše.",
+       "en": "That Vancho sat on a rock.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На чукарка седеше, леле, на чукарка седеше,",
+       "lat": "Na čukarka sedeše, lele, na čukarka sedeše,",
+       "en": "He sat on a rock,",
+       "en_mt": false
+      },
+      {
+       "cyr": "На чукарка седеше, заповед ни даваше.",
+       "lat": "Na čukarka sedeše, zapoved ni davaše.",
+       "en": "and said to us,",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јуриш браќа комити, леле, јуруш браќа кумити,",
+       "lat": "Juriš braḱa komiti, lele, juruš braḱa kumiti,",
+       "en": "- March on, brothers komiti4",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јуриш браќа комити, да ја ослободиме,",
+       "lat": "Juriš braḱa komiti, da ja oslobodime,",
+       "en": "March on, brothers komiti, to free her,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да ја ослободиме, мајка Македонија.",
+       "lat": "da ja oslobodime, majka Makedonija.",
+       "en": "To free mother Macedonia!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

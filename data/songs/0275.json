@@ -1,0 +1,143 @@
+{
+ "id": 275,
+ "slug": "tri-godini-libe-se-sakavme",
+ "title_cyr": "Три години либе се сакавме",
+ "title_latin": "Tri godini libe se sakavme",
+ "title_en": "Three years, sweetheart, we loved each other",
+ "pesna_url": "https://pesna.org/song/275",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Literal translation. The last line implies the lover died abroad; this is my reading of the image.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "се сакавме",
+   "en": "we loved each other"
+  },
+  {
+   "mk": "лоша дума",
+   "en": "bad word"
+  },
+  {
+   "mk": "печалба",
+   "en": "work abroad, seasonal labor away from home"
+  },
+  {
+   "mk": "пуста",
+   "en": "cursed, wretched"
+  },
+  {
+   "mk": "раздели",
+   "en": "parted"
+  },
+  {
+   "mk": "заборави",
+   "en": "forgot"
+  },
+  {
+   "mk": "земја",
+   "en": "earth, soil"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/1178"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1179"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три години либе се сакавме,",
+       "lat": "Tri godini libe se sakavme,",
+       "en": "Three years, sweetheart, we loved each other,"
+      },
+      {
+       "cyr": "лоша дума либе не рековме.",
+       "lat": "loša duma libe ne rekovme.",
+       "en": "not a bad word, sweetheart, did we say."
+      },
+      {
+       "cyr": "Сека вечер либе ти ми велеше:",
+       "lat": "Seka večer libe ti mi veleše:",
+       "en": "Every evening, sweetheart, you told me:"
+      },
+      {
+       "cyr": "- Ќе те земам либе за невеста.",
+       "lat": "- Ḱe te zemam libe za nevesta.",
+       "en": "- I will take you, sweetheart, as my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пуста да е либе таа печалба",
+       "lat": "Pusta da e libe taa pečalba",
+       "en": "Cursed be, sweetheart, that working abroad,"
+      },
+      {
+       "cyr": "таа двајца либе нè раздели.",
+       "lat": "taa dvajca libe nè razdeli.",
+       "en": "it parted the two of us, sweetheart."
+      },
+      {
+       "cyr": "Пет години либе пројдоа,",
+       "lat": "Pet godini libe projdoa,",
+       "en": "Five years, sweetheart, have passed,"
+      },
+      {
+       "cyr": "сите си дојдоа, тебе те нема.",
+       "lat": "site si dojdoa, tebe te nema.",
+       "en": "all have come home, you are not here."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, кажи либе што ти сторив,",
+       "lat": "Kaži, kaži libe što ti storiv,",
+       "en": "Tell me, tell me, sweetheart, what did I do to you,"
+      },
+      {
+       "cyr": "та што мене млада заборави?",
+       "lat": "ta što mene mlada zaboravi?",
+       "en": "that you forgot me, young as I am?"
+      },
+      {
+       "cyr": "- Не сум те бре либе заборавило,",
+       "lat": "- Ne sum te bre libe zaboravilo,",
+       "en": "- I have not forgotten you, hey sweetheart,"
+      },
+      {
+       "cyr": "земја ми е лице покрила.",
+       "lat": "zemja mi e lice pokrila.",
+       "en": "the earth has covered my face."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

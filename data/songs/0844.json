@@ -1,0 +1,204 @@
+{
+ "id": 844,
+ "slug": "begala-mara-begala",
+ "title_cyr": "Бегала Мара, бегала",
+ "title_latin": "Begala Mara, begala",
+ "title_en": "Mara Fled, She Fled",
+ "pesna_url": "https://pesna.org/song/844",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad. 'Печали' I took as 'gained/acquired' (my reading); 'през' = through (dialect). Stojan seems to be Mara's husband, so she returns unrecognized (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law (husband's mother)"
+  },
+  {
+   "mk": "љуљка",
+   "en": "cradle"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "овчичка",
+   "en": "little sheep"
+  },
+  {
+   "mk": "киниса",
+   "en": "set out (dialect past)"
+  },
+  {
+   "mk": "наближи",
+   "en": "came near"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul"
+  },
+  {
+   "mk": "стопан",
+   "en": "master, owner"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1824"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бегала Мара, бегала,",
+       "lat": "Begala Mara, begala,",
+       "en": "Mara fled, she fled,"
+      },
+      {
+       "cyr": "од таја љута море свекрва.",
+       "lat": "od taja ljuta more svekrva.",
+       "en": "from that fierce, hey, mother-in-law."
+      },
+      {
+       "cyr": "Остави Мара, остави",
+       "lat": "Ostavi Mara, ostavi",
+       "en": "Mara left, she left"
+      },
+      {
+       "cyr": "машкото дете, Мара, у љуљка.",
+       "lat": "maškoto dete, Mara, u ljuljka.",
+       "en": "her baby boy, Mara, in the cradle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бегала Мара, бегала,",
+       "lat": "Begala Mara, begala,",
+       "en": "Mara fled, she fled,"
+      },
+      {
+       "cyr": "през девет-десет, море, градове.",
+       "lat": "prez devet-deset, more, gradove.",
+       "en": "through nine, ten, hey, towns."
+      },
+      {
+       "cyr": "Печали Мара, печали,",
+       "lat": "Pečali Mara, pečali,",
+       "en": "Mara gained, she gained,"
+      },
+      {
+       "cyr": "петнајсет бели, море, овчари,",
+       "lat": "petnajset beli, more, ovčari,",
+       "en": "fifteen white, hey, shepherds,"
+      },
+      {
+       "cyr": "и петстотини бели овчички.",
+       "lat": "i petstotini beli ovčički.",
+       "en": "and five hundred white little sheep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Киниса Мара, киниса,",
+       "lat": "Kinisa Mara, kinisa,",
+       "en": "Mara set out, she set out,"
+      },
+      {
+       "cyr": "отера Мара, море, стадото,",
+       "lat": "otera Mara, more, stadoto,",
+       "en": "Mara drove the flock, hey,"
+      },
+      {
+       "cyr": "наближи Мара селото.",
+       "lat": "nabliži Mara seloto.",
+       "en": "Mara neared the village."
+      },
+      {
+       "cyr": "Наближи Мара селото,",
+       "lat": "Nabliži Mara seloto,",
+       "en": "Mara neared the village,"
+      },
+      {
+       "cyr": "на среќа иде, море, млад Стојан.",
+       "lat": "na sreḱa ide, more, mlad Stojan.",
+       "en": "by luck young Stojan comes, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стојане џанам, Стојане,",
+       "lat": "- Stojane džanam, Stojane,",
+       "en": "- Stojan, my dear, Stojan,"
+      },
+      {
+       "cyr": "дали е жива, Стојан, мајка ти?",
+       "lat": "dali e živa, Stojan, majka ti?",
+       "en": "is she alive, Stojan, your mother?"
+      },
+      {
+       "cyr": "Дали е жива мајка ти",
+       "lat": "Dali e živa majka ti",
+       "en": "Is your mother alive"
+      },
+      {
+       "cyr": "и машко дете, море, у љуљка?",
+       "lat": "i maško dete, more, u ljuljka?",
+       "en": "and the baby boy, hey, in the cradle?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога е Мара бегала,",
+       "lat": "- Koga e Mara begala,",
+       "en": "- When Mara fled,"
+      },
+      {
+       "cyr": "тогај ми мајка море умрела",
+       "lat": "togaj mi majka more umrela",
+       "en": "then my mother, hey, died"
+      },
+      {
+       "cyr": "и машко дете, море, у љуљка.",
+       "lat": "i maško dete, more, u ljuljka.",
+       "en": "and the baby boy, hey, in the cradle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стојане море, стопане,",
+       "lat": "- Stojane more, stopane,",
+       "en": "- Stojan, hey, master,"
+      },
+      {
+       "cyr": "нели ме мене, море, познаваш?",
+       "lat": "neli me mene, more, poznavaš?",
+       "en": "don't you, hey, recognize me?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,265 @@
+{
+ "id": 1058,
+ "slug": "kate-katerina",
+ "title_cyr": "Кате, Катерина",
+ "title_latin": "Kate, Katerina",
+ "title_en": "Kate, Katerina",
+ "pesna_url": "https://pesna.org/song/1058",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: sounds like a modern composed song but I cannot name an author. 'изгора' read as dawn/sunrise and 'мугра' as morning mist or haze, both my reading.",
+ "words_to_learn": [
+  {
+   "mk": "гулабица",
+   "en": "little dove"
+  },
+  {
+   "mk": "прозорец",
+   "en": "window"
+  },
+  {
+   "mk": "таговна",
+   "en": "sad, sorrowful"
+  },
+  {
+   "mk": "дланки",
+   "en": "palms"
+  },
+  {
+   "mk": "бакнам",
+   "en": "I kiss"
+  },
+  {
+   "mk": "усни",
+   "en": "lips"
+  },
+  {
+   "mk": "бадеми",
+   "en": "almonds (almond-shaped eyes)"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "искина",
+   "en": "tore apart"
+  }
+ ],
+ "performers": [
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/2435"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излези гулабице на прозорецот,",
+       "lat": "Izlezi gulabice na prozorecot,",
+       "en": "Come out, little dove, to the window,"
+      },
+      {
+       "cyr": "песна да ти испеам со другарите.",
+       "lat": "pesna da ti ispeam so drugarite.",
+       "en": "so I can sing you a song with my friends."
+      },
+      {
+       "cyr": "Песнава е љубовна, песна таговна,",
+       "lat": "Pesnava e ljubovna, pesna tagovna,",
+       "en": "This song is a love song, a sad song,"
+      },
+      {
+       "cyr": "слетај ми на дланките, да ти кажам сè.",
+       "lat": "sletaj mi na dlankite, da ti kažam sè.",
+       "en": "fly down to my palms, so I can tell you everything."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти кажам, дал' ќе веруваш,",
+       "lat": "Da ti kažam, dal' ḱe veruvaš,",
+       "en": "Let me tell you, will you believe,"
+      },
+      {
+       "cyr": "Кате, Катерина, моме убаво,",
+       "lat": "Kate, Katerina, mome ubavo,",
+       "en": "Kate, Katerina, beautiful girl,"
+      },
+      {
+       "cyr": "дека си ми сè во животот,",
+       "lat": "deka si mi sè vo životot,",
+       "en": "that you are everything to me in my life,"
+      },
+      {
+       "cyr": "Кате, Катерина, моја изгоро.",
+       "lat": "Kate, Katerina, moja izgoro.",
+       "en": "Kate, Katerina, my dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми да ги бакнам усните,",
+       "lat": "Daj mi da gi baknam usnite,",
+       "en": "Let me kiss your lips,"
+      },
+      {
+       "cyr": "душава ми гори по нив, пустите,",
+       "lat": "dušava mi gori po niv, pustite,",
+       "en": "my soul burns for them, the wretches,"
+      },
+      {
+       "cyr": "да ти бакнам очи бадеми,",
+       "lat": "da ti baknam oči bademi,",
+       "en": "let me kiss your almond eyes,"
+      },
+      {
+       "cyr": "Кате, Катерина, сини ангели.",
+       "lat": "Kate, Katerina, sini angeli.",
+       "en": "Kate, Katerina, blue angels."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Катерина, Катерина,",
+       "lat": "Katerina, Katerina,",
+       "en": "Katerina, Katerina,"
+      },
+      {
+       "cyr": "тивко и без збор сношти замина.",
+       "lat": "tivko i bez zbor snošti zamina.",
+       "en": "quietly and without a word she left last night."
+      },
+      {
+       "cyr": "Катерина, Катерина,",
+       "lat": "Katerina, Katerina,",
+       "en": "Katerina, Katerina,"
+      },
+      {
+       "cyr": "болка срцево ми го искина.",
+       "lat": "bolka srcevo mi go iskina.",
+       "en": "pain has torn my heart apart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Биди мугра пролетна цвет што радува,",
+       "lat": "Bidi mugra proletna cvet što raduva,",
+       "en": "Be the spring morning haze, a flower that gladdens,"
+      },
+      {
+       "cyr": "биди река немирна што разладува,",
+       "lat": "bidi reka nemirna što razladuva,",
+       "en": "be a restless river that cools,"
+      },
+      {
+       "cyr": "биди ми гулабице сенка, смири ме,",
+       "lat": "bidi mi gulabice senka, smiri me,",
+       "en": "be a shadow for me, little dove, calm me,"
+      },
+      {
+       "cyr": "летни ми на градиве да ти кажам сè.",
+       "lat": "letni mi na gradive da ti kažam sè.",
+       "en": "fly to my chest so I can tell you everything."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти кажам, дал' ќе веруваш,",
+       "lat": "Da ti kažam, dal' ḱe veruvaš,",
+       "en": "Let me tell you, will you believe,"
+      },
+      {
+       "cyr": "Кате, Катерина, моме убаво,",
+       "lat": "Kate, Katerina, mome ubavo,",
+       "en": "Kate, Katerina, beautiful girl,"
+      },
+      {
+       "cyr": "дека си ми сè во животот,",
+       "lat": "deka si mi sè vo životot,",
+       "en": "that you are everything to me in my life,"
+      },
+      {
+       "cyr": "Кате, Катерина, моја изгоро.",
+       "lat": "Kate, Katerina, moja izgoro.",
+       "en": "Kate, Katerina, my dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми да ги бакнам усните,",
+       "lat": "Daj mi da gi baknam usnite,",
+       "en": "Let me kiss your lips,"
+      },
+      {
+       "cyr": "душава ми гори по нив, пустите,",
+       "lat": "dušava mi gori po niv, pustite,",
+       "en": "my soul burns for them, the wretches,"
+      },
+      {
+       "cyr": "да ти бакнам очи бадеми,",
+       "lat": "da ti baknam oči bademi,",
+       "en": "let me kiss your almond eyes,"
+      },
+      {
+       "cyr": "Кате, Катерина, сини ангели.",
+       "lat": "Kate, Katerina, sini angeli.",
+       "en": "Kate, Katerina, blue angels."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Катерина, Катерина,",
+       "lat": "Katerina, Katerina,",
+       "en": "Katerina, Katerina,"
+      },
+      {
+       "cyr": "тивко и без збор сношти замина.",
+       "lat": "tivko i bez zbor snošti zamina.",
+       "en": "quietly and without a word she left last night."
+      },
+      {
+       "cyr": "Катерина, Катерина,",
+       "lat": "Katerina, Katerina,",
+       "en": "Katerina, Katerina,"
+      },
+      {
+       "cyr": "болка срцево ми го искина.",
+       "lat": "bolka srcevo mi go iskina.",
+       "en": "pain has torn my heart apart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

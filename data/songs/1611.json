@@ -1,0 +1,185 @@
+{
+ "id": 1611,
+ "slug": "od-srce-tebe-podarena",
+ "title_cyr": "Од срце тебе подарена",
+ "title_latin": "Od srce tebe podarena",
+ "title_en": "Given to you from the heart",
+ "pesna_url": "https://pesna.org/song/1611",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it may be a modern composition but I cannot name an author. 'мене браќа на веселба' is my reading: 'I am with my brothers at a wedding'.",
+ "words_to_learn": [
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "веселба",
+   "en": "wedding, celebration"
+  },
+  {
+   "mk": "развесели",
+   "en": "cheer up"
+  },
+  {
+   "mk": "подотвори",
+   "en": "open a little"
+  },
+  {
+   "mk": "прозор",
+   "en": "window"
+  },
+  {
+   "mk": "слушне",
+   "en": "hears"
+  },
+  {
+   "mk": "гради",
+   "en": "chest, breast"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "прегрне",
+   "en": "embraces"
+  }
+ ],
+ "performers": [
+  "Стојне Николова"
+ ],
+ "audio": [
+  {
+   "who": "Стојне Николова",
+   "url": "https://pesna.org/audio-download/4255"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мајка лежи болна в' постела,",
+       "lat": "Majka leži bolna v' postela,",
+       "en": "Mother lies sick in bed,"
+      },
+      {
+       "cyr": "а мене браќа на веселба.",
+       "lat": "a mene braḱa na veselba.",
+       "en": "and I am at a wedding with my brothers."
+      },
+      {
+       "cyr": "- Оди сине, народ развесели",
+       "lat": "- Odi sine, narod razveseli",
+       "en": "- Go, son, cheer the people up"
+      },
+      {
+       "cyr": "и прозор мој подотвори.",
+       "lat": "i prozor moj podotvori.",
+       "en": "and open my window a little."
+      },
+      {
+       "cyr": "Песна твоја мајка да слушне",
+       "lat": "Pesna tvoja majka da slušne",
+       "en": "Let your mother hear your song"
+      },
+      {
+       "cyr": "и од постела тешка да стане.",
+       "lat": "i od postela teška da stane.",
+       "en": "and rise from her heavy bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пеам, пеам мајко мила,",
+       "lat": "- Peam, peam majko mila,",
+       "en": "- I sing, I sing, dear mother,"
+      },
+      {
+       "cyr": "но во гради болка силна.",
+       "lat": "no vo gradi bolka silna.",
+       "en": "but there is a strong pain in my chest."
+      },
+      {
+       "cyr": "Слушни ја мајко песнава",
+       "lat": "Slušni ja majko pesnava",
+       "en": "Listen, mother, to this song,"
+      },
+      {
+       "cyr": "од срце тебе подарена.",
+       "lat": "od srce tebe podarena.",
+       "en": "given to you from the heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка лежи болна в' постела,",
+       "lat": "Majka leži bolna v' postela,",
+       "en": "Mother lies sick in bed,"
+      },
+      {
+       "cyr": "а мене браќа на веселба.",
+       "lat": "a mene braḱa na veselba.",
+       "en": "and I am at a wedding with my brothers."
+      },
+      {
+       "cyr": "- Немој сине, не жали за мене,",
+       "lat": "- Nemoj sine, ne žali za mene,",
+       "en": "- Don't, son, don't grieve for me,"
+      },
+      {
+       "cyr": "дојди мајка да те прегрне.",
+       "lat": "dojdi majka da te pregrne.",
+       "en": "come, let your mother embrace you."
+      },
+      {
+       "cyr": "Песна твоја мајка да слушне",
+       "lat": "Pesna tvoja majka da slušne",
+       "en": "Let your mother hear your song"
+      },
+      {
+       "cyr": "и од постела тешка да стане.",
+       "lat": "i od postela teška da stane.",
+       "en": "and rise from her heavy bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пеам, пеам мајко мила,",
+       "lat": "- Peam, peam majko mila,",
+       "en": "- I sing, I sing, dear mother,"
+      },
+      {
+       "cyr": "но во гради болка силна.",
+       "lat": "no vo gradi bolka silna.",
+       "en": "but there is a strong pain in my chest."
+      },
+      {
+       "cyr": "Слушни ја мајко песнава",
+       "lat": "Slušni ja majko pesnava",
+       "en": "Listen, mother, to this song,"
+      },
+      {
+       "cyr": "од срце тебе подарена.",
+       "lat": "od srce tebe podarena.",
+       "en": "given to you from the heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

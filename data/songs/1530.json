@@ -1,0 +1,152 @@
+{
+ "id": 1530,
+ "slug": "na-srce-mi-star-merak-lezhi",
+ "title_cyr": "На срце ми стар мерак лежи",
+ "title_latin": "Na srce mi star merak leži",
+ "title_en": "An Old Longing Lies on My Heart",
+ "pesna_url": "https://pesna.org/song/1530",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author I can name (poetic imagery suggests a modern song). 'Мерак' has no exact English equivalent; I render it 'longing'.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "longing, yearning, pining"
+  },
+  {
+   "mk": "лежи",
+   "en": "lies"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "ѕвезди",
+   "en": "stars"
+  },
+  {
+   "mk": "посеана",
+   "en": "sown"
+  },
+  {
+   "mk": "огреана",
+   "en": "warmed (by the sun)"
+  },
+  {
+   "mk": "лек",
+   "en": "cure, medicine"
+  },
+  {
+   "mk": "каде",
+   "en": "where"
+  },
+  {
+   "mk": "нигде",
+   "en": "nowhere"
+  },
+  {
+   "mk": "послушај",
+   "en": "listen"
+  }
+ ],
+ "performers": [
+  "Адријана Алачки"
+ ],
+ "audio": [
+  {
+   "who": "Адријана Алачки",
+   "url": "https://pesna.org/audio-download/4000"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На срце ми, на срце ми стар мерак лежи.",
+       "lat": "Na srce mi, na srce mi star merak leži.",
+       "en": "On my heart, on my heart lies an old longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Eј љубов, љубов, од ѕвезди посеана,",
+       "lat": "Ej ljubov, ljubov, od dzvezdi poseana,",
+       "en": "Oh love, love, sown from the stars,"
+      },
+      {
+       "cyr": "од ѕвезди посеана, од сонце огреана.",
+       "lat": "od dzvezdi poseana, od sonce ogreana.",
+       "en": "sown from the stars, warmed by the sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кажи, ајде кажи стара ле мајко,",
+       "lat": "Ajde kaži, ajde kaži stara le majko,",
+       "en": "Come, tell me, come, tell me, old mother,"
+      },
+      {
+       "cyr": "каде има, каде има лек за меракот?",
+       "lat": "kade ima, kade ima lek za merakot?",
+       "en": "where is there, where is there a cure for the longing?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Eј љубов, љубов, од ѕвезди посеана,",
+       "lat": "Ej ljubov, ljubov, od dzvezdi poseana,",
+       "en": "Oh love, love, sown from the stars,"
+      },
+      {
+       "cyr": "од ѕвезди посеана, од сонце огреана.",
+       "lat": "od dzvezdi poseana, od sonce ogreana.",
+       "en": "sown from the stars, warmed by the sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја послушај миле сине, стара си мајка,",
+       "lat": "Ja poslušaj mile sine, stara si majka,",
+       "en": "Listen to me, dear son, I am an old mother,"
+      },
+      {
+       "cyr": "нигде нема, нигде нема лек за меракот.",
+       "lat": "nigde nema, nigde nema lek za merakot.",
+       "en": "nowhere is there, nowhere is there a cure for the longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Eј љубов, љубов, од ѕвезди посеана,",
+       "lat": "Ej ljubov, ljubov, od dzvezdi poseana,",
+       "en": "Oh love, love, sown from the stars,"
+      },
+      {
+       "cyr": "од ѕвезди посеана, од сонце огреана.",
+       "lat": "od dzvezdi poseana, od sonce ogreana.",
+       "en": "sown from the stars, warmed by the sun."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

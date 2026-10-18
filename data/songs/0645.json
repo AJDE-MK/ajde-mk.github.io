@@ -1,0 +1,176 @@
+{
+ "id": 645,
+ "slug": "ej-mori-lenche-mlado-fidanche",
+ "title_cyr": "Еј мори Ленче, младо фиданче",
+ "title_latin": "Ej mori Lenče, mlado fidanče",
+ "title_en": "Hey Lenche, Young Sapling",
+ "pesna_url": "https://pesna.org/song/645",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јамди', 'в' темница' and the third stanza are unclear to me; 'темница' is rendered as 'dungeon' and the whole stanza is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "фиданче",
+   "en": "little sapling"
+  },
+  {
+   "mk": "аман",
+   "en": "oh mercy (Turkish exclamation)"
+  },
+  {
+   "mk": "расплакано",
+   "en": "tearful"
+  },
+  {
+   "mk": "друшка",
+   "en": "girlfriend, female friend"
+  },
+  {
+   "mk": "завиде",
+   "en": "envied"
+  },
+  {
+   "mk": "снага",
+   "en": "figure, body"
+  },
+  {
+   "mk": "сокак",
+   "en": "alley, lane"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "посврши",
+   "en": "passed away (my reading)"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Борче Крстески",
+  "Грозда Стоева",
+  "Драган Мијалковски"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/3839"
+  },
+  {
+   "who": "Борче Крстески, Грозда Стоева",
+   "url": "https://pesna.org/audio-download/3840"
+  },
+  {
+   "who": "Драган Мијалковски",
+   "url": "https://pesna.org/audio-download/3841"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј мори Ленче, младо фиданче, еј аман",
+       "lat": "Ej mori Lenče, mlado fidanče, ej aman",
+       "en": "Hey, Lenche, young sapling, oh mercy,"
+      },
+      {
+       "cyr": "што си бре Ленче расплакано јамди аман",
+       "lat": "što si bre Lenče rasplakano jamdi aman",
+       "en": "why are you, Lenche, tearful, oh mercy,"
+      },
+      {
+       "cyr": "оф аман, аман, што си бре Ленче плакано",
+       "lat": "of aman, aman, što si bre Lenče plakano",
+       "en": "oh mercy, mercy, why are you, Lenche, weeping,"
+      },
+      {
+       "cyr": "оф аман, аман, да не си болно легнало?",
+       "lat": "of aman, aman, da ne si bolno legnalo?",
+       "en": "oh mercy, mercy, have you not fallen ill?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не ти друшка завиде Ленче, еј аман",
+       "lat": "Da ne ti druška zavide Lenče, ej aman",
+       "en": "Has your friend not envied you, Lenche, oh mercy,"
+      },
+      {
+       "cyr": "на твојта снага мермерна Ленче јамди аман,",
+       "lat": "na tvojta snaga mermerna Lenče jamdi aman,",
+       "en": "your marble figure, Lenche, oh mercy,"
+      },
+      {
+       "cyr": "оф аман, аман, на твојте очи черешови",
+       "lat": "of aman, aman, na tvojte oči čerešovi",
+       "en": "oh mercy, mercy, and your cherry eyes,"
+      },
+      {
+       "cyr": "оф аман, аман, и на твојта Ленче личота?",
+       "lat": "of aman, aman, i na tvojta Lenče ličota?",
+       "en": "oh mercy, mercy, and your Lenche's beauty?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не те татко сретнало Ленче, еј аман",
+       "lat": "Da ne te tatko sretnalo Lenče, ej aman",
+       "en": "Has your father not met you, Lenche, oh mercy,"
+      },
+      {
+       "cyr": "со друго либе в' темница Ленче јамди аман",
+       "lat": "so drugo libe v' temnica Lenče jamdi aman",
+       "en": "with another love in the dungeon, Lenche, oh mercy,"
+      },
+      {
+       "cyr": "оф аман, аман, низ тие тесни сокаци,",
+       "lat": "of aman, aman, niz tie tesni sokaci,",
+       "en": "oh mercy, mercy, along those narrow alleys,"
+      },
+      {
+       "cyr": "оф аман, аман, низ тие тесни сокаци?",
+       "lat": "of aman, aman, niz tie tesni sokaci?",
+       "en": "oh mercy, mercy, along those narrow alleys?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ниту ми друшка завиде, лудо еј аман",
+       "lat": "Nitu mi druška zavide, ludo ej aman",
+       "en": "Neither has my friend envied me, love, oh mercy,"
+      },
+      {
+       "cyr": "ниту ме татко искара, лудо јамди аман,",
+       "lat": "nitu me tatko iskara, ludo jamdi aman,",
+       "en": "nor has my father scolded me, love, oh mercy,"
+      },
+      {
+       "cyr": "оф аман, аман, туку ми се либето посврши",
+       "lat": "of aman, aman, tuku mi se libeto posvrši",
+       "en": "oh mercy, mercy, but my love has passed away,"
+      },
+      {
+       "cyr": "оф аман, аман, за мојта верна другарка.",
+       "lat": "of aman, aman, za mojta verna drugarka.",
+       "en": "oh mercy, mercy, for my faithful companion."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

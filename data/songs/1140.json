@@ -1,0 +1,161 @@
+{
+ "id": 1140,
+ "slug": "razgrani-granka-maslinka",
+ "title_cyr": "Разграни гранка маслинка",
+ "title_latin": "Razgrani granka maslinka",
+ "title_en": "The Olive Branch Spread Out",
+ "pesna_url": "https://pesna.org/song/1140",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. 'Доста си мома одила' I read as 'you have walked around (stayed single) long enough'.",
+ "words_to_learn": [
+  {
+   "mk": "разграни",
+   "en": "put out branches, spread out"
+  },
+  {
+   "mk": "гранка",
+   "en": "branch, twig"
+  },
+  {
+   "mk": "маслинка",
+   "en": "olive tree"
+  },
+  {
+   "mk": "девојче",
+   "en": "girl"
+  },
+  {
+   "mk": "говори",
+   "en": "speaks"
+  },
+  {
+   "mk": "чекала",
+   "en": "waited (feminine)"
+  },
+  {
+   "mk": "мажи се",
+   "en": "get married (to a woman)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  }
+ ],
+ "performers": [
+  "Сестрите Мавровски"
+ ],
+ "audio": [
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/2763"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Разграни гранка маслинка,",
+       "lat": "Razgrani granka maslinka,",
+       "en": "The olive branch spread out,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      },
+      {
+       "cyr": "И под маслинка девојче,",
+       "lat": "I pod maslinka devojče,",
+       "en": "And under the olive tree a girl,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На гранка вели, говори,",
+       "lat": "Na granka veli, govori,",
+       "en": "To the branch she says, she speaks,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      },
+      {
+       "cyr": "- Три години сум го чекала,",
+       "lat": "- Tri godini sum go čekala,",
+       "en": "- Three years I have waited for him,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Четврта година тој дојде,",
+       "lat": "Četvrta godina toj dojde,",
+       "en": "In the fourth year he came,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      },
+      {
+       "cyr": "И на девојче зборува,",
+       "lat": "I na devojče zboruva,",
+       "en": "And speaks to the girl,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мажи се моме, мажи се,",
+       "lat": "- Maži se mome, maži se,",
+       "en": "- Get married, girl, get married,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      },
+      {
+       "cyr": "Доста си мома одила,",
+       "lat": "Dosta si moma odila,",
+       "en": "You have wandered long enough, girl,"
+      },
+      {
+       "cyr": "хај, хај, хај, хај.",
+       "lat": "haj, haj, haj, haj.",
+       "en": "hey, hey, hey, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

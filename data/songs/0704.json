@@ -1,0 +1,317 @@
+{
+ "id": 704,
+ "slug": "a-bre-koljo-mamin-koljo",
+ "title_cyr": "А бре Кољо, мамин Кољо",
+ "title_latin": "A bre Koljo, mamin Koljo",
+ "title_en": "Hey Koljo, Mother's Koljo",
+ "pesna_url": "https://pesna.org/song/704",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The first version reads as old folk song; the second version (after the marker) sounds like a later addition naming Gotse Delchev, Yane Sandanski, Dame Gruev and Todor Aleksandrov. Guesses: 'ан'мки' as hanim ladies, 'кавурче' (unknown, perhaps 'little unbeliever'), 'Omile mi' as 'grows dear'; the marker line is copied as given in the source.",
+ "words_to_learn": [
+  {
+   "mk": "комита",
+   "en": "guerrilla fighter, insurgent"
+  },
+  {
+   "mk": "малихерка",
+   "en": "Mannlicher rifle"
+  },
+  {
+   "mk": "куршум",
+   "en": "bullet"
+  },
+  {
+   "mk": "абер",
+   "en": "news, word"
+  },
+  {
+   "mk": "погача",
+   "en": "round flatbread"
+  },
+  {
+   "mk": "нели се најаде",
+   "en": "haven't you eaten your fill"
+  },
+  {
+   "mk": "хајдучки",
+   "en": "outlaw's, haiduk's"
+  },
+  {
+   "mk": "полјана",
+   "en": "meadow, clearing"
+  },
+  {
+   "mk": "тук'",
+   "en": "only (dialect, 'туку')"
+  }
+ ],
+ "performers": [
+  "Гуна Иванова",
+  "Орце Стевковски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Гуна Иванова",
+   "url": "https://pesna.org/audio-download/122"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1502"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4483"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре Кољо, мамин Кољо,",
+       "lat": "A bre Koljo, mamin Koljo,",
+       "en": "Hey Koljo, mother's Koljo,"
+      },
+      {
+       "cyr": "мамина кумито,",
+       "lat": "mamina kumito,",
+       "en": "mother's guerrilla,"
+      },
+      {
+       "cyr": "доста оди, мамин Кољо, пустите планини,",
+       "lat": "dosta odi, mamin Koljo, pustite planini,",
+       "en": "you have roamed enough, mother's Koljo, the deserted mountains,"
+      },
+      {
+       "cyr": "пустите планини, Кољо, у рамни долини.",
+       "lat": "pustite planini, Koljo, u ramni dolini.",
+       "en": "the deserted mountains, Koljo, in the flat valleys."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели се нагледа, Кољо,",
+       "lat": "Neli se nagleda, Koljo,",
+       "en": "Haven't you had your fill, Koljo,"
+      },
+      {
+       "cyr": "младите ан'мки?",
+       "lat": "mladite an'mki?",
+       "en": "of young hanim ladies (my reading)?"
+      },
+      {
+       "cyr": "Ајде да те женам, Кољо,",
+       "lat": "Ajde da te ženam, Koljo,",
+       "en": "Come on, I will marry you off, Koljo,"
+      },
+      {
+       "cyr": "за едно кавурче.",
+       "lat": "za edno kavurče.",
+       "en": "to a little kavurche (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели се наноси, Кољо,",
+       "lat": "Neli se nanosi, Koljo,",
+       "en": "Haven't you carried enough, Koljo,"
+      },
+      {
+       "cyr": "пушки малихерки,",
+       "lat": "puški maliherki,",
+       "en": "Mannlicher rifles,"
+      },
+      {
+       "cyr": "нели се нафрла, Кољо,",
+       "lat": "neli se nafrla, Koljo,",
+       "en": "haven't you shot enough, Koljo,"
+      },
+      {
+       "cyr": "дребните куршуми?",
+       "lat": "drebnite kuršumi?",
+       "en": "small bullets?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мојта жена, мила мајко,",
+       "lat": "- Mojta žena, mila majko,",
+       "en": "- My wife, dear mother,"
+      },
+      {
+       "cyr": "пушка малихерка,",
+       "lat": "puška maliherka,",
+       "en": "is a Mannlicher rifle,"
+      },
+      {
+       "cyr": "мојте деца, мила мајко,",
+       "lat": "mojte deca, mila majko,",
+       "en": "my children, dear mother,"
+      },
+      {
+       "cyr": "дребните куршуми.",
+       "lat": "drebnite kuršumi.",
+       "en": "are the small bullets."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели се најаде, Кољо,",
+       "lat": "Neli se najade, Koljo,",
+       "en": "Haven't you eaten enough, Koljo,"
+      },
+      {
+       "cyr": "мрсните кокошки,",
+       "lat": "mrsnite kokoški,",
+       "en": "fat hens,"
+      },
+      {
+       "cyr": "нели се најаде, Кољо,",
+       "lat": "neli se najade, Koljo,",
+       "en": "haven't you eaten enough, Koljo,"
+      },
+      {
+       "cyr": "и масни погачи.",
+       "lat": "i masni pogači.",
+       "en": "rich flatbreads?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде ги испраќам, мајко,",
+       "lat": "Kade gi ispraḱam, majko,",
+       "en": "Wherever I send them, mother,"
+      },
+      {
+       "cyr": "назад не се враќат,",
+       "lat": "nazad ne se vraḱat,",
+       "en": "they do not come back,"
+      },
+      {
+       "cyr": "назад не се враќат, мајко,",
+       "lat": "nazad ne se vraḱat, majko,",
+       "en": "they do not come back, mother,"
+      },
+      {
+       "cyr": "абер ќе ми пратат.",
+       "lat": "aber ḱe mi pratat.",
+       "en": "perhaps they will send me news."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "/ друга верзија /",
+       "lat": "/ druga verzija /",
+       "en": "/ друга верзија /"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре Кољо, мамин Кољо",
+       "lat": "A bre Koljo, mamin Koljo",
+       "en": "Hey Koljo, mother's Koljo"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абре Кољо, мамин Кољо, мамин комита,",
+       "lat": "Abre Koljo, mamin Koljo, mamin komita,",
+       "en": "Hey Koljo, mother's Koljo, mother's guerrilla,"
+      },
+      {
+       "cyr": "не наоде ли се, Кољо, по Пирин Планина,",
+       "lat": "ne naode li se, Koljo, po Pirin Planina,",
+       "en": "haven't you had enough, Koljo, of the Pirin mountain,"
+      },
+      {
+       "cyr": "не наносе ли се, Кољо, пушка малихера?",
+       "lat": "ne nanose li se, Koljo, puška malihera?",
+       "en": "haven't you carried enough, Koljo, a Mannlicher rifle?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не виде ли Гоце Делчев, Јане не сретна ли,",
+       "lat": "Ne vide li Goce Delčev, Jane ne sretna li,",
+       "en": "Did you not see Gotse Delchev, did you not meet Yane,"
+      },
+      {
+       "cyr": "не сретна ли Даме Груев, Тодор Александров,",
+       "lat": "ne sretna li Dame Gruev, Todor Aleksandrov,",
+       "en": "did you not meet Dame Gruev, Todor Aleksandrov,"
+      },
+      {
+       "cyr": "не сретна ли Даме Груев, Тодор Александров?",
+       "lat": "ne sretna li Dame Gruev, Todor Aleksandrov?",
+       "en": "did you not meet Dame Gruev, Todor Aleksandrov?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не си видов Гоце Делчев, Јане не си сретнав,",
+       "lat": "Ne si vidov Goce Delčev, Jane ne si sretnav,",
+       "en": "I did not see Gotse Delchev, I did not meet Yane,"
+      },
+      {
+       "cyr": "не си сретнав Даме Груев, Тодор Александров,",
+       "lat": "ne si sretnav Dame Gruev, Todor Aleksandrov,",
+       "en": "I did not meet Dame Gruev, Todor Aleksandrov,"
+      },
+      {
+       "cyr": "тук' хајдучките полјани, песните им пеам.",
+       "lat": "tuk' hajdučkite poljani, pesnite im peam.",
+       "en": "only the outlaw meadows, I sing their songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Омиле ми на срцето Пирин мили роден,",
+       "lat": "Omile mi na srceto Pirin mili roden,",
+       "en": "It grows dear to my heart, Pirin, my dear homeland,"
+      },
+      {
+       "cyr": "тој крај на тажни песни, тој крај прекрасен,",
+       "lat": "toj kraj na tažni pesni, toj kraj prekrasen,",
+       "en": "that land of sad songs, that wonderful land,"
+      },
+      {
+       "cyr": "тој крај на тажни песни, тој крај прекрасен.",
+       "lat": "toj kraj na tažni pesni, toj kraj prekrasen.",
+       "en": "that land of sad songs, that wonderful land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

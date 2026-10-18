@@ -1,0 +1,285 @@
+{
+ "id": 122,
+ "slug": "celuvaj-me-milo-libe",
+ "title_cyr": "Целувај ме мило либе",
+ "title_latin": "Celuvaj me milo libe",
+ "title_en": "Kiss me, sweet love",
+ "pesna_url": "https://pesna.org/song/122",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'нишан' I render 'mark' (my reading, a trace of the kiss); it can also mean an engagement token.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "целувај",
+   "en": "kiss (imperative)"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "златен",
+   "en": "golden"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday"
+  },
+  {
+   "mk": "посвршиш",
+   "en": "you betroth / engage"
+  },
+  {
+   "mk": "нишан",
+   "en": "mark, sign (also: engagement token)"
+  },
+  {
+   "mk": "утре",
+   "en": "tomorrow"
+  },
+  {
+   "mk": "вечер",
+   "en": "evening, tonight"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2385"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи, кажи, мило либе",
+       "lat": "- Kaži, kaži, milo libe",
+       "en": "- Tell me, tell me, sweet love"
+      },
+      {
+       "cyr": "кога јас да дојдам,",
+       "lat": "koga jas da dojdam,",
+       "en": "when should I come,"
+      },
+      {
+       "cyr": "дали вечер, мило либе,",
+       "lat": "dali večer, milo libe,",
+       "en": "in the evening, sweet love,"
+      },
+      {
+       "cyr": "или утре вечер?",
+       "lat": "ili utre večer?",
+       "en": "or tomorrow evening?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали вечер, мило либе,",
+       "lat": "Dali večer, milo libe,",
+       "en": "In the evening, sweet love,"
+      },
+      {
+       "cyr": "или утре вечер",
+       "lat": "ili utre večer",
+       "en": "or tomorrow evening"
+      },
+      {
+       "cyr": "да ти дадам златен прстен",
+       "lat": "da ti dadam zlaten prsten",
+       "en": "so I can give you a golden ring"
+      },
+      {
+       "cyr": "и да те целувам?",
+       "lat": "i da te celuvam?",
+       "en": "and kiss you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Целувај ме мило либе,",
+       "lat": "- Celuvaj me milo libe,",
+       "en": "- Kiss me, sweet love,"
+      },
+      {
+       "cyr": "немој да ме прашаш.",
+       "lat": "nemoj da me prašaš.",
+       "en": "do not ask me."
+      },
+      {
+       "cyr": "Само немој мило либе",
+       "lat": "Samo nemoj milo libe",
+       "en": "Just do not, sweet love,"
+      },
+      {
+       "cyr": "нишан да оставаш.",
+       "lat": "nišan da ostavaš.",
+       "en": "leave a mark."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Утре е недела,",
+       "lat": "Utre e nedela,",
+       "en": "Tomorrow is Sunday,"
+      },
+      {
+       "cyr": "мајка ми е дома",
+       "lat": "majka mi e doma",
+       "en": "my mother is at home,"
+      },
+      {
+       "cyr": "утре ти да дојдеш, либе",
+       "lat": "utre ti da dojdeš, libe",
+       "en": "tomorrow you come, love,"
+      },
+      {
+       "cyr": "прстен да ми дадеш.",
+       "lat": "prsten da mi dadeš.",
+       "en": "and give me a ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прстен да ми дадеш, либе",
+       "lat": "Prsten da mi dadeš, libe",
+       "en": "Give me a ring, love,"
+      },
+      {
+       "cyr": "и да ме посвршиш.",
+       "lat": "i da me posvršiš.",
+       "en": "and betroth me."
+      },
+      {
+       "cyr": "Ти да ме посвршиш, либе",
+       "lat": "Ti da me posvršiš, libe",
+       "en": "You betroth me, love,"
+      },
+      {
+       "cyr": "и да ме целуваш.",
+       "lat": "i da me celuvaš.",
+       "en": "and then kiss me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Целувај ме мило либе,",
+       "lat": "Celuvaj me milo libe,",
+       "en": "Kiss me, sweet love,"
+      },
+      {
+       "cyr": "немој да ме прашаш.",
+       "lat": "nemoj da me prašaš.",
+       "en": "do not ask me."
+      },
+      {
+       "cyr": "Само немој мило либе",
+       "lat": "Samo nemoj milo libe",
+       "en": "Just do not, sweet love,"
+      },
+      {
+       "cyr": "нишан да оставаш.",
+       "lat": "nišan da ostavaš.",
+       "en": "leave a mark."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Штом ти така велиш, либе",
+       "lat": "- Štom ti taka veliš, libe",
+       "en": "- Since you say so, love,"
+      },
+      {
+       "cyr": "така нека биде.",
+       "lat": "taka neka bide.",
+       "en": "so let it be."
+      },
+      {
+       "cyr": "Утре јас ќе дојдам либе",
+       "lat": "Utre jas ḱe dojdam libe",
+       "en": "Tomorrow I will come, love,"
+      },
+      {
+       "cyr": "со мојата мајка.",
+       "lat": "so mojata majka.",
+       "en": "with my mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Утре јас ќе дојдам либе",
+       "lat": "Utre jas ḱe dojdam libe",
+       "en": "Tomorrow I will come, love,"
+      },
+      {
+       "cyr": "со мојата мајка,",
+       "lat": "so mojata majka,",
+       "en": "with my mother,"
+      },
+      {
+       "cyr": "прстен ќе ти дадам, либе",
+       "lat": "prsten ḱe ti dadam, libe",
+       "en": "I will give you a ring, love,"
+      },
+      {
+       "cyr": "и ќе те посвршам.",
+       "lat": "i ḱe te posvršam.",
+       "en": "and betroth you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Целувај ме мило либе,",
+       "lat": "- Celuvaj me milo libe,",
+       "en": "- Kiss me, sweet love,"
+      },
+      {
+       "cyr": "немој да ме прашаш.",
+       "lat": "nemoj da me prašaš.",
+       "en": "do not ask me."
+      },
+      {
+       "cyr": "Само немој мило либе",
+       "lat": "Samo nemoj milo libe",
+       "en": "Just do not, sweet love,"
+      },
+      {
+       "cyr": "нишан да оставаш.",
+       "lat": "nišan da ostavaš.",
+       "en": "leave a mark."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

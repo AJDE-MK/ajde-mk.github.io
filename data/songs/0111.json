@@ -1,0 +1,120 @@
+{
+ "id": 111,
+ "slug": "mlad-goce-mladi-vojvoda",
+ "title_cyr": "Млад Гоце, млади војвода",
+ "title_latin": "Mlad Goce, mladi vojvoda",
+ "title_en": "Young Goce, Young Voivode",
+ "pesna_url": "https://pesna.org/song/111",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. 'Дружина ми го дочула' has an unusual 'ми' (my reading: 'my company', a dative of interest), and the last line subject is slightly ambiguous.",
+ "words_to_learn": [
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel/haiduk leader"
+  },
+  {
+   "mk": "прошета",
+   "en": "to take a walk"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "изворче",
+   "en": "little spring"
+  },
+  {
+   "mk": "водица",
+   "en": "a little water"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval, end-blown shepherd's flute"
+  },
+  {
+   "mk": "засвирил",
+   "en": "started playing"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of men"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Млад Гоце, млади војвода",
+       "lat": "Mlad Goce, mladi vojvoda",
+       "en": "Young Goce, young voivode"
+      },
+      {
+       "cyr": "излегол да се прошета,",
+       "lat": "izlegol da se prošeta,",
+       "en": "came out to take a walk,"
+      },
+      {
+       "cyr": "низ таја гора зелена,",
+       "lat": "niz taja gora zelena,",
+       "en": "through that green forest,"
+      },
+      {
+       "cyr": "кај едно ладно изворче.",
+       "lat": "kaj edno ladno izvorče.",
+       "en": "to a cool little spring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седнал да си почине,",
+       "lat": "Sednal da si počine,",
+       "en": "He sat down to rest,"
+      },
+      {
+       "cyr": "водица да се напие.",
+       "lat": "vodica da se napie.",
+       "en": "to drink some water."
+      },
+      {
+       "cyr": "Извадил медно кавалче,",
+       "lat": "Izvadil medno kavalče,",
+       "en": "He took out a copper flute,"
+      },
+      {
+       "cyr": "засвирил Гоце, запеал.",
+       "lat": "zasviril Goce, zapeal.",
+       "en": "Goce began to play and sing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дружина ми го дочула,",
+       "lat": "Družina mi go dočula,",
+       "en": "My company heard him,"
+      },
+      {
+       "cyr": "сета дружина ја собрал.",
+       "lat": "seta družina ja sobral.",
+       "en": "he gathered the whole company."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

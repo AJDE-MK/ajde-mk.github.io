@@ -1,0 +1,223 @@
+{
+ "id": 115,
+ "slug": "vo-livagje-laden-izvor-ima",
+ "title_cyr": "Во ливаѓе ладен извор има",
+ "title_latin": "Vo livaǵe laden izvor ima",
+ "title_en": "In the Meadows There Is a Cold Spring",
+ "pesna_url": "https://pesna.org/song/115",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'рудина' rendered as 'pasture', and 'Кој се сака и да си се земе' as 'let those who love each other take each other', my reading. The title uses the spelling 'ливаѓе' while the text has 'љиваѓе'.",
+ "words_to_learn": [
+  {
+   "mk": "пролет",
+   "en": "spring (season)"
+  },
+  {
+   "mk": "стада",
+   "en": "flocks"
+  },
+  {
+   "mk": "заблејале",
+   "en": "bleated"
+  },
+  {
+   "mk": "ливаѓе / љиваѓе",
+   "en": "meadows"
+  },
+  {
+   "mk": "горо",
+   "en": "forest (vocative)"
+  },
+  {
+   "mk": "разграни",
+   "en": "spread branches"
+  },
+  {
+   "mk": "пладнува",
+   "en": "rests at noon"
+  },
+  {
+   "mk": "рудина",
+   "en": "mountain pasture"
+  },
+  {
+   "mk": "грев",
+   "en": "sin"
+  }
+ ],
+ "performers": [
+  "Благоја Грујовски",
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/2139"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2140"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2220"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Развивај горо зелена)",
+       "lat": "(Razvivaj goro zelena)",
+       "en": "(Unfurl, green forest)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде пролет, на бистра планина,",
+       "lat": "Dojde prolet, na bistra planina,",
+       "en": "Spring came to the clear mountain,"
+      },
+      {
+       "cyr": "заблејале, стада неброени.",
+       "lat": "zablejale, stada nebroeni.",
+       "en": "the countless flocks bleated."
+      },
+      {
+       "cyr": "Во љиваѓе, ладен извор има,",
+       "lat": "Vo ljivaǵe, laden izvor ima,",
+       "en": "In the meadows there is a cold spring,"
+      },
+      {
+       "cyr": "крај изворот, трева зелена.",
+       "lat": "kraj izvorot, treva zelena.",
+       "en": "beside the spring, green grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Развивај горо зелена,",
+       "lat": "Razvivaj goro zelena,",
+       "en": "Unfurl, green forest,"
+      },
+      {
+       "cyr": "разграни гранки широко,",
+       "lat": "razgrani granki široko,",
+       "en": "spread your branches wide,"
+      },
+      {
+       "cyr": "направи сенки ладовни,",
+       "lat": "napravi senki ladovni,",
+       "en": "make cool shade,"
+      },
+      {
+       "cyr": "стадото да ми пладнува.",
+       "lat": "stadoto da mi pladnuva.",
+       "en": "for my flock to rest at noon."
+      },
+      {
+       "cyr": "Цветајте росни ливаѓе,",
+       "lat": "Cvetajte rosni livaǵe,",
+       "en": "Bloom, dewy meadows,"
+      },
+      {
+       "cyr": "околу Лазарополе,",
+       "lat": "okolu Lazaropole,",
+       "en": "around Lazaropole,"
+      },
+      {
+       "cyr": "таму ми срце остана,",
+       "lat": "tamu mi srce ostana,",
+       "en": "there my heart stayed,"
+      },
+      {
+       "cyr": "планино, моја рудино.",
+       "lat": "planino, moja rudino.",
+       "en": "mountain, my pasture."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во тревата, листе папирово,",
+       "lat": "Vo trevata, liste papirovo,",
+       "en": "In the grass, a paper leaf,"
+      },
+      {
+       "cyr": "во листето, ситно напишано:",
+       "lat": "vo listeto, sitno napišano:",
+       "en": "on the leaf, finely written:"
+      },
+      {
+       "cyr": "- Кој се сака и да си се земе,",
+       "lat": "- Koj se saka i da si se zeme,",
+       "en": "- Let those who love each other take each other,"
+      },
+      {
+       "cyr": "голем грев е млади да разделиш.",
+       "lat": "golem grev e mladi da razdeliš.",
+       "en": "it is a great sin to part the young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Развивај горо зелена,",
+       "lat": "Razvivaj goro zelena,",
+       "en": "Unfurl, green forest,"
+      },
+      {
+       "cyr": "разграни гранки широко,",
+       "lat": "razgrani granki široko,",
+       "en": "spread your branches wide,"
+      },
+      {
+       "cyr": "направи сенки ладовни,",
+       "lat": "napravi senki ladovni,",
+       "en": "make cool shade,"
+      },
+      {
+       "cyr": "стадото да ми пладнува.",
+       "lat": "stadoto da mi pladnuva.",
+       "en": "for my flock to rest at noon."
+      },
+      {
+       "cyr": "Цветајте росни ливаѓе,",
+       "lat": "Cvetajte rosni livaǵe,",
+       "en": "Bloom, dewy meadows,"
+      },
+      {
+       "cyr": "околу Лазарополе,",
+       "lat": "okolu Lazaropole,",
+       "en": "around Lazaropole,"
+      },
+      {
+       "cyr": "таму ми срце остана,",
+       "lat": "tamu mi srce ostana,",
+       "en": "there my heart stayed,"
+      },
+      {
+       "cyr": "планино, моја рудино.",
+       "lat": "planino, moja rudino.",
+       "en": "mountain, my pasture."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

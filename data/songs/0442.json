@@ -1,0 +1,165 @@
+{
+ "id": 442,
+ "slug": "ajde-shana-mana-na-kantarot",
+ "title_cyr": "Ајде шана мана на кантарот",
+ "title_latin": "Ajde šana mana na kantarot",
+ "title_en": "Come on, a Sign on the Scales",
+ "pesna_url": "https://pesna.org/song/442",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Line 1 'шана мана на кантарот' is unclear (possibly a nonsense or dialect phrase); my reading is 'a sign/mark on the scales'. Names with -инче (Шулинче, Малинче, Новинче) read as nicknames or surnames of makers; my reading.",
+ "words_to_learn": [
+  {
+   "mk": "амбар",
+   "en": "granary, storehouse"
+  },
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  },
+  {
+   "mk": "оро",
+   "en": "round folk dance"
+  },
+  {
+   "mk": "сред село",
+   "en": "in the middle of the village"
+  },
+  {
+   "mk": "челина",
+   "en": "forehead ornament, headband"
+  },
+  {
+   "mk": "лакован",
+   "en": "lacquered, shiny"
+  },
+  {
+   "mk": "навезан",
+   "en": "embroidered"
+  },
+  {
+   "mk": "кадифен",
+   "en": "velvet"
+  },
+  {
+   "mk": "не ми е жал",
+   "en": "I do not regret it"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/549"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде шана мана на кантарот",
+       "lat": "Ajde šana mana na kantarot",
+       "en": "Come on, a sign, a mark on the scales,"
+      },
+      {
+       "cyr": "да ме бараш Веле зад амбарот",
+       "lat": "da me baraš Vele zad ambarot",
+       "en": "look for me, Vele, behind the granary,"
+      },
+      {
+       "cyr": "ајде да ми дојдиш на Велигден",
+       "lat": "ajde da mi dojdiš na Veligden",
+       "en": "come on, come to me at Easter,"
+      },
+      {
+       "cyr": "на Велигден Веле, третиот ден.",
+       "lat": "na Veligden Vele, tretiot den.",
+       "en": "on Easter, Vele, the third day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде да заиграш едно оро",
+       "lat": "Ajde da zaigraš edno oro",
+       "en": "Come on, dance a dance with me,"
+      },
+      {
+       "cyr": "едно оро Веле на сред село",
+       "lat": "edno oro Vele na sred selo",
+       "en": "a dance, Vele, in the middle of the village,"
+      },
+      {
+       "cyr": "ајде и да умрам не ми е жал",
+       "lat": "ajde i da umram ne mi e žal",
+       "en": "come on, even if I die I do not regret it,"
+      },
+      {
+       "cyr": "се' што носам Веле, се' е твое.",
+       "lat": "se' što nosam Vele, se' e tvoe.",
+       "en": "everything I wear, Vele, is yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде челината лаковани",
+       "lat": "Ajde čelinata lakovani",
+       "en": "Come on, the lacquered headband"
+      },
+      {
+       "cyr": "Од Пандета, Веле, Шулинчето",
+       "lat": "Od Pandeta, Vele, Šulinčeto",
+       "en": "is from Pande, Vele, little Shulinche,"
+      },
+      {
+       "cyr": "ајде шегунчето навезано",
+       "lat": "ajde šegunčeto navezano",
+       "en": "come on, the embroidered little jacket"
+      },
+      {
+       "cyr": "од Смилета, Веле, Малинчето.",
+       "lat": "od Smileta, Vele, Malinčeto.",
+       "en": "is from Smile, Vele, little Maline."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кошничето кадифено",
+       "lat": "Ajde košničeto kadifeno",
+       "en": "Come on, the velvet little basket"
+      },
+      {
+       "cyr": "од Сандрета, Веле, Новинчето",
+       "lat": "od Sandreta, Vele, Novinčeto",
+       "en": "is from Sandre, Vele, little Novinche,"
+      },
+      {
+       "cyr": "ајде и да умрам не ми е жал",
+       "lat": "ajde i da umram ne mi e žal",
+       "en": "come on, even if I die I do not regret it,"
+      },
+      {
+       "cyr": "се' што носам Веле, се' е твое.",
+       "lat": "se' što nosam Vele, se' e tvoe.",
+       "en": "everything I wear, Vele, is yours."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

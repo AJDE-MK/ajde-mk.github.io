@@ -1,0 +1,205 @@
+{
+ "id": 744,
+ "slug": "a-bre-gjore-lazhgo-gjore",
+ "title_cyr": "А бре Ѓоре, лажго Ѓоре",
+ "title_latin": "A bre Ǵore, lažgo Ǵore",
+ "title_en": "Hey Gjore, You Liar Gjore",
+ "pesna_url": "https://pesna.org/song/744",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Копшара' is my reading as 'pigpen/small shed' (uncertain dialect word). 'Мора лага да прозбориш' is rendered 'you are bound to tell a lie', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "лажго",
+   "en": "liar (address)"
+  },
+  {
+   "mk": "лага",
+   "en": "lie"
+  },
+  {
+   "mk": "кроиш",
+   "en": "you cook up, you devise (lit. cut out)"
+  },
+  {
+   "mk": "се фалиш",
+   "en": "you boast"
+  },
+  {
+   "mk": "копшар",
+   "en": "pigpen (my reading)"
+  },
+  {
+   "mk": "врана коњ",
+   "en": "black horse"
+  },
+  {
+   "mk": "криво магаре",
+   "en": "crooked/lame donkey"
+  },
+  {
+   "mk": "камо ли",
+   "en": "let alone, much less"
+  },
+  {
+   "mk": "вошка",
+   "en": "louse"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1068"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре Ѓоре, Ѓоре, лажго Ѓоре,",
+       "lat": "A bre Ǵore, Ǵore, lažgo Ǵore,",
+       "en": "Hey Gjore, Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "абре Ѓоре, лажго Ѓоре,",
+       "lat": "abre Ǵore, lažgo Ǵore,",
+       "en": "hey Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "кога уста ќе отвориш море,",
+       "lat": "koga usta ḱe otvoriš more,",
+       "en": "when you open your mouth, hey,"
+      },
+      {
+       "cyr": "мора лага да прозбориш,",
+       "lat": "mora laga da prozboriš,",
+       "en": "you are bound to tell a lie,"
+      },
+      {
+       "cyr": "кога уста ќе затвориш, море,",
+       "lat": "koga usta ḱe zatvoriš, more,",
+       "en": "when you close your mouth, hey,"
+      },
+      {
+       "cyr": "тогај нова лага кроиш.",
+       "lat": "togaj nova laga kroiš.",
+       "en": "then you cook up a new lie."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре Ѓоре, Ѓоре, лажго Ѓоре,",
+       "lat": "A bre Ǵore, Ǵore, lažgo Ǵore,",
+       "en": "Hey Gjore, Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "абре Ѓоре, лажго Ѓоре,",
+       "lat": "abre Ǵore, lažgo Ǵore,",
+       "en": "hey Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "на моми се фалиш, збориш море,",
+       "lat": "na momi se fališ, zboriš more,",
+       "en": "you boast to the girls, you say, hey,"
+      },
+      {
+       "cyr": "дека имаш нова куќа,",
+       "lat": "deka imaš nova kuḱa,",
+       "en": "that you have a new house,"
+      },
+      {
+       "cyr": "а ти немаш ни копшара море,",
+       "lat": "a ti nemaš ni kopšara more,",
+       "en": "but you do not even have a pigpen, hey,"
+      },
+      {
+       "cyr": "а камо ли нова куќа.",
+       "lat": "a kamo li nova kuḱa.",
+       "en": "let alone a new house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре Ѓоре, Ѓоре, лажго Ѓоре,",
+       "lat": "A bre Ǵore, Ǵore, lažgo Ǵore,",
+       "en": "Hey Gjore, Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "абре Ѓоре, лажго Ѓоре,",
+       "lat": "abre Ǵore, lažgo Ǵore,",
+       "en": "hey Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "на моми се фалиш, збориш море,",
+       "lat": "na momi se fališ, zboriš more,",
+       "en": "you boast to the girls, you say, hey,"
+      },
+      {
+       "cyr": "дека имаш врана коња,",
+       "lat": "deka imaš vrana konja,",
+       "en": "that you have a black horse,"
+      },
+      {
+       "cyr": "а ти немаш ни криво магаре,",
+       "lat": "a ti nemaš ni krivo magare,",
+       "en": "but you do not even have a crooked donkey,"
+      },
+      {
+       "cyr": "а камоли врана коња.",
+       "lat": "a kamoli vrana konja.",
+       "en": "let alone a black horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре Ѓоре, Ѓоре, лажго Ѓоре,",
+       "lat": "A bre Ǵore, Ǵore, lažgo Ǵore,",
+       "en": "Hey Gjore, Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "абре Ѓоре, лажго Ѓоре,",
+       "lat": "abre Ǵore, lažgo Ǵore,",
+       "en": "hey Gjore, you liar Gjore,"
+      },
+      {
+       "cyr": "на моми се фалиш, збориш море,",
+       "lat": "na momi se fališ, zboriš more,",
+       "en": "you boast to the girls, you say, hey,"
+      },
+      {
+       "cyr": "дека имаш триста овци,",
+       "lat": "deka imaš trista ovci,",
+       "en": "that you have three hundred sheep,"
+      },
+      {
+       "cyr": "а ти немаш триста вошки, море,",
+       "lat": "a ti nemaš trista voški, more,",
+       "en": "but you do not have three hundred lice, hey,"
+      },
+      {
+       "cyr": "а камо ли триста овци.",
+       "lat": "a kamo li trista ovci.",
+       "en": "let alone three hundred sheep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

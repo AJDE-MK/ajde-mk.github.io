@@ -1,0 +1,116 @@
+{
+ "id": 532,
+ "slug": "oj-ljubov-ljubov",
+ "title_cyr": "Ој љубов, љубов",
+ "title_latin": "Oj ljubov, ljubov",
+ "title_en": "Oh, love, love",
+ "pesna_url": "https://pesna.org/song/532",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Деспина",
+  "Kristo Rodzevski"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/968"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/1035"
+  },
+  {
+   "who": "Kristo Rodzevski",
+   "url": "https://pesna.org/audio-download/3269"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3657"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој љубов, љубов, љубов безнадежна,",
+       "lat": "Oj ljubov, ljubov, ljubov beznadežna,",
+       "en": "Oh, love, love, hopeless love."
+      },
+      {
+       "cyr": "ој љубов, љубов, љубов безнадежна.",
+       "lat": "oj ljubov, ljubov, ljubov beznadežna.",
+       "en": "Oh, love, love, hopeless love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја стани, стани прва веренице,",
+       "lat": "Ja stani, stani prva verenice,",
+       "en": "Come on, get up, get up my fiancé,"
+      },
+      {
+       "cyr": "да те прегрнам за последен пат.",
+       "lat": "da te pregrnam za posleden pat.",
+       "en": "let me hold you for the last time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам либе, не можам да станам,",
+       "lat": "Ne možam libe, ne možam da stanam,",
+       "en": "I can't, dear, I can't get up,"
+      },
+      {
+       "cyr": "црната земја голема тежина.",
+       "lat": "crnata zemja golema težina.",
+       "en": "the black earth weighs heavily."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црните очи змија ги испила,",
+       "lat": "Crnite oči zmija gi ispila,",
+       "en": "A snake drunk my black eyes,"
+      },
+      {
+       "cyr": "в' русата коса гнездо направила.",
+       "lat": "v' rusata kosa gnezdo napravila.",
+       "en": "and made a nest in my golden hair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја стани, стани, прва веренице",
+       "lat": "Ja stani, stani, prva verenice",
+       "en": "Come on, get up, get up my fiancé,"
+      },
+      {
+       "cyr": "да те прегрнам за последен п'т.",
+       "lat": "da te pregrnam za posleden p't.",
+       "en": "let me hold you for the last time."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

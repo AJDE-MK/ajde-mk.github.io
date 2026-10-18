@@ -1,0 +1,137 @@
+{
+ "id": 1118,
+ "slug": "shto-si-zaljubiv-edno-momiche",
+ "title_cyr": "Што си заљубив едно момиче",
+ "title_latin": "Što si zaljubiv edno momiče",
+ "title_en": "What a girl I fell in love with",
+ "pesna_url": "https://pesna.org/song/1118",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Што си заљубив' is read as an exclamation ('what a girl I fell for'). Origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "заљубив",
+   "en": "I fell in love (dialect form)"
+  },
+  {
+   "mk": "момиче",
+   "en": "girl"
+  },
+  {
+   "mk": "мамев",
+   "en": "I coaxed / wooed"
+  },
+  {
+   "mk": "остави",
+   "en": "she left"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (interjection)"
+  },
+  {
+   "mk": "к'лнеше",
+   "en": "she swore (колнеше)"
+  },
+  {
+   "mk": "позади",
+   "en": "behind"
+  },
+  {
+   "mk": "друго",
+   "en": "another (one)"
+  }
+ ],
+ "performers": [
+  "Габриела Новевска"
+ ],
+ "audio": [
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/2673"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што си заљубив едно момиче, бре,",
+       "lat": "Što si zaljubiv edno momiče, bre,",
+       "en": "What a girl I fell in love with, hey,"
+      },
+      {
+       "cyr": "од нашето село.",
+       "lat": "od našeto selo.",
+       "en": "from our village."
+      },
+      {
+       "cyr": "Ај што го љубев, ај што го мамев, бре,",
+       "lat": "Aj što go ljubev, aj što go mamev, bre,",
+       "en": "Oh how I loved her, oh how I coaxed her, hey,"
+      },
+      {
+       "cyr": "до девет години.",
+       "lat": "do devet godini.",
+       "en": "for nine years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај на десетта, ај на десетта, бре,",
+       "lat": "Aj na desetta, aj na desetta, bre,",
+       "en": "Oh in the tenth, oh in the tenth, hey,"
+      },
+      {
+       "cyr": "оно ме остави.",
+       "lat": "ono me ostavi.",
+       "en": "she left me."
+      },
+      {
+       "cyr": "Ај на десетта, ај на десетта, бре",
+       "lat": "Aj na desetta, aj na desetta, bre",
+       "en": "Oh in the tenth, oh in the tenth, hey,"
+      },
+      {
+       "cyr": "оно ме остави.",
+       "lat": "ono me ostavi.",
+       "en": "she left me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред очи ми се љуто к'лнеше, бре,",
+       "lat": "Pred oči mi se ljuto k'lneše, bre,",
+       "en": "Before my eyes she swore bitterly, hey,"
+      },
+      {
+       "cyr": "Лена сам јас твоја.",
+       "lat": "Lena sam jas tvoja.",
+       "en": "Lena, I am yours."
+      },
+      {
+       "cyr": "Позади мене, позади мене, бре",
+       "lat": "Pozadi mene, pozadi mene, bre",
+       "en": "Behind my back, behind my back, hey,"
+      },
+      {
+       "cyr": "друго си заљуби.",
+       "lat": "drugo si zaljubi.",
+       "en": "she fell for another."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,166 @@
+{
+ "id": 1020,
+ "slug": "spremaj-mi-spremaj-libe-konja-dorija",
+ "title_cyr": "Спремај ми, спремај либе коња дорија",
+ "title_latin": "Spremaj mi, spremaj libe konja dorija",
+ "title_en": "Get the bay horse ready, my love",
+ "pesna_url": "https://pesna.org/song/1020",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'коња дорија' read as a dark bay horse; 'летна невеста' (summer bride) and 'тенкана сенка' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "love, sweetheart"
+  },
+  {
+   "mk": "дорија",
+   "en": "dark bay (horse color)"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "сејмен",
+   "en": "seymen, armed guard or soldier"
+  },
+  {
+   "mk": "спремај",
+   "en": "get ready, prepare (imperative)"
+  },
+  {
+   "mk": "сенка",
+   "en": "shadow"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "ќе т' оставам",
+   "en": "I will leave you"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2358"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/3143"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Спремај ми, спремај либе",
+       "lat": "- Spremaj mi, spremaj libe",
+       "en": "- Get ready for me, get ready, love,"
+      },
+      {
+       "cyr": "коња дорија за мене.",
+       "lat": "konja dorija za mene.",
+       "en": "the bay horse for me."
+      },
+      {
+       "cyr": "Утре ќе одам, либе,",
+       "lat": "Utre ḱe odam, libe,",
+       "en": "Tomorrow I will go, love,"
+      },
+      {
+       "cyr": "туѓа туѓина без тебе.",
+       "lat": "tuǵa tuǵina bez tebe.",
+       "en": "to a foreign land without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ти ќе си одиш, либе,",
+       "lat": "- Ti ḱe si odiš, libe,",
+       "en": "- You will go, love,"
+      },
+      {
+       "cyr": "мене каде ќе ме оставиш?",
+       "lat": "mene kade ḱe me ostaviš?",
+       "en": "where will you leave me?"
+      },
+      {
+       "cyr": "- Тебе ќе т' оставам, либе,",
+       "lat": "- Tebe ḱe t' ostavam, libe,",
+       "en": "- I will leave you, love,"
+      },
+      {
+       "cyr": "при моја мајка и твоја.",
+       "lat": "pri moja majka i tvoja.",
+       "en": "with my mother and yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај, што ќе ми, мило либе,",
+       "lat": "- Aj, što ḱe mi, milo libe,",
+       "en": "- Oh, what use to me, dear love,"
+      },
+      {
+       "cyr": "до две мајки, без тебе.",
+       "lat": "do dve majki, bez tebe.",
+       "en": "are two mothers without you."
+      },
+      {
+       "cyr": "Ај земи ме, мило либе,",
+       "lat": "Aj zemi me, milo libe,",
+       "en": "Oh, take me, dear love,"
+      },
+      {
+       "cyr": "сејмен да бидам до тебе.",
+       "lat": "sejmen da bidam do tebe.",
+       "en": "to be a seymen beside you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење ќе ти бидам, либе,",
+       "lat": "Denje ḱe ti bidam, libe,",
+       "en": "By day I will be, love,"
+      },
+      {
+       "cyr": "летна невеста до тебе.",
+       "lat": "letna nevesta do tebe.",
+       "en": "a summer bride beside you."
+      },
+      {
+       "cyr": "Ноќе ќе ти бидам, либе,",
+       "lat": "Noḱe ḱe ti bidam, libe,",
+       "en": "By night I will be, love,"
+      },
+      {
+       "cyr": "тенкана сенка под тебе.",
+       "lat": "tenkana senka pod tebe.",
+       "en": "a slender shadow under you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

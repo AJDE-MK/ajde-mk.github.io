@@ -1,0 +1,182 @@
+{
+ "id": 651,
+ "slug": "dvama-se-ljubea-mamo",
+ "title_cyr": "Двама се љубеа мамо",
+ "title_latin": "Dvama se ljubea mamo",
+ "title_en": "The two loved each other, mother",
+ "pesna_url": "https://pesna.org/song/651",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. Line 'не ми дадоа' says 'they did not let me/us' with 'ми' an expressive dative; the singer speaks as the girl, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "љубеа",
+   "en": "they loved"
+  },
+  {
+   "mk": "мамо",
+   "en": "mother (address)"
+  },
+  {
+   "mk": "години",
+   "en": "years"
+  },
+  {
+   "mk": "месеци",
+   "en": "months"
+  },
+  {
+   "mk": "душманка",
+   "en": "female enemy"
+  },
+  {
+   "mk": "земат",
+   "en": "to marry (lit. take)"
+  },
+  {
+   "mk": "момче",
+   "en": "young man, boy"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "сабота",
+   "en": "Saturday"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Двама се љубеа мамо",
+       "lat": "Dvama se ljubea mamo",
+       "en": "The two loved each other, mother"
+      },
+      {
+       "cyr": "Двама се љубеа",
+       "lat": "Dvama se ljubea",
+       "en": "The two loved each other"
+      },
+      {
+       "cyr": "Двама се љубеа мамо",
+       "lat": "Dvama se ljubea mamo",
+       "en": "The two loved each other, mother"
+      },
+      {
+       "cyr": "време три години",
+       "lat": "vreme tri godini",
+       "en": "for three years"
+      },
+      {
+       "cyr": "време три години мамо",
+       "lat": "vreme tri godini mamo",
+       "en": "for three years, mother"
+      },
+      {
+       "cyr": "па и шест месеци.",
+       "lat": "pa i šest meseci.",
+       "en": "and six months too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На момчето мајка беше",
+       "lat": "Na momčeto majka beše",
+       "en": "The young man's mother was"
+      },
+      {
+       "cyr": "на момчето мајка",
+       "lat": "na momčeto majka",
+       "en": "the young man's mother"
+      },
+      {
+       "cyr": "на момчето мајка беше",
+       "lat": "na momčeto majka beše",
+       "en": "the young man's mother was"
+      },
+      {
+       "cyr": "голема душманка. [х2]",
+       "lat": "golema dušmanka. [h2]",
+       "en": "a great enemy. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па не ми дадоа мамо",
+       "lat": "Pa ne mi dadoa mamo",
+       "en": "And they did not let us, mother"
+      },
+      {
+       "cyr": "па не ми дадоа",
+       "lat": "pa ne mi dadoa",
+       "en": "and they did not let us"
+      },
+      {
+       "cyr": "па не ми дадоа мамо",
+       "lat": "pa ne mi dadoa mamo",
+       "en": "and they did not let us, mother"
+      },
+      {
+       "cyr": "двајца да се земат. [х2]",
+       "lat": "dvajca da se zemat. [h2]",
+       "en": "the two to marry. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момчето умрело мамо",
+       "lat": "Momčeto umrelo mamo",
+       "en": "The young man died, mother"
+      },
+      {
+       "cyr": "момчето умрело",
+       "lat": "momčeto umrelo",
+       "en": "the young man died"
+      },
+      {
+       "cyr": "момчето умрело мамо",
+       "lat": "momčeto umrelo mamo",
+       "en": "the young man died, mother"
+      },
+      {
+       "cyr": "в' сабота навечер,",
+       "lat": "v' sabota navečer,",
+       "en": "on Saturday evening,"
+      },
+      {
+       "cyr": "а момето умре мамо",
+       "lat": "a mometo umre mamo",
+       "en": "and the girl died, mother"
+      },
+      {
+       "cyr": "рано во недела.",
+       "lat": "rano vo nedela.",
+       "en": "early on Sunday."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

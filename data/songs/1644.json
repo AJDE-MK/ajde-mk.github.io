@@ -1,0 +1,249 @@
+{
+ "id": 1644,
+ "slug": "ozdola-ide-adem-aga",
+ "title_cyr": "Оздола иде Адем ага",
+ "title_latin": "Ozdola ide Adem aga",
+ "title_en": "Adem Agha comes from below",
+ "pesna_url": "https://pesna.org/song/1644",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; the second version is marked with the source's own line '(Друга верзија)', copied unchanged. 'џам везир' / 'џамли Веза' is unclear to me (rendered '...'), and the sense of 'на големо' ('rise up high') is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ага",
+   "en": "agha (Ottoman landlord title)"
+  },
+  {
+   "mk": "чифлик",
+   "en": "estate, farm held by an agha"
+  },
+  {
+   "mk": "чифлигар",
+   "en": "estate worker, tenant"
+  },
+  {
+   "mk": "везир",
+   "en": "vizier"
+  },
+  {
+   "mk": "арамија",
+   "en": "outlaw, brigand"
+  },
+  {
+   "mk": "лето пролето",
+   "en": "summer and spring"
+  },
+  {
+   "mk": "колено",
+   "en": "knee"
+  },
+  {
+   "mk": "близнак",
+   "en": "twin"
+  },
+  {
+   "mk": "на големо",
+   "en": "high, in a big way (my reading)"
+  }
+ ],
+ "performers": [
+  "Блага Петреска",
+  "Захаринка Милосављевиќ"
+ ],
+ "audio": [
+  {
+   "who": "Блага Петреска, Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/4422"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде Адем ага,",
+       "lat": "Ozdola ide Adem aga,",
+       "en": "Adem Agha comes from below,"
+      },
+      {
+       "cyr": "право ми трга на чифликот, ајде.",
+       "lat": "pravo mi trga na čiflikot, ajde.",
+       "en": "he heads straight for the estate, come on."
+      },
+      {
+       "cyr": "Кога го видоа чифлигарите,",
+       "lat": "Koga go vidoa čifligarite,",
+       "en": "When the estate-workers saw him,"
+      },
+      {
+       "cyr": "сите на нога му станаа, ајде.",
+       "lat": "site na noga mu stanaa, ajde.",
+       "en": "they all stood up for him, come on."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само џам везирот не му стана,",
+       "lat": "Samo džam vezirot ne mu stana,",
+       "en": "Only the ... vizier did not stand up,"
+      },
+      {
+       "cyr": "се налути Адем ага, ајде.",
+       "lat": "se naluti Adem aga, ajde.",
+       "en": "Adem Agha grew angry, come on."
+      },
+      {
+       "cyr": "- Ој џам везире, џам везире,",
+       "lat": "- Oj džam vezire, džam vezire,",
+       "en": "- Oh ... vizier, ... vizier,"
+      },
+      {
+       "cyr": "кога ќе дојди лето пролето, ајде.",
+       "lat": "koga ḱe dojdi leto proleto, ajde.",
+       "en": "when summer and spring come, come on,"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе се сторам арамија,",
+       "lat": "Jas ḱe se storam aramija,",
+       "en": "I will become an outlaw,"
+      },
+      {
+       "cyr": "ќе ти ги пленам твоите браќа.",
+       "lat": "ḱe ti gi plenam tvoite braḱa.",
+       "en": "I will plunder your brothers."
+      },
+      {
+       "cyr": "Ти ќе ме молиш на колено,",
+       "lat": "Ti ḱe me moliš na koleno,",
+       "en": "You will beg me on your knee,"
+      },
+      {
+       "cyr": "јас ќе се кревам на големо, ајде.",
+       "lat": "jas ḱe se krevam na golemo, ajde.",
+       "en": "and I will rise up high, come on."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде Адем ага,",
+       "lat": "Ozdola ide Adem aga,",
+       "en": "Adem Agha comes from below,"
+      },
+      {
+       "cyr": "право ми тегне на чивлигот.",
+       "lat": "pravo mi tegne na čivligot.",
+       "en": "he heads straight for the estate."
+      },
+      {
+       "cyr": "Сите чивлигани го видоа,",
+       "lat": "Site čivligani go vidoa,",
+       "en": "All the estate-workers saw him,"
+      },
+      {
+       "cyr": "сите на нога му станаа.",
+       "lat": "site na noga mu stanaa.",
+       "en": "they all stood up for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само џамли Веза не стана:",
+       "lat": "Samo džamli Veza ne stana:",
+       "en": "Only ... Veza did not stand up:"
+      },
+      {
+       "cyr": "- Сите чивлигани ми станаа",
+       "lat": "- Site čivligani mi stanaa",
+       "en": "- All the estate-workers stood up for me,"
+      },
+      {
+       "cyr": "само ти не стана.",
+       "lat": "samo ti ne stana.",
+       "en": "only you did not stand."
+      },
+      {
+       "cyr": "Дали знаеш Везо, ил не знаеш?",
+       "lat": "Dali znaeš Vezo, il ne znaeš?",
+       "en": "Do you know, Veza, or don't you know?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оти ќе дојде лето пролето,",
+       "lat": "Oti ḱe dojde leto proleto,",
+       "en": "For summer and spring will come,"
+      },
+      {
+       "cyr": "ја ќе се стора арамија,",
+       "lat": "ja ḱe se stora aramija,",
+       "en": "I will become an outlaw,"
+      },
+      {
+       "cyr": "арамија - лута змија во планина",
+       "lat": "aramija - luta zmija vo planina",
+       "en": "an outlaw, a fierce snake in the mountain,"
+      },
+      {
+       "cyr": "и ќе ги вана Везо твојте браќа.",
+       "lat": "i ḱe gi vana Vezo tvojte braḱa.",
+       "en": "and I will catch your brothers, Veza."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте браќа, Везо, два близнака.",
+       "lat": "Tvojte braḱa, Vezo, dva bliznaka.",
+       "en": "Your brothers, Veza, two twins."
+      },
+      {
+       "cyr": "Ти ќе ми дојдеш Везо на молење,",
+       "lat": "Ti ḱe mi dojdeš Vezo na molenje,",
+       "en": "You will come to me, Veza, begging,"
+      },
+      {
+       "cyr": "а ја ќе се крена на големо.",
+       "lat": "a ja ḱe se krena na golemo.",
+       "en": "and I will rise up high."
+      },
+      {
+       "cyr": "Ја ќе се крена, Везо, на големо,",
+       "lat": "Ja ḱe se krena, Vezo, na golemo,",
+       "en": "I will rise up high, Veza,"
+      },
+      {
+       "cyr": "дур' не ми седниш на колено.",
+       "lat": "dur' ne mi sedniš na koleno.",
+       "en": "until you sit on my knee."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

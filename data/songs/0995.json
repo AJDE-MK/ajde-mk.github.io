@@ -1,0 +1,133 @@
+{
+ "id": 995,
+ "slug": "marike-mori-bela-vardarke",
+ "title_cyr": "Марике мори, бела вардарке",
+ "title_latin": "Marike mori, bela vardarke",
+ "title_en": "Marika, hey, white girl of the Vardar",
+ "pesna_url": "https://pesna.org/song/995",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional urban song; origin unclear. The speaker labels in the last two stanzas are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "вардарка",
+   "en": "girl from the Vardar (river) area"
+  },
+  {
+   "mk": "скопјанка",
+   "en": "woman from Skopje"
+  },
+  {
+   "mk": "крвави очи",
+   "en": "bloodshot eyes"
+  },
+  {
+   "mk": "карала",
+   "en": "scolded"
+  },
+  {
+   "mk": "истепал",
+   "en": "beat up"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, dear"
+  },
+  {
+   "mk": "разбрала",
+   "en": "found out, understood"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2315"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Марике мори, бела вардарке,",
+       "lat": "- Marike mori, bela vardarke,",
+       "en": "- Marika, hey, white girl of the Vardar,"
+      },
+      {
+       "cyr": "бела вардарке, лична скопјанке.",
+       "lat": "bela vardarke, lična skopjanke.",
+       "en": "white girl of the Vardar, lovely girl of Skopje."
+      },
+      {
+       "cyr": "Што ти се очи Маре крвави,",
+       "lat": "Što ti se oči Mare krvavi,",
+       "en": "Why are your eyes bloodshot, Mara,"
+      },
+      {
+       "cyr": "што си плакала, што си жалела?",
+       "lat": "što si plakala, što si žalela?",
+       "en": "why have you cried, why have you grieved?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали те Маре мајка карала,",
+       "lat": "Dali te Mare majka karala,",
+       "en": "Did your mother scold you, Mara,"
+      },
+      {
+       "cyr": "или те Маре татко истепал?",
+       "lat": "ili te Mare tatko istepal?",
+       "en": "or did your father beat you?"
+      },
+      {
+       "cyr": "- Ниту ме либе мајка карала,",
+       "lat": "- Nitu me libe majka karala,",
+       "en": "- Neither did my mother scold me, dear,"
+      },
+      {
+       "cyr": "ниту ме либе татко истепал.",
+       "lat": "nitu me libe tatko istepal.",
+       "en": "nor did my father beat me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туку сум чула либе разбрала,",
+       "lat": "Tuku sum čula libe razbrala,",
+       "en": "But I have heard, dear, and found out,"
+      },
+      {
+       "cyr": "дека со друго либе се жениш.",
+       "lat": "deka so drugo libe se ženiš.",
+       "en": "that you are marrying another sweetheart."
+      },
+      {
+       "cyr": "Дека се жениш, мене оставаш,",
+       "lat": "Deka se ženiš, mene ostavaš,",
+       "en": "That you are marrying, leaving me,"
+      },
+      {
+       "cyr": "затоа либе јас сум плакала.",
+       "lat": "zatoa libe jas sum plakala.",
+       "en": "that is why, dear, I have cried."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

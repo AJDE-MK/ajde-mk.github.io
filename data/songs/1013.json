@@ -1,0 +1,70 @@
+{
+ "id": 1013,
+ "slug": "a-shto-si-mi-libe-gajlelija",
+ "title_cyr": "А што си ми либе гајлелија",
+ "title_latin": "A što si mi libe gajlelija",
+ "title_en": "Why are you so worried, my love",
+ "pesna_url": "https://pesna.org/song/1013",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Мирвет Беловска"
+ ],
+ "audio": [
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2349"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- А што си ми либе гајлелија,",
+       "lat": "- A što si mi libe gajlelija,",
+       "en": "- Why are you so worried, my love,"
+      },
+      {
+       "cyr": "гајлелија, либе, нажалена?",
+       "lat": "gajlelija, libe, nažalena?",
+       "en": "worried, my love, and sad?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како да не сум, душо, гајлелија,",
+       "lat": "- Kako da ne sum, dušo, gajlelija,",
+       "en": "- How can I not be, my soul, worried,"
+      },
+      {
+       "cyr": "кога гледам, душо, по народа,",
+       "lat": "koga gledam, dušo, po naroda,",
+       "en": "when I see, my soul, at the folks,"
+      },
+      {
+       "cyr": "како се земаат, душо,",
+       "lat": "kako se zemaat, dušo,",
+       "en": "how they are getting married, my soul,"
+      },
+      {
+       "cyr": "со прилика?",
+       "lat": "so prilika?",
+       "en": "with their soulmates?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

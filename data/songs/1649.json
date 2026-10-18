@@ -1,0 +1,140 @@
+{
+ "id": 1649,
+ "slug": "nevenko-neven-v-gradina",
+ "title_cyr": "Невенко, невен в градина",
+ "title_latin": "Nevenko, neven v gradina",
+ "title_en": "Marigold, marigold in the garden",
+ "pesna_url": "https://pesna.org/song/1649",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски",
+  "Љубен и Весела Божкови",
+  "Наум Петрески",
+  "Румјана Попова"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески, Румјана Попова",
+   "url": "https://pesna.org/audio-download/4430"
+  },
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/4431"
+  },
+  {
+   "who": "Љубен и Весела Божкови",
+   "url": "https://pesna.org/audio-download/4432"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Невенке, ах мори, невен в градина,",
+       "lat": "- Nevenke, ah mori, neven v gradina,",
+       "en": "- Nevena, oh dear, marigold in the garden,"
+      },
+      {
+       "cyr": "Невенке, душо здравец в' планина.",
+       "lat": "Nevenke, dušo zdravec v' planina.",
+       "en": "Nevena, my dear, a mountain marigold."
+      },
+      {
+       "cyr": "Невенке тенка, висока,",
+       "lat": "Nevenke tenka, visoka,",
+       "en": "Nevena, thin, tall,"
+      },
+      {
+       "cyr": "невен, Невенке сенко широка.",
+       "lat": "neven, Nevenke senko široka.",
+       "en": "marigold, Nevena, a wide shadow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кого си, ах мори, сношти чекала",
+       "lat": "Kogo si, ah mori, snošti čekala",
+       "en": "Who were you, oh dear, waiting for last night"
+      },
+      {
+       "cyr": "и кого душо, в очи гледала?",
+       "lat": "i kogo dušo, v oči gledala?",
+       "en": "and who, my dear, did you look into the eyes?"
+      },
+      {
+       "cyr": "На кого така збореше",
+       "lat": "Na kogo taka zboreše",
+       "en": "Who did you speak to like that"
+      },
+      {
+       "cyr": "кога, кога од љубов гореше?",
+       "lat": "koga, koga od ljubov goreše?",
+       "en": "when, when did you burn with love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Штом ме прашуваш, ах море Јованче,",
+       "lat": "- Štom me prašuvaš, ah more Jovanče,",
+       "en": "- Since you ask me, oh dear Jovan,"
+      },
+      {
+       "cyr": "братово леле, верно другарче.",
+       "lat": "bratovo lele, verno drugarče.",
+       "en": "my brother's oh, faithful friend."
+      },
+      {
+       "cyr": "Кого сум сношти чекала",
+       "lat": "Kogo sum snošti čekala",
+       "en": "Who was I waiting for last night"
+      },
+      {
+       "cyr": "кого, кого сум в' очи гледала?",
+       "lat": "kogo, kogo sum v' oči gledala?",
+       "en": "who, who did I look into the eyes?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Месечината кога огреа",
+       "lat": "Mesečinata koga ogrea",
+       "en": "When the moon showed up"
+      },
+      {
+       "cyr": "моето срце, душо запеа.",
+       "lat": "moeto srce, dušo zapea.",
+       "en": "my heart, my dear sang."
+      },
+      {
+       "cyr": "И таа веќе не слуша,",
+       "lat": "I taa veḱe ne sluša,",
+       "en": "And she no longer listens,"
+      },
+      {
+       "cyr": "имам либе јас едно на душа.",
+       "lat": "imam libe jas edno na duša.",
+       "en": "I have only one love in my soul."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

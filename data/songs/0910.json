@@ -1,0 +1,195 @@
+{
+ "id": 910,
+ "slug": "jovane-more-jovane",
+ "title_cyr": "Јоване море, Јоване",
+ "title_latin": "Jovane more, Jovane",
+ "title_en": "Jovan, Hey Jovan",
+ "pesna_url": "https://pesna.org/song/910",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Коконо' (address to a lady) is my reading; 'ќе ти запалам дуќанот' lines are literal. 'терзивче' is a diminutive of тerzija (tailor).",
+ "words_to_learn": [
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market quarter"
+  },
+  {
+   "mk": "мајсторче",
+   "en": "(young) craftsman, little master"
+  },
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "свила коприна",
+   "en": "silk"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "мерка",
+   "en": "measurement"
+  },
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "чирак",
+   "en": "apprentice"
+  },
+  {
+   "mk": "лична",
+   "en": "handsome, good-looking"
+  },
+  {
+   "mk": "бања",
+   "en": "bath"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Билјан Стојаноски",
+  "Благоја Грујовски",
+  "Влатко Лозаноски",
+  "Наум Петрески",
+  "Фаворити"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2011"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/2012"
+  },
+  {
+   "who": "Фаворити",
+   "url": "https://pesna.org/audio-download/2013"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2014"
+  },
+  {
+   "who": "Анета Љумаковска, Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/2015"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Јоване море, Јоване",
+       "lat": "- Jovane more, Jovane",
+       "en": "- Jovan, hey Jovan,"
+      },
+      {
+       "cyr": "чаршија збори за тебе",
+       "lat": "čaršija zbori za tebe",
+       "en": "the bazaar talks about you,"
+      },
+      {
+       "cyr": "дека си добро мајсторче,",
+       "lat": "deka si dobro majstorče,",
+       "en": "that you are a good craftsman,"
+      },
+      {
+       "cyr": "мајсторче, добро терзивче.",
+       "lat": "majstorče, dobro terzivče.",
+       "en": "a craftsman, a good tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еве ти свила коприна,",
+       "lat": "Eve ti svila koprina,",
+       "en": "Here is silk for you"
+      },
+      {
+       "cyr": "фустанот да ми сошиеш.",
+       "lat": "fustanot da mi sošieš.",
+       "en": "to sew my dress."
+      },
+      {
+       "cyr": "Ако ми грешиш мерката,",
+       "lat": "Ako mi grešiš merkata,",
+       "en": "If you get my measurement wrong,"
+      },
+      {
+       "cyr": "дуќанот ќе ти запалам,",
+       "lat": "duḱanot ḱe ti zapalam,",
+       "en": "I will burn your shop,"
+      },
+      {
+       "cyr": "со него ти да изгориш",
+       "lat": "so nego ti da izgoriš",
+       "en": "so that you burn with it"
+      },
+      {
+       "cyr": "и твоите лични чираци.",
+       "lat": "i tvoite lični čiraci.",
+       "en": "and your handsome apprentices."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Коконо, мори коконо,",
+       "lat": "- Kokono, mori kokono,",
+       "en": "- Lady, hey lady,"
+      },
+      {
+       "cyr": "коконо лична, убава,",
+       "lat": "kokono lična, ubava,",
+       "en": "handsome, beautiful lady,"
+      },
+      {
+       "cyr": "мерката ти е земена",
+       "lat": "merkata ti e zemena",
+       "en": "your measurement was taken"
+      },
+      {
+       "cyr": "уште пред две-три недели.",
+       "lat": "ušte pred dve-tri nedeli.",
+       "en": "already two or three weeks ago."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога од бања идеше,",
+       "lat": "Koga od banja ideše,",
+       "en": "When you were coming from the bath,"
+      },
+      {
+       "cyr": "сенка во дуќан паѓаше,",
+       "lat": "senka vo duḱan paǵaše,",
+       "en": "your shadow fell in the shop,"
+      },
+      {
+       "cyr": "тогаш ти мерка зедовме.",
+       "lat": "togaš ti merka zedovme.",
+       "en": "then we took your measurement."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

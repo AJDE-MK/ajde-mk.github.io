@@ -1,0 +1,133 @@
+{
+ "id": 909,
+ "slug": "zapri-zapri-violino",
+ "title_cyr": "Запри, запри виолино",
+ "title_latin": "Zapri, zapri violino",
+ "title_en": "Stop, stop violin",
+ "pesna_url": "https://pesna.org/song/909",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Влатко Лозаноски",
+  "Мишко Крстевски"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2009"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/2171"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една стара виолина,",
+       "lat": "Edna stara violina,",
+       "en": "An old violin"
+      },
+      {
+       "cyr": "ноќва тивко свири,",
+       "lat": "noḱva tivko sviri,",
+       "en": "this night quietly plays,"
+      },
+      {
+       "cyr": "а во срце болка блика,",
+       "lat": "a vo srce bolka blika,",
+       "en": "a stream of pain in my heart,"
+      },
+      {
+       "cyr": "како да се смири?",
+       "lat": "kako da se smiri?",
+       "en": "how do I calm it down?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запри, запри виолино,",
+       "lat": "Zapri, zapri violino,",
+       "en": "Stop, stop violin,"
+      },
+      {
+       "cyr": "не свири, не свири за мене,",
+       "lat": "ne sviri, ne sviri za mene,",
+       "en": "don't play, don't play for me,"
+      },
+      {
+       "cyr": "мојто срце, виолино",
+       "lat": "mojto srce, violino",
+       "en": "my heart, violin,"
+      },
+      {
+       "cyr": "за неа ќе овене.",
+       "lat": "za nea ḱe ovene.",
+       "en": "yearns for her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таа песна што ја слушам,",
+       "lat": "Taa pesna što ja slušam,",
+       "en": "I hear this song"
+      },
+      {
+       "cyr": "за нас двајца збори",
+       "lat": "za nas dvajca zbori",
+       "en": "which tells a story about us"
+      },
+      {
+       "cyr": "и за таа љубов наша,",
+       "lat": "i za taa ljubov naša,",
+       "en": "and our love"
+      },
+      {
+       "cyr": "сè до рујни зори.",
+       "lat": "sè do rujni zori.",
+       "en": "until the reddish dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запри, запри виолино,",
+       "lat": "Zapri, zapri violino,",
+       "en": "Stop, stop violin,"
+      },
+      {
+       "cyr": "не свири, не свири за мене,",
+       "lat": "ne sviri, ne sviri za mene,",
+       "en": "don't play, don't play for me,"
+      },
+      {
+       "cyr": "мојто срце, виолино",
+       "lat": "mojto srce, violino",
+       "en": "my heart, violin,"
+      },
+      {
+       "cyr": "за неа ќе овене.",
+       "lat": "za nea ḱe ovene.",
+       "en": "yearns for her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

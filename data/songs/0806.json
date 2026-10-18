@@ -1,0 +1,151 @@
+{
+ "id": 806,
+ "slug": "gorichice-liljanova",
+ "title_cyr": "Горичице лилјанова",
+ "title_latin": "Goričice liljanova",
+ "title_en": "Little lily grove",
+ "pesna_url": "https://pesna.org/song/806",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Лилјанова, лилјакова' and 'чакарака петстотини' are unclear; my reading of the latter is 'five hundred worthless ones' (чакарака perhaps a Turkish-derived word for something cheap). Marked as guesses.",
+ "words_to_learn": [
+  {
+   "mk": "горичка",
+   "en": "little forest, grove"
+  },
+  {
+   "mk": "лилјанов",
+   "en": "of lilies (my reading)"
+  },
+  {
+   "mk": "пат",
+   "en": "path, road"
+  },
+  {
+   "mk": "помине",
+   "en": "to pass"
+  },
+  {
+   "mk": "Цариград",
+   "en": "Constantinople"
+  },
+  {
+   "mk": "оскапее",
+   "en": "to become scarce/expensive"
+  },
+  {
+   "mk": "пара",
+   "en": "small coin, penny"
+  },
+  {
+   "mk": "плева",
+   "en": "chaff"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1559"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Горичице лилјанова,",
+       "lat": "Goričice liljanova,",
+       "en": "Little lily grove,"
+      },
+      {
+       "cyr": "лилјанова, лилјакова.",
+       "lat": "liljanova, liljakova.",
+       "en": "lily, bat-like grove."
+      },
+      {
+       "cyr": "Пат прави ми да поминам,",
+       "lat": "Pat pravi mi da pominam,",
+       "en": "Make me a path to pass,"
+      },
+      {
+       "cyr": "да поминам да заминам.",
+       "lat": "da pominam da zaminam.",
+       "en": "to pass and go on."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да поминам да заминам,",
+       "lat": "Da pominam da zaminam,",
+       "en": "To pass and go on,"
+      },
+      {
+       "cyr": "да си појдам в Цариграда,",
+       "lat": "da si pojdam v Carigrada,",
+       "en": "to go to Constantinople,"
+      },
+      {
+       "cyr": "да си појдам в Цариграда,",
+       "lat": "da si pojdam v Carigrada,",
+       "en": "to go to Constantinople,"
+      },
+      {
+       "cyr": "да им кажам на момците.",
+       "lat": "da im kažam na momcite.",
+       "en": "to tell the lads."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да им кажам на момците",
+       "lat": "Da im kažam na momcite",
+       "en": "To tell the lads"
+      },
+      {
+       "cyr": "дека моми оскапеле:",
+       "lat": "deka momi oskapele:",
+       "en": "that girls have become scarce:"
+      },
+      {
+       "cyr": "чакарака петстотини,",
+       "lat": "čakaraka petstotini,",
+       "en": "five hundred for a pittance,"
+      },
+      {
+       "cyr": "една мома за илјада.",
+       "lat": "edna moma za iljada.",
+       "en": "one girl for a thousand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стара баба за една пара,",
+       "lat": "Stara baba za edna para,",
+       "en": "An old woman for a penny,"
+      },
+      {
+       "cyr": "стари дедо за кош плева.",
+       "lat": "stari dedo za koš pleva.",
+       "en": "an old man for a basket of chaff."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

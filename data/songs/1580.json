@@ -1,0 +1,153 @@
+{
+ "id": 1580,
+ "slug": "dejgidi-sute-mori-pulkova",
+ "title_cyr": "Дејгиди Суте мори Пулкова",
+ "title_latin": "Dejgidi Sute mori Pulkova",
+ "title_en": "Oh Sute, Pulkova's girl",
+ "pesna_url": "https://pesna.org/song/1580",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; 'Пулкова' is probably a surname or 'daughter-in-law of the Pulko family' (my reading). 'полтата' and 'јанакија' are dialect words I am unsure of; I kept 'janakija' untranslated and 'coat' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "дејгиди",
+   "en": "oh, alas (exclamation)"
+  },
+  {
+   "mk": "севда",
+   "en": "love, longing"
+  },
+  {
+   "mk": "арам да ти е",
+   "en": "shame on you / may it be cursed for you"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law"
+  },
+  {
+   "mk": "прелага",
+   "en": "talks round, deceives, persuades"
+  },
+  {
+   "mk": "полта",
+   "en": "a kind of coat or gown (dialect)"
+  }
+ ],
+ "performers": [
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4117"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди Суте мори Пулкова,",
+       "lat": "Dejgidi Sute mori Pulkova,",
+       "en": "Oh, Sute, hey, Pulkova's,"
+      },
+      {
+       "cyr": "дејгиди севдо голема.",
+       "lat": "dejgidi sevdo golema.",
+       "en": "oh, great love."
+      },
+      {
+       "cyr": "Ај, ај, тра-ла-ла-ла-ла,",
+       "lat": "Aj, aj, tra-la-la-la-la,",
+       "en": "Ay, ay, tra-la-la-la-la,"
+      },
+      {
+       "cyr": "дејгиди севдо голема.",
+       "lat": "dejgidi sevdo golema.",
+       "en": "oh, great love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Арам да ти е Суте живота",
+       "lat": "Aram da ti e Sute života",
+       "en": "Shame on your life, Sute,"
+      },
+      {
+       "cyr": "што го прелага свекра ти.",
+       "lat": "što go prelaga svekra ti.",
+       "en": "that your father-in-law has talked you round."
+      },
+      {
+       "cyr": "Ај, ај, тра-ла-ла-ла-ла,",
+       "lat": "Aj, aj, tra-la-la-la-la,",
+       "en": "Ay, ay, tra-la-la-la-la,"
+      },
+      {
+       "cyr": "што го прелага свекра ти.",
+       "lat": "što go prelaga svekra ti.",
+       "en": "that your father-in-law has talked you round."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што го прелага Суте свекра ти",
+       "lat": "Što go prelaga Sute svekra ti",
+       "en": "That your father-in-law, Sute, talked you round"
+      },
+      {
+       "cyr": "да ти ја купи полтата.",
+       "lat": "da ti ja kupi poltata.",
+       "en": "to buy you the coat."
+      },
+      {
+       "cyr": "Ај, ај, тра-ла-ла-ла-ла,",
+       "lat": "Aj, aj, tra-la-la-la-la,",
+       "en": "Ay, ay, tra-la-la-la-la,"
+      },
+      {
+       "cyr": "да ти ја купи полтата.",
+       "lat": "da ti ja kupi poltata.",
+       "en": "to buy you the coat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти ја купи Суте полтата,",
+       "lat": "Da ti ja kupi Sute poltata,",
+       "en": "To buy you, Sute, the coat,"
+      },
+      {
+       "cyr": "полтата Суте јанакија.",
+       "lat": "poltata Sute janakija.",
+       "en": "the coat, Sute, with a janakija."
+      },
+      {
+       "cyr": "Ај, ај, тра-ла-ла-ла-ла,",
+       "lat": "Aj, aj, tra-la-la-la-la,",
+       "en": "Ay, ay, tra-la-la-la-la,"
+      },
+      {
+       "cyr": "полтата Суте, јанакија.",
+       "lat": "poltata Sute, janakija.",
+       "en": "the coat, Sute, janakija."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

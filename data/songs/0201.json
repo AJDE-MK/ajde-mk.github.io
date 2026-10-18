@@ -1,0 +1,210 @@
+{
+ "id": 201,
+ "slug": "sum-se-rodil-meraklija",
+ "title_cyr": "Сум се родил мераклија",
+ "title_latin": "Sum se rodil meraklija",
+ "title_en": "I Was Born a Merakli",
+ "pesna_url": "https://pesna.org/song/201",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бекрија' is rendered 'reveler', my reading. 'На виното' is rendered 'to wine' (dedicated to wine), my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мераклија",
+   "en": "bon vivant, someone who loves pleasure and song"
+  },
+  {
+   "mk": "бекрија",
+   "en": "carefree drinker, reveler (Turkish loan)"
+  },
+  {
+   "mk": "ем",
+   "en": "and also, as well"
+  },
+  {
+   "mk": "визба",
+   "en": "cellar"
+  },
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "зурла",
+   "en": "zurla, folk oboe"
+  },
+  {
+   "mk": "бувнат",
+   "en": "let them boom, thunder"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "слива",
+   "en": "plum (tree)"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/874"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/875"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сум се родил мераклија",
+       "lat": "Sum se rodil meraklija",
+       "en": "I was born a merakli,"
+      },
+      {
+       "cyr": "мераклија баш бекрија.",
+       "lat": "meraklija baš bekrija.",
+       "en": "a merakli, a real bachelor-wanderer."
+      },
+      {
+       "cyr": "Сум се родил мераклија",
+       "lat": "Sum se rodil meraklija",
+       "en": "I was born a merakli,"
+      },
+      {
+       "cyr": "на виното, ем ракија.",
+       "lat": "na vinoto, em rakija.",
+       "en": "to wine and, also, rakija."
+      },
+      {
+       "cyr": "Сум се родил мераклија",
+       "lat": "Sum se rodil meraklija",
+       "en": "I was born a merakli,"
+      },
+      {
+       "cyr": "на виното, ем ракија.",
+       "lat": "na vinoto, em rakija.",
+       "en": "to wine and, also, rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко ќе умрам ил загинам",
+       "lat": "Ko ḱe umram il zaginam",
+       "en": "When I die or perish"
+      },
+      {
+       "cyr": "во визбата ставете ме,",
+       "lat": "vo vizbata stavete me,",
+       "en": "put me in the cellar,"
+      },
+      {
+       "cyr": "со ракија измијте ме,",
+       "lat": "so rakija izmijte me,",
+       "en": "wash me with rakija,"
+      },
+      {
+       "cyr": "а со вино напијте ме.",
+       "lat": "a so vino napijte me.",
+       "en": "and give me wine to drink."
+      },
+      {
+       "cyr": "Со ракија измијте ме,",
+       "lat": "So rakija izmijte me,",
+       "en": "Wash me with rakija,"
+      },
+      {
+       "cyr": "а со вино напијте ме.",
+       "lat": "a so vino napijte me.",
+       "en": "and give me wine to drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Погреб да ми направите,",
+       "lat": "Pogreb da mi napravite,",
+       "en": "Make me a funeral"
+      },
+      {
+       "cyr": "нека бувнат тапаните.",
+       "lat": "neka buvnat tapanite.",
+       "en": "and let the drums boom."
+      },
+      {
+       "cyr": "Нека бувнат тапаните,",
+       "lat": "Neka buvnat tapanite,",
+       "en": "Let the drums boom,"
+      },
+      {
+       "cyr": "тапаните ем зурлите.",
+       "lat": "tapanite em zurlite.",
+       "en": "the drums and the zurlas."
+      },
+      {
+       "cyr": "Нека бувнат тапаните,",
+       "lat": "Neka buvnat tapanite,",
+       "en": "Let the drums boom,"
+      },
+      {
+       "cyr": "тапаните ем зурлите.",
+       "lat": "tapanite em zurlite.",
+       "en": "the drums and the zurlas."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ме вие закопате",
+       "lat": "Da me vie zakopate",
+       "en": "Bury me like that"
+      },
+      {
+       "cyr": "во лозјето под сливите.",
+       "lat": "vo lozjeto pod slivite.",
+       "en": "in the vineyard under the plum trees."
+      },
+      {
+       "cyr": "Штом се родив мераклија,",
+       "lat": "Štom se rodiv meraklija,",
+       "en": "As soon as I was born a merakli,"
+      },
+      {
+       "cyr": "на виното ем ракија.",
+       "lat": "na vinoto em rakija.",
+       "en": "to wine and rakija."
+      },
+      {
+       "cyr": "Штом умирам мераклија,",
+       "lat": "Štom umiram meraklija,",
+       "en": "As I die a merakli,"
+      },
+      {
+       "cyr": "на виното ем ракија.",
+       "lat": "na vinoto em rakija.",
+       "en": "to wine and rakija."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,133 @@
+{
+ "id": 156,
+ "slug": "mitro-mome",
+ "title_cyr": "Митро моме",
+ "title_latin": "Mitro mome",
+ "title_en": "Mitro, Girl",
+ "pesna_url": "https://pesna.org/song/156",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Several lines are my reading: 'Ј' отруј се' (I have poisoned myself, possibly figurative for being worn out by grief), 'уки вруќини' (unclear dialect, I read it as the hands feeling the heat) and 'Ручок над глава' (lunch overhead, possibly the midday sun).",
+ "words_to_learn": [
+  {
+   "mk": "тага",
+   "en": "sorrow, grief"
+  },
+  {
+   "mk": "клето",
+   "en": "cursed, wretched"
+  },
+  {
+   "mk": "гола, ем боса",
+   "en": "bare and barefoot"
+  },
+  {
+   "mk": "жешко",
+   "en": "scorching, hot"
+  },
+  {
+   "mk": "срп",
+   "en": "sickle"
+  },
+  {
+   "mk": "рамо",
+   "en": "shoulder"
+  },
+  {
+   "mk": "вруќина",
+   "en": "heat"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/696"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Митро, Митро мори,",
+       "lat": "Mitro, Mitro mori,",
+       "en": "Mitro, Mitro, hey,"
+      },
+      {
+       "cyr": "Митро, тага голема.",
+       "lat": "Mitro, taga golema.",
+       "en": "Mitro, great sorrow."
+      },
+      {
+       "cyr": "Ј' отруј се, Митро мори,",
+       "lat": "J' otruj se, Mitro mori,",
+       "en": "I have poisoned myself, Mitro, hey,"
+      },
+      {
+       "cyr": "жива не ми оди.",
+       "lat": "živa ne mi odi.",
+       "en": "I cannot go on living."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Клето, са лето Митро,",
+       "lat": "Kleto, sa leto Mitro,",
+       "en": "Cursed, all summer long, Mitro,"
+      },
+      {
+       "cyr": "гола, ем боса.",
+       "lat": "gola, em bosa.",
+       "en": "bare and barefoot."
+      },
+      {
+       "cyr": "По жешкото сонце, Митро,",
+       "lat": "Po žeškoto sonce, Mitro,",
+       "en": "In the scorching sun, Mitro,"
+      },
+      {
+       "cyr": "уки вруќини.",
+       "lat": "uki vruḱini.",
+       "en": "the hands feel the heat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ручок над глава, Митро,",
+       "lat": "Ručok nad glava, Mitro,",
+       "en": "Lunch over my head, Mitro,"
+      },
+      {
+       "cyr": "српот на рамо.",
+       "lat": "srpot na ramo.",
+       "en": "sickle on my shoulder."
+      },
+      {
+       "cyr": "С' дете в' раце, Митро,",
+       "lat": "S' dete v' race, Mitro,",
+       "en": "With a child in my arms, Mitro,"
+      },
+      {
+       "cyr": "по жешкото сонце.",
+       "lat": "po žeškoto sonce.",
+       "en": "in the scorching sun."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,314 @@
+{
+ "id": 65,
+ "slug": "kazhi-vaske-evdova",
+ "title_cyr": "Кажи Васке Евдова",
+ "title_latin": "Kaži Vaske Evdova",
+ "title_en": "Tell me, Vaska Evdova",
+ "pesna_url": "https://pesna.org/song/65",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Евдова' and 'Ергова' look like a surname (my reading: Vaska, daughter of Evdo). 'Посврши' read as 'got you engaged'; the refrain 'Трани нани' is a nonsense refrain. The asterisk and the original note about каврак (Turkish kıvrak, headscarf) are kept as in the source.",
+ "words_to_learn": [
+  {
+   "mk": "кажи",
+   "en": "tell (imperative)"
+  },
+  {
+   "mk": "свршив",
+   "en": "I got engaged"
+  },
+  {
+   "mk": "премами",
+   "en": "tempted, enticed"
+  },
+  {
+   "mk": "измами",
+   "en": "deceived, lured"
+  },
+  {
+   "mk": "прелага",
+   "en": "lured, deceived"
+  },
+  {
+   "mk": "кавраче",
+   "en": "little headscarf"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "елече",
+   "en": "little vest, waistcoat"
+  },
+  {
+   "mk": "срмено",
+   "en": "embroidered with silver or gold thread"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Анка Гиева",
+  "Бранислав Симоновиќ",
+  "Васка Илиева",
+  "Гордана Стоиќевиќ",
+  "Даница Обрениќ",
+  "Драги Спасовски",
+  "Јорданка Варџијска",
+  "Кирил Костов",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1275"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1276"
+  },
+  {
+   "who": "Бранислав Симоновиќ, Даница Обрениќ",
+   "url": "https://pesna.org/audio-download/1277"
+  },
+  {
+   "who": "Гордана Стоиќевиќ",
+   "url": "https://pesna.org/audio-download/1278"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/1424"
+  },
+  {
+   "who": "Јорданка Варџијска, Кирил Костов",
+   "url": "https://pesna.org/audio-download/2609"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/3193"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кажи Васке Евдова,",
+       "lat": "Kaži Vaske Evdova,",
+       "en": "Tell me, Vaska Evdova,"
+      },
+      {
+       "cyr": "кој те тебе посврши?",
+       "lat": "koj te tebe posvrši?",
+       "en": "who got you engaged?"
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "Васке Евдова.",
+       "lat": "Vaske Evdova.",
+       "en": "Vaska Evdova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас се свршив, посвршив,",
+       "lat": "Jas se svršiv, posvršiv,",
+       "en": "I got engaged, I was engaged,"
+      },
+      {
+       "cyr": "за Мијајле Младенов.",
+       "lat": "za Mijajle Mladenov.",
+       "en": "to Mijajle Mladenov."
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "Мијајле Младенов.",
+       "lat": "Mijajle Mladenov.",
+       "en": "Mijajle Mladenov."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи Васке Евдова,",
+       "lat": "Kaži Vaske Evdova,",
+       "en": "Tell me, Vaska Evdova,"
+      },
+      {
+       "cyr": "што те тебе премами?",
+       "lat": "što te tebe premami?",
+       "en": "what tempted you?"
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "Васке Ергова.",
+       "lat": "Vaske Ergova.",
+       "en": "Vaska Ergova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме премами, измами,",
+       "lat": "Me premami, izmami,",
+       "en": "It tempted me, it lured me,"
+      },
+      {
+       "cyr": "свиленото кавраче*.",
+       "lat": "svilenoto kavrače*.",
+       "en": "the silk headscarf*."
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "свиленото кавраче.",
+       "lat": "svilenoto kavrače.",
+       "en": "the silk headscarf."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи Васке Евдова,",
+       "lat": "Kaži Vaske Evdova,",
+       "en": "Tell me, Vaska Evdova,"
+      },
+      {
+       "cyr": "што те друго прелага?",
+       "lat": "što te drugo prelaga?",
+       "en": "what else lured you?"
+      },
+      {
+       "cyr": "Кажи Васке Евдова,",
+       "lat": "Kaži Vaske Evdova,",
+       "en": "Tell me, Vaska Evdova,"
+      },
+      {
+       "cyr": "што те друго премами?",
+       "lat": "što te drugo premami?",
+       "en": "what else tempted you?"
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "Васке Евдова.",
+       "lat": "Vaske Evdova.",
+       "en": "Vaska Evdova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме премами, прелага,",
+       "lat": "Me premami, prelaga,",
+       "en": "It tempted me, it lured me,"
+      },
+      {
+       "cyr": "свиленото фустанче.",
+       "lat": "svilenoto fustanče.",
+       "en": "the silk little dress."
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "свиленото фустанче.",
+       "lat": "svilenoto fustanče.",
+       "en": "the silk little dress."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи Васке Евдова,",
+       "lat": "Kaži Vaske Evdova,",
+       "en": "Tell me, Vaska Evdova,"
+      },
+      {
+       "cyr": "што те друго прелага?",
+       "lat": "što te drugo prelaga?",
+       "en": "what else lured you?"
+      },
+      {
+       "cyr": "Кажи Васке Евдова,",
+       "lat": "Kaži Vaske Evdova,",
+       "en": "Tell me, Vaska Evdova,"
+      },
+      {
+       "cyr": "што те друго премами?",
+       "lat": "što te drugo premami?",
+       "en": "what else tempted you?"
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "Васке Евдова.",
+       "lat": "Vaske Evdova.",
+       "en": "Vaska Evdova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме премами, прелага,",
+       "lat": "Me premami, prelaga,",
+       "en": "It tempted me, it lured me,"
+      },
+      {
+       "cyr": "срменото елече.",
+       "lat": "srmenoto eleče.",
+       "en": "the silver-embroidered vest."
+      },
+      {
+       "cyr": "Трани, нани нани, на,",
+       "lat": "Trani, nani nani, na,",
+       "en": "Trani, nani nani, na,"
+      },
+      {
+       "cyr": "срменото елече.",
+       "lat": "srmenoto eleče.",
+       "en": "the silver-embroidered vest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

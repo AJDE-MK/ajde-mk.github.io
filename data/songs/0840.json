@@ -1,0 +1,156 @@
+{
+ "id": 840,
+ "slug": "proshetal-dimcho-rashetal",
+ "title_cyr": "Прошетал Димчо, рашетал",
+ "title_latin": "Prošetal Dimčo, rašetal",
+ "title_en": "Dimcho Strolled About",
+ "pesna_url": "https://pesna.org/song/840",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Анами' is a Turkish-derived word for ladies; my reading. 'Не ме земајте на душа' ('don't take me on your soul') is rendered loosely as 'don't put it on my soul'.",
+ "words_to_learn": [
+  {
+   "mk": "рашетал",
+   "en": "wandered about, strolled"
+  },
+  {
+   "mk": "маала",
+   "en": "neighbourhood"
+  },
+  {
+   "mk": "анами",
+   "en": "(Turkish-derived) ladies, married women"
+  },
+  {
+   "mk": "кадани",
+   "en": "respected women, housewives"
+  },
+  {
+   "mk": "кула",
+   "en": "tower, tall house"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong rakija"
+  },
+  {
+   "mk": "мезе",
+   "en": "snack eaten with drinks"
+  },
+  {
+   "mk": "заколат",
+   "en": "will slaughter"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Пет плус",
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1791"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1792"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/1793"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Прошетал Димчо, рашетал,",
+       "lat": "Prošetal Dimčo, rašetal,",
+       "en": "Dimcho strolled, wandered about,"
+      },
+      {
+       "cyr": "низ јуручките маала.",
+       "lat": "niz juručkite maala.",
+       "en": "through the Yuruk neighbourhoods."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го догледале анами,",
+       "lat": "Go dogledale anami,",
+       "en": "The anamis caught sight of him,"
+      },
+      {
+       "cyr": "анами млади кадани.",
+       "lat": "anami mladi kadani.",
+       "en": "the anamis, young kadans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Анами на Димчо говорат:",
+       "lat": "Anami na Dimčo govorat:",
+       "en": "The anamis say to Dimcho:"
+      },
+      {
+       "cyr": "- Елај си Димчо на кула,",
+       "lat": "- Elaj si Dimčo na kula,",
+       "en": "- Come up to the tower, Dimcho,"
+      },
+      {
+       "cyr": "да пиеш лута ракија,",
+       "lat": "da pieš luta rakija,",
+       "en": "to drink strong rakija,"
+      },
+      {
+       "cyr": "да пиеш лута ракија,",
+       "lat": "da pieš luta rakija,",
+       "en": "to drink strong rakija,"
+      },
+      {
+       "cyr": "да јадеш мезе сирење.",
+       "lat": "da jadeš meze sirenje.",
+       "en": "to eat cheese as a snack."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Димчо на анами говори:",
+       "lat": "Dimčo na anami govori:",
+       "en": "Dimcho says to the anamis:"
+      },
+      {
+       "cyr": "- Анами млади кадани,",
+       "lat": "- Anami mladi kadani,",
+       "en": "- Anamis, young kadans,"
+      },
+      {
+       "cyr": "не ме земајте на душа,",
+       "lat": "ne me zemajte na duša,",
+       "en": "don't put it on my soul,"
+      },
+      {
+       "cyr": "јуруци ќе ме заколат!",
+       "lat": "juruci ḱe me zakolat!",
+       "en": "the Yuruks will slaughter me!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

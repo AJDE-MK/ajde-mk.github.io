@@ -1,0 +1,180 @@
+{
+ "id": 165,
+ "slug": "zhali-goro-zhali-sestro",
+ "title_cyr": "Жали горо, жали сестро",
+ "title_latin": "Žali goro, žali sestro",
+ "title_en": "Mourn, forest, mourn, sister",
+ "pesna_url": "https://pesna.org/song/165",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Старо аро' as 'old husband' and 'шго ме даде' as 'whom she gave me to' are my reading; 'аро' is a dialect word I am unsure about.",
+ "words_to_learn": [
+  {
+   "mk": "жали",
+   "en": "mourn, grieve (imperative)"
+  },
+  {
+   "mk": "горо",
+   "en": "forest (vocative)"
+  },
+  {
+   "mk": "лисја",
+   "en": "leaves"
+  },
+  {
+   "mk": "слана",
+   "en": "frost"
+  },
+  {
+   "mk": "попари",
+   "en": "scalded"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "надалеку",
+   "en": "far away"
+  },
+  {
+   "mk": "аро",
+   "en": "husband (dialect, my reading)"
+  },
+  {
+   "mk": "разлистат",
+   "en": "will leaf out"
+  }
+ ],
+ "performers": [
+  "Интервали",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Интервали",
+   "url": "https://pesna.org/audio-download/1519"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/1520"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жали горо, црни сестро,",
+       "lat": "Žali goro, crni sestro,",
+       "en": "Mourn, forest, black sister,"
+      },
+      {
+       "cyr": "двајца да жалиме.",
+       "lat": "dvajca da žalime.",
+       "en": "let the two of us mourn."
+      },
+      {
+       "cyr": "Ти за твоите лисја, горо,",
+       "lat": "Ti za tvoite lisja, goro,",
+       "en": "You for your leaves, forest,"
+      },
+      {
+       "cyr": "јас за мојта младост.",
+       "lat": "jas za mojta mladost.",
+       "en": "I for my youth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте лисја, горо сестро,",
+       "lat": "Tvojte lisja, goro sestro,",
+       "en": "Your leaves, forest sister,"
+      },
+      {
+       "cyr": "слана ги попари.",
+       "lat": "slana gi popari.",
+       "en": "the frost scalded them."
+      },
+      {
+       "cyr": "А мојата младост горо,",
+       "lat": "A mojata mladost goro,",
+       "en": "And my youth, forest,"
+      },
+      {
+       "cyr": "мајка ја зацрни.",
+       "lat": "majka ja zacrni.",
+       "en": "my mother blackened it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ме даде, горо сестро,",
+       "lat": "Što me dade, goro sestro,",
+       "en": "Whom she gave me to, forest sister,"
+      },
+      {
+       "cyr": "многу надалеку.",
+       "lat": "mnogu nadaleku.",
+       "en": "very far away."
+      },
+      {
+       "cyr": "Надалеку, горо сестро,",
+       "lat": "Nadaleku, goro sestro,",
+       "en": "Far away, forest sister,"
+      },
+      {
+       "cyr": "преку девет гори.",
+       "lat": "preku devet gori.",
+       "en": "across nine forests."
+      },
+      {
+       "cyr": "Надалеку, горо сестро,",
+       "lat": "Nadaleku, goro sestro,",
+       "en": "Far away, forest sister,"
+      },
+      {
+       "cyr": "зедов старо аро.",
+       "lat": "zedov staro aro.",
+       "en": "I took an old husband."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте лисја, горо сестро,",
+       "lat": "Tvojte lisja, goro sestro,",
+       "en": "Your leaves, forest sister,"
+      },
+      {
+       "cyr": "в' пролет ќе разлистат.",
+       "lat": "v' prolet ḱe razlistat.",
+       "en": "will leaf out in spring."
+      },
+      {
+       "cyr": "А мојата младост горо,",
+       "lat": "A mojata mladost goro,",
+       "en": "But my youth, forest,"
+      },
+      {
+       "cyr": "нема да се врати.",
+       "lat": "nema da se vrati.",
+       "en": "will not come back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

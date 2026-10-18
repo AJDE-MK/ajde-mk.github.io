@@ -1,0 +1,143 @@
+{
+ "id": 633,
+ "slug": "jana-majka-luto-kolne",
+ "title_cyr": "Јана мајка луто колне",
+ "title_latin": "Jana majka luto kolne",
+ "title_en": "Mother Jana curses bitterly",
+ "pesna_url": "https://pesna.org/song/633",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Who 'Јана мајка' is (a mother named Jana, or Jana cursing her mother) is ambiguous; I took it as written. 'Да се видам' translated as 'see anyone' is my reading; 'метам' (spread/lay out) with courtyards is also a loose reading.",
+ "words_to_learn": [
+  {
+   "mk": "колне",
+   "en": "curses"
+  },
+  {
+   "mk": "џанум",
+   "en": "my soul, dear (Turkish-origin endearment)"
+  },
+  {
+   "mk": "луто / љуто",
+   "en": "bitterly, fiercely"
+  },
+  {
+   "mk": "бегови",
+   "en": "beys, Ottoman lords"
+  },
+  {
+   "mk": "рамни двори",
+   "en": "level courtyards"
+  },
+  {
+   "mk": "шимшир",
+   "en": "boxwood"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "далеку",
+   "en": "far away"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Драгица Мавровска",
+  "Љупка Рондова"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева, Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/915"
+  },
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/3519"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јана мајка џанум љуто колне:",
+       "lat": "Jana majka džanum ljuto kolne:",
+       "en": "Mother Jana, my soul, curses bitterly:"
+      },
+      {
+       "cyr": "- Што ме даде мајко на далеку,",
+       "lat": "- Što me dade majko na daleku,",
+       "en": "- Why did you give me, mother, far away,"
+      },
+      {
+       "cyr": "на далеку преку Вардар",
+       "lat": "na daleku preku Vardar",
+       "en": "far away, across the Vardar,"
+      },
+      {
+       "cyr": "аман, аман преку Вардар.",
+       "lat": "aman, aman preku Vardar.",
+       "en": "oh, oh, across the Vardar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Преку Вардар мајко у бегови,",
+       "lat": "Preku Vardar majko u begovi,",
+       "en": "Across the Vardar, mother, to the beys,"
+      },
+      {
+       "cyr": "преко Вардар, мајко, у бегови,",
+       "lat": "preko Vardar, majko, u begovi,",
+       "en": "across the Vardar, mother, to the beys,"
+      },
+      {
+       "cyr": "да им метам рамни двори,",
+       "lat": "da im metam ramni dvori,",
+       "en": "to spread out for them level courtyards,"
+      },
+      {
+       "cyr": "рамни двори шимширови.",
+       "lat": "ramni dvori šimširovi.",
+       "en": "level courtyards of boxwood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не можам, џанам, да се видам,",
+       "lat": "Da ne možam, džanam, da se vidam,",
+       "en": "So that I cannot, my soul, see anyone,"
+      },
+      {
+       "cyr": "да не можам џанум да се видам,",
+       "lat": "da ne možam džanum da se vidam,",
+       "en": "so that I cannot, my soul, see anyone,"
+      },
+      {
+       "cyr": "ни со мајка, ни со татко,",
+       "lat": "ni so majka, ni so tatko,",
+       "en": "neither my mother, nor my father,"
+      },
+      {
+       "cyr": "нит' со мојто прво либе.",
+       "lat": "nit' so mojto prvo libe.",
+       "en": "nor my first sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,167 @@
+{
+ "id": 694,
+ "slug": "kazhi-kazhi-libe-stano",
+ "title_cyr": "Кажи, кажи либе Стано",
+ "title_latin": "Kaži, kaži libe Stano",
+ "title_en": "Tell me, Stana, my love",
+ "pesna_url": "https://pesna.org/song/694",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Весна Гиновска",
+  "Винка Еллесин",
+  "Виолета Томовска",
+  "Есма Реџепова",
+  "Мартин Вучиќ",
+  "Наум Петрески",
+  "Никола Костадиновски",
+  "Нина Спирова",
+  "Петар Гигов",
+  "Предраг Цуне Гојковиќ",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/29"
+  },
+  {
+   "who": "Предраг Цуне Гојковиќ, Есма Реџепова",
+   "url": "https://pesna.org/audio-download/30"
+  },
+  {
+   "who": "Никола Костадиновски, Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/31"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/32"
+  },
+  {
+   "who": "Винка Еллесин",
+   "url": "https://pesna.org/audio-download/1693"
+  },
+  {
+   "who": "Петар Гигов",
+   "url": "https://pesna.org/audio-download/2329"
+  },
+  {
+   "who": "Весна Гиновска, Мартин Вучиќ",
+   "url": "https://pesna.org/audio-download/2333"
+  },
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/2643"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, кажи, либе Стано",
+       "lat": "Kaži, kaži, libe Stano",
+       "en": "Tell me, Stana, my love"
+      },
+      {
+       "cyr": "што си замислена?",
+       "lat": "što si zamislena?",
+       "en": "why are you so worried?"
+      },
+      {
+       "cyr": "Дали руба немаш, Стано",
+       "lat": "Dali ruba nemaš, Stano",
+       "en": "Do you need clothes, Stana,"
+      },
+      {
+       "cyr": "или пари немаш?",
+       "lat": "ili pari nemaš?",
+       "en": "or maybe money?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сè си имам, либе Димчо",
+       "lat": "Sè si imam, libe Dimčo",
+       "en": "I have everything, Dimcho my love,"
+      },
+      {
+       "cyr": "само едно немам,",
+       "lat": "samo edno nemam,",
+       "en": "there's just one thing that I don't have,"
+      },
+      {
+       "cyr": "само едно немам, Димчо,",
+       "lat": "samo edno nemam, Dimčo,",
+       "en": "just one thing, Dimcho,"
+      },
+      {
+       "cyr": "од срце порода.",
+       "lat": "od srce poroda.",
+       "en": "a child from the heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе одам, либе Стано,",
+       "lat": "Jas ḱe odam, libe Stano,",
+       "en": "I will go, Stana my love,"
+      },
+      {
+       "cyr": "во Солуна града",
+       "lat": "vo Soluna grada",
+       "en": "to the city of Solun"
+      },
+      {
+       "cyr": "ќе ти купам, либе Стано,",
+       "lat": "ḱe ti kupam, libe Stano,",
+       "en": "and buy you, Stana my love,"
+      },
+      {
+       "cyr": "дете позлатено.",
+       "lat": "dete pozlateno.",
+       "en": "a golden child."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусто да остане Диме",
+       "lat": "Pusto da ostane Dime",
+       "en": "May it be damned, Dime,"
+      },
+      {
+       "cyr": "дете позлатено,",
+       "lat": "dete pozlateno,",
+       "en": "that golden child,"
+      },
+      {
+       "cyr": "кога нема да ми каже",
+       "lat": "koga nema da mi kaže",
+       "en": "because it won't tell me"
+      },
+      {
+       "cyr": "од срце: „слатка мајчице“.",
+       "lat": "od srce: „slatka majčice“.",
+       "en": "from his heart: \"sweet mama\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,107 @@
+{
+ "id": 84,
+ "slug": "bilbil-pee-nasabajle",
+ "title_cyr": "Билбил пее насабајле",
+ "title_latin": "Bilbil pee nasabajle",
+ "title_en": "The Bulbul Sings at Dawn",
+ "pesna_url": "https://pesna.org/song/84",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лудо младо' is read as an affectionate address to a young man, not literally 'mad'.",
+ "words_to_learn": [
+  {
+   "mk": "билбил",
+   "en": "bulbul, nightingale"
+  },
+  {
+   "mk": "насабајле",
+   "en": "at dawn, in the morning"
+  },
+  {
+   "mk": "зората",
+   "en": "dawn"
+  },
+  {
+   "mk": "стани",
+   "en": "get up"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young fool (affectionate)"
+  },
+  {
+   "mk": "неженето",
+   "en": "unmarried (of a man)"
+  },
+  {
+   "mk": "одбереш",
+   "en": "you choose"
+  },
+  {
+   "mk": "најубава",
+   "en": "most beautiful"
+  }
+ ],
+ "performers": [
+  "Драгољуб Поповиќ"
+ ],
+ "audio": [
+  {
+   "who": "Драгољуб Поповиќ",
+   "url": "https://pesna.org/audio-download/3221"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Билбил пее насабајле,",
+       "lat": "Bilbil pee nasabajle,",
+       "en": "The bulbul sings at dawn,"
+      },
+      {
+       "cyr": "на сабајле пред зората.",
+       "lat": "na sabajle pred zorata.",
+       "en": "at dawn before daybreak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани, стани, лудо младо,",
+       "lat": "Stani, stani, ludo mlado,",
+       "en": "Get up, get up, young fool,"
+      },
+      {
+       "cyr": "лудо младо, неженето.",
+       "lat": "ludo mlado, neženeto.",
+       "en": "young fool, unmarried,"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да одбереш една мома,",
+       "lat": "Da odbereš edna moma,",
+       "en": "so that you choose one girl,"
+      },
+      {
+       "cyr": "една мома најубава.",
+       "lat": "edna moma najubava.",
+       "en": "one girl, the most beautiful."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

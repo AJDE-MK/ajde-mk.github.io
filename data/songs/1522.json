@@ -1,0 +1,141 @@
+{
+ "id": 1522,
+ "slug": "kolku-e-machno-em-zhalno",
+ "title_cyr": "Колку е мачно, ем жално",
+ "title_latin": "Kolku e mačno, em žalno",
+ "title_en": "How hard and sad it is",
+ "pesna_url": "https://pesna.org/song/1522",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Вездeн' (written 'вездeн') is my reading of 'везден' = 'all day, always'; the line could also be read differently. 'Од една аир да нема' is my reading: 'to get no joy from one of them'.",
+ "words_to_learn": [
+  {
+   "mk": "мачно",
+   "en": "hard, painful"
+  },
+  {
+   "mk": "жално",
+   "en": "sad, sorrowful"
+  },
+  {
+   "mk": "аир",
+   "en": "joy, benefit (Turkish-origin)"
+  },
+  {
+   "mk": "дворови",
+   "en": "courtyards"
+  },
+  {
+   "mk": "вратичка",
+   "en": "little gate"
+  },
+  {
+   "mk": "цигара",
+   "en": "cigarette"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "мотика",
+   "en": "hoe"
+  }
+ ],
+ "performers": [
+  "Иринка Бујуклиева"
+ ],
+ "audio": [
+  {
+   "who": "Иринка Бујуклиева",
+   "url": "https://pesna.org/audio-download/3981"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Колку е мачно, ем жално,",
+       "lat": "Kolku e mačno, em žalno,",
+       "en": "How hard and sad it is,"
+      },
+      {
+       "cyr": "кој љуби, мамо, две моми,",
+       "lat": "koj ljubi, mamo, dve momi,",
+       "en": "for him who loves, mother, two girls,"
+      },
+      {
+       "cyr": "од една аир да нема.",
+       "lat": "od edna air da nema.",
+       "en": "to have no joy from either one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ојдов си, мамо, во Јана",
+       "lat": "Ojdov si, mamo, vo Jana",
+       "en": "I went, mother, to Jana,"
+      },
+      {
+       "cyr": "во јанените дворови,",
+       "lat": "vo janenite dvorovi,",
+       "en": "to Jana's courtyards,"
+      },
+      {
+       "cyr": "на јанините вратички.",
+       "lat": "na janinite vratički.",
+       "en": "to Jana's little gate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Отвори Јано вратичка,",
+       "lat": "- Otvori Jano vratička,",
+       "en": "- Open the little gate, Jana,"
+      },
+      {
+       "cyr": "цигара да си запалам,",
+       "lat": "cigara da si zapalam,",
+       "en": "so I can light a cigarette,"
+      },
+      {
+       "cyr": "два збора да ти презборам.",
+       "lat": "dva zbora da ti prezboram.",
+       "en": "so I can say two words to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам, Стојан, да станам,",
+       "lat": "- Ne možam, Stojan, da stanam,",
+       "en": "- I cannot get up, Stojan,"
+      },
+      {
+       "cyr": "везден сум лозје копала,",
+       "lat": "vezden sum lozje kopala,",
+       "en": "all day I have been digging the vineyard,"
+      },
+      {
+       "cyr": "тешка мотика дигала.",
+       "lat": "teška motika digala.",
+       "en": "lifting a heavy hoe."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,201 @@
+{
+ "id": 175,
+ "slug": "pesna-za-krste-vojvoda",
+ "title_cyr": "Песна за Крсте војвода",
+ "title_latin": "Pesna za Krste vojvoda",
+ "title_en": "Song about Krste the voivode",
+ "pesna_url": "https://pesna.org/song/175",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'џган' is my reading as 'troop/force'; 'сардисаја' as 'surrounded', 'бориите' as 'bugles' (probably a bugle or horn), 'клавајте' as 'draw/lay on' are guesses. Dialect plurals in -ет (пукет, викет) are third person plural.",
+ "words_to_learn": [
+  {
+   "mk": "војвода",
+   "en": "leader of a rebel band"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas, rebel fighters"
+  },
+  {
+   "mk": "караул",
+   "en": "lookout, sentry post"
+  },
+  {
+   "mk": "стража",
+   "en": "guard"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band, company"
+  },
+  {
+   "mk": "абер",
+   "en": "news, word (Turkish loan)"
+  },
+  {
+   "mk": "сардисан",
+   "en": "surrounded (dialect, Turkish-derived)"
+  },
+  {
+   "mk": "џган",
+   "en": "troop, army (my reading)"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/62"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се зададе темен облак",
+       "lat": "Se zadade temen oblak",
+       "en": "A dark cloud rose up"
+      },
+      {
+       "cyr": "во кон исток и од запад.",
+       "lat": "vo kon istok i od zapad.",
+       "en": "toward the east and from the west."
+      },
+      {
+       "cyr": "То не беше темен облак,",
+       "lat": "To ne beše temen oblak,",
+       "en": "It was not a dark cloud,"
+      },
+      {
+       "cyr": "туку беше турски џган.",
+       "lat": "tuku beše turski džgan.",
+       "en": "but it was a Turkish troop."
+      },
+      {
+       "cyr": "Сардисаја планињето",
+       "lat": "Sardisaja planinjeto",
+       "en": "They surrounded the mountain"
+      },
+      {
+       "cyr": "и селото Волкодери.",
+       "lat": "i seloto Volkoderi.",
+       "en": "and the village of Volkoderi."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И догледа караулот,",
+       "lat": "I dogleda karaulot,",
+       "en": "And the lookout spotted them,"
+      },
+      {
+       "cyr": "караулот и стражата.",
+       "lat": "karaulot i stražata.",
+       "en": "the lookout and the guard."
+      },
+      {
+       "cyr": "Абер стори на четата",
+       "lat": "Aber stori na četata",
+       "en": "They gave word to the band"
+      },
+      {
+       "cyr": "на четата во селото:",
+       "lat": "na četata vo seloto:",
+       "en": "to the band in the village:"
+      },
+      {
+       "cyr": "- „Ја станите мили браќа",
+       "lat": "- „Ja stanite mili braḱa",
+       "en": "- \"Get up, dear brothers,"
+      },
+      {
+       "cyr": "оти сме си сардисани“.",
+       "lat": "oti sme si sardisani“.",
+       "en": "for we are surrounded\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крсте викат: - „Ќе стреламе“",
+       "lat": "Krste vikat: - „Ḱe strelame“",
+       "en": "Krste says: - \"We will shoot\""
+      },
+      {
+       "cyr": "стража викат: - „Да бегаме“.",
+       "lat": "straža vikat: - „Da begame“.",
+       "en": "the guard says: - \"Let us flee\"."
+      },
+      {
+       "cyr": "Се зафати бојот жален,",
+       "lat": "Se zafati bojot žalen,",
+       "en": "A sorrowful battle began,"
+      },
+      {
+       "cyr": "меѓу Турци и комити.",
+       "lat": "meǵu Turci i komiti.",
+       "en": "between Turks and komitas."
+      },
+      {
+       "cyr": "Пушки пукет, бомби грмат",
+       "lat": "Puški puket, bombi grmat",
+       "en": "Rifles crack, bombs thunder"
+      },
+      {
+       "cyr": "и бориите ми свират.",
+       "lat": "i boriite mi svirat.",
+       "en": "and the bugles play."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци викет: - „Алах, Алах“,",
+       "lat": "Turci viket: - „Alah, Alah“,",
+       "en": "The Turks cry: - \"Allah, Allah\","
+      },
+      {
+       "cyr": "- „Ура“ викет комитите,",
+       "lat": "- „Ura“ viket komitite,",
+       "en": "- \"Hurrah\" cry the komitas,"
+      },
+      {
+       "cyr": "Крсте војвода извика:",
+       "lat": "Krste vojvoda izvika:",
+       "en": "Krste the voivode called out:"
+      },
+      {
+       "cyr": "- „Сите браќа, ај по мене,",
+       "lat": "- „Site braḱa, aj po mene,",
+       "en": "- \"All brothers, come after me,"
+      },
+      {
+       "cyr": "клавајте и ножоите,",
+       "lat": "klavajte i nožoite,",
+       "en": "draw your knives,"
+      },
+      {
+       "cyr": "запалите и бомбите“.",
+       "lat": "zapalite i bombite“.",
+       "en": "light your bombs\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

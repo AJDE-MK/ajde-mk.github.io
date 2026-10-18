@@ -1,0 +1,166 @@
+{
+ "id": 971,
+ "slug": "dusho-moja-prosti-mi",
+ "title_cyr": "Душо моја, прости ми",
+ "title_latin": "Dušo moja, prosti mi",
+ "title_en": "My Soul, Forgive Me",
+ "pesna_url": "https://pesna.org/song/971",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'белосветски друмови' I read as 'roads of the wide world'; 'сиве години' as 'gray years'.",
+ "words_to_learn": [
+  {
+   "mk": "душо",
+   "en": "my soul, darling"
+  },
+  {
+   "mk": "прости ми",
+   "en": "forgive me"
+  },
+  {
+   "mk": "сиви години",
+   "en": "gray years"
+  },
+  {
+   "mk": "туѓи градови",
+   "en": "foreign cities"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows"
+  },
+  {
+   "mk": "перница",
+   "en": "pillow"
+  },
+  {
+   "mk": "станица",
+   "en": "station, stop"
+  },
+  {
+   "mk": "маки",
+   "en": "hardships"
+  }
+ ],
+ "performers": [
+  "Јоце Панов",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2245"
+  },
+  {
+   "who": "Јоце Панов",
+   "url": "https://pesna.org/audio-download/2246"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Душо, мила моја, прости ми, сиве години,",
+       "lat": "Dušo, mila moja, prosti mi, sive godini,",
+       "en": "My soul, my dear, forgive me, gray years,"
+      },
+      {
+       "cyr": "сам по туѓи градови, збирав бол и јадови.",
+       "lat": "sam po tuǵi gradovi, zbirav bol i jadovi.",
+       "en": "alone through foreign cities, I gathered pain and sorrows."
+      },
+      {
+       "cyr": "Душо, мила моја, прости ми, сиве години,",
+       "lat": "Dušo, mila moja, prosti mi, sive godini,",
+       "en": "My soul, my dear, forgive me, gray years,"
+      },
+      {
+       "cyr": "белосветски друмови, беа мои другари.",
+       "lat": "belosvetski drumovi, bea moi drugari.",
+       "en": "world-wide roads were my companions."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вечерва, душо моја, твојта мека перница,",
+       "lat": "Večerva, dušo moja, tvojta meka pernica,",
+       "en": "Tonight, my soul, your soft pillow,"
+      },
+      {
+       "cyr": "верувај, последна ќе биде моја станица.",
+       "lat": "veruvaj, posledna ḱe bide moja stanica.",
+       "en": "believe me, will be my last stop."
+      },
+      {
+       "cyr": "Доаѓам, вечно мила, со тебе да останам,",
+       "lat": "Doaǵam, večno mila, so tebe da ostanam,",
+       "en": "I am coming, forever dear, to stay with you,"
+      },
+      {
+       "cyr": "маките, душо моја, јас да ги заборавам.",
+       "lat": "makite, dušo moja, jas da gi zaboravam.",
+       "en": "the hardships, my soul, I will forget them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душо, мила моја, прости ми, сиве години,",
+       "lat": "Dušo, mila moja, prosti mi, sive godini,",
+       "en": "My soul, my dear, forgive me, gray years,"
+      },
+      {
+       "cyr": "твоите солзи горчливи беа мои спомени.",
+       "lat": "tvoite solzi gorčlivi bea moi spomeni.",
+       "en": "your bitter tears were my memories."
+      },
+      {
+       "cyr": "Душо, мила моја, прости ми, сиве години,",
+       "lat": "Dušo, mila moja, prosti mi, sive godini,",
+       "en": "My soul, my dear, forgive me, gray years,"
+      },
+      {
+       "cyr": "тага што ти оставив, долги зими студени.",
+       "lat": "taga što ti ostaviv, dolgi zimi studeni.",
+       "en": "the sorrow I left you, long cold winters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вечерва, душо моја, твојта мека перница,",
+       "lat": "Večerva, dušo moja, tvojta meka pernica,",
+       "en": "Tonight, my soul, your soft pillow,"
+      },
+      {
+       "cyr": "верувај, последна ќе биде моја станица.",
+       "lat": "veruvaj, posledna ḱe bide moja stanica.",
+       "en": "believe me, will be my last stop."
+      },
+      {
+       "cyr": "Доаѓам, вечно мила, со тебе да останам,",
+       "lat": "Doaǵam, večno mila, so tebe da ostanam,",
+       "en": "I am coming, forever dear, to stay with you,"
+      },
+      {
+       "cyr": "маките, душо моја, јас да ги заборавам.",
+       "lat": "makite, dušo moja, jas da gi zaboravam.",
+       "en": "the hardships, my soul, I will forget them."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

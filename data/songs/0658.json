@@ -1,0 +1,158 @@
+{
+ "id": 658,
+ "slug": "devojko-ubava",
+ "title_cyr": "Девојко убава",
+ "title_latin": "Devojko ubava",
+ "title_en": "Beautiful Girl",
+ "pesna_url": "https://pesna.org/song/658",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern song but I cannot name an author. Dash lines are a two-voice dialogue.",
+ "words_to_learn": [
+  {
+   "mk": "девојко",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "запеј",
+   "en": "start singing"
+  },
+  {
+   "mk": "заиграј",
+   "en": "start dancing"
+  },
+  {
+   "mk": "милуваш",
+   "en": "you caress"
+  },
+  {
+   "mk": "бакнуваш",
+   "en": "you kiss"
+  },
+  {
+   "mk": "Македонка",
+   "en": "Macedonian woman"
+  }
+ ],
+ "performers": [
+  "Жаклина Узунова",
+  "Јанко Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Жаклина Узунова, Јанко Узунов",
+   "url": "https://pesna.org/audio-download/3710"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- О, девојко убава",
+       "lat": "- O, devojko ubava",
+       "en": "- Oh, beautiful girl,"
+      },
+      {
+       "cyr": "запеј ми, да чујам јас.",
+       "lat": "zapej mi, da čujam jas.",
+       "en": "sing for me, so I can hear."
+      },
+      {
+       "cyr": "О, девојко убава",
+       "lat": "O, devojko ubava",
+       "en": "Oh, beautiful girl,"
+      },
+      {
+       "cyr": "заиграј да видам јас.",
+       "lat": "zaigraj da vidam jas.",
+       "en": "dance, so I can see."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако сакаш да ти запеам",
+       "lat": "- Ako sakaš da ti zapeam",
+       "en": "- If you want me to sing for you,"
+      },
+      {
+       "cyr": "треба да ме милуваш,",
+       "lat": "treba da me miluvaš,",
+       "en": "you must caress me,"
+      },
+      {
+       "cyr": "ако сакаш да ти заиграм",
+       "lat": "ako sakaš da ti zaigram",
+       "en": "if you want me to dance for you,"
+      },
+      {
+       "cyr": "треба да ме бакнуваш.",
+       "lat": "treba da me baknuvaš.",
+       "en": "you must kiss me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- О, девојко Македонко",
+       "lat": "- O, devojko Makedonko",
+       "en": "- Oh, Macedonian girl,"
+      },
+      {
+       "cyr": "запеј ми, да чујам јас.",
+       "lat": "zapej mi, da čujam jas.",
+       "en": "sing for me, so I can hear."
+      },
+      {
+       "cyr": "О, девојко Македонко",
+       "lat": "O, devojko Makedonko",
+       "en": "Oh, Macedonian girl,"
+      },
+      {
+       "cyr": "заиграј да видам јас.",
+       "lat": "zaigraj da vidam jas.",
+       "en": "dance, so I can see."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако сакаш да ти запеам",
+       "lat": "- Ako sakaš da ti zapeam",
+       "en": "- If you want me to sing for you,"
+      },
+      {
+       "cyr": "треба да ме милуваш,",
+       "lat": "treba da me miluvaš,",
+       "en": "you must caress me,"
+      },
+      {
+       "cyr": "ако сакаш да ти заиграм",
+       "lat": "ako sakaš da ti zaigram",
+       "en": "if you want me to dance for you,"
+      },
+      {
+       "cyr": "треба да ме бакнуваш.",
+       "lat": "treba da me baknuvaš.",
+       "en": "you must kiss me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

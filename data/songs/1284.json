@@ -1,0 +1,150 @@
+{
+ "id": 1284,
+ "slug": "nashi-momi-ubavi",
+ "title_cyr": "Наши моми убави",
+ "title_latin": "Naši momi ubavi",
+ "title_en": "Our Beautiful Girls",
+ "pesna_url": "https://pesna.org/song/1284",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern folk-style song), no author I can name. 'Не ќе погрешиш' is 'you will not go wrong'.",
+ "words_to_learn": [
+  {
+   "mk": "шетав",
+   "en": "I wandered, I strolled"
+  },
+  {
+   "mk": "горе",
+   "en": "up, above"
+  },
+  {
+   "mk": "долу",
+   "en": "down, below"
+  },
+  {
+   "mk": "на крајот",
+   "en": "in the end"
+  },
+  {
+   "mk": "се вратив",
+   "en": "I came back"
+  },
+  {
+   "mk": "секаде",
+   "en": "everywhere"
+  },
+  {
+   "mk": "никаде",
+   "en": "nowhere"
+  },
+  {
+   "mk": "памет",
+   "en": "mind, wits"
+  },
+  {
+   "mk": "погрешиш",
+   "en": "you go wrong, make a mistake"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3248"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Шетав горе, шетав долу",
+       "lat": "Šetav gore, šetav dolu",
+       "en": "I wandered up, I wandered down"
+      },
+      {
+       "cyr": "и на крајот пак се вратив,",
+       "lat": "i na krajot pak se vrativ,",
+       "en": "and in the end I came back again,"
+      },
+      {
+       "cyr": "тука останав.",
+       "lat": "tuka ostanav.",
+       "en": "I stayed here."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убави моми има секаде,",
+       "lat": "Ubavi momi ima sekade,",
+       "en": "There are beautiful girls everywhere,"
+      },
+      {
+       "cyr": "ама како тука море,",
+       "lat": "ama kako tuka more,",
+       "en": "but like here, hey,"
+      },
+      {
+       "cyr": "нема никаде.",
+       "lat": "nema nikade.",
+       "en": "there are none anywhere."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога еднаш ќе ги видиш,",
+       "lat": "Koga ednaš ḱe gi vidiš,",
+       "en": "Once you see them,"
+      },
+      {
+       "cyr": "памет ќе изгубиш,",
+       "lat": "pamet ḱe izgubiš,",
+       "en": "you will lose your mind,"
+      },
+      {
+       "cyr": "која мило да ја земеш",
+       "lat": "koja milo da ja zemeš",
+       "en": "whichever one you gladly take"
+      },
+      {
+       "cyr": "не ќе погрешиш.",
+       "lat": "ne ḱe pogrešiš.",
+       "en": "you will not go wrong."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убави моми има секаде,",
+       "lat": "Ubavi momi ima sekade,",
+       "en": "There are beautiful girls everywhere,"
+      },
+      {
+       "cyr": "ама како тука море,",
+       "lat": "ama kako tuka more,",
+       "en": "but like here, hey,"
+      },
+      {
+       "cyr": "нема никаде.",
+       "lat": "nema nikade.",
+       "en": "there are none anywhere."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

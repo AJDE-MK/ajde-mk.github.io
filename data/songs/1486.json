@@ -1,0 +1,209 @@
+{
+ "id": 1486,
+ "slug": "kukavica-kuka",
+ "title_cyr": "Кукавица кука",
+ "title_latin": "Kukavica kuka",
+ "title_en": "The cuckoo calls",
+ "pesna_url": "https://pesna.org/song/1486",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The language mixes Serbian-style forms (је, њума, ко, кроз) with Macedonian dialect; 'њума' is a dialect dative 'her', my reading. 'Не је Тодор, тој си је Тодора' is my reading: the empress says the soldier is really a woman, Todora. Cigarettes (цигаре) are probably tobacco, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "кукавица",
+   "en": "cuckoo"
+  },
+  {
+   "mk": "војска",
+   "en": "army"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "девојка",
+   "en": "girl"
+  },
+  {
+   "mk": "ќерка",
+   "en": "daughter"
+  },
+  {
+   "mk": "царица",
+   "en": "empress"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar"
+  },
+  {
+   "mk": "огледалце",
+   "en": "little mirror"
+  },
+  {
+   "mk": "ракија",
+   "en": "brandy"
+  }
+ ],
+ "performers": [
+  "Ансамбл Панче Пешев"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3861"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кукавица кука, џанам, на војничко поље,",
+       "lat": "Kukavica kuka, džanam, na vojničko polje,",
+       "en": "The cuckoo calls, dear, over the soldiers' field,"
+      },
+      {
+       "cyr": "она кука, та си војску збира.",
+       "lat": "ona kuka, ta si vojsku zbira.",
+       "en": "it calls, and gathers the army."
+      },
+      {
+       "cyr": "Сваки прати по два, по једнога,",
+       "lat": "Svaki prati po dva, po jednoga,",
+       "en": "Everyone sends two, or one,"
+      },
+      {
+       "cyr": "јадан Тодор нема ниједнога.",
+       "lat": "jadan Todor nema nijednoga.",
+       "en": "poor Todor has none."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тодор имал девет миле ќерке,",
+       "lat": "Todor imal devet mile ḱerke,",
+       "en": "Todor had nine dear daughters,"
+      },
+      {
+       "cyr": "он гу прати најмалуту ќерку",
+       "lat": "on gu prati najmalutu ḱerku",
+       "en": "he sends the youngest daughter"
+      },
+      {
+       "cyr": "и гу прати, море, војску да си служи.",
+       "lat": "i gu prati, more, vojsku da si služi.",
+       "en": "and sends her, hey, to serve in the army."
+      },
+      {
+       "cyr": "Служила је време три године,",
+       "lat": "Služila je vreme tri godine,",
+       "en": "She served the time of three years,"
+      },
+      {
+       "cyr": "никој њума не гу је познаја",
+       "lat": "nikoj njuma ne gu je poznaja",
+       "en": "no one recognised her"
+      },
+      {
+       "cyr": "дека има девојка у војску.",
+       "lat": "deka ima devojka u vojsku.",
+       "en": "that there was a girl in the army."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кад замине царица Милица,",
+       "lat": "Kad zamine carica Milica,",
+       "en": "When Empress Milica passed by,"
+      },
+      {
+       "cyr": "заминала кроз цареву војску.",
+       "lat": "zaminala kroz carevu vojsku.",
+       "en": "she passed through the emperor's army."
+      },
+      {
+       "cyr": "Она гу је њума упознала",
+       "lat": "Ona gu je njuma upoznala",
+       "en": "She recognised her"
+      },
+      {
+       "cyr": "дека има девојка у војску.",
+       "lat": "deka ima devojka u vojsku.",
+       "en": "that there was a girl in the army."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Царица си на цара збореше:",
+       "lat": "Carica si na cara zboreše:",
+       "en": "The empress said to the emperor:"
+      },
+      {
+       "cyr": "- Ко ти бога, царе, господаре,",
+       "lat": "- Ko ti boga, care, gospodare,",
+       "en": "- By God, emperor, lord,"
+      },
+      {
+       "cyr": "што ти имаш најдоброга војника",
+       "lat": "što ti imaš najdobroga vojnika",
+       "en": "you have the best soldier"
+      },
+      {
+       "cyr": "ко се вика по име Тодор.",
+       "lat": "ko se vika po ime Todor.",
+       "en": "who is called by the name Todor."
+      },
+      {
+       "cyr": "Не је Тодор, тој си је Тодора.",
+       "lat": "Ne je Todor, toj si je Todora.",
+       "en": "He is not Todor, she is Todora."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ги пратил д' идат кроз чаршију,",
+       "lat": "Pa gi pratil d' idat kroz čaršiju,",
+       "en": "So he sent them to go through the market,"
+      },
+      {
+       "cyr": "секој купи цигаре, ракију,",
+       "lat": "sekoj kupi cigare, rakiju,",
+       "en": "everyone bought cigarettes, brandy,"
+      },
+      {
+       "cyr": "а Тодора купи огледалце.",
+       "lat": "a Todora kupi ogledalce.",
+       "en": "and Todora bought a little mirror."
+      },
+      {
+       "cyr": "И туј гу је, море, царе упознало",
+       "lat": "I tuj gu je, more, care upoznalo",
+       "en": "And there the emperor recognised her"
+      },
+      {
+       "cyr": "дека има девојка у војску.",
+       "lat": "deka ima devojka u vojsku.",
+       "en": "that there was a girl in the army."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

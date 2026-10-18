@@ -1,0 +1,214 @@
+{
+ "id": 1061,
+ "slug": "veleshkite-ergeni",
+ "title_cyr": "Велешките ергени",
+ "title_latin": "Veleškite ergeni",
+ "title_en": "The Bachelors of Veles",
+ "pesna_url": "https://pesna.org/song/1061",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Humorous dance song from Veles; origin unclear, I cannot name an author. 'ми седнал' and 'ми гледа' use a dative 'ми' in dialect style, 'гајтан веѓи' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ергени",
+   "en": "bachelors, young unmarried men"
+  },
+  {
+   "mk": "момите",
+   "en": "the girls"
+  },
+  {
+   "mk": "намигнат",
+   "en": "they wink"
+  },
+  {
+   "mk": "гајтан веѓи",
+   "en": "braided (thin, arched) eyebrows"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "бацам",
+   "en": "I kiss (dialect)"
+  },
+  {
+   "mk": "се мршти",
+   "en": "frowns"
+  },
+  {
+   "mk": "будало",
+   "en": "fool"
+  },
+  {
+   "mk": "ѓавол",
+   "en": "devil"
+  }
+ ],
+ "performers": [
+  "Мирко Митревски",
+  "Стојан Џаџев"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/2454"
+  },
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/2455"
+  },
+  {
+   "who": "Стојан Џаџев",
+   "url": "https://pesna.org/audio-download/2456"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Велешките ергени",
+       "lat": "Veleškite ergeni",
+       "en": "The bachelors of Veles"
+      },
+      {
+       "cyr": "каде одат сал пејат,",
+       "lat": "kade odat sal pejat,",
+       "en": "wherever they go, they only sing,"
+      },
+      {
+       "cyr": "по момите гледаат,",
+       "lat": "po momite gledaat,",
+       "en": "they look at the girls,"
+      },
+      {
+       "cyr": "штом ги видат, ќе им свирнат",
+       "lat": "štom gi vidat, ḱe im svirnat",
+       "en": "as soon as they see them, they whistle at them"
+      },
+      {
+       "cyr": "и со око ќе намигнат,",
+       "lat": "i so oko ḱe namignat,",
+       "en": "and wink with an eye,"
+      },
+      {
+       "cyr": "леле, леле што се убави.",
+       "lat": "lele, lele što se ubavi.",
+       "en": "oh, oh, how beautiful they are."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А момите играат,",
+       "lat": "A momite igraat,",
+       "en": "And the girls dance,"
+      },
+      {
+       "cyr": "гајтан веѓи дигаат,",
+       "lat": "gajtan veǵi digaat,",
+       "en": "they raise their braided eyebrows,"
+      },
+      {
+       "cyr": "шега се подбиваат,",
+       "lat": "šega se podbivaat,",
+       "en": "they tease each other as a joke,"
+      },
+      {
+       "cyr": "ситно, ситно оро вијат,",
+       "lat": "sitno, sitno oro vijat,",
+       "en": "they spin a small, small round dance,"
+      },
+      {
+       "cyr": "од ергени очи кријат,",
+       "lat": "od ergeni oči krijat,",
+       "en": "they hide their eyes from the bachelors,"
+      },
+      {
+       "cyr": "леле, леле што се убави.",
+       "lat": "lele, lele što se ubavi.",
+       "en": "oh, oh, how beautiful they are."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стари дедо ми седнал,",
+       "lat": "Stari dedo mi sednal,",
+       "en": "Old grandfather has sat down,"
+      },
+      {
+       "cyr": "од далеку ми гледа",
+       "lat": "od daleku mi gleda",
+       "en": "he watches me from afar"
+      },
+      {
+       "cyr": "и на баба ѝ вели:",
+       "lat": "i na baba ì veli:",
+       "en": "and says to grandmother:"
+      },
+      {
+       "cyr": "- Елај бабо да те бацам,",
+       "lat": "- Elaj babo da te bacam,",
+       "en": "- Come, grandma, let me kiss you,"
+      },
+      {
+       "cyr": "ич со рака не те фаќам,",
+       "lat": "ič so raka ne te faḱam,",
+       "en": "I do not touch you with a hand at all,"
+      },
+      {
+       "cyr": "леле, леле што си убава!",
+       "lat": "lele, lele što si ubava!",
+       "en": "oh, oh, how beautiful you are!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стара баба сал се мршти",
+       "lat": "Stara baba sal se mršti",
+       "en": "Old grandmother only frowns"
+      },
+      {
+       "cyr": "и на дедо му вели:",
+       "lat": "i na dedo mu veli:",
+       "en": "and says to grandfather:"
+      },
+      {
+       "cyr": "- А бре старо будало,",
+       "lat": "- A bre staro budalo,",
+       "en": "- You old fool,"
+      },
+      {
+       "cyr": "пусти ѓавол ти навлегол,",
+       "lat": "pusti ǵavol ti navlegol,",
+       "en": "a cursed devil has got into you,"
+      },
+      {
+       "cyr": "сиот памет ти излегол,",
+       "lat": "siot pamet ti izlegol,",
+       "en": "all your sense has gone out,"
+      },
+      {
+       "cyr": "леле, леле што си будала.",
+       "lat": "lele, lele što si budala.",
+       "en": "oh, oh, what a fool you are."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,171 @@
+{
+ "id": 1292,
+ "slug": "mitrevica-chakalkata",
+ "title_cyr": "Митревица чакалката",
+ "title_latin": "Mitrevica čakalkata",
+ "title_en": "Mitrevitsa the Chakalka",
+ "pesna_url": "https://pesna.org/song/1292",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'чакалка', 'тељови' (read as wire strings), 'ѕрнге' (read as strum) and 'бапчорци' (read as young lads) are guesses, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "рано",
+   "en": "early"
+  },
+  {
+   "mk": "утрина",
+   "en": "morning"
+  },
+  {
+   "mk": "налее",
+   "en": "to pour (in)"
+  },
+  {
+   "mk": "измие",
+   "en": "to wash"
+  },
+  {
+   "mk": "руси коси",
+   "en": "blond hair"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura (string instrument)"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor, carefree young man"
+  },
+  {
+   "mk": "женети",
+   "en": "married men"
+  },
+  {
+   "mk": "шарено пиле",
+   "en": "colourful chick (refrain)"
+  }
+ ],
+ "performers": [
+  "ДМБУЦ Илија Николовски - Луј"
+ ],
+ "audio": [
+  {
+   "who": "ДМБУЦ Илија Николовски - Луј",
+   "url": "https://pesna.org/audio-download/3265"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Митревица чакалката",
+       "lat": "Mitrevica čakalkata",
+       "en": "Mitrevitsa the chakalka"
+      },
+      {
+       "cyr": "рано рани на утрина,",
+       "lat": "rano rani na utrina,",
+       "en": "rises early in the morning,"
+      },
+      {
+       "cyr": "рано рани на утрина,",
+       "lat": "rano rani na utrina,",
+       "en": "rises early in the morning,"
+      },
+      {
+       "cyr": "да налее студена вода.",
+       "lat": "da nalee studena voda.",
+       "en": "to pour cold water."
+      },
+      {
+       "cyr": "Ој, леле, леле, студена вода,",
+       "lat": "Oj, lele, lele, studena voda,",
+       "en": "Oh, alas, alas, cold water,"
+      },
+      {
+       "cyr": "ој, леле, леле, шарено пиле.",
+       "lat": "oj, lele, lele, šareno pile.",
+       "en": "oh, alas, alas, colourful chick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да налее студена вода,",
+       "lat": "Da nalee studena voda,",
+       "en": "To pour cold water,"
+      },
+      {
+       "cyr": "да измие руси коси,",
+       "lat": "da izmie rusi kosi,",
+       "en": "to wash her blond hair,"
+      },
+      {
+       "cyr": "руси коси кај тељови,",
+       "lat": "rusi kosi kaj teljovi,",
+       "en": "blond hair like strings,"
+      },
+      {
+       "cyr": "кај тељови за тамбура.",
+       "lat": "kaj teljovi za tambura.",
+       "en": "like strings for a tambura."
+      },
+      {
+       "cyr": "Ој, леле, леле, за тамбура,",
+       "lat": "Oj, lele, lele, za tambura,",
+       "en": "Oh, alas, alas, for a tambura,"
+      },
+      {
+       "cyr": "ој, леле, леле, шарено пиле.",
+       "lat": "oj, lele, lele, šareno pile.",
+       "en": "oh, alas, alas, colourful chick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Руси коси за тамбура,",
+       "lat": "Rusi kosi za tambura,",
+       "en": "Blond hair for a tambura,"
+      },
+      {
+       "cyr": "да ја ѕрнге беќарите,",
+       "lat": "da ja dzrnge beḱarite,",
+       "en": "for the bachelors to strum it,"
+      },
+      {
+       "cyr": "беќарите, бапчорците,",
+       "lat": "beḱarite, bapčorcite,",
+       "en": "the bachelors, the young lads,"
+      },
+      {
+       "cyr": "најповеќе женетите.",
+       "lat": "najpoveḱe ženetite.",
+       "en": "most of all the married ones."
+      },
+      {
+       "cyr": "Ој, леле, леле, женетите,",
+       "lat": "Oj, lele, lele, ženetite,",
+       "en": "Oh, alas, alas, the married ones,"
+      },
+      {
+       "cyr": "ој, леле, леле, шарено пиле.",
+       "lat": "oj, lele, lele, šareno pile.",
+       "en": "oh, alas, alas, colourful chick."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

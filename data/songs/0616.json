@@ -1,0 +1,192 @@
+{
+ "id": 616,
+ "slug": "ajde-stanav-se-ozheniv",
+ "title_cyr": "Ајде станав се оженив",
+ "title_latin": "Ajde stanav se oženiv",
+ "title_en": "I decided to get married",
+ "pesna_url": "https://pesna.org/song/616",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Никола Бадев",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Филиграни",
+   "url": "https://pesna.org/audio-download/949"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1268"
+  },
+  {
+   "who": "Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2952"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3032"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Зедов жена мрзелива)",
+       "lat": "(Zedov žena mrzeliva)",
+       "en": "(I married a lazy woman)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде станав се оженив",
+       "lat": "Ajde stanav se oženiv",
+       "en": "I decided to get married,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Зедов жена болникава,",
+       "lat": "Zedov žena bolnikava,",
+       "en": "I married a sick woman,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де,",
+       "lat": "dejgidi de, dejgidi de,",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Болникава, мрзелива,",
+       "lat": "Bolnikava, mrzeliva,",
+       "en": "Sick and lazy,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди деј.",
+       "lat": "dejgidi de, dejgidi dej.",
+       "en": "hey, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја однесов кај докторот",
+       "lat": "Ja odnesov kaj doktorot",
+       "en": "I took her to the doctor,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Доктор рече фајде нема",
+       "lat": "Doktor reče fajde nema",
+       "en": "The doctor said there is no help,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Па се вратив право дома,",
+       "lat": "Pa se vrativ pravo doma,",
+       "en": "So I got back home,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди деј.",
+       "lat": "dejgidi de, dejgidi dej.",
+       "en": "hey, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја одведов кај бајачот",
+       "lat": "Ja odvedov kaj bajačot",
+       "en": "I took her to the shaman,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Бајач вели фајде нема",
+       "lat": "Bajač veli fajde nema",
+       "en": "The shaman said there is no help,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Па се вратив право дома,",
+       "lat": "Pa se vrativ pravo doma,",
+       "en": "So I got back home,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди деј.",
+       "lat": "dejgidi de, dejgidi dej.",
+       "en": "hey, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си зедов суровица",
+       "lat": "Pa si zedov surovica",
+       "en": "Then I got a strong stick,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Десет удрив, едно броев",
+       "lat": "Deset udriv, edno broev",
+       "en": "I hit ten times, counted one,"
+      },
+      {
+       "cyr": "дејгиди де, дејгиди де.",
+       "lat": "dejgidi de, dejgidi de.",
+       "en": "hey, hey."
+      },
+      {
+       "cyr": "Стана жена, си оздраве,",
+       "lat": "Stana žena, si ozdrave,",
+       "en": "My wife got up, got well,"
+      },
+      {
+       "cyr": "дејгиди де, деј гиди деј.",
+       "lat": "dejgidi de, dej gidi dej.",
+       "en": "hey, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

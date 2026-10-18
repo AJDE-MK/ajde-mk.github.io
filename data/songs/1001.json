@@ -1,0 +1,161 @@
+{
+ "id": 1001,
+ "slug": "snoshti-e-jana",
+ "title_cyr": "Сношти е Јана",
+ "title_latin": "Snošti e Jana",
+ "title_en": "Last night Jana",
+ "pesna_url": "https://pesna.org/song/1001",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Сношти е Јана' is my reading as 'last night Jana'; 'да те заведам' could also mean 'to lead you off', exact tone is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "слегла",
+   "en": "came down, descended"
+  },
+  {
+   "mk": "балкан",
+   "en": "mountain (Balkan range)"
+  },
+  {
+   "mk": "влегла",
+   "en": "entered"
+  },
+  {
+   "mk": "вода",
+   "en": "water (here: the well)"
+  },
+  {
+   "mk": "заведам",
+   "en": "to lead off, lead astray"
+  },
+  {
+   "mk": "одведам",
+   "en": "to take away"
+  },
+  {
+   "mk": "девојченце",
+   "en": "little girl"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2325"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти е Јана",
+       "lat": "Snošti e Jana",
+       "en": "Last night Jana"
+      },
+      {
+       "cyr": "од балкан слегла,",
+       "lat": "od balkan slegla,",
+       "en": "came down from the mountain,"
+      },
+      {
+       "cyr": "сношти е Јана",
+       "lat": "snošti e Jana",
+       "en": "last night Jana"
+      },
+      {
+       "cyr": "од балкан слегла.",
+       "lat": "od balkan slegla.",
+       "en": "came down from the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, моме, за вода",
+       "lat": "Ajde, mome, za voda",
+       "en": "Come, girl, to the water,"
+      },
+      {
+       "cyr": "да те заведам,",
+       "lat": "da te zavedam,",
+       "en": "let me lead you astray,"
+      },
+      {
+       "cyr": "девојченце убаво,",
+       "lat": "devojčence ubavo,",
+       "en": "beautiful little girl,"
+      },
+      {
+       "cyr": "да те одведам.",
+       "lat": "da te odvedam.",
+       "en": "let me take you away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од балкан слегла,",
+       "lat": "Od balkan slegla,",
+       "en": "Came down from the mountain,"
+      },
+      {
+       "cyr": "во село влегла,",
+       "lat": "vo selo vlegla,",
+       "en": "entered the village,"
+      },
+      {
+       "cyr": "од балкан слегла,",
+       "lat": "od balkan slegla,",
+       "en": "came down from the mountain,"
+      },
+      {
+       "cyr": "во село влегла.",
+       "lat": "vo selo vlegla.",
+       "en": "entered the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, моме, за вода",
+       "lat": "Ajde, mome, za voda",
+       "en": "Come, girl, to the water,"
+      },
+      {
+       "cyr": "да те заведам,",
+       "lat": "da te zavedam,",
+       "en": "let me lead you astray,"
+      },
+      {
+       "cyr": "девојченце убаво,",
+       "lat": "devojčence ubavo,",
+       "en": "beautiful little girl,"
+      },
+      {
+       "cyr": "да те одведам.",
+       "lat": "da te odvedam.",
+       "en": "let me take you away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

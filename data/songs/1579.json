@@ -1,0 +1,137 @@
+{
+ "id": 1579,
+ "slug": "bolno-mi-legnalo-lenche-r-zhanovo",
+ "title_cyr": "Болно ми легнало Ленче Р'жаново",
+ "title_latin": "Bolno mi legnalo Lenče R'žanovo",
+ "title_en": "Ill has lain down Lenche Rzhanova",
+ "pesna_url": "https://pesna.org/song/1579",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Guessing: 'којничанче' (horseman or horse-dealer), 'дурмаџивче' (my reading: carter), and the last line 'од Милета Алду', which I could not understand and translated literally. 'Р'жаново' is probably a family or place name.",
+ "words_to_learn": [
+  {
+   "mk": "болно",
+   "en": "ill, sick"
+  },
+  {
+   "mk": "преврзало",
+   "en": "bandaged"
+  },
+  {
+   "mk": "стројници",
+   "en": "matchmakers, wedding envoys"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "велешанче",
+   "en": "young man from Veles"
+  },
+  {
+   "mk": "штипјани",
+   "en": "people from Shtip"
+  },
+  {
+   "mk": "стара мајка",
+   "en": "old mother"
+  },
+  {
+   "mk": "дојдоа / дошле",
+   "en": "came"
+  }
+ ],
+ "performers": [
+  "Група Кактус",
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Група Кактус",
+   "url": "https://pesna.org/audio-download/4114"
+  },
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4115"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болно ми легнало Ленче Р'жаново,",
+       "lat": "Bolno mi legnalo Lenče R'žanovo,",
+       "en": "Ill has lain down Lenche Rzhanova,"
+      },
+      {
+       "cyr": "болно ми легнало, глава преврзало.",
+       "lat": "bolno mi legnalo, glava prevrzalo.",
+       "en": "ill has lain down, her head bandaged."
+      },
+      {
+       "cyr": "На глава ѝ стои нејна стара мајка",
+       "lat": "Na glava ì stoi nejna stara majka",
+       "en": "At her head stands her old mother"
+      },
+      {
+       "cyr": "и на Ленче збори: - Стани Ленче, стани.",
+       "lat": "i na Lenče zbori: - Stani Lenče, stani.",
+       "en": "and says to Lenche: - Get up, Lenche, get up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани Ленче, стани, стројници кај идат,",
+       "lat": "Stani Lenče, stani, strojnici kaj idat,",
+       "en": "Get up, Lenche, get up, the matchmakers are coming,"
+      },
+      {
+       "cyr": "стројници кај идат, стројици штипјани.",
+       "lat": "strojnici kaj idat, strojici štipjani.",
+       "en": "the matchmakers are coming, the ones from Shtip."
+      },
+      {
+       "cyr": "- Јас си сакам мамо либе велешанче,",
+       "lat": "- Jas si sakam mamo libe velešanče,",
+       "en": "- I want, mother, a sweetheart from Veles,"
+      },
+      {
+       "cyr": "либе велешанче, младо којничанче.",
+       "lat": "libe velešanče, mlado kojničanče.",
+       "en": "a sweetheart from Veles, a young horseman,"
+      },
+      {
+       "cyr": "Младо којничанче, младо дурмаџивче.",
+       "lat": "Mlado kojničanče, mlado durmadživče.",
+       "en": "a young horseman, a young carter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како дошле, мајко, така да си одат,",
+       "lat": "Kako došle, majko, taka da si odat,",
+       "en": "As they came, mother, so let them go,"
+      },
+      {
+       "cyr": "кога не се мајко од Милета Алду!",
+       "lat": "koga ne se majko od Mileta Aldu!",
+       "en": "since they are not, mother, from Mile's Aldo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

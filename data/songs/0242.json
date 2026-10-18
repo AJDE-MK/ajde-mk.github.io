@@ -1,0 +1,256 @@
+{
+ "id": 242,
+ "slug": "gradel-ilija-manastir",
+ "title_cyr": "Градел Илија манастир",
+ "title_latin": "Gradel Ilija manastir",
+ "title_en": "Ilija Was Building a Monastery",
+ "pesna_url": "https://pesna.org/song/242",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'црно морасо' (black habit) is my reading; 'морасо' is a dialect word I am not sure of. ' Илино' (vocative) may be a variant of Irina.",
+ "words_to_learn": [
+  {
+   "mk": "градел",
+   "en": "was building"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "батко",
+   "en": "older brother (respectful address)"
+  },
+  {
+   "mk": "ќелија",
+   "en": "monastic cell"
+  },
+  {
+   "mk": "калуѓерица",
+   "en": "nun"
+  },
+  {
+   "mk": "руси",
+   "en": "blond, reddish-fair"
+  },
+  {
+   "mk": "коса / косите",
+   "en": "hair / the hair"
+  },
+  {
+   "mk": "да поцрнам",
+   "en": "to blacken, make black"
+  },
+  {
+   "mk": "скротам",
+   "en": "to tame, calm"
+  }
+ ],
+ "performers": [
+  "Адријана Алачки",
+  "Александар Александров",
+  "Василка Иванова",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Георги Христов",
+  "Диран Тавитјан",
+  "Мирко Митревски",
+  "Радостина Панјова",
+  "Сергеј Четковиќ",
+  "Серенада",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/2"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/3"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Сергеј Четковиќ",
+   "url": "https://pesna.org/audio-download/1804"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/3441"
+  },
+  {
+   "who": "Адријана Алачки",
+   "url": "https://pesna.org/audio-download/3442"
+  },
+  {
+   "who": "Василка Иванова, Георги Христов",
+   "url": "https://pesna.org/audio-download/3443"
+  },
+  {
+   "who": "Радостина Панјова",
+   "url": "https://pesna.org/audio-download/3444"
+  },
+  {
+   "who": "Александар Александров",
+   "url": "https://pesna.org/audio-download/3445"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Градел Илија манастир,",
+       "lat": "Gradel Ilija manastir,",
+       "en": "Ilija was building a monastery,"
+      },
+      {
+       "cyr": "градел Илија манастир,",
+       "lat": "gradel Ilija manastir,",
+       "en": "Ilija was building a monastery,"
+      },
+      {
+       "cyr": "градел Илија манастир, оф аман, аман,",
+       "lat": "gradel Ilija manastir, of aman, aman,",
+       "en": "Ilija was building a monastery, oh aman, aman,"
+      },
+      {
+       "cyr": "на врв на Пирин Планина.",
+       "lat": "na vrv na Pirin Planina.",
+       "en": "on top of Pirin Mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде Ирина,",
+       "lat": "Ozdola ide Irina,",
+       "en": "From below comes Irina,"
+      },
+      {
+       "cyr": "оздола иде Ирина,",
+       "lat": "ozdola ide Irina,",
+       "en": "from below comes Irina,"
+      },
+      {
+       "cyr": "оздола иде Ирина, оф аман, аман,",
+       "lat": "ozdola ide Irina, of aman, aman,",
+       "en": "from below comes Irina, oh aman, aman,"
+      },
+      {
+       "cyr": "и на Илија говори:",
+       "lat": "i na Ilija govori:",
+       "en": "and says to Ilija:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земи ме батко Илија,",
+       "lat": "Zemi me batko Ilija,",
+       "en": "Take me, brother Ilija,"
+      },
+      {
+       "cyr": "земи ме батко Илија,",
+       "lat": "zemi me batko Ilija,",
+       "en": "take me, brother Ilija,"
+      },
+      {
+       "cyr": "земи ме батко Илија, оф аман, аман,",
+       "lat": "zemi me batko Ilija, of aman, aman,",
+       "en": "take me, brother Ilija, oh aman, aman,"
+      },
+      {
+       "cyr": "во твојта тесна ќелија.",
+       "lat": "vo tvojta tesna ḱelija.",
+       "en": "into your narrow cell."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Калуѓерица да станам,",
+       "lat": "Kaluǵerica da stanam,",
+       "en": "Let me become a nun,"
+      },
+      {
+       "cyr": "калуѓерица да станам,",
+       "lat": "kaluǵerica da stanam,",
+       "en": "let me become a nun,"
+      },
+      {
+       "cyr": "калуѓерица да станам, оф аман, аман,",
+       "lat": "kaluǵerica da stanam, of aman, aman,",
+       "en": "let me become a nun, oh aman, aman,"
+      },
+      {
+       "cyr": "црно морасо да носам.",
+       "lat": "crno moraso da nosam.",
+       "en": "to wear the black habit."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам моме Илино,",
+       "lat": "Ne možam mome Ilino,",
+       "en": "I cannot, girl Ilina,"
+      },
+      {
+       "cyr": "не можам моме Илино,",
+       "lat": "ne možam mome Ilino,",
+       "en": "I cannot, girl Ilina,"
+      },
+      {
+       "cyr": "што ти се руси косите, оф аман, аман,",
+       "lat": "što ti se rusi kosite, of aman, aman,",
+       "en": "because your hair is blond, oh aman, aman,"
+      },
+      {
+       "cyr": "и ти играат очите.",
+       "lat": "i ti igraat očite.",
+       "en": "and your eyes dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Косите ќе ги исечам,",
+       "lat": "Kosite ḱe gi isečam,",
+       "en": "I will cut my hair,"
+      },
+      {
+       "cyr": "косите ќе ги исечам,",
+       "lat": "kosite ḱe gi isečam,",
+       "en": "I will cut my hair,"
+      },
+      {
+       "cyr": "Косиве ќе ги поцрнам, оф аман, аман,",
+       "lat": "Kosive ḱe gi pocrnam, of aman, aman,",
+       "en": "I will make my hair black, oh aman, aman,"
+      },
+      {
+       "cyr": "очиве ќе си ги скротам.",
+       "lat": "očive ḱe si gi skrotam.",
+       "en": "I will tame my eyes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

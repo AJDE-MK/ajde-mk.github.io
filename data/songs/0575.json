@@ -1,0 +1,180 @@
+{
+ "id": 575,
+ "slug": "fato-mori-dushmanke",
+ "title_cyr": "Фато мори душманке",
+ "title_latin": "Fato mori dušmanke",
+ "title_en": "Fata, You Enemy",
+ "pesna_url": "https://pesna.org/song/575",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: no author I can name. 'Фато' is a woman's name (Fata); 'ме остави' is rendered 'he left me', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "душманка",
+   "en": "enemy (woman)"
+  },
+  {
+   "mk": "катилка",
+   "en": "murderess"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "колнам",
+   "en": "I curse"
+  },
+  {
+   "mk": "лудо",
+   "en": "madly"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (interjection)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Група АС",
+  "Јорданка Варџијска",
+  "Кирил Костов",
+  "Николина Чакурдукова",
+  "Петранка Костадинова",
+  "Louis"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/389"
+  },
+  {
+   "who": "Група АС",
+   "url": "https://pesna.org/audio-download/390"
+  },
+  {
+   "who": "Louis",
+   "url": "https://pesna.org/audio-download/391"
+  },
+  {
+   "who": "Николина Чакурдукова",
+   "url": "https://pesna.org/audio-download/392"
+  },
+  {
+   "who": "Јорданка Варџијска, Кирил Костов",
+   "url": "https://pesna.org/audio-download/393"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/394"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Либето ми го зеде ти",
+       "lat": "Libeto mi go zede ti",
+       "en": "You took my sweetheart,"
+      },
+      {
+       "cyr": "рана на срце ми остави.",
+       "lat": "rana na srce mi ostavi.",
+       "en": "you left a wound on my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен:",
+       "lat": "Refren:",
+       "en": "Refrain:"
+      },
+      {
+       "cyr": "А, а,... Фато мори душманке",
+       "lat": "A, a,... Fato mori dušmanke",
+       "en": "Ah, ah,... Fata, hey enemy woman,"
+      },
+      {
+       "cyr": "леле катилке",
+       "lat": "lele katilke",
+       "en": "oh, murderess,"
+      },
+      {
+       "cyr": "А, а,... Фато мори душманке",
+       "lat": "A, a,... Fato mori dušmanke",
+       "en": "Ah, ah,... Fata, hey enemy woman,"
+      },
+      {
+       "cyr": "проклета да си.",
+       "lat": "prokleta da si.",
+       "en": "may you be cursed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу време се љубевме",
+       "lat": "Mnogu vreme se ljubevme",
+       "en": "We loved each other for a long time"
+      },
+      {
+       "cyr": "но за еднаш ме остави.",
+       "lat": "no za ednaš me ostavi.",
+       "en": "but all at once he left me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен",
+       "lat": "Refren",
+       "en": "Refrain"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Среќна не ќе бидеш ти",
+       "lat": "Sreḱna ne ḱe bideš ti",
+       "en": "You will not be happy,"
+      },
+      {
+       "cyr": "кога лудо те колнам знај.",
+       "lat": "koga ludo te kolnam znaj.",
+       "en": "know that I curse you madly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен",
+       "lat": "Refren",
+       "en": "Refrain"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

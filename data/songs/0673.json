@@ -1,0 +1,133 @@
+{
+ "id": 673,
+ "slug": "momite-mamo-momite",
+ "title_cyr": "Момите мамо, момите",
+ "title_latin": "Momite mamo, momite",
+ "title_en": "The Girls, Mother, the Girls",
+ "pesna_url": "https://pesna.org/song/673",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Љубов да водат' is literally 'to lead love'; my reading is 'carry on a courtship'. 'На знајат' is taken as a dialect or typo form of 'не знаат'.",
+ "words_to_learn": [
+  {
+   "mk": "момите",
+   "en": "the girls"
+  },
+  {
+   "mk": "сал",
+   "en": "only (dialect, from Turkish sade)"
+  },
+  {
+   "mk": "љубов да водат",
+   "en": "to carry on a love affair"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  },
+  {
+   "mk": "берат",
+   "en": "they pick"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors, young unmarried men"
+  },
+  {
+   "mk": "на знајат",
+   "en": "they don't know (na znajat = ne znaat)"
+  }
+ ],
+ "performers": [
+  "Пет плус"
+ ],
+ "audio": [
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/866"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Момите мамо, момите,",
+       "lat": "Momite mamo, momite,",
+       "en": "The girls, mother, the girls,"
+      },
+      {
+       "cyr": "момите, момите сите убави,",
+       "lat": "momite, momite site ubavi,",
+       "en": "the girls, the girls are all beautiful,"
+      },
+      {
+       "cyr": "на знајат, не знаат",
+       "lat": "na znajat, ne znaat",
+       "en": "they don't know, they don't know"
+      },
+      {
+       "cyr": "љубов да водат.",
+       "lat": "ljubov da vodat.",
+       "en": "how to carry on a love affair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сал знаат, мамо, сал знаат,",
+       "lat": "Sal znaat, mamo, sal znaat,",
+       "en": "They only know, mother, they only know,"
+      },
+      {
+       "cyr": "сал знаат цвеќе да берат,",
+       "lat": "sal znaat cveḱe da berat,",
+       "en": "they only know how to pick flowers,"
+      },
+      {
+       "cyr": "сал знаат, сал знаат,",
+       "lat": "sal znaat, sal znaat,",
+       "en": "they only know, they only know"
+      },
+      {
+       "cyr": "цвеќе да берат.",
+       "lat": "cveḱe da berat.",
+       "en": "how to pick flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дајте ги мамо, дајте ги",
+       "lat": "Dajte gi mamo, dajte gi",
+       "en": "Give them, mother, give them,"
+      },
+      {
+       "cyr": "дајте ги, дајте ги на ергените",
+       "lat": "dajte gi, dajte gi na ergenite",
+       "en": "give them, give them to the bachelors,"
+      },
+      {
+       "cyr": "да знаат, да знаат,",
+       "lat": "da znaat, da znaat,",
+       "en": "so that they learn, so that they learn"
+      },
+      {
+       "cyr": "љубов да водат.",
+       "lat": "ljubov da vodat.",
+       "en": "how to carry on a love affair."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,184 @@
+{
+ "id": 1215,
+ "slug": "gjurgja-pere-vo-rekata",
+ "title_cyr": "Ѓурѓа пере во реката",
+ "title_latin": "Ǵurǵa pere vo rekata",
+ "title_en": "Gjurgja Washes in the River",
+ "pesna_url": "https://pesna.org/song/1215",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Катиљ' is used teasingly; I rendered it 'murderous', which is my reading. Gjurgja is a woman's name (Georgia/Gjurgjica).",
+ "words_to_learn": [
+  {
+   "mk": "пере",
+   "en": "washes (laundry)"
+  },
+  {
+   "mk": "сејмен",
+   "en": "gendarme, armed guard (Ottoman era)"
+  },
+  {
+   "mk": "меѓа",
+   "en": "boundary, field edge"
+  },
+  {
+   "mk": "катиљ",
+   "en": "murderer, cruel one (here: a teasing epithet)"
+  },
+  {
+   "mk": "кошула",
+   "en": "shirt"
+  },
+  {
+   "mk": "кир",
+   "en": "grime, dirt"
+  },
+  {
+   "mk": "фанала",
+   "en": "caught, taken hold"
+  }
+ ],
+ "performers": [
+  "Ансамбл Коло",
+  "Борис Ангелковски",
+  "Добри Ставревски",
+  "Круме Спасовски",
+  "Радио студио Скопје",
+  "Танец",
+  "Трпе Череповски",
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Борис Ангелковски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2993"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/2994"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/2995"
+  },
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3242"
+  },
+  {
+   "who": "Танец, Трпе Череповски",
+   "url": "https://pesna.org/audio-download/3261"
+  },
+  {
+   "who": "Ансамбл Коло",
+   "url": "https://pesna.org/audio-download/3262"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ѓурѓа пере во реката,",
+       "lat": "Ǵurǵa pere vo rekata,",
+       "en": "Gjurgja washes in the river,"
+      },
+      {
+       "cyr": "сејмен седи на меѓата:",
+       "lat": "sejmen sedi na meǵata:",
+       "en": "a gendarme sits on the boundary:"
+      },
+      {
+       "cyr": "- Мори Ѓурѓе, катиљ Ѓурѓе,",
+       "lat": "- Mori Ǵurǵe, katilj Ǵurǵe,",
+       "en": "- Hey Gjurgja, murderous Gjurgja,"
+      },
+      {
+       "cyr": "испери ми кошулава.",
+       "lat": "isperi mi košulava.",
+       "en": "wash this shirt for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Испери ми кошулава,",
+       "lat": "Isperi mi košulava,",
+       "en": "Wash this shirt for me,"
+      },
+      {
+       "cyr": "три години не е прана.",
+       "lat": "tri godini ne e prana.",
+       "en": "it has not been washed in three years."
+      },
+      {
+       "cyr": "Еј, мори Ѓурѓе, катиљ Ѓурѓе,",
+       "lat": "Ej, mori Ǵurǵe, katilj Ǵurǵe,",
+       "en": "Hey, Gjurgja, murderous Gjurgja,"
+      },
+      {
+       "cyr": "три години не е прана.",
+       "lat": "tri godini ne e prana.",
+       "en": "it has not been washed in three years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три години не е прана,",
+       "lat": "Tri godini ne e prana,",
+       "en": "It has not been washed in three years,"
+      },
+      {
+       "cyr": "до три прста кир фанала,",
+       "lat": "do tri prsta kir fanala,",
+       "en": "three fingers of grime have caught on it."
+      },
+      {
+       "cyr": "Еј, мори Ѓурѓе, катиљ Ѓурѓе,",
+       "lat": "Ej, mori Ǵurǵe, katilj Ǵurǵe,",
+       "en": "Hey, Gjurgja, murderous Gjurgja,"
+      },
+      {
+       "cyr": "до три прста кир фанала.",
+       "lat": "do tri prsta kir fanala.",
+       "en": "three fingers of grime have caught on it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој сејмене, млад сејмене,",
+       "lat": "- Oj sejmene, mlad sejmene,",
+       "en": "- Oh gendarme, young gendarme,"
+      },
+      {
+       "cyr": "јас не можам да те перам.",
+       "lat": "jas ne možam da te peram.",
+       "en": "I cannot wash you."
+      },
+      {
+       "cyr": "Јас не можам да те перам,",
+       "lat": "Jas ne možam da te peram,",
+       "en": "I cannot wash you,"
+      },
+      {
+       "cyr": "од сејмен кошула не перам.",
+       "lat": "od sejmen košula ne peram.",
+       "en": "I do not wash a gendarme's shirt."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

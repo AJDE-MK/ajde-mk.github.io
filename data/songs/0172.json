@@ -1,0 +1,150 @@
+{
+ "id": 172,
+ "slug": "proshtavaj-mi-mila-moja",
+ "title_cyr": "Проштавај ми мила моја",
+ "title_latin": "Proštavaj mi mila moja",
+ "title_en": "Forgive me, my dear",
+ "pesna_url": "https://pesna.org/song/172",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Revolutionary-era style; I treated it as traditional but it may be a later composed song. 'Сакет да исфрлат' is dialect for 'they want to throw out'.",
+ "words_to_learn": [
+  {
+   "mk": "проштавај",
+   "en": "forgive / farewell"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas (irregular fighters of the revolutionary movement)"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of comrades"
+  },
+  {
+   "mk": "борци",
+   "en": "fighters"
+  },
+  {
+   "mk": "ропство",
+   "en": "bondage, slavery"
+  },
+  {
+   "mk": "маки",
+   "en": "torments, sorrows"
+  },
+  {
+   "mk": "тесно им е в' градите",
+   "en": "their chests are tight (they are oppressed)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Проштавај ми мила моја,",
+       "lat": "Proštavaj mi mila moja,",
+       "en": "Forgive me, my dear,"
+      },
+      {
+       "cyr": "јас си одам многу млад,",
+       "lat": "jas si odam mnogu mlad,",
+       "en": "I am leaving, very young,"
+      },
+      {
+       "cyr": "а срцето не ми дава,",
+       "lat": "a srceto ne mi dava,",
+       "en": "but my heart does not let me"
+      },
+      {
+       "cyr": "сама да те оставам.",
+       "lat": "sama da te ostavam.",
+       "en": "leave you alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те оставам со мајка ти,",
+       "lat": "Te ostavam so majka ti,",
+       "en": "I leave you with your mother,"
+      },
+      {
+       "cyr": "татко, браќа и сестри,",
+       "lat": "tatko, braḱa i sestri,",
+       "en": "father, brothers and sisters,"
+      },
+      {
+       "cyr": "јас ќе одам со комити,",
+       "lat": "jas ḱe odam so komiti,",
+       "en": "I will go with the komitas,"
+      },
+      {
+       "cyr": "в' македонски планини.",
+       "lat": "v' makedonski planini.",
+       "en": "into the Macedonian mountains."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе одам во планини,",
+       "lat": "Jas ḱe odam vo planini,",
+       "en": "I will go into the mountains,"
+      },
+      {
+       "cyr": "со мојата дружина,",
+       "lat": "so mojata družina,",
+       "en": "with my company,"
+      },
+      {
+       "cyr": "Гоце Делчев да го пазам,",
+       "lat": "Goce Delčev da go pazam,",
+       "en": "to guard Goce Delchev,"
+      },
+      {
+       "cyr": "а и другите борци.",
+       "lat": "a i drugite borci.",
+       "en": "and the other fighters too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Плачат жени, пиштат деца,",
+       "lat": "Plačat ženi, pištat deca,",
+       "en": "Women weep, children cry,"
+      },
+      {
+       "cyr": "тесно им е в' градите.",
+       "lat": "tesno im e v' gradite.",
+       "en": "their chests are tight."
+      },
+      {
+       "cyr": "Сакет да исфрлат маки",
+       "lat": "Saket da isfrlat maki",
+       "en": "They want to throw off the sorrows"
+      },
+      {
+       "cyr": "од петвековното ропство.",
+       "lat": "od petvekovnoto ropstvo.",
+       "en": "of five centuries of bondage."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

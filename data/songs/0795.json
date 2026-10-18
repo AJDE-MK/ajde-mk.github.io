@@ -1,0 +1,144 @@
+{
+ "id": 795,
+ "slug": "oj-jelenchice",
+ "title_cyr": "Ој, Јеленчице",
+ "title_latin": "Oj, Jelenčice",
+ "title_en": "Oh, Jelenchica",
+ "pesna_url": "https://pesna.org/song/795",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. Several lines are in a dialect with unusual forms (ју, треста, терезија); lines 4, 7 and 9 are my reading and partly guessed, in particular 'терезија' as a balance or measuring scale and 'да не ѕида' as 'so he builds'.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "висока",
+   "en": "high, tall"
+  },
+  {
+   "mk": "весина",
+   "en": "height (dialect, my reading)"
+  },
+  {
+   "mk": "ширина",
+   "en": "breadth, width"
+  },
+  {
+   "mk": "мајстор",
+   "en": "master craftsman, builder"
+  },
+  {
+   "mk": "триста",
+   "en": "three hundred"
+  },
+  {
+   "mk": "церква",
+   "en": "church"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "поп",
+   "en": "priest"
+  }
+ ],
+ "performers": [
+  "Пеце Атанасовски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1503"
+  },
+  {
+   "who": "Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/1504"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Јеленчице, мори висока планино,",
+       "lat": "Oj, Jelenčice, mori visoka planino,",
+       "en": "Oh, Jelenchica, hey, high mountain,"
+      },
+      {
+       "cyr": "Јеленчице, море, висока планино.",
+       "lat": "Jelenčice, more, visoka planino.",
+       "en": "Jelenchica, hey, high mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, ју весине море, не се догледоваш",
+       "lat": "Oj, ju vesine more, ne se dogledovaš",
+       "en": "Oh, in your height, hey, you cannot be seen to the end"
+      },
+      {
+       "cyr": "ју ширине море, не се изидоваш.",
+       "lat": "ju širine more, ne se izidovaš.",
+       "en": "in your breadth, hey, you cannot be built round."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, у тебе се, море, до треста мајстора,",
+       "lat": "Oj, u tebe se, more, do tresta majstora,",
+       "en": "Oh, on you there are, hey, three hundred masters,"
+      },
+      {
+       "cyr": "ју тебе се, море, до триста мајстора.",
+       "lat": "ju tebe se, more, do trista majstora.",
+       "en": "on you there are, hey, three hundred masters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, меџо њима, море, мајстор Димитрија",
+       "lat": "Oj, medžo njima, more, majstor Dimitrija",
+       "en": "Oh, among them, hey, master Dimitrija"
+      },
+      {
+       "cyr": "у руке му метро терезија.",
+       "lat": "u ruke mu metro terezija.",
+       "en": "in his hands he holds a scale."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, да не ѕида море, цркве, манастире, ој",
+       "lat": "Oj, da ne dzida more, crkve, manastire, oj",
+       "en": "Oh, so that he does not build, hey, churches, monasteries, oh"
+      },
+      {
+       "cyr": "и у цркве, море, до триста попове.",
+       "lat": "i u crkve, more, do trista popove.",
+       "en": "and in the churches, hey, three hundred priests."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

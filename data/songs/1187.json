@@ -1,0 +1,141 @@
+{
+ "id": 1187,
+ "slug": "kreni-glava-kuzmane",
+ "title_cyr": "Крени глава Кузмане",
+ "title_latin": "Kreni glava Kuzmane",
+ "title_en": "Lift Your Head, Kuzman",
+ "pesna_url": "https://pesna.org/song/1187",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The last stanza ('шчто те тебе' text is 'што те тебе, Кузман, предадоа') is read as a curse on the comrades who betrayed Kuzman (my reading); 'распули се' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "крени",
+   "en": "lift (imperative)"
+  },
+  {
+   "mk": "глава",
+   "en": "head"
+  },
+  {
+   "mk": "перница",
+   "en": "pillow"
+  },
+  {
+   "mk": "распули се",
+   "en": "scatter, spread out (my reading)"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (filler)"
+  },
+  {
+   "mk": "предадоа",
+   "en": "they betrayed"
+  }
+ ],
+ "performers": [
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2910"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Крени глава, Кузмане бре,",
+       "lat": "Kreni glava, Kuzmane bre,",
+       "en": "Lift your head, Kuzman, bre,"
+      },
+      {
+       "cyr": "крени глава, Кузман,",
+       "lat": "kreni glava, Kuzman,",
+       "en": "lift your head, Kuzman,"
+      },
+      {
+       "cyr": "од перница.",
+       "lat": "od pernica.",
+       "en": "from the pillow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Распули се горе, долу,",
+       "lat": "Raspuli se gore, dolu,",
+       "en": "Scatter up and down,"
+      },
+      {
+       "cyr": "горе, долу Кузман,",
+       "lat": "gore, dolu Kuzman,",
+       "en": "up and down, Kuzman,"
+      },
+      {
+       "cyr": "по гора, ле.",
+       "lat": "po gora, le.",
+       "en": "through the forest, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си видиш твои другари,",
+       "lat": "Da si vidiš tvoi drugari,",
+       "en": "Go see your comrades,"
+      },
+      {
+       "cyr": "твои другари, Кузман,",
+       "lat": "tvoi drugari, Kuzman,",
+       "en": "your comrades, Kuzman,"
+      },
+      {
+       "cyr": "и Колета.",
+       "lat": "i Koleta.",
+       "en": "and Koleta."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие твои другари",
+       "lat": "Bog da bie tvoi drugari",
+       "en": "May God strike your comrades"
+      },
+      {
+       "cyr": "што те тебе, Кузман,",
+       "lat": "što te tebe, Kuzman,",
+       "en": "who you, Kuzman,"
+      },
+      {
+       "cyr": "предадоа.",
+       "lat": "predadoa.",
+       "en": "betrayed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,217 @@
+{
+ "id": 661,
+ "slug": "debarco-ti-si-borbena",
+ "title_cyr": "Дебарцо ти си борбена",
+ "title_latin": "Debarco ti si borbena",
+ "title_en": "Debarca, You Are Fighting",
+ "pesna_url": "https://pesna.org/song/661",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Debarca is a region near Ohrid; 'Сатеска' is a river there; 'Славеј Планина' I read as 'the nightingale of the mountain' (possibly a proper name, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "пророна",
+   "en": "shed"
+  },
+  {
+   "mk": "херои",
+   "en": "heroes"
+  },
+  {
+   "mk": "борбена",
+   "en": "combative, a fighter"
+  },
+  {
+   "mk": "бучи",
+   "en": "roars"
+  },
+  {
+   "mk": "братство-единство",
+   "en": "brotherhood and unity"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "партизански",
+   "en": "partisan (adj.)"
+  }
+ ],
+ "performers": [
+  "Кирил Мицкоски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Мицкоски",
+   "url": "https://pesna.org/audio-download/1990"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дебарца солзи пророна",
+       "lat": "Debarca solzi prorona",
+       "en": "Debarca shed tears"
+      },
+      {
+       "cyr": "за своите славни херои,",
+       "lat": "za svoite slavni heroi,",
+       "en": "for her glorious heroes,"
+      },
+      {
+       "cyr": "Сатеска жално пробучи,",
+       "lat": "Sateska žalno probuči,",
+       "en": "Sateska sadly roared,"
+      },
+      {
+       "cyr": "цела со крв се обои.",
+       "lat": "cela so krv se oboi.",
+       "en": "wholly colored with blood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дебарцо ти си борбена,",
+       "lat": "Debarco ti si borbena,",
+       "en": "Debarca, you are a fighter,"
+      },
+      {
+       "cyr": "од Ботун сè до Пресека.",
+       "lat": "od Botun sè do Preseka.",
+       "en": "from Botun all the way to Preseka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За тебе песни ти пеам,",
+       "lat": "Za tebe pesni ti peam,",
+       "en": "I sing songs to you,"
+      },
+      {
+       "cyr": "во тебе мирно живеам,",
+       "lat": "vo tebe mirno živeam,",
+       "en": "in you I live in peace,"
+      },
+      {
+       "cyr": "во село славно Сливово,",
+       "lat": "vo selo slavno Slivovo,",
+       "en": "in the glorious village of Slivovo,"
+      },
+      {
+       "cyr": "братство-единство изгради.",
+       "lat": "bratstvo-edinstvo izgradi.",
+       "en": "brotherhood and unity was built."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дебарцо ти си борбена,",
+       "lat": "Debarco ti si borbena,",
+       "en": "Debarca, you are a fighter,"
+      },
+      {
+       "cyr": "од Ботун сè до Пресека.",
+       "lat": "od Botun sè do Preseka.",
+       "en": "from Botun all the way to Preseka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога херои гинеа,",
+       "lat": "Koga heroi ginea,",
+       "en": "When heroes were dying,"
+      },
+      {
+       "cyr": "на твоите деца мислеа,",
+       "lat": "na tvoite deca mislea,",
+       "en": "they thought of your children,"
+      },
+      {
+       "cyr": "дали ќе светне слобода,",
+       "lat": "dali ḱe svetne sloboda,",
+       "en": "whether freedom would dawn,"
+      },
+      {
+       "cyr": "во тебе мирно да живеат.",
+       "lat": "vo tebe mirno da živeat.",
+       "en": "for them to live in peace in you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дебарцо ти си борбена,",
+       "lat": "Debarco ti si borbena,",
+       "en": "Debarca, you are a fighter,"
+      },
+      {
+       "cyr": "од Ботун сè до Пресека.",
+       "lat": "od Botun sè do Preseka.",
+       "en": "from Botun all the way to Preseka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Славеј Планина запеа",
+       "lat": "Slavej Planina zapea",
+       "en": "The nightingale of Planina sang"
+      },
+      {
+       "cyr": "партизански песни херојски,",
+       "lat": "partizanski pesni herojski,",
+       "en": "partisan heroic songs,"
+      },
+      {
+       "cyr": "сонцето кога изгрева,",
+       "lat": "sonceto koga izgreva,",
+       "en": "when the sun rises,"
+      },
+      {
+       "cyr": "пред него вие стоите.",
+       "lat": "pred nego vie stoite.",
+       "en": "you stand before it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дебарцо ти си борбена,",
+       "lat": "Debarco ti si borbena,",
+       "en": "Debarca, you are a fighter,"
+      },
+      {
+       "cyr": "од Ботун сè до Пресека.",
+       "lat": "od Botun sè do Preseka.",
+       "en": "from Botun all the way to Preseka."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

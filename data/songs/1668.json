@@ -1,0 +1,79 @@
+{
+ "id": 1668,
+ "slug": "bolna-dana",
+ "title_cyr": "Болна Дана",
+ "title_latin": "Bolna Dana",
+ "title_en": "Sick Dana",
+ "pesna_url": "https://pesna.org/song/1668",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4475"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога си болна, Дано, легнала,",
+       "lat": "Koga si bolna, Dano, legnala,",
+       "en": "When you laid down, Dana,"
+      },
+      {
+       "cyr": "што не си абер, Дано, сторила?",
+       "lat": "što ne si aber, Dano, storila?",
+       "en": "why didn't you tell me, Dano?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Понуда да ти, Дано, донесам,",
+       "lat": "Ponuda da ti, Dano, donesam,",
+       "en": "I offer to bring to you"
+      },
+      {
+       "cyr": "тетовско, Дано моме, јаболко.",
+       "lat": "tetovsko, Dano mome, jabolko.",
+       "en": "an apple from Tetovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На врв на гранка, Дано, раснато,",
+       "lat": "Na vrv na granka, Dano, rasnato,",
+       "en": "That was grown at the top of a branch,"
+      },
+      {
+       "cyr": "по месечина, Дано, крадено,",
+       "lat": "po mesečina, Dano, kradeno,",
+       "en": "that was stolen by moonlight,"
+      },
+      {
+       "cyr": "в' пазуви мои, Дано, носено.",
+       "lat": "v' pazuvi moi, Dano, noseno.",
+       "en": "carried into my bosom, Dana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

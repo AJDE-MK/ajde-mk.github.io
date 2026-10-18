@@ -1,0 +1,205 @@
+{
+ "id": 1137,
+ "slug": "zaljubiv-male-tri-momi",
+ "title_cyr": "Заљубив мале три моми",
+ "title_latin": "Zaljubiv male tri momi",
+ "title_en": "I Fell in Love, Mother, with Three Girls",
+ "pesna_url": "https://pesna.org/song/1137",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. 'Мале' is a vocative of мајка (mother).",
+ "words_to_learn": [
+  {
+   "mk": "заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "мале",
+   "en": "mother (vocative, dialect)"
+  },
+  {
+   "mk": "убавици",
+   "en": "beauties"
+  },
+  {
+   "mk": "најмила",
+   "en": "dearest"
+  },
+  {
+   "mk": "најдрага",
+   "en": "most precious"
+  },
+  {
+   "mk": "земам",
+   "en": "I take (marry)"
+  },
+  {
+   "mk": "векуваш",
+   "en": "you live your life"
+  },
+  {
+   "mk": "учи ме",
+   "en": "advise me, teach me"
+  }
+ ],
+ "performers": [
+  "Ансамбл Нико Пусоски",
+  "Ванчо Тарабунов",
+  "Јордан Митев",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/2751"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2752"
+  },
+  {
+   "who": "Ансамбл Нико Пусоски",
+   "url": "https://pesna.org/audio-download/2753"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/2754"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заљубив мале три моми,",
+       "lat": "Zaljubiv male tri momi,",
+       "en": "I fell in love, mother, with three girls,"
+      },
+      {
+       "cyr": "заљубив мале три моми,",
+       "lat": "zaljubiv male tri momi,",
+       "en": "I fell in love, mother, with three girls,"
+      },
+      {
+       "cyr": "три моми, три убавици, леле",
+       "lat": "tri momi, tri ubavici, lele",
+       "en": "three girls, three beauties, oh,"
+      },
+      {
+       "cyr": "три моми, три убавици.",
+       "lat": "tri momi, tri ubavici.",
+       "en": "three girls, three beauties."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заљубив мале првата,",
+       "lat": "Zaljubiv male prvata,",
+       "en": "I fell in love, mother, with the first,"
+      },
+      {
+       "cyr": "првата, втората, третата,",
+       "lat": "prvata, vtorata, tretata,",
+       "en": "the first, the second, the third,"
+      },
+      {
+       "cyr": "првата мале, најмила, леле",
+       "lat": "prvata male, najmila, lele",
+       "en": "the first, mother, the dearest, oh,"
+      },
+      {
+       "cyr": "најмила мале, најдрага.",
+       "lat": "najmila male, najdraga.",
+       "en": "the dearest, mother, the most precious."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заљубив мале втората,",
+       "lat": "Zaljubiv male vtorata,",
+       "en": "I fell in love, mother, with the second,"
+      },
+      {
+       "cyr": "втората, третата, првата,",
+       "lat": "vtorata, tretata, prvata,",
+       "en": "the second, the third, the first,"
+      },
+      {
+       "cyr": "првата мале, најмила, леле",
+       "lat": "prvata male, najmila, lele",
+       "en": "the first, mother, the dearest, oh,"
+      },
+      {
+       "cyr": "најмила мале, најдрага.",
+       "lat": "najmila male, najdraga.",
+       "en": "the dearest, mother, the most precious."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заљубив мале третата,",
+       "lat": "Zaljubiv male tretata,",
+       "en": "I fell in love, mother, with the third,"
+      },
+      {
+       "cyr": "третата, втората, првата,",
+       "lat": "tretata, vtorata, prvata,",
+       "en": "the third, the second, the first,"
+      },
+      {
+       "cyr": "првата мале најмила, леле",
+       "lat": "prvata male najmila, lele",
+       "en": "the first, mother, the dearest, oh,"
+      },
+      {
+       "cyr": "најмила мале, најдрага.",
+       "lat": "najmila male, najdraga.",
+       "en": "the dearest, mother, the most precious."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Учи ме мале, кажи ми,",
+       "lat": "Uči me male, kaži mi,",
+       "en": "Teach me, mother, tell me,"
+      },
+      {
+       "cyr": "која од трите да земам?",
+       "lat": "koja od trite da zemam?",
+       "en": "which of the three should I take?"
+      },
+      {
+       "cyr": "- Земи си сине првата,",
+       "lat": "- Zemi si sine prvata,",
+       "en": "- Take the first, son,"
+      },
+      {
+       "cyr": "со неа век да векуваш,",
+       "lat": "so nea vek da vekuvaš,",
+       "en": "live your life with her,"
+      },
+      {
+       "cyr": "со неа деца да гледаш.",
+       "lat": "so nea deca da gledaš.",
+       "en": "see children with her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

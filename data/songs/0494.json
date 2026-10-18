@@ -1,0 +1,177 @@
+{
+ "id": 494,
+ "slug": "narode-makedonski",
+ "title_cyr": "Народе Македонски",
+ "title_latin": "Narode Makedonski",
+ "title_en": "Macedonian people",
+ "pesna_url": "https://pesna.org/song/494",
+ "background": "An agitation song from before the Balkan Wars, calling the people to wake up and know themselves. Qwen says it refers to a massacre in the village of Nagoričani in 1902 and to real people of the time; none of these details have been checked.",
+ "background_source": "Source of these notes: Qwen's draft; names and dates unchecked.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Калиопи",
+  "Македонски мерак",
+  "Сашо Гигов - Гиш",
+  "Симеон Гугуловски",
+  "Kazuhiro Kotetsu"
+ ],
+ "audio": [
+  {
+   "who": "Симеон Гугуловски",
+   "url": "https://pesna.org/audio-download/815"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/816"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/817"
+  },
+  {
+   "who": "Калиопи",
+   "url": "https://pesna.org/audio-download/818"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/819"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3629"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Народе Македонски,",
+       "lat": "Narode Makedonski,",
+       "en": "Macedonian people,"
+      },
+      {
+       "cyr": "со какви идеи си ти?",
+       "lat": "so kakvi idei si ti?",
+       "en": "what are your ideals?"
+      },
+      {
+       "cyr": "Доста веќе, разбуди се,",
+       "lat": "Dosta veḱe, razbudi se,",
+       "en": "Enough, wake up,"
+      },
+      {
+       "cyr": "свести се не спиј ти.",
+       "lat": "svesti se ne spij ti.",
+       "en": "come to your senses, don't sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не знаеш кој си, што си,",
+       "lat": "Ne znaeš koj si, što si,",
+       "en": "You don't know who and what you are,"
+      },
+      {
+       "cyr": "други тебе знајат,",
+       "lat": "drugi tebe znajat,",
+       "en": "others know about you."
+      },
+      {
+       "cyr": "страм голем је за тебе,",
+       "lat": "stram golem je za tebe,",
+       "en": "It's a big shame for you"
+      },
+      {
+       "cyr": "сам да се не знајеш.",
+       "lat": "sam da se ne znaješ.",
+       "en": "not to know yourself."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Исклаја жени, деца,",
+       "lat": "Isklaja ženi, deca,",
+       "en": "They beheaded women and children"
+      },
+      {
+       "cyr": "во село Загоричани,",
+       "lat": "vo selo Zagoričani,",
+       "en": "in the village of Zagorichani,"
+      },
+      {
+       "cyr": "а пред аскерот турски,",
+       "lat": "a pred askerot turski,",
+       "en": "but before the Turkish army"
+      },
+      {
+       "cyr": "фрлајте оружјето.",
+       "lat": "frlajte oružjeto.",
+       "en": "you dropped your weapons."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Писќули тенки носат",
+       "lat": "Pisḱuli tenki nosat",
+       "en": "They have thin tassels"
+      },
+      {
+       "cyr": "и пушки берданки,",
+       "lat": "i puški berdanki,",
+       "en": "and Berdan rifles,"
+      },
+      {
+       "cyr": "фустани раскапани,",
+       "lat": "fustani raskapani,",
+       "en": "their clothes are torn out"
+      },
+      {
+       "cyr": "ем празни патрони.",
+       "lat": "em prazni patroni.",
+       "en": "and their bullet cases empty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде е Караиванов",
+       "lat": "Kade e Karaivanov",
+       "en": "Where is Karaivanov"
+      },
+      {
+       "cyr": "и дружината му?",
+       "lat": "i družinata mu?",
+       "en": "and his company?"
+      },
+      {
+       "cyr": "Мелас, Каравангелис",
+       "lat": "Melas, Karavangelis",
+       "en": "Melas, Karavangelis,"
+      },
+      {
+       "cyr": "Битола в затвор је тој.",
+       "lat": "Bitola v zatvor je toj.",
+       "en": "he is in Bitola, in prison."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

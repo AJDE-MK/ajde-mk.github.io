@@ -1,0 +1,120 @@
+{
+ "id": 405,
+ "slug": "begala-mi-e-blaguna",
+ "title_cyr": "Бегала ми е Благуна",
+ "title_latin": "Begala mi e Blaguna",
+ "title_en": "Blaguna is running away",
+ "pesna_url": "https://pesna.org/song/405",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Владимир Кузов",
+  "Даниел Спасов"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/774"
+  },
+  {
+   "who": "Даниел Спасов, Владимир Кузов",
+   "url": "https://pesna.org/audio-download/775"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бегала ми е Благуна,",
+       "lat": "Begala mi e Blaguna,",
+       "en": "Blaguna is running away,"
+      },
+      {
+       "cyr": "бегала ем си плакала.",
+       "lat": "begala em si plakala.",
+       "en": "running and she is crying."
+      },
+      {
+       "cyr": "Селани трчаат по неа:",
+       "lat": "Selani trčaat po nea:",
+       "en": "The villagers run after her:"
+      },
+      {
+       "cyr": "- „Постој, Благуно, не бегај,",
+       "lat": "- „Postoj, Blaguno, ne begaj,",
+       "en": "- Hold it, Blaguna, don't run."
+      },
+      {
+       "cyr": "постој, Благуно, не бегај,",
+       "lat": "postoj, Blaguno, ne begaj,",
+       "en": "Hold it, Blaguna, don't run,"
+      },
+      {
+       "cyr": "кој ми те тебе налути“?",
+       "lat": "koj mi te tebe naluti“?",
+       "en": "who made you so angry?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селани, браќа да ми сте,",
+       "lat": "Selani, braḱa da mi ste,",
+       "en": "Villagers, be my brothers,"
+      },
+      {
+       "cyr": "јас да ви кажам маките,",
+       "lat": "jas da vi kažam makite,",
+       "en": "I will tell you my troubles."
+      },
+      {
+       "cyr": "јас имам мака голема,",
+       "lat": "jas imam maka golema,",
+       "en": "I've got a big trouble"
+      },
+      {
+       "cyr": "од најмалото деверче.",
+       "lat": "od najmaloto deverče.",
+       "en": "with my youngest brother-in-law."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оно ми вели, говори:",
+       "lat": "Ono mi veli, govori:",
+       "en": "He is telling me, he is saying:"
+      },
+      {
+       "cyr": "- „Брат ми не иде од туѓина,",
+       "lat": "- „Brat mi ne ide od tuǵina,",
+       "en": "- My brother is not coming back from far away lands,"
+      },
+      {
+       "cyr": "ај да се с' тебе земиме!“",
+       "lat": "aj da se s' tebe zemime!“",
+       "en": "so let's you and I get married."
+      },
+      {
+       "cyr": "Затоа бегам и плачам.",
+       "lat": "Zatoa begam i plačam.",
+       "en": "That's why I run and cry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

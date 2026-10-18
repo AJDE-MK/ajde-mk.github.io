@@ -1,0 +1,192 @@
+{
+ "id": 173,
+ "slug": "pred-da-si-umram",
+ "title_cyr": "Пред да си умрам",
+ "title_latin": "Pred da si umram",
+ "title_en": "Before I Die",
+ "pesna_url": "https://pesna.org/song/173",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Love song with a traditional-style closing couplet; origin unclear, I cannot name an author. 'браној' is read as 'бранови' (waves), 'нејќит' and 'земит' are dialect forms, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "искрена",
+   "en": "sincere"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "галебче",
+   "en": "little seagull (endearment)"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned up"
+  },
+  {
+   "mk": "помниш",
+   "en": "you remember"
+  },
+  {
+   "mk": "прегратки",
+   "en": "embraces"
+  },
+  {
+   "mk": "месец",
+   "en": "moon"
+  },
+  {
+   "mk": "бранови",
+   "en": "waves"
+  },
+  {
+   "mk": "трепериш",
+   "en": "you tremble"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пред да си умрам, сакам да кажам",
+       "lat": "Pred da si umram, sakam da kažam",
+       "en": "Before I die, I want to tell"
+      },
+      {
+       "cyr": "за наш'та љубов искрена.",
+       "lat": "za naš'ta ljubov iskrena.",
+       "en": "of our sincere love."
+      },
+      {
+       "cyr": "Оф, леле либе, галебче мое",
+       "lat": "Of, lele libe, galebče moe",
+       "en": "Oh, alas, my love, my little seagull,"
+      },
+      {
+       "cyr": "срцево ми го изгоре.",
+       "lat": "srcevo mi go izgore.",
+       "en": "you have burned my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Помниш ли мила, помниш ли драга,",
+       "lat": "Pomniš li mila, pomniš li draga,",
+       "en": "Do you remember, dear, do you remember, darling,"
+      },
+      {
+       "cyr": "кога се двајца љубевме?",
+       "lat": "koga se dvajca ljubevme?",
+       "en": "when we two loved each other?"
+      },
+      {
+       "cyr": "Раката твоја ми ја подаде,",
+       "lat": "Rakata tvoja mi ja podade,",
+       "en": "You gave me your hand,"
+      },
+      {
+       "cyr": "со љубов верна, искрена.",
+       "lat": "so ljubov verna, iskrena.",
+       "en": "with true, sincere love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење и ноќе плачев за тебе",
+       "lat": "Denje i noḱe plačev za tebe",
+       "en": "Day and night I cried for you,"
+      },
+      {
+       "cyr": "најповеќе за љубовта.",
+       "lat": "najpoveḱe za ljubovta.",
+       "en": "most of all for love."
+      },
+      {
+       "cyr": "Оф, леле, либе, галебче мое",
+       "lat": "Of, lele, libe, galebče moe",
+       "en": "Oh, alas, my love, my little seagull,"
+      },
+      {
+       "cyr": "срцево ми го изгоре.",
+       "lat": "srcevo mi go izgore.",
+       "en": "you have burned my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во ноќта кога месец грееше,",
+       "lat": "Vo noḱta koga mesec greeše,",
+       "en": "In the night when the moon shone,"
+      },
+      {
+       "cyr": "а зраци слетаа на тебе,",
+       "lat": "a zraci sletaa na tebe,",
+       "en": "and rays fell upon you,"
+      },
+      {
+       "cyr": "в' прегратки нежни ние двајцата",
+       "lat": "v' pregratki nežni nie dvajcata",
+       "en": "in tender embraces we two"
+      },
+      {
+       "cyr": "на песок чист крај езеро,",
+       "lat": "na pesok čist kraj ezero,",
+       "en": "on clean sand by the lake,"
+      },
+      {
+       "cyr": "а ти трепериш, ах мила моја",
+       "lat": "a ti treperiš, ah mila moja",
+       "en": "and you trembled, ah my dear,"
+      },
+      {
+       "cyr": "и слушаш шум од бранови.",
+       "lat": "i slušaš šum od branovi.",
+       "en": "and listened to the sound of the waves."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тоа не се браној, тоа се песни",
+       "lat": "Toa ne se branoj, toa se pesni",
+       "en": "Those are not waves, those are songs"
+      },
+      {
+       "cyr": "што пејат само за љубовта.",
+       "lat": "što pejat samo za ljubovta.",
+       "en": "that sing only of love."
+      },
+      {
+       "cyr": "Кој што се нејќит да се не земит,",
+       "lat": "Koj što se nejḱit da se ne zemit,",
+       "en": "Whoever is unwilling to marry, let them not marry,"
+      },
+      {
+       "cyr": "тој што се сакет, да се земит.",
+       "lat": "toj što se saket, da se zemit.",
+       "en": "those who love each other, let them marry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

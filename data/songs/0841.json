@@ -1,0 +1,175 @@
+{
+ "id": 841,
+ "slug": "mi-se-sobrale-vake-take",
+ "title_cyr": "Ми се собрале ваке-таке",
+ "title_latin": "Mi se sobrale vake-take",
+ "title_en": "They gathered, vake-take",
+ "pesna_url": "https://pesna.org/song/841",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional village song, no author known (origin unclear). 'ваке-таке' left as a refrain; 'ситноно писмо' is my reading as a carefully written letter.",
+ "words_to_learn": [
+  {
+   "mk": "ваке-таке",
+   "en": "refrain filler, like 'and so on'"
+  },
+  {
+   "mk": "собрале",
+   "en": "gathered"
+  },
+  {
+   "mk": "лаф",
+   "en": "talk, chat"
+  },
+  {
+   "mk": "оревче",
+   "en": "little walnut tree"
+  },
+  {
+   "mk": "валија",
+   "en": "governor (Ottoman)"
+  },
+  {
+   "mk": "војска",
+   "en": "army"
+  },
+  {
+   "mk": "качак",
+   "en": "outlaw, brigand"
+  },
+  {
+   "mk": "арамија",
+   "en": "bandit, robber"
+  },
+  {
+   "mk": "ситно писмо",
+   "en": "fine small writing, a letter"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1797"
+  },
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/1798"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми се собрале, ваке-таке, ми се набрале",
+       "lat": "Mi se sobrale, vake-take, mi se nabrale",
+       "en": "They gathered, vake-take, they came together"
+      },
+      {
+       "cyr": "сите селани папрадиштани.",
+       "lat": "site selani papradištani.",
+       "en": "all the villagers of Papradiste."
+      },
+      {
+       "cyr": "Лаф ми правеле, ваке-таке, лаф ми чинеле",
+       "lat": "Laf mi pravele, vake-take, laf mi činele",
+       "en": "They held a talk, vake-take, they had a chat"
+      },
+      {
+       "cyr": "на сред селото, под оревчето.",
+       "lat": "na sred seloto, pod orevčeto.",
+       "en": "in the middle of the village, under the little walnut tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговориле, ваке-таке, Димо Станкоски",
+       "lat": "Progovorile, vake-take, Dimo Stankoski",
+       "en": "They spoke up, vake-take, Dimo Stankoski"
+      },
+      {
+       "cyr": "Димо Станкоски, Стојан Лопата:",
+       "lat": "Dimo Stankoski, Stojan Lopata:",
+       "en": "Dimo Stankoski, Stojan Lopata:"
+      },
+      {
+       "cyr": "- Да го викнеме, ваке-таке, попа Јована",
+       "lat": "- Da go vikneme, vake-take, popa Jovana",
+       "en": "- Let us call, vake-take, Father Jovan the priest"
+      },
+      {
+       "cyr": "да нѝ напише ситноно писмо.",
+       "lat": "da nì napiše sitnono pismo.",
+       "en": "to write us a fine-lettered letter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го пратиме, ваке-таке, до град Битола,",
+       "lat": "Da go pratime, vake-take, do grad Bitola,",
+       "en": "Let us send it, vake-take, to the city of Bitola,"
+      },
+      {
+       "cyr": "до град Битола, кај валијата.",
+       "lat": "do grad Bitola, kaj valijata.",
+       "en": "to the city of Bitola, to the governor."
+      },
+      {
+       "cyr": "Да нѝ ја пушти, ваке-таке, силнана војска",
+       "lat": "Da nì ja pušti, vake-take, silnana vojska",
+       "en": "Let him send us, vake-take, a strong army"
+      },
+      {
+       "cyr": "да нѝ го чува нашево село.",
+       "lat": "da nì go čuva naševo selo.",
+       "en": "to guard this village of ours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да нѝ го чува, ваке-таке, нашево село,",
+       "lat": "Da nì go čuva, vake-take, naševo selo,",
+       "en": "To guard it for us, vake-take, this village of ours,"
+      },
+      {
+       "cyr": "нашево село Папрадиште.",
+       "lat": "naševo selo Papradište.",
+       "en": "this village of ours, Papradiste."
+      },
+      {
+       "cyr": "Не се живее, ваке-таке, од качаците,",
+       "lat": "Ne se živee, vake-take, od kačacite,",
+       "en": "We cannot live, vake-take, because of the outlaws,"
+      },
+      {
+       "cyr": "од качаците, Меча качакот,",
+       "lat": "od kačacite, Meča kačakot,",
+       "en": "because of the outlaws, Mecha the outlaw,"
+      },
+      {
+       "cyr": "Меча качакот, арамијата.",
+       "lat": "Meča kačakot, aramijata.",
+       "en": "Mecha the outlaw, the bandit."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,242 @@
+{
+ "id": 1216,
+ "slug": "ne-zadevaj-se-mori-vendo",
+ "title_cyr": "Не задевај се, мори Вендо",
+ "title_latin": "Ne zadevaj se, mori Vendo",
+ "title_en": "Don't tease me, hey Venda",
+ "pesna_url": "https://pesna.org/song/1216",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional teasing song. 'Вендо' is a female name (Venda); I read the cosmetics as face powder and rouge.",
+ "words_to_learn": [
+  {
+   "mk": "задевам",
+   "en": "to tease, provoke"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, unmarried man"
+  },
+  {
+   "mk": "помал брат",
+   "en": "younger brother"
+  },
+  {
+   "mk": "ока",
+   "en": "oka, old unit of weight (about 1.28 kg)"
+  },
+  {
+   "mk": "драм",
+   "en": "dram, old unit of weight (about 3 g)"
+  },
+  {
+   "mk": "белило",
+   "en": "whitening powder (cosmetic)"
+  },
+  {
+   "mk": "црвило",
+   "en": "rouge, red cosmetic"
+  },
+  {
+   "mk": "тук'",
+   "en": "just, only (dialect)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Лоле",
+  "Група Билјана",
+  "Ѓорѓи Андреевски",
+  "Илија Луков",
+  "Јонче Христовски",
+  "Јорданка Куцулова",
+  "Лихнидос",
+  "Љупка Рондова",
+  "Радио студио Скопје",
+  "Тереза Кесовија"
+ ],
+ "audio": [
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2996"
+  },
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2997"
+  },
+  {
+   "who": "Лихнидос",
+   "url": "https://pesna.org/audio-download/2998"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/2999"
+  },
+  {
+   "who": "Тереза Кесовија",
+   "url": "https://pesna.org/audio-download/3000"
+  },
+  {
+   "who": "Ансамбл Лоле",
+   "url": "https://pesna.org/audio-download/3001"
+  },
+  {
+   "who": "Илија Луков, Љупка Рондова",
+   "url": "https://pesna.org/audio-download/3237"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не задевај ме, мори Вендо,",
+       "lat": "Ne zadevaj me, mori Vendo,",
+       "en": "Don't tease me, hey Venda,"
+      },
+      {
+       "cyr": "не задевај ме,",
+       "lat": "ne zadevaj me,",
+       "en": "don't tease me,"
+      },
+      {
+       "cyr": "не задевај ме, мори Вендо,",
+       "lat": "ne zadevaj me, mori Vendo,",
+       "en": "don't tease me, hey Venda,"
+      },
+      {
+       "cyr": "јас сум стар ерген.",
+       "lat": "jas sum star ergen.",
+       "en": "I am an old bachelor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум стар ерген, мори Вендо,",
+       "lat": "Jas sum star ergen, mori Vendo,",
+       "en": "I am an old bachelor, hey Venda,"
+      },
+      {
+       "cyr": "јас сум стар ерген,",
+       "lat": "jas sum star ergen,",
+       "en": "I am an old bachelor,"
+      },
+      {
+       "cyr": "јас сум стар ерген, мори Вендо,",
+       "lat": "jas sum star ergen, mori Vendo,",
+       "en": "I am an old bachelor, hey Venda,"
+      },
+      {
+       "cyr": "од сто години.",
+       "lat": "od sto godini.",
+       "en": "of a hundred years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тук' задевај го, мори Вендо,",
+       "lat": "Tuk' zadevaj go, mori Vendo,",
+       "en": "Just tease him, hey Venda,"
+      },
+      {
+       "cyr": "тук' задевај го,",
+       "lat": "tuk' zadevaj go,",
+       "en": "just tease him,"
+      },
+      {
+       "cyr": "тук' задевај го, мори Вендо,",
+       "lat": "tuk' zadevaj go, mori Vendo,",
+       "en": "just tease him, hey Venda,"
+      },
+      {
+       "cyr": "помалиот брат.",
+       "lat": "pomaliot brat.",
+       "en": "my younger brother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој ќе ти купи, мори Вендо,",
+       "lat": "Toj ḱe ti kupi, mori Vendo,",
+       "en": "He will buy you, hey Venda,"
+      },
+      {
+       "cyr": "тој ќе ти купи,",
+       "lat": "toj ḱe ti kupi,",
+       "en": "he will buy you,"
+      },
+      {
+       "cyr": "тој ќе ти купи, мори Вендо,",
+       "lat": "toj ḱe ti kupi, mori Vendo,",
+       "en": "he will buy you, hey Venda,"
+      },
+      {
+       "cyr": "ока белило.",
+       "lat": "oka belilo.",
+       "en": "an oka of whitener."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ока белило, мори Вендо,",
+       "lat": "Oka belilo, mori Vendo,",
+       "en": "An oka of whitener, hey Venda,"
+      },
+      {
+       "cyr": "ока белило,",
+       "lat": "oka belilo,",
+       "en": "an oka of whitener,"
+      },
+      {
+       "cyr": "ока белило, мори Вендо,",
+       "lat": "oka belilo, mori Vendo,",
+       "en": "an oka of whitener, hey Venda,"
+      },
+      {
+       "cyr": "сто драм црвило.",
+       "lat": "sto dram crvilo.",
+       "en": "a hundred drams of rouge."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се набелиш, мори Вендо,",
+       "lat": "Da se nabeliš, mori Vendo,",
+       "en": "So that you whiten yourself, hey Venda,"
+      },
+      {
+       "cyr": "да се набелиш,",
+       "lat": "da se nabeliš,",
+       "en": "so that you whiten yourself,"
+      },
+      {
+       "cyr": "да се набелиш, мори Вендо,",
+       "lat": "da se nabeliš, mori Vendo,",
+       "en": "so that you whiten yourself, hey Venda,"
+      },
+      {
+       "cyr": "да се нацрвиш.",
+       "lat": "da se nacrviš.",
+       "en": "so that you redden yourself."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

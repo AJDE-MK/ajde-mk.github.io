@@ -1,0 +1,158 @@
+{
+ "id": 1145,
+ "slug": "razbole-mi-se-kalina",
+ "title_cyr": "Разболе ми се Калина",
+ "title_latin": "Razbole mi se Kalina",
+ "title_en": "Kalina fell ill",
+ "pesna_url": "https://pesna.org/song/1145",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Dialect forms 'това', 'шо', 'сал' (only), 'раци' (arms). 'со уста' I render as 'with its beak', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "разболе се",
+   "en": "fell ill"
+  },
+  {
+   "mk": "поле",
+   "en": "field"
+  },
+  {
+   "mk": "широко",
+   "en": "wide"
+  },
+  {
+   "mk": "пиле шарено",
+   "en": "speckled little bird"
+  },
+  {
+   "mk": "уста",
+   "en": "mouth, beak"
+  },
+  {
+   "mk": "крилца",
+   "en": "little wings"
+  },
+  {
+   "mk": "сенка",
+   "en": "shade"
+  },
+  {
+   "mk": "ладеше",
+   "en": "was cooling"
+  },
+  {
+   "mk": "това",
+   "en": "this (eastern dialect)"
+  }
+ ],
+ "performers": [
+  "Лета Барџиева",
+  "Љубојна"
+ ],
+ "audio": [
+  {
+   "who": "Лета Барџиева",
+   "url": "https://pesna.org/audio-download/2779"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/2780"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Разболе ми се Калина",
+       "lat": "Razbole mi se Kalina",
+       "en": "Kalina fell ill on me"
+      },
+      {
+       "cyr": "во това поле широко, широко.",
+       "lat": "vo tova pole široko, široko.",
+       "en": "in this field, wide, so wide."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој при неја немаше",
+       "lat": "Nikoj pri neja nemaše",
+       "en": "Nobody was near her"
+      },
+      {
+       "cyr": "сал едно пиле шарено, шарено.",
+       "lat": "sal edno pile šareno, šareno.",
+       "en": "only one little speckled bird, speckled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со уста вода носеше",
+       "lat": "So usta voda noseše",
+       "en": "With its beak it carried water,"
+      },
+      {
+       "cyr": "со крилца сенка држеше, држеше.",
+       "lat": "so krilca senka držeše, držeše.",
+       "en": "with its wings it held shade, held shade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј море пиле шарено",
+       "lat": "- Ej more pile šareno",
+       "en": "- Hey, little speckled bird,"
+      },
+      {
+       "cyr": "шо добро виде од мене, од мене?",
+       "lat": "šo dobro vide od mene, od mene?",
+       "en": "what good did you see from me, from me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Калино, моме убаво",
+       "lat": "- Kalino, mome ubavo",
+       "en": "- Kalina, lovely girl,"
+      },
+      {
+       "cyr": "кога гореше гората, гората.",
+       "lat": "koga goreše gorata, gorata.",
+       "en": "when the forest was burning, burning."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти мен во раци држеше",
+       "lat": "Ti men vo raci držeše",
+       "en": "You held me in your arms,"
+      },
+      {
+       "cyr": "со масло крилца ладеше, ладеше.",
+       "lat": "so maslo krilca ladeše, ladeše.",
+       "en": "with oil you cooled my wings, cooled them."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

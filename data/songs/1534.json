@@ -1,0 +1,142 @@
+{
+ "id": 1534,
+ "slug": "makedonche-sokole",
+ "title_cyr": "Македонче, соколе",
+ "title_latin": "Makedonče, sokole",
+ "title_en": "Little Macedonian, Falcon",
+ "pesna_url": "https://pesna.org/song/1534",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; modern patriotic song, no author I can name. The speaker attribution in stanza 1 and 3 is my reading: father and son take turns.",
+ "words_to_learn": [
+  {
+   "mk": "расти",
+   "en": "grow (imperative)"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "чесен",
+   "en": "honest, honorable"
+  },
+  {
+   "mk": "правда",
+   "en": "justice"
+  },
+  {
+   "mk": "далечина",
+   "en": "distance"
+  },
+  {
+   "mk": "урнуваат",
+   "en": "collapse"
+  },
+  {
+   "mk": "исчезне",
+   "en": "disappear"
+  }
+ ],
+ "performers": [
+  "Жаклина Узунова",
+  "Јанко Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Жаклина Узунова, Јанко Узунов",
+   "url": "https://pesna.org/audio-download/4006"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Расти сине, расти чедо, македонче, соколе,",
+       "lat": "- Rasti sine, rasti čedo, makedonče, sokole,",
+       "en": "- Grow, son, grow, child, little Macedonian, falcon,"
+      },
+      {
+       "cyr": "чесен сакам да те гледам секогаш и секаде.",
+       "lat": "česen sakam da te gledam sekogaš i sekade.",
+       "en": "I want to see you honest always and everywhere."
+      },
+      {
+       "cyr": "- Слушни татко што ти вели и секогаш сети се",
+       "lat": "- Slušni tatko što ti veli i sekogaš seti se",
+       "en": "- Listen to what your father tells you and always remember,"
+      },
+      {
+       "cyr": "оваа наша мила земја, правда уште не виде.",
+       "lat": "ovaa naša mila zemja, pravda ušte ne vide.",
+       "en": "this dear land of ours has not yet seen justice."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму во далечина, сè е Македонија",
+       "lat": "Tamu vo dalečina, sè e Makedonija",
+       "en": "There in the distance, everything is Macedonia,"
+      },
+      {
+       "cyr": "зошто наш'та мила земја други ни ја зедоа.",
+       "lat": "zošto naš'ta mila zemja drugi ni ja zedoa.",
+       "en": "because others took our dear land from us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму има луѓе наши, зборат грчки и бугарски,",
+       "lat": "Tamu ima luǵe naši, zborat grčki i bugarski,",
+       "en": "There are our people there, they speak Greek and Bulgarian,"
+      },
+      {
+       "cyr": "вистина ли, кажи тато — тие се Македонци.",
+       "lat": "vistina li, kaži tato — tie se Makedonci.",
+       "en": "is it true, tell me, dad, that they are Macedonians."
+      },
+      {
+       "cyr": "И планини нека паѓаат, гори нек' се уриваат,",
+       "lat": "I planini neka paǵaat, gori nek' se urivaat,",
+       "en": "And let mountains fall, let forests collapse,"
+      },
+      {
+       "cyr": "ова наше чесно име не може да исчезне.",
+       "lat": "ova naše česno ime ne može da isčezne.",
+       "en": "this honest name of ours cannot disappear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму во далечина, сè е Македонија",
+       "lat": "Tamu vo dalečina, sè e Makedonija",
+       "en": "There in the distance, everything is Macedonia,"
+      },
+      {
+       "cyr": "зошто наш'та мила земја други ни ја зедоа.",
+       "lat": "zošto naš'ta mila zemja drugi ni ja zedoa.",
+       "en": "because others took our dear land from us."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

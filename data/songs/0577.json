@@ -1,0 +1,247 @@
+{
+ "id": 577,
+ "slug": "fanche-ojde-vo-kalishta",
+ "title_cyr": "Фанче ојде во Калишта",
+ "title_latin": "Fanče ojde vo Kališta",
+ "title_en": "Fanche Went to Kalishta",
+ "pesna_url": "https://pesna.org/song/577",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Southern dialect (-t verb endings). 'Чамче' and 'елбасанче' (probably a dance tune, Elbasan) are my guess; 'шчуро' left as '...'; 'дан' ти го' read as 'or I'll'; 'летниците' read as 'the summer ones' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "панаѓур",
+   "en": "fair, market"
+  },
+  {
+   "mk": "таванче",
+   "en": "little attic"
+  },
+  {
+   "mk": "визита",
+   "en": "visit"
+  },
+  {
+   "mk": "кир",
+   "en": "Mr. (Greek-origin title, 'kyr')"
+  },
+  {
+   "mk": "чалгаџии",
+   "en": "musicians, folk band players"
+  },
+  {
+   "mk": "тајфа",
+   "en": "band, company"
+  },
+  {
+   "mk": "кемане",
+   "en": "kemane (bowed string instrument)"
+  },
+  {
+   "mk": "езеро",
+   "en": "lake"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Добри Ставревски"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/926"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/927"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Фанче ојде во Калишта",
+       "lat": "Fanče ojde vo Kališta",
+       "en": "Fanche went to Kalishta,"
+      },
+      {
+       "cyr": "во Калишча на панаѓур.",
+       "lat": "vo Kališča na panaǵur.",
+       "en": "to Kalishta, to the fair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму место не ми најде,",
+       "lat": "Tamu mesto ne mi najde,",
+       "en": "There she found no place,"
+      },
+      {
+       "cyr": "се почуди што да чинит,",
+       "lat": "se počudi što da činit,",
+       "en": "she wondered what to do,"
+      },
+      {
+       "cyr": "ноќе беше кај да одит.",
+       "lat": "noḱe beše kaj da odit.",
+       "en": "it was night, with nowhere to go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми кондиса под скалата,",
+       "lat": "Mi kondisa pod skalata,",
+       "en": "She ended up under the stairs,"
+      },
+      {
+       "cyr": "под скалата, в' одајчето",
+       "lat": "pod skalata, v' odajčeto",
+       "en": "under the stairs, in a little room,"
+      },
+      {
+       "cyr": "в' одајчето, таванчето.",
+       "lat": "v' odajčeto, tavančeto.",
+       "en": "in the little room, the little attic."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што му рече на Димитрија:",
+       "lat": "Što mu reče na Dimitrija:",
+       "en": "She said to Dimitrija:"
+      },
+      {
+       "cyr": "- Ај Димитри, ти Димитри,",
+       "lat": "- Aj Dimitri, ti Dimitri,",
+       "en": "- Hey Dimitri, you Dimitri,"
+      },
+      {
+       "cyr": "ај да ојме на визита,",
+       "lat": "aj da ojme na vizita,",
+       "en": "let's go on a visit,"
+      },
+      {
+       "cyr": "на визита у кир Коста,",
+       "lat": "na vizita u kir Kosta,",
+       "en": "on a visit to Mr. Kosta,"
+      },
+      {
+       "cyr": "у кир Коста од Белета.",
+       "lat": "u kir Kosta od Beleta.",
+       "en": "to Mr. Kosta from Beleta."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму имат чалгаџии,",
+       "lat": "Tamu imat čalgadžii,",
+       "en": "There are musicians there,"
+      },
+      {
+       "cyr": "тамо свирит Караѓуле,",
+       "lat": "tamo svirit Karaǵule,",
+       "en": "there Karagule plays,"
+      },
+      {
+       "cyr": "Караѓуле со тајфата.",
+       "lat": "Karaǵule so tajfata.",
+       "en": "Karagule with his band."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свири, свири Караѓуле,",
+       "lat": "Sviri, sviri Karaǵule,",
+       "en": "Play, play, Karagule,"
+      },
+      {
+       "cyr": "да поиграт кира Фанче,",
+       "lat": "da poigrat kira Fanče,",
+       "en": "so that Mrs. Fanche may dance,"
+      },
+      {
+       "cyr": "кира Фанче едно чамче",
+       "lat": "kira Fanče edno čamče",
+       "en": "Mrs. Fanche a little chamche,"
+      },
+      {
+       "cyr": "едно чамче елбасанче.",
+       "lat": "edno čamče elbasanče.",
+       "en": "a little chamche elbasanche."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фанче ми се наљутило,",
+       "lat": "Fanče mi se naljutilo,",
+       "en": "Fanche got angry,"
+      },
+      {
+       "cyr": "не го знаит пусто чамче,",
+       "lat": "ne go znait pusto čamče,",
+       "en": "he doesn't know it, the wretched chamche,"
+      },
+      {
+       "cyr": "не го знает шчуро чамче.",
+       "lat": "ne go znaet ščuro čamče.",
+       "en": "he doesn't know it, the ... chamche."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што му рече на Караѓуле:",
+       "lat": "Što mu reče na Karaǵule:",
+       "en": "She said to Karagule:"
+      },
+      {
+       "cyr": "- Свири, свири Караѓуле,",
+       "lat": "- Sviri, sviri Karaǵule,",
+       "en": "- Play, play, Karagule,"
+      },
+      {
+       "cyr": "дан' ти го земам кемането,",
+       "lat": "dan' ti go zemam kemaneto,",
+       "en": "or I'll take your kemane,"
+      },
+      {
+       "cyr": "дан' ти го фрлам во езеро",
+       "lat": "dan' ti go frlam vo ezero",
+       "en": "or I'll throw it into the lake"
+      },
+      {
+       "cyr": "да го јадат и рибите",
+       "lat": "da go jadat i ribite",
+       "en": "for the fish to eat it,"
+      },
+      {
+       "cyr": "и рибите, летниците.",
+       "lat": "i ribite, letnicite.",
+       "en": "the fish, the summer ones."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

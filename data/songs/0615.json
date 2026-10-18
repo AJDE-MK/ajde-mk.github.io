@@ -1,0 +1,192 @@
+{
+ "id": 615,
+ "slug": "ajde-razbole-se-mojto-libe",
+ "title_cyr": "Ајде разболе се мојто либе",
+ "title_latin": "Ajde razbole se mojto libe",
+ "title_en": "Come On, My Love Fell Ill",
+ "pesna_url": "https://pesna.org/song/615",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Па да си умре' is my reading ('and then let him die'); it may mean 'before he dies'. 'Јазе' is the dialect form of 'јас'.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "разболе се",
+   "en": "fell ill"
+  },
+  {
+   "mk": "туѓа земја",
+   "en": "foreign land"
+  },
+  {
+   "mk": "пратив писмо",
+   "en": "I sent a letter"
+  },
+  {
+   "mk": "сиромаси",
+   "en": "poor people"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace (often of coins)"
+  },
+  {
+   "mk": "ковани",
+   "en": "minted, made of coins"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева",
+  "Никола Бадев",
+  "Сузана Спасовска",
+  "Чардаш"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/785"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/786"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/787"
+  },
+  {
+   "who": "Чардаш",
+   "url": "https://pesna.org/audio-download/788"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде разболе се мојто либе",
+       "lat": "Ajde razbole se mojto libe",
+       "en": "Come on, my love has fallen ill"
+      },
+      {
+       "cyr": "во туѓа земја,",
+       "lat": "vo tuǵa zemja,",
+       "en": "in a foreign land,"
+      },
+      {
+       "cyr": "ајде разболе се и ќе умре",
+       "lat": "ajde razbole se i ḱe umre",
+       "en": "come on, he has fallen ill and will die"
+      },
+      {
+       "cyr": "многу далеку.",
+       "lat": "mnogu daleku.",
+       "en": "very far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде пратив писмо мила мамо",
+       "lat": "Ajde prativ pismo mila mamo",
+       "en": "Come on, I sent a letter, dear mother,"
+      },
+      {
+       "cyr": "јазе да идам,",
+       "lat": "jaze da idam,",
+       "en": "that I should go,"
+      },
+      {
+       "cyr": "ајде јас да идам мила мамо",
+       "lat": "ajde jas da idam mila mamo",
+       "en": "come on, that I should go, dear mother,"
+      },
+      {
+       "cyr": "за да го видам.",
+       "lat": "za da go vidam.",
+       "en": "to see him."
+      },
+      {
+       "cyr": "Ај да го видам мила мајко",
+       "lat": "Aj da go vidam mila majko",
+       "en": "Oh, to see him, dear mother,"
+      },
+      {
+       "cyr": "па да си умре.",
+       "lat": "pa da si umre.",
+       "en": "and then let him die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде немој ќерко, немој душо",
+       "lat": "Ajde nemoj ḱerko, nemoj dušo",
+       "en": "Come on, don't, daughter, don't, my dear,"
+      },
+      {
+       "cyr": "многу е далеку,",
+       "lat": "mnogu e daleku,",
+       "en": "it is very far,"
+      },
+      {
+       "cyr": "ајде немаш пари, немаш ништо",
+       "lat": "ajde nemaš pari, nemaš ništo",
+       "en": "come on, you have no money, you have nothing,"
+      },
+      {
+       "cyr": "сме сиромаси.",
+       "lat": "sme siromasi.",
+       "en": "we are poor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе продадам мила мајко",
+       "lat": "Ajde ḱe prodadam mila majko",
+       "en": "Come on, I will sell, dear mother,"
+      },
+      {
+       "cyr": "ковани ѓердан,",
+       "lat": "kovani ǵerdan,",
+       "en": "the coined necklace,"
+      },
+      {
+       "cyr": "ајде ќе продадам мила мајко",
+       "lat": "ajde ḱe prodadam mila majko",
+       "en": "come on, I will sell, dear mother,"
+      },
+      {
+       "cyr": "јазе да идам.",
+       "lat": "jaze da idam.",
+       "en": "so that I can go."
+      },
+      {
+       "cyr": "Ајде јас да идам мила мајко",
+       "lat": "Ajde jas da idam mila majko",
+       "en": "Come on, so that I can go, dear mother,"
+      },
+      {
+       "cyr": "за да го видам.",
+       "lat": "za da go vidam.",
+       "en": "to see him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

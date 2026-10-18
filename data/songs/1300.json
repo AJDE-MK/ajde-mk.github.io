@@ -1,0 +1,243 @@
+{
+ "id": 1300,
+ "slug": "ti-zemjo-nasha-makedonijo",
+ "title_cyr": "Ти земјо наша Македонијо",
+ "title_latin": "Ti zemjo naša Makedonijo",
+ "title_en": "You, our land Macedonia",
+ "pesna_url": "https://pesna.org/song/1300",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Patriotic song, origin unclear. 'Бело Море' is the Macedonian name for the Aegean Sea; 'тебе ми те прават' (stanza 3) is my reading: 'they are making you (into a beauty of sorrow)'. Goce is Goce Delchev; 'Jane' probably Jane Sandanski (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "земјо",
+   "en": "land, earth (vocative)"
+  },
+  {
+   "mk": "убавица",
+   "en": "beauty"
+  },
+  {
+   "mk": "тирани",
+   "en": "tyrants"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "бранат",
+   "en": "defend"
+  },
+  {
+   "mk": "крв",
+   "en": "blood"
+  },
+  {
+   "mk": "ќе лееме",
+   "en": "we will pour/shed"
+  },
+  {
+   "mk": "не даваме",
+   "en": "we do not allow/give"
+  },
+  {
+   "mk": "разделени",
+   "en": "divided, separated"
+  },
+  {
+   "mk": "пролеаа",
+   "en": "they shed (past)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3299"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ти земјо наша Македонијо,",
+       "lat": "Ti zemjo naša Makedonijo,",
+       "en": "You, our land Macedonia,"
+      },
+      {
+       "cyr": "ти си убавица на Балканот,",
+       "lat": "ti si ubavica na Balkanot,",
+       "en": "you are the beauty of the Balkans,"
+      },
+      {
+       "cyr": "гробови правиш на тирани.",
+       "lat": "grobovi praviš na tirani.",
+       "en": "you make graves for tyrants."
+      },
+      {
+       "cyr": "Тој што те сака да те има",
+       "lat": "Toj što te saka da te ima",
+       "en": "He who loves you and wants to have you"
+      },
+      {
+       "cyr": "коски остава под твојте ридови,",
+       "lat": "koski ostava pod tvojte ridovi,",
+       "en": "leaves his bones under your hills,"
+      },
+      {
+       "cyr": "само да те има земјо мила.",
+       "lat": "samo da te ima zemjo mila.",
+       "en": "just to have you, dear land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зарем ти не раѓаш синои херои",
+       "lat": "Zarem ti ne raǵaš sinoi heroi",
+       "en": "Do you not bear sons who are heroes"
+      },
+      {
+       "cyr": "за да те бранат од душмани?",
+       "lat": "za da te branat od dušmani?",
+       "en": "to defend you from enemies?"
+      },
+      {
+       "cyr": "Крв ќе лееме старо и младо,",
+       "lat": "Krv ḱe leeme staro i mlado,",
+       "en": "We will shed blood, old and young,"
+      },
+      {
+       "cyr": "тиран да гази, не даваме.",
+       "lat": "tiran da gazi, ne davame.",
+       "en": "we do not allow a tyrant to trample."
+      },
+      {
+       "cyr": "Крв ќе лееме Македонијо",
+       "lat": "Krv ḱe leeme Makedonijo",
+       "en": "We will shed blood, Macedonia,"
+      },
+      {
+       "cyr": "за твојто име, земјо мила.",
+       "lat": "za tvojto ime, zemjo mila.",
+       "en": "for your name, dear land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вардар и Пирин, Македонијо",
+       "lat": "Vardar i Pirin, Makedonijo",
+       "en": "Vardar and Pirin, Macedonia,"
+      },
+      {
+       "cyr": "и Бело Море земјо мила,",
+       "lat": "i Belo More zemjo mila,",
+       "en": "and the Aegean (White) Sea, dear land,"
+      },
+      {
+       "cyr": "тебе ми те прават, Македонијо,",
+       "lat": "tebe mi te pravat, Makedonijo,",
+       "en": "they are making you, Macedonia,"
+      },
+      {
+       "cyr": "убавице жална на Балканот.",
+       "lat": "ubavice žalna na Balkanot.",
+       "en": "sorrowful beauty of the Balkans."
+      },
+      {
+       "cyr": "Тебе ми те прават, Македонијо,",
+       "lat": "Tebe mi te pravat, Makedonijo,",
+       "en": "They are making you, Macedonia,"
+      },
+      {
+       "cyr": "убавице мачна на Балканот.",
+       "lat": "ubavice mačna na Balkanot.",
+       "en": "tormented beauty of the Balkans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пирин и Егеј, Македонијо,",
+       "lat": "Pirin i Egej, Makedonijo,",
+       "en": "Pirin and the Aegean, Macedonia,"
+      },
+      {
+       "cyr": "две чеда твои разделени,",
+       "lat": "dve čeda tvoi razdeleni,",
+       "en": "two of your children, divided,"
+      },
+      {
+       "cyr": "за мајка плачат, земјо мила,",
+       "lat": "za majka plačat, zemjo mila,",
+       "en": "they cry for their mother, dear land,"
+      },
+      {
+       "cyr": "за својта мајка, Македонија.",
+       "lat": "za svojta majka, Makedonija.",
+       "en": "for their own mother, Macedonia."
+      },
+      {
+       "cyr": "За мајка плачат, земјо мила,",
+       "lat": "Za majka plačat, zemjo mila,",
+       "en": "They cry for their mother, dear land,"
+      },
+      {
+       "cyr": "за својта мајка Македонија.",
+       "lat": "za svojta majka Makedonija.",
+       "en": "for their own mother Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гоце и Јане, Македонијо,",
+       "lat": "Goce i Jane, Makedonijo,",
+       "en": "Goce and Jane, Macedonia,"
+      },
+      {
+       "cyr": "ти си ги родила, земјо мила,",
+       "lat": "ti si gi rodila, zemjo mila,",
+       "en": "you gave birth to them, dear land,"
+      },
+      {
+       "cyr": "крв пролеаа, Македонијо,",
+       "lat": "krv proleaa, Makedonijo,",
+       "en": "they shed blood, Macedonia,"
+      },
+      {
+       "cyr": "за вечно име, земјо мила.",
+       "lat": "za večno ime, zemjo mila.",
+       "en": "for your eternal name, dear land."
+      },
+      {
+       "cyr": "Крв пролеаа многу синои,",
+       "lat": "Krv proleaa mnogu sinoi,",
+       "en": "Many sons shed blood"
+      },
+      {
+       "cyr": "за твојто име, земјо мила.",
+       "lat": "za tvojto ime, zemjo mila.",
+       "en": "for your name, dear land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

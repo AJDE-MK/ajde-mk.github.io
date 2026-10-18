@@ -1,0 +1,200 @@
+{
+ "id": 1503,
+ "slug": "stojan-mi-bolen-legaja",
+ "title_cyr": "Стојан ми болен легаја",
+ "title_latin": "Stojan mi bolen legaja",
+ "title_en": "Stojan lay sick",
+ "pesna_url": "https://pesna.org/song/1503",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect text (Bulgarian-border style). 'мује' as 'flies' and 'руди' as 'ruddy/reddish' are my readings; 'мамо де' is a refrain, rendered 'oh mother'.",
+ "words_to_learn": [
+  {
+   "mk": "легаја",
+   "en": "lay (dialect past)"
+  },
+  {
+   "mk": "скапаја",
+   "en": "wore out, ruined"
+  },
+  {
+   "mk": "покривка",
+   "en": "blanket"
+  },
+  {
+   "mk": "никнала",
+   "en": "grew, sprouted"
+  },
+  {
+   "mk": "црви",
+   "en": "worms"
+  },
+  {
+   "mk": "змија",
+   "en": "snake"
+  },
+  {
+   "mk": "греови",
+   "en": "sins"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "трло",
+   "en": "sheepfold"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  }
+ ],
+ "performers": [
+  "Ансамбл Пеце Атанасовски",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Рајна Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3925"
+  },
+  {
+   "who": "Ансамбл Пеце Атанасовски, Рајна Спасовска",
+   "url": "https://pesna.org/audio-download/4209"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојан ми болен легаја, мамо де",
+       "lat": "Stojan mi bolen legaja, mamo de",
+       "en": "Stojan lay sick, oh mother"
+      },
+      {
+       "cyr": "девет године легаја, мамо де",
+       "lat": "devet godine legaja, mamo de",
+       "en": "nine years he lay, oh mother"
+      },
+      {
+       "cyr": "девет постеље скапаја, мамо де",
+       "lat": "devet postelje skapaja, mamo de",
+       "en": "nine beds he wore out, oh mother"
+      },
+      {
+       "cyr": "девет покривке скапаја, мамо де.",
+       "lat": "devet pokrivke skapaja, mamo de.",
+       "en": "nine blankets he wore out, oh mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Низ коске трава никнала, мамо де",
+       "lat": "Niz koske trava niknala, mamo de",
+       "en": "Grass grew through his bones, oh mother"
+      },
+      {
+       "cyr": "низ очи црви лазиле, мамо де",
+       "lat": "niz oči crvi lazile, mamo de",
+       "en": "worms crawled through his eyes, oh mother"
+      },
+      {
+       "cyr": "низ уста змије падале, мамо де",
+       "lat": "niz usta zmije padale, mamo de",
+       "en": "snakes fell out of his mouth, oh mother"
+      },
+      {
+       "cyr": "низ уше мује летеле, мамо де.",
+       "lat": "niz uše muje letele, mamo de.",
+       "en": "flies flew through his ears, oh mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка му седи до глава, мамо де",
+       "lat": "Majka mu sedi do glava, mamo de",
+       "en": "His mother sits by his head, oh mother"
+      },
+      {
+       "cyr": "и си го жално прашује, мамо де:",
+       "lat": "i si go žalno prašuje, mamo de:",
+       "en": "and asks him sorrowfully, oh mother:"
+      },
+      {
+       "cyr": "- Кажи си сине греови, мамо де.",
+       "lat": "- Kaži si sine greovi, mamo de.",
+       "en": "- Tell, son, your sins, oh mother."
+      },
+      {
+       "cyr": "- Нели ме мамо прашујеш, мамо де.",
+       "lat": "- Neli me mamo prašuješ, mamo de.",
+       "en": "- Aren't you asking me, mother, oh mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "К'д бему млади овчари, мамо де",
+       "lat": "K'd bemu mladi ovčari, mamo de",
+       "en": "When we, young shepherds, oh mother"
+      },
+      {
+       "cyr": "качимо гора зелена, мамо де",
+       "lat": "kačimo gora zelena, mamo de",
+       "en": "climbed the green mountain, oh mother"
+      },
+      {
+       "cyr": "најдомо трло овчарско, мамо де",
+       "lat": "najdomo trlo ovčarsko, mamo de",
+       "en": "we found a shepherd's fold, oh mother"
+      },
+      {
+       "cyr": "у трло руди јагањца, мамо де.",
+       "lat": "u trlo rudi jaganjca, mamo de.",
+       "en": "in the fold a ruddy lamb, oh mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фатимо трло - палимо, мамо де",
+       "lat": "Fatimo trlo - palimo, mamo de",
+       "en": "We seized the fold and set it on fire, oh mother"
+      },
+      {
+       "cyr": "јагањца душно блејела, мамо де",
+       "lat": "jaganjca dušno blejela, mamo de",
+       "en": "the lamb bleated piteously, oh mother"
+      },
+      {
+       "cyr": "тој ми са мамо греови, мамо де",
+       "lat": "toj mi sa mamo greovi, mamo de",
+       "en": "that is my sin, mother, oh mother"
+      },
+      {
+       "cyr": "тој сам пред бога грешија.",
+       "lat": "toj sam pred boga grešija.",
+       "en": "that is how I sinned before God."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

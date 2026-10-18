@@ -1,0 +1,178 @@
+{
+ "id": 810,
+ "slug": "gujgo-le-junache",
+ "title_cyr": "Гујго ле, јуначе",
+ "title_latin": "Gujgo le, junače",
+ "title_en": "Hey, Gujgo, the hero",
+ "pesna_url": "https://pesna.org/song/810",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Надежда Георгиева Палестова",
+  "Руска Стојменова",
+  "Сестри Груеви"
+ ],
+ "audio": [
+  {
+   "who": "Сестри Груеви",
+   "url": "https://pesna.org/audio-download/1590"
+  },
+  {
+   "who": "Руска Стојменова",
+   "url": "https://pesna.org/audio-download/1653"
+  },
+  {
+   "who": "Надежда Георгиева Палестова",
+   "url": "https://pesna.org/audio-download/1679"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Гујго ле, Гујго јуначе, ле,",
+       "lat": "Gujgo le, Gujgo junače, le,",
+       "en": "Hey, Gujgo, the hero,"
+      },
+      {
+       "cyr": "Гујго ле, Гујгу јуначе.",
+       "lat": "Gujgo le, Gujgu junače.",
+       "en": "hey, Gujgo, the hero."
+      },
+      {
+       "cyr": "Порачала гујгувата, ле,",
+       "lat": "Poračala gujguvata, le,",
+       "en": "Gujgo was ordered"
+      },
+      {
+       "cyr": "гујгувата милна тета,",
+       "lat": "gujguvata milna teta,",
+       "en": "by his dear aunt."
+      },
+      {
+       "cyr": "Гујго ле, Гујгу јуначе,",
+       "lat": "Gujgo le, Gujgu junače,",
+       "en": "Hey, Gujgo, the hero,"
+      },
+      {
+       "cyr": "гујгувата милна тета.",
+       "lat": "gujguvata milna teta.",
+       "en": "from his dear aunt."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да дојде, Гујго, да дојде, ле,",
+       "lat": "Da dojde, Gujgo, da dojde, le,",
+       "en": "To come, Gujgo, to come,"
+      },
+      {
+       "cyr": "в' тетино село големо.",
+       "lat": "v' tetino selo golemo.",
+       "en": "into his aunt's big village."
+      },
+      {
+       "cyr": "Мома му сам аресала, ле,",
+       "lat": "Moma mu sam aresala, le,",
+       "en": "I found a girl for him,"
+      },
+      {
+       "cyr": "аресала, бендисала.",
+       "lat": "aresala, bendisala.",
+       "en": "I found her and liked her."
+      },
+      {
+       "cyr": "Гујго, ле Гујго јуначе,",
+       "lat": "Gujgo, le Gujgo junače,",
+       "en": "Hey, Gujgo, the hero,"
+      },
+      {
+       "cyr": "аресала, бендисала.",
+       "lat": "aresala, bendisala.",
+       "en": "I found her and liked her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка му руба збираше, ле,",
+       "lat": "Majka mu ruba zbiraše, le,",
+       "en": "His mother adjusts his clothes,"
+      },
+      {
+       "cyr": "брате му коњче стегаа.",
+       "lat": "brate mu konjče stegaa.",
+       "en": "the brother saddles the horse."
+      },
+      {
+       "cyr": "Сестри му перче решеа, ле,",
+       "lat": "Sestri mu perče rešea, le,",
+       "en": "His sisters comb his lock of hair,"
+      },
+      {
+       "cyr": "ќе иде Гујгу, не иде.",
+       "lat": "ḱe ide Gujgu, ne ide.",
+       "en": "will Gujgo go, or won't he."
+      },
+      {
+       "cyr": "Гујго ле, Гујго јуначе, ле,",
+       "lat": "Gujgo le, Gujgo junače, le,",
+       "en": "Hey Gujgo, the hero,"
+      },
+      {
+       "cyr": "ќе иде Гујго, не иде.",
+       "lat": "ḱe ide Gujgo, ne ide.",
+       "en": "will Gujgo go, or won't he?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога си Гујго пристига, ле,",
+       "lat": "Koga si Gujgo pristiga, le,",
+       "en": "When Gujgo arrives,"
+      },
+      {
+       "cyr": "сите за Гујго думаа:",
+       "lat": "site za Gujgo dumaa:",
+       "en": "everybody talks about Gujgo:"
+      },
+      {
+       "cyr": "? се, па се надаа, ле,",
+       "lat": "? se, pa se nadaa, le,",
+       "en": "They [...], then they present themselves forward,"
+      },
+      {
+       "cyr": "која ќе Гујго заљуби.",
+       "lat": "koja ḱe Gujgo zaljubi.",
+       "en": "which one will Gujgo love."
+      },
+      {
+       "cyr": "Гујго ле, Гујго јуначе, ле,",
+       "lat": "Gujgo le, Gujgo junače, le,",
+       "en": "Hey Gujgo, the hero,"
+      },
+      {
+       "cyr": "која ќе Гујго заљуби.",
+       "lat": "koja ḱe Gujgo zaljubi.",
+       "en": "which one will Gujgo love?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

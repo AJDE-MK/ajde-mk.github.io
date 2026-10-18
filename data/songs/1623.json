@@ -1,0 +1,315 @@
+{
+ "id": 1623,
+ "slug": "chula-se-prochula-popovata-kjerka",
+ "title_cyr": "Чула се прочула поповата ќерка",
+ "title_latin": "Čula se pročula popovata ḱerka",
+ "title_en": "Priest's daughter became famous",
+ "pesna_url": "https://pesna.org/song/1623",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Илија Аргиров",
+  "Милен Тасков",
+  "Петранка Костадинова",
+  "Akrites Almopias",
+  "Almopia",
+  "Ot izvora",
+  "Philoproodos Association of Edessa Alexander the Great",
+  "Rithmos Melodia",
+  "The Natives",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Ot izvora",
+   "url": "https://pesna.org/audio-download/4316"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/4317"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4318"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/4319"
+  },
+  {
+   "who": "Милен Тасков",
+   "url": "https://pesna.org/audio-download/4320"
+  },
+  {
+   "who": "Almopia",
+   "url": "https://pesna.org/audio-download/4329"
+  },
+  {
+   "who": "Akrites Almopias",
+   "url": "https://pesna.org/audio-download/4330"
+  },
+  {
+   "who": "Rithmos Melodia",
+   "url": "https://pesna.org/audio-download/4331"
+  },
+  {
+   "who": "Philoproodos Association of Edessa Alexander the Great",
+   "url": "https://pesna.org/audio-download/4332"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4379"
+  },
+  {
+   "who": "The Natives",
+   "url": "https://pesna.org/audio-download/4380"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Попова ќерка",
+       "lat": "Popova ḱerka",
+       "en": "The priest's daughter",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чула се прочула, џанам, чула се прочула",
+       "lat": "Čula se pročula, džanam, čula se pročula",
+       "en": "She became famous, my dear, she became famous",
+       "en_mt": false
+      },
+      {
+       "cyr": "чула се прочула, џанам, чула се прочула",
+       "lat": "čula se pročula, džanam, čula se pročula",
+       "en": "She became famous, my dear, she became famous",
+       "en_mt": false
+      },
+      {
+       "cyr": "чула се прочула, џанам, поповата ќерка",
+       "lat": "čula se pročula, džanam, popovata ḱerka",
+       "en": "She became famous, my dear, the priest's daughter",
+       "en_mt": false
+      },
+      {
+       "cyr": "чула се прочула, џанам, поповата ќерка.",
+       "lat": "čula se pročula, džanam, popovata ḱerka.",
+       "en": "She became famous, my dear, the priest's daughter.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поповата ќерка, џанам, поповата ќерка",
+       "lat": "Popovata ḱerka, džanam, popovata ḱerka",
+       "en": "The priest's daughter, my dear, the priest's daughter",
+       "en_mt": false
+      },
+      {
+       "cyr": "поповата ќерка, џанам, поповата ќерка",
+       "lat": "popovata ḱerka, džanam, popovata ḱerka",
+       "en": "The priest's daughter, my dear, the priest's daughter",
+       "en_mt": false
+      },
+      {
+       "cyr": "поповата ќерка, џанам, 'ногу работела",
+       "lat": "popovata ḱerka, džanam, 'nogu rabotela",
+       "en": "The priest's daughter, my dear, she was working hard",
+       "en_mt": false
+      },
+      {
+       "cyr": "'ногу работела, џанам, скалите метела.",
+       "lat": "'nogu rabotela, džanam, skalite metela.",
+       "en": "She was working hard, my dear, she was sweeping the stairs.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Скалите метела, џанам, скалите метела",
+       "lat": "Skalite metela, džanam, skalite metela",
+       "en": "She swept the stairs, my dear, the stairs were swept",
+       "en_mt": false
+      },
+      {
+       "cyr": "скалите метела, џанам, скалите метела",
+       "lat": "skalite metela, džanam, skalite metela",
+       "en": "She swept the stairs, my dear, the stairs were swept",
+       "en_mt": false
+      },
+      {
+       "cyr": "скалите метела, џанам, малку леб јадела",
+       "lat": "skalite metela, džanam, malku leb jadela",
+       "en": "She swept the stairs, my dear, she ate a little bread",
+       "en_mt": false
+      },
+      {
+       "cyr": "скалите метела, џанам, малку леб јадела.",
+       "lat": "skalite metela, džanam, malku leb jadela.",
+       "en": "She swept the stairs, my dear, she ate a little bread.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Малку леб јадела, џанам, малку леб јадела",
+       "lat": "Malku leb jadela, džanam, malku leb jadela",
+       "en": "She ate a little bread, my dear, she ate a little bread",
+       "en_mt": false
+      },
+      {
+       "cyr": "малку леб јадела, џанам, малку леб јадела",
+       "lat": "malku leb jadela, džanam, malku leb jadela",
+       "en": "She ate a little bread, my dear, she ate a little bread",
+       "en_mt": false
+      },
+      {
+       "cyr": "малку леб јадела, џанам, на ден девет фурни",
+       "lat": "malku leb jadela, džanam, na den devet furni",
+       "en": "She ate a little bread, my dear, nine ovens a day",
+       "en_mt": false
+      },
+      {
+       "cyr": "на ден девет фурни, џанам и по еден зелник.",
+       "lat": "na den devet furni, džanam i po eden zelnik.",
+       "en": "Nine ovens a day, my dear and one zelnik1.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зелникот ѝ беше, џанам, зелникот ѝ беше",
+       "lat": "Zelnikot ì beše, džanam, zelnikot ì beše",
+       "en": "Her zelnik was, my dear, her zelnik was",
+       "en_mt": false
+      },
+      {
+       "cyr": "зелникот ѝ беше, џанам, зелникот ѝ беше",
+       "lat": "zelnikot ì beše, džanam, zelnikot ì beše",
+       "en": "Her zelnik was, my dear, her zelnik was",
+       "en_mt": false
+      },
+      {
+       "cyr": "зелникот ѝ беше, џанам, колку наш'то гумно",
+       "lat": "zelnikot ì beše, džanam, kolku naš'to gumno",
+       "en": "Her zelnik was, my dear, as big as our threshing floor,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зелникот ѝ беше, џанам, колку наш'то гумно.",
+       "lat": "zelnikot ì beše, džanam, kolku naš'to gumno.",
+       "en": "Her zelnik was, my dear, as big as our threshing floor.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Витките му беа, џанам, витките му беа",
+       "lat": "Vitkite mu bea, džanam, vitkite mu bea",
+       "en": "The zelnik's crust was, my dear, the zelnik's crust was",
+       "en_mt": false
+      },
+      {
+       "cyr": "витките му беа, џанам, витките му беа",
+       "lat": "vitkite mu bea, džanam, vitkite mu bea",
+       "en": "The zelnik's crust was, my dear, the zelnik's crust was",
+       "en_mt": false
+      },
+      {
+       "cyr": "витките му беа, џанам, колку наш'те греди",
+       "lat": "vitkite mu bea, džanam, kolku naš'te gredi",
+       "en": "The zelnik's crust was, my dear, as big as our house's beams",
+       "en_mt": false
+      },
+      {
+       "cyr": "витките му беа, џанам, колку наш'те греди.",
+       "lat": "vitkite mu bea, džanam, kolku naš'te gredi.",
+       "en": "The zelnik's crust was, my dear, as big as our house's beams.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Средето му беше, џанам, средето му беше",
+       "lat": "Sredeto mu beše, džanam, sredeto mu beše",
+       "en": "The zelnik's middle was, my dear, the zelnik's middle was",
+       "en_mt": false
+      },
+      {
+       "cyr": "средето му беше, џанам, средето му беше",
+       "lat": "sredeto mu beše, džanam, sredeto mu beše",
+       "en": "The zelnik's middle was, my dear, the zelnik's middle was",
+       "en_mt": false
+      },
+      {
+       "cyr": "средето му беше, џанам, бивол да пропадне",
+       "lat": "sredeto mu beše, džanam, bivol da propadne",
+       "en": "The zelnik's middle was, my dear, big enough to fit an ox",
+       "en_mt": false
+      },
+      {
+       "cyr": "средето му беше, џанам, бивол да пропадне.",
+       "lat": "sredeto mu beše, džanam, bivol da propadne.",
+       "en": "The zelnik's middle was, my dear, big enough to fit an ox.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бивол да пропадне, џанам, бивол да пропадне",
+       "lat": "Bivol da propadne, džanam, bivol da propadne",
+       "en": "Big enough to fit an ox, my dear, big enough to fit an ox",
+       "en_mt": false
+      },
+      {
+       "cyr": "бивол да пропадне, џанам, бивол да пропадне",
+       "lat": "bivol da propadne, džanam, bivol da propadne",
+       "en": "Big enough to fit an ox, my dear, big enough to fit an ox",
+       "en_mt": false
+      },
+      {
+       "cyr": "бивол да пропадне, џанам и да не испадне",
+       "lat": "bivol da propadne, džanam i da ne ispadne",
+       "en": "Big enough to fit an ox, my dear, and get lost in it",
+       "en_mt": false
+      },
+      {
+       "cyr": "бивол да пропадне, џанам и да не испадне.",
+       "lat": "bivol da propadne, džanam i da ne ispadne.",
+       "en": "Big enough to fit an ox, my dear, and get lost in it.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

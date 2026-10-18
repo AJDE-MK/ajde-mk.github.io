@@ -1,0 +1,153 @@
+{
+ "id": 1477,
+ "slug": "dzvonche-dzvoni",
+ "title_cyr": "Ѕвонче ѕвони",
+ "title_latin": "Dzvonče dzvoni",
+ "title_en": "A little bell rings",
+ "pesna_url": "https://pesna.org/song/1477",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style; origin unclear. 'малкој моме' is my reading (a young girl); the girl's voice is compared to a bell.",
+ "words_to_learn": [
+  {
+   "mk": "ѕвонче",
+   "en": "little bell"
+  },
+  {
+   "mk": "ѕвони",
+   "en": "rings"
+  },
+  {
+   "mk": "гората",
+   "en": "the forest"
+  },
+  {
+   "mk": "малкој моме",
+   "en": "young girl (dialect vocative/genitive, my reading)"
+  },
+  {
+   "mk": "брат",
+   "en": "brother"
+  },
+  {
+   "mk": "испраќа",
+   "en": "sees off"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear (interjection)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Ансамбл Пирин",
+  "Виолета Митева",
+  "Иван Узунов",
+  "Марина Пухариќ"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Митева, Иван Узунов",
+   "url": "https://pesna.org/audio-download/3819"
+  },
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3820"
+  },
+  {
+   "who": "Марина Пухариќ",
+   "url": "https://pesna.org/audio-download/3821"
+  },
+  {
+   "who": "Ансамбл Пирин",
+   "url": "https://pesna.org/audio-download/3822"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ѕвонче ѕвони, леле",
+       "lat": "Ajde dzvonče dzvoni, lele",
+       "en": "Come on, a little bell rings, oh dear,"
+      },
+      {
+       "cyr": "ѕвонче ѕвони.",
+       "lat": "dzvonče dzvoni.",
+       "en": "a little bell rings."
+      },
+      {
+       "cyr": "Ѕвонче ѕвони, леле",
+       "lat": "Dzvonče dzvoni, lele",
+       "en": "A little bell rings, oh dear,"
+      },
+      {
+       "cyr": "во гората.",
+       "lat": "vo gorata.",
+       "en": "in the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде не е ѕвонче, леле",
+       "lat": "Ajde ne e dzvonče, lele",
+       "en": "Come on, it is not a little bell, oh dear,"
+      },
+      {
+       "cyr": "како ѕвонче,",
+       "lat": "kako dzvonče,",
+       "en": "like a little bell,"
+      },
+      {
+       "cyr": "туку си е, леле,",
+       "lat": "tuku si e, lele,",
+       "en": "but it is, oh dear,"
+      },
+      {
+       "cyr": "малкој моме.",
+       "lat": "malkoj mome.",
+       "en": "a young girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде малкој моме, леле,",
+       "lat": "Ajde malkoj mome, lele,",
+       "en": "Come on, the young girl, oh dear,"
+      },
+      {
+       "cyr": "брат испраќа,",
+       "lat": "brat ispraḱa,",
+       "en": "sees off her brother,"
+      },
+      {
+       "cyr": "брат испраќа, леле,",
+       "lat": "brat ispraḱa, lele,",
+       "en": "sees off her brother, oh dear,"
+      },
+      {
+       "cyr": "војник ќе оди.",
+       "lat": "vojnik ḱe odi.",
+       "en": "he will go as a soldier."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

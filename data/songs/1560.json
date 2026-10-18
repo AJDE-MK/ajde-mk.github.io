@@ -1,0 +1,221 @@
+{
+ "id": 1560,
+ "slug": "petko-ljubel-mnogu-zheni",
+ "title_cyr": "Петко љубел многу жени",
+ "title_latin": "Petko ljubel mnogu ženi",
+ "title_en": "Petko Loved Many Women",
+ "pesna_url": "https://pesna.org/song/1560",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (comic, probably modern, no author I can name). 'На суво брич' and 'меша бак'рдан' are my reading; the second is probably a joking euphemism, the word бакардан is unknown to me and may be a dialect or invented word.",
+ "words_to_learn": [
+  {
+   "mk": "на суво брич",
+   "en": "high and dry (my reading of an idiom: shaved dry)"
+  },
+  {
+   "mk": "бељи",
+   "en": "troubles, trouble-making"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "јоргован",
+   "en": "lilac"
+  },
+  {
+   "mk": "дрен",
+   "en": "dogwood"
+  },
+  {
+   "mk": "таван",
+   "en": "attic"
+  },
+  {
+   "mk": "Ѓурѓовден",
+   "en": "St George's Day"
+  },
+  {
+   "mk": "кума лиса",
+   "en": "godmother fox (folk address for a sly fox)"
+  },
+  {
+   "mk": "малу / малку",
+   "en": "a little"
+  }
+ ],
+ "performers": [
+  "Влатко Миладиноски"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/4079"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Петко љубел многу жени, останал без ич,",
+       "lat": "Petko ljubel mnogu ženi, ostanal bez ič,",
+       "en": "Petko loved many women, ended up with nothing,"
+      },
+      {
+       "cyr": "сите тие му тргнале на суво брич.",
+       "lat": "site tie mu trgnale na suvo brič.",
+       "en": "they all left him high and dry."
+      },
+      {
+       "cyr": "На суво брич, Петко без ич,",
+       "lat": "Na suvo brič, Petko bez ič,",
+       "en": "High and dry, Petko with nothing,"
+      },
+      {
+       "cyr": "море какви бељи со Петкови жени.",
+       "lat": "more kakvi belji so Petkovi ženi.",
+       "en": "hey, what trouble with Petko's women."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Петко си е многу чесен,",
+       "lat": "Petko si e mnogu česen,",
+       "en": "Petko is very honest,"
+      },
+      {
+       "cyr": "малу си е лесен.",
+       "lat": "malu si e lesen.",
+       "en": "but a little easy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првата му беше лична, личен јоргован.",
+       "lat": "Prvata mu beše lična, ličen jorgovan.",
+       "en": "The first one was pretty, pretty as a lilac."
+      },
+      {
+       "cyr": "Со комшија ја фатија горе на таван.",
+       "lat": "So komšija ja fatija gore na tavan.",
+       "en": "They caught her with the neighbour up in the attic."
+      },
+      {
+       "cyr": "Горе на таван, меша бак'рдан.",
+       "lat": "Gore na tavan, meša bak'rdan.",
+       "en": "Up in the attic, stirring the bakardan."
+      },
+      {
+       "cyr": "Сладок бакaрдан, горе на таван.",
+       "lat": "Sladok bakardan, gore na tavan.",
+       "en": "Sweet bakardan, up in the attic."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Петко си е многу чесен,",
+       "lat": "Petko si e mnogu česen,",
+       "en": "Petko is very honest,"
+      },
+      {
+       "cyr": "малку си е лесен.",
+       "lat": "malku si e lesen.",
+       "en": "but a little easy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втората му беше лична, лична како дрен.",
+       "lat": "Vtorata mu beše lična, lična kako dren.",
+       "en": "The second one was pretty, pretty as a dogwood."
+      },
+      {
+       "cyr": "Неа ја фатија на Ѓурѓовден.",
+       "lat": "Nea ja fatija na Ǵurǵovden.",
+       "en": "They caught her on St George's Day."
+      },
+      {
+       "cyr": "На Ѓурѓовден, среде бел ден,",
+       "lat": "Na Ǵurǵovden, srede bel den,",
+       "en": "On St George's Day, in broad daylight,"
+      },
+      {
+       "cyr": "море какви бељи со Петкови жени.",
+       "lat": "more kakvi belji so Petkovi ženi.",
+       "en": "hey, what trouble with Petko's women."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Петко си е многу чесен,",
+       "lat": "Petko si e mnogu česen,",
+       "en": "Petko is very honest,"
+      },
+      {
+       "cyr": "малу си е лесен.",
+       "lat": "malu si e lesen.",
+       "en": "but a little easy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третата реши Петко лично да ја фати,",
+       "lat": "Tretata reši Petko lično da ja fati,",
+       "en": "The third, Petko decided to catch her himself,"
+      },
+      {
+       "cyr": "ама таа кума лиса, знае да му врати.",
+       "lat": "ama taa kuma lisa, znae da mu vrati.",
+       "en": "but she is a fox, godmother, she knows how to pay him back."
+      },
+      {
+       "cyr": "- Петко пари давај, деца издржавај.",
+       "lat": "- Petko pari davaj, deca izdržavaj.",
+       "en": "- Petko, give money, support the kids."
+      },
+      {
+       "cyr": "Не се само мои, Петко, туку се и твои!",
+       "lat": "Ne se samo moi, Petko, tuku se i tvoi!",
+       "en": "They're not only mine, Petko, they're yours too!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Петко си е многу чесен,",
+       "lat": "Petko si e mnogu česen,",
+       "en": "Petko is very honest,"
+      },
+      {
+       "cyr": "малу си е лесен.",
+       "lat": "malu si e lesen.",
+       "en": "but a little easy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

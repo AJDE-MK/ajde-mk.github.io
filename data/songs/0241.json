@@ -1,0 +1,167 @@
+{
+ "id": 241,
+ "slug": "da-ti-pukne-mila-majko-najmiloto",
+ "title_cyr": "Да ти пукне мила мајко најмилото",
+ "title_latin": "Da ti pukne mila majko najmiloto",
+ "title_en": "May What You Hold Dearest Burst, Dear Mother",
+ "pesna_url": "https://pesna.org/song/241",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Варош' is a place name (probably a district of Prilep, my guess); 'Митриќевци' is probably a family or household name. The last stanza ('сум каснала кај мајка ми') is my reading: they said I had already eaten at my mother's house.",
+ "words_to_learn": [
+  {
+   "mk": "пукне",
+   "en": "may (it) burst"
+  },
+  {
+   "mk": "најмилото",
+   "en": "the dearest thing"
+  },
+  {
+   "mk": "пусти",
+   "en": "wretched, cursed"
+  },
+  {
+   "mk": "месила",
+   "en": "I kneaded (dough)"
+  },
+  {
+   "mk": "зелник",
+   "en": "savory pie with greens"
+  },
+  {
+   "mk": "каснам",
+   "en": "to take a bite"
+  },
+  {
+   "mk": "ред",
+   "en": "turn"
+  },
+  {
+   "mk": "мамо",
+   "en": "mama (vocative)"
+  }
+ ],
+ "performers": [
+  "Блага Петреска",
+  "Захаринка Милосављевиќ",
+  "Прилепски еснафи"
+ ],
+ "audio": [
+  {
+   "who": "Блага Петреска, Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/1795"
+  },
+  {
+   "who": "Прилепски еснафи",
+   "url": "https://pesna.org/audio-download/1796"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Да ти пукне мила мајко најмилото,",
+       "lat": "Da ti pukne mila majko najmiloto,",
+       "en": "May what you hold dearest burst, dear mother,"
+      },
+      {
+       "cyr": "што ме даде, мила мајко, пусти Варош.",
+       "lat": "što me dade, mila majko, pusti Varoš.",
+       "en": "for giving me away, dear mother, to wretched Varosh."
+      },
+      {
+       "cyr": "Оф, леле, леле, леле, пусти Варош,",
+       "lat": "Of, lele, lele, lele, pusti Varoš,",
+       "en": "Oh, alas, alas, alas, wretched Varosh,"
+      },
+      {
+       "cyr": "оф, аман, оф аманам, пусти Варош.",
+       "lat": "of, aman, of amanam, pusti Varoš.",
+       "en": "oh, aman, oh amanam, wretched Varosh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусти Варош, мила мамо, кај Митриќевци,",
+       "lat": "Pusti Varoš, mila mamo, kaj Mitriḱevci,",
+       "en": "Wretched Varosh, dear mama, at the Mitrikjevci's,"
+      },
+      {
+       "cyr": "Митриќевци, мила мамо, многу луѓе.",
+       "lat": "Mitriḱevci, mila mamo, mnogu luǵe.",
+       "en": "the Mitrikjevci's, dear mama, many people."
+      },
+      {
+       "cyr": "Оф, леле, леле, леле, многу луѓе,",
+       "lat": "Of, lele, lele, lele, mnogu luǵe,",
+       "en": "Oh, alas, alas, alas, many people,"
+      },
+      {
+       "cyr": "оф аман, оф аманам, многу луѓе.",
+       "lat": "of aman, of amanam, mnogu luǵe.",
+       "en": "oh aman, oh amanam, many people."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сум месила, мила мамо, девет зелници,",
+       "lat": "Sum mesila, mila mamo, devet zelnici,",
+       "en": "I had kneaded, dear mama, nine pies,"
+      },
+      {
+       "cyr": "ред не дојде, мила мамо, јас да каснам.",
+       "lat": "red ne dojde, mila mamo, jas da kasnam.",
+       "en": "my turn did not come, dear mama, for me to take a bite."
+      },
+      {
+       "cyr": "Оф леле, леле, леле, јас да каснам,",
+       "lat": "Of lele, lele, lele, jas da kasnam,",
+       "en": "Oh alas, alas, alas, for me to take a bite,"
+      },
+      {
+       "cyr": "оф аман, оф аманам, јас да каснам.",
+       "lat": "of aman, of amanam, jas da kasnam.",
+       "en": "oh aman, oh amanam, for me to take a bite."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми велеа, мила мамо, сум каснала,",
+       "lat": "Mi velea, mila mamo, sum kasnala,",
+       "en": "They told me, dear mama, I had taken a bite,"
+      },
+      {
+       "cyr": "сум каснала, мила мамо, кај мајка ми.",
+       "lat": "sum kasnala, mila mamo, kaj majka mi.",
+       "en": "I had taken a bite, dear mama, at my mother's."
+      },
+      {
+       "cyr": "Оф леле, леле, леле, кај мајка ми,",
+       "lat": "Of lele, lele, lele, kaj majka mi,",
+       "en": "Oh alas, alas, alas, at my mother's,"
+      },
+      {
+       "cyr": "оф аман, оф аманам, кај мајка ми.",
+       "lat": "of aman, of amanam, kaj majka mi.",
+       "en": "oh aman, oh amanam, at my mother's."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

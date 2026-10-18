@@ -1,0 +1,106 @@
+{
+ "id": 1419,
+ "slug": "devojche-more-devojche",
+ "title_cyr": "Девојче море девојче",
+ "title_latin": "Devojče more devojče",
+ "title_en": "Maiden, dear maiden",
+ "pesna_url": "https://pesna.org/song/1419",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Девојче море девојче,",
+       "lat": "- Devojče more devojče,",
+       "en": "- Maiden, dear maiden,"
+      },
+      {
+       "cyr": "девојче, златно кумривче,",
+       "lat": "devojče, zlatno kumrivče,",
+       "en": "dear maiden, golden turtledove,"
+      },
+      {
+       "cyr": "крај мене врвиш, не зборвиш,",
+       "lat": "kraj mene vrviš, ne zborviš,",
+       "en": "you pass by me but won’t speak,"
+      },
+      {
+       "cyr": "што пизма држиш со мене?",
+       "lat": "što pizma držiš so mene?",
+       "en": "why do you hate me so?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ал' ти е уста медена,",
+       "lat": "Al' ti e usta medena,",
+       "en": "Your mouth is honey-sweet,"
+      },
+      {
+       "cyr": "ал' ти е грло шекерно",
+       "lat": "al' ti e grlo šekerno",
+       "en": "your neck is so sugary,"
+      },
+      {
+       "cyr": "ал' ти се заби бисерни?",
+       "lat": "al' ti se zabi biserni?",
+       "en": "your teeth are pearls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лудо бре младо, не зборви,",
+       "lat": "- Ludo bre mlado, ne zborvi,",
+       "en": "- You foolish lad, don’t speak,"
+      },
+      {
+       "cyr": "не трескај ми го срцево,",
+       "lat": "ne treskaj mi go srcevo,",
+       "en": "don’t shake my heart,"
+      },
+      {
+       "cyr": "от' ми е срце треснато.",
+       "lat": "ot' mi e srce tresnato.",
+       "en": "because my heart is already shaken."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Некни ми умре татко ми,",
+       "lat": "Nekni mi umre tatko mi,",
+       "en": "My father died recently,"
+      },
+      {
+       "cyr": "вчера ми умре мајка ми,",
+       "lat": "včera mi umre majka mi,",
+       "en": "yesterday my mother died,"
+      },
+      {
+       "cyr": "браќата ми се готови.",
+       "lat": "braḱata mi se gotovi.",
+       "en": "my brothers are doomed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

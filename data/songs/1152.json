@@ -1,0 +1,330 @@
+{
+ "id": 1152,
+ "slug": "a-bre-brakja-kukushani",
+ "title_cyr": "А бре браќа Кукушани",
+ "title_latin": "A bre braḱa Kukušani",
+ "title_en": "Hey, brothers of Kukush",
+ "pesna_url": "https://pesna.org/song/1152",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Song about the death of Goce Delchev (1903, Banica); no named author, so translated. The marker line '(Друга верзија)' is copied unchanged. Kukush is the Macedonian name of Kilkis.",
+ "words_to_learn": [
+  {
+   "mk": "нажалени",
+   "en": "grieved, sorrowful"
+  },
+  {
+   "mk": "натажени",
+   "en": "saddened"
+  },
+  {
+   "mk": "насолзени",
+   "en": "teary"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "гласови",
+   "en": "news, voices"
+  },
+  {
+   "mk": "убија",
+   "en": "they killed"
+  },
+  {
+   "mk": "правдини",
+   "en": "justice, rights"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "разделена",
+   "en": "divided"
+  },
+  {
+   "mk": "сираци",
+   "en": "orphans"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2787"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- А бре браќа Кукушани,",
+       "lat": "- A bre braḱa Kukušani,",
+       "en": "- Hey, brothers of Kukush,"
+      },
+      {
+       "cyr": "а бре браќа Кукушани,",
+       "lat": "a bre braḱa Kukušani,",
+       "en": "hey, brothers of Kukush,"
+      },
+      {
+       "cyr": "што сте толку нажалени,",
+       "lat": "što ste tolku nažaleni,",
+       "en": "why are you so grieved,"
+      },
+      {
+       "cyr": "нажалени, натажени?",
+       "lat": "nažaleni, nataženi?",
+       "en": "grieved, saddened?"
+      },
+      {
+       "cyr": "Што сте толку нажалени,",
+       "lat": "Što ste tolku nažaleni,",
+       "en": "Why are you so grieved,"
+      },
+      {
+       "cyr": "со очите насолзени?",
+       "lat": "so očite nasolzeni?",
+       "en": "with eyes full of tears?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как' да не сме нажалени,",
+       "lat": "- Kak' da ne sme nažaleni,",
+       "en": "- How could we not be grieved,"
+      },
+      {
+       "cyr": "как' да не сме расплакани?",
+       "lat": "kak' da ne sme rasplakani?",
+       "en": "how could we not be weeping?"
+      },
+      {
+       "cyr": "Што се стори чудно чудо,",
+       "lat": "Što se stori čudno čudo,",
+       "en": "A strange wonder has happened,"
+      },
+      {
+       "cyr": "чудно чудо во Баница.",
+       "lat": "čudno čudo vo Banica.",
+       "en": "a strange wonder in Banica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти гласои пристигнаа,",
+       "lat": "Snošti glasoi pristignaa,",
+       "en": "Last night the news arrived,"
+      },
+      {
+       "cyr": "сношти гласови пристигнаа,",
+       "lat": "snošti glasovi pristignaa,",
+       "en": "last night the news arrived,"
+      },
+      {
+       "cyr": "Гоце Делчев го убија,",
+       "lat": "Goce Delčev go ubija,",
+       "en": "they killed Goce Delchev,"
+      },
+      {
+       "cyr": "го убија во Баница.",
+       "lat": "go ubija vo Banica.",
+       "en": "they killed him in Banica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затоа сме нажалени,",
+       "lat": "Zatoa sme nažaleni,",
+       "en": "That is why we are grieved,"
+      },
+      {
+       "cyr": "затоа сме расплакани,",
+       "lat": "zatoa sme rasplakani,",
+       "en": "that is why we are weeping,"
+      },
+      {
+       "cyr": "Гоце Делчев ни загина",
+       "lat": "Goce Delčev ni zagina",
+       "en": "Goce Delchev died for us"
+      },
+      {
+       "cyr": "за правдини македонски!",
+       "lat": "za pravdini makedonski!",
+       "en": "for Macedonian justice!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абре братче Македонче,",
+       "lat": "Abre bratče Makedonče,",
+       "en": "Hey, little Macedonian brother,"
+      },
+      {
+       "cyr": "што си толку нажалено,",
+       "lat": "što si tolku nažaleno,",
+       "en": "why are you so grieved,"
+      },
+      {
+       "cyr": "што си толку нажалено,",
+       "lat": "što si tolku nažaleno,",
+       "en": "why are you so grieved,"
+      },
+      {
+       "cyr": "што си толку натажено,",
+       "lat": "što si tolku nataženo,",
+       "en": "why are you so saddened,"
+      },
+      {
+       "cyr": "во очите насолзено?",
+       "lat": "vo očite nasolzeno?",
+       "en": "with eyes full of tears?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бре соколе Македонски,",
+       "lat": "Bre sokole Makedonski,",
+       "en": "Hey, Macedonian falcon,"
+      },
+      {
+       "cyr": "Как да не сум нажалено,",
+       "lat": "Kak da ne sum nažaleno,",
+       "en": "how could I not be grieved,"
+      },
+      {
+       "cyr": "Как да не сум нажалено,",
+       "lat": "Kak da ne sum nažaleno,",
+       "en": "how could I not be grieved,"
+      },
+      {
+       "cyr": "Как да не сум натажено,",
+       "lat": "Kak da ne sum nataženo,",
+       "en": "how could I not be saddened,"
+      },
+      {
+       "cyr": "во очите насолзено?",
+       "lat": "vo očite nasolzeno?",
+       "en": "with eyes full of tears?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Толку борби, толку крвје,",
+       "lat": "Tolku borbi, tolku krvje,",
+       "en": "So many battles, so much blood,"
+      },
+      {
+       "cyr": "Македонија уште страда,",
+       "lat": "Makedonija ušte strada,",
+       "en": "Macedonia still suffers,"
+      },
+      {
+       "cyr": "на три страни разделена,",
+       "lat": "na tri strani razdelena,",
+       "en": "divided on three sides,"
+      },
+      {
+       "cyr": "од душмани и шпиуни!",
+       "lat": "od dušmani i špiuni!",
+       "en": "by enemies and spies!"
+      },
+      {
+       "cyr": "Македонија тешко страда.",
+       "lat": "Makedonija teško strada.",
+       "en": "Macedonia suffers badly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Разделена, распарчена,",
+       "lat": "Razdelena, rasparčena,",
+       "en": "Divided, torn apart,"
+      },
+      {
+       "cyr": "секој камен гроб постана,",
+       "lat": "sekoj kamen grob postana,",
+       "en": "every stone has become a grave,"
+      },
+      {
+       "cyr": "секој камен гроб постана,",
+       "lat": "sekoj kamen grob postana,",
+       "en": "every stone has become a grave,"
+      },
+      {
+       "cyr": "се во црно завиена,",
+       "lat": "se vo crno zaviena,",
+       "en": "all wrapped in black,"
+      },
+      {
+       "cyr": "на сираци оставена.",
+       "lat": "na siraci ostavena.",
+       "en": "left to orphans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затоа сум нажалено,",
+       "lat": "Zatoa sum nažaleno,",
+       "en": "That is why I am grieved,"
+      },
+      {
+       "cyr": "Затоа сум си натажено,",
+       "lat": "Zatoa sum si nataženo,",
+       "en": "that is why I am saddened,"
+      },
+      {
+       "cyr": "во очите насолзено,",
+       "lat": "vo očite nasolzeno,",
+       "en": "with eyes full of tears,"
+      },
+      {
+       "cyr": "во очите расплакано,",
+       "lat": "vo očite rasplakano,",
+       "en": "with eyes full of weeping,"
+      },
+      {
+       "cyr": "од големите неправди.",
+       "lat": "od golemite nepravdi.",
+       "en": "from the great injustices."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

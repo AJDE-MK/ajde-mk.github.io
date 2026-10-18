@@ -1,0 +1,167 @@
+{
+ "id": 612,
+ "slug": "ajde-ajde-mome-stojne",
+ "title_cyr": "Ајде, ајде моме Стојне",
+ "title_latin": "Ajde, ajde mome Stojne",
+ "title_en": "Come on, maiden Stojna",
+ "pesna_url": "https://pesna.org/song/612",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialogue between a boy (Gjorgji) and a girl (Stojna) who refuses to elope because she has linen to bleach. The last two lines are my reading: the boy says to leave the chore to her mother.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "maiden, girl (vocative)"
+  },
+  {
+   "mk": "бегање",
+   "en": "running away, eloping"
+  },
+  {
+   "mk": "либе",
+   "en": "dear, sweetheart"
+  },
+  {
+   "mk": "платно",
+   "en": "linen cloth"
+  },
+  {
+   "mk": "белење",
+   "en": "bleaching (cloth)"
+  },
+  {
+   "mk": "остави",
+   "en": "leave (imperative)"
+  },
+  {
+   "mk": "нека плаче",
+   "en": "let her cry"
+  },
+  {
+   "mk": "ем... ем",
+   "en": "both... and"
+  }
+ ],
+ "performers": [
+  "Благоја Грујовски",
+  "Васка Илиева",
+  "Гоце Арнаудов",
+  "Ѓорѓи Желчевски",
+  "Есма Реџепова",
+  "Илија Аргиров",
+  "Кевсер Селимова",
+  "Лајош Алимов",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/1264"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1265"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/1266"
+  },
+  {
+   "who": "Никола Бадев, Есма Реџепова",
+   "url": "https://pesna.org/audio-download/1417"
+  },
+  {
+   "who": "Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/1418"
+  },
+  {
+   "who": "Лајош Алимов",
+   "url": "https://pesna.org/audio-download/1419"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/1420"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде, ајде моме Стојне",
+       "lat": "- Ajde, ajde mome Stojne",
+       "en": "- Come on, come on, maiden Stojna,"
+      },
+      {
+       "cyr": "ајде, ајде, моме Стојне да бегаме.",
+       "lat": "ajde, ajde, mome Stojne da begame.",
+       "en": "come on, come on, maiden Stojna, let's run away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не сум мома за бегање,",
+       "lat": "- Ne sum moma za beganje,",
+       "en": "- I am not a girl for running away,"
+      },
+      {
+       "cyr": "не сум мома, либе Ѓорѓи, за бегање.",
+       "lat": "ne sum moma, libe Ǵorǵi, za beganje.",
+       "en": "I am not a girl, dear Gjorgji, for running away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам платно, за белење,",
+       "lat": "Imam platno, za belenje,",
+       "en": "I have linen for bleaching,"
+      },
+      {
+       "cyr": "имам платно, либе Ѓорѓи, за белење.",
+       "lat": "imam platno, libe Ǵorǵi, za belenje.",
+       "en": "I have linen, dear Gjorgji, for bleaching."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Остави го на мајка ти,",
+       "lat": "- Ostavi go na majka ti,",
+       "en": "- Leave it to your mother,"
+      },
+      {
+       "cyr": "остави го, моме Стојне, на мајка ти.",
+       "lat": "ostavi go, mome Stojne, na majka ti.",
+       "en": "leave it, maiden Stojna, to your mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека плаче, нека бели,",
+       "lat": "Neka plače, neka beli,",
+       "en": "Let her cry, let her bleach,"
+      },
+      {
+       "cyr": "ем да плаче, моме Стојне, ем да бели.",
+       "lat": "em da plače, mome Stojne, em da beli.",
+       "en": "both let her cry, maiden Stojna, and let her bleach."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

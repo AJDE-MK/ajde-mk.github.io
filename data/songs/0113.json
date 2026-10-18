@@ -1,0 +1,151 @@
+{
+ "id": 113,
+ "slug": "ruzhiche-belo-i-crveno",
+ "title_cyr": "Ружиче бело и црвено",
+ "title_latin": "Ružiče belo i crveno",
+ "title_en": "White and Red Rose",
+ "pesna_url": "https://pesna.org/song/113",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. Several lines are loose or garbled in the source ('раови', 'надеа сум само', 'мрзлива'), so these are my reading and uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "ружиче",
+   "en": "little rose"
+  },
+  {
+   "mk": "бело",
+   "en": "white"
+  },
+  {
+   "mk": "црвено",
+   "en": "red"
+  },
+  {
+   "mk": "ситно",
+   "en": "daintily, in small steps"
+  },
+  {
+   "mk": "магла",
+   "en": "fog"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, troubles"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, wife"
+  },
+  {
+   "mk": "мрзлива",
+   "en": "sulky, lazy (my reading)"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing"
+  },
+  {
+   "mk": "загинав",
+   "en": "I perished"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ружиче бело и црвено,",
+       "lat": "Ružiče belo i crveno,",
+       "en": "White and red rose,"
+      },
+      {
+       "cyr": "не оди ситно пред мене,",
+       "lat": "ne odi sitno pred mene,",
+       "en": "do not walk daintily before me,"
+      },
+      {
+       "cyr": "не дигај магли раови.",
+       "lat": "ne digaj magli raovi.",
+       "en": "do not raise the fog of sorrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не скоривај моме јадови,",
+       "lat": "Ne skorivaj mome jadovi,",
+       "en": "Do not hide, girl, your troubles,"
+      },
+      {
+       "cyr": "надеа сум само, јадовно.",
+       "lat": "nadea sum samo, jadovno.",
+       "en": "I only hoped, in sorrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деј гиди Страте, море будала,",
+       "lat": "Dej gidi Strate, more budala,",
+       "en": "Hey, you Strate, you fool,"
+      },
+      {
+       "cyr": "што жалиш толку за мене,",
+       "lat": "što žališ tolku za mene,",
+       "en": "why do you grieve so much for me,"
+      },
+      {
+       "cyr": "имаш невеста убава?",
+       "lat": "imaš nevesta ubava?",
+       "en": "when you have a beautiful bride?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ружиче бело и црвено,",
+       "lat": "Ružiče belo i crveno,",
+       "en": "White and red rose,"
+      },
+      {
+       "cyr": "имам невеста убава,",
+       "lat": "imam nevesta ubava,",
+       "en": "I have a beautiful bride,"
+      },
+      {
+       "cyr": "ама е многу мрзлива.",
+       "lat": "ama e mnogu mrzliva.",
+       "en": "but she is very sulky."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меракот ми е моме на тебе,",
+       "lat": "Merakot mi e mome na tebe,",
+       "en": "My longing, girl, is for you,"
+      },
+      {
+       "cyr": "умрев, загинав за тебе.",
+       "lat": "umrev, zaginav za tebe.",
+       "en": "I died, I perished for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

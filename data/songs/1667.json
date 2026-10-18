@@ -1,0 +1,120 @@
+{
+ "id": 1667,
+ "slug": "chashka-rakija",
+ "title_cyr": "Чашка ракија",
+ "title_latin": "Čaška rakija",
+ "title_en": "A glass of rakija",
+ "pesna_url": "https://pesna.org/song/1667",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4474"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Како да се приберам",
+       "lat": "Kako da se priberam",
+       "en": "How can I come home"
+      },
+      {
+       "cyr": "дома да ме видат",
+       "lat": "doma da me vidat",
+       "en": "so that they can see me"
+      },
+      {
+       "cyr": "кога очите ми гледаат,",
+       "lat": "koga očite mi gledaat,",
+       "en": "when my eyes see,"
+      },
+      {
+       "cyr": "а душата ми бара",
+       "lat": "a dušata mi bara",
+       "en": "and my soul seeks"
+      },
+      {
+       "cyr": "чашка ракија,",
+       "lat": "čaška rakija,",
+       "en": "a glass of rakija,"
+      },
+      {
+       "cyr": "рујно вино црвено?",
+       "lat": "rujno vino crveno?",
+       "en": "and some red wine?"
+      },
+      {
+       "cyr": "Веднаш очите ми светат",
+       "lat": "Vednaš očite mi svetat",
+       "en": "My eyes immediately light up"
+      },
+      {
+       "cyr": "штом ќе видам туѓо.",
+       "lat": "štom ḱe vidam tuǵo.",
+       "en": "when I see someone else's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, леле, леле,",
+       "lat": "Of, lele, lele,",
+       "en": "Oh, wow, wow,"
+      },
+      {
+       "cyr": "вака нека иде,",
+       "lat": "vaka neka ide,",
+       "en": "let it be like this,"
+      },
+      {
+       "cyr": "ништо не е важно, луѓе,",
+       "lat": "ništo ne e važno, luǵe,",
+       "en": "nothing matters, people,"
+      },
+      {
+       "cyr": "утре што ќе биде.",
+       "lat": "utre što ḱe bide.",
+       "en": "what will happen tomorrow."
+      },
+      {
+       "cyr": "Оф, леле, леле,",
+       "lat": "Of, lele, lele,",
+       "en": "Oh, wow, wow,"
+      },
+      {
+       "cyr": "младост брзо лета,",
+       "lat": "mladost brzo leta,",
+       "en": "youth flies by quickly,"
+      },
+      {
+       "cyr": "ништо не е важно, луѓе,",
+       "lat": "ništo ne e važno, luǵe,",
+       "en": "nothing matters, people,"
+      },
+      {
+       "cyr": "утре што нè чека.",
+       "lat": "utre što nè čeka.",
+       "en": "what awaits us tomorrow."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

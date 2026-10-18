@@ -1,0 +1,161 @@
+{
+ "id": 1591,
+ "slug": "shto-sakash-povekje",
+ "title_cyr": "Што сакаш повеќе",
+ "title_latin": "Što sakaš poveḱe",
+ "title_en": "What more do you want",
+ "pesna_url": "https://pesna.org/song/1591",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it reads as a modern composed song but I cannot name an author. 'лажовно' and the line 'Сто да ги имам' (a hundred what, years or lives) are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "сретнав",
+   "en": "(I) met"
+  },
+  {
+   "mk": "душо",
+   "en": "my dear, my soul (vocative)"
+  },
+  {
+   "mk": "лажовно",
+   "en": "falsely, deceptively"
+  },
+  {
+   "mk": "жал",
+   "en": "sorrow, grief"
+  },
+  {
+   "mk": "испеана",
+   "en": "sung out"
+  },
+  {
+   "mk": "одвеана",
+   "en": "blown away"
+  },
+  {
+   "mk": "навредам",
+   "en": "I offend, I hurt"
+  },
+  {
+   "mk": "искрен",
+   "en": "sincere, honest"
+  }
+ ],
+ "performers": [
+  "Душко Георгиевски"
+ ],
+ "audio": [
+  {
+   "who": "Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/4155"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога те видов, кога те сретнав,",
+       "lat": "Koga te vidov, koga te sretnav,",
+       "en": "When I saw you, when I met you,"
+      },
+      {
+       "cyr": "помислив душо лажовно:",
+       "lat": "pomisliv dušo lažovno:",
+       "en": "I thought, my dear, falsely:"
+      },
+      {
+       "cyr": "за таква жена, за таква љубов",
+       "lat": "za takva žena, za takva ljubov",
+       "en": "for such a woman, for such a love"
+      },
+      {
+       "cyr": "малку се и сто години.",
+       "lat": "malku se i sto godini.",
+       "en": "even a hundred years are little."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што сакаш повеќе од една песна",
+       "lat": "Što sakaš poveḱe od edna pesna",
+       "en": "What more do you want than a song"
+      },
+      {
+       "cyr": "со голем жал испеана?",
+       "lat": "so golem žal ispeana?",
+       "en": "sung with great sorrow?"
+      },
+      {
+       "cyr": "Што сакаш повеќе од една љубов,",
+       "lat": "Što sakaš poveḱe od edna ljubov,",
+       "en": "What more do you want than a love,"
+      },
+      {
+       "cyr": "родена и одвеана?",
+       "lat": "rodena i odveana?",
+       "en": "born and blown away?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега се плашам искрен да бидам,",
+       "lat": "Sega se plašam iskren da bidam,",
+       "en": "Now I am afraid to be honest,"
+      },
+      {
+       "cyr": "да не те мило навредам.",
+       "lat": "da ne te milo navredam.",
+       "en": "so as not to offend you, dear."
+      },
+      {
+       "cyr": "Сто да ги имам, сите ги давам",
+       "lat": "Sto da gi imam, site gi davam",
+       "en": "If I had a hundred, I would give them all"
+      },
+      {
+       "cyr": "сал' еднаш да те погледнам.",
+       "lat": "sal' ednaš da te poglednam.",
+       "en": "just to look at you once."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што сакаш повеќе од една песна",
+       "lat": "Što sakaš poveḱe od edna pesna",
+       "en": "What more do you want than a song"
+      },
+      {
+       "cyr": "со голем жал испеана?",
+       "lat": "so golem žal ispeana?",
+       "en": "sung with great sorrow?"
+      },
+      {
+       "cyr": "Што сакаш повеќе од една љубов,",
+       "lat": "Što sakaš poveḱe od edna ljubov,",
+       "en": "What more do you want than a love,"
+      },
+      {
+       "cyr": "родена и одвеана?",
+       "lat": "rodena i odveana?",
+       "en": "born and blown away?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

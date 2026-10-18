@@ -1,0 +1,126 @@
+{
+ "id": 776,
+ "slug": "zasviril-stojan",
+ "title_cyr": "Засвирил Стојан",
+ "title_latin": "Zasviril Stojan",
+ "title_en": "Stojan began to play",
+ "pesna_url": "https://pesna.org/song/776",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Танец",
+  "Темјанушки"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1342"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1343"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1344"
+  },
+  {
+   "who": "Темјанушки",
+   "url": "https://pesna.org/audio-download/1358"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2189"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Засвирил Стојан, посвирил,",
+       "lat": "Zasviril Stojan, posviril,",
+       "en": "Stojan began to play"
+      },
+      {
+       "cyr": "со шарен кавал, леле, на село,",
+       "lat": "so šaren kaval, lele, na selo,",
+       "en": "a kaval with patterns, in the village,"
+      },
+      {
+       "cyr": "со шарен кавал, леле, на село.",
+       "lat": "so šaren kaval, lele, na selo.",
+       "en": "a kaval with patterns, in the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дочула Стојна Попова",
+       "lat": "Dočula Stojna Popova",
+       "en": "Stojna Popova heard him,"
+      },
+      {
+       "cyr": "метејќи рамни, леле, дворови,",
+       "lat": "metejḱi ramni, lele, dvorovi,",
+       "en": "while sweeping her yard,"
+      },
+      {
+       "cyr": "метејќи рамни, леле, дворови.",
+       "lat": "metejḱi ramni, lele, dvorovi.",
+       "en": "while sweeping her yard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- На ти ја мајко, метлава,",
+       "lat": "- Na ti ja majko, metlava,",
+       "en": "- Take this broom, mother,"
+      },
+      {
+       "cyr": "да видам, мајко леле, кој свири",
+       "lat": "da vidam, majko lele, koj sviri",
+       "en": "let me see who is playing,"
+      },
+      {
+       "cyr": "да видам, мајко леле, кој свири.",
+       "lat": "da vidam, majko lele, koj sviri.",
+       "en": "let me see who is playing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е лудо неженето,",
+       "lat": "Ako e ludo neženeto,",
+       "en": "If he is a bachelor,"
+      },
+      {
+       "cyr": "чекај ме мајко, леле, в' година,",
+       "lat": "čekaj me majko, lele, v' godina,",
+       "en": "wait for me, mother, next year,"
+      },
+      {
+       "cyr": "со машко дете, леле, на раце.",
+       "lat": "so maško dete, lele, na race.",
+       "en": "with a baby boy in my hands."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

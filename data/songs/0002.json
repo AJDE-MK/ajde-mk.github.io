@@ -1,0 +1,179 @@
+{
+ "id": 2,
+ "slug": "mori-chupi-kosturchanki",
+ "title_cyr": "Мори чупи костурчанки",
+ "title_latin": "Mori čupi kosturčanki",
+ "title_en": "Hey, girls from Kostur",
+ "pesna_url": "https://pesna.org/song/2",
+ "background": "A flirting dance chant from the Kostur area (Kastoriá in Greece). *Чупи* is the local word for unmarried girls, and the word itself shows where the song comes from. Widen the oro ring so we can see the dresses; whoever has the finest dress, I will become her devoted admirer.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Арабаџиев",
+  "Анета Љумаковска",
+  "Баклава",
+  "Бапчорки",
+  "Љубојна",
+  "Чардак",
+  "Chalgia Sound System",
+  "Zofia Toriel"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/1"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1172"
+  },
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/1173"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/1840"
+  },
+  {
+   "who": "Zofia Toriel, Александар Арабаџиев",
+   "url": "https://pesna.org/audio-download/3078"
+  },
+  {
+   "who": "Анета Љумаковска, Чардак",
+   "url": "https://pesna.org/audio-download/4243"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори чупи костурчанки,",
+       "lat": "Mori čupi kosturčanki,",
+       "en": "Hey, girls from Kostur,",
+       "en_mt": false
+      },
+      {
+       "cyr": "раширете го орото,",
+       "lat": "raširete go oroto,",
+       "en": "spread the oro a little wider,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ви вијме фустаните,",
+       "lat": "da vi vijme fustanite,",
+       "en": "let us see your dresses,",
+       "en_mt": false
+      },
+      {
+       "cyr": "чиј е ф'стан дамкалија,",
+       "lat": "čij e f'stan damkalija,",
+       "en": "whose dress has marks on it,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се сторам севдалија,",
+       "lat": "da se storam sevdalija,",
+       "en": "and I will fall in love,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по фустано на чупчето.",
+       "lat": "po fustano na čupčeto.",
+       "en": "in that girl's dress.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори одајо шарена",
+       "lat": "Mori odajo šarena",
+       "en": "Hey, colourful room,",
+       "en_mt": true
+      },
+      {
+       "cyr": "со три бандири правена",
+       "lat": "so tri bandiri pravena",
+       "en": "built with three bandiri,",
+       "en_mt": true
+      },
+      {
+       "cyr": "со бела зема мазана",
+       "lat": "so bela zema mazana",
+       "en": "plastered with white earth,",
+       "en_mt": true
+      },
+      {
+       "cyr": "камо ти млада невеста",
+       "lat": "kamo ti mlada nevesta",
+       "en": "where is the young bride,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да руса пруса по неа.",
+       "lat": "da rusa prusa po nea.",
+       "en": "to rustle along behind her.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори моми сè одбрани",
+       "lat": "Mori momi sè odbrani",
+       "en": "Hey, girls, all the chosen ones,",
+       "en_mt": true
+      },
+      {
+       "cyr": "раширејте го орото",
+       "lat": "raširejte go oroto",
+       "en": "spread the oro wider,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да ви вијме фустаните",
+       "lat": "da vi vijme fustanite",
+       "en": "let us see your dresses,",
+       "en_mt": false
+      },
+      {
+       "cyr": "чиј е фустан дамкајлија",
+       "lat": "čij e fustan damkajlija",
+       "en": "whose dress has marks on it,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да се стора севдајлија",
+       "lat": "da se stora sevdajlija",
+       "en": "and I will fall in love,",
+       "en_mt": true
+      },
+      {
+       "cyr": "по фустано на чупчето.",
+       "lat": "po fustano na čupčeto.",
+       "en": "in that girl's dress.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

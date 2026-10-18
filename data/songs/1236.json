@@ -1,0 +1,143 @@
+{
+ "id": 1236,
+ "slug": "vrati-mi-se-milo-libe",
+ "title_cyr": "Врати ми се, мило либе",
+ "title_latin": "Vrati mi se, milo libe",
+ "title_en": "Come Back to Me, Dear Love",
+ "pesna_url": "https://pesna.org/song/1236",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a modern pop-style song; origin unclear, no author I can name. The second stanza's meaning is slightly contradictory in the original; I translated it literally.",
+ "words_to_learn": [
+  {
+   "mk": "врати се",
+   "en": "come back"
+  },
+  {
+   "mk": "душа",
+   "en": "soul"
+  },
+  {
+   "mk": "боли",
+   "en": "hurts"
+  },
+  {
+   "mk": "прегрнам",
+   "en": "I embrace"
+  },
+  {
+   "mk": "преболам",
+   "en": "get over (an illness or pain)"
+  },
+  {
+   "mk": "отров",
+   "en": "poison"
+  },
+  {
+   "mk": "се угасна",
+   "en": "went out, was extinguished"
+  },
+  {
+   "mk": "при мене",
+   "en": "beside me, with me"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Елена Андоновска",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3088"
+  },
+  {
+   "who": "Елена Андоновска, Танец",
+   "url": "https://pesna.org/audio-download/3089"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Врати ми се, мило либе, при мене,",
+       "lat": "Vrati mi se, milo libe, pri mene,",
+       "en": "Come back to me, dear love, to my side,"
+      },
+      {
+       "cyr": "душата ме боли, либе, за тебе,",
+       "lat": "dušata me boli, libe, za tebe,",
+       "en": "my soul aches, love, for you,"
+      },
+      {
+       "cyr": "уште еднаш да те, либе, прегрнам",
+       "lat": "ušte ednaš da te, libe, pregrnam",
+       "en": "to embrace you, love, one more time"
+      },
+      {
+       "cyr": "и љубовта, мило либе, да ти ја вратам.",
+       "lat": "i ljubovta, milo libe, da ti ja vratam.",
+       "en": "and give you back, dear love, your love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ме чекај веќе, либе, да ти дојдам,",
+       "lat": "Ne me čekaj veḱe, libe, da ti dojdam,",
+       "en": "Do not wait for me any more, love, for me to come to you,"
+      },
+      {
+       "cyr": "и љубовта, мило либе, да ти ја вратам,",
+       "lat": "i ljubovta, milo libe, da ti ja vratam,",
+       "en": "and give you back, dear love, your love,"
+      },
+      {
+       "cyr": "јас не можам, мило либе, да преболам,",
+       "lat": "jas ne možam, milo libe, da prebolam,",
+       "en": "I cannot, dear love, get over it,"
+      },
+      {
+       "cyr": "при моите очи друга да љубиш.",
+       "lat": "pri moite oči druga da ljubiš.",
+       "en": "that before my eyes you love another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Отров ми зададе, либе, на душава,",
+       "lat": "Otrov mi zadade, libe, na dušava,",
+       "en": "You gave poison, love, to this soul of mine,"
+      },
+      {
+       "cyr": "и сè се угасна, либе, во мене,",
+       "lat": "i sè se ugasna, libe, vo mene,",
+       "en": "and everything went out, love, inside me,"
+      },
+      {
+       "cyr": "се угасна мојта љубов за тебе,",
+       "lat": "se ugasna mojta ljubov za tebe,",
+       "en": "my love for you went out,"
+      },
+      {
+       "cyr": "кога знам да друга љубиш при мене.",
+       "lat": "koga znam da druga ljubiš pri mene.",
+       "en": "when I know that you love another beside me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

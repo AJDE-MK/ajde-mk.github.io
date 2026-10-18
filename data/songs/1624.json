@@ -1,0 +1,161 @@
+{
+ "id": 1624,
+ "slug": "daleku-vo-tugjina",
+ "title_cyr": "Далеку во туѓина",
+ "title_latin": "Daleku vo tuǵina",
+ "title_en": "Far away in a foreign land",
+ "pesna_url": "https://pesna.org/song/1624",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Горан Стоилков",
+  "Група Кода",
+  "Дејан Николоски Чуле",
+  "Дрим тим",
+  "Молика",
+  "Снежана Ламњова"
+ ],
+ "audio": [
+  {
+   "who": "Група Кода",
+   "url": "https://pesna.org/audio-download/4321"
+  },
+  {
+   "who": "Дејан Николоски Чуле, Дрим тим",
+   "url": "https://pesna.org/audio-download/4322"
+  },
+  {
+   "who": "Горан Стоилков, Молика, Снежана Ламњова",
+   "url": "https://pesna.org/audio-download/4323"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Судбо моја, поцрна што нема,",
+       "lat": "Sudbo moja, pocrna što nema,",
+       "en": "My fate, my darkest fate,"
+      },
+      {
+       "cyr": "сè што имав, судбо ти ми зема.",
+       "lat": "sè što imav, sudbo ti mi zema.",
+       "en": "everything I had, my fate took from me."
+      },
+      {
+       "cyr": "Зошто толку далеку ме прати,",
+       "lat": "Zošto tolku daleku me prati,",
+       "en": "Why did you send me so far,"
+      },
+      {
+       "cyr": "дали в' родна земја ќе ме вратиш?",
+       "lat": "dali v' rodna zemja ḱe me vratiš?",
+       "en": "will you return me to my native land?"
+      },
+      {
+       "cyr": "Да си видам браќа, сестри мили,",
+       "lat": "Da si vidam braḱa, sestri mili,",
+       "en": "To see my dear brothers, sisters,"
+      },
+      {
+       "cyr": "мајка, татко дали ми се живи?",
+       "lat": "majka, tatko dali mi se živi?",
+       "en": "mother, father, are they alive?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далеку во туѓина животот ми тече,",
+       "lat": "Daleku vo tuǵina životot mi teče,",
+       "en": "Far away in a foreign land my life flows,"
+      },
+      {
+       "cyr": "а за земја родена срцево ме пече.",
+       "lat": "a za zemja rodena srcevo me peče.",
+       "en": "and my heart burns for the land of my birth."
+      },
+      {
+       "cyr": "Туѓи диви ветрови душава ја кинат,",
+       "lat": "Tuǵi divi vetrovi dušava ja kinat,",
+       "en": "Wild foreign winds tear my soul,"
+      },
+      {
+       "cyr": "пусти да се години в’туѓина што минат.",
+       "lat": "pusti da se godini v’tuǵina što minat.",
+       "en": "may be damned the years spent in a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далеку од мајка, земја стара,",
+       "lat": "Daleku od majka, zemja stara,",
+       "en": "Far away from mother, from old land,"
+      },
+      {
+       "cyr": "не се оди, среќа не се бара.",
+       "lat": "ne se odi, sreḱa ne se bara.",
+       "en": "you cannot go, happiness cannot be sought."
+      },
+      {
+       "cyr": "Нема таму сонце да те грее,",
+       "lat": "Nema tamu sonce da te gree,",
+       "en": "There is no sun there to warm you,"
+      },
+      {
+       "cyr": "нема кому песна да се пее.",
+       "lat": "nema komu pesna da se pee.",
+       "en": "there is no one to sing a song to."
+      },
+      {
+       "cyr": "Се ќе дадеш мака да си скратиш,",
+       "lat": "Se ḱe dadeš maka da si skratiš,",
+       "en": "You will give everything to shorten it,"
+      },
+      {
+       "cyr": "само дома среќен да се вратиш.",
+       "lat": "samo doma sreḱen da se vratiš.",
+       "en": "just to return home happy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далеку во туѓина животот ми тече,",
+       "lat": "Daleku vo tuǵina životot mi teče,",
+       "en": "Far away in a foreign land my life flows,"
+      },
+      {
+       "cyr": "а за земја родена срцево ме пече.",
+       "lat": "a za zemja rodena srcevo me peče.",
+       "en": "and my heart burns for the land of my birth."
+      },
+      {
+       "cyr": "Туѓи диви ветрови душава ја кинат,",
+       "lat": "Tuǵi divi vetrovi dušava ja kinat,",
+       "en": "Wild foreign winds tear my soul,"
+      },
+      {
+       "cyr": "пусти да се години в’туѓина што минат.",
+       "lat": "pusti da se godini v’tuǵina što minat.",
+       "en": "may be damned the years spent in a foreign land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

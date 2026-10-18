@@ -1,0 +1,209 @@
+{
+ "id": 1609,
+ "slug": "pesna-za-prilep",
+ "title_cyr": "Песна за Прилеп",
+ "title_latin": "Pesna za Prilep",
+ "title_en": "Song for Prilep",
+ "pesna_url": "https://pesna.org/song/1609",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: sounds like a modern town song, no author named. The saat (clock tower) is Prilep's well-known landmark.",
+ "words_to_learn": [
+  {
+   "mk": "чаршија",
+   "en": "old market quarter, bazaar"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "саатот",
+   "en": "the clock (clock tower)"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "воздивнам",
+   "en": "I sigh"
+  },
+  {
+   "mk": "збогум",
+   "en": "goodbye"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native region, homeland"
+  },
+  {
+   "mk": "дарувам",
+   "en": "I give as a gift"
+  }
+ ],
+ "performers": [
+  "Гога Зафировски"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/4249"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Песна сакам тебе да ти пеам,",
+       "lat": "Pesna sakam tebe da ti peam,",
+       "en": "I want to sing a song to you,"
+      },
+      {
+       "cyr": "да ти пеам и да заиграм.",
+       "lat": "da ti peam i da zaigram.",
+       "en": "to sing to you and start dancing."
+      },
+      {
+       "cyr": "На младоста моја да се сетам,",
+       "lat": "Na mladosta moja da se setam,",
+       "en": "To remember my youth,"
+      },
+      {
+       "cyr": "да се сетам, да затреперам.",
+       "lat": "da se setam, da zatreperam.",
+       "en": "to remember and tremble."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како чука саатот да го слушнам,",
+       "lat": "Kako čuka saatot da go slušnam,",
+       "en": "To hear the clock tower strike,"
+      },
+      {
+       "cyr": "да го слушнам, па да воздивнам.",
+       "lat": "da go slušnam, pa da vozdivnam.",
+       "en": "to hear it and sigh."
+      },
+      {
+       "cyr": "Во чаршија стара да прошетам,",
+       "lat": "Vo čaršija stara da prošetam,",
+       "en": "To stroll through the old bazaar,"
+      },
+      {
+       "cyr": "во меана да се напијам.",
+       "lat": "vo meana da se napijam.",
+       "en": "to drink my fill in the tavern."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прилепе граде најмил си,",
+       "lat": "Prilepe grade najmil si,",
+       "en": "Prilep, town, you are the dearest,"
+      },
+      {
+       "cyr": "ти ги чуваш моите спомени,",
+       "lat": "ti gi čuvaš moite spomeni,",
+       "en": "you keep my memories,"
+      },
+      {
+       "cyr": "нека биде вечен твојот сјај,",
+       "lat": "neka bide večen tvojot sjaj,",
+       "en": "may your radiance be eternal,"
+      },
+      {
+       "cyr": "Прилепе, мој роден крај.",
+       "lat": "Prilepe, moj roden kraj.",
+       "en": "Prilep, my native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само едно срце в' гради имам,",
+       "lat": "Samo edno srce v' gradi imam,",
+       "en": "I have only one heart in my chest,"
+      },
+      {
+       "cyr": "тебе граде ти го дарувам.",
+       "lat": "tebe grade ti go daruvam.",
+       "en": "I give it to you, town."
+      },
+      {
+       "cyr": "Сонце тебе вечно да те грее,",
+       "lat": "Sonce tebe večno da te gree,",
+       "en": "May the sun warm you forever,"
+      },
+      {
+       "cyr": "јужен ветар да те милува.",
+       "lat": "južen vetar da te miluva.",
+       "en": "may the southern wind caress you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тешко ми е збогум да ти речам,",
+       "lat": "Teško mi e zbogum da ti rečam,",
+       "en": "It is hard for me to say goodbye to you,"
+      },
+      {
+       "cyr": "да ти речам, да не заплачам.",
+       "lat": "da ti rečam, da ne zaplačam.",
+       "en": "to say it without crying."
+      },
+      {
+       "cyr": "Солзи сами по лице ми течат,",
+       "lat": "Solzi sami po lice mi tečat,",
+       "en": "Tears flow down my face by themselves,"
+      },
+      {
+       "cyr": "течат, не запираат.",
+       "lat": "tečat, ne zapiraat.",
+       "en": "they flow and do not stop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прилепе граде најмил си,",
+       "lat": "Prilepe grade najmil si,",
+       "en": "Prilep, town, you are the dearest,"
+      },
+      {
+       "cyr": "ти ги чуваш моите спомени,",
+       "lat": "ti gi čuvaš moite spomeni,",
+       "en": "you keep my memories,"
+      },
+      {
+       "cyr": "нека биде вечен твојот сјај,",
+       "lat": "neka bide večen tvojot sjaj,",
+       "en": "may your radiance be eternal,"
+      },
+      {
+       "cyr": "Прилепе, мој роден крај.",
+       "lat": "Prilepe, moj roden kraj.",
+       "en": "Prilep, my native land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

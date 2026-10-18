@@ -1,0 +1,213 @@
+{
+ "id": 755,
+ "slug": "veseli-drugari",
+ "title_cyr": "Весели другари",
+ "title_latin": "Veseli drugari",
+ "title_en": "Merry Friends",
+ "pesna_url": "https://pesna.org/song/755",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Tavern-style drinking song; origin unclear, no author I can name.",
+ "words_to_learn": [
+  {
+   "mk": "другари",
+   "en": "friends, comrades"
+  },
+  {
+   "mk": "душа",
+   "en": "soul"
+  },
+  {
+   "mk": "лек",
+   "en": "medicine, remedy"
+  },
+  {
+   "mk": "еднаш",
+   "en": "once"
+  },
+  {
+   "mk": "времето",
+   "en": "the time"
+  },
+  {
+   "mk": "мерак",
+   "en": "good cheer, pleasure, enjoyment"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "распеј се",
+   "en": "sing out, start singing"
+  },
+  {
+   "mk": "развесели се",
+   "en": "cheer up"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1105"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Весели другари,",
+       "lat": "Veseli drugari,",
+       "en": "Merry friends,"
+      },
+      {
+       "cyr": "душава ми посака",
+       "lat": "dušava mi posaka",
+       "en": "my soul wished"
+      },
+      {
+       "cyr": "вино да се напијам,",
+       "lat": "vino da se napijam,",
+       "en": "to drink wine,"
+      },
+      {
+       "cyr": "песна да си запеам.",
+       "lat": "pesna da si zapeam.",
+       "en": "to sing a song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Виното и песната, лек на душата.",
+       "lat": "Vinoto i pesnata, lek na dušata.",
+       "en": "Wine and song, medicine for the soul."
+      },
+      {
+       "cyr": "Кој песна пее, среќно живее.",
+       "lat": "Koj pesna pee, sreḱno živee.",
+       "en": "Whoever sings a song lives happily."
+      },
+      {
+       "cyr": "Еднаш се живее, еднаш умира",
+       "lat": "Ednaš se živee, ednaš umira",
+       "en": "You live once, you die once,"
+      },
+      {
+       "cyr": "времето минува, не се запира.",
+       "lat": "vremeto minuva, ne se zapira.",
+       "en": "time passes, it does not stop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не жалам години",
+       "lat": "Ne žalam godini",
+       "en": "I do not regret the years"
+      },
+      {
+       "cyr": "бргу што поминале,",
+       "lat": "brgu što pominale,",
+       "en": "that passed so quickly,"
+      },
+      {
+       "cyr": "мерак и спомени",
+       "lat": "merak i spomeni",
+       "en": "the good cheer and memories"
+      },
+      {
+       "cyr": "вечно ми останаа.",
+       "lat": "večno mi ostanaa.",
+       "en": "stayed with me forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Виното и песната, лек на душата.",
+       "lat": "Vinoto i pesnata, lek na dušata.",
+       "en": "Wine and song, medicine for the soul."
+      },
+      {
+       "cyr": "Кој песна пее, среќно живее.",
+       "lat": "Koj pesna pee, sreḱno živee.",
+       "en": "Whoever sings a song lives happily."
+      },
+      {
+       "cyr": "Еднаш се живее, еднаш умира",
+       "lat": "Ednaš se živee, ednaš umira",
+       "en": "You live once, you die once,"
+      },
+      {
+       "cyr": "времето минува, не се запира.",
+       "lat": "vremeto minuva, ne se zapira.",
+       "en": "time passes, it does not stop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Распеј се, душо моја,",
+       "lat": "Raspej se, dušo moja,",
+       "en": "Sing out, my soul,"
+      },
+      {
+       "cyr": "ајде развесели се.",
+       "lat": "ajde razveseli se.",
+       "en": "come on, cheer up."
+      },
+      {
+       "cyr": "Нов ден, нова среќа,",
+       "lat": "Nov den, nova sreḱa,",
+       "en": "New day, new happiness,"
+      },
+      {
+       "cyr": "ајде ти радувај се.",
+       "lat": "ajde ti raduvaj se.",
+       "en": "come on, rejoice."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Виното и песната, лек на душата.",
+       "lat": "Vinoto i pesnata, lek na dušata.",
+       "en": "Wine and song, medicine for the soul."
+      },
+      {
+       "cyr": "Кој песна пее, среќно живее.",
+       "lat": "Koj pesna pee, sreḱno živee.",
+       "en": "Whoever sings a song lives happily."
+      },
+      {
+       "cyr": "Еднаш се живее, еднаш умира",
+       "lat": "Ednaš se živee, ednaš umira",
+       "en": "You live once, you die once,"
+      },
+      {
+       "cyr": "времето минува, не се запира.",
+       "lat": "vremeto minuva, ne se zapira.",
+       "en": "time passes, it does not stop."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

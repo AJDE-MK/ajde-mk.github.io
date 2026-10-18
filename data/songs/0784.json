@@ -1,0 +1,137 @@
+{
+ "id": 784,
+ "slug": "razvivaj-goro-zelena",
+ "title_cyr": "Развивај горо зелена",
+ "title_latin": "Razvivaj goro zelena",
+ "title_en": "Unfurl, Green Forest",
+ "pesna_url": "https://pesna.org/song/784",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Folk song about Gotse Delchev; no author known to me. 'Бегче' is a diminutive of 'beg' (bey); 'Малеш' is the Maleshevo mountain region.",
+ "words_to_learn": [
+  {
+   "mk": "развивај",
+   "en": "unfurl, leaf out"
+  },
+  {
+   "mk": "горо",
+   "en": "forest (vocative)"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel chieftain"
+  },
+  {
+   "mk": "бегче",
+   "en": "young bey (Ottoman noble)"
+  },
+  {
+   "mk": "сејмени",
+   "en": "seymen, Ottoman guard soldiers"
+  },
+  {
+   "mk": "фатете",
+   "en": "catch (pl. imperative)"
+  },
+  {
+   "mk": "погубвај",
+   "en": "kill, destroy"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas, rebel fighters"
+  },
+  {
+   "mk": "замоли",
+   "en": "begged"
+  }
+ ],
+ "performers": [
+  "Јанко Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Јанко Узунов",
+   "url": "https://pesna.org/audio-download/1444"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Развивај горо зелена,",
+       "lat": "Razvivaj goro zelena,",
+       "en": "Unfurl, green forest,"
+      },
+      {
+       "cyr": "развивај Малеш планино, Македонијо,",
+       "lat": "razvivaj Maleš planino, Makedonijo,",
+       "en": "unfurl, Malesh mountain, Macedonia,"
+      },
+      {
+       "cyr": "тука е Делчев војвода.",
+       "lat": "tuka e Delčev vojvoda.",
+       "en": "here is the voivode Delchev."
+      },
+      {
+       "cyr": "Оддолу иде бегчето",
+       "lat": "Oddolu ide begčeto",
+       "en": "From below comes the young bey"
+      },
+      {
+       "cyr": "со четворица сејмени, Македонијо,",
+       "lat": "so četvorica sejmeni, Makedonijo,",
+       "en": "with four seymen, Macedonia,"
+      },
+      {
+       "cyr": "со четворица сејмени.",
+       "lat": "so četvorica sejmeni.",
+       "en": "with four seymen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Делчев ми викна, довикна:",
+       "lat": "Delčev mi vikna, dovikna:",
+       "en": "Delchev called out to me:"
+      },
+      {
+       "cyr": "- Бегчето живо фатете, Македонијо,",
+       "lat": "- Begčeto živo fatete, Makedonijo,",
+       "en": "- Catch the young bey alive, Macedonia,"
+      },
+      {
+       "cyr": "бегчето живо фатете!",
+       "lat": "begčeto živo fatete!",
+       "en": "catch the young bey alive!"
+      },
+      {
+       "cyr": "Бегчето Делчев замоли:",
+       "lat": "Begčeto Delčev zamoli:",
+       "en": "The young bey begged Delchev:"
+      },
+      {
+       "cyr": "- Немој ме младо погубвај, Македонијо,",
+       "lat": "- Nemoj me mlado pogubvaj, Makedonijo,",
+       "en": "- Do not kill me young, Macedonia,"
+      },
+      {
+       "cyr": "комити нема да гонам.",
+       "lat": "komiti nema da gonam.",
+       "en": "I will not hunt the komitas."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

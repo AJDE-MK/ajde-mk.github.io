@@ -1,0 +1,173 @@
+{
+ "id": 1035,
+ "slug": "rano-ranila-petkana",
+ "title_cyr": "Рано ранила Петкана",
+ "title_latin": "Rano ranila Petkana",
+ "title_en": "Petkana rose early",
+ "pesna_url": "https://pesna.org/song/1035",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional wedding song (per the note, from Struga Malesija). 'стребрената' is read as 'сребрената' (silvered); 'стројници стројвет' is my reading and could mean those who dress or prepare the bride.",
+ "words_to_learn": [
+  {
+   "mk": "рано",
+   "en": "early"
+  },
+  {
+   "mk": "ѓемија",
+   "en": "boat, ship"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval, end-blown shepherd's flute"
+  },
+  {
+   "mk": "пиле шарено",
+   "en": "speckled little bird (endearment)"
+  },
+  {
+   "mk": "најнапред",
+   "en": "first of all"
+  },
+  {
+   "mk": "стројници",
+   "en": "preparers (of the wedding, my reading)"
+  },
+  {
+   "mk": "јунаци",
+   "en": "heroes, brave young men"
+  },
+  {
+   "mk": "пеаје / минаје",
+   "en": "crowed / passed (dialect past forms)"
+  }
+ ],
+ "performers": [
+  "Антонија Николова",
+  "Марусја Казакова",
+  "Полина Порумова"
+ ],
+ "audio": [
+  {
+   "who": "Антонија Николова, Марусја Казакова",
+   "url": "https://pesna.org/audio-download/2380"
+  },
+  {
+   "who": "Полина Порумова",
+   "url": "https://pesna.org/audio-download/2381"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Рано ранила Петкана,",
+       "lat": "Rano ranila Petkana,",
+       "en": "Petkana rose early,"
+      },
+      {
+       "cyr": "за бели Дунав на вода.",
+       "lat": "za beli Dunav na voda.",
+       "en": "for the white Danube, for water."
+      },
+      {
+       "cyr": "Петкана на Дунав зборвеше:",
+       "lat": "Petkana na Dunav zborveše:",
+       "en": "Petkana spoke to the Danube:"
+      },
+      {
+       "cyr": "- Дунаве, бели Дунаве,",
+       "lat": "- Dunave, beli Dunave,",
+       "en": "- Danube, white Danube,"
+      },
+      {
+       "cyr": "јас ќе те право опитам,",
+       "lat": "jas ḱe te pravo opitam,",
+       "en": "I will ask you straight,"
+      },
+      {
+       "cyr": "ти мене право да кажиш:",
+       "lat": "ti mene pravo da kažiš:",
+       "en": "you tell me straight:"
+      },
+      {
+       "cyr": "откако петли пеаје,",
+       "lat": "otkako petli peaje,",
+       "en": "since the roosters crowed,"
+      },
+      {
+       "cyr": "колку ѓемии минаје?",
+       "lat": "kolku ǵemii minaje?",
+       "en": "how many boats have passed?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Петкано, пиле шарено,",
+       "lat": "- Petkano, pile šareno,",
+       "en": "- Petkana, speckled bird,"
+      },
+      {
+       "cyr": "откако петли пеаје,",
+       "lat": "otkako petli peaje,",
+       "en": "since the roosters crowed,"
+      },
+      {
+       "cyr": "триста ѓемии минаје.",
+       "lat": "trista ǵemii minaje.",
+       "en": "three hundred boats have passed."
+      },
+      {
+       "cyr": "Најнапред беше млад Стојан",
+       "lat": "Najnapred beše mlad Stojan",
+       "en": "First of all was young Stojan"
+      },
+      {
+       "cyr": "со стребрената ѓемија,",
+       "lat": "so strebrenata ǵemija,",
+       "en": "with a silvered boat,"
+      },
+      {
+       "cyr": "со шарен кавал свиреше,",
+       "lat": "so šaren kaval svireše,",
+       "en": "he played a colorful kaval,"
+      },
+      {
+       "cyr": "твојата песна пееше:",
+       "lat": "tvojata pesna peeše:",
+       "en": "sang your song:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "„Мажи се, мажи Петкано,",
+       "lat": "„Maži se, maži Petkano,",
+       "en": "'Marry, marry, Petkana,"
+      },
+      {
+       "cyr": "дури стројници стројвет,",
+       "lat": "duri strojnici strojvet,",
+       "en": "while the preparers prepare,"
+      },
+      {
+       "cyr": "дури те јунаци сакает“.",
+       "lat": "duri te junaci sakaet“.",
+       "en": "while the heroes love you.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

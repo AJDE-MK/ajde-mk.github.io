@@ -1,0 +1,112 @@
+{
+ "id": 1077,
+ "slug": "leno-le-leno",
+ "title_cyr": "Лено ле, Лено",
+ "title_latin": "Leno le, Leno",
+ "title_en": "Hey Lena, Lena",
+ "pesna_url": "https://pesna.org/song/1077",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Перса Николова"
+ ],
+ "audio": [
+  {
+   "who": "Перса Николова",
+   "url": "https://pesna.org/audio-download/2518"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Лено ле, Лено моме галено",
+       "lat": "- Leno le, Leno mome galeno",
+       "en": "- Hey Leno, Leno, spoiled girl,"
+      },
+      {
+       "cyr": "има ли моми, Лено, за мене?",
+       "lat": "ima li momi, Leno, za mene?",
+       "en": "are there girls for me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Бате ле, бате, леле, Стојане,",
+       "lat": "- Bate le, bate, lele, Stojane,",
+       "en": "- Hey brother, brother Stojan,"
+      },
+      {
+       "cyr": "сношти ги чума, бате, потепа.",
+       "lat": "snošti gi čuma, bate, potepa.",
+       "en": "last night a plague killed them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лено ле, Лено, моме галено",
+       "lat": "- Leno le, Leno, mome galeno",
+       "en": "- Hey Leno, Leno, spoiled girl,"
+      },
+      {
+       "cyr": "и ти си арна, Лено, за мене?",
+       "lat": "i ti si arna, Leno, za mene?",
+       "en": "and are you good for me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Бате, ле, бате, леле, Стојане,",
+       "lat": "- Bate, le, bate, lele, Stojane,",
+       "en": "- Hey brother, brother Stojan,"
+      },
+      {
+       "cyr": "нели сме, пусто, бате, роднина?",
+       "lat": "neli sme, pusto, bate, rodnina?",
+       "en": "are we not, damn it, relatives?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лено ле, Лено, моме галено,",
+       "lat": "- Leno le, Leno, mome galeno,",
+       "en": "- Hey Leno, Leno, spoiled girl,"
+      },
+      {
+       "cyr": "ситни камења, Лено, број нема,",
+       "lat": "sitni kamenja, Leno, broj nema,",
+       "en": "small stones have no numbers,"
+      },
+      {
+       "cyr": "широко море, Лено, крај нема,",
+       "lat": "široko more, Leno, kraj nema,",
+       "en": "the wide sea has no end,"
+      },
+      {
+       "cyr": "убава мома, Лено, род нема.",
+       "lat": "ubava moma, Leno, rod nema.",
+       "en": "a beautiful girl has no relatives."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,175 @@
+{
+ "id": 842,
+ "slug": "sudbo-moja",
+ "title_cyr": "Судбо моја",
+ "title_latin": "Sudbo moja",
+ "title_en": "My fate",
+ "pesna_url": "https://pesna.org/song/842",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алекса Недељковиќ",
+  "Василиса",
+  "Васка Илиева",
+  "Влатко Лозаноски",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Иринка Бујуклиева",
+  "Јелена Томашевиќ",
+  "Лихнидос",
+  "Љубица Павковиќ",
+  "Нина Спирова",
+  "Сашо Митев",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1805"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/1806"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1807"
+  },
+  {
+   "who": "Лихнидос",
+   "url": "https://pesna.org/audio-download/1808"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1809"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Јелена Томашевиќ",
+   "url": "https://pesna.org/audio-download/1810"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2008"
+  },
+  {
+   "who": "Василиса",
+   "url": "https://pesna.org/audio-download/2818"
+  },
+  {
+   "who": "Алекса Недељковиќ",
+   "url": "https://pesna.org/audio-download/3031"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3883"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3884"
+  },
+  {
+   "who": "Љубица Павковиќ, Нина Спирова",
+   "url": "https://pesna.org/audio-download/3885"
+  },
+  {
+   "who": "Иринка Бујуклиева",
+   "url": "https://pesna.org/audio-download/3979"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Судбо моја, судбино",
+       "lat": "Sudbo moja, sudbino",
+       "en": "My fate, fate,"
+      },
+      {
+       "cyr": "судбо, ти невернице,",
+       "lat": "sudbo, ti nevernice,",
+       "en": "fate, you unfaithful,"
+      },
+      {
+       "cyr": "што си судбо ме однела",
+       "lat": "što si sudbo me odnela",
+       "en": "because you fate took me"
+      },
+      {
+       "cyr": "земја непозната.",
+       "lat": "zemja nepoznata.",
+       "en": "to an unknown country."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земја непозната, судбо,",
+       "lat": "Zemja nepoznata, sudbo,",
+       "en": "Unknown country, fate,"
+      },
+      {
+       "cyr": "при луѓе - нелуѓе,",
+       "lat": "pri luǵe - neluǵe,",
+       "en": "next to people - bad people,"
+      },
+      {
+       "cyr": "ни сонцето, ни месецот",
+       "lat": "ni sonceto, ni mesecot",
+       "en": "neighter the Sun, nor the Moon"
+      },
+      {
+       "cyr": "не ми се познати.",
+       "lat": "ne mi se poznati.",
+       "en": "are known to me here."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земи судбо, однеси ме",
+       "lat": "Zemi sudbo, odnesi me",
+       "en": "Come on fate, take me"
+      },
+      {
+       "cyr": "при мојата мајка,",
+       "lat": "pri mojata majka,",
+       "en": "to see my mother"
+      },
+      {
+       "cyr": "да ја прашам, судбо клета",
+       "lat": "da ja prašam, sudbo kleta",
+       "en": "and ask her, damned fate,"
+      },
+      {
+       "cyr": "што сум ѝ згрешила,",
+       "lat": "što sum ì zgrešila,",
+       "en": "what did I do wrong to her,"
+      },
+      {
+       "cyr": "та што ме омажи, судбо,",
+       "lat": "ta što me omaži, sudbo,",
+       "en": "so she married me, fate,"
+      },
+      {
+       "cyr": "земја непозната?",
+       "lat": "zemja nepoznata?",
+       "en": "into an unknown land?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,257 @@
+{
+ "id": 59,
+ "slug": "donka-boli-belo-grlo",
+ "title_cyr": "Донка боли бело грло",
+ "title_latin": "Donka boli belo grlo",
+ "title_en": "Donka's white throat hurts",
+ "pesna_url": "https://pesna.org/song/59",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The marker line '-- Друга верзија --' is copied as it appears in the source. 'је' (is) and 'ја' are dialect forms; 'каде дома' read as 'toward home' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "грло",
+   "en": "throat"
+  },
+  {
+   "mk": "боли",
+   "en": "hurts"
+  },
+  {
+   "mk": "верува",
+   "en": "believes"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "немерно",
+   "en": "unmeasured, without measure"
+  },
+  {
+   "mk": "неброени",
+   "en": "uncounted"
+  },
+  {
+   "mk": "јатрва",
+   "en": "sister-in-law"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "копачи",
+   "en": "diggers"
+  },
+  {
+   "mk": "носачи",
+   "en": "bearers (of the bier)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/1626"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Донка боли бело грло,",
+       "lat": "Donka boli belo grlo,",
+       "en": "Donka's white throat hurts,"
+      },
+      {
+       "cyr": "никој Донка не верува,",
+       "lat": "nikoj Donka ne veruva,",
+       "en": "nobody believes Donka,"
+      },
+      {
+       "cyr": "кој верува, не е тува,",
+       "lat": "koj veruva, ne e tuva,",
+       "en": "whoever believes is not here,"
+      },
+      {
+       "cyr": "не е тука, је далеку.",
+       "lat": "ne e tuka, je daleku.",
+       "en": "not here, is far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море не е тука, је далеку,",
+       "lat": "More ne e tuka, je daleku,",
+       "en": "Hey, not here, is far away,"
+      },
+      {
+       "cyr": "во Битола, во меана.",
+       "lat": "vo Bitola, vo meana.",
+       "en": "in Bitola, in the tavern."
+      },
+      {
+       "cyr": "Ајде пие вино, немерено,",
+       "lat": "Ajde pie vino, nemereno,",
+       "en": "Come, he drinks wine, unmeasured,"
+      },
+      {
+       "cyr": "дава пари неброени.",
+       "lat": "dava pari nebroeni.",
+       "en": "he gives money, uncounted."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Донка грло ја болеше",
+       "lat": "Donka grlo ja boleše",
+       "en": "Donka's throat was hurting"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Донка грло ја болеше,",
+       "lat": "Donka grlo ja boleše,",
+       "en": "Donka's throat was hurting,"
+      },
+      {
+       "cyr": "никој Донка не веруе,",
+       "lat": "nikoj Donka ne verue,",
+       "en": "nobody believed Donka,"
+      },
+      {
+       "cyr": "ни свекрва, ни јатрва,",
+       "lat": "ni svekrva, ni jatrva,",
+       "en": "not mother-in-law, not sister-in-law,"
+      },
+      {
+       "cyr": "кој верује не е тука.",
+       "lat": "koj veruje ne e tuka.",
+       "en": "whoever believes is not here."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Донка прати едно писмо,",
+       "lat": "Donka prati edno pismo,",
+       "en": "Donka sent a letter,"
+      },
+      {
+       "cyr": "„брзо да си дојдеш Милан“.",
+       "lat": "„brzo da si dojdeš Milan“.",
+       "en": "\"come home quickly, Milan\"."
+      },
+      {
+       "cyr": "Милан јавна брза коња,",
+       "lat": "Milan javna brza konja,",
+       "en": "Milan mounted a swift horse,"
+      },
+      {
+       "cyr": "си киниса каде дома.",
+       "lat": "si kinisa kade doma.",
+       "en": "and set off for home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се врна во меана,",
+       "lat": "Ne se vrna vo meana,",
+       "en": "He did not go back to the tavern,"
+      },
+      {
+       "cyr": "си нарача чаша вино:",
+       "lat": "si narača čaša vino:",
+       "en": "he ordered a glass of wine:"
+      },
+      {
+       "cyr": "- Турај вино немерно,",
+       "lat": "- Turaj vino nemerno,",
+       "en": "- Pour the wine unmeasured,"
+      },
+      {
+       "cyr": "давам пари неброени.",
+       "lat": "davam pari nebroeni.",
+       "en": "I give money uncounted."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пат сретна копачите,",
+       "lat": "Na pat sretna kopačite,",
+       "en": "On the road he met the diggers,"
+      },
+      {
+       "cyr": "па им вели, ем говори:",
+       "lat": "pa im veli, em govori:",
+       "en": "and said to them, speaking:"
+      },
+      {
+       "cyr": "- Ој копачи, мили браќа,",
+       "lat": "- Oj kopači, mili braḱa,",
+       "en": "- Oh diggers, dear brothers,"
+      },
+      {
+       "cyr": "копајте гроб за двамина.",
+       "lat": "kopajte grob za dvamina.",
+       "en": "dig a grave for two."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пат сретна носачите,",
+       "lat": "Na pat sretna nosačite,",
+       "en": "On the road he met the bearers,"
+      },
+      {
+       "cyr": "па им вели, ем говори:",
+       "lat": "pa im veli, em govori:",
+       "en": "and said to them, speaking:"
+      },
+      {
+       "cyr": "- Ој носачи, мили браќа,",
+       "lat": "- Oj nosači, mili braḱa,",
+       "en": "- Oh bearers, dear brothers,"
+      },
+      {
+       "cyr": "оставете бела Донка.",
+       "lat": "ostavete bela Donka.",
+       "en": "leave white Donka be."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

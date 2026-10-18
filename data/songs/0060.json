@@ -1,0 +1,148 @@
+{
+ "id": 60,
+ "slug": "libe-ako-dojdesh",
+ "title_cyr": "Либе, ако дојдеш",
+ "title_latin": "Libe, ako dojdeš",
+ "title_en": "Sweetheart, if you come",
+ "pesna_url": "https://pesna.org/song/60",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Зинга, зинга ле, зинга бајевите' is a refrain I could not parse; left untranslated (my reading: nonsense dance syllables). 'Крива' as 'crooked/lame' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "воденица",
+   "en": "water mill"
+  },
+  {
+   "mk": "магарица",
+   "en": "she-donkey"
+  },
+  {
+   "mk": "крива",
+   "en": "crooked, lame"
+  },
+  {
+   "mk": "бацувам",
+   "en": "I kiss (dialect)"
+  },
+  {
+   "mk": "ергени",
+   "en": "young unmarried men"
+  },
+  {
+   "mk": "беќари",
+   "en": "bachelors"
+  },
+  {
+   "mk": "оп",
+   "en": "hop (dance interjection)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Кочо Петровски",
+  "Софија Топалски",
+  "Христина Ботева"
+ ],
+ "audio": [
+  {
+   "who": "Софија Топалски",
+   "url": "https://pesna.org/audio-download/2076"
+  },
+  {
+   "who": "Христина Ботева",
+   "url": "https://pesna.org/audio-download/2077"
+  },
+  {
+   "who": "Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2936"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Либе, ако дојдеш, дома да ми дојдеш,",
+       "lat": "Libe, ako dojdeš, doma da mi dojdeš,",
+       "en": "Sweetheart, if you come, come to my home,"
+      },
+      {
+       "cyr": "ќе мама дојде, ќе татко дојде.",
+       "lat": "ḱe mama dojde, ḱe tatko dojde.",
+       "en": "mother will come, father will come."
+      },
+      {
+       "cyr": "Зинга, зинга, зинга ле, зинга бајевите,",
+       "lat": "Zinga, zinga, zinga le, zinga bajevite,",
+       "en": "Zinga, zinga, zinga le, zinga bajevite,"
+      },
+      {
+       "cyr": "оп, мамо, мамице, оп, бајевите.",
+       "lat": "op, mamo, mamice, op, bajevite.",
+       "en": "hop, mama, mommy, hop, bajevite."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мама е отишла на воденица,",
+       "lat": "Mama e otišla na vodenica,",
+       "en": "Mother has gone to the mill,"
+      },
+      {
+       "cyr": "на воденица с' крива магарица.",
+       "lat": "na vodenica s' kriva magarica.",
+       "en": "to the mill, with the crooked she-donkey."
+      },
+      {
+       "cyr": "Зинга, зинга, зинга ле, зинга бајевите,",
+       "lat": "Zinga, zinga, zinga le, zinga bajevite,",
+       "en": "Zinga, zinga, zinga le, zinga bajevite,"
+      },
+      {
+       "cyr": "оп, мамо, мамице, оп, бајевите.",
+       "lat": "op, mamo, mamice, op, bajevite.",
+       "en": "hop, mama, mommy, hop, bajevite."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас да се бацувам со млади ергени,",
+       "lat": "Jas da se bacuvam so mladi ergeni,",
+       "en": "I want to kiss with young bachelors,"
+      },
+      {
+       "cyr": "со млади ергени, со стари беќари.",
+       "lat": "so mladi ergeni, so stari beḱari.",
+       "en": "with young bachelors, with old bachelors."
+      },
+      {
+       "cyr": "Зинга, зинга, зинга ле, зинга бајевите,",
+       "lat": "Zinga, zinga, zinga le, zinga bajevite,",
+       "en": "Zinga, zinga, zinga le, zinga bajevite,"
+      },
+      {
+       "cyr": "оп, мамо, мамице, оп, бајевите.",
+       "lat": "op, mamo, mamice, op, bajevite.",
+       "en": "hop, mama, mommy, hop, bajevite."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

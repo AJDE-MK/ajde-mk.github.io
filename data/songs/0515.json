@@ -1,0 +1,145 @@
+{
+ "id": 515,
+ "slug": "sanokj-sedam-treno",
+ "title_cyr": "Саноќ седам Трено",
+ "title_latin": "Sanoḱ sedam Treno",
+ "title_en": "I sit all night Treno",
+ "pesna_url": "https://pesna.org/song/515",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ајри Демировски",
+  "Ajri Demirovski",
+  "Алексо Димов",
+  "Виолета Томовска",
+  "Влатко Стефановски",
+  "Добри Ставревски",
+  "Зафир Хаџиманов",
+  "Игор Дурловски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/185"
+  },
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/186"
+  },
+  {
+   "who": "Игор Дурловски",
+   "url": "https://pesna.org/audio-download/1112"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/1694"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/1695"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/3061"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ седам Трено, саноќ мислам",
+       "lat": "Sanoḱ sedam Treno, sanoḱ mislam",
+       "en": "All night Treno, I sit, all night I think,"
+      },
+      {
+       "cyr": "сите моми Трено ги споминам",
+       "lat": "site momi Treno gi spominam",
+       "en": "all the girls Treno, I remember."
+      },
+      {
+       "cyr": "кога тебе те споминам",
+       "lat": "koga tebe te spominam",
+       "en": "When I remembered you,"
+      },
+      {
+       "cyr": "чаша солзи Трено исполнувам.",
+       "lat": "čaša solzi Treno ispolnuvam.",
+       "en": "a glass of tears, Treno, I filled up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чаша солзи Трено наполнувам",
+       "lat": "Čaša solzi Treno napolnuvam",
+       "en": "A glass of tears, Treno, I filled up"
+      },
+      {
+       "cyr": "ал шамија Трено натопувам",
+       "lat": "al šamija Treno natopuvam",
+       "en": "my scarf, Treno I made wet."
+      },
+      {
+       "cyr": "ал шамија натопувам",
+       "lat": "al šamija natopuvam",
+       "en": "The scarf, I watered"
+      },
+      {
+       "cyr": "на гради ја Трено исушувам.",
+       "lat": "na gradi ja Treno isušuvam.",
+       "en": "on my chests, Treno, I dried it up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ седам Трено, саноќ пијам",
+       "lat": "Sanoḱ sedam Treno, sanoḱ pijam",
+       "en": "All night, Treno, I sit, all night I drink,"
+      },
+      {
+       "cyr": "сите песни Трено ги спејувам",
+       "lat": "site pesni Treno gi spejuvam",
+       "en": "all the songs, Treno, I am singing."
+      },
+      {
+       "cyr": "сите песни ги спејувам",
+       "lat": "site pesni gi spejuvam",
+       "en": "All the songs, I am singing,"
+      },
+      {
+       "cyr": "сите моми Трено ги споминам.",
+       "lat": "site momi Treno gi spominam.",
+       "en": "all the girls, Treno, I am remembering."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога тебе Трено те споминам",
+       "lat": "Koga tebe Treno te spominam",
+       "en": "When I think of you, Treno,"
+      },
+      {
+       "cyr": "тамбурата Трено искршувам.",
+       "lat": "tamburata Treno iskršuvam.",
+       "en": "my tambura, Treno, I am breaking."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

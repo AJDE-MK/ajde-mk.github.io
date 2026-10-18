@@ -1,0 +1,148 @@
+{
+ "id": 585,
+ "slug": "dojdi-dojdi-maloj-mome",
+ "title_cyr": "Дојди, дојди малој моме",
+ "title_latin": "Dojdi, dojdi maloj mome",
+ "title_en": "Come, come, little girl",
+ "pesna_url": "https://pesna.org/song/585",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'малој моме' I read as 'little girl'; the years (thirteen, then fifteenth) are as written, possibly 'тринајс' meaning thirteen, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "дојди",
+   "en": "come (imperative)"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  },
+  {
+   "mk": "букет",
+   "en": "bouquet"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "тамо",
+   "en": "there"
+  },
+  {
+   "mk": "години",
+   "en": "years"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  }
+ ],
+ "performers": [
+  "Васил Виденов",
+  "Игнат Виденов"
+ ],
+ "audio": [
+  {
+   "who": "Васил Виденов, Игнат Виденов",
+   "url": "https://pesna.org/audio-download/3142"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, дојди, малој моме,",
+       "lat": "Dojdi, dojdi, maloj mome,",
+       "en": "Come, come, little girl,"
+      },
+      {
+       "cyr": "долу во градина,",
+       "lat": "dolu vo gradina,",
+       "en": "down to the garden,"
+      },
+      {
+       "cyr": "цвеќе да набереш, моме,",
+       "lat": "cveḱe da nabereš, mome,",
+       "en": "to pick flowers, girl,"
+      },
+      {
+       "cyr": "букет да наредиш.",
+       "lat": "buket da narediš.",
+       "en": "to arrange a bouquet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Букет да наредиш, моме,",
+       "lat": "Buket da narediš, mome,",
+       "en": "To arrange a bouquet, girl,"
+      },
+      {
+       "cyr": "мене да испратиш,",
+       "lat": "mene da ispratiš,",
+       "en": "to send it to me,"
+      },
+      {
+       "cyr": "мене да испратиш, моме,",
+       "lat": "mene da ispratiš, mome,",
+       "en": "to send it to me, girl,"
+      },
+      {
+       "cyr": "оти војник ќ' одам.",
+       "lat": "oti vojnik ḱ' odam.",
+       "en": "because I am going as a soldier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' ќе седам, малој моме",
+       "lat": "Tam' ḱe sedam, maloj mome",
+       "en": "I will stay there, little girl,"
+      },
+      {
+       "cyr": "до тринајс' години,",
+       "lat": "do trinajs' godini,",
+       "en": "for thirteen years,"
+      },
+      {
+       "cyr": "на петнајсе, мило либе,",
+       "lat": "na petnajse, milo libe,",
+       "en": "in the fifteenth, dear love,"
+      },
+      {
+       "cyr": "јазе ќе се вратам.",
+       "lat": "jaze ḱe se vratam.",
+       "en": "I will return."
+      },
+      {
+       "cyr": "Јазе ќе се вратам, либе,",
+       "lat": "Jaze ḱe se vratam, libe,",
+       "en": "I will return, love,"
+      },
+      {
+       "cyr": "тебе да те земам.",
+       "lat": "tebe da te zemam.",
+       "en": "to take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

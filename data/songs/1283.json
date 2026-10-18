@@ -1,0 +1,171 @@
+{
+ "id": 1283,
+ "slug": "svadbarska",
+ "title_cyr": "Свадбарска",
+ "title_latin": "Svadbarska",
+ "title_en": "Wedding song",
+ "pesna_url": "https://pesna.org/song/1283",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Свадбарска' is a generic title for a wedding song. Origin unclear (no author known to me).",
+ "words_to_learn": [
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "кум",
+   "en": "best man, godfather"
+  },
+  {
+   "mk": "старисвате",
+   "en": "chief wedding elder (старосват)"
+  },
+  {
+   "mk": "мераклиска",
+   "en": "full of zest / pleasure (merak)"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "оро",
+   "en": "round folk dance"
+  },
+  {
+   "mk": "налеј",
+   "en": "pour"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3244"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еве денес свадба правам,",
+       "lat": "Eve denes svadba pravam,",
+       "en": "Here today I am holding a wedding,"
+      },
+      {
+       "cyr": "невеста ќе земам,",
+       "lat": "nevesta ḱe zemam,",
+       "en": "I will take a bride,"
+      },
+      {
+       "cyr": "запеј, мила мајко,",
+       "lat": "zapej, mila majko,",
+       "en": "start singing, dear mother,"
+      },
+      {
+       "cyr": "пејте мили сватови,",
+       "lat": "pejte mili svatovi,",
+       "en": "sing, dear wedding guests,"
+      },
+      {
+       "cyr": "песна, мила мајко,",
+       "lat": "pesna, mila majko,",
+       "en": "a song, dear mother,"
+      },
+      {
+       "cyr": "весела, мераклиска.",
+       "lat": "vesela, merakliska.",
+       "en": "cheerful, full of zest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Весело да биде мајко,",
+       "lat": "Veselo da bide majko,",
+       "en": "Let it be merry, mother,"
+      },
+      {
+       "cyr": "песна нек' се пее,",
+       "lat": "pesna nek' se pee,",
+       "en": "let a song be sung,"
+      },
+      {
+       "cyr": "налеј, мила мајко,",
+       "lat": "nalej, mila majko,",
+       "en": "pour, dear mother,"
+      },
+      {
+       "cyr": "вино нек' се пие,",
+       "lat": "vino nek' se pie,",
+       "en": "let wine be drunk,"
+      },
+      {
+       "cyr": "налеј, мила мајко,",
+       "lat": "nalej, mila majko,",
+       "en": "pour, dear mother,"
+      },
+      {
+       "cyr": "рујно вино црвено.",
+       "lat": "rujno vino crveno.",
+       "en": "ruby red wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, ајде стани куме",
+       "lat": "Ajde, ajde stani kume",
+       "en": "Come on, come on, get up, best man,"
+      },
+      {
+       "cyr": "и ти старисвате,",
+       "lat": "i ti starisvate,",
+       "en": "and you too, chief wedding elder,"
+      },
+      {
+       "cyr": "запеј, мила мајко,",
+       "lat": "zapej, mila majko,",
+       "en": "start singing, dear mother,"
+      },
+      {
+       "cyr": "оро нек' се вие,",
+       "lat": "oro nek' se vie,",
+       "en": "let the oro dance wind,"
+      },
+      {
+       "cyr": "играј, мила мајко,",
+       "lat": "igraj, mila majko,",
+       "en": "dance, dear mother,"
+      },
+      {
+       "cyr": "весело нек' биде.",
+       "lat": "veselo nek' bide.",
+       "en": "let it be merry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

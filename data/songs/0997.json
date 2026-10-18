@@ -1,0 +1,175 @@
+{
+ "id": 997,
+ "slug": "pesna-za-ragjanjeto-na-goce",
+ "title_cyr": "Песна за раѓањето на Гоце",
+ "title_latin": "Pesna za raǵanjeto na Goce",
+ "title_en": "Song for the Birth of Goce",
+ "pesna_url": "https://pesna.org/song/997",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: a tribute-style song about Goce Delchev (born in Kukush), no author I can name. 'Никола срце разврзал' is my reading ('Nikola unties his heart', i.e. rejoices).",
+ "words_to_learn": [
+  {
+   "mk": "родила",
+   "en": "gave birth"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "пелени",
+   "en": "swaddling clothes"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  },
+  {
+   "mk": "самовили",
+   "en": "fairies (folk spirits)"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Бапчорки",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/2317"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2343"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Султана јунак родила)",
+       "lat": "(Sultana junak rodila)",
+       "en": "(Sultana gave birth to a hero)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Песни се слушаат весели,",
+       "lat": "Pesni se slušaat veseli,",
+       "en": "Cheerful songs are heard,"
+      },
+      {
+       "cyr": "Кукуш се крева на гости,",
+       "lat": "Kukuš se kreva na gosti,",
+       "en": "Kukush rises to be guests,"
+      },
+      {
+       "cyr": "Никола срце разврзал,",
+       "lat": "Nikola srce razvrzal,",
+       "en": "Nikola unties his heart,"
+      },
+      {
+       "cyr": "Султана јунак родила.",
+       "lat": "Sultana junak rodila.",
+       "en": "Sultana gave birth to a hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пламен е Гоце в пелени,",
+       "lat": "Plamen e Goce v peleni,",
+       "en": "Goce in swaddling clothes is a flame,"
+      },
+      {
+       "cyr": "сокол му љуља лулката,",
+       "lat": "sokol mu ljulja lulkata,",
+       "en": "a falcon rocks his cradle,"
+      },
+      {
+       "cyr": "над глава три самовили,",
+       "lat": "nad glava tri samovili,",
+       "en": "above his head three fairies"
+      },
+      {
+       "cyr": "песни му пеат јуначки.",
+       "lat": "pesni mu peat junački.",
+       "en": "sing him heroic songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Расни ми, Гоце, порасни,",
+       "lat": "- Rasni mi, Goce, porasni,",
+       "en": "- Grow, Goce, grow up,"
+      },
+      {
+       "cyr": "славен ти јунак да станеш,",
+       "lat": "slaven ti junak da staneš,",
+       "en": "may you become a famed hero,"
+      },
+      {
+       "cyr": "народот ти да го водиш",
+       "lat": "narodot ti da go vodiš",
+       "en": "may you lead your people"
+      },
+      {
+       "cyr": "в' борба за света слобода.",
+       "lat": "v' borba za sveta sloboda.",
+       "en": "in the fight for holy freedom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Со твојта верна дружина,",
+       "lat": "- So tvojta verna družina,",
+       "en": "- With your faithful band,"
+      },
+      {
+       "cyr": "со душман ти да се биеш,",
+       "lat": "so dušman ti da se bieš,",
+       "en": "may you fight the enemy,"
+      },
+      {
+       "cyr": "чумата да ја истераш",
+       "lat": "čumata da ja isteraš",
+       "en": "may you drive out the plague"
+      },
+      {
+       "cyr": "од жална Македонија.",
+       "lat": "od žalna Makedonija.",
+       "en": "from sorrowful Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

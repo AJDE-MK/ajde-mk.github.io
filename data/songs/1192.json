@@ -1,0 +1,279 @@
+{
+ "id": 1192,
+ "slug": "popadna-slana-po-pole",
+ "title_cyr": "Попадна слана по поле",
+ "title_latin": "Popadna slana po pole",
+ "title_en": "Frost fell on the field",
+ "pesna_url": "https://pesna.org/song/1192",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Деј' is a closing filler, rendered 'yes'. 'Дељо Турунџула' is a name or nickname I do not know; the 'армасаа' sense (betrothed) and the last two verses are my reading, the speaker shifts without markers.",
+ "words_to_learn": [
+  {
+   "mk": "слана",
+   "en": "frost"
+  },
+  {
+   "mk": "покрило",
+   "en": "covered"
+  },
+  {
+   "mk": "врзана",
+   "en": "tied"
+  },
+  {
+   "mk": "армасаа",
+   "en": "they betrothed (engaged)"
+  },
+  {
+   "mk": "надалеку",
+   "en": "far away"
+  },
+  {
+   "mk": "испазам",
+   "en": "to catch, to spot"
+  },
+  {
+   "mk": "дограбам",
+   "en": "to seize"
+  },
+  {
+   "mk": "темници",
+   "en": "dungeons"
+  },
+  {
+   "mk": "сокаци",
+   "en": "alleys"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2923"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Попадна слана по поле,",
+       "lat": "Popadna slana po pole,",
+       "en": "Frost fell on the field,"
+      },
+      {
+       "cyr": "сето го поле покрило.",
+       "lat": "seto go pole pokrilo.",
+       "en": "it covered the whole field."
+      },
+      {
+       "cyr": "Сал едно дрво остана",
+       "lat": "Sal edno drvo ostana",
+       "en": "Only one tree remained,"
+      },
+      {
+       "cyr": "и на дрвото врзана,",
+       "lat": "i na drvoto vrzana,",
+       "en": "and tied to the tree,"
+      },
+      {
+       "cyr": "врзана Стојна Паскова.",
+       "lat": "vrzana Stojna Paskova.",
+       "en": "tied, was Stojna Paskova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие Тино мори,",
+       "lat": "Bog da bie Tino mori,",
+       "en": "May God strike, hey Tino,"
+      },
+      {
+       "cyr": "Тино мори, твојта стара мајка,",
+       "lat": "Tino mori, tvojta stara majka,",
+       "en": "hey Tino, your old mother,"
+      },
+      {
+       "cyr": "Тино мори, Тино мори,",
+       "lat": "Tino mori, Tino mori,",
+       "en": "hey Tino, hey Tino,"
+      },
+      {
+       "cyr": "твојот стари татко, деј.",
+       "lat": "tvojot stari tatko, dej.",
+       "en": "your old father, yes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ми те армасаа Тино,",
+       "lat": "Što mi te armasaa Tino,",
+       "en": "That they betrothed you, Tino,"
+      },
+      {
+       "cyr": "Тино мори мошне надалеку,",
+       "lat": "Tino mori mošne nadaleku,",
+       "en": "hey Tino, so very far away,"
+      },
+      {
+       "cyr": "Тино мори, Тино мори,",
+       "lat": "Tino mori, Tino mori,",
+       "en": "hey Tino, hey Tino,"
+      },
+      {
+       "cyr": "дур' на Гевгелија, деј.",
+       "lat": "dur' na Gevgelija, dej.",
+       "en": "all the way to Gevgelija, yes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дур' на Гевгелија, Тино,",
+       "lat": "Dur' na Gevgelija, Tino,",
+       "en": "All the way to Gevgelija, Tino,"
+      },
+      {
+       "cyr": "Тино мори, за Дељо Турунџула,",
+       "lat": "Tino mori, za Deljo Turundžula,",
+       "en": "hey Tino, to Deljo Turundzula,"
+      },
+      {
+       "cyr": "Тино мори, Тино мори,",
+       "lat": "Tino mori, Tino mori,",
+       "en": "hey Tino, hey Tino,"
+      },
+      {
+       "cyr": "за Дељо Турунџула, деј.",
+       "lat": "za Deljo Turundžula, dej.",
+       "en": "to Deljo Turundzula, yes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дељо море лежи, Тино,",
+       "lat": "Deljo more leži, Tino,",
+       "en": "Deljo is lying ill, Tino,"
+      },
+      {
+       "cyr": "Тино мори, Дељо ќе да умре,",
+       "lat": "Tino mori, Deljo ḱe da umre,",
+       "en": "hey Tino, Deljo will die,"
+      },
+      {
+       "cyr": "Тино мори, Тино мори,",
+       "lat": "Tino mori, Tino mori,",
+       "en": "hey Tino, hey Tino,"
+      },
+      {
+       "cyr": "Дељо ќе да умре, деј.",
+       "lat": "Deljo ḱe da umre, dej.",
+       "en": "Deljo will die, yes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море пазам ве, пазам,",
+       "lat": "- More pazam ve, pazam,",
+       "en": "- Hey, I am watching you, watching,"
+      },
+      {
+       "cyr": "да ве испазам, да ве дограбам.",
+       "lat": "da ve ispazam, da ve dograbam.",
+       "en": "to catch you out, to seize you."
+      },
+      {
+       "cyr": "Море да ве дограбам,",
+       "lat": "More da ve dograbam,",
+       "en": "Hey, to seize you"
+      },
+      {
+       "cyr": "в' темни темници, тесни сокаци.",
+       "lat": "v' temni temnici, tesni sokaci.",
+       "en": "in dark dungeons, narrow alleys."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море не ќе нè грабиш,",
+       "lat": "- More ne ḱe nè grabiš,",
+       "en": "- Hey, you will not seize us,"
+      },
+      {
+       "cyr": "што ќе ни правиш,",
+       "lat": "što ḱe ni praviš,",
+       "en": "what will you do to us,"
+      },
+      {
+       "cyr": "што ќе ни чиниш,",
+       "lat": "što ḱe ni činiš,",
+       "en": "what will you make of us,"
+      },
+      {
+       "cyr": "море не сме јаболка,",
+       "lat": "more ne sme jabolka,",
+       "en": "hey, we are not apples"
+      },
+      {
+       "cyr": "да нè расечеш,",
+       "lat": "da nè rasečeš,",
+       "en": "that you could cut us up,"
+      },
+      {
+       "cyr": "да нè изедеш.",
+       "lat": "da nè izedeš.",
+       "en": "that you could eat us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море пазам ве, пазам,",
+       "lat": "- More pazam ve, pazam,",
+       "en": "- Hey, I am watching you, watching,"
+      },
+      {
+       "cyr": "да ве испазам, да ве дограбам.",
+       "lat": "da ve ispazam, da ve dograbam.",
+       "en": "to catch you out, to seize you."
+      },
+      {
+       "cyr": "Море да ве дограбам,",
+       "lat": "More da ve dograbam,",
+       "en": "Hey, to seize you"
+      },
+      {
+       "cyr": "в' темни темници, тесни сокаци.",
+       "lat": "v' temni temnici, tesni sokaci.",
+       "en": "in dark dungeons, narrow alleys."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

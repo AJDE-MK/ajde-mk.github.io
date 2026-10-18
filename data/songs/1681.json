@@ -1,0 +1,138 @@
+{
+ "id": 1681,
+ "slug": "marika-anama",
+ "title_cyr": "Марика анама",
+ "title_latin": "Marika anama",
+ "title_en": "Marika anama",
+ "pesna_url": "https://pesna.org/song/1681",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4492"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ја посакал Алија",
+       "lat": "Ja posakal Alija",
+       "en": "Alija desired"
+      },
+      {
+       "cyr": "Марика за невеста,",
+       "lat": "Marika za nevesta,",
+       "en": "Marika as his bride,"
+      },
+      {
+       "cyr": "оф, оф, оф, леле, ле,",
+       "lat": "of, of, of, lele, le,",
+       "en": "oh, oh, oh, alas,"
+      },
+      {
+       "cyr": "анама да биде.",
+       "lat": "anama da bide.",
+       "en": "for her to become his anama1."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па испратил стројници,",
+       "lat": "Pa ispratil strojnici,",
+       "en": "So he sent matchmakers,"
+      },
+      {
+       "cyr": "една торба жолтици,",
+       "lat": "edna torba žoltici,",
+       "en": "and a bag of gold coins,"
+      },
+      {
+       "cyr": "оф, оф, оф, леле, ле,",
+       "lat": "of, of, of, lele, le,",
+       "en": "oh, oh, oh, alas,"
+      },
+      {
+       "cyr": "анама да биде.",
+       "lat": "anama da bide.",
+       "en": "for her to become his anama."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога слушнал татко ѝ",
+       "lat": "Koga slušnal tatko ì",
+       "en": "When her father heard,"
+      },
+      {
+       "cyr": "бердан пушка наполнил,",
+       "lat": "berdan puška napolnil,",
+       "en": "he loaded his Berdan rifle,"
+      },
+      {
+       "cyr": "оф, оф, оф, леле, ле,",
+       "lat": "of, of, of, lele, le,",
+       "en": "oh, oh, oh, alas,"
+      },
+      {
+       "cyr": "Алија да погуби.",
+       "lat": "Alija da pogubi.",
+       "en": "to kill Alija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ѝ се расплака,",
+       "lat": "Majka ì se rasplaka,",
+       "en": "Her mother wept,"
+      },
+      {
+       "cyr": "Марика се заколна,",
+       "lat": "Marika se zakolna,",
+       "en": "Marika swore an oath,"
+      },
+      {
+       "cyr": "оф, оф, оф, леле, ле,",
+       "lat": "of, of, of, lele, le,",
+       "en": "oh, oh, oh, alas,"
+      },
+      {
+       "cyr": "анама не бива,",
+       "lat": "anama ne biva,",
+       "en": "she would not become his anama,"
+      },
+      {
+       "cyr": "оф, оф, оф, леле, ле,",
+       "lat": "of, of, of, lele, le,",
+       "en": "oh, oh, oh, alas,"
+      },
+      {
+       "cyr": "вера не менува.",
+       "lat": "vera ne menuva.",
+       "en": "she would not change her faith."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

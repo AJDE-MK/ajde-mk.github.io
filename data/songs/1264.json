@@ -1,0 +1,141 @@
+{
+ "id": 1264,
+ "slug": "denot-mi-dojde-vojnik-da-odam",
+ "title_cyr": "Денот ми дојде војник да одам",
+ "title_latin": "Denot mi dojde vojnik da odam",
+ "title_en": "The Day Has Come for Me to Go as a Soldier",
+ "pesna_url": "https://pesna.org/song/1264",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The last stanza reads as a plea not to leave him or take another lover (my reading); 'немој' means 'do not'.",
+ "words_to_learn": [
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "на далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "одвај",
+   "en": "barely"
+  },
+  {
+   "mk": "жалови",
+   "en": "sorrows"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades, friends"
+  },
+  {
+   "mk": "рониш",
+   "en": "you shed (tears)"
+  },
+  {
+   "mk": "затрај се",
+   "en": "hold out, be patient (my reading)"
+  },
+  {
+   "mk": "мила",
+   "en": "dear (one)"
+  },
+  {
+   "mk": "заљубиш",
+   "en": "you fall in love"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле"
+ ],
+ "audio": [
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/3196"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Денот ми дојде војник да одам,",
+       "lat": "Denot mi dojde vojnik da odam,",
+       "en": "The day has come for me to go as a soldier,"
+      },
+      {
+       "cyr": "војник да одам, на далеку,",
+       "lat": "vojnik da odam, na daleku,",
+       "en": "to go as a soldier, far away,"
+      },
+      {
+       "cyr": "одвај се делам, жалови оставам,",
+       "lat": "odvaj se delam, žalovi ostavam,",
+       "en": "I can barely part, I leave my sorrows behind,"
+      },
+      {
+       "cyr": "мајко ле, не плачи, мајко ле, не жали.",
+       "lat": "majko le, ne plači, majko le, ne žali.",
+       "en": "mother, oh, do not cry, mother, oh, do not grieve."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другари ме чекаат, стара ле мајко,",
+       "lat": "Drugari me čekaat, stara le majko,",
+       "en": "My comrades are waiting for me, dear old mother,"
+      },
+      {
+       "cyr": "другари ме чекаат, чекаат и пеат,",
+       "lat": "drugari me čekaat, čekaat i peat,",
+       "en": "my comrades are waiting for me, waiting and singing,"
+      },
+      {
+       "cyr": "немој ле, мајко, солзи да рониш,",
+       "lat": "nemoj le, majko, solzi da roniš,",
+       "en": "do not, oh mother, shed tears,"
+      },
+      {
+       "cyr": "затрај се, не плачи, мајко ле, не жали.",
+       "lat": "zatraj se, ne plači, majko le, ne žali.",
+       "en": "hold on, do not cry, mother, oh, do not grieve."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи мила, јас ќе се вратам,",
+       "lat": "Ne plači mila, jas ḱe se vratam,",
+       "en": "Do not cry, my dear, I will come back,"
+      },
+      {
+       "cyr": "јас ќе се вратам при тебе,",
+       "lat": "jas ḱe se vratam pri tebe,",
+       "en": "I will come back to you,"
+      },
+      {
+       "cyr": "немој ле, мила, мене да оставаш,",
+       "lat": "nemoj le, mila, mene da ostavaš,",
+       "en": "do not, oh my dear, leave me,"
+      },
+      {
+       "cyr": "друг да си заљубиш, за друг да отидеш.",
+       "lat": "drug da si zaljubiš, za drug da otideš.",
+       "en": "fall in love with another, go off to another."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

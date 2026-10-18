@@ -1,0 +1,179 @@
+{
+ "id": 1494,
+ "slug": "snoshti-izlegov-na-balkon-lenche",
+ "title_cyr": "Сношти излегов на балкон Ленче",
+ "title_latin": "Snošti izlegov na balkon Lenče",
+ "title_en": "Last night I went out on the balcony, Lenche",
+ "pesna_url": "https://pesna.org/song/1494",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Вршеа' is my reading ('were handling / betrothing you'); the exact verb is unsure. The line 'Мајкеви беа браќа ѝ' is also my reading, and who 'her' refers to is unclear.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "балкон",
+   "en": "balcony"
+  },
+  {
+   "mk": "чудо",
+   "en": "wonder, marvel"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "стројници",
+   "en": "wedding attendants of the groom (my reading)"
+  },
+  {
+   "mk": "девери",
+   "en": "brothers-in-law, best men"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "вујчеви",
+   "en": "maternal uncles"
+  },
+  {
+   "mk": "чевли",
+   "en": "shoes"
+  },
+  {
+   "mk": "венец",
+   "en": "wreath"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/3890"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Сношти излегов на балкон Ленче,",
+       "lat": "- Snošti izlegov na balkon Lenče,",
+       "en": "- Last night I went out on the balcony, Lenche,"
+      },
+      {
+       "cyr": "чудо си видов големо.",
+       "lat": "čudo si vidov golemo.",
+       "en": "I saw a great wonder."
+      },
+      {
+       "cyr": "Чудо си видов големо, Ленче,",
+       "lat": "Čudo si vidov golemo, Lenče,",
+       "en": "A great wonder I saw, Lenche,"
+      },
+      {
+       "cyr": "кај што те тебе вршеа.",
+       "lat": "kaj što te tebe vršea.",
+       "en": "where they were handling you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај што тебе вршеа, Ленче,",
+       "lat": "Kaj što tebe vršea, Lenče,",
+       "en": "Where they were handling you, Lenche,"
+      },
+      {
+       "cyr": "кај што ти прстен менваја.",
+       "lat": "kaj što ti prsten menvaja.",
+       "en": "where they exchanged a ring with you."
+      },
+      {
+       "cyr": "Дал' стројници беа,",
+       "lat": "Dal' strojnici bea,",
+       "en": "Were they bridesmen,"
+      },
+      {
+       "cyr": "дал' девери беа,",
+       "lat": "dal' deveri bea,",
+       "en": "were they best men,"
+      },
+      {
+       "cyr": "ил' беше твоето либе?",
+       "lat": "il' beše tvoeto libe?",
+       "en": "or was it your sweetheart?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ни стројници беа,",
+       "lat": "- Ni strojnici bea,",
+       "en": "- They were not bridesmen,"
+      },
+      {
+       "cyr": "ни девери беа,",
+       "lat": "ni deveri bea,",
+       "en": "they were not best men,"
+      },
+      {
+       "cyr": "ни беше моето либе.",
+       "lat": "ni beše moeto libe.",
+       "en": "nor was it my sweetheart."
+      },
+      {
+       "cyr": "Мајкеви беа браќа ѝ, лудо,",
+       "lat": "Majkevi bea braḱa ì, ludo,",
+       "en": "They were her mother's brothers, dear,"
+      },
+      {
+       "cyr": "мене ми беа вујчеви.",
+       "lat": "mene mi bea vujčevi.",
+       "en": "to me they were maternal uncles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога ти беа вујчеви, Ленче,",
+       "lat": "- Koga ti bea vujčevi, Lenče,",
+       "en": "- If they were your uncles, Lenche,"
+      },
+      {
+       "cyr": "зошто на порти стоеше",
+       "lat": "zošto na porti stoeše",
+       "en": "why did you stand at the gate"
+      },
+      {
+       "cyr": "со жолти чевли на нозе, Ленче,",
+       "lat": "so žolti čevli na noze, Lenče,",
+       "en": "in yellow shoes on your feet, Lenche,"
+      },
+      {
+       "cyr": "со зелен венец на глава?",
+       "lat": "so zelen venec na glava?",
+       "en": "with a green wreath on your head?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,219 @@
+{
+ "id": 1259,
+ "slug": "pusti-merak-ratke",
+ "title_cyr": "Пусти мерак Ратке",
+ "title_latin": "Pusti merak Ratke",
+ "title_en": "Damned Longing, Ratka",
+ "pesna_url": "https://pesna.org/song/1259",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Пусти мерак' is rendered as 'damned longing'; 'од корен ме откорна' is literally 'tore me out from the root'.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "longing, yearning"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, young unmarried man"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "засака",
+   "en": "to fall in love with"
+  },
+  {
+   "mk": "пусти",
+   "en": "damned, wretched"
+  },
+  {
+   "mk": "отруен",
+   "en": "poisoned"
+  },
+  {
+   "mk": "оздравев",
+   "en": "I would get well"
+  },
+  {
+   "mk": "натежнале",
+   "en": "have grown heavy"
+  }
+ ],
+ "performers": [
+  "Боби Поповски",
+  "Горан Тодоровски",
+  "Кирил Митоски"
+ ],
+ "audio": [
+  {
+   "who": "Горан Тодоровски",
+   "url": "https://pesna.org/audio-download/3179"
+  },
+  {
+   "who": "Боби Поповски",
+   "url": "https://pesna.org/audio-download/3180"
+  },
+  {
+   "who": "Кирил Митоски",
+   "url": "https://pesna.org/audio-download/3181"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еднаш ерген бев и јас,",
+       "lat": "Ednaš ergen bev i jas,",
+       "en": "Once I too was a bachelor,"
+      },
+      {
+       "cyr": "сакав мома најлична,",
+       "lat": "sakav moma najlična,",
+       "en": "I loved the most beautiful girl,"
+      },
+      {
+       "cyr": "моја не стана, не ме засака,",
+       "lat": "moja ne stana, ne me zasaka,",
+       "en": "she did not become mine, she did not fall for me,"
+      },
+      {
+       "cyr": "од корен ме откорна.",
+       "lat": "od koren me otkorna.",
+       "en": "she tore me out by the root."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пијан да бев, ќе се отрезнев,",
+       "lat": "Pijan da bev, ḱe se otreznev,",
+       "en": "If I were drunk, I would sober up,"
+      },
+      {
+       "cyr": "болен да бев, јас ќе оздравев,",
+       "lat": "bolen da bev, jas ḱe ozdravev,",
+       "en": "if I were sick, I would get well,"
+      },
+      {
+       "cyr": "ама пусти мерак Ратке по тебе,",
+       "lat": "ama pusti merak Ratke po tebe,",
+       "en": "but this damned longing, Ratka, for you,"
+      },
+      {
+       "cyr": "никако да помине.",
+       "lat": "nikako da pomine.",
+       "en": "will not pass in any way."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со него кога минуваш,",
+       "lat": "So nego koga minuvaš,",
+       "en": "When you pass by with him,"
+      },
+      {
+       "cyr": "глава си наведнувам,",
+       "lat": "glava si navednuvam,",
+       "en": "I lower my head,"
+      },
+      {
+       "cyr": "„добро вечер“ ти ми велиш и заминуваш,",
+       "lat": "„dobro večer“ ti mi veliš i zaminuvaš,",
+       "en": "you say 'good evening' to me and walk away,"
+      },
+      {
+       "cyr": "а јас отруен продолжувам.",
+       "lat": "a jas otruen prodolžuvam.",
+       "en": "and I go on, poisoned."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пијан да бев, ќе се отрезнев,",
+       "lat": "Pijan da bev, ḱe se otreznev,",
+       "en": "If I were drunk, I would sober up,"
+      },
+      {
+       "cyr": "болен да бев, јас ќе оздравев,",
+       "lat": "bolen da bev, jas ḱe ozdravev,",
+       "en": "if I were sick, I would get well,"
+      },
+      {
+       "cyr": "ама пусти мерак Ратке по тебе,",
+       "lat": "ama pusti merak Ratke po tebe,",
+       "en": "but this damned longing, Ratka, for you,"
+      },
+      {
+       "cyr": "никако да помине.",
+       "lat": "nikako da pomine.",
+       "en": "will not pass in any way."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Години натежнале, коси побелеле,",
+       "lat": "Godini natežnale, kosi pobelele,",
+       "en": "The years have grown heavy, my hair has turned white,"
+      },
+      {
+       "cyr": "многу лета Ратке",
+       "lat": "mnogu leta Ratke",
+       "en": "many summers, Ratka,"
+      },
+      {
+       "cyr": "во солзи легнувам,",
+       "lat": "vo solzi legnuvam,",
+       "en": "I lie down in tears,"
+      },
+      {
+       "cyr": "не знам дали ќе се разбудам.",
+       "lat": "ne znam dali ḱe se razbudam.",
+       "en": "I do not know if I will wake up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пијан да бев, ќе се отрезнев,",
+       "lat": "Pijan da bev, ḱe se otreznev,",
+       "en": "If I were drunk, I would sober up,"
+      },
+      {
+       "cyr": "болен да бев, јас ќе оздравев,",
+       "lat": "bolen da bev, jas ḱe ozdravev,",
+       "en": "if I were sick, I would get well,"
+      },
+      {
+       "cyr": "ама пусти мерак Ратке по тебе,",
+       "lat": "ama pusti merak Ratke po tebe,",
+       "en": "but this damned longing, Ratka, for you,"
+      },
+      {
+       "cyr": "никако да помине.",
+       "lat": "nikako da pomine.",
+       "en": "will not pass in any way."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

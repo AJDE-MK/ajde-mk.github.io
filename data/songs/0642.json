@@ -1,0 +1,191 @@
+{
+ "id": 642,
+ "slug": "ergen-odev-majko",
+ "title_cyr": "Ерген одев мајко",
+ "title_latin": "Ergen odev majko",
+ "title_en": "I Was a Bachelor, Mother",
+ "pesna_url": "https://pesna.org/song/642",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Humorous complaint about a sickly wife. 'злото ме нападна' I read as 'trouble attacked me'; 'на рака лежало' as she has been lying on his arm, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ерген",
+   "en": "bachelor, unmarried young man"
+  },
+  {
+   "mk": "поарно",
+   "en": "better"
+  },
+  {
+   "mk": "се оженив",
+   "en": "I got married (of a man)"
+  },
+  {
+   "mk": "злото",
+   "en": "the evil, trouble, misfortune"
+  },
+  {
+   "mk": "падна ми се",
+   "en": "it fell to me, I got (by lot)"
+  },
+  {
+   "mk": "либе",
+   "en": "love, wife, sweetheart"
+  },
+  {
+   "mk": "болничаво",
+   "en": "sickly, always ill"
+  },
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  },
+  {
+   "mk": "на коњ да се качам",
+   "en": "to mount a horse"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades, friends"
+  }
+ ],
+ "performers": [
+  "Борче Наумоски",
+  "Горан Тодоровски",
+  "Зоран Георгиев",
+  "Кочо Петровски",
+  "Круме Спасовски",
+  "Никола Бадев",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/904"
+  },
+  {
+   "who": "Борче Наумоски",
+   "url": "https://pesna.org/audio-download/905"
+  },
+  {
+   "who": "Горан Тодоровски",
+   "url": "https://pesna.org/audio-download/906"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/907"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/908"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/909"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/2604"
+  },
+  {
+   "who": "Кочо Петровски, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2917"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ерген одев мајко, ерген одев",
+       "lat": "Ergen odev majko, ergen odev",
+       "en": "I was a bachelor, mother, a bachelor,"
+      },
+      {
+       "cyr": "ерген одев мајко, поарно ми беше.",
+       "lat": "ergen odev majko, poarno mi beše.",
+       "en": "I was a bachelor, mother, it was better for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се оженив мајко, се оженив",
+       "lat": "Se oženiv majko, se oženiv",
+       "en": "I got married, mother, I got married,"
+      },
+      {
+       "cyr": "се оженив мајко, злото ме нападна.",
+       "lat": "se oženiv majko, zloto me napadna.",
+       "en": "I got married, mother, and trouble fell upon me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Падна ми се мамо, падна ми се,",
+       "lat": "Padna mi se mamo, padna mi se,",
+       "en": "I got, mama, I got,"
+      },
+      {
+       "cyr": "падна ми се мамо, либе болничаво.",
+       "lat": "padna mi se mamo, libe bolničavo.",
+       "en": "I got, mama, a sickly wife."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ ми е мајко, саноќ ми е",
+       "lat": "Sanoḱ mi e majko, sanoḱ mi e",
+       "en": "All night, mother, all night,"
+      },
+      {
+       "cyr": "саноќ ми е мајко, на рака лежало.",
+       "lat": "sanoḱ mi e majko, na raka ležalo.",
+       "en": "all night, mother, she has lain on my arm."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па не можам мајко, па не можам",
+       "lat": "Pa ne možam majko, pa ne možam",
+       "en": "So I can't, mother, so I can't,"
+      },
+      {
+       "cyr": "па не можам мајко, на коњ да се качам.",
+       "lat": "pa ne možam majko, na konj da se kačam.",
+       "en": "so I can't, mother, get up on a horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме качија мајко, ме качија,",
+       "lat": "Me kačija majko, me kačija,",
+       "en": "They lifted me, mother, they lifted me,"
+      },
+      {
+       "cyr": "ме качија, мајко, моите другари.",
+       "lat": "me kačija, majko, moite drugari.",
+       "en": "they lifted me, mother, my comrades."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

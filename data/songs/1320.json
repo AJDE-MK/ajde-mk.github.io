@@ -1,0 +1,222 @@
+{
+ "id": 1320,
+ "slug": "kukji-i-dvoroj-ispusteni",
+ "title_cyr": "Куќи и дворој испустени",
+ "title_latin": "Kuḱi i dvoroj ispusteni",
+ "title_en": "Houses and Yards Abandoned",
+ "pesna_url": "https://pesna.org/song/1320",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Lines 'гламња ми се срце направи' and the last line of verse 5 are my reading; the line about the curse is obscure.",
+ "words_to_learn": [
+  {
+   "mk": "в' туѓина",
+   "en": "in a foreign land"
+  },
+  {
+   "mk": "поминав",
+   "en": "I spent (time)"
+  },
+  {
+   "mk": "лаат",
+   "en": "they bark"
+  },
+  {
+   "mk": "раскинат",
+   "en": "they will tear apart"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "коприви",
+   "en": "nettles"
+  },
+  {
+   "mk": "капини",
+   "en": "brambles"
+  },
+  {
+   "mk": "гламња",
+   "en": "lump of clay/earth (dialect)"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "клетва",
+   "en": "curse"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Виданка Георгиева"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3339"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/3340"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум родена в' Македонија,",
+       "lat": "Jas sum rodena v' Makedonija,",
+       "en": "I was born in Macedonia,"
+      },
+      {
+       "cyr": "мала бев кога заминав,",
+       "lat": "mala bev koga zaminav,",
+       "en": "I was small when I left,"
+      },
+      {
+       "cyr": "в' туѓина младост поминав,",
+       "lat": "v' tuǵina mladost pominav,",
+       "en": "in a foreign land I spent my youth,"
+      },
+      {
+       "cyr": "сега се вратив в' роден крај.",
+       "lat": "sega se vrativ v' roden kraj.",
+       "en": "now I have come back to my native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кучиња ме лаат, ќе ме раскинат,",
+       "lat": "Kučinja me laat, ḱe me raskinat,",
+       "en": "Dogs bark at me, they will tear me apart,"
+      },
+      {
+       "cyr": "нема никој мене да ме одбрани.",
+       "lat": "nema nikoj mene da me odbrani.",
+       "en": "there is no one to defend me."
+      },
+      {
+       "cyr": "Кучиња ме лаат, ќе ме раскинат,",
+       "lat": "Kučinja me laat, ḱe me raskinat,",
+       "en": "Dogs bark at me, they will tear me apart,"
+      },
+      {
+       "cyr": "нема никој тука јас не познавам.",
+       "lat": "nema nikoj tuka jas ne poznavam.",
+       "en": "there is no one here, I know nobody."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наши порти мајко не познав,",
+       "lat": "Naši porti majko ne poznav,",
+       "en": "Our gate, mother, I did not recognise,"
+      },
+      {
+       "cyr": "дворови бели коприви,",
+       "lat": "dvorovi beli koprivi,",
+       "en": "the white yards are nettles,"
+      },
+      {
+       "cyr": "сред куќа густи капини,",
+       "lat": "sred kuḱa gusti kapini,",
+       "en": "in the middle of the house thick brambles,"
+      },
+      {
+       "cyr": "гламња ми се срце направи.",
+       "lat": "glamnja mi se srce napravi.",
+       "en": "my heart turned into a lump of clay."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кучиња ме лаат, ќе ме раскинат,",
+       "lat": "Kučinja me laat, ḱe me raskinat,",
+       "en": "Dogs bark at me, they will tear me apart,"
+      },
+      {
+       "cyr": "нема никој мене да ме одбрани.",
+       "lat": "nema nikoj mene da me odbrani.",
+       "en": "there is no one to defend me."
+      },
+      {
+       "cyr": "Кучиња ме лаат, ќе ме раскинат,",
+       "lat": "Kučinja me laat, ḱe me raskinat,",
+       "en": "Dogs bark at me, they will tear me apart,"
+      },
+      {
+       "cyr": "нема никој тука јас не познавам.",
+       "lat": "nema nikoj tuka jas ne poznavam.",
+       "en": "there is no one here, I know nobody."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Роднини, мајко, не најдов,",
+       "lat": "Rodnini, majko, ne najdov,",
+       "en": "Relatives, mother, I did not find,"
+      },
+      {
+       "cyr": "нема кој порти да отвори,",
+       "lat": "nema koj porti da otvori,",
+       "en": "there is no one to open the gates,"
+      },
+      {
+       "cyr": "клетва јас мајко оставам:",
+       "lat": "kletva jas majko ostavam:",
+       "en": "a curse, mother, I leave behind:"
+      },
+      {
+       "cyr": "в' стари крај, мајко, ќе останам.",
+       "lat": "v' stari kraj, majko, ḱe ostanam.",
+       "en": "in the old country, mother, I will stay."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кучиња ме лаат, ќе ме раскинат,",
+       "lat": "Kučinja me laat, ḱe me raskinat,",
+       "en": "Dogs bark at me, they will tear me apart,"
+      },
+      {
+       "cyr": "нема никој мене да ме одбрани.",
+       "lat": "nema nikoj mene da me odbrani.",
+       "en": "there is no one to defend me."
+      },
+      {
+       "cyr": "Кучиња ме лаат, ќе ме раскинат,",
+       "lat": "Kučinja me laat, ḱe me raskinat,",
+       "en": "Dogs bark at me, they will tear me apart,"
+      },
+      {
+       "cyr": "нема никој тука јас не познавам.",
+       "lat": "nema nikoj tuka jas ne poznavam.",
+       "en": "there is no one here, I know nobody."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

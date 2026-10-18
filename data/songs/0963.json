@@ -1,0 +1,171 @@
+{
+ "id": 963,
+ "slug": "za-karposh-vojvoda",
+ "title_cyr": "За Карпош војвода",
+ "title_latin": "Za Karpoš vojvoda",
+ "title_en": "About Karpos the voivode",
+ "pesna_url": "https://pesna.org/song/963",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "About Karpos, the leader of the 1689 uprising, said to have been impaled; the song says hanged. No named author, so translated. 'клета' (cursed) applied to the mother is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "барабан",
+   "en": "drum"
+  },
+  {
+   "mk": "бесат",
+   "en": "they hang"
+  },
+  {
+   "mk": "селанец",
+   "en": "villager, peasant"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel leader"
+  },
+  {
+   "mk": "смел",
+   "en": "bold, brave"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "бесилка",
+   "en": "gallows, noose"
+  },
+  {
+   "mk": "борба",
+   "en": "struggle, fight"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2226"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Барабанот бие по Скопје град,",
+       "lat": "Barabanot bie po Skopje grad,",
+       "en": "The drum beats through the town of Skopje,"
+      },
+      {
+       "cyr": "ќе ми го бесат селанецот млад,",
+       "lat": "ḱe mi go besat selanecot mlad,",
+       "en": "they are going to hang the young villager,"
+      },
+      {
+       "cyr": "Карпош војвода, смел, јунак, млад,",
+       "lat": "Karpoš vojvoda, smel, junak, mlad,",
+       "en": "Karpos the voivode, bold, a hero, young,"
+      },
+      {
+       "cyr": "Карпош војвода, нашиот брат,",
+       "lat": "Karpoš vojvoda, našiot brat,",
+       "en": "Karpos the voivode, our brother,"
+      },
+      {
+       "cyr": "Карпош војвода, нашиот брат,",
+       "lat": "Karpoš vojvoda, našiot brat,",
+       "en": "Karpos the voivode, our brother,"
+      },
+      {
+       "cyr": "Карпуш војвода, смел, јунак, млад.",
+       "lat": "Karpuš vojvoda, smel, junak, mlad.",
+       "en": "Karpos the voivode, bold, a hero, young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вардар матен тече, бурни води пие,",
+       "lat": "Vardar maten teče, burni vodi pie,",
+       "en": "The Vardar flows muddy, drinks stormy waters,"
+      },
+      {
+       "cyr": "карпушова мајка дробни солзи лее,",
+       "lat": "karpušova majka drobni solzi lee,",
+       "en": "Karpos's mother sheds small tears,"
+      },
+      {
+       "cyr": "стои мајка му, стара, жена, слепа,",
+       "lat": "stoi majka mu, stara, žena, slepa,",
+       "en": "his mother stands, old woman, blind,"
+      },
+      {
+       "cyr": "својот син го даде во борбата клета,",
+       "lat": "svojot sin go dade vo borbata kleta,",
+       "en": "she gave her son to the cursed struggle,"
+      },
+      {
+       "cyr": "стои мајка му, стара, жена, клета,",
+       "lat": "stoi majka mu, stara, žena, kleta,",
+       "en": "his mother stands, old woman, cursed,"
+      },
+      {
+       "cyr": "својот син го даде во борбата клета.",
+       "lat": "svojot sin go dade vo borbata kleta.",
+       "en": "she gave her son to the cursed struggle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со бесилка на вратот, стои, Карпош, смел,",
+       "lat": "So besilka na vratot, stoi, Karpoš, smel,",
+       "en": "With a noose on his neck stands Karpos, bold,"
+      },
+      {
+       "cyr": "животот го даде за слобода,",
+       "lat": "životot go dade za sloboda,",
+       "en": "he gave his life for freedom,"
+      },
+      {
+       "cyr": "за слобода мила, Македонија,",
+       "lat": "za sloboda mila, Makedonija,",
+       "en": "for dear freedom, Macedonia,"
+      },
+      {
+       "cyr": "живот си даде за слобода,",
+       "lat": "život si dade za sloboda,",
+       "en": "he gave his life for freedom,"
+      },
+      {
+       "cyr": "за слобода мила, Македонија,",
+       "lat": "za sloboda mila, Makedonija,",
+       "en": "for dear freedom, Macedonia,"
+      },
+      {
+       "cyr": "живот си даде за слобода.",
+       "lat": "život si dade za sloboda.",
+       "en": "he gave his life for freedom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

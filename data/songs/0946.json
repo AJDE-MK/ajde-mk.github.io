@@ -1,0 +1,165 @@
+{
+ "id": 946,
+ "slug": "vo-borba-makedonski-narode",
+ "title_cyr": "Во борба македонски народе",
+ "title_latin": "Vo borba makedonski narode",
+ "title_en": "To the Struggle, Macedonian People",
+ "pesna_url": "https://pesna.org/song/946",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A partisan-era song; author not known to me, so origin unclear. 'Со песни и радост се мрее' is my reading: 'we yearn/long with songs and joy'; 'Goce' refers to Goce Delchev.",
+ "words_to_learn": [
+  {
+   "mk": "окован",
+   "en": "shackled"
+  },
+  {
+   "mk": "пранги",
+   "en": "shackles, fetters"
+  },
+  {
+   "mk": "ропство",
+   "en": "slavery"
+  },
+  {
+   "mk": "борба",
+   "en": "struggle, fight"
+  },
+  {
+   "mk": "партизани",
+   "en": "partisans"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag"
+  },
+  {
+   "mk": "иднина",
+   "en": "future"
+  },
+  {
+   "mk": "татковина",
+   "en": "fatherland"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2181"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3555"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Со векови окованa во пранги,",
+       "lat": "So vekovi okovana vo prangi,",
+       "en": "For centuries bound in shackles,"
+      },
+      {
+       "cyr": "под ропство пишти Македонија,",
+       "lat": "pod ropstvo pišti Makedonija,",
+       "en": "Macedonia cries out under slavery,"
+      },
+      {
+       "cyr": "појќе не трпиме бесчесни лаги,",
+       "lat": "pojḱe ne trpime besčesni lagi,",
+       "en": "we will no longer endure shameless lies,"
+      },
+      {
+       "cyr": "во бој последен борци влегоа!",
+       "lat": "vo boj posleden borci vlegoa!",
+       "en": "the fighters have entered the last battle!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во борба, во борба, во борба,",
+       "lat": "Vo borba, vo borba, vo borba,",
+       "en": "To the struggle, to the struggle, to the struggle,"
+      },
+      {
+       "cyr": "македонски народе.",
+       "lat": "makedonski narode.",
+       "en": "Macedonian people."
+      },
+      {
+       "cyr": "За света народна слобода",
+       "lat": "Za sveta narodna sloboda",
+       "en": "For sacred people's freedom"
+      },
+      {
+       "cyr": "со песни и радост се мрее!",
+       "lat": "so pesni i radost se mree!",
+       "en": "with songs and joy we long!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излеговме ние смели партизани,",
+       "lat": "Izlegovme nie smeli partizani,",
+       "en": "We came out, bold partisans,"
+      },
+      {
+       "cyr": "над нас на Гоце знамето се вее,",
+       "lat": "nad nas na Goce znameto se vee,",
+       "en": "above us Goce's flag flies,"
+      },
+      {
+       "cyr": "во гори, полја и на сите страни,",
+       "lat": "vo gori, polja i na site strani,",
+       "en": "in forests, fields and on all sides,"
+      },
+      {
+       "cyr": "фашистичка крв насекаде се лее.",
+       "lat": "fašistička krv nasekade se lee.",
+       "en": "fascist blood is spilled everywhere."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Синови сме на нашата татковина,",
+       "lat": "Sinovi sme na našata tatkovina,",
+       "en": "We are sons of our fatherland,"
+      },
+      {
+       "cyr": "на илинденските наследници,",
+       "lat": "na ilindenskite naslednici,",
+       "en": "heirs of the Ilinden fighters,"
+      },
+      {
+       "cyr": "строиме живот, слобода, иднина,",
+       "lat": "stroime život, sloboda, idnina,",
+       "en": "we build life, freedom, a future,"
+      },
+      {
+       "cyr": "за, жени, деца, старци, младинци.",
+       "lat": "za, ženi, deca, starci, mladinci.",
+       "en": "for women, children, old people, the young."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

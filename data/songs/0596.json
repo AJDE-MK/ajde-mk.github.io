@@ -1,0 +1,188 @@
+{
+ "id": 596,
+ "slug": "chula-baba-razbrala",
+ "title_cyr": "Чула баба разбрала",
+ "title_latin": "Čula baba razbrala",
+ "title_en": "Grandma Heard and Understood",
+ "pesna_url": "https://pesna.org/song/596",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ќе те дарвам' read as 'I will give you a gift'; 'до вечера мој да си' is my reading (may you be mine until evening). Humorous song.",
+ "words_to_learn": [
+  {
+   "mk": "баба",
+   "en": "grandmother, old woman"
+  },
+  {
+   "mk": "се мажат",
+   "en": "they are getting married (of women)"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors, young unmarried men"
+  },
+  {
+   "mk": "стомна",
+   "en": "jug"
+  },
+  {
+   "mk": "кладенче",
+   "en": "little well"
+  },
+  {
+   "mk": "дал бог добро",
+   "en": "God give you good (reply greeting)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "грбава",
+   "en": "hunchbacked"
+  },
+  {
+   "mk": "ќерка",
+   "en": "daughter"
+  },
+  {
+   "mk": "шамија",
+   "en": "headscarf"
+  }
+ ],
+ "performers": [
+  "Анета Наковска",
+  "Анка Гиева",
+  "Даниела Величкова",
+  "Ѓорѓи Андреевски",
+  "Елена Јордакиева",
+  "Зоран Џорлев",
+  "Јорданка Куцулова",
+  "Костадинка Танчева"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев, Анета Наковска",
+   "url": "https://pesna.org/audio-download/317"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/2470"
+  },
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2471"
+  },
+  {
+   "who": "Даниела Величкова, Елена Јордакиева, Костадинка Танчева",
+   "url": "https://pesna.org/audio-download/2472"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Чула баба разбрала",
+       "lat": "Čula baba razbrala",
+       "en": "Grandma heard and understood"
+      },
+      {
+       "cyr": "да се мажат бабите,",
+       "lat": "da se mažat babite,",
+       "en": "that the grandmothers are getting married,"
+      },
+      {
+       "cyr": "да се мажат бабите",
+       "lat": "da se mažat babite",
+       "en": "that the grandmothers are getting married,"
+      },
+      {
+       "cyr": "бабите за ергени.",
+       "lat": "babite za ergeni.",
+       "en": "the grandmothers to bachelors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зеде баба две стомни",
+       "lat": "Zede baba dve stomni",
+       "en": "Grandma took two jugs"
+      },
+      {
+       "cyr": "та ми појде на вода,",
+       "lat": "ta mi pojde na voda,",
+       "en": "and went off for water,"
+      },
+      {
+       "cyr": "на студено кладенче",
+       "lat": "na studeno kladenče",
+       "en": "at the cold little well"
+      },
+      {
+       "cyr": "там' си најде ергенче.",
+       "lat": "tam' si najde ergenče.",
+       "en": "there she found a young bachelor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Добро утро, бабо ле.",
+       "lat": "- Dobro utro, babo le.",
+       "en": "- Good morning, grandma."
+      },
+      {
+       "cyr": "- Дал бог добро, либе ле.",
+       "lat": "- Dal bog dobro, libe le.",
+       "en": "- God give you good, sweetheart."
+      },
+      {
+       "cyr": "Дал бог добро либе ле,",
+       "lat": "Dal bog dobro libe le,",
+       "en": "God give you good, sweetheart,"
+      },
+      {
+       "cyr": "до вечера мој да си.",
+       "lat": "do večera moj da si.",
+       "en": "until evening may you be mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мори бабо грбава,",
+       "lat": "- Ej mori babo grbava,",
+       "en": "- Hey, grandma, you hunchback,"
+      },
+      {
+       "cyr": "имаш ќерка убава.",
+       "lat": "imaš ḱerka ubava.",
+       "en": "you have a beautiful daughter."
+      },
+      {
+       "cyr": "Ајде бабо дај ми ја,",
+       "lat": "Ajde babo daj mi ja,",
+       "en": "Come on, grandma, give her to me,"
+      },
+      {
+       "cyr": "ќе те дарвам шамија.",
+       "lat": "ḱe te darvam šamija.",
+       "en": "I will give you a headscarf as a gift."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

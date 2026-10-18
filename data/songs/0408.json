@@ -1,0 +1,163 @@
+{
+ "id": 408,
+ "slug": "izlezi-vido-mori-chudo-da-vidish",
+ "title_cyr": "Излези Видо мори, чудо да видиш",
+ "title_latin": "Izlezi Vido mori, čudo da vidiš",
+ "title_en": "Come out, Vida, to look at something marvellous",
+ "pesna_url": "https://pesna.org/song/408",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Билјан Стојаноски",
+  "Влатко Алексовски",
+  "Влатко Стефановски",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/674"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/675"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/676"
+  },
+  {
+   "who": "Влатко Алексовски",
+   "url": "https://pesna.org/audio-download/677"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/678"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3922"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излези Видо мори, чудо да видиш,",
+       "lat": "Izlezi Vido mori, čudo da vidiš,",
+       "en": "Come out, Vida, to look at something marvellous,"
+      },
+      {
+       "cyr": "чудо да видиш, Видо, чудото големо,",
+       "lat": "čudo da vidiš, Vido, čudoto golemo,",
+       "en": "at something marvellous, a huge miracle."
+      },
+      {
+       "cyr": "чудото големо Видо, зајак со чалма,",
+       "lat": "čudoto golemo Vido, zajak so čalma,",
+       "en": "A huge miracle, a hare with a turban,"
+      },
+      {
+       "cyr": "зајак со чалма, Видо, глава преврзана.",
+       "lat": "zajak so čalma, Vido, glava prevrzana.",
+       "en": "a hare with a turban, with his head swathed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излези Видо мори, чудо да видиш,",
+       "lat": "Izlezi Vido mori, čudo da vidiš,",
+       "en": "Come out, Vida, to look at something marvellous,"
+      },
+      {
+       "cyr": "чудо да видиш, Видо, чудото големо,",
+       "lat": "čudo da vidiš, Vido, čudoto golemo,",
+       "en": "at something marvellous, a huge miracle."
+      },
+      {
+       "cyr": "чудото големо Видо, волк со долама,",
+       "lat": "čudoto golemo Vido, volk so dolama,",
+       "en": "A huge miracle, a wolf in a Turkish cloak,"
+      },
+      {
+       "cyr": "волк со долама Видо, зајак со чалма,",
+       "lat": "volk so dolama Vido, zajak so čalma,",
+       "en": "a wolf in a Turkish cloak, a hare with a turban,"
+      },
+      {
+       "cyr": "зајак со чалма, Видо, глава преврзана.",
+       "lat": "zajak so čalma, Vido, glava prevrzana.",
+       "en": "a hare with a turban, with his head swathed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излези Видо мори, чудо да видиш,",
+       "lat": "Izlezi Vido mori, čudo da vidiš,",
+       "en": "Come out, Vida, to look at something marvellous,"
+      },
+      {
+       "cyr": "чудо да видиш, Видо, чудото големо,",
+       "lat": "čudo da vidiš, Vido, čudoto golemo,",
+       "en": "at something marvellous, a huge miracle."
+      },
+      {
+       "cyr": "чудото големо Видо, лисица со венци,",
+       "lat": "čudoto golemo Vido, lisica so venci,",
+       "en": "A huge miracle, a fox with a wreath on his head,"
+      },
+      {
+       "cyr": "лисица со венци Видо, волк со долама,",
+       "lat": "lisica so venci Vido, volk so dolama,",
+       "en": "a fox with a wreath on his head, a wolf in a Turkish cloak,"
+      },
+      {
+       "cyr": "волк со долама Видо, зајак со чалма,",
+       "lat": "volk so dolama Vido, zajak so čalma,",
+       "en": "a wolf in a Turkish cloak, a hare with a turban,"
+      },
+      {
+       "cyr": "зајак со чалма, Видо, глава преврзана.",
+       "lat": "zajak so čalma, Vido, glava prevrzana.",
+       "en": "a hare with a turban, with his head swathed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излегна Вида мома, чудо да види,",
+       "lat": "Izlegna Vida moma, čudo da vidi,",
+       "en": "Vida came out to look at something marvellous,"
+      },
+      {
+       "cyr": "чудо да види Вида, чудото големо,",
+       "lat": "čudo da vidi Vida, čudoto golemo,",
+       "en": "at something marvellous, a huge miracle."
+      },
+      {
+       "cyr": "чудото големо Вида, момче неженето.",
+       "lat": "čudoto golemo Vida, momče neženeto.",
+       "en": "A huge miracle, an unmarried young man."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

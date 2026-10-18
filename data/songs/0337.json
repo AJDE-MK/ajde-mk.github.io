@@ -1,0 +1,150 @@
+{
+ "id": 337,
+ "slug": "oj-ti-paco-drenovchanke",
+ "title_cyr": "Ој, ти Пацо Дреновчанке",
+ "title_latin": "Oj, ti Paco Drenovčanke",
+ "title_en": "Hey, you Paca from Drenovo",
+ "pesna_url": "https://pesna.org/song/337",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александра Поповска",
+  "Гога Зафировски",
+  "Драган Даутовски квартет"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/1453"
+  },
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/3808"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој, ти Пацо Дреновчанке,",
+       "lat": "Oj, ti Paco Drenovčanke,",
+       "en": "Hey, you Paca from Drenovo",
+       "en_mt": false
+      },
+      {
+       "cyr": "не стој пред мене.",
+       "lat": "ne stoj pred mene.",
+       "en": "don't stand in front of me.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Си продадов тешкото имање",
+       "lat": "Si prodadov teškoto imanje",
+       "en": "I sold my big estate,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само заради тебе.",
+       "lat": "samo zaradi tebe.",
+       "en": "just because of you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре лудо, лудо и младо,",
+       "lat": "A bre ludo, ludo i mlado,",
+       "en": "Hey you, crazy young lad,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не продавај си.",
+       "lat": "ne prodavaj si.",
+       "en": "do not sell it.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ако сум ти на к'сметот,",
+       "lat": "Ako sum ti na k'smetot,",
+       "en": "If I am meant for you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сама дома ќе дојдам.",
+       "lat": "sama doma ḱe dojdam.",
+       "en": "I'll come to your home anyway.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, ти Пацо Дреновчанке,",
+       "lat": "Oj, ti Paco Drenovčanke,",
+       "en": "Hey, you Paco Drenovchanke,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не стој пред мене.",
+       "lat": "ne stoj pred mene.",
+       "en": "don't stand in front of me.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Си продадов шарениот ландон",
+       "lat": "Si prodadov šareniot landon",
+       "en": "I sold my colorful carriage,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само заради тебе.",
+       "lat": "samo zaradi tebe.",
+       "en": "just because of you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абре лудо, лудо и младо,",
+       "lat": "Abre ludo, ludo i mlado,",
+       "en": "Hey you, crazy young lad,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не продавај си.",
+       "lat": "ne prodavaj si.",
+       "en": "do not sell it.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ако сум ти на к'сметот,",
+       "lat": "Ako sum ti na k'smetot,",
+       "en": "If I am meant for you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сама дома ќе дојдам.",
+       "lat": "sama doma ḱe dojdam.",
+       "en": "I'll come to your home anyway.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

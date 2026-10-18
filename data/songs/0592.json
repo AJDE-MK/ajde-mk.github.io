@@ -1,0 +1,236 @@
+{
+ "id": 592,
+ "slug": "dafino-crven-karanfil",
+ "title_cyr": "Дафино црвен каранфил",
+ "title_latin": "Dafino crven karanfil",
+ "title_en": "Dafina, Red Carnation",
+ "pesna_url": "https://pesna.org/song/592",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лудо' is read as a teasing term of address, not literally 'mad'. 'Ветила' as 'promised in marriage' and the last line of verse 7 are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "каранфил",
+   "en": "carnation"
+  },
+  {
+   "mk": "гајтанли веѓи",
+   "en": "braided-cord eyebrows (thin, neat, dark)"
+  },
+  {
+   "mk": "севда",
+   "en": "love-longing, passion"
+  },
+  {
+   "mk": "мори",
+   "en": "oh, hey (filler)"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, silly one (affectionate)"
+  },
+  {
+   "mk": "фајде",
+   "en": "use, benefit"
+  },
+  {
+   "mk": "ветила",
+   "en": "promised (in marriage)"
+  },
+  {
+   "mk": "китка",
+   "en": "flower, bouquet"
+  }
+ ],
+ "performers": [
+  "Сестрите Мавровски"
+ ],
+ "audio": [
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/1100"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дафино моме мори црвен каранфил",
+       "lat": "Dafino mome mori crven karanfil",
+       "en": "Dafina, girl, oh, red carnation,"
+      },
+      {
+       "cyr": "кога ти видов белото лице, црните очи",
+       "lat": "koga ti vidov beloto lice, crnite oči",
+       "en": "when I saw your white face, your black eyes,"
+      },
+      {
+       "cyr": "црните очи, гајтанли веѓи, умрев за тебе.",
+       "lat": "crnite oči, gajtanli veǵi, umrev za tebe.",
+       "en": "your black eyes, your braided-cord eyebrows, I died for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дафино моме мори,",
+       "lat": "Dafino mome mori,",
+       "en": "Dafina, girl, oh,"
+      },
+      {
+       "cyr": "срце ми гори, моме,",
+       "lat": "srce mi gori, mome,",
+       "en": "my heart is burning, girl,"
+      },
+      {
+       "cyr": "севда ме мори.",
+       "lat": "sevda me mori.",
+       "en": "love-longing is wearing me out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дафино моме мори црвен каранфил",
+       "lat": "Dafino mome mori crven karanfil",
+       "en": "Dafina, girl, oh, red carnation,"
+      },
+      {
+       "cyr": "кога те видов с' китка во коса, умрев за тебе",
+       "lat": "koga te vidov s' kitka vo kosa, umrev za tebe",
+       "en": "when I saw you with a flower in your hair, I died for you,"
+      },
+      {
+       "cyr": "китка во коса, црвен каранфил, умрев за тебе.",
+       "lat": "kitka vo kosa, crven karanfil, umrev za tebe.",
+       "en": "a flower in your hair, a red carnation, I died for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дафино моме мори,",
+       "lat": "Dafino mome mori,",
+       "en": "Dafina, girl, oh,"
+      },
+      {
+       "cyr": "срце ми гори, моме,",
+       "lat": "srce mi gori, mome,",
+       "en": "my heart is burning, girl,"
+      },
+      {
+       "cyr": "севда ме мори.",
+       "lat": "sevda me mori.",
+       "en": "love-longing is wearing me out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од гледање, лудо бре, фајде си немаш",
+       "lat": "Od gledanje, ludo bre, fajde si nemaš",
+       "en": "From staring, you fool, you get no use,"
+      },
+      {
+       "cyr": "мене ме мама, лудо, ветила уште малечка,",
+       "lat": "mene me mama, ludo, vetila ušte malečka,",
+       "en": "my mother, fool, promised me away when I was still little,"
+      },
+      {
+       "cyr": "мене ме мама, лудо, ветила уште малечка.",
+       "lat": "mene me mama, ludo, vetila ušte malečka.",
+       "en": "my mother, fool, promised me away when I was still little."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудо ле, лудо, младо,",
+       "lat": "Ludo le, ludo, mlado,",
+       "en": "Oh fool, fool, young one,"
+      },
+      {
+       "cyr": "срце ми гори, лудо",
+       "lat": "srce mi gori, ludo",
+       "en": "my heart is burning, fool,"
+      },
+      {
+       "cyr": "севда ме мори.",
+       "lat": "sevda me mori.",
+       "en": "love-longing is wearing me out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудо ле, лудо, младо бре, а бре будало,",
+       "lat": "Ludo le, ludo, mlado bre, a bre budalo,",
+       "en": "Oh fool, fool, young one, hey, you simpleton,"
+      },
+      {
+       "cyr": "не чекај, лудо, не губи време, појди по мене,",
+       "lat": "ne čekaj, ludo, ne gubi vreme, pojdi po mene,",
+       "en": "don't wait, fool, don't waste time, come for me,"
+      },
+      {
+       "cyr": "не чекај лудо не губи време појди за мене.",
+       "lat": "ne čekaj ludo ne gubi vreme pojdi za mene.",
+       "en": "don't wait, fool, don't waste time, come and take me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудо ле лудо младо,",
+       "lat": "Ludo le ludo mlado,",
+       "en": "Oh fool, fool, young one,"
+      },
+      {
+       "cyr": "срце ми гори лудо,",
+       "lat": "srce mi gori ludo,",
+       "en": "my heart is burning, fool,"
+      },
+      {
+       "cyr": "севда ме мори.",
+       "lat": "sevda me mori.",
+       "en": "love-longing is wearing me out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дафино моме мори,",
+       "lat": "Dafino mome mori,",
+       "en": "Dafina, girl, oh,"
+      },
+      {
+       "cyr": "срце ми гори, Дафе,",
+       "lat": "srce mi gori, Dafe,",
+       "en": "my heart is burning, Dafe,"
+      },
+      {
+       "cyr": "севда ме мори.",
+       "lat": "sevda me mori.",
+       "en": "love-longing is wearing me out."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

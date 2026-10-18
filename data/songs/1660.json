@@ -1,0 +1,176 @@
+{
+ "id": 1660,
+ "slug": "ilindenska",
+ "title_cyr": "Илинденска",
+ "title_latin": "Ilindenska",
+ "title_en": "For Ilinden",
+ "pesna_url": "https://pesna.org/song/1660",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4467"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коња спремам, песни пеам, на пат ќе одам,",
+       "lat": "Konja spremam, pesni peam, na pat ḱe odam,",
+       "en": "I prepare a horse, I sing songs, I will go on my way,"
+      },
+      {
+       "cyr": "на Илинден, Мечкин Камен, да се поклонам.",
+       "lat": "na Ilinden, Mečkin Kamen, da se poklonam.",
+       "en": "on Ilinden1, Mechkin Kamen2, to bow down."
+      },
+      {
+       "cyr": "Кај што четата на Питу славно загина",
+       "lat": "Kaj što četata na Pitu slavno zagina",
+       "en": "Where Pitu's company gloriously died"
+      },
+      {
+       "cyr": "за одбрана на Крушевската Република.",
+       "lat": "za odbrana na Kruševskata Republika.",
+       "en": "for the defense of the Krushevo Republic."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слава, славни јунаци,",
+       "lat": "Slava, slavni junaci,",
+       "en": "Glory, glorious heroes,"
+      },
+      {
+       "cyr": "храбро што загинавте",
+       "lat": "hrabro što zaginavte",
+       "en": "for you died bravely"
+      },
+      {
+       "cyr": "и ден денес да ве славиме",
+       "lat": "i den denes da ve slavime",
+       "en": "and today let us celebrate you"
+      },
+      {
+       "cyr": "на Илинден, славно Крушево.",
+       "lat": "na Ilinden, slavno Kruševo.",
+       "en": "on Ilinden, glorious Krushevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во 1903 година, на Илинден,",
+       "lat": "Vo 1903 godina, na Ilinden,",
+       "en": "In 1903, on Ilinden,"
+      },
+      {
+       "cyr": "среде царсто глава кренавте.",
+       "lat": "srede carsto glava krenavte.",
+       "en": "you raised your head in the midst of the empire."
+      },
+      {
+       "cyr": "Десет дена република, среде Балканот,",
+       "lat": "Deset dena republika, srede Balkanot,",
+       "en": "Ten days of the republic, in the midst of the Balkans,"
+      },
+      {
+       "cyr": "цело царство се затресе, царот побесне.",
+       "lat": "celo carstvo se zatrese, carot pobesne.",
+       "en": "the entire empire shook, the emperor went mad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слава, славни јунаци,",
+       "lat": "Slava, slavni junaci,",
+       "en": "Glory, glorious heroes,"
+      },
+      {
+       "cyr": "храбро што загинавте",
+       "lat": "hrabro što zaginavte",
+       "en": "for you died bravely"
+      },
+      {
+       "cyr": "и ден денес да ве славиме",
+       "lat": "i den denes da ve slavime",
+       "en": "and today let us celebrate you"
+      },
+      {
+       "cyr": "на Илинден, славно Крушево.",
+       "lat": "na Ilinden, slavno Kruševo.",
+       "en": "on Ilinden, glorious Krushevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гоце Делчев, Даме, Карев, Питу, Сандански,",
+       "lat": "Goce Delčev, Dame, Karev, Pitu, Sandanski,",
+       "en": "Goce Delchev, Dame, Karev, Pitu, Sandanski3,"
+      },
+      {
+       "cyr": "нека ви е вечна слава за сѐ што сторивте.",
+       "lat": "neka vi e večna slava za sè što storivte.",
+       "en": "may you have eternal glory for everything you have done."
+      },
+      {
+       "cyr": "По затвори, по планини младост минавте,",
+       "lat": "Po zatvori, po planini mladost minavte,",
+       "en": "You have spent your youth in prisons and across mountains,"
+      },
+      {
+       "cyr": "за слобода на родна земја Македонија.",
+       "lat": "za sloboda na rodna zemja Makedonija.",
+       "en": "for the freedom of your native land Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слава, славни јунаци,",
+       "lat": "Slava, slavni junaci,",
+       "en": "Glory, glorious heroes,"
+      },
+      {
+       "cyr": "храбро што загинавте",
+       "lat": "hrabro što zaginavte",
+       "en": "bravely you died"
+      },
+      {
+       "cyr": "и ден денес да ве славиме",
+       "lat": "i den denes da ve slavime",
+       "en": "and today let us celebrate you"
+      },
+      {
+       "cyr": "на Илинден, славно Крушево.",
+       "lat": "na Ilinden, slavno Kruševo.",
+       "en": "on Ilinden, glorious Krusevo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,149 @@
+{
+ "id": 512,
+ "slug": "shto-mi-e-milo-em-drago-mamo",
+ "title_cyr": "Што ми е мило ем драго мамо",
+ "title_latin": "Što mi e milo em drago mamo",
+ "title_en": "What Is Dear and Precious to Me, Mother",
+ "pesna_url": "https://pesna.org/song/512",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да кршам рамна снага' is rendered literally ('break her slender waist'), likely meaning to embrace her, my reading. 'Мрсам' is rendered 'tousle'.",
+ "words_to_learn": [
+  {
+   "mk": "мило",
+   "en": "dear, pleasant"
+  },
+  {
+   "mk": "драго",
+   "en": "precious, dear"
+  },
+  {
+   "mk": "комшиче",
+   "en": "neighbor girl (little neighbor)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "бело лице",
+   "en": "white face (fair complexion)"
+  },
+  {
+   "mk": "руса коса",
+   "en": "blond hair"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "slender, straight figure"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Атанаска Димитрова",
+  "Васка Илиева",
+  "Димитар Коларов",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/282"
+  },
+  {
+   "who": "Атанаска Димитрова, Димитар Коларов",
+   "url": "https://pesna.org/audio-download/1524"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2908"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е мило ем драго мамо,",
+       "lat": "Što mi e milo em drago mamo,",
+       "en": "What is dear to me and precious, mother,"
+      },
+      {
+       "cyr": "што ми е мило ем драго,",
+       "lat": "što mi e milo em drago,",
+       "en": "what is dear to me and precious,"
+      },
+      {
+       "cyr": "комшиче либе да имам мамо,",
+       "lat": "komšiče libe da imam mamo,",
+       "en": "to have a neighbor girl as a sweetheart, mother,"
+      },
+      {
+       "cyr": "комшиче либе да имам.",
+       "lat": "komšiče libe da imam.",
+       "en": "to have a neighbor girl as a sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пенџерето да седам мамо,",
+       "lat": "Na pendžereto da sedam mamo,",
+       "en": "To sit at the window, mother,"
+      },
+      {
+       "cyr": "на пенџерето да седам,",
+       "lat": "na pendžereto da sedam,",
+       "en": "to sit at the window,"
+      },
+      {
+       "cyr": "бело ѝ лице да гледам мамо,",
+       "lat": "belo ì lice da gledam mamo,",
+       "en": "to look at her white face, mother,"
+      },
+      {
+       "cyr": "бело ѝ лице да гледам.",
+       "lat": "belo ì lice da gledam.",
+       "en": "to look at her white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бело ѝ лице да љубам мамо,",
+       "lat": "Belo ì lice da ljubam mamo,",
+       "en": "To kiss her white face, mother,"
+      },
+      {
+       "cyr": "бело ѝ лице да љубам,",
+       "lat": "belo ì lice da ljubam,",
+       "en": "to kiss her white face,"
+      },
+      {
+       "cyr": "руса ѝ коса да мрсам мамо,",
+       "lat": "rusa ì kosa da mrsam mamo,",
+       "en": "to tousle her blond hair, mother,"
+      },
+      {
+       "cyr": "рамна ѝ снага да кршам.",
+       "lat": "ramna ì snaga da kršam.",
+       "en": "to break her slender waist."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

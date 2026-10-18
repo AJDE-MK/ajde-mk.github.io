@@ -1,0 +1,175 @@
+{
+ "id": 1558,
+ "slug": "teshko-mina-mojta-mladost-doktore",
+ "title_cyr": "Тешко мина мојта младост докторе",
+ "title_latin": "Teško mina mojta mladost doktore",
+ "title_en": "My youth passed hard, doctor",
+ "pesna_url": "https://pesna.org/song/1558",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: it may be a modern town song but I cannot name an author. 'Јас со неа ќе легнам' I read as 'I will lie down (to die) with her'.",
+ "words_to_learn": [
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "заљуби",
+   "en": "to fall in love with"
+  },
+  {
+   "mk": "се разболе",
+   "en": "fell ill"
+  },
+  {
+   "mk": "отров",
+   "en": "poison"
+  },
+  {
+   "mk": "излечи",
+   "en": "to cure"
+  },
+  {
+   "mk": "дарува",
+   "en": "to reward, give gifts"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "камен",
+   "en": "stone"
+  }
+ ],
+ "performers": [
+  "Дамјан Стојановски",
+  "Сузана Гавазова",
+  "Halil Eser"
+ ],
+ "audio": [
+  {
+   "who": "Дамјан Стојановски",
+   "url": "https://pesna.org/audio-download/4061"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/4080"
+  },
+  {
+   "who": "Halil Eser",
+   "url": "https://pesna.org/audio-download/4081"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тешко мина мојта младост докторе",
+       "lat": "Teško mina mojta mladost doktore",
+       "en": "My youth passed hard, doctor,"
+      },
+      {
+       "cyr": "што заљубив убава мома,",
+       "lat": "što zaljubiv ubava moma,",
+       "en": "because I fell in love with a beautiful girl,"
+      },
+      {
+       "cyr": "се љубевме три години докторе",
+       "lat": "se ljubevme tri godini doktore",
+       "en": "we loved each other for three years, doctor,"
+      },
+      {
+       "cyr": "легна мома се разболе.",
+       "lat": "legna moma se razbole.",
+       "en": "the girl lay down and fell ill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Болна лежи и ме моли докторе",
+       "lat": "Bolna leži i me moli doktore",
+       "en": "Sick she lies and begs me, doctor,"
+      },
+      {
+       "cyr": "да ѝ купам силен отров,",
+       "lat": "da ì kupam silen otrov,",
+       "en": "to buy her strong poison,"
+      },
+      {
+       "cyr": "ова срце не ми дава докторе",
+       "lat": "ova srce ne mi dava doktore",
+       "en": "this heart of mine does not let me, doctor,"
+      },
+      {
+       "cyr": "мојто либе да го отрујам.",
+       "lat": "mojto libe da go otrujam.",
+       "en": "poison my own love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ми ја излечиш докторе",
+       "lat": "Ako mi ja izlečiš doktore",
+       "en": "If you cure her for me, doctor,"
+      },
+      {
+       "cyr": "многу злато ќе те дарувам,",
+       "lat": "mnogu zlato ḱe te daruvam,",
+       "en": "I will reward you with much gold,"
+      },
+      {
+       "cyr": "ако не ја излечиш докторе",
+       "lat": "ako ne ja izlečiš doktore",
+       "en": "if you do not cure her, doctor,"
+      },
+      {
+       "cyr": "јас со неа ќе легнам.",
+       "lat": "jas so nea ḱe legnam.",
+       "en": "I will lie down with her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И на гробот да ми посадите",
+       "lat": "I na grobot da mi posadite",
+       "en": "And on my grave plant"
+      },
+      {
+       "cyr": "бела роза, црвен трендафил,",
+       "lat": "bela roza, crven trendafil,",
+       "en": "a white rose, a red rose,"
+      },
+      {
+       "cyr": "и на каменот да ми напишете",
+       "lat": "i na kamenot da mi napišete",
+       "en": "and on the stone write for me"
+      },
+      {
+       "cyr": "љубов тука почива.",
+       "lat": "ljubov tuka počiva.",
+       "en": "love rests here."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

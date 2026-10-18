@@ -1,0 +1,142 @@
+{
+ "id": 3,
+ "slug": "kinisala-rosa-ju-planina",
+ "title_cyr": "Кинисала Роса ју планина",
+ "title_latin": "Kinisala Rosa ju planina",
+ "title_en": "Rosa went to the mountain",
+ "pesna_url": "https://pesna.org/song/3",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Круме Спасовски",
+  "Никола Бадев",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1688"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/1689"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1690"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисала Роса ју планина,",
+       "lat": "Kinisala Rosa ju planina,",
+       "en": "Rosa went to the mountain"
+      },
+      {
+       "cyr": "да си бере Роса росно цвеќе,",
+       "lat": "da si bere Rosa rosno cveḱe,",
+       "en": "to gather some fresh flowers"
+      },
+      {
+       "cyr": "ден го брала Роса, ден китила.",
+       "lat": "den go brala Rosa, den kitila.",
+       "en": "the whole day she gathered, the whole day she arranged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Накитила Роса три товари,",
+       "lat": "Nakitila Rosa tri tovari,",
+       "en": "Rosa arranged three loads,"
+      },
+      {
+       "cyr": "товарила Роса, замркнало,",
+       "lat": "tovarila Rosa, zamrknalo,",
+       "en": "she loaded, it got dark,"
+      },
+      {
+       "cyr": "ја смркнало Роса, затемнило.",
+       "lat": "ja smrknalo Rosa, zatemnilo.",
+       "en": "it got dark for Rosa."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој овчари, море, мили браќа,",
+       "lat": "- Oj ovčari, more, mili braḱa,",
+       "en": "- Hey, shepherds, dear men,"
+      },
+      {
+       "cyr": "каде има браќа таа вечер,",
+       "lat": "kade ima braḱa taa večer,",
+       "en": "is there a place this night,"
+      },
+      {
+       "cyr": "таа вечер, браќа, да ноќевам?",
+       "lat": "taa večer, braḱa, da noḱevam?",
+       "en": "this night, a place for me to sleep?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ноќевала Роса кај овчари,",
+       "lat": "Noḱevala Rosa kaj ovčari,",
+       "en": "Rosa slept the night at the shepherd's,"
+      },
+      {
+       "cyr": "ја самнало Роса, товарила,",
+       "lat": "ja samnalo Rosa, tovarila,",
+       "en": "the dawn came, Rosa loaded her load"
+      },
+      {
+       "cyr": "кинисала Роса да си оди.",
+       "lat": "kinisala Rosa da si odi.",
+       "en": "and prepared to go away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Насмеа се Роса на овчари:",
+       "lat": "Nasmea se Rosa na ovčari:",
+       "en": "She laughed at the shepherds:"
+      },
+      {
+       "cyr": "- Ој овчари, море, будалишта,",
+       "lat": "- Oj ovčari, more, budališta,",
+       "en": "- Hey shepherds, you fools,"
+      },
+      {
+       "cyr": "сретнал волкот, море, рудо јагне,",
+       "lat": "sretnal volkot, more, rudo jagne,",
+       "en": "the wolf found a young lamb"
+      },
+      {
+       "cyr": "па не знаел, море, да го јаде.",
+       "lat": "pa ne znael, more, da go jade.",
+       "en": "but didn't know how to eat it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

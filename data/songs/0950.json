@@ -1,0 +1,125 @@
+{
+ "id": 950,
+ "slug": "aj-shetal-marko",
+ "title_cyr": "Ај, шетал Марко",
+ "title_latin": "Aj, šetal Marko",
+ "title_en": "Marko was walking",
+ "pesna_url": "https://pesna.org/song/950",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Рајна Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Рајна Спасовска",
+   "url": "https://pesna.org/audio-download/2589"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, шетал Марко покрај Црно Море,",
+       "lat": "Aj, šetal Marko pokraj Crno More,",
+       "en": "Marko was walking near Black Sea,"
+      },
+      {
+       "cyr": "ај, го догледа царева девојка,",
+       "lat": "aj, go dogleda careva devojka,",
+       "en": "czar's daughter saw him"
+      },
+      {
+       "cyr": "ај, проговара царева девојка:",
+       "lat": "aj, progovara careva devojka:",
+       "en": "and said:"
+      },
+      {
+       "cyr": "- Ај, ејди тебе Марко Кралевиќу,",
+       "lat": "- Aj, ejdi tebe Marko Kraleviḱu,",
+       "en": "- Hey you, prince Marko,"
+      },
+      {
+       "cyr": "ај, потурчи се, љуба да ти бидам.",
+       "lat": "aj, poturči se, ljuba da ti bidam.",
+       "en": "convert to islam (become a Turk) and I'll be your love."
+      },
+      {
+       "cyr": "Ај, ќе те носам шарена џамија,",
+       "lat": "Aj, ḱe te nosam šarena džamija,",
+       "en": "I'll take you to a colorful mosque,"
+      },
+      {
+       "cyr": "ај, ќе ти викнам девет агалари,",
+       "lat": "aj, ḱe ti viknam devet agalari,",
+       "en": "I'll call for nine agas,"
+      },
+      {
+       "cyr": "ај, ќе ти турам име најголемо,",
+       "lat": "aj, ḱe ti turam ime najgolemo,",
+       "en": "I'll name you with the greatest name,"
+      },
+      {
+       "cyr": "сакаш Асан, сакаш Асанага.",
+       "lat": "sakaš Asan, sakaš Asanaga.",
+       "en": "you can choose from Asan or Asanaga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, проговара Марко Краљевиќу:",
+       "lat": "Aj, progovara Marko Kraljeviḱu:",
+       "en": "Princ Marko said:"
+      },
+      {
+       "cyr": "- Ај, ејди тебе, царева девојко,",
+       "lat": "- Aj, ejdi tebe, careva devojko,",
+       "en": "- Hey you, czar's daughter,"
+      },
+      {
+       "cyr": "ај, покрсти се либе да ти бидам.",
+       "lat": "aj, pokrsti se libe da ti bidam.",
+       "en": "convert to christianity and I'll be your love."
+      },
+      {
+       "cyr": "Ај, ќе те носам во црква шарена,",
+       "lat": "Aj, ḱe te nosam vo crkva šarena,",
+       "en": "I'll take you to a colorful church,"
+      },
+      {
+       "cyr": "ај ќе ти викнам до девет попови.",
+       "lat": "aj ḱe ti viknam do devet popovi.",
+       "en": "I'll call for nine priests."
+      },
+      {
+       "cyr": "Ај, девет попа, девет калуѓера,",
+       "lat": "Aj, devet popa, devet kaluǵera,",
+       "en": "Nine priests, nine monks,"
+      },
+      {
+       "cyr": "ај ќе ти турат име најголемо,",
+       "lat": "aj ḱe ti turat ime najgolemo,",
+       "en": "they'll name you with the greatest name,"
+      },
+      {
+       "cyr": "сакаш Севдо, сакаш Севделино.",
+       "lat": "sakaš Sevdo, sakaš Sevdelino.",
+       "en": "you can choose from Sevda or Sevdalina."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

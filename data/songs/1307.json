@@ -1,0 +1,247 @@
+{
+ "id": 1307,
+ "slug": "kje-ti-dojdam-na-veligden",
+ "title_cyr": "Ќе ти дојдам на Велигден",
+ "title_latin": "Ḱe ti dojdam na Veligden",
+ "title_en": "I will come to you at Easter",
+ "pesna_url": "https://pesna.org/song/1307",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it reads like a modern composed song but I cannot name an author. 'Мовчето' is translated as 'little hollow' (my reading, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "камбани",
+   "en": "bells"
+  },
+  {
+   "mk": "ечат",
+   "en": "ring out, echo"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "ливаѓе",
+   "en": "meadow"
+  },
+  {
+   "mk": "корија",
+   "en": "woods, grove"
+  },
+  {
+   "mk": "спомен",
+   "en": "memory"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  },
+  {
+   "mk": "сиромав",
+   "en": "poor"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/3312"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти дојдам на Велигден,",
+       "lat": "Ḱe ti dojdam na Veligden,",
+       "en": "I will come to you at Easter,"
+      },
+      {
+       "cyr": "либе Стојанке,",
+       "lat": "libe Stojanke,",
+       "en": "dear Stojanka,"
+      },
+      {
+       "cyr": "кога бијат камбаните,",
+       "lat": "koga bijat kambanite,",
+       "en": "when the bells ring,"
+      },
+      {
+       "cyr": "кога ечат гордо.",
+       "lat": "koga ečat gordo.",
+       "en": "when they peal proudly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ме чекаш на мовчето,",
+       "lat": "Da me čekaš na movčeto,",
+       "en": "Wait for me at the little hollow,"
+      },
+      {
+       "cyr": "под селото,",
+       "lat": "pod seloto,",
+       "en": "below the village,"
+      },
+      {
+       "cyr": "прва роса штом ќе падне",
+       "lat": "prva rosa štom ḱe padne",
+       "en": "when the first dew falls"
+      },
+      {
+       "cyr": "на ливаѓе.",
+       "lat": "na livaǵe.",
+       "en": "on the meadow."
+      },
+      {
+       "cyr": "Први зраци штом ќе легнат",
+       "lat": "Prvi zraci štom ḱe legnat",
+       "en": "When the first rays lie down"
+      },
+      {
+       "cyr": "на корија.",
+       "lat": "na korija.",
+       "en": "on the woods."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти дојдам на Велигден,",
+       "lat": "Ḱe ti dojdam na Veligden,",
+       "en": "I will come to you at Easter,"
+      },
+      {
+       "cyr": "либе Стојанке,",
+       "lat": "libe Stojanke,",
+       "en": "dear Stojanka,"
+      },
+      {
+       "cyr": "кога слави цело село,",
+       "lat": "koga slavi celo selo,",
+       "en": "when the whole village celebrates,"
+      },
+      {
+       "cyr": "кога слави ден господов.",
+       "lat": "koga slavi den gospodov.",
+       "en": "when the Lord's day is celebrated."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ме скриеш во срцето,",
+       "lat": "Da me skrieš vo srceto,",
+       "en": "Hide me in your heart,"
+      },
+      {
+       "cyr": "во душата,",
+       "lat": "vo dušata,",
+       "en": "in your soul,"
+      },
+      {
+       "cyr": "во некој спомен, Стојне,",
+       "lat": "vo nekoj spomen, Stojne,",
+       "en": "in some memory, Stojna,"
+      },
+      {
+       "cyr": "од младоста.",
+       "lat": "od mladosta.",
+       "en": "from youth."
+      },
+      {
+       "cyr": "Во бели ноќи, мило,",
+       "lat": "Vo beli noḱi, milo,",
+       "en": "In white nights, dear,"
+      },
+      {
+       "cyr": "расцутени.",
+       "lat": "rascuteni.",
+       "en": "in bloom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти дојдам на Велигден,",
+       "lat": "Ḱe ti dojdam na Veligden,",
+       "en": "I will come to you at Easter,"
+      },
+      {
+       "cyr": "либе Стојанке,",
+       "lat": "libe Stojanke,",
+       "en": "dear Stojanka,"
+      },
+      {
+       "cyr": "да си лечам стари рани,",
+       "lat": "da si lečam stari rani,",
+       "en": "to heal my old wounds,"
+      },
+      {
+       "cyr": "стари рани и патила.",
+       "lat": "stari rani i patila.",
+       "en": "old wounds and sufferings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ме скриеш од комшии,",
+       "lat": "Da me skrieš od komšii,",
+       "en": "Hide me from the neighbors,"
+      },
+      {
+       "cyr": "од луѓето,",
+       "lat": "od luǵeto,",
+       "en": "from the people,"
+      },
+      {
+       "cyr": "млад си појдов, стар се вратив,",
+       "lat": "mlad si pojdov, star se vrativ,",
+       "en": "I left young, I came back old,"
+      },
+      {
+       "cyr": "либе Стојанке,",
+       "lat": "libe Stojanke,",
+       "en": "dear Stojanka,"
+      },
+      {
+       "cyr": "стар се вратив, Стојне мое,",
+       "lat": "star se vrativ, Stojne moe,",
+       "en": "I came back old, my Stojna,"
+      },
+      {
+       "cyr": "и сиромав.",
+       "lat": "i siromav.",
+       "en": "and poor."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

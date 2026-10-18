@@ -1,0 +1,120 @@
+{
+ "id": 467,
+ "slug": "edno-mome-pokraj-vardar-odi",
+ "title_cyr": "Едно моме покрај Вардар оди",
+ "title_latin": "Edno mome pokraj Vardar odi",
+ "title_en": "A girl walks along the Vardar",
+ "pesna_url": "https://pesna.org/song/467",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да го среде' is rendered as 'may luck meet him' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, young woman"
+  },
+  {
+   "mk": "малој",
+   "en": "little, young (dialect)"
+  },
+  {
+   "mk": "се моли",
+   "en": "prays"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "на здравие",
+   "en": "to (your) health"
+  },
+  {
+   "mk": "среќа",
+   "en": "luck"
+  },
+  {
+   "mk": "по пат",
+   "en": "on the road"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Едно малој моме",
+       "lat": "Edno maloj mome",
+       "en": "A young girl"
+      },
+      {
+       "cyr": "покрај Вардар оди,",
+       "lat": "pokraj Vardar odi,",
+       "en": "walks along the Vardar,"
+      },
+      {
+       "cyr": "покрај Вардар оди",
+       "lat": "pokraj Vardar odi",
+       "en": "walks along the Vardar,"
+      },
+      {
+       "cyr": "на бога се моли.",
+       "lat": "na boga se moli.",
+       "en": "prays to God."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал го гледаш боже",
+       "lat": "Dal go gledaš bože",
+       "en": "Do you see, God,"
+      },
+      {
+       "cyr": "мојто верно либе. [х2]",
+       "lat": "mojto verno libe. [h2]",
+       "en": "my faithful love? [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако вино пие",
+       "lat": "Ako vino pie",
+       "en": "If he drinks wine,"
+      },
+      {
+       "cyr": "на здравие да му е. [х2]",
+       "lat": "na zdravie da mu e. [h2]",
+       "en": "may it be to his health. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако по пат јаде",
+       "lat": "Ako po pat jade",
+       "en": "If he eats on the road,"
+      },
+      {
+       "cyr": "среќа да го среде.",
+       "lat": "sreḱa da go srede.",
+       "en": "may luck meet him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

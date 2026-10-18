@@ -1,0 +1,151 @@
+{
+ "id": 534,
+ "slug": "od-vrv-pirin-planina",
+ "title_cyr": "Од врв Пирин Планина",
+ "title_latin": "Od vrv Pirin Planina",
+ "title_en": "From the Peak of Pirin Mountain",
+ "pesna_url": "https://pesna.org/song/534",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Adapted from a poem by Trajko Kitanchev (died before 1930), so translated in full. 'завижџет' is a dialect form that I read as 'they envy'.",
+ "words_to_learn": [
+  {
+   "mk": "очаен",
+   "en": "despairing"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "триклета",
+   "en": "thrice-cursed"
+  },
+  {
+   "mk": "блудница",
+   "en": "harlot"
+  },
+  {
+   "mk": "ропство",
+   "en": "bondage, slavery"
+  },
+  {
+   "mk": "земја",
+   "en": "land, country"
+  },
+  {
+   "mk": "злато",
+   "en": "gold"
+  },
+  {
+   "mk": "завижџет",
+   "en": "they envy (dialect form, my reading)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Конак",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1340"
+  },
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/3066"
+  },
+  {
+   "who": "Конак",
+   "url": "https://pesna.org/audio-download/3067"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од врв Пирин Планина",
+       "lat": "Od vrv Pirin Planina",
+       "en": "From the peak of Pirin Mountain"
+      },
+      {
+       "cyr": "очаен глас се слуша,",
+       "lat": "očaen glas se sluša,",
+       "en": "a despairing voice is heard,"
+      },
+      {
+       "cyr": "Македонија плаче.",
+       "lat": "Makedonija plače.",
+       "en": "Macedonia is weeping."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета и триклета",
+       "lat": "Prokleta i trikleta",
+       "en": "Cursed and thrice-cursed"
+      },
+      {
+       "cyr": "да бидиш ти Европо,",
+       "lat": "da bidiš ti Evropo,",
+       "en": "may you be, Europe,"
+      },
+      {
+       "cyr": "блуднице вавилонска.",
+       "lat": "bludnice vavilonska.",
+       "en": "Babylonian harlot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Французи, Англичани,",
+       "lat": "Francuzi, Angličani,",
+       "en": "Frenchmen, Englishmen,"
+      },
+      {
+       "cyr": "Италијанци и Немци,",
+       "lat": "Italijanci i Nemci,",
+       "en": "Italians and Germans,"
+      },
+      {
+       "cyr": "сакаат да сме под ропство.",
+       "lat": "sakaat da sme pod ropstvo.",
+       "en": "want us to be in bondage."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од рода сум Славјанка,",
+       "lat": "Od roda sum Slavjanka,",
+       "en": "I am of Slavic stock,"
+      },
+      {
+       "cyr": "земја со злато полна,",
+       "lat": "zemja so zlato polna,",
+       "en": "a land full of gold,"
+      },
+      {
+       "cyr": "зато завижџет толку.",
+       "lat": "zato zaviždžet tolku.",
+       "en": "that is why they envy so much."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

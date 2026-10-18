@@ -1,0 +1,164 @@
+{
+ "id": 843,
+ "slug": "kazhi-oblache-le-belo",
+ "title_cyr": "Кажи облаче ле бело",
+ "title_latin": "Kaži oblače le belo",
+ "title_en": "Tell me, white cloud",
+ "pesna_url": "https://pesna.org/song/843",
+ "background": "The text was written by the poet Gancho Negentsov, who wrote under the pen name Ran Bosilek, in 1916 while he was studying law in Brussels. Later the song got a melody and spread through Macedonia and Bulgaria. Mood: homesick, tender, hopeful.",
+ "background_source": "Source of these notes: the note on Pesna.org.",
+ "english_kind": "pesna",
+ "en_note": "",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Амајлија",
+  "Анета Љумаковска",
+  "Виданка Георгиева",
+  "Гоце Арнаудов",
+  "Лили Бетз",
+  "Молика",
+  "Никола Бадев",
+  "Петар Нечовски",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Амајлија",
+   "url": "https://pesna.org/audio-download/1816"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/1817"
+  },
+  {
+   "who": "Лили Бетз",
+   "url": "https://pesna.org/audio-download/1818"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1946"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/4453"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/4454"
+  },
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/4455"
+  },
+  {
+   "who": "Анета Љумаковска, Молика",
+   "url": "https://pesna.org/audio-download/4456"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи, кажи, облаче ле бело,",
+       "lat": "- Kaži, kaži, oblače le belo,",
+       "en": "Tell me, tell me, white little cloud,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кај си било, што си невесело?",
+       "lat": "kaj si bilo, što si neveselo?",
+       "en": "where have you been, why are you so sad?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дал' го виде мојто родно село,",
+       "lat": "Dal' go vide mojto rodno selo,",
+       "en": "Did you see my native village,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дал' ја слушна мајка ми што збори?",
+       "lat": "dal' ja slušna majka mi što zbori?",
+       "en": "did you hear what my mother says?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас го видов твојто родно село",
+       "lat": "- Jas go vidov tvojto rodno selo",
+       "en": "I saw your native village,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и ја слушнав мајка ти што збори:",
+       "lat": "i ja slušnav majka ti što zbori:",
+       "en": "and I heard your mother speaking:",
+       "en_mt": false
+      },
+      {
+       "cyr": "„В' туѓина е мојто чедо мило,",
+       "lat": "„V' tuǵina e mojto čedo milo,",
+       "en": "\"My dear child is in a foreign land,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со туѓинци туѓи леб делило“.",
+       "lat": "so tuǵinci tuǵi leb delilo“.",
+       "en": "sharing foreign bread with strangers.\"",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Иди кажи на мајка ми стара",
+       "lat": "- Idi kaži na majka mi stara",
+       "en": "Go, tell my old mother",
+       "en_mt": false
+      },
+      {
+       "cyr": "дека мене жив си ме видело.",
+       "lat": "deka mene živ si me videlo.",
+       "en": "that you have seen me still alive.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ден ќе дојде дома да се вратам,",
+       "lat": "Den ḱe dojde doma da se vratam,",
+       "en": "A day will come when I return home,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се вратам, мајка да си видам.",
+       "lat": "da se vratam, majka da si vidam.",
+       "en": "to return home and see my mother.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ден ќе дојде дома да се вратам,",
+       "lat": "Den ḱe dojde doma da se vratam,",
+       "en": "A day will come when I return home,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се вратам, либе да прегрнам.",
+       "lat": "da se vratam, libe da pregrnam.",
+       "en": "to return home and embrace my beloved.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

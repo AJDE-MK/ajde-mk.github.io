@@ -1,0 +1,113 @@
+{
+ "id": 874,
+ "slug": "aj-ti-mi-spremaj",
+ "title_cyr": "Ај ти ми спремај",
+ "title_latin": "Aj ti mi spremaj",
+ "title_en": "Hey, you get ready",
+ "pesna_url": "https://pesna.org/song/874",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional fragment; the lines are short and unclear. This is my reading throughout, especially 'Ај тому чешме' and the speakers.",
+ "words_to_learn": [
+  {
+   "mk": "спремај",
+   "en": "get ready, saddle up"
+  },
+  {
+   "mk": "коњ дорија",
+   "en": "bay horse"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "млада",
+   "en": "young wife, bride"
+  },
+  {
+   "mk": "оставиш",
+   "en": "you leave"
+  },
+  {
+   "mk": "мајче",
+   "en": "mother (vocative, diminutive)"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска"
+ ],
+ "audio": [
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1910"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, ти ми спремај,",
+       "lat": "Aj, ti mi spremaj,",
+       "en": "Hey, you get ready,"
+      },
+      {
+       "cyr": "коњ дорија, да идем.",
+       "lat": "konj dorija, da idem.",
+       "en": "the bay horse, so I can go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај тому чешме,",
+       "lat": "Aj tomu češme,",
+       "en": "Hey, to that fountain,"
+      },
+      {
+       "cyr": "мене млада оставиш.",
+       "lat": "mene mlada ostaviš.",
+       "en": "you leave me, a young wife."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај оставам те,",
+       "lat": "- Aj ostavam te,",
+       "en": "- Hey, I am leaving you,"
+      },
+      {
+       "cyr": "при две, мајче, родени.",
+       "lat": "pri dve, majče, rodeni.",
+       "en": "with the two, mother, born."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај што ќе ми ги",
+       "lat": "Aj što ḱe mi gi",
+       "en": "Hey, what will they be to me,"
+      },
+      {
+       "cyr": "двете, мајче, без тебе?",
+       "lat": "dvete, majče, bez tebe?",
+       "en": "the two, mother, without you?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

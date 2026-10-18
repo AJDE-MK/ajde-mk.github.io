@@ -1,0 +1,205 @@
+{
+ "id": 1010,
+ "slug": "bojot-zapochna-brakja",
+ "title_cyr": "Бојот започна браќа",
+ "title_latin": "Bojot započna braḱa",
+ "title_en": "The Battle Has Begun, Brothers",
+ "pesna_url": "https://pesna.org/song/1010",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional revolutionary-style song. 'Ѓолот да сардисаат' is my reading (to crush/overwhelm the bandits); the word ѓол is unclear to me and may be a dialect term.",
+ "words_to_learn": [
+  {
+   "mk": "бој",
+   "en": "battle"
+  },
+  {
+   "mk": "вojска",
+   "en": "army"
+  },
+  {
+   "mk": "фучат",
+   "en": "roar, howl (of wind)"
+  },
+  {
+   "mk": "бури",
+   "en": "storms"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas, rebel fighters"
+  },
+  {
+   "mk": "топови",
+   "en": "cannons"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "Костурско Поле",
+   "en": "Kostur (Kastoria) Plain"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2344"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бојот започна браќа,",
+       "lat": "Bojot započna braḱa,",
+       "en": "The battle has begun, brothers,"
+      },
+      {
+       "cyr": "војска се собира.",
+       "lat": "vojska se sobira.",
+       "en": "an army is gathering."
+      },
+      {
+       "cyr": "Војска се собира, браќа,",
+       "lat": "Vojska se sobira, braḱa,",
+       "en": "An army is gathering, brothers,"
+      },
+      {
+       "cyr": "три илјади души,",
+       "lat": "tri iljadi duši,",
+       "en": "three thousand souls,"
+      },
+      {
+       "cyr": "три илјади души браќа,",
+       "lat": "tri iljadi duši braḱa,",
+       "en": "three thousand souls, brothers,"
+      },
+      {
+       "cyr": "во Костурско Поле.",
+       "lat": "vo Kostursko Pole.",
+       "en": "in the Kostur Plain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Горите фучат, браќа,",
+       "lat": "Gorite fučat, braḱa,",
+       "en": "The forests roar, brothers,"
+      },
+      {
+       "cyr": "бурите стигаат,",
+       "lat": "burite stigaat,",
+       "en": "storms are arriving,"
+      },
+      {
+       "cyr": "војска се собира, браќа,",
+       "lat": "vojska se sobira, braḱa,",
+       "en": "an army is gathering, brothers,"
+      },
+      {
+       "cyr": "ѓолот да сардисаат.",
+       "lat": "ǵolot da sardisaat.",
+       "en": "to crush the bandits."
+      },
+      {
+       "cyr": "Комити да фатат, браќа",
+       "lat": "Komiti da fatat, braḱa",
+       "en": "To catch the rebels, brothers,"
+      },
+      {
+       "cyr": "и да ги истепаат.",
+       "lat": "i da gi istepaat.",
+       "en": "and to beat them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пушките пукаја, браќа,",
+       "lat": "Puškite pukaja, braḱa,",
+       "en": "The rifles fired, brothers,"
+      },
+      {
+       "cyr": "рибите бегаја.",
+       "lat": "ribite begaja.",
+       "en": "the fish fled."
+      },
+      {
+       "cyr": "Топовите грмат, браќа,",
+       "lat": "Topovite grmat, braḱa,",
+       "en": "The cannons thunder, brothers,"
+      },
+      {
+       "cyr": "земјата гореше,",
+       "lat": "zemjata goreše,",
+       "en": "the earth was burning,"
+      },
+      {
+       "cyr": "топовите светат, браќа,",
+       "lat": "topovite svetat, braḱa,",
+       "en": "the cannons shine, brothers,"
+      },
+      {
+       "cyr": "како јасно сонце.",
+       "lat": "kako jasno sonce.",
+       "en": "like the bright sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трева си јадевме, браќа,",
+       "lat": "Treva si jadevme, braḱa,",
+       "en": "We ate grass, brothers,"
+      },
+      {
+       "cyr": "тага живувахме,",
+       "lat": "taga živuvahme,",
+       "en": "we lived in sorrow,"
+      },
+      {
+       "cyr": "песни си пејавме, браќа.",
+       "lat": "pesni si pejavme, braḱa.",
+       "en": "we sang songs, brothers,"
+      },
+      {
+       "cyr": "за наш'та слобода.",
+       "lat": "za naš'ta sloboda.",
+       "en": "for our freedom."
+      },
+      {
+       "cyr": "За наш'та слобода, браќа,",
+       "lat": "Za naš'ta sloboda, braḱa,",
+       "en": "For our freedom, brothers,"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

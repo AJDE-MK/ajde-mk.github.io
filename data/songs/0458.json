@@ -1,0 +1,134 @@
+{
+ "id": 458,
+ "slug": "sekoj-shto-mine-pomine",
+ "title_cyr": "Секој што мине помине",
+ "title_latin": "Sekoj što mine pomine",
+ "title_en": "Everyone who passes by",
+ "pesna_url": "https://pesna.org/song/458",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style, origin unclear. 'тој што ќе срце засака' I read as 'the one my heart chooses' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "мине помине",
+   "en": "passes by"
+  },
+  {
+   "mk": "порте",
+   "en": "gate (dialect)"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "мавнува",
+   "en": "waves"
+  },
+  {
+   "mk": "намигнува",
+   "en": "winks"
+  },
+  {
+   "mk": "другарки",
+   "en": "girlfriends, female friends"
+  },
+  {
+   "mk": "душманки",
+   "en": "female enemies, rivals"
+  },
+  {
+   "mk": "кавга",
+   "en": "quarrel, trouble"
+  },
+  {
+   "mk": "довека",
+   "en": "forever"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Секој што мине помине",
+       "lat": "Sekoj što mine pomine",
+       "en": "Everyone who passes by"
+      },
+      {
+       "cyr": "крај наш'то порте, пенџере",
+       "lat": "kraj naš'to porte, pendžere",
+       "en": "past our gate, our window"
+      },
+      {
+       "cyr": "со една рака мавнува",
+       "lat": "so edna raka mavnuva",
+       "en": "waves with one hand"
+      },
+      {
+       "cyr": "со око ми намигнува. [x2]",
+       "lat": "so oko mi namignuva. [x2]",
+       "en": "and winks at me with an eye. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да знаат мојте другарки",
+       "lat": "Da znaat mojte drugarki",
+       "en": "If my girlfriends knew,"
+      },
+      {
+       "cyr": "и тие лоши душманки,",
+       "lat": "i tie loši dušmanki,",
+       "en": "those wicked rivals,"
+      },
+      {
+       "cyr": "на мама, тате ќе кажат",
+       "lat": "na mama, tate ḱe kažat",
+       "en": "they would tell mother and father"
+      },
+      {
+       "cyr": "и кавга ќе ми направат. [x2]",
+       "lat": "i kavga ḱe mi napravat. [x2]",
+       "en": "and cause me trouble. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затоа јас и кажувам",
+       "lat": "Zatoa jas i kažuvam",
+       "en": "That is why I tell"
+      },
+      {
+       "cyr": "и на мој'та сестра помала,",
+       "lat": "i na moj'ta sestra pomala,",
+       "en": "my younger sister too,"
+      },
+      {
+       "cyr": "тој што ќе срце засака",
+       "lat": "toj što ḱe srce zasaka",
+       "en": "he who wins my heart"
+      },
+      {
+       "cyr": "јас ќе го љубам довека. [x2]",
+       "lat": "jas ḱe go ljubam doveka. [x2]",
+       "en": "I will love forever. [x2]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

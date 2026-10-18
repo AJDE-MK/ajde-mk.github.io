@@ -1,0 +1,137 @@
+{
+ "id": 1172,
+ "slug": "janka-niz-gora-vrveshe",
+ "title_cyr": "Јанка низ гора врвеше",
+ "title_latin": "Janka niz gora vrveše",
+ "title_en": "Yanka walked through the forest",
+ "pesna_url": "https://pesna.org/song/1172",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style song about the revolutionary Goce Delchev; origin unclear. 'трае, не збори' is my reading: 'keeps silent'.",
+ "words_to_learn": [
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "врвеше",
+   "en": "was walking"
+  },
+  {
+   "mk": "збореше",
+   "en": "was speaking"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, leader of a band"
+  },
+  {
+   "mk": "трае",
+   "en": "stays, endures (here: stays silent)"
+  },
+  {
+   "mk": "секира",
+   "en": "axe"
+  },
+  {
+   "mk": "стада",
+   "en": "herds"
+  },
+  {
+   "mk": "газеле",
+   "en": "gazelles (here likely wild game, my reading)"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски",
+  "Јанко Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/2841"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/2842"
+  },
+  {
+   "who": "Јанко Узунов",
+   "url": "https://pesna.org/audio-download/2843"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јанка низ гора врвеше",
+       "lat": "Janka niz gora vrveše",
+       "en": "Yanka walked through the forest"
+      },
+      {
+       "cyr": "и на гората збореше:",
+       "lat": "i na gorata zboreše:",
+       "en": "and spoke to the forest:"
+      },
+      {
+       "cyr": "- Горо ле, горо зелена,",
+       "lat": "- Goro le, goro zelena,",
+       "en": "- Forest, hey green forest,"
+      },
+      {
+       "cyr": "горо ле, горо убава,",
+       "lat": "goro le, goro ubava,",
+       "en": "forest, hey lovely forest,"
+      },
+      {
+       "cyr": "мина ли горо низ тебе",
+       "lat": "mina li goro niz tebe",
+       "en": "has he passed through you,"
+      },
+      {
+       "cyr": "млад Гоце Делчев војвода?",
+       "lat": "mlad Goce Delčev vojvoda?",
+       "en": "young Goce Delchev the voivode?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гората трае, не збори",
+       "lat": "Gorata trae, ne zbori",
+       "en": "The forest is silent, does not speak,"
+      },
+      {
+       "cyr": "на Јанка не одговара.",
+       "lat": "na Janka ne odgovara.",
+       "en": "it does not answer Yanka."
+      },
+      {
+       "cyr": "Кога би гора зборела,",
+       "lat": "Koga bi gora zborela,",
+       "en": "If the forest could speak,"
+      },
+      {
+       "cyr": "не би ја секла секира,",
+       "lat": "ne bi ja sekla sekira,",
+       "en": "the axe would not cut it,"
+      },
+      {
+       "cyr": "нит' би ја стада газеле.",
+       "lat": "nit' bi ja stada gazele.",
+       "en": "nor would herds of gazelles trample it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

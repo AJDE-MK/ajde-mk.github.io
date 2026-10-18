@@ -1,0 +1,162 @@
+{
+ "id": 437,
+ "slug": "jas-sum-moma-ohrigjanka",
+ "title_cyr": "Јас сум мома охриѓанка",
+ "title_latin": "Jas sum moma ohriǵanka",
+ "title_en": "I Am a Girl from Ohrid",
+ "pesna_url": "https://pesna.org/song/437",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'охриѓанка' I read as a woman from Ohrid; 'з'ш', 'знајте', 'значит' are dialect forms ('you', 'you know', 'means').",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "измамена",
+   "en": "deceived"
+  },
+  {
+   "mk": "скитам",
+   "en": "I wander"
+  },
+  {
+   "mk": "срам",
+   "en": "shame"
+  },
+  {
+   "mk": "измамник",
+   "en": "deceiver"
+  },
+  {
+   "mk": "другарки",
+   "en": "female friends"
+  },
+  {
+   "mk": "ушче",
+   "en": "still, yet (dialect)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Емилија Ѓореска"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/885"
+  },
+  {
+   "who": "Емилија Ѓореска",
+   "url": "https://pesna.org/audio-download/2512"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум мома охриѓанка",
+       "lat": "Jas sum moma ohriǵanka",
+       "en": "I am a girl from Ohrid,"
+      },
+      {
+       "cyr": "измамена од љубов,",
+       "lat": "izmamena od ljubov,",
+       "en": "cheated by love,"
+      },
+      {
+       "cyr": "а сега сегде скитам",
+       "lat": "a sega segde skitam",
+       "en": "and now I wander everywhere,"
+      },
+      {
+       "cyr": "достојна за љубов.",
+       "lat": "dostojna za ljubov.",
+       "en": "worthy of love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А пред петнајс' години",
+       "lat": "A pred petnajs' godini",
+       "en": "And fifteen years ago"
+      },
+      {
+       "cyr": "бев млада како цвет,",
+       "lat": "bev mlada kako cvet,",
+       "en": "I was young as a flower,"
+      },
+      {
+       "cyr": "а сега сегде скитам",
+       "lat": "a sega segde skitam",
+       "en": "and now I wander everywhere,"
+      },
+      {
+       "cyr": "достојна за љубов.",
+       "lat": "dostojna za ljubov.",
+       "en": "worthy of love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој и кој да минува",
+       "lat": "Koj i koj da minuva",
+       "en": "Whoever may pass by,"
+      },
+      {
+       "cyr": "мене не ми е срам,",
+       "lat": "mene ne mi e sram,",
+       "en": "I am not ashamed,"
+      },
+      {
+       "cyr": "ќе одам да го барам",
+       "lat": "ḱe odam da go baram",
+       "en": "I will go to look for"
+      },
+      {
+       "cyr": "измамникот мој.",
+       "lat": "izmamnikot moj.",
+       "en": "my deceiver."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А вие мој другарки",
+       "lat": "A vie moj drugarki",
+       "en": "And you, my friends,"
+      },
+      {
+       "cyr": "немој да ми се смејте,",
+       "lat": "nemoj da mi se smejte,",
+       "en": "do not laugh at me,"
+      },
+      {
+       "cyr": "з'ш вие ушче не знајте",
+       "lat": "z'š vie ušče ne znajte",
+       "en": "you still do not know"
+      },
+      {
+       "cyr": "што значит љубовта.",
+       "lat": "što značit ljubovta.",
+       "en": "what love means."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

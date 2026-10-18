@@ -1,0 +1,205 @@
+{
+ "id": 886,
+ "slug": "sinojka-mi-dojde",
+ "title_cyr": "Синојка ми дојде",
+ "title_latin": "Sinojka mi dojde",
+ "title_en": "Last night he came to me",
+ "pesna_url": "https://pesna.org/song/886",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Dialect forms 'ја пак', 'л'сно' (лесно), 'га' (it). 'Лудо младо' is an endearment, not literally 'mad'.",
+ "words_to_learn": [
+  {
+   "mk": "синојка",
+   "en": "last night"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "my dear young one (endearment)"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "спрема",
+   "en": "prepares, readies"
+  },
+  {
+   "mk": "ајдуци",
+   "en": "brigands, outlaws"
+  },
+  {
+   "mk": "јавајќи",
+   "en": "riding"
+  },
+  {
+   "mk": "пројдам",
+   "en": "I pass through"
+  },
+  {
+   "mk": "пушке фрлајќи",
+   "en": "firing guns"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска"
+ ],
+ "audio": [
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1929"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Синојка ми дојде",
+       "lat": "Sinojka mi dojde",
+       "en": "Last night he came to me"
+      },
+      {
+       "cyr": "лудото младо",
+       "lat": "ludoto mlado",
+       "en": "my dear young one"
+      },
+      {
+       "cyr": "од туѓа земја.",
+       "lat": "od tuǵa zemja.",
+       "en": "from a foreign land."
+      },
+      {
+       "cyr": "Синојка ми дојде",
+       "lat": "Sinojka mi dojde",
+       "en": "Last night he came to me"
+      },
+      {
+       "cyr": "и коња спрема,",
+       "lat": "i konja sprema,",
+       "en": "and readies his horse,"
+      },
+      {
+       "cyr": "ј'опет ќе иде.",
+       "lat": "j'opet ḱe ide.",
+       "en": "he will go again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Белото девојче",
+       "lat": "Beloto devojče",
+       "en": "The fair girl"
+      },
+      {
+       "cyr": "со црни очи",
+       "lat": "so crni oči",
+       "en": "with black eyes"
+      },
+      {
+       "cyr": "викна да плаче:",
+       "lat": "vikna da plače:",
+       "en": "began to cry:"
+      },
+      {
+       "cyr": "- Не ми оди лудо,",
+       "lat": "- Ne mi odi ludo,",
+       "en": "- Don't go, my dear,"
+      },
+      {
+       "cyr": "не ми оди младо,",
+       "lat": "ne mi odi mlado,",
+       "en": "don't go, my young one,"
+      },
+      {
+       "cyr": "в' туѓа туѓина.",
+       "lat": "v' tuǵa tuǵina.",
+       "en": "into a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ми плачи лудо,",
+       "lat": "- Ne mi plači ludo,",
+       "en": "- Don't cry, my dear,"
+      },
+      {
+       "cyr": "не жали младо,",
+       "lat": "ne žali mlado,",
+       "en": "don't grieve, my young one,"
+      },
+      {
+       "cyr": "ја пак ќе дојдем.",
+       "lat": "ja pak ḱe dojdem.",
+       "en": "I will come again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како ќе га пројдеш",
+       "lat": "- Kako ḱe ga projdeš",
+       "en": "- How will you cross"
+      },
+      {
+       "cyr": "таа Шар Планина",
+       "lat": "taa Šar Planina",
+       "en": "that Shar Mountain"
+      },
+      {
+       "cyr": "полна ајдуци?",
+       "lat": "polna ajduci?",
+       "en": "full of brigands?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Л'сно ќе га пројдем",
+       "lat": "- L'sno ḱe ga projdem",
+       "en": "- Easily I will cross"
+      },
+      {
+       "cyr": "таа Шар Планина,",
+       "lat": "taa Šar Planina,",
+       "en": "that Shar Mountain,"
+      },
+      {
+       "cyr": "коња јавајќи.",
+       "lat": "konja javajḱi.",
+       "en": "riding my horse."
+      },
+      {
+       "cyr": "Коња јавајќи,",
+       "lat": "Konja javajḱi,",
+       "en": "Riding my horse,"
+      },
+      {
+       "cyr": "песне поејќи,",
+       "lat": "pesne poejḱi,",
+       "en": "singing songs,"
+      },
+      {
+       "cyr": "пушке фрлајќи.",
+       "lat": "puške frlajḱi.",
+       "en": "firing my gun."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

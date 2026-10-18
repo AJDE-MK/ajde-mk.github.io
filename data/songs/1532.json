@@ -1,0 +1,225 @@
+{
+ "id": 1532,
+ "slug": "makedonijo-zemjo-rodena",
+ "title_cyr": "Македонијо, земјо родена",
+ "title_latin": "Makedonijo, zemjo rodena",
+ "title_en": "Macedonia, native land",
+ "pesna_url": "https://pesna.org/song/1532",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigrant (gurbet) song; no author named, origin unclear, so translated in full.",
+ "words_to_learn": [
+  {
+   "mk": "земја родена",
+   "en": "native land"
+  },
+  {
+   "mk": "жалиме",
+   "en": "we grieve, mourn"
+  },
+  {
+   "mk": "убавини",
+   "en": "beauties"
+  },
+  {
+   "mk": "далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "дење-ноќе",
+   "en": "day and night"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native region"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "пресекнаа",
+   "en": "dried up, stopped"
+  },
+  {
+   "mk": "дал'",
+   "en": "whether, will (question)"
+  },
+  {
+   "mk": "да запееме",
+   "en": "to start singing"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/4002"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Македонијо, земјо родена наша",
+       "lat": "Makedonijo, zemjo rodena naša",
+       "en": "Macedonia, our native land"
+      },
+      {
+       "cyr": "о, да знаеш колку жалиме",
+       "lat": "o, da znaeš kolku žalime",
+       "en": "oh, if you knew how we grieve"
+      },
+      {
+       "cyr": "за нашите убавини,",
+       "lat": "za našite ubavini,",
+       "en": "for our beauties,"
+      },
+      {
+       "cyr": "за нашите браќа, сестри.",
+       "lat": "za našite braḱa, sestri.",
+       "en": "for our brothers, sisters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ох, ох Македонијо,",
+       "lat": "Oh, oh Makedonijo,",
+       "en": "Oh, oh Macedonia,"
+      },
+      {
+       "cyr": "ох, ох земјо родена.",
+       "lat": "oh, oh zemjo rodena.",
+       "en": "oh, oh native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Може дека сме толку далеку",
+       "lat": "Može deka sme tolku daleku",
+       "en": "Perhaps because we are so far"
+      },
+      {
+       "cyr": "од тебе, од нашите мили деца,",
+       "lat": "od tebe, od našite mili deca,",
+       "en": "from you, from our dear children,"
+      },
+      {
+       "cyr": "дење-ноќе си плачиме",
+       "lat": "denje-noḱe si plačime",
+       "en": "day and night we weep"
+      },
+      {
+       "cyr": "за нашиот мил роден крај.",
+       "lat": "za našiot mil roden kraj.",
+       "en": "for our dear native region."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ох, ох Македонијо,",
+       "lat": "Oh, oh Makedonijo,",
+       "en": "Oh, oh Macedonia,"
+      },
+      {
+       "cyr": "ох, ох земјо родена.",
+       "lat": "oh, oh zemjo rodena.",
+       "en": "oh, oh native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога од тебе се одделивме ние",
+       "lat": "Koga od tebe se oddelivme nie",
+       "en": "When we parted from you"
+      },
+      {
+       "cyr": "многу солзи проронивме,",
+       "lat": "mnogu solzi proronivme,",
+       "en": "we shed many tears,"
+      },
+      {
+       "cyr": "но солзите не пресекнаа",
+       "lat": "no solzite ne preseknaa",
+       "en": "but the tears did not dry up"
+      },
+      {
+       "cyr": "и љубовта за наш роден крај.",
+       "lat": "i ljubovta za naš roden kraj.",
+       "en": "nor the love for our native region."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ох, ох Македонијо,",
+       "lat": "Oh, oh Makedonijo,",
+       "en": "Oh, oh Macedonia,"
+      },
+      {
+       "cyr": "ох, ох земјо родена.",
+       "lat": "oh, oh zemjo rodena.",
+       "en": "oh, oh native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' ќе дојде ден пак да дојдиме ние,",
+       "lat": "Dal' ḱe dojde den pak da dojdime nie,",
+       "en": "Will the day come when we return,"
+      },
+      {
+       "cyr": "да се видиме со наш'те деца,",
+       "lat": "da se vidime so naš'te deca,",
+       "en": "to see our children,"
+      },
+      {
+       "cyr": "да запееме, да заиграме",
+       "lat": "da zapeeme, da zaigrame",
+       "en": "to sing and to dance"
+      },
+      {
+       "cyr": "и да умреме, да не жалиме.",
+       "lat": "i da umreme, da ne žalime.",
+       "en": "and to die without regret."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ох, ох Македонијо,",
+       "lat": "Oh, oh Makedonijo,",
+       "en": "Oh, oh Macedonia,"
+      },
+      {
+       "cyr": "ох, ох земјо родена.",
+       "lat": "oh, oh zemjo rodena.",
+       "en": "oh, oh native land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

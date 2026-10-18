@@ -1,0 +1,199 @@
+{
+ "id": 1340,
+ "slug": "ajde-kje-te-prasham-mamo",
+ "title_cyr": "Ајде ќе те прашам мамо",
+ "title_latin": "Ajde ḱe te prašam mamo",
+ "title_en": "Come On, I Will Ask You, Mother",
+ "pesna_url": "https://pesna.org/song/1340",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The last stanza is my reading: she says that if he is unmarried she will return in a year with a young lad and a baby boy, meaning she will marry him.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on"
+  },
+  {
+   "mk": "прашам",
+   "en": "I ask"
+  },
+  {
+   "mk": "пуштиш",
+   "en": "you let (go)"
+  },
+  {
+   "mk": "прошетам",
+   "en": "I take a walk"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "разгледам",
+   "en": "I look around"
+  },
+  {
+   "mk": "друм",
+   "en": "road"
+  },
+  {
+   "mk": "јава",
+   "en": "rides (a horse)"
+  },
+  {
+   "mk": "неженето",
+   "en": "unmarried (of a man)"
+  },
+  {
+   "mk": "машко детенце",
+   "en": "baby boy"
+  }
+ ],
+ "performers": [
+  "Марица Зилковска"
+ ],
+ "audio": [
+  {
+   "who": "Марица Зилковска",
+   "url": "https://pesna.org/audio-download/3452"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе те прашам мамо,",
+       "lat": "Ajde ḱe te prašam mamo,",
+       "en": "Come on, I will ask you, mother,"
+      },
+      {
+       "cyr": "право да ми кажеш:",
+       "lat": "pravo da mi kažeš:",
+       "en": "tell me straight:"
+      },
+      {
+       "cyr": "дали ќе ме пуштиш мамо",
+       "lat": "dali ḱe me puštiš mamo",
+       "en": "will you let me, mother,"
+      },
+      {
+       "cyr": "малку да прошетам,",
+       "lat": "malku da prošetam,",
+       "en": "go for a little walk,"
+      },
+      {
+       "cyr": "еј, да излезам стара мајко",
+       "lat": "ej, da izlezam stara majko",
+       "en": "hey, to go out, old mother,"
+      },
+      {
+       "cyr": "надвор до портите?",
+       "lat": "nadvor do portite?",
+       "en": "outside to the gates?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде дали ќе ме пуштиш",
+       "lat": "Ajde dali ḱe me puštiš",
+       "en": "Come on, will you let me"
+      },
+      {
+       "cyr": "надвор до портите,",
+       "lat": "nadvor do portite,",
+       "en": "go out to the gates,"
+      },
+      {
+       "cyr": "ајде да излезам мамо,",
+       "lat": "ajde da izlezam mamo,",
+       "en": "come on, to go out, mother,"
+      },
+      {
+       "cyr": "малку да разгледам,",
+       "lat": "malku da razgledam,",
+       "en": "to look around a little,"
+      },
+      {
+       "cyr": "еј, да излезам, да разгледам",
+       "lat": "ej, da izlezam, da razgledam",
+       "en": "hey, to go out, to look around"
+      },
+      {
+       "cyr": "по друм кој ќе мине?",
+       "lat": "po drum koj ḱe mine?",
+       "en": "at who will pass along the road?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По друм мина мила мамо",
+       "lat": "Po drum mina mila mamo",
+       "en": "Along the road passed, dear mother,"
+      },
+      {
+       "cyr": "едно лудо младо,",
+       "lat": "edno ludo mlado,",
+       "en": "a foolish young lad,"
+      },
+      {
+       "cyr": "еј, на коњ јава стара мајко,",
+       "lat": "ej, na konj java stara majko,",
+       "en": "hey, riding a horse, old mother,"
+      },
+      {
+       "cyr": "како сонце грее.",
+       "lat": "kako sonce gree.",
+       "en": "shining like the sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ми е стара мајко",
+       "lat": "Ako mi e stara majko",
+       "en": "If he is, old mother,"
+      },
+      {
+       "cyr": "момче неженето,",
+       "lat": "momče neženeto,",
+       "en": "an unmarried lad,"
+      },
+      {
+       "cyr": "еј, да ме чекаш, стара мајко",
+       "lat": "ej, da me čekaš, stara majko",
+       "en": "hey, wait for me, old mother,"
+      },
+      {
+       "cyr": "од денес година,",
+       "lat": "od denes godina,",
+       "en": "from today a year,"
+      },
+      {
+       "cyr": "еј, со младо момченце мајко",
+       "lat": "ej, so mlado momčence majko",
+       "en": "hey, with a young little lad, mother,"
+      },
+      {
+       "cyr": "и машко детенце.",
+       "lat": "i maško detence.",
+       "en": "and a baby boy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

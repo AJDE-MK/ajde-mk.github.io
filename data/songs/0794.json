@@ -1,0 +1,125 @@
+{
+ "id": 794,
+ "slug": "odozdola-ide-kjelaviot-pasha",
+ "title_cyr": "Одоздола иде ќелавиот паша",
+ "title_latin": "Odozdola ide ḱelaviot paša",
+ "title_en": "From below comes the bald pasha",
+ "pesna_url": "https://pesna.org/song/794",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional mocking song about an Ottoman pasha. 'Нане' as a refrain addressing the mother is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "одоздола",
+   "en": "from below"
+  },
+  {
+   "mk": "ќелав",
+   "en": "bald"
+  },
+  {
+   "mk": "паша",
+   "en": "pasha (Ottoman official)"
+  },
+  {
+   "mk": "феc",
+   "en": "fez"
+  },
+  {
+   "mk": "грбав",
+   "en": "hunchbacked"
+  },
+  {
+   "mk": "плешки",
+   "en": "shoulder blades, back"
+  },
+  {
+   "mk": "крив",
+   "en": "crooked"
+  },
+  {
+   "mk": "чизми",
+   "en": "boots"
+  },
+  {
+   "mk": "нане",
+   "en": "mother (dialect, address)"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1501"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Одоздола иде ќелавиот паша,",
+       "lat": "Odozdola ide ḱelaviot paša,",
+       "en": "From below comes the bald pasha,"
+      },
+      {
+       "cyr": "нане, мило нане, ќелавиот паша.",
+       "lat": "nane, milo nane, ḱelaviot paša.",
+       "en": "mother, dear mother, the bald pasha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На ќелава глава црно фесче носи,",
+       "lat": "Na ḱelava glava crno fesče nosi,",
+       "en": "On his bald head he wears a black fez,"
+      },
+      {
+       "cyr": "нане, мило нане, црно фесче носи.",
+       "lat": "nane, milo nane, crno fesče nosi.",
+       "en": "mother, dear mother, he wears a black fez."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На грбави плешчи тенка пушка носи,",
+       "lat": "Na grbavi plešči tenka puška nosi,",
+       "en": "On his hunched back he carries a thin rifle,"
+      },
+      {
+       "cyr": "нане, мило нане, тенка пушка носи.",
+       "lat": "nane, milo nane, tenka puška nosi.",
+       "en": "mother, dear mother, he carries a thin rifle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А на криви нозе, чизми до колена,",
+       "lat": "A na krivi noze, čizmi do kolena,",
+       "en": "And on crooked legs, boots to the knees,"
+      },
+      {
+       "cyr": "нане, мило нане, чизми до колена.",
+       "lat": "nane, milo nane, čizmi do kolena.",
+       "en": "mother, dear mother, boots to the knees."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

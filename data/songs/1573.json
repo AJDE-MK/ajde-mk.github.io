@@ -1,0 +1,114 @@
+{
+ "id": 1573,
+ "slug": "ljubev-jas-edno-mome-malechko",
+ "title_cyr": "Љубев јас едно моме малечко",
+ "title_latin": "Ljubev jas edno mome malečko",
+ "title_en": "I loved a little girl",
+ "pesna_url": "https://pesna.org/song/1573",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'непосвршено' and 'посврши' are my reading: not yet promised or settled in marriage, and promised to another; I am not certain of this sense.",
+ "words_to_learn": [
+  {
+   "mk": "љубев",
+   "en": "I loved"
+  },
+  {
+   "mk": "малечко",
+   "en": "little, tiny"
+  },
+  {
+   "mk": "кај си одевме",
+   "en": "wherever we went"
+  },
+  {
+   "mk": "кажувавме",
+   "en": "we used to tell"
+  },
+  {
+   "mk": "маки",
+   "en": "troubles, sorrows"
+  },
+  {
+   "mk": "Бог да ја бие",
+   "en": "may God strike her (curse)"
+  },
+  {
+   "mk": "мачно",
+   "en": "hard, difficult"
+  },
+  {
+   "mk": "тажно",
+   "en": "sad"
+  }
+ ],
+ "performers": [
+  "Велешки чалгии",
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Велешки чалгии, Распеани велешани",
+   "url": "https://pesna.org/audio-download/4105"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Љубев јас едно моме малечко",
+       "lat": "Ljubev jas edno mome malečko",
+       "en": "I loved a little girl"
+      },
+      {
+       "cyr": "кое ми беше непосвршено.",
+       "lat": "koe mi beše neposvršeno.",
+       "en": "who was not yet settled for me."
+      },
+      {
+       "cyr": "Кај си одевме, си кажувавме,",
+       "lat": "Kaj si odevme, si kažuvavme,",
+       "en": "Wherever we went, we told each other"
+      },
+      {
+       "cyr": "маки на срцето што ги имавме.",
+       "lat": "maki na srceto što gi imavme.",
+       "en": "the troubles of the heart that we had."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да ја бие моме мајка ти,",
+       "lat": "Bog da ja bie mome majka ti,",
+       "en": "May God strike your mother, girl,"
+      },
+      {
+       "cyr": "што те посврши за друго момче.",
+       "lat": "što te posvrši za drugo momče.",
+       "en": "who settled you with another lad."
+      },
+      {
+       "cyr": "Колку е мачно, колку е тажно",
+       "lat": "Kolku e mačno, kolku e tažno",
+       "en": "How hard, how sad"
+      },
+      {
+       "cyr": "јас да те љубам, друг да те има.",
+       "lat": "jas da te ljubam, drug da te ima.",
+       "en": "that I love you and another has you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

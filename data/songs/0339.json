@@ -1,0 +1,159 @@
+{
+ "id": 339,
+ "slug": "oj-prirodo-vechna-ubavice",
+ "title_cyr": "Ој природо вечна убавице",
+ "title_latin": "Oj prirodo večna ubavice",
+ "title_en": "Oh Eternal Beauty, Nature",
+ "pesna_url": "https://pesna.org/song/339",
+ "background": "A folk-philosopher's song. Nature made love and hatred, luck and joy; rich ladies with rich husbands keep selling their honour; the singer wants no palaces or riches, only a straw-roofed hut and sweet sleep. Sung slowly, with a half-chalgija feel. Whether it is traditional or composed is unclear.",
+ "background_source": "Source of these notes: Qwen's draft; an agent flagged the origin as unclear.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'убај господи' is odd and my reading is 'fine gentlemen'; 'честа' I read as 'honor'.",
+ "words_to_learn": [
+  {
+   "mk": "природа",
+   "en": "nature"
+  },
+  {
+   "mk": "создаде",
+   "en": "created"
+  },
+  {
+   "mk": "омраза",
+   "en": "hatred"
+  },
+  {
+   "mk": "богатства",
+   "en": "riches"
+  },
+  {
+   "mk": "палати",
+   "en": "palaces"
+  },
+  {
+   "mk": "сламена колиба",
+   "en": "straw hut"
+  },
+  {
+   "mk": "чест",
+   "en": "honor"
+  }
+ ],
+ "performers": [
+  "Грозда Стоева",
+  "Зоран Џорлев",
+  "Јованка Житарова",
+  "Катерина Ѓорѓиева",
+  "Коца Огненовска",
+  "Петранка Костадинова",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/495"
+  },
+  {
+   "who": "Јованка Житарова",
+   "url": "https://pesna.org/audio-download/496"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/497"
+  },
+  {
+   "who": "Зоран Џорлев, Катерина Ѓорѓиева",
+   "url": "https://pesna.org/audio-download/498"
+  },
+  {
+   "who": "Зоран Џорлев, Коца Огненовска",
+   "url": "https://pesna.org/audio-download/499"
+  },
+  {
+   "who": "Грозда Стоева, Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2827"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој природо вечна убавице,",
+       "lat": "Oj prirodo večna ubavice,",
+       "en": "Oh nature, eternal beauty,"
+      },
+      {
+       "cyr": "ти создаде сè на овој свет,",
+       "lat": "ti sozdade sè na ovoj svet,",
+       "en": "you created everything in this world,"
+      },
+      {
+       "cyr": "ти создаде љубов и омраза,",
+       "lat": "ti sozdade ljubov i omraza,",
+       "en": "you created love and hatred,"
+      },
+      {
+       "cyr": "среќа радост на овој свет.",
+       "lat": "sreḱa radost na ovoj svet.",
+       "en": "happiness and joy in this world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вие дами и убај господи",
+       "lat": "Vie dami i ubaj gospodi",
+       "en": "You ladies and you fine gentlemen"
+      },
+      {
+       "cyr": "што имате богати мажи",
+       "lat": "što imate bogati maži",
+       "en": "who have rich husbands,"
+      },
+      {
+       "cyr": "но затоа вие многу пати",
+       "lat": "no zatoa vie mnogu pati",
+       "en": "but for that reason you many times"
+      },
+      {
+       "cyr": "честа си ја продавате.",
+       "lat": "česta si ja prodavate.",
+       "en": "sell your honor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас не сакам големи богатства",
+       "lat": "Jas ne sakam golemi bogatstva",
+       "en": "I do not want great riches,"
+      },
+      {
+       "cyr": "ниту сакам царски палати,",
+       "lat": "nitu sakam carski palati,",
+       "en": "nor do I want royal palaces,"
+      },
+      {
+       "cyr": "јас си сакам сламена колиба,",
+       "lat": "jas si sakam slamena koliba,",
+       "en": "I want my straw hut,"
+      },
+      {
+       "cyr": "и во неа слатко да спијам.",
+       "lat": "i vo nea slatko da spijam.",
+       "en": "and to sleep sweetly in it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

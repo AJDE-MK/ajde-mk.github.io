@@ -1,0 +1,250 @@
+{
+ "id": 959,
+ "slug": "nesho-pile",
+ "title_cyr": "Нешо пиле",
+ "title_latin": "Nešo pile",
+ "title_en": "Little Bird Neshо",
+ "pesna_url": "https://pesna.org/song/959",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Not sure of 'калешо' (my reading: a messenger/inviting one, as in a wedding-style address) and 'бабки те изеле' (my reading: grubs/lice, a curse). The last stanza's curses are folk-style insults.",
+ "words_to_learn": [
+  {
+   "mk": "калеша",
+   "en": "messenger, caller (endearment for a daughter, my reading)"
+  },
+  {
+   "mk": "поли",
+   "en": "skirt hems, coat-tails"
+  },
+  {
+   "mk": "препиња",
+   "en": "hinders, trips up"
+  },
+  {
+   "mk": "месам",
+   "en": "I knead"
+  },
+  {
+   "mk": "кравајче",
+   "en": "small loaf (ritual bread)"
+  },
+  {
+   "mk": "дада",
+   "en": "nanny, nursemaid"
+  },
+  {
+   "mk": "брдаче / бардаче",
+   "en": "pitcher, water jug"
+  },
+  {
+   "mk": "ведро",
+   "en": "bucket"
+  },
+  {
+   "mk": "желка",
+   "en": "sore, ache"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2218"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2219"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Нешо пиле, Нешо мори,",
+       "lat": "- Nešo pile, Nešo mori,",
+       "en": "- Little bird Nesho, Nesho my dear,"
+      },
+      {
+       "cyr": "мамино калешо,",
+       "lat": "mamino kalešo,",
+       "en": "mother's little messenger,"
+      },
+      {
+       "cyr": "тоа што не дојдеш, Нешо,",
+       "lat": "toa što ne dojdeš, Nešo,",
+       "en": "why is it you haven't come, Nesho,"
+      },
+      {
+       "cyr": "кај мама на гости?",
+       "lat": "kaj mama na gosti?",
+       "en": "to visit mother?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како да дојдам, мамо,",
+       "lat": "- Kako da dojdam, mamo,",
+       "en": "- How can I come, mother,"
+      },
+      {
+       "cyr": "немам ни со кого,",
+       "lat": "nemam ni so kogo,",
+       "en": "I have no one to come with,"
+      },
+      {
+       "cyr": "едно момче имам, мамо,",
+       "lat": "edno momče imam, mamo,",
+       "en": "I have one little boy, mother,"
+      },
+      {
+       "cyr": "мошне малечко,",
+       "lat": "mošne malečko,",
+       "en": "very small,"
+      },
+      {
+       "cyr": "сè по мене оди,",
+       "lat": "sè po mene odi,",
+       "en": "he follows me everywhere,"
+      },
+      {
+       "cyr": "за поли ме држи.",
+       "lat": "za poli me drži.",
+       "en": "he holds on to my skirt hems."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе појдам да месам, мамо,",
+       "lat": "Ḱe pojdam da mesam, mamo,",
+       "en": "I'll go to knead, mother,"
+      },
+      {
+       "cyr": "и оно по мене,",
+       "lat": "i ono po mene,",
+       "en": "and he comes after me,"
+      },
+      {
+       "cyr": "за поли ме држи, мамо,",
+       "lat": "za poli me drži, mamo,",
+       "en": "he holds my skirt hems, mother,"
+      },
+      {
+       "cyr": "само ме препиња.",
+       "lat": "samo me prepinja.",
+       "en": "he only hinders me."
+      },
+      {
+       "cyr": "- Чекај ме, дадо мори,",
+       "lat": "- Čekaj me, dado mori,",
+       "en": "- Wait for me, nanny, hey,"
+      },
+      {
+       "cyr": "меси ми кравајче!",
+       "lat": "mesi mi kravajče!",
+       "en": "knead me a loaf!"
+      },
+      {
+       "cyr": "- Не сум ти дада, лудо,",
+       "lat": "- Ne sum ti dada, ludo,",
+       "en": "- I'm not your nanny, fool,"
+      },
+      {
+       "cyr": "туку сум ти жена,",
+       "lat": "tuku sum ti žena,",
+       "en": "I'm your wife,"
+      },
+      {
+       "cyr": "желка ти во грло,",
+       "lat": "želka ti vo grlo,",
+       "en": "a sore in your throat,"
+      },
+      {
+       "cyr": "чума те затрело!",
+       "lat": "čuma te zatrelo!",
+       "en": "may the plague wipe you out!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе појдам на вода, мамо,",
+       "lat": "Ḱe pojdam na voda, mamo,",
+       "en": "I'll go for water, mother,"
+      },
+      {
+       "cyr": "и оно по мене,",
+       "lat": "i ono po mene,",
+       "en": "and he comes after me,"
+      },
+      {
+       "cyr": "за поли ме држи, мамо,",
+       "lat": "za poli me drži, mamo,",
+       "en": "he holds my skirt hems, mother,"
+      },
+      {
+       "cyr": "само ме препиња.",
+       "lat": "samo me prepinja.",
+       "en": "he only hinders me."
+      },
+      {
+       "cyr": "- Чекај ме, дадо мори,",
+       "lat": "- Čekaj me, dado mori,",
+       "en": "- Wait for me, nanny, hey,"
+      },
+      {
+       "cyr": "полни ми брдаче.",
+       "lat": "polni mi brdače.",
+       "en": "fill me the pitcher!"
+      },
+      {
+       "cyr": "- Немам бардаче, лудо,",
+       "lat": "- Nemam bardače, ludo,",
+       "en": "- I have no pitcher, fool,"
+      },
+      {
+       "cyr": "бабки те изеле.",
+       "lat": "babki te izele.",
+       "en": "may the grubs eat you."
+      },
+      {
+       "cyr": "Каму ти ведро лудо,",
+       "lat": "Kamu ti vedro ludo,",
+       "en": "Where is your bucket, fool,"
+      },
+      {
+       "cyr": "на рамо да носиш?",
+       "lat": "na ramo da nosiš?",
+       "en": "to carry on your shoulder?"
+      },
+      {
+       "cyr": "Ведро да носиш,",
+       "lat": "Vedro da nosiš,",
+       "en": "Carry a bucket,"
+      },
+      {
+       "cyr": "ветер те однело!",
+       "lat": "veter te odnelo!",
+       "en": "may the wind carry you off!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

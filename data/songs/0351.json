@@ -1,0 +1,205 @@
+{
+ "id": 351,
+ "slug": "ne-mi-sedi-kokono",
+ "title_cyr": "Не ми седи коконо",
+ "title_latin": "Ne mi sedi kokono",
+ "title_en": "Do Not Sit, Lady",
+ "pesna_url": "https://pesna.org/song/351",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Достојно' is used as a vocative epithet; my reading is 'worthy one'. 'Не се турчам' rendered as 'I will not turn Turk' (convert), as in the notes about the Nizams.",
+ "words_to_learn": [
+  {
+   "mk": "коконо",
+   "en": "lady, young noblewoman (address)"
+  },
+  {
+   "mk": "достојно",
+   "en": "worthy, dignified (one)"
+  },
+  {
+   "mk": "порти",
+   "en": "gates, gateway of a courtyard"
+  },
+  {
+   "mk": "низами",
+   "en": "soldiers of the regular Ottoman army"
+  },
+  {
+   "mk": "потурчи се",
+   "en": "convert to Islam"
+  },
+  {
+   "mk": "ага",
+   "en": "agha, Ottoman lord"
+  },
+  {
+   "mk": "бег",
+   "en": "bey, Ottoman nobleman"
+  },
+  {
+   "mk": "да загинам",
+   "en": "let me perish"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Борис Ангелковски",
+  "Влатко Миладиноски",
+  "Група Деница",
+  "Злате Антевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1822"
+  },
+  {
+   "who": "Борис Ангелковски",
+   "url": "https://pesna.org/audio-download/3407"
+  },
+  {
+   "who": "Група Деница",
+   "url": "https://pesna.org/audio-download/4164"
+  },
+  {
+   "who": "Злате Антевски",
+   "url": "https://pesna.org/audio-download/4165"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/4166"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не ми седи коконо, мори",
+       "lat": "Ne mi sedi kokono, mori",
+       "en": "Do not sit, my lady, hey,"
+      },
+      {
+       "cyr": "не ми седи достојно,",
+       "lat": "ne mi sedi dostojno,",
+       "en": "do not sit, my worthy one,"
+      },
+      {
+       "cyr": "не ми седи, мори",
+       "lat": "ne mi sedi, mori",
+       "en": "do not sit, hey,"
+      },
+      {
+       "cyr": "на портите.",
+       "lat": "na portite.",
+       "en": "at the gates."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе поминат коконо,",
+       "lat": "Ḱe pominat kokono,",
+       "en": "They will pass by, lady,"
+      },
+      {
+       "cyr": "ќе поминат достојно,",
+       "lat": "ḱe pominat dostojno,",
+       "en": "they will pass by, worthy one,"
+      },
+      {
+       "cyr": "ќа поминет мори",
+       "lat": "ḱa pominet mori",
+       "en": "they will pass by, hey,"
+      },
+      {
+       "cyr": "низамите.",
+       "lat": "nizamite.",
+       "en": "the Nizams."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти речат коконо,",
+       "lat": "Ḱe ti rečat kokono,",
+       "en": "They will say to you, lady,"
+      },
+      {
+       "cyr": "ќе ти речат достојно,",
+       "lat": "ḱe ti rečat dostojno,",
+       "en": "they will say to you, worthy one,"
+      },
+      {
+       "cyr": "ќе ти речат мори",
+       "lat": "ḱe ti rečat mori",
+       "en": "they will say to you, hey,"
+      },
+      {
+       "cyr": "потурчи се.",
+       "lat": "poturči se.",
+       "en": "'turn Turk'."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти да речеш коконо,",
+       "lat": "Ti da rečeš kokono,",
+       "en": "You should say, lady,"
+      },
+      {
+       "cyr": "ти да речеш достојно,",
+       "lat": "ti da rečeš dostojno,",
+       "en": "you should say, worthy one,"
+      },
+      {
+       "cyr": "Ти да речеш мори",
+       "lat": "Ti da rečeš mori",
+       "en": "you should say, hey,"
+      },
+      {
+       "cyr": "не се турчам.",
+       "lat": "ne se turčam.",
+       "en": "'I will not turn Turk'."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се турчам аго бре,",
+       "lat": "Ne se turčam ago bre,",
+       "en": "I will not turn Turk, agha, hey,"
+      },
+      {
+       "cyr": "не се турчам бегу бре,",
+       "lat": "ne se turčam begu bre,",
+       "en": "I will not turn Turk, bey, hey,"
+      },
+      {
+       "cyr": "не се турчам",
+       "lat": "ne se turčam",
+       "en": "I will not turn Turk,"
+      },
+      {
+       "cyr": "да загинам.",
+       "lat": "da zaginam.",
+       "en": "let me die instead."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

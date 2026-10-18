@@ -1,0 +1,166 @@
+{
+ "id": 833,
+ "slug": "ka-se-zaljubile-do-dve-ludi-mladi",
+ "title_cyr": "Ка се заљубиле до две луди млади",
+ "title_latin": "Ka se zaljubile do dve ludi mladi",
+ "title_en": "When They Fell in Love, Two Young Fools",
+ "pesna_url": "https://pesna.org/song/833",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Аџамии' is my reading as 'inexperienced'; 'лажи' as 'deceives/charms' is also my reading. The last line is unclear, translated literally.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "лели",
+   "en": "oh, alas (interjection)"
+  },
+  {
+   "mk": "луд",
+   "en": "fool, silly one (here: young and carefree)"
+  },
+  {
+   "mk": "аџамија",
+   "en": "inexperienced, naive"
+  },
+  {
+   "mk": "лаже",
+   "en": "deceives, lies"
+  },
+  {
+   "mk": "бело лице",
+   "en": "white (fair) face"
+  },
+  {
+   "mk": "промена",
+   "en": "replacement, change"
+  },
+  {
+   "mk": "одмена",
+   "en": "substitute, relief"
+  }
+ ],
+ "performers": [
+  "Воденки",
+  "Зоран Џорлев"
+ ],
+ "audio": [
+  {
+   "who": "Воденки",
+   "url": "https://pesna.org/audio-download/1773"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1774"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ка се заљубиле, бре џанам",
+       "lat": "Ka se zaljubile, bre džanam",
+       "en": "When they fell in love, hey my dear,"
+      },
+      {
+       "cyr": "до две луди млади.",
+       "lat": "do dve ludi mladi.",
+       "en": "two young fools."
+      },
+      {
+       "cyr": "До две луди млади, леле, двете аџамии,",
+       "lat": "Do dve ludi mladi, lele, dvete adžamii,",
+       "en": "Two young fools, oh, both of them inexperienced,"
+      },
+      {
+       "cyr": "до две луди млади, леле, двете аџамии.",
+       "lat": "do dve ludi mladi, lele, dvete adžamii.",
+       "en": "two young fools, oh, both of them inexperienced."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мома момче лажи, бре џанам",
+       "lat": "Moma momče laži, bre džanam",
+       "en": "The girl deceives the boy, hey my dear,"
+      },
+      {
+       "cyr": "мома момче лажи.",
+       "lat": "moma momče laži.",
+       "en": "the girl deceives the boy."
+      },
+      {
+       "cyr": "Мома момче лажи, леле, со белото лице,",
+       "lat": "Moma momče laži, lele, so beloto lice,",
+       "en": "The girl deceives the boy, oh, with her white face,"
+      },
+      {
+       "cyr": "мома момче лажи, леле, со белото лице.",
+       "lat": "moma momče laži, lele, so beloto lice.",
+       "en": "the girl deceives the boy, oh, with her white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момче мома лажи, бре џанам",
+       "lat": "Momče moma laži, bre džanam",
+       "en": "The boy deceives the girl, hey my dear,"
+      },
+      {
+       "cyr": "момче мома лажи.",
+       "lat": "momče moma laži.",
+       "en": "the boy deceives the girl."
+      },
+      {
+       "cyr": "Момче мома лажи, леле, со црвено јаболко,",
+       "lat": "Momče moma laži, lele, so crveno jabolko,",
+       "en": "The boy deceives the girl, oh, with a red apple,"
+      },
+      {
+       "cyr": "момче мома лажи, леле, со црвено јаболко.",
+       "lat": "momče moma laži, lele, so crveno jabolko.",
+       "en": "the boy deceives the girl, oh, with a red apple."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ка си ги видела, бре џанам,",
+       "lat": "Ka si gi videla, bre džanam,",
+       "en": "When she saw them, hey my dear,"
+      },
+      {
+       "cyr": "момчевата мајка:",
+       "lat": "momčevata majka:",
+       "en": "the boy's mother:"
+      },
+      {
+       "cyr": "- Лажи, сине, лажи дете, дома да донесиш,",
+       "lat": "- Laži, sine, laži dete, doma da donesiš,",
+       "en": "- Deceive, son, deceive, child, and bring her home,"
+      },
+      {
+       "cyr": "за тебе промена, леле, на мајка одмена.",
+       "lat": "za tebe promena, lele, na majka odmena.",
+       "en": "a replacement for you, oh, a substitute for your mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,128 @@
+{
+ "id": 11,
+ "slug": "zaljubil-dimo-tri-momi",
+ "title_cyr": "Заљубил Димо три моми",
+ "title_latin": "Zaljubil Dimo tri momi",
+ "title_en": "Dimo fell in love with three girls",
+ "pesna_url": "https://pesna.org/song/11",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1553"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заљубил Димо три моми,",
+       "lat": "Zaljubil Dimo tri momi,",
+       "en": "Dimo fell in love with three girls,"
+      },
+      {
+       "cyr": "три моми Димо од три села.",
+       "lat": "tri momi Dimo od tri sela.",
+       "en": "three girls, Dimo, from three villages."
+      },
+      {
+       "cyr": "Сите ги моми засакал,",
+       "lat": "Site gi momi zasakal,",
+       "en": "He loved all of them,"
+      },
+      {
+       "cyr": "една му била на срце.",
+       "lat": "edna mu bila na srce.",
+       "en": "but one was in his heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првата беше Орданка,",
+       "lat": "Prvata beše Ordanka,",
+       "en": "The first one was Ordanka,"
+      },
+      {
+       "cyr": "на лика лична убава.",
+       "lat": "na lika lična ubava.",
+       "en": "she had a pretty face."
+      },
+      {
+       "cyr": "На снага тенка, висока,",
+       "lat": "Na snaga tenka, visoka,",
+       "en": "Her body was thin and tall,"
+      },
+      {
+       "cyr": "без неа Димо не може.",
+       "lat": "bez nea Dimo ne može.",
+       "en": "Dimo can't live without her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другата беше Драганка,",
+       "lat": "Drugata beše Draganka,",
+       "en": "The other one was Draganka,"
+      },
+      {
+       "cyr": "Драганка мома убава.",
+       "lat": "Draganka moma ubava.",
+       "en": "Draganka, a beautiful girl."
+      },
+      {
+       "cyr": "Со очи црни, маслинка,",
+       "lat": "So oči crni, maslinka,",
+       "en": "Her eyes were black like olives,"
+      },
+      {
+       "cyr": "без неа Димо не може.",
+       "lat": "bez nea Dimo ne može.",
+       "en": "Dimo can't live without her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третата беше Јованка,",
+       "lat": "Tretata beše Jovanka,",
+       "en": "The third one was Jovanka,"
+      },
+      {
+       "cyr": "никој од рода немала.",
+       "lat": "nikoj od roda nemala.",
+       "en": "she did not have any family."
+      },
+      {
+       "cyr": "Со душа била богата,",
+       "lat": "So duša bila bogata,",
+       "en": "She was rich in her soul,"
+      },
+      {
+       "cyr": "таа му била на срце.",
+       "lat": "taa mu bila na srce.",
+       "en": "she was in his heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

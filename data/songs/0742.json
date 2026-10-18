@@ -1,0 +1,162 @@
+{
+ "id": 742,
+ "slug": "legnalo-rodne",
+ "title_cyr": "Легнало Родне",
+ "title_latin": "Legnalo Rodne",
+ "title_en": "Rodna laid down",
+ "pesna_url": "https://pesna.org/song/742",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сарев",
+  "Староградски ансамбл Битола",
+  "Panacea"
+ ],
+ "audio": [
+  {
+   "who": "Panacea",
+   "url": "https://pesna.org/audio-download/1028"
+  },
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/3947"
+  },
+  {
+   "who": "Староградски ансамбл Битола",
+   "url": "https://pesna.org/audio-download/3948"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Легнало Родне, заспало,",
+       "lat": "Legnalo Rodne, zaspalo,",
+       "en": "Rodna laid down, fell asleep,"
+      },
+      {
+       "cyr": "на мајкино си колено.",
+       "lat": "na majkino si koleno.",
+       "en": "on her mother's lap."
+      },
+      {
+       "cyr": "Оф, аман, аман, Родне ле,",
+       "lat": "Of, aman, aman, Rodne le,",
+       "en": "Hey, Rodna, hey,"
+      },
+      {
+       "cyr": "на мајкино си колено.",
+       "lat": "na majkino si koleno.",
+       "en": "on her mother's lap."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка си ќерка будеше:",
+       "lat": "Majka si ḱerka budeše:",
+       "en": "Her mother was waking her daughter:"
+      },
+      {
+       "cyr": "- Стани ми, стани Родне, ле.",
+       "lat": "- Stani mi, stani Rodne, le.",
+       "en": "- Get up, wake up Rodna, hey."
+      },
+      {
+       "cyr": "Оф, аман, аман, Родне, ле,",
+       "lat": "Of, aman, aman, Rodne, le,",
+       "en": "Hey, Rodna, hey,"
+      },
+      {
+       "cyr": "либето ти се посврши.",
+       "lat": "libeto ti se posvrši.",
+       "en": "your lover is engaged to be married."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пушти ме мамо да идам,",
+       "lat": "- Pušti me mamo da idam,",
+       "en": "Let me go, mother,"
+      },
+      {
+       "cyr": "на либе да му честитам.",
+       "lat": "na libe da mu čestitam.",
+       "en": "congratulate my love."
+      },
+      {
+       "cyr": "Оф, аман, аман, мајко, ле,",
+       "lat": "Of, aman, aman, majko, le,",
+       "en": "Hey, mother, hey,"
+      },
+      {
+       "cyr": "на либе да му честитам.",
+       "lat": "na libe da mu čestitam.",
+       "en": "congratulate my love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Честито либе невеста,",
+       "lat": "Čestito libe nevesta,",
+       "en": "Congratulations, my love, on your bride,"
+      },
+      {
+       "cyr": "невеста невековита.",
+       "lat": "nevesta nevekovita.",
+       "en": "not-lasting bride."
+      },
+      {
+       "cyr": "Оф, аман, аман, либе, ле,",
+       "lat": "Of, aman, aman, libe, le,",
+       "en": "Hey, dear, hey,"
+      },
+      {
+       "cyr": "сос' неја да се венчуваш.",
+       "lat": "sos' neja da se venčuvaš.",
+       "en": "may you marry her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сос' неја да се венчуваш,",
+       "lat": "Sos' neja da se venčuvaš,",
+       "en": "May you marry her,"
+      },
+      {
+       "cyr": "сос' мене да се ќердосаш.",
+       "lat": "sos' mene da se ḱerdosaš.",
+       "en": "may you find happiness with me."
+      },
+      {
+       "cyr": "Оф, аман, аман, либе, ле,",
+       "lat": "Of, aman, aman, libe, le,",
+       "en": "Hey, my love, hey,"
+      },
+      {
+       "cyr": "сос' мене да се ќердосаш.",
+       "lat": "sos' mene da se ḱerdosaš.",
+       "en": "may you find happiness with me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

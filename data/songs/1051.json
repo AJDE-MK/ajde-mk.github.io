@@ -1,0 +1,169 @@
+{
+ "id": 1051,
+ "slug": "svadba-golema",
+ "title_cyr": "Свадба голема",
+ "title_latin": "Svadba golema",
+ "title_en": "A big wedding",
+ "pesna_url": "https://pesna.org/song/1051",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Војо Стојановски",
+  "Николина Чакурдукова"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2397"
+  },
+  {
+   "who": "Николина Чакурдукова",
+   "url": "https://pesna.org/audio-download/2436"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цела ноќ, до зори пушки, мајко, пукаат,",
+       "lat": "Cela noḱ, do zori puški, majko, pukaat,",
+       "en": "Whole night, until dawn, mother, rifles are firing,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Радика се река ори, свадбари се веселат.",
+       "lat": "Radika se reka ori, svadbari se veselat.",
+       "en": "the river Radika is resounding, wedding guests are cheerful.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свадба е голема, денес се женам,",
+       "lat": "Svadba e golema, denes se ženam,",
+       "en": "It is a big wedding, today I am getting married,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јана е јубава мома, ја земам јас.",
+       "lat": "Jana e jubava moma, ja zemam jas.",
+       "en": "Jana is a pretty girl, I take her.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тапан силно нека удри, зурли нека вијат,",
+       "lat": "Tapan silno neka udri, zurli neka vijat,",
+       "en": "May the drum beat strong, may the zurli* sound,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај од китен бардак, мајко, сите да се напијат.",
+       "lat": "daj od kiten bardak, majko, site da se napijat.",
+       "en": "give me the decorated jug, mother, let everyone drink.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цела вечер, мајко, тапани се слушаат,",
+       "lat": "Cela večer, majko, tapani se slušaat,",
+       "en": "Whole night, mother, the drums are beating,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јана мома оро води, свадба ѝ е денеска.",
+       "lat": "Jana moma oro vodi, svadba ì e deneska.",
+       "en": "the girl Jana leads the oro, it is her wedding today.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свадба е голема, денес се женам,",
+       "lat": "Svadba e golema, denes se ženam,",
+       "en": "It is a big wedding, today I am getting married,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јана е јубава мома, ја земам јас.",
+       "lat": "Jana e jubava moma, ja zemam jas.",
+       "en": "Jana is a pretty girl, I take her.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тапан силно нека удри, зурли нека вијат,",
+       "lat": "Tapan silno neka udri, zurli neka vijat,",
+       "en": "May the drum beat strong, may the zurli* sound,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај од китен бардак, мајко, сите да се напијат.",
+       "lat": "daj od kiten bardak, majko, site da se napijat.",
+       "en": "give me the decorated jug, mother, let everyone drink.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Силно тапан чука, како гром да удира,",
+       "lat": "Silno tapan čuka, kako grom da udira,",
+       "en": "The drum beats strong, like thunder struck,",
+       "en_mt": false
+      },
+      {
+       "cyr": "колку Јана јас ја љубам, знае цела Радика.",
+       "lat": "kolku Jana jas ja ljubam, znae cela Radika.",
+       "en": "I love Jana so much, let the whole Radika know.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свадба е голема, денес се женам,",
+       "lat": "Svadba e golema, denes se ženam,",
+       "en": "It is a big wedding, today I am getting married,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јана е јубава мома, ја земам јас.",
+       "lat": "Jana e jubava moma, ja zemam jas.",
+       "en": "Jana is a pretty girl, I take her.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тапан силно нека удри, зурли нека вијат,",
+       "lat": "Tapan silno neka udri, zurli neka vijat,",
+       "en": "May the drum beat strong, may the zurli* sound,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај од китен бардак, мајко, сите да се напијат.",
+       "lat": "daj od kiten bardak, majko, site da se napijat.",
+       "en": "give me the decorated jug, mother, let everyone drink.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,137 @@
+{
+ "id": 1082,
+ "slug": "zora-se-zori",
+ "title_cyr": "Зора се зори",
+ "title_latin": "Zora se zori",
+ "title_en": "Dawn is breaking",
+ "pesna_url": "https://pesna.org/song/1082",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Стани ми, на мајка' I read as 'get up for your mother's sake', my reading. Dialect third plural -ет (одет, пеат).",
+ "words_to_learn": [
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "се зори",
+   "en": "day is breaking"
+  },
+  {
+   "mk": "петел",
+   "en": "rooster"
+  },
+  {
+   "mk": "галена",
+   "en": "darling, pampered"
+  },
+  {
+   "mk": "ешче",
+   "en": "still (dialect)"
+  },
+  {
+   "mk": "друшка",
+   "en": "girlfriend"
+  },
+  {
+   "mk": "одет",
+   "en": "they go (dialect)"
+  },
+  {
+   "mk": "буди",
+   "en": "wakes"
+  }
+ ],
+ "performers": [
+  "Ethnusiasm"
+ ],
+ "audio": [
+  {
+   "who": "Ethnusiasm",
+   "url": "https://pesna.org/audio-download/2532"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зора се зори, петлите пеат",
+       "lat": "Zora se zori, petlite peat",
+       "en": "Dawn is breaking, the roosters crow,"
+      },
+      {
+       "cyr": "Лена галена, ешче ми спие.",
+       "lat": "Lena galena, ešče mi spie.",
+       "en": "Lena the darling is still asleep."
+      },
+      {
+       "cyr": "Ленини друшки на вода одет",
+       "lat": "Lenini druški na voda odet",
+       "en": "Lena's girlfriends go to the water,"
+      },
+      {
+       "cyr": "Лена галена ешче ми спие.",
+       "lat": "Lena galena ešče mi spie.",
+       "en": "Lena the darling is still asleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ленина мајка, Лена ја буди:",
+       "lat": "Lenina majka, Lena ja budi:",
+       "en": "Lena's mother wakes Lena:"
+      },
+      {
+       "cyr": "- Стани ми Лено, Лено галена.",
+       "lat": "- Stani mi Leno, Leno galena.",
+       "en": "- Get up, Lena, darling Lena."
+      },
+      {
+       "cyr": "Стани ми, на мајка,",
+       "lat": "Stani mi, na majka,",
+       "en": "Get up, to your mother,"
+      },
+      {
+       "cyr": "твоите друшки на вода одет.",
+       "lat": "tvoite druški na voda odet.",
+       "en": "your girlfriends are going to the water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одет на вода",
+       "lat": "Odet na voda",
+       "en": "They are going to the water,"
+      },
+      {
+       "cyr": "стани ми галена",
+       "lat": "stani mi galena",
+       "en": "get up, darling,"
+      },
+      {
+       "cyr": "твоите друшки на вода одет",
+       "lat": "tvoite druški na voda odet",
+       "en": "your girlfriends are going to the water,"
+      },
+      {
+       "cyr": "стани ми Лено, Лено галена.",
+       "lat": "stani mi Leno, Leno galena.",
+       "en": "get up, Lena, darling Lena."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

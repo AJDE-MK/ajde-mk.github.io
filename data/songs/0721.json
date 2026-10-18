@@ -1,0 +1,146 @@
+{
+ "id": 721,
+ "slug": "de-mori-vase-vase",
+ "title_cyr": "Де мори Васе, Васе",
+ "title_latin": "De mori Vase, Vase",
+ "title_en": "Come on, Hey Vasa, Vasa",
+ "pesna_url": "https://pesna.org/song/721",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'масен мазник' (oiled apron) and 'Генџовчето' (son of Gendzo, or 'the young Gendzo') are my readings. 'Делинасу' and 'Булубаша' are names or titles I do not recognize; I left them transliterated.",
+ "words_to_learn": [
+  {
+   "mk": "танко",
+   "en": "slender, thin"
+  },
+  {
+   "mk": "засукај",
+   "en": "tuck up, roll up"
+  },
+  {
+   "mk": "поли",
+   "en": "skirts, hems"
+  },
+  {
+   "mk": "ракави",
+   "en": "sleeves"
+  },
+  {
+   "mk": "мазник",
+   "en": "(my reading) apron, work garment"
+  },
+  {
+   "mk": "гости",
+   "en": "guests"
+  },
+  {
+   "mk": "млада",
+   "en": "bride, young woman"
+  },
+  {
+   "mk": "џанам",
+   "en": "my soul, dear (Turkish loan)"
+  }
+ ],
+ "performers": [
+  "Никола Бадев",
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/695"
+  },
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4106"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Де мори Васе, Васе, танко Васе,",
+       "lat": "De mori Vase, Vase, tanko Vase,",
+       "en": "Come on, hey Vasa, Vasa, slender Vasa,"
+      },
+      {
+       "cyr": "ја засукај Васе, бели поли.",
+       "lat": "ja zasukaj Vase, beli poli.",
+       "en": "tuck up, Vasa, your white skirts."
+      },
+      {
+       "cyr": "Бели поли, Васе, ем ракави.",
+       "lat": "Beli poli, Vase, em rakavi.",
+       "en": "White skirts, Vasa, and sleeves too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Де мори засукај, Васе, масен мазник,",
+       "lat": "De mori zasukaj, Vase, masen maznik,",
+       "en": "Come on, hey, tuck up, Vasa, your oiled apron,"
+      },
+      {
+       "cyr": "ќе ти дојдат, Васе, мили гости.",
+       "lat": "ḱe ti dojdat, Vase, mili gosti.",
+       "en": "dear guests will come to you, Vasa."
+      },
+      {
+       "cyr": "Осман Бегот, Васе, Генџовчето.",
+       "lat": "Osman Begot, Vase, Gendžovčeto.",
+       "en": "Osman Beg, Vasa, the son of Gendzo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Де мори и со него Васе, и по него,",
+       "lat": "De mori i so nego Vase, i po nego,",
+       "en": "Come on, hey, and with him, Vasa, and after him,"
+      },
+      {
+       "cyr": "Делинасу, Васе, Булубаша.",
+       "lat": "Delinasu, Vase, Bulubaša.",
+       "en": "Delinasu, Vasa, Bulubasha."
+      },
+      {
+       "cyr": "Тебе млада, Васе, да те зема.",
+       "lat": "Tebe mlada, Vase, da te zema.",
+       "en": "They will take you as a bride, Vasa."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Де мори дури речта, Васе, не изрече,",
+       "lat": "De mori duri rečta, Vase, ne izreče,",
+       "en": "Come on, hey, before the words, Vasa, were spoken,"
+      },
+      {
+       "cyr": "ми дојдова џанам, мили гости.",
+       "lat": "mi dojdova džanam, mili gosti.",
+       "en": "dear guests arrived, my soul."
+      },
+      {
+       "cyr": "Осман Бегот, Васе, Генџовчето.",
+       "lat": "Osman Begot, Vase, Gendžovčeto.",
+       "en": "Osman Beg, Vasa, the son of Gendzo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

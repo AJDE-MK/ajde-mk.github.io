@@ -1,0 +1,193 @@
+{
+ "id": 1446,
+ "slug": "legna-si-mama-legna-i-tate",
+ "title_cyr": "Легна си мама, легна и тате",
+ "title_latin": "Legna si mama, legna i tate",
+ "title_en": "Mother Lay Down, and Father Too",
+ "pesna_url": "https://pesna.org/song/1446",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style song. 'Од што се лудо зарадвало, дури не разбрало' is my reading (the lover rejoiced before even understanding); the final stanza mixes the mother's question and the girl's answer in one block.",
+ "words_to_learn": [
+  {
+   "mk": "легна",
+   "en": "lay down, went to bed"
+  },
+  {
+   "mk": "лудо",
+   "en": "darling, love (endearment, lit. crazy one)"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (emphatic particle)"
+  },
+  {
+   "mk": "вечер по вечера",
+   "en": "in the evening after supper"
+  },
+  {
+   "mk": "тропна",
+   "en": "knocked"
+  },
+  {
+   "mk": "кљукна",
+   "en": "rapped, knocked (also: кљука)"
+  },
+  {
+   "mk": "порте",
+   "en": "gate (dialect, standard: порта)"
+  },
+  {
+   "mk": "не зајдено",
+   "en": "not yet set (of the sun)"
+  },
+  {
+   "mk": "рај",
+   "en": "paradise"
+  },
+  {
+   "mk": "се така се слуша",
+   "en": "it always sounds like that"
+  }
+ ],
+ "performers": [
+  "Билјана Булдиоска",
+  "Пелагониски бисери",
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/3691"
+  },
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/3692"
+  },
+  {
+   "who": "Пелагониски бисери",
+   "url": "https://pesna.org/audio-download/3693"
+  },
+  {
+   "who": "Билјана Булдиоска",
+   "url": "https://pesna.org/audio-download/3694"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Легна си мама, легна и тате,",
+       "lat": "Legna si mama, legna i tate,",
+       "en": "Mother lay down, and father too,"
+      },
+      {
+       "cyr": "јас немам со кого.",
+       "lat": "jas nemam so kogo.",
+       "en": "I have no one to be with."
+      },
+      {
+       "cyr": "Дојди лудо дојди бре младо",
+       "lat": "Dojdi ludo dojdi bre mlado",
+       "en": "Come, my love, come, my young one,"
+      },
+      {
+       "cyr": "вечер по вечера.",
+       "lat": "večer po večera.",
+       "en": "in the evening after supper."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од што се лудо зарадвало,",
+       "lat": "Od što se ludo zaradvalo,",
+       "en": "How the love rejoiced,"
+      },
+      {
+       "cyr": "дури не разбрало.",
+       "lat": "duri ne razbralo.",
+       "en": "before he even understood."
+      },
+      {
+       "cyr": "Тропна кљукна на портето,",
+       "lat": "Tropna kljukna na porteto,",
+       "en": "He knocked, rapped at the gate,"
+      },
+      {
+       "cyr": "сонце не зајдено.",
+       "lat": "sonce ne zajdeno.",
+       "en": "the sun not yet set."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори ќерко, мила ќерко,",
+       "lat": "- Mori ḱerko, mila ḱerko,",
+       "en": "- Hey daughter, dear daughter,"
+      },
+      {
+       "cyr": "кој тропа на порте?",
+       "lat": "koj tropa na porte?",
+       "en": "who is knocking at the gate?"
+      },
+      {
+       "cyr": "- Спи ми мајко, спи стара мајко,",
+       "lat": "- Spi mi majko, spi stara majko,",
+       "en": "- Sleep, mother, sleep, old mother,"
+      },
+      {
+       "cyr": "сè така се слуша.",
+       "lat": "sè taka se sluša.",
+       "en": "it always sounds that way."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори ќерко, мила ќерко,",
+       "lat": "- Mori ḱerko, mila ḱerko,",
+       "en": "- Hey daughter, dear daughter,"
+      },
+      {
+       "cyr": "кој тропа на порте:",
+       "lat": "koj tropa na porte:",
+       "en": "who is knocking at the gate:"
+      },
+      {
+       "cyr": "- Тропа, кљука, в' рај ме вика,",
+       "lat": "- Tropa, kljuka, v' raj me vika,",
+       "en": "- He knocks, he raps, he calls me to paradise,"
+      },
+      {
+       "cyr": "отвори да влезам.",
+       "lat": "otvori da vlezam.",
+       "en": "open so that I may come in."
+      },
+      {
+       "cyr": "Спи ми мајко, спи стара мајко,",
+       "lat": "Spi mi majko, spi stara majko,",
+       "en": "Sleep, mother, sleep, old mother,"
+      },
+      {
+       "cyr": "сè така се слуша.",
+       "lat": "sè taka se sluša.",
+       "en": "it always sounds that way."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

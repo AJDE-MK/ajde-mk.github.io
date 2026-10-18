@@ -1,0 +1,169 @@
+{
+ "id": 76,
+ "slug": "niko-niko-meandzhiko",
+ "title_cyr": "Нико, Нико меанџико",
+ "title_latin": "Niko, Niko meandžiko",
+ "title_en": "Nika, my landlady",
+ "pesna_url": "https://pesna.org/song/76",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасиа Митровска",
+  "Билјан Стојаноски",
+  "Васка Илиева",
+  "Молика",
+  "Наум Петрески",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/615"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/616"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/617"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/618"
+  },
+  {
+   "who": "Сузана Спасовска, Наум Петрески",
+   "url": "https://pesna.org/audio-download/619"
+  },
+  {
+   "who": "Анастасиа Митровска, Молика",
+   "url": "https://pesna.org/audio-download/4393"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Нико, Нико мори, меанџико,",
+       "lat": "- Niko, Niko mori, meandžiko,",
+       "en": "- Nika, my landlady,",
+       "en_mt": false
+      },
+      {
+       "cyr": "чини есап Нико да ми платиш,",
+       "lat": "čini esap Niko da mi platiš,",
+       "en": "now it is time to pay me, your servant.",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ти служев, Нико, три години,",
+       "lat": "što ti služev, Niko, tri godini,",
+       "en": "I’ve already been serving you for three years.",
+       "en_mt": false
+      },
+      {
+       "cyr": "сум решило Нико да се женам.",
+       "lat": "sum rešilo Niko da se ženam.",
+       "en": "But now I have decided to set out for marriage.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј Стојане, море измеќаре,",
+       "lat": "- Ej Stojane, more izmeḱare,",
+       "en": "- Stojan, young Stoyan,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ако сакаш Стојан да се жениш,",
+       "lat": "ako sakaš Stojan da se ženiš,",
+       "en": "if you want to marry:",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас си имам Стојан, измеќарки,",
+       "lat": "jas si imam Stojan, izmeḱarki,",
+       "en": "I have many maidservants,",
+       "en_mt": false
+      },
+      {
+       "cyr": "која сакаш Стојан, таа земи.",
+       "lat": "koja sakaš Stojan, taa zemi.",
+       "en": "Whichever of them you want, take her as a bride.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нико, Нико мори, меанџико,",
+       "lat": "- Niko, Niko mori, meandžiko,",
+       "en": "- Nika, my landlady,",
+       "en_mt": false
+      },
+      {
+       "cyr": "татко ми оставил проклетија,",
+       "lat": "tatko mi ostavil prokletija,",
+       "en": "my father spoke a curse over me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да не земам, Нико, јас девојка,",
+       "lat": "da ne zemam, Niko, jas devojka,",
+       "en": "that I wouldn’t marry a girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тук' да земам, Нико, јас вдовица.",
+       "lat": "tuk' da zemam, Niko, jas vdovica.",
+       "en": "but I would marry a widow.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј Стојане, море, млад Стојане,",
+       "lat": "- Ej Stojane, more, mlad Stojane,",
+       "en": "- Stojan, young Stojan,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ако сакаш, Стојан, ти вдовица,",
+       "lat": "ako sakaš, Stojan, ti vdovica,",
+       "en": "If you want to take a widow,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ако сакаш, Стојан, ти вдовица,",
+       "lat": "ako sakaš, Stojan, ti vdovica,",
+       "en": "If you want to take a widow,",
+       "en_mt": false
+      },
+      {
+       "cyr": "седи овде, Стојан, земај мене.",
+       "lat": "sedi ovde, Stojan, zemaj mene.",
+       "en": "stay here and marry me.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

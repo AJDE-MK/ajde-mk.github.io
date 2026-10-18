@@ -1,0 +1,185 @@
+{
+ "id": 905,
+ "slug": "praznik-ljuboven",
+ "title_cyr": "Празник љубовен",
+ "title_latin": "Praznik ljuboven",
+ "title_en": "A festival of love",
+ "pesna_url": "https://pesna.org/song/905",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern song in style; origin unclear, I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "усни",
+   "en": "lips"
+  },
+  {
+   "mk": "длабоко",
+   "en": "deep"
+  },
+  {
+   "mk": "препливам",
+   "en": "I swim across"
+  },
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "распушти",
+   "en": "let loose (hair)"
+  },
+  {
+   "mk": "престол",
+   "en": "throne"
+  },
+  {
+   "mk": "чаша",
+   "en": "glass, cup"
+  }
+ ],
+ "performers": [
+  "Душко Георгиевски"
+ ],
+ "audio": [
+  {
+   "who": "Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/1987"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Твоите усни слатки како јаболко,",
+       "lat": "Tvoite usni slatki kako jabolko,",
+       "en": "Your lips sweet as an apple,"
+      },
+      {
+       "cyr": "прават да не спијам.",
+       "lat": "pravat da ne spijam.",
+       "en": "they keep me from sleeping."
+      },
+      {
+       "cyr": "Твоите очи како море длабоко,",
+       "lat": "Tvoite oči kako more dlaboko,",
+       "en": "Your eyes like the deep sea,"
+      },
+      {
+       "cyr": "само јас можам да ги препливам.",
+       "lat": "samo jas možam da gi preplivam.",
+       "en": "only I can swim across them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум облак што го крие сонцето,",
+       "lat": "Jas sum oblak što go krie sonceto,",
+       "en": "I am a cloud that hides the sun,"
+      },
+      {
+       "cyr": "кога те допирам.",
+       "lat": "koga te dopiram.",
+       "en": "when I touch you."
+      },
+      {
+       "cyr": "Ти си цвеќе што ми расте в' срцето,",
+       "lat": "Ti si cveḱe što mi raste v' srceto,",
+       "en": "You are a flower growing in my heart,"
+      },
+      {
+       "cyr": "божји дар, роса што ја собирам.",
+       "lat": "božji dar, rosa što ja sobiram.",
+       "en": "god's gift, dew that I gather."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Празник љубовен, секој ден е за мене,",
+       "lat": "Praznik ljuboven, sekoj den e za mene,",
+       "en": "A festival of love, every day is one for me,"
+      },
+      {
+       "cyr": "дали може вечно да се сакаме?",
+       "lat": "dali može večno da se sakame?",
+       "en": "can we love each other forever?"
+      },
+      {
+       "cyr": "Коси распушти, силен оган запали,",
+       "lat": "Kosi raspušti, silen ogan zapali,",
+       "en": "Let down your hair, light a strong fire,"
+      },
+      {
+       "cyr": "нека одат сите лоши мисли.",
+       "lat": "neka odat site loši misli.",
+       "en": "let all the bad thoughts go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Добро знаеш каде ти е местото,",
+       "lat": "Dobro znaeš kade ti e mestoto,",
+       "en": "You know well where your place is,"
+      },
+      {
+       "cyr": "тука во душата.",
+       "lat": "tuka vo dušata.",
+       "en": "right here in the soul."
+      },
+      {
+       "cyr": "Тука ти е царството и престолот,",
+       "lat": "Tuka ti e carstvoto i prestolot,",
+       "en": "Here is your kingdom and your throne,"
+      },
+      {
+       "cyr": "за нас пак ќе ја кренам чашата.",
+       "lat": "za nas pak ḱe ja krenam čašata.",
+       "en": "for us I will raise the glass again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Празник љубовен, секој ден е за мене,",
+       "lat": "Praznik ljuboven, sekoj den e za mene,",
+       "en": "A festival of love, every day is one for me,"
+      },
+      {
+       "cyr": "дали може вечно да се сакаме?",
+       "lat": "dali može večno da se sakame?",
+       "en": "can we love each other forever?"
+      },
+      {
+       "cyr": "Коси распушти, силен оган запали,",
+       "lat": "Kosi raspušti, silen ogan zapali,",
+       "en": "Let down your hair, light a strong fire,"
+      },
+      {
+       "cyr": "нека одат сите лоши мисли.",
+       "lat": "neka odat site loši misli.",
+       "en": "let all the bad thoughts go."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

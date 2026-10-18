@@ -1,0 +1,162 @@
+{
+ "id": 913,
+ "slug": "mori-mome-maloj-mome",
+ "title_cyr": "Мори моме, малој моме",
+ "title_latin": "Mori mome, maloj mome",
+ "title_en": "Hey girl, little girl",
+ "pesna_url": "https://pesna.org/song/913",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Вода да залеам' is rendered 'to water the flowers' as my reading; the object is not stated. 'Раце да ни бидат лични' is read as 'our hands look alike' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "залеам",
+   "en": "to water, to pour on"
+  },
+  {
+   "mk": "кладенец",
+   "en": "well, spring"
+  },
+  {
+   "mk": "јаболчиња",
+   "en": "little apple trees"
+  },
+  {
+   "mk": "позлатени",
+   "en": "gilded"
+  },
+  {
+   "mk": "кујунџии",
+   "en": "goldsmiths, jewellers"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, dear (affectionate address)"
+  }
+ ],
+ "performers": [
+  "Влатко Лозаноски",
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2024"
+  },
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/2457"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме, малој моме,",
+       "lat": "Mori mome, maloj mome,",
+       "en": "Hey girl, little girl,"
+      },
+      {
+       "cyr": "каде вода да залеам?",
+       "lat": "kade voda da zaleam?",
+       "en": "where can I water the flowers?"
+      },
+      {
+       "cyr": "- Море лудо, абре младо,",
+       "lat": "- More ludo, abre mlado,",
+       "en": "- Hey fool, hey young one,"
+      },
+      {
+       "cyr": "таму долу, под селото.",
+       "lat": "tamu dolu, pod seloto.",
+       "en": "over there below the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму има два кладенца",
+       "lat": "Tamu ima dva kladenca",
+       "en": "There are two wells there"
+      },
+      {
+       "cyr": "и над ними јаболчиња,",
+       "lat": "i nad nimi jabolčinja,",
+       "en": "and above them little apple trees,"
+      },
+      {
+       "cyr": "јаболчиња род родиле,",
+       "lat": "jabolčinja rod rodile,",
+       "en": "the little apple trees bore fruit,"
+      },
+      {
+       "cyr": "две јаболка позлатени.",
+       "lat": "dve jabolka pozlateni.",
+       "en": "two gilded apples."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Појди, лудо, откини ги,",
+       "lat": "Pojdi, ludo, otkini gi,",
+       "en": "Go, fool, pick them,"
+      },
+      {
+       "cyr": "однеси кај кујунџии,",
+       "lat": "odnesi kaj kujundžii,",
+       "en": "take them to the goldsmiths,"
+      },
+      {
+       "cyr": "да излеат два прстена,",
+       "lat": "da izleat dva prstena,",
+       "en": "to have two rings cast,"
+      },
+      {
+       "cyr": "еден тебе, други мене.",
+       "lat": "eden tebe, drugi mene.",
+       "en": "one for you, the other for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да излеат два прстена,",
+       "lat": "Da izleat dva prstena,",
+       "en": "To have two rings cast,"
+      },
+      {
+       "cyr": "еден тебе, други мене,",
+       "lat": "eden tebe, drugi mene,",
+       "en": "one for you, the other for me,"
+      },
+      {
+       "cyr": "двајца да имаме исти,",
+       "lat": "dvajca da imame isti,",
+       "en": "so that we two have the same,"
+      },
+      {
+       "cyr": "раце да ни бидат лични.",
+       "lat": "race da ni bidat lični.",
+       "en": "so that our hands look alike."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

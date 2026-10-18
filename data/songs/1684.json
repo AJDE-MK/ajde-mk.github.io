@@ -1,0 +1,107 @@
+{
+ "id": 1684,
+ "slug": "edno-rano-vo-zorata",
+ "title_cyr": "Едно рано во зората",
+ "title_latin": "Edno rano vo zorata",
+ "title_en": "Early at dawn",
+ "pesna_url": "https://pesna.org/song/1684",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4500"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Едно рано во зората,",
+       "lat": "Edno rano vo zorata,",
+       "en": "Early at dawn,"
+      },
+      {
+       "cyr": "село Д'мбени се сардиса,",
+       "lat": "selo D'mbeni se sardisa,",
+       "en": "the village of D'mbeni was besieged;"
+      },
+      {
+       "cyr": "преку полноќ бој се фати.",
+       "lat": "preku polnoḱ boj se fati.",
+       "en": "battle started in the dead of night."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дедо Митре мустаќ сука,",
+       "lat": "Dedo Mitre mustaḱ suka,",
+       "en": "Grandfather Mitre twirls his mustache,"
+      },
+      {
+       "cyr": "Пандо Клашо сеир прави.",
+       "lat": "Pando Klašo seir pravi.",
+       "en": "Pando Klasho looks on, amused."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вангел Влао тапан бие,",
+       "lat": "Vangel Vlao tapan bie,",
+       "en": "Vangel Vlao beats the drum,"
+      },
+      {
+       "cyr": "Хаџи Аса го умираа.",
+       "lat": "Hadži Asa go umiraa.",
+       "en": "Haji Asa is breathing his last."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Комитите излегоа",
+       "lat": "Komitite izlegoa",
+       "en": "The comitadji emerged"
+      },
+      {
+       "cyr": "и на Турци извикаа:",
+       "lat": "i na Turci izvikaa:",
+       "en": "and shouted to the Turks:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Агалари, пашалари,",
+       "lat": "Agalari, pašalari,",
+       "en": "Aghas and Pashas,"
+      },
+      {
+       "cyr": "ај елајте, фатете не!",
+       "lat": "aj elajte, fatete ne!",
+       "en": "come on then, try to catch us!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

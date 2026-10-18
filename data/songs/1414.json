@@ -1,0 +1,101 @@
+{
+ "id": 1414,
+ "slug": "polnite-ochi",
+ "title_cyr": "Полните очи",
+ "title_latin": "Polnite oči",
+ "title_en": "The full eyes",
+ "pesna_url": "https://pesna.org/song/1414",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ти моме убаво, убаво и лично,",
+       "lat": "- Oj ti mome ubavo, ubavo i lično,",
+       "en": "- Oh you beautiful maiden, beautiful and lovely,"
+      },
+      {
+       "cyr": "роб ќе ти бидам до три години,",
+       "lat": "rob ḱe ti bidam do tri godini,",
+       "en": "I will be your servant for three years,"
+      },
+      {
+       "cyr": "до три години, до три години.",
+       "lat": "do tri godini, do tri godini.",
+       "en": "for three years, for three years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За да ти видам рамната, рамната става,",
+       "lat": "Za da ti vidam ramnata, ramnata stava,",
+       "en": "Just to see your gorgeous, gorgeous body,"
+      },
+      {
+       "cyr": "црните очи, тенките веѓи,",
+       "lat": "crnite oči, tenkite veǵi,",
+       "en": "your black eyes, your thin eyebrows,"
+      },
+      {
+       "cyr": "тенките веѓи, тенките веѓи.",
+       "lat": "tenkite veǵi, tenkite veǵi.",
+       "en": "thin eyebrows, thin eyebrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твој црвен образ медната, медната уста,",
+       "lat": "Tvoj crven obraz mednata, mednata usta,",
+       "en": "Your rosy cheeks, your honey, honey lips,"
+      },
+      {
+       "cyr": "белото грло, белите гради,",
+       "lat": "beloto grlo, belite gradi,",
+       "en": "your white neck, your white bosom,"
+      },
+      {
+       "cyr": "белите гради, белите гради.",
+       "lat": "belite gradi, belite gradi.",
+       "en": "your white bosom, your white bosom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди лудо, дејгиди младо,",
+       "lat": "- Dejgidi ludo, dejgidi mlado,",
+       "en": "- Listen you foolish lad,"
+      },
+      {
+       "cyr": "дека ќе видиш што фајде имаш,",
+       "lat": "deka ḱe vidiš što fajde imaš,",
+       "en": "what use do you get from looking,"
+      },
+      {
+       "cyr": "полните очи, леле празните раце!",
+       "lat": "polnite oči, lele praznite race!",
+       "en": "your eyes are full, but your hands are empty!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

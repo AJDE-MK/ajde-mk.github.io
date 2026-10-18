@@ -1,0 +1,129 @@
+{
+ "id": 1372,
+ "slug": "site-si-pojdoa-mamo",
+ "title_cyr": "Сите си појдоа мамо",
+ "title_latin": "Site si pojdoa mamo",
+ "title_en": "They have all gone, mother",
+ "pesna_url": "https://pesna.org/song/1372",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song; origin unclear (probably traditional/folk-style). 'Там'' is short for 'таму' (there).",
+ "words_to_learn": [
+  {
+   "mk": "појдоа",
+   "en": "they went/left"
+  },
+  {
+   "mk": "си појдам",
+   "en": "I will go (away)"
+  },
+  {
+   "mk": "мамо",
+   "en": "mother (vocative)"
+  },
+  {
+   "mk": "шума",
+   "en": "forest"
+  },
+  {
+   "mk": "се бијат",
+   "en": "they fight"
+  },
+  {
+   "mk": "клети",
+   "en": "cursed"
+  },
+  {
+   "mk": "мила",
+   "en": "dear"
+  }
+ ],
+ "performers": [
+  "Ансамбл Гоце Делчев",
+  "Делчево",
+  "Октет Македонија"
+ ],
+ "audio": [
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/3549"
+  },
+  {
+   "who": "Ансамбл Гоце Делчев, Делчево",
+   "url": "https://pesna.org/audio-download/4240"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сите си појдоа мамо,",
+       "lat": "Site si pojdoa mamo,",
+       "en": "They have all gone, mother,"
+      },
+      {
+       "cyr": "сите си појдоа,",
+       "lat": "site si pojdoa,",
+       "en": "they have all gone,"
+      },
+      {
+       "cyr": "млади партизани.",
+       "lat": "mladi partizani.",
+       "en": "the young partisans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И јас ќе си појдам мамо,",
+       "lat": "I jas ḱe si pojdam mamo,",
+       "en": "And I will go too, mother,"
+      },
+      {
+       "cyr": "и јас ќе си појдам,",
+       "lat": "i jas ḱe si pojdam,",
+       "en": "and I will go too,"
+      },
+      {
+       "cyr": "горе во шумата.",
+       "lat": "gore vo šumata.",
+       "en": "up into the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' се бијат мила мамо,",
+       "lat": "Tam' se bijat mila mamo,",
+       "en": "There they fight, dear mother,"
+      },
+      {
+       "cyr": "млади партизани,",
+       "lat": "mladi partizani,",
+       "en": "the young partisans,"
+      },
+      {
+       "cyr": "там' се бијат мила мамо",
+       "lat": "tam' se bijat mila mamo",
+       "en": "there they fight, dear mother,"
+      },
+      {
+       "cyr": "со клети фашисти.",
+       "lat": "so kleti fašisti.",
+       "en": "with the cursed fascists."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,170 @@
+{
+ "id": 890,
+ "slug": "do-tri-mi-pushki-puknaa",
+ "title_cyr": "До три ми пушки пукнаа",
+ "title_latin": "Do tri mi puški puknaa",
+ "title_en": "Up to three rifles fired",
+ "pesna_url": "https://pesna.org/song/890",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'До три' rendered as 'up to three' (my reading; could mean 'about three'). 'Родна вдовица' rendered as 'your widow' (my reading: literally 'native/own widow').",
+ "words_to_learn": [
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "пукнаја",
+   "en": "fired (dialect past form)"
+  },
+  {
+   "mk": "паднаја",
+   "en": "fell (dialect past form)"
+  },
+  {
+   "mk": "вдовица",
+   "en": "widow"
+  },
+  {
+   "mk": "сирак",
+   "en": "orphan"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  },
+  {
+   "mk": "покрила",
+   "en": "has covered"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Венета Цветкова",
+  "Македонски мерак",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1944"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/2744"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/2745"
+  },
+  {
+   "who": "Венета Цветкова",
+   "url": "https://pesna.org/audio-download/2746"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "До три ми пушки пукнаја,",
+       "lat": "Do tri mi puški puknaja,",
+       "en": "Up to three rifles fired,"
+      },
+      {
+       "cyr": "до три јунака паднаја.",
+       "lat": "do tri junaka padnaja.",
+       "en": "up to three heroes fell."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До три јунака паднаја,",
+       "lat": "Do tri junaka padnaja,",
+       "en": "Up to three heroes fell,"
+      },
+      {
+       "cyr": "до три ми мајки плакаја.",
+       "lat": "do tri mi majki plakaja.",
+       "en": "up to three mothers wept."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До три ми мајки плакаја,",
+       "lat": "Do tri mi majki plakaja,",
+       "en": "Up to three mothers wept,"
+      },
+      {
+       "cyr": "стојанова мајка највеќе.",
+       "lat": "stojanova majka najveḱe.",
+       "en": "Stojan's mother most of all."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ми синко Стојане,",
+       "lat": "- Stani mi sinko Stojane,",
+       "en": "- Get up, my son Stojan,"
+      },
+      {
+       "cyr": "да видиш родна вдовица.",
+       "lat": "da vidiš rodna vdovica.",
+       "en": "to see your widow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да видиш родна вдовица,",
+       "lat": "Da vidiš rodna vdovica,",
+       "en": "To see your widow,"
+      },
+      {
+       "cyr": "со седум, осум сирака,",
+       "lat": "so sedum, osum siraka,",
+       "en": "with seven, eight orphans,"
+      },
+      {
+       "cyr": "деветти сирак на лулка.",
+       "lat": "devetti sirak na lulka.",
+       "en": "the ninth orphan in the cradle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам мајко да станам,",
+       "lat": "- Ne možam majko da stanam,",
+       "en": "- I cannot get up, mother,"
+      },
+      {
+       "cyr": "земја ми лице покрила,",
+       "lat": "zemja mi lice pokrila,",
+       "en": "the earth has covered my face,"
+      },
+      {
+       "cyr": "змија ми очи испила.",
+       "lat": "zmija mi oči ispila.",
+       "en": "a snake has drunk my eyes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

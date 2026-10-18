@@ -1,0 +1,168 @@
+{
+ "id": 1059,
+ "slug": "ti-se-armasa",
+ "title_cyr": "Ти се армаса",
+ "title_latin": "Ti se armasa",
+ "title_en": "You got engaged",
+ "pesna_url": "https://pesna.org/song/1059",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Мери Минас Магдалена"
+ ],
+ "audio": [
+  {
+   "who": "Мери Минас Магдалена",
+   "url": "https://pesna.org/audio-download/2437"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3850"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ти се армаса, јас се разболив,",
+       "lat": "Ti se armasa, jas se razboliv,",
+       "en": "You got engaged, I got sick,"
+      },
+      {
+       "cyr": "ти се армаса, јас се разболив,",
+       "lat": "ti se armasa, jas se razboliv,",
+       "en": "you got engaged, I got sick,"
+      },
+      {
+       "cyr": "лежав што лежав, до три години,",
+       "lat": "ležav što ležav, do tri godini,",
+       "en": "I was bedridden up to three years,"
+      },
+      {
+       "cyr": "виду, не виду, пак сам си станав.",
+       "lat": "vidu, ne vidu, pak sam si stanav.",
+       "en": "whether I saw it or not, alone I got up again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пак сам си станав, коња си вјанав,",
+       "lat": "Pak sam si stanav, konja si vjanav,",
+       "en": "I got up, rode my horse,"
+      },
+      {
+       "cyr": "пак сам си станав, коња си вјанав,",
+       "lat": "pak sam si stanav, konja si vjanav,",
+       "en": "I got up, rode my horse,"
+      },
+      {
+       "cyr": "коња си вјанав, дојду в' Котори",
+       "lat": "konja si vjanav, dojdu v' Kotori",
+       "en": "rode my horse, I arrived at Kotori,"
+      },
+      {
+       "cyr": "дојду в' Котори, Долно Котори.",
+       "lat": "dojdu v' Kotori, Dolno Kotori.",
+       "en": "I arrived at Kotori, Dolno Kotori."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму те најду, фурна да гориш,",
+       "lat": "Tamu te najdu, furna da goriš,",
+       "en": "I found you there, burning the oven,"
+      },
+      {
+       "cyr": "таму те најду, фурна да гориш,",
+       "lat": "tamu te najdu, furna da goriš,",
+       "en": "I found you there, burning the oven,"
+      },
+      {
+       "cyr": "фурна да гориш, та леб да печиш,",
+       "lat": "furna da goriš, ta leb da pečiš,",
+       "en": "burning the oven, baking the bread,"
+      },
+      {
+       "cyr": "фурна да гориш, та леб да печиш.",
+       "lat": "furna da goriš, ta leb da pečiš.",
+       "en": "burning the oven, baking the bread."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ка ме виде, просту се најде,",
+       "lat": "Ti ka me vide, prostu se najde,",
+       "en": "When you saw me, you stood up,"
+      },
+      {
+       "cyr": "ти ка ме виде, просту се најде,",
+       "lat": "ti ka me vide, prostu se najde,",
+       "en": "when you saw me, you stood up,"
+      },
+      {
+       "cyr": "коња ми фати, рака ми баци,",
+       "lat": "konja mi fati, raka mi baci,",
+       "en": "you grabbed my horse, kissed my hand,"
+      },
+      {
+       "cyr": "коња ми фати, рака ми баци.",
+       "lat": "konja mi fati, raka mi baci.",
+       "en": "you grabbed my horse, kissed my hand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рака ми баци, солзи зарона,",
+       "lat": "Raka mi baci, solzi zarona,",
+       "en": "You kissed my hand, shed tears,"
+      },
+      {
+       "cyr": "рака ми баци, солзи зарона,",
+       "lat": "raka mi baci, solzi zarona,",
+       "en": "you kissed my hand, shed tears,"
+      },
+      {
+       "cyr": "с'лзи зарона за наш'та љубов,",
+       "lat": "s'lzi zarona za naš'ta ljubov,",
+       "en": "you shed tears for our love,"
+      },
+      {
+       "cyr": "нашата љубов - жална разделба,",
+       "lat": "našata ljubov - žalna razdelba,",
+       "en": "our love - our sad farewell,"
+      },
+      {
+       "cyr": "с'лзи зарона за наш'та љубов,",
+       "lat": "s'lzi zarona za naš'ta ljubov,",
+       "en": "you shed tears for our love,"
+      },
+      {
+       "cyr": "нашата љубов - жална разделба.",
+       "lat": "našata ljubov - žalna razdelba.",
+       "en": "our love - our sad farewell."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

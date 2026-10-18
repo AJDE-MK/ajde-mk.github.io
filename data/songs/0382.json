@@ -1,0 +1,198 @@
+{
+ "id": 382,
+ "slug": "vo-vlashkoto-maalo",
+ "title_cyr": "Во влашкото маало",
+ "title_latin": "Vo vlaškoto maalo",
+ "title_en": "In the Vlach Quarter",
+ "pesna_url": "https://pesna.org/song/382",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јанино' is a refrain word I read as a name/vocative, a guess. 'Илчови' read as 'the Ilčov family'.",
+ "words_to_learn": [
+  {
+   "mk": "маало",
+   "en": "neighborhood, quarter"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "ѓерѓеф",
+   "en": "embroidery frame"
+  },
+  {
+   "mk": "везеше",
+   "en": "was embroidering"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "грош",
+   "en": "groschen, small coin"
+  },
+  {
+   "mk": "тук'",
+   "en": "but (short for туку)"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова",
+  "Деспина",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Сузана Спасовска",
+  "Чардаш"
+ ],
+ "audio": [
+  {
+   "who": "Чардаш",
+   "url": "https://pesna.org/audio-download/789"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/790"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/791"
+  },
+  {
+   "who": "Јорданка Куцулова, Ѓорѓи Андреевски",
+   "url": "https://pesna.org/audio-download/792"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/840"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во влашкото маало",
+       "lat": "Vo vlaškoto maalo",
+       "en": "In the Vlach quarter"
+      },
+      {
+       "cyr": "жолти куќи високи. [x2]",
+       "lat": "žolti kuḱi visoki. [x2]",
+       "en": "yellow houses, tall. [x2]"
+      },
+      {
+       "cyr": "Ој Јанино, баш Јанино",
+       "lat": "Oj Janino, baš Janino",
+       "en": "Oh Janino, truly Janino"
+      },
+      {
+       "cyr": "жолти куќи високи. [x2]",
+       "lat": "žolti kuḱi visoki. [x2]",
+       "en": "yellow houses, tall. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крај порти ми седеше",
+       "lat": "Kraj porti mi sedeše",
+       "en": "By the gate sat"
+      },
+      {
+       "cyr": "момето на Илчови.",
+       "lat": "mometo na Ilčovi.",
+       "en": "the girl of the Ilčovs."
+      },
+      {
+       "cyr": "Крај порти ми седеше",
+       "lat": "Kraj porti mi sedeše",
+       "en": "By the gate sat"
+      },
+      {
+       "cyr": "и на ѓерѓеф везеше.",
+       "lat": "i na ǵerǵef vezeše.",
+       "en": "and embroidered on a frame."
+      },
+      {
+       "cyr": "Ој Јанино, баш Јанино",
+       "lat": "Oj Janino, baš Janino",
+       "en": "Oh Janino, truly Janino"
+      },
+      {
+       "cyr": "и на ѓерѓеф везеше. [x2]",
+       "lat": "i na ǵerǵef vezeše. [x2]",
+       "en": "and embroidered on a frame. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде млад Стојан",
+       "lat": "Ozdola ide mlad Stojan",
+       "en": "From below comes young Stojan"
+      },
+      {
+       "cyr": "и на моме говори:",
+       "lat": "i na mome govori:",
+       "en": "and speaks to the girl:"
+      },
+      {
+       "cyr": "дај ми го моме ѓерѓефот",
+       "lat": "daj mi go mome ǵerǵefot",
+       "en": "give me the frame, girl,"
+      },
+      {
+       "cyr": "ќе ти дадам два гроша.",
+       "lat": "ḱe ti dadam dva groša.",
+       "en": "I will give you two groschen."
+      },
+      {
+       "cyr": "Ој Јанино, баш Јанино",
+       "lat": "Oj Janino, baš Janino",
+       "en": "Oh Janino, truly Janino"
+      },
+      {
+       "cyr": "ќе ти дадам два гроша. [x2]",
+       "lat": "ḱe ti dadam dva groša. [x2]",
+       "en": "I will give you two groschen. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ѝ даде два гроша",
+       "lat": "Ne ì dade dva groša",
+       "en": "He did not give her two groschen"
+      },
+      {
+       "cyr": "тук' ја фати за рака. [x2]",
+       "lat": "tuk' ja fati za raka. [x2]",
+       "en": "but took her by the hand. [x2]"
+      },
+      {
+       "cyr": "Ој Јанино, баш Јанино",
+       "lat": "Oj Janino, baš Janino",
+       "en": "Oh Janino, truly Janino"
+      },
+      {
+       "cyr": "тук' ја фати за рака. [x2]",
+       "lat": "tuk' ja fati za raka. [x2]",
+       "en": "but took her by the hand. [x2]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

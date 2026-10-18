@@ -1,0 +1,263 @@
+{
+ "id": 349,
+ "slug": "ne-se-fakjaj-done-donke",
+ "title_cyr": "Не се фаќај Доне, Донке",
+ "title_latin": "Ne se faḱaj Done, Donke",
+ "title_en": "Do Not Hold On to Me, Done, Donka",
+ "pesna_url": "https://pesna.org/song/349",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Доне, Донке' is a repeated vocative on a name (Donka); 'Ни година не пројде' is my reading of 'not even a year passed'. Could not confirm whether this is anonymous folk or a composed song.",
+ "words_to_learn": [
+  {
+   "mk": "не се фаќај",
+   "en": "do not hold on / do not grab"
+  },
+  {
+   "mk": "прегоре",
+   "en": "burned up"
+  },
+  {
+   "mk": "заљубив",
+   "en": "I fell in love with"
+  },
+  {
+   "mk": "изгубив",
+   "en": "I lost"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "заигра",
+   "en": "started to dance"
+  },
+  {
+   "mk": "разигра",
+   "en": "set dancing"
+  },
+  {
+   "mk": "тргни рака",
+   "en": "pull back your hand"
+  },
+  {
+   "mk": "оти",
+   "en": "because"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Борче Крстески",
+  "Виолета Митева",
+  "Драгица Мавровска",
+  "Драгица Николова",
+  "Захаринка Милосављевиќ",
+  "Иван Гоцев",
+  "Иван Узунов",
+  "Мухарем Сербезовски",
+  "Никола Бадев",
+  "Софија Гоцева"
+ ],
+ "audio": [
+  {
+   "who": "Борче Крстески, Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/1115"
+  },
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/1116"
+  },
+  {
+   "who": "Иван Гоцев, Софија Гоцева",
+   "url": "https://pesna.org/audio-download/1117"
+  },
+  {
+   "who": "Анка Гиева, Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/2585"
+  },
+  {
+   "who": "Мухарем Сербезовски",
+   "url": "https://pesna.org/audio-download/2586"
+  },
+  {
+   "who": "Драгица Николова, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2904"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не се фаќај Доне, Донке до мене",
+       "lat": "Ne se faḱaj Done, Donke do mene",
+       "en": "Do not hold on to me, Done, Donka,"
+      },
+      {
+       "cyr": "срце ми прегоре Донке за тебе.",
+       "lat": "srce mi pregore Donke za tebe.",
+       "en": "my heart burned up for you, Donka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј што те заљубив",
+       "lat": "Ej što te zaljubiv",
+       "en": "Hey, why did I fall in love with you,"
+      },
+      {
+       "cyr": "е, е, еј па те изгубив.",
+       "lat": "e, e, ej pa te izgubiv.",
+       "en": "oh, oh, hey, and then lose you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога војник Доне, Донке јас одев",
+       "lat": "Koga vojnik Done, Donke jas odev",
+       "en": "When I went off as a soldier, Done, Donka,"
+      },
+      {
+       "cyr": "ти орото Доне, Донке го водеше.",
+       "lat": "ti oroto Done, Donke go vodeše.",
+       "en": "you led the oro, Done, Donka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, што те заљубив",
+       "lat": "Ej, što te zaljubiv",
+       "en": "Hey, why did I fall in love with you,"
+      },
+      {
+       "cyr": "е, еј па те изгубив.",
+       "lat": "e, ej pa te izgubiv.",
+       "en": "oh, hey, and then lose you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти до мене Доне, Донке заигра,",
+       "lat": "Ti do mene Done, Donke zaigra,",
+       "en": "You started dancing next to me, Done, Donka,"
+      },
+      {
+       "cyr": "срцето ми Доне, Донке разигра.",
+       "lat": "srceto mi Done, Donke razigra.",
+       "en": "you set my heart dancing, Done, Donka."
+      },
+      {
+       "cyr": "Тогај збор ми Доне, Донке ти даде",
+       "lat": "Togaj zbor mi Done, Donke ti dade",
+       "en": "Then you gave me your word, Done, Donka,"
+      },
+      {
+       "cyr": "по година срцето си продаде.",
+       "lat": "po godina srceto si prodade.",
+       "en": "after a year you sold your heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј што те заљубив",
+       "lat": "Ej što te zaljubiv",
+       "en": "Hey, why did I fall in love with you,"
+      },
+      {
+       "cyr": "е, е, еј па те изгубив.",
+       "lat": "e, e, ej pa te izgubiv.",
+       "en": "oh, oh, hey, and then lose you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни година Доне, Донке не пројде",
+       "lat": "Ni godina Done, Donke ne projde",
+       "en": "Not even a year passed, Done, Donka,"
+      },
+      {
+       "cyr": "за другого Доне, Донке си појде.",
+       "lat": "za drugogo Done, Donke si pojde.",
+       "en": "and you went off to another, Done, Donka."
+      },
+      {
+       "cyr": "Не ме играј Доне, Донке не збори",
+       "lat": "Ne me igraj Done, Donke ne zbori",
+       "en": "Do not dance with me, Done, Donka, do not talk,"
+      },
+      {
+       "cyr": "оти знаеш Доне, Донке што стори.",
+       "lat": "oti znaeš Done, Donke što stori.",
+       "en": "because you know, Done, Donka, what you did."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј што те заљубив",
+       "lat": "Ej što te zaljubiv",
+       "en": "Hey, why did I fall in love with you,"
+      },
+      {
+       "cyr": "е, е, еј па те изгубив.",
+       "lat": "e, e, ej pa te izgubiv.",
+       "en": "oh, oh, hey, and then lose you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тргни рака Доне, Донке од мене",
+       "lat": "Trgni raka Done, Donke od mene",
+       "en": "Pull your hand away, Done, Donka, from me,"
+      },
+      {
+       "cyr": "срце веќе не ми игра за тебе.",
+       "lat": "srce veḱe ne mi igra za tebe.",
+       "en": "my heart no longer dances for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј што те заљубив",
+       "lat": "Ej što te zaljubiv",
+       "en": "Hey, why did I fall in love with you,"
+      },
+      {
+       "cyr": "е, е, еј па те изгубив.",
+       "lat": "e, e, ej pa te izgubiv.",
+       "en": "oh, oh, hey, and then lose you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

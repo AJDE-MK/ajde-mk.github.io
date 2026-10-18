@@ -1,0 +1,313 @@
+{
+ "id": 1330,
+ "slug": "zaplakala-mi-gorata",
+ "title_cyr": "Заплакала ми гората",
+ "title_latin": "Zaplakala mi gorata",
+ "title_en": "The Forest Wept",
+ "pesna_url": "https://pesna.org/song/1330",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Collected by the Miladinov brothers (folk song). Dialect forms (к'ј идет, ќе се обидит, испадит, немат) are Eastern Thracian/Bulgarian-border dialect; lines 'Првото срце го немат', 'мишки нејќеше' and 'ќе ги испадит' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "дрвата",
+   "en": "the trees"
+  },
+  {
+   "mk": "лисјата",
+   "en": "the leaves"
+  },
+  {
+   "mk": "кладенец",
+   "en": "well, spring"
+  },
+  {
+   "mk": "воѓе",
+   "en": "water (dialect)"
+  },
+  {
+   "mk": "ајдуци",
+   "en": "outlaws, highwaymen"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, outlaw chieftain"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "огласи",
+   "en": "answered, called out"
+  }
+ ],
+ "performers": [
+  "Perunika trio"
+ ],
+ "audio": [
+  {
+   "who": "Perunika trio",
+   "url": "https://pesna.org/audio-download/3413"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заплакала ми гората,",
+       "lat": "Zaplakala mi gorata,",
+       "en": "The forest wept for me,"
+      },
+      {
+       "cyr": "гората и планината",
+       "lat": "gorata i planinata",
+       "en": "the forest and the mountain"
+      },
+      {
+       "cyr": "и од гората дрвата,",
+       "lat": "i od gorata drvata,",
+       "en": "and from the forest the trees,"
+      },
+      {
+       "cyr": "и од дрвата лисјата,",
+       "lat": "i od drvata lisjata,",
+       "en": "and from the trees the leaves,"
+      },
+      {
+       "cyr": "од гнездата пилците,",
+       "lat": "od gnezdata pilcite,",
+       "en": "from the nests the chicks,"
+      },
+      {
+       "cyr": "и по земјата тревата,",
+       "lat": "i po zemjata trevata,",
+       "en": "and on the ground the grass,"
+      },
+      {
+       "cyr": "од кладенците воѓето",
+       "lat": "od kladencite voǵeto",
+       "en": "from the wells the water"
+      },
+      {
+       "cyr": "заради Инџе војвода:",
+       "lat": "zaradi Indže vojvoda:",
+       "en": "because of Indje the voivode:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Камо си, Инџе, да дојдеш?",
+       "lat": "- Kamo si, Indže, da dojdeš?",
+       "en": "- Where are you, Indje, that you do not come?"
+      },
+      {
+       "cyr": "Со ајдуци гора с' исполна,",
+       "lat": "So ajduci gora s' ispolna,",
+       "en": "The forest is full of outlaws,"
+      },
+      {
+       "cyr": "ајдуци оган дадое,",
+       "lat": "ajduci ogan dadoe,",
+       "en": "the outlaws set it on fire,"
+      },
+      {
+       "cyr": "гората ја изгорие.",
+       "lat": "gorata ja izgorie.",
+       "en": "they burned the forest."
+      },
+      {
+       "cyr": "Ејгиди Инџе војвода,",
+       "lat": "Ejgidi Indže vojvoda,",
+       "en": "Ah, brave Indje the voivode,"
+      },
+      {
+       "cyr": "камо си брго да дојдеш,",
+       "lat": "kamo si brgo da dojdeš,",
+       "en": "where are you, come quickly,"
+      },
+      {
+       "cyr": "спокој од гора избегал!",
+       "lat": "spokoj od gora izbegal!",
+       "en": "peace has fled the forest!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај се Инџе огласи",
+       "lat": "Togaj se Indže oglasi",
+       "en": "Then Indje answered"
+      },
+      {
+       "cyr": "од таја гора зелена:",
+       "lat": "od taja gora zelena:",
+       "en": "from that green forest:"
+      },
+      {
+       "cyr": "- Почекај, горо зелена,",
+       "lat": "- Počekaj, goro zelena,",
+       "en": "- Wait, green forest,"
+      },
+      {
+       "cyr": "ете го Инџе к'ј идет,",
+       "lat": "ete go Indže k'j idet,",
+       "en": "behold, Indje is coming,"
+      },
+      {
+       "cyr": "с' ајдуци ќе се обидит.",
+       "lat": "s' ajduci ḱe se obidit.",
+       "en": "he will try the outlaws."
+      },
+      {
+       "cyr": "Првото срце го немат.",
+       "lat": "Prvoto srce go nemat.",
+       "en": "They do not have a first heart."
+      },
+      {
+       "cyr": "Кога трендафил цутеше,",
+       "lat": "Koga trendafil cuteše,",
+       "en": "When the rose bloomed,"
+      },
+      {
+       "cyr": "секој му душа љубеше,",
+       "lat": "sekoj mu duša ljubeše,",
+       "en": "everyone kissed its soul,"
+      },
+      {
+       "cyr": "кога трендафил капеше,",
+       "lat": "koga trendafil kapeše,",
+       "en": "when the rose dropped its petals,"
+      },
+      {
+       "cyr": "никој му мишки нејќеше.",
+       "lat": "nikoj mu miški nejḱeše.",
+       "en": "no one wanted its scent."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извика гора до Бога,",
+       "lat": "Izvika gora do Boga,",
+       "en": "The forest cried out to God,"
+      },
+      {
+       "cyr": "и од гората дрвата,",
+       "lat": "i od gorata drvata,",
+       "en": "and from the forest the trees,"
+      },
+      {
+       "cyr": "и од дрвата лисјата,",
+       "lat": "i od drvata lisjata,",
+       "en": "and from the trees the leaves,"
+      },
+      {
+       "cyr": "и по земјата тревата,",
+       "lat": "i po zemjata trevata,",
+       "en": "and on the ground the grass,"
+      },
+      {
+       "cyr": "од кладенците воѓето.",
+       "lat": "od kladencite voǵeto.",
+       "en": "from the wells the water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извика Инџе до Бога",
+       "lat": "Izvika Indže do Boga",
+       "en": "Indje cried out to God"
+      },
+      {
+       "cyr": "низ таја гора зелена,",
+       "lat": "niz taja gora zelena,",
+       "en": "through that green forest,"
+      },
+      {
+       "cyr": "од високата планина:",
+       "lat": "od visokata planina:",
+       "en": "from the high mountain:"
+      },
+      {
+       "cyr": "- Трај ми, горо ле, не плачи,",
+       "lat": "- Traj mi, goro le, ne plači,",
+       "en": "- Hold on, forest, do not weep,"
+      },
+      {
+       "cyr": "ете го Инџе к'ј идет,",
+       "lat": "ete go Indže k'j idet,",
+       "en": "behold, Indje is coming,"
+      },
+      {
+       "cyr": "ајдуци ќе ги испадит.",
+       "lat": "ajduci ḱe gi ispadit.",
+       "en": "he will drive the outlaws out."
+      },
+      {
+       "cyr": "Ајдуци гласот му чу'е,",
+       "lat": "Ajduci glasot mu ču'e,",
+       "en": "The outlaws heard his voice,"
+      },
+      {
+       "cyr": "еден пред други бегаа,",
+       "lat": "eden pred drugi begaa,",
+       "en": "one ran before the other,"
+      },
+      {
+       "cyr": "еден с' друг не се видоа.",
+       "lat": "eden s' drug ne se vidoa.",
+       "en": "they did not see one another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај се гора зарадва",
+       "lat": "Togaj se gora zaradva",
+       "en": "Then the forest rejoiced"
+      },
+      {
+       "cyr": "и од гората дрвата,",
+       "lat": "i od gorata drvata,",
+       "en": "and from the forest the trees,"
+      },
+      {
+       "cyr": "и од дрвата лисјата,",
+       "lat": "i od drvata lisjata,",
+       "en": "and from the trees the leaves,"
+      },
+      {
+       "cyr": "од гнездата пилците,",
+       "lat": "od gnezdata pilcite,",
+       "en": "from the nests the chicks,"
+      },
+      {
+       "cyr": "од кладенците воѓето.",
+       "lat": "od kladencite voǵeto.",
+       "en": "from the wells the water."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

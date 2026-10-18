@@ -1,0 +1,148 @@
+{
+ "id": 203,
+ "slug": "se-posvrshi-serbez-donka",
+ "title_cyr": "Се посврши сербез Донка",
+ "title_latin": "Se posvrši serbez Donka",
+ "title_en": "Brave Donka got engaged",
+ "pesna_url": "https://pesna.org/song/203",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Блага Видец",
+  "Благој Ламњов",
+  "Нада Макеларска",
+  "Тоше Проески",
+  "Чардаш",
+  "Norrkoping Symphony Orchestra"
+ ],
+ "audio": [
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/1206"
+  },
+  {
+   "who": "Чардаш",
+   "url": "https://pesna.org/audio-download/1207"
+  },
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2258"
+  },
+  {
+   "who": "Norrkoping Symphony Orchestra, Благој Ламњов",
+   "url": "https://pesna.org/audio-download/3365"
+  },
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/3951"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се посврши сербез Донка",
+       "lat": "Se posvrši serbez Donka",
+       "en": "Brave Donka got engaged"
+      },
+      {
+       "cyr": "тра, ла, ла, ла, ла, ла, ла, ла, ла",
+       "lat": "tra, la, la, la, la, la, la, la, la",
+       "en": "tra, la, la, la, la, la, la, la, la"
+      },
+      {
+       "cyr": "сербез Донка на Јаричкови.",
+       "lat": "serbez Donka na Jaričkovi.",
+       "en": "Brave Donka of the Jarichkov family."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале комшиите",
+       "lat": "Se sobrale komšiite",
+       "en": "The neighbors gathered"
+      },
+      {
+       "cyr": "тра, ла, ла, ла, ла, ла, ла, ла, ла",
+       "lat": "tra, la, la, la, la, la, la, la, la",
+       "en": "tra, la, la, la, la, la, la, la, la"
+      },
+      {
+       "cyr": "комшиите, другарките.",
+       "lat": "komšiite, drugarkite.",
+       "en": "the neighbors, her friends."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Аирлија, сербез Донке",
+       "lat": "- Airlija, serbez Donke",
+       "en": "Congratulations, brave Donka"
+      },
+      {
+       "cyr": "тра, ла, ла, ла, ла, ла, ла, ла, ла",
+       "lat": "tra, la, la, la, la, la, la, la, la",
+       "en": "tra, la, la, la, la, la, la, la, la"
+      },
+      {
+       "cyr": "аирлија свршувачката.",
+       "lat": "airlija svršuvačkata.",
+       "en": "congratulations on the engagement."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не викајте аирлија",
+       "lat": "- Ne vikajte airlija",
+       "en": "Don’t say congratulations"
+      },
+      {
+       "cyr": "тра, ла, ла, ла, ла, ла, ла, ла, ла",
+       "lat": "tra, la, la, la, la, la, la, la, la",
+       "en": "tra, la, la, la, la, la, la, la, la"
+      },
+      {
+       "cyr": "тук' речете на мајка ми.",
+       "lat": "tuk' rečete na majka mi.",
+       "en": "but tell my mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ме даде на далеку",
+       "lat": "Što me dade na daleku",
+       "en": "She gave me away far"
+      },
+      {
+       "cyr": "тра, ла, ла, ла, ла, ла, ла, ла, ла",
+       "lat": "tra, la, la, la, la, la, la, la, la",
+       "en": "tra, la, la, la, la, la, la, la, la"
+      },
+      {
+       "cyr": "на далеку, преку Вардар.",
+       "lat": "na daleku, preku Vardar.",
+       "en": "far away, across Vardar."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

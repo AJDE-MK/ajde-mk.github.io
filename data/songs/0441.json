@@ -1,0 +1,208 @@
+{
+ "id": 441,
+ "slug": "ajde-shto-pijana-shetash-fime",
+ "title_cyr": "Ајде што пијана шеташ Фиме",
+ "title_latin": "Ajde što pijana šetaš Fime",
+ "title_en": "Come on, Why Do You Walk Drunk, Fima",
+ "pesna_url": "https://pesna.org/song/441",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Пијана без ракија' is rendered literally ('drunk without rakija', likely meaning drunk on love or just carefree); that interpretation is my reading. 'Налани' as wooden clogs is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on, hey"
+  },
+  {
+   "mk": "пијана",
+   "en": "drunk"
+  },
+  {
+   "mk": "не прилега",
+   "en": "does not suit, is not fitting"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar"
+  },
+  {
+   "mk": "боса",
+   "en": "barefoot"
+  },
+  {
+   "mk": "налани",
+   "en": "wooden clogs (nalans)"
+  },
+  {
+   "mk": "сарај",
+   "en": "palace, grand house"
+  },
+  {
+   "mk": "жолтица",
+   "en": "gold coin"
+  },
+  {
+   "mk": "нижи",
+   "en": "strings (beads, coins)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај",
+  "Тајфата на Шуле",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Тајфата на Шуле",
+   "url": "https://pesna.org/audio-download/397"
+  },
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/398"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1560"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1561"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3356"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде што пијана шеташ Фиме",
+       "lat": "Ajde što pijana šetaš Fime",
+       "en": "Come on, why do you walk drunk, Fima,"
+      },
+      {
+       "cyr": "што пијана шеташ,",
+       "lat": "što pijana šetaš,",
+       "en": "why do you walk drunk,"
+      },
+      {
+       "cyr": "ај што пијана шеташ Фиме мори",
+       "lat": "aj što pijana šetaš Fime mori",
+       "en": "hey, why do you walk drunk, Fima, my dear,"
+      },
+      {
+       "cyr": "пијана без ракија.",
+       "lat": "pijana bez rakija.",
+       "en": "drunk without rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде тебе не прилега Фиме",
+       "lat": "Ajde tebe ne prilega Fime",
+       "en": "Come on, it does not suit you, Fima,"
+      },
+      {
+       "cyr": "тебе не прилега,",
+       "lat": "tebe ne prilega,",
+       "en": "it does not suit you,"
+      },
+      {
+       "cyr": "ајде тебе не прилега Фиме мори",
+       "lat": "ajde tebe ne prilega Fime mori",
+       "en": "come on, it does not suit you, Fima, my dear,"
+      },
+      {
+       "cyr": "чаршија да одиш.",
+       "lat": "čaršija da odiš.",
+       "en": "to go to the market."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде чаршија да шеташ Фиме",
+       "lat": "Ajde čaršija da šetaš Fime",
+       "en": "Come on, to stroll the market, Fima,"
+      },
+      {
+       "cyr": "чаршија да шеташ,",
+       "lat": "čaršija da šetaš,",
+       "en": "to stroll the market,"
+      },
+      {
+       "cyr": "ајде чаршија да шеташ Фиме мори",
+       "lat": "ajde čaršija da šetaš Fime mori",
+       "en": "come on, to stroll the market, Fima, my dear,"
+      },
+      {
+       "cyr": "боса по налани.",
+       "lat": "bosa po nalani.",
+       "en": "barefoot in wooden clogs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде тебе ти прилега Фиме",
+       "lat": "Ajde tebe ti prilega Fime",
+       "en": "Come on, what suits you, Fima,"
+      },
+      {
+       "cyr": "на сарај да седиш,",
+       "lat": "na saraj da sediš,",
+       "en": "is to sit in the palace,"
+      },
+      {
+       "cyr": "ајде на сарај да седиш Фиме мори",
+       "lat": "ajde na saraj da sediš Fime mori",
+       "en": "come on, to sit in the palace, Fima, my dear,"
+      },
+      {
+       "cyr": "жолтици да нижиш.",
+       "lat": "žoltici da nižiš.",
+       "en": "to string gold coins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде жолтици да нижиш Фиме",
+       "lat": "Ajde žoltici da nižiš Fime",
+       "en": "Come on, to string gold coins, Fima,"
+      },
+      {
+       "cyr": "жолтици да нижиш,",
+       "lat": "žoltici da nižiš,",
+       "en": "to string gold coins,"
+      },
+      {
+       "cyr": "ајде жолтици да нижиш Фиме мори",
+       "lat": "ajde žoltici da nižiš Fime mori",
+       "en": "come on, to string gold coins, Fima, my dear,"
+      },
+      {
+       "cyr": "на грло да носиш.",
+       "lat": "na grlo da nosiš.",
+       "en": "to wear around your neck."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

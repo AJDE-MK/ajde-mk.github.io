@@ -1,0 +1,133 @@
+{
+ "id": 669,
+ "slug": "daj-mi-mamo-dinar-do-dva",
+ "title_cyr": "Дај ми мамо динар, до два",
+ "title_latin": "Daj mi mamo dinar, do dva",
+ "title_en": "Give me a dinar or two, mother",
+ "pesna_url": "https://pesna.org/song/669",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Промена' as a purchase is my reading (a change of look). 'Медно' is read as honey-sweet.",
+ "words_to_learn": [
+  {
+   "mk": "динар",
+   "en": "dinar (coin)"
+  },
+  {
+   "mk": "промена",
+   "en": "change, makeover"
+  },
+  {
+   "mk": "белило",
+   "en": "whitening powder (face powder)"
+  },
+  {
+   "mk": "црвило",
+   "en": "rouge, red make-up"
+  },
+  {
+   "mk": "бендиса",
+   "en": "to fancy, to like (Turkish loan)"
+  },
+  {
+   "mk": "медно усте",
+   "en": "honey-sweet mouth"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова"
+ ],
+ "audio": [
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/873"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми мамо динар, до два",
+       "lat": "Daj mi mamo dinar, do dva",
+       "en": "Give me a dinar or two, mother"
+      },
+      {
+       "cyr": "да си купам промена",
+       "lat": "da si kupam promena",
+       "en": "so I can buy a change"
+      },
+      {
+       "cyr": "да се променам мила моја мамо",
+       "lat": "da se promenam mila moja mamo",
+       "en": "so I can change, my dear mother"
+      },
+      {
+       "cyr": "за да ме либе мамо бендиса.",
+       "lat": "za da me libe mamo bendisa.",
+       "en": "so that my love will fancy me, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми мамо динар, до два",
+       "lat": "Daj mi mamo dinar, do dva",
+       "en": "Give me a dinar or two, mother"
+      },
+      {
+       "cyr": "да си купам белило",
+       "lat": "da si kupam belilo",
+       "en": "so I can buy whitening powder"
+      },
+      {
+       "cyr": "за да набелам мојто црно лице",
+       "lat": "za da nabelam mojto crno lice",
+       "en": "to whiten my dark face"
+      },
+      {
+       "cyr": "за да ме либе мамо бендиса.",
+       "lat": "za da me libe mamo bendisa.",
+       "en": "so that my love will fancy me, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми мамо динар, до два",
+       "lat": "Daj mi mamo dinar, do dva",
+       "en": "Give me a dinar or two, mother"
+      },
+      {
+       "cyr": "да си купам црвило",
+       "lat": "da si kupam crvilo",
+       "en": "so I can buy rouge"
+      },
+      {
+       "cyr": "за да нацрвам мојто медно усте",
+       "lat": "za da nacrvam mojto medno uste",
+       "en": "to redden my honey-sweet mouth"
+      },
+      {
+       "cyr": "за да ме либе мамо бендиса.",
+       "lat": "za da me libe mamo bendisa.",
+       "en": "so that my love will fancy me, mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,208 @@
+{
+ "id": 347,
+ "slug": "ne-vitkaj-se-sofche",
+ "title_cyr": "Не виткај се Софче",
+ "title_latin": "Ne vitkaj se Sofče",
+ "title_en": "Don't bend, Sofche",
+ "pesna_url": "https://pesna.org/song/347",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл чалгија",
+  "Борче Крстески",
+  "МРТВ",
+  "Сузана Спасовска",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1612"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1613"
+  },
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/1614"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1615"
+  },
+  {
+   "who": "МРТВ",
+   "url": "https://pesna.org/audio-download/1616"
+  },
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/1617"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не виткај се Софче, не крши се",
+       "lat": "Ne vitkaj se Sofče, ne krši se",
+       "en": "Don't bend, Sofche, don't break your body,",
+       "en_mt": false
+      },
+      {
+       "cyr": "како змија низ тревата,",
+       "lat": "kako zmija niz trevata,",
+       "en": "like a snake in the grass,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ко риба низ водата.",
+       "lat": "ko riba niz vodata.",
+       "en": "like a fish in the water.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Софче, алтан чедо на мајка",
+       "lat": "Sofče, altan čedo na majka",
+       "en": "Sofche, your mother's golden child,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Софче, не ги гори ергените.",
+       "lat": "Sofče, ne gi gori ergenite.",
+       "en": "Sofche, don't burn the unmarried man.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога на оро, Софче, заигруваш,",
+       "lat": "Koga na oro, Sofče, zaigruvaš,",
+       "en": "When you start to dance, Sofche, in the oro,",
+       "en_mt": false
+      },
+      {
+       "cyr": "како сонце огрејуваш,",
+       "lat": "kako sonce ogrejuvaš,",
+       "en": "you shine on me like a Sun,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без вино ме опиваш.",
+       "lat": "bez vino me opivaš.",
+       "en": "you make me drunk without wine.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Софче, алтан чедо на мајка",
+       "lat": "Sofče, altan čedo na majka",
+       "en": "Sofche, your mother's golden child,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Софче, не ги гори ергените.",
+       "lat": "Sofče, ne gi gori ergenite.",
+       "en": "Sofche, don't burn the unmarried man.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сиромав Софче, сам самувам",
+       "lat": "Jas siromav Sofče, sam samuvam",
+       "en": "Poor me, Sofche, I am alone,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кога тебе те сонувам,",
+       "lat": "koga tebe te sonuvam,",
+       "en": "when I dream of you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "окa вино испијувам.",
+       "lat": "oka vino ispijuvam.",
+       "en": "I drink an 'oka' of wine.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Софче, алтан чедо на мајка",
+       "lat": "Sofče, altan čedo na majka",
+       "en": "Sofche, your mother's golden child,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Софче, не ги гори ергените.",
+       "lat": "Sofče, ne gi gori ergenite.",
+       "en": "Sofche, don't burn the unmarried man.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каил стори се Софче, погледни ме,",
+       "lat": "Kail stori se Sofče, pogledni me,",
+       "en": "'Kail' you become, Sofche, look at me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "погледни ме, заљуби ме,",
+       "lat": "pogledni me, zaljubi me,",
+       "en": "look at me, fall in love with me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ние двајца да се земиме.",
+       "lat": "nie dvajca da se zemime.",
+       "en": "let's get married.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Софче, алтан чедо на мајка",
+       "lat": "Sofče, altan čedo na majka",
+       "en": "Sofche, your mother's golden child,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Софче, не ги гори ергените.",
+       "lat": "Sofče, ne gi gori ergenite.",
+       "en": "Sofche, don't burn the unmarried man.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

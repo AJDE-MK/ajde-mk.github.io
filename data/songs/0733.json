@@ -1,0 +1,214 @@
+{
+ "id": 733,
+ "slug": "eleno-mome-eleno",
+ "title_cyr": "Елено моме, Елено",
+ "title_latin": "Eleno mome, Eleno",
+ "title_en": "Elena, girl, Elena",
+ "pesna_url": "https://pesna.org/song/733",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Севдо голема' translated as 'great longing' (my reading; севда can mean love-sickness). Clear overall.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "на зборот не стоиш",
+   "en": "you do not keep your word"
+  },
+  {
+   "mk": "ветивме",
+   "en": "we promised"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "севда",
+   "en": "passionate longing, love (Turkish loan)"
+  },
+  {
+   "mk": "остави",
+   "en": "left, abandoned"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned (you burned)"
+  },
+  {
+   "mk": "запусти",
+   "en": "laid waste, left desolate"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски",
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/941"
+  },
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/942"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Елено моме, Елено,",
+       "lat": "Eleno mome, Eleno,",
+       "en": "Elena, girl, Elena,"
+      },
+      {
+       "cyr": "зошто на зборот не стоиш,",
+       "lat": "zošto na zborot ne stoiš,",
+       "en": "why do you not keep your word,"
+      },
+      {
+       "cyr": "зошто на зборот не стоиш,",
+       "lat": "zošto na zborot ne stoiš,",
+       "en": "why do you not keep your word,"
+      },
+      {
+       "cyr": "двајцата што си ветивме?",
+       "lat": "dvajcata što si vetivme?",
+       "en": "the one we two promised each other?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, аман, аман, аман,",
+       "lat": "Of, aman, aman, aman,",
+       "en": "Oh, mercy, mercy, mercy,"
+      },
+      {
+       "cyr": "мори моме Елено,",
+       "lat": "mori mome Eleno,",
+       "en": "hey girl Elena,"
+      },
+      {
+       "cyr": "оф аман, аман, аман,",
+       "lat": "of aman, aman, aman,",
+       "en": "oh mercy, mercy, mercy,"
+      },
+      {
+       "cyr": "мори севдо голема.",
+       "lat": "mori sevdo golema.",
+       "en": "hey, great longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Двајцата што си ветивме,",
+       "lat": "Dvajcata što si vetivme,",
+       "en": "The one we two promised each other,"
+      },
+      {
+       "cyr": "свадба да си направиме,",
+       "lat": "svadba da si napravime,",
+       "en": "to hold a wedding for ourselves,"
+      },
+      {
+       "cyr": "свадба да си направиме,",
+       "lat": "svadba da si napravime,",
+       "en": "to hold a wedding for ourselves,"
+      },
+      {
+       "cyr": "со љубов да живееме.",
+       "lat": "so ljubov da živeeme.",
+       "en": "to live together with love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, аман, аман, аман,",
+       "lat": "Of, aman, aman, aman,",
+       "en": "Oh, mercy, mercy, mercy,"
+      },
+      {
+       "cyr": "мори моме Елено,",
+       "lat": "mori mome Eleno,",
+       "en": "hey girl Elena,"
+      },
+      {
+       "cyr": "оф аман, аман, аман,",
+       "lat": "of aman, aman, aman,",
+       "en": "oh mercy, mercy, mercy,"
+      },
+      {
+       "cyr": "мори севдо голема.",
+       "lat": "mori sevdo golema.",
+       "en": "hey, great longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А сега ти ме остави,",
+       "lat": "A sega ti me ostavi,",
+       "en": "And now you have left me,"
+      },
+      {
+       "cyr": "срцето ми го изгоре,",
+       "lat": "srceto mi go izgore,",
+       "en": "you have burned my heart,"
+      },
+      {
+       "cyr": "срцето ми го изгоре,",
+       "lat": "srceto mi go izgore,",
+       "en": "you have burned my heart,"
+      },
+      {
+       "cyr": "животот ми го запусти.",
+       "lat": "životot mi go zapusti.",
+       "en": "you have laid my life waste."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, аман, аман, аман,",
+       "lat": "Of, aman, aman, aman,",
+       "en": "Oh, mercy, mercy, mercy,"
+      },
+      {
+       "cyr": "мори моме Елено,",
+       "lat": "mori mome Eleno,",
+       "en": "hey girl Elena,"
+      },
+      {
+       "cyr": "оф аман, аман, аман,",
+       "lat": "of aman, aman, aman,",
+       "en": "oh mercy, mercy, mercy,"
+      },
+      {
+       "cyr": "мори севдо голема.",
+       "lat": "mori sevdo golema.",
+       "en": "hey, great longing."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

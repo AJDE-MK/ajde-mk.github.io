@@ -1,0 +1,176 @@
+{
+ "id": 848,
+ "slug": "ostanal-koljo-sirache",
+ "title_cyr": "Останал Кољо сираче",
+ "title_latin": "Ostanal Koljo sirače",
+ "title_en": "Kolyo Was Left an Orphan",
+ "pesna_url": "https://pesna.org/song/848",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding ballad, no author known. 'Анама' (in 'бела анама') is a dialect or Turkish-derived word I am guessing means 'lady' (cf. hanım); 'анамче' is then 'young lady'; my reading.",
+ "words_to_learn": [
+  {
+   "mk": "сираче",
+   "en": "orphan"
+  },
+  {
+   "mk": "слугинче",
+   "en": "young servant, servant boy"
+  },
+  {
+   "mk": "слугувал",
+   "en": "served (as a servant)"
+  },
+  {
+   "mk": "јашмак",
+   "en": "veil"
+  },
+  {
+   "mk": "бања",
+   "en": "bathhouse"
+  },
+  {
+   "mk": "бербер",
+   "en": "barber"
+  },
+  {
+   "mk": "сокаче",
+   "en": "narrow street, lane"
+  },
+  {
+   "mk": "да се земиме",
+   "en": "let us marry (take each other)"
+  }
+ ],
+ "performers": [
+  "Ацо Андонов",
+  "Виолета Томовска",
+  "Мирвет Беловска",
+  "Непознат изведувач",
+  "Распеани дебарчани",
+  "Тајфата на Димо Дулот"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1855"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/1856"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1857"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/1858"
+  },
+  {
+   "who": "Тајфата на Димо Дулот",
+   "url": "https://pesna.org/audio-download/1859"
+  },
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3919"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Останал Кољо сираче",
+       "lat": "Ostanal Koljo sirače",
+       "en": "Kolyo was left an orphan,"
+      },
+      {
+       "cyr": "без мајка, Кољо, без татко.",
+       "lat": "bez majka, Koljo, bez tatko.",
+       "en": "without a mother, Kolyo, without a father."
+      },
+      {
+       "cyr": "Главил се Кољо слугинче",
+       "lat": "Glavil se Koljo sluginče",
+       "en": "Kolyo hired himself out as a servant boy"
+      },
+      {
+       "cyr": "при една бела анама.",
+       "lat": "pri edna bela anama.",
+       "en": "to a certain fair-skinned lady."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет години слугувал,",
+       "lat": "Devet godini sluguval,",
+       "en": "Nine years he served,"
+      },
+      {
+       "cyr": "лицето не ѝ го видел.",
+       "lat": "liceto ne ì go videl.",
+       "en": "he never saw her face."
+      },
+      {
+       "cyr": "Поддувна ветар од море,",
+       "lat": "Podduvna vetar od more,",
+       "en": "A wind blew in from the sea,"
+      },
+      {
+       "cyr": "јашмакот ѝ го подигна.",
+       "lat": "jašmakot ì go podigna.",
+       "en": "it lifted her veil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Анамче оди на бања,",
+       "lat": "Anamče odi na banja,",
+       "en": "The young lady goes to the bathhouse,"
+      },
+      {
+       "cyr": "слугинче оди на бербер.",
+       "lat": "sluginče odi na berber.",
+       "en": "the servant boy goes to the barber."
+      },
+      {
+       "cyr": "Сретнале ми се, сретнале,",
+       "lat": "Sretnale mi se, sretnale,",
+       "en": "They met, they met,"
+      },
+      {
+       "cyr": "при едно мало сокаче.",
+       "lat": "pri edno malo sokače.",
+       "en": "in a little side street."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слугинче вели, говори:",
+       "lat": "Sluginče veli, govori:",
+       "en": "The servant says, he speaks:"
+      },
+      {
+       "cyr": "- Двајцата да се земиме.",
+       "lat": "- Dvajcata da se zemime.",
+       "en": "- Let the two of us marry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

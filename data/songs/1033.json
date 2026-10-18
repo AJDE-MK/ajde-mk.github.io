@@ -1,0 +1,174 @@
+{
+ "id": 1033,
+ "slug": "lerinskite-sela",
+ "title_cyr": "Леринските села",
+ "title_latin": "Lerinskite sela",
+ "title_en": "The Villages of Lerin",
+ "pesna_url": "https://pesna.org/song/1033",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern song about the Aegean Macedonia (Lerin/Florina) refugees; origin unclear and no author named. Village names are kept as transliterated, and the second line of stanza 1 is my reading (the refugee 'you' addressed to the mother).",
+ "words_to_learn": [
+  {
+   "mk": "поминале",
+   "en": "have passed"
+  },
+  {
+   "mk": "тешки години",
+   "en": "hard years"
+  },
+  {
+   "mk": "душа",
+   "en": "soul"
+  },
+  {
+   "mk": "подаде",
+   "en": "to offer, hand over"
+  },
+  {
+   "mk": "родна земја",
+   "en": "native land"
+  },
+  {
+   "mk": "крај",
+   "en": "region, end"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "јазик",
+   "en": "language, tongue"
+  },
+  {
+   "mk": "историја",
+   "en": "history"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  }
+ ],
+ "performers": [
+  "Aidonia tis Florinas",
+  "Topikos ihos"
+ ],
+ "audio": [
+  {
+   "who": "Aidonia tis Florinas",
+   "url": "https://pesna.org/audio-download/2376"
+  },
+  {
+   "who": "Topikos ihos",
+   "url": "https://pesna.org/audio-download/2621"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Поминале, стара мајко, тешки години,",
+       "lat": "Pominale, stara majko, teški godini,",
+       "en": "Hard years have passed, old mother,"
+      },
+      {
+       "cyr": "кога си остави села лерински.",
+       "lat": "koga si ostavi sela lerinski.",
+       "en": "since you left the villages of Lerin."
+      },
+      {
+       "cyr": "Душа плаче, никој нема да ме разбере,",
+       "lat": "Duša plače, nikoj nema da me razbere,",
+       "en": "My soul weeps, no one will understand me,"
+      },
+      {
+       "cyr": "никој нема ниту рака да ми подаде.",
+       "lat": "nikoj nema nitu raka da mi podade.",
+       "en": "no one will even offer me a hand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овчарани, Песочница, Арменово,",
+       "lat": "Ovčarani, Pesočnica, Armenovo,",
+       "en": "Ovchareni, Pesochnica, Armenovo,"
+      },
+      {
+       "cyr": "Горничево, Крпешина, Забрдени,",
+       "lat": "Gorničevo, Krpešina, Zabrdeni,",
+       "en": "Gornichevo, Krpeshina, Zabrdeni,"
+      },
+      {
+       "cyr": "Петорак, Росен, Лаген, Турије,",
+       "lat": "Petorak, Rosen, Lagen, Turije,",
+       "en": "Petorak, Rosen, Lagen, Turije,"
+      },
+      {
+       "cyr": "Блаца, Неред, Кучкојни, Бапчор, Лажени.",
+       "lat": "Blaca, Nered, Kučkojni, Bapčor, Laženi.",
+       "en": "Blaca, Nered, Kuchkojni, Bapchor, Lazheni."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далеку од родна земја, од мој роден крај,",
+       "lat": "Daleku od rodna zemja, od moj roden kraj,",
+       "en": "Far from my native land, from my native region,"
+      },
+      {
+       "cyr": "мајчин јазик уште сакам да си зборувам.",
+       "lat": "majčin jazik ušte sakam da si zboruvam.",
+       "en": "I still want to speak my mother tongue."
+      },
+      {
+       "cyr": "Како и да ја напишаа историјата,",
+       "lat": "Kako i da ja napišaa istorijata,",
+       "en": "However they wrote the history,"
+      },
+      {
+       "cyr": "Господ знае, јас сум чедо на Македонија.",
+       "lat": "Gospod znae, jas sum čedo na Makedonija.",
+       "en": "the Lord knows, I am a child of Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овчарани, Песочница, Арменово,",
+       "lat": "Ovčarani, Pesočnica, Armenovo,",
+       "en": "Ovchareni, Pesochnica, Armenovo,"
+      },
+      {
+       "cyr": "Горничево, Крапешино, Забрдени,",
+       "lat": "Gorničevo, Krapešino, Zabrdeni,",
+       "en": "Gornichevo, Krapeshino, Zabrdeni,"
+      },
+      {
+       "cyr": "Петорица, Росен, Лагино, Турије,",
+       "lat": "Petorica, Rosen, Lagino, Turije,",
+       "en": "Petoritsa, Rosen, Lagino, Turije,"
+      },
+      {
+       "cyr": "Блаца, Неред, Кучковени, Бапчор, Лажени.",
+       "lat": "Blaca, Nered, Kučkoveni, Bapčor, Laženi.",
+       "en": "Blaca, Nered, Kuchkoveni, Bapchor, Lazheni."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

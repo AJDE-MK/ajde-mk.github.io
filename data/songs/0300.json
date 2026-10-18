@@ -1,0 +1,180 @@
+{
+ "id": 300,
+ "slug": "snoshti-libeto-pomina",
+ "title_cyr": "Сношти либето помина",
+ "title_latin": "Snošti libeto pomina",
+ "title_en": "Last Night My Sweetheart Passed By",
+ "pesna_url": "https://pesna.org/song/300",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (the language is more modern than a typical folk song, but no author can be named). The speaker's gender is ambiguous in places, so my reading treats the speaker as the one departing, and the first stanza is partly guessed.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "разделвам",
+   "en": "I part (from)"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "печалба",
+   "en": "work abroad, migrant labour"
+  },
+  {
+   "mk": "причина",
+   "en": "cause, reason"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "иднина",
+   "en": "future"
+  },
+  {
+   "mk": "верно",
+   "en": "faithful"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти либето помина",
+       "lat": "Snošti libeto pomina",
+       "en": "Last night my sweetheart passed by"
+      },
+      {
+       "cyr": "крај нашата ни градина",
+       "lat": "kraj našata ni gradina",
+       "en": "along our garden"
+      },
+      {
+       "cyr": "две три думи ми продума",
+       "lat": "dve tri dumi mi produma",
+       "en": "she said a couple of words to me"
+      },
+      {
+       "cyr": "од тебе либе се разделвам.",
+       "lat": "od tebe libe se razdelvam.",
+       "en": "I am parting from you, sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах ти си мој, ах пак сум твој",
+       "lat": "Ah ti si moj, ah pak sum tvoj",
+       "en": "Ah, you are mine, ah, and I am yours"
+      },
+      {
+       "cyr": "ах ти си моето верно либе.",
+       "lat": "ah ti si moeto verno libe.",
+       "en": "ah, you are my faithful sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тргам либе туѓина",
+       "lat": "Trgam libe tuǵina",
+       "en": "I am setting off, sweetheart, to a foreign land"
+      },
+      {
+       "cyr": "душата ти ја оставам",
+       "lat": "dušata ti ja ostavam",
+       "en": "I leave you my soul"
+      },
+      {
+       "cyr": "мајка ти е причина",
+       "lat": "majka ti e pričina",
+       "en": "your mother is the cause"
+      },
+      {
+       "cyr": "за нашата ни разделба.",
+       "lat": "za našata ni razdelba.",
+       "en": "of our parting."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах ти си мој, ах пак сум твој",
+       "lat": "Ah ti si moj, ah pak sum tvoj",
+       "en": "Ah, you are mine, ah, and I am yours"
+      },
+      {
+       "cyr": "ах ти си моето верно либе.",
+       "lat": "ah ti si moeto verno libe.",
+       "en": "ah, you are my faithful sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тргам либе на печалба",
+       "lat": "Trgam libe na pečalba",
+       "en": "I am setting off, sweetheart, to work abroad"
+      },
+      {
+       "cyr": "срцево ми го изгоре",
+       "lat": "srcevo mi go izgore",
+       "en": "my heart burned out"
+      },
+      {
+       "cyr": "ти ќе ми бидеш в' туѓина",
+       "lat": "ti ḱe mi bideš v' tuǵina",
+       "en": "you will be mine in a foreign land"
+      },
+      {
+       "cyr": "и моја среќна иднина.",
+       "lat": "i moja sreḱna idnina.",
+       "en": "and my happy future."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах ти си мој, ах пак сум твој",
+       "lat": "Ah ti si moj, ah pak sum tvoj",
+       "en": "Ah, you are mine, ah, and I am yours"
+      },
+      {
+       "cyr": "ах ти си моето верно либе.",
+       "lat": "ah ti si moeto verno libe.",
+       "en": "ah, you are my faithful sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

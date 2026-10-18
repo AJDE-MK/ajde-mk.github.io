@@ -1,0 +1,128 @@
+{
+ "id": 647,
+ "slug": "zheni-me-mamo-zheni-me",
+ "title_cyr": "Жени ме мамо, жени ме",
+ "title_latin": "Ženi me mamo, ženi me",
+ "title_en": "Let me marry, mother",
+ "pesna_url": "https://pesna.org/song/647",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Јован Брмбевски",
+  "Пирински фолк ансамбл"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/900"
+  },
+  {
+   "who": "Пирински фолк ансамбл",
+   "url": "https://pesna.org/audio-download/901"
+  },
+  {
+   "who": "Јован Брмбевски",
+   "url": "https://pesna.org/audio-download/902"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жени ме мамо, жени ме,",
+       "lat": "Ženi me mamo, ženi me,",
+       "en": "Let me marry, mother, let me marry,"
+      },
+      {
+       "cyr": "жени ме, слатка ле мамо,",
+       "lat": "ženi me, slatka le mamo,",
+       "en": "let me marry, sweet mother,"
+      },
+      {
+       "cyr": "дур' сум млад ерген.",
+       "lat": "dur' sum mlad ergen.",
+       "en": "while I am still a young man."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дури ме, мамо, дури ме,",
+       "lat": "Duri me, mamo, duri me,",
+       "en": "While still, mother, while still,"
+      },
+      {
+       "cyr": "дури ме, слатка ле мамо,",
+       "lat": "duri me, slatka le mamo,",
+       "en": "while still, sweet mother,"
+      },
+      {
+       "cyr": "моми сакаат.",
+       "lat": "momi sakaat.",
+       "en": "girls want me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дури ми, мамо, дури ми,",
+       "lat": "Duri mi, mamo, duri mi,",
+       "en": "While still, mother, while still,"
+      },
+      {
+       "cyr": "дури ми, слатка ле мамо,",
+       "lat": "duri mi, slatka le mamo,",
+       "en": "while still, sweet mother,"
+      },
+      {
+       "cyr": "китка прилега.",
+       "lat": "kitka prilega.",
+       "en": "bouquet goes well with me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да земам, мамо, да земам,",
+       "lat": "Da zemam, mamo, da zemam,",
+       "en": "Let me marry, mother, let me marry,"
+      },
+      {
+       "cyr": "да земам, слатка ле мамо,",
+       "lat": "da zemam, slatka le mamo,",
+       "en": "let me marry, sweet mother,"
+      },
+      {
+       "cyr": "мома убава,",
+       "lat": "moma ubava,",
+       "en": "a beautiful girl,"
+      },
+      {
+       "cyr": "за тебе и мојот татко,",
+       "lat": "za tebe i mojot tatko,",
+       "en": "for you and my father,"
+      },
+      {
+       "cyr": "радост голема.",
+       "lat": "radost golema.",
+       "en": "that will be a great joy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

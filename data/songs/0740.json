@@ -1,0 +1,302 @@
+{
+ "id": 740,
+ "slug": "neli-ti-rekov-ne-odi-bosa",
+ "title_cyr": "Нели ти реков не оди боса",
+ "title_latin": "Neli ti rekov ne odi bosa",
+ "title_en": "Didn't I tell you not to go barefoot",
+ "pesna_url": "https://pesna.org/song/740",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Literal line-for-line translation. The last stanza's 'giving me away' is my reading of the marriage sense; the speaker's voice seems to shift to the girl.",
+ "words_to_learn": [
+  {
+   "mk": "боса",
+   "en": "barefoot"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "слана",
+   "en": "frost"
+  },
+  {
+   "mk": "кротко јагне",
+   "en": "gentle lamb (endearment)"
+  },
+  {
+   "mk": "дилбер",
+   "en": "beauty, sweetheart"
+  },
+  {
+   "mk": "елај",
+   "en": "come (here)"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (filler)"
+  },
+  {
+   "mk": "дава",
+   "en": "gives away (in marriage)"
+  }
+ ],
+ "performers": [
+  "Танец",
+  "Macedonian Women's Choir of Melbourne"
+ ],
+ "audio": [
+  {
+   "who": "Macedonian Women's Choir of Melbourne",
+   "url": "https://pesna.org/audio-download/1023"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1496"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков не оди боса,",
+       "lat": "Neli ti rekov ne odi bosa,",
+       "en": "Didn't I tell you not to go barefoot,"
+      },
+      {
+       "cyr": "нели ти реков не оди боса?",
+       "lat": "neli ti rekov ne odi bosa?",
+       "en": "didn't I tell you not to go barefoot?"
+      },
+      {
+       "cyr": "А ти Маруше, ти кротко јагне,",
+       "lat": "A ti Maruše, ti krotko jagne,",
+       "en": "And you, Maruša, you gentle lamb,"
+      },
+      {
+       "cyr": "Маруше мори дилбер,",
+       "lat": "Maruše mori dilber,",
+       "en": "Maruša, hey, my beauty,"
+      },
+      {
+       "cyr": "ти моја ќе си,",
+       "lat": "ti moja ḱe si,",
+       "en": "you will be mine,"
+      },
+      {
+       "cyr": "пак моја ќе си.",
+       "lat": "pak moja ḱe si.",
+       "en": "mine again you will be."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков, ти моја ќе си,",
+       "lat": "Neli ti rekov, ti moja ḱe si,",
+       "en": "Didn't I tell you, you will be mine,"
+      },
+      {
+       "cyr": "Нели ти реков, пак моја ќе си.",
+       "lat": "Neli ti rekov, pak moja ḱe si.",
+       "en": "Didn't I tell you, mine again you will be."
+      },
+      {
+       "cyr": "Не оди боса, по таја роса,",
+       "lat": "Ne odi bosa, po taja rosa,",
+       "en": "Don't go barefoot on that dew,"
+      },
+      {
+       "cyr": "не оди боса по таја роса.",
+       "lat": "ne odi bosa po taja rosa.",
+       "en": "don't go barefoot on that dew."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков не оди сама,",
+       "lat": "Neli ti rekov ne odi sama,",
+       "en": "Didn't I tell you not to go alone,"
+      },
+      {
+       "cyr": "нели ти реков не оди сама?",
+       "lat": "neli ti rekov ne odi sama?",
+       "en": "didn't I tell you not to go alone?"
+      },
+      {
+       "cyr": "А ти Маруше, ти кротко јагне,",
+       "lat": "A ti Maruše, ti krotko jagne,",
+       "en": "And you, Maruša, you gentle lamb,"
+      },
+      {
+       "cyr": "Маруше мори дилбер,",
+       "lat": "Maruše mori dilber,",
+       "en": "Maruša, hey, my beauty,"
+      },
+      {
+       "cyr": "ти моја ќе си,",
+       "lat": "ti moja ḱe si,",
+       "en": "you will be mine,"
+      },
+      {
+       "cyr": "пак моја ќе си.",
+       "lat": "pak moja ḱe si.",
+       "en": "mine again you will be."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков, ти моја ќе си,",
+       "lat": "Neli ti rekov, ti moja ḱe si,",
+       "en": "Didn't I tell you, you will be mine,"
+      },
+      {
+       "cyr": "Нели ти реков, пак моја ќе си.",
+       "lat": "Neli ti rekov, pak moja ḱe si.",
+       "en": "Didn't I tell you, mine again you will be."
+      },
+      {
+       "cyr": "Не оди сама, по таја слана,",
+       "lat": "Ne odi sama, po taja slana,",
+       "en": "Don't go alone on that frost,"
+      },
+      {
+       "cyr": "не оди сама по таја слана.",
+       "lat": "ne odi sama po taja slana.",
+       "en": "don't go alone on that frost."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков елај при мене,",
+       "lat": "Neli ti rekov elaj pri mene,",
+       "en": "Didn't I tell you, come to me,"
+      },
+      {
+       "cyr": "нели ти реков, елај при мене?",
+       "lat": "neli ti rekov, elaj pri mene?",
+       "en": "didn't I tell you, come to me?"
+      },
+      {
+       "cyr": "А ти Маруше, ти кротко јагне,",
+       "lat": "A ti Maruše, ti krotko jagne,",
+       "en": "And you, Maruša, you gentle lamb,"
+      },
+      {
+       "cyr": "Маруше мори дилбер,",
+       "lat": "Maruše mori dilber,",
+       "en": "Maruša, hey, my beauty,"
+      },
+      {
+       "cyr": "ти моја ќе си,",
+       "lat": "ti moja ḱe si,",
+       "en": "you will be mine,"
+      },
+      {
+       "cyr": "пак моја ќе си.",
+       "lat": "pak moja ḱe si.",
+       "en": "mine again you will be."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков, ти моја ќе си,",
+       "lat": "Neli ti rekov, ti moja ḱe si,",
+       "en": "Didn't I tell you, you will be mine,"
+      },
+      {
+       "cyr": "Нели ти реков, пак моја ќе си.",
+       "lat": "Neli ti rekov, pak moja ḱe si.",
+       "en": "Didn't I tell you, mine again you will be."
+      },
+      {
+       "cyr": "Нели ти реков, елај при мене,",
+       "lat": "Neli ti rekov, elaj pri mene,",
+       "en": "Didn't I tell you, come to me,"
+      },
+      {
+       "cyr": "Нели ти реков, елај при мене.",
+       "lat": "Neli ti rekov, elaj pri mene.",
+       "en": "Didn't I tell you, come to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мама ме дава, тате не дава,",
+       "lat": "Mama me dava, tate ne dava,",
+       "en": "Mother is giving me away, father is not giving me,"
+      },
+      {
+       "cyr": "мама ме дава, тате не дава.",
+       "lat": "mama me dava, tate ne dava.",
+       "en": "mother is giving me away, father is not giving me."
+      },
+      {
+       "cyr": "А ти Маруше, ти кротко јагне,",
+       "lat": "A ti Maruše, ti krotko jagne,",
+       "en": "And you, Maruša, you gentle lamb,"
+      },
+      {
+       "cyr": "Маруше мори дилбер,",
+       "lat": "Maruše mori dilber,",
+       "en": "Maruša, hey, my beauty,"
+      },
+      {
+       "cyr": "ти моја ќе си,",
+       "lat": "ti moja ḱe si,",
+       "en": "you will be mine,"
+      },
+      {
+       "cyr": "пак моја ќе си.",
+       "lat": "pak moja ḱe si.",
+       "en": "mine again you will be."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков, ти моја ќе си,",
+       "lat": "Neli ti rekov, ti moja ḱe si,",
+       "en": "Didn't I tell you, you will be mine,"
+      },
+      {
+       "cyr": "Нели ти реков, пак моја ќе си.",
+       "lat": "Neli ti rekov, pak moja ḱe si.",
+       "en": "Didn't I tell you, mine again you will be."
+      },
+      {
+       "cyr": "Мама ме дава, тате не дава,",
+       "lat": "Mama me dava, tate ne dava,",
+       "en": "Mother is giving me away, father is not giving me,"
+      },
+      {
+       "cyr": "мама ме дава, тате не дава.",
+       "lat": "mama me dava, tate ne dava.",
+       "en": "mother is giving me away, father is not giving me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

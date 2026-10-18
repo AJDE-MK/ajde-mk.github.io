@@ -1,0 +1,97 @@
+{
+ "id": 1016,
+ "slug": "imala-majka-mila-sina",
+ "title_cyr": "Имала мајка мила сина",
+ "title_latin": "Imala majka mila sina",
+ "title_en": "A Mother Had a Dear Son",
+ "pesna_url": "https://pesna.org/song/1016",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Custom song from Struga Malesija, apparently with a final line demanding payment. 'Ивчекало в' година' is my reading as 'stayed through a year'.",
+ "words_to_learn": [
+  {
+   "mk": "мајка",
+   "en": "mother"
+  },
+  {
+   "mk": "даскал",
+   "en": "teacher"
+  },
+  {
+   "mk": "книга",
+   "en": "book"
+  },
+  {
+   "mk": "писмо",
+   "en": "writing, letter"
+  },
+  {
+   "mk": "учи",
+   "en": "learn / teaches"
+  },
+  {
+   "mk": "година",
+   "en": "year"
+  },
+  {
+   "mk": "пари",
+   "en": "money"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Имала мајка мила сина",
+       "lat": "Imala majka mila sina",
+       "en": "A mother had a dear son"
+      },
+      {
+       "cyr": "и ја праќа на даскала,",
+       "lat": "i ja praḱa na daskala,",
+       "en": "and she sends him to the teacher,"
+      },
+      {
+       "cyr": "да ми учи бела книга,",
+       "lat": "da mi uči bela kniga,",
+       "en": "to learn the white book,"
+      },
+      {
+       "cyr": "бела книга, црно писмо.",
+       "lat": "bela kniga, crno pismo.",
+       "en": "white book, black writing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ивчекало и в' година",
+       "lat": "Ivčekalo i v' godina",
+       "en": "He stayed also a year"
+      },
+      {
+       "cyr": "и многу годиници.",
+       "lat": "i mnogu godinici.",
+       "en": "and many years."
+      },
+      {
+       "cyr": "Давај пари!",
+       "lat": "Davaj pari!",
+       "en": "Give money!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

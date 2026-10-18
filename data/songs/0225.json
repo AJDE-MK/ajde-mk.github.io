@@ -1,0 +1,163 @@
+{
+ "id": 225,
+ "slug": "moma-uf-zandana",
+ "title_cyr": "Мома уф зандана",
+ "title_latin": "Moma uf zandana",
+ "title_en": "A girl in a dungeon",
+ "pesna_url": "https://pesna.org/song/225",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Коста Новакис"
+ ],
+ "audio": [
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/4448"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дека се чуло џанам видело,",
+       "lat": "Deka se čulo džanam videlo,",
+       "en": "It was never heard and seen before,"
+      },
+      {
+       "cyr": "мома уф зандани џанам да леже,",
+       "lat": "moma uf zandani džanam da leže,",
+       "en": "a girl to be imprisoned,"
+      },
+      {
+       "cyr": "уф солунските темни зандани.",
+       "lat": "uf solunskite temni zandani.",
+       "en": "in Salonika's dark dungeons."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мома уф зандани џанам да леже,",
+       "lat": "Moma uf zandani džanam da leže,",
+       "en": "A girl to be imprisoned,"
+      },
+      {
+       "cyr": "зарде таткови му пусти борџуве.",
+       "lat": "zarde tatkovi mu pusti bordžuve.",
+       "en": "for her father's debts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Станала, тиска стара в зандане:",
+       "lat": "Stanala, tiska stara v zandane:",
+       "en": "An old woman came in the dungeon:"
+      },
+      {
+       "cyr": "- Дали има мома тува да леже?",
+       "lat": "- Dali ima moma tuva da leže?",
+       "en": "- Is there a girl here to lie?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тука сам стара мајко, тува сам,",
+       "lat": "- Tuka sam stara majko, tuva sam,",
+       "en": "- Here I am, old mother, here I am,"
+      },
+      {
+       "cyr": "тука сам старе мале, зашто сам.",
+       "lat": "tuka sam stare male, zašto sam.",
+       "en": "here I am, old mom, because I am."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пуста ми коса, мале, искапа,",
+       "lat": "Pusta mi kosa, male, iskapa,",
+       "en": "My hair is falling,"
+      },
+      {
+       "cyr": "бело ми лице, мајко, потимне.",
+       "lat": "belo mi lice, majko, potimne.",
+       "en": "my white face, mother, has darkened."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Продајте стара мајко имајне",
+       "lat": "Prodajte stara majko imajne",
+       "en": "Sell, old mother, your property"
+      },
+      {
+       "cyr": "на Турци пари мајко давајте.",
+       "lat": "na Turci pari majko davajte.",
+       "en": "to the Turks, mother, give the money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Турците пари ќерко не сакат,",
+       "lat": "- Turcite pari ḱerko ne sakat,",
+       "en": "- The Turks, daughter, do not want money,"
+      },
+      {
+       "cyr": "Турците тебе ќерко те сакат.",
+       "lat": "Turcite tebe ḱerko te sakat.",
+       "en": "the Turks, daughter, want you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девет години мајко ка лежам,",
+       "lat": "- Devet godini majko ka ležam,",
+       "en": "- Nine years, mother, I have been lying,"
+      },
+      {
+       "cyr": "и оште девет ќе лежам.",
+       "lat": "i ošte devet ḱe ležam.",
+       "en": "and I will lie for another nine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Турци вера мајко не давам,",
+       "lat": "Na Turci vera majko ne davam,",
+       "en": "Mother, I will not give my faith to the Turks,"
+      },
+      {
+       "cyr": "на Турчин жена мајко не станувам.",
+       "lat": "na Turčin žena majko ne stanuvam.",
+       "en": "mother, I will not become a Turk's wife."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,169 @@
+{
+ "id": 1270,
+ "slug": "dojde-vreme-vojnici-da-odat",
+ "title_cyr": "Дојде време војници да одат",
+ "title_latin": "Dojde vreme vojnici da odat",
+ "title_en": "The Time Has Come for Soldiers to Go",
+ "pesna_url": "https://pesna.org/song/1270",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; no author I can name. The girl speaks to her mother in the first three verses and the mother answers in the last.",
+ "words_to_learn": [
+  {
+   "mk": "позив",
+   "en": "call-up, summons"
+  },
+  {
+   "mk": "верно",
+   "en": "faithful"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades, friends"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "тешки мисли",
+   "en": "heavy thoughts"
+  },
+  {
+   "mk": "се орат",
+   "en": "resound"
+  },
+  {
+   "mk": "испраќав",
+   "en": "I saw off"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "мажиме",
+   "en": "we marry off (a daughter)"
+  }
+ ],
+ "performers": [
+  "Дивна Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Дивна Лазарова",
+   "url": "https://pesna.org/audio-download/3202"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Дојде време, мила мајко, војници да одат,",
+       "lat": "- Dojde vreme, mila majko, vojnici da odat,",
+       "en": "- The time has come, dear mother, for soldiers to go,"
+      },
+      {
+       "cyr": "и на мојто верно либе позив му дојде,",
+       "lat": "i na mojto verno libe poziv mu dojde,",
+       "en": "and to my faithful love the call-up has come,"
+      },
+      {
+       "cyr": "сите другари песни му пеат,",
+       "lat": "site drugari pesni mu peat,",
+       "en": "all his comrades sing songs to him,"
+      },
+      {
+       "cyr": "очиве мои, мајко, солзи ми леат.",
+       "lat": "očive moi, majko, solzi mi leat.",
+       "en": "my eyes, mother, pour out tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се љубевме, мила мајко, четири години,",
+       "lat": "Se ljubevme, mila majko, četiri godini,",
+       "en": "We loved each other, dear mother, for four years,"
+      },
+      {
+       "cyr": "дојде време за разделба цели две години,",
+       "lat": "dojde vreme za razdelba celi dve godini,",
+       "en": "the time has come for a parting of two whole years,"
+      },
+      {
+       "cyr": "тешките мисли срце ми горат,",
+       "lat": "teškite misli srce mi gorat,",
+       "en": "heavy thoughts burn my heart,"
+      },
+      {
+       "cyr": "а по сокаци, мајко, песни се орат.",
+       "lat": "a po sokaci, majko, pesni se orat.",
+       "en": "and in the streets, mother, songs resound."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога го испраќав, мајко, со верни другари,",
+       "lat": "Koga go ispraḱav, majko, so verni drugari,",
+       "en": "When I saw him off, mother, with loyal comrades,"
+      },
+      {
+       "cyr": "мојто верно либе, мајко, жално ме гледаше,",
+       "lat": "mojto verno libe, majko, žalno me gledaše,",
+       "en": "my faithful love, mother, looked at me sadly,"
+      },
+      {
+       "cyr": "сите другари песни му пеат,",
+       "lat": "site drugari pesni mu peat,",
+       "en": "all his comrades sing songs to him,"
+      },
+      {
+       "cyr": "ракија пијат, мајко, ем се веселат.",
+       "lat": "rakija pijat, majko, em se veselat.",
+       "en": "they drink brandy, mother, and make merry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај, не плачи мила ќерко, тој ќе ти се врати,",
+       "lat": "- Aj, ne plači mila ḱerko, toj ḱe ti se vrati,",
+       "en": "- Come, do not cry, dear daughter, he will return to you,"
+      },
+      {
+       "cyr": "и вашата верна љубов пак ќе се поврати,",
+       "lat": "i vašata verna ljubov pak ḱe se povrati,",
+       "en": "and your faithful love will come back again,"
+      },
+      {
+       "cyr": "порти ќе китам, сватови ќе чекам,",
+       "lat": "porti ḱe kitam, svatovi ḱe čekam,",
+       "en": "I will decorate the gates, I will await the wedding guests,"
+      },
+      {
+       "cyr": "свадба ќе правиме, ќерко, тебе ќе мажиме.",
+       "lat": "svadba ḱe pravime, ḱerko, tebe ḱe mažime.",
+       "en": "we will hold a wedding, daughter, we will marry you off."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

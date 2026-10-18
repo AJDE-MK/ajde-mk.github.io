@@ -1,0 +1,309 @@
+{
+ "id": 513,
+ "slug": "shto-se-chulo-nane",
+ "title_cyr": "Што се чуло нане",
+ "title_latin": "Što se čulo nane",
+ "title_en": "People are talking, grandma",
+ "pesna_url": "https://pesna.org/song/513",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај",
+  "Зоран Џорлев",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/642"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/643"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/644"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3363"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ќе ме грабит тој Никола)",
+       "lat": "(Ḱe me grabit toj Nikola)",
+       "en": "(That Nikola will kidnap me)",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што се чуло нане,",
+       "lat": "Što se čulo nane,",
+       "en": "People are talking, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што се чуло и разбрало,",
+       "lat": "što se čulo i razbralo,",
+       "en": "talking around the town,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман и разбрало.",
+       "lat": "aman i razbralo.",
+       "en": "hey around the town.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ќе ме грабит нане,",
+       "lat": "Ḱe me grabit nane,",
+       "en": "He will kidnap me, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе ме грабит тој Никола,",
+       "lat": "ḱe me grabit toj Nikola,",
+       "en": "he will kidnap me, that Nikola,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Никола нане,",
+       "lat": "toj Nikola nane,",
+       "en": "that Nikola, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Никола од Зарчета.",
+       "lat": "toj Nikola od Zarčeta.",
+       "en": "that Nikola from the Zarche family.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да ојме нане,",
+       "lat": "Aj da ojme nane,",
+       "en": "Let's go, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај да ојме кај вујка ми,",
+       "lat": "aj da ojme kaj vujka mi,",
+       "en": "let's go to my uncle,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман кај вујка ми.",
+       "lat": "aman kaj vujka mi.",
+       "en": "please, to my uncle.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кај вујка ми нане,",
+       "lat": "Kaj vujka mi nane,",
+       "en": "To my uncle, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кај вујка ми Костакија.",
+       "lat": "kaj vujka mi Kostakija.",
+       "en": "my uncle Kostakia.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Белким таму нане,",
+       "lat": "Belkim tamu nane,",
+       "en": "I hope that there, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "белким таму не ќе дојдат.",
+       "lat": "belkim tamu ne ḱe dojdat.",
+       "en": "I hope that there they will not come.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ушче зборот нане,",
+       "lat": "Ušče zborot nane,",
+       "en": "She didn't even, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "уште зборот недоречен,",
+       "lat": "ušte zborot nedorečen,",
+       "en": "She didn't even complete her sentence,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман недоречен,",
+       "lat": "aman nedorečen,",
+       "en": "oh, no, she was still talking,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ќе видиш нане,",
+       "lat": "što ḱe vidiš nane,",
+       "en": "and what do you see, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ќе видиш во дворови.",
+       "lat": "što ḱe vidiš vo dvorovi.",
+       "en": "what do you see in the yard?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Во дворови нане,",
+       "lat": "Vo dvorovi nane,",
+       "en": "In the yard, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè дебрани и мокрани.",
+       "lat": "sè debrani i mokrani.",
+       "en": "many people from Debar and Mokrane.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Подај ми го сестро,",
+       "lat": "Podaj mi go sestro,",
+       "en": "Give me, sister,",
+       "en_mt": false
+      },
+      {
+       "cyr": "подај ми го шемшането,",
+       "lat": "podaj mi go šemšaneto,",
+       "en": "give me my rifle,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман шемшането.",
+       "lat": "aman šemšaneto.",
+       "en": "oh, my rifle.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Tи ќе полниш сестро,",
+       "lat": "Ti ḱe polniš sestro,",
+       "en": "You will load it, sister,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти ќе полниш, јас ќе фрлам.",
+       "lat": "ti ḱe polniš, jas ḱe frlam.",
+       "en": "you will load it, I will shoot.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва пушка нане,",
+       "lat": "Prva puška nane,",
+       "en": "The first shot, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "прва пушка што ми пукна,",
+       "lat": "prva puška što mi pukna,",
+       "en": "the first shot that was heard,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман што ми пукна,",
+       "lat": "aman što mi pukna,",
+       "en": "oh, that was heard,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ми го удри нане,",
+       "lat": "mi go udri nane,",
+       "en": "hit him, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ми го удри тој Никола,",
+       "lat": "mi go udri toj Nikola,",
+       "en": "hit that Nikola,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Никола нане,",
+       "lat": "toj Nikola nane,",
+       "en": "that Nikola, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Никола од Зарчета.",
+       "lat": "toj Nikola od Zarčeta.",
+       "en": "that Nikola from the Zarche family.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чун го чекат нане,",
+       "lat": "Čun go čekat nane,",
+       "en": "A rowboat is waiting for him, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "чун го чека Долни Сарај,",
+       "lat": "čun go čeka Dolni Saraj,",
+       "en": "a rowboat is waiting at Dolni Saraj,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман Долни Сарај.",
+       "lat": "aman Dolni Saraj.",
+       "en": "oh, at Dolni Saraj.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Го однесоја нане",
+       "lat": "Go odnesoja nane",
+       "en": "He was taken, grandma,",
+       "en_mt": false
+      },
+      {
+       "cyr": "г' однесоја во Поградец.",
+       "lat": "g' odnesoja vo Pogradec.",
+       "en": "he was taken to Pogradec.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,121 @@
+{
+ "id": 129,
+ "slug": "ete-taka-dedo-dimo",
+ "title_cyr": "Ете така дедо Димо",
+ "title_latin": "Ete taka dedo Dimo",
+ "title_en": "There, grandpa Dimo",
+ "pesna_url": "https://pesna.org/song/129",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Димитар Коларов",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/698"
+  },
+  {
+   "who": "Димитар Коларов",
+   "url": "https://pesna.org/audio-download/2178"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ете така дедо Димо",
+       "lat": "Ete taka dedo Dimo",
+       "en": "There, grandpa Dimo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на старост се жени,",
+       "lat": "na starost se ženi,",
+       "en": "got married at old age,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зеде жена на помлада,",
+       "lat": "zede žena na pomlada,",
+       "en": "he married a younger woman,",
+       "en_mt": false
+      },
+      {
+       "cyr": "стотин' кила мери.",
+       "lat": "stotin' kila meri.",
+       "en": "weighting about a hundred kilos.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викна зурли, ем тапани,",
+       "lat": "Vikna zurli, em tapani,",
+       "en": "He called for zurli and drums,",
+       "en_mt": false
+      },
+      {
+       "cyr": "триста и пет свата,",
+       "lat": "trista i pet svata,",
+       "en": "three hundred and five guests,",
+       "en_mt": false
+      },
+      {
+       "cyr": "седум попа и три ѓака,",
+       "lat": "sedum popa i tri ǵaka,",
+       "en": "seven priests, three ministers,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дур' и старосвата.",
+       "lat": "dur' i starosvata.",
+       "en": "even a best man.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си трга на венчило,",
+       "lat": "Pa si trga na venčilo,",
+       "en": "So he went to the ceremony,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè што беше ојде,",
+       "lat": "sè što beše ojde,",
+       "en": "everyone was there,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до црквата дедо Димо",
+       "lat": "do crkvata dedo Dimo",
+       "en": "but to come to the church grandpa Dimo",
+       "en_mt": false
+      },
+      {
+       "cyr": "без душа ми дојде.",
+       "lat": "bez duša mi dojde.",
+       "en": "barely made it.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

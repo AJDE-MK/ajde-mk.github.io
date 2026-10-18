@@ -1,0 +1,165 @@
+{
+ "id": 1485,
+ "slug": "devojchence-dusho-moja",
+ "title_cyr": "Девојченце душо моја",
+ "title_latin": "Devojčence dušo moja",
+ "title_en": "Little girl, my soul",
+ "pesna_url": "https://pesna.org/song/1485",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Last stanza mixes eastern/other dialect forms (оду, све, сас, зему, векују); my reading for lines 2 and 3 of it is loose.",
+ "words_to_learn": [
+  {
+   "mk": "девојченце",
+   "en": "little girl"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned (up)"
+  },
+  {
+   "mk": "убавина",
+   "en": "beauty"
+  },
+  {
+   "mk": "полноќ",
+   "en": "midnight"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "накитено",
+   "en": "adorned"
+  },
+  {
+   "mk": "се чуди",
+   "en": "marvels, wonders"
+  },
+  {
+   "mk": "грабнува",
+   "en": "snatches, grabs"
+  },
+  {
+   "mk": "век",
+   "en": "forever, a lifetime"
+  }
+ ],
+ "performers": [
+  "Ансамбл Панче Пешев"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3860"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девојченце душо лице твое,",
+       "lat": "Devojčence dušo lice tvoe,",
+       "en": "Little girl, my soul, your face"
+      },
+      {
+       "cyr": "изгоре ми младо срце мое.",
+       "lat": "izgore mi mlado srce moe.",
+       "en": "has burned my young heart."
+      },
+      {
+       "cyr": "Со твојата лична убавина,",
+       "lat": "So tvojata lična ubavina,",
+       "en": "With your beauty,"
+      },
+      {
+       "cyr": "како јасна полноќ Месечина.",
+       "lat": "kako jasna polnoḱ Mesečina.",
+       "en": "like a clear midnight moonlight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само шеташ покрај мое порте,",
+       "lat": "Samo šetaš pokraj moe porte,",
+       "en": "You just walk past my gate,"
+      },
+      {
+       "cyr": "променето, злато накитено,",
+       "lat": "promeneto, zlato nakiteno,",
+       "en": "changed, adorned with gold,"
+      },
+      {
+       "cyr": "кој замине моме и те види,",
+       "lat": "koj zamine mome i te vidi,",
+       "en": "whoever passes, girl, and sees you,"
+      },
+      {
+       "cyr": "сал' застане душо и се чуди.",
+       "lat": "sal' zastane dušo i se čudi.",
+       "en": "only stops, my soul, and marvels."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали путот да си продужува,",
+       "lat": "Dali putot da si produžuva,",
+       "en": "Should he continue on his way,"
+      },
+      {
+       "cyr": "или тебе младо да грабнува?",
+       "lat": "ili tebe mlado da grabnuva?",
+       "en": "or snatch you, young one?"
+      },
+      {
+       "cyr": "Мислеејќи туј си замрзнува",
+       "lat": "Misleejḱi tuj si zamrznuva",
+       "en": "Thinking of it he freezes there"
+      },
+      {
+       "cyr": "и у јутро сам си осамнува.",
+       "lat": "i u jutro sam si osamnuva.",
+       "en": "and by morning dawns alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Куде оду моме све си мислу,",
+       "lat": "Kude odu mome sve si mislu,",
+       "en": "Where I go, girl, I think of everything,"
+      },
+      {
+       "cyr": "кад га свију полноќ све сонују,",
+       "lat": "kad ga sviju polnoḱ sve sonuju,",
+       "en": "when midnight bends all, they dream of it,"
+      },
+      {
+       "cyr": "како тебе моме да те зему,",
+       "lat": "kako tebe mome da te zemu,",
+       "en": "how to take you, girl,"
+      },
+      {
+       "cyr": "и сас тебе век да си векују.",
+       "lat": "i sas tebe vek da si vekuju.",
+       "en": "and live with you forever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

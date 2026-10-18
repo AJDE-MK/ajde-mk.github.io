@@ -1,0 +1,201 @@
+{
+ "id": 1448,
+ "slug": "naum-i-despina",
+ "title_cyr": "Наум и Деспина",
+ "title_latin": "Naum i Despina",
+ "title_en": "Naum and Despina",
+ "pesna_url": "https://pesna.org/song/1448",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern composed song but I cannot name an author. 'руба даровна' and 'остави душа за понадица' are my readings; 'судбина' is used as feminine here.",
+ "words_to_learn": [
+  {
+   "mk": "бранови",
+   "en": "waves"
+  },
+  {
+   "mk": "кораби",
+   "en": "ships"
+  },
+  {
+   "mk": "рибари",
+   "en": "fishermen"
+  },
+  {
+   "mk": "очекува",
+   "en": "awaits"
+  },
+  {
+   "mk": "кајче",
+   "en": "small boat, caique"
+  },
+  {
+   "mk": "судбина",
+   "en": "fate"
+  },
+  {
+   "mk": "соблече",
+   "en": "took off (clothes)"
+  },
+  {
+   "mk": "распушти",
+   "en": "let loose (hair)"
+  },
+  {
+   "mk": "покрие",
+   "en": "cover"
+  }
+ ],
+ "performers": [
+  "Група Кода",
+  "Група Маестро",
+  "Дејан Николоски Чуле",
+  "Дрим тим",
+  "Класико бенд"
+ ],
+ "audio": [
+  {
+   "who": "Група Кода",
+   "url": "https://pesna.org/audio-download/3699"
+  },
+  {
+   "who": "Група Маестро",
+   "url": "https://pesna.org/audio-download/3700"
+  },
+  {
+   "who": "Класико бенд",
+   "url": "https://pesna.org/audio-download/3701"
+  },
+  {
+   "who": "Дејан Николоски Чуле, Дрим тим",
+   "url": "https://pesna.org/audio-download/3702"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Езерски бранови носат кораби,",
+       "lat": "Ezerski branovi nosat korabi,",
+       "en": "Lake waves carry ships,"
+      },
+      {
+       "cyr": "впловија сите стари рибари,",
+       "lat": "vplovija site stari ribari,",
+       "en": "all the old fishermen sailed in,"
+      },
+      {
+       "cyr": "остана само мома Деспина,",
+       "lat": "ostana samo moma Despina,",
+       "en": "only the girl Despina remained,"
+      },
+      {
+       "cyr": "стои крај брегот и очекува.",
+       "lat": "stoi kraj bregot i očekuva.",
+       "en": "she stands by the shore and waits."
+      },
+      {
+       "cyr": "Поглед со солзи кон езерото,",
+       "lat": "Pogled so solzi kon ezeroto,",
+       "en": "Her gaze with tears towards the lake,"
+      },
+      {
+       "cyr": "уште го нема Наум со кајчето.",
+       "lat": "ušte go nema Naum so kajčeto.",
+       "en": "Naum with his little boat is still not here."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека плачат, не е лесно,",
+       "lat": "Neka plačat, ne e lesno,",
+       "en": "Let them cry, it is not easy,"
+      },
+      {
+       "cyr": "охридска е тоа судбина,",
+       "lat": "ohridska e toa sudbina,",
+       "en": "this is Ohrid's fate,"
+      },
+      {
+       "cyr": "каков живот - таква песна,",
+       "lat": "kakov život - takva pesna,",
+       "en": "such a life, such a song,"
+      },
+      {
+       "cyr": "Наум и Деспина.",
+       "lat": "Naum i Despina.",
+       "en": "Naum and Despina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Соблече Деспина руба даровна,",
+       "lat": "Sobleče Despina ruba darovna,",
+       "en": "Despina took off her gift dress,"
+      },
+      {
+       "cyr": "распушти коса, тажно запеа,",
+       "lat": "raspušti kosa, tažno zapea,",
+       "en": "let down her hair, sang sadly,"
+      },
+      {
+       "cyr": "влезе во вода ладна езерска,",
+       "lat": "vleze vo voda ladna ezerska,",
+       "en": "went into the cold lake water,"
+      },
+      {
+       "cyr": "остави душа за понадица.",
+       "lat": "ostavi duša za ponadica.",
+       "en": "left her soul as a pledge (my reading)."
+      },
+      {
+       "cyr": "Посака Охрид да ја покрие",
+       "lat": "Posaka Ohrid da ja pokrie",
+       "en": "She wished Ohrid would cover her"
+      },
+      {
+       "cyr": "кога го нема Наум крај себе.",
+       "lat": "koga go nema Naum kraj sebe.",
+       "en": "when Naum is not beside her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека плачат, не е лесно,",
+       "lat": "Neka plačat, ne e lesno,",
+       "en": "Let them cry, it is not easy,"
+      },
+      {
+       "cyr": "охридска е тоа судбина,",
+       "lat": "ohridska e toa sudbina,",
+       "en": "this is Ohrid's fate,"
+      },
+      {
+       "cyr": "каков живот - таква песна,",
+       "lat": "kakov život - takva pesna,",
+       "en": "such a life, such a song,"
+      },
+      {
+       "cyr": "Наум и Деспина.",
+       "lat": "Naum i Despina.",
+       "en": "Naum and Despina."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

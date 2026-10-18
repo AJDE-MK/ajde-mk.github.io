@@ -1,0 +1,210 @@
+{
+ "id": 185,
+ "slug": "dafina-platno-beleshe",
+ "title_cyr": "Дафина платно белеше",
+ "title_latin": "Dafina platno beleše",
+ "title_en": "Dafina was bleaching linen",
+ "pesna_url": "https://pesna.org/song/185",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'моме' rendered 'maiden' as a vocative filler. 'ракитови' rendered 'willow' (ракита is a willow/osier type).",
+ "words_to_learn": [
+  {
+   "mk": "платно",
+   "en": "linen, cloth"
+  },
+  {
+   "mk": "белеше",
+   "en": "was bleaching / whitening"
+  },
+  {
+   "mk": "дотече",
+   "en": "came flowing"
+  },
+  {
+   "mk": "однесе",
+   "en": "carried away"
+  },
+  {
+   "mk": "плусна",
+   "en": "clapped, slapped"
+  },
+  {
+   "mk": "ќерко",
+   "en": "daughter"
+  },
+  {
+   "mk": "препливај",
+   "en": "swim across"
+  },
+  {
+   "mk": "врзани",
+   "en": "bound, tied"
+  },
+  {
+   "mk": "корење",
+   "en": "roots"
+  },
+  {
+   "mk": "ракитови",
+   "en": "willow (adj.)"
+  }
+ ],
+ "performers": [
+  "МРТВ",
+  "Охридски трубадури",
+  "Цвета Билјановска"
+ ],
+ "audio": [
+  {
+   "who": "МРТВ, Цвета Билјановска",
+   "url": "https://pesna.org/audio-download/1901"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/3264"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дафина платно белеше",
+       "lat": "Dafina platno beleše",
+       "en": "Dafina was bleaching linen,"
+      },
+      {
+       "cyr": "Дафино моме,",
+       "lat": "Dafino mome,",
+       "en": "maiden Dafina,"
+      },
+      {
+       "cyr": "на бели Дунав, на вода,",
+       "lat": "na beli Dunav, na voda,",
+       "en": "on the white Danube, in the water,"
+      },
+      {
+       "cyr": "Дафино моме,",
+       "lat": "Dafino mome,",
+       "en": "maiden Dafina,"
+      },
+      {
+       "cyr": "силен ми Дунав дотече.",
+       "lat": "silen mi Dunav doteče.",
+       "en": "the mighty Danube came rushing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дафина ми е однесе,",
+       "lat": "Dafina mi e odnese,",
+       "en": "It carried Dafina away,"
+      },
+      {
+       "cyr": "Дафино моме,",
+       "lat": "Dafino mome,",
+       "en": "maiden Dafina,"
+      },
+      {
+       "cyr": "среде во Дунав, во вода.",
+       "lat": "srede vo Dunav, vo voda.",
+       "en": "to the middle of the Danube, in the water."
+      },
+      {
+       "cyr": "Кога дочула мајка е,",
+       "lat": "Koga dočula majka e,",
+       "en": "When her mother heard,"
+      },
+      {
+       "cyr": "Дафино моме,",
+       "lat": "Dafino mome,",
+       "en": "maiden Dafina,"
+      },
+      {
+       "cyr": "плусна си две бели раце.",
+       "lat": "plusna si dve beli race.",
+       "en": "she clapped her two white hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дафино, ќерко, Дафино,",
+       "lat": "- Dafino, ḱerko, Dafino,",
+       "en": "- 'Dafina, daughter, Dafina,"
+      },
+      {
+       "cyr": "ќерко ле мила,",
+       "lat": "ḱerko le mila,",
+       "en": "dear daughter,"
+      },
+      {
+       "cyr": "пушти си раце, препливај.",
+       "lat": "pušti si race, preplivaj.",
+       "en": "let your hands free, swim across.'"
+      },
+      {
+       "cyr": "- Не можам, мајко, не можам,",
+       "lat": "- Ne možam, majko, ne možam,",
+       "en": "- 'I cannot, mother, I cannot,"
+      },
+      {
+       "cyr": "мајко ле мила,",
+       "lat": "majko le mila,",
+       "en": "dear mother,"
+      },
+      {
+       "cyr": "рацете ми се врзани.",
+       "lat": "racete mi se vrzani.",
+       "en": "my hands are bound."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рацете ми се врзани,",
+       "lat": "Racete mi se vrzani,",
+       "en": "My hands are bound,"
+      },
+      {
+       "cyr": "мајко ле мила,",
+       "lat": "majko le mila,",
+       "en": "dear mother,"
+      },
+      {
+       "cyr": "во сребренине прстени.",
+       "lat": "vo srebrenine prsteni.",
+       "en": "with silver rings."
+      },
+      {
+       "cyr": "Нозете ми се врзани,",
+       "lat": "Nozete mi se vrzani,",
+       "en": "My feet are bound,"
+      },
+      {
+       "cyr": "мајко ле мила,",
+       "lat": "majko le mila,",
+       "en": "dear mother,"
+      },
+      {
+       "cyr": "во ракитови корење.",
+       "lat": "vo rakitovi korenje.",
+       "en": "with willow roots.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

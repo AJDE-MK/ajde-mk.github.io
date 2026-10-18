@@ -1,0 +1,184 @@
+{
+ "id": 23,
+ "slug": "oj-kazhi-kazhi-mome-kalino",
+ "title_cyr": "Ој кажи, кажи моме Калино",
+ "title_latin": "Oj kaži, kaži mome Kalino",
+ "title_en": "Oh Tell Me, Tell Me, Girl Kalina",
+ "pesna_url": "https://pesna.org/song/23",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect forms (като зема, един пат, оште) look Bulgarian-influenced. 'Оште непроносила' read as 'that has not yet laid eggs', my reading; 'Ќе удра... ќе броја' (strike, count) is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ми се јаде",
+   "en": "I feel like eating"
+  },
+  {
+   "mk": "ми се пие",
+   "en": "I feel like drinking"
+  },
+  {
+   "mk": "погача",
+   "en": "round flatbread"
+  },
+  {
+   "mk": "замесена",
+   "en": "kneaded"
+  },
+  {
+   "mk": "кокошка",
+   "en": "hen"
+  },
+  {
+   "mk": "тригодишно вино",
+   "en": "three-year-old wine"
+  },
+  {
+   "mk": "преточено",
+   "en": "decanted, poured off"
+  },
+  {
+   "mk": "дренов",
+   "en": "of cornel wood"
+  },
+  {
+   "mk": "тојага",
+   "en": "stick, staff"
+  }
+ ],
+ "performers": [
+  "МФГ од с. Банија",
+  "Никола Тодоров",
+  "Пирински гриваци",
+  "ФГ Сите Бугари заедно"
+ ],
+ "audio": [
+  {
+   "who": "МФГ од с. Банија",
+   "url": "https://pesna.org/audio-download/2553"
+  },
+  {
+   "who": "ФГ Сите Бугари заедно",
+   "url": "https://pesna.org/audio-download/2554"
+  },
+  {
+   "who": "Никола Тодоров",
+   "url": "https://pesna.org/audio-download/2555"
+  },
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/2556"
+  },
+  {
+   "who": "МФГ од с. Банија",
+   "url": "https://pesna.org/audio-download/2557"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој кажи, кажи моме Калино,",
+       "lat": "- Oj kaži, kaži mome Kalino,",
+       "en": "- Oh tell me, tell me, girl Kalina,"
+      },
+      {
+       "cyr": "што ти се јаде?",
+       "lat": "što ti se jade?",
+       "en": "what do you feel like eating?"
+      },
+      {
+       "cyr": "- Мене ми се јаде печена погача,",
+       "lat": "- Mene mi se jade pečena pogača,",
+       "en": "- I feel like eating baked flatbread,"
+      },
+      {
+       "cyr": "од мома замесена.",
+       "lat": "od moma zamesena.",
+       "en": "kneaded by a girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој кажи, кажи моме Калино,",
+       "lat": "- Oj kaži, kaži mome Kalino,",
+       "en": "- Oh tell me, tell me, girl Kalina,"
+      },
+      {
+       "cyr": "што ти се јаде?",
+       "lat": "što ti se jade?",
+       "en": "what do you feel like eating?"
+      },
+      {
+       "cyr": "- Мене ми се јаде печена кокошка,",
+       "lat": "- Mene mi se jade pečena kokoška,",
+       "en": "- I feel like eating a roast hen"
+      },
+      {
+       "cyr": "оште непроносила.",
+       "lat": "ošte nepronosila.",
+       "en": "that has not yet laid."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој кажи, кажи моме Калино,",
+       "lat": "- Oj kaži, kaži mome Kalino,",
+       "en": "- Oh tell me, tell me, girl Kalina,"
+      },
+      {
+       "cyr": "што ти се пие?",
+       "lat": "što ti se pie?",
+       "en": "what do you feel like drinking?"
+      },
+      {
+       "cyr": "- Мене ми се пие тригодишно вино,",
+       "lat": "- Mene mi se pie trigodišno vino,",
+       "en": "- I feel like drinking three-year-old wine,"
+      },
+      {
+       "cyr": "три пати преточено.",
+       "lat": "tri pati pretočeno.",
+       "en": "poured off three times."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој като зема дренова тојага,",
+       "lat": "- Oj kato zema drenova tojaga,",
+       "en": "- Oh, I will take a cornel-wood stick,"
+      },
+      {
+       "cyr": "оште неокастрена,",
+       "lat": "ošte neokastrena,",
+       "en": "not yet trimmed,"
+      },
+      {
+       "cyr": "три пати ќе удра, един пат ќе броја,",
+       "lat": "tri pati ḱe udra, edin pat ḱe broja,",
+       "en": "three times I will strike, one time I will count,"
+      },
+      {
+       "cyr": "па да видим' што ти се пие!",
+       "lat": "pa da vidim' što ti se pie!",
+       "en": "and then we will see what you feel like drinking!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

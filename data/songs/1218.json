@@ -1,0 +1,204 @@
+{
+ "id": 1218,
+ "slug": "cvekje-cuteshe",
+ "title_cyr": "Цвеќе цутеше",
+ "title_latin": "Cveḱe cuteše",
+ "title_en": "Flowers were blooming",
+ "pesna_url": "https://pesna.org/song/1218",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Како да кандисам' as 'I felt like' is my reading (кандисам: to be persuaded / feel like); 'мале' is rendered 'mother' as a vocative filler.",
+ "words_to_learn": [
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "искинам",
+   "en": "I pick, tear off"
+  },
+  {
+   "mk": "наредам",
+   "en": "I arrange"
+  },
+  {
+   "mk": "китка",
+   "en": "bouquet"
+  },
+  {
+   "mk": "апсаане",
+   "en": "prison"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "книга",
+   "en": "letter (old usage)"
+  },
+  {
+   "mk": "мажи се",
+   "en": "get married (to a woman: marry a man)"
+  },
+  {
+   "mk": "росно",
+   "en": "dewy"
+  }
+ ],
+ "performers": [
+  "Ленче Марковска",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Ленче Марковска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3008"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цвеќе цутеше, мале,",
+       "lat": "Cveḱe cuteše, male,",
+       "en": "Flowers were blooming, mother,"
+      },
+      {
+       "cyr": "во наш'та градина,",
+       "lat": "vo naš'ta gradina,",
+       "en": "in our garden,"
+      },
+      {
+       "cyr": "како да кандисам, мале,",
+       "lat": "kako da kandisam, male,",
+       "en": "I felt like, mother,"
+      },
+      {
+       "cyr": "да го искинам.",
+       "lat": "da go iskinam.",
+       "en": "picking it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го искинам, мале,",
+       "lat": "Da go iskinam, male,",
+       "en": "Picking it, mother,"
+      },
+      {
+       "cyr": "и да го наредам,",
+       "lat": "i da go naredam,",
+       "en": "and arranging it,"
+      },
+      {
+       "cyr": "да го наредам, мале,",
+       "lat": "da go naredam, male,",
+       "en": "arranging it, mother,"
+      },
+      {
+       "cyr": "во китка цвеќе.",
+       "lat": "vo kitka cveḱe.",
+       "en": "into a bouquet of flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го испратам, мале,",
+       "lat": "Da go ispratam, male,",
+       "en": "Sending it, mother,"
+      },
+      {
+       "cyr": "во апсаането,",
+       "lat": "vo apsaaneto,",
+       "en": "to the prison,"
+      },
+      {
+       "cyr": "во апсаането мале,",
+       "lat": "vo apsaaneto male,",
+       "en": "to the prison, mother,"
+      },
+      {
+       "cyr": "на моето либе.",
+       "lat": "na moeto libe.",
+       "en": "to my sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет години, мале,",
+       "lat": "Devet godini, male,",
+       "en": "Nine years, mother,"
+      },
+      {
+       "cyr": "дома не е дошло,",
+       "lat": "doma ne e došlo,",
+       "en": "he has not come home,"
+      },
+      {
+       "cyr": "а на десетта, мале",
+       "lat": "a na desetta, male",
+       "en": "and in the tenth, mother,"
+      },
+      {
+       "cyr": "книга ми пратило.",
+       "lat": "kniga mi pratilo.",
+       "en": "he sent me a letter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мажи се, моме мори,",
+       "lat": "- Maži se, mome mori,",
+       "en": "- Get married, girl, hey,"
+      },
+      {
+       "cyr": "дури си млада,",
+       "lat": "duri si mlada,",
+       "en": "while you are young,"
+      },
+      {
+       "cyr": "цвеќе мирише мале",
+       "lat": "cveḱe miriše male",
+       "en": "flowers smell sweet, mother,"
+      },
+      {
+       "cyr": "дури е росно,",
+       "lat": "duri e rosno,",
+       "en": "while they are dewy,"
+      },
+      {
+       "cyr": "а мома се љуби, мале,",
+       "lat": "a moma se ljubi, male,",
+       "en": "and a girl is loved, mother,"
+      },
+      {
+       "cyr": "дури е млада.",
+       "lat": "duri e mlada.",
+       "en": "while she is young."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

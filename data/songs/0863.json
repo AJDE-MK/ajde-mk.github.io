@@ -1,0 +1,150 @@
+{
+ "id": 863,
+ "slug": "zhirovnico-pusta-ostanala",
+ "title_cyr": "Жировницо пуста останала",
+ "title_latin": "Žirovnico pusta ostanala",
+ "title_en": "Zhirovnica, Left Desolate",
+ "pesna_url": "https://pesna.org/song/863",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unsure: 'жити камењата' (my reading 'living stones') and 'три рала тапани' (my reading 'three plough-lands of tapani', possibly deeds/land titles). 'Зар' as 'did you' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "пуста",
+   "en": "empty, desolate"
+  },
+  {
+   "mk": "девојка",
+   "en": "girl"
+  },
+  {
+   "mk": "камења",
+   "en": "stones"
+  },
+  {
+   "mk": "ашикуват",
+   "en": "they court, flirt (from ашик, lover)"
+  },
+  {
+   "mk": "гответ",
+   "en": "ready, prepared (dialect)"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor, carefree young man"
+  },
+  {
+   "mk": "тагуват",
+   "en": "they grieve"
+  },
+  {
+   "mk": "рало",
+   "en": "plough (also a land measure)"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "пукнет",
+   "en": "may they burst (dialect)"
+  }
+ ],
+ "performers": [
+  "Бисер",
+  "Energy Band Skopje"
+ ],
+ "audio": [
+  {
+   "who": "Бисер",
+   "url": "https://pesna.org/audio-download/1883"
+  },
+  {
+   "who": "Energy Band Skopje",
+   "url": "https://pesna.org/audio-download/2511"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Жировницо, пуста останала",
+       "lat": "- Žirovnico, pusta ostanala",
+       "en": "- Zhirovnica, left desolate,"
+      },
+      {
+       "cyr": "зар' за мене девојка немала?",
+       "lat": "zar' za mene devojka nemala?",
+       "en": "did you have no girl for me?"
+      },
+      {
+       "cyr": "Жировницо, жити камењата",
+       "lat": "Žirovnico, žiti kamenjata",
+       "en": "Zhirovnica, living stones,"
+      },
+      {
+       "cyr": "што работат Неданица моја?",
+       "lat": "što rabotat Nedanica moja?",
+       "en": "what is my Nedanica doing?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' се гответ, или ашикуват,",
+       "lat": "Dal' se gotvet, ili ašikuvat,",
+       "en": "Are they getting ready, or flirting,"
+      },
+      {
+       "cyr": "ил' за мене беќара тагуваат?",
+       "lat": "il' za mene beḱara taguvaat?",
+       "en": "or are they grieving for me, the bachelor?"
+      },
+      {
+       "cyr": "- Нит' се гответ, ниту ашикуват,",
+       "lat": "- Nit' se gotvet, nitu ašikuvat,",
+       "en": "- They are neither getting ready nor flirting,"
+      },
+      {
+       "cyr": "тук' за тебе беќара тагуват.",
+       "lat": "tuk' za tebe beḱara taguvat.",
+       "en": "they only grieve for you, the bachelor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој девојко, ти за мене појди,",
+       "lat": "- Oj devojko, ti za mene pojdi,",
+       "en": "- Oh girl, come to me,"
+      },
+      {
+       "cyr": "ќе пазарам три рала тапани.",
+       "lat": "ḱe pazaram tri rala tapani.",
+       "en": "I will buy three plough-lands of tapani."
+      },
+      {
+       "cyr": "Ќе пазарам три рала тапани,",
+       "lat": "Ḱe pazaram tri rala tapani,",
+       "en": "I will buy three plough-lands of tapani,"
+      },
+      {
+       "cyr": "нека пукнет нашите душмани.",
+       "lat": "neka puknet našite dušmani.",
+       "en": "let our enemies burst."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

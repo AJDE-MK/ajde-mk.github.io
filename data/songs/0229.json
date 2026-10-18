@@ -1,0 +1,142 @@
+{
+ "id": 229,
+ "slug": "lulela-e-jana",
+ "title_cyr": "Лулела е Јана",
+ "title_latin": "Lulela e Jana",
+ "title_en": "Jana Was Rocking",
+ "pesna_url": "https://pesna.org/song/229",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Е' in 'лулела е' is a dialect auxiliary; 'је' in 'го је лулела' is a dialect form of the auxiliary/pronoun, my reading. Stanza 2 is a curse-wish on the child.",
+ "words_to_learn": [
+  {
+   "mk": "лулела",
+   "en": "was rocking (a baby)"
+  },
+  {
+   "mk": "детенце",
+   "en": "little child"
+  },
+  {
+   "mk": "em ... em",
+   "en": "both ... and"
+  },
+  {
+   "mk": "луто",
+   "en": "bitterly, fiercely"
+  },
+  {
+   "mk": "клела",
+   "en": "cursed"
+  },
+  {
+   "mk": "жалеам",
+   "en": "I mourn, I grieve"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "Господ",
+   "en": "the Lord"
+  }
+ ],
+ "performers": [
+  "Нина Спирова",
+  "Соња Перишиќ"
+ ],
+ "audio": [
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/1650"
+  },
+  {
+   "who": "Соња Перишиќ",
+   "url": "https://pesna.org/audio-download/1651"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лулела е Јана",
+       "lat": "Lulela e Jana",
+       "en": "Jana was rocking"
+      },
+      {
+       "cyr": "Булино детенце.",
+       "lat": "Bulino detence.",
+       "en": "Bula's little child."
+      },
+      {
+       "cyr": "Ем го је лулела,",
+       "lat": "Em go je lulela,",
+       "en": "She both rocked it"
+      },
+      {
+       "cyr": "ем го луто клела.",
+       "lat": "em go luto klela.",
+       "en": "and bitterly cursed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ми даде Господ",
+       "lat": "Da mi dade Gospod",
+       "en": "May the Lord give me"
+      },
+      {
+       "cyr": "Булино детенце,",
+       "lat": "Bulino detence,",
+       "en": "Bula's little child,"
+      },
+      {
+       "cyr": "денес да лулеам,",
+       "lat": "denes da luleam,",
+       "en": "to rock today,"
+      },
+      {
+       "cyr": "утре да жалеам.",
+       "lat": "utre da žaleam.",
+       "en": "to mourn tomorrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што не може Јана",
+       "lat": "Što ne može Jana",
+       "en": "Because Jana cannot"
+      },
+      {
+       "cyr": "на вода да иде,",
+       "lat": "na voda da ide,",
+       "en": "go to the water,"
+      },
+      {
+       "cyr": "на вода да иде,",
+       "lat": "na voda da ide,",
+       "en": "go to the water"
+      },
+      {
+       "cyr": "либе да си виде.",
+       "lat": "libe da si vide.",
+       "en": "to see her sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

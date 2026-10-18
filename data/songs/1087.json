@@ -1,0 +1,203 @@
+{
+ "id": 1087,
+ "slug": "vratete-se-makedonci",
+ "title_cyr": "Вратете се Македонци",
+ "title_latin": "Vratete se Makedonci",
+ "title_en": "Come back, Macedonians",
+ "pesna_url": "https://pesna.org/song/1087",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigrant song, probably a modern composition, origin unclear (no author I can name). Last refrain line 'жално плаче' repeated; the third-stanza 'гласој наши' I read as 'our voices'.",
+ "words_to_learn": [
+  {
+   "mk": "заминува",
+   "en": "to leave, depart"
+  },
+  {
+   "mk": "земја",
+   "en": "land, country"
+  },
+  {
+   "mk": "непозната",
+   "en": "unknown"
+  },
+  {
+   "mk": "работи",
+   "en": "to work"
+  },
+  {
+   "mk": "вратете се",
+   "en": "come back (plural)"
+  },
+  {
+   "mk": "родна мајка",
+   "en": "native mother, motherland"
+  },
+  {
+   "mk": "камен на срце",
+   "en": "stone on the heart"
+  },
+  {
+   "mk": "роними солзи",
+   "en": "to shed tears"
+  },
+  {
+   "mk": "преку море",
+   "en": "across the sea"
+  }
+ ],
+ "performers": [
+  "Гоце Петрески",
+  "Aidonia tis Florinas"
+ ],
+ "audio": [
+  {
+   "who": "Aidonia tis Florinas",
+   "url": "https://pesna.org/audio-download/2551"
+  },
+  {
+   "who": "Гоце Петрески",
+   "url": "https://pesna.org/audio-download/2552"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заминавте Македонци,",
+       "lat": "Zaminavte Makedonci,",
+       "en": "You left, Macedonians,"
+      },
+      {
+       "cyr": "в' друга земја, непозната,",
+       "lat": "v' druga zemja, nepoznata,",
+       "en": "for another land, unknown,"
+      },
+      {
+       "cyr": "да работите.",
+       "lat": "da rabotite.",
+       "en": "to work."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, вратете се Македонци,",
+       "lat": "Ah, vratete se Makedonci,",
+       "en": "Ah, come back, Macedonians,"
+      },
+      {
+       "cyr": "за вас плаче родна мајка Македонија,",
+       "lat": "za vas plače rodna majka Makedonija,",
+       "en": "your native mother Macedonia weeps for you,"
+      },
+      {
+       "cyr": "ај, вратете се Македонци,",
+       "lat": "aj, vratete se Makedonci,",
+       "en": "oh, come back, Macedonians,"
+      },
+      {
+       "cyr": "жално плаче родна мајка Македонија.",
+       "lat": "žalno plače rodna majka Makedonija.",
+       "en": "her native mother Macedonia weeps sadly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си оставивте мајки и сестри,",
+       "lat": "Si ostavivte majki i sestri,",
+       "en": "You left behind mothers and sisters,"
+      },
+      {
+       "cyr": "камен на срце да носат,",
+       "lat": "kamen na srce da nosat,",
+       "en": "to carry a stone on their hearts,"
+      },
+      {
+       "cyr": "многу години.",
+       "lat": "mnogu godini.",
+       "en": "for many years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, вратете се Македонци,",
+       "lat": "Ah, vratete se Makedonci,",
+       "en": "Ah, come back, Macedonians,"
+      },
+      {
+       "cyr": "за вас плаче родна мајка Македонија,",
+       "lat": "za vas plače rodna majka Makedonija,",
+       "en": "your native mother Macedonia weeps for you,"
+      },
+      {
+       "cyr": "ај, вратете се Македонци,",
+       "lat": "aj, vratete se Makedonci,",
+       "en": "oh, come back, Macedonians,"
+      },
+      {
+       "cyr": "жално плаче родна мајка Македонија.",
+       "lat": "žalno plače rodna majka Makedonija.",
+       "en": "her native mother Macedonia weeps sadly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да молевте, солзи роневте,",
+       "lat": "Bog da molevte, solzi ronevte,",
+       "en": "You prayed to God, you shed tears,"
+      },
+      {
+       "cyr": "гласој наши преку море",
+       "lat": "glasoj naši preku more",
+       "en": "our voices across the sea"
+      },
+      {
+       "cyr": "не слушнавте.",
+       "lat": "ne slušnavte.",
+       "en": "you did not hear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, вратете се Македонци,",
+       "lat": "Ah, vratete se Makedonci,",
+       "en": "Ah, come back, Macedonians,"
+      },
+      {
+       "cyr": "за вас плаче родна мајка Македонија,",
+       "lat": "za vas plače rodna majka Makedonija,",
+       "en": "your native mother Macedonia weeps for you,"
+      },
+      {
+       "cyr": "ај, вратете се Македонци,",
+       "lat": "aj, vratete se Makedonci,",
+       "en": "oh, come back, Macedonians,"
+      },
+      {
+       "cyr": "жално плаче родна мајка Македонија.",
+       "lat": "žalno plače rodna majka Makedonija.",
+       "en": "her native mother Macedonia weeps sadly."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

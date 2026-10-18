@@ -1,0 +1,185 @@
+{
+ "id": 198,
+ "slug": "grozen-gavran",
+ "title_cyr": "Грозен гавран",
+ "title_latin": "Grozen gavran",
+ "title_en": "The Dreadful Raven",
+ "pesna_url": "https://pesna.org/song/198",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (war ballad, no author I can name). 'т'гата' is probably 'тагата' (grief) and 'з'шчо' is 'зашто' (because); Krivolak is a place associated with a WWI battle (my reading). 'ронеја' I read as 'fell, crumbled'.",
+ "words_to_learn": [
+  {
+   "mk": "гавран",
+   "en": "raven"
+  },
+  {
+   "mk": "кљун",
+   "en": "beak"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "блеска",
+   "en": "gleams, shines"
+  },
+  {
+   "mk": "проклет",
+   "en": "cursed"
+  },
+  {
+   "mk": "битка",
+   "en": "battle"
+  },
+  {
+   "mk": "гранати",
+   "en": "shells, grenades"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/23"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Над мене грозен гавран лета,",
+       "lat": "Nad mene grozen gavran leta,",
+       "en": "Above me flies a dreadful raven,"
+      },
+      {
+       "cyr": "во кљунот десна рака носи,",
+       "lat": "vo kljunot desna raka nosi,",
+       "en": "in its beak it carries a right hand,"
+      },
+      {
+       "cyr": "на неа златен прстен блеска,",
+       "lat": "na nea zlaten prsten bleska,",
+       "en": "on it a golden ring gleams,"
+      },
+      {
+       "cyr": "т'гата страшна ме мачит.",
+       "lat": "t'gata strašna me mačit.",
+       "en": "a terrible grief torments me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, ој птицо, црна ти",
+       "lat": "Kaži, oj ptico, crna ti",
+       "en": "Tell me, oh bird, black one,"
+      },
+      {
+       "cyr": "каде ја најде таја рака?",
+       "lat": "kade ja najde taja raka?",
+       "en": "where did you find that hand?"
+      },
+      {
+       "cyr": "Со овој прстен на мене познат",
+       "lat": "So ovoj prsten na mene poznat",
+       "en": "With this ring known to me"
+      },
+      {
+       "cyr": "од најубав спомен драг?",
+       "lat": "od najubav spomen drag?",
+       "en": "from a most beautiful dear memory?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прозбори гавран, проклет и црн:",
+       "lat": "Prozbori gavran, proklet i crn:",
+       "en": "The raven spoke, cursed and black:"
+      },
+      {
+       "cyr": "од Криволак се враќам јас.",
+       "lat": "od Krivolak se vraḱam jas.",
+       "en": "I am returning from Krivolak."
+      },
+      {
+       "cyr": "Голема битка, битка таму стана,",
+       "lat": "Golema bitka, bitka tamu stana,",
+       "en": "A great battle took place there,"
+      },
+      {
+       "cyr": "на бој свидетел бев јас.",
+       "lat": "na boj svidetel bev jas.",
+       "en": "I was a witness of the fight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму се пушки биеја без број,",
+       "lat": "Tamu se puški bieja bez broj,",
+       "en": "There rifles fired without number,"
+      },
+      {
+       "cyr": "прелетав јас храбро, смел.",
+       "lat": "preletav jas hrabro, smel.",
+       "en": "I flew over bravely, boldly."
+      },
+      {
+       "cyr": "Гранати паѓат в' црната земја,",
+       "lat": "Granati paǵat v' crnata zemja,",
+       "en": "Shells fall on the black earth,"
+      },
+      {
+       "cyr": "војнички тела ронеја.",
+       "lat": "vojnički tela roneja.",
+       "en": "soldiers' bodies fell."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Течете солзи во потоци,",
+       "lat": "Tečete solzi vo potoci,",
+       "en": "Flow, tears, in streams,"
+      },
+      {
+       "cyr": "з'шчо моето либе",
+       "lat": "z'ščo moeto libe",
+       "en": "because my beloved"
+      },
+      {
+       "cyr": "лежи в' гроб осамотен,",
+       "lat": "leži v' grob osamoten,",
+       "en": "lies in a lonely grave,"
+      },
+      {
+       "cyr": "не ќе се врати при мене.",
+       "lat": "ne ḱe se vrati pri mene.",
+       "en": "and will not return to me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

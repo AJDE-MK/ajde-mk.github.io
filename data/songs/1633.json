@@ -1,0 +1,89 @@
+{
+ "id": 1633,
+ "slug": "zamesi-veloj-dado-devet-pogachi",
+ "title_cyr": "Замеси Велој дадо девет погачи",
+ "title_latin": "Zamesi Veloj dado devet pogači",
+ "title_en": "Knead Velа sister nine loaves",
+ "pesna_url": "https://pesna.org/song/1633",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/4373"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Замеси Велој дадо, замеси,",
+       "lat": "Zamesi Veloj dado, zamesi,",
+       "en": "Knead, Velа sister, knead,"
+      },
+      {
+       "cyr": "замеси мори девет погачи,",
+       "lat": "zamesi mori devet pogači,",
+       "en": "knead nine loaves,"
+      },
+      {
+       "cyr": "усукај мори девет баници.",
+       "lat": "usukaj mori devet banici.",
+       "en": "twist nine pies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе дојдат Велој дадо, ќе дојдат,",
+       "lat": "Ḱe dojdat Veloj dado, ḱe dojdat,",
+       "en": "They will come, Velа sister, they'll come,"
+      },
+      {
+       "cyr": "ќе дојдат селските сејмени1.",
+       "lat": "ḱe dojdat selskite sejmeni1.",
+       "en": "the village policemen will come,"
+      },
+      {
+       "cyr": "на сите коња мори да фанеш.",
+       "lat": "na site konja mori da faneš.",
+       "en": "you must take all their horses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Асану Велој дадо, Асану,",
+       "lat": "Asanu Veloj dado, Asanu,",
+       "en": "But Asan's, Velа sister, Asan's,"
+      },
+      {
+       "cyr": "Асану, мори коња не факај,",
+       "lat": "Asanu, mori konja ne fakaj,",
+       "en": "Asan's horse, don't take it."
+      },
+      {
+       "cyr": "Асан ти брата мори убило.",
+       "lat": "Asan ti brata mori ubilo.",
+       "en": "Asan, he killed your brother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

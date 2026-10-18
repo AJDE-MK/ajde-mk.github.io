@@ -1,0 +1,155 @@
+{
+ "id": 355,
+ "slug": "na-sred-selo-edno-drvo",
+ "title_cyr": "На сред село едно дрво",
+ "title_latin": "Na sred selo edno drvo",
+ "title_en": "In the Middle of the Village, a Tree",
+ "pesna_url": "https://pesna.org/song/355",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Simple rhyming lyric; origin unclear, no author I can name. 'момето' is a dialect/diminutive form for 'the girl'.",
+ "words_to_learn": [
+  {
+   "mk": "село",
+   "en": "village"
+  },
+  {
+   "mk": "дрво",
+   "en": "tree"
+  },
+  {
+   "mk": "тополово",
+   "en": "of poplar"
+  },
+  {
+   "mk": "имиња",
+   "en": "names"
+  },
+  {
+   "mk": "напишани",
+   "en": "written"
+  },
+  {
+   "mk": "момето",
+   "en": "the girl"
+  },
+  {
+   "mk": "милувам",
+   "en": "I caress"
+  },
+  {
+   "mk": "сонот",
+   "en": "the dream"
+  },
+  {
+   "mk": "расте",
+   "en": "grows"
+  },
+  {
+   "mk": "засекогаш",
+   "en": "forever"
+  }
+ ],
+ "performers": [
+  "Миле Тодоровски"
+ ],
+ "audio": [
+  {
+   "who": "Миле Тодоровски",
+   "url": "https://pesna.org/audio-download/1730"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На сред село едно дрво,",
+       "lat": "Na sred selo edno drvo,",
+       "en": "In the middle of the village a tree,"
+      },
+      {
+       "cyr": "едно дрво тополово,",
+       "lat": "edno drvo topolovo,",
+       "en": "a poplar tree,"
+      },
+      {
+       "cyr": "на него од сите страни",
+       "lat": "na nego od site strani",
+       "en": "on it from all sides"
+      },
+      {
+       "cyr": "имињата напишани.",
+       "lat": "iminjata napišani.",
+       "en": "names are written."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меѓу нив е и моето,",
+       "lat": "Meǵu niv e i moeto,",
+       "en": "Among them is mine too,"
+      },
+      {
+       "cyr": "до името на момето",
+       "lat": "do imeto na mometo",
+       "en": "next to the name of the girl"
+      },
+      {
+       "cyr": "што го љубам и милувам",
+       "lat": "što go ljubam i miluvam",
+       "en": "whom I love and caress"
+      },
+      {
+       "cyr": "и во сонот го целувам.",
+       "lat": "i vo sonot go celuvam.",
+       "en": "and kiss in my dreams."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од година, на година,",
+       "lat": "Od godina, na godina,",
+       "en": "From year to year"
+      },
+      {
+       "cyr": "расте дрво тополово,",
+       "lat": "raste drvo topolovo,",
+       "en": "the poplar tree grows,"
+      },
+      {
+       "cyr": "а со него имињата",
+       "lat": "a so nego iminjata",
+       "en": "and with it the names"
+      },
+      {
+       "cyr": "израснаа, се здружија,",
+       "lat": "izrasnaa, se združija,",
+       "en": "grew and joined together,"
+      },
+      {
+       "cyr": "а со него и љубовта",
+       "lat": "a so nego i ljubovta",
+       "en": "and with it our love"
+      },
+      {
+       "cyr": "нас нè сврза засекогаш.",
+       "lat": "nas nè svrza zasekogaš.",
+       "en": "bound us together forever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

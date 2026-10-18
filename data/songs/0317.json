@@ -1,0 +1,194 @@
+{
+ "id": 317,
+ "slug": "se-reshiv-da-se-zhenam",
+ "title_cyr": "Се решив да се женам",
+ "title_latin": "Se rešiv da se ženam",
+ "title_en": "I Decided to Marry",
+ "pesna_url": "https://pesna.org/song/317",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (humorous urban song). The last two lines are my reading: 'кафани да ангажират' as 'to hire/book cafes'; 'носит', 'одит', 'ангажират' are dialect verb forms.",
+ "words_to_learn": [
+  {
+   "mk": "се оженив",
+   "en": "I got married"
+  },
+  {
+   "mk": "мома",
+   "en": "girl"
+  },
+  {
+   "mk": "убавица",
+   "en": "beauty"
+  },
+  {
+   "mk": "пијано",
+   "en": "piano"
+  },
+  {
+   "mk": "пишти",
+   "en": "squeals, whistles"
+  },
+  {
+   "mk": "шантиклер",
+   "en": "cabaret (from chanticleer)"
+  },
+  {
+   "mk": "кафани",
+   "en": "taverns, cafes"
+  },
+  {
+   "mk": "сатана",
+   "en": "Satan"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/478"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3362"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3669"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се решив да се женам,",
+       "lat": "Se rešiv da se ženam,",
+       "en": "I decided to get married,"
+      },
+      {
+       "cyr": "дури сум уште млад",
+       "lat": "duri sum ušte mlad",
+       "en": "while I am still young"
+      },
+      {
+       "cyr": "и тргнав мома да барам,",
+       "lat": "i trgnav moma da baram,",
+       "en": "and I set out to look for a girl,"
+      },
+      {
+       "cyr": "од род голем богат.",
+       "lat": "od rod golem bogat.",
+       "en": "from a great rich family."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да биде убавица",
+       "lat": "Da bide ubavica",
+       "en": "Let her be a beauty,"
+      },
+      {
+       "cyr": "да знае да чита,",
+       "lat": "da znae da čita,",
+       "en": "let her know how to read,"
+      },
+      {
+       "cyr": "пијаното да пишти",
+       "lat": "pijanoto da pišti",
+       "en": "let the piano squeal"
+      },
+      {
+       "cyr": "под нејзини раце.",
+       "lat": "pod nejzini race.",
+       "en": "under her hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не помина многу време",
+       "lat": "Ne pomina mnogu vreme",
+       "en": "Not much time passed"
+      },
+      {
+       "cyr": "и јас се оженив,",
+       "lat": "i jas se oženiv,",
+       "en": "and I got married,"
+      },
+      {
+       "cyr": "си најдов таква мома",
+       "lat": "si najdov takva moma",
+       "en": "I found such a girl"
+      },
+      {
+       "cyr": "што барав по светот.",
+       "lat": "što barav po svetot.",
+       "en": "as I had sought across the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од првин беше ангел,",
+       "lat": "Od prvin beše angel,",
+       "en": "At first she was an angel,"
+      },
+      {
+       "cyr": "ангел на овој свет,",
+       "lat": "angel na ovoj svet,",
+       "en": "an angel of this world,"
+      },
+      {
+       "cyr": "од ангел се претвори",
+       "lat": "od angel se pretvori",
+       "en": "from an angel she turned"
+      },
+      {
+       "cyr": "вистинска сатана.",
+       "lat": "vistinska satana.",
+       "en": "into a real Satan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми почна шапка да носит,",
+       "lat": "Mi počna šapka da nosit,",
+       "en": "She started to wear a hat,"
+      },
+      {
+       "cyr": "да одит шантиклер,",
+       "lat": "da odit šantikler,",
+       "en": "to go to the chantant,"
+      },
+      {
+       "cyr": "кафани да ангажират",
+       "lat": "kafani da angažirat",
+       "en": "to hire cafes (my reading)"
+      },
+      {
+       "cyr": "по две до три на ден.",
+       "lat": "po dve do tri na den.",
+       "en": "two to three a day."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

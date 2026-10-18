@@ -1,0 +1,137 @@
+{
+ "id": 727,
+ "slug": "katerino-krotko-jagne",
+ "title_cyr": "Катерино кротко јагне",
+ "title_latin": "Katerino krotko jagne",
+ "title_en": "Katerina, my gentle lamb",
+ "pesna_url": "https://pesna.org/song/727",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вања Лазарова",
+  "Монистра"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/829"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/833"
+  },
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/3522"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Катерино кротко јагне,",
+       "lat": "Katerino krotko jagne,",
+       "en": "Katerina, my gentle lamb,"
+      },
+      {
+       "cyr": "што си толку жута, бледа?",
+       "lat": "što si tolku žuta, bleda?",
+       "en": "Why are you so yellow and pale?"
+      },
+      {
+       "cyr": "Ах жута бледа, пребледена,",
+       "lat": "Ah žuta bleda, prebledena,",
+       "en": "Ah, yellow and pale....very pale,"
+      },
+      {
+       "cyr": "ах дали ти е зла свекрва?",
+       "lat": "ah dali ti e zla svekrva?",
+       "en": "Ah, is your mother-in-law evil?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маноило, прво либе,",
+       "lat": "Manoilo, prvo libe,",
+       "en": "Manoilo, my first love,"
+      },
+      {
+       "cyr": "свекрва ми кротко јагне,",
+       "lat": "svekrva mi krotko jagne,",
+       "en": "My mother-in-law is a gentle lamb,"
+      },
+      {
+       "cyr": "ах, мене водиш, друга љубиш,",
+       "lat": "ah, mene vodiš, druga ljubiš,",
+       "en": "Ah, you lead me, but love another,"
+      },
+      {
+       "cyr": "ах, та затој сам жута, бледа.",
+       "lat": "ah, ta zatoj sam žuta, bleda.",
+       "en": "Ah, that’s why I am yellow and pale."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Катерино, кротко јагне,",
+       "lat": "Katerino, krotko jagne,",
+       "en": "Katerina, my gentle lamb,"
+      },
+      {
+       "cyr": "ти не слушај светски думи,",
+       "lat": "ti ne slušaj svetski dumi,",
+       "en": "Don’t listen to gossip,"
+      },
+      {
+       "cyr": "ах, светски думи, светски лаги,",
+       "lat": "ah, svetski dumi, svetski lagi,",
+       "en": "Ah, gossip and lies,"
+      },
+      {
+       "cyr": "ах, јас те тебе само љубам.",
+       "lat": "ah, jas te tebe samo ljubam.",
+       "en": "Ah, I only love you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маноило, прво либе,",
+       "lat": "Manoilo, prvo libe,",
+       "en": "Manoilo, my first love,"
+      },
+      {
+       "cyr": "јас не слушам светски думи,",
+       "lat": "jas ne slušam svetski dumi,",
+       "en": "I don’t listen to gossip,"
+      },
+      {
+       "cyr": "ах, јас те видов с' мојве очи,",
+       "lat": "ah, jas te vidov s' mojve oči,",
+       "en": "Ah, I saw you with my own eyes,"
+      },
+      {
+       "cyr": "ах, мојве очи не ме лажат.",
+       "lat": "ah, mojve oči ne me lažat.",
+       "en": "Ah, my eyes do not lie."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

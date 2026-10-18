@@ -1,0 +1,169 @@
+{
+ "id": 660,
+ "slug": "dejgidi-ludi-mladi-godini",
+ "title_cyr": "Дејгиди луди млади години",
+ "title_latin": "Dejgidi ludi mladi godini",
+ "title_en": "Hey you crazy young years",
+ "pesna_url": "https://pesna.org/song/660",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Антонио Трајковски",
+  "Атина Апостолова",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Гога Зафировски",
+  "Деспина",
+  "Диран Тавитјан",
+  "Иван Гоцев",
+  "Илија Аргиров",
+  "Кирил Манчевски",
+  "Ристо Самарџиев",
+  "Тоше Проески",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/110"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/111"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/112"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/113"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/223"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/224"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Ристо Самарџиев",
+   "url": "https://pesna.org/audio-download/1814"
+  },
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2448"
+  },
+  {
+   "who": "Иван Гоцев",
+   "url": "https://pesna.org/audio-download/3192"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4301"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/4351"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди луди млади години",
+       "lat": "Dejgidi ludi mladi godini",
+       "en": "Hey you crazy young years"
+      },
+      {
+       "cyr": "летнавте како сиви галаби.",
+       "lat": "letnavte kako sivi galabi.",
+       "en": "you flew away like gray doves."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Летнавте како сиви галаби",
+       "lat": "Letnavte kako sivi galabi",
+       "en": "You flew away like gray doves"
+      },
+      {
+       "cyr": "паднавте во момините дворови.",
+       "lat": "padnavte vo mominite dvorovi.",
+       "en": "and fell into the girl's yards."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Паднавте во момините дворови",
+       "lat": "Padnavte vo mominite dvorovi",
+       "en": "You fell into the girl's yards,"
+      },
+      {
+       "cyr": "преспавте во момините пазуви.",
+       "lat": "prespavte vo mominite pazuvi.",
+       "en": "slept on girl's bosoms."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Барем се ерген мамо нашетав",
+       "lat": "Barem se ergen mamo našetav",
+       "en": "At least I rambled as a bachelor"
+      },
+      {
+       "cyr": "низ таа влашка земја богата.",
+       "lat": "niz taa vlaška zemja bogata.",
+       "en": "through that Vlach rich country."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Влашки моми мамо заљубив",
+       "lat": "Vlaški momi mamo zaljubiv",
+       "en": "I fell in love with the Vlach girls, mother"
+      },
+      {
+       "cyr": "и кара влашки мамо невести.",
+       "lat": "i kara vlaški mamo nevesti.",
+       "en": "and dark Vlach, mother, brides."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ергенство, мила мамо пашал'к,",
+       "lat": "Ergenstvo, mila mamo pašal'k,",
+       "en": "Being a bachelor, dear mother, is like being a pasha,"
+      },
+      {
+       "cyr": "моминство, мила мамо везирство.",
+       "lat": "mominstvo, mila mamo vezirstvo.",
+       "en": "Being a bachelorette, dear mother, is like being a vizier."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

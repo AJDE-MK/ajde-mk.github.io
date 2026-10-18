@@ -1,0 +1,162 @@
+{
+ "id": 561,
+ "slug": "karanfil-nevesto-mori",
+ "title_cyr": "Каранфил невесто мори",
+ "title_latin": "Karanfil nevesto mori",
+ "title_en": "Carnation girl",
+ "pesna_url": "https://pesna.org/song/561",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Емил Ристосков",
+  "Кирил Манчевски",
+  "Монистра"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/938"
+  },
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/1351"
+  },
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/3521"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Каранфил невесто мори",
+       "lat": "- Karanfil nevesto mori",
+       "en": "- Karanfil (Carnation) girl"
+      },
+      {
+       "cyr": "вода ми се пие.",
+       "lat": "voda mi se pie.",
+       "en": "I want to drink some water."
+      },
+      {
+       "cyr": "- Ако ти се пие лудо,",
+       "lat": "- Ako ti se pie ludo,",
+       "en": "- If you want to drink,"
+      },
+      {
+       "cyr": "појди па се напи.",
+       "lat": "pojdi pa se napi.",
+       "en": "go and have a drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каранфил невесто, мори",
+       "lat": "- Karanfil nevesto, mori",
+       "en": "- Carnation girl"
+      },
+      {
+       "cyr": "со усте напи ме.",
+       "lat": "so uste napi me.",
+       "en": "with your mouth you give me to drink."
+      },
+      {
+       "cyr": "- Усте ми е полно, лудо",
+       "lat": "- Uste mi e polno, ludo",
+       "en": "- My mouth is full"
+      },
+      {
+       "cyr": "со локум шеќери.",
+       "lat": "so lokum šeḱeri.",
+       "en": "with lokum candies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каранфил невесто, мори",
+       "lat": "- Karanfil nevesto, mori",
+       "en": "- Carnation girl"
+      },
+      {
+       "cyr": "вода ми се пие.",
+       "lat": "voda mi se pie.",
+       "en": "I want to drink some water."
+      },
+      {
+       "cyr": "- Ако ти се пие лудо",
+       "lat": "- Ako ti se pie ludo",
+       "en": "- If you want to drink,"
+      },
+      {
+       "cyr": "појди па се напи.",
+       "lat": "pojdi pa se napi.",
+       "en": "go and have a drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каранфил невесто, мори",
+       "lat": "- Karanfil nevesto, mori",
+       "en": "- Carnation girl"
+      },
+      {
+       "cyr": "со шепа напиј ме.",
+       "lat": "so šepa napij me.",
+       "en": "with your palm you give me to drink."
+      },
+      {
+       "cyr": "- Шепа ми е полна, лудо",
+       "lat": "- Šepa mi e polna, ludo",
+       "en": "- My palm is full"
+      },
+      {
+       "cyr": "со златни прстени.",
+       "lat": "so zlatni prsteni.",
+       "en": "with golden rings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каранфил невесто, мори",
+       "lat": "- Karanfil nevesto, mori",
+       "en": "- Carnation girl"
+      },
+      {
+       "cyr": "од барде напиј ме.",
+       "lat": "od barde napij me.",
+       "en": "give me some drink with the jug."
+      },
+      {
+       "cyr": "- Барде си е, лудо море,",
+       "lat": "- Barde si e, ludo more,",
+       "en": "- The jug is, you crazy boy"
+      },
+      {
+       "cyr": "за твоето усте.",
+       "lat": "za tvoeto uste.",
+       "en": "for your mouth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,161 @@
+{
+ "id": 97,
+ "slug": "ne-plachi-leno-mori",
+ "title_cyr": "Не плачи Лено мори",
+ "title_latin": "Ne plači Leno mori",
+ "title_en": "Don’t cry, Lena",
+ "pesna_url": "https://pesna.org/song/97",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Јорданка Смилевска",
+  "Мери Минас Магдалена",
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2170"
+  },
+  {
+   "who": "Мери Минас Магдалена",
+   "url": "https://pesna.org/audio-download/2826"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3109"
+  },
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/3110"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи Лено, мори, не жалај, де,",
+       "lat": "Ne plači Leno, mori, ne žalaj, de,",
+       "en": "Don’t cry, Lena, don’t regret,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не рони с`лзи, мори, крвави.",
+       "lat": "ne roni s`lzi, mori, krvavi.",
+       "en": "don’t spill bloody tears,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не топи сајче шарено,",
+       "lat": "Ne topi sajče šareno,",
+       "en": "don’t soak your colourful dress -,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зар тука не е, мори, правено.",
+       "lat": "zar tuka ne e, mori, praveno.",
+       "en": "well, it was not produced here.",
+       "en_mt": false
+      },
+      {
+       "cyr": "В' Желево село мори предено,",
+       "lat": "V' Želevo selo mori predeno,",
+       "en": "Spun in the village of Zhelevo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' Желево село мори убаво.",
+       "lat": "v' Želevo selo mori ubavo.",
+       "en": "in the beautiful village of Zhelevo.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' Желево село, мори, предено, де,",
+       "lat": "V' Želevo selo, mori, predeno, de,",
+       "en": "Spun in the village of Zhelevo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Неволени село, мори, ткаено.",
+       "lat": "Nevoleni selo, mori, tkaeno.",
+       "en": "woven in the village of Nevoleni,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Охридски извор, мори, белено,",
+       "lat": "Ohridski izvor, mori, beleno,",
+       "en": "bleached in the fountain of Ohrid,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на мермер камен, мори, чукано,",
+       "lat": "na mermer kamen, mori, čukano,",
+       "en": "smashed on a marble stone,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' Солуна града, мори, шиено.",
+       "lat": "v' Soluna grada, mori, šieno.",
+       "en": "sewn in the town of Thessaloniki.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет терзии, мори, го шиле, де,",
+       "lat": "Devet terzii, mori, go šile, de,",
+       "en": "Ten taylors sewed it,",
+       "en_mt": false
+      },
+      {
+       "cyr": "триста си игли, мори, скршиле.",
+       "lat": "trista si igli, mori, skršile.",
+       "en": "threehundred needles were broken,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Товар си конци, мори, свршиле,",
+       "lat": "Tovar si konci, mori, svršile,",
+       "en": "loads of thread were joined,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' Лерина града, мори, донесено.",
+       "lat": "v' Lerina grada, mori, doneseno.",
+       "en": "to the town of Lerin it was delivered,",
+       "en_mt": false
+      },
+      {
+       "cyr": "И на Елена е дарено,",
+       "lat": "I na Elena e dareno,",
+       "en": "and it was given to Elena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да носи Лена, мори, да пее.",
+       "lat": "da nosi Lena, mori, da pee.",
+       "en": "so that Lena wears it singing (joyfully).",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

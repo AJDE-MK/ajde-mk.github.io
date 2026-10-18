@@ -1,0 +1,110 @@
+{
+ "id": 363,
+ "slug": "mileto-na-dzhajkovi",
+ "title_cyr": "Милето на Џајкови",
+ "title_latin": "Mileto na Džajkovi",
+ "title_en": "Mile from Dzhajkovi",
+ "pesna_url": "https://pesna.org/song/363",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Зетов",
+  "Љупка Рондова",
+  "Чукарска"
+ ],
+ "audio": [
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/1709"
+  },
+  {
+   "who": "Зетов, Чукарска",
+   "url": "https://pesna.org/audio-download/2238"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Милето на Џајкови,",
+       "lat": "Mileto na Džajkovi,",
+       "en": "Mile from Dzhajkovi,"
+      },
+      {
+       "cyr": "Васето на Васеви,",
+       "lat": "Vaseto na Vasevi,",
+       "en": "Vase from Vasevi,"
+      },
+      {
+       "cyr": "Васе, Васе, Васе душо,",
+       "lat": "Vase, Vase, Vase dušo,",
+       "en": "Vase honey, Vase my heart,"
+      },
+      {
+       "cyr": "ајде да се земиме.",
+       "lat": "ajde da se zemime.",
+       "en": "let's get married."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милето на Џајкови,",
+       "lat": "Mileto na Džajkovi,",
+       "en": "Mile from Dhzajkovi,"
+      },
+      {
+       "cyr": "оварда без пет пари,",
+       "lat": "ovarda bez pet pari,",
+       "en": "generous without money,"
+      },
+      {
+       "cyr": "Васе, Васе, Васе душо,",
+       "lat": "Vase, Vase, Vase dušo,",
+       "en": "Vase, Vase, Vase my soul,"
+      },
+      {
+       "cyr": "ајде да се земиме.",
+       "lat": "ajde da se zemime.",
+       "en": "let's get married."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од пусти овардалак,",
+       "lat": "Od pusti ovardalak,",
+       "en": "Because of that damn generousity,"
+      },
+      {
+       "cyr": "си го продал сетрето,",
+       "lat": "si go prodal setreto,",
+       "en": "he sold his jacket,"
+      },
+      {
+       "cyr": "Васе, Васе, Васе душо,",
+       "lat": "Vase, Vase, Vase dušo,",
+       "en": "Vase, Vase, Vase my soul,"
+      },
+      {
+       "cyr": "ајде да се земиме.",
+       "lat": "ajde da se zemime.",
+       "en": "let's get married."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

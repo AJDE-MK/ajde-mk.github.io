@@ -1,0 +1,142 @@
+{
+ "id": 123,
+ "slug": "bitka-se-bie-kumanovsko-pole",
+ "title_cyr": "Битка се бие кумановско поле",
+ "title_latin": "Bitka se bie kumanovsko pole",
+ "title_en": "A Battle Is Fought on the Kumanovo Field",
+ "pesna_url": "https://pesna.org/song/123",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Pelince and Pchinja are places/river near Kumanovo; the personal names are as written in the song. 'показаа пети' is the idiom 'showed their heels' (fled).",
+ "words_to_learn": [
+  {
+   "mk": "битка",
+   "en": "battle"
+  },
+  {
+   "mk": "нерамна",
+   "en": "unequal"
+  },
+  {
+   "mk": "матна",
+   "en": "muddy"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, commander"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company"
+  },
+  {
+   "mk": "душман",
+   "en": "enemy"
+  },
+  {
+   "mk": "пушки",
+   "en": "rifles"
+  },
+  {
+   "mk": "красна",
+   "en": "beautiful, dear"
+  }
+ ],
+ "performers": [
+  "Ансамбл Панче Пешев",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1674"
+  },
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/1675"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Битка се бие кумановско поле,",
+       "lat": "Bitka se bie kumanovsko pole,",
+       "en": "A battle is fought on the Kumanovo field,"
+      },
+      {
+       "cyr": "битка нерамна.",
+       "lat": "bitka neramna.",
+       "en": "an unequal battle."
+      },
+      {
+       "cyr": "Пелинце ми гори, Пчиња жално плаче,",
+       "lat": "Pelince mi gori, Pčinja žalno plače,",
+       "en": "Pelince burns, Pchinja weeps sadly,"
+      },
+      {
+       "cyr": "матна и крвава.",
+       "lat": "matna i krvava.",
+       "en": "muddy and bloody."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Карпуш војвода со Димче Еребица,",
+       "lat": "Karpuš vojvoda so Dimče Erebica,",
+       "en": "Voivode Karpush with Dimche Erebitsa,"
+      },
+      {
+       "cyr": "Менков и Фетакот,",
+       "lat": "Menkov i Fetakot,",
+       "en": "Menkov and Fetak,"
+      },
+      {
+       "cyr": "собраа дружина, млада убавина,",
+       "lat": "sobraa družina, mlada ubavina,",
+       "en": "gathered a band, young beauties,"
+      },
+      {
+       "cyr": "душман да истераат.",
+       "lat": "dušman da isteraat.",
+       "en": "to drive out the enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми згрмеа пушки, ми паднаа мушки,",
+       "lat": "Mi zgrmea puški, mi padnaa muški,",
+       "en": "Rifles thundered, the men fell,"
+      },
+      {
+       "cyr": "младите херои.",
+       "lat": "mladite heroi.",
+       "en": "the young heroes."
+      },
+      {
+       "cyr": "Душмани клети покажаа пети,",
+       "lat": "Dušmani kleti pokažaa peti,",
+       "en": "The cursed enemies showed their heels,"
+      },
+      {
+       "cyr": "дојде красна слобода.",
+       "lat": "dojde krasna sloboda.",
+       "en": "dear freedom came."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

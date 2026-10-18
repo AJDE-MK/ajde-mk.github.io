@@ -1,0 +1,156 @@
+{
+ "id": 993,
+ "slug": "ostanala-zhena-udovica",
+ "title_cyr": "Останала жена удовица",
+ "title_latin": "Ostanala žena udovica",
+ "title_en": "A Widow Was Left",
+ "pesna_url": "https://pesna.org/song/993",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'Потуреша' means a woman from the Potur (Muslim Slavic) community; 'ми' in several lines is a dialect filler. 'Калеши јаганца' I read as 'speckled lamb', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "удовица",
+   "en": "widow"
+  },
+  {
+   "mk": "машко дете",
+   "en": "male child, boy"
+  },
+  {
+   "mk": "расна",
+   "en": "grew (dialect form)"
+  },
+  {
+   "mk": "наврши",
+   "en": "completed, turned (an age)"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "јагнe, јаганца",
+   "en": "lamb, lambs"
+  },
+  {
+   "mk": "маале",
+   "en": "quarter, neighborhood (Turkish)"
+  },
+  {
+   "mk": "бесa",
+   "en": "vow, solemn promise (Albanian-origin besa)"
+  },
+  {
+   "mk": "потфатиле",
+   "en": "began (dialect)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2313"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4482"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Останала, останала жена удовица,",
+       "lat": "Ostanala, ostanala žena udovica,",
+       "en": "She was left, left, a widowed woman,"
+      },
+      {
+       "cyr": "удовица на петнајс' години,",
+       "lat": "udovica na petnajs' godini,",
+       "en": "a widow at fifteen years,"
+      },
+      {
+       "cyr": "удовица с' едно машко дете,",
+       "lat": "udovica s' edno maško dete,",
+       "en": "a widow with one male child,"
+      },
+      {
+       "cyr": "му турила име Асан ага.",
+       "lat": "mu turila ime Asan aga.",
+       "en": "she gave him the name Asan Aga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Расна Асан, расна Асан, расна ми порасна,",
+       "lat": "Rasna Asan, rasna Asan, rasna mi porasna,",
+       "en": "Asan grew, Asan grew, he grew up,"
+      },
+      {
+       "cyr": "ми наврши петнаејс' години,",
+       "lat": "mi navrši petnaejs' godini,",
+       "en": "he turned fifteen years,"
+      },
+      {
+       "cyr": "па истера овци да ми пасе,",
+       "lat": "pa istera ovci da mi pase,",
+       "en": "and drove out the sheep to graze,"
+      },
+      {
+       "cyr": "да ги пасе низ Потур Маале.",
+       "lat": "da gi pase niz Potur Maale.",
+       "en": "to graze them through Potur Quarter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' ја најде, там' ја најде Фатма потуреша,",
+       "lat": "Tam' ja najde, tam' ja najde Fatma potureša,",
+       "en": "There he found, there he found Fatma the Potur girl,"
+      },
+      {
+       "cyr": "она пасе калеши јаганца,",
+       "lat": "ona pase kaleši jaganca,",
+       "en": "she was grazing a speckled lamb,"
+      },
+      {
+       "cyr": "измешале овци ем јаганца,",
+       "lat": "izmešale ovci em jaganca,",
+       "en": "the sheep and lambs got mixed up,"
+      },
+      {
+       "cyr": "меѓу нима љубов потфатиле,",
+       "lat": "meǵu nima ljubov potfatile,",
+       "en": "between them love began,"
+      },
+      {
+       "cyr": "потфатиле, тврда беса дале",
+       "lat": "potfatile, tvrda besa dale",
+       "en": "it began, they gave a firm vow"
+      },
+      {
+       "cyr": "да се љубат, да не се излажат.",
+       "lat": "da se ljubat, da ne se izlažat.",
+       "en": "to love each other, not to deceive each other."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

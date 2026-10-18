@@ -1,0 +1,163 @@
+{
+ "id": 417,
+ "slug": "te-vidov-tebe-i-se-zaljubiv",
+ "title_cyr": "Те видов тебе и се заљубив",
+ "title_latin": "Te vidov tebe i se zaljubiv",
+ "title_en": "I saw you and I fell in love",
+ "pesna_url": "https://pesna.org/song/417",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Атина Апостолова",
+  "Влатко Вучков",
+  "Каролина Гочева",
+  "Катерина Ѓорѓиева",
+  "Македонски бисери",
+  "Наум Бурназ",
+  "Наум Петрески",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Наум Бурназ",
+   "url": "https://pesna.org/audio-download/193"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/194"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/195"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/196"
+  },
+  {
+   "who": "Катерина Ѓорѓиева",
+   "url": "https://pesna.org/audio-download/288"
+  },
+  {
+   "who": "Влатко Вучков",
+   "url": "https://pesna.org/audio-download/289"
+  },
+  {
+   "who": "Македонски бисери",
+   "url": "https://pesna.org/audio-download/2057"
+  },
+  {
+   "who": "Каролина Гочева",
+   "url": "https://pesna.org/audio-download/2271"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Те видов тебе и се заљубив",
+       "lat": "Te vidov tebe i se zaljubiv",
+       "en": "I saw you and I fell in love"
+      },
+      {
+       "cyr": "и сакав да те имам јас.",
+       "lat": "i sakav da te imam jas.",
+       "en": "and I wanted to have you."
+      },
+      {
+       "cyr": "И срцето да ти го подарам",
+       "lat": "I srceto da ti go podaram",
+       "en": "And even if I give you my heart"
+      },
+      {
+       "cyr": "пак не можам сè да искажам.",
+       "lat": "pak ne možam sè da iskažam.",
+       "en": "I still cannot express all my emotions."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гласот твој е ангелски,",
+       "lat": "Glasot tvoj e angelski,",
+       "en": "Your voice is angelic"
+      },
+      {
+       "cyr": "а думите ти се нежни.",
+       "lat": "a dumite ti se nežni.",
+       "en": "and your words are tender."
+      },
+      {
+       "cyr": "Тешко е да те слушам јас",
+       "lat": "Teško e da te slušam jas",
+       "en": "And it's hard for me to hear your voice,"
+      },
+      {
+       "cyr": "срце имам, но ќе изгаснит.",
+       "lat": "srce imam, no ḱe izgasnit.",
+       "en": "I have a heart, but it will stop beating."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И твојата убава руса коса",
+       "lat": "I tvojata ubava rusa kosa",
+       "en": "And your beautiful blonde hair"
+      },
+      {
+       "cyr": "сплетена е со мека коприна.",
+       "lat": "spletena e so meka koprina.",
+       "en": "is netted with soft veil."
+      },
+      {
+       "cyr": "Не си вода да те испијам,",
+       "lat": "Ne si voda da te ispijam,",
+       "en": "You are not a water, so that I could drink you"
+      },
+      {
+       "cyr": "a ни река да те препливам.",
+       "lat": "a ni reka da te preplivam.",
+       "en": "nor a river to swim across."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење и ноќе на тебе мислам јас,",
+       "lat": "Denje i noḱe na tebe mislam jas,",
+       "en": "Day and night I think about you,"
+      },
+      {
+       "cyr": "o ангел мој, за тебе умирам.",
+       "lat": "o angel moj, za tebe umiram.",
+       "en": "oh, my angel I am dying for you."
+      },
+      {
+       "cyr": "И светот кога би се изменил,",
+       "lat": "I svetot koga bi se izmenil,",
+       "en": "And even if the entire world changes,"
+      },
+      {
+       "cyr": "ти ќе бидеш моја, пак моја.",
+       "lat": "ti ḱe bideš moja, pak moja.",
+       "en": "you will be mine, mine again."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

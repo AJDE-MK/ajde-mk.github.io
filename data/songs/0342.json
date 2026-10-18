@@ -1,0 +1,169 @@
+{
+ "id": 342,
+ "slug": "niz-korija-zelena-boso-mome-sheta",
+ "title_cyr": "Низ корија зелена босо моме шета",
+ "title_latin": "Niz korija zelena boso mome šeta",
+ "title_en": "Through the Green Forest a Barefoot Girl Walks",
+ "pesna_url": "https://pesna.org/song/342",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'чимничоче' is a dialect word I am unsure of; my reading is 'of boxwood' (from чимшир), a guess.",
+ "words_to_learn": [
+  {
+   "mk": "корија",
+   "en": "forest, grove (dialect)"
+  },
+  {
+   "mk": "босо",
+   "en": "barefoot"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "трнче",
+   "en": "little thorn"
+  },
+  {
+   "mk": "овчарче",
+   "en": "young shepherd"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "нагази",
+   "en": "stepped on"
+  }
+ ],
+ "performers": [
+  "Амбасадор бенд",
+  "Ансамбл чалгија",
+  "Бекрии Штип",
+  "Болеробенд",
+  "Група Зрак",
+  "Зоран Џорлев",
+  "Костадинка Палазова",
+  "Ристана Николова",
+  "Славица Средојевиќ Јефимија",
+  "Софија Коцевска",
+  "Сузана Спасовска",
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова, Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/963"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/964"
+  },
+  {
+   "who": "Зоран Џорлев, Софија Коцевска",
+   "url": "https://pesna.org/audio-download/965"
+  },
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/2633"
+  },
+  {
+   "who": "Амбасадор бенд",
+   "url": "https://pesna.org/audio-download/2634"
+  },
+  {
+   "who": "Бекрии Штип",
+   "url": "https://pesna.org/audio-download/2635"
+  },
+  {
+   "who": "Славица Средојевиќ Јефимија",
+   "url": "https://pesna.org/audio-download/2636"
+  },
+  {
+   "who": "Ристана Николова",
+   "url": "https://pesna.org/audio-download/2637"
+  },
+  {
+   "who": "Група Зрак",
+   "url": "https://pesna.org/audio-download/2638"
+  },
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3247"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Низ корија зелена босо моме шета,",
+       "lat": "Niz korija zelena boso mome šeta,",
+       "en": "Through the green forest a barefoot girl walks,"
+      },
+      {
+       "cyr": "еј моме, моме ле, моме босо е.",
+       "lat": "ej mome, mome le, mome boso e.",
+       "en": "hey girl, oh girl, the girl is barefoot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми нагази момето трнче чимничоче,",
+       "lat": "Mi nagazi mometo trnče čimničoče,",
+       "en": "The girl stepped on a little thorn, a little thorn of boxwood,"
+      },
+      {
+       "cyr": "еј моме, моме ле, моме босо е.",
+       "lat": "ej mome, mome le, mome boso e.",
+       "en": "hey girl, oh girl, the girl is barefoot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој нема, мале ле, трнче да извади,",
+       "lat": "Nikoj nema, male le, trnče da izvadi,",
+       "en": "There is nobody, mother dear, to pull out the thorn,"
+      },
+      {
+       "cyr": "еј моме, моме ле, моме босо е.",
+       "lat": "ej mome, mome le, mome boso e.",
+       "en": "hey girl, oh girl, the girl is barefoot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде, мале ле, младото овчарче,",
+       "lat": "Ozdola ide, male le, mladoto ovčarče,",
+       "en": "From below comes, mother dear, a young shepherd,"
+      },
+      {
+       "cyr": "му извади мале ле, трнче чимничоче,",
+       "lat": "mu izvadi male le, trnče čimničoče,",
+       "en": "he pulled out, mother dear, the little thorn of boxwood,"
+      },
+      {
+       "cyr": "еј моме, моме ле, моме босо е.",
+       "lat": "ej mome, mome le, mome boso e.",
+       "en": "hey girl, oh girl, the girl is barefoot."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

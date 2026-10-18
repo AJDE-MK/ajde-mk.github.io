@@ -1,0 +1,208 @@
+{
+ "id": 344,
+ "slug": "nevesto-kalesh-mori-ubava",
+ "title_cyr": "Невесто калеш мори убава",
+ "title_latin": "Nevesto kaleš mori ubava",
+ "title_en": "Bride, Handsome and Lovely",
+ "pesna_url": "https://pesna.org/song/344",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Калеш' as handsome/dashing and 'меракот' as the longing or the beloved are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "калеш",
+   "en": "handsome, dashing (of a young person)"
+  },
+  {
+   "mk": "стомна",
+   "en": "jug, water pitcher"
+  },
+  {
+   "mk": "чешма",
+   "en": "spring, fountain"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "меракот",
+   "en": "longing, deep desire (here, the beloved)"
+  },
+  {
+   "mk": "зандани",
+   "en": "dungeons, prison"
+  },
+  {
+   "mk": "кротко",
+   "en": "meekly, gently"
+  },
+  {
+   "mk": "леле",
+   "en": "oh (interjection)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Ацо Андонов",
+  "Благица Павловска",
+  "Група Сарај",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Душан Љубисављевиќ - Дуле",
+  "Кирчо Поп Лазаров",
+  "Марика Георгиева",
+  "Никола Јанков - Коки",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1031"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1032"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/1033"
+  },
+  {
+   "who": "Кирчо Поп Лазаров",
+   "url": "https://pesna.org/audio-download/1034"
+  },
+  {
+   "who": "Благица Павловска, Душан Љубисављевиќ - Дуле, Никола Јанков - Коки",
+   "url": "https://pesna.org/audio-download/2414"
+  },
+  {
+   "who": "Марика Георгиева, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3017"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3361"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3923"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Невесто тенка мори висока)",
+       "lat": "(Nevesto tenka mori visoka)",
+       "en": "(Bride slender, hey, tall)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто калеш мори убава,",
+       "lat": "- Nevesto kaleš mori ubava,",
+       "en": "- Bride, handsome, hey, lovely,"
+      },
+      {
+       "cyr": "што кротко одиш, леле, на вода.",
+       "lat": "što krotko odiš, lele, na voda.",
+       "en": "why do you go so meekly, oh, to the water."
+      },
+      {
+       "cyr": "На таја чешма, леле, студена,",
+       "lat": "Na taja češma, lele, studena,",
+       "en": "To that spring, oh, so cold,"
+      },
+      {
+       "cyr": "со тие стомни, леле, шарени.",
+       "lat": "so tie stomni, lele, šareni.",
+       "en": "with those jugs, oh, so colorful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали тежат, леле, стомните",
+       "lat": "Dali težat, lele, stomnite",
+       "en": "Are the jugs heavy, oh,"
+      },
+      {
+       "cyr": "или ти тежит, леле, ѓерданот?",
+       "lat": "ili ti težit, lele, ǵerdanot?",
+       "en": "or is your necklace heavy, oh?"
+      },
+      {
+       "cyr": "Дали тежат, леле, стомните",
+       "lat": "Dali težat, lele, stomnite",
+       "en": "Are the jugs heavy, oh,"
+      },
+      {
+       "cyr": "или ти тежит, леле, ѓерданот?",
+       "lat": "ili ti težit, lele, ǵerdanot?",
+       "en": "or is your necklace heavy, oh?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нити ми тежат, леле, стомните,",
+       "lat": "- Niti mi težat, lele, stomnite,",
+       "en": "- Neither are the jugs heavy, oh,"
+      },
+      {
+       "cyr": "ниту ми тежит, леле, ѓерданот.",
+       "lat": "nitu mi težit, lele, ǵerdanot.",
+       "en": "nor is my necklace heavy, oh."
+      },
+      {
+       "cyr": "Туку ми тежит, леле, меракот,",
+       "lat": "Tuku mi težit, lele, merakot,",
+       "en": "But my longing is heavy, oh,"
+      },
+      {
+       "cyr": "меракот ми е, леле, далеку.",
+       "lat": "merakot mi e, lele, daleku.",
+       "en": "my longing is far away, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меракот ми е, леле, далеку,",
+       "lat": "Merakot mi e, lele, daleku,",
+       "en": "My longing is far away, oh,"
+      },
+      {
+       "cyr": "во таја пуста, леле, Битола.",
+       "lat": "vo taja pusta, lele, Bitola.",
+       "en": "in that wretched, oh, Bitola."
+      },
+      {
+       "cyr": "Во таја пуста, леле, Битола,",
+       "lat": "Vo taja pusta, lele, Bitola,",
+       "en": "In that wretched, oh, Bitola,"
+      },
+      {
+       "cyr": "во тие темни, леле, зандани.",
+       "lat": "vo tie temni, lele, zandani.",
+       "en": "in those dark, oh, dungeons."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

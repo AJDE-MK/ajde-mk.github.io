@@ -1,0 +1,175 @@
+{
+ "id": 1173,
+ "slug": "lichna-moma-skopjanka",
+ "title_cyr": "Лична мома скопјанка",
+ "title_latin": "Lična moma skopjanka",
+ "title_en": "Pretty Girl from Skopje",
+ "pesna_url": "https://pesna.org/song/1173",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern song, no author I can name. 'Везден да е со тебе' (rendered 'may she be an embroidered one with you') is my reading and likely not accurate; the line may mean something like 'to be always with you'.",
+ "words_to_learn": [
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "самовила",
+   "en": "fairy, nymph"
+  },
+  {
+   "mk": "букет",
+   "en": "bouquet"
+  },
+  {
+   "mk": "под око",
+   "en": "from the corner of the eye"
+  },
+  {
+   "mk": "ќе се распее",
+   "en": "will burst into song"
+  },
+  {
+   "mk": "росна",
+   "en": "dewy"
+  },
+  {
+   "mk": "китка",
+   "en": "flower, posy"
+  },
+  {
+   "mk": "каранфил",
+   "en": "carnation"
+  },
+  {
+   "mk": "посакаш",
+   "en": "you will desire"
+  }
+ ],
+ "performers": [
+  "Децата од Буф",
+  "Јанко Узунов",
+  "Aidonia tis Florinas"
+ ],
+ "audio": [
+  {
+   "who": "Јанко Узунов",
+   "url": "https://pesna.org/audio-download/2844"
+  },
+  {
+   "who": "Aidonia tis Florinas",
+   "url": "https://pesna.org/audio-download/2852"
+  },
+  {
+   "who": "Децата од Буф",
+   "url": "https://pesna.org/audio-download/2853"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лична е од полична, баш самовила,",
+       "lat": "Lična e od polična, baš samovila,",
+       "en": "She is prettier than pretty, truly a fairy,"
+      },
+      {
+       "cyr": "како сон создадена, букет набрана.",
+       "lat": "kako son sozdadena, buket nabrana.",
+       "en": "made like a dream, a picked bouquet."
+      },
+      {
+       "cyr": "Погледни ја под око, ќе се насмее,",
+       "lat": "Pogledni ja pod oko, ḱe se nasmee,",
+       "en": "Glance at her from the corner of your eye, she will smile,"
+      },
+      {
+       "cyr": "дофати ја за рака, ќе се распее.",
+       "lat": "dofati ja za raka, ḱe se raspee.",
+       "en": "take her by the hand, she will burst into song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лична мома скопјанка,",
+       "lat": "Lična moma skopjanka,",
+       "en": "Pretty girl from Skopje,"
+      },
+      {
+       "cyr": "ќерка македонска,",
+       "lat": "ḱerka makedonska,",
+       "en": "Macedonian daughter,"
+      },
+      {
+       "cyr": "росна китка в' градина,",
+       "lat": "rosna kitka v' gradina,",
+       "en": "dewy flower in the garden,"
+      },
+      {
+       "cyr": "црвен каранфил.",
+       "lat": "crven karanfil.",
+       "en": "red carnation."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само да ја погледаш, ќе ја посакаш,",
+       "lat": "Samo da ja pogledaš, ḱe ja posakaš,",
+       "en": "Just look at her, you will desire her,"
+      },
+      {
+       "cyr": "везден да е со тебе, да ја милуваш.",
+       "lat": "vezden da e so tebe, da ja miluvaš.",
+       "en": "may she be an embroidered one with you, to caress her."
+      },
+      {
+       "cyr": "Ајде сите запејте песна весела,",
+       "lat": "Ajde site zapejte pesna vesela,",
+       "en": "Come on, everyone sing a cheerful song,"
+      },
+      {
+       "cyr": "за таа мома убава овде родена.",
+       "lat": "za taa moma ubava ovde rodena.",
+       "en": "about that beautiful girl born here."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лична мома скопјанка,",
+       "lat": "Lična moma skopjanka,",
+       "en": "Pretty girl from Skopje,"
+      },
+      {
+       "cyr": "ќерка македонска,",
+       "lat": "ḱerka makedonska,",
+       "en": "Macedonian daughter,"
+      },
+      {
+       "cyr": "росна китка в' градина,",
+       "lat": "rosna kitka v' gradina,",
+       "en": "dewy flower in the garden,"
+      },
+      {
+       "cyr": "црвен каранфил.",
+       "lat": "crven karanfil.",
+       "en": "red carnation."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

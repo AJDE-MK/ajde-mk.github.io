@@ -1,0 +1,153 @@
+{
+ "id": 837,
+ "slug": "na-sred-selo-cheshma-sharena",
+ "title_cyr": "На сред село чешма шарена",
+ "title_latin": "Na sred selo češma šarena",
+ "title_en": "In the middle of the village, a colorful fountain",
+ "pesna_url": "https://pesna.org/song/837",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Вихрен",
+  "Бодан Арсовски",
+  "Виданка Георгиева",
+  "Езерки",
+  "Ирена Спасовска",
+  "Кисми",
+  "Николина Чакурдукова",
+  "Радостина Панјова",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/1781"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/1782"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/1783"
+  },
+  {
+   "who": "Кисми",
+   "url": "https://pesna.org/audio-download/1784"
+  },
+  {
+   "who": "Езерки, Бодан Арсовски",
+   "url": "https://pesna.org/audio-download/1785"
+  },
+  {
+   "who": "Радостина Панјова",
+   "url": "https://pesna.org/audio-download/1786"
+  },
+  {
+   "who": "Ансамбл Вихрен",
+   "url": "https://pesna.org/audio-download/4327"
+  },
+  {
+   "who": "Николина Чакурдукова",
+   "url": "https://pesna.org/audio-download/4328"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море на сред село, чешма шарена,",
+       "lat": "More na sred selo, češma šarena,",
+       "en": "In the middle of the village, a colorful fountain,"
+      },
+      {
+       "cyr": "течеше вода студена.",
+       "lat": "tečeše voda studena.",
+       "en": "running cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде до чешмата, до две-три моми,",
+       "lat": "Ajde do češmata, do dve-tri momi,",
+       "en": "Next to the fountain, two or three maids"
+      },
+      {
+       "cyr": "полнеа вода студена.",
+       "lat": "polnea voda studena.",
+       "en": "were fetching cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде оздол' иде едно лудо младо",
+       "lat": "Ajde ozdol' ide edno ludo mlado",
+       "en": "From down there here comes a crazy lad"
+      },
+      {
+       "cyr": "на сиво коњче јаваше.",
+       "lat": "na sivo konjče javaše.",
+       "en": "riding a gray horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај подај ми, моме, едно барде вода",
+       "lat": "- Aj podaj mi, mome, edno barde voda",
+       "en": "- Hey girl, give me a jug with water"
+      },
+      {
+       "cyr": "во твој'та рака убава.",
+       "lat": "vo tvoj'ta raka ubava.",
+       "en": "with your pretty hand."
+      },
+      {
+       "cyr": "Ај подај ми, моме, едно барде вода,",
+       "lat": "Aj podaj mi, mome, edno barde voda,",
+       "en": "Hey, give me, girl, a jug with water,"
+      },
+      {
+       "cyr": "да пијам, да се напијам.",
+       "lat": "da pijam, da se napijam.",
+       "en": "let me drink and quench my thirst."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре, лудо младо, не си арчи време.",
+       "lat": "- A bre, ludo mlado, ne si arči vreme.",
+       "en": "- Hey you crazy lad, don't waste your time,"
+      },
+      {
+       "cyr": "либето ми е пред порти,",
+       "lat": "libeto mi e pred porti,",
+       "en": "my lover is at the gates,"
+      },
+      {
+       "cyr": "ме чека да ме прегрне!",
+       "lat": "me čeka da me pregrne!",
+       "en": "waiting to put his arms around me!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

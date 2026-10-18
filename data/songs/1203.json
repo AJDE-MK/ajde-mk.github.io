@@ -1,0 +1,167 @@
+{
+ "id": 1203,
+ "slug": "ne-sum-vecheralo",
+ "title_cyr": "Не сум вечерало",
+ "title_latin": "Ne sum večeralo",
+ "title_en": "I haven't had supper",
+ "pesna_url": "https://pesna.org/song/1203",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The text is dialectal and partly garbled; lines 1-2 of stanza 1, 'мене ме е мама посвршила' (my reading: mother married me off) and 'пресно ле с' месно' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "вечерало",
+   "en": "having had supper"
+  },
+  {
+   "mk": "наљутило",
+   "en": "angered, upset"
+  },
+  {
+   "mk": "аро",
+   "en": "rascal, rogue (dialect, my reading)"
+  },
+  {
+   "mk": "посвршила",
+   "en": "finished off (here: married off, my reading)"
+  },
+  {
+   "mk": "пресно",
+   "en": "unleavened, fresh"
+  },
+  {
+   "mk": "месам",
+   "en": "I knead"
+  },
+  {
+   "mk": "позбеснува",
+   "en": "goes mad, rages"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/2958"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3517"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оф леле, леле, сношти сум се,",
+       "lat": "Of lele, lele, snošti sum se,",
+       "en": "Oh alas, alas, last night I got"
+      },
+      {
+       "cyr": "оф леле наљутило,",
+       "lat": "of lele naljutilo,",
+       "en": "oh alas, angry,"
+      },
+      {
+       "cyr": "не сум вечерало,",
+       "lat": "ne sum večeralo,",
+       "en": "I haven't had supper,"
+      },
+      {
+       "cyr": "оф леле, леле, леле, леле, ле.",
+       "lat": "of lele, lele, lele, lele, le.",
+       "en": "oh alas, alas, alas, alas, le."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф леле, леле, мене ме е мама",
+       "lat": "Of lele, lele, mene me e mama",
+       "en": "Oh alas, alas, my mother has"
+      },
+      {
+       "cyr": "посвршила,",
+       "lat": "posvršila,",
+       "en": "finished me off,"
+      },
+      {
+       "cyr": "за едно старо аро,",
+       "lat": "za edno staro aro,",
+       "en": "for some old rascal,"
+      },
+      {
+       "cyr": "оф леле, леле, леле, леле, ле.",
+       "lat": "of lele, lele, lele, lele, le.",
+       "en": "oh alas, alas, alas, alas, le."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф леле, леле, ако ми е старо,",
+       "lat": "Of lele, lele, ako mi e staro,",
+       "en": "Oh alas, alas, even if he is old,"
+      },
+      {
+       "cyr": "оф леле, леле, старо ле аро,",
+       "lat": "of lele, lele, staro le aro,",
+       "en": "oh alas, alas, old rascal,"
+      },
+      {
+       "cyr": "нека ми е живо,",
+       "lat": "neka mi e živo,",
+       "en": "let him be alive,"
+      },
+      {
+       "cyr": "оф леле, леле, леле, леле, ле.",
+       "lat": "of lele, lele, lele, lele, le.",
+       "en": "oh alas, alas, alas, alas, le."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф леле, леле, ќе му месам,",
+       "lat": "Of lele, lele, ḱe mu mesam,",
+       "en": "Oh alas, alas, I will knead for him,"
+      },
+      {
+       "cyr": "оф леле, леле, пресно ле с' месно,",
+       "lat": "of lele, lele, presno le s' mesno,",
+       "en": "oh alas, alas, unleavened, as kneaded,"
+      },
+      {
+       "cyr": "да не позбеснува,",
+       "lat": "da ne pozbesnuva,",
+       "en": "so that he doesn't go mad,"
+      },
+      {
+       "cyr": "оф леле, леле, леле, леле, ле.",
+       "lat": "of lele, lele, lele, lele, le.",
+       "en": "oh alas, alas, alas, alas, le."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

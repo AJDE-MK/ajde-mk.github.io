@@ -1,0 +1,240 @@
+{
+ "id": 1184,
+ "slug": "pesna-za-sirma-vojvoda",
+ "title_cyr": "Песна за Сирма војвода",
+ "title_latin": "Pesna za Sirma vojvoda",
+ "title_en": "Song of Voivode Sirma",
+ "pesna_url": "https://pesna.org/song/1184",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Тоа со лутина не бива' is my reading: 'this is not done with anger'. 'Пукна пушка од рака' is rendered as 'the rifle fired from her hand'.",
+ "words_to_learn": [
+  {
+   "mk": "војвода",
+   "en": "voivode, band leader"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "бука",
+   "en": "beech tree"
+  },
+  {
+   "mk": "нишан",
+   "en": "target"
+  },
+  {
+   "mk": "прониже",
+   "en": "pierces"
+  },
+  {
+   "mk": "редум",
+   "en": "in turn, in a row"
+  },
+  {
+   "mk": "натфрли",
+   "en": "throws farther than"
+  },
+  {
+   "mk": "чекори",
+   "en": "steps"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Николина Стојановска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2895"
+  },
+  {
+   "who": "Николина Стојановска",
+   "url": "https://pesna.org/audio-download/2896"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде се чуло, видело,",
+       "lat": "Kade se čulo, videlo,",
+       "en": "Where has it been heard, seen,"
+      },
+      {
+       "cyr": "мома војвода да биде?",
+       "lat": "moma vojvoda da bide?",
+       "en": "that a girl be a voivode?"
+      },
+      {
+       "cyr": "На седумдесет другари,",
+       "lat": "Na sedumdeset drugari,",
+       "en": "Over seventy comrades,"
+      },
+      {
+       "cyr": "на тие гори зелени,",
+       "lat": "na tie gori zeleni,",
+       "en": "in those green forests,"
+      },
+      {
+       "cyr": "на тие гори зелени,",
+       "lat": "na tie gori zeleni,",
+       "en": "in those green forests,"
+      },
+      {
+       "cyr": "на тие води студени.",
+       "lat": "na tie vodi studeni.",
+       "en": "in those cold waters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сирма на другари говори:",
+       "lat": "Sirma na drugari govori:",
+       "en": "Sirma speaks to her comrades:"
+      },
+      {
+       "cyr": "- Тоа со лутина не бива,",
+       "lat": "- Toa so lutina ne biva,",
+       "en": "- This does not work with anger,"
+      },
+      {
+       "cyr": "ќе врземе прстен на бука,",
+       "lat": "ḱe vrzeme prsten na buka,",
+       "en": "we will tie a ring to a beech tree,"
+      },
+      {
+       "cyr": "пукајте редум на нишан,",
+       "lat": "pukajte redum na nišan,",
+       "en": "fire in turn at the target,"
+      },
+      {
+       "cyr": "кој ќе ми прстен прониже,",
+       "lat": "koj ḱe mi prsten proniže,",
+       "en": "whoever pierces my ring,"
+      },
+      {
+       "cyr": "тој ќе ми биде војвода.",
+       "lat": "toj ḱe mi bide vojvoda.",
+       "en": "he will be my voivode."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите си редум пукаа,",
+       "lat": "Site si redum pukaa,",
+       "en": "They all fired in turn,"
+      },
+      {
+       "cyr": "никој ми прстен не удри,",
+       "lat": "nikoj mi prsten ne udri,",
+       "en": "nobody hit the ring."
+      },
+      {
+       "cyr": "Сирма ми вели, говори:",
+       "lat": "Sirma mi veli, govori:",
+       "en": "Sirma says, speaks:"
+      },
+      {
+       "cyr": "- Подајте ми мене пушката!",
+       "lat": "- Podajte mi mene puškata!",
+       "en": "- Hand me the rifle!"
+      },
+      {
+       "cyr": "Пукна ми пушка од рака,",
+       "lat": "Pukna mi puška od raka,",
+       "en": "The rifle fired from her hand,"
+      },
+      {
+       "cyr": "прстенот падна под бука.",
+       "lat": "prstenot padna pod buka.",
+       "en": "the ring fell under the beech."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пак Сирма им вели, говори:",
+       "lat": "Pak Sirma im veli, govori:",
+       "en": "Again Sirma says to them:"
+      },
+      {
+       "cyr": "- Ќе фрламе камен, другари,",
+       "lat": "- Ḱe frlame kamen, drugari,",
+       "en": "- We will throw a stone, comrades,"
+      },
+      {
+       "cyr": "кој ќе ми камен натфрли,",
+       "lat": "koj ḱe mi kamen natfrli,",
+       "en": "whoever throws the stone farther,"
+      },
+      {
+       "cyr": "тој ќе ми биде војвода,",
+       "lat": "toj ḱe mi bide vojvoda,",
+       "en": "he will be my voivode,"
+      },
+      {
+       "cyr": "тој ќе ми биде војвода,",
+       "lat": "toj ḱe mi bide vojvoda,",
+       "en": "he will be my voivode,"
+      },
+      {
+       "cyr": "на седумдесет другари.",
+       "lat": "na sedumdeset drugari.",
+       "en": "over seventy comrades."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите си камен фрлаа,",
+       "lat": "Site si kamen frlaa,",
+       "en": "They all threw their stones,"
+      },
+      {
+       "cyr": "никој си камен не натфрли,",
+       "lat": "nikoj si kamen ne natfrli,",
+       "en": "nobody threw farther,"
+      },
+      {
+       "cyr": "Сирма си камен натфрли,",
+       "lat": "Sirma si kamen natfrli,",
+       "en": "Sirma threw her stone farther,"
+      },
+      {
+       "cyr": "десет чекори потаму.",
+       "lat": "deset čekori potamu.",
+       "en": "ten steps beyond."
+      },
+      {
+       "cyr": "Тогај ја Сирма избраа,",
+       "lat": "Togaj ja Sirma izbraa,",
+       "en": "Then they chose Sirma,"
+      },
+      {
+       "cyr": "војвода Сирма да биде.",
+       "lat": "vojvoda Sirma da bide.",
+       "en": "to be voivode Sirma."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

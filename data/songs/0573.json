@@ -1,0 +1,165 @@
+{
+ "id": 573,
+ "slug": "i-tamu-e-mojata-rodina",
+ "title_cyr": "И таму е мојата родина",
+ "title_latin": "I tamu e mojata rodina",
+ "title_en": "And there is my motherland",
+ "pesna_url": "https://pesna.org/song/573",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/78"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3659"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Песна за Христо Узунов)",
+       "lat": "(Pesna za Hristo Uzunov)",
+       "en": "(Song for Hristo Uzunov)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И таму е мојата родина",
+       "lat": "I tamu e mojata rodina",
+       "en": "And there is my motherland"
+      },
+      {
+       "cyr": "далеку Македонија,",
+       "lat": "daleku Makedonija,",
+       "en": "In far-away Macedonia"
+      },
+      {
+       "cyr": "јас сакам таму да загинам",
+       "lat": "jas sakam tamu da zaginam",
+       "en": "I want to die there,"
+      },
+      {
+       "cyr": "а ти ме заб'рави за век.",
+       "lat": "a ti me zab'ravi za vek.",
+       "en": "And for you to forget me for centuries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И таму е мојта мајка",
+       "lat": "I tamu e mojta majka",
+       "en": "And there is my mother,"
+      },
+      {
+       "cyr": "и таму има божји свет",
+       "lat": "i tamu ima božji svet",
+       "en": "And there is а divine world"
+      },
+      {
+       "cyr": "јас сакам таму да загинам",
+       "lat": "jas sakam tamu da zaginam",
+       "en": "I want to die there,"
+      },
+      {
+       "cyr": "ти ме заборави за век.",
+       "lat": "ti me zaboravi za vek.",
+       "en": "And for you to forget me for centuries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи мила мајко",
+       "lat": "Ne plači mila majko",
+       "en": "Don’t cry my dear mother,"
+      },
+      {
+       "cyr": "не рони солзи крвави,",
+       "lat": "ne roni solzi krvavi,",
+       "en": "Do not shed bloody tears"
+      },
+      {
+       "cyr": "ако Христо Узунов падна",
+       "lat": "ako Hristo Uzunov padna",
+       "en": "If Hristo Uzunov died"
+      },
+      {
+       "cyr": "на врагот жив се не даде.",
+       "lat": "na vragot živ se ne dade.",
+       "en": "He did not give himself alive to the enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сестрите нема да ми идат",
+       "lat": "Sestrite nema da mi idat",
+       "en": "My sisters will not come"
+      },
+      {
+       "cyr": "на мојот гроб осамотен",
+       "lat": "na mojot grob osamoten",
+       "en": "To my lonely grave"
+      },
+      {
+       "cyr": "и мајка нема да ми идат",
+       "lat": "i majka nema da mi idat",
+       "en": "And my mother will not come"
+      },
+      {
+       "cyr": "да леит солзи за мене.",
+       "lat": "da leit solzi za mene.",
+       "en": "To shed tears for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не жали мила моја родино",
+       "lat": "Ne žali mila moja rodino",
+       "en": "Don’t cry my dear motherland,"
+      },
+      {
+       "cyr": "и сите ви другари мој,",
+       "lat": "i site vi drugari moj,",
+       "en": "And all of you, my friends"
+      },
+      {
+       "cyr": "ако Христо Узунов падна",
+       "lat": "ako Hristo Uzunov padna",
+       "en": "If Hristo Uzunov died"
+      },
+      {
+       "cyr": "на врагот жив се не даде.",
+       "lat": "na vragot živ se ne dade.",
+       "en": "He did not give himself alive to the enemy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

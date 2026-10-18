@@ -1,0 +1,142 @@
+{
+ "id": 1683,
+ "slug": "puknala-majko-mori-tresnala",
+ "title_cyr": "Пукнала мајко мори, треснала",
+ "title_latin": "Puknala majko mori, tresnala",
+ "title_en": "May you be damned, mother",
+ "pesna_url": "https://pesna.org/song/1683",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4494"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пукнала мајко мори, треснала,",
+       "lat": "Puknala majko mori, tresnala,",
+       "en": "May you be damned, mother,"
+      },
+      {
+       "cyr": "зошто ме роди, мамо, сиромав?",
+       "lat": "zošto me rodi, mamo, siromav?",
+       "en": "why did you give birth to me poor, Mother?"
+      },
+      {
+       "cyr": "Зошто ме роди, мамо, сиромав,",
+       "lat": "Zošto me rodi, mamo, siromav,",
+       "en": "Why did you give birth to me poor, Mother,"
+      },
+      {
+       "cyr": "без пари, та и, мамо, без к'смет.",
+       "lat": "bez pari, ta i, mamo, bez k'smet.",
+       "en": "without money, and, mother, without luck?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ме испрати Австралија,",
+       "lat": "Pa me isprati Avstralija,",
+       "en": "Then you sent me to Australia,"
+      },
+      {
+       "cyr": "во славна града, мамо, Сиднеја.",
+       "lat": "vo slavna grada, mamo, Sidneja.",
+       "en": "to the famous city of Sydney, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излегов да се, мамо, прошетам,",
+       "lat": "Izlegov da se, mamo, prošetam,",
+       "en": "I went out for a walk, Mother,"
+      },
+      {
+       "cyr": "низ сиднејските, мамо, сокаци.",
+       "lat": "niz sidnejskite, mamo, sokaci.",
+       "en": "through the streets of Sydney, mother."
+      },
+      {
+       "cyr": "Там' сретнав двајца непознати,",
+       "lat": "Tam' sretnav dvajca nepoznati,",
+       "en": "There I met two strangers,"
+      },
+      {
+       "cyr": "зборваја, мамо, македонски.",
+       "lat": "zborvaja, mamo, makedonski.",
+       "en": "they were speaking Macedonian, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зборваја, мамо, македонски,",
+       "lat": "Zborvaja, mamo, makedonski,",
+       "en": "They were speaking Macedonian, mother,"
+      },
+      {
+       "cyr": "љуто си мајки, леле, колнеа.",
+       "lat": "ljuto si majki, lele, kolnea.",
+       "en": "and bitterly cursing their mothers, oh my."
+      },
+      {
+       "cyr": "Луто си мајки, леле, колнеа,",
+       "lat": "Luto si majki, lele, kolnea,",
+       "en": "Bitterly cursing their mothers, oh my,"
+      },
+      {
+       "cyr": "крвави солзи, мамо, ронеа.",
+       "lat": "krvavi solzi, mamo, ronea.",
+       "en": "shedding bloody tears, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пукнала мајко мори, треснала,",
+       "lat": "Puknala majko mori, tresnala,",
+       "en": "May you be damned, mother"
+      },
+      {
+       "cyr": "зошто ме прати Австралија?",
+       "lat": "zošto me prati Avstralija?",
+       "en": "why did you send me to Australia?"
+      },
+      {
+       "cyr": "Зошто ме прати Австралија,",
+       "lat": "Zošto me prati Avstralija,",
+       "en": "Why did you send me to Australia,"
+      },
+      {
+       "cyr": "во славна града, мамо, Сиднеја.",
+       "lat": "vo slavna grada, mamo, Sidneja.",
+       "en": "to the famous city of Sydney, Mother?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,217 @@
+{
+ "id": 1093,
+ "slug": "stojane-dilber-more-stojane",
+ "title_cyr": "Стојане, дилбер море Стојане",
+ "title_latin": "Stojane, dilber more Stojane",
+ "title_en": "Stojan, handsome Stojan",
+ "pesna_url": "https://pesna.org/song/1093",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional love song. 'Рудо јагне' as 'ruddy lamb' (рудо = reddish, fleecy) and 'лудо' as an affectionate 'silly' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "дилбер",
+   "en": "handsome, charming one (Turkish loan)"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "лудо",
+   "en": "silly, crazy one (affectionate)"
+  },
+  {
+   "mk": "синоќа",
+   "en": "last night"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  },
+  {
+   "mk": "печено",
+   "en": "roasted"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "мека постела",
+   "en": "soft bed"
+  },
+  {
+   "mk": "гори",
+   "en": "burns"
+  }
+ ],
+ "performers": [
+  "Николина Стојановска"
+ ],
+ "audio": [
+  {
+   "who": "Николина Стојановска",
+   "url": "https://pesna.org/audio-download/2610"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојане море, дилбере, море џанам,",
+       "lat": "Stojane more, dilbere, more džanam,",
+       "en": "Stojan, hey, handsome one, hey my dear,"
+      },
+      {
+       "cyr": "оти не дојде, лудо, синоќа?",
+       "lat": "oti ne dojde, ludo, sinoḱa?",
+       "en": "why did you not come last night, silly?"
+      },
+      {
+       "cyr": "Оти не дојде синоќа, море Стојан,",
+       "lat": "Oti ne dojde sinoḱa, more Stojan,",
+       "en": "Why did you not come last night, hey Stojan,"
+      },
+      {
+       "cyr": "на таа слатка, лудо, вечера?",
+       "lat": "na taa slatka, ludo, večera?",
+       "en": "to that sweet supper?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојане, дилбер море Стојане,",
+       "lat": "Stojane, dilber more Stojane,",
+       "en": "Stojan, handsome, hey Stojan,"
+      },
+      {
+       "cyr": "оти не дојде, лудо, при мене?",
+       "lat": "oti ne dojde, ludo, pri mene?",
+       "en": "why did you not come to me, silly?"
+      },
+      {
+       "cyr": "Стојане, дилбер море Стојане",
+       "lat": "Stojane, dilber more Stojane",
+       "en": "Stojan, handsome, hey Stojan,"
+      },
+      {
+       "cyr": "душа ми гори, лудо, за тебе.",
+       "lat": "duša mi gori, ludo, za tebe.",
+       "en": "my soul burns for you, silly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На таа слатка вечера, море Стојан,",
+       "lat": "Na taa slatka večera, more Stojan,",
+       "en": "To that sweet supper, hey Stojan,"
+      },
+      {
+       "cyr": "ај на тоа рудо јагне печено,",
+       "lat": "aj na toa rudo jagne pečeno,",
+       "en": "hey, to that roast ruddy lamb,"
+      },
+      {
+       "cyr": "на рудо јагне печено, море Стојан,",
+       "lat": "na rudo jagne pečeno, more Stojan,",
+       "en": "to the roast ruddy lamb, hey Stojan,"
+      },
+      {
+       "cyr": "ај на тоа рујно вино, море, црвено.",
+       "lat": "aj na toa rujno vino, more, crveno.",
+       "en": "hey, to that ruby wine, hey, red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојане, дилбер море Стојане,",
+       "lat": "Stojane, dilber more Stojane,",
+       "en": "Stojan, handsome, hey Stojan,"
+      },
+      {
+       "cyr": "оти не дојде, лудо, при мене?",
+       "lat": "oti ne dojde, ludo, pri mene?",
+       "en": "why did you not come to me, silly?"
+      },
+      {
+       "cyr": "Стојане, дилбер море Стојане",
+       "lat": "Stojane, dilber more Stojane",
+       "en": "Stojan, handsome, hey Stojan,"
+      },
+      {
+       "cyr": "душа ми гори, лудо, за тебе.",
+       "lat": "duša mi gori, ludo, za tebe.",
+       "en": "my soul burns for you, silly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На рујно вино црвено, море Стојан,",
+       "lat": "Na rujno vino crveno, more Stojan,",
+       "en": "To the ruby red wine, hey Stojan,"
+      },
+      {
+       "cyr": "ај на таа мека, лудо, постела.",
+       "lat": "aj na taa meka, ludo, postela.",
+       "en": "hey, to that soft bed, silly."
+      },
+      {
+       "cyr": "На рујно вино црвено, море Стојан,",
+       "lat": "Na rujno vino crveno, more Stojan,",
+       "en": "To the ruby red wine, hey Stojan,"
+      },
+      {
+       "cyr": "ај на таа мека, лудо, постела.",
+       "lat": "aj na taa meka, ludo, postela.",
+       "en": "hey, to that soft bed, silly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојане, дилбер море Стојане,",
+       "lat": "Stojane, dilber more Stojane,",
+       "en": "Stojan, handsome, hey Stojan,"
+      },
+      {
+       "cyr": "оти не дојде, лудо, при мене?",
+       "lat": "oti ne dojde, ludo, pri mene?",
+       "en": "why did you not come to me, silly?"
+      },
+      {
+       "cyr": "Стојане, дилбер море Стојане",
+       "lat": "Stojane, dilber more Stojane",
+       "en": "Stojan, handsome, hey Stojan,"
+      },
+      {
+       "cyr": "душа ми гори, лудо, за тебе.",
+       "lat": "duša mi gori, ludo, za tebe.",
+       "en": "my soul burns for you, silly."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

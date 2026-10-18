@@ -1,0 +1,229 @@
+{
+ "id": 69,
+ "slug": "trgnala-toda-moma-za-voda-da-odi",
+ "title_cyr": "Тргнала Тода мома за вода да оди",
+ "title_latin": "Trgnala Toda moma za voda da odi",
+ "title_en": "Toda the girl set out to fetch water",
+ "pesna_url": "https://pesna.org/song/69",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The marker '(Друга верзија)' differs from the standard marker and is copied unchanged. 'Да би не станал' and 'преди' (probably 'сестро') are my reading; 'сардиса' is a dialect guess.",
+ "words_to_learn": [
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "потера",
+   "en": "posse, pursuing band"
+  },
+  {
+   "mk": "берданка",
+   "en": "berdanka rifle"
+  },
+  {
+   "mk": "куршуми",
+   "en": "bullets"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "гајле не бери",
+   "en": "don't worry"
+  },
+  {
+   "mk": "сардиса",
+   "en": "caught, overtook (dialect, my reading)"
+  },
+  {
+   "mk": "шарена",
+   "en": "colorful, decorated"
+  }
+ ],
+ "performers": [
+  "Фана Шомова"
+ ],
+ "audio": [
+  {
+   "who": "Фана Шомова",
+   "url": "https://pesna.org/audio-download/3072"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргнала Тода мома за вода да оди,",
+       "lat": "Trgnala Toda moma za voda da odi,",
+       "en": "Toda the girl set out to go for water,"
+      },
+      {
+       "cyr": "на таа чешма, Тода, чешма шарена.",
+       "lat": "na taa češma, Toda, češma šarena.",
+       "en": "to that fountain, Toda, the colorful fountain."
+      },
+      {
+       "cyr": "Одила Тода мома што одила,",
+       "lat": "Odila Toda moma što odila,",
+       "en": "Toda the girl went as she went,"
+      },
+      {
+       "cyr": "на пат Тода мома потера сретнала.",
+       "lat": "na pat Toda moma potera sretnala.",
+       "en": "on the road Toda the girl met a posse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај се Тода мома назад вратила,",
+       "lat": "Togaj se Toda moma nazad vratila,",
+       "en": "Then Toda the girl turned back,"
+      },
+      {
+       "cyr": "и на братот Тода мома му кажала.",
+       "lat": "i na bratot Toda moma mu kažala.",
+       "en": "and Toda the girl told her brother."
+      },
+      {
+       "cyr": "- Ај стани, стани брату, стани Ѓорѓи,",
+       "lat": "- Aj stani, stani bratu, stani Ǵorǵi,",
+       "en": "- Come on, get up, brother, get up Gjorgji,"
+      },
+      {
+       "cyr": "лоша потера, Ѓорѓи, нè сардиса.",
+       "lat": "loša potera, Ǵorǵi, nè sardisa.",
+       "en": "a wicked posse, Gjorgji, has caught us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не бој се, Тодо мори, гајле не бери,",
+       "lat": "- Ne boj se, Todo mori, gajle ne beri,",
+       "en": "- Don't be afraid, Toda, hey, take no worry,"
+      },
+      {
+       "cyr": "подај ми, Тодо мори, берданка пушка.",
+       "lat": "podaj mi, Todo mori, berdanka puška.",
+       "en": "hand me, Toda, hey, the rifle gun."
+      },
+      {
+       "cyr": "И дај ми, Тодо мори, ситни куршуми,",
+       "lat": "I daj mi, Todo mori, sitni kuršumi,",
+       "en": "And give me, Toda, hey, the small bullets,"
+      },
+      {
+       "cyr": "тури ми, Тодо мори, чаша ракија.",
+       "lat": "turi mi, Todo mori, čaša rakija.",
+       "en": "pour me, Toda, hey, a glass of rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па да видиш, Тодо мори, што чудо ќе правам,",
+       "lat": "Pa da vidiš, Todo mori, što čudo ḱe pravam,",
+       "en": "And you will see, Toda, hey, what a wonder I will do,"
+      },
+      {
+       "cyr": "потера ќе бега, Тодо, до бога ќе плаче.",
+       "lat": "potera ḱe bega, Todo, do boga ḱe plače.",
+       "en": "the posse will run, Toda, it will cry to God."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисала мома Тода на вода да оди,",
+       "lat": "Kinisala moma Toda na voda da odi,",
+       "en": "Toda the girl set out to go for water,"
+      },
+      {
+       "cyr": "на вода да оди, на шарена чешма.",
+       "lat": "na voda da odi, na šarena češma.",
+       "en": "to go for water, to the colorful fountain."
+      },
+      {
+       "cyr": "На пат ја сретна Тода турска потера,",
+       "lat": "Na pat ja sretna Toda turska potera,",
+       "en": "On the road Toda met a Turkish posse,"
+      },
+      {
+       "cyr": "оф леле, леле турска потера.",
+       "lat": "of lele, lele turska potera.",
+       "en": "oh dear, dear, the Turkish posse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Час ко се врати Тода, во двор застана,",
+       "lat": "Čas ko se vrati Toda, vo dvor zastana,",
+       "en": "As soon as Toda returned, she stopped in the yard,"
+      },
+      {
+       "cyr": "во двор застана, на Ѓорѓи викна:",
+       "lat": "vo dvor zastana, na Ǵorǵi vikna:",
+       "en": "she stopped in the yard, and called to Gjorgji:"
+      },
+      {
+       "cyr": "- Стани ми, стани Ѓорѓи, да би не станал,",
+       "lat": "- Stani mi, stani Ǵorǵi, da bi ne stanal,",
+       "en": "- Get up, get up Gjorgji, if only you would not get up,"
+      },
+      {
+       "cyr": "тебе те бара турска потера.",
+       "lat": "tebe te bara turska potera.",
+       "en": "the Turkish posse is looking for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Седи си, преди Тодо, гајле не бери",
+       "lat": "- Sedi si, predi Todo, gajle ne beri",
+       "en": "- Sit down, sister Toda, take no worry"
+      },
+      {
+       "cyr": "дури ми стои глава на рамена.",
+       "lat": "duri mi stoi glava na ramena.",
+       "en": "as long as my head stays on my shoulders."
+      },
+      {
+       "cyr": "Уште си зборот Ѓорѓи не ми дорече,",
+       "lat": "Ušte si zborot Ǵorǵi ne mi doreče,",
+       "en": "Gjorgji had not yet finished his word to me,"
+      },
+      {
+       "cyr": "прва пушка пукна, Ѓорѓи ми падна.",
+       "lat": "prva puška pukna, Ǵorǵi mi padna.",
+       "en": "the first shot rang out, Gjorgji fell."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

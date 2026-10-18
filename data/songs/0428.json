@@ -1,0 +1,201 @@
+{
+ "id": 428,
+ "slug": "ne-si-go-prodavaj-koljo-chiflikot",
+ "title_cyr": "Не си го продавај Кољо чифликот",
+ "title_latin": "Ne si go prodavaj Koljo čiflikot",
+ "title_en": "Don't sell the farm, Koljo",
+ "pesna_url": "https://pesna.org/song/428",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александра Поповска",
+  "Влатко Стефановски",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Драган Даутовски квартет",
+  "Мики Јовановски Џафер",
+  "Мирослав Тадиќ",
+  "МРТВ",
+  "Петранка Костадинова",
+  "Сузана Спасовска",
+  "Танец",
+  "Тоше Проески",
+  "Benny Goodman",
+  "Iskon",
+  "Mitan Project",
+  "Selyani Macedonian Folklore Group",
+  "Yvette Holzwarth"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/667"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/668"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/669"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/670"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/671"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/672"
+  },
+  {
+   "who": "МРТВ",
+   "url": "https://pesna.org/audio-download/673"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Мики Јовановски Џафер",
+   "url": "https://pesna.org/audio-download/891"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1956"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/2080"
+  },
+  {
+   "who": "Benny Goodman",
+   "url": "https://pesna.org/audio-download/2765"
+  },
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3419"
+  },
+  {
+   "who": "Yvette Holzwarth, Мирослав Тадиќ",
+   "url": "https://pesna.org/audio-download/3501"
+  },
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/3803"
+  },
+  {
+   "who": "Iskon",
+   "url": "https://pesna.org/audio-download/4042"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не си го продавај Кољо чифликот",
+       "lat": "Ne si go prodavaj Koljo čiflikot",
+       "en": "Don't sell the farm, Koljo,"
+      },
+      {
+       "cyr": "мама не ме дава Кољо за тебе.",
+       "lat": "mama ne me dava Koljo za tebe.",
+       "en": "my mother won't give me."
+      },
+      {
+       "cyr": "По меани одиш Кољо, рујно вино пиеш,",
+       "lat": "Po meani odiš Koljo, rujno vino pieš,",
+       "en": "Koljo goes to the taverns and drinks rich wine,"
+      },
+      {
+       "cyr": "дома рано не си одиш да спиеш.",
+       "lat": "doma rano ne si odiš da spieš.",
+       "en": "he doesn't go home early to sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Колку ти чини Кољо чифликот,",
+       "lat": "Kolku ti čini Koljo čiflikot,",
+       "en": "What your farm is worth,"
+      },
+      {
+       "cyr": "толку ми чини Кољо лицето.",
+       "lat": "tolku mi čini Koljo liceto.",
+       "en": "Koljo, my face is worth."
+      },
+      {
+       "cyr": "По меани одиш Кољо, рујно вино пиеш,",
+       "lat": "Po meani odiš Koljo, rujno vino pieš,",
+       "en": "Koljo goes to the taverns and drinks rich wine,"
+      },
+      {
+       "cyr": "дома рано не си одиш да спиеш.",
+       "lat": "doma rano ne si odiš da spieš.",
+       "en": "he doesn't go home early to sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не си го продавај Кољо трлото,",
+       "lat": "Ne si go prodavaj Koljo trloto,",
+       "en": "Don't sell the pen, Koljo,"
+      },
+      {
+       "cyr": "мама не ме дава Кољо за тебе.",
+       "lat": "mama ne me dava Koljo za tebe.",
+       "en": "my mother won't give me."
+      },
+      {
+       "cyr": "По меани одиш Кољо, рујно вино пиеш,",
+       "lat": "Po meani odiš Koljo, rujno vino pieš,",
+       "en": "Koljo goes to the taverns and drinks rich wine,"
+      },
+      {
+       "cyr": "дома рано не си одиш да спиеш.",
+       "lat": "doma rano ne si odiš da spieš.",
+       "en": "he doesn't go home early to sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Колку ти чини Кољо трлото,",
+       "lat": "Kolku ti čini Koljo trloto,",
+       "en": "What your pen is worth, Koljo,"
+      },
+      {
+       "cyr": "толку ми чини Кољо грлото.",
+       "lat": "tolku mi čini Koljo grloto.",
+       "en": "my throat is worth."
+      },
+      {
+       "cyr": "По меани одиш Кољо, рујно вино пиеш,",
+       "lat": "Po meani odiš Koljo, rujno vino pieš,",
+       "en": "Koljo goes to the taverns and drinks rich wine,"
+      },
+      {
+       "cyr": "дома рано не си одиш да спиеш.",
+       "lat": "doma rano ne si odiš da spieš.",
+       "en": "he doesn't go home early to sleep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

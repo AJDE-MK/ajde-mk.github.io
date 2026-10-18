@@ -1,0 +1,133 @@
+{
+ "id": 1052,
+ "slug": "babino-devojche",
+ "title_cyr": "Бабино девојче",
+ "title_latin": "Babino devojče",
+ "title_en": "Grandma's girl",
+ "pesna_url": "https://pesna.org/song/1052",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Дејан Јовановски",
+  "Нино Величковски"
+ ],
+ "audio": [
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/2399"
+  },
+  {
+   "who": "Дејан Јовановски",
+   "url": "https://pesna.org/audio-download/2406"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, што ми се пие, бабо, тој рујно вино,",
+       "lat": "Ej, što mi se pie, babo, toj rujno vino,",
+       "en": "Hey, how I want to drink, grandma, that red wine,"
+      },
+      {
+       "cyr": "што го точило, бабо, твоје девојче.",
+       "lat": "što go točilo, babo, tvoje devojče.",
+       "en": "that your girl, grandma, was pouring."
+      },
+      {
+       "cyr": "Ем га точило, ем се смејало,",
+       "lat": "Em ga točilo, em se smejalo,",
+       "en": "She was pouring it and she was smiling,"
+      },
+      {
+       "cyr": "туј спроти мене, бабо, песне појало.",
+       "lat": "tuj sproti mene, babo, pesne pojalo.",
+       "en": "here in front of me, grandma, she was singing songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, што ми се једе, бабо, бела погача,",
+       "lat": "Ej, što mi se jede, babo, bela pogača,",
+       "en": "Hey, how I want to eat, grandma, a white bread,"
+      },
+      {
+       "cyr": "што гу месило, бабо, твоје девојче.",
+       "lat": "što gu mesilo, babo, tvoje devojče.",
+       "en": "that your girl, grandma, was kneading."
+      },
+      {
+       "cyr": "Ем гу месило, ем се смејало,",
+       "lat": "Em gu mesilo, em se smejalo,",
+       "en": "She was kneading it and she was smiling,"
+      },
+      {
+       "cyr": "туј спроти мене, бабо, песне појало.",
+       "lat": "tuj sproti mene, babo, pesne pojalo.",
+       "en": "here in front of me, grandma, she was singing songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, што би ги мрсил, бабо, тије руси косе,",
+       "lat": "Ej, što bi gi mrsil, babo, tije rusi kose,",
+       "en": "Hey, how I want to caress, grandma, that blond hair,"
+      },
+      {
+       "cyr": "што ги чешљало, бабо, твоје девојче.",
+       "lat": "što gi češljalo, babo, tvoje devojče.",
+       "en": "that your girl, grandma, was combing."
+      },
+      {
+       "cyr": "Ем ги чешљало, ем се смејало,",
+       "lat": "Em gi češljalo, em se smejalo,",
+       "en": "She was combing it and she was smiling,"
+      },
+      {
+       "cyr": "туј спроти мене, бабо, песне појало.",
+       "lat": "tuj sproti mene, babo, pesne pojalo.",
+       "en": "here in front of me, grandma, she was singing songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, што би ги љубел, бабо, тије медни усне,",
+       "lat": "Ej, što bi gi ljubel, babo, tije medni usne,",
+       "en": "Hey, how I want to kiss, grandma, those honey lips,"
+      },
+      {
+       "cyr": "што ги црвило, бабо, твоје девојче.",
+       "lat": "što gi crvilo, babo, tvoje devojče.",
+       "en": "that your girl, grandma, was puting lipstick on."
+      },
+      {
+       "cyr": "Ем ги црвило, ем се смејало,",
+       "lat": "Em gi crvilo, em se smejalo,",
+       "en": "She was was puting lipstick on them and she was smiling,"
+      },
+      {
+       "cyr": "туј спроти мене, бабо, песне појало.",
+       "lat": "tuj sproti mene, babo, pesne pojalo.",
+       "en": "here in front of me, grandma, she was singing songs."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

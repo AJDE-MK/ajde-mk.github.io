@@ -1,0 +1,159 @@
+{
+ "id": 1390,
+ "slug": "bolen-mi-lezhi-stojan-vojvoda",
+ "title_cyr": "Болен ми лежи Стојан војвода",
+ "title_latin": "Bolen mi leži Stojan vojvoda",
+ "title_en": "Voivode Stojan lies ill",
+ "pesna_url": "https://pesna.org/song/1390",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; per the source note, recorded on a cylinder c. 1902-1904 by Leon Azoulay. 'дејгиди' is an interjection, rendered here as 'alas' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel leader"
+  },
+  {
+   "mk": "комито",
+   "en": "komita, guerrilla fighter"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "alas, oh (interjection)"
+  },
+  {
+   "mk": "т'нка пушка",
+   "en": "thin rifle"
+  },
+  {
+   "mk": "остра сабја",
+   "en": "sharp sword"
+  },
+  {
+   "mk": "ајдук",
+   "en": "outlaw, haiduk"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "над глава",
+   "en": "at his head"
+  },
+  {
+   "mk": "носи",
+   "en": "carries"
+  }
+ ],
+ "performers": [
+  "Димитри Кучков"
+ ],
+ "audio": [
+  {
+   "who": "Димитри Кучков",
+   "url": "https://pesna.org/audio-download/3571"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болен ми лежи Стојан војвода,",
+       "lat": "Bolen mi leži Stojan vojvoda,",
+       "en": "Voivode Stojan lies ill,"
+      },
+      {
+       "cyr": "дејгиди, болен Стојан војводо,",
+       "lat": "dejgidi, bolen Stojan vojvodo,",
+       "en": "alas, ill voivode Stojan,"
+      },
+      {
+       "cyr": "дејгиди, македонски комито.",
+       "lat": "dejgidi, makedonski komito.",
+       "en": "alas, Macedonian komita."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над глава му седи неговата мајка,",
+       "lat": "Nad glava mu sedi negovata majka,",
+       "en": "Over his head sits his mother,"
+      },
+      {
+       "cyr": "дејгиди, болен Стојан војводо,",
+       "lat": "dejgidi, bolen Stojan vojvodo,",
+       "en": "alas, ill voivode Stojan,"
+      },
+      {
+       "cyr": "дејгиди, македонски комито.",
+       "lat": "dejgidi, makedonski komito.",
+       "en": "alas, Macedonian komita."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе да ти носи т'нката пушка,",
+       "lat": "Koj ḱe da ti nosi t'nkata puška,",
+       "en": "Who will carry your thin rifle,"
+      },
+      {
+       "cyr": "дејгиди, болен Стојан војводо,",
+       "lat": "dejgidi, bolen Stojan vojvodo,",
+       "en": "alas, ill voivode Stojan,"
+      },
+      {
+       "cyr": "дејгиди, македонски комито.",
+       "lat": "dejgidi, makedonski komito.",
+       "en": "alas, Macedonian komita."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе да ти носи острата сабја,",
+       "lat": "Koj ḱe da ti nosi ostrata sabja,",
+       "en": "Who will carry your sharp sword,"
+      },
+      {
+       "cyr": "дејгиди, болен Стојан војводо,",
+       "lat": "dejgidi, bolen Stojan vojvodo,",
+       "en": "alas, ill voivode Stojan,"
+      },
+      {
+       "cyr": "дејгиди, македонски комито.",
+       "lat": "dejgidi, makedonski komito.",
+       "en": "alas, Macedonian komita."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека да ги носи тој ајдук Велко,",
+       "lat": "Neka da gi nosi toj ajduk Velko,",
+       "en": "Let that outlaw Velko carry them,"
+      },
+      {
+       "cyr": "зашто е и тој јунак как' мене.",
+       "lat": "zašto e i toj junak kak' mene.",
+       "en": "for he too is a hero like me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

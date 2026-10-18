@@ -1,0 +1,175 @@
+{
+ "id": 1069,
+ "slug": "mi-trgnala-kira",
+ "title_cyr": "Ми тргнала Кира",
+ "title_latin": "Mi trgnala Kira",
+ "title_en": "Kira Set Out",
+ "pesna_url": "https://pesna.org/song/1069",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Не ми чинат' means 'are worth nothing to me'. 'Вез' / 'везани' in stanza three is probably the same as 'везени' (embroidered), my reading. Traditional city song, origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "my dear (Turkish-origin)"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market street"
+  },
+  {
+   "mk": "бендисала",
+   "en": "liked, took a fancy to"
+  },
+  {
+   "mk": "алено",
+   "en": "scarlet"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "срмено",
+   "en": "embroidered with silver/gold thread"
+  },
+  {
+   "mk": "елече",
+   "en": "vest, waistcoat"
+  },
+  {
+   "mk": "гајтани",
+   "en": "braids, cord trim"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "лудо",
+   "en": "lad (also 'rash, foolish')"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2488"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми тргнала Кира, џанам,",
+       "lat": "Mi trgnala Kira, džanam,",
+       "en": "Kira set out, dear,"
+      },
+      {
+       "cyr": "низ Стамбол чаршија,",
+       "lat": "niz Stambol čaršija,",
+       "en": "through the Istanbul bazaar,"
+      },
+      {
+       "cyr": "што видела Кира, џанам,",
+       "lat": "što videla Kira, džanam,",
+       "en": "whatever Kira saw, dear,"
+      },
+      {
+       "cyr": "сè си бендисала!",
+       "lat": "sè si bendisala!",
+       "en": "she liked it all!"
+      },
+      {
+       "cyr": "Алено фустанче, срмено елече,",
+       "lat": "Aleno fustanče, srmeno eleče,",
+       "en": "A scarlet dress, a silver-embroidered vest,"
+      },
+      {
+       "cyr": "везени гајтани, ковано ѓерданче.",
+       "lat": "vezeni gajtani, kovano ǵerdanče.",
+       "en": "embroidered braids, a hammered necklace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми сретнала Кира, џанам,",
+       "lat": "Mi sretnala Kira, džanam,",
+       "en": "Kira met, dear,"
+      },
+      {
+       "cyr": "едно лудо младо,",
+       "lat": "edno ludo mlado,",
+       "en": "a certain young lad,"
+      },
+      {
+       "cyr": "погледнала Кира, џанам,",
+       "lat": "poglednala Kira, džanam,",
+       "en": "Kira looked, dear,"
+      },
+      {
+       "cyr": "него бендисала!",
+       "lat": "nego bendisala!",
+       "en": "and she liked him!"
+      },
+      {
+       "cyr": "Алено фустанче, срмено елече,",
+       "lat": "Aleno fustanče, srmeno eleče,",
+       "en": "A scarlet dress, a silver-embroidered vest,"
+      },
+      {
+       "cyr": "везени гајтани, ковано ѓерданче.",
+       "lat": "vezeni gajtani, kovano ǵerdanče.",
+       "en": "embroidered braids, a hammered necklace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми чинат ни елече,",
+       "lat": "Ne mi činat ni eleče,",
+       "en": "Neither the vest is worth anything to me,"
+      },
+      {
+       "cyr": "везани гајтани,",
+       "lat": "vezani gajtani,",
+       "en": "nor the embroidered braids,"
+      },
+      {
+       "cyr": "твојте црни очи, лудо,",
+       "lat": "tvojte crni oči, ludo,",
+       "en": "only your black eyes, lad,"
+      },
+      {
+       "cyr": "мене сал да гледаат!",
+       "lat": "mene sal da gledaat!",
+       "en": "should look at me!"
+      },
+      {
+       "cyr": "Алено фустанче, срмено елече,",
+       "lat": "Aleno fustanče, srmeno eleče,",
+       "en": "A scarlet dress, a silver-embroidered vest,"
+      },
+      {
+       "cyr": "везени гајтани, ковано ѓерданче.",
+       "lat": "vezeni gajtani, kovano ǵerdanče.",
+       "en": "embroidered braids, a hammered necklace."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

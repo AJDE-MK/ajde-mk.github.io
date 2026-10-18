@@ -1,0 +1,154 @@
+{
+ "id": 66,
+ "slug": "oj-ti-pile",
+ "title_cyr": "Ој ти пиле",
+ "title_latin": "Oj ti pile",
+ "title_en": "Oh, you bird",
+ "pesna_url": "https://pesna.org/song/66",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Дајана Димова",
+  "Јорданка Смилевска",
+  "Костадин Гугов",
+  "Лидија Кочовска",
+  "Марија Димитрова",
+  "Азија Пинчева",
+  "Вања Димитрова",
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Соната Велес"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/174"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1345"
+  },
+  {
+   "who": "Соната Велес",
+   "url": "https://pesna.org/audio-download/1346"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1347"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1348"
+  },
+  {
+   "who": "Лидија Кочовска",
+   "url": "https://pesna.org/audio-download/1349"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/1350"
+  },
+  {
+   "who": "Дајана Димова",
+   "url": "https://pesna.org/audio-download/2507"
+  },
+  {
+   "who": "Марија Димитрова, Азија Пинчева, Вања Димитрова",
+   "url": "https://pesna.org/audio-download/4134"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој ти пиле, славеј пиле,",
+       "lat": "Oj ti pile, slavej pile,",
+       "en": "Oh, you bird, nightingale,"
+      },
+      {
+       "cyr": "ај запеј ми една песна,",
+       "lat": "aj zapej mi edna pesna,",
+       "en": "sing me a song,"
+      },
+      {
+       "cyr": "една песна жаловита.",
+       "lat": "edna pesna žalovita.",
+       "en": "a tragic song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нек' се чуе на далеку,",
+       "lat": "Nek' se čue na daleku,",
+       "en": "May it be heard far away,"
+      },
+      {
+       "cyr": "на далеку преку Вардар,",
+       "lat": "na daleku preku Vardar,",
+       "en": "far away, across the Vardar"
+      },
+      {
+       "cyr": "преку Вардар до Велешко.",
+       "lat": "preku Vardar do Veleško.",
+       "en": "across the Vardar to Veles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Велешко до Прилепско,",
+       "lat": "Od Veleško do Prilepsko,",
+       "en": "From Veles to Prilep,"
+      },
+      {
+       "cyr": "од Прилепско до Крушевско,",
+       "lat": "od Prilepsko do Kruševsko,",
+       "en": "from Prilep to Krushevo,"
+      },
+      {
+       "cyr": "од Крушево - Мечкин Камен.",
+       "lat": "od Kruševo - Mečkin Kamen.",
+       "en": "from Krushevo to Mechkin Kamen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Крушево - Мечкин Камен,",
+       "lat": "Od Kruševo - Mečkin Kamen,",
+       "en": "From Krushevo - Mechkin Kamen"
+      },
+      {
+       "cyr": "там' се бије славен јунак,",
+       "lat": "tam' se bije slaven junak,",
+       "en": "there is fighting a glorious hero,"
+      },
+      {
+       "cyr": "славен јунак Питу Гули,",
+       "lat": "slaven junak Pitu Guli,",
+       "en": "glorious hero Pitu Guli"
+      },
+      {
+       "cyr": "Питу Гули војводата!",
+       "lat": "Pitu Guli vojvodata!",
+       "en": "Pitu Guli, partisan commander!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

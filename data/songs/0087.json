@@ -1,0 +1,119 @@
+{
+ "id": 87,
+ "slug": "ej-ti-nedo-more-bela-nedo",
+ "title_cyr": "Еј ти Недо море, бела Недо",
+ "title_latin": "Ej ti Nedo more, bela Nedo",
+ "title_en": "Hey you, Neda, white Neda",
+ "pesna_url": "https://pesna.org/song/87",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Еј ди' in line 1 I read as 'Еј ти' (hey you). 'лудо' here is an address word, rendered 'my dear' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "поранила",
+   "en": "got up early"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring tap"
+  },
+  {
+   "mk": "мегдан",
+   "en": "village square, open ground"
+  },
+  {
+   "mk": "клети",
+   "en": "cursed, wretched"
+  },
+  {
+   "mk": "омрсиле",
+   "en": "defiled, made unclean"
+  },
+  {
+   "mk": "попрскале",
+   "en": "splashed, sprinkled"
+  },
+  {
+   "mk": "лудо",
+   "en": "dear, my love (address)"
+  },
+  {
+   "mk": "бела",
+   "en": "white, fair"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј ди, Недо мори, бела Недо,",
+       "lat": "Ej di, Nedo mori, bela Nedo,",
+       "en": "Hey you, Neda, hey, white Neda,"
+      },
+      {
+       "cyr": "што си толку Недо поранила?",
+       "lat": "što si tolku Nedo poranila?",
+       "en": "why did you get up so early, Neda?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што си толку Недо поранила?",
+       "lat": "Što si tolku Nedo poranila?",
+       "en": "Why did you get up so early, Neda?"
+      },
+      {
+       "cyr": "Чешма, ли, нема Недо во селото?",
+       "lat": "Češma, li, nema Nedo vo seloto?",
+       "en": "Is there no fountain, Neda, in the village?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Има, има, лудо, как' да нема.",
+       "lat": "Ima, ima, ludo, kak' da nema.",
+       "en": "There is, there is, my dear, how could there not be."
+      },
+      {
+       "cyr": "У селото, лудо, крај мегданот.",
+       "lat": "U seloto, ludo, kraj megdanot.",
+       "en": "In the village, my dear, by the square."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "У селото, лудо, крај мегданот,",
+       "lat": "U seloto, ludo, kraj megdanot,",
+       "en": "In the village, my dear, by the square,"
+      },
+      {
+       "cyr": "клети луѓе, лудо, омрсиле,",
+       "lat": "kleti luǵe, ludo, omrsile,",
+       "en": "cursed people, my dear, defiled it,"
+      },
+      {
+       "cyr": "од дете крв, лудо, попрскале.",
+       "lat": "od dete krv, ludo, poprskale.",
+       "en": "they splashed it with a child's blood, my dear."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

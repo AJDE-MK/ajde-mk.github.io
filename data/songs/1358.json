@@ -1,0 +1,121 @@
+{
+ "id": 1358,
+ "slug": "da-letname-preletname",
+ "title_cyr": "Да летнаме, прелетнаме",
+ "title_latin": "Da letname, preletname",
+ "title_en": "Let us fly, fly away",
+ "pesna_url": "https://pesna.org/song/1358",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме, малко моме,",
+       "lat": "Mori mome, malko mome,",
+       "en": "Hey maiden, young maiden,"
+      },
+      {
+       "cyr": "нели легна, нели заспа.",
+       "lat": "neli legna, neli zaspa.",
+       "en": "did you not lie down, did you not sleep."
+      },
+      {
+       "cyr": "Нели сони сон за мене",
+       "lat": "Neli soni son za mene",
+       "en": "Did you not dream a dream about me,"
+      },
+      {
+       "cyr": "като јазе два за тебе.",
+       "lat": "kato jaze dva za tebe.",
+       "en": "like I dreamt two about you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Та паднаме тува долу,",
+       "lat": "Ta padname tuva dolu,",
+       "en": "We fell there, down below,"
+      },
+      {
+       "cyr": "в' полинските садиштата.",
+       "lat": "v' polinskite sadištata.",
+       "en": "in the field of orchards."
+      },
+      {
+       "cyr": "Ти си падна на маслинка,",
+       "lat": "Ti si padna na maslinka,",
+       "en": "You fell on an olive tree,"
+      },
+      {
+       "cyr": "јас си паднах на калинка.",
+       "lat": "jas si padnah na kalinka.",
+       "en": "I fell on a pomegranate tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Догледа нè падарчето,",
+       "lat": "Dogleda nè padarčeto,",
+       "en": "The orchard keeper saw us,"
+      },
+      {
+       "cyr": "падарчето, коњарчето.",
+       "lat": "padarčeto, konjarčeto.",
+       "en": "the orchard keeper, the horseman."
+      },
+      {
+       "cyr": "Да намери тенка пушка,",
+       "lat": "Da nameri tenka puška,",
+       "en": "He aimed his long rifle,"
+      },
+      {
+       "cyr": "мене удри рудо грло,",
+       "lat": "mene udri rudo grlo,",
+       "en": "he hit me in the young throat,"
+      },
+      {
+       "cyr": "тебе удри десно крило.",
+       "lat": "tebe udri desno krilo.",
+       "en": "he hit you on the right wing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти се чини еребица,",
+       "lat": "Ti se čini erebica,",
+       "en": "You became a partridge,"
+      },
+      {
+       "cyr": "јас се чинам сокол пиле,",
+       "lat": "jas se činam sokol pile,",
+       "en": "I became a young falcon."
+      },
+      {
+       "cyr": "да летнаме, прелетнаме.",
+       "lat": "da letname, preletname.",
+       "en": "Let us fly, fly away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

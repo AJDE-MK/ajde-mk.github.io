@@ -1,0 +1,224 @@
+{
+ "id": 677,
+ "slug": "makedonki-bilbiljanki",
+ "title_cyr": "Македонки билбилјанки",
+ "title_latin": "Makedonki bilbiljanki",
+ "title_en": "Macedonian Women, Basil-Pot Girls",
+ "pesna_url": "https://pesna.org/song/677",
+ "background": "A flirtatious roll-call of Macedonian towns and their girls: Veles the potters, Prilep the tobacco-rollers, Bitola the sweethearts, Ohrid the heart-scarers, Struga the white-and-red. The chorus is the same each time: climb up behind me on the horse and come with me. In each verse the town changes; the verse for your family's town is the one dad pointed at.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: no author I can name. The epithets билбилјанки, стомничарки, љубовџики and плашичарки are guessed (my reading); 'ем црвени' is rendered 'and rosy'.",
+ "words_to_learn": [
+  {
+   "mk": "билбилјанки",
+   "en": "(girls) with basil pots (my reading)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "коњ",
+   "en": "horse"
+  },
+  {
+   "mk": "да се земиме",
+   "en": "let us marry"
+  },
+  {
+   "mk": "стомничарки",
+   "en": "water-jug girls (my reading)"
+  },
+  {
+   "mk": "тутунарки",
+   "en": "tobacco workers (f.)"
+  },
+  {
+   "mk": "љубовџики",
+   "en": "lovers, amorous ones (my reading)"
+  },
+  {
+   "mk": "плашичарки",
+   "en": "shy/bashful ones (my reading)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Биоритам",
+  "Виолета Томовска",
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/118"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/119"
+  },
+  {
+   "who": "Биоритам",
+   "url": "https://pesna.org/audio-download/120"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/4335"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Македонки, билбилјанки,",
+       "lat": "Makedonki, bilbiljanki,",
+       "en": "Macedonian women, basil growers,"
+      },
+      {
+       "cyr": "качи се моме на коња дојди со мене,",
+       "lat": "kači se mome na konja dojdi so mene,",
+       "en": "get on the horse, girl, come with me,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let us two marry,"
+      },
+      {
+       "cyr": "не можам без тебе.",
+       "lat": "ne možam bez tebe.",
+       "en": "I cannot live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Велешанки, стомничарки,",
+       "lat": "Velešanki, stomničarki,",
+       "en": "Women of Veles, water-jug carriers,"
+      },
+      {
+       "cyr": "качи се моме на коња дојди со мене,",
+       "lat": "kači se mome na konja dojdi so mene,",
+       "en": "get on the horse, girl, come with me,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let us two marry,"
+      },
+      {
+       "cyr": "не можам без тебе.",
+       "lat": "ne možam bez tebe.",
+       "en": "I cannot live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прилепчанки, тутунарки,",
+       "lat": "Prilepčanki, tutunarki,",
+       "en": "Women of Prilep, tobacco workers,"
+      },
+      {
+       "cyr": "качи се моме на коња дојди со мене,",
+       "lat": "kači se mome na konja dojdi so mene,",
+       "en": "get on the horse, girl, come with me,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let us two marry,"
+      },
+      {
+       "cyr": "не можам без тебе.",
+       "lat": "ne možam bez tebe.",
+       "en": "I cannot live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битолчанки, љубовџики,",
+       "lat": "Bitolčanki, ljubovdžiki,",
+       "en": "Women of Bitola, lovers,"
+      },
+      {
+       "cyr": "качи се моме на коња дојди со мене,",
+       "lat": "kači se mome na konja dojdi so mene,",
+       "en": "get on the horse, girl, come with me,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let us two marry,"
+      },
+      {
+       "cyr": "не можам без тебе.",
+       "lat": "ne možam bez tebe.",
+       "en": "I cannot live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Охриѓанки, плашичарки,",
+       "lat": "Ohriǵanki, plašičarki,",
+       "en": "Women of Ohrid, bashful ones,"
+      },
+      {
+       "cyr": "качи се моме на коња дојди со мене,",
+       "lat": "kači se mome na konja dojdi so mene,",
+       "en": "get on the horse, girl, come with me,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let us two marry,"
+      },
+      {
+       "cyr": "не можам без тебе.",
+       "lat": "ne možam bez tebe.",
+       "en": "I cannot live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А стружанки бели, ем црвени,",
+       "lat": "A stružanki beli, em crveni,",
+       "en": "And women of Struga, fair and rosy,"
+      },
+      {
+       "cyr": "качи се моме на коња дојди со мене,",
+       "lat": "kači se mome na konja dojdi so mene,",
+       "en": "get on the horse, girl, come with me,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let us two marry,"
+      },
+      {
+       "cyr": "не можам без тебе.",
+       "lat": "ne možam bez tebe.",
+       "en": "I cannot live without you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

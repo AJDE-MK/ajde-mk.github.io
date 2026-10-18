@@ -1,0 +1,150 @@
+{
+ "id": 1080,
+ "slug": "bolno-lezhi-maloj-mome",
+ "title_cyr": "Болно лежи малој моме",
+ "title_latin": "Bolno leži maloj mome",
+ "title_en": "A Young Girl Lies Ill",
+ "pesna_url": "https://pesna.org/song/1080",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'малој моме' I read as 'young girl'; 'лудо' as an endearing 'foolish one'.",
+ "words_to_learn": [
+  {
+   "mk": "болно",
+   "en": "ill, in pain"
+  },
+  {
+   "mk": "лежи",
+   "en": "lies"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "студена вода",
+   "en": "cold water"
+  },
+  {
+   "mk": "напијам",
+   "en": "I drink up"
+  },
+  {
+   "mk": "умрам",
+   "en": "I die"
+  },
+  {
+   "mk": "викни",
+   "en": "call (imperative)"
+  },
+  {
+   "mk": "најпосле",
+   "en": "finally, in the end"
+  }
+ ],
+ "performers": [
+  "Гога Зафировски"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2526"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болно лежи малој моме,",
+       "lat": "Bolno leži maloj mome,",
+       "en": "A young girl lies ill,"
+      },
+      {
+       "cyr": "болно лежи три години,",
+       "lat": "bolno leži tri godini,",
+       "en": "she lies ill for three years,"
+      },
+      {
+       "cyr": "за лудото, лудо-младо.",
+       "lat": "za ludoto, ludo-mlado.",
+       "en": "for her foolish, young sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ѝ вели на мајка е:",
+       "lat": "Pa ì veli na majka e:",
+       "en": "Then she says to her mother:"
+      },
+      {
+       "cyr": "- Ој ти мајко, стара мајчице,",
+       "lat": "- Oj ti majko, stara majčice,",
+       "en": "- Oh you, mother, dear old mother,"
+      },
+      {
+       "cyr": "ај, подај ми студена вода.",
+       "lat": "aj, podaj mi studena voda.",
+       "en": "come, give me cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, подај ми студена вода,",
+       "lat": "Aj, podaj mi studena voda,",
+       "en": "Come, give me cold water,"
+      },
+      {
+       "cyr": "да се напијам, па да умрам.",
+       "lat": "da se napijam, pa da umram.",
+       "en": "so I may drink, and then die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И викни го моето либе,",
+       "lat": "I vikni go moeto libe,",
+       "en": "And call my sweetheart,"
+      },
+      {
+       "cyr": "да го видам, па да умрам.",
+       "lat": "da go vidam, pa da umram.",
+       "en": "so I may see him, and then die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го викнале нејзиното либе,",
+       "lat": "Go viknale nejzinoto libe,",
+       "en": "They called her sweetheart,"
+      },
+      {
+       "cyr": "го видела, го прегрнала",
+       "lat": "go videla, go pregrnala",
+       "en": "she saw him, she embraced him,"
+      },
+      {
+       "cyr": "и најпосле си умрела.",
+       "lat": "i najposle si umrela.",
+       "en": "and in the end she died."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

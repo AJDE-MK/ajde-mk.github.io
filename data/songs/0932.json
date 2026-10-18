@@ -1,0 +1,229 @@
+{
+ "id": 932,
+ "slug": "ozheni-se-mili-sine",
+ "title_cyr": "Ожени се, мили сине",
+ "title_latin": "Oženi se, mili sine",
+ "title_en": "Get Married, Dear Son",
+ "pesna_url": "https://pesna.org/song/932",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; I cannot name an author. The list names women from towns across Macedonia (e.g. стружанка = woman from Struga). 'Дулак' is a bride's veil (source note).",
+ "words_to_learn": [
+  {
+   "mk": "ожени се",
+   "en": "get married (man)"
+  },
+  {
+   "mk": "да одмениш",
+   "en": "to relieve, to take over from"
+  },
+  {
+   "mk": "решив",
+   "en": "I decided"
+  },
+  {
+   "mk": "домаќинка",
+   "en": "housewife, good homemaker"
+  },
+  {
+   "mk": "тапани",
+   "en": "big drums"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "дулак",
+   "en": "bridal veil"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2108"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ожени се, мили сине, ти не чекај,",
+       "lat": "- Oženi se, mili sine, ti ne čekaj,",
+       "en": "- Get married, dear son, do not wait,"
+      },
+      {
+       "cyr": "зошто време, сине, не те чека.",
+       "lat": "zošto vreme, sine, ne te čeka.",
+       "en": "because time, son, does not wait for you."
+      },
+      {
+       "cyr": "Стара мајка, сине, да одмениш",
+       "lat": "Stara majka, sine, da odmeniš",
+       "en": "To relieve your old mother, son,"
+      },
+      {
+       "cyr": "и куќата, сине, да отвориш.",
+       "lat": "i kuḱata, sine, da otvoriš.",
+       "en": "and to open up the house, son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еве мајко, јас се решив",
+       "lat": "- Eve majko, jas se rešiv",
+       "en": "- Here, mother, I have decided"
+      },
+      {
+       "cyr": "да се женам, мајко, да не чекам.",
+       "lat": "da se ženam, majko, da ne čekam.",
+       "en": "to marry, mother, not to wait."
+      },
+      {
+       "cyr": "Туку, се плашам да не згрешам,",
+       "lat": "Tuku, se plašam da ne zgrešam,",
+       "en": "But I fear I may err,"
+      },
+      {
+       "cyr": "од кај мома, мајко, јас да земам?",
+       "lat": "od kaj moma, majko, jas da zemam?",
+       "en": "from where, mother, shall I take a girl?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали стружанка, или охриѓанка,",
+       "lat": "Dali stružanka, ili ohriǵanka,",
+       "en": "Shall she be from Struga, or from Ohrid,"
+      },
+      {
+       "cyr": "дали ресенчанка, или битолчанка?",
+       "lat": "dali resenčanka, ili bitolčanka?",
+       "en": "from Resen, or from Bitola?"
+      },
+      {
+       "cyr": "Дали прилепчанка, или тиквешанка,",
+       "lat": "Dali prilepčanka, ili tikvešanka,",
+       "en": "From Prilep, or from Tikveš,"
+      },
+      {
+       "cyr": "дали струмичанка, или штипјанка?",
+       "lat": "dali strumičanka, ili štipjanka?",
+       "en": "from Strumica, or from Štip?"
+      },
+      {
+       "cyr": "Дали кочанчанка, или велешанка,",
+       "lat": "Dali kočančanka, ili velešanka,",
+       "en": "From Kočani, or from Veles,"
+      },
+      {
+       "cyr": "дали дебарчанка, или кичевчанка?",
+       "lat": "dali debarčanka, ili kičevčanka?",
+       "en": "from Debar, or from Kičevo?"
+      },
+      {
+       "cyr": "Дали гостиварка, или тетовчанка,",
+       "lat": "Dali gostivarka, ili tetovčanka,",
+       "en": "From Gostivar, or from Tetovo,"
+      },
+      {
+       "cyr": "дали кумановка, или скопјанка?",
+       "lat": "dali kumanovka, ili skopjanka?",
+       "en": "from Kumanovo, or from Skopje?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нека биде, сине, од кај сакаш,",
+       "lat": "- Neka bide, sine, od kaj sakaš,",
+       "en": "- Let her be, son, from wherever you like,"
+      },
+      {
+       "cyr": "само да биде, сине, домаќинка.",
+       "lat": "samo da bide, sine, domaḱinka.",
+       "en": "only let her be, son, a good housewife."
+      },
+      {
+       "cyr": "Стара мајка, сине, да одмени",
+       "lat": "Stara majka, sine, da odmeni",
+       "en": "To relieve your old mother, son,"
+      },
+      {
+       "cyr": "и куќата, сине, да развесели.",
+       "lat": "i kuḱata, sine, da razveseli.",
+       "en": "and to cheer up the house, son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека тропнат тапаните,",
+       "lat": "Neka tropnat tapanite,",
+       "en": "Let the drums sound,"
+      },
+      {
+       "cyr": "нека се зберат сватовите.",
+       "lat": "neka se zberat svatovite.",
+       "en": "let the wedding guests gather."
+      },
+      {
+       "cyr": "Оро, мили сине, да поведам",
+       "lat": "Oro, mili sine, da povedam",
+       "en": "I will lead the dance, dear son,"
+      },
+      {
+       "cyr": "и невеста, сине, да пречекам.",
+       "lat": "i nevesta, sine, da prečekam.",
+       "en": "and welcome the bride, son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свилен дулак да ѝ извадам,",
+       "lat": "Svilen dulak da ì izvadam,",
+       "en": "I will take out a silk veil for her,"
+      },
+      {
+       "cyr": "да ми бакне, сине, десна рака.",
+       "lat": "da mi bakne, sine, desna raka.",
+       "en": "so she may kiss my right hand."
+      },
+      {
+       "cyr": "Да ми бакне десна рака",
+       "lat": "Da mi bakne desna raka",
+       "en": "So she may kiss my right hand"
+      },
+      {
+       "cyr": "и да умрам, сине, да не жалам.",
+       "lat": "i da umram, sine, da ne žalam.",
+       "en": "and I may die, son, without regret."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

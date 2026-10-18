@@ -1,0 +1,194 @@
+{
+ "id": 457,
+ "slug": "sestra-moli-brata-za-vechera",
+ "title_cyr": "Сестра моли брата за вечера",
+ "title_latin": "Sestra moli brata za večera",
+ "title_en": "The Sister Begs Her Brother to Have Supper",
+ "pesna_url": "https://pesna.org/song/457",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The verb forms in -ло (јало, пило, заклало) are dialect past forms with the speaker as 'I'. 'Сестра има брате девет сина' is my reading: the sister has nine sons and the mother gives one up.",
+ "words_to_learn": [
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "се опило",
+   "en": "I got drunk (dialect neuter form)"
+  },
+  {
+   "mk": "зулум",
+   "en": "wrong, violence, outrage"
+  },
+  {
+   "mk": "заклало",
+   "en": "I slaughtered (dialect neuter form)"
+  },
+  {
+   "mk": "крвнина",
+   "en": "blood money"
+  },
+  {
+   "mk": "колај",
+   "en": "easy"
+  },
+  {
+   "mk": "прежали",
+   "en": "give up, get over the loss of"
+  },
+  {
+   "mk": "роним солзи",
+   "en": "I shed tears"
+  },
+  {
+   "mk": "најмалото",
+   "en": "the youngest"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Сашко Савески",
+  "Славе Велјановски"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/971"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/972"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/973"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/974"
+  },
+  {
+   "who": "Сашко Савески",
+   "url": "https://pesna.org/audio-download/975"
+  },
+  {
+   "who": "Славе Велјановски",
+   "url": "https://pesna.org/audio-download/976"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сестра моли брата за вечера",
+       "lat": "Sestra moli brata za večera",
+       "en": "The sister begs her brother to have supper,"
+      },
+      {
+       "cyr": "ајде, ајде брате да вечераме.",
+       "lat": "ajde, ajde brate da večerame.",
+       "en": "come, come, brother, let us have supper."
+      },
+      {
+       "cyr": "Вечерајте сестро не чекајте ме",
+       "lat": "Večerajte sestro ne čekajte me",
+       "en": "Eat, sister, do not wait for me,"
+      },
+      {
+       "cyr": "јас сум било сестро у меана.",
+       "lat": "jas sum bilo sestro u meana.",
+       "en": "I have been, sister, in the tavern."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јало, пило сестро, сум се опило",
+       "lat": "Jalo, pilo sestro, sum se opilo",
+       "en": "I ate, I drank, sister, I got drunk,"
+      },
+      {
+       "cyr": "голем зулум сестро сум направило.",
+       "lat": "golem zulum sestro sum napravilo.",
+       "en": "I did a great wrong, sister."
+      },
+      {
+       "cyr": "Сум заклало еден син на мајка",
+       "lat": "Sum zaklalo eden sin na majka",
+       "en": "I slaughtered a mother's son,"
+      },
+      {
+       "cyr": "сега они барат крвнината.",
+       "lat": "sega oni barat krvninata.",
+       "en": "now they demand the blood money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, ајде брате да вечераме,",
+       "lat": "Ajde, ajde brate da večerame,",
+       "en": "Come, come, brother, let us have supper,"
+      },
+      {
+       "cyr": "за крвнина брате колај бива.",
+       "lat": "za krvnina brate kolaj biva.",
+       "en": "for blood money, brother, it is easy."
+      },
+      {
+       "cyr": "Сестра има брате девет сина,",
+       "lat": "Sestra ima brate devet sina,",
+       "en": "Sister has, brother, nine sons,"
+      },
+      {
+       "cyr": "едно сине мајка ќе прежали.",
+       "lat": "edno sine majka ḱe prežali.",
+       "en": "a mother will give up one son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цел' ноќ седи мајка, солзи рони",
+       "lat": "Cel' noḱ sedi majka, solzi roni",
+       "en": "All night the mother sits, shedding tears,"
+      },
+      {
+       "cyr": "кое сине мајка да прежали.",
+       "lat": "koe sine majka da prežali.",
+       "en": "which son should the mother give up."
+      },
+      {
+       "cyr": "Прежалила мајка најмалото,",
+       "lat": "Prežalila majka najmaloto,",
+       "en": "The mother gave up the youngest,"
+      },
+      {
+       "cyr": "најмалото, мајка, најубавото.",
+       "lat": "najmaloto, majka, najubavoto.",
+       "en": "the youngest, mother, the most handsome."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

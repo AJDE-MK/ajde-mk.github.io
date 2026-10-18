@@ -1,0 +1,112 @@
+{
+ "id": 1430,
+ "slug": "velja-i-veljo",
+ "title_cyr": "Веља и Вељо",
+ "title_latin": "Velja i Veljo",
+ "title_en": "Velja and Veljo",
+ "pesna_url": "https://pesna.org/song/1430",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Одит Веља на вода:",
+       "lat": "Odit Velja na voda:",
+       "en": "Velja is going for water:"
+      },
+      {
+       "cyr": "- Ај ти Вељо, Вељушо,",
+       "lat": "- Aj ti Veljo, Veljušo,",
+       "en": "- Hey you Velja, Veljusha,"
+      },
+      {
+       "cyr": "Веље пушти коњите,",
+       "lat": "Velje pušti konjite,",
+       "en": "Velje let go of the horses,"
+      },
+      {
+       "cyr": "та е скрши стомните.",
+       "lat": "ta e skrši stomnite.",
+       "en": "They broke the pitchers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седна Веља да плачит,",
+       "lat": "Sedna Velja da plačit,",
+       "en": "Velja sat down and cried,"
+      },
+      {
+       "cyr": "Веље ми ја палтеше:",
+       "lat": "Velje mi ja palteše:",
+       "en": "Velje consoled her:"
+      },
+      {
+       "cyr": "- Молчи Вељо, не плачи,",
+       "lat": "- Molči Veljo, ne plači,",
+       "en": "- Calm down Velja, don’t cry,"
+      },
+      {
+       "cyr": "ќе ти купам стомните,",
+       "lat": "ḱe ti kupam stomnite,",
+       "en": "I will buy you pitchers,"
+      },
+      {
+       "cyr": "денеска е сабота,",
+       "lat": "deneska e sabota,",
+       "en": "today is Saturday,"
+      },
+      {
+       "cyr": "утре ми е недела.",
+       "lat": "utre mi e nedela.",
+       "en": "tomorrow is Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Утре ми е недела,",
+       "lat": "Utre mi e nedela,",
+       "en": "Tomorrow is Sunday,"
+      },
+      {
+       "cyr": "јас ќе одам на пазар,",
+       "lat": "jas ḱe odam na pazar,",
+       "en": "I will go to the bazaar,"
+      },
+      {
+       "cyr": "ќе ти купам две стомни.",
+       "lat": "ḱe ti kupam dve stomni.",
+       "en": "I will buy you two pitchers."
+      },
+      {
+       "cyr": "Тие бе’а земени,",
+       "lat": "Tie be’a zemeni,",
+       "en": "If they are all taken"
+      },
+      {
+       "cyr": "ќе ти купам стребрени!",
+       "lat": "ḱe ti kupam strebreni!",
+       "en": "I will buy you silver ones!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

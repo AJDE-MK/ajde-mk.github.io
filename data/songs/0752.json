@@ -1,0 +1,257 @@
+{
+ "id": 752,
+ "slug": "zapejte-pesna-drugari",
+ "title_cyr": "Запејте песна другари",
+ "title_latin": "Zapejte pesna drugari",
+ "title_en": "Sing a Song, Friends",
+ "pesna_url": "https://pesna.org/song/752",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Tavern song, origin unclear, no author I can name. 'Затворете ладна меана / свири ја само нашата' is my reading: close the cold tavern (to outsiders) and play only our own song.",
+ "words_to_learn": [
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "завиди",
+   "en": "will envy"
+  },
+  {
+   "mk": "грижи",
+   "en": "worries"
+  },
+  {
+   "mk": "мерак",
+   "en": "good cheer, pleasure"
+  },
+  {
+   "mk": "бекриска песна",
+   "en": "bohemian/carousing song"
+  },
+  {
+   "mk": "судбина",
+   "en": "fate"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "чаша",
+   "en": "glass"
+  },
+  {
+   "mk": "вратата",
+   "en": "the door"
+  }
+ ],
+ "performers": [
+  "Боеми"
+ ],
+ "audio": [
+  {
+   "who": "Боеми",
+   "url": "https://pesna.org/audio-download/1097"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ноќта се гушка со зората",
+       "lat": "Noḱta se guška so zorata",
+       "en": "The night cuddles with the dawn"
+      },
+      {
+       "cyr": "ние вино уште пиеме.",
+       "lat": "nie vino ušte pieme.",
+       "en": "we are still drinking wine."
+      },
+      {
+       "cyr": "Кој ќе не види, ќе завиди",
+       "lat": "Koj ḱe ne vidi, ḱe zavidi",
+       "en": "Whoever sees us will envy us"
+      },
+      {
+       "cyr": "ќе се празнат сите улици.",
+       "lat": "ḱe se praznat site ulici.",
+       "en": "all the streets will empty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Остави грижи ти пред вратата",
+       "lat": "Ostavi griži ti pred vratata",
+       "en": "Leave your worries before the door,"
+      },
+      {
+       "cyr": "тука важат само мераци.",
+       "lat": "tuka važat samo meraci.",
+       "en": "here only good cheer counts."
+      },
+      {
+       "cyr": "Остави грижи ти пред вратата",
+       "lat": "Ostavi griži ti pred vratata",
+       "en": "Leave your worries before the door,"
+      },
+      {
+       "cyr": "тука важат само мераци.",
+       "lat": "tuka važat samo meraci.",
+       "en": "here only good cheer counts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Отворете душа другари,",
+       "lat": "Otvorete duša drugari,",
+       "en": "Open your soul, friends,"
+      },
+      {
+       "cyr": "викнете песна бекриска",
+       "lat": "viknete pesna bekriska",
+       "en": "call out a bohemian song"
+      },
+      {
+       "cyr": "само вино е вистината",
+       "lat": "samo vino e vistinata",
+       "en": "only wine is the truth"
+      },
+      {
+       "cyr": "што ни може нас судбината?",
+       "lat": "što ni može nas sudbinata?",
+       "en": "what can fate do to us?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затворете ладна меана",
+       "lat": "Zatvorete ladna meana",
+       "en": "Close the cold tavern"
+      },
+      {
+       "cyr": "свири ја само нашата",
+       "lat": "sviri ja samo našata",
+       "en": "play only ours,"
+      },
+      {
+       "cyr": "тој што не сака да биде сам",
+       "lat": "toj što ne saka da bide sam",
+       "en": "he who does not want to be alone"
+      },
+      {
+       "cyr": "бара другар и во чашата.",
+       "lat": "bara drugar i vo čašata.",
+       "en": "seeks a friend even in the glass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што треба боже да платиме,",
+       "lat": "Što treba bože da platime,",
+       "en": "What must we pay, God,"
+      },
+      {
+       "cyr": "тука вечно да останеме?",
+       "lat": "tuka večno da ostaneme?",
+       "en": "to stay here forever?"
+      },
+      {
+       "cyr": "Кој ќе не види ќе завиди",
+       "lat": "Koj ḱe ne vidi ḱe zavidi",
+       "en": "Whoever sees us will envy us"
+      },
+      {
+       "cyr": "тука важат само мераци.",
+       "lat": "tuka važat samo meraci.",
+       "en": "here only good cheer counts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Остави грижи ти пред вратата",
+       "lat": "Ostavi griži ti pred vratata",
+       "en": "Leave your worries before the door,"
+      },
+      {
+       "cyr": "тука важат само мераци.",
+       "lat": "tuka važat samo meraci.",
+       "en": "here only good cheer counts."
+      },
+      {
+       "cyr": "Отворете душа другари,",
+       "lat": "Otvorete duša drugari,",
+       "en": "Open your soul, friends,"
+      },
+      {
+       "cyr": "викнете песна бекриска,",
+       "lat": "viknete pesna bekriska,",
+       "en": "call out a bohemian song,"
+      },
+      {
+       "cyr": "само вино е вистината",
+       "lat": "samo vino e vistinata",
+       "en": "only wine is the truth"
+      },
+      {
+       "cyr": "што ни може нас судбината?",
+       "lat": "što ni može nas sudbinata?",
+       "en": "what can fate do to us?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затворете ладна меана",
+       "lat": "Zatvorete ladna meana",
+       "en": "Close the cold tavern"
+      },
+      {
+       "cyr": "свири ја само нашата",
+       "lat": "sviri ja samo našata",
+       "en": "play only ours,"
+      },
+      {
+       "cyr": "тој што не сака да биде сам",
+       "lat": "toj što ne saka da bide sam",
+       "en": "he who does not want to be alone"
+      },
+      {
+       "cyr": "бара другар и во чашата.",
+       "lat": "bara drugar i vo čašata.",
+       "en": "seeks a friend even in the glass."
+      },
+      {
+       "cyr": "Тој што не сака да биде сам",
+       "lat": "Toj što ne saka da bide sam",
+       "en": "He who does not want to be alone"
+      },
+      {
+       "cyr": "бара другар и во чашата.",
+       "lat": "bara drugar i vo čašata.",
+       "en": "seeks a friend even in the glass."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

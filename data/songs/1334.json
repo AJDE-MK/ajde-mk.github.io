@@ -1,0 +1,133 @@
+{
+ "id": 1334,
+ "slug": "gjurgjovden",
+ "title_cyr": "Ѓурѓовден",
+ "title_latin": "Ǵurǵovden",
+ "title_en": "Saint George's Day",
+ "pesna_url": "https://pesna.org/song/1334",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Крла' (swings) and 'пули' (watches) are my reading; 'ѓурѓеле' is a refrain word I am unsure of. Ritual swing song for Gjurgjovden, as the notes say.",
+ "words_to_learn": [
+  {
+   "mk": "Ѓурѓовден",
+   "en": "Saint George's Day (6 May)"
+  },
+  {
+   "mk": "ѓурѓеле",
+   "en": "refrain word tied to Gjurgjovden (a swing/ritual call)"
+  },
+  {
+   "mk": "крла",
+   "en": "swings (my reading, dialect)"
+  },
+  {
+   "mk": "кротком",
+   "en": "gently, softly"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "каменливо",
+   "en": "stony"
+  },
+  {
+   "mk": "ластар",
+   "en": "young shoot, sprout (endearment)"
+  },
+  {
+   "mk": "раци",
+   "en": "arms, hands (dialect)"
+  },
+  {
+   "mk": "пули",
+   "en": "stares, watches (my reading)"
+  }
+ ],
+ "performers": [
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3425"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цвета се крла а ѓурѓеле,",
+       "lat": "Cveta se krla a ǵurǵele,",
+       "en": "Tsveta is swinging, oh gjurgjele,"
+      },
+      {
+       "cyr": "Доне га пули:",
+       "lat": "Done ga puli:",
+       "en": "Done is watching her:"
+      },
+      {
+       "cyr": "- Кротком крлајте а ѓурѓеле",
+       "lat": "- Krotkom krlajte a ǵurǵele",
+       "en": "- Swing gently, oh gjurgjele,"
+      },
+      {
+       "cyr": "моето либе",
+       "lat": "moeto libe",
+       "en": "my love"
+      },
+      {
+       "cyr": "да не ми падни а ѓурѓеле",
+       "lat": "da ne mi padni a ǵurǵele",
+       "en": "so she does not fall, oh gjurgjele,"
+      },
+      {
+       "cyr": "да не се удри.",
+       "lat": "da ne se udri.",
+       "en": "so she does not hurt herself."
+      },
+      {
+       "cyr": "Местото ѝ е каменливо",
+       "lat": "Mestoto ì e kamenlivo",
+       "en": "The place is stony,"
+      },
+      {
+       "cyr": "кротком крлајте",
+       "lat": "krotkom krlajte",
+       "en": "swing gently,"
+      },
+      {
+       "cyr": "и ако падниш, ластар Цвето",
+       "lat": "i ako padniš, lastar Cveto",
+       "en": "and if you fall, young shoot Tsveta,"
+      },
+      {
+       "cyr": "Доне те чека,",
+       "lat": "Done te čeka,",
+       "en": "Done is waiting for you,"
+      },
+      {
+       "cyr": "Доне те чека, ластар Цвето",
+       "lat": "Done te čeka, lastar Cveto",
+       "en": "Done is waiting for you, young shoot Tsveta,"
+      },
+      {
+       "cyr": "ву бели раци.",
+       "lat": "vu beli raci.",
+       "en": "in his white arms."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

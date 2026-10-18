@@ -1,0 +1,161 @@
+{
+ "id": 154,
+ "slug": "more-dosta-ode-dosta-sheta",
+ "title_cyr": "Море доста оде, доста шета",
+ "title_latin": "More dosta ode, dosta šeta",
+ "title_en": "Hey, He Has Gone and Wandered Enough",
+ "pesna_url": "https://pesna.org/song/154",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Џан Софијо' (also 'Софилој') is read as an endearment plus the name Sofia. 'Бело ле, без белило' is a refrain I am not sure of (my reading: 'white one, without whitener').",
+ "words_to_learn": [
+  {
+   "mk": "шета",
+   "en": "wanders, strolls"
+  },
+  {
+   "mk": "момчиња",
+   "en": "lads"
+  },
+  {
+   "mk": "оженати",
+   "en": "married (of men)"
+  },
+  {
+   "mk": "невести",
+   "en": "brides, young wives"
+  },
+  {
+   "mk": "посвршени",
+   "en": "engaged"
+  },
+  {
+   "mk": "прстени",
+   "en": "rings"
+  },
+  {
+   "mk": "си вратије",
+   "en": "they returned (dialect)"
+  },
+  {
+   "mk": "шо",
+   "en": "who, that (dialect)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1163"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море доста оде, доста шета,",
+       "lat": "More dosta ode, dosta šeta,",
+       "en": "Hey, he has gone enough, wandered enough,"
+      },
+      {
+       "cyr": "Џан Софијо моме.",
+       "lat": "Džan Sofijo mome.",
+       "en": "dear Jan Sofia, girl."
+      },
+      {
+       "cyr": "Море доста ода, момчињата,",
+       "lat": "More dosta oda, momčinjata,",
+       "en": "Hey, the lads have gone enough,"
+      },
+      {
+       "cyr": "бело ле, без белило.",
+       "lat": "belo le, bez belilo.",
+       "en": "white one, without whitening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море тие шо се оженати,",
+       "lat": "More tie šo se oženati,",
+       "en": "Hey, those who are married,"
+      },
+      {
+       "cyr": "Џан Софијој моме.",
+       "lat": "Džan Sofijoj mome.",
+       "en": "dear Jan Sofia, girl,"
+      },
+      {
+       "cyr": "Море оставије невестите,",
+       "lat": "More ostavije nevestite,",
+       "en": "hey, they left their brides,"
+      },
+      {
+       "cyr": "бело ле, без белило.",
+       "lat": "belo le, bez belilo.",
+       "en": "white one, without whitening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море оставије невестите,",
+       "lat": "More ostavije nevestite,",
+       "en": "Hey, they left their brides,"
+      },
+      {
+       "cyr": "Џан Софилој моме.",
+       "lat": "Džan Sofiloj mome.",
+       "en": "dear Jan Sofia, girl,"
+      },
+      {
+       "cyr": "Море сосе нихни мошки деца,",
+       "lat": "More sose nihni moški deca,",
+       "en": "hey, together with their male children,"
+      },
+      {
+       "cyr": "бело ле, без белило.",
+       "lat": "belo le, bez belilo.",
+       "en": "white one, without whitening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море тије шо се посвршени,",
+       "lat": "More tije šo se posvršeni,",
+       "en": "Hey, those who are engaged,"
+      },
+      {
+       "cyr": "Џан Софијо моме.",
+       "lat": "Džan Sofijo mome.",
+       "en": "dear Jan Sofia, girl,"
+      },
+      {
+       "cyr": "Море си вратије прстените,",
+       "lat": "More si vratije prstenite,",
+       "en": "hey, they returned the rings,"
+      },
+      {
+       "cyr": "бело ле, без белило.",
+       "lat": "belo le, bez belilo.",
+       "en": "white one, without whitening."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

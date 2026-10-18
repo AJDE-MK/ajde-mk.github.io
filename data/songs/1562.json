@@ -1,0 +1,91 @@
+{
+ "id": 1562,
+ "slug": "proshetala-je-bogorodica",
+ "title_cyr": "Прошетала је Богородица",
+ "title_latin": "Prošetala je Bogorodica",
+ "title_en": "The Virgin Mary walked",
+ "pesna_url": "https://pesna.org/song/1562",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Костурчанки"
+ ],
+ "audio": [
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/4086"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Прошетала је Богородица",
+       "lat": "Prošetala je Bogorodica",
+       "en": "The Virgin Mary walked"
+      },
+      {
+       "cyr": "по лепи нивја, по лепи лозја.",
+       "lat": "po lepi nivja, po lepi lozja.",
+       "en": "through beautiful fields, through beautiful vineyards."
+      },
+      {
+       "cyr": "Свите ми нивја простум станаје,",
+       "lat": "Svite mi nivja prostum stanaje,",
+       "en": "All the fields stood up straight,"
+      },
+      {
+       "cyr": "простум станаје, се покланаје.",
+       "lat": "prostum stanaje, se poklanaje.",
+       "en": "stood up straight and bowed down."
+      },
+      {
+       "cyr": "Проклети *уров ни простум стана,",
+       "lat": "Prokleti *urov ni prostum stana,",
+       "en": "The cursed ervil neither stood up straight,"
+      },
+      {
+       "cyr": "ни простум стана, ни се поклана.",
+       "lat": "ni prostum stana, ni se poklana.",
+       "en": "neither stood up straight, nor bowed down."
+      },
+      {
+       "cyr": "Ми го зак'лна Богородица:",
+       "lat": "Mi go zak'lna Bogorodica:",
+       "en": "The Virgin Mary cursed it:"
+      },
+      {
+       "cyr": "- Ај уров, уров, проклети уров,",
+       "lat": "- Aj urov, urov, prokleti urov,",
+       "en": "- Hey ervil, ervil, cursed ervil,"
+      },
+      {
+       "cyr": "род да ми родиш, род да ми родиш,",
+       "lat": "rod da mi rodiš, rod da mi rodiš,",
+       "en": "may you bear fruit, may you bear fruit,"
+      },
+      {
+       "cyr": "а во *литурја да не ми влезиш,",
+       "lat": "a vo *liturja da ne mi vleziš,",
+       "en": "but never enter the liturgy,"
+      },
+      {
+       "cyr": "*ајван и правта да ми те јаде.",
+       "lat": "*ajvan i pravta da mi te jade.",
+       "en": "may animals and dust eat you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

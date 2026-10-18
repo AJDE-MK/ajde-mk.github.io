@@ -1,0 +1,272 @@
+{
+ "id": 780,
+ "slug": "razbolel-mi-se-levendi-gjuro",
+ "title_cyr": "Разболел ми се левенди Ѓуро",
+ "title_latin": "Razbolel mi se levendi Ǵuro",
+ "title_en": "The hero Gjuro fell sick",
+ "pesna_url": "https://pesna.org/song/780",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Анастасиа Митровска",
+  "Мандолински оркестар на Рамадан Шукри",
+  "Наум Петрески",
+  "Оркестар на Златко Миладиноски"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1373"
+  },
+  {
+   "who": "Александар Сариевски, Мандолински оркестар на Рамадан Шукри",
+   "url": "https://pesna.org/audio-download/3715"
+  },
+  {
+   "who": "Анастасиа Митровска, Оркестар на Златко Миладиноски",
+   "url": "https://pesna.org/audio-download/3716"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Разболел ми се левенди Ѓуро,",
+       "lat": "Razbolel mi se levendi Ǵuro,",
+       "en": "The hero Gjuro fell sick,"
+      },
+      {
+       "cyr": "разболел ми се, в Бистра планина,",
+       "lat": "razbolel mi se, v Bistra planina,",
+       "en": "he fell sick, in the Bistra mountain,"
+      },
+      {
+       "cyr": "на бачилото Солумуница.",
+       "lat": "na bačiloto Solumunica.",
+       "en": "at the sheep pen Solumunica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, ти бре брате, брате Стојане,",
+       "lat": "Oj, ti bre brate, brate Stojane,",
+       "en": "Hey you, brother Stojan,"
+      },
+      {
+       "cyr": "јавни си коња, коња дорија,",
+       "lat": "javni si konja, konja dorija,",
+       "en": "mount your horse, dark red horse,"
+      },
+      {
+       "cyr": "слези си долу, Солунско поле.",
+       "lat": "slezi si dolu, Solunsko pole.",
+       "en": "and go down to the field of Solun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Солунско поле, овча наија,",
+       "lat": "Solunsko pole, ovča naija,",
+       "en": "Field of Solun, sheep district,"
+      },
+      {
+       "cyr": "овча наија, село Панонија",
+       "lat": "ovča naija, selo Panonija",
+       "en": "sheep district, village of Panonija"
+      },
+      {
+       "cyr": "и да ја викнеш, сестра Марија.",
+       "lat": "i da ja vikneš, sestra Marija.",
+       "en": "and call my sister Marija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Послуша Стојан, брата си Ѓуро",
+       "lat": "Posluša Stojan, brata si Ǵuro",
+       "en": "Stojan obeyed his brother Gjuro"
+      },
+      {
+       "cyr": "и ми отиде Солунско поле",
+       "lat": "i mi otide Solunsko pole",
+       "en": "and went down to the field of Solun"
+      },
+      {
+       "cyr": "за да ја викне сестра Марија.",
+       "lat": "za da ja vikne sestra Marija.",
+       "en": "to call his sister Marija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Готви се, сестро, на свадба да одиш,",
+       "lat": "Gotvi se, sestro, na svadba da odiš,",
+       "en": "Prepare, my sister, to go to a wedding,"
+      },
+      {
+       "cyr": "ќа ми се женит братот ми Ѓуро,",
+       "lat": "ḱa mi se ženit bratot mi Ǵuro,",
+       "en": "our brother Gjuro will get married,"
+      },
+      {
+       "cyr": "ќа ми се женит братот ми Ѓуро.",
+       "lat": "ḱa mi se ženit bratot mi Ǵuro.",
+       "en": "our brother Gjuro will get married."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ти бре, брате, брате Стојане,",
+       "lat": "Ej, ti bre, brate, brate Stojane,",
+       "en": "Hey you brother, brother Stojan,"
+      },
+      {
+       "cyr": "дал' да облечам руво радосно,",
+       "lat": "dal' da oblečam ruvo radosno,",
+       "en": "should I wear clothes of joy,"
+      },
+      {
+       "cyr": "ил' да облечам руво жалосно?",
+       "lat": "il' da oblečam ruvo žalosno?",
+       "en": "or should I wear clothes of sorrow?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога втасаје Каленберица,",
+       "lat": "Koga vtasaje Kalenberica,",
+       "en": "When they came to Kalenberica,"
+      },
+      {
+       "cyr": "го праша Стојан, сестра Марија:",
+       "lat": "go praša Stojan, sestra Marija:",
+       "en": "sister Marija asked Stojan:"
+      },
+      {
+       "cyr": "- Зашчо пилиња жалосно пеет?",
+       "lat": "- Zaščo pilinja žalosno peet?",
+       "en": "- Why are the birds singing sad songs?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овдека имат секакво пиле,",
+       "lat": "Ovdeka imat sekakvo pile,",
+       "en": "Here we have all sorts of birds,"
+      },
+      {
+       "cyr": "затеа o слушаш жалосни песни,",
+       "lat": "zatea o slušaš žalosni pesni,",
+       "en": "and that's why you hear some sad songs,"
+      },
+      {
+       "cyr": "затеа o слушаш жалосни песни.",
+       "lat": "zatea o slušaš žalosni pesni.",
+       "en": "and that's why you hear some sad songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога втасаје Бистра планина:",
+       "lat": "Koga vtasaje Bistra planina:",
+       "en": "When they came to Bistra mountain:"
+      },
+      {
+       "cyr": "- Зашчо мирисат темјановина,",
+       "lat": "- Zaščo mirisat temjanovina,",
+       "en": "- Why does it smell like incense,"
+      },
+      {
+       "cyr": "да не е умрел братот ми Ѓуро?",
+       "lat": "da ne e umrel bratot mi Ǵuro?",
+       "en": "is my brother Gjuro dead?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овде ми растет секакво цвеќе,",
+       "lat": "Ovde mi rastet sekakvo cveḱe,",
+       "en": "Here we have all sorts of flowers,"
+      },
+      {
+       "cyr": "затеа мирисат темјановина,",
+       "lat": "zatea mirisat temjanovina,",
+       "en": "and that's why you think you smell incense,"
+      },
+      {
+       "cyr": "затеа мирисат темјановина.",
+       "lat": "zatea mirisat temjanovina.",
+       "en": "and that's why you think you smell incense."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога втасаје река Бистрица,",
+       "lat": "Koga vtasaje reka Bistrica,",
+       "en": "When they came to river Bistrica,"
+      },
+      {
+       "cyr": "на бачилото Солумуница:",
+       "lat": "na bačiloto Solumunica:",
+       "en": "at the sheep pen Solumnica:"
+      },
+      {
+       "cyr": "- Зашчо се збрале купче овчари?",
+       "lat": "- Zaščo se zbrale kupče ovčari?",
+       "en": "- Why are there gathered so much shepherds?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не го носет братот ми Ѓуро?",
+       "lat": "Da ne go noset bratot mi Ǵuro?",
+       "en": "Are they carrying my brother Gjuro?"
+      },
+      {
+       "cyr": "Не ми го носет левенди Ѓуро,",
+       "lat": "Ne mi go noset levendi Ǵuro,",
+       "en": "- They are not carrying the hero Gjuro,"
+      },
+      {
+       "cyr": "туку го женет за црна земја!",
+       "lat": "tuku go ženet za crna zemja!",
+       "en": "they are marrying him to the black earth!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

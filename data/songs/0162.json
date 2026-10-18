@@ -1,0 +1,197 @@
+{
+ "id": 162,
+ "slug": "filizoj-mome-filizo",
+ "title_cyr": "Филизој моме, Филизо",
+ "title_latin": "Filizoj mome, Filizo",
+ "title_en": "Young Maiden",
+ "pesna_url": "https://pesna.org/song/162",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Војо Стојановски",
+  "Душко Георгиевски",
+  "Јордан Митев",
+  "Монистра",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/108"
+  },
+  {
+   "who": "Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/2092"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2093"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2094"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/2434"
+  },
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/2535"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Филизој моме, Филизо",
+       "lat": "Filizoj mome, Filizo",
+       "en": "Young maiden, Filizo,",
+       "en_mt": true
+      },
+      {
+       "cyr": "малој моме,",
+       "lat": "maloj mome,",
+       "en": "little maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "излези на пенџерето, ај",
+       "lat": "izlezi na pendžereto, aj",
+       "en": "look out the window",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ти го видам лицето.",
+       "lat": "da ti go vidam liceto.",
+       "en": "so that I can see your face.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти го видам лицето,",
+       "lat": "Da ti go vidam liceto,",
+       "en": "So that I can see your face,",
+       "en_mt": false
+      },
+      {
+       "cyr": "малој моме,",
+       "lat": "maloj mome,",
+       "en": "little maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што лице носиш на тебе, ај",
+       "lat": "što lice nosiš na tebe, aj",
+       "en": "to check if your face",
+       "en_mt": false
+      },
+      {
+       "cyr": "дали прилега за мене.",
+       "lat": "dali prilega za mene.",
+       "en": "suits me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На слика да го сликувам,",
+       "lat": "Na slika da go slikuvam,",
+       "en": "To draw it in a picture",
+       "en_mt": false
+      },
+      {
+       "cyr": "малој моме,",
+       "lat": "maloj mome,",
+       "en": "little maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' тефтерот да го наредам, ај",
+       "lat": "v' tefterot da go naredam, aj",
+       "en": "to place it in a book",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' тефтерот да го наредам.",
+       "lat": "v' tefterot da go naredam.",
+       "en": "to place it in a book.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' тефтерот да го наредам,",
+       "lat": "V' tefterot da go naredam,",
+       "en": "To place it in a book,",
+       "en_mt": false
+      },
+      {
+       "cyr": "малој моме,",
+       "lat": "maloj mome,",
+       "en": "little maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за кога да одам на војска, ај",
+       "lat": "za koga da odam na vojska, aj",
+       "en": "when I join the army",
+       "en_mt": false
+      },
+      {
+       "cyr": "за кога да одам на војска.",
+       "lat": "za koga da odam na vojska.",
+       "en": "when I join the army.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко ќе ми текне за тебе,",
+       "lat": "Ko ḱe mi tekne za tebe,",
+       "en": "Whenever I think about you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "малој моме,",
+       "lat": "maloj mome,",
+       "en": "little maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тефтерот да го отворам, ај",
+       "lat": "tefterot da go otvoram, aj",
+       "en": "I'll just open the book,",
+       "en_mt": false
+      },
+      {
+       "cyr": "меракот да ми помине.",
+       "lat": "merakot da mi pomine.",
+       "en": "and my longing of you will pass.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

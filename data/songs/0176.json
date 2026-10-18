@@ -1,0 +1,161 @@
+{
+ "id": 176,
+ "slug": "pesna-za-dejan-vojvoda",
+ "title_cyr": "Песна за Дејан војвода",
+ "title_latin": "Pesna za Dejan vojvoda",
+ "title_en": "Song of Voivode Dejan",
+ "pesna_url": "https://pesna.org/song/176",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (patriotic song about a historical Dejan voivode, no author I can name). 'нестите' is probably 'невестите' (brides), 'малихери' my reading as Mannlicher rifles; 'спаилаци' as spahi landlords.",
+ "words_to_learn": [
+  {
+   "mk": "царство",
+   "en": "kingdom"
+  },
+  {
+   "mk": "господарство",
+   "en": "lordship, rule"
+  },
+  {
+   "mk": "неправдиње",
+   "en": "injustice"
+  },
+  {
+   "mk": "ропство",
+   "en": "slavery, bondage"
+  },
+  {
+   "mk": "спаија",
+   "en": "spahi, Ottoman landlord"
+  },
+  {
+   "mk": "потурчуваат",
+   "en": "they convert to Turkish ways"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, leader"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1962"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Македонијо, славно царство",
+       "lat": "Makedonijo, slavno carstvo",
+       "en": "Macedonia, glorious kingdom,"
+      },
+      {
+       "cyr": "кај е твојто господарство?",
+       "lat": "kaj e tvojto gospodarstvo?",
+       "en": "where is your lordship?"
+      },
+      {
+       "cyr": "Дали гледаш неправдиње,",
+       "lat": "Dali gledaš nepravdinje,",
+       "en": "Do you see the injustice,"
+      },
+      {
+       "cyr": "неправдиње од турчина?",
+       "lat": "nepravdinje od turčina?",
+       "en": "the injustice from the Turk?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турско ропство петвековно,",
+       "lat": "Tursko ropstvo petvekovno,",
+       "en": "Turkish slavery of five centuries,"
+      },
+      {
+       "cyr": "спаилаци преголеми.",
+       "lat": "spailaci pregolemi.",
+       "en": "enormous spahis (feudal landlords)."
+      },
+      {
+       "cyr": "Нестите грабнуваат,",
+       "lat": "Nestite grabnuvaat,",
+       "en": "They snatch the brides,"
+      },
+      {
+       "cyr": "девојките потурчуваат.",
+       "lat": "devojkite poturčuvaat.",
+       "en": "they turn girls Turk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се огласи Дејан јунак,",
+       "lat": "Se oglasi Dejan junak,",
+       "en": "Hero Dejan spoke out,"
+      },
+      {
+       "cyr": "Дејан јунак, војводата.",
+       "lat": "Dejan junak, vojvodata.",
+       "en": "hero Dejan, the voivode."
+      },
+      {
+       "cyr": "Војводата од Дебрца,",
+       "lat": "Vojvodata od Debrca,",
+       "en": "The voivode from Debrca,"
+      },
+      {
+       "cyr": "тој народот го повика.",
+       "lat": "toj narodot go povika.",
+       "en": "he called the people."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој народе Македонски,",
+       "lat": "- Oj narode Makedonski,",
+       "en": "- Oh Macedonian people,"
+      },
+      {
+       "cyr": "кога гледаш што се прави,",
+       "lat": "koga gledaš što se pravi,",
+       "en": "when you see what is happening,"
+      },
+      {
+       "cyr": "спремај пушки малихери,",
+       "lat": "spremaj puški maliheri,",
+       "en": "ready your Mannlicher rifles,"
+      },
+      {
+       "cyr": "в' борба влагај, не се жали.",
+       "lat": "v' borba vlagaj, ne se žali.",
+       "en": "enter the fight, do not hold back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

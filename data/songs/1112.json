@@ -1,0 +1,424 @@
+{
+ "id": 1112,
+ "slug": "ah-da-bi-znala",
+ "title_cyr": "Ах, да би знала",
+ "title_latin": "Ah, da bi znala",
+ "title_en": "Ah, if only I knew",
+ "pesna_url": "https://pesna.org/song/1112",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Луди, млади' rendered as 'wild young ones' (my reading); 'рано што пејат' as 'that sing early' (my reading, since рано = early and ранам = feed are wordplay). The source has some Latin letters typed in the Cyrillic text (ќe, сo, Ax), and 'саз ќe то ранав' is read as 'јаз ќе го ранав'.",
+ "words_to_learn": [
+  {
+   "mk": "порачај",
+   "en": "send word, leave a message"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "пуштам",
+   "en": "send, let go"
+  },
+  {
+   "mk": "книга",
+   "en": "letter (old usage; also book)"
+  },
+  {
+   "mk": "билбил",
+   "en": "nightingale (Turkish loan)"
+  },
+  {
+   "mk": "рано",
+   "en": "early"
+  },
+  {
+   "mk": "ранам",
+   "en": "I feed (dialect)"
+  },
+  {
+   "mk": "неженети",
+   "en": "unmarried"
+  },
+  {
+   "mk": "шеќер",
+   "en": "sugar"
+  },
+  {
+   "mk": "катран",
+   "en": "tar"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Речи, порачај,",
+       "lat": "- Reči, poračaj,",
+       "en": "- Say, send word,"
+      },
+      {
+       "cyr": "бела Бојано,",
+       "lat": "bela Bojano,",
+       "en": "white Bojana,"
+      },
+      {
+       "cyr": "сега сум овде,",
+       "lat": "sega sum ovde,",
+       "en": "now I am here,"
+      },
+      {
+       "cyr": "утре ќе одам.",
+       "lat": "utre ḱe odam.",
+       "en": "tomorrow I will go."
+      },
+      {
+       "cyr": "Утре ќе одам,",
+       "lat": "Utre ḱe odam,",
+       "en": "Tomorrow I will go,"
+      },
+      {
+       "cyr": "туѓа туѓина,",
+       "lat": "tuǵa tuǵina,",
+       "en": "to a foreign land,"
+      },
+      {
+       "cyr": "речи, порачај,",
+       "lat": "reči, poračaj,",
+       "en": "say, send word,"
+      },
+      {
+       "cyr": "што да ти пуштам:",
+       "lat": "što da ti puštam:",
+       "en": "what should I send you:"
+      },
+      {
+       "cyr": "ал' пари сакаш,",
+       "lat": "al' pari sakaš,",
+       "en": "are you after money"
+      },
+      {
+       "cyr": "ал' книга сакаш?",
+       "lat": "al' kniga sakaš?",
+       "en": "or are you after a letter?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ни пари сакам,",
+       "lat": "- Ni pari sakam,",
+       "en": "- I want neither money,"
+      },
+      {
+       "cyr": "ни книга сакам,",
+       "lat": "ni kniga sakam,",
+       "en": "nor a letter,"
+      },
+      {
+       "cyr": "јаз си сакам",
+       "lat": "jaz si sakam",
+       "en": "I want"
+      },
+      {
+       "cyr": "овде што нема,",
+       "lat": "ovde što nema,",
+       "en": "what is not here,"
+      },
+      {
+       "cyr": "овде што нема,",
+       "lat": "ovde što nema,",
+       "en": "what is not here,"
+      },
+      {
+       "cyr": "тамо што има.",
+       "lat": "tamo što ima.",
+       "en": "what is there."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тамо што има,",
+       "lat": "Tamo što ima,",
+       "en": "What is there,"
+      },
+      {
+       "cyr": "до три билбила,",
+       "lat": "do tri bilbila,",
+       "en": "as many as three nightingales,"
+      },
+      {
+       "cyr": "до три билбила",
+       "lat": "do tri bilbila",
+       "en": "as many as three nightingales"
+      },
+      {
+       "cyr": "рано што пејат.",
+       "lat": "rano što pejat.",
+       "en": "that sing early."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првијо билбил",
+       "lat": "Prvijo bilbil",
+       "en": "The first nightingale"
+      },
+      {
+       "cyr": "рано што пеје,",
+       "lat": "rano što peje,",
+       "en": "sings early,"
+      },
+      {
+       "cyr": "рано што пеје",
+       "lat": "rano što peje",
+       "en": "sings early"
+      },
+      {
+       "cyr": "за вечерање!",
+       "lat": "za večeranje!",
+       "en": "for supper!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вторијо билбил",
+       "lat": "Vtorijo bilbil",
+       "en": "The second nightingale"
+      },
+      {
+       "cyr": "рано што пеје,",
+       "lat": "rano što peje,",
+       "en": "sings early,"
+      },
+      {
+       "cyr": "рано што пеје,",
+       "lat": "rano što peje,",
+       "en": "sings early,"
+      },
+      {
+       "cyr": "за легнување!",
+       "lat": "za legnuvanje!",
+       "en": "for lying down!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третијо билбил",
+       "lat": "Tretijo bilbil",
+       "en": "The third nightingale"
+      },
+      {
+       "cyr": "рано што пеје,",
+       "lat": "rano što peje,",
+       "en": "sings early,"
+      },
+      {
+       "cyr": "рано што пеје",
+       "lat": "rano što peje",
+       "en": "sings early"
+      },
+      {
+       "cyr": "за станување!",
+       "lat": "za stanuvanje!",
+       "en": "for getting up!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Хај, вечерајте,",
+       "lat": "- Haj, večerajte,",
+       "en": "- Hey, have your supper,"
+      },
+      {
+       "cyr": "две луди, млади,",
+       "lat": "dve ludi, mladi,",
+       "en": "you two wild young ones,"
+      },
+      {
+       "cyr": "две луди, млади,",
+       "lat": "dve ludi, mladi,",
+       "en": "two wild young ones,"
+      },
+      {
+       "cyr": "две неженети.",
+       "lat": "dve neženeti.",
+       "en": "two unmarried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Хај легнете си,",
+       "lat": "Haj legnete si,",
+       "en": "Hey, lie down,"
+      },
+      {
+       "cyr": "две луди, млади,",
+       "lat": "dve ludi, mladi,",
+       "en": "you two wild young ones,"
+      },
+      {
+       "cyr": "две луди, млади,",
+       "lat": "dve ludi, mladi,",
+       "en": "two wild young ones,"
+      },
+      {
+       "cyr": "две неженети.",
+       "lat": "dve neženeti.",
+       "en": "two unmarried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Хај, станете ми,",
+       "lat": "Haj, stanete mi,",
+       "en": "Hey, get up,"
+      },
+      {
+       "cyr": "две луди, млади,",
+       "lat": "dve ludi, mladi,",
+       "en": "you two wild young ones,"
+      },
+      {
+       "cyr": "две луди, млади,",
+       "lat": "dve ludi, mladi,",
+       "en": "two wild young ones,"
+      },
+      {
+       "cyr": "две неженети.",
+       "lat": "dve neženeti.",
+       "en": "two unmarried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах, да би знала",
+       "lat": "- Ah, da bi znala",
+       "en": "- Ah, if only I knew"
+      },
+      {
+       "cyr": "тој што ми пеје,",
+       "lat": "toj što mi peje,",
+       "en": "the one who sings to me,"
+      },
+      {
+       "cyr": "рано што пеје",
+       "lat": "rano što peje",
+       "en": "sings early"
+      },
+      {
+       "cyr": "за вечерање,",
+       "lat": "za večeranje,",
+       "en": "for supper,"
+      },
+      {
+       "cyr": "јаз ќe го ранав",
+       "lat": "jaz ḱe go ranav",
+       "en": "I would feed him"
+      },
+      {
+       "cyr": "сo топен шеќер!",
+       "lat": "so topen šeḱer!",
+       "en": "with melted sugar!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ax, да би знала",
+       "lat": "Ax, da bi znala",
+       "en": "Ah, if only I knew"
+      },
+      {
+       "cyr": "тој што ми пеје,",
+       "lat": "toj što mi peje,",
+       "en": "the one who sings to me,"
+      },
+      {
+       "cyr": "рано што пеје",
+       "lat": "rano što peje",
+       "en": "sings early"
+      },
+      {
+       "cyr": "за легнување,",
+       "lat": "za legnuvanje,",
+       "en": "for lying down,"
+      },
+      {
+       "cyr": "јаз ќe го ранав",
+       "lat": "jaz ḱe go ranav",
+       "en": "I would feed him"
+      },
+      {
+       "cyr": "сo суво грозје!",
+       "lat": "so suvo grozje!",
+       "en": "with dried grapes!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, да би знала",
+       "lat": "Ah, da bi znala",
+       "en": "Ah, if only I knew"
+      },
+      {
+       "cyr": "тој што ми пеје,",
+       "lat": "toj što mi peje,",
+       "en": "the one who sings to me,"
+      },
+      {
+       "cyr": "рано што пеје",
+       "lat": "rano što peje",
+       "en": "sings early"
+      },
+      {
+       "cyr": "за станување,",
+       "lat": "za stanuvanje,",
+       "en": "for getting up,"
+      },
+      {
+       "cyr": "саз ќe то ранав",
+       "lat": "saz ḱe to ranav",
+       "en": "I would feed him"
+      },
+      {
+       "cyr": "с' отров и катран!",
+       "lat": "s' otrov i katran!",
+       "en": "with poison and tar!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

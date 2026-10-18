@@ -1,0 +1,137 @@
+{
+ "id": 1170,
+ "slug": "mitro-le-mitro",
+ "title_cyr": "Митро ле, Митро",
+ "title_latin": "Mitro le, Mitro",
+ "title_en": "Mitro, Oh Mitro",
+ "pesna_url": "https://pesna.org/song/1170",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song. Caparevo is a village name (Цапарево); 'сиво галебче' is rendered literally. The -ло forms (љубило, пишало) are dialect narrative forms.",
+ "words_to_learn": [
+  {
+   "mk": "ле",
+   "en": "oh (vocative filler)"
+  },
+  {
+   "mk": "галебче",
+   "en": "little seagull (endearment)"
+  },
+  {
+   "mk": "туршија",
+   "en": "pickles"
+  },
+  {
+   "mk": "блага",
+   "en": "mild, sweet"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "тефтер",
+   "en": "ledger, notebook"
+  },
+  {
+   "mk": "љубило",
+   "en": "had kissed, loved (dialect -ло form)"
+  },
+  {
+   "mk": "од то",
+   "en": "because of that (dialect)"
+  }
+ ],
+ "performers": [
+  "Болеробенд"
+ ],
+ "audio": [
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/2838"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Митро ле, Митро, сиво галебче,",
+       "lat": "- Mitro le, Mitro, sivo galebče,",
+       "en": "- Mitro, oh Mitro, grey little seagull,"
+      },
+      {
+       "cyr": "од што е болно, болно момчето?",
+       "lat": "od što e bolno, bolno momčeto?",
+       "en": "what is the boy sick from?"
+      },
+      {
+       "cyr": "Дали е пило вино, ракија,",
+       "lat": "Dali e pilo vino, rakija,",
+       "en": "Did he drink wine, rakija,"
+      },
+      {
+       "cyr": "или е јало блага туршија?",
+       "lat": "ili e jalo blaga turšija?",
+       "en": "or did he eat mild pickles?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ниту е пило вино, ракија,",
+       "lat": "- Nitu e pilo vino, rakija,",
+       "en": "- He neither drank wine, rakija,"
+      },
+      {
+       "cyr": "ниту е јало блага туршија.",
+       "lat": "nitu e jalo blaga turšija.",
+       "en": "nor ate mild pickles."
+      },
+      {
+       "cyr": "Сношти е било село Цапарево,",
+       "lat": "Snošti e bilo selo Caparevo,",
+       "en": "Last night he was in the village of Caparevo,"
+      },
+      {
+       "cyr": "цапаревски моми е љубило.",
+       "lat": "caparevski momi e ljubilo.",
+       "en": "he kissed the girls of Caparevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите на тефтер ги пишало,",
+       "lat": "Site na tefter gi pišalo,",
+       "en": "He wrote them all in a ledger,"
+      },
+      {
+       "cyr": "тефтерот си е изгубило.",
+       "lat": "tefterot si e izgubilo.",
+       "en": "and lost the ledger."
+      },
+      {
+       "cyr": "Тефтерот си е изгубило,",
+       "lat": "Tefterot si e izgubilo,",
+       "en": "He lost the ledger,"
+      },
+      {
+       "cyr": "од то е болно, болно момчето.",
+       "lat": "od to e bolno, bolno momčeto.",
+       "en": "and that is why he is sick, the poor boy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

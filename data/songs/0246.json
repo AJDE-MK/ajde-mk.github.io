@@ -1,0 +1,156 @@
+{
+ "id": 246,
+ "slug": "ajde-zhalaj-me-malino",
+ "title_cyr": "Ајде жалај ме, Малино",
+ "title_latin": "Ajde žalaj me, Malino",
+ "title_en": "Come, Mourn Me, Malina",
+ "pesna_url": "https://pesna.org/song/246",
+ "background": "A going-into-the-cheta farewell. A young man tells his girl to mourn him while he goes over Pirin mountain to the committee's gathering places. Go to the garden, pick a bouquet of roses and adorn the voivoda Delčev and his faithful band.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Оти' is rendered 'for' and 'накити Делчев војвода' is rendered as adorning Voivode Delchev and his band (with the roses), my reading. The refrain 'Малино моме' is kept in every line.",
+ "words_to_learn": [
+  {
+   "mk": "жалај",
+   "en": "mourn, grieve"
+  },
+  {
+   "mk": "плакај",
+   "en": "weep, cry"
+  },
+  {
+   "mk": "комита",
+   "en": "guerrilla fighter"
+  },
+  {
+   "mk": "зборишта",
+   "en": "gathering places"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "накити",
+   "en": "adorn, decorate"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Ансамбл Теодосиевски",
+  "Белегзија",
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Георги Божиков",
+  "Марика Георгиева",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2130"
+  },
+  {
+   "who": "Белегзија",
+   "url": "https://pesna.org/audio-download/2131"
+  },
+  {
+   "who": "Георги Божиков",
+   "url": "https://pesna.org/audio-download/2132"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2133"
+  },
+  {
+   "who": "Ансамбл Теодосиевски, Марика Георгиева",
+   "url": "https://pesna.org/audio-download/2134"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2135"
+  },
+  {
+   "who": "Радио студио Скопје, Марика Георгиева",
+   "url": "https://pesna.org/audio-download/3398"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде жалај ме, Малино моме, плакај ме,",
+       "lat": "Ajde žalaj me, Malino mome, plakaj me,",
+       "en": "Come on, mourn me, Malina girl, weep for me,"
+      },
+      {
+       "cyr": "оти јас ќе одам, Малино моме, комита.",
+       "lat": "oti jas ḱe odam, Malino mome, komita.",
+       "en": "for I am going off as a guerrilla."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај на таа Пирин, Малино моме, планина,",
+       "lat": "Aj na taa Pirin, Malino mome, planina,",
+       "en": "Up on that Pirin, Malina girl, mountain,"
+      },
+      {
+       "cyr": "на комитските, Малино моме, зборишта.",
+       "lat": "na komitskite, Malino mome, zborišta.",
+       "en": "to the guerrillas', Malina girl, gathering places."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ја отиди, Малино моме, в' градина,",
+       "lat": "Ajde ja otidi, Malino mome, v' gradina,",
+       "en": "Come on, go into the garden, Malina girl,"
+      },
+      {
+       "cyr": "ајде па набери, Малино моме, трендафил.",
+       "lat": "ajde pa naberi, Malino mome, trendafil.",
+       "en": "come on, then pick, Malina girl, a rose."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде па накити, Малиној моме, Делчев војвода",
+       "lat": "Ajde pa nakiti, Malinoj mome, Delčev vojvoda",
+       "en": "Come on, then adorn, Malina girl, Voivode Delchev"
+      },
+      {
+       "cyr": "а и негова, Малино моме, дружина.",
+       "lat": "a i negova, Malino mome, družina.",
+       "en": "and his, Malina girl, band."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

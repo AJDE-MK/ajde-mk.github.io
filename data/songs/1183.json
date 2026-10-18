@@ -1,0 +1,164 @@
+{
+ "id": 1183,
+ "slug": "zhalajte-mi-majki",
+ "title_cyr": "Жалајте ми мајки",
+ "title_latin": "Žalajte mi majki",
+ "title_en": "Pity me, mothers",
+ "pesna_url": "https://pesna.org/song/1183",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Добри Ставревски"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/3404"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жалајте ми мајки,",
+       "lat": "Žalajte mi majki,",
+       "en": "Pity me, mothers"
+      },
+      {
+       "cyr": "и млади невести,",
+       "lat": "i mladi nevesti,",
+       "en": "and young brides,"
+      },
+      {
+       "cyr": "оти јас ќе одам,",
+       "lat": "oti jas ḱe odam,",
+       "en": "because I am going,"
+      },
+      {
+       "cyr": "многу далеку.",
+       "lat": "mnogu daleku.",
+       "en": "very far."
+      },
+      {
+       "cyr": "Многу далеку,",
+       "lat": "Mnogu daleku,",
+       "en": "Very far,"
+      },
+      {
+       "cyr": "преку пет држави,",
+       "lat": "preku pet državi,",
+       "en": "across five countries,"
+      },
+      {
+       "cyr": "преку океани,",
+       "lat": "preku okeani,",
+       "en": "across oceans,"
+      },
+      {
+       "cyr": "дур' до Хавана.",
+       "lat": "dur' do Havana.",
+       "en": "all the way to Havana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пари да спечалам,",
+       "lat": "Pari da spečalam,",
+       "en": "To earn money,"
+      },
+      {
+       "cyr": "за мојата мајка,",
+       "lat": "za mojata majka,",
+       "en": "for my mother,"
+      },
+      {
+       "cyr": "за мојата жена",
+       "lat": "za mojata žena",
+       "en": "for my wife,"
+      },
+      {
+       "cyr": "за моите деца.",
+       "lat": "za moite deca.",
+       "en": "for my children."
+      },
+      {
+       "cyr": "Пари да спечалам,",
+       "lat": "Pari da spečalam,",
+       "en": "To earn money,"
+      },
+      {
+       "cyr": "живот да си губам,",
+       "lat": "život da si gubam,",
+       "en": "to waste my life,"
+      },
+      {
+       "cyr": "живот да си губам,",
+       "lat": "život da si gubam,",
+       "en": "to waste my life,"
+      },
+      {
+       "cyr": "в' туѓа туѓина.",
+       "lat": "v' tuǵa tuǵina.",
+       "en": "in a foreign country."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фабриките пиштат,",
+       "lat": "Fabrikite pištat,",
+       "en": "Factories are screaming,"
+      },
+      {
+       "cyr": "како лути змии,",
+       "lat": "kako luti zmii,",
+       "en": "like angry snakes,"
+      },
+      {
+       "cyr": "момчиња си губат,",
+       "lat": "momčinja si gubat,",
+       "en": "young men lose"
+      },
+      {
+       "cyr": "младост в' туѓина.",
+       "lat": "mladost v' tuǵina.",
+       "en": "their youth abroad."
+      },
+      {
+       "cyr": "Фабриките пиштат,",
+       "lat": "Fabrikite pištat,",
+       "en": "Factories are screaming,"
+      },
+      {
+       "cyr": "машините сечат,",
+       "lat": "mašinite sečat,",
+       "en": "machines are cutting,"
+      },
+      {
+       "cyr": "машините сечат,",
+       "lat": "mašinite sečat,",
+       "en": "machines are cutting,"
+      },
+      {
+       "cyr": "ко касапница.",
+       "lat": "ko kasapnica.",
+       "en": "like butchers."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

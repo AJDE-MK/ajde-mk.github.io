@@ -1,0 +1,82 @@
+{
+ "id": 1413,
+ "slug": "ristano-mome-ristano",
+ "title_cyr": "Ристано, моме Ристано",
+ "title_latin": "Ristano, mome Ristano",
+ "title_en": "Ristana, maiden Ristana",
+ "pesna_url": "https://pesna.org/song/1413",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ристано, моме Ристано,",
+       "lat": "- Ristano, mome Ristano,",
+       "en": "- Ristana, maiden Ristana,"
+      },
+      {
+       "cyr": "да знаиш моме, да знаиш",
+       "lat": "da znaiš mome, da znaiš",
+       "en": "so you’ll know girl, so you’ll know"
+      },
+      {
+       "cyr": "оти мајка те свршила.",
+       "lat": "oti majka te svršila.",
+       "en": "that your mother engaged you off."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во едно село големо,",
+       "lat": "Vo edno selo golemo,",
+       "en": "To a big village,"
+      },
+      {
+       "cyr": "во една куќа богата,",
+       "lat": "vo edna kuḱa bogata,",
+       "en": "to a rich home,"
+      },
+      {
+       "cyr": "за едно момче малечко.",
+       "lat": "za edno momče malečko.",
+       "en": "to a young lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пусто да бидит селото,",
+       "lat": "- Pusto da bidit seloto,",
+       "en": "- Damned be that village,"
+      },
+      {
+       "cyr": "оган да горит куќата,",
+       "lat": "ogan da gorit kuḱata,",
+       "en": "let a fire burn down the house,"
+      },
+      {
+       "cyr": "куршум да удрит момчето.",
+       "lat": "kuršum da udrit momčeto.",
+       "en": "let a bullet strike the young lad."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

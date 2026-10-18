@@ -1,0 +1,167 @@
+{
+ "id": 521,
+ "slug": "sobrale-mi-se-svatovi",
+ "title_cyr": "Собрале ми се сватови",
+ "title_latin": "Sobrale mi se svatovi",
+ "title_en": "The Wedding Guests Have Gathered",
+ "pesna_url": "https://pesna.org/song/521",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (wedding song in folk style, no author I can name). 'девет рала тапани' is a guess: I read it as 'drums for nine ploughs' (a lot of drums); 'рало' is a plough.",
+ "words_to_learn": [
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "тапани",
+   "en": "drums (tapan)"
+  },
+  {
+   "mk": "кум",
+   "en": "best man, godfather"
+  },
+  {
+   "mk": "зурли",
+   "en": "zurlas (reed pipes)"
+  },
+  {
+   "mk": "аирлија",
+   "en": "good fortune, blessing"
+  },
+  {
+   "mk": "наздравете",
+   "en": "make a toast"
+  },
+  {
+   "mk": "крштевка",
+   "en": "christening"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruddy red wine"
+  }
+ ],
+ "performers": [
+  "Влатко Миладиноски"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/2449"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Собрале ми се сватови",
+       "lat": "Sobrale mi se svatovi",
+       "en": "The wedding guests have gathered"
+      },
+      {
+       "cyr": "со девет рала тапани,",
+       "lat": "so devet rala tapani,",
+       "en": "with drums for nine ploughs,"
+      },
+      {
+       "cyr": "кумови одат на чело,",
+       "lat": "kumovi odat na čelo,",
+       "en": "the best men walk at the front,"
+      },
+      {
+       "cyr": "песни си пеат весело.",
+       "lat": "pesni si peat veselo.",
+       "en": "they sing songs merrily."
+      },
+      {
+       "cyr": "- Повелете, мили гости,",
+       "lat": "- Povelete, mili gosti,",
+       "en": "- Welcome, dear guests,"
+      },
+      {
+       "cyr": "куќа ви е отворена.",
+       "lat": "kuḱa vi e otvorena.",
+       "en": "the house is open to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Удрете силно тапани,",
+       "lat": "Udrete silno tapani,",
+       "en": "Strike the drums hard,"
+      },
+      {
+       "cyr": "вивнете зурли до небо,",
+       "lat": "vivnete zurli do nebo,",
+       "en": "blow the zurlas up to the sky,"
+      },
+      {
+       "cyr": "секој да чуе, разбере,",
+       "lat": "sekoj da čue, razbere,",
+       "en": "so everyone hears and understands,"
+      },
+      {
+       "cyr": "сè живо да се собере.",
+       "lat": "sè živo da se sobere.",
+       "en": "so all that lives gathers."
+      },
+      {
+       "cyr": "Пијте вино и ракија,",
+       "lat": "Pijte vino i rakija,",
+       "en": "Drink wine and rakija,"
+      },
+      {
+       "cyr": "среќно и аирлија.",
+       "lat": "sreḱno i airlija.",
+       "en": "happiness and blessings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наздравете мили сватови,",
+       "lat": "Nazdravete mili svatovi,",
+       "en": "Raise a toast, dear wedding guests,"
+      },
+      {
+       "cyr": "да ни се живи младите,",
+       "lat": "da ni se živi mladite,",
+       "en": "may our young ones live,"
+      },
+      {
+       "cyr": "денеска свадба правиме,",
+       "lat": "deneska svadba pravime,",
+       "en": "today we hold a wedding,"
+      },
+      {
+       "cyr": "а до година крштевка.",
+       "lat": "a do godina krštevka.",
+       "en": "and by next year a christening."
+      },
+      {
+       "cyr": "Рујно вино се налева",
+       "lat": "Rujno vino se naleva",
+       "en": "Ruddy wine is poured,"
+      },
+      {
+       "cyr": "сè до капка се испива.",
+       "lat": "sè do kapka se ispiva.",
+       "en": "every drop is drunk."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

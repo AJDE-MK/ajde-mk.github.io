@@ -1,0 +1,215 @@
+{
+ "id": 1318,
+ "slug": "lichno-mome-bitolchanche",
+ "title_cyr": "Лично моме, битолчанче",
+ "title_latin": "Lično mome, bitolčanče",
+ "title_en": "Pretty Girl from Bitola",
+ "pesna_url": "https://pesna.org/song/1318",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional city (urban) love song, origin unclear. 'лудо' as an endearment ('crazy one') and 'шчо те тебе гајле' as 'what is it to you' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "лично",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "момче",
+   "en": "boy"
+  },
+  {
+   "mk": "битолчанче",
+   "en": "person from Bitola"
+  },
+  {
+   "mk": "велешанче",
+   "en": "person from Veles"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young and foolish (endearment)"
+  },
+  {
+   "mk": "гајле",
+   "en": "worry, concern"
+  },
+  {
+   "mk": "целувнам",
+   "en": "to kiss"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "МФГ Сандански",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3330"
+  },
+  {
+   "who": "МФГ Сандански",
+   "url": "https://pesna.org/audio-download/3331"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3332"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Лично моме, битолчанче,",
+       "lat": "- Lično mome, bitolčanče,",
+       "en": "- Pretty girl, girl from Bitola,"
+      },
+      {
+       "cyr": "многу си сирото,",
+       "lat": "mnogu si siroto,",
+       "en": "you are very poor,"
+      },
+      {
+       "cyr": "бели раце имаш, моме,",
+       "lat": "beli race imaš, mome,",
+       "en": "you have white hands, girl,"
+      },
+      {
+       "cyr": "златен прстен немаш.",
+       "lat": "zlaten prsten nemaš.",
+       "en": "you have no gold ring."
+      },
+      {
+       "cyr": "Лудо младо за љубење,",
+       "lat": "Ludo mlado za ljubenje,",
+       "en": "Crazy young one for kissing,"
+      },
+      {
+       "cyr": "лудо младо за женење.",
+       "lat": "ludo mlado za ženenje.",
+       "en": "crazy young one for marrying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лично момче, велешанче,",
+       "lat": "- Lično momče, velešanče,",
+       "en": "- Pretty boy, boy from Veles,"
+      },
+      {
+       "cyr": "што те тебе гајле,",
+       "lat": "što te tebe gajle,",
+       "en": "what is it to you,"
+      },
+      {
+       "cyr": "златен прстен немам лудо,",
+       "lat": "zlaten prsten nemam ludo,",
+       "en": "I have no gold ring, silly,"
+      },
+      {
+       "cyr": "уште сум си мала.",
+       "lat": "ušte sum si mala.",
+       "en": "I am still little."
+      },
+      {
+       "cyr": "Лудо младо за љубење,",
+       "lat": "Ludo mlado za ljubenje,",
+       "en": "Crazy young one for kissing,"
+      },
+      {
+       "cyr": "лудо младо за женење.",
+       "lat": "ludo mlado za ženenje.",
+       "en": "crazy young one for marrying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лично моме, битолчанче,",
+       "lat": "- Lično mome, bitolčanče,",
+       "en": "- Pretty girl, girl from Bitola,"
+      },
+      {
+       "cyr": "дај да те целувнам,",
+       "lat": "daj da te celuvnam,",
+       "en": "let me kiss you,"
+      },
+      {
+       "cyr": "за твоите раце, моме,",
+       "lat": "za tvoite race, mome,",
+       "en": "for your hands, girl,"
+      },
+      {
+       "cyr": "прстен ќе ти купам.",
+       "lat": "prsten ḱe ti kupam.",
+       "en": "I will buy you a ring."
+      },
+      {
+       "cyr": "Лудо младо за љубење,",
+       "lat": "Ludo mlado za ljubenje,",
+       "en": "Crazy young one for kissing,"
+      },
+      {
+       "cyr": "лудо младо за женење.",
+       "lat": "ludo mlado za ženenje.",
+       "en": "crazy young one for marrying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде лудо, ајде младо,",
+       "lat": "- Ajde ludo, ajde mlado,",
+       "en": "- Come on, crazy one, come on, young one,"
+      },
+      {
+       "cyr": "да си се земеме,",
+       "lat": "da si se zememe,",
+       "en": "let us marry each other,"
+      },
+      {
+       "cyr": "на венчавка златен прстен",
+       "lat": "na venčavka zlaten prsten",
+       "en": "at the wedding we will give"
+      },
+      {
+       "cyr": "ќе си подариме.",
+       "lat": "ḱe si podarime.",
+       "en": "each other a gold ring."
+      },
+      {
+       "cyr": "Лудо младо за љубење,",
+       "lat": "Ludo mlado za ljubenje,",
+       "en": "Crazy young one for kissing,"
+      },
+      {
+       "cyr": "лудо младо за женење.",
+       "lat": "ludo mlado za ženenje.",
+       "en": "crazy young one for marrying."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

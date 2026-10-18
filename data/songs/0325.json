@@ -1,0 +1,172 @@
+{
+ "id": 325,
+ "slug": "po-pat-odam-za-pat-prasham",
+ "title_cyr": "По пат одам, за пат прашам",
+ "title_latin": "Po pat odam, za pat prašam",
+ "title_en": "I Walk the Road, I Ask the Road",
+ "pesna_url": "https://pesna.org/song/325",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'чучук Митра' I read as 'little Mitra' (чучук from Turkish küçük, small), a guess. 'Дуње' as a village name in Mariovo is my reading; 'вапца' is dialect for dye.",
+ "words_to_learn": [
+  {
+   "mk": "по пат одам",
+   "en": "I walk along the road"
+  },
+  {
+   "mk": "за пат прашам",
+   "en": "I ask about the road"
+  },
+  {
+   "mk": "води",
+   "en": "leads"
+  },
+  {
+   "mk": "Мариово",
+   "en": "Mariovo, a region in southern Macedonia"
+  },
+  {
+   "mk": "село",
+   "en": "village"
+  },
+  {
+   "mk": "бојаџивка",
+   "en": "female dyer"
+  },
+  {
+   "mk": "да ми вапца",
+   "en": "to dye for me (dialect: вапца, paint/dye)"
+  },
+  {
+   "mk": "бајрак",
+   "en": "banner, flag"
+  },
+  {
+   "mk": "на свадба",
+   "en": "to a wedding"
+  },
+  {
+   "mk": "на војна",
+   "en": "to war"
+  }
+ ],
+ "performers": [
+  "Биоритам",
+  "Гога Зафировски",
+  "Диме Кулевски",
+  "Ѓорѓи Желчевски",
+  "Зоран Џорлев",
+  "Кевсер Селимова",
+  "Костадин Гугов",
+  "Непознат изведувач",
+  "Сестрите Мавровски",
+  "Софија Коцевска"
+ ],
+ "audio": [
+  {
+   "who": "Биоритам",
+   "url": "https://pesna.org/audio-download/1188"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/1189"
+  },
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/1190"
+  },
+  {
+   "who": "Зоран Џорлев, Софија Коцевска",
+   "url": "https://pesna.org/audio-download/1191"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1192"
+  },
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2446"
+  },
+  {
+   "who": "Диме Кулевски",
+   "url": "https://pesna.org/audio-download/2766"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2767"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "По пат одам леле, за пат прашам",
+       "lat": "Po pat odam lele, za pat prašam",
+       "en": "I walk the road, oh, I ask about the road,"
+      },
+      {
+       "cyr": "кој пат води леле, за Мариово.",
+       "lat": "koj pat vodi lele, za Mariovo.",
+       "en": "which road leads, oh, to Mariovo."
+      },
+      {
+       "cyr": "Кој пат оди леле, за Мариово,",
+       "lat": "Koj pat odi lele, za Mariovo,",
+       "en": "Which road goes, oh, to Mariovo,"
+      },
+      {
+       "cyr": "за Мариово, село Дуње.",
+       "lat": "za Mariovo, selo Dunje.",
+       "en": "to Mariovo, the village of Dunje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму седи леле чучук Митра,",
+       "lat": "Tamu sedi lele čučuk Mitra,",
+       "en": "There sits, oh, little Mitra,"
+      },
+      {
+       "cyr": "чучук Митра бојаџивката,",
+       "lat": "čučuk Mitra bojadživkata,",
+       "en": "little Mitra the dyer,"
+      },
+      {
+       "cyr": "да ми вапца леле два бајрака,",
+       "lat": "da mi vapca lele dva bajraka,",
+       "en": "to dye for me, oh, two banners,"
+      },
+      {
+       "cyr": "еден зелен, другиот црвен.",
+       "lat": "eden zelen, drugiot crven.",
+       "en": "one green, the other red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зелениот леле, за на свадба,",
+       "lat": "Zeleniot lele, za na svadba,",
+       "en": "The green one, oh, for a wedding,"
+      },
+      {
+       "cyr": "а црвениот, за на војна.",
+       "lat": "a crveniot, za na vojna.",
+       "en": "and the red one, for war."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

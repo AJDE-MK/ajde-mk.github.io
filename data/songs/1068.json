@@ -1,0 +1,118 @@
+{
+ "id": 1068,
+ "slug": "kapitan-bolen-lezhi",
+ "title_cyr": "Капитан болен лежи",
+ "title_latin": "Kapitan bolen leži",
+ "title_en": "The Captain Lies Ill",
+ "pesna_url": "https://pesna.org/song/1068",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional soldier or rebel song as far as I can tell. The last line ('дек' сум јас тук' загинал') is my reading; 'дек'' = where (dialect).",
+ "words_to_learn": [
+  {
+   "mk": "капитан",
+   "en": "captain"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "росна",
+   "en": "dewy"
+  },
+  {
+   "mk": "завивка",
+   "en": "blanket, cover"
+  },
+  {
+   "mk": "уз глава",
+   "en": "by the head"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of men"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "загинал",
+   "en": "perished, fallen"
+  }
+ ],
+ "performers": [
+  "Herczku Ágnes"
+ ],
+ "audio": [
+  {
+   "who": "Herczku Ágnes",
+   "url": "https://pesna.org/audio-download/2481"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Капитан болен лежи,",
+       "lat": "Kapitan bolen leži,",
+       "en": "The captain lies ill,"
+      },
+      {
+       "cyr": "постела му росна трева.",
+       "lat": "postela mu rosna treva.",
+       "en": "his bed is dewy grass."
+      },
+      {
+       "cyr": "Завивка му сино небо,",
+       "lat": "Zavivka mu sino nebo,",
+       "en": "His blanket is the blue sky,"
+      },
+      {
+       "cyr": "уз глава му тенка пушка.",
+       "lat": "uz glava mu tenka puška.",
+       "en": "by his head a slender rifle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На дружина говореше:",
+       "lat": "Na družina govoreše:",
+       "en": "He spoke to his company:"
+      },
+      {
+       "cyr": "- Ојте вази мои другари,",
+       "lat": "- Ojte vazi moi drugari,",
+       "en": "- Hey, you, my comrades,"
+      },
+      {
+       "cyr": "писмо си ми напишете,",
+       "lat": "pismo si mi napišete,",
+       "en": "write a letter for me,"
+      },
+      {
+       "cyr": "на моето прво либе,",
+       "lat": "na moeto prvo libe,",
+       "en": "to my first love,"
+      },
+      {
+       "cyr": "дек' сум јас тук' загинал.",
+       "lat": "dek' sum jas tuk' zaginal.",
+       "en": "where I have fallen here (my reading)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

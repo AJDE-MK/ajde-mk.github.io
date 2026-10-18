@@ -1,0 +1,128 @@
+{
+ "id": 166,
+ "slug": "vo-nokjta-si-mesechina",
+ "title_cyr": "Во ноќта си месечина",
+ "title_latin": "Vo noḱta si mesečina",
+ "title_en": "In the night, you are the Moon",
+ "pesna_url": "https://pesna.org/song/166",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1711"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во ноќта си месечина,",
+       "lat": "Vo noḱta si mesečina,",
+       "en": "In the night, you are the Moon"
+      },
+      {
+       "cyr": "во денот си светлина.",
+       "lat": "vo denot si svetlina.",
+       "en": "in the day, you are the light."
+      },
+      {
+       "cyr": "Како твојта убавина,",
+       "lat": "Kako tvojta ubavina,",
+       "en": "Like your beauty"
+      },
+      {
+       "cyr": "нема друга на светот.",
+       "lat": "nema druga na svetot.",
+       "en": "there is no other in the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прво и прво, кога те видов",
+       "lat": "Prvo i prvo, koga te vidov",
+       "en": "When I first saw you"
+      },
+      {
+       "cyr": "в' душа пламен се роди.",
+       "lat": "v' duša plamen se rodi.",
+       "en": "a flame was born in my soul."
+      },
+      {
+       "cyr": "А од тогаш сè до сега,",
+       "lat": "A od togaš sè do sega,",
+       "en": "And since then, until now,"
+      },
+      {
+       "cyr": "кој сум, кај сум, не се знам.",
+       "lat": "koj sum, kaj sum, ne se znam.",
+       "en": "who am I, where am I, I don't know."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те сонувам, тебе љубам",
+       "lat": "Te sonuvam, tebe ljubam",
+       "en": "I dream of you, I kiss you,"
+      },
+      {
+       "cyr": "и те сакам во срце.",
+       "lat": "i te sakam vo srce.",
+       "en": "I love you in my heart."
+      },
+      {
+       "cyr": "Те милувам, тебе те љубам",
+       "lat": "Te miluvam, tebe te ljubam",
+       "en": "I caress you, I kiss you,"
+      },
+      {
+       "cyr": "и солзи си пролевам.",
+       "lat": "i solzi si prolevam.",
+       "en": "and I shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ангел ли си од небото,",
+       "lat": "Angel li si od neboto,",
+       "en": "Are you an angel from the sky,"
+      },
+      {
+       "cyr": "што си толку убава?",
+       "lat": "što si tolku ubava?",
+       "en": "that you are so beautiful?"
+      },
+      {
+       "cyr": "Со твојата слатка уста",
+       "lat": "So tvojata slatka usta",
+       "en": "With your sweet lips"
+      },
+      {
+       "cyr": "да ми шепниш името.",
+       "lat": "da mi šepniš imeto.",
+       "en": "whisper my name."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

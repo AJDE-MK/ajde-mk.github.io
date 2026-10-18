@@ -1,0 +1,242 @@
+{
+ "id": 901,
+ "slug": "jana-moma",
+ "title_cyr": "Јана мома",
+ "title_latin": "Jana moma",
+ "title_en": "Jana the Maiden",
+ "pesna_url": "https://pesna.org/song/901",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; the literary imagery suggests a modern composition, but no author can be named. 'гради бели милува' I read as the girl stroking her chest in grief.",
+ "words_to_learn": [
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "самовила",
+   "en": "samovila, fairy"
+  },
+  {
+   "mk": "покрила",
+   "en": "has covered"
+  },
+  {
+   "mk": "насолзила",
+   "en": "filled with tears"
+  },
+  {
+   "mk": "килим",
+   "en": "carpet, rug"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "желба",
+   "en": "wish"
+  },
+  {
+   "mk": "карпа",
+   "en": "rock"
+  },
+  {
+   "mk": "гулаби",
+   "en": "doves, pigeons"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1979"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јана лична самовила,",
+       "lat": "Jana lična samovila,",
+       "en": "Jana, the lovely fairy,"
+      },
+      {
+       "cyr": "бело лице си покрила,",
+       "lat": "belo lice si pokrila,",
+       "en": "has covered her white face,"
+      },
+      {
+       "cyr": "бело лице си покрила,",
+       "lat": "belo lice si pokrila,",
+       "en": "has covered her white face,"
+      },
+      {
+       "cyr": "сини очи насолзила.",
+       "lat": "sini oči nasolzila.",
+       "en": "her blue eyes are filled with tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На небо ѕвезди килим ткаеа,",
+       "lat": "Na nebo dzvezdi kilim tkaea,",
+       "en": "In the sky the stars wove a carpet,"
+      },
+      {
+       "cyr": "на душа ѝ тага плетеа,",
+       "lat": "na duša ì taga pletea,",
+       "en": "and wove sorrow for her soul,"
+      },
+      {
+       "cyr": "оти Јана мома спремаа",
+       "lat": "oti Jana moma spremaa",
+       "en": "because they were preparing Jana the maiden"
+      },
+      {
+       "cyr": "другому да ја даваат.",
+       "lat": "drugomu da ja davaat.",
+       "en": "to be given to another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само една желба голема,",
+       "lat": "Samo edna želba golema,",
+       "en": "Just one great wish,"
+      },
+      {
+       "cyr": "стиска срце како карпа мермерна,",
+       "lat": "stiska srce kako karpa mermerna,",
+       "en": "squeezes her heart like a marble rock,"
+      },
+      {
+       "cyr": "да го види либето што го милува.",
+       "lat": "da go vidi libeto što go miluva.",
+       "en": "to see the sweetheart she loves."
+      },
+      {
+       "cyr": "Сите солзи што ги пророни,",
+       "lat": "Site solzi što gi proroni,",
+       "en": "All the tears she has shed,"
+      },
+      {
+       "cyr": "да се сторат бели птици, гулаби,",
+       "lat": "da se storat beli ptici, gulabi,",
+       "en": "may they turn into white birds, doves,"
+      },
+      {
+       "cyr": "да му кажат: - „Мома е Јана убава“.",
+       "lat": "da mu kažat: - „Moma e Jana ubava“.",
+       "en": "to tell him: - \"Jana is a beautiful maiden\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јана лична самовила,",
+       "lat": "Jana lična samovila,",
+       "en": "Jana, the lovely fairy,"
+      },
+      {
+       "cyr": "болна лежи во постела,",
+       "lat": "bolna leži vo postela,",
+       "en": "lies sick in bed,"
+      },
+      {
+       "cyr": "гради бели милува,",
+       "lat": "gradi beli miluva,",
+       "en": "stroking her white breasts,"
+      },
+      {
+       "cyr": "гледа слика Стојанова.",
+       "lat": "gleda slika Stojanova.",
+       "en": "looking at Stojan's picture."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На небо ѕвезди килим ткаеа,",
+       "lat": "Na nebo dzvezdi kilim tkaea,",
+       "en": "In the sky the stars wove a carpet,"
+      },
+      {
+       "cyr": "на душа ѝ тага плетеа,",
+       "lat": "na duša ì taga pletea,",
+       "en": "and wove sorrow for her soul,"
+      },
+      {
+       "cyr": "оти Јана мома спремаа",
+       "lat": "oti Jana moma spremaa",
+       "en": "because they were preparing Jana the maiden"
+      },
+      {
+       "cyr": "другому да ја даваат.",
+       "lat": "drugomu da ja davaat.",
+       "en": "to be given to another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само една желба голема,",
+       "lat": "Samo edna želba golema,",
+       "en": "Just one great wish,"
+      },
+      {
+       "cyr": "стиска срце како карпа мермерна,",
+       "lat": "stiska srce kako karpa mermerna,",
+       "en": "squeezes her heart like a marble rock,"
+      },
+      {
+       "cyr": "да го види либето што го милува.",
+       "lat": "da go vidi libeto što go miluva.",
+       "en": "to see the sweetheart she loves."
+      },
+      {
+       "cyr": "Сите солзи што ги пророни,",
+       "lat": "Site solzi što gi proroni,",
+       "en": "All the tears she has shed,"
+      },
+      {
+       "cyr": "да се сторат бели птици, гулаби,",
+       "lat": "da se storat beli ptici, gulabi,",
+       "en": "may they turn into white birds, doves,"
+      },
+      {
+       "cyr": "да му кажат: - „Мома е Јана убава“.",
+       "lat": "da mu kažat: - „Moma e Jana ubava“.",
+       "en": "to tell him: - \"Jana is a beautiful maiden\"."
+      },
+      {
+       "cyr": "Да му кажат: - „По него Јана умира“.",
+       "lat": "Da mu kažat: - „Po nego Jana umira“.",
+       "en": "To tell him: - \"Jana is dying for him\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

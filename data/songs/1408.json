@@ -1,0 +1,106 @@
+{
+ "id": 1408,
+ "slug": "meno-le-meno",
+ "title_cyr": "Мено ле Мено",
+ "title_latin": "Meno le Meno",
+ "title_en": "Meno, dear Meno",
+ "pesna_url": "https://pesna.org/song/1408",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Мено ле Мено, Мено ле Мено, Мено девојко,",
+       "lat": "- Meno le Meno, Meno le Meno, Meno devojko,",
+       "en": "- Meno, dear Meno, Meno dear Meno, maiden Meno,"
+      },
+      {
+       "cyr": "не оди Мено, nе оди Мено ноќе за вода,",
+       "lat": "ne odi Meno, ne odi Meno noḱe za voda,",
+       "en": "don’t go Meno, don’t go Meno, at night for water,"
+      },
+      {
+       "cyr": "по месечина, на облачина.",
+       "lat": "po mesečina, na oblačina.",
+       "en": "under the moonlight and clouds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Водите ни се, водите ни се мошне далеко,",
+       "lat": "Vodite ni se, vodite ni se mošne daleko,",
+       "en": "The springs are, the springs are, very far away,"
+      },
+      {
+       "cyr": "на теб' се фале, на теб' се фале лудо ле младо,",
+       "lat": "na teb' se fale, na teb' se fale ludo le mlado,",
+       "en": "he flatters you, he flatters you, that foolish lad,"
+      },
+      {
+       "cyr": "на теб' се фале да те позадре.",
+       "lat": "na teb' se fale da te pozadre.",
+       "en": "he flatters you to get his hands on you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај си веле, тогај си веле Мена девојка:",
+       "lat": "Togaj si vele, togaj si vele Mena devojka:",
+       "en": "Then she said, then she said, that maiden Mena:"
+      },
+      {
+       "cyr": "- Ако ме стрете, ако ме стрете што ќе ми чине?",
+       "lat": "- Ako me strete, ako me strete što ḱe mi čine?",
+       "en": "- If he encounters me, if he encounters me, what will he do to me?"
+      },
+      {
+       "cyr": "Стомна ак' скрше нова ќе купе.",
+       "lat": "Stomna ak' skrše nova ḱe kupe.",
+       "en": "If he breaks my pitcher, a new one will be bought."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не сум калинка, не сум калинка да ме соскрши,",
+       "lat": "Ne sum kalinka, ne sum kalinka da me soskrši,",
+       "en": "I’m not a pomegranate, I’m not a pomegranate, to split me up,"
+      },
+      {
+       "cyr": "да ме раздаде, да ме раздаде на дружината.",
+       "lat": "da me razdade, da me razdade na družinata.",
+       "en": "to share me, to share me with his friends."
+      },
+      {
+       "cyr": "Не сум погача да ме посече,",
+       "lat": "Ne sum pogača da me poseče,",
+       "en": "I’m not bread to cut me up,"
+      },
+      {
+       "cyr": "да ме посече да ме изеде.",
+       "lat": "da me poseče da me izede.",
+       "en": "to cut me up, to eat me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

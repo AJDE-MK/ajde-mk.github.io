@@ -1,0 +1,243 @@
+{
+ "id": 986,
+ "slug": "ne-me-zhalno-gledaj-majko",
+ "title_cyr": "Не ме жално гледај, мајко",
+ "title_latin": "Ne me žalno gledaj, majko",
+ "title_en": "Do Not Look at Me So Sadly, Mother",
+ "pesna_url": "https://pesna.org/song/986",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a modern song about emigration; origin unclear, no author I can name. 'одоми' (at home) is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "жално",
+   "en": "sadly, mournfully"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "рони",
+   "en": "shed, drop"
+  },
+  {
+   "mk": "срце",
+   "en": "heart"
+  },
+  {
+   "mk": "пукне",
+   "en": "burst"
+  },
+  {
+   "mk": "ожени",
+   "en": "marry off"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, gurbet"
+  },
+  {
+   "mk": "аџамија",
+   "en": "inexperienced young man"
+  },
+  {
+   "mk": "без време",
+   "en": "before one's time"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2302"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не ме жално гледај, мајко",
+       "lat": "- Ne me žalno gledaj, majko",
+       "en": "- Do not look at me so sadly, mother,"
+      },
+      {
+       "cyr": "и солзи не рони,",
+       "lat": "i solzi ne roni,",
+       "en": "and do not shed tears,"
+      },
+      {
+       "cyr": "немој мајко ти да плачеш,",
+       "lat": "nemoj majko ti da plačeš,",
+       "en": "do not you cry, mother,"
+      },
+      {
+       "cyr": "пак ќе ти се вратам.",
+       "lat": "pak ḱe ti se vratam.",
+       "en": "I will come back to you."
+      },
+      {
+       "cyr": "Твојте солзи, мила мајко ле,",
+       "lat": "Tvojte solzi, mila majko le,",
+       "en": "Your tears, dear mother,"
+      },
+      {
+       "cyr": "многу ми тежат на срце.",
+       "lat": "mnogu mi težat na srce.",
+       "en": "weigh heavily on my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срце ме боли, мајко ле,",
+       "lat": "Srce me boli, majko le,",
+       "en": "My heart aches, mother,"
+      },
+      {
+       "cyr": "мислам ќе пукне за тебе,",
+       "lat": "mislam ḱe pukne za tebe,",
+       "en": "I think it will burst for you,"
+      },
+      {
+       "cyr": "срце ме боли, мајко ле,",
+       "lat": "srce me boli, majko le,",
+       "en": "my heart aches, mother,"
+      },
+      {
+       "cyr": "мислам ќе пукне за тебе.",
+       "lat": "mislam ḱe pukne za tebe.",
+       "en": "I think it will burst for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како да не плачам, сине,",
+       "lat": "- Kako da ne plačam, sine,",
+       "en": "- How should I not cry, son,"
+      },
+      {
+       "cyr": "уште си ми младо,",
+       "lat": "ušte si mi mlado,",
+       "en": "you are still young,"
+      },
+      {
+       "cyr": "уште радост, мили сине,",
+       "lat": "ušte radost, mili sine,",
+       "en": "mother has not yet seen, dear son,"
+      },
+      {
+       "cyr": "мајка не видела.",
+       "lat": "majka ne videla.",
+       "en": "any joy."
+      },
+      {
+       "cyr": "Да ми те, мајка, ожени,",
+       "lat": "Da mi te, majka, oženi,",
+       "en": "To have your mother marry you off,"
+      },
+      {
+       "cyr": "ожени, сине, одоми.",
+       "lat": "oženi, sine, odomi.",
+       "en": "marry you off, son, at home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срце ме боли за тебе,",
+       "lat": "Srce me boli za tebe,",
+       "en": "My heart aches for you,"
+      },
+      {
+       "cyr": "ќе умре мајка без време,",
+       "lat": "ḱe umre majka bez vreme,",
+       "en": "mother will die before her time,"
+      },
+      {
+       "cyr": "срце ме боли за тебе,",
+       "lat": "srce me boli za tebe,",
+       "en": "my heart aches for you,"
+      },
+      {
+       "cyr": "ќе умре мајка без време.",
+       "lat": "ḱe umre majka bez vreme.",
+       "en": "mother will die before her time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Послушај ја мајка, сине,",
+       "lat": "Poslušaj ja majka, sine,",
+       "en": "Listen to your mother, son,"
+      },
+      {
+       "cyr": "немој, не ми оди,",
+       "lat": "nemoj, ne mi odi,",
+       "en": "do not, do not go away,"
+      },
+      {
+       "cyr": "туѓина е тешка, сине,",
+       "lat": "tuǵina e teška, sine,",
+       "en": "a foreign land is hard, son,"
+      },
+      {
+       "cyr": "ти си аџамија.",
+       "lat": "ti si adžamija.",
+       "en": "you are inexperienced."
+      },
+      {
+       "cyr": "Мајка сама не ја оставај,",
+       "lat": "Majka sama ne ja ostavaj,",
+       "en": "Do not leave your mother alone,"
+      },
+      {
+       "cyr": "куќа е пуста без тебе.",
+       "lat": "kuḱa e pusta bez tebe.",
+       "en": "the house is empty without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срце ме боли за тебе,",
+       "lat": "Srce me boli za tebe,",
+       "en": "My heart aches for you,"
+      },
+      {
+       "cyr": "ќе умре мајка без време,",
+       "lat": "ḱe umre majka bez vreme,",
+       "en": "mother will die before her time,"
+      },
+      {
+       "cyr": "срце ме боли за тебе,",
+       "lat": "srce me boli za tebe,",
+       "en": "my heart aches for you,"
+      },
+      {
+       "cyr": "ќе умре мајка без време.",
+       "lat": "ḱe umre majka bez vreme.",
+       "en": "mother will die before her time."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

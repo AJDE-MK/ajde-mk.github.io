@@ -1,0 +1,171 @@
+{
+ "id": 1122,
+ "slug": "ova-e-selo",
+ "title_cyr": "Ова е село",
+ "title_latin": "Ova e selo",
+ "title_en": "This is a village",
+ "pesna_url": "https://pesna.org/song/1122",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дејгиди' is a refrain word I do not know (kept as 'dejgidi', possibly a dialect or Turkish-derived exclamation). Origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "село",
+   "en": "village"
+  },
+  {
+   "mk": "голем",
+   "en": "big"
+  },
+  {
+   "mk": "двеста",
+   "en": "two hundred"
+  },
+  {
+   "mk": "триста",
+   "en": "three hundred"
+  },
+  {
+   "mk": "заљубил",
+   "en": "fell in love"
+  },
+  {
+   "mk": "ѕевгар",
+   "en": "a pair (of oxen)"
+  },
+  {
+   "mk": "волови",
+   "en": "oxen"
+  },
+  {
+   "mk": "рамно поле",
+   "en": "flat field"
+  },
+  {
+   "mk": "бело лице",
+   "en": "fair face"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2683"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ова е село,",
+       "lat": "Ova e selo,",
+       "en": "This is a village,"
+      },
+      {
+       "cyr": "големо село",
+       "lat": "golemo selo",
+       "en": "a big village,"
+      },
+      {
+       "cyr": "дејгиди село, де.",
+       "lat": "dejgidi selo, de.",
+       "en": "dejgidi village, hey."
+      },
+      {
+       "cyr": "Двеста се куќи,",
+       "lat": "Dvesta se kuḱi,",
+       "en": "Two hundred are the houses,"
+      },
+      {
+       "cyr": "триста се моми,",
+       "lat": "trista se momi,",
+       "en": "three hundred the girls,"
+      },
+      {
+       "cyr": "дејгиди моми, де.",
+       "lat": "dejgidi momi, de.",
+       "en": "dejgidi girls, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заљубил Иљо",
+       "lat": "Zaljubil Iljo",
+       "en": "Iljo fell in love"
+      },
+      {
+       "cyr": "до три ми моми",
+       "lat": "do tri mi momi",
+       "en": "with as many as three girls,"
+      },
+      {
+       "cyr": "дејгиди моми, де.",
+       "lat": "dejgidi momi, de.",
+       "en": "dejgidi girls, hey."
+      },
+      {
+       "cyr": "Прва му дава",
+       "lat": "Prva mu dava",
+       "en": "The first gives him"
+      },
+      {
+       "cyr": "ѕевгар волови,",
+       "lat": "dzevgar volovi,",
+       "en": "a pair of oxen,"
+      },
+      {
+       "cyr": "дејгиди јунак, де.",
+       "lat": "dejgidi junak, de.",
+       "en": "dejgidi hero, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втора му дава,",
+       "lat": "Vtora mu dava,",
+       "en": "The second gives him"
+      },
+      {
+       "cyr": "тоа рамно поле,",
+       "lat": "toa ramno pole,",
+       "en": "that flat field,"
+      },
+      {
+       "cyr": "дејгиди моме, де.",
+       "lat": "dejgidi mome, de.",
+       "en": "dejgidi girl, hey."
+      },
+      {
+       "cyr": "Трета му дава",
+       "lat": "Treta mu dava",
+       "en": "The third gives him"
+      },
+      {
+       "cyr": "тоа бело лице,",
+       "lat": "toa belo lice,",
+       "en": "that fair face,"
+      },
+      {
+       "cyr": "дејгиди јунак, де.",
+       "lat": "dejgidi junak, de.",
+       "en": "dejgidi hero, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

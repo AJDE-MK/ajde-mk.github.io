@@ -1,0 +1,13 @@
+/site/
+.superpowers/
+__pycache__/
+*.pyc
+*.log
+
+# Not part of the website
+pesna_pipeline/
+.vscode/
+
+# Scratch from aligning English with Cyrillic (the finished result lives in data/songs)
+data/work/
+data/work_out/

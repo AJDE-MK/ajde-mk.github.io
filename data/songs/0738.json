@@ -1,0 +1,175 @@
+{
+ "id": 738,
+ "slug": "ajde-kamen-jano",
+ "title_cyr": "Ајде камен Јано",
+ "title_latin": "Ajde kamen Jano",
+ "title_en": "Come On, Become a Stone, Jana",
+ "pesna_url": "https://pesna.org/song/738",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Stanza 2 line 1 ('дибек би те кало') is unclear to me; my reading is that a dibek stone would be set for her. Treat that line as a guess.",
+ "words_to_learn": [
+  {
+   "mk": "камен",
+   "en": "stone"
+  },
+  {
+   "mk": "да се сториш",
+   "en": "to become, to turn yourself into"
+  },
+  {
+   "mk": "в раце",
+   "en": "into (my) hands"
+  },
+  {
+   "mk": "дибек",
+   "en": "stone block, mortar stone (my reading: mounting stone)"
+  },
+  {
+   "mk": "врата",
+   "en": "door"
+  },
+  {
+   "mk": "коњ",
+   "en": "horse"
+  },
+  {
+   "mk": "се качам",
+   "en": "I climb up, mount"
+  },
+  {
+   "mk": "Цариград",
+   "en": "Constantinople, Istanbul"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "грло",
+   "en": "throat, neck"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Ацо Андонов",
+  "Влатко Миладиноски",
+  "Војо Стојановски",
+  "Македонски чалгии",
+  "Мирослав Мирчески",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/995"
+  },
+  {
+   "who": "Ансамбл чалгии на РТС, Филиграни",
+   "url": "https://pesna.org/audio-download/996"
+  },
+  {
+   "who": "Македонски чалгии",
+   "url": "https://pesna.org/audio-download/997"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2537"
+  },
+  {
+   "who": "Мирослав Мирчески",
+   "url": "https://pesna.org/audio-download/3134"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/4062"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде камен Јано, камен бре душо,",
+       "lat": "Ajde kamen Jano, kamen bre dušo,",
+       "en": "Come on, become a stone, Jana, a stone, my dear,"
+      },
+      {
+       "cyr": "ајде камен да се сториш,",
+       "lat": "ajde kamen da se storiš,",
+       "en": "come on, become a stone,"
+      },
+      {
+       "cyr": "Јано в раце да ми падниш.",
+       "lat": "Jano v race da mi padniš.",
+       "en": "Jana, and fall into my hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде дибек би те кало бре Јано,",
+       "lat": "Ajde dibek bi te kalo bre Jano,",
+       "en": "Come on, a mounting stone would be set for you, hey Jana,"
+      },
+      {
+       "cyr": "Јано на малата врата,",
+       "lat": "Jano na malata vrata,",
+       "en": "Jana, by the little door,"
+      },
+      {
+       "cyr": "Јано од десната страна.",
+       "lat": "Jano od desnata strana.",
+       "en": "Jana, on the right side."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај на дибек јас да стапнам бре Јано,",
+       "lat": "Aj na dibek jas da stapnam bre Jano,",
+       "en": "Come on, so I can step on the mounting stone, hey Jana,"
+      },
+      {
+       "cyr": "Јано на коњ да се качам,",
+       "lat": "Jano na konj da se kačam,",
+       "en": "Jana, to climb onto a horse,"
+      },
+      {
+       "cyr": "Јано в Цариград да одам.",
+       "lat": "Jano v Carigrad da odam.",
+       "en": "Jana, to go to Constantinople."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде в Цариград да одам мори Јано,",
+       "lat": "Ajde v Carigrad da odam mori Jano,",
+       "en": "Come on, to go to Constantinople, hey Jana,"
+      },
+      {
+       "cyr": "Јано ѓердан да ти купам,",
+       "lat": "Jano ǵerdan da ti kupam,",
+       "en": "Jana, to buy you a necklace,"
+      },
+      {
+       "cyr": "Јано за белото грло.",
+       "lat": "Jano za beloto grlo.",
+       "en": "Jana, for your white throat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

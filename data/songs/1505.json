@@ -1,0 +1,152 @@
+{
+ "id": 1505,
+ "slug": "devojko-mori-devojko",
+ "title_cyr": "Девојко, мори девојко",
+ "title_latin": "Devojko, mori devojko",
+ "title_en": "Girl, hey girl",
+ "pesna_url": "https://pesna.org/song/1505",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3931"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Девојко, мори девојко",
+       "lat": "- Devojko, mori devojko",
+       "en": "- Girl, hey girl"
+      },
+      {
+       "cyr": "ме прати мајстор до тебе",
+       "lat": "me prati majstor do tebe",
+       "en": "the artisan sent me to you"
+      },
+      {
+       "cyr": "ти да ми дадеш ибришим,",
+       "lat": "ti da mi dadeš ibrišim,",
+       "en": "to give me some silk,"
+      },
+      {
+       "cyr": "ибришим свила, коприна.",
+       "lat": "ibrišim svila, koprina.",
+       "en": "some silk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти да ми дадеш ибришим,",
+       "lat": "Ti da mi dadeš ibrišim,",
+       "en": "You'll give me some silk,"
+      },
+      {
+       "cyr": "ибришим свила, коприна,",
+       "lat": "ibrišim svila, koprina,",
+       "en": "he wants silk"
+      },
+      {
+       "cyr": "да ти сошие мајстор ми",
+       "lat": "da ti sošie majstor mi",
+       "en": "the artisan will make you"
+      },
+      {
+       "cyr": "тој широк фустан до земја.",
+       "lat": "toj širok fustan do zemja.",
+       "en": "a wide dress that touches the ground."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Чираче, море јуначе,",
+       "lat": "- Čirače, more junače,",
+       "en": "- Hey apprentice, you hero,"
+      },
+      {
+       "cyr": "дека ме мајстор видело,",
+       "lat": "deka me majstor videlo,",
+       "en": "where did the artisan see me,"
+      },
+      {
+       "cyr": "дека ме мајстор видело,",
+       "lat": "deka me majstor videlo,",
+       "en": "where did he see me"
+      },
+      {
+       "cyr": "дека ми мерка земало?",
+       "lat": "deka mi merka zemalo?",
+       "en": "where did he took my measure?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девојко, мори девојко",
+       "lat": "- Devojko, mori devojko",
+       "en": "- Girl, hey girl,"
+      },
+      {
+       "cyr": "кога одеше на бања",
+       "lat": "koga odeše na banja",
+       "en": "when he was going to the spa"
+      },
+      {
+       "cyr": "со дванаесет алајки,",
+       "lat": "so dvanaeset alajki,",
+       "en": "with twelve female servants,"
+      },
+      {
+       "cyr": "со тринаесет робинки.",
+       "lat": "so trinaeset robinki.",
+       "en": "with thirteen female slaves."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Алајки патот метеа,",
+       "lat": "Alajki patot metea,",
+       "en": "The servants were sweeping the road,"
+      },
+      {
+       "cyr": "робинки поли плетеа.",
+       "lat": "robinki poli pletea.",
+       "en": "the slaves were knitting."
+      },
+      {
+       "cyr": "Тогај те мајстор видело,",
+       "lat": "Togaj te majstor videlo,",
+       "en": "It was then when the artisan saw you,"
+      },
+      {
+       "cyr": "од сенка мерка земало.",
+       "lat": "od senka merka zemalo.",
+       "en": "and took your measure from your shadow."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

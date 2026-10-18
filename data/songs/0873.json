@@ -1,0 +1,175 @@
+{
+ "id": 873,
+ "slug": "strojnik-kje-te-pratam-babo",
+ "title_cyr": "Стројник ќе те пратам бабо",
+ "title_latin": "Strojnik ḱe te pratam babo",
+ "title_en": "I'll Send You as a Matchmaker, Grandfather",
+ "pesna_url": "https://pesna.org/song/873",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Стројник' (my reading: a matchmaker or wedding emissary) and 'дејче' (my reading: girl) are dialect words I am not fully sure of; 'ја мама одменеш' is my reading of 'take her away from her mother'.",
+ "words_to_learn": [
+  {
+   "mk": "стројник",
+   "en": "matchmaker, go-between"
+  },
+  {
+   "mk": "бабо",
+   "en": "grandfather, old man (also father in dialect)"
+  },
+  {
+   "mk": "горноно маало",
+   "en": "the upper neighbourhood"
+  },
+  {
+   "mk": "жолтана",
+   "en": "yellow (dialect, with article)"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "заклучени",
+   "en": "locked"
+  },
+  {
+   "mk": "дејче",
+   "en": "girl (dialect)"
+  },
+  {
+   "mk": "излажеш",
+   "en": "you coax out, lure out"
+  },
+  {
+   "mk": "каk'",
+   "en": "how (kak')"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1909"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стројник ќе те пратам бабо,",
+       "lat": "Strojnik ḱe te pratam babo,",
+       "en": "I'll send you as a matchmaker, grandfather,"
+      },
+      {
+       "cyr": "во горноно маало.",
+       "lat": "vo gornono maalo.",
+       "en": "to the upper neighbourhood."
+      },
+      {
+       "cyr": "Во горноно маало, бабо,",
+       "lat": "Vo gornono maalo, babo,",
+       "en": "To the upper neighbourhood, grandfather,"
+      },
+      {
+       "cyr": "крај убави моми.",
+       "lat": "kraj ubavi momi.",
+       "en": "near beautiful girls."
+      },
+      {
+       "cyr": "Крај убави моми, бабо,",
+       "lat": "Kraj ubavi momi, babo,",
+       "en": "Near beautiful girls, grandfather,"
+      },
+      {
+       "cyr": "во жолтана куќа.",
+       "lat": "vo žoltana kuḱa.",
+       "en": "in the yellow house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во жолтана куќа, бабо,",
+       "lat": "Vo žoltana kuḱa, babo,",
+       "en": "In the yellow house, grandfather,"
+      },
+      {
+       "cyr": "железни се порти.",
+       "lat": "železni se porti.",
+       "en": "the gates are iron."
+      },
+      {
+       "cyr": "Железни се порти, бабо,",
+       "lat": "Železni se porti, babo,",
+       "en": "The gates are iron, grandfather,"
+      },
+      {
+       "cyr": "тешко заклучени.",
+       "lat": "teško zaklučeni.",
+       "en": "locked tight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Как' да одиш, бабо мори,",
+       "lat": "Kak' da odiš, babo mori,",
+       "en": "How will you go, grandfather, hey,"
+      },
+      {
+       "cyr": "порти да ј' отвориш?",
+       "lat": "porti da j' otvoriš?",
+       "en": "to open the gates?"
+      },
+      {
+       "cyr": "Порти да ј' отвориш, бабо,",
+       "lat": "Porti da j' otvoriš, babo,",
+       "en": "To open the gates, grandfather,"
+      },
+      {
+       "cyr": "дејче да излажеш?",
+       "lat": "dejče da izlažeš?",
+       "en": "to coax the girl out?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејче да излажеш, бабо,",
+       "lat": "Dejče da izlažeš, babo,",
+       "en": "To coax the girl out, grandfather,"
+      },
+      {
+       "cyr": "мене да ј' ожениш.",
+       "lat": "mene da j' oženiš.",
+       "en": "to marry her to me."
+      },
+      {
+       "cyr": "Мене да ј' ожениш, бабо,",
+       "lat": "Mene da j' oženiš, babo,",
+       "en": "To marry her to me, grandfather,"
+      },
+      {
+       "cyr": "ја мама одменеш.",
+       "lat": "ja mama odmeneš.",
+       "en": "and take her away from her mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

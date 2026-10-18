@@ -1,0 +1,184 @@
+{
+ "id": 264,
+ "slug": "vozot-brakja-trgnuva",
+ "title_cyr": "Возот браќа тргнува",
+ "title_latin": "Vozot braḱa trgnuva",
+ "title_en": "The Train, Brothers, Is Leaving",
+ "pesna_url": "https://pesna.org/song/264",
+ "background": "A song of the guest-worker era. The train leaves straight for Germany; old mothers stay behind to mind the small children. They go, they sing, they shed tears, and curse the first one who left. They go with their loved ones to earn money and build a house; friends will meet them there, the bachelors will sing and the wives will mourn.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Gastarbeiter (labour migrant) song about leaving for Germany; origin unclear, no author I can name. 'сал' in 'сал го колниме' is my reading of 'само' (only); the line is somewhat ambiguous.",
+ "words_to_learn": [
+  {
+   "mk": "возот",
+   "en": "the train"
+  },
+  {
+   "mk": "тргнува",
+   "en": "sets off, departs"
+  },
+  {
+   "mk": "дробни деца",
+   "en": "small children"
+  },
+  {
+   "mk": "солзи рониме",
+   "en": "we shed tears"
+  },
+  {
+   "mk": "колниме",
+   "en": "we curse"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "пари да спечалиме",
+   "en": "to earn money"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "женети",
+   "en": "married men"
+  }
+ ],
+ "performers": [
+  "Билјана Димова",
+  "Борис Димов"
+ ],
+ "audio": [
+  {
+   "who": "Билјана Димова, Борис Димов",
+   "url": "https://pesna.org/audio-download/1513"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Возот браќа тргнува",
+       "lat": "Vozot braḱa trgnuva",
+       "en": "The train, brothers, is leaving"
+      },
+      {
+       "cyr": "право за Германија,",
+       "lat": "pravo za Germanija,",
+       "en": "straight for Germany,"
+      },
+      {
+       "cyr": "стари мајки остануваат",
+       "lat": "stari majki ostanuvaat",
+       "en": "old mothers are left behind"
+      },
+      {
+       "cyr": "дробни деца да гледаат.",
+       "lat": "drobni deca da gledaat.",
+       "en": "to look after the little children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одиме, пееме, солзи рониме,",
+       "lat": "Odime, peeme, solzi ronime,",
+       "en": "We go, we sing, we shed tears,"
+      },
+      {
+       "cyr": "тој прв што замина сал го колниме.",
+       "lat": "toj prv što zamina sal go kolnime.",
+       "en": "the first one who left, we only curse him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со либето одиме",
+       "lat": "So libeto odime",
+       "en": "With our sweetheart we go"
+      },
+      {
+       "cyr": "пари да спечалиме.",
+       "lat": "pari da spečalime.",
+       "en": "to earn some money."
+      },
+      {
+       "cyr": "Пари да спечалиме,",
+       "lat": "Pari da spečalime,",
+       "en": "To earn some money,"
+      },
+      {
+       "cyr": "куќа да направиме.",
+       "lat": "kuḱa da napravime.",
+       "en": "to build a house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одиме, пееме, солзи рониме,",
+       "lat": "Odime, peeme, solzi ronime,",
+       "en": "We go, we sing, we shed tears,"
+      },
+      {
+       "cyr": "тој прв што замина сал го колниме.",
+       "lat": "toj prv što zamina sal go kolnime.",
+       "en": "the first one who left, we only curse him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наши верни другари",
+       "lat": "Naši verni drugari",
+       "en": "Our faithful comrades"
+      },
+      {
+       "cyr": "таму ќе не пречекаат,",
+       "lat": "tamu ḱe ne prečekaat,",
+       "en": "will meet us there,"
+      },
+      {
+       "cyr": "ергените ќе пеат",
+       "lat": "ergenite ḱe peat",
+       "en": "the bachelors will sing"
+      },
+      {
+       "cyr": "женетите ќе жалат.",
+       "lat": "ženetite ḱe žalat.",
+       "en": "the married ones will mourn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одиме, пееме, солзи рониме,",
+       "lat": "Odime, peeme, solzi ronime,",
+       "en": "We go, we sing, we shed tears,"
+      },
+      {
+       "cyr": "тој прв што замина сал го колниме.",
+       "lat": "toj prv što zamina sal go kolnime.",
+       "en": "the first one who left, we only curse him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

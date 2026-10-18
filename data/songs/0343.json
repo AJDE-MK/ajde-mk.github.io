@@ -1,0 +1,200 @@
+{
+ "id": 343,
+ "slug": "nevesto-lichna-kalesha",
+ "title_cyr": "Невесто лична калеша",
+ "title_latin": "Nevesto lična kaleša",
+ "title_en": "Pretty bride",
+ "pesna_url": "https://pesna.org/song/343",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Калеша' is unclear to me; left transliterated. 'Лафот чиневме' (we held talk) and the final stanza (her husband is absent, so she is a bride in name only) are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "девер",
+   "en": "husband's brother, brother-in-law"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  },
+  {
+   "mk": "постела",
+   "en": "bed, bedding"
+  },
+  {
+   "mk": "мана",
+   "en": "fault, flaw"
+  },
+  {
+   "mk": "лаф",
+   "en": "talk, word (Turkish-origin)"
+  },
+  {
+   "mk": "девојка",
+   "en": "maiden, girl"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1336"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/1337"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1982"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3148"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто лична калеша,",
+       "lat": "- Nevesto lična kaleša,",
+       "en": "- Pretty bride, kaleša (unclear),"
+      },
+      {
+       "cyr": "невесто лична калеша,",
+       "lat": "nevesto lična kaleša,",
+       "en": "pretty bride, kaleša,"
+      },
+      {
+       "cyr": "синоќа ти лафот чиневме",
+       "lat": "sinoḱa ti lafot činevme",
+       "en": "last night we held talk"
+      },
+      {
+       "cyr": "тебе млада да оставиме.",
+       "lat": "tebe mlada da ostavime.",
+       "en": "to leave you, young one, behind."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девере, најмал девере,",
+       "lat": "- Devere, najmal devere,",
+       "en": "- Brother-in-law, youngest brother-in-law,"
+      },
+      {
+       "cyr": "девере, најмлад девере,",
+       "lat": "devere, najmlad devere,",
+       "en": "brother-in-law, youngest brother-in-law,"
+      },
+      {
+       "cyr": "каква ми мана најдовте,",
+       "lat": "kakva mi mana najdovte,",
+       "en": "what fault did you find in me,"
+      },
+      {
+       "cyr": "мене млада да оставите?",
+       "lat": "mene mlada da ostavite?",
+       "en": "that you leave me, young one?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто лична, калеша,",
+       "lat": "- Nevesto lična, kaleša,",
+       "en": "- Pretty bride, kaleša,"
+      },
+      {
+       "cyr": "девет години, в' десетта,",
+       "lat": "devet godini, v' desetta,",
+       "en": "nine years, in the tenth,"
+      },
+      {
+       "cyr": "камо ти лулка до тебе",
+       "lat": "kamo ti lulka do tebe",
+       "en": "where is your cradle beside you"
+      },
+      {
+       "cyr": "и в' лулка машко детенце?",
+       "lat": "i v' lulka maško detence?",
+       "en": "and in the cradle a male baby?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девере, најмлад девере,",
+       "lat": "- Devere, najmlad devere,",
+       "en": "- Brother-in-law, youngest brother-in-law,"
+      },
+      {
+       "cyr": "девет години, в' десетта,",
+       "lat": "devet godini, v' desetta,",
+       "en": "nine years, in the tenth,"
+      },
+      {
+       "cyr": "постела не сум послала,",
+       "lat": "postela ne sum poslala,",
+       "en": "I have not spread a bed,"
+      },
+      {
+       "cyr": "со момче не сум легнала.",
+       "lat": "so momče ne sum legnala.",
+       "en": "I have not lain with a lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дека што пие, там' спие,",
+       "lat": "Deka što pie, tam' spie,",
+       "en": "Where he drinks, there he sleeps,"
+      },
+      {
+       "cyr": "дење и ноќе не иде,",
+       "lat": "denje i noḱe ne ide,",
+       "en": "day and night he does not come,"
+      },
+      {
+       "cyr": "името ми е невеста,",
+       "lat": "imeto mi e nevesta,",
+       "en": "by name I am a bride,"
+      },
+      {
+       "cyr": "на срце сум си девојка.",
+       "lat": "na srce sum si devojka.",
+       "en": "at heart I am a maiden."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

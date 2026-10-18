@@ -1,0 +1,239 @@
+{
+ "id": 1194,
+ "slug": "dojdi-libe-do-vecher",
+ "title_cyr": "Дојди либе до вечер",
+ "title_latin": "Dojdi libe do večer",
+ "title_en": "Come, darling, before evening",
+ "pesna_url": "https://pesna.org/song/1194",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The speaker changes: the mother's curse is quoted in the fourth and fifth stanzas, then the girl turns back to the lover. 'Митро ле' is a vocative; who is addressed is my reading. Traditional.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "darling, sweetheart"
+  },
+  {
+   "mk": "дојди",
+   "en": "come (imperative)"
+  },
+  {
+   "mk": "двор",
+   "en": "courtyard"
+  },
+  {
+   "mk": "колнеше",
+   "en": "she was cursing"
+  },
+  {
+   "mk": "спомињаше",
+   "en": "she was mentioning"
+  },
+  {
+   "mk": "бело платно",
+   "en": "white linen / cloth"
+  },
+  {
+   "mk": "белиш",
+   "en": "you bleach"
+  },
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "удавиш",
+   "en": "you drown"
+  },
+  {
+   "mk": "елај",
+   "en": "oh (refrain interjection, my reading)"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Кочо Петровски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2928"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/2929"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2930"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3468"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3469"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дојди либе, дојди до вечер,",
+       "lat": "Dojdi libe, dojdi do večer,",
+       "en": "Come, darling, come before evening,"
+      },
+      {
+       "cyr": "до нашите, либе, дворови,",
+       "lat": "do našite, libe, dvorovi,",
+       "en": "to our, darling, courtyards,"
+      },
+      {
+       "cyr": "елај либе, дојди либе до вечер,",
+       "lat": "elaj libe, dojdi libe do večer,",
+       "en": "oh darling, come darling before evening,"
+      },
+      {
+       "cyr": "елај либе, дојди либе до вечер.",
+       "lat": "elaj libe, dojdi libe do večer.",
+       "en": "oh darling, come darling before evening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да видиш либе, да чуеш,",
+       "lat": "Da vidiš libe, da čueš,",
+       "en": "So that you may see, darling, and hear,"
+      },
+      {
+       "cyr": "како мене мама колнеше,",
+       "lat": "kako mene mama kolneše,",
+       "en": "how my mother was cursing me,"
+      },
+      {
+       "cyr": "елај либе, дојди либе до вечер,",
+       "lat": "elaj libe, dojdi libe do večer,",
+       "en": "oh darling, come darling before evening,"
+      },
+      {
+       "cyr": "елај либе, дојди либе до вечер.",
+       "lat": "elaj libe, dojdi libe do večer.",
+       "en": "oh darling, come darling before evening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене мама, либе, колнеше,",
+       "lat": "Mene mama, libe, kolneše,",
+       "en": "My mother, darling, was cursing me,"
+      },
+      {
+       "cyr": "тебе либе те спомињаше,",
+       "lat": "tebe libe te spominjaše,",
+       "en": "and you, darling, she was mentioning,"
+      },
+      {
+       "cyr": "дојди либе, дојди либе до вечер,",
+       "lat": "dojdi libe, dojdi libe do večer,",
+       "en": "come darling, come darling before evening,"
+      },
+      {
+       "cyr": "дојди либе, дојди либе до вечер.",
+       "lat": "dojdi libe, dojdi libe do večer.",
+       "en": "come darling, come darling before evening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да даде господ Митро ле,",
+       "lat": "- Da dade gospod Mitro le,",
+       "en": "- May God grant, Mitro, hey,"
+      },
+      {
+       "cyr": "кога на Вардар ќе одиш,",
+       "lat": "koga na Vardar ḱe odiš,",
+       "en": "when you go to the Vardar,"
+      },
+      {
+       "cyr": "бело платно, бело платно да белиш,",
+       "lat": "belo platno, belo platno da beliš,",
+       "en": "that you bleach white linen, white linen,"
+      },
+      {
+       "cyr": "бело платно, бело платно да белиш.",
+       "lat": "belo platno, belo platno da beliš.",
+       "en": "that you bleach white linen, white linen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Силен облак ќерко да дојде,",
+       "lat": "Silen oblak ḱerko da dojde,",
+       "en": "May a mighty cloud come, daughter,"
+      },
+      {
+       "cyr": "платното да ти однесе",
+       "lat": "platnoto da ti odnese",
+       "en": "and carry your linen away,"
+      },
+      {
+       "cyr": "и тебе, да ти се ќерко удавиш,",
+       "lat": "i tebe, da ti se ḱerko udaviš,",
+       "en": "and you too, daughter, may you drown,"
+      },
+      {
+       "cyr": "и тебе, да ти се ќерко удавиш.",
+       "lat": "i tebe, da ti se ḱerko udaviš.",
+       "en": "and you too, daughter, may you drown."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А ти мило либе да дојдиш",
+       "lat": "A ti milo libe da dojdiš",
+       "en": "And you, dear darling, come"
+      },
+      {
+       "cyr": "и мене да ме либе извадиш,",
+       "lat": "i mene da me libe izvadiš,",
+       "en": "and pull me out, darling,"
+      },
+      {
+       "cyr": "елај либе, дојди либе до вечер,",
+       "lat": "elaj libe, dojdi libe do večer,",
+       "en": "oh darling, come darling before evening,"
+      },
+      {
+       "cyr": "елај либе, дојди либе до вечер.",
+       "lat": "elaj libe, dojdi libe do večer.",
+       "en": "oh darling, come darling before evening."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

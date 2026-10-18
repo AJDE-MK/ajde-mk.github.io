@@ -1,0 +1,218 @@
+{
+ "id": 1471,
+ "slug": "jasna-mesechina",
+ "title_cyr": "Јасна Месечина",
+ "title_latin": "Jasna Mesečina",
+ "title_en": "Bright Moon",
+ "pesna_url": "https://pesna.org/song/1471",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Нова мајка' is rendered as 'a new mother' (likely a stepmother, my reading). Traditional, origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on (song filler)"
+  },
+  {
+   "mk": "зајде",
+   "en": "sets (of sun/moon)"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight, moon"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "чардак",
+   "en": "balcony, upper porch"
+  },
+  {
+   "mk": "одаја",
+   "en": "room"
+  },
+  {
+   "mk": "шарена",
+   "en": "colorful"
+  },
+  {
+   "mk": "кревет",
+   "en": "bed"
+  },
+  {
+   "mk": "перниче",
+   "en": "little pillow"
+  },
+  {
+   "mk": "змија",
+   "en": "snake"
+  }
+ ],
+ "performers": [
+  "Александра Поповска",
+  "Драган Даутовски квартет"
+ ],
+ "audio": [
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/3806"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде зајде јасна,",
+       "lat": "Ajde zajde jasna,",
+       "en": "Come on, set, bright,"
+      },
+      {
+       "cyr": "јасна Месечина,",
+       "lat": "jasna Mesečina,",
+       "en": "bright Moon,"
+      },
+      {
+       "cyr": "меѓу две планини,",
+       "lat": "meǵu dve planini,",
+       "en": "between two mountains,"
+      },
+      {
+       "cyr": "меѓу две планини.",
+       "lat": "meǵu dve planini.",
+       "en": "between two mountains."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде во планина,",
+       "lat": "Ajde vo planina,",
+       "en": "Come on, in the mountain"
+      },
+      {
+       "cyr": "никој нигде нема,",
+       "lat": "nikoj nigde nema,",
+       "en": "there is nobody anywhere,"
+      },
+      {
+       "cyr": "само има, има нова куќа,",
+       "lat": "samo ima, ima nova kuḱa,",
+       "en": "there is only, only a new house,"
+      },
+      {
+       "cyr": "само има, има нова куќа.",
+       "lat": "samo ima, ima nova kuḱa.",
+       "en": "there is only, only a new house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде и во куќа",
+       "lat": "Ajde i vo kuḱa",
+       "en": "Come on, in the house too"
+      },
+      {
+       "cyr": "никој нигде нема,",
+       "lat": "nikoj nigde nema,",
+       "en": "there is nobody anywhere,"
+      },
+      {
+       "cyr": "само има, има нова мајка,",
+       "lat": "samo ima, ima nova majka,",
+       "en": "there is only, only a new mother,"
+      },
+      {
+       "cyr": "само има, има нова мајка.",
+       "lat": "samo ima, ima nova majka.",
+       "en": "there is only, only a new mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде се качила",
+       "lat": "Ajde se kačila",
+       "en": "Come on, she climbed"
+      },
+      {
+       "cyr": "горе на чардаци,",
+       "lat": "gore na čardaci,",
+       "en": "up onto the balcony,"
+      },
+      {
+       "cyr": "ајде па ми влегла в' шарена одаја",
+       "lat": "ajde pa mi vlegla v' šarena odaja",
+       "en": "come on, and she went into a colorful room,"
+      },
+      {
+       "cyr": "ајде па ми влегла в' шарена одаја.",
+       "lat": "ajde pa mi vlegla v' šarena odaja.",
+       "en": "come on, and she went into a colorful room."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ми седнала",
+       "lat": "Ajde mi sednala",
+       "en": "Come on, she sat down"
+      },
+      {
+       "cyr": "на железен кревет,",
+       "lat": "na železen krevet,",
+       "en": "on an iron bed,"
+      },
+      {
+       "cyr": "ајде ми седнала, малку да одмори,",
+       "lat": "ajde mi sednala, malku da odmori,",
+       "en": "come on, she sat down, to rest a little,"
+      },
+      {
+       "cyr": "ајде ми седнала, малку да одмори.",
+       "lat": "ajde mi sednala, malku da odmori.",
+       "en": "come on, she sat down, to rest a little."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде подместила",
+       "lat": "Ajde podmestila",
+       "en": "Come on, she arranged"
+      },
+      {
+       "cyr": "шарено перниче,",
+       "lat": "šareno perniče,",
+       "en": "a colorful little pillow,"
+      },
+      {
+       "cyr": "ајде под перниче, змија со три глави,",
+       "lat": "ajde pod perniče, zmija so tri glavi,",
+       "en": "come on, under the pillow, a snake with three heads,"
+      },
+      {
+       "cyr": "ајде под перниче, змија со три глави.",
+       "lat": "ajde pod perniče, zmija so tri glavi.",
+       "en": "come on, under the pillow, a snake with three heads."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

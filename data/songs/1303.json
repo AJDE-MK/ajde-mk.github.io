@@ -1,0 +1,243 @@
+{
+ "id": 1303,
+ "slug": "stoj-pochekaj-libe",
+ "title_cyr": "Стој, почекај либе",
+ "title_latin": "Stoj, počekaj libe",
+ "title_en": "Stop, wait, my love",
+ "pesna_url": "https://pesna.org/song/1303",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (modern folk-style). 'ја' in 'ја пак со друг' is the dialect form of 'јас' (I).",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "не бегај",
+   "en": "do not run away"
+  },
+  {
+   "mk": "вистина",
+   "en": "truth"
+  },
+  {
+   "mk": "лага",
+   "en": "lie"
+  },
+  {
+   "mk": "душманка",
+   "en": "(female) enemy"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "вервам",
+   "en": "I believe"
+  },
+  {
+   "mk": "воздишки",
+   "en": "sighs"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3305"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стој, почекај либе, не бегај од мене,",
+       "lat": "Stoj, počekaj libe, ne begaj od mene,",
+       "en": "Stop, wait, my love, do not run from me,"
+      },
+      {
+       "cyr": "нешто да те прашам дали е вистина:",
+       "lat": "nešto da te prašam dali e vistina:",
+       "en": "I want to ask you whether it is true:"
+      },
+      {
+       "cyr": "сите зборат, либе, дека ќе се жениш",
+       "lat": "site zborat, libe, deka ḱe se ženiš",
+       "en": "everyone says, my love, that you will marry"
+      },
+      {
+       "cyr": "за мој'та другарка, за мој'та душманка.",
+       "lat": "za moj'ta drugarka, za moj'ta dušmanka.",
+       "en": "my friend, my enemy."
+      },
+      {
+       "cyr": "Дали е вистина, или пак е лага,",
+       "lat": "Dali e vistina, ili pak e laga,",
+       "en": "Is it true, or is it a lie,"
+      },
+      {
+       "cyr": "на моево срце ми отвори рана.",
+       "lat": "na moevo srce mi otvori rana.",
+       "en": "it has opened a wound in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам да вервам на моиве очи",
+       "lat": "Ne možam da vervam na moive oči",
+       "en": "I cannot believe my eyes"
+      },
+      {
+       "cyr": "дека друга сакаш повеќе од мене.",
+       "lat": "deka druga sakaš poveḱe od mene.",
+       "en": "that you love another more than me."
+      },
+      {
+       "cyr": "Најголема љубов со тебе ја имав,",
+       "lat": "Najgolema ljubov so tebe ja imav,",
+       "en": "I had the greatest love with you,"
+      },
+      {
+       "cyr": "најубаво време со тебе ми мина.",
+       "lat": "najubavo vreme so tebe mi mina.",
+       "en": "the most beautiful time passed with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако пак е така, ожени се либе,",
+       "lat": "Ako pak e taka, oženi se libe,",
+       "en": "If that is so, then marry, my love,"
+      },
+      {
+       "cyr": "ожени се, либе, и јас ќе се мажам.",
+       "lat": "oženi se, libe, i jas ḱe se mažam.",
+       "en": "marry, my love, and I will marry too."
+      },
+      {
+       "cyr": "Но знај дека среќни нема да бидеме",
+       "lat": "No znaj deka sreḱni nema da bideme",
+       "en": "But know that we will not be happy,"
+      },
+      {
+       "cyr": "ниту ти со друга, а ни ја пак со друг.",
+       "lat": "nitu ti so druga, a ni ja pak so drug.",
+       "en": "neither you with another, nor I with another."
+      },
+      {
+       "cyr": "Дали е вистина, или пак е лага,",
+       "lat": "Dali e vistina, ili pak e laga,",
+       "en": "Is it true, or is it a lie,"
+      },
+      {
+       "cyr": "на моево срце ми отвори рана.",
+       "lat": "na moevo srce mi otvori rana.",
+       "en": "it has opened a wound in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам да вервам на моиве очи",
+       "lat": "Ne možam da vervam na moive oči",
+       "en": "I cannot believe my eyes"
+      },
+      {
+       "cyr": "дека друга сакаш повеќе од мене.",
+       "lat": "deka druga sakaš poveḱe od mene.",
+       "en": "that you love another more than me."
+      },
+      {
+       "cyr": "Најголема љубов со тебе ја имав,",
+       "lat": "Najgolema ljubov so tebe ja imav,",
+       "en": "I had the greatest love with you,"
+      },
+      {
+       "cyr": "најубаво време со тебе ми мина.",
+       "lat": "najubavo vreme so tebe mi mina.",
+       "en": "the most beautiful time passed with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако слушнеш, либе, ветер да задувне,",
+       "lat": "Ako slušneš, libe, veter da zaduvne,",
+       "en": "If you hear, my love, a wind blow,"
+      },
+      {
+       "cyr": "знај дека се, либе, моите воздишки.",
+       "lat": "znaj deka se, libe, moite vozdiški.",
+       "en": "know that those are my sighs."
+      },
+      {
+       "cyr": "Ако видиш, либе, дождови да врнат,",
+       "lat": "Ako vidiš, libe, doždovi da vrnat,",
+       "en": "If you see, my love, rains fall,"
+      },
+      {
+       "cyr": "знај дека се солзи од моиве очи.",
+       "lat": "znaj deka se solzi od moive oči.",
+       "en": "know that those are tears from my eyes."
+      },
+      {
+       "cyr": "Дали е вистина, или пак е лага,",
+       "lat": "Dali e vistina, ili pak e laga,",
+       "en": "Is it true, or is it a lie,"
+      },
+      {
+       "cyr": "на моево срце ми отвори рана.",
+       "lat": "na moevo srce mi otvori rana.",
+       "en": "it has opened a wound in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам да вервам на моиве очи",
+       "lat": "Ne možam da vervam na moive oči",
+       "en": "I cannot believe my eyes"
+      },
+      {
+       "cyr": "дека друга сакаш повеќе од мене.",
+       "lat": "deka druga sakaš poveḱe od mene.",
+       "en": "that you love another more than me."
+      },
+      {
+       "cyr": "Најголема љубов со тебе ја имав,",
+       "lat": "Najgolema ljubov so tebe ja imav,",
+       "en": "I had the greatest love with you,"
+      },
+      {
+       "cyr": "најубаво време со тебе ми мина.",
+       "lat": "najubavo vreme so tebe mi mina.",
+       "en": "the most beautiful time passed with you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

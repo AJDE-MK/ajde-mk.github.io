@@ -1,0 +1,153 @@
+{
+ "id": 953,
+ "slug": "ti-li-se-najde-leno-mori",
+ "title_cyr": "Ти ли се најде Лено мори",
+ "title_latin": "Ti li se najde Leno mori",
+ "title_en": "How did you find yourself here, Lena my dear",
+ "pesna_url": "https://pesna.org/song/953",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вања Лазарова",
+  "Горан Наумовски",
+  "Наум Петрески",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2197"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2198"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2199"
+  },
+  {
+   "who": "Synthesis, Наум Петрески",
+   "url": "https://pesna.org/audio-download/2200"
+  },
+  {
+   "who": "Горан Наумовски",
+   "url": "https://pesna.org/audio-download/2201"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ти ли се најде, Лено мори,",
+       "lat": "Ti li se najde, Leno mori,",
+       "en": "How did you find yourself here, Lena my dear,"
+      },
+      {
+       "cyr": "ти ли се најде?",
+       "lat": "ti li se najde?",
+       "en": "how did you find yourself?"
+      },
+      {
+       "cyr": "Дејгиди, слатка душо мори,",
+       "lat": "Dejgidi, slatka dušo mori,",
+       "en": "Dejgidi*, sweet soul of mine,"
+      },
+      {
+       "cyr": "дервен да чуваш.",
+       "lat": "derven da čuvaš.",
+       "en": "to guard the pass*."
+      },
+      {
+       "cyr": "Дејгиди кротко јагне мори,",
+       "lat": "Dejgidi krotko jagne mori,",
+       "en": "Dejgidi, meek lamb of mine,"
+      },
+      {
+       "cyr": "дервен да чуваш.",
+       "lat": "derven da čuvaš.",
+       "en": "to guard the pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дервен да чуваш, Лено мори,",
+       "lat": "Derven da čuvaš, Leno mori,",
+       "en": "To guard the pass, Lena my dear,"
+      },
+      {
+       "cyr": "дервен да чуваш.",
+       "lat": "derven da čuvaš.",
+       "en": "to guard the pass."
+      },
+      {
+       "cyr": "Дејгиди, слатка душо мори,",
+       "lat": "Dejgidi, slatka dušo mori,",
+       "en": "Dejgidi, sweet soul of mine,"
+      },
+      {
+       "cyr": "баждар да збираш.",
+       "lat": "baždar da zbiraš.",
+       "en": "to collect the fee."
+      },
+      {
+       "cyr": "Дејгиди кротко јагне мори,",
+       "lat": "Dejgidi krotko jagne mori,",
+       "en": "Dejgidi meek lamb of mine,"
+      },
+      {
+       "cyr": "баждар да збираш.",
+       "lat": "baždar da zbiraš.",
+       "en": "to collect the fee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Баждар да збираш, Лено мори",
+       "lat": "Baždar da zbiraš, Leno mori",
+       "en": "To collect the fee, Lena my dear,"
+      },
+      {
+       "cyr": "баждар да збираш.",
+       "lat": "baždar da zbiraš.",
+       "en": "to collect the fee."
+      },
+      {
+       "cyr": "Дејгиди, слатка душо мори,",
+       "lat": "Dejgidi, slatka dušo mori,",
+       "en": "Dejgidi, sweet soul of mine,"
+      },
+      {
+       "cyr": "сè жолти лири.",
+       "lat": "sè žolti liri.",
+       "en": "all those yellow liras*."
+      },
+      {
+       "cyr": "Дејгиди кротко јагне мори,",
+       "lat": "Dejgidi krotko jagne mori,",
+       "en": "Dejgidi meek lamb of mine,"
+      },
+      {
+       "cyr": "сè жолти лири.",
+       "lat": "sè žolti liri.",
+       "en": "all those yellow liras."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

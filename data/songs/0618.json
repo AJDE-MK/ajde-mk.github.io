@@ -1,0 +1,200 @@
+{
+ "id": 618,
+ "slug": "ajde-proviknal-se-iljo-maleshevski",
+ "title_cyr": "Ајде провикнал се Иљо Малешевски",
+ "title_latin": "Ajde proviknal se Iljo Maleševski",
+ "title_en": "Come on, Ilo Maleshevski called out",
+ "pesna_url": "https://pesna.org/song/618",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Ilo Maleshevski is a historical Macedonian revolutionary voivode; the text appears to be a patriotic revolutionary song, translated as traditional. No guessed lines.",
+ "words_to_learn": [
+  {
+   "mk": "провикнал се",
+   "en": "called out"
+  },
+  {
+   "mk": "војвода",
+   "en": "leader of a rebel band"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle"
+  },
+  {
+   "mk": "сабја",
+   "en": "sword, saber"
+  },
+  {
+   "mk": "душман",
+   "en": "enemy"
+  },
+  {
+   "mk": "се бие",
+   "en": "fights"
+  },
+  {
+   "mk": "истера",
+   "en": "drives out"
+  },
+  {
+   "mk": "земја",
+   "en": "land, earth"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Ванчо Тарабунов",
+  "Љупчо Дуцевски",
+  "Пирински гриваци"
+ ],
+ "audio": [
+  {
+   "who": "Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/950"
+  },
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/951"
+  },
+  {
+   "who": "Љупчо Дуцевски",
+   "url": "https://pesna.org/audio-download/952"
+  },
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3824"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде провикнал се",
+       "lat": "Ajde proviknal se",
+       "en": "Come on, he called out,"
+      },
+      {
+       "cyr": "Иљо Малешевски,",
+       "lat": "Iljo Maleševski,",
+       "en": "Ilo Maleshevski,"
+      },
+      {
+       "cyr": "Иљо Малешевски",
+       "lat": "Iljo Maleševski",
+       "en": "Ilo Maleshevski,"
+      },
+      {
+       "cyr": "Иљо војводата.",
+       "lat": "Iljo vojvodata.",
+       "en": "Ilo the voivode."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој си нема пушка",
+       "lat": "Koj si nema puška",
+       "en": "Whoever has no rifle"
+      },
+      {
+       "cyr": "тука нека дојде,",
+       "lat": "tuka neka dojde,",
+       "en": "let him come here,"
+      },
+      {
+       "cyr": "тука нека дојде",
+       "lat": "tuka neka dojde",
+       "en": "let him come here"
+      },
+      {
+       "cyr": "пушка да му дадам.",
+       "lat": "puška da mu dadam.",
+       "en": "and I will give him a rifle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој си нема сабја",
+       "lat": "Koj si nema sabja",
+       "en": "Whoever has no sword"
+      },
+      {
+       "cyr": "тука нека дојде,",
+       "lat": "tuka neka dojde,",
+       "en": "let him come here,"
+      },
+      {
+       "cyr": "тука нека дојде",
+       "lat": "tuka neka dojde",
+       "en": "let him come here"
+      },
+      {
+       "cyr": "сабја да му дадам.",
+       "lat": "sabja da mu dadam.",
+       "en": "and I will give him a sword."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Малешево да иде",
+       "lat": "Maleševo da ide",
+       "en": "Let Maleshevo go"
+      },
+      {
+       "cyr": "с' душман да се бие,",
+       "lat": "s' dušman da se bie,",
+       "en": "to fight the enemy,"
+      },
+      {
+       "cyr": "с' душман да се бие",
+       "lat": "s' dušman da se bie",
+       "en": "to fight the enemy"
+      },
+      {
+       "cyr": "душман да истера.",
+       "lat": "dušman da istera.",
+       "en": "and drive out the enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душман да истера",
+       "lat": "Dušman da istera",
+       "en": "To drive out the enemy"
+      },
+      {
+       "cyr": "од нашата земја,",
+       "lat": "od našata zemja,",
+       "en": "from our land,"
+      },
+      {
+       "cyr": "од нашата земја",
+       "lat": "od našata zemja",
+       "en": "from our land"
+      },
+      {
+       "cyr": "од Македонија.",
+       "lat": "od Makedonija.",
+       "en": "from Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

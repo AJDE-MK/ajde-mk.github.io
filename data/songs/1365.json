@@ -1,0 +1,117 @@
+{
+ "id": 1365,
+ "slug": "edno-devojche-od-petnajs-godini",
+ "title_cyr": "Едно девојче од петнајс години",
+ "title_latin": "Edno devojče od petnajs godini",
+ "title_en": "A girl of fifteen years",
+ "pesna_url": "https://pesna.org/song/1365",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style. 'тељојте' is a dialect word I am unsure of (my reading: headscarf/headdress); 'ни во турско, ни каурско' means neither among Turks nor Christians.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "my dear (Turkish-origin endearment)"
+  },
+  {
+   "mk": "момче",
+   "en": "boy, lad"
+  },
+  {
+   "mk": "молчи",
+   "en": "be quiet"
+  },
+  {
+   "mk": "ќерка",
+   "en": "daughter"
+  },
+  {
+   "mk": "поубо",
+   "en": "better (dialect for 'подобро')"
+  },
+  {
+   "mk": "каурско",
+   "en": "of the infidels (Christians)"
+  },
+  {
+   "mk": "заеш",
+   "en": "you know (dialect, my reading)"
+  }
+ ],
+ "performers": [
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/3533"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Едно девојче од петнајс години, џанам,",
+       "lat": "Edno devojče od petnajs godini, džanam,",
+       "en": "A girl of fifteen years, my dear,"
+      },
+      {
+       "cyr": "со тељојте на главата момчето си го плачеше.",
+       "lat": "so teljojte na glavata momčeto si go plačeše.",
+       "en": "with a headscarf on her head, was weeping for her boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А мајка ѝ на ќерка си думаше, џанам:",
+       "lat": "A majka ì na ḱerka si dumaše, džanam:",
+       "en": "And her mother said to her daughter, my dear:"
+      },
+      {
+       "cyr": "- Молчи ќерко, не ми плачи, друго момче ќе ти најдеме.",
+       "lat": "- Molči ḱerko, ne mi plači, drugo momče ḱe ti najdeme.",
+       "en": "- Be quiet, daughter, do not cry, we will find you another boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А ќерка ѝ на мајка си велеше, џанам:",
+       "lat": "A ḱerka ì na majka si veleše, džanam:",
+       "en": "And the daughter said to her mother, my dear:"
+      },
+      {
+       "cyr": "- Ој ти мајко, стара мајко, ти не заеш што ми велеше.",
+       "lat": "- Oj ti majko, stara majko, ti ne zaeš što mi veleše.",
+       "en": "- Oh you mother, old mother, you do not know what you are saying to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од мојто момче нигде поубо немаше, џанам,",
+       "lat": "Od mojto momče nigde poubo nemaše, džanam,",
+       "en": "There was no one better than my boy anywhere, my dear,"
+      },
+      {
+       "cyr": "ни во турско, ни каурско, ни во цела Македонија.",
+       "lat": "ni vo tursko, ni kaursko, ni vo cela Makedonija.",
+       "en": "neither in the Turkish, nor in the infidel, nor in all of Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

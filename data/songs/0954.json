@@ -1,0 +1,130 @@
+{
+ "id": 954,
+ "slug": "ogledala-se-angelina",
+ "title_cyr": "Огледала се Ангелина",
+ "title_latin": "Ogledala se Angelina",
+ "title_en": "Angelina looked at herself in the mirror",
+ "pesna_url": "https://pesna.org/song/954",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'аресала' meaning 'took a liking to herself' is my reading from Turkish 'beğenmek'. The coined verbs разглавувам, разженувам, распопувам are playful and I render them by sense.",
+ "words_to_learn": [
+  {
+   "mk": "огледало",
+   "en": "mirror"
+  },
+  {
+   "mk": "огледала се",
+   "en": "looked at herself"
+  },
+  {
+   "mk": "аресала",
+   "en": "liked, admired (Turkish loan)"
+  },
+  {
+   "mk": "бела",
+   "en": "white, fair"
+  },
+  {
+   "mk": "црвена",
+   "en": "red, rosy"
+  },
+  {
+   "mk": "повисочка",
+   "en": "a little taller"
+  },
+  {
+   "mk": "главените",
+   "en": "the engaged ones"
+  },
+  {
+   "mk": "разженувам",
+   "en": "I unmarry, undo a marriage"
+  },
+  {
+   "mk": "распопувам",
+   "en": "I unfrock a priest"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2202"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Огледала се Ангелина",
+       "lat": "Ogledala se Angelina",
+       "en": "Angelina looked in the mirror,"
+      },
+      {
+       "cyr": "сама си се огледала,",
+       "lat": "sama si se ogledala,",
+       "en": "she looked at herself alone,"
+      },
+      {
+       "cyr": "сама си се аресала.",
+       "lat": "sama si se aresala.",
+       "en": "she admired herself alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как' сам бела, ем црвена,",
+       "lat": "- Kak' sam bela, em crvena,",
+       "en": "- How white I am, and rosy too,"
+      },
+      {
+       "cyr": "малку да бев повисочка.",
+       "lat": "malku da bev povisočka.",
+       "en": "if only I were a little taller."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Главените - разглавувам,",
+       "lat": "Glavenite - razglavuvam,",
+       "en": "The engaged ones - I break their engagements,"
+      },
+      {
+       "cyr": "женените - разженувам.",
+       "lat": "ženenite - razženuvam.",
+       "en": "the married ones - I unmarry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Женените - разженувам,",
+       "lat": "Ženenite - razženuvam,",
+       "en": "The married ones - I unmarry,"
+      },
+      {
+       "cyr": "поповето - распопувам.",
+       "lat": "popoveto - raspopuvam.",
+       "en": "the priests - I unfrock."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

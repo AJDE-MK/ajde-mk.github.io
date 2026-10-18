@@ -1,0 +1,215 @@
+{
+ "id": 281,
+ "slug": "teshka-beshe-nashata-razdelba",
+ "title_cyr": "Тешка беше нашата разделба",
+ "title_latin": "Teška beše našata razdelba",
+ "title_en": "Our Parting Was Hard",
+ "pesna_url": "https://pesna.org/song/281",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a gurbet song. The opening parenthetical line is probably the alternate title or first line.",
+ "words_to_learn": [
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "к'смет",
+   "en": "luck, fate (from Turkish kismet)"
+  },
+  {
+   "mk": "јабанџија",
+   "en": "stranger, foreigner"
+  },
+  {
+   "mk": "гурбет",
+   "en": "life working abroad, exile"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "мака",
+   "en": "hardship"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "прегрнам",
+   "en": "I embrace"
+  }
+ ],
+ "performers": [
+  "Благоја Николовски",
+  "Васка Илиева",
+  "Васко Атанасовски",
+  "Зоран Џорлев",
+  "Мухарем Сербезовски",
+  "Никола Бадев",
+  "Ристо Краповски",
+  "Славе Велјановски"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/399"
+  },
+  {
+   "who": "Мухарем Сербезовски",
+   "url": "https://pesna.org/audio-download/400"
+  },
+  {
+   "who": "Славе Велјановски",
+   "url": "https://pesna.org/audio-download/401"
+  },
+  {
+   "who": "Зоран Џорлев, Ристо Краповски",
+   "url": "https://pesna.org/audio-download/402"
+  },
+  {
+   "who": "Васко Атанасовски",
+   "url": "https://pesna.org/audio-download/2859"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3855"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3856"
+  },
+  {
+   "who": "Благоја Николовски",
+   "url": "https://pesna.org/audio-download/3857"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Збогум мила дојде време)",
+       "lat": "(Zbogum mila dojde vreme)",
+       "en": "(Farewell, my dear, the time has come)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум мила дојде време",
+       "lat": "Zbogum mila dojde vreme",
+       "en": "Farewell, my dear, the time has come"
+      },
+      {
+       "cyr": "јас од тебе да се разделам.",
+       "lat": "jas od tebe da se razdelam.",
+       "en": "for me to part from you."
+      },
+      {
+       "cyr": "Јас пак беден роден сум без к'смет",
+       "lat": "Jas pak beden roden sum bez k'smet",
+       "en": "And I was born poor, without luck,"
+      },
+      {
+       "cyr": "сè со мака, тага голема.",
+       "lat": "sè so maka, taga golema.",
+       "en": "everything with hardship, great sorrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тешка беше нашата разделба,",
+       "lat": "Teška beše našata razdelba,",
+       "en": "Our parting was hard,"
+      },
+      {
+       "cyr": "кога тргнав од својот роден крај.",
+       "lat": "koga trgnav od svojot roden kraj.",
+       "en": "when I set out from my native land."
+      },
+      {
+       "cyr": "Мојте солзи патот го топеа,",
+       "lat": "Mojte solzi patot go topea,",
+       "en": "My tears melted the road,"
+      },
+      {
+       "cyr": "по патот за непознат крај.",
+       "lat": "po patot za nepoznat kraj.",
+       "en": "the road to an unknown land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојдов тука како јабанџија,",
+       "lat": "Dojdov tuka kako jabandžija,",
+       "en": "I came here like a stranger,"
+      },
+      {
+       "cyr": "далеку од својот роден крај.",
+       "lat": "daleku od svojot roden kraj.",
+       "en": "far from my native land."
+      },
+      {
+       "cyr": "Срце плаче нигде среќа нема,",
+       "lat": "Srce plače nigde sreḱa nema,",
+       "en": "My heart weeps, there is no happiness anywhere,"
+      },
+      {
+       "cyr": "тежок гурбет тага голема.",
+       "lat": "težok gurbet taga golema.",
+       "en": "hard gurbet, great sorrow."
+      },
+      {
+       "cyr": "Срце плачи нигде среќа нема,",
+       "lat": "Srce plači nigde sreḱa nema,",
+       "en": "My heart weeps, there is no happiness anywhere,"
+      },
+      {
+       "cyr": "тежок гурбет в' туѓа туѓина.",
+       "lat": "težok gurbet v' tuǵa tuǵina.",
+       "en": "hard gurbet in a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако бог дај јас да се вратам",
+       "lat": "Ako bog daj jas da se vratam",
+       "en": "If God grants it, I will return,"
+      },
+      {
+       "cyr": "тебе Стојне да те прегрнам.",
+       "lat": "tebe Stojne da te pregrnam.",
+       "en": "Stojna, to embrace you."
+      },
+      {
+       "cyr": "Да ти кажам мојте маки,",
+       "lat": "Da ti kažam mojte maki,",
+       "en": "To tell you my troubles,"
+      },
+      {
+       "cyr": "мојте маки, таги големи.",
+       "lat": "mojte maki, tagi golemi.",
+       "en": "my troubles, my great sorrows."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

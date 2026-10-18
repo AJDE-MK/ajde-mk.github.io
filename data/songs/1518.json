@@ -1,0 +1,113 @@
+{
+ "id": 1518,
+ "slug": "pusta-bila-mamo-amerika",
+ "title_cyr": "Пуста била мамо Америка",
+ "title_latin": "Pusta bila mamo Amerika",
+ "title_en": "America Was Desolate, Mother",
+ "pesna_url": "https://pesna.org/song/1518",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional emigration song. 'Пуста била' is rendered 'was desolate' (the 'била' is a reported-past form, roughly 'it turned out to be').",
+ "words_to_learn": [
+  {
+   "mk": "пуста",
+   "en": "desolate, wretched, cursed"
+  },
+  {
+   "mk": "печалба",
+   "en": "work abroad, migrant earnings"
+  },
+  {
+   "mk": "печалбарски",
+   "en": "of migrant work"
+  },
+  {
+   "mk": "се врати",
+   "en": "returned"
+  },
+  {
+   "mk": "се сакати",
+   "en": "got crippled, maimed"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "рака",
+   "en": "arm, hand"
+  },
+  {
+   "mk": "нога",
+   "en": "leg"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Благој Петров - Караѓуле, Никола Бадев",
+   "url": "https://pesna.org/audio-download/3971"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пуста била мамо Америка,",
+       "lat": "Pusta bila mamo Amerika,",
+       "en": "America was desolate, mother,"
+      },
+      {
+       "cyr": "Америка, земја печалбарска.",
+       "lat": "Amerika, zemja pečalbarska.",
+       "en": "America, a land of migrant labor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој отиде мамо, не се врати,",
+       "lat": "Koj otide mamo, ne se vrati,",
+       "en": "Whoever went, mother, did not return,"
+      },
+      {
+       "cyr": "кој се врати, мамо, се сакати.",
+       "lat": "koj se vrati, mamo, se sakati.",
+       "en": "whoever returned, mother, came back crippled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој без рака, мамо, кој без нога,",
+       "lat": "Koj bez raka, mamo, koj bez noga,",
+       "en": "Some without an arm, mother, some without a leg,"
+      },
+      {
+       "cyr": "мојто либе мамо и без глава.",
+       "lat": "mojto libe mamo i bez glava.",
+       "en": "my sweetheart, mother, even without a head."
+      },
+      {
+       "cyr": "Пуста била, мамо, Америка!",
+       "lat": "Pusta bila, mamo, Amerika!",
+       "en": "Desolate was America, mother!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

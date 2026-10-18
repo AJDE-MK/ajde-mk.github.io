@@ -1,0 +1,229 @@
+{
+ "id": 1129,
+ "slug": "si-zaljubi-dzhefa",
+ "title_cyr": "Си заљуби Џефа",
+ "title_latin": "Si zaljubi Džefa",
+ "title_en": "Dzhefa was fallen in love with",
+ "pesna_url": "https://pesna.org/song/1129",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The first line is ambiguous in who fell in love with whom; my reading is that the two brothers fell for Dzhefa. 'ја пушти' rendered 'let her go' (my reading, release her from the marriage).",
+ "words_to_learn": [
+  {
+   "mk": "близнак",
+   "en": "twin"
+  },
+  {
+   "mk": "постариот / помалиот",
+   "en": "the elder / the younger"
+  },
+  {
+   "mk": "џанам",
+   "en": "my soul, dear (Turkish-origin endearment)"
+  },
+  {
+   "mk": "перница",
+   "en": "pillow"
+  },
+  {
+   "mk": "севда",
+   "en": "love-longing"
+  },
+  {
+   "mk": "девер",
+   "en": "brother-in-law (husband's brother)"
+  },
+  {
+   "mk": "руво",
+   "en": "clothes"
+  },
+  {
+   "mk": "чевли",
+   "en": "shoes"
+  },
+  {
+   "mk": "душа даде",
+   "en": "gave up the ghost"
+  },
+  {
+   "mk": "лична",
+   "en": "fair, handsome"
+  }
+ ],
+ "performers": [
+  "Александар Тасевски",
+  "Виданка Георгиева",
+  "Демирхисарски бисери",
+  "Елена Велевска",
+  "Меџит Муслиоски"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2716"
+  },
+  {
+   "who": "Демирхисарски бисери",
+   "url": "https://pesna.org/audio-download/2717"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/2718"
+  },
+  {
+   "who": "Александар Тасевски",
+   "url": "https://pesna.org/audio-download/2719"
+  },
+  {
+   "who": "Меџит Муслиоски",
+   "url": "https://pesna.org/audio-download/2720"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си заљуби Џефа од Долна Река",
+       "lat": "Si zaljubi Džefa od Dolna Reka",
+       "en": "They fell in love with Dzhefa from Dolna Reka,"
+      },
+      {
+       "cyr": "двајца браќа, два близнака,",
+       "lat": "dvajca braḱa, dva bliznaka,",
+       "en": "two brothers, two twins,"
+      },
+      {
+       "cyr": "еден Мевмет, други Асан.",
+       "lat": "eden Mevmet, drugi Asan.",
+       "en": "one Mevmet, the other Asan."
+      },
+      {
+       "cyr": "Ја побара постариот,",
+       "lat": "Ja pobara postariot,",
+       "en": "The elder asked for her,"
+      },
+      {
+       "cyr": "ја дадоа на помалиот,",
+       "lat": "ja dadoa na pomaliot,",
+       "en": "they gave her to the younger,"
+      },
+      {
+       "cyr": "одма Асан, џанам, болен легна.",
+       "lat": "odma Asan, džanam, bolen legna.",
+       "en": "right away Asan, my soul, lay down sick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лежа што ми лежа девет години,",
+       "lat": "Leža što mi leža devet godini,",
+       "en": "He lay for nine years,"
+      },
+      {
+       "cyr": "ми искина девет постели,",
+       "lat": "mi iskina devet posteli,",
+       "en": "he wore out nine beds,"
+      },
+      {
+       "cyr": "ми искина девет перници,",
+       "lat": "mi iskina devet pernici,",
+       "en": "he wore out nine pillows,"
+      },
+      {
+       "cyr": "болен ми е, севда голема,",
+       "lat": "bolen mi e, sevda golema,",
+       "en": "he is sick, great longing,"
+      },
+      {
+       "cyr": "тешка болест, не се лекува,",
+       "lat": "teška bolest, ne se lekuva,",
+       "en": "heavy illness, it cannot be cured,"
+      },
+      {
+       "cyr": "нит умира Асан, нит станува.",
+       "lat": "nit umira Asan, nit stanuva.",
+       "en": "Asan neither dies nor gets up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ѝ рече Асан на мајка си:",
+       "lat": "Pa ì reče Asan na majka si:",
+       "en": "Then Asan said to his mother:"
+      },
+      {
+       "cyr": "- Ја појди си кај Мевмета",
+       "lat": "- Ja pojdi si kaj Mevmeta",
+       "en": "- Go yourself to Mevmet"
+      },
+      {
+       "cyr": "и речи му да ја пушти,",
+       "lat": "i reči mu da ja pušti,",
+       "en": "and tell him to let her go,"
+      },
+      {
+       "cyr": "да ја пушти лична Џефа",
+       "lat": "da ja pušti lična Džefa",
+       "en": "to let go the fair Dzhefa"
+      },
+      {
+       "cyr": "да ми баци десна рака,",
+       "lat": "da mi baci desna raka,",
+       "en": "to lay her right hand on me,"
+      },
+      {
+       "cyr": "ил' да умрам, море, ил' да станам.",
+       "lat": "il' da umram, more, il' da stanam.",
+       "en": "so I either die, hey, or get up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си послуша Џефа девера си,",
+       "lat": "Si posluša Džefa devera si,",
+       "en": "Dzhefa obeyed her brother-in-law,"
+      },
+      {
+       "cyr": "си облече бело руво,",
+       "lat": "si obleče belo ruvo,",
+       "en": "she put on white clothes,"
+      },
+      {
+       "cyr": "бело руво, жолти чевли,",
+       "lat": "belo ruvo, žolti čevli,",
+       "en": "white clothes, yellow shoes,"
+      },
+      {
+       "cyr": "па си појде кај Асана,",
+       "lat": "pa si pojde kaj Asana,",
+       "en": "and went to Asan,"
+      },
+      {
+       "cyr": "и му баци десна рака,",
+       "lat": "i mu baci desna raka,",
+       "en": "and laid her right hand on him,"
+      },
+      {
+       "cyr": "одма Асан, џанам, душа даде.",
+       "lat": "odma Asan, džanam, duša dade.",
+       "en": "right away Asan, my soul, gave up his soul."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

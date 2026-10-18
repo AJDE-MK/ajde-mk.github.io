@@ -1,0 +1,279 @@
+{
+ "id": 1005,
+ "slug": "shto-kuchinja-lajat-mome-eleno",
+ "title_cyr": "Што кучиња лајат, моме Елено",
+ "title_latin": "Što kučinja lajat, mome Eleno",
+ "title_en": "Why do the dogs bark, girl Elena",
+ "pesna_url": "https://pesna.org/song/1005",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad with a Bulgarian-flavoured dialect (това, у, тија); 'коси ѝ секоја' I read as 'they cut her hair' and 'џанам' as a filler/exclamation, my reading. 'Ќе ти заколеме' is 'we will slaughter'; the ballad is violent.",
+ "words_to_learn": [
+  {
+   "mk": "лаjат",
+   "en": "bark"
+  },
+  {
+   "mk": "тражат",
+   "en": "they look for (dialect)"
+  },
+  {
+   "mk": "руса коса",
+   "en": "fair hair"
+  },
+  {
+   "mk": "извадиме",
+   "en": "we will take out, gouge out"
+  },
+  {
+   "mk": "на гости",
+   "en": "visiting, as a guest"
+  },
+  {
+   "mk": "арамија",
+   "en": "bandit, outlaw"
+  },
+  {
+   "mk": "изба",
+   "en": "cellar"
+  },
+  {
+   "mk": "фучија",
+   "en": "barrel"
+  },
+  {
+   "mk": "џанам",
+   "en": "dear, alas (filler)"
+  }
+ ],
+ "performers": [
+  "Ванчо Дојранлиев",
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Елена Ристеска",
+  "Зоран Џорлев",
+  "Јорданка Смилевска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2337"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/3772"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3773"
+  },
+  {
+   "who": "Ванчо Дојранлиев",
+   "url": "https://pesna.org/audio-download/3774"
+  },
+  {
+   "who": "Елена Ристеска",
+   "url": "https://pesna.org/audio-download/3775"
+  },
+  {
+   "who": "Зоран Џорлев, Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/3776"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што кучиња лајат, мори моме Елено,",
+       "lat": "Što kučinja lajat, mori mome Eleno,",
+       "en": "Why do the dogs bark, hey, girl Elena,"
+      },
+      {
+       "cyr": "кучиња лајат, лоши луѓе идат,",
+       "lat": "kučinja lajat, loši luǵe idat,",
+       "en": "the dogs bark, bad men are coming,"
+      },
+      {
+       "cyr": "лоши луѓе идат, брата ти го тражат.",
+       "lat": "loši luǵe idat, brata ti go tražat.",
+       "en": "bad men are coming, looking for your brother."
+      },
+      {
+       "cyr": "- Кажи го, кажи мори, моме Елено,",
+       "lat": "- Kaži go, kaži mori, mome Eleno,",
+       "en": "- Tell where he is, tell, hey, girl Elena,"
+      },
+      {
+       "cyr": "кажи го, кажи, брата ти Донча,",
+       "lat": "kaži go, kaži, brata ti Donča,",
+       "en": "tell where he is, tell, your brother Doncha,"
+      },
+      {
+       "cyr": "кажи го, кажи, брата ти Донча.",
+       "lat": "kaži go, kaži, brata ti Donča.",
+       "en": "tell where he is, tell, your brother Doncha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не го кажеш, мори, моме Елено,",
+       "lat": "Ako ne go kažeš, mori, mome Eleno,",
+       "en": "If you do not tell, hey, girl Elena,"
+      },
+      {
+       "cyr": "ќе ти исечеме таjа руса коса,",
+       "lat": "ḱe ti isečeme taja rusa kosa,",
+       "en": "we will cut off your fair hair,"
+      },
+      {
+       "cyr": "ќе ти извадиме тија црни очи.",
+       "lat": "ḱe ti izvadime tija crni oči.",
+       "en": "we will gouge out your black eyes."
+      },
+      {
+       "cyr": "Коси ѝ секоја, џанам, брата не кажува:",
+       "lat": "Kosi ì sekoja, džanam, brata ne kažuva:",
+       "en": "She is cut at every hair, alas, she does not tell of her brother:"
+      },
+      {
+       "cyr": "- Брат ми е Дончо у деда на гости,",
+       "lat": "- Brat mi e Dončo u deda na gosti,",
+       "en": "- My brother Doncho is a guest at grandfather's,"
+      },
+      {
+       "cyr": "брат ми е Дончо у деда на гости.",
+       "lat": "brat mi e Dončo u deda na gosti.",
+       "en": "my brother Doncho is a guest at grandfather's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи го, кажи, мори моме Елено,",
+       "lat": "- Kaži go, kaži, mori mome Eleno,",
+       "en": "- Tell where he is, tell, hey girl Elena,"
+      },
+      {
+       "cyr": "кажи го, кажи, брата ти Донча,",
+       "lat": "kaži go, kaži, brata ti Donča,",
+       "en": "tell where he is, tell, your brother Doncha,"
+      },
+      {
+       "cyr": "ако не го кажеш, ќе ти исечеме.",
+       "lat": "ako ne go kažeš, ḱe ti isečeme.",
+       "en": "if you do not tell, we will cut off."
+      },
+      {
+       "cyr": "Ќе ти исечеме, мори моме Елено,",
+       "lat": "Ḱe ti isečeme, mori mome Eleno,",
+       "en": "We will cut off, hey girl Elena,"
+      },
+      {
+       "cyr": "ќе ти исечеме раце до рамена,",
+       "lat": "ḱe ti isečeme race do ramena,",
+       "en": "we will cut off your arms to the shoulders,"
+      },
+      {
+       "cyr": "ќе ти исечеме нозе до колена.",
+       "lat": "ḱe ti isečeme noze do kolena.",
+       "en": "we will cut off your legs to the knees."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нозе ѝ скршија џанам, раце ѝ секоја,",
+       "lat": "Noze ì skršija džanam, race ì sekoja,",
+       "en": "They broke her legs, alas, they cut her arms,"
+      },
+      {
+       "cyr": "раце ѝ секоја, брата не кажува:",
+       "lat": "race ì sekoja, brata ne kažuva:",
+       "en": "they cut her arms, she does not tell of her brother:"
+      },
+      {
+       "cyr": "- Брат ми е Дончо, у деда на гости.",
+       "lat": "- Brat mi e Dončo, u deda na gosti.",
+       "en": "- My brother Doncho is a guest at grandfather's."
+      },
+      {
+       "cyr": "Лена оставија џанам, жена му фатија:",
+       "lat": "Lena ostavija džanam, žena mu fatija:",
+       "en": "They left Lena, alas, they seized his wife:"
+      },
+      {
+       "cyr": "- Кажи го, кажи млада Дончевице,",
+       "lat": "- Kaži go, kaži mlada Dončevice,",
+       "en": "- Tell where he is, tell, young Donchevitsa,"
+      },
+      {
+       "cyr": "кажи го, кажи, мажа ти Донча.",
+       "lat": "kaži go, kaži, maža ti Donča.",
+       "en": "tell where he is, tell, your husband Doncha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи го, кажи млада Дончевице,",
+       "lat": "Kaži go, kaži mlada Dončevice,",
+       "en": "Tell where he is, tell, young Donchevitsa,"
+      },
+      {
+       "cyr": "кажи го, кажи, мажа ти Донча,",
+       "lat": "kaži go, kaži, maža ti Donča,",
+       "en": "tell where he is, tell, your husband Doncha,"
+      },
+      {
+       "cyr": "ако не го кажеш, ќе ти заколеме.",
+       "lat": "ako ne go kažeš, ḱe ti zakoleme.",
+       "en": "if you do not tell, we will slaughter."
+      },
+      {
+       "cyr": "Ако не го кажеш, мори млада Дончевице,",
+       "lat": "Ako ne go kažeš, mori mlada Dončevice,",
+       "en": "If you do not tell, hey, young Donchevitsa,"
+      },
+      {
+       "cyr": "ќе ти заколеме това машко дете,",
+       "lat": "ḱe ti zakoleme tova maško dete,",
+       "en": "we will slaughter your baby boy,"
+      },
+      {
+       "cyr": "ќе ти заколеме това машко дете.",
+       "lat": "ḱe ti zakoleme tova maško dete.",
+       "en": "we will slaughter your baby boy."
+      },
+      {
+       "cyr": "- Дете не колите, море клети арамии,",
+       "lat": "- Dete ne kolite, more kleti aramii,",
+       "en": "- Do not slaughter the child, you cursed bandits,"
+      },
+      {
+       "cyr": "маж ми е Дончо, доле во избата,",
+       "lat": "maž mi e Dončo, dole vo izbata,",
+       "en": "my husband Doncho is down in the cellar,"
+      },
+      {
+       "cyr": "доле во избата, у средна фучија.",
+       "lat": "dole vo izbata, u sredna fučija.",
+       "en": "down in the cellar, in the middle barrel."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

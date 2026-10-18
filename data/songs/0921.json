@@ -1,0 +1,174 @@
+{
+ "id": 921,
+ "slug": "izlegov-da-se-proshetam",
+ "title_cyr": "Излегов да се прошетам",
+ "title_latin": "Izlegov da se prošetam",
+ "title_en": "I Went Out for a Walk",
+ "pesna_url": "https://pesna.org/song/921",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. 'лудо' in line 1 of stanza 3 is rendered 'the fool' (my reading; it can also be an endearment).",
+ "words_to_learn": [
+  {
+   "mk": "излегов",
+   "en": "I went out"
+  },
+  {
+   "mk": "да се прошетам",
+   "en": "to take a walk"
+  },
+  {
+   "mk": "улици",
+   "en": "streets"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "писма",
+   "en": "letters"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "проколнав",
+   "en": "I cursed"
+  },
+  {
+   "mk": "девет",
+   "en": "nine"
+  },
+  {
+   "mk": "постели",
+   "en": "beds"
+  },
+  {
+   "mk": "однесат",
+   "en": "carry away"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Персиди"
+ ],
+ "audio": [
+  {
+   "who": "Персиди",
+   "url": "https://pesna.org/audio-download/2061"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/2062"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегов да се прошетам",
+       "lat": "Izlegov da se prošetam",
+       "en": "I went out for a walk"
+      },
+      {
+       "cyr": "низ ресенските улици,",
+       "lat": "niz resenskite ulici,",
+       "en": "through the streets of Resen,"
+      },
+      {
+       "cyr": "таму го најдов либето,",
+       "lat": "tamu go najdov libeto,",
+       "en": "there I found my sweetheart,"
+      },
+      {
+       "cyr": "со друго либе стоеше.",
+       "lat": "so drugo libe stoeše.",
+       "en": "standing with another love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со друго либе стоеше,",
+       "lat": "So drugo libe stoeše,",
+       "en": "Standing with another love,"
+      },
+      {
+       "cyr": "мојте ги писма читаше,",
+       "lat": "mojte gi pisma čitaše,",
+       "en": "reading my letters,"
+      },
+      {
+       "cyr": "мојте ги писма читаше,",
+       "lat": "mojte gi pisma čitaše,",
+       "en": "reading my letters,"
+      },
+      {
+       "cyr": "мојот го прстен даваше.",
+       "lat": "mojot go prsten davaše.",
+       "en": "giving away my ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогаш го лудо проколнав:",
+       "lat": "Togaš go ludo prokolnav:",
+       "en": "Then I cursed the fool:"
+      },
+      {
+       "cyr": "девет години да лежи,",
+       "lat": "devet godini da leži,",
+       "en": "may he lie nine years,"
+      },
+      {
+       "cyr": "девет години да лежи,",
+       "lat": "devet godini da leži,",
+       "en": "may he lie nine years,"
+      },
+      {
+       "cyr": "девет постели да смени.",
+       "lat": "devet posteli da smeni.",
+       "en": "may he change nine beds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе умрам, мајко ле,",
+       "lat": "Koga ḱe umram, majko le,",
+       "en": "When I die, oh mother,"
+      },
+      {
+       "cyr": "другарки да ме облечат,",
+       "lat": "drugarki da me oblečat,",
+       "en": "may my girlfriends dress me,"
+      },
+      {
+       "cyr": "другарки да ме облечат,",
+       "lat": "drugarki da me oblečat,",
+       "en": "may my girlfriends dress me,"
+      },
+      {
+       "cyr": "другари да ме однесат.",
+       "lat": "drugari da me odnesat.",
+       "en": "may my male friends carry me away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

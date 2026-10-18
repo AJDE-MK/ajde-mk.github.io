@@ -1,0 +1,198 @@
+{
+ "id": 239,
+ "slug": "zurli-treshtat-na-sred-selo",
+ "title_cyr": "Зурли трештат на сред село",
+ "title_latin": "Zurli treštat na sred selo",
+ "title_en": "Zurnas are blasting in the middle of the village",
+ "pesna_url": "https://pesna.org/song/239",
+ "background": "A dance song with a grandfather as the hero. Zurnas blast in the middle of the village, the drum beats, and young girls and bachelors wind two ora. An old white-bearded grandfather comes down, moustache twisted up, and heads straight for the oro to join. Grandma Neda catches his hand and asks where he is off to, to criticise the dancing. The point is that he joins.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "5 плус",
+  "Адријана Алачки",
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Гледанице",
+  "Даниела Темелковска",
+  "Ѓорѓе Машаловиќ",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Кочо Петровски",
+  "Рум дум дум",
+  "Стефче Стојковски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Кочо Петровски",
+   "url": "https://pesna.org/audio-download/1487"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1488"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1489"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/1490"
+  },
+  {
+   "who": "Рум дум дум",
+   "url": "https://pesna.org/audio-download/1491"
+  },
+  {
+   "who": "Даниела Темелковска",
+   "url": "https://pesna.org/audio-download/2845"
+  },
+  {
+   "who": "5 плус",
+   "url": "https://pesna.org/audio-download/2846"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3470"
+  },
+  {
+   "who": "Адријана Алачки",
+   "url": "https://pesna.org/audio-download/3471"
+  },
+  {
+   "who": "Васка Илиева, Ѓорѓе Машаловиќ",
+   "url": "https://pesna.org/audio-download/3472"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/3473"
+  },
+  {
+   "who": "Гледанице",
+   "url": "https://pesna.org/audio-download/3474"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зурли трештат на сред село,",
+       "lat": "Zurli treštat na sred selo,",
+       "en": "Zurnas are blasting in the middle of the village,"
+      },
+      {
+       "cyr": "тапан бие рум-дум-дум,",
+       "lat": "tapan bie rum-dum-dum,",
+       "en": "The drum beats rum-dum-dum,"
+      },
+      {
+       "cyr": "млади моми и ергени,",
+       "lat": "mladi momi i ergeni,",
+       "en": "Young girls and boys"
+      },
+      {
+       "cyr": "до две ора вијат.",
+       "lat": "do dve ora vijat.",
+       "en": "dance in pairs and swivel."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде стар бел дедо,",
+       "lat": "Ozdola ide star bel dedo,",
+       "en": "From below comes an old white-haired grandpa,"
+      },
+      {
+       "cyr": "засукал мустаќи,",
+       "lat": "zasukal mustaḱi,",
+       "en": "Rolling up his moustache,"
+      },
+      {
+       "cyr": "право трга на орото",
+       "lat": "pravo trga na oroto",
+       "en": "Heading straight to the dance,"
+      },
+      {
+       "cyr": "и тој да се фати.",
+       "lat": "i toj da se fati.",
+       "en": "Wanting to join in."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го здогледа баба Неда,",
+       "lat": "Go zdogleda baba Neda,",
+       "en": "Grandma Neda sees him,"
+      },
+      {
+       "cyr": "за рака го фати:",
+       "lat": "za raka go fati:",
+       "en": "And grabs him by the hand:"
+      },
+      {
+       "cyr": "- Каде одиш старо-аро,",
+       "lat": "- Kade odiš staro-aro,",
+       "en": "\"Where are you going, you old goat"
+      },
+      {
+       "cyr": "оро да им грдиш?",
+       "lat": "oro da im grdiš?",
+       "en": "To spoil their dance?\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стој, почекај баба Недо,",
+       "lat": "Stoj, počekaj baba Nedo,",
+       "en": "\"Wait, hold on, Grandma Neda,"
+      },
+      {
+       "cyr": "до моми да играм,",
+       "lat": "do momi da igram,",
+       "en": "I want to join the dance,"
+      },
+      {
+       "cyr": "да се фатам до момите,",
+       "lat": "da se fatam do momite,",
+       "en": "To catch up with the young girls,"
+      },
+      {
+       "cyr": "срце да разиграм.",
+       "lat": "srce da razigram.",
+       "en": "And make my heart rejoice.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рум-дум-рум-дум-рум-дум-рум,",
+       "lat": "Rum-dum-rum-dum-rum-dum-rum,",
+       "en": "Rum-dum-rum-dum-rum-dum-rum,"
+      },
+      {
+       "cyr": "рум-дум-рум-дум-рум-дум-дум!",
+       "lat": "rum-dum-rum-dum-rum-dum-dum!",
+       "en": "Rum-dum-rum-dum-rum-dum-dum!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

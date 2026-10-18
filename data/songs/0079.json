@@ -1,0 +1,170 @@
+{
+ "id": 79,
+ "slug": "marika-na-stol-sedeshe",
+ "title_cyr": "Марика на стол седеше",
+ "title_latin": "Marika na stol sedeše",
+ "title_en": "Marika Sat on a Chair",
+ "pesna_url": "https://pesna.org/song/79",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Солунско' read as the Salonica front (probably WWI), my reading. 'сум добила' is a dialect form of 'имам добиено' (I have received).",
+ "words_to_learn": [
+  {
+   "mk": "стол",
+   "en": "chair"
+  },
+  {
+   "mk": "љубовно писмо",
+   "en": "love letter"
+  },
+  {
+   "mk": "дробни солзи",
+   "en": "tiny tears"
+  },
+  {
+   "mk": "роним",
+   "en": "to shed (tears)"
+  },
+  {
+   "mk": "бојно поле",
+   "en": "battlefield"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "ранен",
+   "en": "wounded"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "клет",
+   "en": "cursed, wretched"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Цвета Билјановска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1904"
+  },
+  {
+   "who": "Цвета Билјановска",
+   "url": "https://pesna.org/audio-download/1905"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Марика на стол седеше, оф, аман.",
+       "lat": "Marika na stol sedeše, of, aman.",
+       "en": "Marika sat on a chair, oh, aman."
+      },
+      {
+       "cyr": "Марика на стол седеше,",
+       "lat": "Marika na stol sedeše,",
+       "en": "Marika sat on a chair,"
+      },
+      {
+       "cyr": "љубовно писмо читаше,",
+       "lat": "ljubovno pismo čitaše,",
+       "en": "reading a love letter,"
+      },
+      {
+       "cyr": "дробни си солзи ронеше.",
+       "lat": "drobni si solzi roneše.",
+       "en": "shedding tiny tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка Марика прашаше, оф, аман.",
+       "lat": "Majka Marika prašaše, of, aman.",
+       "en": "Mother asked Marika, oh, aman."
+      },
+      {
+       "cyr": "Мајка Марика прашаше:",
+       "lat": "Majka Marika prašaše:",
+       "en": "Mother asked Marika:"
+      },
+      {
+       "cyr": "- Зошто, Марике, си плачеш,",
+       "lat": "- Zošto, Marike, si plačeš,",
+       "en": "- Why, Marika, are you crying,"
+      },
+      {
+       "cyr": "зошто си читаш, ем плачеш?",
+       "lat": "zošto si čitaš, em plačeš?",
+       "en": "why do you read and also cry?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Писмо сум, мајко, добила, оф, аман.",
+       "lat": "- Pismo sum, majko, dobila, of, aman.",
+       "en": "- I received a letter, mother, oh, aman,"
+      },
+      {
+       "cyr": "писмо сум, мајко, добила,",
+       "lat": "pismo sum, majko, dobila,",
+       "en": "I received a letter, mother,"
+      },
+      {
+       "cyr": "од бојно поле Солунско,",
+       "lat": "od bojno pole Solunsko,",
+       "en": "from the battlefield of Salonica,"
+      },
+      {
+       "cyr": "од мојто либе сакано.",
+       "lat": "od mojto libe sakano.",
+       "en": "from my beloved sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Писмо ми пише либето, оф, аман.",
+       "lat": "Pismo mi piše libeto, of, aman.",
+       "en": "My sweetheart writes me a letter, oh, aman."
+      },
+      {
+       "cyr": "Писмо ми пише либето,",
+       "lat": "Pismo mi piše libeto,",
+       "en": "My sweetheart writes me a letter,"
+      },
+      {
+       "cyr": "либето ми е ранено",
+       "lat": "libeto mi e raneno",
+       "en": "my sweetheart is wounded"
+      },
+      {
+       "cyr": "од тие клети душмани.",
+       "lat": "od tie kleti dušmani.",
+       "en": "by those cursed enemies."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

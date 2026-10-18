@@ -1,0 +1,218 @@
+{
+ "id": 977,
+ "slug": "snoshti-ti-dojdov-na-gosti",
+ "title_cyr": "Сношти ти дојдов на гости",
+ "title_latin": "Snošti ti dojdov na gosti",
+ "title_en": "Last Night I Came to Visit You",
+ "pesna_url": "https://pesna.org/song/977",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style love song, origin unclear. Kalja is a pet form of Kalina; the -м ending in 'спијам, заспијам' is a dialect/rhyming form.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "на гости",
+   "en": "on a visit"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "најдов",
+   "en": "I found"
+  },
+  {
+   "mk": "одајче",
+   "en": "little room"
+  },
+  {
+   "mk": "шише",
+   "en": "bottle"
+  },
+  {
+   "mk": "напијам се",
+   "en": "I drink my fill"
+  },
+  {
+   "mk": "белким",
+   "en": "perhaps, maybe"
+  },
+  {
+   "mk": "спијам",
+   "en": "I sleep (dialect form)"
+  }
+ ],
+ "performers": [
+  "Пирински гриваци",
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/2269"
+  },
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/3227"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти ти дојдов на гости,",
+       "lat": "Snošti ti dojdov na gosti,",
+       "en": "Last night I came to visit you,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      },
+      {
+       "cyr": "Калино, Калинче,",
+       "lat": "Kalino, Kalinče,",
+       "en": "Kalina, little Kalina,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе те дома не најдов,",
+       "lat": "Tebe te doma ne najdov,",
+       "en": "I did not find you at home,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      },
+      {
+       "cyr": "Калино, Калинче,",
+       "lat": "Kalino, Kalinče,",
+       "en": "Kalina, little Kalina,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туку го најдов, Калино,",
+       "lat": "Tuku go najdov, Kalino,",
+       "en": "But I found, Kalina,"
+      },
+      {
+       "cyr": "нашето мало одајче.",
+       "lat": "našeto malo odajče.",
+       "en": "our little room."
+      },
+      {
+       "cyr": "Калино, Калинче,",
+       "lat": "Kalino, Kalinče,",
+       "en": "Kalina, little Kalina,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Отидов дома да спијам,",
+       "lat": "Otidov doma da spijam,",
+       "en": "I went home to sleep,"
+      },
+      {
+       "cyr": "без тебе Каљо не могам.",
+       "lat": "bez tebe Kaljo ne mogam.",
+       "en": "without you, Kalja, I can't."
+      },
+      {
+       "cyr": "Калино, Калинче,",
+       "lat": "Kalino, Kalinče,",
+       "en": "Kalina, little Kalina,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зедов си шише ракија,",
+       "lat": "Zedov si šiše rakija,",
+       "en": "I took a bottle of rakija,"
+      },
+      {
+       "cyr": "да пијам, да се напијам.",
+       "lat": "da pijam, da se napijam.",
+       "en": "to drink, to drink myself full."
+      },
+      {
+       "cyr": "Калино, Калинче,",
+       "lat": "Kalino, Kalinče,",
+       "en": "Kalina, little Kalina,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да пијам, да се напијам,",
+       "lat": "Da pijam, da se napijam,",
+       "en": "To drink, to drink myself full,"
+      },
+      {
+       "cyr": "белким ќе Каљо, заспијам.",
+       "lat": "belkim ḱe Kaljo, zaspijam.",
+       "en": "perhaps, Kalja, I'll fall asleep."
+      },
+      {
+       "cyr": "Калино, Калинче,",
+       "lat": "Kalino, Kalinče,",
+       "en": "Kalina, little Kalina,"
+      },
+      {
+       "cyr": "Калино, моме, убава.",
+       "lat": "Kalino, mome, ubava.",
+       "en": "Kalina, beautiful girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

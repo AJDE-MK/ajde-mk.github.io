@@ -1,0 +1,160 @@
+{
+ "id": 80,
+ "slug": "a-bre-ludo-adzhamija",
+ "title_cyr": "А бре, лудо аџамија",
+ "title_latin": "A bre, ludo adžamija",
+ "title_en": "Hey, you silly greenhorn",
+ "pesna_url": "https://pesna.org/song/80",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'аџамија' rendered 'greenhorn' (my reading of the Turkish-origin word, which also means a novice or inexperienced person). 'снагата ми ја кршеше' is my reading and is likely a suggestive idiom.",
+ "words_to_learn": [
+  {
+   "mk": "аџамија",
+   "en": "greenhorn, novice (Turkish-origin)"
+  },
+  {
+   "mk": "лудо",
+   "en": "silly one, fool"
+  },
+  {
+   "mk": "лажи",
+   "en": "lie (imperative)"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy (Turkish-origin exclamation)"
+  },
+  {
+   "mk": "мрсеше",
+   "en": "was tangling / messing up"
+  },
+  {
+   "mk": "снага",
+   "en": "body, figure"
+  },
+  {
+   "mk": "кршеше",
+   "en": "was breaking, bending"
+  },
+  {
+   "mk": "нел' ми вети",
+   "en": "didn't you promise me"
+  },
+  {
+   "mk": "срма елек",
+   "en": "vest embroidered with silver thread"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  }
+ ],
+ "performers": [
+  "Анета Наковска"
+ ],
+ "audio": [
+  {
+   "who": "Анета Наковска",
+   "url": "https://pesna.org/audio-download/14"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре, лудо аџамија,",
+       "lat": "A bre, ludo adžamija,",
+       "en": "Hey, you silly greenhorn,"
+      },
+      {
+       "cyr": "не ме лажи аман,",
+       "lat": "ne me laži aman,",
+       "en": "don't lie to me, mercy,"
+      },
+      {
+       "cyr": "косите ми ги мрсеше,",
+       "lat": "kosite mi gi mrseše,",
+       "en": "you tangled my hair,"
+      },
+      {
+       "cyr": "снагата ми ја кршеше,",
+       "lat": "snagata mi ja kršeše,",
+       "en": "you were bending my body,"
+      },
+      {
+       "cyr": "оф, аман, аман.",
+       "lat": "of, aman, aman.",
+       "en": "oh, mercy, mercy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нел' ми вети да ми купиш,",
+       "lat": "Nel' mi veti da mi kupiš,",
+       "en": "Didn't you promise to buy me"
+      },
+      {
+       "cyr": "срма елек, аман,",
+       "lat": "srma elek, aman,",
+       "en": "a silver-thread vest, mercy,"
+      },
+      {
+       "cyr": "косите ми ги мрсеше,",
+       "lat": "kosite mi gi mrseše,",
+       "en": "you tangled my hair,"
+      },
+      {
+       "cyr": "снагата ми ја кршеше,",
+       "lat": "snagata mi ja kršeše,",
+       "en": "you were bending my body,"
+      },
+      {
+       "cyr": "оф, аман, аман.",
+       "lat": "of, aman, aman.",
+       "en": "oh, mercy, mercy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нел' ми вети да ми купиш,",
+       "lat": "Nel' mi veti da mi kupiš,",
+       "en": "Didn't you promise to buy me"
+      },
+      {
+       "cyr": "златен прстен, аман,",
+       "lat": "zlaten prsten, aman,",
+       "en": "a gold ring, mercy,"
+      },
+      {
+       "cyr": "косите ми ги мрсеше,",
+       "lat": "kosite mi gi mrseše,",
+       "en": "you tangled my hair,"
+      },
+      {
+       "cyr": "снагата ми ја кршеше,",
+       "lat": "snagata mi ja kršeše,",
+       "en": "you were bending my body,"
+      },
+      {
+       "cyr": "оф, аман, аман.",
+       "lat": "of, aman, aman.",
+       "en": "oh, mercy, mercy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,165 @@
+{
+ "id": 1200,
+ "slug": "oral-dedo",
+ "title_cyr": "Орал дедо",
+ "title_latin": "Oral dedo",
+ "title_en": "The Ploughing Grandfather",
+ "pesna_url": "https://pesna.org/song/1200",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Humorous traditional-style song. 'гурелаво' (mangy/scruffy) and 'прле' (piglet) are my reading of dialect words; 'влегнал во два дола' I took as 'drove into two valleys'.",
+ "words_to_learn": [
+  {
+   "mk": "орал",
+   "en": "was ploughing"
+  },
+  {
+   "mk": "тапан",
+   "en": "big drum"
+  },
+  {
+   "mk": "распрегнал",
+   "en": "unyoked"
+  },
+  {
+   "mk": "вол",
+   "en": "ox"
+  },
+  {
+   "mk": "бербер",
+   "en": "barber"
+  },
+  {
+   "mk": "избрикол",
+   "en": "shaved off"
+  },
+  {
+   "mk": "мустаќи",
+   "en": "mustache"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "личен",
+   "en": "good-looking"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2951"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Орал дедо, што ми орал,",
+       "lat": "Oral dedo, što mi oral,",
+       "en": "Grandfather was ploughing, what was he ploughing,"
+      },
+      {
+       "cyr": "чул в' селото тапан чука,",
+       "lat": "čul v' seloto tapan čuka,",
+       "en": "he heard the drum beating in the village,"
+      },
+      {
+       "cyr": "си распрегнал двата вола,",
+       "lat": "si raspregnal dvata vola,",
+       "en": "he unyoked his two oxen"
+      },
+      {
+       "cyr": "па ги влегнал во два дола.",
+       "lat": "pa gi vlegnal vo dva dola.",
+       "en": "and drove them into two valleys."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си ојде во селото,",
+       "lat": "Pa si ojde vo seloto,",
+       "en": "Then he went to the village,"
+      },
+      {
+       "cyr": "во селото, кај берберот,",
+       "lat": "vo seloto, kaj berberot,",
+       "en": "to the village, to the barber,"
+      },
+      {
+       "cyr": "си избрикол брадичката,",
+       "lat": "si izbrikol bradičkata,",
+       "en": "he shaved his little beard,"
+      },
+      {
+       "cyr": "си потстригол мустаќите.",
+       "lat": "si potstrigol mustaḱite.",
+       "en": "he trimmed his mustache."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си појде на орото,",
+       "lat": "Pa si pojde na oroto,",
+       "en": "Then he went to the dance,"
+      },
+      {
+       "cyr": "на орото кај момите,",
+       "lat": "na oroto kaj momite,",
+       "en": "to the dance where the girls are,"
+      },
+      {
+       "cyr": "па ги прашал: - „Убав ли сум,",
+       "lat": "pa gi prašal: - „Ubav li sum,",
+       "en": "and asked them: - \"Am I handsome,"
+      },
+      {
+       "cyr": "убав ли сум, личен ли сум“?",
+       "lat": "ubav li sum, ličen li sum“?",
+       "en": "am I handsome, am I good-looking?\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Убав си ни, личен си ни,",
+       "lat": "- Ubav si ni, ličen si ni,",
+       "en": "- You are handsome to us, good-looking to us,"
+      },
+      {
+       "cyr": "како вампир сега си ни,",
+       "lat": "kako vampir sega si ni,",
+       "en": "now you are like a vampire to us,"
+      },
+      {
+       "cyr": "како маче, гурелаво,",
+       "lat": "kako mače, gurelavo,",
+       "en": "like a mangy kitten,"
+      },
+      {
+       "cyr": "како прле, потстрижено.",
+       "lat": "kako prle, potstriženo.",
+       "en": "like a shorn piglet."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

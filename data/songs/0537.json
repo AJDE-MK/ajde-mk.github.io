@@ -1,0 +1,189 @@
+{
+ "id": 537,
+ "slug": "ogin-go-gori-brezovo",
+ "title_cyr": "Огин го гори Брезово",
+ "title_latin": "Ogin go gori Brezovo",
+ "title_en": "Fire burns Brezovo",
+ "pesna_url": "https://pesna.org/song/537",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Костадин Гугов",
+  "Лира",
+  "Никола Бадев",
+  "Пелагониски бисери",
+  "Петар Нечовски",
+  "Радио студио Скопје",
+  "Симеон Гугуловски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Лира",
+   "url": "https://pesna.org/audio-download/1164"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1165"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1166"
+  },
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/1167"
+  },
+  {
+   "who": "Симеон Гугуловски",
+   "url": "https://pesna.org/audio-download/1168"
+  },
+  {
+   "who": "Пелагониски бисери",
+   "url": "https://pesna.org/audio-download/1169"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2728"
+  },
+  {
+   "who": "Александар Сариевски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2981"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/3355"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Огин го гори Брезово,",
+       "lat": "Ogin go gori Brezovo,",
+       "en": "Fire burns Brezovo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонијо, Македонијо.",
+       "lat": "Makedonijo, Makedonijo.",
+       "en": "Macedonia, Macedonia.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ордан со чета навлегол, Македонијо,",
+       "lat": "Ordan so četa navlegol, Makedonijo,",
+       "en": "Ordan enters with his company, Macedonia,.",
+       "en_mt": false
+      },
+      {
+       "cyr": "во поробено Брезово.",
+       "lat": "vo porobeno Brezovo.",
+       "en": "into the enslaved Brezovo.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И на дружина говори, Македонијо:",
+       "lat": "I na družina govori, Makedonijo:",
+       "en": "He speaks to his company, Macedonia:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Станете браќа, не спијте.",
+       "lat": "- „Stanete braḱa, ne spijte.",
+       "en": "- \"Get up brothers, don't sleep.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Земете бомби, куршуми,",
+       "lat": "Zemete bombi, kuršumi,",
+       "en": "Take your bombs and ammunition,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со душман ќе се биеме“.",
+       "lat": "so dušman ḱe se bieme“.",
+       "en": "we will fight the enemy\".",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ордан на чета говори,",
+       "lat": "Ordan na četa govori,",
+       "en": "Ordan says to his company,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонијо, Македонијо:",
+       "lat": "Makedonijo, Makedonijo:",
+       "en": "Macedonia, Macedonia:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Земајте бомби, куршуми,",
+       "lat": "- „Zemajte bombi, kuršumi,",
+       "en": "- \"Take your bombs and ammunition,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тиран сомлете,",
+       "lat": "tiran somlete,",
+       "en": "destroy the tyrants,",
+       "en_mt": false
+      },
+      {
+       "cyr": "слобода да добиеме“.",
+       "lat": "sloboda da dobieme“.",
+       "en": "let's win our freedom\".",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Грмеа бомби, куршуми, Македонијо,",
+       "lat": "Grmea bombi, kuršumi, Makedonijo,",
+       "en": "Bombs explode, bullets, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "крвава борба започна.",
+       "lat": "krvava borba započna.",
+       "en": "a bloody fight starts.",
+       "en_mt": false
+      },
+      {
+       "cyr": "И викна Ордан војвода:",
+       "lat": "I vikna Ordan vojvoda:",
+       "en": "And Ordan shouted:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Го зазедовме Брезово“!",
+       "lat": "- „Go zazedovme Brezovo“!",
+       "en": "- \"We have conquered Brezovo\"!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

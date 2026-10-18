@@ -1,0 +1,163 @@
+{
+ "id": 268,
+ "slug": "vino-pijam-em-rakija",
+ "title_cyr": "Вино пијам, ем ракија",
+ "title_latin": "Vino pijam, em rakija",
+ "title_en": "I Drink Wine and Rakija",
+ "pesna_url": "https://pesna.org/song/268",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Аџамија' is my reading as the horse's name or a word for 'inexperienced/green'; unsure. 'у меана до три моми' read as 'in the tavern there were three girls'.",
+ "words_to_learn": [
+  {
+   "mk": "вино",
+   "en": "wine"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "ем",
+   "en": "and also"
+  },
+  {
+   "mk": "јавам",
+   "en": "I ride"
+  },
+  {
+   "mk": "шета",
+   "en": "walks, strolls"
+  },
+  {
+   "mk": "поле",
+   "en": "field"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "моми",
+   "en": "girls, maidens"
+  },
+  {
+   "mk": "точи",
+   "en": "pours"
+  },
+  {
+   "mk": "качив",
+   "en": "I lifted / put up onto"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Деспина",
+  "Зоран Георгиев",
+  "Зоран Марковски",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1218"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/1219"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/1221"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/1222"
+  },
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/3970"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Вино пијам, ем ракија,",
+       "lat": "Vino pijam, em rakija,",
+       "en": "I drink wine and rakija,"
+      },
+      {
+       "cyr": "коња јавам аџамија.",
+       "lat": "konja javam adžamija.",
+       "en": "I ride my horse, Adzamija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коњ ме шета горе, доле,",
+       "lat": "Konj me šeta gore, dole,",
+       "en": "The horse walks me up and down,"
+      },
+      {
+       "cyr": "горе, доле низ тоа поле.",
+       "lat": "gore, dole niz toa pole.",
+       "en": "up and down across that field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме одведе в' ладна меана,",
+       "lat": "Me odvede v' ladna meana,",
+       "en": "It led me to a cold tavern,"
+      },
+      {
+       "cyr": "у меана до три моми.",
+       "lat": "u meana do tri momi.",
+       "en": "in the tavern there were three girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва точи, другата носи,",
+       "lat": "Prva toči, drugata nosi,",
+       "en": "The first pours, the second carries,"
+      },
+      {
+       "cyr": "а третата мене ме гледа.",
+       "lat": "a tretata mene me gleda.",
+       "en": "and the third looks at me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ја качив на коњчето,",
+       "lat": "Pa ja kačiv na konjčeto,",
+       "en": "So I lifted her onto the little horse,"
+      },
+      {
+       "cyr": "ја однесов право дома.",
+       "lat": "ja odnesov pravo doma.",
+       "en": "and took her straight home."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

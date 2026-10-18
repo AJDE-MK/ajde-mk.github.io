@@ -1,0 +1,219 @@
+{
+ "id": 287,
+ "slug": "shto-mi-e-milo-mamo",
+ "title_cyr": "Што ми е мило мамо",
+ "title_latin": "Što mi e milo mamo",
+ "title_en": "What Is Dear to Me, Mother",
+ "pesna_url": "https://pesna.org/song/287",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'На Цинциеви' as 'at the Cincis' place' is my reading. 'Да пукнам, ич не се жалам' read as 'let me burst, I do not complain at all'.",
+ "words_to_learn": [
+  {
+   "mk": "мило ем драго",
+   "en": "dear and precious"
+  },
+  {
+   "mk": "сејмен",
+   "en": "armed guard, watchman (Turkish-derived)"
+  },
+  {
+   "mk": "шетам",
+   "en": "I stroll"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "кроевме",
+   "en": "we cut out (cloth)"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, unmarried young man"
+  },
+  {
+   "mk": "аршин",
+   "en": "arshin (old length measure, about 68 cm)"
+  },
+  {
+   "mk": "зеде",
+   "en": "he took"
+  },
+  {
+   "mk": "пукнам",
+   "en": "I burst (with anger or grief)"
+  },
+  {
+   "mk": "ич",
+   "en": "not at all (Turkish-derived)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Распеани велешани",
+  "Соната Велес",
+  "Христо Арсов"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/283"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2082"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2536"
+  },
+  {
+   "who": "Соната Велес",
+   "url": "https://pesna.org/audio-download/3263"
+  },
+  {
+   "who": "Христо Арсов",
+   "url": "https://pesna.org/audio-download/3599"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е мило мамо",
+       "lat": "Što mi e milo mamo",
+       "en": "What is dear to me, mother,"
+      },
+      {
+       "cyr": "мило ем драго,",
+       "lat": "milo em drago,",
+       "en": "dear and precious,"
+      },
+      {
+       "cyr": "сејмен да шетам мамо",
+       "lat": "sejmen da šetam mamo",
+       "en": "to stroll as a guard (sejmen), mother,"
+      },
+      {
+       "cyr": "низ Бузаана.",
+       "lat": "niz Buzaana.",
+       "en": "through Buzaana."
+      },
+      {
+       "cyr": "Па да видам мамо",
+       "lat": "Pa da vidam mamo",
+       "en": "And to see, mother,"
+      },
+      {
+       "cyr": "белото Маре,",
+       "lat": "beloto Mare,",
+       "en": "white Mare,"
+      },
+      {
+       "cyr": "белото маре мамо",
+       "lat": "beloto mare mamo",
+       "en": "white Mare, mother,"
+      },
+      {
+       "cyr": "на Цинциеви.",
+       "lat": "na Cincievi.",
+       "en": "at the Cincis' place."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали го носи мамо",
+       "lat": "Dali go nosi mamo",
+       "en": "Does she wear, mother,"
+      },
+      {
+       "cyr": "тој широк фустан",
+       "lat": "toj širok fustan",
+       "en": "that wide dress"
+      },
+      {
+       "cyr": "што го кроевме мамо",
+       "lat": "što go kroevme mamo",
+       "en": "that we cut out, mother,"
+      },
+      {
+       "cyr": "девет ергени.",
+       "lat": "devet ergeni.",
+       "en": "nine bachelors."
+      },
+      {
+       "cyr": "Од секој ерген мамо",
+       "lat": "Od sekoj ergen mamo",
+       "en": "From each bachelor, mother,"
+      },
+      {
+       "cyr": "по еден аршин,",
+       "lat": "po eden aršin,",
+       "en": "one arshin,"
+      },
+      {
+       "cyr": "а Ѓоше не дал мамо",
+       "lat": "a Ǵoše ne dal mamo",
+       "en": "but Gjoshe did not give, mother,"
+      },
+      {
+       "cyr": "ни еден аршин.",
+       "lat": "ni eden aršin.",
+       "en": "even one arshin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А Ѓоше не дал мамо",
+       "lat": "A Ǵoše ne dal mamo",
+       "en": "But Gjoshe did not give, mother,"
+      },
+      {
+       "cyr": "ни еден аршин",
+       "lat": "ni eden aršin",
+       "en": "even one arshin."
+      },
+      {
+       "cyr": "Ѓоше го зеде мамо",
+       "lat": "Ǵoše go zede mamo",
+       "en": "Gjoshe took, mother,"
+      },
+      {
+       "cyr": "белото Маре.",
+       "lat": "beloto Mare.",
+       "en": "white Mare."
+      },
+      {
+       "cyr": "Ѓоше го зеде белото Маре,",
+       "lat": "Ǵoše go zede beloto Mare,",
+       "en": "Gjoshe took white Mare,"
+      },
+      {
+       "cyr": "а јас да пукнам, мамо",
+       "lat": "a jas da puknam, mamo",
+       "en": "but I, let me burst, mother,"
+      },
+      {
+       "cyr": "ич не се жалам.",
+       "lat": "ič ne se žalam.",
+       "en": "I do not complain at all."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

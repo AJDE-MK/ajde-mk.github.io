@@ -1,0 +1,217 @@
+{
+ "id": 987,
+ "slug": "nevesta-platno-tkaeshe",
+ "title_cyr": "Невеста платно ткаеше",
+ "title_latin": "Nevesta platno tkaeše",
+ "title_en": "The Bride Was Weaving Cloth",
+ "pesna_url": "https://pesna.org/song/987",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'шкрипците' I read as parts of the loom, and 'мори џанам' as an endearing refrain.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "платно",
+   "en": "cloth, linen"
+  },
+  {
+   "mk": "ткаеше",
+   "en": "was weaving"
+  },
+  {
+   "mk": "шкрипци",
+   "en": "loom pedals (my reading)"
+  },
+  {
+   "mk": "туѓинче",
+   "en": "stranger, foreigner"
+  },
+  {
+   "mk": "јабанџија",
+   "en": "foreigner, outsider"
+  },
+  {
+   "mk": "узда",
+   "en": "bridle"
+  },
+  {
+   "mk": "вдовица",
+   "en": "widow"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2303"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3656"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Невеста платно ткаеше, мори џанам,",
+       "lat": "Nevesta platno tkaeše, mori džanam,",
+       "en": "The bride was weaving cloth, hey my dear,"
+      },
+      {
+       "cyr": "шкрипците ѝ песна пееја.",
+       "lat": "škripcite ì pesna peeja.",
+       "en": "the loom pedals sang her a song."
+      },
+      {
+       "cyr": "Оздола иде туѓинче, мори џанам,",
+       "lat": "Ozdola ide tuǵinče, mori džanam,",
+       "en": "From below comes a stranger, hey my dear,"
+      },
+      {
+       "cyr": "туѓинче, младо јабанџиче.",
+       "lat": "tuǵinče, mlado jabandžiče.",
+       "en": "a stranger, a young foreigner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фатило коњче за узда, мори џанам,",
+       "lat": "Fatilo konjče za uzda, mori džanam,",
+       "en": "He took his horse by the bridle, hey my dear,"
+      },
+      {
+       "cyr": "право си трга за дома.",
+       "lat": "pravo si trga za doma.",
+       "en": "and headed straight for home."
+      },
+      {
+       "cyr": "Право си трга за дома, мори џанам,",
+       "lat": "Pravo si trga za doma, mori džanam,",
+       "en": "He headed straight for home, hey my dear,"
+      },
+      {
+       "cyr": "при това младо невесте.",
+       "lat": "pri tova mlado neveste.",
+       "en": "to that young bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Невеста, вели, говори, мори џанам:",
+       "lat": "Nevesta, veli, govori, mori džanam:",
+       "en": "The bride says, she speaks, hey my dear:"
+      },
+      {
+       "cyr": "-Туѓинче, младо, јабанџиче,",
+       "lat": "-Tuǵinče, mlado, jabandžiče,",
+       "en": "- Stranger, young foreigner,"
+      },
+      {
+       "cyr": "не врти коњче кај мене, море лудо,",
+       "lat": "ne vrti konjče kaj mene, more ludo,",
+       "en": "do not turn your horse by me, you foolish one,"
+      },
+      {
+       "cyr": "момчето ми е туѓина.",
+       "lat": "momčeto mi e tuǵina.",
+       "en": "my young man is in a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто лична, убава, мори џанам,",
+       "lat": "- Nevesto lična, ubava, mori džanam,",
+       "en": "- Bride, comely and beautiful, hey my dear,"
+      },
+      {
+       "cyr": "јас ќе те прашам, распрашам:",
+       "lat": "jas ḱe te prašam, rasprašam:",
+       "en": "I will ask you, I will question you:"
+      },
+      {
+       "cyr": "дали си млада невеста, мори џанам,",
+       "lat": "dali si mlada nevesta, mori džanam,",
+       "en": "are you a young bride, hey my dear,"
+      },
+      {
+       "cyr": "или си црна вдовица?",
+       "lat": "ili si crna vdovica?",
+       "en": "or are you a black-clad widow?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Туѓинче, младо, јабанџиче, море џанам,",
+       "lat": "- Tuǵinče, mlado, jabandžiče, more džanam,",
+       "en": "- Stranger, young foreigner, hey my dear,"
+      },
+      {
+       "cyr": "јас не сум црна вдовица,",
+       "lat": "jas ne sum crna vdovica,",
+       "en": "I am not a black-clad widow,"
+      },
+      {
+       "cyr": "туку сум млада невеста, море лудо,",
+       "lat": "tuku sum mlada nevesta, more ludo,",
+       "en": "but I am a young bride, you foolish one,"
+      },
+      {
+       "cyr": "либето ми е туѓина.",
+       "lat": "libeto mi e tuǵina.",
+       "en": "my sweetheart is in a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто, лична, убава, мори џанам,",
+       "lat": "- Nevesto, lična, ubava, mori džanam,",
+       "en": "- Bride, comely and beautiful, hey my dear,"
+      },
+      {
+       "cyr": "ај, кога си млада невеста,",
+       "lat": "aj, koga si mlada nevesta,",
+       "en": "well, since you are a young bride,"
+      },
+      {
+       "cyr": "фати си коњче за узда, мори џанам,",
+       "lat": "fati si konjče za uzda, mori džanam,",
+       "en": "take your horse by the bridle, hey my dear,"
+      },
+      {
+       "cyr": "јас сум ти твоето либе.",
+       "lat": "jas sum ti tvoeto libe.",
+       "en": "I am your sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

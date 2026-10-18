@@ -1,0 +1,169 @@
+{
+ "id": 459,
+ "slug": "se-zaljubiv-vo-devojche-ubavo",
+ "title_cyr": "Се заљубив во девојче убаво",
+ "title_latin": "Se zaljubiv vo devojče ubavo",
+ "title_en": "I Fell in Love with a Beautiful Girl",
+ "pesna_url": "https://pesna.org/song/459",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Heartbreak tavern song with a refrain; origin unclear, I cannot name an author. 'Рефрен' lines are kept as in the source, the second line of the opening verse is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "се заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "танка снага",
+   "en": "slim figure"
+  },
+  {
+   "mk": "зелени очи",
+   "en": "green eyes"
+  },
+  {
+   "mk": "порти",
+   "en": "gate"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "тагува",
+   "en": "grieves, mourns"
+  },
+  {
+   "mk": "измама",
+   "en": "deception"
+  },
+  {
+   "mk": "смирам",
+   "en": "I calm down"
+  },
+  {
+   "mk": "развеселам",
+   "en": "I cheer up"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се заљубив во девојче убаво",
+       "lat": "Se zaljubiv vo devojče ubavo",
+       "en": "I fell in love with a beautiful girl,"
+      },
+      {
+       "cyr": "во девојче танка снага очи зелени.",
+       "lat": "vo devojče tanka snaga oči zeleni.",
+       "en": "with a girl of slim figure and green eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен:",
+       "lat": "Refren:",
+       "en": "Chorus:"
+      },
+      {
+       "cyr": "Леле, леле што е убаво [x2]",
+       "lat": "Lele, lele što e ubavo [x2]",
+       "en": "Oh, oh, how beautiful it is [x2]"
+      },
+      {
+       "cyr": "кој што љуби тој тагува",
+       "lat": "koj što ljubi toj taguva",
+       "en": "whoever loves, grieves,"
+      },
+      {
+       "cyr": "љубовта е слатка измама. [x2]",
+       "lat": "ljubovta e slatka izmama. [x2]",
+       "en": "love is a sweet deception. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една вечер јас го сретнав на порти",
+       "lat": "Edna večer jas go sretnav na porti",
+       "en": "One evening I met her at the gate,"
+      },
+      {
+       "cyr": "бре девојче лудо младо со друг стоеше.",
+       "lat": "bre devojče ludo mlado so drug stoeše.",
+       "en": "hey, the crazy young girl was standing with another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен",
+       "lat": "Refren",
+       "en": "Chorus"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си појдов во меана да пијам",
+       "lat": "Pa si pojdov vo meana da pijam",
+       "en": "So I went to the tavern to drink"
+      },
+      {
+       "cyr": "да го смирам мојто срце заљубено.",
+       "lat": "da go smiram mojto srce zaljubeno.",
+       "en": "to calm my heart in love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен",
+       "lat": "Refren",
+       "en": "Chorus"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пивнав вино, викнав песна да пеам",
+       "lat": "Pivnav vino, viknav pesna da peam",
+       "en": "I drank wine, I called out to sing a song"
+      },
+      {
+       "cyr": "да си душа од срце тажно развеселам.",
+       "lat": "da si duša od srce tažno razveselam.",
+       "en": "to cheer my soul from a sad heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рефрен",
+       "lat": "Refren",
+       "en": "Chorus"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

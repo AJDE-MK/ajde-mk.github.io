@@ -1,0 +1,221 @@
+{
+ "id": 662,
+ "slug": "davaj-me-mila-mamo-davaj-me",
+ "title_cyr": "Давај ме мила мамо, давај ме",
+ "title_latin": "Davaj me mila mamo, davaj me",
+ "title_en": "Give Me Away, Dear Mother",
+ "pesna_url": "https://pesna.org/song/662",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Галапче' is unknown to me; I render it 'little dark-eyed one' as my reading, and 'циганче' appears in the song as an affectionate term.",
+ "words_to_learn": [
+  {
+   "mk": "давај ме",
+   "en": "give me away (in marriage)"
+  },
+  {
+   "mk": "циганче",
+   "en": "little Gypsy boy (Romani)"
+  },
+  {
+   "mk": "кутивче",
+   "en": "little box"
+  },
+  {
+   "mk": "бисери",
+   "en": "pearls"
+  },
+  {
+   "mk": "колиба",
+   "en": "hut"
+  },
+  {
+   "mk": "палата",
+   "en": "palace"
+  },
+  {
+   "mk": "загинвам",
+   "en": "I perish"
+  },
+  {
+   "mk": "аман",
+   "en": "oh dear / alas (exclamation)"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Боса Гргуровиќ",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Вида Аливантова",
+  "Елена Велевска",
+  "Јованка Житарова",
+  "Лили Бетз",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/263"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/264"
+  },
+  {
+   "who": "Лили Бетз",
+   "url": "https://pesna.org/audio-download/265"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/266"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/267"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/268"
+  },
+  {
+   "who": "Јованка Житарова",
+   "url": "https://pesna.org/audio-download/269"
+  },
+  {
+   "who": "Боса Гргуровиќ, Вида Аливантова",
+   "url": "https://pesna.org/audio-download/3256"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Давај ме мила мамо, давај ме",
+       "lat": "Davaj me mila mamo, davaj me",
+       "en": "Give me away, dear mama, give me away"
+      },
+      {
+       "cyr": "за тоа мила мамо циганче.",
+       "lat": "za toa mila mamo ciganče.",
+       "en": "to that little Gypsy boy."
+      },
+      {
+       "cyr": "Аман, оф аман,",
+       "lat": "Aman, of aman,",
+       "en": "Aman, oh aman,"
+      },
+      {
+       "cyr": "мила мамо тоа циганче.",
+       "lat": "mila mamo toa ciganče.",
+       "en": "dear mama, that little Gypsy boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Устата му е мамо кутивче",
+       "lat": "Ustata mu e mamo kutivče",
+       "en": "His mouth, mama, is a little box,"
+      },
+      {
+       "cyr": "забите му се мамо бисери.",
+       "lat": "zabite mu se mamo biseri.",
+       "en": "his teeth, mama, are pearls."
+      },
+      {
+       "cyr": "Аман, оф аман,",
+       "lat": "Aman, of aman,",
+       "en": "Aman, oh aman,"
+      },
+      {
+       "cyr": "мила мамо заби бисери.",
+       "lat": "mila mamo zabi biseri.",
+       "en": "dear mama, teeth like pearls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Куќата му е мамо колиба,",
+       "lat": "Kuḱata mu e mamo koliba,",
+       "en": "His house, mama, is a hut,"
+      },
+      {
+       "cyr": "за мене мила мамо палата.",
+       "lat": "za mene mila mamo palata.",
+       "en": "for me, dear mama, a palace."
+      },
+      {
+       "cyr": "Аман, оф аман,",
+       "lat": "Aman, of aman,",
+       "en": "Aman, oh aman,"
+      },
+      {
+       "cyr": "мила мамо за мене палата.",
+       "lat": "mila mamo za mene palata.",
+       "en": "dear mama, for me a palace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење го гледам, мамо, циганче,",
+       "lat": "Denje go gledam, mamo, ciganče,",
+       "en": "By day I see him, mama, as a little Gypsy,"
+      },
+      {
+       "cyr": "ноќе го гледам, мамо, галапче.",
+       "lat": "noḱe go gledam, mamo, galapče.",
+       "en": "by night I see him, mama, as a little dark-eyed one."
+      },
+      {
+       "cyr": "Аман, оф аман,",
+       "lat": "Aman, of aman,",
+       "en": "Aman, oh aman,"
+      },
+      {
+       "cyr": "мила мамо тоа галапче.",
+       "lat": "mila mamo toa galapče.",
+       "en": "dear mama, that little dark-eyed one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Умирам, мила мамо загинвам,",
+       "lat": "Umiram, mila mamo zaginvam,",
+       "en": "I am dying, dear mama, I am perishing"
+      },
+      {
+       "cyr": "за тоа мила мамо циганче.",
+       "lat": "za toa mila mamo ciganče.",
+       "en": "for that little Gypsy boy."
+      },
+      {
+       "cyr": "Аман, оф аман,",
+       "lat": "Aman, of aman,",
+       "en": "Aman, oh aman,"
+      },
+      {
+       "cyr": "мила мамо тоа циганче.",
+       "lat": "mila mamo toa ciganče.",
+       "en": "dear mama, that little Gypsy boy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

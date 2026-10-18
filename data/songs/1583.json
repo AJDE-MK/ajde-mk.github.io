@@ -1,0 +1,186 @@
+{
+ "id": 1583,
+ "slug": "za-milica",
+ "title_cyr": "За Милица",
+ "title_latin": "Za Milica",
+ "title_en": "For Milica",
+ "pesna_url": "https://pesna.org/song/1583",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: modern-sounding, no author I can name. Translated fully; lines 3 to 5 of the third stanza are my reading of a conditional ('I would ask').",
+ "words_to_learn": [
+  {
+   "mk": "растевме",
+   "en": "we grew up"
+  },
+  {
+   "mk": "побарав",
+   "en": "I asked for"
+  },
+  {
+   "mk": "рака",
+   "en": "hand (in marriage)"
+  },
+  {
+   "mk": "отров",
+   "en": "poison"
+  },
+  {
+   "mk": "остариме",
+   "en": "we grow old"
+  },
+  {
+   "mk": "самовила",
+   "en": "fairy (folk spirit)"
+  },
+  {
+   "mk": "лична",
+   "en": "comely, good-looking"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/4122"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Деца бевме не знаев",
+       "lat": "Deca bevme ne znaev",
+       "en": "We were children, I did not know"
+      },
+      {
+       "cyr": "што е љубов Милице,",
+       "lat": "što e ljubov Milice,",
+       "en": "what love is, Milica,"
+      },
+      {
+       "cyr": "ти без мајка, јас без татко растевме.",
+       "lat": "ti bez majka, jas bez tatko rastevme.",
+       "en": "you without a mother, I without a father, we grew up."
+      },
+      {
+       "cyr": "Година по година, мома стана убава",
+       "lat": "Godina po godina, moma stana ubava",
+       "en": "Year after year, the girl became beautiful"
+      },
+      {
+       "cyr": "а јас рака не ти побарав.",
+       "lat": "a jas raka ne ti pobarav.",
+       "en": "and I did not ask for your hand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ме чекај Милице,",
+       "lat": "Ne me čekaj Milice,",
+       "en": "Do not wait for me, Milica,"
+      },
+      {
+       "cyr": "еднаш ставив отров на срце.",
+       "lat": "ednaš staviv otrov na srce.",
+       "en": "once I put poison on my heart."
+      },
+      {
+       "cyr": "Mислев не си за мене,",
+       "lat": "Mislev ne si za mene,",
+       "en": "I thought you were not for me,"
+      },
+      {
+       "cyr": "Tаква среќа имавме",
+       "lat": "Takva sreḱa imavme",
+       "en": "such was our luck,"
+      },
+      {
+       "cyr": "еден без друг да остариме.",
+       "lat": "eden bez drug da ostarime.",
+       "en": "to grow old one without the other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го запрев времето",
+       "lat": "Da go zaprev vremeto",
+       "en": "If I had stopped time"
+      },
+      {
+       "cyr": "да го слушав срцето",
+       "lat": "da go slušav srceto",
+       "en": "and listened to my heart,"
+      },
+      {
+       "cyr": "дали ќе те имав, моја Милице?",
+       "lat": "dali ḱe te imav, moja Milice?",
+       "en": "would I have had you, my Milica?"
+      },
+      {
+       "cyr": "Ти во цветна градина",
+       "lat": "Ti vo cvetna gradina",
+       "en": "You in a flowering garden"
+      },
+      {
+       "cyr": "лична ко самовила",
+       "lat": "lična ko samovila",
+       "en": "like a fairy,"
+      },
+      {
+       "cyr": "бела рака да ти побарам.",
+       "lat": "bela raka da ti pobaram.",
+       "en": "I would ask for your white hand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ме чекај Милице,",
+       "lat": "Ne me čekaj Milice,",
+       "en": "Do not wait for me, Milica,"
+      },
+      {
+       "cyr": "еднаш ставив отров на срце.",
+       "lat": "ednaš staviv otrov na srce.",
+       "en": "once I put poison on my heart."
+      },
+      {
+       "cyr": "Mислев не си за мене,",
+       "lat": "Mislev ne si za mene,",
+       "en": "I thought you were not for me,"
+      },
+      {
+       "cyr": "Tаква среќа имавме",
+       "lat": "Takva sreḱa imavme",
+       "en": "such was our luck,"
+      },
+      {
+       "cyr": "еден без друг да остариме.",
+       "lat": "eden bez drug da ostarime.",
+       "en": "to grow old one without the other."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

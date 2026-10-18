@@ -1,0 +1,209 @@
+{
+ "id": 1554,
+ "slug": "moja-mala-marijana",
+ "title_cyr": "Моја мала Маријана",
+ "title_latin": "Moja mala Marijana",
+ "title_en": "My Little Marijana",
+ "pesna_url": "https://pesna.org/song/1554",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a modern pop song but I cannot name an author. 'Да ме молиш да ти простам јас' is my reading (beg me so that I forgive you).",
+ "words_to_learn": [
+  {
+   "mk": "плачам",
+   "en": "I cry"
+  },
+  {
+   "mk": "молам",
+   "en": "I beg"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "оди",
+   "en": "go (imperative)"
+  },
+  {
+   "mk": "не се свртувај",
+   "en": "do not turn around"
+  },
+  {
+   "mk": "оставај",
+   "en": "leave (imperative)"
+  },
+  {
+   "mk": "изгубам",
+   "en": "I lose"
+  },
+  {
+   "mk": "простам",
+   "en": "I forgive"
+  },
+  {
+   "mk": "среќна",
+   "en": "happy"
+  },
+  {
+   "mk": "патиш",
+   "en": "you suffer"
+  }
+ ],
+ "performers": [
+  "Опус"
+ ],
+ "audio": [
+  {
+   "who": "Опус",
+   "url": "https://pesna.org/audio-download/4051"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не сакам да плачам",
+       "lat": "Ne sakam da plačam",
+       "en": "I do not want to cry"
+      },
+      {
+       "cyr": "ако одиш од мене",
+       "lat": "ako odiš od mene",
+       "en": "if you go away from me"
+      },
+      {
+       "cyr": "и никогаш не ќе молам",
+       "lat": "i nikogaš ne ḱe molam",
+       "en": "and I will never beg"
+      },
+      {
+       "cyr": "да се вратиш крај мене.",
+       "lat": "da se vratiš kraj mene.",
+       "en": "you to come back to me."
+      },
+      {
+       "cyr": "А можеби со болка ќе гледам",
+       "lat": "A možebi so bolka ḱe gledam",
+       "en": "And maybe I will watch with pain"
+      },
+      {
+       "cyr": "сепак оди не враќај се",
+       "lat": "sepak odi ne vraḱaj se",
+       "en": "but still go, do not come back"
+      },
+      {
+       "cyr": "и не чекај да те следам",
+       "lat": "i ne čekaj da te sledam",
+       "en": "and do not wait for me to follow you"
+      },
+      {
+       "cyr": "само оди, не се свртувај.",
+       "lat": "samo odi, ne se svrtuvaj.",
+       "en": "just go, do not turn around."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О, моја мала, мала Маријана",
+       "lat": "O, moja mala, mala Marijana",
+       "en": "Oh, my little, little Marijana"
+      },
+      {
+       "cyr": "ако љубиш, не оставај ме.",
+       "lat": "ako ljubiš, ne ostavaj me.",
+       "en": "if you love, do not leave me."
+      },
+      {
+       "cyr": "О, моја мала, мала Маријана",
+       "lat": "O, moja mala, mala Marijana",
+       "en": "Oh, my little, little Marijana"
+      },
+      {
+       "cyr": "ако одиш не барај ме.",
+       "lat": "ako odiš ne baraj me.",
+       "en": "if you go, do not look for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не сакам да те вратам",
+       "lat": "Ne sakam da te vratam",
+       "en": "I do not want to bring you back"
+      },
+      {
+       "cyr": "еднаш штом те изгубам",
+       "lat": "ednaš štom te izgubam",
+       "en": "once I have lost you"
+      },
+      {
+       "cyr": "и не сакам да ме молиш,",
+       "lat": "i ne sakam da me moliš,",
+       "en": "and I do not want you to beg me,"
+      },
+      {
+       "cyr": "да ме молиш да ти простам јас.",
+       "lat": "da me moliš da ti prostam jas.",
+       "en": "to beg me to forgive you."
+      },
+      {
+       "cyr": "А можеби среќна ќе бидеш",
+       "lat": "A možebi sreḱna ḱe bideš",
+       "en": "And maybe you will be happy"
+      },
+      {
+       "cyr": "но далеку ќе бидам јас",
+       "lat": "no daleku ḱe bidam jas",
+       "en": "but I will be far away"
+      },
+      {
+       "cyr": "и уште подалеку ќе бидам",
+       "lat": "i ušte podaleku ḱe bidam",
+       "en": "and I will be even farther"
+      },
+      {
+       "cyr": "кога ќе патиш ти.",
+       "lat": "koga ḱe patiš ti.",
+       "en": "when you suffer."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О, моја мала, мала Маријана",
+       "lat": "O, moja mala, mala Marijana",
+       "en": "Oh, my little, little Marijana"
+      },
+      {
+       "cyr": "ако љубиш, не оставај ме.",
+       "lat": "ako ljubiš, ne ostavaj me.",
+       "en": "if you love, do not leave me."
+      },
+      {
+       "cyr": "О, моја мала, мала Маријана",
+       "lat": "O, moja mala, mala Marijana",
+       "en": "Oh, my little, little Marijana"
+      },
+      {
+       "cyr": "ако одиш не барај ме.",
+       "lat": "ako odiš ne baraj me.",
+       "en": "if you go, do not look for me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

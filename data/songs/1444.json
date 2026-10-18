@@ -1,0 +1,210 @@
+{
+ "id": 1444,
+ "slug": "baraj-gi-mila-mamo",
+ "title_cyr": "Барај ги мила мамо",
+ "title_latin": "Baraj gi mila mamo",
+ "title_en": "Look for Them, Dear Mother",
+ "pesna_url": "https://pesna.org/song/1444",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a modern pop-folk song, no author I can name. 'да се изгубени' uses the short Macedonian dialect form for 'that they are lost'.",
+ "words_to_learn": [
+  {
+   "mk": "барај",
+   "en": "look for (imperative)"
+  },
+  {
+   "mk": "писма",
+   "en": "letters"
+  },
+  {
+   "mk": "слики",
+   "en": "pictures, photos"
+  },
+  {
+   "mk": "изгубени",
+   "en": "lost"
+  },
+  {
+   "mk": "изгорени",
+   "en": "burned"
+  },
+  {
+   "mk": "заборави",
+   "en": "forget"
+  },
+  {
+   "mk": "сон ја сонувам",
+   "en": "I dream a dream"
+  },
+  {
+   "mk": "болува",
+   "en": "is ill, suffers"
+  },
+  {
+   "mk": "тагува",
+   "en": "grieves"
+  }
+ ],
+ "performers": [
+  "Горан Стоилков",
+  "Ема Арсовска",
+  "Маестрал",
+  "Марија Луиза",
+  "Молика",
+  "Ориентал бенд",
+  "Стакато бенд",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Марија Луиза, Чардак",
+   "url": "https://pesna.org/audio-download/3684"
+  },
+  {
+   "who": "Молика",
+   "url": "https://pesna.org/audio-download/3685"
+  },
+  {
+   "who": "Горан Стоилков, Ориентал бенд",
+   "url": "https://pesna.org/audio-download/3686"
+  },
+  {
+   "who": "Стакато бенд",
+   "url": "https://pesna.org/audio-download/3687"
+  },
+  {
+   "who": "Ема Арсовска",
+   "url": "https://pesna.org/audio-download/3688"
+  },
+  {
+   "who": "Маестрал",
+   "url": "https://pesna.org/audio-download/3689"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Барај ги, мила мамо, барај ги,",
+       "lat": "Baraj gi, mila mamo, baraj gi,",
+       "en": "Look for them, dear mother, look for them,"
+      },
+      {
+       "cyr": "сите писма, сите слики мои љубовни.",
+       "lat": "site pisma, site sliki moi ljubovni.",
+       "en": "all the letters, all my love pictures."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој да кажеш мајко да се изгубени,",
+       "lat": "Nemoj da kažeš majko da se izgubeni,",
+       "en": "Do not say, mother, that they are lost,"
+      },
+      {
+       "cyr": "ниту мила мајко да се изгорени.",
+       "lat": "nitu mila majko da se izgoreni.",
+       "en": "nor, dear mother, that they are burned."
+      },
+      {
+       "cyr": "Срце ќе ми изгори мајко,",
+       "lat": "Srce ḱe mi izgori majko,",
+       "en": "My heart will burn, mother,"
+      },
+      {
+       "cyr": "љубев, љубев, љубев јас.",
+       "lat": "ljubev, ljubev, ljubev jas.",
+       "en": "I loved, loved, loved, I did."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи ми, мила мајко, кажи ми,",
+       "lat": "Kaži mi, mila majko, kaži mi,",
+       "en": "Tell me, dear mother, tell me,"
+      },
+      {
+       "cyr": "зошто е тешко првата љубов да се заборави?",
+       "lat": "zošto e teško prvata ljubov da se zaboravi?",
+       "en": "why is it hard to forget a first love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој да кажеш мајко да се изгубени,",
+       "lat": "Nemoj da kažeš majko da se izgubeni,",
+       "en": "Do not say, mother, that they are lost,"
+      },
+      {
+       "cyr": "ниту мила мајко да се изгорени.",
+       "lat": "nitu mila majko da se izgoreni.",
+       "en": "nor, dear mother, that they are burned."
+      },
+      {
+       "cyr": "Срце ќе ми изгори мајко,",
+       "lat": "Srce ḱe mi izgori majko,",
+       "en": "My heart will burn, mother,"
+      },
+      {
+       "cyr": "љубев, љубев, љубев јас.",
+       "lat": "ljubev, ljubev, ljubev jas.",
+       "en": "I loved, loved, loved, I did."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сон ја сонувам, мајко, таа болува,",
+       "lat": "Son ja sonuvam, majko, taa boluva,",
+       "en": "I dream a dream, mother, that she is ill,"
+      },
+      {
+       "cyr": "писмата мои таа ги чита, за мене тагува.",
+       "lat": "pismata moi taa gi čita, za mene taguva.",
+       "en": "she reads my letters, she grieves for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој да кажеш мајко да се изгубени,",
+       "lat": "Nemoj da kažeš majko da se izgubeni,",
+       "en": "Do not say, mother, that they are lost,"
+      },
+      {
+       "cyr": "ниту мила мајко да се изгорени.",
+       "lat": "nitu mila majko da se izgoreni.",
+       "en": "nor, dear mother, that they are burned."
+      },
+      {
+       "cyr": "Срце ќе ми изгори мајко,",
+       "lat": "Srce ḱe mi izgori majko,",
+       "en": "My heart will burn, mother,"
+      },
+      {
+       "cyr": "љубев, љубев, љубев јас.",
+       "lat": "ljubev, ljubev, ljubev jas.",
+       "en": "I loved, loved, loved, I did."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

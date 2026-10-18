@@ -1,0 +1,205 @@
+{
+ "id": 572,
+ "slug": "izlegol-jane-sandanski",
+ "title_cyr": "Излегол Јане Сандански",
+ "title_latin": "Izlegol Jane Sandanski",
+ "title_en": "Jane Sandanski Set Out",
+ "pesna_url": "https://pesna.org/song/572",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. The last two lines are my reading: the speakers seem to be those who were talking about Jane, wanting him to gather his band.",
+ "words_to_learn": [
+  {
+   "mk": "излегол",
+   "en": "went out, set out"
+  },
+  {
+   "mk": "нарамил",
+   "en": "slung over the shoulder"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle"
+  },
+  {
+   "mk": "овчарче",
+   "en": "young shepherd"
+  },
+  {
+   "mk": "чобанче",
+   "en": "little herdsman"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band"
+  },
+  {
+   "mk": "настранил",
+   "en": "tilted to the side"
+  },
+  {
+   "mk": "прибере",
+   "en": "gather up"
+  }
+ ],
+ "performers": [
+  "Академци",
+  "Аџамии",
+  "Ванчо Тарабунов",
+  "Васка Илиева",
+  "МФГ Сандански",
+  "Никола Бадев",
+  "Танец",
+  "Chalgia Wouter Swets",
+  "Sandy Lopicic Orkestar"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1394"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1395"
+  },
+  {
+   "who": "Академци",
+   "url": "https://pesna.org/audio-download/1396"
+  },
+  {
+   "who": "Аџамии",
+   "url": "https://pesna.org/audio-download/1397"
+  },
+  {
+   "who": "Sandy Lopicic Orkestar",
+   "url": "https://pesna.org/audio-download/2819"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3446"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/3447"
+  },
+  {
+   "who": "Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/3448"
+  },
+  {
+   "who": "МФГ Сандански",
+   "url": "https://pesna.org/audio-download/3449"
+  },
+  {
+   "who": "Chalgia Wouter Swets",
+   "url": "https://pesna.org/audio-download/3450"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегол Јане Сандански, леле",
+       "lat": "Izlegol Jane Sandanski, lele",
+       "en": "Jane Sandanski set out, oh,"
+      },
+      {
+       "cyr": "да ми се Јане прошета.",
+       "lat": "da mi se Jane prošeta.",
+       "en": "to go for a stroll, Jane."
+      },
+      {
+       "cyr": "Низ таа Пирин Планина, леле",
+       "lat": "Niz taa Pirin Planina, lele",
+       "en": "Through that Pirin Mountain, oh,"
+      },
+      {
+       "cyr": "низ тоа поле широко.",
+       "lat": "niz toa pole široko.",
+       "en": "through that wide field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нарамил пушка на рамо, леле",
+       "lat": "Naramil puška na ramo, lele",
+       "en": "He slung his rifle on his shoulder, oh,"
+      },
+      {
+       "cyr": "настранил капа на чело.",
+       "lat": "nastranil kapa na čelo.",
+       "en": "he tilted his cap on his brow."
+      },
+      {
+       "cyr": "На пат си сретнал овчарче, леле",
+       "lat": "Na pat si sretnal ovčarče, lele",
+       "en": "On the road he met a shepherd boy, oh,"
+      },
+      {
+       "cyr": "на овчарче вели, говори:",
+       "lat": "na ovčarče veli, govori:",
+       "en": "and said to the shepherd boy:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Овчарче младо чобанче, леле",
+       "lat": "- Ovčarče mlado čobanče, lele",
+       "en": "- Young shepherd, little herdsman, oh,"
+      },
+      {
+       "cyr": "дали ја виде четата?",
+       "lat": "dali ja vide četata?",
+       "en": "did you see the band?"
+      },
+      {
+       "cyr": "Нели ја виде четата, леле",
+       "lat": "Neli ja vide četata, lele",
+       "en": "Did you not see the band, oh,"
+      },
+      {
+       "cyr": "четата на Јане Сандански.",
+       "lat": "četata na Jane Sandanski.",
+       "en": "the band of Jane Sandanski?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Видело сум ја слушнало, леле",
+       "lat": "- Videlo sum ja slušnalo, lele",
+       "en": "- I have seen it and I have heard, oh,"
+      },
+      {
+       "cyr": "сега за Јане збореа:",
+       "lat": "sega za Jane zborea:",
+       "en": "they were just talking about Jane:"
+      },
+      {
+       "cyr": "- Каде е Јане Сандански, леле",
+       "lat": "- Kade e Jane Sandanski, lele",
+       "en": "- Where is Jane Sandanski, oh,"
+      },
+      {
+       "cyr": "четата да си прибере.",
+       "lat": "četata da si pribere.",
+       "en": "to gather his band?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

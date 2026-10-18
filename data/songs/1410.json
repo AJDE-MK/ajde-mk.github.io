@@ -1,0 +1,195 @@
+{
+ "id": 1410,
+ "slug": "zavetna",
+ "title_cyr": "Заветна",
+ "title_latin": "Zavetna",
+ "title_en": "The Vow",
+ "pesna_url": "https://pesna.org/song/1410",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасиа Митровска",
+  "Андријана Јаневска",
+  "Бојана Скендеровски",
+  "Владо Јаневски",
+  "Владо Јовановски",
+  "Игор Дурловски",
+  "Кирил Митоски",
+  "Мераклии",
+  "Пепи Бафтировски",
+  "Чардак",
+  "Kazuhiro Kotetsu",
+  "Tokyo Opera"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/3613"
+  },
+  {
+   "who": "Андријана Јаневска, Игор Дурловски",
+   "url": "https://pesna.org/audio-download/3614"
+  },
+  {
+   "who": "Кирил Митоски",
+   "url": "https://pesna.org/audio-download/3615"
+  },
+  {
+   "who": "Владо Јаневски",
+   "url": "https://pesna.org/audio-download/3616"
+  },
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/3617"
+  },
+  {
+   "who": "Бојана Скендеровски",
+   "url": "https://pesna.org/audio-download/3618"
+  },
+  {
+   "who": "Kazuhiro Kotetsu, Tokyo Opera",
+   "url": "https://pesna.org/audio-download/3619"
+  },
+  {
+   "who": "Владо Јовановски",
+   "url": "https://pesna.org/audio-download/3816"
+  },
+  {
+   "who": "Бојана Скендеровски",
+   "url": "https://pesna.org/audio-download/4398"
+  },
+  {
+   "who": "Мераклии, Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4433"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Негде ќе те премолчат,",
+       "lat": "Negde ḱe te premolčat,",
+       "en": "Somewhere they will silence you,"
+      },
+      {
+       "cyr": "негде ќе те сокријат,",
+       "lat": "negde ḱe te sokrijat,",
+       "en": "somewhere they will hide you,"
+      },
+      {
+       "cyr": "гроб со гроба ќе покријат.",
+       "lat": "grob so groba ḱe pokrijat.",
+       "en": "with grave upon grave they will cover you."
+      },
+      {
+       "cyr": "Само ти си бесмртна,",
+       "lat": "Samo ti si besmrtna,",
+       "en": "Only you are immortal,"
+      },
+      {
+       "cyr": "жива вода подземна,",
+       "lat": "živa voda podzemna,",
+       "en": "living water from the underground,"
+      },
+      {
+       "cyr": "кај што тонеш ти извираш.",
+       "lat": "kaj što toneš ti izviraš.",
+       "en": "where you sink, you spring forth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Векови пеколни заедно ќе минеме,",
+       "lat": "Vekovi pekolni zaedno ḱe mineme,",
+       "en": "Centuries of hell, together we shall pass,"
+      },
+      {
+       "cyr": "древна земјо македонска,",
+       "lat": "drevna zemjo makedonska,",
+       "en": "ancient Macedonian land,"
+      },
+      {
+       "cyr": "така е пишано ништо да не бидеме,",
+       "lat": "taka e pišano ništo da ne bideme,",
+       "en": "so it is written that we shall be nothing,"
+      },
+      {
+       "cyr": "ти без мене, јас без тебе.",
+       "lat": "ti bez mene, jas bez tebe.",
+       "en": "you without me, and I without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Може да те одречат,",
+       "lat": "Može da te odrečat,",
+       "en": "They may disown you,"
+      },
+      {
+       "cyr": "други да те предадат,",
+       "lat": "drugi da te predadat,",
+       "en": "others may betray you,"
+      },
+      {
+       "cyr": "можат сешто да измислат.",
+       "lat": "možat sešto da izmislat.",
+       "en": "they can invent anything."
+      },
+      {
+       "cyr": "Само ти си бесмртна,",
+       "lat": "Samo ti si besmrtna,",
+       "en": "Only you are immortal,"
+      },
+      {
+       "cyr": "жива вода подземна,",
+       "lat": "živa voda podzemna,",
+       "en": "living water from the underground,"
+      },
+      {
+       "cyr": "кај што тонеш ти извираш.",
+       "lat": "kaj što toneš ti izviraš.",
+       "en": "where you sink, you spring forth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Векови пеколни заедно ќе минеме,",
+       "lat": "Vekovi pekolni zaedno ḱe mineme,",
+       "en": "Centuries of hell, together we shall pass,"
+      },
+      {
+       "cyr": "древна земјо македонска,",
+       "lat": "drevna zemjo makedonska,",
+       "en": "ancient Macedonian land,"
+      },
+      {
+       "cyr": "така е пишано ништо да не бидеме,",
+       "lat": "taka e pišano ništo da ne bideme,",
+       "en": "so it is written that we shall be nothing,"
+      },
+      {
+       "cyr": "ти без мене, јас без тебе.",
+       "lat": "ti bez mene, jas bez tebe.",
+       "en": "you without me, and I without you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

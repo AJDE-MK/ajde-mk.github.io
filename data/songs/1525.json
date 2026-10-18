@@ -1,0 +1,202 @@
+{
+ "id": 1525,
+ "slug": "lichna-jovano",
+ "title_cyr": "Лична Јовано",
+ "title_latin": "Lična Jovano",
+ "title_en": "Pretty Jovana",
+ "pesna_url": "https://pesna.org/song/1525",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it sounds like a modern song but I cannot name an author. 'Таксано' as 'pledged' is my reading (unsure).",
+ "words_to_learn": [
+  {
+   "mk": "лажел",
+   "en": "lied (to)"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty"
+  },
+  {
+   "mk": "неверно",
+   "en": "unfaithful"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "рониш",
+   "en": "you shed"
+  },
+  {
+   "mk": "клетви",
+   "en": "curses"
+  },
+  {
+   "mk": "немој",
+   "en": "don't"
+  },
+  {
+   "mk": "се колнам",
+   "en": "I swear"
+  },
+  {
+   "mk": "мамел",
+   "en": "deceived, tempted"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/3990"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кој те лажел лична Јовано",
+       "lat": "Koj te lažel lična Jovano",
+       "en": "Who lied to you, pretty Jovana,"
+      },
+      {
+       "cyr": "дека сум ти лудо неверно?",
+       "lat": "deka sum ti ludo neverno?",
+       "en": "that I am foolishly unfaithful to you?"
+      },
+      {
+       "cyr": "Солзи жешки рониш по лице,",
+       "lat": "Solzi žeški roniš po lice,",
+       "en": "You shed hot tears down your face,"
+      },
+      {
+       "cyr": "клетви тешки фрлаш по мене.",
+       "lat": "kletvi teški frlaš po mene.",
+       "en": "you throw heavy curses at me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој, не плачи лична Јовано,",
+       "lat": "Nemoj, ne plači lična Jovano,",
+       "en": "Don't, don't cry, pretty Jovana,"
+      },
+      {
+       "cyr": "срцево што бие в гради ми е таксано.",
+       "lat": "srcevo što bie v gradi mi e taksano.",
+       "en": "the heart beating in my chest is pledged to you."
+      },
+      {
+       "cyr": "Солзи избриши, лична Јовано,",
+       "lat": "Solzi izbriši, lična Jovano,",
+       "en": "Wipe away your tears, pretty Jovana,"
+      },
+      {
+       "cyr": "ти се колнам не сум душо либе неверно.",
+       "lat": "ti se kolnam ne sum dušo libe neverno.",
+       "en": "I swear to you I am not an unfaithful lover, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој те мамел лична Јовано",
+       "lat": "Koj te mamel lična Jovano",
+       "en": "Who deceived you, pretty Jovana,"
+      },
+      {
+       "cyr": "дека друга ми е в срцево?",
+       "lat": "deka druga mi e v srcevo?",
+       "en": "that another is in my heart?"
+      },
+      {
+       "cyr": "Очи криеш, не ми зборуваш,",
+       "lat": "Oči krieš, ne mi zboruvaš,",
+       "en": "You hide your eyes, you do not speak to me,"
+      },
+      {
+       "cyr": "дома идам, порти затвораш.",
+       "lat": "doma idam, porti zatvoraš.",
+       "en": "I come home, you close the gates."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој, не плачи лична Јовано,",
+       "lat": "Nemoj, ne plači lična Jovano,",
+       "en": "Don't, don't cry, pretty Jovana,"
+      },
+      {
+       "cyr": "срцево што бие в гради ми е таксано.",
+       "lat": "srcevo što bie v gradi mi e taksano.",
+       "en": "the heart beating in my chest is pledged to you."
+      },
+      {
+       "cyr": "Солзи избриши, лична Јовано,",
+       "lat": "Solzi izbriši, lična Jovano,",
+       "en": "Wipe away your tears, pretty Jovana,"
+      },
+      {
+       "cyr": "ти се колнам не сум душо либе неверно.",
+       "lat": "ti se kolnam ne sum dušo libe neverno.",
+       "en": "I swear to you I am not an unfaithful lover, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој, не плачи лична Јовано,",
+       "lat": "Nemoj, ne plači lična Jovano,",
+       "en": "Don't, don't cry, pretty Jovana,"
+      },
+      {
+       "cyr": "срцево што бие в гради ми е таксано.",
+       "lat": "srcevo što bie v gradi mi e taksano.",
+       "en": "the heart beating in my chest is pledged to you."
+      },
+      {
+       "cyr": "Солзи избриши, лична Јовано,",
+       "lat": "Solzi izbriši, lična Jovano,",
+       "en": "Wipe away your tears, pretty Jovana,"
+      },
+      {
+       "cyr": "ти се колнам не сум душо либе неверно.",
+       "lat": "ti se kolnam ne sum dušo libe neverno.",
+       "en": "I swear to you I am not an unfaithful lover, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моја Јовано, лична Јовано.",
+       "lat": "Moja Jovano, lična Jovano.",
+       "en": "My Jovana, pretty Jovana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

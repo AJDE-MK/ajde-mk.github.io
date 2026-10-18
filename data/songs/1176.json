@@ -1,0 +1,156 @@
+{
+ "id": 1176,
+ "slug": "vecheraj-angjo",
+ "title_cyr": "Вечерај Анѓо",
+ "title_latin": "Večeraj Anǵo",
+ "title_en": "Eat your supper, Angja",
+ "pesna_url": "https://pesna.org/song/1176",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. The last two lines are my reading: the magic in the rakija makes a girl fall for the man while ruining the singer.",
+ "words_to_learn": [
+  {
+   "mk": "вечерај",
+   "en": "eat supper (imperative)"
+  },
+  {
+   "mk": "стани",
+   "en": "get up"
+  },
+  {
+   "mk": "одиме",
+   "en": "we go (dialect form)"
+  },
+  {
+   "mk": "далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "патче",
+   "en": "little road, path"
+  },
+  {
+   "mk": "камено",
+   "en": "of stone, stony"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija, fruit brandy"
+  },
+  {
+   "mk": "магија",
+   "en": "magic, a spell"
+  },
+  {
+   "mk": "заљуби",
+   "en": "will make fall in love"
+  },
+  {
+   "mk": "погуби",
+   "en": "will destroy, ruin"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева",
+  "Марица Зилковска",
+  "Орце Стевковски",
+  "Перса Николова"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2861"
+  },
+  {
+   "who": "Марица Зилковска, Перса Николова",
+   "url": "https://pesna.org/audio-download/2862"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4400"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Вечерај Анѓо, вечерај мори,",
+       "lat": "Večeraj Anǵo, večeraj mori,",
+       "en": "Eat your supper, Angja, eat, hey,"
+      },
+      {
+       "cyr": "па стани да си, мори, одиме.",
+       "lat": "pa stani da si, mori, odime.",
+       "en": "then get up so that we go home, hey."
+      },
+      {
+       "cyr": "Па стани да си одиме мори,",
+       "lat": "Pa stani da si odime mori,",
+       "en": "Then get up so that we go home, hey,"
+      },
+      {
+       "cyr": "селото ни е, мори, далеку.",
+       "lat": "seloto ni e, mori, daleku.",
+       "en": "our village is, hey, far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селото ни е далеку мори,",
+       "lat": "Seloto ni e daleku mori,",
+       "en": "Our village is far away, hey,"
+      },
+      {
+       "cyr": "патчето ни е, мори, камено.",
+       "lat": "patčeto ni e, mori, kameno.",
+       "en": "our little road is, hey, of stone."
+      },
+      {
+       "cyr": "На патот стои Ѓорѓија мори,",
+       "lat": "Na patot stoi Ǵorǵija mori,",
+       "en": "On the road stands Gjorgjija, hey,"
+      },
+      {
+       "cyr": "во раце држи, мори, ракија.",
+       "lat": "vo race drži, mori, rakija.",
+       "en": "in his hands he holds, hey, rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во раце држи ракија мори",
+       "lat": "Vo race drži rakija mori",
+       "en": "In his hands he holds rakija, hey,"
+      },
+      {
+       "cyr": "и во ракија, мори, магија.",
+       "lat": "i vo rakija, mori, magija.",
+       "en": "and in the rakija, hey, magic."
+      },
+      {
+       "cyr": "Тебе ќе млада заљуби мори,",
+       "lat": "Tebe ḱe mlada zaljubi mori,",
+       "en": "He will make a young girl fall in love with you, hey,"
+      },
+      {
+       "cyr": "а мене јадна ќе погуби.",
+       "lat": "a mene jadna ḱe pogubi.",
+       "en": "and me, poor me, he will ruin."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

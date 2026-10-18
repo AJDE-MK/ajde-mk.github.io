@@ -1,0 +1,161 @@
+{
+ "id": 152,
+ "slug": "more-tri-godini-stambol-go-shetav",
+ "title_cyr": "Море три години Стамбол го шетав",
+ "title_latin": "More tri godini Stambol go šetav",
+ "title_en": "For Three Years I Roamed Istanbul",
+ "pesna_url": "https://pesna.org/song/152",
+ "background": "A pechalba song with a sad twist. Three years working in Istanbul and three thousand groats saved. The first thousand bought a horse, the second went on the horse, the third was meant to marry Temjano; just as he sets out for home, the horse dies in the middle of the stream. Istanbul (*Stambol*) was the economic magnet before America was.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Temjano is a woman's name used as an address. 'такам за коњче' and 'коњче ми пукна' (literally 'burst', my reading: the horse gave out or died) are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "шетав",
+   "en": "I roamed, strolled about"
+  },
+  {
+   "mk": "спечалив",
+   "en": "I earned"
+  },
+  {
+   "mk": "илјада",
+   "en": "thousand"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "такам",
+   "en": "just, only (dialect)"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb (endearment)"
+  },
+  {
+   "mk": "пиле шарено",
+   "en": "speckled bird (endearment)"
+  },
+  {
+   "mk": "кинисав",
+   "en": "I set off"
+  },
+  {
+   "mk": "поток",
+   "en": "stream"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Гоце Пејковски",
+  "Зоран Марковски",
+  "Зоран Џорлев",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/279"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/280"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/281"
+  },
+  {
+   "who": "Зоран Џорлев, Гоце Пејковски",
+   "url": "https://pesna.org/audio-download/694"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде три години Стамбол го шетав, Темјано.",
+       "lat": "Ajde tri godini Stambol go šetav, Temjano.",
+       "en": "Come on, three years I roamed Istanbul, Temjano."
+      },
+      {
+       "cyr": "Море си спечалив до три илјади,",
+       "lat": "More si spečaliv do tri iljadi,",
+       "en": "Hey, I earned up to three thousand,"
+      },
+      {
+       "cyr": "јагне Темјано, пиле шарено.",
+       "lat": "jagne Temjano, pile šareno.",
+       "en": "lamb Temjano, speckled bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првата илјада коњче си купив, Темјано.",
+       "lat": "Prvata iljada konjče si kupiv, Temjano.",
+       "en": "The first thousand I bought myself a horse, Temjano."
+      },
+      {
+       "cyr": "Втората илјада такам за коњче,",
+       "lat": "Vtorata iljada takam za konjče,",
+       "en": "The second thousand just for the horse,"
+      },
+      {
+       "cyr": "јагне Темјано, пиле шарено.",
+       "lat": "jagne Temjano, pile šareno.",
+       "en": "lamb Temjano, speckled bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третата илјада тебе да те земам, Темјано.",
+       "lat": "Tretata iljada tebe da te zemam, Temjano.",
+       "en": "The third thousand to take you, Temjano."
+      },
+      {
+       "cyr": "Третата илјада тебе да те зема,",
+       "lat": "Tretata iljada tebe da te zema,",
+       "en": "The third thousand to take you,"
+      },
+      {
+       "cyr": "јагне Темјано, пиле шарено.",
+       "lat": "jagne Temjano, pile šareno.",
+       "en": "lamb Temjano, speckled bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таман кинисав дома да си идам, Темјано.",
+       "lat": "Taman kinisav doma da si idam, Temjano.",
+       "en": "I had just set off to go home, Temjano."
+      },
+      {
+       "cyr": "На среде поток коњче ми пукна,",
+       "lat": "Na srede potok konjče mi pukna,",
+       "en": "In the middle of the stream my horse gave out,"
+      },
+      {
+       "cyr": "јагне Темјано, пиле шарено.",
+       "lat": "jagne Temjano, pile šareno.",
+       "en": "lamb Temjano, speckled bird."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,214 @@
+{
+ "id": 448,
+ "slug": "aj-da-begame-mori-vase",
+ "title_cyr": "Ај да бегаме мори Васе",
+ "title_latin": "Aj da begame mori Vase",
+ "title_en": "Come On, Let's Flee, Hey Vasko",
+ "pesna_url": "https://pesna.org/song/448",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'од мерак лежи' is my reading as lovesickness or longing; 'ќе ја земам' I read as 'marry her'. 'Васе' is a nickname form (Vasko/Vasil).",
+ "words_to_learn": [
+  {
+   "mk": "ај",
+   "en": "come on, let's"
+  },
+  {
+   "mk": "да бегаме",
+   "en": "let's flee, let's run away"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (address filler)"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, young unmarried woman"
+  },
+  {
+   "mk": "болна легнала",
+   "en": "lay down sick"
+  },
+  {
+   "mk": "повикала",
+   "en": "sent for, called"
+  },
+  {
+   "mk": "доктор",
+   "en": "doctor"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, desire, pleasure"
+  },
+  {
+   "mk": "тешко е болна",
+   "en": "she is seriously ill"
+  },
+  {
+   "mk": "ќе ја земам",
+   "en": "I will take her (as a wife)"
+  }
+ ],
+ "performers": [
+  "Верица Русева",
+  "Виолета Митева",
+  "Иван Узунов",
+  "Славе Велјановски",
+  "Соња и Оливер бенд"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/340"
+  },
+  {
+   "who": "Верица Русева",
+   "url": "https://pesna.org/audio-download/341"
+  },
+  {
+   "who": "Соња и Оливер бенд",
+   "url": "https://pesna.org/audio-download/342"
+  },
+  {
+   "who": "Славе Велјановски",
+   "url": "https://pesna.org/audio-download/1248"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај да бегаме, мори Васе",
+       "lat": "Aj da begame, mori Vase",
+       "en": "Come on, let's flee, hey Vasko,"
+      },
+      {
+       "cyr": "ај да бегаме,",
+       "lat": "aj da begame,",
+       "en": "come on, let's flee,"
+      },
+      {
+       "cyr": "в града Солуна,",
+       "lat": "v grada Soluna,",
+       "en": "to the city of Thessaloniki,"
+      },
+      {
+       "cyr": "ај да бегаме,",
+       "lat": "aj da begame,",
+       "en": "come on, let's flee,"
+      },
+      {
+       "cyr": "в града Солуна.",
+       "lat": "v grada Soluna.",
+       "en": "to the city of Thessaloniki."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' ќе најдеме, мори Васе",
+       "lat": "Tam' ḱe najdeme, mori Vase",
+       "en": "There we will find, hey Vasko,"
+      },
+      {
+       "cyr": "там' ќе најдеме,",
+       "lat": "tam' ḱe najdeme,",
+       "en": "there we will find,"
+      },
+      {
+       "cyr": "мома Спасија,",
+       "lat": "moma Spasija,",
+       "en": "the girl Spasija,"
+      },
+      {
+       "cyr": "болна легнала.",
+       "lat": "bolna legnala.",
+       "en": "who lay down sick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми повикала, мори Васе",
+       "lat": "Mi povikala, mori Vase",
+       "en": "She sent for, hey Vasko,"
+      },
+      {
+       "cyr": "ми повикала,",
+       "lat": "mi povikala,",
+       "en": "she sent for,"
+      },
+      {
+       "cyr": "до три доктора,",
+       "lat": "do tri doktora,",
+       "en": "up to three doctors,"
+      },
+      {
+       "cyr": "ми повикала до три доктора.",
+       "lat": "mi povikala do tri doktora.",
+       "en": "she sent for up to three doctors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први ѝ вели, мори Васе,",
+       "lat": "Prvi ì veli, mori Vase,",
+       "en": "The first tells her, hey Vasko,"
+      },
+      {
+       "cyr": "од мерак лежи,",
+       "lat": "od merak leži,",
+       "en": "she lies from longing,"
+      },
+      {
+       "cyr": "втори ѝ вели,",
+       "lat": "vtori ì veli,",
+       "en": "the second tells her,"
+      },
+      {
+       "cyr": "тешко е болна.",
+       "lat": "teško e bolna.",
+       "en": "she is gravely sick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трети ѝ вели, мори Васе,",
+       "lat": "Treti ì veli, mori Vase,",
+       "en": "The third tells her, hey Vasko,"
+      },
+      {
+       "cyr": "трети ѝ вели,",
+       "lat": "treti ì veli,",
+       "en": "the third tells her,"
+      },
+      {
+       "cyr": "јас ќе ја лекувам,",
+       "lat": "jas ḱe ja lekuvam,",
+       "en": "I will cure her,"
+      },
+      {
+       "cyr": "и ќе ја земам.",
+       "lat": "i ḱe ja zemam.",
+       "en": "and I will take her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

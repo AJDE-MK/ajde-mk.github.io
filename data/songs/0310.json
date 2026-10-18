@@ -1,0 +1,127 @@
+{
+ "id": 310,
+ "slug": "se-zapali-pile-treno",
+ "title_cyr": "Се запали пиле Трено",
+ "title_latin": "Se zapali pile Treno",
+ "title_en": "The Little Room Caught Fire, Bird Treno",
+ "pesna_url": "https://pesna.org/song/310",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'пиле' used as an endearment, 'Treno' is a name (vocative). 'тук'' is a contracted 'туку' (but).",
+ "words_to_learn": [
+  {
+   "mk": "одајче",
+   "en": "little room"
+  },
+  {
+   "mk": "варосано",
+   "en": "whitewashed"
+  },
+  {
+   "mk": "чекмеџе",
+   "en": "small chest, drawer"
+  },
+  {
+   "mk": "тапии",
+   "en": "title deeds (Turkish-origin)"
+  },
+  {
+   "mk": "нива",
+   "en": "field"
+  },
+  {
+   "mk": "ливада",
+   "en": "meadow"
+  },
+  {
+   "mk": "пиле",
+   "en": "little bird, chick (endearment)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Виолета Томовска",
+  "Ѓоко Јовиќ",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Митева",
+   "url": "https://pesna.org/audio-download/1245"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1246"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1247"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1926"
+  },
+  {
+   "who": "Ѓоко Јовиќ",
+   "url": "https://pesna.org/audio-download/2726"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се запали, пиле Трено, одајчето,",
+       "lat": "Se zapali, pile Treno, odajčeto,",
+       "en": "It caught fire, little bird Treno, the little room,"
+      },
+      {
+       "cyr": "одајчето, пиле Трено, варосано.",
+       "lat": "odajčeto, pile Treno, varosano.",
+       "en": "the little room, little bird Treno, whitewashed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми е жал, пиле Трено, за одајчето,",
+       "lat": "Ne mi e žal, pile Treno, za odajčeto,",
+       "en": "I don't grieve, little bird Treno, for the little room,"
+      },
+      {
+       "cyr": "тук' ми е жал, пиле Трено, за чекмеџето.",
+       "lat": "tuk' mi e žal, pile Treno, za čekmedžeto.",
+       "en": "but I grieve, little bird Treno, for the little chest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Внатре беа, пиле Трено, тапиите,",
+       "lat": "Vnatre bea, pile Treno, tapiite,",
+       "en": "Inside were, little bird Treno, the title deeds,"
+      },
+      {
+       "cyr": "тапиите, пиле Трено, од нивите,",
+       "lat": "tapiite, pile Treno, od nivite,",
+       "en": "the title deeds, little bird Treno, of the fields,"
+      },
+      {
+       "cyr": "тапиите, пиле Трено, од ливадите.",
+       "lat": "tapiite, pile Treno, od livadite.",
+       "en": "the title deeds, little bird Treno, of the meadows."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

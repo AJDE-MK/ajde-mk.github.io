@@ -1,0 +1,189 @@
+{
+ "id": 90,
+ "slug": "ah-mori-mome-ubavo",
+ "title_cyr": "Ах мори моме убаво",
+ "title_latin": "Ah mori mome ubavo",
+ "title_en": "Ah, hey, beautiful girl",
+ "pesna_url": "https://pesna.org/song/90",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Verse 4 changes speaker (the girl answers); that is my reading. 'Сарај' I take as a place name (Saraj, Skopje area), not certain.",
+ "words_to_learn": [
+  {
+   "mk": "мори",
+   "en": "hey (address)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, young woman"
+  },
+  {
+   "mk": "убаво",
+   "en": "beautiful"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "давија",
+   "en": "trouble, torment"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "оцрни",
+   "en": "blacken, ruin"
+  },
+  {
+   "mk": "будало",
+   "en": "fool"
+  },
+  {
+   "mk": "ќешки",
+   "en": "I wish (dialect)"
+  }
+ ],
+ "performers": [
+  "Езерки"
+ ],
+ "audio": [
+  {
+   "who": "Езерки",
+   "url": "https://pesna.org/audio-download/1672"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори моме убаво",
+       "lat": "Ah mori mome ubavo",
+       "en": "Ah, hey, beautiful girl,"
+      },
+      {
+       "cyr": "ќешки кај вас да не дојдев,",
+       "lat": "ḱeški kaj vas da ne dojdev,",
+       "en": "I wish I had not come to your house,"
+      },
+      {
+       "cyr": "мајка ти да не ја сретнев,",
+       "lat": "majka ti da ne ja sretnev,",
+       "en": "I wish I had not met your mother,"
+      },
+      {
+       "cyr": "од Сарај с' коња идеше.",
+       "lat": "od Saraj s' konja ideše.",
+       "en": "she was coming from Saraj on a horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори моме убаво",
+       "lat": "Ah mori mome ubavo",
+       "en": "Ah, hey, beautiful girl,"
+      },
+      {
+       "cyr": "моли му се на мајка ти,",
+       "lat": "moli mu se na majka ti,",
+       "en": "plead with your mother,"
+      },
+      {
+       "cyr": "да не ми прави давија,",
+       "lat": "da ne mi pravi davija,",
+       "en": "that she not make trouble for me,"
+      },
+      {
+       "cyr": "младоста ќе ми оцрни.",
+       "lat": "mladosta ḱe mi ocrni.",
+       "en": "she will blacken my youth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори моме убаво,",
+       "lat": "Ah mori mome ubavo,",
+       "en": "Ah, hey, beautiful girl,"
+      },
+      {
+       "cyr": "сношти си момче сонило,",
+       "lat": "snošti si momče sonilo,",
+       "en": "last night a lad dreamed,"
+      },
+      {
+       "cyr": "ах мори моме убаво",
+       "lat": "ah mori mome ubavo",
+       "en": "ah, hey, beautiful girl,"
+      },
+      {
+       "cyr": "во сон си момче љубило.",
+       "lat": "vo son si momče ljubilo.",
+       "en": "in the dream he kissed a girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах море лудо, будало,",
+       "lat": "Ah more ludo, budalo,",
+       "en": "Ah, hey, foolish fool,"
+      },
+      {
+       "cyr": "ти мајка ми ја знаеше",
+       "lat": "ti majka mi ja znaeše",
+       "en": "you knew my mother,"
+      },
+      {
+       "cyr": "што време таа си иди,",
+       "lat": "što vreme taa si idi,",
+       "en": "what time she goes by,"
+      },
+      {
+       "cyr": "и тогај да не идеше.",
+       "lat": "i togaj da ne ideše.",
+       "en": "you should not have come then."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори моме убаво",
+       "lat": "Ah mori mome ubavo",
+       "en": "Ah, hey, beautiful girl,"
+      },
+      {
+       "cyr": "сношти си момче сонило,",
+       "lat": "snošti si momče sonilo,",
+       "en": "last night a lad dreamed,"
+      },
+      {
+       "cyr": "ах мори моме убаво,",
+       "lat": "ah mori mome ubavo,",
+       "en": "ah, hey, beautiful girl,"
+      },
+      {
+       "cyr": "во сон си момче љубило.",
+       "lat": "vo son si momče ljubilo.",
+       "en": "in the dream he kissed a girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

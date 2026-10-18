@@ -1,0 +1,302 @@
+{
+ "id": 463,
+ "slug": "koga-padna-na-pirina",
+ "title_cyr": "Кога падна на Пирина",
+ "title_latin": "Koga padna na Pirina",
+ "title_en": "When he fell at Pirin",
+ "pesna_url": "https://pesna.org/song/463",
+ "background": "A ballad of the wounded Jane Sandanski, built as a dialogue. Three falcons descend and urge him to come with them to Pirin, to the white sea and to the Vardar, because Mother Macedonia will find a cure for such a hero. His answer: I am wounded in the heart, leave me here to die, no cure cures me; Macedonia will bear others who will free her. The song compresses myth and history the way folk songs do.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Борис Трајанов",
+  "Васка Илиева",
+  "Гоце Арнаудов",
+  "Зоран Џорлев",
+  "Македонски мерак",
+  "Ристе Велков",
+  "Сашо Митев",
+  "Kazuhiro Kotetsu",
+  "Next Time"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/659"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/660"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/661"
+  },
+  {
+   "who": "Зоран Џорлев, Борис Трајанов",
+   "url": "https://pesna.org/audio-download/662"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/663"
+  },
+  {
+   "who": "Ристе Велков",
+   "url": "https://pesna.org/audio-download/2748"
+  },
+  {
+   "who": "Next Time",
+   "url": "https://pesna.org/audio-download/3628"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3632"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога падна на Пирина,",
+       "lat": "Koga padna na Pirina,",
+       "en": "When he fell at Pirin",
+       "en_mt": false
+      },
+      {
+       "cyr": "ранет Јане Сандански,",
+       "lat": "ranet Jane Sandanski,",
+       "en": "The wounded Yane Sandanski",
+       "en_mt": false
+      },
+      {
+       "cyr": "долетеа три сокола",
+       "lat": "doletea tri sokola",
+       "en": "Three hawks flew by",
+       "en_mt": false
+      },
+      {
+       "cyr": "и на Јане збореа:",
+       "lat": "i na Jane zborea:",
+       "en": "And to Yane they said:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ајде Јане со нас појди,",
+       "lat": "- Ajde Jane so nas pojdi,",
+       "en": "- Come with us Yane",
+       "en_mt": false
+      },
+      {
+       "cyr": "ние лек ќе најдеме.",
+       "lat": "nie lek ḱe najdeme.",
+       "en": "We will find you a medicine",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мајка Македонија",
+       "lat": "Majka Makedonija",
+       "en": "Mother Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за таков јунак лек ќе најде.",
+       "lat": "za takov junak lek ḱe najde.",
+       "en": "For that kind of lad will find a medicine.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први сокол проговара:",
+       "lat": "Prvi sokol progovara:",
+       "en": "The first hawk spoke:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ој ти Јане Сандански,",
+       "lat": "- Oj ti Jane Sandanski,",
+       "en": "- Oh you Yane Sandanski",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде Јане со нас појди,",
+       "lat": "ajde Jane so nas pojdi,",
+       "en": "Come Yane with us",
+       "en_mt": false
+      },
+      {
+       "cyr": "горе в' Пирин Планина.",
+       "lat": "gore v' Pirin Planina.",
+       "en": "Up to the Pirin Mountain",
+       "en_mt": false
+      },
+      {
+       "cyr": "Белким ти ќе оздравиш,",
+       "lat": "Belkim ti ḱe ozdraviš,",
+       "en": "I hope you will be cured",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонија да ослободиш.",
+       "lat": "Makedonija da oslobodiš.",
+       "en": "So Macedonia will be freed.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втори сокол проговара:",
+       "lat": "Vtori sokol progovara:",
+       "en": "The second hawk spoke:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ој ти Јане Сандански,",
+       "lat": "- Oj ti Jane Sandanski,",
+       "en": "- Oh you Yane Sandanski",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде Јане со нас дојди,",
+       "lat": "ajde Jane so nas dojdi,",
+       "en": "Come Yane, with us",
+       "en_mt": false
+      },
+      {
+       "cyr": "дур' до белото море.",
+       "lat": "dur' do beloto more.",
+       "en": "To the White Sea",
+       "en_mt": false
+      },
+      {
+       "cyr": "Белким ти ќе оздравиш,",
+       "lat": "Belkim ti ḱe ozdraviš,",
+       "en": "I hope you will be cured",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонија да ослободиш.",
+       "lat": "Makedonija da oslobodiš.",
+       "en": "So Macedonia will be freed.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трети сокол проговара:",
+       "lat": "Treti sokol progovara:",
+       "en": "The third hawk spoke:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ој ти Јане Сандански,",
+       "lat": "- Oj ti Jane Sandanski,",
+       "en": "- Oh you Yane Sandanski",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде Јане со нас појди,",
+       "lat": "ajde Jane so nas pojdi,",
+       "en": "Come Yane, with us",
+       "en_mt": false
+      },
+      {
+       "cyr": "долу крај Вардара.",
+       "lat": "dolu kraj Vardara.",
+       "en": "Down to the Vardar",
+       "en_mt": false
+      },
+      {
+       "cyr": "Белким ти ќе оздравиш,",
+       "lat": "Belkim ti ḱe ozdraviš,",
+       "en": "I hope you will be cured",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонија да ослободиш.",
+       "lat": "Makedonija da oslobodiš.",
+       "en": "So that Macedonia will be freed.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ојте вие три сокола,",
+       "lat": "- Ojte vie tri sokola,",
+       "en": "- Oh, you three hawks",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' срце луто сум ранет.",
+       "lat": "v' srce luto sum ranet.",
+       "en": "I am wounded in the heart.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Остајте ме тук' да умрам,",
+       "lat": "Ostajte me tuk' da umram,",
+       "en": "Leave me here so I can die",
+       "en_mt": false
+      },
+      {
+       "cyr": "лек мене не лекува.",
+       "lat": "lek mene ne lekuva.",
+       "en": "A medicine will not cure me",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонија други ќе роди,",
+       "lat": "Makedonija drugi ḱe rodi,",
+       "en": "Macedonia will give birth to others",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе ја ослободат.",
+       "lat": "ḱe ja oslobodat.",
+       "en": "Who will free her.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајко Македонијо,",
+       "lat": "Majko Makedonijo,",
+       "en": "Mother Macedonia,",
+       "en_mt": true
+      },
+      {
+       "cyr": "други да раѓаш",
+       "lat": "drugi da raǵaš",
+       "en": "give birth to others",
+       "en_mt": true
+      },
+      {
+       "cyr": "да те ослободат!",
+       "lat": "da te oslobodat!",
+       "en": "so that they may free you!",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

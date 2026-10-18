@@ -1,0 +1,157 @@
+{
+ "id": 765,
+ "slug": "deneska-mi-e-sabota",
+ "title_cyr": "Денеска ми е сабота",
+ "title_latin": "Deneska mi e sabota",
+ "title_en": "Today is Saturday",
+ "pesna_url": "https://pesna.org/song/765",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Билјан Стојаноски",
+  "Ливада"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1304"
+  },
+  {
+   "who": "Ливада",
+   "url": "https://pesna.org/audio-download/2689"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Денеска ми е сабота, оф аман,",
+       "lat": "Deneska mi e sabota, of aman,",
+       "en": "Today is Saturday, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кираца ќ' оди на пазар, оф аман,",
+       "lat": "Kiraca ḱ' odi na pazar, of aman,",
+       "en": "Kiraca will go to the market, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе ми го бара Наќета.",
+       "lat": "ḱe mi go bara Naḱeta.",
+       "en": "she will look for Nakje.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ќе ми го бара Наќета, оф аман,",
+       "lat": "Ḱe mi go bara Naḱeta, of aman,",
+       "en": "She will look for Nakje, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Наќета кираџијата, оф аман,",
+       "lat": "Naḱeta kiradžijata, of aman,",
+       "en": "Nakje the transporter, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Наќета кираџијата.",
+       "lat": "Naḱeta kiradžijata.",
+       "en": "Nakje the transporter.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наќе, море, братче ле, оф аман,",
+       "lat": "Naḱe, more, bratče le, of aman,",
+       "en": "- Nakje, hey, my friend, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кога ќе одиш во Влашко, оф аман,",
+       "lat": "koga ḱe odiš vo Vlaško, of aman,",
+       "en": "when you go to South Romania, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти мене абер да сториш?",
+       "lat": "ti mene aber da storiš?",
+       "en": "will you let me know?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ти мене абер да сториш, оф аман,",
+       "lat": "Ti mene aber da storiš, of aman,",
+       "en": "Will you let me know, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и јас ќе дојдам со тебе, оф аман,",
+       "lat": "i jas ḱe dojdam so tebe, of aman,",
+       "en": "and I will come with you, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "колку кирија ќе бараш?",
+       "lat": "kolku kirija ḱe baraš?",
+       "en": "how much will you charge me?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кирацо, млада мори невесто, оф аман,",
+       "lat": "Kiraco, mlada mori nevesto, of aman,",
+       "en": "- Kiraca, young woman, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кирија ти е евтина, оф аман,",
+       "lat": "kirija ti e evtina, of aman,",
+       "en": "my charge is cheap, oh.",
+       "en_mt": false
+      },
+      {
+       "cyr": "од тебе пари не земам.",
+       "lat": "od tebe pari ne zemam.",
+       "en": "I do not take money from you.",
+       "en_mt": true
+      },
+      {
+       "cyr": "До Скопје, белото лице, оф аман,",
+       "lat": "Do Skopje, beloto lice, of aman,",
+       "en": "To Skopje, your white face, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до Белград, медно усте, оф аман,",
+       "lat": "do Belgrad, medno uste, of aman,",
+       "en": "to Belgrade, your honey lips, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до Влашко, рамната снага.",
+       "lat": "do Vlaško, ramnata snaga.",
+       "en": "to South Romania, your tall body.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

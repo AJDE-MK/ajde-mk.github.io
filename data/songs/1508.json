@@ -1,0 +1,171 @@
+{
+ "id": 1508,
+ "slug": "more-pofali-se",
+ "title_cyr": "Море пофали се",
+ "title_latin": "More pofali se",
+ "title_en": "Hey, the Old Woman Boasted",
+ "pesna_url": "https://pesna.org/song/1508",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional song about the saying that the old woman who drives her goats out early gets caught by Baba Marta's cold snap. 'Превари' as 'outwit' and the reading of the last stanza are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "пофали се",
+   "en": "boasted"
+  },
+  {
+   "mk": "Баба Марта",
+   "en": "Grandma March (March folk figure)"
+  },
+  {
+   "mk": "превари",
+   "en": "outwit, trick"
+  },
+  {
+   "mk": "истера",
+   "en": "drive out"
+  },
+  {
+   "mk": "јариња",
+   "en": "kids (young goats)"
+  },
+  {
+   "mk": "козиња",
+   "en": "goats (young goats)"
+  },
+  {
+   "mk": "пукне",
+   "en": "burst, crack"
+  },
+  {
+   "mk": "мраз",
+   "en": "frost"
+  },
+  {
+   "mk": "вампирачо",
+   "en": "you little vampire (insult)"
+  }
+ ],
+ "performers": [
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Рајна Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Рајна Спасовска",
+   "url": "https://pesna.org/audio-download/3939"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3940"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море пофали се стара баба",
+       "lat": "More pofali se stara baba",
+       "en": "Hey, the old woman boasted,"
+      },
+      {
+       "cyr": "море да превари Баба Марту",
+       "lat": "more da prevari Baba Martu",
+       "en": "hey, that she would outwit Grandma March,"
+      },
+      {
+       "cyr": "море да истера јарињата,",
+       "lat": "more da istera jarinjata,",
+       "en": "hey, that she would drive out the kids,"
+      },
+      {
+       "cyr": "море јарињата, козињата.",
+       "lat": "more jarinjata, kozinjata.",
+       "en": "hey, the kids, the young goats."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море да истера на планина,",
+       "lat": "More da istera na planina,",
+       "en": "Hey, to drive them out onto the mountain,"
+      },
+      {
+       "cyr": "море на планина, на Шар Планина.",
+       "lat": "more na planina, na Šar Planina.",
+       "en": "hey, onto the mountain, onto Shar Mountain."
+      },
+      {
+       "cyr": "Море на планина, на Шар Планина,",
+       "lat": "More na planina, na Šar Planina,",
+       "en": "Hey, onto the mountain, onto Shar Mountain,"
+      },
+      {
+       "cyr": "море нека пукне Баба Марта.",
+       "lat": "more neka pukne Baba Marta.",
+       "en": "hey, let Grandma March burst."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море тој дочула Баба Марта,",
+       "lat": "More toj dočula Baba Marta,",
+       "en": "Hey, Grandma March heard of it,"
+      },
+      {
+       "cyr": "море па се она навредила,",
+       "lat": "more pa se ona navredila,",
+       "en": "hey, and she took offense,"
+      },
+      {
+       "cyr": "море па пуштила снеговите,",
+       "lat": "more pa puštila snegovite,",
+       "en": "hey, and she let loose the snows,"
+      },
+      {
+       "cyr": "море снеговите, мразовите.",
+       "lat": "more snegovite, mrazovite.",
+       "en": "hey, the snows, the frosts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море замрзнала Баба Марта,",
+       "lat": "More zamrznala Baba Marta,",
+       "en": "Hey, Grandma March froze,"
+      },
+      {
+       "cyr": "море Баба Марта и јариња.",
+       "lat": "more Baba Marta i jarinja.",
+       "en": "hey, Grandma March and the kids."
+      },
+      {
+       "cyr": "- Море чекај, чекај, вампирачо",
+       "lat": "- More čekaj, čekaj, vampiračo",
+       "en": "- Hey, wait, wait, you vampire,"
+      },
+      {
+       "cyr": "море да видимо кој ќе пукне!",
+       "lat": "more da vidimo koj ḱe pukne!",
+       "en": "hey, let us see who will burst!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

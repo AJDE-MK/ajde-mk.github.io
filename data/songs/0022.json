@@ -1,0 +1,175 @@
+{
+ "id": 22,
+ "slug": "oj-devojche-ran-bel-moj",
+ "title_cyr": "Ој девојче ран бел мој",
+ "title_latin": "Oj devojče ran bel moj",
+ "title_en": "Oh girl, my early white one",
+ "pesna_url": "https://pesna.org/song/22",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'ран бел мој' is my reading ('my early white one'); the bracketed first line says 'ран ден мој' ('my early day'). The final stanza is a bit unclear; the speaker seems to be the boy, so 'ќа' is read as 'ќе' (will).",
+ "words_to_learn": [
+  {
+   "mk": "девојче",
+   "en": "little girl"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "гердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law (husband's father)"
+  },
+  {
+   "mk": "девер",
+   "en": "brother-in-law (husband's brother)"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, daughter-in-law"
+  },
+  {
+   "mk": "галено",
+   "en": "darling, pampered"
+  },
+  {
+   "mk": "не кревај се на големо",
+   "en": "don't put on airs"
+  }
+ ],
+ "performers": [
+  "Децата од Буф",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Децата од Буф",
+   "url": "https://pesna.org/audio-download/270"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/271"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ој девојче ран ден мој)",
+       "lat": "(Oj devojče ran den moj)",
+       "en": "(Oh girl, my early day)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој девојче ран бел мој, ран бел мој",
+       "lat": "- Oj devojče ran bel moj, ran bel moj",
+       "en": "- Oh girl, my early white one, my early white one,"
+      },
+      {
+       "cyr": "кој ти купи ф'стан твој, фустан твој?",
+       "lat": "koj ti kupi f'stan tvoj, fustan tvoj?",
+       "en": "who bought you your dress, your dress?"
+      },
+      {
+       "cyr": "- Ми го купи татко твој, татко твој,",
+       "lat": "- Mi go kupi tatko tvoj, tatko tvoj,",
+       "en": "- Your father bought it for me, your father,"
+      },
+      {
+       "cyr": "сака да ми биде свекор мој, свекор мој.",
+       "lat": "saka da mi bide svekor moj, svekor moj.",
+       "en": "he wants to be my father-in-law, my father-in-law."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој девојче ран бел мој, ран бел мој",
+       "lat": "- Oj devojče ran bel moj, ran bel moj",
+       "en": "- Oh girl, my early white one, my early white one,"
+      },
+      {
+       "cyr": "кој ти купи гердан твој, ѓердан твој?",
+       "lat": "koj ti kupi gerdan tvoj, ǵerdan tvoj?",
+       "en": "who bought you your necklace, your necklace?"
+      },
+      {
+       "cyr": "- Ми го купи братот твој, братот твој,",
+       "lat": "- Mi go kupi bratot tvoj, bratot tvoj,",
+       "en": "- Your brother bought it for me, your brother,"
+      },
+      {
+       "cyr": "сака да ми биде девер мој, девер мој.",
+       "lat": "saka da mi bide dever moj, dever moj.",
+       "en": "he wants to be my brother-in-law, my brother-in-law."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој девојче, галено, галено",
+       "lat": "- Oj devojče, galeno, galeno",
+       "en": "- Oh girl, my darling, my darling,"
+      },
+      {
+       "cyr": "не кревај се на големо, големо.",
+       "lat": "ne krevaj se na golemo, golemo.",
+       "en": "don't puff yourself up, don't puff yourself up."
+      },
+      {
+       "cyr": "Ој девојче, галено, галено",
+       "lat": "Oj devojče, galeno, galeno",
+       "en": "Oh girl, my darling, my darling,"
+      },
+      {
+       "cyr": "не кревај се на големо, големо.",
+       "lat": "ne krevaj se na golemo, golemo.",
+       "en": "don't puff yourself up, don't puff yourself up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Речи што ќе речеш, ангел бре, ангел бре,",
+       "lat": "- Reči što ḱe rečeš, angel bre, angel bre,",
+       "en": "- Say what you will say, angel, hey angel,"
+      },
+      {
+       "cyr": "брат ти ќа ми биде девер мој, девер мој.",
+       "lat": "brat ti ḱa mi bide dever moj, dever moj.",
+       "en": "your brother will be my brother-in-law, my brother-in-law."
+      },
+      {
+       "cyr": "Брат ти ќа ми биде девер мој, девер мој,",
+       "lat": "Brat ti ḱa mi bide dever moj, dever moj,",
+       "en": "Your brother will be my brother-in-law, my brother-in-law,"
+      },
+      {
+       "cyr": "а јас ќе ти бидам невеста, невеста.",
+       "lat": "a jas ḱe ti bidam nevesta, nevesta.",
+       "en": "and I will be your bride, your bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

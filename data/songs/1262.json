@@ -1,0 +1,189 @@
+{
+ "id": 1262,
+ "slug": "jano-mori-janinke",
+ "title_cyr": "Јано мори, Јанинке",
+ "title_latin": "Jano mori, Janinke",
+ "title_en": "Jana, hey, little Janinka",
+ "pesna_url": "https://pesna.org/song/1262",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: it sounds like a modern composed song but I cannot name an author. The Radika is a river in western Macedonia.",
+ "words_to_learn": [
+  {
+   "mk": "сегде",
+   "en": "everywhere"
+  },
+  {
+   "mk": "шетав",
+   "en": "I strolled, wandered"
+  },
+  {
+   "mk": "шарен",
+   "en": "colourful, multicoloured"
+  },
+  {
+   "mk": "рана",
+   "en": "wound (here a term of endearment, my reading)"
+  },
+  {
+   "mk": "фиданка",
+   "en": "sapling, slender young girl"
+  },
+  {
+   "mk": "згрешивме",
+   "en": "we erred, went wrong"
+  },
+  {
+   "mk": "не се зедовме",
+   "en": "we did not marry each other"
+  },
+  {
+   "mk": "памтиш",
+   "en": "you remember"
+  },
+  {
+   "mk": "вети",
+   "en": "you promised"
+  },
+  {
+   "mk": "вечно",
+   "en": "forever"
+  }
+ ],
+ "performers": [
+  "Благоја Грујовски"
+ ],
+ "audio": [
+  {
+   "who": "Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/3189"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сегде одев, сегде шетав,",
+       "lat": "Segde odev, segde šetav,",
+       "en": "Everywhere I went, everywhere I wandered,"
+      },
+      {
+       "cyr": "по овој бел и шарен свет.",
+       "lat": "po ovoj bel i šaren svet.",
+       "en": "across this white and colourful world."
+      },
+      {
+       "cyr": "Ама како тебе, бела Јано,",
+       "lat": "Ama kako tebe, bela Jano,",
+       "en": "But one like you, white Jana,"
+      },
+      {
+       "cyr": "ама како тебе, моја рано,",
+       "lat": "ama kako tebe, moja rano,",
+       "en": "but one like you, my wound,"
+      },
+      {
+       "cyr": "уште нигде не најдов.",
+       "lat": "ušte nigde ne najdov.",
+       "en": "I have not found anywhere yet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јано мори, Јанинке,",
+       "lat": "Jano mori, Janinke,",
+       "en": "Jana, hey, Janinka,"
+      },
+      {
+       "cyr": "моја мала фиданке,",
+       "lat": "moja mala fidanke,",
+       "en": "my little sapling,"
+      },
+      {
+       "cyr": "знаеш каде ли згрешивме?",
+       "lat": "znaeš kade li zgrešivme?",
+       "en": "do you know where we went wrong?"
+      },
+      {
+       "cyr": "Двајца млади, еј,",
+       "lat": "Dvajca mladi, ej,",
+       "en": "We two young ones, hey,"
+      },
+      {
+       "cyr": "не се зедовме!",
+       "lat": "ne se zedovme!",
+       "en": "we did not marry!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали знаеш, дали памтиш",
+       "lat": "Dali znaeš, dali pamtiš",
+       "en": "Do you know, do you remember"
+      },
+      {
+       "cyr": "кога бевме крај Радика?",
+       "lat": "koga bevme kraj Radika?",
+       "en": "when we were by the Radika?"
+      },
+      {
+       "cyr": "Тогаш ти ми рече, бела Јано,",
+       "lat": "Togaš ti mi reče, bela Jano,",
+       "en": "Then you told me, white Jana,"
+      },
+      {
+       "cyr": "тогаш ти ми вети, моја Јано,",
+       "lat": "togaš ti mi veti, moja Jano,",
+       "en": "then you promised me, my Jana,"
+      },
+      {
+       "cyr": "дека вечно ќе се љубиме.",
+       "lat": "deka večno ḱe se ljubime.",
+       "en": "that we would love each other forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јано мори, Јанинке,",
+       "lat": "Jano mori, Janinke,",
+       "en": "Jana, hey, Janinka,"
+      },
+      {
+       "cyr": "моја мала фиданке,",
+       "lat": "moja mala fidanke,",
+       "en": "my little sapling,"
+      },
+      {
+       "cyr": "знаеш каде ли згрешивме?",
+       "lat": "znaeš kade li zgrešivme?",
+       "en": "do you know where we went wrong?"
+      },
+      {
+       "cyr": "Двајца млади, еј,",
+       "lat": "Dvajca mladi, ej,",
+       "en": "We two young ones, hey,"
+      },
+      {
+       "cyr": "не се зедовме!",
+       "lat": "ne se zedovme!",
+       "en": "we did not marry!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

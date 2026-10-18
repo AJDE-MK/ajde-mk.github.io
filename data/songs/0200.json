@@ -1,0 +1,209 @@
+{
+ "id": 200,
+ "slug": "alija-so-tamburata",
+ "title_cyr": "Алија со тамбурата",
+ "title_latin": "Alija so tamburata",
+ "title_en": "Alija and His Tambura",
+ "pesna_url": "https://pesna.org/song/200",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'калешите невести' rendered 'betrothed brides' is my reading ('калеш' = invited/engaged). 'алал ти биле момите' read as 'blessings on the girls', my reading. Verb endings in -ит (викат, чинит, свирит) are dialect.",
+ "words_to_learn": [
+  {
+   "mk": "делија",
+   "en": "brave fellow, hero, dashing young man"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura (long-necked string instrument)"
+  },
+  {
+   "mk": "пуст",
+   "en": "wretched, desolate"
+  },
+  {
+   "mk": "мамел",
+   "en": "lured, charmed"
+  },
+  {
+   "mk": "невести",
+   "en": "brides, young married women"
+  },
+  {
+   "mk": "давија",
+   "en": "complaint, lawsuit"
+  },
+  {
+   "mk": "кадија",
+   "en": "kadi, Muslim judge"
+  },
+  {
+   "mk": "алал",
+   "en": "bless you, well done (Turkish loan)"
+  },
+  {
+   "mk": "свири",
+   "en": "plays (an instrument)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1270"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3671"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре, Алија море, делија,",
+       "lat": "A bre, Alija more, delija,",
+       "en": "Hey, Alija, hey, brave fellow,"
+      },
+      {
+       "cyr": "а бре, Алија море, делија,",
+       "lat": "a bre, Alija more, delija,",
+       "en": "hey, Alija, hey, brave fellow,"
+      },
+      {
+       "cyr": "ни татко имаш Али, ни мајка,",
+       "lat": "ni tatko imaš Ali, ni majka,",
+       "en": "you have neither father, Ali, nor mother,"
+      },
+      {
+       "cyr": "само една пуста, џанам, тамбура.",
+       "lat": "samo edna pusta, džanam, tambura.",
+       "en": "only one wretched, my soul, tambura."
+      },
+      {
+       "cyr": "Што е ова чудо Али од тебе,",
+       "lat": "Što e ova čudo Ali od tebe,",
+       "en": "What is this wonder, Ali, about you,"
+      },
+      {
+       "cyr": "цело село викат Али по тебе?",
+       "lat": "celo selo vikat Ali po tebe?",
+       "en": "the whole village calls out, Ali, after you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цело село викат Али по тебе,",
+       "lat": "Celo selo vikat Ali po tebe,",
+       "en": "The whole village calls out, Ali, after you,"
+      },
+      {
+       "cyr": "цело село викат Али по тебе,",
+       "lat": "celo selo vikat Ali po tebe,",
+       "en": "the whole village calls out, Ali, after you,"
+      },
+      {
+       "cyr": "дека си ги мамел Али момите",
+       "lat": "deka si gi mamel Ali momite",
+       "en": "that you have charmed, Ali, the girls"
+      },
+      {
+       "cyr": "и калешите, џанам, невести.",
+       "lat": "i kalešite, džanam, nevesti.",
+       "en": "and the betrothed, my soul, brides."
+      },
+      {
+       "cyr": "И калешите, џанам, невести,",
+       "lat": "I kalešite, džanam, nevesti,",
+       "en": "And the betrothed, my soul, brides,"
+      },
+      {
+       "cyr": "и тие сироти вдовици.",
+       "lat": "i tie siroti vdovici.",
+       "en": "and those poor widows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цело село чинит џанам давија,",
+       "lat": "Celo selo činit džanam davija,",
+       "en": "The whole village makes, my soul, a complaint,"
+      },
+      {
+       "cyr": "давија џанам кај кадијата.",
+       "lat": "davija džanam kaj kadijata.",
+       "en": "a complaint, my soul, to the kadi."
+      },
+      {
+       "cyr": "Кадијата ми го Али повика",
+       "lat": "Kadijata mi go Ali povika",
+       "en": "The kadi summoned Ali"
+      },
+      {
+       "cyr": "и почна кадијата да судит.",
+       "lat": "i počna kadijata da sudit.",
+       "en": "and the kadi began to judge."
+      },
+      {
+       "cyr": "И почна кадијата да судит,",
+       "lat": "I počna kadijata da sudit,",
+       "en": "And the kadi began to judge,"
+      },
+      {
+       "cyr": "Алија почна, џанам, да свирит.",
+       "lat": "Alija počna, džanam, da svirit.",
+       "en": "Alija began, my soul, to play."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогаш ми извикал кадијата,",
+       "lat": "Togaš mi izvikal kadijata,",
+       "en": "Then the kadi cried out:"
+      },
+      {
+       "cyr": "алал ти биле џанам момите!",
+       "lat": "alal ti bile džanam momite!",
+       "en": "bless you, my soul, the girls!"
+      },
+      {
+       "cyr": "И калешите, џанам, невести,",
+       "lat": "I kalešite, džanam, nevesti,",
+       "en": "And the betrothed, my soul, brides,"
+      },
+      {
+       "cyr": "и тие сироти вдовици.",
+       "lat": "i tie siroti vdovici.",
+       "en": "and those poor widows."
+      },
+      {
+       "cyr": "И калешите, џанам, невести,",
+       "lat": "I kalešite, džanam, nevesti,",
+       "en": "And the betrothed, my soul, brides,"
+      },
+      {
+       "cyr": "и тие сироти вдовици.",
+       "lat": "i tie siroti vdovici.",
+       "en": "and those poor widows."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

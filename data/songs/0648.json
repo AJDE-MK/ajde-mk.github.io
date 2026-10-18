@@ -1,0 +1,203 @@
+{
+ "id": 648,
+ "slug": "edno-ime-imame",
+ "title_cyr": "Едно име имаме",
+ "title_latin": "Edno ime imame",
+ "title_en": "We have one name",
+ "pesna_url": "https://pesna.org/song/648",
+ "background": "Credited to Jonče Hristovski in your songbook. A patriotic song; the title is a statement of shared Macedonian identity. Qwen's draft says the verses name Macedonians along the Aegean, along the Vardar and across Pirin, and calls it a modern folk-style song rather than a folk song (unchecked).",
+ "background_source": "Source of these notes: your 6-song songbook, with a note from Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Гоце Арнаудов",
+  "Диран Тавитјан",
+  "Јонче Христовски",
+  "Калиопи",
+  "Оркестар на АРМ",
+  "Kazuhiro Kotetsu"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/896"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/897"
+  },
+  {
+   "who": "Гарабет Тавитјан Јр., Гарабет Тавитјан, Диран Тавитјан, Калиопи",
+   "url": "https://pesna.org/audio-download/898"
+  },
+  {
+   "who": "Оркестар на АРМ",
+   "url": "https://pesna.org/audio-download/1851"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3609"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3631"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Покрај Егеј, Македонци,",
+       "lat": "Pokraj Egej, Makedonci,",
+       "en": "By the Aegean, Macedonians,"
+      },
+      {
+       "cyr": "покрај Вардар, Македонци",
+       "lat": "pokraj Vardar, Makedonci",
+       "en": "by the Vardar, Macedonians"
+      },
+      {
+       "cyr": "и под Пирин, Македонци",
+       "lat": "i pod Pirin, Makedonci",
+       "en": "and below Pirin, Macedonians"
+      },
+      {
+       "cyr": "славно име, непокорно.",
+       "lat": "slavno ime, nepokorno.",
+       "en": "a glorious name, defiant."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно име имаме",
+       "lat": "Edno ime imame",
+       "en": "We have one name"
+      },
+      {
+       "cyr": "во душата го носиме,",
+       "lat": "vo dušata go nosime,",
+       "en": "in our soul we keep it"
+      },
+      {
+       "cyr": "за тебе живот даваме",
+       "lat": "za tebe život davame",
+       "en": "we give our lives for you,"
+      },
+      {
+       "cyr": "о, Македонијо!",
+       "lat": "o, Makedonijo!",
+       "en": "Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како килим полиња,",
+       "lat": "Kako kilim polinja,",
+       "en": "As a carpet, fields,"
+      },
+      {
+       "cyr": "а до небо планини,",
+       "lat": "a do nebo planini,",
+       "en": "and mountains stretching to the sky,"
+      },
+      {
+       "cyr": "реките златоносни,",
+       "lat": "rekite zlatonosni,",
+       "en": "golden rivers,"
+      },
+      {
+       "cyr": "а езера, бисери.",
+       "lat": "a ezera, biseri.",
+       "en": "and lakes, pearls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно име имаме",
+       "lat": "Edno ime imame",
+       "en": "We have one name"
+      },
+      {
+       "cyr": "во душата го носиме,",
+       "lat": "vo dušata go nosime,",
+       "en": "in our soul we keep it"
+      },
+      {
+       "cyr": "за тебе живот даваме",
+       "lat": "za tebe život davame",
+       "en": "we give our lives for you,"
+      },
+      {
+       "cyr": "о, Македонијо!",
+       "lat": "o, Makedonijo!",
+       "en": "Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајко Македонијо",
+       "lat": "Majko Makedonijo",
+       "en": "Mother Macedonia"
+      },
+      {
+       "cyr": "балканска убавице,",
+       "lat": "balkanska ubavice,",
+       "en": "Balkan beauty,"
+      },
+      {
+       "cyr": "кој се родил во тебе",
+       "lat": "koj se rodil vo tebe",
+       "en": "whoever was born in you"
+      },
+      {
+       "cyr": "и живот дава за тебе.",
+       "lat": "i život dava za tebe.",
+       "en": "will also give his life for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно име имаме",
+       "lat": "Edno ime imame",
+       "en": "We have one name"
+      },
+      {
+       "cyr": "во душата го носиме,",
+       "lat": "vo dušata go nosime,",
+       "en": "in our soul we keep it"
+      },
+      {
+       "cyr": "за тебе живот даваме",
+       "lat": "za tebe život davame",
+       "en": "we give our lives for you,"
+      },
+      {
+       "cyr": "о, Македонијо!",
+       "lat": "o, Makedonijo!",
+       "en": "Macedonia!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

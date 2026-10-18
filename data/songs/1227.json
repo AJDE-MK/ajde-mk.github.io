@@ -1,0 +1,144 @@
+{
+ "id": 1227,
+ "slug": "oj-vicho-vicho-planina",
+ "title_cyr": "Ој Вичо, Вичо планина",
+ "title_latin": "Oj Vičo, Vičo planina",
+ "title_en": "Oh Vicho, Vicho Mountain",
+ "pesna_url": "https://pesna.org/song/1227",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Lerin is Florina and Kostur is Kastoria. 'Подздиската' (Podzdiska) is a place name I am unsure of. Origin unclear, possibly a modern patriotic song, but no author known to me.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "долина",
+   "en": "valley"
+  },
+  {
+   "mk": "бригада",
+   "en": "brigade"
+  },
+  {
+   "mk": "војска",
+   "en": "army"
+  },
+  {
+   "mk": "момци",
+   "en": "lads"
+  },
+  {
+   "mk": "одбрани",
+   "en": "chosen, select"
+  },
+  {
+   "mk": "борци",
+   "en": "fighters"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "биеме",
+   "en": "we fight (dialect)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Вичо, Вичо планина,",
+       "lat": "Oj Vičo, Vičo planina,",
+       "en": "Oh Vicho, Vicho mountain,"
+      },
+      {
+       "cyr": "ој Подздиската долина.",
+       "lat": "oj Podzdiskata dolina.",
+       "en": "oh Podzdiska valley."
+      },
+      {
+       "cyr": "Таму е Гоцева бригада,",
+       "lat": "Tamu e Goceva brigada,",
+       "en": "There is Gotse's brigade,"
+      },
+      {
+       "cyr": "македонска војска млада.",
+       "lat": "makedonska vojska mlada.",
+       "en": "the young Macedonian army."
+      },
+      {
+       "cyr": "Хеј, хеј, момци Македонци,",
+       "lat": "Hej, hej, momci Makedonci,",
+       "en": "Hey, hey, Macedonian lads,"
+      },
+      {
+       "cyr": "сите се одбрани борци.",
+       "lat": "site se odbrani borci.",
+       "en": "all of you chosen fighters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Хеј, хеј, во града Лерина",
+       "lat": "Hej, hej, vo grada Lerina",
+       "en": "Hey, hey, into the town of Lerin"
+      },
+      {
+       "cyr": "влезе Гоцева дружина.",
+       "lat": "vleze Goceva družina.",
+       "en": "entered Gotse's company."
+      },
+      {
+       "cyr": "Хеј, хеј, во Костура града",
+       "lat": "Hej, hej, vo Kostura grada",
+       "en": "Hey, hey, into the town of Kostur"
+      },
+      {
+       "cyr": "влезе Гоцева бригада.",
+       "lat": "vleze Goceva brigada.",
+       "en": "entered Gotse's brigade."
+      },
+      {
+       "cyr": "Слобода ќе добиеме,",
+       "lat": "Sloboda ḱe dobieme,",
+       "en": "We will win freedom,"
+      },
+      {
+       "cyr": "зашто славно се биеме.",
+       "lat": "zašto slavno se bieme.",
+       "en": "because we fight gloriously."
+      },
+      {
+       "cyr": "Хеј, хеј, момци Македонци,",
+       "lat": "Hej, hej, momci Makedonci,",
+       "en": "Hey, hey, Macedonian lads,"
+      },
+      {
+       "cyr": "cитe ce одбрани борци.",
+       "lat": "cite ce odbrani borci.",
+       "en": "all of you chosen fighters."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

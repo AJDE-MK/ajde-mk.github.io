@@ -1,0 +1,183 @@
+{
+ "id": 312,
+ "slug": "sanokj-le-nado",
+ "title_cyr": "Саноќ ле Надо",
+ "title_latin": "Sanoḱ le Nado",
+ "title_en": "All Night, Oh Nada",
+ "pesna_url": "https://pesna.org/song/312",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Гајтан веѓи' (eyebrows like a braided cord) is my reading of a poetic image. 'Пуста' is rendered as 'wretched'.",
+ "words_to_learn": [
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "пенџер",
+   "en": "window"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "тагува",
+   "en": "grieves, is sad"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting, separation"
+  },
+  {
+   "mk": "гајтан веѓи",
+   "en": "thin, braid-like eyebrows"
+  },
+  {
+   "mk": "соѕидал",
+   "en": "walled up, built shut"
+  },
+  {
+   "mk": "урнам",
+   "en": "I will tear down"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Бојан Стојков",
+  "Виолета Митева",
+  "Драгица Николова",
+  "Иван Узунов",
+  "Јордан Митев",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Бојан Стојков",
+   "url": "https://pesna.org/audio-download/460"
+  },
+  {
+   "who": "Александар Сариевски, Драгица Николова, Танец",
+   "url": "https://pesna.org/audio-download/1823"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/2386"
+  },
+  {
+   "who": "Виолета Митева, Иван Узунов",
+   "url": "https://pesna.org/audio-download/4103"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ ле Надо, саноќ не спијам,",
+       "lat": "Sanoḱ le Nado, sanoḱ ne spijam,",
+       "en": "All night, oh Nada, all night I do not sleep,"
+      },
+      {
+       "cyr": "пред порти стојам за да те видам.",
+       "lat": "pred porti stojam za da te vidam.",
+       "en": "I stand before the gate to see you."
+      },
+      {
+       "cyr": "Очи ми солзат, срце тагува",
+       "lat": "Oči mi solzat, srce taguva",
+       "en": "My eyes shed tears, my heart grieves"
+      },
+      {
+       "cyr": "сè заради наш'та ле Надо пуста разделба.",
+       "lat": "sè zaradi naš'ta le Nado pusta razdelba.",
+       "en": "all because of our, oh Nada, wretched parting."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излези Надо барем до порта,",
+       "lat": "Izlezi Nado barem do porta,",
+       "en": "Come out, Nada, at least to the gate,"
+      },
+      {
+       "cyr": "за да ти видам белото лице,",
+       "lat": "za da ti vidam beloto lice,",
+       "en": "so that I can see your white face,"
+      },
+      {
+       "cyr": "белото лице, црните очи",
+       "lat": "beloto lice, crnite oči",
+       "en": "your white face, your black eyes"
+      },
+      {
+       "cyr": "и тие Надо мори гајтан веѓи.",
+       "lat": "i tie Nado mori gajtan veǵi.",
+       "en": "and those, Nada, hey, braid-thin eyebrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам Ѓорѓи, не можам либе,",
+       "lat": "Ne možam Ǵorǵi, ne možam libe,",
+       "en": "I cannot, Gjorgji, I cannot, love,"
+      },
+      {
+       "cyr": "не можам на порти да излезам,",
+       "lat": "ne možam na porti da izlezam,",
+       "en": "I cannot come out to the gate,"
+      },
+      {
+       "cyr": "порти ми Ѓорѓи мајка затвори,",
+       "lat": "porti mi Ǵorǵi majka zatvori,",
+       "en": "my mother, Gjorgji, has shut the gate,"
+      },
+      {
+       "cyr": "пенџер ми Ѓорѓи море татко соѕидал.",
+       "lat": "pendžer mi Ǵorǵi more tatko sodzidal.",
+       "en": "my father, Gjorgji, hey, has walled up the window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко ти Надо, та и мајка ти",
+       "lat": "Tatko ti Nado, ta i majka ti",
+       "en": "Your father, Nada, and your mother too,"
+      },
+      {
+       "cyr": "Бог ти ги убил, огин изгорел,",
+       "lat": "Bog ti gi ubil, ogin izgorel,",
+       "en": "may God kill them, may fire burn them,"
+      },
+      {
+       "cyr": "порти ќе турнам, пенџер ќе урнам",
+       "lat": "porti ḱe turnam, pendžer ḱe urnam",
+       "en": "I will knock down the gate, I will tear down the window"
+      },
+      {
+       "cyr": "и тебе Надо мори ќе земам.",
+       "lat": "i tebe Nado mori ḱe zemam.",
+       "en": "and you, Nada, hey, I will take."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

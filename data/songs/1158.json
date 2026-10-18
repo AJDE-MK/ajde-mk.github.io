@@ -1,0 +1,171 @@
+{
+ "id": 1158,
+ "slug": "turci-vo-selo-slegoa",
+ "title_cyr": "Турци во село слегоа",
+ "title_latin": "Turci vo selo slegoa",
+ "title_en": "The Turks came down into the village",
+ "pesna_url": "https://pesna.org/song/1158",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Last line 'до вечер што му таксавме' is my reading (the deadline we owed him, by evening); uncertain. 'Таксавме' is a Turkish-derived word, unsure of its exact sense.",
+ "words_to_learn": [
+  {
+   "mk": "слегоа",
+   "en": "they came down"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "скриени",
+   "en": "hidden"
+  },
+  {
+   "mk": "одаи",
+   "en": "rooms"
+  },
+  {
+   "mk": "каури",
+   "en": "infidels (Turkish term for Christians)"
+  },
+  {
+   "mk": "бег",
+   "en": "bey, Ottoman lord"
+  },
+  {
+   "mk": "кандисувате",
+   "en": "you agree, consent"
+  },
+  {
+   "mk": "грабиме",
+   "en": "we seize"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/2809"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Турци во село слегоа",
+       "lat": "Turci vo selo slegoa",
+       "en": "The Turks came down into the village"
+      },
+      {
+       "cyr": "и в' наш'та куќа влегоа,",
+       "lat": "i v' naš'ta kuḱa vlegoa,",
+       "en": "and entered our house,"
+      },
+      {
+       "cyr": "никој во куќи немаше,",
+       "lat": "nikoj vo kuḱi nemaše,",
+       "en": "no one was in the houses,"
+      },
+      {
+       "cyr": "сите комшии скриени.",
+       "lat": "site komšii skrieni.",
+       "en": "all the neighbours were hidden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци ми порти кршеа,",
+       "lat": "Turci mi porti kršea,",
+       "en": "The Turks broke my gates,"
+      },
+      {
+       "cyr": "в' бели одаи влегоа,",
+       "lat": "v' beli odai vlegoa,",
+       "en": "entered the white rooms,"
+      },
+      {
+       "cyr": "в' бели одаи влегоа,",
+       "lat": "v' beli odai vlegoa,",
+       "en": "entered the white rooms,"
+      },
+      {
+       "cyr": "убава мома бараа.",
+       "lat": "ubava moma baraa.",
+       "en": "searching for a beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци на глас ни викаа:",
+       "lat": "Turci na glas ni vikaa:",
+       "en": "The Turks shouted loudly at us:"
+      },
+      {
+       "cyr": "- Каде сте, море каури,",
+       "lat": "- Kade ste, more kauri,",
+       "en": "- Where are you, hey infidels,"
+      },
+      {
+       "cyr": "нека излези момата,",
+       "lat": "neka izlezi momata,",
+       "en": "let the girl come out,"
+      },
+      {
+       "cyr": "бегот што ви ја побара!",
+       "lat": "begot što vi ja pobara!",
+       "en": "the bey is asking for her!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не кандисувате,",
+       "lat": "Ako ne kandisuvate,",
+       "en": "If you do not agree,"
+      },
+      {
+       "cyr": "целото село ќе гори,",
+       "lat": "celoto selo ḱe gori,",
+       "en": "the whole village will burn,"
+      },
+      {
+       "cyr": "момата ќе ја грабиме,",
+       "lat": "momata ḱe ja grabime,",
+       "en": "we will seize the girl,"
+      },
+      {
+       "cyr": "на бегот ќе ја носиме,",
+       "lat": "na begot ḱe ja nosime,",
+       "en": "we will take her to the bey,"
+      },
+      {
+       "cyr": "на бегот ќе ја носиме,",
+       "lat": "na begot ḱe ja nosime,",
+       "en": "we will take her to the bey,"
+      },
+      {
+       "cyr": "до вечер што му таксавме.",
+       "lat": "do večer što mu taksavme.",
+       "en": "as the evening fell due to him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

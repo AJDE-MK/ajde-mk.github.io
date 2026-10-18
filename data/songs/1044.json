@@ -1,0 +1,123 @@
+{
+ "id": 1044,
+ "slug": "topovi-grmat-zemjata-treshtit",
+ "title_cyr": "Топови грмат, земјата трештит",
+ "title_latin": "Topovi grmat, zemjata treštit",
+ "title_en": "The cannons thunder, the earth trembles",
+ "pesna_url": "https://pesna.org/song/1044",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song from the Debarca area; origin unclear. 'Петре Пирузе' is a personal name, spelling as given.",
+ "words_to_learn": [
+  {
+   "mk": "топови",
+   "en": "cannons"
+  },
+  {
+   "mk": "трештит",
+   "en": "shakes, rattles (dialect)"
+  },
+  {
+   "mk": "огон",
+   "en": "fire (dialect)"
+  },
+  {
+   "mk": "горит",
+   "en": "burns (dialect, 3rd person without -т drop)"
+  },
+  {
+   "mk": "се кријат",
+   "en": "hide"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of comrades"
+  },
+  {
+   "mk": "на срешта",
+   "en": "opposite, facing"
+  }
+ ],
+ "performers": [
+  "Мишко Србиноски"
+ ],
+ "audio": [
+  {
+   "who": "Мишко Србиноски",
+   "url": "https://pesna.org/audio-download/3065"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Топови грмат, земјата трештит,",
+       "lat": "Topovi grmat, zemjata treštit,",
+       "en": "The cannons thunder, the earth trembles,"
+      },
+      {
+       "cyr": "славна Дебарца огон горит.",
+       "lat": "slavna Debarca ogon gorit.",
+       "en": "glorious Debarca burns with fire."
+      },
+      {
+       "cyr": "Жените пиштат, децата плачат,",
+       "lat": "Ženite pištat, decata plačat,",
+       "en": "The women scream, the children cry,"
+      },
+      {
+       "cyr": "моми се кријат во горите.",
+       "lat": "momi se krijat vo gorite.",
+       "en": "the girls hide in the forests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од една страна партизаните,",
+       "lat": "Od edna strana partizanite,",
+       "en": "On one side the partisans,"
+      },
+      {
+       "cyr": "од друга страна фашистите,",
+       "lat": "od druga strana fašistite,",
+       "en": "on the other side the fascists,"
+      },
+      {
+       "cyr": "на срешта стои Петре Пирузе,",
+       "lat": "na srešta stoi Petre Piruze,",
+       "en": "opposite stands Petre Piruze,"
+      },
+      {
+       "cyr": "верна дружина командува.",
+       "lat": "verna družina komanduva.",
+       "en": "he commands a loyal company."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Удрете браќа, не се боите,",
+       "lat": "- Udrete braḱa, ne se boite,",
+       "en": "- Strike, brothers, do not be afraid,"
+      },
+      {
+       "cyr": "скоро ќе падне Германија!",
+       "lat": "skoro ḱe padne Germanija!",
+       "en": "Germany will soon fall!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

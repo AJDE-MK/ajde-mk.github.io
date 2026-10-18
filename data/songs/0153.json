@@ -1,0 +1,185 @@
+{
+ "id": 153,
+ "slug": "more-mome-sedmojanche",
+ "title_cyr": "Море моме седмојанче",
+ "title_latin": "More mome sedmojanče",
+ "title_en": "Hey girl, seven-year-old girl",
+ "pesna_url": "https://pesna.org/song/153",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Седмојанче', 'трлави пенушки' (rendered 'rough logs') and 'ковчави ореви' (rendered 'hard walnuts') are my reading of dialect words. 'Лудо' is an affectionate 'fool/dear' address.",
+ "words_to_learn": [
+  {
+   "mk": "седмојанче",
+   "en": "seven-year-old (my reading)"
+  },
+  {
+   "mk": "плешчи",
+   "en": "shoulders"
+  },
+  {
+   "mk": "згрбавени",
+   "en": "hunched"
+  },
+  {
+   "mk": "зоби",
+   "en": "teeth (dialect)"
+  },
+  {
+   "mk": "попаѓани",
+   "en": "fallen out"
+  },
+  {
+   "mk": "воденици",
+   "en": "watermills"
+  },
+  {
+   "mk": "коси",
+   "en": "hair"
+  },
+  {
+   "mk": "побелени",
+   "en": "turned white"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1294"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оре моме, моме, моме седмојанче,",
+       "lat": "Ore mome, mome, mome sedmojanče,",
+       "en": "Hey girl, girl, girl of seven,"
+      },
+      {
+       "cyr": "од кога си моме на седом години?",
+       "lat": "od koga si mome na sedom godini?",
+       "en": "since when are you, girl, seven years old?"
+      },
+      {
+       "cyr": "Море моме, моме, моме седмојанче,",
+       "lat": "More mome, mome, mome sedmojanče,",
+       "en": "Hey girl, girl, girl of seven,"
+      },
+      {
+       "cyr": "зошчо ти се моме, плешчи згрбавени?",
+       "lat": "zoščo ti se mome, plešči zgrbaveni?",
+       "en": "why, girl, are your shoulders hunched?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море лудо, лудо, море ти бре младо,",
+       "lat": "More ludo, ludo, more ti bre mlado,",
+       "en": "Hey fool, fool, hey you young one,"
+      },
+      {
+       "cyr": "одеејќи лудо горе во планина.",
+       "lat": "odeejḱi ludo gore vo planina.",
+       "en": "walking, fool, up in the mountain,"
+      },
+      {
+       "cyr": "Одееќи лудо, горе во планина,",
+       "lat": "Odeeḱi ludo, gore vo planina,",
+       "en": "walking, fool, up in the mountain,"
+      },
+      {
+       "cyr": "носеејќи лудо трлави пенушки.",
+       "lat": "noseejḱi ludo trlavi penuški.",
+       "en": "carrying, fool, rough logs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море моме, моме, моме седмојанче,",
+       "lat": "More mome, mome, mome sedmojanče,",
+       "en": "Hey girl, girl, girl of seven,"
+      },
+      {
+       "cyr": "зошчо ти се моме, зоби попаѓани.",
+       "lat": "zoščo ti se mome, zobi popaǵani.",
+       "en": "why, girl, are your teeth fallen out?"
+      },
+      {
+       "cyr": "Море лудо, лудо, море ти бре младо,",
+       "lat": "More ludo, ludo, more ti bre mlado,",
+       "en": "Hey fool, fool, hey you young one,"
+      },
+      {
+       "cyr": "јадеејќи лудо ковчави ореви.",
+       "lat": "jadeejḱi ludo kovčavi orevi.",
+       "en": "eating, fool, hard walnuts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море моме, моме, моме седмојанче,",
+       "lat": "More mome, mome, mome sedmojanče,",
+       "en": "Hey girl, girl, girl of seven,"
+      },
+      {
+       "cyr": "зошчо ти се моме коси побелени?",
+       "lat": "zoščo ti se mome kosi pobeleni?",
+       "en": "why, girl, has your hair turned white?"
+      },
+      {
+       "cyr": "Море моме, моме, моме седмојанче,",
+       "lat": "More mome, mome, mome sedmojanče,",
+       "en": "Hey girl, girl, girl of seven,"
+      },
+      {
+       "cyr": "зошчо ти се моме коси побелени?",
+       "lat": "zoščo ti se mome kosi pobeleni?",
+       "en": "why, girl, has your hair turned white?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оре лудо, лудо, море ти бре младо,",
+       "lat": "Ore ludo, ludo, more ti bre mlado,",
+       "en": "Hey fool, fool, hey you young one,"
+      },
+      {
+       "cyr": "седеејќи лудо долу в' воденици.",
+       "lat": "sedeejḱi ludo dolu v' vodenici.",
+       "en": "sitting, fool, down in the watermills."
+      },
+      {
+       "cyr": "Ветор ми вееше, коса белееше,",
+       "lat": "Vetor mi veeše, kosa beleeše,",
+       "en": "The wind blew on me, my hair turned white,"
+      },
+      {
+       "cyr": "ветер ми вееше, коса белееше.",
+       "lat": "veter mi veeše, kosa beleeše.",
+       "en": "the wind blew on me, my hair turned white."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

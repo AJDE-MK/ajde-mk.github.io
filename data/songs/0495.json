@@ -1,0 +1,172 @@
+{
+ "id": 495,
+ "slug": "go-fanale-edno-mome",
+ "title_cyr": "Го фанале едно моме",
+ "title_latin": "Go fanale edno mome",
+ "title_en": "They captured one girl",
+ "pesna_url": "https://pesna.org/song/495",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Акритес",
+  "Ансамбл Билјана",
+  "Виолета Томовска",
+  "Гоце Арнаудов",
+  "Непознат изведувач",
+  "Танец",
+  "Makedoniko meraki",
+  "Mousikorama",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/820"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/821"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/822"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/823"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/4337"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/4339"
+  },
+  {
+   "who": "Акритес",
+   "url": "https://pesna.org/audio-download/4340"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4341"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4342"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/4343"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Го фанале едно моме,",
+       "lat": "Go fanale edno mome,",
+       "en": "They captured one girl,"
+      },
+      {
+       "cyr": "едно моме најубаво,",
+       "lat": "edno mome najubavo,",
+       "en": "one girl, most beautiful,"
+      },
+      {
+       "cyr": "го фанале едно моме, најубаво,",
+       "lat": "go fanale edno mome, najubavo,",
+       "en": "they captured one girl, most beautiful,"
+      },
+      {
+       "cyr": "најубаво во селото.",
+       "lat": "najubavo vo seloto.",
+       "en": "most beautiful in the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Му врзале двете раце,",
+       "lat": "Mu vrzale dvete race,",
+       "en": "They tied her two hands,"
+      },
+      {
+       "cyr": "двете раце наопаку,",
+       "lat": "dvete race naopaku,",
+       "en": "both hands on her back,"
+      },
+      {
+       "cyr": "му врзале двете раце, двете раце,",
+       "lat": "mu vrzale dvete race, dvete race,",
+       "en": "they tied her two hads, two hands,"
+      },
+      {
+       "cyr": "двете раце наопаку.",
+       "lat": "dvete race naopaku.",
+       "en": "both hands on her back."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, кажи малој моме",
+       "lat": "Kaži, kaži maloj mome",
+       "en": "Tell us, tell us, little girl"
+      },
+      {
+       "cyr": "кај се крие Гоце Делчев?",
+       "lat": "kaj se krie Goce Delčev?",
+       "en": "where is the hideout of Goce Delchev?"
+      },
+      {
+       "cyr": "Кажи, кажи малој моме, најубаво",
+       "lat": "Kaži, kaži maloj mome, najubavo",
+       "en": "Tell us, tell us, little girl, most beautiful,"
+      },
+      {
+       "cyr": "кај се крие Гоце Делчев?",
+       "lat": "kaj se krie Goce Delčev?",
+       "en": "where is the hideout of Goce Delchev?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И да умрам, да загинам,",
+       "lat": "I da umram, da zaginam,",
+       "en": "Even if I die, or perish,"
+      },
+      {
+       "cyr": "јас за Гоце не кажувам!",
+       "lat": "jas za Goce ne kažuvam!",
+       "en": "I am not telling about Goce!"
+      },
+      {
+       "cyr": "И да умрам да загинам, клети Турци",
+       "lat": "I da umram da zaginam, kleti Turci",
+       "en": "Even if I die, or perish, damn Turks,"
+      },
+      {
+       "cyr": "јазе Гоце не кажувам!",
+       "lat": "jaze Goce ne kažuvam!",
+       "en": "I am not telling about Goce!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

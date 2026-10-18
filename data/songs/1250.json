@@ -1,0 +1,165 @@
+{
+ "id": 1250,
+ "slug": "bozhinche-devojche-mori",
+ "title_cyr": "Божинче, девојче мори",
+ "title_latin": "Božinče, devojče mori",
+ "title_en": "Bozhinche, Girl, Hey",
+ "pesna_url": "https://pesna.org/song/1250",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Southern/Pirin-type dialect forms (гу, шта, чину, појду). 'Божинче' is a girl's name or pet name (my reading); 'алтани' I read as gold coins, the dowry money.",
+ "words_to_learn": [
+  {
+   "mk": "тужу",
+   "en": "I grieve, I pine (dialect form of тужам)"
+  },
+  {
+   "mk": "лудо",
+   "en": "darling, dear (lit. crazy one; endearment)"
+  },
+  {
+   "mk": "шта",
+   "en": "what (dialect, standard: што)"
+  },
+  {
+   "mk": "да чину",
+   "en": "to do (dialect, standard: да правам)"
+  },
+  {
+   "mk": "гу",
+   "en": "her/him (dialect, standard: ја/го)"
+  },
+  {
+   "mk": "појду",
+   "en": "I go (dialect, standard: одам)"
+  },
+  {
+   "mk": "лојзе",
+   "en": "vineyard (dialect of лозје)"
+  },
+  {
+   "mk": "алтани",
+   "en": "gold coins"
+  },
+  {
+   "mk": "не ме дава",
+   "en": "does not give me away (in marriage)"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3163"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Божинче, девојче мори,",
+       "lat": "- Božinče, devojče mori,",
+       "en": "- Little Bozhinche, girl, hey,"
+      },
+      {
+       "cyr": "тужиш ли за мене?",
+       "lat": "tužiš li za mene?",
+       "en": "do you grieve for me?"
+      },
+      {
+       "cyr": "- Тужу, лудо, тужу,",
+       "lat": "- Tužu, ludo, tužu,",
+       "en": "- I grieve, my crazy love, I grieve,"
+      },
+      {
+       "cyr": "нема шта да чину.",
+       "lat": "nema šta da činu.",
+       "en": "there is nothing to be done."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едну мајку имам, море,",
+       "lat": "Ednu majku imam, more,",
+       "en": "I have one mother, oh,"
+      },
+      {
+       "cyr": "арно да гу немам.",
+       "lat": "arno da gu nemam.",
+       "en": "I wish I did not have her."
+      },
+      {
+       "cyr": "Ја појду за воду, море,",
+       "lat": "Ja pojdu za vodu, more,",
+       "en": "I go for water, oh,"
+      },
+      {
+       "cyr": "и она по мене.",
+       "lat": "i ona po mene.",
+       "en": "and she follows me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја појду на лојзе, море,",
+       "lat": "Ja pojdu na lojze, more,",
+       "en": "I go to the vineyards, oh,"
+      },
+      {
+       "cyr": "и она по мене.",
+       "lat": "i ona po mene.",
+       "en": "and she follows me."
+      },
+      {
+       "cyr": "Ја појду на лојзе, море,",
+       "lat": "Ja pojdu na lojze, more,",
+       "en": "I go to the vineyards, oh,"
+      },
+      {
+       "cyr": "и она по мене.",
+       "lat": "i ona po mene.",
+       "en": "and she follows me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И мајка ми има, море,",
+       "lat": "I majka mi ima, more,",
+       "en": "And my mother has, oh,"
+      },
+      {
+       "cyr": "триесет алтани.",
+       "lat": "trieset altani.",
+       "en": "thirty gold coins."
+      },
+      {
+       "cyr": "Алтани ги дава, море,",
+       "lat": "Altani gi dava, more,",
+       "en": "She gives the coins, oh,"
+      },
+      {
+       "cyr": "мене не ме дава.",
+       "lat": "mene ne me dava.",
+       "en": "but she does not give me away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

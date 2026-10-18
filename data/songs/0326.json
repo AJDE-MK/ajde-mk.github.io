@@ -1,0 +1,192 @@
+{
+ "id": 326,
+ "slug": "po-drum-odam-majche",
+ "title_cyr": "По друм одам мајче",
+ "title_latin": "Po drum odam majče",
+ "title_en": "I'm walking down the road, mother",
+ "pesna_url": "https://pesna.org/song/326",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ванчо Тарабунов",
+  "Виданка Георгиева",
+  "Влатко Лозаноски",
+  "Габриела Новевска",
+  "Ирена Вељовска",
+  "Круме Спасовски",
+  "Мирвет Беловска",
+  "Наум Петрески",
+  "Петранка Костадинова",
+  "Радио студио Скопје",
+  "Танец",
+  "Тања Царовска",
+  "Akroama",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1361"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/1362"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1363"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/1364"
+  },
+  {
+   "who": "Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/1365"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1366"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1367"
+  },
+  {
+   "who": "Тања Царовска",
+   "url": "https://pesna.org/audio-download/1835"
+  },
+  {
+   "who": "Ирена Вељовска",
+   "url": "https://pesna.org/audio-download/1886"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2023"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2351"
+  },
+  {
+   "who": "Akroama",
+   "url": "https://pesna.org/audio-download/2620"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/2675"
+  },
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2964"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "По друм одам мајче, по друм шетам,",
+       "lat": "Po drum odam majče, po drum šetam,",
+       "en": "I'm walking down the road, mother, down the road I'm strolling,"
+      },
+      {
+       "cyr": "аман, аман, друм - перница, мајче,",
+       "lat": "aman, aman, drum - pernica, majče,",
+       "en": "Aman1, aman, road-pillow, mother,"
+      },
+      {
+       "cyr": "друм - постела.",
+       "lat": "drum - postela.",
+       "en": "road-bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти вечер, мајче, кога легнав,",
+       "lat": "Snošti večer, majče, koga legnav,",
+       "en": "Last night, mother, when I went to lie down [to sleep]"
+      },
+      {
+       "cyr": "аман, аман, кога легнав, мајче,",
+       "lat": "aman, aman, koga legnav, majče,",
+       "en": "aman, aman, when I went to lie down, mother,"
+      },
+      {
+       "cyr": "сон си видов.",
+       "lat": "son si vidov.",
+       "en": "I saw a dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На рацете, мајче ми спиеше,",
+       "lat": "Na racete, majče mi spieše,",
+       "en": "In my arms, mother, she was sleeping,"
+      },
+      {
+       "cyr": "аман, аман, ми спиеше, мајче",
+       "lat": "aman, aman, mi spieše, majče",
+       "en": "aman, aman, she was sleeping, mother"
+      },
+      {
+       "cyr": "едно лудо младо.",
+       "lat": "edno ludo mlado.",
+       "en": "one crazy young (girl)2."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пуштив рака, мајче, да си го фатам,",
+       "lat": "Puštiv raka, majče, da si go fatam,",
+       "en": "I reached, mother, to grab her,"
+      },
+      {
+       "cyr": "аман, аман, лудо младо, мајче,",
+       "lat": "aman, aman, ludo mlado, majče,",
+       "en": "aman, aman, a crazy young girl, mother"
+      },
+      {
+       "cyr": "не си најдов.",
+       "lat": "ne si najdov.",
+       "en": "I did not find."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе ме жениш, мајче, да ми кажеш",
+       "lat": "Koga ḱe me ženiš, majče, da mi kažeš",
+       "en": "When will you wed3 me, mother, tell me"
+      },
+      {
+       "cyr": "аман, аман, беќарштилак, мајче, не се трпи,",
+       "lat": "aman, aman, beḱarštilak, majče, ne se trpi,",
+       "en": "aman, aman, this bachelor life, mother, is unbearable,"
+      },
+      {
+       "cyr": "само легни, мајче, само стани.",
+       "lat": "samo legni, majče, samo stani.",
+       "en": "going to sleep alone, mother, waking up alone."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

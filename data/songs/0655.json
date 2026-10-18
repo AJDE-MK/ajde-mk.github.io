@@ -1,0 +1,223 @@
+{
+ "id": 655,
+ "slug": "dobro-mi-doshle-svatovite",
+ "title_cyr": "Добро ми дошле сватовите",
+ "title_latin": "Dobro mi došle svatovite",
+ "title_en": "Welcome, Wedding Guests",
+ "pesna_url": "https://pesna.org/song/655",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; I cannot name an author. 'Ваша ќерка, ваша внука' is my reading as the guests bringing the bride, who is their daughter/granddaughter.",
+ "words_to_learn": [
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "ќерка",
+   "en": "daughter"
+  },
+  {
+   "mk": "внука",
+   "en": "granddaughter"
+  },
+  {
+   "mk": "снаа",
+   "en": "daughter-in-law"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong brandy"
+  },
+  {
+   "mk": "крштевка",
+   "en": "christening"
+  },
+  {
+   "mk": "невесто",
+   "en": "bride (vocative)"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  }
+ ],
+ "performers": [
+  "Вера Ивковиќ"
+ ],
+ "audio": [
+  {
+   "who": "Вера Ивковиќ",
+   "url": "https://pesna.org/audio-download/879"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Добро ми дошле сватовите",
+       "lat": "Dobro mi došle svatovite",
+       "en": "Welcome, wedding guests,"
+      },
+      {
+       "cyr": "кое добро ми носите?",
+       "lat": "koe dobro mi nosite?",
+       "en": "what good do you bring?"
+      },
+      {
+       "cyr": "Ваша ќерка, ваша внука,",
+       "lat": "Vaša ḱerka, vaša vnuka,",
+       "en": "Your daughter, your granddaughter,"
+      },
+      {
+       "cyr": "а на мене мила снаа.",
+       "lat": "a na mene mila snaa.",
+       "en": "and for me a dear daughter-in-law."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, ајде да се напиеме,",
+       "lat": "Ajde, ajde da se napieme,",
+       "en": "Come, come, let us drink,"
+      },
+      {
+       "cyr": "рујно вино, лута ракија.",
+       "lat": "rujno vino, luta rakija.",
+       "en": "ruby wine, strong brandy."
+      },
+      {
+       "cyr": "Да сме среќни и весели,",
+       "lat": "Da sme sreḱni i veseli,",
+       "en": "May we be happy and merry,"
+      },
+      {
+       "cyr": "до година на крштевка.",
+       "lat": "do godina na krštevka.",
+       "en": "until next year at the christening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Добро ми дошла невесто, еј,",
+       "lat": "Dobro mi došla nevesto, ej,",
+       "en": "Welcome, bride, hey,"
+      },
+      {
+       "cyr": "дали жалиш за мајка ти?",
+       "lat": "dali žališ za majka ti?",
+       "en": "do you miss your mother?"
+      },
+      {
+       "cyr": "Добро ми дошла невесто, еј,",
+       "lat": "Dobro mi došla nevesto, ej,",
+       "en": "Welcome, bride, hey,"
+      },
+      {
+       "cyr": "дали жалиш за татко ти?",
+       "lat": "dali žališ za tatko ti?",
+       "en": "do you miss your father?"
+      },
+      {
+       "cyr": "Дали жалиш мило братче,",
+       "lat": "Dali žališ milo bratče,",
+       "en": "Do you miss your dear little brother,"
+      },
+      {
+       "cyr": "или жалиш мила сестра?",
+       "lat": "ili žališ mila sestra?",
+       "en": "or do you miss your dear sister?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, ајде да се напиеме,",
+       "lat": "Ajde, ajde da se napieme,",
+       "en": "Come, come, let us drink,"
+      },
+      {
+       "cyr": "рујно вино, лута ракија.",
+       "lat": "rujno vino, luta rakija.",
+       "en": "ruby wine, strong brandy."
+      },
+      {
+       "cyr": "Да сме среќни и весели,",
+       "lat": "Da sme sreḱni i veseli,",
+       "en": "May we be happy and merry,"
+      },
+      {
+       "cyr": "до година на крштевка.",
+       "lat": "do godina na krštevka.",
+       "en": "until next year at the christening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај сите оро да заиграме,",
+       "lat": "Aj site oro da zaigrame,",
+       "en": "Come, everyone, let us start the dance,"
+      },
+      {
+       "cyr": "лесно оро да се вие.",
+       "lat": "lesno oro da se vie.",
+       "en": "let the light dance be woven."
+      },
+      {
+       "cyr": "Силна песна да се пее,",
+       "lat": "Silna pesna da se pee,",
+       "en": "Let a strong song be sung,"
+      },
+      {
+       "cyr": "в' срце радост да се лее.",
+       "lat": "v' srce radost da se lee.",
+       "en": "let joy pour into the heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, ајде да се напиеме,",
+       "lat": "Ajde, ajde da se napieme,",
+       "en": "Come, come, let us drink,"
+      },
+      {
+       "cyr": "рујно вино, лута ракија.",
+       "lat": "rujno vino, luta rakija.",
+       "en": "ruby wine, strong brandy."
+      },
+      {
+       "cyr": "Да сме среќни и весели,",
+       "lat": "Da sme sreḱni i veseli,",
+       "en": "May we be happy and merry,"
+      },
+      {
+       "cyr": "до година на крштевка.",
+       "lat": "do godina na krštevka.",
+       "en": "until next year at the christening."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,176 @@
+{
+ "id": 1274,
+ "slug": "vojnik-si-otsluzhil-sine",
+ "title_cyr": "Војник си отслужил сине",
+ "title_latin": "Vojnik si otslužil sine",
+ "title_en": "You Have Served Your Army Time, Son",
+ "pesna_url": "https://pesna.org/song/1274",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; no author I can name. 'Ама што си кинисало' is my reading; the line 'барем да прилега, сине, за нашата куќа' is translated as 'one who would suit our house'.",
+ "words_to_learn": [
+  {
+   "mk": "отслужил",
+   "en": "have served (military service)"
+  },
+  {
+   "mk": "ожениш",
+   "en": "you marry (of a man)"
+  },
+  {
+   "mk": "кинисало",
+   "en": "come over, got into (my reading)"
+  },
+  {
+   "mk": "прилега",
+   "en": "suits, fits"
+  },
+  {
+   "mk": "лично",
+   "en": "handsome, good-looking"
+  },
+  {
+   "mk": "богатство",
+   "en": "wealth"
+  },
+  {
+   "mk": "прва љубов",
+   "en": "first love"
+  },
+  {
+   "mk": "се заборава",
+   "en": "is forgotten"
+  },
+  {
+   "mk": "де",
+   "en": "then, well (filler)"
+  }
+ ],
+ "performers": [
+  "Коста Петрушев - Димче",
+  "Ленче Димулкова"
+ ],
+ "audio": [
+  {
+   "who": "Коста Петрушев - Димче, Ленче Димулкова",
+   "url": "https://pesna.org/audio-download/3208"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Војник си отслужил сине,",
+       "lat": "- Vojnik si otslužil sine,",
+       "en": "- You have served as a soldier, son,"
+      },
+      {
+       "cyr": "ајде да се ожениш, де.",
+       "lat": "ajde da se oženiš, de.",
+       "en": "come on, get married, then."
+      },
+      {
+       "cyr": "Ама што си кинисало,",
+       "lat": "Ama što si kinisalo,",
+       "en": "But what has got into you,"
+      },
+      {
+       "cyr": "со тоа што одиш, де?",
+       "lat": "so toa što odiš, de?",
+       "en": "with this going about of yours, then?"
+      },
+      {
+       "cyr": "Зошто такво моме љубиш,",
+       "lat": "Zošto takvo mome ljubiš,",
+       "en": "Why do you love such a girl,"
+      },
+      {
+       "cyr": "што не ти прилега, де?",
+       "lat": "što ne ti prilega, de?",
+       "en": "who does not suit you, then?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мама ќе ти најде, сине,",
+       "lat": "Mama ḱe ti najde, sine,",
+       "en": "Mother will find you, son,"
+      },
+      {
+       "cyr": "лично и богато, де,",
+       "lat": "lično i bogato, de,",
+       "en": "a handsome and rich one, then,"
+      },
+      {
+       "cyr": "барем да прилега, сине,",
+       "lat": "barem da prilega, sine,",
+       "en": "at least one who would suit,"
+      },
+      {
+       "cyr": "за нашата куќа, де.",
+       "lat": "za našata kuḱa, de.",
+       "en": "son, our house, then."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Што ќе ми богатство, мајко,",
+       "lat": "- Što ḱe mi bogatstvo, majko,",
+       "en": "- What do I need wealth for, mother,"
+      },
+      {
+       "cyr": "кога ќе ја не сакам, де?",
+       "lat": "koga ḱe ja ne sakam, de?",
+       "en": "if I will not love her, then?"
+      },
+      {
+       "cyr": "Барем ти си била млада",
+       "lat": "Barem ti si bila mlada",
+       "en": "At least you were young once"
+      },
+      {
+       "cyr": "и за љубов знаеш, де.",
+       "lat": "i za ljubov znaeš, de.",
+       "en": "and you know about love, then."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојта прва љубов, мајко,",
+       "lat": "Mojta prva ljubov, majko,",
+       "en": "My first love, mother,"
+      },
+      {
+       "cyr": "не се заборава, де,",
+       "lat": "ne se zaborava, de,",
+       "en": "is not forgotten, then,"
+      },
+      {
+       "cyr": "секој што се верно љуби,",
+       "lat": "sekoj što se verno ljubi,",
+       "en": "everyone who loves faithfully"
+      },
+      {
+       "cyr": "треба да се земи, де.",
+       "lat": "treba da se zemi, de.",
+       "en": "should be married, then."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

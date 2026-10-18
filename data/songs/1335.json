@@ -1,0 +1,255 @@
+{
+ "id": 1335,
+ "slug": "na-tumba-turci",
+ "title_cyr": "На тумба Турци",
+ "title_latin": "Na tumba Turci",
+ "title_en": "Turks on the mound",
+ "pesna_url": "https://pesna.org/song/1335",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The refrain lines (mother, 'оф леле') are as written; the last stanza and the meaning of 'момче не чини' (my reading: the lad is no good for her) are guessed. 'вој дилбер', 'воа аро' are dialect, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "армаса",
+   "en": "engaged, betrothed (dialect, my reading)"
+  },
+  {
+   "mk": "зенгин",
+   "en": "wealthy"
+  },
+  {
+   "mk": "имање",
+   "en": "property, wealth"
+  },
+  {
+   "mk": "булук",
+   "en": "flock, herd"
+  },
+  {
+   "mk": "сурија",
+   "en": "herd"
+  },
+  {
+   "mk": "ергеле",
+   "en": "stud of horses"
+  },
+  {
+   "mk": "тумба",
+   "en": "mound, hillock"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura (stringed instrument)"
+  },
+  {
+   "mk": "краста",
+   "en": "scab, mange"
+  },
+  {
+   "mk": "дилбер",
+   "en": "handsome man, beauty"
+  }
+ ],
+ "performers": [
+  "Мери Минас Магдалена",
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3426"
+  },
+  {
+   "who": "Мери Минас Магдалена",
+   "url": "https://pesna.org/audio-download/3727"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Сношти се Риза армаса)",
+       "lat": "(Snošti se Riza armasa)",
+       "en": "(Last night Riza was engaged)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти се Риза армаса мамо,",
+       "lat": "Snošti se Riza armasa mamo,",
+       "en": "Last night Riza was engaged, mother,"
+      },
+      {
+       "cyr": "во едно село далечно,",
+       "lat": "vo edno selo dalečno,",
+       "en": "in a faraway village,"
+      },
+      {
+       "cyr": "јој леле, леле,",
+       "lat": "joj lele, lele,",
+       "en": "oh alas, alas,"
+      },
+      {
+       "cyr": "во една куќа зенгина.",
+       "lat": "vo edna kuḱa zengina.",
+       "en": "in a wealthy house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу имање имале мамо,",
+       "lat": "Mnogu imanje imale mamo,",
+       "en": "They had much property, mother,"
+      },
+      {
+       "cyr": "булуци овци паселе",
+       "lat": "buluci ovci pasele",
+       "en": "they grazed flocks of sheep,"
+      },
+      {
+       "cyr": "јој леле, леле,",
+       "lat": "joj lele, lele,",
+       "en": "oh alas, alas,"
+      },
+      {
+       "cyr": "сурија волови паселе.",
+       "lat": "surija volovi pasele.",
+       "en": "they grazed herds of oxen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сурија волови паселе мамо,",
+       "lat": "Surija volovi pasele mamo,",
+       "en": "They grazed herds of oxen, mother,"
+      },
+      {
+       "cyr": "ергеле коњи терале,",
+       "lat": "ergele konji terale,",
+       "en": "they drove studs of horses,"
+      },
+      {
+       "cyr": "јој леле, леле,",
+       "lat": "joj lele, lele,",
+       "en": "oh alas, alas,"
+      },
+      {
+       "cyr": "ергеле коњи терале.",
+       "lat": "ergele konji terale.",
+       "en": "they drove studs of horses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На тумба Турци седеа мамо,",
+       "lat": "Na tumba Turci sedea mamo,",
+       "en": "Turks sat on the mound, mother,"
+      },
+      {
+       "cyr": "и со тамбура свиреа,",
+       "lat": "i so tambura svirea,",
+       "en": "and played on the tamburas,"
+      },
+      {
+       "cyr": "јој леле, леле,",
+       "lat": "joj lele, lele,",
+       "en": "oh alas, alas,"
+      },
+      {
+       "cyr": "и ву тамбура велеа:",
+       "lat": "i vu tambura velea:",
+       "en": "and said with the tamburas:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А била Риза убава мамо,",
+       "lat": "- A bila Riza ubava mamo,",
+       "en": "- Riza was beautiful, mother,"
+      },
+      {
+       "cyr": "кога ѝ момче не чини,",
+       "lat": "koga ì momče ne čini,",
+       "en": "when the lad does not suit her,"
+      },
+      {
+       "cyr": "јој леле, леле,",
+       "lat": "joj lele, lele,",
+       "en": "oh alas, alas,"
+      },
+      {
+       "cyr": "кога ѝ момче не чини.",
+       "lat": "koga ì momče ne čini.",
+       "en": "when the lad does not suit her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Краста да ѝ фати овците, мамо",
+       "lat": "Krasta da ì fati ovcite, mamo",
+       "en": "May scab take her sheep, mother,"
+      },
+      {
+       "cyr": "волкот да ѝ тури воловите.",
+       "lat": "volkot da ì turi volovite.",
+       "en": "may the wolf throw down her oxen,"
+      },
+      {
+       "cyr": "Ој леле леле,",
+       "lat": "Oj lele lele,",
+       "en": "oh alas alas,"
+      },
+      {
+       "cyr": "мечка да ѝ јади којните.",
+       "lat": "mečka da ì jadi kojnite.",
+       "en": "may a bear eat her horses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога е момче не чини, мамо",
+       "lat": "Koga e momče ne čini, mamo",
+       "en": "When the lad doesn't suit, mother,"
+      },
+      {
+       "cyr": "шо е вој дилбер по него?",
+       "lat": "šo e voj dilber po nego?",
+       "en": "what is this handsome man next to him?"
+      },
+      {
+       "cyr": "О леле леле",
+       "lat": "O lele lele",
+       "en": "oh alas alas,"
+      },
+      {
+       "cyr": "шо е воа аро пред нега?",
+       "lat": "šo e voa aro pred nega?",
+       "en": "what is this old rascal in front of him?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

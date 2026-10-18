@@ -1,0 +1,145 @@
+{
+ "id": 92,
+ "slug": "ajde-angje-da-povecherame",
+ "title_cyr": "Ајде Анѓе да повечераме",
+ "title_latin": "Ajde Anǵe da povečerame",
+ "title_en": "Come On, Anga, Let Us Have Supper",
+ "pesna_url": "https://pesna.org/song/92",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Анѓе је се нешто учинило' is my reading: 'something has come over Anga'. 'Влегло лудо' could mean 'the foolish/young one went into' rather than 'went crazy'; I am not sure.",
+ "words_to_learn": [
+  {
+   "mk": "повечераме",
+   "en": "let us have supper"
+  },
+  {
+   "mk": "вечерајте",
+   "en": "eat supper (plural imperative)"
+  },
+  {
+   "mk": "чекајте",
+   "en": "wait (plural)"
+  },
+  {
+   "mk": "учинило",
+   "en": "has happened / been done"
+  },
+  {
+   "mk": "лудо",
+   "en": "crazy, madly (dialect: also 'young one')"
+  },
+  {
+   "mk": "долното градинче",
+   "en": "the lower little garden"
+  },
+  {
+   "mk": "обрало",
+   "en": "picked (flowers)"
+  },
+  {
+   "mk": "секаквоно",
+   "en": "of every kind"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1567"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1568"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде Анѓе да повечераме, мори,",
+       "lat": "Ajde Anǵe da povečerame, mori,",
+       "en": "Come on, Anga, let us have supper, hey,"
+      },
+      {
+       "cyr": "ајде Анѓе да повечераме.",
+       "lat": "ajde Anǵe da povečerame.",
+       "en": "come on, Anga, let us have supper."
+      },
+      {
+       "cyr": "- Вечерајте, Анѓа не чекајте, море,",
+       "lat": "- Večerajte, Anǵa ne čekajte, more,",
+       "en": "- You eat, do not wait for Anga, oh,"
+      },
+      {
+       "cyr": "вечерајте, Анѓа не чекајте.",
+       "lat": "večerajte, Anǵa ne čekajte.",
+       "en": "you eat, do not wait for Anga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Анѓе је се нешто учинило, море,",
+       "lat": "Anǵe je se nešto učinilo, more,",
+       "en": "Something has happened to Anga, oh,"
+      },
+      {
+       "cyr": "Анѓе је се нешто учинило.",
+       "lat": "Anǵe je se nešto učinilo.",
+       "en": "something has happened to Anga."
+      },
+      {
+       "cyr": "Влегло лудо в' долното градинче, море,",
+       "lat": "Vleglo ludo v' dolnoto gradinče, more,",
+       "en": "She went crazy into the lower little garden, oh,"
+      },
+      {
+       "cyr": "влегло лудо в' долното градинче.",
+       "lat": "vleglo ludo v' dolnoto gradinče.",
+       "en": "she went crazy into the lower little garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми обрало секаквоно цвеќе, море,",
+       "lat": "Mi obralo sekakvono cveḱe, more,",
+       "en": "She picked flowers of every kind, oh,"
+      },
+      {
+       "cyr": "ми обрало секаквоно цвеќе.",
+       "lat": "mi obralo sekakvono cveḱe.",
+       "en": "she picked flowers of every kind."
+      },
+      {
+       "cyr": "Секаквоно цвеќе, бело ем црвено, море,",
+       "lat": "Sekakvono cveḱe, belo em crveno, more,",
+       "en": "Flowers of every kind, white and red, oh,"
+      },
+      {
+       "cyr": "секаквоно цвеќе, бело ем црвено.",
+       "lat": "sekakvono cveḱe, belo em crveno.",
+       "en": "flowers of every kind, white and red."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

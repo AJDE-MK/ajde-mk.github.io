@@ -1,0 +1,163 @@
+{
+ "id": 481,
+ "slug": "prokleta-da-e-avstralija",
+ "title_cyr": "Проклета да е Австралија",
+ "title_latin": "Prokleta da e Avstralija",
+ "title_en": "Cursed be Australia",
+ "pesna_url": "https://pesna.org/song/481",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigrant song. 'Си ја оставив' is a reflexive past ('I left'); 'абре' is an interjection I render as 'hey'.",
+ "words_to_learn": [
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "запусти",
+   "en": "ruined, left desolate"
+  },
+  {
+   "mk": "фамилија",
+   "en": "family"
+  },
+  {
+   "mk": "овене",
+   "en": "wither (subjunctive)"
+  },
+  {
+   "mk": "невеста",
+   "en": "young wife, bride"
+  },
+  {
+   "mk": "печалба",
+   "en": "work abroad, migrant labour"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "машко детенце",
+   "en": "baby boy"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Милениум бенд"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Куцулова, Ѓорѓи Андреевски",
+   "url": "https://pesna.org/audio-download/1261"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/1262"
+  },
+  {
+   "who": "Милениум бенд",
+   "url": "https://pesna.org/audio-download/1263"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да е Австралија",
+       "lat": "Prokleta da e Avstralija",
+       "en": "Cursed be Australia,"
+      },
+      {
+       "cyr": "ми ја запусти фамилијата.",
+       "lat": "mi ja zapusti familijata.",
+       "en": "it has ruined my family."
+      },
+      {
+       "cyr": "Си ја оставив мојата жена",
+       "lat": "Si ja ostaviv mojata žena",
+       "en": "I left my wife behind,"
+      },
+      {
+       "cyr": "цвеќе в' градина да ми овене.",
+       "lat": "cveḱe v' gradina da mi ovene.",
+       "en": "the flower in my garden to wither."
+      },
+      {
+       "cyr": "Е, еј Австралија, ееј земја далечна.",
+       "lat": "E, ej Avstralija, eej zemja dalečna.",
+       "en": "Hey, hey Australia, hey far-off land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојте другари песна ми пеат,",
+       "lat": "Mojte drugari pesna mi peat,",
+       "en": "My friends sing me a song,"
+      },
+      {
+       "cyr": "абре Стојане немој, не оди!",
+       "lat": "abre Stojane nemoj, ne odi!",
+       "en": "hey Stojan, don't go!"
+      },
+      {
+       "cyr": "Кому оставаш, млада невеста,",
+       "lat": "Komu ostavaš, mlada nevesta,",
+       "en": "Whom are you leaving, a young bride,"
+      },
+      {
+       "cyr": "с' машко детенце и стара мајка?",
+       "lat": "s' maško detence i stara majka?",
+       "en": "with a baby boy and an old mother?"
+      },
+      {
+       "cyr": "Е, еј Австралија, ееј земја далечна.",
+       "lat": "E, ej Avstralija, eej zemja dalečna.",
+       "en": "Hey, hey Australia, hey far-off land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да е Австралија",
+       "lat": "Prokleta da e Avstralija",
+       "en": "Cursed be Australia,"
+      },
+      {
+       "cyr": "што ме остави без фамилија.",
+       "lat": "što me ostavi bez familija.",
+       "en": "it left me without a family."
+      },
+      {
+       "cyr": "Тешка печалба, црна туѓина,",
+       "lat": "Teška pečalba, crna tuǵina,",
+       "en": "Hard work abroad, black foreign land,"
+      },
+      {
+       "cyr": "многу далеку, сам без никого.",
+       "lat": "mnogu daleku, sam bez nikogo.",
+       "en": "far, far away, alone with no one."
+      },
+      {
+       "cyr": "Е, еј Австралија, ееј земја далечна.",
+       "lat": "E, ej Avstralija, eej zemja dalečna.",
+       "en": "Hey, hey Australia, hey far-off land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

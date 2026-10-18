@@ -1,0 +1,110 @@
+{
+ "id": 917,
+ "slug": "belite-manastiri",
+ "title_cyr": "Белите манастири",
+ "title_latin": "Belite manastiri",
+ "title_en": "The white monasteries",
+ "pesna_url": "https://pesna.org/song/917",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ленче Кукиќ",
+  "Орце Стевковски",
+  "Пицикато"
+ ],
+ "audio": [
+  {
+   "who": "Ленче Кукиќ, Пицикато",
+   "url": "https://pesna.org/audio-download/2035"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4476"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Продават се, мале,",
+       "lat": "Prodavat se, male,",
+       "en": "The white monasteries"
+      },
+      {
+       "cyr": "белите манастири",
+       "lat": "belite manastiri",
+       "en": "are up for sale,"
+      },
+      {
+       "cyr": "белите манастири, милај мамо,",
+       "lat": "belite manastiri, milaj mamo,",
+       "en": "the white monasteries, dear mother,"
+      },
+      {
+       "cyr": "црните калуѓерки.",
+       "lat": "crnite kaluǵerki.",
+       "en": "the black nuns."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој не се најде",
+       "lat": "Nikoj ne se najde",
+       "en": "There was none"
+      },
+      {
+       "cyr": "манастир да купи,",
+       "lat": "manastir da kupi,",
+       "en": "to buy the monasteries,"
+      },
+      {
+       "cyr": "ај, манастир да купи, милај мамо,",
+       "lat": "aj, manastir da kupi, milaj mamo,",
+       "en": "to buy the monasteries, dear mother,"
+      },
+      {
+       "cyr": "чаршија да отвори.",
+       "lat": "čaršija da otvori.",
+       "en": "and build a street with stores."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нај ми се најало",
+       "lat": "Naj mi se najalo",
+       "en": "Finally there was"
+      },
+      {
+       "cyr": "младото ергенче,",
+       "lat": "mladoto ergenče,",
+       "en": "the young unmarried boy,"
+      },
+      {
+       "cyr": "ај, манастир да купи, милај мамо,",
+       "lat": "aj, manastir da kupi, milaj mamo,",
+       "en": "to buy the monasteries, dear mother,"
+      },
+      {
+       "cyr": "чаршија да направи.",
+       "lat": "čaršija da napravi.",
+       "en": "and build a street with stores."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,202 @@
+{
+ "id": 1119,
+ "slug": "ti-frlije-jano-eftirije",
+ "title_cyr": "Ти фрлије Јано ефтирије",
+ "title_latin": "Ti frlije Jano eftirije",
+ "title_en": "You threw, Jana, the cheap goods",
+ "pesna_url": "https://pesna.org/song/1119",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'фрлије', 'ефтирије', 'сараѓулски' and 'да те снде' are guesses (my reading: cheap goods, from Saraj, and 'to shame you'); the first line is the least certain.",
+ "words_to_learn": [
+  {
+   "mk": "украшла",
+   "en": "stole (dialect)"
+  },
+  {
+   "mk": "овни",
+   "en": "rams"
+  },
+  {
+   "mk": "јарчиња",
+   "en": "kids (young goats)"
+  },
+  {
+   "mk": "ѕвончиња",
+   "en": "little bells"
+  },
+  {
+   "mk": "сред селото",
+   "en": "in the middle of the village"
+  },
+  {
+   "mk": "извашле",
+   "en": "caught (dialect, my reading)"
+  },
+  {
+   "mk": "калешо",
+   "en": "invited one / dear (endearment, my reading)"
+  }
+ ],
+ "performers": [
+  "Габриела Новевска",
+  "Гордана Тасева",
+  "Костурчанки",
+  "Стефанија Гугинска",
+  "Теодора Ѓоргиева"
+ ],
+ "audio": [
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/2676"
+  },
+  {
+   "who": "Стефанија Гугинска, Гордана Тасева, Габриела Новевска, Теодора Ѓоргиева",
+   "url": "https://pesna.org/audio-download/2677"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ти фрлије, Јано, ефтирије,",
+       "lat": "Ti frlije, Jano, eftirije,",
+       "en": "You threw, Jana, the cheap goods,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ефтирије, Јано, на правдина,",
+       "lat": "Eftirije, Jano, na pravdina,",
+       "en": "Cheap goods, Jana, at a fair price,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си украшла, Јано, девет овни,",
+       "lat": "Si ukrašla, Jano, devet ovni,",
+       "en": "You stole, Jana, nine rams,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет овни, Јано, сараѓулски,",
+       "lat": "Devet ovni, Jano, saraǵulski,",
+       "en": "Nine rams, Jana, from Saraj,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три јарчиња, Јано, со ѕвончиња,",
+       "lat": "Tri jarčinja, Jano, so dzvončinja,",
+       "en": "Three kids, Jana, with little bells,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те извашле, Јано, сред селото,",
+       "lat": "Te izvašle, Jano, sred seloto,",
+       "en": "They caught you, Jana, in the middle of the village,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сред селото, Јано, да те снде,",
+       "lat": "Sred seloto, Jano, da te snde,",
+       "en": "In the middle of the village, Jana, to shame you,"
+      },
+      {
+       "cyr": "де мори Јано де, јо калешо, јо,",
+       "lat": "de mori Jano de, jo kalešo, jo,",
+       "en": "hey, Jana, hey, oh kalesho, oh,"
+      },
+      {
+       "cyr": "де мори Јано де, јо мори Јано, јо.",
+       "lat": "de mori Jano de, jo mori Jano, jo.",
+       "en": "hey, Jana, hey, oh Jana, oh."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

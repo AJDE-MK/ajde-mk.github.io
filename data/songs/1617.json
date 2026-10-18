@@ -1,0 +1,104 @@
+{
+ "id": 1617,
+ "slug": "kokono-mome-mori-ubava",
+ "title_cyr": "Коконо, моме мори убава",
+ "title_latin": "Kokono, mome mori ubava",
+ "title_en": "Glamorous girl, beautiful",
+ "pesna_url": "https://pesna.org/song/1617",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Драгица Мавровска"
+ ],
+ "audio": [
+  {
+   "who": "Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4303"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Коконо, моме мори убава,",
+       "lat": "- Kokono, mome mori ubava,",
+       "en": "- Glamorous girl, beautiful,"
+      },
+      {
+       "cyr": "допратил ме је мајсторот.",
+       "lat": "dopratil me je majstorot.",
+       "en": "the master tailor sent me."
+      },
+      {
+       "cyr": "Да дадеш конци, мори, ибришим,",
+       "lat": "Da dadeš konci, mori, ibrišim,",
+       "en": "Give me some thin silk threads,"
+      },
+      {
+       "cyr": "да ти сошие фустанот.",
+       "lat": "da ti sošie fustanot.",
+       "en": "so that he can sew your dress."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Чираче ношно море ѓаволче,",
+       "lat": "- Čirače nošno more ǵavolče,",
+       "en": "- Apprentice, you little devil,"
+      },
+      {
+       "cyr": "дек ме је мајсторот видел?",
+       "lat": "dek me je majstorot videl?",
+       "en": "where did the master see me?"
+      },
+      {
+       "cyr": "Дек ме је мајсторот море видел,",
+       "lat": "Dek me je majstorot more videl,",
+       "en": "Where did the master see me,"
+      },
+      {
+       "cyr": "та ми је фустан откроил?",
+       "lat": "ta mi je fustan otkroil?",
+       "en": "how did he cut my dress?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога на бања мори одеше",
+       "lat": "- Koga na banja mori odeše",
+       "en": "- When you were going to the bathhouse,"
+      },
+      {
+       "cyr": "покрај дуќанот минеше.",
+       "lat": "pokraj duḱanot mineše.",
+       "en": "you passed by the shop."
+      },
+      {
+       "cyr": "Сенча ти в' дуќан мори влазеше",
+       "lat": "Senča ti v' duḱan mori vlazeše",
+       "en": "Your shadow entered his shop"
+      },
+      {
+       "cyr": "мајстор ти фустан кроеше.",
+       "lat": "majstor ti fustan kroeše.",
+       "en": "and the master took the measurements for your dress."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

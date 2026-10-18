@@ -1,0 +1,261 @@
+{
+ "id": 1352,
+ "slug": "sevdelinke-maloj-mome",
+ "title_cyr": "Севделинке малој моме",
+ "title_latin": "Sevdelinke maloj mome",
+ "title_en": "Sevdelinka, Little Girl",
+ "pesna_url": "https://pesna.org/song/1352",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, southern dialect (je for e, 'купу'). 'Ќе му купу' is rendered 'I will buy her' as my reading; 'ѕм, ѕм, ѕм' is a sung refrain syllable, left as 'zm'.",
+ "words_to_learn": [
+  {
+   "mk": "чука",
+   "en": "rocky hilltop"
+  },
+  {
+   "mk": "дома",
+   "en": "at home"
+  },
+  {
+   "mk": "сама",
+   "en": "alone"
+  },
+  {
+   "mk": "стара мајка",
+   "en": "old mother"
+  },
+  {
+   "mk": "колај",
+   "en": "easy, easily"
+  },
+  {
+   "mk": "крушке",
+   "en": "pears"
+  },
+  {
+   "mk": "траје",
+   "en": "keeps quiet (here, per note)"
+  },
+  {
+   "mk": "стап",
+   "en": "stick, cane"
+  },
+  {
+   "mk": "де",
+   "en": "hey, then (filler)"
+  }
+ ],
+ "performers": [
+  "Монистра"
+ ],
+ "audio": [
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/3527"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Севделинке малој моме,",
+       "lat": "- Sevdelinke maloj mome,",
+       "en": "- Sevdelinka, little girl,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дома ли си, сама ли си",
+       "lat": "Doma li si, sama li si",
+       "en": "Are you at home, are you alone,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дома сум си, не сум сама",
+       "lat": "- Doma sum si, ne sum sama",
+       "en": "- I am at home, I am not alone,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "При мене је стара мајка",
+       "lat": "Pri mene je stara majka",
+       "en": "With me is my old mother,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- За мајку ти колај бива",
+       "lat": "- Za majku ti kolaj biva",
+       "en": "- For your mother it is easy,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе му купу кило крушке",
+       "lat": "Ḱe mu kupu kilo kruške",
+       "en": "I will buy her a kilo of pears,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека јаде, нека траје",
+       "lat": "Neka jade, neka traje",
+       "en": "Let her eat, let her keep quiet,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зашто стапот ќе играје",
+       "lat": "Zašto stapot ḱe igraje",
+       "en": "Because the stick will dance,"
+      },
+      {
+       "cyr": "ѕм, ѕм, ѕм, малој ѕм,",
+       "lat": "dzm, dzm, dzm, maloj dzm,",
+       "en": "zm, zm, zm, little zm,"
+      },
+      {
+       "cyr": "дек' имамо чет'ри чуке",
+       "lat": "dek' imamo čet'ri čuke",
+       "en": "where we have four hilltops,"
+      },
+      {
+       "cyr": "малој моме де.",
+       "lat": "maloj mome de.",
+       "en": "little girl, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

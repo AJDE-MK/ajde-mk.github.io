@@ -1,0 +1,151 @@
+{
+ "id": 834,
+ "slug": "na-sred-selo-tapan-bie",
+ "title_cyr": "На сред село тапан бие",
+ "title_latin": "Na sred selo tapan bie",
+ "title_en": "In the Middle of the Village a Drum Beats",
+ "pesna_url": "https://pesna.org/song/834",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Белки' rendered as 'perhaps'. The last stanza appears to be the mother speaking, as my reading.",
+ "words_to_learn": [
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "оро",
+   "en": "folk circle dance"
+  },
+  {
+   "mk": "се вие",
+   "en": "winds, twists (of a dance)"
+  },
+  {
+   "mk": "танец",
+   "en": "dance"
+  },
+  {
+   "mk": "се вдомат",
+   "en": "settle down, set up a home"
+  },
+  {
+   "mk": "пушти",
+   "en": "let go (imperative)"
+  },
+  {
+   "mk": "заиграм",
+   "en": "start dancing"
+  },
+  {
+   "mk": "грабне",
+   "en": "grab, snatch"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1776"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На сред село, мамо, тапан бие,",
+       "lat": "Na sred selo, mamo, tapan bie,",
+       "en": "In the middle of the village, mama, a drum beats,"
+      },
+      {
+       "cyr": "тапан бие, мамо, оро се вие.",
+       "lat": "tapan bie, mamo, oro se vie.",
+       "en": "a drum beats, mama, a dance winds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите моми, мамо, танец водат,",
+       "lat": "Site momi, mamo, tanec vodat,",
+       "en": "All the girls, mama, lead the dance,"
+      },
+      {
+       "cyr": "танец водат, мамо, песни пеат,",
+       "lat": "tanec vodat, mamo, pesni peat,",
+       "en": "lead the dance, mama, sing songs,"
+      },
+      {
+       "cyr": "песни пеат, мамо, за ергени,",
+       "lat": "pesni peat, mamo, za ergeni,",
+       "en": "sing songs, mama, about bachelors,"
+      },
+      {
+       "cyr": "да се женат, мамо, да се вдомат.",
+       "lat": "da se ženat, mamo, da se vdomat.",
+       "en": "that they may marry, mama, that they may settle down."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пушти мене, мамо, јас да идам,",
+       "lat": "Pušti mene, mamo, jas da idam,",
+       "en": "Let me go, mama, let me go,"
+      },
+      {
+       "cyr": "да се фатам, мамо, на орото,",
+       "lat": "da se fatam, mamo, na oroto,",
+       "en": "to join, mama, the dance,"
+      },
+      {
+       "cyr": "да заиграм, мамо, да запеам,",
+       "lat": "da zaigram, mamo, da zapeam,",
+       "en": "to dance, mama, to sing,"
+      },
+      {
+       "cyr": "белки ќе ме чуе мојто либе.",
+       "lat": "belki ḱe me čue mojto libe.",
+       "en": "perhaps my love will hear me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не те пуштам, Анѓе, на орото,",
+       "lat": "Ne te puštam, Anǵe, na oroto,",
+       "en": "I will not let you go, Anga, to the dance,"
+      },
+      {
+       "cyr": "на орото, Анѓе, во селото,",
+       "lat": "na oroto, Anǵe, vo seloto,",
+       "en": "to the dance, Anga, in the village,"
+      },
+      {
+       "cyr": "таму ти е, Анѓе, твојто либе,",
+       "lat": "tamu ti e, Anǵe, tvojto libe,",
+       "en": "your love is there, Anga,"
+      },
+      {
+       "cyr": "ќе те грабне, Анѓе, ќе те земе.",
+       "lat": "ḱe te grabne, Anǵe, ḱe te zeme.",
+       "en": "he will snatch you, Anga, he will take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

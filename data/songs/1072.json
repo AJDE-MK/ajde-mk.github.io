@@ -1,0 +1,206 @@
+{
+ "id": 1072,
+ "slug": "den-denuvam",
+ "title_cyr": "Ден денувам",
+ "title_latin": "Den denuvam",
+ "title_en": "I Spend the Day",
+ "pesna_url": "https://pesna.org/song/1072",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Text by the poet Peyo Yavorov (1878-1914, died before 1930), dedicated to Gotse Delchev, so translated in full. 'к'тишта' read as 'nooks' and 'халосија' left untranslated (word unclear to me): both my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ден денувам",
+   "en": "I spend the day"
+  },
+  {
+   "mk": "ноќ ноќувам",
+   "en": "I spend the night"
+  },
+  {
+   "mk": "потајни",
+   "en": "secret, hidden"
+  },
+  {
+   "mk": "незнајни",
+   "en": "unknown"
+  },
+  {
+   "mk": "ридае",
+   "en": "wails, laments"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre"
+  },
+  {
+   "mk": "огнебојка",
+   "en": "fire-spitting (rifle)"
+  },
+  {
+   "mk": "врагувам",
+   "en": "I feud, am hostile"
+  },
+  {
+   "mk": "оплакува",
+   "en": "mourns"
+  }
+ ],
+ "performers": [
+  "Бански старчета",
+  "Володја Стојанов",
+  "Теодосиј Спасов"
+ ],
+ "audio": [
+  {
+   "who": "Бански старчета",
+   "url": "https://pesna.org/audio-download/2493"
+  },
+  {
+   "who": "Володја Стојанов",
+   "url": "https://pesna.org/audio-download/2494"
+  },
+  {
+   "who": "Теодосиј Спасов",
+   "url": "https://pesna.org/audio-download/2495"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(На Гоце Делчев)",
+       "lat": "(Na Goce Delčev)",
+       "en": "(To Gotse Delchev)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ден денувам - к'тишта потајни,",
+       "lat": "Den denuvam - k'tišta potajni,",
+       "en": "I spend the day in secret nooks,"
+      },
+      {
+       "cyr": "ноќ ноќувам - п'тишта незнајни.",
+       "lat": "noḱ noḱuvam - p'tišta neznajni.",
+       "en": "I spend the night on unknown paths."
+      },
+      {
+       "cyr": "Нeмам тато, ниту мама -",
+       "lat": "Nemam tato, nitu mama -",
+       "en": "I have no father, nor mother -"
+      },
+      {
+       "cyr": "тато да ругае, мама да ридае...",
+       "lat": "tato da rugae, mama da ridae...",
+       "en": "a father to scold, a mother to wail..."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле моја ти Пирин планино,",
+       "lat": "Lele moja ti Pirin planino,",
+       "en": "Oh my Pirin mountain,"
+      },
+      {
+       "cyr": "море црно цариградско вино.",
+       "lat": "more crno carigradsko vino.",
+       "en": "hey, black Constantinople wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "С' враг врагувам - мера според мера,",
+       "lat": "S' vrag vraguvam - mera spored mera,",
+       "en": "With a foe I feud, measure for measure,"
+      },
+      {
+       "cyr": "с' благ благувам - вера зарад вера.",
+       "lat": "s' blag blaguvam - vera zarad vera.",
+       "en": "with a kind one I am kind, faith for faith."
+      },
+      {
+       "cyr": "Немам братец, ни сестрица -",
+       "lat": "Nemam bratec, ni sestrica -",
+       "en": "I have no little brother, nor sister -"
+      },
+      {
+       "cyr": "братец да ме фали, а сестра да жали...",
+       "lat": "bratec da me fali, a sestra da žali...",
+       "en": "a brother to praise me, a sister to pity me..."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле моја сабја халосија,",
+       "lat": "Lele moja sabja halosija,",
+       "en": "Oh my sabre, my halosiya,"
+      },
+      {
+       "cyr": "море љута одринска ракија.",
+       "lat": "more ljuta odrinska rakija.",
+       "en": "hey, fiery Edirne brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог богува - нека си богува,",
+       "lat": "Bog boguva - neka si boguva,",
+       "en": "God reigns as God - let him reign,"
+      },
+      {
+       "cyr": "цар царува - века ли царува?",
+       "lat": "car caruva - veka li caruva?",
+       "en": "the tsar rules - does he rule forever?"
+      },
+      {
+       "cyr": "Немам либе, прва љубов,",
+       "lat": "Nemam libe, prva ljubov,",
+       "en": "I have no sweetheart, first love,"
+      },
+      {
+       "cyr": "мене да очек'ва и да ме оплак'ва...",
+       "lat": "mene da oček'va i da me oplak'va...",
+       "en": "to await me and to mourn me..."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле моја пушка огнебојка,",
+       "lat": "Lele moja puška ognebojka,",
+       "en": "Oh my fire-spitting rifle,"
+      },
+      {
+       "cyr": "море тенка солунска девојка.",
+       "lat": "more tenka solunska devojka.",
+       "en": "hey, slender Salonica girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,130 @@
+{
+ "id": 51,
+ "slug": "odozdola-ide-babo",
+ "title_cyr": "Одоздола иде, бабо",
+ "title_latin": "Odozdola ide, babo",
+ "title_en": "From below comes, grandfather",
+ "pesna_url": "https://pesna.org/song/51",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'бабо мори' is an address to the father/grandfather (бабо can mean father in dialect); I render it 'grandfather hey', which is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "одоздола",
+   "en": "from below"
+  },
+  {
+   "mk": "иде",
+   "en": "comes"
+  },
+  {
+   "mk": "лудо",
+   "en": "reckless, wild (of a young man)"
+  },
+  {
+   "mk": "младо",
+   "en": "young"
+  },
+  {
+   "mk": "јава",
+   "en": "rides"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle"
+  },
+  {
+   "mk": "рамо",
+   "en": "shoulder"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Одоздола иде, бабо мори,",
+       "lat": "Odozdola ide, babo mori,",
+       "en": "From below comes, grandfather hey,"
+      },
+      {
+       "cyr": "одоздола иде,",
+       "lat": "odozdola ide,",
+       "en": "from below comes,"
+      },
+      {
+       "cyr": "одоздола иде, бабо мори,",
+       "lat": "odozdola ide, babo mori,",
+       "en": "from below comes, grandfather hey,"
+      },
+      {
+       "cyr": "едно лудо младо.",
+       "lat": "edno ludo mlado.",
+       "en": "one reckless young man."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бела коња јава, бабо мори,",
+       "lat": "Bela konja java, babo mori,",
+       "en": "He rides a white horse, grandfather hey,"
+      },
+      {
+       "cyr": "бела коња вјава,",
+       "lat": "bela konja vjava,",
+       "en": "he rides a white horse,"
+      },
+      {
+       "cyr": "бела коња вјава, бабо мори,",
+       "lat": "bela konja vjava, babo mori,",
+       "en": "he rides a white horse, grandfather hey,"
+      },
+      {
+       "cyr": "со пушка на рамо.",
+       "lat": "so puška na ramo.",
+       "en": "with a rifle on his shoulder."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Право, право оди, бабо мори,",
+       "lat": "Pravo, pravo odi, babo mori,",
+       "en": "Straight, straight he goes, grandfather hey,"
+      },
+      {
+       "cyr": "право, право оди,",
+       "lat": "pravo, pravo odi,",
+       "en": "straight, straight he goes,"
+      },
+      {
+       "cyr": "право, право оди, бабо мори,",
+       "lat": "pravo, pravo odi, babo mori,",
+       "en": "straight, straight he goes, grandfather hey,"
+      },
+      {
+       "cyr": "на нашата порта.",
+       "lat": "na našata porta.",
+       "en": "to our gate."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

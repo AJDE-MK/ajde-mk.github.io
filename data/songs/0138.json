@@ -1,0 +1,208 @@
+{
+ "id": 138,
+ "slug": "vasilke-mlada-nevesto",
+ "title_cyr": "Василке млада невесто",
+ "title_latin": "Vasilke mlada nevesto",
+ "title_en": "Vasilka, young bride",
+ "pesna_url": "https://pesna.org/song/138",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Нива ми беше твојто маало' is my reading; literally 'a field was your neighborhood to me', contrast with 'not dear to me' in the next stanza. Vaska is a diminutive of Vasilka.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "омажи",
+   "en": "married (of a woman)"
+  },
+  {
+   "mk": "клетва",
+   "en": "oath, vow"
+  },
+  {
+   "mk": "подгази",
+   "en": "trampled"
+  },
+  {
+   "mk": "маало",
+   "en": "neighborhood"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbors"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Јорданка Варџијска",
+  "Кирил Костов"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1203"
+  },
+  {
+   "who": "Јорданка Варџијска, Кирил Костов",
+   "url": "https://pesna.org/audio-download/1204"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Василке млада невесто",
+       "lat": "Vasilke mlada nevesto",
+       "en": "Vasilka, young bride,"
+      },
+      {
+       "cyr": "зошто се млада омажи?",
+       "lat": "zošto se mlada omaži?",
+       "en": "why did you marry young?"
+      },
+      {
+       "cyr": "Зошто ме мене остави,",
+       "lat": "Zošto me mene ostavi,",
+       "en": "Why did you leave me,"
+      },
+      {
+       "cyr": "зошто си клетва подгази?",
+       "lat": "zošto si kletva podgazi?",
+       "en": "why did you trample your oath?"
+      },
+      {
+       "cyr": "Зошто ме мене Васке остави,",
+       "lat": "Zošto me mene Vaske ostavi,",
+       "en": "Why did you leave me, Vaska,"
+      },
+      {
+       "cyr": "зошто си клетва подгази?",
+       "lat": "zošto si kletva podgazi?",
+       "en": "why did you trample your oath?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Додека беше Васке девојка,",
+       "lat": "Dodeka beše Vaske devojka,",
+       "en": "While you were, Vaska, a maiden,"
+      },
+      {
+       "cyr": "нива ми беше твојто маало,",
+       "lat": "niva mi beše tvojto maalo,",
+       "en": "your neighborhood was like a field to me (my reading: dear to me),"
+      },
+      {
+       "cyr": "и твојте Васке комшии,",
+       "lat": "i tvojte Vaske komšii,",
+       "en": "and your neighbors, Vaska,"
+      },
+      {
+       "cyr": "и твојте први роднини.",
+       "lat": "i tvojte prvi rodnini.",
+       "en": "and your closest relatives."
+      },
+      {
+       "cyr": "И твојте Васке ле комшии,",
+       "lat": "I tvojte Vaske le komšii,",
+       "en": "And your neighbors, Vaska, oh,"
+      },
+      {
+       "cyr": "и твојте први роднини.",
+       "lat": "i tvojte prvi rodnini.",
+       "en": "and your closest relatives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Откога се мило либе омажи,",
+       "lat": "Otkoga se milo libe omaži,",
+       "en": "Since you married, dear love,"
+      },
+      {
+       "cyr": "не ми е мило твојто маало,",
+       "lat": "ne mi e milo tvojto maalo,",
+       "en": "your neighborhood is not dear to me,"
+      },
+      {
+       "cyr": "ни твојте Васке комшии,",
+       "lat": "ni tvojte Vaske komšii,",
+       "en": "nor your neighbors, Vaska,"
+      },
+      {
+       "cyr": "ни твојте први роднини.",
+       "lat": "ni tvojte prvi rodnini.",
+       "en": "nor your closest relatives."
+      },
+      {
+       "cyr": "Ни твојте Васке ле комшии,",
+       "lat": "Ni tvojte Vaske le komšii,",
+       "en": "Nor your neighbors, Vaska, oh,"
+      },
+      {
+       "cyr": "и твојте први роднини.",
+       "lat": "i tvojte prvi rodnini.",
+       "en": "and your closest relatives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да си Васке до века,",
+       "lat": "Prokleta da si Vaske do veka,",
+       "en": "Cursed be you, Vaska, forever,"
+      },
+      {
+       "cyr": "зошто ме мене младо остави,",
+       "lat": "zošto me mene mlado ostavi,",
+       "en": "for leaving me young,"
+      },
+      {
+       "cyr": "зошто си клетва подгази",
+       "lat": "zošto si kletva podgazi",
+       "en": "for trampling your oath"
+      },
+      {
+       "cyr": "и на љубовта заборави.",
+       "lat": "i na ljubovta zaboravi.",
+       "en": "and forgetting love."
+      },
+      {
+       "cyr": "Зошто си клетва Васке подгази",
+       "lat": "Zošto si kletva Vaske podgazi",
+       "en": "For trampling your oath, Vaska,"
+      },
+      {
+       "cyr": "и на љубовта заборави.",
+       "lat": "i na ljubovta zaboravi.",
+       "en": "and forgetting love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,171 @@
+{
+ "id": 862,
+ "slug": "zaspalo-devojche-na-bistro-izvorche",
+ "title_cyr": "Заспало девојче на бистро изворче",
+ "title_latin": "Zaspalo devojče na bistro izvorče",
+ "title_en": "A Girl Fell Asleep by a Clear Spring",
+ "pesna_url": "https://pesna.org/song/862",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a newer folk-style song but I cannot name an author. 'Ем говори' is my reading as 'and speaks'; 'оздол'' = from below.",
+ "words_to_learn": [
+  {
+   "mk": "изворче",
+   "en": "little spring"
+  },
+  {
+   "mk": "бистро",
+   "en": "clear (of water)"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (end-blown flute)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "разбуди",
+   "en": "wake up (someone)"
+  },
+  {
+   "mk": "кротко",
+   "en": "gently"
+  },
+  {
+   "mk": "милно",
+   "en": "tenderly"
+  },
+  {
+   "mk": "на јаве",
+   "en": "in reality, awake"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1882"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заспало девојче на бистро изворче,",
+       "lat": "Zaspalo devojče na bistro izvorče,",
+       "en": "A girl fell asleep by a clear spring,"
+      },
+      {
+       "cyr": "оздол' иде момче, па си води коњче,",
+       "lat": "ozdol' ide momče, pa si vodi konjče,",
+       "en": "a lad comes from below, leading his little horse,"
+      },
+      {
+       "cyr": "па си води коњче, право на изворче.",
+       "lat": "pa si vodi konjče, pravo na izvorče.",
+       "en": "leading his little horse, straight to the spring."
+      },
+      {
+       "cyr": "Па се чуди момче как' да ја разбуди,",
+       "lat": "Pa se čudi momče kak' da ja razbudi,",
+       "en": "The lad wonders how to wake her,"
+      },
+      {
+       "cyr": "па си зеде кавал, с' кавал да засвири,",
+       "lat": "pa si zede kaval, s' kaval da zasviri,",
+       "en": "so he takes his kaval, to play on the kaval,"
+      },
+      {
+       "cyr": "с' кавал да засвири, моме да разбуди.",
+       "lat": "s' kaval da zasviri, mome da razbudi.",
+       "en": "to play on the kaval, to wake the girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Колку кавал свири, моме се успива,",
+       "lat": "Kolku kaval sviri, mome se uspiva,",
+       "en": "As the kaval plays, the girl sleeps on,"
+      },
+      {
+       "cyr": "моме се успива и се поднасмева,",
+       "lat": "mome se uspiva i se podnasmeva,",
+       "en": "the girl sleeps on and smiles a little,"
+      },
+      {
+       "cyr": "па се чуди момче как' да ја разбуди.",
+       "lat": "pa se čudi momče kak' da ja razbudi.",
+       "en": "so the lad wonders how to wake her."
+      },
+      {
+       "cyr": "Кротко се приближи, милно ја прегрна,",
+       "lat": "Krotko se približi, milno ja pregrna,",
+       "en": "Gently he came close, tenderly embraced her,"
+      },
+      {
+       "cyr": "милно ја прегрна, слатко ја целива,",
+       "lat": "milno ja pregrna, slatko ja celiva,",
+       "en": "tenderly embraced her, sweetly kissed her,"
+      },
+      {
+       "cyr": "моме се разбуди и му се налути.",
+       "lat": "mome se razbudi i mu se naluti.",
+       "en": "the girl woke up and got angry with him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Зошто ме целувна, од сон ме разбуди?",
+       "lat": "- Zošto me celuvna, od son me razbudi?",
+       "en": "- Why did you kiss me, why did you wake me from sleep?"
+      },
+      {
+       "cyr": "Што бев слатко спала, теб' сум сонувала.",
+       "lat": "Što bev slatko spala, teb' sum sonuvala.",
+       "en": "I was sleeping so sweetly, I was dreaming of you."
+      },
+      {
+       "cyr": "теб' сум сонувала, с' теб' сум се венчала.",
+       "lat": "teb' sum sonuvala, s' teb' sum se venčala.",
+       "en": "I was dreaming of you, I was married to you."
+      },
+      {
+       "cyr": "Момчето ѝ вели, вели, ем говори:",
+       "lat": "Momčeto ì veli, veli, em govori:",
+       "en": "The lad says to her, says, and speaks:"
+      },
+      {
+       "cyr": "- Подобро би било на јаве да било,",
+       "lat": "- Podobro bi bilo na jave da bilo,",
+       "en": "- It would be better if it had been real,"
+      },
+      {
+       "cyr": "подобро би било, на јаве да било.",
+       "lat": "podobro bi bilo, na jave da bilo.",
+       "en": "it would be better, if it had been real."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

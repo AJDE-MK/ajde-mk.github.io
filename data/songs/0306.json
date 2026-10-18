@@ -1,0 +1,161 @@
+{
+ "id": 306,
+ "slug": "si-prigotviv-jas-otrovi",
+ "title_cyr": "Си приготвив јас отрови",
+ "title_latin": "Si prigotviv jas otrovi",
+ "title_en": "I prepared poisons",
+ "pesna_url": "https://pesna.org/song/306",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Folk-style lament, origin unclear. 'горкиот' (lit. bitter) I render 'poor man'; 'нажалено' as 'with sorrow' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "отрови",
+   "en": "poisons"
+  },
+  {
+   "mk": "нож",
+   "en": "knife"
+  },
+  {
+   "mk": "несреќен",
+   "en": "unhappy, unlucky"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "се венчава",
+   "en": "gets married"
+  },
+  {
+   "mk": "руба",
+   "en": "dress, garment"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "калуѓерка",
+   "en": "nun"
+  }
+ ],
+ "performers": [
+  "Панде Коминовски - Пашата"
+ ],
+ "audio": [
+  {
+   "who": "Панде Коминовски - Пашата",
+   "url": "https://pesna.org/audio-download/3644"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си приготвив јас отрови",
+       "lat": "Si prigotviv jas otrovi",
+       "en": "I prepared poisons for myself"
+      },
+      {
+       "cyr": "на градите оштар нож",
+       "lat": "na gradite oštar nož",
+       "en": "a sharp knife at my chest"
+      },
+      {
+       "cyr": "и на мој живот несреќен",
+       "lat": "i na moj život nesreḱen",
+       "en": "and to my unhappy life"
+      },
+      {
+       "cyr": "сакав крај да ставам јас.",
+       "lat": "sakav kraj da stavam jas.",
+       "en": "I wanted to put an end."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме љубеше тој горкиот",
+       "lat": "Me ljubeše toj gorkiot",
+       "en": "He loved me, poor man,"
+      },
+      {
+       "cyr": "од сѐ срце и душа",
+       "lat": "od sè srce i duša",
+       "en": "with all his heart and soul"
+      },
+      {
+       "cyr": "душманите направија",
+       "lat": "dušmanite napravija",
+       "en": "enemies made it so"
+      },
+      {
+       "cyr": "да откаже тој од мен'.",
+       "lat": "da otkaže toj od men'.",
+       "en": "that he gave me up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вчера со друга се венчава",
+       "lat": "Včera so druga se venčava",
+       "en": "Yesterday he married another"
+      },
+      {
+       "cyr": "нажалено ме гледаше",
+       "lat": "nažaleno me gledaše",
+       "en": "he looked at me with sorrow"
+      },
+      {
+       "cyr": "дигна очи тој кон бога",
+       "lat": "digna oči toj kon boga",
+       "en": "he raised his eyes to God"
+      },
+      {
+       "cyr": "пролеа солзи за мене.",
+       "lat": "prolea solzi za mene.",
+       "en": "he shed tears for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе облечам црна руба",
+       "lat": "Ḱe oblečam crna ruba",
+       "en": "I will put on a black dress"
+      },
+      {
+       "cyr": "црна руба до земја",
+       "lat": "crna ruba do zemja",
+       "en": "a black dress down to the ground"
+      },
+      {
+       "cyr": "и ќе одам во манастир",
+       "lat": "i ḱe odam vo manastir",
+       "en": "and I will go to a monastery"
+      },
+      {
+       "cyr": "калуѓерка да станам.",
+       "lat": "kaluǵerka da stanam.",
+       "en": "to become a nun."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

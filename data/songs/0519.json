@@ -1,0 +1,198 @@
+{
+ "id": 519,
+ "slug": "stani-mi-lenche-otvori",
+ "title_cyr": "Стани ми Ленче, отвори",
+ "title_latin": "Stani mi Lenče, otvori",
+ "title_en": "Get Up, Lenche, Open Up",
+ "pesna_url": "https://pesna.org/song/519",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. The parenthetical line is a note in the source marking an alternate ending, translated as given; 'стаам' is a dialect form of 'станам'.",
+ "words_to_learn": [
+  {
+   "mk": "стани",
+   "en": "get up"
+  },
+  {
+   "mk": "отвори",
+   "en": "open"
+  },
+  {
+   "mk": "запалам",
+   "en": "I light"
+  },
+  {
+   "mk": "думи",
+   "en": "words"
+  },
+  {
+   "mk": "лудо",
+   "en": "my dear (endearment, lit. 'crazy')"
+  },
+  {
+   "mk": "проклето",
+   "en": "cursed"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "век да векуваш",
+   "en": "to live out your days"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3660"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ми Ленче, отвори,",
+       "lat": "- Stani mi Lenče, otvori,",
+       "en": "- Get up, Lenche, open up,"
+      },
+      {
+       "cyr": "цигаре да си запалам.",
+       "lat": "cigare da si zapalam.",
+       "en": "so I can light a cigarette."
+      },
+      {
+       "cyr": "Цигаре да си запалам,",
+       "lat": "Cigare da si zapalam,",
+       "en": "So I can light a cigarette,"
+      },
+      {
+       "cyr": "до две три думи да кажам.",
+       "lat": "do dve tri dumi da kažam.",
+       "en": "and say a few words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам, лудо, да станам,",
+       "lat": "- Ne možam, ludo, da stanam,",
+       "en": "- I cannot get up, my dear,"
+      },
+      {
+       "cyr": "мајка ми седи до мене.",
+       "lat": "majka mi sedi do mene.",
+       "en": "my mother is sitting next to me."
+      },
+      {
+       "cyr": "Мајка ми седи до мене,",
+       "lat": "Majka mi sedi do mene,",
+       "en": "My mother is sitting next to me,"
+      },
+      {
+       "cyr": "не можам лудо да стаам.",
+       "lat": "ne možam ludo da staam.",
+       "en": "I cannot get up, my dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Земи ме Ленче, земи ме,",
+       "lat": "- Zemi me Lenče, zemi me,",
+       "en": "- Take me, Lenche, take me,"
+      },
+      {
+       "cyr": "земи ме, не оставај ме.",
+       "lat": "zemi me, ne ostavaj me.",
+       "en": "take me, do not leave me."
+      },
+      {
+       "cyr": "Земи ме, не оставај ме,",
+       "lat": "Zemi me, ne ostavaj me,",
+       "en": "Take me, do not leave me,"
+      },
+      {
+       "cyr": "не можам лудо без тебе.",
+       "lat": "ne možam ludo bez tebe.",
+       "en": "I cannot, my dear, live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме мене не земеш,",
+       "lat": "Ako me mene ne zemeš,",
+       "en": "If you do not take me,"
+      },
+      {
+       "cyr": "проклето, либе, да бидеш.",
+       "lat": "prokleto, libe, da bideš.",
+       "en": "may you be cursed, sweetheart."
+      },
+      {
+       "cyr": "Проклето либе да бидеш,",
+       "lat": "Prokleto libe da bideš,",
+       "en": "May you be cursed, sweetheart,"
+      },
+      {
+       "cyr": "сама ти век да векуваш.",
+       "lat": "sama ti vek da vekuvaš.",
+       "en": "may you live out your life alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Друга верзија за крајот)",
+       "lat": "(Druga verzija za krajot)",
+       "en": "(Another version for the ending)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој се прво ожени,",
+       "lat": "Koj se prvo oženi,",
+       "en": "Whoever marries first,"
+      },
+      {
+       "cyr": "тој тешко болен да легни.",
+       "lat": "toj teško bolen da legni.",
+       "en": "may he lie gravely ill."
+      },
+      {
+       "cyr": "Девет постели да смени,",
+       "lat": "Devet posteli da smeni,",
+       "en": "May he change nine beds,"
+      },
+      {
+       "cyr": "и на десетта да умри.",
+       "lat": "i na desetta da umri.",
+       "en": "and die on the tenth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

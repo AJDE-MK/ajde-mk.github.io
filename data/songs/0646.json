@@ -1,0 +1,168 @@
+{
+ "id": 646,
+ "slug": "edno-mlado-vojniche",
+ "title_cyr": "Едно младо војниче",
+ "title_latin": "Edno mlado vojniče",
+ "title_en": "A young soldier",
+ "pesna_url": "https://pesna.org/song/646",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional soldier's lament. 'тук' ми е жал' rendered 'but I am sorry' (tuk = tuku, my reading).",
+ "words_to_learn": [
+  {
+   "mk": "војниче",
+   "en": "young soldier"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "паси",
+   "en": "graze (imperative)"
+  },
+  {
+   "mk": "поздрав",
+   "en": "greetings"
+  },
+  {
+   "mk": "жал ми е",
+   "en": "I am sorry for, I pity"
+  },
+  {
+   "mk": "сираци",
+   "en": "orphans"
+  },
+  {
+   "mk": "туѓа земја",
+   "en": "foreign land"
+  },
+  {
+   "mk": "далеку",
+   "en": "far away"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Едно младо војниче",
+       "lat": "Edno mlado vojniče",
+       "en": "A young soldier"
+      },
+      {
+       "cyr": "коњчето си го пасеше [х2]",
+       "lat": "konjčeto si go paseše [h2]",
+       "en": "was grazing his little horse [x2]"
+      },
+      {
+       "cyr": "и на коњчето му велеше:",
+       "lat": "i na konjčeto mu veleše:",
+       "en": "and he said to the little horse:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Паси ми, паси коњченце",
+       "lat": "Pasi mi, pasi konjčence",
+       "en": "Graze, graze, little horse,"
+      },
+      {
+       "cyr": "јас ќе те пратам на далеку [х2]",
+       "lat": "jas ḱe te pratam na daleku [h2]",
+       "en": "I will send you far away [x2]"
+      },
+      {
+       "cyr": "далеку в' моето село.",
+       "lat": "daleku v' moeto selo.",
+       "en": "far away to my village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поздрав да и' носиш на мајка ми",
+       "lat": "Pozdrav da i' nosiš na majka mi",
+       "en": "Carry greetings to my mother,"
+      },
+      {
+       "cyr": "на мајка ми на жената ми",
+       "lat": "na majka mi na ženata mi",
+       "en": "to my mother and to my wife,"
+      },
+      {
+       "cyr": "дека сум болен ќе умрам",
+       "lat": "deka sum bolen ḱe umram",
+       "en": "that I am sick and will die,"
+      },
+      {
+       "cyr": "децата не ќе си видам.",
+       "lat": "decata ne ḱe si vidam.",
+       "en": "I will not see my children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми е жал за мајка ми",
+       "lat": "Ne mi e žal za majka mi",
+       "en": "I am not sorry for my mother"
+      },
+      {
+       "cyr": "ниту ми е жал за жена ми",
+       "lat": "nitu mi e žal za žena mi",
+       "en": "nor am I sorry for my wife,"
+      },
+      {
+       "cyr": "тук' ми е жал за децата",
+       "lat": "tuk' mi e žal za decata",
+       "en": "but I am sorry for the children,"
+      },
+      {
+       "cyr": "деца сираци ќе останат.",
+       "lat": "deca siraci ḱe ostanat.",
+       "en": "the children will remain orphans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деца сираци ќе останат",
+       "lat": "Deca siraci ḱe ostanat",
+       "en": "The children will remain orphans,"
+      },
+      {
+       "cyr": "нема јас да ги видам",
+       "lat": "nema jas da gi vidam",
+       "en": "I will not see them"
+      },
+      {
+       "cyr": "оти сум многу далеку",
+       "lat": "oti sum mnogu daleku",
+       "en": "because I am very far away,"
+      },
+      {
+       "cyr": "далеку во туѓа земја.",
+       "lat": "daleku vo tuǵa zemja.",
+       "en": "far away in a foreign land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

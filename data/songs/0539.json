@@ -1,0 +1,167 @@
+{
+ "id": 539,
+ "slug": "oj-ti-mome-maloj-mome",
+ "title_cyr": "Ој ти моме, малој моме",
+ "title_latin": "Oj ti mome, maloj mome",
+ "title_en": "Hey you girl, little girl",
+ "pesna_url": "https://pesna.org/song/539",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл чалгија",
+  "Виолета Томовска",
+  "Калдрма",
+  "Прилепски еснафи"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/1700"
+  },
+  {
+   "who": "Калдрма",
+   "url": "https://pesna.org/audio-download/1701"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1702"
+  },
+  {
+   "who": "Прилепски еснафи",
+   "url": "https://pesna.org/audio-download/2606"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој ти моме, малој моме",
+       "lat": "Oj ti mome, maloj mome",
+       "en": "Hey you girl, little girl"
+      },
+      {
+       "cyr": "блазе си ти на душата,",
+       "lat": "blaze si ti na dušata,",
+       "en": "your soul is blessed,"
+      },
+      {
+       "cyr": "што си спиеш при мајка ти,",
+       "lat": "što si spieš pri majka ti,",
+       "en": "because you sleep at your mother's,"
+      },
+      {
+       "cyr": "при мајка ти, при татко ти.",
+       "lat": "pri majka ti, pri tatko ti.",
+       "en": "at your mother's, at your father's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ами јаска, сам сиромав,",
+       "lat": "Ami jaska, sam siromav,",
+       "en": "But me, alone and poor,"
+      },
+      {
+       "cyr": "сам легнувам, сам станувам.",
+       "lat": "sam legnuvam, sam stanuvam.",
+       "en": "I lie alone, I get up alone."
+      },
+      {
+       "cyr": "Сам легнувам, сам станувам,",
+       "lat": "Sam legnuvam, sam stanuvam,",
+       "en": "I lie alone, I get up alone,"
+      },
+      {
+       "cyr": "на полноќ се разбудувам.",
+       "lat": "na polnoḱ se razbuduvam.",
+       "en": "I wake up at midnight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На полноќ се разбудувам,",
+       "lat": "Na polnoḱ se razbuduvam,",
+       "en": "I wake up at midnight,"
+      },
+      {
+       "cyr": "малој моме побарувам,",
+       "lat": "maloj mome pobaruvam,",
+       "en": "I look for the little girl,"
+      },
+      {
+       "cyr": "Побарувам, не најдувам,",
+       "lat": "Pobaruvam, ne najduvam,",
+       "en": "I look for her, I don't find her,"
+      },
+      {
+       "cyr": "ал', перница прегрнувам.",
+       "lat": "al', pernica pregrnuvam.",
+       "en": "and I hug the pillow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ал', перница заграбувам,",
+       "lat": "Al', pernica zagrabuvam,",
+       "en": "I hug the pillow"
+      },
+      {
+       "cyr": "дробни солзи проронувам.",
+       "lat": "drobni solzi proronuvam.",
+       "en": "and I shed little tears."
+      },
+      {
+       "cyr": "Дробни солзи проронувам,",
+       "lat": "Drobni solzi proronuvam,",
+       "en": "I shed little tears"
+      },
+      {
+       "cyr": "чаша солзи наполнувам.",
+       "lat": "čaša solzi napolnuvam.",
+       "en": "I fill a glass with tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чаша солзи наполнувам",
+       "lat": "Čaša solzi napolnuvam",
+       "en": "I fill a glass with tears,"
+      },
+      {
+       "cyr": "ал' шамивче натопувам.",
+       "lat": "al' šamivče natopuvam.",
+       "en": "and I soak my handkerchief."
+      },
+      {
+       "cyr": "Ал' шамивче натопувам",
+       "lat": "Al' šamivče natopuvam",
+       "en": "I soak my handkerchief"
+      },
+      {
+       "cyr": "на гради го исушувам.",
+       "lat": "na gradi go isušuvam.",
+       "en": "and I dry it on my chest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,160 @@
+{
+ "id": 1114,
+ "slug": "na-vrv-na-planina",
+ "title_cyr": "На врв на планина",
+ "title_latin": "Na vrv na planina",
+ "title_en": "On the Peak of a Mountain",
+ "pesna_url": "https://pesna.org/song/1114",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Guessing: 'румалија' (rumalija, left as is) and 'совичка' (rendered 'owl-ish', my reading). Origin unclear, treated as folk song.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "ледина",
+   "en": "meadow, clearing"
+  },
+  {
+   "mk": "зандана",
+   "en": "dungeon, prison"
+  },
+  {
+   "mk": "темничар",
+   "en": "prisoner"
+  },
+  {
+   "mk": "маслинкаво",
+   "en": "olive (adj.)"
+  },
+  {
+   "mk": "кукавица",
+   "en": "cuckoo"
+  },
+  {
+   "mk": "леже",
+   "en": "lies (dialect)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ha врв на планина,",
+       "lat": "Ha vrv na planina,",
+       "en": "On the peak of a mountain,"
+      },
+      {
+       "cyr": "на рамна ледина,",
+       "lat": "na ramna ledina,",
+       "en": "on a flat meadow,"
+      },
+      {
+       "cyr": "една река тече,",
+       "lat": "edna reka teče,",
+       "en": "one river flows,"
+      },
+      {
+       "cyr": "река румалија.",
+       "lat": "reka rumalija.",
+       "en": "a river, rumalija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До реката има",
+       "lat": "Do rekata ima",
+       "en": "By the river there is"
+      },
+      {
+       "cyr": "совичка зандана,",
+       "lat": "sovička zandana,",
+       "en": "an owl-ish dungeon,"
+      },
+      {
+       "cyr": "во зандана леже",
+       "lat": "vo zandana leže",
+       "en": "in the dungeon lies"
+      },
+      {
+       "cyr": "Ѓуро млад темничар.",
+       "lat": "Ǵuro mlad temničar.",
+       "en": "young Gjuro the prisoner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До реката има",
+       "lat": "Do rekata ima",
+       "en": "By the river there is"
+      },
+      {
+       "cyr": "дрво маслинкаво,",
+       "lat": "drvo maslinkavo,",
+       "en": "an olive tree,"
+      },
+      {
+       "cyr": "на дрвото има",
+       "lat": "na drvoto ima",
+       "en": "on the tree there are"
+      },
+      {
+       "cyr": "до три кукавици.",
+       "lat": "do tri kukavici.",
+       "en": "about three cuckoos."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва кукавица -",
+       "lat": "Prva kukavica -",
+       "en": "The first cuckoo -"
+      },
+      {
+       "cyr": "Ѓуровата мајка,",
+       "lat": "Ǵurovata majka,",
+       "en": "Gjuro's mother,"
+      },
+      {
+       "cyr": "втора кукавица -",
+       "lat": "vtora kukavica -",
+       "en": "the second cuckoo -"
+      },
+      {
+       "cyr": "Ѓуровата жена,",
+       "lat": "Ǵurovata žena,",
+       "en": "Gjuro's wife,"
+      },
+      {
+       "cyr": "трета кукавица -",
+       "lat": "treta kukavica -",
+       "en": "the third cuckoo -"
+      },
+      {
+       "cyr": "Ѓуровата сестра.",
+       "lat": "Ǵurovata sestra.",
+       "en": "Gjuro's sister."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

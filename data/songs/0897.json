@@ -1,0 +1,179 @@
+{
+ "id": 897,
+ "slug": "vo-soluna-edi-kule",
+ "title_cyr": "Во Солуна Еди куле",
+ "title_latin": "Vo Soluna Edi kule",
+ "title_en": "In Salonica, Yedi Kule",
+ "pesna_url": "https://pesna.org/song/897",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style revolutionary song, no author known (origin unclear). 'Еди куле' is Yedi Kule, a fortress in Salonica; 'до две' read as 'two'. 'Осветат' read as 'avenge' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "ранет",
+   "en": "wounded"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "лежи",
+   "en": "lies"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow, grief"
+  },
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "тажна",
+   "en": "sad"
+  },
+  {
+   "mk": "зандан",
+   "en": "dungeon"
+  },
+  {
+   "mk": "осветат",
+   "en": "they avenge"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "машки деца",
+   "en": "sons, male children"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1970"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1971"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во Солуна Еди куле,",
+       "lat": "Vo Soluna Edi kule,",
+       "en": "In Salonica, Yedi Kule,"
+      },
+      {
+       "cyr": "ранет јунак лежи,",
+       "lat": "ranet junak leži,",
+       "en": "a wounded hero lies,"
+      },
+      {
+       "cyr": "болен лежи, тага пати,",
+       "lat": "bolen leži, taga pati,",
+       "en": "he lies sick, he suffers sorrow,"
+      },
+      {
+       "cyr": "сè љуто го боли.",
+       "lat": "sè ljuto go boli.",
+       "en": "everything hurts him fiercely."
+      },
+      {
+       "cyr": "Над глава му славеј пиле,",
+       "lat": "Nad glava mu slavej pile,",
+       "en": "Above his head a nightingale"
+      },
+      {
+       "cyr": "тажна песна пее.",
+       "lat": "tažna pesna pee.",
+       "en": "sings a sad song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара ранет јунак",
+       "lat": "Progovara ranet junak",
+       "en": "The wounded hero speaks"
+      },
+      {
+       "cyr": "на славеј пиле:",
+       "lat": "na slavej pile:",
+       "en": "to the nightingale:"
+      },
+      {
+       "cyr": "- Не пеј пиле тажна песна,",
+       "lat": "- Ne pej pile tažna pesna,",
+       "en": "- Do not sing a sad song, bird,"
+      },
+      {
+       "cyr": "тук' иди до дома.",
+       "lat": "tuk' idi do doma.",
+       "en": "but go home."
+      },
+      {
+       "cyr": "Јас си имам, славеј пиле,",
+       "lat": "Jas si imam, slavej pile,",
+       "en": "I have, nightingale bird,"
+      },
+      {
+       "cyr": "до две машки деца.",
+       "lat": "do dve maški deca.",
+       "en": "two sons."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да им кажеш, славеј пиле,",
+       "lat": "Da im kažeš, slavej pile,",
+       "en": "Tell them, nightingale bird,"
+      },
+      {
+       "cyr": "зошто сум в' зандани.",
+       "lat": "zošto sum v' zandani.",
+       "en": "why I am in the dungeons."
+      },
+      {
+       "cyr": "Да пораснат, да се борат,",
+       "lat": "Da porasnat, da se borat,",
+       "en": "Let them grow up and fight"
+      },
+      {
+       "cyr": "за да ме осветат.",
+       "lat": "za da me osvetat.",
+       "en": "to avenge me."
+      },
+      {
+       "cyr": "Сум се борел за слобода,",
+       "lat": "Sum se borel za sloboda,",
+       "en": "I fought for freedom,"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

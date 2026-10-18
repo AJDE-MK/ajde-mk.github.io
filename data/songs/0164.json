@@ -1,0 +1,147 @@
+{
+ "id": 164,
+ "slug": "a-bre-nevesto",
+ "title_cyr": "А бре невесто",
+ "title_latin": "A bre nevesto",
+ "title_en": "Hey, bride",
+ "pesna_url": "https://pesna.org/song/164",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Око калешово' is unclear to me (possibly 'dear/invited one'), left untranslated. 'Лудо' rendered 'dear one' and the last stanza (the soldier is likely her own husband, unrecognized) is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "ујадено",
+   "en": "grieved, troubled"
+  },
+  {
+   "mk": "јад",
+   "en": "sorrow, grief"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law (husband's mother)"
+  },
+  {
+   "mk": "прегрне",
+   "en": "embraces"
+  },
+  {
+   "mk": "целивам",
+   "en": "I kiss"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (filler)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/13"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре невесте, око калешово,",
+       "lat": "A bre neveste, oko kalešovo,",
+       "en": "Hey bride, eye of the kaleša (unclear),"
+      },
+      {
+       "cyr": "зашчо си толку бреј ујадено?",
+       "lat": "zaščo si tolku brej ujadeno?",
+       "en": "why are you so grieved?"
+      },
+      {
+       "cyr": "А бре војниче, младо војниче,",
+       "lat": "A bre vojniče, mlado vojniče,",
+       "en": "Hey soldier, young soldier,"
+      },
+      {
+       "cyr": "како да не сум бреј ујадено?",
+       "lat": "kako da ne sum brej ujadeno?",
+       "en": "how could I not be grieved?"
+      },
+      {
+       "cyr": "Еве имат бре, девет години,",
+       "lat": "Eve imat bre, devet godini,",
+       "en": "Here it is, hey, nine years"
+      },
+      {
+       "cyr": "како ми лудо војник зедоје.",
+       "lat": "kako mi ludo vojnik zedoje.",
+       "en": "since they took my dear one as a soldier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре невесте, младо невесте,",
+       "lat": "A bre neveste, mlado neveste,",
+       "en": "Hey bride, young bride,"
+      },
+      {
+       "cyr": "какви јадови сега кажуваш?",
+       "lat": "kakvi jadovi sega kažuvaš?",
+       "en": "what sorrows are you telling now?"
+      },
+      {
+       "cyr": "Какви јадови сега кажуваш",
+       "lat": "Kakvi jadovi sega kažuvaš",
+       "en": "What sorrows are you telling now"
+      },
+      {
+       "cyr": "и да го видиш не го позинаш?",
+       "lat": "i da go vidiš ne go pozinaš?",
+       "en": "if you saw him you would not recognize him?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре војниче, младо војниче,",
+       "lat": "A bre vojniče, mlado vojniče,",
+       "en": "Hey soldier, young soldier,"
+      },
+      {
+       "cyr": "ја имам мајка, моја свекрва.",
+       "lat": "ja imam majka, moja svekrva.",
+       "en": "I have a mother, my mother-in-law."
+      },
+      {
+       "cyr": "Кога т'ја мајка сина прегрне",
+       "lat": "Koga t'ja majka sina pregrne",
+       "en": "When his mother embraces her son"
+      },
+      {
+       "cyr": "и ја да си му рака целивам.",
+       "lat": "i ja da si mu raka celivam.",
+       "en": "I too would kiss his hand."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

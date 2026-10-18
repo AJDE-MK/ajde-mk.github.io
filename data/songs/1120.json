@@ -1,0 +1,175 @@
+{
+ "id": 1120,
+ "slug": "denje-nokje-jas-te-baram",
+ "title_cyr": "Дење ноќе јас те барам",
+ "title_latin": "Denje noḱe jas te baram",
+ "title_en": "Day and night I look for you",
+ "pesna_url": "https://pesna.org/song/1120",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it sounds like a modern song but I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "дење ноќе",
+   "en": "day and night"
+  },
+  {
+   "mk": "барам",
+   "en": "I look for, I seek"
+  },
+  {
+   "mk": "просам",
+   "en": "I beg, ask for"
+  },
+  {
+   "mk": "се подиграваш",
+   "en": "you make fun of, mock"
+  },
+  {
+   "mk": "бркаш",
+   "en": "you chase away"
+  },
+  {
+   "mk": "сè повеќе",
+   "en": "more and more"
+  },
+  {
+   "mk": "мачиш",
+   "en": "you torment"
+  },
+  {
+   "mk": "насолзени",
+   "en": "tearful, teary"
+  },
+  {
+   "mk": "сенка",
+   "en": "shadow"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2681"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дење ноќе јас те барам,",
+       "lat": "Denje noḱe jas te baram,",
+       "en": "Day and night I look for you,"
+      },
+      {
+       "cyr": "малку љубов да ти просам,",
+       "lat": "malku ljubov da ti prosam,",
+       "en": "to beg a little love from you,"
+      },
+      {
+       "cyr": "ти со мене се подиграваш",
+       "lat": "ti so mene se podigravaš",
+       "en": "you make fun of me"
+      },
+      {
+       "cyr": "и ме бркаш ти но јас,",
+       "lat": "i me brkaš ti no jas,",
+       "en": "and chase me away, but I,"
+      },
+      {
+       "cyr": "јас те сакам сè повеќе.",
+       "lat": "jas te sakam sè poveḱe.",
+       "en": "I love you more and more."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас застанав да те гледам,",
+       "lat": "Jas zastanav da te gledam,",
+       "en": "I stopped to look at you,"
+      },
+      {
+       "cyr": "малку љубов да ти просам,",
+       "lat": "malku ljubov da ti prosam,",
+       "en": "to beg a little love from you,"
+      },
+      {
+       "cyr": "ти ме мачиш, не ме сакаш,",
+       "lat": "ti me mačiš, ne me sakaš,",
+       "en": "you torment me, you don't love me,"
+      },
+      {
+       "cyr": "бегаш од мене.",
+       "lat": "begaš od mene.",
+       "en": "you run away from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со очите насолзени",
+       "lat": "So očite nasolzeni",
+       "en": "With tearful eyes"
+      },
+      {
+       "cyr": "и со градите крвави,",
+       "lat": "i so gradite krvavi,",
+       "en": "and a bloody chest,"
+      },
+      {
+       "cyr": "како сенка сум ти станал,",
+       "lat": "kako senka sum ti stanal,",
+       "en": "I have become your shadow,"
+      },
+      {
+       "cyr": "само одам, прашам јас,",
+       "lat": "samo odam, prašam jas,",
+       "en": "I just walk, I ask,"
+      },
+      {
+       "cyr": "малку љубов ти просам.",
+       "lat": "malku ljubov ti prosam.",
+       "en": "I beg you for a little love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас застанав да те гледам,",
+       "lat": "Jas zastanav da te gledam,",
+       "en": "I stopped to look at you,"
+      },
+      {
+       "cyr": "малку љубов да ти просам,",
+       "lat": "malku ljubov da ti prosam,",
+       "en": "to beg a little love from you,"
+      },
+      {
+       "cyr": "ти ме мачиш, не ме сакаш,",
+       "lat": "ti me mačiš, ne me sakaš,",
+       "en": "you torment me, you don't love me,"
+      },
+      {
+       "cyr": "бегаш од мене.",
+       "lat": "begaš od mene.",
+       "en": "you run away from me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

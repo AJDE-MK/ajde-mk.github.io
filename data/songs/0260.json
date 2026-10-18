@@ -1,0 +1,240 @@
+{
+ "id": 260,
+ "slug": "zachukale-tapanite",
+ "title_cyr": "Зачукале тапаните",
+ "title_latin": "Začukale tapanite",
+ "title_en": "The Drums Have Started Pounding",
+ "pesna_url": "https://pesna.org/song/260",
+ "background": "A wedding-day mini-tragedy with a comic shrug. The drums beat and the wedding party gathers, with a nonsense refrain that means roughly \"what a big thing!\". The swollen Vardar then carries off the bride; the groom cries and the guests start arguing about gifts.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Wedding song with a refrain in a 20th-century dance style; origin unclear, no author I can name. 'најавнале, ми јавнале' is my reading of 'јавнале' (rode off).",
+ "words_to_learn": [
+  {
+   "mk": "тапани",
+   "en": "drums (big wedding drums)"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "мулиња",
+   "en": "mules"
+  },
+  {
+   "mk": "лулиња",
+   "en": "pipes (for smoking)"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "зет",
+   "en": "groom, son-in-law"
+  },
+  {
+   "mk": "Вардар",
+   "en": "the Vardar river"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  },
+  {
+   "mk": "весело",
+   "en": "merrily"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Атина Апостолова",
+  "Велко Трпчевски",
+  "Маријана Мишева",
+  "Никола Бадев",
+  "Сузана Гавазова",
+  "Słowianki"
+ ],
+ "audio": [
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/1225"
+  },
+  {
+   "who": "Александар Сариевски, Никола Бадев",
+   "url": "https://pesna.org/audio-download/1226"
+  },
+  {
+   "who": "Александар Сариевски, Велко Трпчевски",
+   "url": "https://pesna.org/audio-download/1227"
+  },
+  {
+   "who": "Маријана Мишева",
+   "url": "https://pesna.org/audio-download/1228"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/1229"
+  },
+  {
+   "who": "Słowianki",
+   "url": "https://pesna.org/audio-download/1230"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зачукале, зачукале, тапаните,",
+       "lat": "Začukale, začukale, tapanite,",
+       "en": "They have started pounding, started pounding, the drums,"
+      },
+      {
+       "cyr": "се собрале, се собрале сватовите.",
+       "lat": "se sobrale, se sobrale svatovite.",
+       "en": "they have gathered, gathered, the wedding guests."
+      },
+      {
+       "cyr": "Румба, румба, румба ба,",
+       "lat": "Rumba, rumba, rumba ba,",
+       "en": "Rumba, rumba, rumba ba,"
+      },
+      {
+       "cyr": "лиду, лиду, лиду ду",
+       "lat": "lidu, lidu, lidu du",
+       "en": "lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "ајде сега весело.",
+       "lat": "ajde sega veselo.",
+       "en": "come on, now merrily."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Најавнале, ми јавнале, мулињата,",
+       "lat": "Najavnale, mi javnale, mulinjata,",
+       "en": "They have ridden off, ridden off, the mules,"
+      },
+      {
+       "cyr": "запалиле, запалиле, лулињата.",
+       "lat": "zapalile, zapalile, lulinjata.",
+       "en": "they have lit, lit, their pipes."
+      },
+      {
+       "cyr": "Румба, румба, румба ба",
+       "lat": "Rumba, rumba, rumba ba",
+       "en": "Rumba, rumba, rumba ba"
+      },
+      {
+       "cyr": "лиду, лиду, лиду ду",
+       "lat": "lidu, lidu, lidu du",
+       "en": "lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "ајде сега весело.",
+       "lat": "ajde sega veselo.",
+       "en": "come on, now merrily."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ми одат, ќе ми одат по невеста,",
+       "lat": "Ḱe mi odat, ḱe mi odat po nevesta,",
+       "en": "They will go, they will go for the bride,"
+      },
+      {
+       "cyr": "по невеста, по невеста преку Вардар.",
+       "lat": "po nevesta, po nevesta preku Vardar.",
+       "en": "for the bride, for the bride across the Vardar."
+      },
+      {
+       "cyr": "Румба, румба, румба ба",
+       "lat": "Rumba, rumba, rumba ba",
+       "en": "Rumba, rumba, rumba ba"
+      },
+      {
+       "cyr": "лиду, лиду, лиду ду",
+       "lat": "lidu, lidu, lidu du",
+       "en": "lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "ајде сега весело.",
+       "lat": "ajde sega veselo.",
+       "en": "come on, now merrily."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми дотече, ми дотече, силен Вардар,",
+       "lat": "Mi doteče, mi doteče, silen Vardar,",
+       "en": "It flooded, flooded, the mighty Vardar,"
+      },
+      {
+       "cyr": "ми однесе, ми однесе невестата.",
+       "lat": "mi odnese, mi odnese nevestata.",
+       "en": "it carried away, carried away the bride."
+      },
+      {
+       "cyr": "Румба, румба, румба ба",
+       "lat": "Rumba, rumba, rumba ba",
+       "en": "Rumba, rumba, rumba ba"
+      },
+      {
+       "cyr": "лиду, лиду, лиду ду",
+       "lat": "lidu, lidu, lidu du",
+       "en": "lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "ајде сега весело.",
+       "lat": "ajde sega veselo.",
+       "en": "come on, now merrily."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зетот плаче, зетот плаче, за невестата,",
+       "lat": "Zetot plače, zetot plače, za nevestata,",
+       "en": "The groom cries, the groom cries, for the bride,"
+      },
+      {
+       "cyr": "а сватови, а сватови, за дарови.",
+       "lat": "a svatovi, a svatovi, za darovi.",
+       "en": "and the wedding guests, and the wedding guests, for the gifts."
+      },
+      {
+       "cyr": "Румба, румба, румба ба",
+       "lat": "Rumba, rumba, rumba ba",
+       "en": "Rumba, rumba, rumba ba"
+      },
+      {
+       "cyr": "лиду, лиду, лиду ду",
+       "lat": "lidu, lidu, lidu du",
+       "en": "lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "ајде чудо големо.",
+       "lat": "ajde čudo golemo.",
+       "en": "come on, what a great wonder."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

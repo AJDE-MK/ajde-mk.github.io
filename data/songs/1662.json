@@ -1,0 +1,104 @@
+{
+ "id": 1662,
+ "slug": "golemata-druzhina",
+ "title_cyr": "Големата дружина",
+ "title_latin": "Golemata družina",
+ "title_en": "Great company",
+ "pesna_url": "https://pesna.org/song/1662",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4469"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море што си бевме голема дружина,",
+       "lat": "More što si bevme golema družina,",
+       "en": "What a great company we were,"
+      },
+      {
+       "cyr": "голема дружина, сите патриоти.",
+       "lat": "golema družina, site patrioti.",
+       "en": "a great company, all patriots."
+      },
+      {
+       "cyr": "Ајде дојде време на војна да одиме,",
+       "lat": "Ajde dojde vreme na vojna da odime,",
+       "en": "Come on, the time has come to go to war,"
+      },
+      {
+       "cyr": "на војна да одиме, земја да си браниме.",
+       "lat": "na vojna da odime, zemja da si branime.",
+       "en": "to go to war, to defend our country."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земја да си браниме од клети душмани,",
+       "lat": "Zemja da si branime od kleti dušmani,",
+       "en": "To defend our country from the wretched enemies,"
+      },
+      {
+       "cyr": "што ми посилеле на земја македонска,",
+       "lat": "što mi posilele na zemja makedonska,",
+       "en": "who have invaded our Macedonian land,"
+      },
+      {
+       "cyr": "Што ми посилеле на земја македонска,",
+       "lat": "Što mi posilele na zemja makedonska,",
+       "en": "Who have invaded our Macedonian land,"
+      },
+      {
+       "cyr": "куќи да ни палат, браќа да убиваат.",
+       "lat": "kuḱi da ni palat, braḱa da ubivaat.",
+       "en": "to burn our houses, to kill our brothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да даде господ живи да се вратиме,",
+       "lat": "Aj da dade gospod živi da se vratime,",
+       "en": "May God grant that we may return alive,"
+      },
+      {
+       "cyr": "живи да се вратиме, кај нашите мајки.",
+       "lat": "živi da se vratime, kaj našite majki.",
+       "en": "to return alive, to our mothers."
+      },
+      {
+       "cyr": "Право да си одиме во ладни меани,",
+       "lat": "Pravo da si odime vo ladni meani,",
+       "en": "Let us go to cool taverns,"
+      },
+      {
+       "cyr": "вино да си пиеме, жени да си љубиме.",
+       "lat": "vino da si pieme, ženi da si ljubime.",
+       "en": "to drink wine, to love our women."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

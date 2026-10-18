@@ -1,0 +1,129 @@
+{
+ "id": 1026,
+ "slug": "oj-zeleno-zeleniko",
+ "title_cyr": "Ој зелено, Зеленико",
+ "title_latin": "Oj zeleno, Zeleniko",
+ "title_en": "Oh green one, Green Plant",
+ "pesna_url": "https://pesna.org/song/1026",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional dialogue between a person and a wilted plant (a metaphor for the unhappy bride). 'Зеленико' I render as a name 'Green Plant', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "зелен",
+   "en": "green"
+  },
+  {
+   "mk": "овена",
+   "en": "to wilt"
+  },
+  {
+   "mk": "слана",
+   "en": "frost"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "армаса",
+   "en": "to betroth, engage"
+  },
+  {
+   "mk": "момче",
+   "en": "boy, young man"
+  },
+  {
+   "mk": "љуби",
+   "en": "to love"
+  },
+  {
+   "mk": "туку",
+   "en": "but, rather"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Кирил Манчевски",
+  "Наум Петрески",
+  "Стојан Џаџев"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2363"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2364"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2365"
+  },
+  {
+   "who": "Стојан Џаџев",
+   "url": "https://pesna.org/audio-download/2366"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој зелено, Зеленико,",
+       "lat": "- Oj zeleno, Zeleniko,",
+       "en": "- Oh green one, Green Plant,"
+      },
+      {
+       "cyr": "што си толку овенала?",
+       "lat": "što si tolku ovenala?",
+       "en": "why have you wilted so much?"
+      },
+      {
+       "cyr": "Дали те слана осланила",
+       "lat": "Dali te slana oslanila",
+       "en": "Did the frost frost you"
+      },
+      {
+       "cyr": "или те роса оросила?",
+       "lat": "ili te rosa orosila?",
+       "en": "or did the dew wet you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ниту ме слана осланила,",
+       "lat": "- Nitu me slana oslanila,",
+       "en": "- Neither did the frost frost me,"
+      },
+      {
+       "cyr": "ниту ме роса оросила,",
+       "lat": "nitu me rosa orosila,",
+       "en": "nor did the dew wet me,"
+      },
+      {
+       "cyr": "туку ме мајка армасала",
+       "lat": "tuku me majka armasala",
+       "en": "but my mother betrothed me"
+      },
+      {
+       "cyr": "за едно момче што не го љубам.",
+       "lat": "za edno momče što ne go ljubam.",
+       "en": "to a boy whom I do not love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

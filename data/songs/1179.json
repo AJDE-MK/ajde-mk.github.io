@@ -1,0 +1,146 @@
+{
+ "id": 1179,
+ "slug": "belo-more",
+ "title_cyr": "Бело Море",
+ "title_latin": "Belo More",
+ "title_en": "White Sea",
+ "pesna_url": "https://pesna.org/song/1179",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Иван Костовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Мизар"
+ ],
+ "audio": [
+  {
+   "who": "Мизар",
+   "url": "https://pesna.org/audio-download/2880"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бело Море, Бело Море",
+       "lat": "Belo More, Belo More",
+       "en": "White Sea, White Sea,",
+       "en_mt": false
+      },
+      {
+       "cyr": "каде е сега правдина?",
+       "lat": "kade e sega pravdina?",
+       "en": "Where is justice now?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Бело Море",
+       "lat": "Belo More",
+       "en": "White Sea,",
+       "en_mt": false
+      },
+      {
+       "cyr": "каде си ми ти",
+       "lat": "kade si mi ti",
+       "en": "Where are you",
+       "en_mt": false
+      },
+      {
+       "cyr": "каде си ми ти, о судбино",
+       "lat": "kade si mi ti, o sudbino",
+       "en": "Where are you, oh, my destiny?",
+       "en_mt": false
+      },
+      {
+       "cyr": "беломорска земјо,",
+       "lat": "belomorska zemjo,",
+       "en": "White Sea-ian land.",
+       "en_mt": false
+      },
+      {
+       "cyr": "каде си ми ти",
+       "lat": "kade si mi ti",
+       "en": "Where are you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "о, судбино",
+       "lat": "o, sudbino",
+       "en": "oh, my destiny?",
+       "en_mt": false
+      },
+      {
+       "cyr": "о, Егејска?",
+       "lat": "o, Egejska?",
+       "en": "Oh, Aegean.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, еј, еј, еј",
+       "lat": "Ej, ej, ej, ej",
+       "en": "Hey, hey, hey,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај ми да умирам",
+       "lat": "daj mi da umiram",
+       "en": "let me die",
+       "en_mt": false
+      },
+      {
+       "cyr": "о, Господи",
+       "lat": "o, Gospodi",
+       "en": "O God,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Белото Море.",
+       "lat": "vo Beloto More.",
+       "en": "in the White Sea.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Eј, еј, еј, еј",
+       "lat": "Ej, ej, ej, ej",
+       "en": "Hey, hey, hey,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај ми да воскреснам",
+       "lat": "daj mi da voskresnam",
+       "en": "let me resurrect,",
+       "en_mt": false
+      },
+      {
+       "cyr": "о, Господи, о Господи,",
+       "lat": "o, Gospodi, o Gospodi,",
+       "en": "O God, O God,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Егејско Море.",
+       "lat": "vo Egejsko More.",
+       "en": "in the Aegean Sea",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

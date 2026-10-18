@@ -1,0 +1,101 @@
+{
+ "id": 1426,
+ "slug": "a-jovane-domakjine",
+ "title_cyr": "А Јоване домаќине",
+ "title_latin": "A Jovane domaḱine",
+ "title_en": "My Jovan, my husband",
+ "pesna_url": "https://pesna.org/song/1426",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А Јоване домаќине,",
+       "lat": "A Jovane domaḱine,",
+       "en": "My Jovan, my husband,"
+      },
+      {
+       "cyr": "дали спиеш, дали пиеш,",
+       "lat": "dali spieš, dali pieš,",
+       "en": "are you sleeping, are you drinking,"
+      },
+      {
+       "cyr": "дали спиеш, леле дали пиеш?",
+       "lat": "dali spieš, lele dali pieš?",
+       "en": "are you sleeping, oh are you drinking?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оти дошле страмни гости,",
+       "lat": "Oti došle stramni gosti,",
+       "en": "Because humble visitors have arrived,"
+      },
+      {
+       "cyr": "пострамен ти глас донесле,",
+       "lat": "postramen ti glas donesle,",
+       "en": "they bring you news,"
+      },
+      {
+       "cyr": "пострамен ти, леле, глас донесле.",
+       "lat": "postramen ti, lele, glas donesle.",
+       "en": "golly, they bring you news."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми те канат кум да бидиш,",
+       "lat": "Mi te kanat kum da bidiš,",
+       "en": "They are inviting you to be godfather,"
+      },
+      {
+       "cyr": "кум да бидиш, девет села.",
+       "lat": "kum da bidiš, devet sela.",
+       "en": "godfather for nine villages,"
+      },
+      {
+       "cyr": "И да кршташ и да венчаш,",
+       "lat": "I da krštaš i da venčaš,",
+       "en": "To baptize and to wed,"
+      },
+      {
+       "cyr": "и да кршташ, леле и да венчаш.",
+       "lat": "i da krštaš, lele i da venčaš.",
+       "en": "to baptize, oh and to wed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако спиеш, разбуди се",
+       "lat": "Ako spieš, razbudi se",
+       "en": "If you’re sleeping, wake up,"
+      },
+      {
+       "cyr": "ако пиеш, весели се.",
+       "lat": "ako pieš, veseli se.",
+       "en": "if you’re drinking, be merry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,106 @@
+{
+ "id": 1037,
+ "slug": "udri-rajno-udri",
+ "title_cyr": "Удри Рајно, удри",
+ "title_latin": "Udri Rajno, udri",
+ "title_en": "Strike, Rajno, strike",
+ "pesna_url": "https://pesna.org/song/1037",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Song of Struga Malesija customs (per the source note). 'Рајно' is a name or call; 'кој ќе се наджниет' as 'who will outdo the other' is my reading (dialect, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "удри",
+   "en": "strike, hit (also: strike up)"
+  },
+  {
+   "mk": "на крај",
+   "en": "to the end, to the edge"
+  },
+  {
+   "mk": "излезиме",
+   "en": "we come out (dialect)"
+  },
+  {
+   "mk": "најдиме",
+   "en": "we will find (dialect)"
+  },
+  {
+   "mk": "круша",
+   "en": "pear tree / pear"
+  },
+  {
+   "mk": "шербетлија",
+   "en": "sweet as sherbet"
+  },
+  {
+   "mk": "јунак",
+   "en": "young man, hero"
+  },
+  {
+   "mk": "облог",
+   "en": "bet"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Удри Рајно, удри,",
+       "lat": "Udri Rajno, udri,",
+       "en": "Strike, Rajno, strike,"
+      },
+      {
+       "cyr": "на крај да излезиме.",
+       "lat": "na kraj da izlezime.",
+       "en": "so that we come out at the end."
+      },
+      {
+       "cyr": "Таму ќе најдиме",
+       "lat": "Tamu ḱe najdime",
+       "en": "There we will find"
+      },
+      {
+       "cyr": "круша шербетлија.",
+       "lat": "kruša šerbetlija.",
+       "en": "a sherbet pear tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Под крушата има",
+       "lat": "Pod krušata ima",
+       "en": "Under the pear tree there is"
+      },
+      {
+       "cyr": "јунак и девојка,",
+       "lat": "junak i devojka,",
+       "en": "a young man and a girl,"
+      },
+      {
+       "cyr": "облог кај фаќает",
+       "lat": "oblog kaj faḱaet",
+       "en": "where they make a bet"
+      },
+      {
+       "cyr": "кој ќе се наджниет.",
+       "lat": "koj ḱe se nadžniet.",
+       "en": "who will outdo the other."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,198 @@
+{
+ "id": 468,
+ "slug": "a-bre-vodenichare",
+ "title_cyr": "А бре воденичаре",
+ "title_latin": "A bre vodeničare",
+ "title_en": "Hey you, miller",
+ "pesna_url": "https://pesna.org/song/468",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Сара Сталевска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Анета Љумаковска",
+  "Васка Илиева",
+  "Голубинка Јакимовска",
+  "Перун",
+  "Петранка Костадинова",
+  "Сузана Гавазова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/551"
+  },
+  {
+   "who": "Голубинка Јакимовска",
+   "url": "https://pesna.org/audio-download/552"
+  },
+  {
+   "who": "Александар Сариевски, Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/553"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/554"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/555"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/556"
+  },
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/557"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2482"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- А бре воденичаре, баш пријателе,",
+       "lat": "- A bre vodeničare, baš prijatele,",
+       "en": "- Hey you, miller, my friend"
+      },
+      {
+       "cyr": "море мојте очи твои нека бидат,",
+       "lat": "more mojte oči tvoi neka bidat,",
+       "en": "may my eyes be yours,"
+      },
+      {
+       "cyr": "сомели ми житото.",
+       "lat": "someli mi žitoto.",
+       "en": "grind my grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Воденицата вода ми нема,",
+       "lat": "- Vodenicata voda mi nema,",
+       "en": "- I don’t have water for my watermill,"
+      },
+      {
+       "cyr": "не ти мелам житото.",
+       "lat": "ne ti melam žitoto.",
+       "en": "I won’t grind your grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде воденичаре, баш пријателе,",
+       "lat": "- Ajde vodeničare, baš prijatele,",
+       "en": "- Hey you, miller, my friend,"
+      },
+      {
+       "cyr": "море мојте солзи вода нека бидат,",
+       "lat": "more mojte solzi voda neka bidat,",
+       "en": "may my tears be water for your watermill,"
+      },
+      {
+       "cyr": "сомели ми житото.",
+       "lat": "someli mi žitoto.",
+       "en": "grind my grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Воденицата камен ми нема,",
+       "lat": "- Vodenicata kamen mi nema,",
+       "en": "- I do not have a grinding stone for my watermill,"
+      },
+      {
+       "cyr": "не ти мелам житото.",
+       "lat": "ne ti melam žitoto.",
+       "en": "I won’t grind your grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде воденичаре, баш пријателе,",
+       "lat": "- Ajde vodeničare, baš prijatele,",
+       "en": "- Hey you, miller, my friend,"
+      },
+      {
+       "cyr": "море мојто лице твое нека биде,",
+       "lat": "more mojto lice tvoe neka bide,",
+       "en": "may my face be yours,"
+      },
+      {
+       "cyr": "сомели ми житото.",
+       "lat": "someli mi žitoto.",
+       "en": "grind my grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Воденицата вода ми нема,",
+       "lat": "- Vodenicata voda mi nema,",
+       "en": "- I don’t have water for my watermill,"
+      },
+      {
+       "cyr": "не ти мелам житото.",
+       "lat": "ne ti melam žitoto.",
+       "en": "I won’t grind your grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде воденичаре, баш пријателе,",
+       "lat": "- Ajde vodeničare, baš prijatele,",
+       "en": "- Hey you, miller, my friend,"
+      },
+      {
+       "cyr": "море мојта снага твоја нека биде,",
+       "lat": "more mojta snaga tvoja neka bide,",
+       "en": "may my body be yours,"
+      },
+      {
+       "cyr": "сомели ми житото.",
+       "lat": "someli mi žitoto.",
+       "en": "grind my grain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Воденицата вода ми има,",
+       "lat": "- Vodenicata voda mi ima,",
+       "en": "- I have water for my watermill,"
+      },
+      {
+       "cyr": "ќе ти мелам житото.",
+       "lat": "ḱe ti melam žitoto.",
+       "en": "I will grind your grain."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

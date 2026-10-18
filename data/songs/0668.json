@@ -1,0 +1,154 @@
+{
+ "id": 668,
+ "slug": "dal-ne-ti-e-zhal-bre-miele",
+ "title_cyr": "Дал не ти е жал бре Миеле",
+ "title_latin": "Dal ne ti e žal bre Miele",
+ "title_en": "Aren't you sorry, Miele",
+ "pesna_url": "https://pesna.org/song/668",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; Konopishte is a village in the Kavadarci area. 'риџа' and 'калеш' are dialect words I am unsure of; 'калеш' I rendered 'guest-welcoming' as a guess (it is a Turkish-origin word for an invitation, my reading).",
+ "words_to_learn": [
+  {
+   "mk": "жал",
+   "en": "pity, sorrow"
+  },
+  {
+   "mk": "село",
+   "en": "village"
+  },
+  {
+   "mk": "полно",
+   "en": "full"
+  },
+  {
+   "mk": "лични",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "ладни сенки",
+   "en": "cool shade"
+  },
+  {
+   "mk": "студена",
+   "en": "cold"
+  },
+  {
+   "mk": "руса",
+   "en": "blonde"
+  },
+  {
+   "mk": "риџа",
+   "en": "red-haired (my reading)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дал' не ти е жал бре Миеле",
+       "lat": "Dal' ne ti e žal bre Miele",
+       "en": "Aren't you sorry, hey Miele,"
+      },
+      {
+       "cyr": "дал' не ти е жал бре",
+       "lat": "dal' ne ti e žal bre",
+       "en": "aren't you sorry, hey,"
+      },
+      {
+       "cyr": "дал' не ти е жал бре Миеле",
+       "lat": "dal' ne ti e žal bre Miele",
+       "en": "aren't you sorry, hey Miele,"
+      },
+      {
+       "cyr": "за село Конопиште?",
+       "lat": "za selo Konopište?",
+       "en": "for the village of Konopishte?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Село Конопиште Миеле",
+       "lat": "Selo Konopište Miele",
+       "en": "The village of Konopishte, Miele,"
+      },
+      {
+       "cyr": "село Конопиште",
+       "lat": "selo Konopište",
+       "en": "the village of Konopishte,"
+      },
+      {
+       "cyr": "село Конопиште Миеле",
+       "lat": "selo Konopište Miele",
+       "en": "the village of Konopishte, Miele,"
+      },
+      {
+       "cyr": "полно лични моми.",
+       "lat": "polno lični momi.",
+       "en": "full of pretty girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За ладните сенки Миеле",
+       "lat": "Za ladnite senki Miele",
+       "en": "For the cool shade, Miele,"
+      },
+      {
+       "cyr": "за ладните сенки",
+       "lat": "za ladnite senki",
+       "en": "for the cool shade,"
+      },
+      {
+       "cyr": "за ладните сенки Миеле",
+       "lat": "za ladnite senki Miele",
+       "en": "for the cool shade, Miele,"
+      },
+      {
+       "cyr": "ем та' вода студена.",
+       "lat": "em ta' voda studena.",
+       "en": "and that cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таа руса, риџа Миеле",
+       "lat": "Taa rusa, ridža Miele",
+       "en": "She is blonde, red-haired, Miele,"
+      },
+      {
+       "cyr": "таа руса, риџа",
+       "lat": "taa rusa, ridža",
+       "en": "she is blonde, red-haired,"
+      },
+      {
+       "cyr": "таа руса, риџа Миеле",
+       "lat": "taa rusa, ridža Miele",
+       "en": "she is blonde, red-haired, Miele,"
+      },
+      {
+       "cyr": "таа калеш Митра.",
+       "lat": "taa kaleš Mitra.",
+       "en": "that guest-welcoming Mitra."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

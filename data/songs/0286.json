@@ -1,0 +1,134 @@
+{
+ "id": 286,
+ "slug": "shto-se-sramish-kalesh-kircho",
+ "title_cyr": "Што се срамиш калеш Кирчо",
+ "title_latin": "Što se sramiš kaleš Kirčo",
+ "title_en": "Why are you ashamed, good-looking Kircho?",
+ "pesna_url": "https://pesna.org/song/286",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Крнчева",
+  "Кирил Манчевски",
+  "Сестри Аджови"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски, Виолета Крнчева",
+   "url": "https://pesna.org/audio-download/687"
+  },
+  {
+   "who": "Сестри Аджови",
+   "url": "https://pesna.org/audio-download/2757"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Што се срамиш калеш Кирчо",
+       "lat": "- Što se sramiš kaleš Kirčo",
+       "en": "Why are you ashamed, good-looking Kircho,"
+      },
+      {
+       "cyr": "мене да погледаш,",
+       "lat": "mene da pogledaš,",
+       "en": "to look at me,"
+      },
+      {
+       "cyr": "мене да погледаш Кирчо",
+       "lat": "mene da pogledaš Kirčo",
+       "en": "to look at me"
+      },
+      {
+       "cyr": "во црните очи?",
+       "lat": "vo crnite oči?",
+       "en": "(and) into my black eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не се срамам лично моме",
+       "lat": "- Ne se sramam lično mome",
+       "en": "I'm not ashamed, you beautiful girl,"
+      },
+      {
+       "cyr": "тебе да погледам",
+       "lat": "tebe da pogledam",
+       "en": "not ashamed to look at you."
+      },
+      {
+       "cyr": "тук' се плашам лично моме",
+       "lat": "tuk' se plašam lično mome",
+       "en": "I'm just afraid"
+      },
+      {
+       "cyr": "тебе да заљубам.",
+       "lat": "tebe da zaljubam.",
+       "en": "of falling in love with you!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој те тебе лично моме",
+       "lat": "Koj te tebe lično mome",
+       "en": "Whoever, you beautiful girl,"
+      },
+      {
+       "cyr": "сал еднаш погледнал,",
+       "lat": "sal ednaš poglednal,",
+       "en": "looks at you only once,"
+      },
+      {
+       "cyr": "лута рана лично Севде",
+       "lat": "luta rana lično Sevde",
+       "en": "will, beautiful Sevda,"
+      },
+      {
+       "cyr": "на срце си става.",
+       "lat": "na srce si stava.",
+       "en": "put a fierce wound to his heart!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Земи мене калеш Кирчо",
+       "lat": "- Zemi mene kaleš Kirčo",
+       "en": "Take me, good-looking Kircho,"
+      },
+      {
+       "cyr": "за млада невеста,",
+       "lat": "za mlada nevesta,",
+       "en": "for your young bride,"
+      },
+      {
+       "cyr": "да не ставаш лута рана",
+       "lat": "da ne stavaš luta rana",
+       "en": "so you don’t put a fierce wound"
+      },
+      {
+       "cyr": "на твоето срце.",
+       "lat": "na tvoeto srce.",
+       "en": "to your heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

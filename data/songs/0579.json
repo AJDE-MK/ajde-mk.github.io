@@ -1,0 +1,116 @@
+{
+ "id": 579,
+ "slug": "eleno-mome-eleno",
+ "title_cyr": "Елено моме, Елено",
+ "title_latin": "Eleno mome, Eleno",
+ "title_en": "Elena girl, Elena",
+ "pesna_url": "https://pesna.org/song/579",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Сара Сталевска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Zornitsa Orchestra"
+ ],
+ "audio": [
+  {
+   "who": "Zornitsa Orchestra",
+   "url": "https://pesna.org/audio-download/940"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Елено моме, Елено",
+       "lat": "Eleno mome, Eleno",
+       "en": "Elena girl, Elena",
+       "en_mt": false
+      },
+      {
+       "cyr": "Елено моме, Елено,",
+       "lat": "Eleno mome, Eleno,",
+       "en": "Elena girl, Elena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не гази сено зелено",
+       "lat": "ne gazi seno zeleno",
+       "en": "don’t step on the green hay,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај не гази сено зелено.",
+       "lat": "aj ne gazi seno zeleno.",
+       "en": "don’t step on the green hay.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не гази сено зелено",
+       "lat": "Ne gazi seno zeleno",
+       "en": "Don’t step on the green hay",
+       "en_mt": false
+      },
+      {
+       "cyr": "не гази сено зелено",
+       "lat": "ne gazi seno zeleno",
+       "en": "don’t step on the green hay,",
+       "en_mt": false
+      },
+      {
+       "cyr": "млади момчиња косеа",
+       "lat": "mladi momčinja kosea",
+       "en": "young boys were mowing it,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тебе те Ленче просеа.",
+       "lat": "tebe te Lenče prosea.",
+       "en": "they were proposing you, Lenche.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе те Ленче просеа",
+       "lat": "Tebe te Lenče prosea",
+       "en": "They were proposing you, Lenche",
+       "en_mt": false
+      },
+      {
+       "cyr": "тебе те Ленче просеа",
+       "lat": "tebe te Lenče prosea",
+       "en": "they were proposing you, Lenche",
+       "en_mt": false
+      },
+      {
+       "cyr": "за едно момче убаво",
+       "lat": "za edno momče ubavo",
+       "en": "to a handsome boy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "убаво, ем и богато.",
+       "lat": "ubavo, em i bogato.",
+       "en": "handsome and rich.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

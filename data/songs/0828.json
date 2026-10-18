@@ -1,0 +1,187 @@
+{
+ "id": 828,
+ "slug": "liljano-mome",
+ "title_cyr": "Лилјано моме",
+ "title_latin": "Liljano mome",
+ "title_en": "Liljana, girl",
+ "pesna_url": "https://pesna.org/song/828",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Пирин",
+  "Благој Ламњов",
+  "Борче Маркоски",
+  "Иван Дјаков",
+  "Катја Близнакова",
+  "Квартет Славеи",
+  "Модус",
+  "Непознат изведувач",
+  "Оливера Василевска",
+  "Руси Русев",
+  "Berklee College of Music",
+  "Siánye"
+ ],
+ "audio": [
+  {
+   "who": "Модус",
+   "url": "https://pesna.org/audio-download/1754"
+  },
+  {
+   "who": "Berklee College of Music",
+   "url": "https://pesna.org/audio-download/1755"
+  },
+  {
+   "who": "Борче Маркоски",
+   "url": "https://pesna.org/audio-download/1756"
+  },
+  {
+   "who": "Квартет Славеи",
+   "url": "https://pesna.org/audio-download/1757"
+  },
+  {
+   "who": "Ансамбл Пирин",
+   "url": "https://pesna.org/audio-download/1758"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2028"
+  },
+  {
+   "who": "Иван Дјаков",
+   "url": "https://pesna.org/audio-download/2159"
+  },
+  {
+   "who": "Катја Близнакова",
+   "url": "https://pesna.org/audio-download/2160"
+  },
+  {
+   "who": "Руси Русев",
+   "url": "https://pesna.org/audio-download/2161"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2162"
+  },
+  {
+   "who": "Оливера Василевска",
+   "url": "https://pesna.org/audio-download/2678"
+  },
+  {
+   "who": "Siánye",
+   "url": "https://pesna.org/audio-download/2679"
+  },
+  {
+   "who": "Благој Ламњов",
+   "url": "https://pesna.org/audio-download/3367"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Лилјано моме, Лилјано,",
+       "lat": "- Liljano mome, Liljano,",
+       "en": "- Liljana, girl, Liljana,"
+      },
+      {
+       "cyr": "ја стани рано, пред зори,",
+       "lat": "ja stani rano, pred zori,",
+       "en": "get up early, before the dawn,"
+      },
+      {
+       "cyr": "ја стани рано, пред зори,",
+       "lat": "ja stani rano, pred zori,",
+       "en": "get up early, before the dawn,"
+      },
+      {
+       "cyr": "либето си прегрни.",
+       "lat": "libeto si pregrni.",
+       "en": "give your love a hug."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми излегла Лилјана,",
+       "lat": "Ne mi izlegla Liljana,",
+       "en": "Liljana doesn't come out,"
+      },
+      {
+       "cyr": "тук' е излегла мајка ѝ,",
+       "lat": "tuk' e izlegla majka ì,",
+       "en": "instead, her mother comes,"
+      },
+      {
+       "cyr": "лути си клетви колнеше",
+       "lat": "luti si kletvi kolneše",
+       "en": "she curses bitterly"
+      },
+      {
+       "cyr": "и на Ѓорѓи думаше:",
+       "lat": "i na Ǵorǵi dumaše:",
+       "en": "and says to Gjorgji:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Иди си, Ѓорѓи, иди си,",
+       "lat": "- Idi si, Ǵorǵi, idi si,",
+       "en": "- Go away, Gjorgji, go away,"
+      },
+      {
+       "cyr": "Лилјана болна легнала,",
+       "lat": "Liljana bolna legnala,",
+       "en": "Liljana is lying ill,"
+      },
+      {
+       "cyr": "Лилјана болна легнала",
+       "lat": "Liljana bolna legnala",
+       "en": "Liljana is lying ill"
+      },
+      {
+       "cyr": "и не може да стане.",
+       "lat": "i ne može da stane.",
+       "en": "and she cannot even stand up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ми го лажи, мамо ма,",
+       "lat": "- Ne mi go laži, mamo ma,",
+       "en": "- Don't lie to him, mother,"
+      },
+      {
+       "cyr": "јас сум си Ѓорѓи љубила,",
+       "lat": "jas sum si Ǵorǵi ljubila,",
+       "en": "I love Gjorgji,"
+      },
+      {
+       "cyr": "јас сум си Ѓорѓи љубила,",
+       "lat": "jas sum si Ǵorǵi ljubila,",
+       "en": "I love Gjorgji"
+      },
+      {
+       "cyr": "за него ќе се посвршам.",
+       "lat": "za nego ḱe se posvršam.",
+       "en": "and I am going to marry him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

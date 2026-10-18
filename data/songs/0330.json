@@ -1,0 +1,167 @@
+{
+ "id": 330,
+ "slug": "pesna-za-skopje",
+ "title_cyr": "Песна за Скопје",
+ "title_latin": "Pesna za Skopje",
+ "title_en": "Song for Skopje",
+ "pesna_url": "https://pesna.org/song/330",
+ "background": "A modern song written as a folk lament after the 1963 earthquake that destroyed Skopje. The Vardar ran muddy with tears; one sorrowful morning the earth shook and took the child, Skopje, from the mother's lap. Macedonia lives and will bear a new Skopje. There is a second song with the same title under #131.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it clearly refers to the 1963 Skopje earthquake. The third line, 'деца кој ги зема', is my reading: 'who took the children'.",
+ "words_to_learn": [
+  {
+   "mk": "матен",
+   "en": "muddy, cloudy"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "ропски",
+   "en": "slave-like, of bondage"
+  },
+  {
+   "mk": "земјата се затресе",
+   "en": "the earth shook"
+  },
+  {
+   "mk": "скут",
+   "en": "lap"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "лично",
+   "en": "beautiful, handsome"
+  }
+ ],
+ "performers": [
+  "Сестрите Мавровски"
+ ],
+ "audio": [
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/278"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Матен Вардар течеше",
+       "lat": "Maten Vardar tečeše",
+       "en": "The Vardar flowed muddy,"
+      },
+      {
+       "cyr": "матиле го солзите",
+       "lat": "matile go solzite",
+       "en": "tears had clouded it,"
+      },
+      {
+       "cyr": "плаче Македонија",
+       "lat": "plače Makedonija",
+       "en": "Macedonia weeps,"
+      },
+      {
+       "cyr": "деца кој ги зема.",
+       "lat": "deca koj gi zema.",
+       "en": "who took her children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "С' векови сум патила",
+       "lat": "S' vekovi sum patila",
+       "en": "For centuries I have suffered,"
+      },
+      {
+       "cyr": "ропски живот водела",
+       "lat": "ropski život vodela",
+       "en": "I led a slave's life,"
+      },
+      {
+       "cyr": "на крило од Вардарот",
+       "lat": "na krilo od Vardarot",
+       "en": "on the wing of the Vardar"
+      },
+      {
+       "cyr": "златно Скопје створила.",
+       "lat": "zlatno Skopje stvorila.",
+       "en": "I created golden Skopje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно утро жалосно",
+       "lat": "Edno utro žalosno",
+       "en": "One sorrowful morning"
+      },
+      {
+       "cyr": "земјата се затресе",
+       "lat": "zemjata se zatrese",
+       "en": "the earth shook"
+      },
+      {
+       "cyr": "и од скутот мајчин",
+       "lat": "i od skutot majčin",
+       "en": "and from the mother's lap"
+      },
+      {
+       "cyr": "чедо Скопје однесе.",
+       "lat": "čedo Skopje odnese.",
+       "en": "it carried off the child Skopje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи сестро Србијо,",
+       "lat": "Ne plači sestro Srbijo,",
+       "en": "Do not weep, sister Serbia,"
+      },
+      {
+       "cyr": "ни вие други сестрички",
+       "lat": "ni vie drugi sestrički",
+       "en": "nor you other little sisters,"
+      },
+      {
+       "cyr": "живее Македонија",
+       "lat": "živee Makedonija",
+       "en": "Macedonia lives,"
+      },
+      {
+       "cyr": "ново Скопје ќе роди,",
+       "lat": "novo Skopje ḱe rodi,",
+       "en": "she will give birth to a new Skopje,"
+      },
+      {
+       "cyr": "мајка Македонија",
+       "lat": "majka Makedonija",
+       "en": "mother Macedonia"
+      },
+      {
+       "cyr": "лично чедо ќе роди.",
+       "lat": "lično čedo ḱe rodi.",
+       "en": "will give birth to a beautiful child."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

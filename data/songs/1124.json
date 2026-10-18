@@ -1,0 +1,112 @@
+{
+ "id": 1124,
+ "slug": "dimna-juda-grad-gradila",
+ "title_cyr": "Димна јуда град градила",
+ "title_latin": "Dimna juda grad gradila",
+ "title_en": "A wonderful fairy was building a city",
+ "pesna_url": "https://pesna.org/song/1124",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ливада",
+  "Непознат изведувач",
+  "Пастири времена",
+  "Танец",
+  "Iskon"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2692"
+  },
+  {
+   "who": "Ливада",
+   "url": "https://pesna.org/audio-download/2693"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4344"
+  },
+  {
+   "who": "Iskon",
+   "url": "https://pesna.org/audio-download/4345"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4346"
+  },
+  {
+   "who": "Пастири времена",
+   "url": "https://pesna.org/audio-download/4347"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Димна јуда, мамо, град градила,",
+       "lat": "Dimna juda, mamo, grad gradila,",
+       "en": "A wonderful fairy was building a city,"
+      },
+      {
+       "cyr": "на планина, мамо, на Влаина.",
+       "lat": "na planina, mamo, na Vlaina.",
+       "en": "on the mountain, mother, on Vlaina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што е колје, мамо, побивала,",
+       "lat": "Što e kolje, mamo, pobivala,",
+       "en": "All the posts she drove into the ground,"
+      },
+      {
+       "cyr": "сè ергени, мамо, за главење.",
+       "lat": "sè ergeni, mamo, za glavenje.",
+       "en": "were all young men, ready to be engaged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што е плиќе, мамо, заплиќала,",
+       "lat": "Što e pliḱe, mamo, zapliḱala,",
+       "en": "All the wands she plaited,"
+      },
+      {
+       "cyr": "сè девојки, мамо, за мажење.",
+       "lat": "sè devojki, mamo, za maženje.",
+       "en": "were all young girls, ready for marriage."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Димна јуда, мамо, град градила,",
+       "lat": "Dimna juda, mamo, grad gradila,",
+       "en": "A wonderful fairy was building a city,"
+      },
+      {
+       "cyr": "на планина, мамо, на Влаина.",
+       "lat": "na planina, mamo, na Vlaina.",
+       "en": "on the mountain, mother, on Vlaina."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

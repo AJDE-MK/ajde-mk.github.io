@@ -1,0 +1,165 @@
+{
+ "id": 1483,
+ "slug": "bog-da-ga-ubie-babo-toj-vashe-selo",
+ "title_cyr": "Бог да га убие бабо тој ваше село",
+ "title_latin": "Bog da ga ubie babo toj vaše selo",
+ "title_en": "May God strike down, father, that village of yours",
+ "pesna_url": "https://pesna.org/song/1483",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Mixed Serbian-style dialect (куде су ти, твоје, на руку). Guesses: 'буѓава' (scabby/mangy), 'жуљави уста' (sore mouth), 'калешо' (unknown, maybe 'invited/chosen one'), 'приварде' (see to the horse). Origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "Бог да го убие",
+   "en": "may God strike him down (curse)"
+  },
+  {
+   "mk": "насели",
+   "en": "settled, populated"
+  },
+  {
+   "mk": "рид",
+   "en": "hill, ridge"
+  },
+  {
+   "mk": "жуљави",
+   "en": "sore, chafed (my reading)"
+  },
+  {
+   "mk": "криви колена",
+   "en": "crooked knees"
+  },
+  {
+   "mk": "грбаве плеќе",
+   "en": "hunched back (плеќе = back, shoulders)"
+  },
+  {
+   "mk": "ќерки",
+   "en": "daughters"
+  },
+  {
+   "mk": "кара",
+   "en": "black, dark (Turkish-origin)"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  }
+ ],
+ "performers": [
+  "Ансамбл Панче Пешев"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3849"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да га убие бабо тој ваше село,",
+       "lat": "Bog da ga ubie babo toj vaše selo,",
+       "en": "May God strike him down, father, that village of yours,"
+      },
+      {
+       "cyr": "кој га насели бабо меѓу два рида.",
+       "lat": "koj ga naseli babo meǵu dva rida.",
+       "en": "whoever settled it, father, between two hills."
+      },
+      {
+       "cyr": "Меѓу два рида, бабо, меѓу две реке.",
+       "lat": "Meǵu dva rida, babo, meǵu dve reke.",
+       "en": "Between two hills, father, between two rivers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ли се најде бабо мене да ме сретнеш,",
+       "lat": "Ti li se najde babo mene da me sretneš,",
+       "en": "Was it you, father, who found me to meet me,"
+      },
+      {
+       "cyr": "мене да ме сретнеш бабо са жуљави уста.",
+       "lat": "mene da me sretneš babo sa žuljavi usta.",
+       "en": "to meet me, father, with sore mouth."
+      },
+      {
+       "cyr": "Жуљави уста, бабо, с' криви колена,",
+       "lat": "Žuljavi usta, babo, s' krivi kolena,",
+       "en": "Sore mouth, father, with crooked knees,"
+      },
+      {
+       "cyr": "с' криви колена, бабо, с' буѓава глава,",
+       "lat": "s' krivi kolena, babo, s' buǵava glava,",
+       "en": "with crooked knees, father, with a scabby(?) head,"
+      },
+      {
+       "cyr": "с' буѓава глава бабо, с'с грбаве плеќе.",
+       "lat": "s' buǵava glava babo, s's grbave pleḱe.",
+       "en": "with a scabby(?) head, father, with a hunched back."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Куде су ти бабо мори твоје четири ќерке,",
+       "lat": "Kude su ti babo mori tvoje četiri ḱerke,",
+       "en": "Where are, father, hey, your four daughters,"
+      },
+      {
+       "cyr": "твоје четири ќерке, бабо, Гина и Стамена,",
+       "lat": "tvoje četiri ḱerke, babo, Gina i Stamena,",
+       "en": "your four daughters, father, Gina and Stamena,"
+      },
+      {
+       "cyr": "Гина и Стамена, бабо, кара, ах Елена",
+       "lat": "Gina i Stamena, babo, kara, ah Elena",
+       "en": "Gina and Stamena, father, dark, ah, Elena,"
+      },
+      {
+       "cyr": "и тој најубаво калешо Кате?",
+       "lat": "i toj najubavo kalešo Kate?",
+       "en": "and the loveliest, the 'kalesho' Kate?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првата бабо мори мене да ме сретне,",
+       "lat": "Prvata babo mori mene da me sretne,",
+       "en": "The first, father, hey, to meet me,"
+      },
+      {
+       "cyr": "другата бабо мори, коња да приварде,",
+       "lat": "drugata babo mori, konja da privarde,",
+       "en": "the second, father, hey, to see to the horse,"
+      },
+      {
+       "cyr": "треќата, бабо мори, вечеру да прави,",
+       "lat": "treḱata, babo mori, večeru da pravi,",
+       "en": "the third, father, hey, to make supper,"
+      },
+      {
+       "cyr": "четвртата, бабо мори, на руку да ме преспие!",
+       "lat": "četvrtata, babo mori, na ruku da me prespie!",
+       "en": "the fourth, father, hey, to put me to sleep on her arm!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

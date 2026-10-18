@@ -1,0 +1,167 @@
+{
+ "id": 1153,
+ "slug": "mila-makedonijo",
+ "title_cyr": "Мила Македонијо",
+ "title_latin": "Mila Makedonijo",
+ "title_en": "Dear Macedonia",
+ "pesna_url": "https://pesna.org/song/1153",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (patriotic song, no author I can name). Mentions Alexander, Tsar Samuel and Goce Delchev.",
+ "words_to_learn": [
+  {
+   "mk": "предавник",
+   "en": "traitor"
+  },
+  {
+   "mk": "душманин",
+   "en": "enemy"
+  },
+  {
+   "mk": "кодош",
+   "en": "informer, collaborator"
+  },
+  {
+   "mk": "јаничар",
+   "en": "janissary"
+  },
+  {
+   "mk": "изрод",
+   "en": "degenerate, monster"
+  },
+  {
+   "mk": "векови",
+   "en": "centuries"
+  },
+  {
+   "mk": "вера",
+   "en": "faith"
+  },
+  {
+   "mk": "ден денешен",
+   "en": "to this very day"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2788"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да ги бие и убие",
+       "lat": "Bog da gi bie i ubie",
+       "en": "May God strike and destroy them,"
+      },
+      {
+       "cyr": "предавниците и душманите,",
+       "lat": "predavnicite i dušmanite,",
+       "en": "the traitors and the enemies,"
+      },
+      {
+       "cyr": "бог да ги бие и убие",
+       "lat": "bog da gi bie i ubie",
+       "en": "may God strike and destroy them,"
+      },
+      {
+       "cyr": "кодошите и јаничарите.",
+       "lat": "kodošite i janičarite.",
+       "en": "the informers and the janissaries."
+      },
+      {
+       "cyr": "Мила Македонијо, од нив страдаш ти,",
+       "lat": "Mila Makedonijo, od niv stradaš ti,",
+       "en": "Dear Macedonia, you suffer from them,"
+      },
+      {
+       "cyr": "од своите изроди македонски.",
+       "lat": "od svoite izrodi makedonski.",
+       "en": "from your own Macedonian degenerates."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со векови постоиме,",
+       "lat": "So vekovi postoime,",
+       "en": "For centuries we have existed,"
+      },
+      {
+       "cyr": "со векови се бориме,",
+       "lat": "so vekovi se borime,",
+       "en": "for centuries we have fought,"
+      },
+      {
+       "cyr": "вера не изгубивме,",
+       "lat": "vera ne izgubivme,",
+       "en": "we did not lose our faith,"
+      },
+      {
+       "cyr": "име не променивме.",
+       "lat": "ime ne promenivme.",
+       "en": "we did not change our name."
+      },
+      {
+       "cyr": "Од Александар и Самуил,",
+       "lat": "Od Aleksandar i Samuil,",
+       "en": "From Alexander and Samuel,"
+      },
+      {
+       "cyr": "до Гоце Делчев и ден денешен.",
+       "lat": "do Goce Delčev i den denešen.",
+       "en": "to Goce Delchev and to this very day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да ги бие и убие",
+       "lat": "Bog da gi bie i ubie",
+       "en": "May God strike and destroy them,"
+      },
+      {
+       "cyr": "предавниците и душманите.",
+       "lat": "predavnicite i dušmanite.",
+       "en": "the traitors and the enemies."
+      },
+      {
+       "cyr": "Име што сакаат да ни променат,",
+       "lat": "Ime što sakaat da ni promenat,",
+       "en": "The name they want to change for us,"
+      },
+      {
+       "cyr": "името наше многувековно.",
+       "lat": "imeto naše mnoguvekovno.",
+       "en": "our name of many centuries."
+      },
+      {
+       "cyr": "Мила Македонијо, од нив страдаш ти,",
+       "lat": "Mila Makedonijo, od niv stradaš ti,",
+       "en": "Dear Macedonia, you suffer from them,"
+      },
+      {
+       "cyr": "од своите изроди македонски.",
+       "lat": "od svoite izrodi makedonski.",
+       "en": "from your own Macedonian degenerates."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

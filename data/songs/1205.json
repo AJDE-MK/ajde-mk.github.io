@@ -1,0 +1,146 @@
+{
+ "id": 1205,
+ "slug": "aj-smo-shetale",
+ "title_cyr": "Ај смо шетале",
+ "title_latin": "Aj smo šetale",
+ "title_en": "We went strolling",
+ "pesna_url": "https://pesna.org/song/1205",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'ми ги пејат ... книги старославни' I read as 'they sing for us from Old Slavonic books'; 'попој' is my reading of 'popovi' (priests).",
+ "words_to_learn": [
+  {
+   "mk": "шетале",
+   "en": "strolled, walked about"
+  },
+  {
+   "mk": "Света Гора",
+   "en": "Holy Mountain (Athos)"
+  },
+  {
+   "mk": "Хиландар",
+   "en": "Hilandar monastery"
+  },
+  {
+   "mk": "црква",
+   "en": "church"
+  },
+  {
+   "mk": "попој",
+   "en": "priests (dialect plural)"
+  },
+  {
+   "mk": "калуѓери",
+   "en": "monks"
+  },
+  {
+   "mk": "книги",
+   "en": "books"
+  },
+  {
+   "mk": "старославни",
+   "en": "Old Slavonic"
+  },
+  {
+   "mk": "мили мои",
+   "en": "my dear ones"
+  }
+ ],
+ "performers": [
+  "Елена Мукаетова",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Елена Мукаетова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2962"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај смо шетале, мили мои мори,",
+       "lat": "Aj smo šetale, mili moi mori,",
+       "en": "Oh, we went strolling, my dear ones, hey,"
+      },
+      {
+       "cyr": "смо шетале, браќа мои,",
+       "lat": "smo šetale, braḱa moi,",
+       "en": "we went strolling, my brothers,"
+      },
+      {
+       "cyr": "Гора, Света ле Гора, браќа мои.",
+       "lat": "Gora, Sveta le Gora, braḱa moi.",
+       "en": "to the Mountain, the Holy Mountain, my brothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај там' видовме, мили мои мори,",
+       "lat": "Aj tam' vidovme, mili moi mori,",
+       "en": "Oh, there we saw, my dear ones, hey,"
+      },
+      {
+       "cyr": "там' видовме браќа мои,",
+       "lat": "tam' vidovme braḱa moi,",
+       "en": "there we saw, my brothers,"
+      },
+      {
+       "cyr": "црква Хиландара, браќа мои.",
+       "lat": "crkva Hilandara, braḱa moi.",
+       "en": "the church of Hilandar, my brothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, у црквата, мили мои мори,",
+       "lat": "Aj, u crkvata, mili moi mori,",
+       "en": "Oh, in the church, my dear ones, hey,"
+      },
+      {
+       "cyr": "у црквата, браќа мои,",
+       "lat": "u crkvata, braḱa moi,",
+       "en": "in the church, my brothers,"
+      },
+      {
+       "cyr": "попој, калуѓери, браќа мои.",
+       "lat": "popoj, kaluǵeri, braḱa moi.",
+       "en": "priests, monks, my brothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај ми ги пејат, мили мои мори,",
+       "lat": "Aj mi gi pejat, mili moi mori,",
+       "en": "Oh, they sing to us, my dear ones, hey,"
+      },
+      {
+       "cyr": "ми ги пејат, браќа мои,",
+       "lat": "mi gi pejat, braḱa moi,",
+       "en": "they sing to us, my brothers,"
+      },
+      {
+       "cyr": "книги старославни браќа мои.",
+       "lat": "knigi staroslavni braḱa moi.",
+       "en": "old Slavonic books, my brothers."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

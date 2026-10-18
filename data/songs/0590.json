@@ -1,0 +1,195 @@
+{
+ "id": 590,
+ "slug": "bog-da-bie-mojta-majka",
+ "title_cyr": "Бог да бие мојта мајка",
+ "title_latin": "Bog da bie mojta majka",
+ "title_en": "May God Strike My Mother",
+ "pesna_url": "https://pesna.org/song/590",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Што ме даде' means 'because she gave me (in marriage)'; the curse is a conventional bride's lament, not literal. 'Јано' is a vocative of Jana.",
+ "words_to_learn": [
+  {
+   "mk": "бог да бие",
+   "en": "may God strike (mild curse)"
+  },
+  {
+   "mk": "даде",
+   "en": "gave (in marriage)"
+  },
+  {
+   "mk": "на далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "преку",
+   "en": "across"
+  },
+  {
+   "mk": "Вардар",
+   "en": "the Vardar river"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul, dear"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "нит'",
+   "en": "neither/nor (dialect)"
+  },
+  {
+   "mk": "браќа",
+   "en": "brothers"
+  },
+  {
+   "mk": "сестри",
+   "en": "sisters"
+  }
+ ],
+ "performers": [
+  "Група Билјана",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2059"
+  },
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2977"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие мојта мајка,",
+       "lat": "Bog da bie mojta majka,",
+       "en": "May God strike my mother,"
+      },
+      {
+       "cyr": "де мори Јано де, де, де",
+       "lat": "de mori Jano de, de, de",
+       "en": "hey, Jana, hey, hey, hey,"
+      },
+      {
+       "cyr": "де мори душо де.",
+       "lat": "de mori dušo de.",
+       "en": "hey, my soul, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ме даде на далеку,",
+       "lat": "Što me dade na daleku,",
+       "en": "For giving me far away,"
+      },
+      {
+       "cyr": "на далеку, преку Вардар,",
+       "lat": "na daleku, preku Vardar,",
+       "en": "far away, across the Vardar,"
+      },
+      {
+       "cyr": "да мори Јано де, де, де",
+       "lat": "da mori Jano de, de, de",
+       "en": "hey, Jana, hey, hey, hey,"
+      },
+      {
+       "cyr": "де мори душо де.",
+       "lat": "de mori dušo de.",
+       "en": "hey, my soul, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не можам да се видам,",
+       "lat": "Da ne možam da se vidam,",
+       "en": "So that I cannot see"
+      },
+      {
+       "cyr": "нит' со мајка, нит' со татко,",
+       "lat": "nit' so majka, nit' so tatko,",
+       "en": "either my mother or my father,"
+      },
+      {
+       "cyr": "де мори Јано де, де, де",
+       "lat": "de mori Jano de, de, de",
+       "en": "hey, Jana, hey, hey, hey,"
+      },
+      {
+       "cyr": "де мори душо де.",
+       "lat": "de mori dušo de.",
+       "en": "hey, my soul, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит' со мајка, нит' со татко,",
+       "lat": "Nit' so majka, nit' so tatko,",
+       "en": "Either my mother or my father,"
+      },
+      {
+       "cyr": "нит' со браќа, нит' со сестри,",
+       "lat": "nit' so braḱa, nit' so sestri,",
+       "en": "either my brothers or my sisters,"
+      },
+      {
+       "cyr": "де мори Јано де, де, де",
+       "lat": "de mori Jano de, de, de",
+       "en": "hey, Jana, hey, hey, hey,"
+      },
+      {
+       "cyr": "де мори душо де.",
+       "lat": "de mori dušo de.",
+       "en": "hey, my soul, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни со браќа, ни со сестри,",
+       "lat": "Ni so braḱa, ni so sestri,",
+       "en": "Neither my brothers nor my sisters,"
+      },
+      {
+       "cyr": "ни со мојто прво либе,",
+       "lat": "ni so mojto prvo libe,",
+       "en": "nor my first love,"
+      },
+      {
+       "cyr": "де мори Јано де, де, де",
+       "lat": "de mori Jano de, de, de",
+       "en": "hey, Jana, hey, hey, hey,"
+      },
+      {
+       "cyr": "де мори душо де.",
+       "lat": "de mori dušo de.",
+       "en": "hey, my soul, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

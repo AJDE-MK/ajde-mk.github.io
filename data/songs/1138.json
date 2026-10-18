@@ -1,0 +1,107 @@
+{
+ "id": 1138,
+ "slug": "stameno-mome-mori-crna-cheresho",
+ "title_cyr": "Стамено, моме мори, црна черешо",
+ "title_latin": "Stameno, mome mori, crna čerešo",
+ "title_en": "Stameno, girl, oh, black cherry",
+ "pesna_url": "https://pesna.org/song/1138",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Чешо' I read as 'comb' and 'лепиња' as 'beauty' (my reading); both are possibly dialect forms, unsure.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "мори",
+   "en": "hey, oh (filler)"
+  },
+  {
+   "mk": "черешо",
+   "en": "cherry (vocative)"
+  },
+  {
+   "mk": "чешо",
+   "en": "comb (my reading)"
+  },
+  {
+   "mk": "лепиња",
+   "en": "beauty (my reading)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "личен",
+   "en": "handsome, fine"
+  },
+  {
+   "mk": "делија",
+   "en": "brave young man"
+  }
+ ],
+ "performers": [
+  "Бапчорки"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/2758"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стамено, моме мори, црна черешо,",
+       "lat": "- Stameno, mome mori, crna čerešo,",
+       "en": "- Stameno, girl, oh, black cherry,"
+      },
+      {
+       "cyr": "црна черешо, мори, сребрена чешо.",
+       "lat": "crna čerešo, mori, srebrena češo.",
+       "en": "black cherry, oh, silver comb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За кого чуваш мори таја лепиња?",
+       "lat": "Za kogo čuvaš mori taja lepinja?",
+       "en": "For whom do you keep, oh, that beauty?"
+      },
+      {
+       "cyr": "- Чувам ја, чувам мори за мојто либе.",
+       "lat": "- Čuvam ja, čuvam mori za mojto libe.",
+       "en": "- I keep it, I keep it, oh, for my sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За мојто либе, мори, личен Ѓорѓија.",
+       "lat": "Za mojto libe, mori, ličen Ǵorǵija.",
+       "en": "For my sweetheart, oh, handsome Giorgia."
+      },
+      {
+       "cyr": "Личен Ѓорѓија, мори, млади делија.",
+       "lat": "Ličen Ǵorǵija, mori, mladi delija.",
+       "en": "Handsome Giorgia, oh, young brave lad."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

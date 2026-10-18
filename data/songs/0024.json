@@ -1,0 +1,215 @@
+{
+ "id": 24,
+ "slug": "zhali-mome-da-zhalimo",
+ "title_cyr": "Жали моме, да жалимо",
+ "title_latin": "Žali mome, da žalimo",
+ "title_en": "Grieve, Girl, Let Us Grieve",
+ "pesna_url": "https://pesna.org/song/24",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Скендерија' is a place name (Skenderija, I take it as a foreign city). The line '(Друга верзија)' is translated as '(Another version)'; 'оти' in the second version means 'because' (dialect).",
+ "words_to_learn": [
+  {
+   "mk": "жали",
+   "en": "grieve, mourn"
+  },
+  {
+   "mk": "се разделиме",
+   "en": "we part"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "книга",
+   "en": "letter"
+  },
+  {
+   "mk": "ем...ем",
+   "en": "both...and"
+  },
+  {
+   "mk": "млада невеста",
+   "en": "young bride"
+  },
+  {
+   "mk": "свекор / свекрва",
+   "en": "father-in-law / mother-in-law"
+  },
+  {
+   "mk": "деверче",
+   "en": "little brother-in-law"
+  }
+ ],
+ "performers": [
+  "Грозданка Данилова",
+  "Радио студио Скопје",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1934"
+  },
+  {
+   "who": "Грозданка Данилова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3411"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жали моме, да жалимо, еј моме,",
+       "lat": "Žali mome, da žalimo, ej mome,",
+       "en": "Grieve, girl, let us grieve, hey girl,"
+      },
+      {
+       "cyr": "како ќе се разделимо.",
+       "lat": "kako ḱe se razdelimo.",
+       "en": "how will we part."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како ќе се разделимо, еј моме,",
+       "lat": "Kako ḱe se razdelimo, ej mome,",
+       "en": "How will we part, hey girl,"
+      },
+      {
+       "cyr": "ти од мене, ја од тебе.",
+       "lat": "ti od mene, ja od tebe.",
+       "en": "you from me, I from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја ќе одим на туѓина, еј моме,",
+       "lat": "Ja ḱe odim na tuǵina, ej mome,",
+       "en": "I will go to a foreign land, hey girl,"
+      },
+      {
+       "cyr": "на туѓина, Скендерија.",
+       "lat": "na tuǵina, Skenderija.",
+       "en": "to a foreign land, Skenderija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти пратим бела книга, еј моме,",
+       "lat": "Ḱe ti pratim bela kniga, ej mome,",
+       "en": "I will send you a white letter, hey girl,"
+      },
+      {
+       "cyr": "бела книга, црно писмо.",
+       "lat": "bela kniga, crno pismo.",
+       "en": "a white letter, black writing."
+      },
+      {
+       "cyr": "Ем да читаш, ем да плачеш, еј моме,",
+       "lat": "Em da čitaš, em da plačeš, ej mome,",
+       "en": "Both to read and to weep, hey girl,"
+      },
+      {
+       "cyr": "ем да читаш, ем да плачеш.",
+       "lat": "em da čitaš, em da plačeš.",
+       "en": "both to read and to weep."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жали моме, да жалиме, еј моме,",
+       "lat": "Žali mome, da žalime, ej mome,",
+       "en": "Grieve, girl, let us grieve, hey girl,"
+      },
+      {
+       "cyr": "оти ќе се разделиме,",
+       "lat": "oti ḱe se razdelime,",
+       "en": "because we will part,"
+      },
+      {
+       "cyr": "јас од тебе, ти од мене, моме,",
+       "lat": "jas od tebe, ti od mene, mome,",
+       "en": "I from you, you from me, girl,"
+      },
+      {
+       "cyr": "јас од тебе, ти од мене.",
+       "lat": "jas od tebe, ti od mene.",
+       "en": "I from you, you from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ќе одиш млада невеста, моме,",
+       "lat": "Ti ḱe odiš mlada nevesta, mome,",
+       "en": "You will go as a young bride, girl,"
+      },
+      {
+       "cyr": "Ти ќе одиш млада невеста,",
+       "lat": "Ti ḱe odiš mlada nevesta,",
+       "en": "You will go as a young bride,"
+      },
+      {
+       "cyr": "со младо момче пред тебе, моме,",
+       "lat": "so mlado momče pred tebe, mome,",
+       "en": "with a young lad in front of you, girl,"
+      },
+      {
+       "cyr": "со младо момче пред тебе.",
+       "lat": "so mlado momče pred tebe.",
+       "en": "with a young lad in front of you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свекор, свекрва до тебе, моме,",
+       "lat": "Svekor, svekrva do tebe, mome,",
+       "en": "Father-in-law, mother-in-law beside you, girl,"
+      },
+      {
+       "cyr": "Свекор, свекрва до тебе,",
+       "lat": "Svekor, svekrva do tebe,",
+       "en": "Father-in-law, mother-in-law beside you,"
+      },
+      {
+       "cyr": "и најмладо деверче, моме,",
+       "lat": "i najmlado deverče, mome,",
+       "en": "and the youngest brother-in-law, girl,"
+      },
+      {
+       "cyr": "и најмладото деверче.",
+       "lat": "i najmladoto deverče.",
+       "en": "and the youngest brother-in-law."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,171 @@
+{
+ "id": 204,
+ "slug": "sulejman-aga",
+ "title_cyr": "Сулејман ага",
+ "title_latin": "Sulejman aga",
+ "title_en": "Suleiman Agha",
+ "pesna_url": "https://pesna.org/song/204",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јоти' is a dialect particle, my reading 'that / that very'. Whose point of view 'дава / не дава' takes is ambiguous; I read it as the agha.",
+ "words_to_learn": [
+  {
+   "mk": "ага",
+   "en": "agha (Ottoman landlord, title)"
+  },
+  {
+   "mk": "чифлик",
+   "en": "estate, farm held by a landlord"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul"
+  },
+  {
+   "mk": "тенка",
+   "en": "slender"
+  },
+  {
+   "mk": "висока",
+   "en": "tall"
+  },
+  {
+   "mk": "бела ем црвена",
+   "en": "fair and rosy (white and red)"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "дава",
+   "en": "gives"
+  }
+ ],
+ "performers": [
+  "Александар Арабаџиев",
+  "Коста Новакис",
+  "Марија Димкова"
+ ],
+ "audio": [
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/212"
+  },
+  {
+   "who": "Марија Димкова",
+   "url": "https://pesna.org/audio-download/2631"
+  },
+  {
+   "who": "Александар Арабаџиев",
+   "url": "https://pesna.org/audio-download/3079"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сулејман ага има, џанам,",
+       "lat": "Sulejman aga ima, džanam,",
+       "en": "Suleiman Agha has, my dear,"
+      },
+      {
+       "cyr": "дванајсе чифлици.",
+       "lat": "dvanajse čiflici.",
+       "en": "twelve estates."
+      },
+      {
+       "cyr": "Чифлиците ги дава, џанам,",
+       "lat": "Čiflicite gi dava, džanam,",
+       "en": "He would give away the estates, my dear,"
+      },
+      {
+       "cyr": "Ленка не ја дава.",
+       "lat": "Lenka ne ja dava.",
+       "en": "but Lenka he would not give."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јоти Ленка била, џанам,",
+       "lat": "Joti Lenka bila, džanam,",
+       "en": "That Lenka was, my dear,"
+      },
+      {
+       "cyr": "тенка ем висока.",
+       "lat": "tenka em visoka.",
+       "en": "slender and tall."
+      },
+      {
+       "cyr": "Тенка ем висока, џанам,",
+       "lat": "Tenka em visoka, džanam,",
+       "en": "Slender and tall, my dear,"
+      },
+      {
+       "cyr": "бела ем црвена.",
+       "lat": "bela em crvena.",
+       "en": "white and red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сулиман ага има, џанам,",
+       "lat": "Suliman aga ima, džanam,",
+       "en": "Suleiman Agha has, my dear,"
+      },
+      {
+       "cyr": "три илјади овци.",
+       "lat": "tri iljadi ovci.",
+       "en": "three thousand sheep."
+      },
+      {
+       "cyr": "Овците ги дава, џанам,",
+       "lat": "Ovcite gi dava, džanam,",
+       "en": "He would give away the sheep, my dear,"
+      },
+      {
+       "cyr": "Ленка не ја дава.",
+       "lat": "Lenka ne ja dava.",
+       "en": "but Lenka he would not give."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јоти Ленка била џанам,",
+       "lat": "Joti Lenka bila džanam,",
+       "en": "That Lenka was, my dear,"
+      },
+      {
+       "cyr": "тенка ем висока.",
+       "lat": "tenka em visoka.",
+       "en": "slender and tall."
+      },
+      {
+       "cyr": "Тенка ем висока, џанам,",
+       "lat": "Tenka em visoka, džanam,",
+       "en": "Slender and tall, my dear,"
+      },
+      {
+       "cyr": "бела ем црвена.",
+       "lat": "bela em crvena.",
+       "en": "white and red."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

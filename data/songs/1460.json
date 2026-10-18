@@ -1,0 +1,218 @@
+{
+ "id": 1460,
+ "slug": "bozhe-pravda-nema",
+ "title_cyr": "Боже правда нема",
+ "title_latin": "Bože pravda nema",
+ "title_en": "God, There Is No Justice",
+ "pesna_url": "https://pesna.org/song/1460",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern song about Aegean Macedonia; origin unclear. 'Душмани јазикот ни бранеа' is my reading (the verb form is odd, could mean 'enemies banned our language'); 'македонски децата' is as written.",
+ "words_to_learn": [
+  {
+   "mk": "неправда",
+   "en": "injustice"
+  },
+  {
+   "mk": "судба",
+   "en": "fate"
+  },
+  {
+   "mk": "корен",
+   "en": "root"
+  },
+  {
+   "mk": "откорнат",
+   "en": "they uproot"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "јазик",
+   "en": "language, tongue"
+  },
+  {
+   "mk": "грутка",
+   "en": "clod, lump (of earth)"
+  },
+  {
+   "mk": "се селиш",
+   "en": "you move/migrate"
+  },
+  {
+   "mk": "егејски",
+   "en": "Aegean"
+  }
+ ],
+ "performers": [
+  "Соња и Оливер бенд"
+ ],
+ "audio": [
+  {
+   "who": "Соња и Оливер бенд",
+   "url": "https://pesna.org/audio-download/3740"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дали некој видел,",
+       "lat": "Dali nekoj videl,",
+       "en": "Has anyone seen,"
+      },
+      {
+       "cyr": "дали некој слушнал",
+       "lat": "dali nekoj slušnal",
+       "en": "has anyone heard"
+      },
+      {
+       "cyr": "на сред Европа",
+       "lat": "na sred Evropa",
+       "en": "in the middle of Europe"
+      },
+      {
+       "cyr": "ваква неправда?",
+       "lat": "vakva nepravda?",
+       "en": "such an injustice?"
+      },
+      {
+       "cyr": "Дома да ти дојдат,",
+       "lat": "Doma da ti dojdat,",
+       "en": "They come to your home,"
+      },
+      {
+       "cyr": "судба да ти кројат,",
+       "lat": "sudba da ti krojat,",
+       "en": "they cut out your fate,"
+      },
+      {
+       "cyr": "корен да ти откорнат.",
+       "lat": "koren da ti otkornat.",
+       "en": "they uproot your roots."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Боже правда нема",
+       "lat": "Bože pravda nema",
+       "en": "God, there is no justice,"
+      },
+      {
+       "cyr": "земја да ти земат,",
+       "lat": "zemja da ti zemat,",
+       "en": "they take your land,"
+      },
+      {
+       "cyr": "наша Македонија.",
+       "lat": "naša Makedonija.",
+       "en": "our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Егејски песни ни замреа,",
+       "lat": "Egejski pesni ni zamrea,",
+       "en": "The Aegean songs died out for us,"
+      },
+      {
+       "cyr": "душмани јазикот ни бранеа,",
+       "lat": "dušmani jazikot ni branea,",
+       "en": "enemies defended our language,"
+      },
+      {
+       "cyr": "егејска мајка не се уплаши,",
+       "lat": "egejska majka ne se uplaši,",
+       "en": "the Aegean mother was not afraid,"
+      },
+      {
+       "cyr": "македонски децата си ги научи.",
+       "lat": "makedonski decata si gi nauči.",
+       "en": "she taught the children Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секој Егеец во домот има",
+       "lat": "Sekoj Egeec vo domot ima",
+       "en": "Every Aegean person has at home"
+      },
+      {
+       "cyr": "по една грутка од стари крај.",
+       "lat": "po edna grutka od stari kraj.",
+       "en": "a clod of earth from the old country."
+      },
+      {
+       "cyr": "Кај и да оди, кај да се сели,",
+       "lat": "Kaj i da odi, kaj da se seli,",
+       "en": "Wherever he goes, wherever he moves,"
+      },
+      {
+       "cyr": "со него е грутката.",
+       "lat": "so nego e grutkata.",
+       "en": "the clod is with him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Боже правда нема",
+       "lat": "Bože pravda nema",
+       "en": "God, there is no justice,"
+      },
+      {
+       "cyr": "земја да ти земат,",
+       "lat": "zemja da ti zemat,",
+       "en": "they take your land,"
+      },
+      {
+       "cyr": "наша Македонија.",
+       "lat": "naša Makedonija.",
+       "en": "our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Егејски песни ни замреа,",
+       "lat": "Egejski pesni ni zamrea,",
+       "en": "The Aegean songs died out for us,"
+      },
+      {
+       "cyr": "душмани јазикот ни бранеа,",
+       "lat": "dušmani jazikot ni branea,",
+       "en": "enemies defended our language,"
+      },
+      {
+       "cyr": "егејска мајка не се уплаши,",
+       "lat": "egejska majka ne se uplaši,",
+       "en": "the Aegean mother was not afraid,"
+      },
+      {
+       "cyr": "македонски децата си ги научи.",
+       "lat": "makedonski decata si gi nauči.",
+       "en": "she taught the children Macedonian."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,114 @@
+{
+ "id": 1116,
+ "slug": "ergen-sum-odil-preodil",
+ "title_cyr": "Ерген сум одил, преодил",
+ "title_latin": "Ergen sum odil, preodil",
+ "title_en": "I walked as unmarried man",
+ "pesna_url": "https://pesna.org/song/1116",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2663"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ерген сум одил, преодил мамо,",
+       "lat": "Ergen sum odil, preodil mamo,",
+       "en": "I walked as unmarried man, walked around, mother,"
+      },
+      {
+       "cyr": "ерген сум одил, преодил,",
+       "lat": "ergen sum odil, preodil,",
+       "en": "I walked as unmarried man, walked around,"
+      },
+      {
+       "cyr": "ерген сум одил, преодил мамо,",
+       "lat": "ergen sum odil, preodil mamo,",
+       "en": "I walked as unmarried man, walked around, mother,"
+      },
+      {
+       "cyr": "девет сум града исшетал.",
+       "lat": "devet sum grada isšetal.",
+       "en": "I roamed nine cities."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет сум града исшетал мамо,",
+       "lat": "Devet sum grada isšetal mamo,",
+       "en": "I roamed nine cities, mother,"
+      },
+      {
+       "cyr": "девет сум моми заљубил,",
+       "lat": "devet sum momi zaljubil,",
+       "en": "I fell in love with nine girls,"
+      },
+      {
+       "cyr": "девет сум моми заљубил мамо,",
+       "lat": "devet sum momi zaljubil mamo,",
+       "en": "I fell in love with nine girls, mother,"
+      },
+      {
+       "cyr": "ни една не ми е на срце.",
+       "lat": "ni edna ne mi e na srce.",
+       "en": "but none of them rests in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега сум една заљубил мамо,",
+       "lat": "Sega sum edna zaljubil mamo,",
+       "en": "Now I fell in love with one, mother,"
+      },
+      {
+       "cyr": "на снага тенка висока,",
+       "lat": "na snaga tenka visoka,",
+       "en": "she is thin and tall,"
+      },
+      {
+       "cyr": "на снага тенка висока мамо,",
+       "lat": "na snaga tenka visoka mamo,",
+       "en": "she is thin and tall,"
+      },
+      {
+       "cyr": "на лице бела црвена.",
+       "lat": "na lice bela crvena.",
+       "en": "with face that is white and red."
+      },
+      {
+       "cyr": "На лице бела црвена мамо,",
+       "lat": "Na lice bela crvena mamo,",
+       "en": "With face that is white and red, mother,"
+      },
+      {
+       "cyr": "она ми легна на срце.",
+       "lat": "ona mi legna na srce.",
+       "en": "she rests in my heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,139 @@
+{
+ "id": 316,
+ "slug": "sade-ti-se-chudam-cveto",
+ "title_cyr": "Саде ти се чудам Цвето",
+ "title_latin": "Sade ti se čudam Cveto",
+ "title_en": "I keep wondering, Cveta",
+ "pesna_url": "https://pesna.org/song/316",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Есма Реџепова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1082"
+  },
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/1083"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Саде ти се чудам Цвето",
+       "lat": "Sade ti se čudam Cveto",
+       "en": "I keep wondering, Cveta"
+      },
+      {
+       "cyr": "како сама спиеш,",
+       "lat": "kako sama spieš,",
+       "en": "how can you sleep alone,"
+      },
+      {
+       "cyr": "еј, пиле мори Цвето,",
+       "lat": "ej, pile mori Cveto,",
+       "en": "hey, Cveta, my chick,"
+      },
+      {
+       "cyr": "в' шарена одаја,",
+       "lat": "v' šarena odaja,",
+       "en": "in your colorful room,"
+      },
+      {
+       "cyr": "еј, јагне мори Цвето",
+       "lat": "ej, jagne mori Cveto",
+       "en": "hey, Cveta, my lamb,"
+      },
+      {
+       "cyr": "како сама спиеш?",
+       "lat": "kako sama spieš?",
+       "en": "in your colorful room."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' шарена одаја Цвето",
+       "lat": "V' šarena odaja Cveto",
+       "en": "In your colorful room, Cveta,"
+      },
+      {
+       "cyr": "на железен кревет.",
+       "lat": "na železen krevet.",
+       "en": "on an iron bed."
+      },
+      {
+       "cyr": "Еј, пиле мори Цвето,",
+       "lat": "Ej, pile mori Cveto,",
+       "en": "Hey, Cveta, my chick,"
+      },
+      {
+       "cyr": "на железен кревет,",
+       "lat": "na železen krevet,",
+       "en": "on an iron bed,"
+      },
+      {
+       "cyr": "еј, јагне мори Цвето",
+       "lat": "ej, jagne mori Cveto",
+       "en": "hey, Cveta, my lamb,"
+      },
+      {
+       "cyr": "на меки душеци.",
+       "lat": "na meki dušeci.",
+       "en": "on soft mattresses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, викни ме, Цвето мори,",
+       "lat": "Aj, vikni me, Cveto mori,",
+       "en": "Come on, invite me, Cveta,"
+      },
+      {
+       "cyr": "другар да ти бидам",
+       "lat": "drugar da ti bidam",
+       "en": "let me be your friend,"
+      },
+      {
+       "cyr": "еј, пиле мори Цвето,",
+       "lat": "ej, pile mori Cveto,",
+       "en": "hey, Cveta, my chick,"
+      },
+      {
+       "cyr": "другар да ти бидам",
+       "lat": "drugar da ti bidam",
+       "en": "let me be your friend,"
+      },
+      {
+       "cyr": "еј, јагне мори Цвето",
+       "lat": "ej, jagne mori Cveto",
+       "en": "hey, Cveta, my lamb,"
+      },
+      {
+       "cyr": "со тебе да спијам.",
+       "lat": "so tebe da spijam.",
+       "en": "let me sleep with you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

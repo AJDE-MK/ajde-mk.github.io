@@ -1,0 +1,282 @@
+{
+ "id": 720,
+ "slug": "slushaj-bre-kralu",
+ "title_cyr": "Слушај бре кралу",
+ "title_latin": "Slušaj bre kralu",
+ "title_en": "Hey, listen king",
+ "pesna_url": "https://pesna.org/song/720",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Војо Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/654"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(За кралот Александар)",
+       "lat": "(Za kralot Aleksandar)",
+       "en": "To the King Alexander",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај големо чудо, чудо бре станало",
+       "lat": "Aj golemo čudo, čudo bre stanalo",
+       "en": "Oh what a great wonder, a wonder happened",
+       "en_mt": false
+      },
+      {
+       "cyr": "на деветти октомври,",
+       "lat": "na devetti oktomvri,",
+       "en": "On the 9th of October",
+       "en_mt": false
+      },
+      {
+       "cyr": "кралот ми тргнал, кралот Александар,",
+       "lat": "kralot mi trgnal, kralot Aleksandar,",
+       "en": "My king left, King Alexander",
+       "en_mt": false
+      },
+      {
+       "cyr": "за во града Марсеја,",
+       "lat": "za vo grada Marseja,",
+       "en": "For the city of Marseilles",
+       "en_mt": false
+      },
+      {
+       "cyr": "по море да оди, побргу да стигне,",
+       "lat": "po more da odi, pobrgu da stigne,",
+       "en": "Going through the sea, to arrive more quickly",
+       "en_mt": false
+      },
+      {
+       "cyr": "сојуз да направи.",
+       "lat": "sojuz da napravi.",
+       "en": "To create a union.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај што ми кинисал по море широко",
+       "lat": "Aj što mi kinisal po more široko",
+       "en": "Oh how he moved through the wide sea",
+       "en_mt": false
+      },
+      {
+       "cyr": "со параходите.",
+       "lat": "so parahodite.",
+       "en": "With the steam ships",
+       "en_mt": false
+      },
+      {
+       "cyr": "Таму го пречекал министерот Барто",
+       "lat": "Tamu go prečekal ministerot Barto",
+       "en": "Waiting for him there was Minister Bartheu",
+       "en_mt": false
+      },
+      {
+       "cyr": "со генералите.",
+       "lat": "so generalite.",
+       "en": "With the generals",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сојуз ќе прават, сојуз душмански,",
+       "lat": "Sojuz ḱe pravat, sojuz dušmanski,",
+       "en": "They will create a union, an adversarial union",
+       "en_mt": false
+      },
+      {
+       "cyr": "против жална Македонија.",
+       "lat": "protiv žalna Makedonija.",
+       "en": "Against poor Macedonia.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму во кафана тројца Македонци",
+       "lat": "Tamu vo kafana trojca Makedonci",
+       "en": "There in the café were three Macedonians",
+       "en_mt": false
+      },
+      {
+       "cyr": "тока ми правеја,",
+       "lat": "toka mi praveja,",
+       "en": "Making their toasts",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тока правеја, коцка фрлаја,",
+       "lat": "Toka praveja, kocka frlaja,",
+       "en": "A toast they were making, and dice they were throwing",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој на кралот ќе пука?!",
+       "lat": "koj na kralot ḱe puka?!",
+       "en": "“Who will shoot upon the king?!”",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тока правеја, коцка фрлаја,",
+       "lat": "Toka praveja, kocka frlaja,",
+       "en": "A toast they were making, and dice they were throwing",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој на кралот ќе пука?!",
+       "lat": "koj na kralot ḱe puka?!",
+       "en": "“Who will shoot upon the king?!”",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде малерозна коцка ми падна",
+       "lat": "Ajde malerozna kocka mi padna",
+       "en": "So the bad luck dice landed",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Владо Црноземски,",
+       "lat": "na Vlado Crnozemski,",
+       "en": "On Vlado Cernozemski",
+       "en_mt": false
+      },
+      {
+       "cyr": "малерозна коцка ми падна",
+       "lat": "malerozna kocka mi padna",
+       "en": "A bad luck dice landed",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Владо Црноземски,",
+       "lat": "na Vlado Crnozemski,",
+       "en": "On Vlado Cernozemski",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде малерозна коцка ми падна",
+       "lat": "ajde malerozna kocka mi padna",
+       "en": "So the bad luck dice landed",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Владо Штипјанчето.",
+       "lat": "na Vlado Štipjančeto.",
+       "en": "On Vlade from Shtip.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогаш ми Владо букет в раце зеде,",
+       "lat": "Togaš mi Vlado buket v race zede,",
+       "en": "Then my Vlado, took a bouquet in his hands",
+       "en_mt": false
+      },
+      {
+       "cyr": "пиштол внатре му стави,",
+       "lat": "pištol vnatre mu stavi,",
+       "en": "And placed a pistol inside",
+       "en_mt": false
+      },
+      {
+       "cyr": "пиштол внатре стави, почна пат да прави,",
+       "lat": "pištol vnatre stavi, počna pat da pravi,",
+       "en": "He placed a pistol inside, and started to make his way",
+       "en_mt": false
+      },
+      {
+       "cyr": "за до кралот да дојди,",
+       "lat": "za do kralot da dojdi,",
+       "en": "To go beside the king",
+       "en_mt": false
+      },
+      {
+       "cyr": "и од букетот куршуми фрчат",
+       "lat": "i od buketot kuršumi frčat",
+       "en": "And from the bouquet bullets flew",
+       "en_mt": false
+      },
+      {
+       "cyr": "- кралот мртов падна.",
+       "lat": "- kralot mrtov padna.",
+       "en": "- The king fell dead.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слушај бре кралу, кралу Александар:",
+       "lat": "Slušaj bre kralu, kralu Aleksandar:",
+       "en": "Hey listen king, King Alexander",
+       "en_mt": false
+      },
+      {
+       "cyr": "\"Еве ти ја Македонија!",
+       "lat": "\"Eve ti ja Makedonija!",
+       "en": "“Here is your Macedonia!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Нека разбере цела Европа",
+       "lat": "Neka razbere cela Evropa",
+       "en": "Let all of Europe know",
+       "en_mt": false
+      },
+      {
+       "cyr": "дека постои Македонија!",
+       "lat": "deka postoi Makedonija!",
+       "en": "That Macedonia exists!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дека постои Македонија,",
+       "lat": "Deka postoi Makedonija,",
+       "en": "That Macedonia Exists",
+       "en_mt": false
+      },
+      {
+       "cyr": "а не Јужна Србија!\"",
+       "lat": "a ne Južna Srbija!\"",
+       "en": "And not Southern Serbia!”",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

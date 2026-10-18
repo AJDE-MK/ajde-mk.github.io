@@ -1,0 +1,224 @@
+{
+ "id": 168,
+ "slug": "sum-proshetalo-mori-gjurgje",
+ "title_cyr": "Сум прошетало мори Ѓурѓе",
+ "title_latin": "Sum prošetalo mori Ǵurǵe",
+ "title_en": "I have strolled, hey Gjorgje",
+ "pesna_url": "https://pesna.org/song/168",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The speaker uses neuter participles (-ло), a dialect/singing form. In the second version 'калеши невести' (my reading: invited brides) and 'површени' (my reading: dressed up) are guesses; 'посвршени' read as engaged.",
+ "words_to_learn": [
+  {
+   "mk": "прошетало",
+   "en": "strolled, walked around (neuter dialect form)"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "сека",
+   "en": "every (dialect)"
+  },
+  {
+   "mk": "заљубил",
+   "en": "fallen in love"
+  },
+  {
+   "mk": "китка",
+   "en": "flower, bouquet"
+  },
+  {
+   "mk": "овенале",
+   "en": "wilted"
+  },
+  {
+   "mk": "росна",
+   "en": "dewy"
+  },
+  {
+   "mk": "невести",
+   "en": "brides"
+  }
+ ],
+ "performers": [
+  "Јорданка Смилевска",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2461"
+  },
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/2462"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сум прошетало, мори Ѓурѓе, сум прошетало,",
+       "lat": "Sum prošetalo, mori Ǵurǵe, sum prošetalo,",
+       "en": "I have strolled, hey Gjorgje, I have strolled,"
+      },
+      {
+       "cyr": "сум прошетало, мори Ѓурѓе, цела Америка.",
+       "lat": "sum prošetalo, mori Ǵurǵe, cela Amerika.",
+       "en": "I have strolled, hey Gjorgje, all of America."
+      },
+      {
+       "cyr": "Сум поминало, мори Ѓурѓе, сум поминало,",
+       "lat": "Sum pominalo, mori Ǵurǵe, sum pominalo,",
+       "en": "I have passed through, hey Gjorgje, I have passed through,"
+      },
+      {
+       "cyr": "сум поминало, мори Ѓурѓе, седумдесет града.",
+       "lat": "sum pominalo, mori Ǵurǵe, sedumdeset grada.",
+       "en": "I have passed through, hey Gjorgje, seventy towns."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во сека града, мори Ѓурѓе, во сека града,",
+       "lat": "Vo seka grada, mori Ǵurǵe, vo seka grada,",
+       "en": "In every town, hey Gjorgje, in every town,"
+      },
+      {
+       "cyr": "во сека града, мори Ѓурѓе, мома сум заљубил.",
+       "lat": "vo seka grada, mori Ǵurǵe, moma sum zaljubil.",
+       "en": "in every town, hey Gjorgje, I fell for a girl."
+      },
+      {
+       "cyr": "Од сека мома, мори Ѓурѓе, од сека мома",
+       "lat": "Od seka moma, mori Ǵurǵe, od seka moma",
+       "en": "From every girl, hey Gjorgje, from every girl,"
+      },
+      {
+       "cyr": "од сека мома, мори Ѓурѓе, китка сум добило.",
+       "lat": "od seka moma, mori Ǵurǵe, kitka sum dobilo.",
+       "en": "from every girl, hey Gjorgje, I got a flower."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите ми китки, мори Ѓурѓе, сите ми китки,",
+       "lat": "Site mi kitki, mori Ǵurǵe, site mi kitki,",
+       "en": "All my flowers, hey Gjorgje, all my flowers,"
+      },
+      {
+       "cyr": "сите ми китки, мори Ѓурѓе, редум овенале.",
+       "lat": "site mi kitki, mori Ǵurǵe, redum ovenale.",
+       "en": "all my flowers, hey Gjorgje, wilted one after another."
+      },
+      {
+       "cyr": "Сал твојта китка, мори Ѓурѓе, сал твојта китка,",
+       "lat": "Sal tvojta kitka, mori Ǵurǵe, sal tvojta kitka,",
+       "en": "Only your flower, hey Gjorgje, only your flower,"
+      },
+      {
+       "cyr": "сал твојта китка, мори Ѓурѓе, росна ем зелена.",
+       "lat": "sal tvojta kitka, mori Ǵurǵe, rosna em zelena.",
+       "en": "only your flower, hey Gjorgje, dewy and green."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сум прошетало, мори Ѓурѓе, сум прошетало,",
+       "lat": "Sum prošetalo, mori Ǵurǵe, sum prošetalo,",
+       "en": "I have strolled, hey Gjorgje, I have strolled,"
+      },
+      {
+       "cyr": "сум прошетало, мори Ѓурѓе, цела Америка,",
+       "lat": "sum prošetalo, mori Ǵurǵe, cela Amerika,",
+       "en": "I have strolled, hey Gjorgje, all of America,"
+      },
+      {
+       "cyr": "мори Ѓурѓе, цела Америка.",
+       "lat": "mori Ǵurǵe, cela Amerika.",
+       "en": "hey Gjorgje, all of America."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сум заљубило, мори Ѓурѓе, сум заљубило,",
+       "lat": "Sum zaljubilo, mori Ǵurǵe, sum zaljubilo,",
+       "en": "I have fallen in love, hey Gjorgje, I have fallen in love,"
+      },
+      {
+       "cyr": "сум заљубило, мори Ѓурѓе, до четири моми,",
+       "lat": "sum zaljubilo, mori Ǵurǵe, do četiri momi,",
+       "en": "I have fallen in love, hey Gjorgje, with up to four girls,"
+      },
+      {
+       "cyr": "мори Ѓурѓе, до четири моми.",
+       "lat": "mori Ǵurǵe, do četiri momi.",
+       "en": "hey Gjorgje, with up to four girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Двете ми биле, мори Ѓурѓе, двете ми биле,",
+       "lat": "Dvete mi bile, mori Ǵurǵe, dvete mi bile,",
+       "en": "Two of them were, hey Gjorgje, two of them were,"
+      },
+      {
+       "cyr": "двете ми биле, мори Ѓурѓе, калеши невести,",
+       "lat": "dvete mi bile, mori Ǵurǵe, kaleši nevesti,",
+       "en": "two of them were, hey Gjorgje, invited brides,"
+      },
+      {
+       "cyr": "мори Ѓурѓе, калеши невести.",
+       "lat": "mori Ǵurǵe, kaleši nevesti.",
+       "en": "hey Gjorgje, invited brides."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Двете ми биле, мори Ѓурѓе, двете ми биле,",
+       "lat": "Dvete mi bile, mori Ǵurǵe, dvete mi bile,",
+       "en": "Two of them were, hey Gjorgje, two of them were,"
+      },
+      {
+       "cyr": "двете ми биле, мори Ѓурѓе, двете површени,",
+       "lat": "dvete mi bile, mori Ǵurǵe, dvete površeni,",
+       "en": "two of them were, hey Gjorgje, dressed up,"
+      },
+      {
+       "cyr": "мори Ѓурѓе, двете посвршени.",
+       "lat": "mori Ǵurǵe, dvete posvršeni.",
+       "en": "hey Gjorgje, engaged."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

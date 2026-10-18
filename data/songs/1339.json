@@ -1,0 +1,174 @@
+{
+ "id": 1339,
+ "slug": "mora-dosta-ode-kito-mome",
+ "title_cyr": "Мора доста оде Кито моме",
+ "title_latin": "Mora dosta ode Kito mome",
+ "title_en": "Much Has Kito Walked, Girl",
+ "pesna_url": "https://pesna.org/song/1339",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional song from the Debar area. 'Мора доста' is a guess (my reading: 'a lot, plenty'); 'не ги гори' I render 'do not burn them' as in 'do not make them pine', which is uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "мора",
+   "en": "much, a lot (my reading; possibly a filler 'море')"
+  },
+  {
+   "mk": "боса",
+   "en": "barefoot"
+  },
+  {
+   "mk": "налани",
+   "en": "wooden clogs (nalani)"
+  },
+  {
+   "mk": "росни",
+   "en": "dewy"
+  },
+  {
+   "mk": "ливади",
+   "en": "meadows"
+  },
+  {
+   "mk": "младоженци",
+   "en": "grooms"
+  },
+  {
+   "mk": "невести",
+   "en": "brides, young wives"
+  },
+  {
+   "mk": "сено",
+   "en": "hay"
+  },
+  {
+   "mk": "жални",
+   "en": "sad, mournful"
+  },
+  {
+   "mk": "горно дебрани",
+   "en": "people of Upper Debar (Gorna Debra)"
+  }
+ ],
+ "performers": [
+  "Воислав Стојановски",
+  "Осоговски извор"
+ ],
+ "audio": [
+  {
+   "who": "Воислав Стојановски",
+   "url": "https://pesna.org/audio-download/3432"
+  },
+  {
+   "who": "Осоговски извор",
+   "url": "https://pesna.org/audio-download/3433"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мора доста оде Кито моме",
+       "lat": "Mora dosta ode Kito mome",
+       "en": "Much, hey, has Kito, girl, walked"
+      },
+      {
+       "cyr": "боса на налани.",
+       "lat": "bosa na nalani.",
+       "en": "barefoot in wooden clogs."
+      },
+      {
+       "cyr": "Боса на налани, Кито моме",
+       "lat": "Bosa na nalani, Kito mome",
+       "en": "Barefoot in clogs, Kito, girl,"
+      },
+      {
+       "cyr": "по росни ливади.",
+       "lat": "po rosni livadi.",
+       "en": "over dewy meadows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори не ги гори Кито моме",
+       "lat": "Mori ne gi gori Kito mome",
+       "en": "Hey, do not burn them, Kito, girl,"
+      },
+      {
+       "cyr": "младоженците,",
+       "lat": "mladožencite,",
+       "en": "the grooms,"
+      },
+      {
+       "cyr": "море ќе остават Кито моме",
+       "lat": "more ḱe ostavat Kito mome",
+       "en": "oh, they will leave behind, Kito, girl,"
+      },
+      {
+       "cyr": "млади невести.",
+       "lat": "mladi nevesti.",
+       "en": "young brides."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море сено береш Кито моме",
+       "lat": "More seno bereš Kito mome",
+       "en": "Oh, you gather hay, Kito, girl,"
+      },
+      {
+       "cyr": "жални песни пееш,",
+       "lat": "žalni pesni peeš,",
+       "en": "you sing sad songs,"
+      },
+      {
+       "cyr": "море кој минува Кито моме",
+       "lat": "more koj minuva Kito mome",
+       "en": "oh, whoever passes, Kito, girl,"
+      },
+      {
+       "cyr": "сè застанува.",
+       "lat": "sè zastanuva.",
+       "en": "always stops."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ќе те чујат Кито моме",
+       "lat": "More ḱe te čujat Kito mome",
+       "en": "Oh, they will hear you, Kito, girl,"
+      },
+      {
+       "cyr": "горно дебрани,",
+       "lat": "gorno debrani,",
+       "en": "the people of upper Debar,"
+      },
+      {
+       "cyr": "море ќе те носат Кито моме",
+       "lat": "more ḱe te nosat Kito mome",
+       "en": "oh, they will take you, Kito, girl,"
+      },
+      {
+       "cyr": "во Горна Дебра.",
+       "lat": "vo Gorna Debra.",
+       "en": "to Gorna Debra."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

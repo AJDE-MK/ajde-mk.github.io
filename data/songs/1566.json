@@ -1,0 +1,232 @@
+{
+ "id": 1566,
+ "slug": "nalojno-kjerko",
+ "title_cyr": "Налојно ќерко",
+ "title_latin": "Nalojno ḱerko",
+ "title_en": "Naloјno, daughter",
+ "pesna_url": "https://pesna.org/song/1566",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Налојно/Налојна' is probably a name or epithet for the daughter; my reading, I could not identify the word. The '(Друга верзија)' line is translated as '(Another version)'.",
+ "words_to_learn": [
+  {
+   "mk": "дотерај",
+   "en": "drive (animals) home"
+  },
+  {
+   "mk": "волојте",
+   "en": "the oxen"
+  },
+  {
+   "mk": "шилегар",
+   "en": "shepherd (of lambs)"
+  },
+  {
+   "mk": "шилеџиња / шилежиња",
+   "en": "young lambs"
+  },
+  {
+   "mk": "пладнуе",
+   "en": "spends the noon, rests at midday"
+  },
+  {
+   "mk": "кавал",
+   "en": "end-blown shepherd's flute"
+  },
+  {
+   "mk": "намигнува / мигнуе",
+   "en": "winks"
+  },
+  {
+   "mk": "мавнуе",
+   "en": "waves"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Драгица Николова",
+  "КУД Полог",
+  "Трио Гавровски",
+  "Macedonian Women's Choir of Melbourne"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/4090"
+  },
+  {
+   "who": "Macedonian Women's Choir of Melbourne",
+   "url": "https://pesna.org/audio-download/4091"
+  },
+  {
+   "who": "Александар Сариевски, Драгица Николова",
+   "url": "https://pesna.org/audio-download/4092"
+  },
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/4119"
+  },
+  {
+   "who": "КУД Полог",
+   "url": "https://pesna.org/audio-download/4120"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Налојно ќерко леле, налојној мори,",
+       "lat": "- Nalojno ḱerko lele, nalojnoj mori,",
+       "en": "- Naloјno, daughter, oh, Naloјna, hey,"
+      },
+      {
+       "cyr": "иди дотерај, леле, волојте.",
+       "lat": "idi doteraj, lele, volojte.",
+       "en": "go drive home, oh, the oxen."
+      },
+      {
+       "cyr": "Иди дотерај волојте мори",
+       "lat": "Idi doteraj volojte mori",
+       "en": "Go drive the oxen home, hey,"
+      },
+      {
+       "cyr": "од високата леле, планина.",
+       "lat": "od visokata lele, planina.",
+       "en": "from the high, oh, mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам мајко да идам, леле",
+       "lat": "- Ne možam majko da idam, lele",
+       "en": "- I cannot go, mother, oh,"
+      },
+      {
+       "cyr": "таму е Стојан, мори, шилегар.",
+       "lat": "tamu e Stojan, mori, šilegar.",
+       "en": "Stojan is there, hey, the shepherd."
+      },
+      {
+       "cyr": "Таму е Стојан шилегар леле,",
+       "lat": "Tamu e Stojan šilegar lele,",
+       "en": "Stojan the shepherd is there, oh,"
+      },
+      {
+       "cyr": "со шилеџиња леле пладнуе.",
+       "lat": "so šiledžinja lele pladnue.",
+       "en": "he spends the noon, oh, with the lambs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со шилежиња пладнуе леле,",
+       "lat": "So šiležinja pladnue lele,",
+       "en": "He spends the noon with the lambs, oh,"
+      },
+      {
+       "cyr": "со шарен кавал, леле, свирнуе.",
+       "lat": "so šaren kaval, lele, svirnue.",
+       "en": "he plays on a colourful flute, oh."
+      },
+      {
+       "cyr": "Со шарен кавал свирнуе, леле,",
+       "lat": "So šaren kaval svirnue, lele,",
+       "en": "He plays on a colourful flute, oh,"
+      },
+      {
+       "cyr": "со десна рака, леле, мавнуе.",
+       "lat": "so desna raka, lele, mavnue.",
+       "en": "with his right hand, oh, he waves."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Налојно ќерко леле, налојно мори,",
+       "lat": "- Nalojno ḱerko lele, nalojno mori,",
+       "en": "- Naloјno, daughter, oh, Naloјno, hey,"
+      },
+      {
+       "cyr": "иди дотерај, леле, волојте их.",
+       "lat": "idi doteraj, lele, volojte ih.",
+       "en": "go drive home, oh, the oxen, ih."
+      },
+      {
+       "cyr": "Од високата леле, планина леле,",
+       "lat": "Od visokata lele, planina lele,",
+       "en": "From the high, oh, mountain, oh,"
+      },
+      {
+       "cyr": "од широката, леле, рамнина, их.",
+       "lat": "od širokata, lele, ramnina, ih.",
+       "en": "from the wide, oh, plain, ih."
+      },
+      {
+       "cyr": "- Не можам мале леле да одам, мори",
+       "lat": "- Ne možam male lele da odam, mori",
+       "en": "- I cannot go, mother, oh, hey,"
+      },
+      {
+       "cyr": "таму е Ѓорѓи, леле, шилегар.",
+       "lat": "tamu e Ǵorǵi, lele, šilegar.",
+       "en": "Gjorgji is there, oh, the shepherd."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со шилежиња море пладнуе, леле",
+       "lat": "So šiležinja more pladnue, lele",
+       "en": "With the lambs, hey, he spends the noon, oh,"
+      },
+      {
+       "cyr": "со шарен кавал, леле, свирнуе.",
+       "lat": "so šaren kaval, lele, svirnue.",
+       "en": "with a colourful flute, oh, he plays."
+      },
+      {
+       "cyr": "Со шарен кавал мале свирнуе, леле,",
+       "lat": "So šaren kaval male svirnue, lele,",
+       "en": "With a colourful flute, mother, he plays, oh,"
+      },
+      {
+       "cyr": "со десно око, море, мигнуе.",
+       "lat": "so desno oko, more, mignue.",
+       "en": "with his right eye, hey, he winks."
+      },
+      {
+       "cyr": "Со десно око, море, мигнуе леле,",
+       "lat": "So desno oko, more, mignue lele,",
+       "en": "With his right eye, hey, he winks, oh,"
+      },
+      {
+       "cyr": "со лева рака, море, дигнуе.",
+       "lat": "so leva raka, more, dignue.",
+       "en": "with his left hand, hey, he raises it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,220 @@
+{
+ "id": 150,
+ "slug": "oj-jano-jano",
+ "title_cyr": "Ој Јано, Јано",
+ "title_latin": "Oj Jano, Jano",
+ "title_en": "Hey, Jana, Jana",
+ "pesna_url": "https://pesna.org/song/150",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Сара Сталевска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Александра Поповска",
+  "Андријана Јаневска",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Драган Даутовски квартет",
+  "Калиопи",
+  "Каролина Гочева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/71"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/72"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/73"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Калиопи",
+   "url": "https://pesna.org/audio-download/1811"
+  },
+  {
+   "who": "Каролина Гочева",
+   "url": "https://pesna.org/audio-download/2387"
+  },
+  {
+   "who": "Андријана Јаневска",
+   "url": "https://pesna.org/audio-download/2388"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Јано, Јано, убава Јано",
+       "lat": "Oj Jano, Jano, ubava Jano",
+       "en": "- Hey, Jana, Jana, pretty Jana"
+      },
+      {
+       "cyr": "од едната страна Јано",
+       "lat": "od ednata strana Jano",
+       "en": "from one side, Jana"
+      },
+      {
+       "cyr": "сонце те грее,",
+       "lat": "sonce te gree,",
+       "en": "the Sun is warming you,"
+      },
+      {
+       "cyr": "од другата страна Јано",
+       "lat": "od drugata strana Jano",
+       "en": "from the other side, Jana"
+      },
+      {
+       "cyr": "јасна месечина.",
+       "lat": "jasna mesečina.",
+       "en": "the clear Moon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Какво фајде Јано мори",
+       "lat": "Kakvo fajde Jano mori",
+       "en": "What’s the use, Jana"
+      },
+      {
+       "cyr": "што сме си богати,",
+       "lat": "što sme si bogati,",
+       "en": "of us being rich,"
+      },
+      {
+       "cyr": "кога од срцето Јано",
+       "lat": "koga od srceto Jano",
+       "en": "when, from your heart, Jana"
+      },
+      {
+       "cyr": "ти порода немаш?",
+       "lat": "ti poroda nemaš?",
+       "en": "you don’t have children?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Јано, Јано, убава Јано",
+       "lat": "Oj Jano, Jano, ubava Jano",
+       "en": "Hey Jana, Jana, pretty Jana"
+      },
+      {
+       "cyr": "дали е од Бога Јано,",
+       "lat": "dali e od Boga Jano,",
+       "en": "is it from God, Jana,"
+      },
+      {
+       "cyr": "или е од чинка",
+       "lat": "ili e od činka",
+       "en": "or did something happen to us,"
+      },
+      {
+       "cyr": "дали е од тебе Јано,",
+       "lat": "dali e od tebe Jano,",
+       "en": "or is it because of you, Jano"
+      },
+      {
+       "cyr": "или е од мене?",
+       "lat": "ili e od mene?",
+       "en": "or is it because of me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене ме е мајка лудо,",
+       "lat": "Mene me e majka ludo,",
+       "en": "- My mother, crazy lad,"
+      },
+      {
+       "cyr": "лудо проколнала,",
+       "lat": "ludo prokolnala,",
+       "en": "crazy, she cursed me,"
+      },
+      {
+       "cyr": "мајка проколнала Стојан,",
+       "lat": "majka prokolnala Stojan,",
+       "en": "my mother cursed me, Stojan,"
+      },
+      {
+       "cyr": "клела, говорила.",
+       "lat": "klela, govorila.",
+       "en": "cursed and said:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Јано, Јано, леле мила ќерко",
+       "lat": "Oj Jano, Jano, lele mila ḱerko",
+       "en": "- Hey Jana, Jana, oh my dear daughter"
+      },
+      {
+       "cyr": "лика спроти тебе Јано",
+       "lat": "lika sproti tebe Jano",
+       "en": "a face in your liking"
+      },
+      {
+       "cyr": "друга да не родиш,",
+       "lat": "druga da ne rodiš,",
+       "en": "may you never gave birth to,"
+      },
+      {
+       "cyr": "оти ноќе плачеш ќерко,",
+       "lat": "oti noḱe plačeš ḱerko,",
+       "en": "because at night you cry,"
+      },
+      {
+       "cyr": "а дење си спиеш.",
+       "lat": "a denje si spieš.",
+       "en": "and you sleep at day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти на мајка мила Јано",
+       "lat": "Ti na majka mila Jano",
+       "en": "You, my dear child, Jana"
+      },
+      {
+       "cyr": "многу починуеш,",
+       "lat": "mnogu počinueš,",
+       "en": "are bothering me a lot,"
+      },
+      {
+       "cyr": "од срцето рода Јано",
+       "lat": "od srceto roda Jano",
+       "en": "so from your heart a child, Jana,"
+      },
+      {
+       "cyr": "ти да не си имаш.",
+       "lat": "ti da ne si imaš.",
+       "en": "may you never have."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,265 @@
+{
+ "id": 243,
+ "slug": "vrana-konja-javam-jas",
+ "title_cyr": "Врана коња јавам јас",
+ "title_latin": "Vrana konja javam jas",
+ "title_en": "I’m riding a black horse",
+ "pesna_url": "https://pesna.org/song/243",
+ "background": "A courtship-chase song. He rides a bay mare to fetch the bride and wonders whether they will give her up. In the village square the drum beats and the oro winds, and one girl leads it. Her father would give her; the village won't, because she is beautiful. His plan B: stay on as a village servant just to watch her.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Сара Сталевска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасиа Митровска",
+  "Ацо Андонов",
+  "Благица Калева",
+  "Болеробенд",
+  "Јонче Христовски",
+  "Македонски мерак",
+  "Никола Бадев",
+  "Оркестар на Златко Миладиноски",
+  "Пет плус",
+  "Kazuhiro Kotetsu"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/272"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/273"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/274"
+  },
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/275"
+  },
+  {
+   "who": "Благица Калева",
+   "url": "https://pesna.org/audio-download/276"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1777"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3633"
+  },
+  {
+   "who": "Анастасиа Митровска, Оркестар на Златко Миладиноски",
+   "url": "https://pesna.org/audio-download/4171"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/4439"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Врана коња јавам јас,",
+       "lat": "Vrana konja javam jas,",
+       "en": "I’m riding a black horse,"
+      },
+      {
+       "cyr": "одам по невестата.",
+       "lat": "odam po nevestata.",
+       "en": "I’m going to get my bride."
+      },
+      {
+       "cyr": "Врана коња јавам јас,",
+       "lat": "Vrana konja javam jas,",
+       "en": "I’m riding a black horse,"
+      },
+      {
+       "cyr": "одам по невестата.",
+       "lat": "odam po nevestata.",
+       "en": "I’m going to get my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одам по невестата,",
+       "lat": "Odam po nevestata,",
+       "en": "I’m going to get my bride,"
+      },
+      {
+       "cyr": "дал' ќе ми ја дадат?",
+       "lat": "dal' ḱe mi ja dadat?",
+       "en": "but will they give her to me?"
+      },
+      {
+       "cyr": "Одам по невестата,",
+       "lat": "Odam po nevestata,",
+       "en": "I’m going to get my bride,"
+      },
+      {
+       "cyr": "дал' ќе ми ја дадат?",
+       "lat": "dal' ḱe mi ja dadat?",
+       "en": "but will they give her to me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сред село тапан чука,",
+       "lat": "Na sred selo tapan čuka,",
+       "en": "In the middle of the village the drum is playing,"
+      },
+      {
+       "cyr": "оро се вие.",
+       "lat": "oro se vie.",
+       "en": "the oro is curling."
+      },
+      {
+       "cyr": "На сред село тапан чука,",
+       "lat": "Na sred selo tapan čuka,",
+       "en": "In the middle of the village the drum is playing,"
+      },
+      {
+       "cyr": "оро се вие.",
+       "lat": "oro se vie.",
+       "en": "the oro is curling."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оро се вие,",
+       "lat": "Oro se vie,",
+       "en": "The oro is curling,"
+      },
+      {
+       "cyr": "мома водеше.",
+       "lat": "moma vodeše.",
+       "en": "the girl is leading it."
+      },
+      {
+       "cyr": "Мома водеше,",
+       "lat": "Moma vodeše,",
+       "en": "The girl is leading it,"
+      },
+      {
+       "cyr": "оро красеше.",
+       "lat": "oro kraseše.",
+       "en": "she is a jewel in that oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко ѝ ја дава,",
+       "lat": "Tatko ì ja dava,",
+       "en": "Her father is giving her to me,"
+      },
+      {
+       "cyr": "село не ја дава.",
+       "lat": "selo ne ja dava.",
+       "en": "but the village people won’t give her to me."
+      },
+      {
+       "cyr": "Татко ѝ ја дава,",
+       "lat": "Tatko ì ja dava,",
+       "en": "Her father is giving her to me,"
+      },
+      {
+       "cyr": "село не ја дава.",
+       "lat": "selo ne ja dava.",
+       "en": "but the village people won’t give her to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Село не ја дава,",
+       "lat": "Selo ne ja dava,",
+       "en": "The village people won’t give her to me,"
+      },
+      {
+       "cyr": "оти е убава.",
+       "lat": "oti e ubava.",
+       "en": "because she is beautiful."
+      },
+      {
+       "cyr": "Село не ја дава,",
+       "lat": "Selo ne ja dava,",
+       "en": "The village people won’t give her to me,"
+      },
+      {
+       "cyr": "оти е убава.",
+       "lat": "oti e ubava.",
+       "en": "because she is beautiful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе умрам мајко, загинам,",
+       "lat": "Ḱe umram majko, zaginam,",
+       "en": "I’ll die, mother, I’ll perish,"
+      },
+      {
+       "cyr": "без неа дома не одам.",
+       "lat": "bez nea doma ne odam.",
+       "en": "I’m not coming back home without her."
+      },
+      {
+       "cyr": "Ќе умрам мајко, загинам,",
+       "lat": "Ḱe umram majko, zaginam,",
+       "en": "I’ll die, mother, I’ll perish,"
+      },
+      {
+       "cyr": "без неа дома не одам.",
+       "lat": "bez nea doma ne odam.",
+       "en": "I’m not coming back home without her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В село слуга ќе бидам,",
+       "lat": "V selo sluga ḱe bidam,",
+       "en": "I’ll be a servant in the village,"
+      },
+      {
+       "cyr": "само неа да земам.",
+       "lat": "samo nea da zemam.",
+       "en": "only if they let me take her."
+      },
+      {
+       "cyr": "В село слуга ќе бидам,",
+       "lat": "V selo sluga ḱe bidam,",
+       "en": "I’ll be a servant in the village,"
+      },
+      {
+       "cyr": "само неа да земам.",
+       "lat": "samo nea da zemam.",
+       "en": "only if they let me take her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

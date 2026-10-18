@@ -1,0 +1,169 @@
+{
+ "id": 1327,
+ "slug": "lerin-kostur-raspeani",
+ "title_cyr": "Лерин, Костур распеани",
+ "title_latin": "Lerin, Kostur raspeani",
+ "title_en": "Lerin and Kostur, sung about",
+ "pesna_url": "https://pesna.org/song/1327",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (diaspora-themed). Lerin = Florina, Kostur = Kastoria; Banitsa, Armenochori and Nevoleni are villages in Aegean Macedonia. Stanza 3 is partly my reading ('Ора коњчето' perhaps 'ора' = oh).",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, word"
+  },
+  {
+   "mk": "измачена",
+   "en": "tormented"
+  },
+  {
+   "mk": "славна",
+   "en": "glorious"
+  },
+  {
+   "mk": "печалбарска",
+   "en": "of migrant workers (pechalbari)"
+  },
+  {
+   "mk": "соколи",
+   "en": "falcons"
+  },
+  {
+   "mk": "јуначка",
+   "en": "heroic"
+  },
+  {
+   "mk": "запеаа",
+   "en": "they began to sing"
+  },
+  {
+   "mk": "оро",
+   "en": "horo, circle dance"
+  },
+  {
+   "mk": "заборават",
+   "en": "they forget"
+  },
+  {
+   "mk": "минати",
+   "en": "past, gone by"
+  }
+ ],
+ "performers": [
+  "Бисер Торонто"
+ ],
+ "audio": [
+  {
+   "who": "Бисер Торонто",
+   "url": "https://pesna.org/audio-download/3387"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абер пристигна од далечина",
+       "lat": "Aber pristigna od dalečina",
+       "en": "News came from afar,"
+      },
+      {
+       "cyr": "Од измачена Македонија",
+       "lat": "Od izmačena Makedonija",
+       "en": "from tormented Macedonia,"
+      },
+      {
+       "cyr": "Славна Баница печалбарска",
+       "lat": "Slavna Banica pečalbarska",
+       "en": "glorious Banitsa of the migrant workers"
+      },
+      {
+       "cyr": "aбер испраќа за Канада.",
+       "lat": "aber ispraḱa za Kanada.",
+       "en": "sends word to Canada."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лерин, Костур распеани",
+       "lat": "Lerin, Kostur raspeani",
+       "en": "Lerin, Kostur, sung about,"
+      },
+      {
+       "cyr": "Силни македонски соколи",
+       "lat": "Silni makedonski sokoli",
+       "en": "strong Macedonian falcons,"
+      },
+      {
+       "cyr": "Песна јуначка запеаа",
+       "lat": "Pesna junačka zapeaa",
+       "en": "they began a heroic song"
+      },
+      {
+       "cyr": "За нашата Македонија.",
+       "lat": "Za našata Makedonija.",
+       "en": "for our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ора коњчето, лета соколе",
+       "lat": "Ora konjčeto, leta sokole",
+       "en": "The little horse, oh, flies, falcon,"
+      },
+      {
+       "cyr": "Арменорчени оро играле",
+       "lat": "Armenorčeni oro igrale",
+       "en": "Armenochori danced the horo,"
+      },
+      {
+       "cyr": "оро развиле до Неволени",
+       "lat": "oro razvile do Nevoleni",
+       "en": "they spread the horo to Nevoleni,"
+      },
+      {
+       "cyr": "дан' заборават деној минати.",
+       "lat": "dan' zaboravat denoj minati.",
+       "en": "so they forget the days gone by."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лерин, Костур распеани",
+       "lat": "Lerin, Kostur raspeani",
+       "en": "Lerin, Kostur, sung about,"
+      },
+      {
+       "cyr": "Силни македонски соколи",
+       "lat": "Silni makedonski sokoli",
+       "en": "strong Macedonian falcons,"
+      },
+      {
+       "cyr": "Песна јуначка запеаа",
+       "lat": "Pesna junačka zapeaa",
+       "en": "they began a heroic song"
+      },
+      {
+       "cyr": "За нашата Македонија.",
+       "lat": "Za našata Makedonija.",
+       "en": "for our Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

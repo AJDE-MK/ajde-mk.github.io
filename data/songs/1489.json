@@ -1,0 +1,124 @@
+{
+ "id": 1489,
+ "slug": "teljal-lichi-katil-gjorgji",
+ "title_cyr": "Тељал личи катил Ѓорѓи",
+ "title_latin": "Teljal liči katil Ǵorǵi",
+ "title_en": "A barker is shouting, angry Gjorgji",
+ "pesna_url": "https://pesna.org/song/1489",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Бонда Димишкова"
+ ],
+ "audio": [
+  {
+   "who": "Бонда Димишкова",
+   "url": "https://pesna.org/audio-download/3867"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тељал* личи, катил** Ѓорѓи,",
+       "lat": "Teljal* liči, katil** Ǵorǵi,",
+       "en": "A barker* is shouting, angry** Gjorgji,"
+      },
+      {
+       "cyr": "низ Солуна града,",
+       "lat": "niz Soluna grada,",
+       "en": "throughout the city of Solun,"
+      },
+      {
+       "cyr": "се продава, катил Ѓорѓи",
+       "lat": "se prodava, katil Ǵorǵi",
+       "en": "that they sell, angry Gjorgji"
+      },
+      {
+       "cyr": "една добра коња.",
+       "lat": "edna dobra konja.",
+       "en": "one good horse."
+      },
+      {
+       "cyr": "Ај, хај, катил Ѓорѓи,",
+       "lat": "Aj, haj, katil Ǵorǵi,",
+       "en": "Hey, angry Gjorgji,"
+      },
+      {
+       "cyr": "една добра коња.",
+       "lat": "edna dobra konja.",
+       "en": "one good horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи, кажи, катил Ѓорѓи,",
+       "lat": "- Kaži, kaži, katil Ǵorǵi,",
+       "en": "- Tell me, tell me angry Gjorgji,"
+      },
+      {
+       "cyr": "колку му е цена.",
+       "lat": "kolku mu e cena.",
+       "en": "what's it's price."
+      },
+      {
+       "cyr": "- Ај од тука, алин ќавур,***",
+       "lat": "- Aj od tuka, alin ḱavur,***",
+       "en": "- Go away from here, you infidel foreigner,***"
+      },
+      {
+       "cyr": "коња не продавам.",
+       "lat": "konja ne prodavam.",
+       "en": "I am not selling the horse."
+      },
+      {
+       "cyr": "Ај, хај, алин ќавур,",
+       "lat": "Aj, haj, alin ḱavur,",
+       "en": "Hey, you infidel foreigner,"
+      },
+      {
+       "cyr": "коња не продавам.",
+       "lat": "konja ne prodavam.",
+       "en": "I am not selling the horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Глава давам, алин ќавур,",
+       "lat": "Glava davam, alin ḱavur,",
+       "en": "I'll rather give my head, you infidel foreigner,"
+      },
+      {
+       "cyr": "коња не продавам.",
+       "lat": "konja ne prodavam.",
+       "en": "than sell my horse."
+      },
+      {
+       "cyr": "Ај, хај, алин ќавур,",
+       "lat": "Aj, haj, alin ḱavur,",
+       "en": "Hey, you infidel foreigner,"
+      },
+      {
+       "cyr": "коња не продавам.",
+       "lat": "konja ne prodavam.",
+       "en": "I am not selling the horse."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

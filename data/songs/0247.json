@@ -1,0 +1,151 @@
+{
+ "id": 247,
+ "slug": "ajde-pominuvam-zaminuvam",
+ "title_cyr": "Ајде поминувам, заминувам",
+ "title_latin": "Ajde pominuvam, zaminuvam",
+ "title_en": "I'm on my way, I am setting off",
+ "pesna_url": "https://pesna.org/song/247",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: David Golber)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Бапчорки",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/1088"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/1089"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде поминувам мори, заминувам,",
+       "lat": "Ajde pominuvam mori, zaminuvam,",
+       "en": "I'm on my way, I am setting off"
+      },
+      {
+       "cyr": "на бел камен починувам,",
+       "lat": "na bel kamen počinuvam,",
+       "en": "I rest at white rock"
+      },
+      {
+       "cyr": "на бел камен починувам.",
+       "lat": "na bel kamen počinuvam.",
+       "en": "I rest at white rock."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде запитувам мори, попитувам,",
+       "lat": "Ajde zapituvam mori, popituvam,",
+       "en": "I beg, I ask"
+      },
+      {
+       "cyr": "дека седи калеш Грозда,",
+       "lat": "deka sedi kaleš Grozda,",
+       "en": "where dark Grozda lives"
+      },
+      {
+       "cyr": "дека седи калеш Грозда.",
+       "lat": "deka sedi kaleš Grozda.",
+       "en": "where dark Grozda lives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде калеш Грозда мори, калеш Грозда",
+       "lat": "Ajde kaleš Grozda mori, kaleš Grozda",
+       "en": "Oh dark Grozda"
+      },
+      {
+       "cyr": "калеш Грозда вапцарката,",
+       "lat": "kaleš Grozda vapcarkata,",
+       "en": "dark Grozda the dyer"
+      },
+      {
+       "cyr": "калеш Грозда вапцарката.",
+       "lat": "kaleš Grozda vapcarkata.",
+       "en": "dark Grozda the dyer."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде да ми вапца мори, да ми вапца",
+       "lat": "Ajde da mi vapca mori, da mi vapca",
+       "en": "Dye for me"
+      },
+      {
+       "cyr": "да ми вапца два барјаци,",
+       "lat": "da mi vapca dva barjaci,",
+       "en": "dye for me two flags"
+      },
+      {
+       "cyr": "да ми вапца два барјаци.",
+       "lat": "da mi vapca dva barjaci.",
+       "en": "dye for me two flags."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде еден зелен мори, еден зелен,",
+       "lat": "Ajde eden zelen mori, eden zelen,",
+       "en": "One green, one green"
+      },
+      {
+       "cyr": "еден зелен, другио црвен,",
+       "lat": "eden zelen, drugio crven,",
+       "en": "one green, the other red"
+      },
+      {
+       "cyr": "еден зелен, другио црвен.",
+       "lat": "eden zelen, drugio crven.",
+       "en": "one green, the other red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде зелениот мори, за на свадба,",
+       "lat": "Ajde zeleniot mori, za na svadba,",
+       "en": "The green one for a wedding"
+      },
+      {
+       "cyr": "црвениот за на бојот,",
+       "lat": "crveniot za na bojot,",
+       "en": "the red one for the battle"
+      },
+      {
+       "cyr": "црвениот за на бојот.",
+       "lat": "crveniot za na bojot.",
+       "en": "the red one for the battle."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

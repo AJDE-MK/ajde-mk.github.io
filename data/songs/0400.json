@@ -1,0 +1,167 @@
+{
+ "id": 400,
+ "slug": "shto-si-pominav-i-se-prelagav",
+ "title_cyr": "Што си поминав и се прелагав",
+ "title_latin": "Što si pominav i se prelagav",
+ "title_en": "How I wandered and fooled around",
+ "pesna_url": "https://pesna.org/song/400",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Се прелагав' is my reading (dawdled or idled as I passed); 'ѝ потропнав' with the foot is taken as a stamp or foot-tap signal.",
+ "words_to_learn": [
+  {
+   "mk": "поминав",
+   "en": "I passed by"
+  },
+  {
+   "mk": "се прелагав",
+   "en": "I lingered, fooled around (my reading)"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "лични",
+   "en": "fair, comely"
+  },
+  {
+   "mk": "пазуви",
+   "en": "bosom, inside of the shirt"
+  },
+  {
+   "mk": "намигна",
+   "en": "winked"
+  },
+  {
+   "mk": "фрли",
+   "en": "threw"
+  },
+  {
+   "mk": "потропнав",
+   "en": "I stamped (my foot)"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Куцулова, Ѓорѓи Андреевски",
+   "url": "https://pesna.org/audio-download/1518"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што си поминав и се прелагав",
+       "lat": "Što si pominav i se prelagav",
+       "en": "How I passed by and lingered"
+      },
+      {
+       "cyr": "покрај трите, најубавите,",
+       "lat": "pokraj trite, najubavite,",
+       "en": "by the three, the most beautiful,"
+      },
+      {
+       "cyr": "лични како црвен трендафил.",
+       "lat": "lični kako crven trendafil.",
+       "en": "fair like a red rose."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трите на порти стоеја,",
+       "lat": "Trite na porti stoeja,",
+       "en": "The three stood at the gate,"
+      },
+      {
+       "cyr": "личните сестри убави,",
+       "lat": "ličnite sestri ubavi,",
+       "en": "the fair, beautiful sisters,"
+      },
+      {
+       "cyr": "китки трендафил носеа,",
+       "lat": "kitki trendafil nosea,",
+       "en": "they carried sprigs of rose,"
+      },
+      {
+       "cyr": "китки трендафил в' пазуви,",
+       "lat": "kitki trendafil v' pazuvi,",
+       "en": "sprigs of rose in their bosoms,"
+      },
+      {
+       "cyr": "а најмалото носеше",
+       "lat": "a najmaloto noseše",
+       "en": "and the youngest carried"
+      },
+      {
+       "cyr": "китка трендафил на гради.",
+       "lat": "kitka trendafil na gradi.",
+       "en": "a sprig of rose on her chest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А најмалото најубавото,",
+       "lat": "A najmaloto najubavoto,",
+       "en": "And the youngest, the most beautiful,"
+      },
+      {
+       "cyr": "со око што ми намигна,",
+       "lat": "so oko što mi namigna,",
+       "en": "winked at me with her eye,"
+      },
+      {
+       "cyr": "со китка фрли по мене,",
+       "lat": "so kitka frli po mene,",
+       "en": "threw a sprig at me,"
+      },
+      {
+       "cyr": "со китка црвен трендафил.",
+       "lat": "so kitka crven trendafil.",
+       "en": "a sprig of red rose."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Китка трендафил си зедов",
+       "lat": "Kitka trendafil si zedov",
+       "en": "I took the sprig of rose"
+      },
+      {
+       "cyr": "и знак за љубов ѝ дадов,",
+       "lat": "i znak za ljubov ì dadov,",
+       "en": "and gave her a sign of love,"
+      },
+      {
+       "cyr": "со око што ѝ намигнав,",
+       "lat": "so oko što ì namignav,",
+       "en": "with the eye I winked at her,"
+      },
+      {
+       "cyr": "со нога што ѝ потропнав.",
+       "lat": "so noga što ì potropnav.",
+       "en": "with the foot I stamped for her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

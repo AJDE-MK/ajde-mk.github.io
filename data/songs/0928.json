@@ -1,0 +1,262 @@
+{
+ "id": 928,
+ "slug": "vo-krushevo-ogan-gori",
+ "title_cyr": "Во Крушево оган гори",
+ "title_latin": "Vo Kruševo ogan gori",
+ "title_en": "Fire burns in Krushevo",
+ "pesna_url": "https://pesna.org/song/928",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "КУД Мирче Ацев",
+  "Цветан Јошевски",
+  "Andy Irvine",
+  "Davy Spillane",
+  "Next Time"
+ ],
+ "audio": [
+  {
+   "who": "Andy Irvine, Davy Spillane",
+   "url": "https://pesna.org/audio-download/2100"
+  },
+  {
+   "who": "Цветан Јошевски",
+   "url": "https://pesna.org/audio-download/2265"
+  },
+  {
+   "who": "КУД Мирче Ацев",
+   "url": "https://pesna.org/audio-download/2331"
+  },
+  {
+   "who": "Next Time",
+   "url": "https://pesna.org/audio-download/3766"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во Крушево оган гори,",
+       "lat": "Vo Kruševo ogan gori,",
+       "en": "Fire burns in Krushevo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Крушево густа магла,",
+       "lat": "vo Kruševo gusta magla,",
+       "en": "in Krushevo there is thick fog.",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Крушево густа магла,",
+       "lat": "vo Kruševo gusta magla,",
+       "en": "In Krushevo, thick fog,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мечкин Камен крв се лее.",
+       "lat": "Mečkin Kamen krv se lee.",
+       "en": "blood is shed at Mechkin Kamen.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мечкин Камен крв се лее,",
+       "lat": "Mečkin Kamen krv se lee,",
+       "en": "Blood is shed at Mechkin Kamen,",
+       "en_mt": false
+      },
+      {
+       "cyr": "там' се бијат три војводи,",
+       "lat": "tam' se bijat tri vojvodi,",
+       "en": "three vojvodas are fighting there.",
+       "en_mt": false
+      },
+      {
+       "cyr": "там' се бијат три војводи,",
+       "lat": "tam' se bijat tri vojvodi,",
+       "en": "Three vojvodas are fighting there,",
+       "en_mt": false
+      },
+      {
+       "cyr": "турска војска три илјади.",
+       "lat": "turska vojska tri iljadi.",
+       "en": "against 3000-strong Turkish army.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прв војвода Даме Груев,",
+       "lat": "Prv vojvoda Dame Gruev,",
+       "en": "First vojvoda Dame Gruev,",
+       "en_mt": false
+      },
+      {
+       "cyr": "втор војвода Питу Гули,",
+       "lat": "vtor vojvoda Pitu Guli,",
+       "en": "second vojvoda Pitu Guli.",
+       "en_mt": false
+      },
+      {
+       "cyr": "втор војвода Питу Гули,",
+       "lat": "vtor vojvoda Pitu Guli,",
+       "en": "Second vojvoda Pitu Guli,",
+       "en_mt": false
+      },
+      {
+       "cyr": "а третиот Алабакот.",
+       "lat": "a tretiot Alabakot.",
+       "en": "and the third one, Alabakot.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во Крушево оган гори,",
+       "lat": "Vo Kruševo ogan gori,",
+       "en": "Fire burns in Krushevo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Крушево густа магла.",
+       "lat": "vo Kruševo gusta magla.",
+       "en": "in Krushevo there is thick fog.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Там' се бијат три војводи,",
+       "lat": "Tam' se bijat tri vojvodi,",
+       "en": "Three vojvodas are fighting there,",
+       "en_mt": false
+      },
+      {
+       "cyr": "три војводи - три јунаци.",
+       "lat": "tri vojvodi - tri junaci.",
+       "en": "three vojvodas, three heroes.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први беше Питу Гули,",
+       "lat": "Prvi beše Pitu Guli,",
+       "en": "The first was Pitu Guli,",
+       "en_mt": true
+      },
+      {
+       "cyr": "други беше Караѓуле.",
+       "lat": "drugi beše Karaǵule.",
+       "en": "the second was Karagule.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Други беше Караѓуле,",
+       "lat": "Drugi beše Karaǵule,",
+       "en": "The second was Karagule,",
+       "en_mt": true
+      },
+      {
+       "cyr": "треќи Блаже Биринчето.",
+       "lat": "treḱi Blaže Birinčeto.",
+       "en": "the third Blaze Birincheto.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Патроните се свршија,",
+       "lat": "Patronite se svršija,",
+       "en": "The cartridges ran out,",
+       "en_mt": true
+      },
+      {
+       "cyr": "в' малихери им останаа.",
+       "lat": "v' maliheri im ostanaa.",
+       "en": "only Mannlicher rifles were left to them.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Им остана уште по еден,",
+       "lat": "Im ostana ušte po eden,",
+       "en": "They had one more bullet each left,",
+       "en_mt": true
+      },
+      {
+       "cyr": "за сами да се убијат.",
+       "lat": "za sami da se ubijat.",
+       "en": "to kill themselves.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За сами да се убијат,",
+       "lat": "Za sami da se ubijat,",
+       "en": "To kill themselves,",
+       "en_mt": true
+      },
+      {
+       "cyr": "на мира да не се даваат,",
+       "lat": "na mira da ne se davaat,",
+       "en": "not to surrender in peace,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да ги носат на Бит Пазар,",
+       "lat": "da gi nosat na Bit Pazar,",
+       "en": "to be taken to Bit Pazar,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да им земат аманетот.",
+       "lat": "da im zemat amanetot.",
+       "en": "to have their last breath taken.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Да ги носат, да ги бесат,",
+       "lat": "Da gi nosat, da gi besat,",
+       "en": "To be carried off, to be hanged,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да им земат аманетот.",
+       "lat": "da im zemat amanetot.",
+       "en": "to have their last breath taken.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

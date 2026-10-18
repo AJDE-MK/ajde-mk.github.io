@@ -1,0 +1,157 @@
+{
+ "id": 853,
+ "slug": "bojot-zapochna-gore-krushevo",
+ "title_cyr": "Бојот започна горе Крушево",
+ "title_latin": "Bojot započna gore Kruševo",
+ "title_en": "The Battle Began Above Kruševo",
+ "pesna_url": "https://pesna.org/song/853",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Ilinden-uprising song about Pitu Guli (Mečkin Kamen, Kruševo, 1903); treated as traditional. 'Горе Крушево' rendered as 'above Kruševo' in my reading.",
+ "words_to_learn": [
+  {
+   "mk": "бој",
+   "en": "battle"
+  },
+  {
+   "mk": "горе",
+   "en": "above, up at"
+  },
+  {
+   "mk": "славно",
+   "en": "gloriously"
+  },
+  {
+   "mk": "загина",
+   "en": "perished, was killed"
+  },
+  {
+   "mk": "падна",
+   "en": "fell"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "бие се",
+   "en": "fights"
+  },
+  {
+   "mk": "пискаат",
+   "en": "shriek, squeal"
+  },
+  {
+   "mk": "крв",
+   "en": "blood"
+  }
+ ],
+ "performers": [
+  "Борис Ангелковски",
+  "Непознат изведувач",
+  "Оркестар на АРМ",
+  "Радио студио Скопје",
+  "Симеон Гугуловски"
+ ],
+ "audio": [
+  {
+   "who": "Симеон Гугуловски",
+   "url": "https://pesna.org/audio-download/1852"
+  },
+  {
+   "who": "Оркестар на АРМ",
+   "url": "https://pesna.org/audio-download/1853"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1854"
+  },
+  {
+   "who": "Борис Ангелковски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2979"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бојот започна горе Крушево,",
+       "lat": "Bojot započna gore Kruševo,",
+       "en": "The battle began above Kruševo,"
+      },
+      {
+       "cyr": "горе Крушево, на Мечкин Камен.",
+       "lat": "gore Kruševo, na Mečkin Kamen.",
+       "en": "above Kruševo, at Mečkin Kamen."
+      },
+      {
+       "cyr": "Питу Гули славно загина,",
+       "lat": "Pitu Guli slavno zagina,",
+       "en": "Pitu Guli died gloriously,"
+      },
+      {
+       "cyr": "славно падна за Македонија.",
+       "lat": "slavno padna za Makedonija.",
+       "en": "he fell gloriously for Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму се бие тој славен јунак,",
+       "lat": "Tamu se bie toj slaven junak,",
+       "en": "There he fights, that glorious hero,"
+      },
+      {
+       "cyr": "тој славен јунак, тој Питу Гули.",
+       "lat": "toj slaven junak, toj Pitu Guli.",
+       "en": "that glorious hero, that Pitu Guli."
+      },
+      {
+       "cyr": "Питу Гули славно загина,",
+       "lat": "Pitu Guli slavno zagina,",
+       "en": "Pitu Guli died gloriously,"
+      },
+      {
+       "cyr": "славно падна за Македонија.",
+       "lat": "slavno padna za Makedonija.",
+       "en": "he fell gloriously for Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жените плачат, децата пискаат,",
+       "lat": "Ženite plačat, decata piskaat,",
+       "en": "The women weep, the children shriek,"
+      },
+      {
+       "cyr": "а крв се лее на Мечкин Камен.",
+       "lat": "a krv se lee na Mečkin Kamen.",
+       "en": "and blood flows at Mečkin Kamen."
+      },
+      {
+       "cyr": "Питу Гули славно загина,",
+       "lat": "Pitu Guli slavno zagina,",
+       "en": "Pitu Guli died gloriously,"
+      },
+      {
+       "cyr": "славно падна за Македонија.",
+       "lat": "slavno padna za Makedonija.",
+       "en": "he fell gloriously for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,193 @@
+{
+ "id": 191,
+ "slug": "pesna-za-lazar-poptrajkov",
+ "title_cyr": "Песна за Лазар Поптрајков",
+ "title_latin": "Pesna za Lazar Poptrajkov",
+ "title_en": "Song for Lazar Poptrajkov",
+ "pesna_url": "https://pesna.org/song/191",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Old regional (Kostur area) song about a real figure; the name appears as Papatrajkov and Poptrajkov in the source. 'деспот' is my reading as 'bishop'; 'Лисец' is a mountain name.",
+ "words_to_learn": [
+  {
+   "mk": "зашчо",
+   "en": "why (dialect: зошто)"
+  },
+  {
+   "mk": "жалваш",
+   "en": "you mourn"
+  },
+  {
+   "mk": "магла",
+   "en": "fog"
+  },
+  {
+   "mk": "заклаја",
+   "en": "they slaughtered"
+  },
+  {
+   "mk": "отрежаа",
+   "en": "they cut off"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "gift, tip (Turkish-origin)"
+  },
+  {
+   "mk": "деспот",
+   "en": "bishop (Church title)"
+  },
+  {
+   "mk": "ѕвер",
+   "en": "beast"
+  },
+  {
+   "mk": "Бог да прости",
+   "en": "God forgive / rest his soul"
+  },
+  {
+   "mk": "началник",
+   "en": "chief, leader"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1324"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зашчо плачиш, зашчо жалваш,",
+       "lat": "Zaščo plačiš, zaščo žalvaš,",
+       "en": "Why do you weep, why do you mourn,"
+      },
+      {
+       "cyr": "ти високи Лисец,",
+       "lat": "ti visoki Lisec,",
+       "en": "you high Lisec,"
+      },
+      {
+       "cyr": "зашчо с' магла се покриваш",
+       "lat": "zaščo s' magla se pokrivaš",
+       "en": "why do you cover yourself with fog"
+      },
+      {
+       "cyr": "од горе до долу?",
+       "lat": "od gore do dolu?",
+       "en": "from top to bottom?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе плачам, јас ќе жалвам,",
+       "lat": "Jas ḱe plačam, jas ḱe žalvam,",
+       "en": "I will weep, I will mourn,"
+      },
+      {
+       "cyr": "дор до век и веков,",
+       "lat": "dor do vek i vekov,",
+       "en": "forever and ever,"
+      },
+      {
+       "cyr": "зашчо видов как' заклаја",
+       "lat": "zaščo vidov kak' zaklaja",
+       "en": "because I saw how they slaughtered"
+      },
+      {
+       "cyr": "Лазо Папатрајков.",
+       "lat": "Lazo Papatrajkov.",
+       "en": "Lazo Papatrajkov."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Отрежаа му главата",
+       "lat": "Otrežaa mu glavata",
+       "en": "They cut off his head"
+      },
+      {
+       "cyr": "за пендесет лири,",
+       "lat": "za pendeset liri,",
+       "en": "for fifty lira,"
+      },
+      {
+       "cyr": "однесоа ја во Костур,",
+       "lat": "odnesoa ja vo Kostur,",
+       "en": "they carried it to Kostur,"
+      },
+      {
+       "cyr": "бакшиш на деспотот.",
+       "lat": "bakšiš na despotot.",
+       "en": "a gift for the bishop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Колку жално, срамно ести",
+       "lat": "Kolku žalno, sramno esti",
+       "en": "How sad and shameful it is"
+      },
+      {
+       "cyr": "за грчкиот деспот,",
+       "lat": "za grčkiot despot,",
+       "en": "for the Greek bishop,"
+      },
+      {
+       "cyr": "шчо го плате ѕверот Коте",
+       "lat": "ščo go plate dzverot Kote",
+       "en": "who paid the beast Kote"
+      },
+      {
+       "cyr": "да заколи Лазо.",
+       "lat": "da zakoli Lazo.",
+       "en": "to slaughter Lazo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да кажеме: „Бог да прости",
+       "lat": "Aj da kažeme: „Bog da prosti",
+       "en": "Come, let us say: 'God forgive"
+      },
+      {
+       "cyr": "Лазо Поптрајков“!",
+       "lat": "Lazo Poptrajkov“!",
+       "en": "Lazo Poptrajkov!'"
+      },
+      {
+       "cyr": "Првиот и најголемиот",
+       "lat": "Prviot i najgolemiot",
+       "en": "The first and greatest"
+      },
+      {
+       "cyr": "костурски началник.",
+       "lat": "kosturski načalnik.",
+       "en": "chief of Kostur."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

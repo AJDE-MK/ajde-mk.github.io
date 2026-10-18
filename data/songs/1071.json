@@ -1,0 +1,175 @@
+{
+ "id": 1071,
+ "slug": "chuj-gi-kume-svirachite",
+ "title_cyr": "Чуј ги куме свирачите",
+ "title_latin": "Čuj gi kume sviračite",
+ "title_en": "Listen to the Musicians, Best Man",
+ "pesna_url": "https://pesna.org/song/1071",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: no author I can name. 'во небрано си фатен' is my reading ('caught in the unpicked', an idiom I am unsure of); 'ќесето ти изгоре' is a joking phrase about the best man spending his money.",
+ "words_to_learn": [
+  {
+   "mk": "кум",
+   "en": "best man, godfather"
+  },
+  {
+   "mk": "свирачи",
+   "en": "musicians"
+  },
+  {
+   "mk": "мераклиска",
+   "en": "full of merak (relish, longing)"
+  },
+  {
+   "mk": "венчавка",
+   "en": "wedding ceremony"
+  },
+  {
+   "mk": "крштевка",
+   "en": "christening"
+  },
+  {
+   "mk": "ќесе",
+   "en": "purse"
+  },
+  {
+   "mk": "наздравиме",
+   "en": "let us toast"
+  },
+  {
+   "mk": "златен",
+   "en": "golden (dear)"
+  }
+ ],
+ "performers": [
+  "Ѓоко Дончев",
+  "Оливер Алексовски"
+ ],
+ "audio": [
+  {
+   "who": "Ѓоко Дончев",
+   "url": "https://pesna.org/audio-download/2491"
+  },
+  {
+   "who": "Оливер Алексовски",
+   "url": "https://pesna.org/audio-download/2492"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Еј море, куме златен)",
+       "lat": "(Ej more, kume zlaten)",
+       "en": "(Hey, my golden best man)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чуј ги куме свирачите,",
+       "lat": "Čuj gi kume sviračite,",
+       "en": "Listen to the musicians, best man,"
+      },
+      {
+       "cyr": "што се слушаат од далеку,",
+       "lat": "što se slušaat od daleku,",
+       "en": "who can be heard from far away,"
+      },
+      {
+       "cyr": "со песна нивна мераклиска,",
+       "lat": "so pesna nivna merakliska,",
+       "en": "with their merak-filled song,"
+      },
+      {
+       "cyr": "свадба наша ќе веселат.",
+       "lat": "svadba naša ḱe veselat.",
+       "en": "they will cheer our wedding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море, куме златен,",
+       "lat": "Ej more, kume zlaten,",
+       "en": "Hey, golden best man,"
+      },
+      {
+       "cyr": "во небрано ти си фатен,",
+       "lat": "vo nebrano ti si faten,",
+       "en": "you are caught in the unpicked,"
+      },
+      {
+       "cyr": "еј море куме, бре,",
+       "lat": "ej more kume, bre,",
+       "en": "hey best man, hey,"
+      },
+      {
+       "cyr": "ќесето ти изгоре!",
+       "lat": "ḱeseto ti izgore!",
+       "en": "your purse is burned!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде куме на венчавка,",
+       "lat": "Ajde kume na venčavka,",
+       "en": "Come on, best man, to the wedding ceremony,"
+      },
+      {
+       "cyr": "чекај скоро и крштевка,",
+       "lat": "čekaj skoro i krštevka,",
+       "en": "soon wait for the christening too,"
+      },
+      {
+       "cyr": "мило чедо ние ќе имаме,",
+       "lat": "milo čedo nie ḱe imame,",
+       "en": "we will have a dear child,"
+      },
+      {
+       "cyr": "дојди куме да наздравиме.",
+       "lat": "dojdi kume da nazdravime.",
+       "en": "come, best man, let us raise a glass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море, куме златен,",
+       "lat": "Ej more, kume zlaten,",
+       "en": "Hey, golden best man,"
+      },
+      {
+       "cyr": "во небрано ти си фатен,",
+       "lat": "vo nebrano ti si faten,",
+       "en": "you are caught in the unpicked,"
+      },
+      {
+       "cyr": "еј море куме, бре,",
+       "lat": "ej more kume, bre,",
+       "en": "hey best man, hey,"
+      },
+      {
+       "cyr": "ќесето ти изгоре!",
+       "lat": "ḱeseto ti izgore!",
+       "en": "your purse is burned!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

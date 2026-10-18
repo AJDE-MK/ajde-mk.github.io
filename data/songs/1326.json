@@ -1,0 +1,201 @@
+{
+ "id": 1326,
+ "slug": "zapej-generacijo",
+ "title_cyr": "Запеј генерацијо",
+ "title_latin": "Zapej generacijo",
+ "title_en": "Sing, generation",
+ "pesna_url": "https://pesna.org/song/1326",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern song; origin unclear, I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "пријатели",
+   "en": "friends"
+  },
+  {
+   "mk": "заборавив",
+   "en": "I forgot"
+  },
+  {
+   "mk": "благословени",
+   "en": "blessed"
+  },
+  {
+   "mk": "развесели се",
+   "en": "cheer up"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "паметам",
+   "en": "I remember"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "делевме",
+   "en": "we shared"
+  }
+ ],
+ "performers": [
+  "Блага Петреска"
+ ],
+ "audio": [
+  {
+   "who": "Блага Петреска",
+   "url": "https://pesna.org/audio-download/3377"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мои пријатели стари,",
+       "lat": "Moi prijateli stari,",
+       "en": "My old friends,"
+      },
+      {
+       "cyr": "што има ново кај вас?",
+       "lat": "što ima novo kaj vas?",
+       "en": "what is new with you?"
+      },
+      {
+       "cyr": "Не сме се виделе долго,",
+       "lat": "Ne sme se videle dolgo,",
+       "en": "We have not seen each other for long,"
+      },
+      {
+       "cyr": "но не ве заборавив.",
+       "lat": "no ne ve zaboraviv.",
+       "en": "but I have not forgotten you."
+      },
+      {
+       "cyr": "Животот сите нè носи,",
+       "lat": "Životot site nè nosi,",
+       "en": "Life carries us all,"
+      },
+      {
+       "cyr": "сите на различни страни,",
+       "lat": "site na različni strani,",
+       "en": "all in different directions,"
+      },
+      {
+       "cyr": "добро е што пак ве сретнав,",
+       "lat": "dobro e što pak ve sretnav,",
+       "en": "it is good that I met you again,"
+      },
+      {
+       "cyr": "да сте благословени.",
+       "lat": "da ste blagosloveni.",
+       "en": "may you be blessed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запеј генерацијо,",
+       "lat": "Zapej generacijo,",
+       "en": "Sing, generation,"
+      },
+      {
+       "cyr": "запеј, развесели се,",
+       "lat": "zapej, razveseli se,",
+       "en": "sing, cheer up,"
+      },
+      {
+       "cyr": "што ни може времето",
+       "lat": "što ni može vremeto",
+       "en": "what can time do to us"
+      },
+      {
+       "cyr": "кога срца млади се.",
+       "lat": "koga srca mladi se.",
+       "en": "when our hearts are young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мои пријатели стари,",
+       "lat": "Moi prijateli stari,",
+       "en": "My old friends,"
+      },
+      {
+       "cyr": "времето свое си прави,",
+       "lat": "vremeto svoe si pravi,",
+       "en": "time makes its own way,"
+      },
+      {
+       "cyr": "но јас во срцето свое",
+       "lat": "no jas vo srceto svoe",
+       "en": "but in my heart"
+      },
+      {
+       "cyr": "чувам стари спомени.",
+       "lat": "čuvam stari spomeni.",
+       "en": "I keep old memories."
+      },
+      {
+       "cyr": "Паметам како ни беше,",
+       "lat": "Pametam kako ni beše,",
+       "en": "I remember how it was for us,"
+      },
+      {
+       "cyr": "ко вчера да беа дните,",
+       "lat": "ko včera da bea dnite,",
+       "en": "as if the days were yesterday,"
+      },
+      {
+       "cyr": "в' младоста добро и лошо",
+       "lat": "v' mladosta dobro i lošo",
+       "en": "in youth, the good and the bad"
+      },
+      {
+       "cyr": "сите ние делевме.",
+       "lat": "site nie delevme.",
+       "en": "we all shared."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запеј генерацијо,",
+       "lat": "Zapej generacijo,",
+       "en": "Sing, generation,"
+      },
+      {
+       "cyr": "запеј, развесели се,",
+       "lat": "zapej, razveseli se,",
+       "en": "sing, cheer up,"
+      },
+      {
+       "cyr": "што ни може времето",
+       "lat": "što ni može vremeto",
+       "en": "what can time do to us"
+      },
+      {
+       "cyr": "кога срца млади се.",
+       "lat": "koga srca mladi se.",
+       "en": "when our hearts are young."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

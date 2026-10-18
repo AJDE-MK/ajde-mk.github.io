@@ -1,0 +1,294 @@
+{
+ "id": 470,
+ "slug": "ajde-sonce-zajde",
+ "title_cyr": "Ајде сонце зајде",
+ "title_latin": "Ajde sonce zajde",
+ "title_en": "The sun is setting",
+ "pesna_url": "https://pesna.org/song/470",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Будимка Јовановиќ",
+  "Влатко Лозаноски",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Јордан Митев",
+  "Кирил Манчевски",
+  "Леб и сол",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/482"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/483"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/484"
+  },
+  {
+   "who": "Леб и сол",
+   "url": "https://pesna.org/audio-download/485"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/486"
+  },
+  {
+   "who": "Влатко Лозаноски, Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан",
+   "url": "https://pesna.org/audio-download/1812"
+  },
+  {
+   "who": "Будимка Јовановиќ",
+   "url": "https://pesna.org/audio-download/2730"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде сонце зајде",
+       "lat": "Ajde sonce zajde",
+       "en": "The sun is setting",
+       "en_mt": false
+      },
+      {
+       "cyr": "меѓу две планини нане мори,",
+       "lat": "meǵu dve planini nane mori,",
+       "en": "between two mountains, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде сонце зајде",
+       "lat": "ajde sonce zajde",
+       "en": "the sun is setting,",
+       "en_mt": false
+      },
+      {
+       "cyr": "меѓу две планини.",
+       "lat": "meǵu dve planini.",
+       "en": "between two mountains.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде у планини",
+       "lat": "Ajde u planini",
+       "en": "In the mountains,",
+       "en_mt": false
+      },
+      {
+       "cyr": "два бели шатора нане мори,",
+       "lat": "dva beli šatora nane mori,",
+       "en": "there are two white tents, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде у планини",
+       "lat": "ajde u planini",
+       "en": "in the mountains,",
+       "en_mt": false
+      },
+      {
+       "cyr": "два бели шатора.",
+       "lat": "dva beli šatora.",
+       "en": "there are two white tents.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде под шатори",
+       "lat": "Ajde pod šatori",
+       "en": "Under the tents,",
+       "en_mt": false
+      },
+      {
+       "cyr": "болно моме лежи нане мори,",
+       "lat": "bolno mome leži nane mori,",
+       "en": "a girl is lying ill, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде под шатори",
+       "lat": "ajde pod šatori",
+       "en": "under the tents,",
+       "en_mt": false
+      },
+      {
+       "cyr": "болно моме лежи.",
+       "lat": "bolno mome leži.",
+       "en": "a girl is lying ill.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ја болело",
+       "lat": "Ajde ja bolelo",
+       "en": "She is afflicted",
+       "en_mt": false
+      },
+      {
+       "cyr": "запче срмајлија нане мори,",
+       "lat": "zapče srmajlija nane mori,",
+       "en": "with her silvery teeth, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде ја болело",
+       "lat": "ajde ja bolelo",
+       "en": "she is afflicted",
+       "en_mt": false
+      },
+      {
+       "cyr": "запче срмајлија.",
+       "lat": "zapče srmajlija.",
+       "en": "with her silvery teeth.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде сонце зајде,",
+       "lat": "Ajde sonce zajde,",
+       "en": "The sun is setting,",
+       "en_mt": false
+      },
+      {
+       "cyr": "аман меѓу две планини, нане мори,",
+       "lat": "aman meǵu dve planini, nane mori,",
+       "en": "between two mountains, oh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде сонце зајде,",
+       "lat": "ajde sonce zajde,",
+       "en": "the sun is setting,",
+       "en_mt": false
+      },
+      {
+       "cyr": "меѓу две планини.",
+       "lat": "meǵu dve planini.",
+       "en": "between two mountains.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море под планини,",
+       "lat": "More pod planini,",
+       "en": "Oh, under the mountains,",
+       "en_mt": true
+      },
+      {
+       "cyr": "аман Богдан болен лежи, нане мори,",
+       "lat": "aman Bogdan bolen leži, nane mori,",
+       "en": "Bogdan is lying ill, oh,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ајде под планини,",
+       "lat": "ajde pod planini,",
+       "en": "under the mountains,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Богдан болен лежи.",
+       "lat": "Bogdan bolen leži.",
+       "en": "Bogdan is lying ill.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море питајте го,",
+       "lat": "More pitajte go,",
+       "en": "Oh, ask him,",
+       "en_mt": true
+      },
+      {
+       "cyr": "аман од што болен лежи, нане мори,",
+       "lat": "aman od što bolen leži, nane mori,",
+       "en": "what he is lying ill from, oh,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ајде питајте го",
+       "lat": "ajde pitajte go",
+       "en": "ask him",
+       "en_mt": true
+      },
+      {
+       "cyr": "од што болен лежи.",
+       "lat": "od što bolen leži.",
+       "en": "what he is lying ill from.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Џанам не го боли,",
+       "lat": "Džanam ne go boli,",
+       "en": "Dear, it hurts him,",
+       "en_mt": true
+      },
+      {
+       "cyr": "аман запче срмајлија, нане мори,",
+       "lat": "aman zapče srmajlija, nane mori,",
+       "en": "the silvery tooth, oh,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ајде не го боли",
+       "lat": "ajde ne go boli",
+       "en": "it hurts him,",
+       "en_mt": true
+      },
+      {
+       "cyr": "запче срмајлија.",
+       "lat": "zapče srmajlija.",
+       "en": "the silvery tooth.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

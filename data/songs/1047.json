@@ -1,0 +1,131 @@
+{
+ "id": 1047,
+ "slug": "lazare-lazare",
+ "title_cyr": "Лазаре, Лазаре",
+ "title_latin": "Lazare, Lazare",
+ "title_en": "Lazar, Lazar",
+ "pesna_url": "https://pesna.org/song/1047",
+ "background": "On Lazarus Saturday (the Saturday before Palm Sunday), groups of girls called *lazarki*, in white with floral wreaths, went door to door singing blessings for the house and vineyard and asking for a white *pita* and two eggs. The best-known line of the genre is the one this song starts with.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лазаре' is a refrain, likely tied to the Lazarus-Saturday (Lazarica) custom songs, but I am not certain. 'У в' Раткини' read as 'in Ratka's'; Ratka is probably a person's name.",
+ "words_to_learn": [
+  {
+   "mk": "огрејала",
+   "en": "(it) shone, lit up"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight, the moon"
+  },
+  {
+   "mk": "двори",
+   "en": "courtyard, manor"
+  },
+  {
+   "mk": "бела",
+   "en": "white, fair"
+  },
+  {
+   "mk": "руса коса",
+   "en": "blond hair"
+  },
+  {
+   "mk": "појас",
+   "en": "waist"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  }
+ ],
+ "performers": [
+  "Костадинка Палазова"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/2390"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Огрејала месечина, Лазаре, Лазаре,",
+       "lat": "Ogrejala mesečina, Lazare, Lazare,",
+       "en": "The moon shone, Lazar, Lazar,"
+      },
+      {
+       "cyr": "у в' Раткини бели двори, Лазаре, Лазаре.",
+       "lat": "u v' Ratkini beli dvori, Lazare, Lazare.",
+       "en": "in Ratka's white courtyard, Lazar, Lazar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми била месечина, Лазаре, Лазаре,",
+       "lat": "Ne mi bila mesečina, Lazare, Lazare,",
+       "en": "It was not the moon, Lazar, Lazar,"
+      },
+      {
+       "cyr": "туку била бела Рада, Лазаре, Лазаре.",
+       "lat": "tuku bila bela Rada, Lazare, Lazare.",
+       "en": "but white (fair) Rada, Lazar, Lazar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рада има бело лице, Лазаре, Лазаре,",
+       "lat": "Rada ima belo lice, Lazare, Lazare,",
+       "en": "Rada has a fair face, Lazar, Lazar,"
+      },
+      {
+       "cyr": "бело лице, црни очи, Лазаре, Лазаре.",
+       "lat": "belo lice, crni oči, Lazare, Lazare.",
+       "en": "a fair face, black eyes, Lazar, Lazar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рада има руса коса, Лазаре, Лазаре,",
+       "lat": "Rada ima rusa kosa, Lazare, Lazare,",
+       "en": "Rada has blond hair, Lazar, Lazar,"
+      },
+      {
+       "cyr": "руса коса до појаса, Лазаре, Лазаре.",
+       "lat": "rusa kosa do pojasa, Lazare, Lazare.",
+       "en": "blond hair down to her waist, Lazar, Lazar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Огрејала месечина, Лазаре, Лазаре,",
+       "lat": "Ogrejala mesečina, Lazare, Lazare,",
+       "en": "The moon shone, Lazar, Lazar,"
+      },
+      {
+       "cyr": "у в' Раткини бели двори, Лазаре, Лазаре.",
+       "lat": "u v' Ratkini beli dvori, Lazare, Lazare.",
+       "en": "in Ratka's white courtyard, Lazar, Lazar."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

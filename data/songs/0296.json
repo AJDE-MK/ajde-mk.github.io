@@ -1,0 +1,219 @@
+{
+ "id": 296,
+ "slug": "snoshti-si-pominav-pokraj-vash-to-porte",
+ "title_cyr": "Сношти си поминав покрај ваш'то порте",
+ "title_latin": "Snošti si pominav pokraj vaš'to porte",
+ "title_en": "Last Night I Passed By Your Gate",
+ "pesna_url": "https://pesna.org/song/296",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Оти војник ќ' одам' read as 'because I will go as a soldier'; 'се посврши' read as 'died' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "порта",
+   "en": "gate, doorway"
+  },
+  {
+   "mk": "букет",
+   "en": "bouquet"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "писмо",
+   "en": "letter"
+  },
+  {
+   "mk": "се разболе",
+   "en": "fell ill"
+  },
+  {
+   "mk": "оздраве",
+   "en": "recovered"
+  },
+  {
+   "mk": "се посврши",
+   "en": "passed away (my reading)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/610"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти си поминав",
+       "lat": "Snošti si pominav",
+       "en": "Last night I passed"
+      },
+      {
+       "cyr": "покрај ваш'то порте,",
+       "lat": "pokraj vaš'to porte,",
+       "en": "by your gate,"
+      },
+      {
+       "cyr": "тебе не те најдов Стевке",
+       "lat": "tebe ne te najdov Stevke",
+       "en": "I did not find you, Stevka,"
+      },
+      {
+       "cyr": "на порте да стоиш.",
+       "lat": "na porte da stoiš.",
+       "en": "standing at the gate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На порти да стоиш",
+       "lat": "Na porti da stoiš",
+       "en": "Standing at the gate"
+      },
+      {
+       "cyr": "цвеќе да набереш,",
+       "lat": "cveḱe da nabereš,",
+       "en": "to pick flowers,"
+      },
+      {
+       "cyr": "цвеќе да набереш, Стевке,",
+       "lat": "cveḱe da nabereš, Stevke,",
+       "en": "to pick flowers, Stevka,"
+      },
+      {
+       "cyr": "букет да наредиш.",
+       "lat": "buket da narediš.",
+       "en": "to arrange a bouquet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Букет да наредиш,",
+       "lat": "Buket da narediš,",
+       "en": "To arrange a bouquet,"
+      },
+      {
+       "cyr": "мене да испратиш.",
+       "lat": "mene da ispratiš.",
+       "en": "to send it to me."
+      },
+      {
+       "cyr": "Мене да испратиш, Стевке,",
+       "lat": "Mene da ispratiš, Stevke,",
+       "en": "To send it to me, Stevka,"
+      },
+      {
+       "cyr": "оти војник ќ' одам,",
+       "lat": "oti vojnik ḱ' odam,",
+       "en": "because I will go as a soldier,"
+      },
+      {
+       "cyr": "оти војник ќ' одам, Стевке,",
+       "lat": "oti vojnik ḱ' odam, Stevke,",
+       "en": "because I will go as a soldier, Stevka,"
+      },
+      {
+       "cyr": "време три години.",
+       "lat": "vreme tri godini.",
+       "en": "for three years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прво писмо дојде,",
+       "lat": "Prvo pismo dojde,",
+       "en": "The first letter came,"
+      },
+      {
+       "cyr": "Стевка се разболе,",
+       "lat": "Stevka se razbole,",
+       "en": "Stevka fell ill,"
+      },
+      {
+       "cyr": "Стевка се разболе, џанам,",
+       "lat": "Stevka se razbole, džanam,",
+       "en": "Stevka fell ill, dear,"
+      },
+      {
+       "cyr": "за лудото младо.",
+       "lat": "za ludoto mlado.",
+       "en": "for the young lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Второ писмо дојде,",
+       "lat": "Vtoro pismo dojde,",
+       "en": "The second letter came,"
+      },
+      {
+       "cyr": "Стевка ми оздраве.",
+       "lat": "Stevka mi ozdrave.",
+       "en": "Stevka recovered."
+      },
+      {
+       "cyr": "Стевка ми оздраве, џанам,",
+       "lat": "Stevka mi ozdrave, džanam,",
+       "en": "Stevka recovered, dear,"
+      },
+      {
+       "cyr": "за лудото младо.",
+       "lat": "za ludoto mlado.",
+       "en": "for the young lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трето писмо дојде,",
+       "lat": "Treto pismo dojde,",
+       "en": "The third letter came,"
+      },
+      {
+       "cyr": "Стевка се посврши,",
+       "lat": "Stevka se posvrši,",
+       "en": "Stevka passed away,"
+      },
+      {
+       "cyr": "Стевка се посврши, џанам,",
+       "lat": "Stevka se posvrši, džanam,",
+       "en": "Stevka passed away, dear,"
+      },
+      {
+       "cyr": "за лудото младо.",
+       "lat": "za ludoto mlado.",
+       "en": "for the young lad."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

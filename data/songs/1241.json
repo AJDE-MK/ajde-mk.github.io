@@ -1,0 +1,177 @@
+{
+ "id": 1241,
+ "slug": "ludo-mlado-son-zasonilo",
+ "title_cyr": "Лудо младо сон засонило",
+ "title_latin": "Ludo mlado son zasonilo",
+ "title_en": "The young lad fell asleep dreaming",
+ "pesna_url": "https://pesna.org/song/1241",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Лудо младо' is read as a stock phrase for a young lad; 'сон засонило' as 'fell asleep dreaming' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "лудо младо",
+   "en": "young lad (lit. foolish young one)"
+  },
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "жално ми е",
+   "en": "I am sorry, it pains me"
+  },
+  {
+   "mk": "буди",
+   "en": "wakes"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "завиди",
+   "en": "envies"
+  },
+  {
+   "mk": "сила",
+   "en": "strength"
+  },
+  {
+   "mk": "малој моме",
+   "en": "little girl (address form)"
+  }
+ ],
+ "performers": [
+  "Серенада",
+  "Цане Николовски",
+  "Trio Bulgarka"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/3114"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/3115"
+  },
+  {
+   "who": "Trio Bulgarka",
+   "url": "https://pesna.org/audio-download/3116"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лудо младо сон засонило,",
+       "lat": "Ludo mlado son zasonilo,",
+       "en": "The young lad fell asleep dreaming,"
+      },
+      {
+       "cyr": "на раката бела момина,",
+       "lat": "na rakata bela momina,",
+       "en": "on the girl's white arm,"
+      },
+      {
+       "cyr": "а мома се чудно чуди,",
+       "lat": "a moma se čudno čudi,",
+       "en": "and the girl wonders strangely,"
+      },
+      {
+       "cyr": "жално ѝ е да го буди,",
+       "lat": "žalno ì e da go budi,",
+       "en": "she is sorry to wake him,"
+      },
+      {
+       "cyr": "мило ѝ е да го гледа.",
+       "lat": "milo ì e da go gleda.",
+       "en": "she loves to look at him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па му рекла: - Стани лудо,",
+       "lat": "Pa mu rekla: - Stani ludo,",
+       "en": "Then she said: - Get up, my lad,"
+      },
+      {
+       "cyr": "жално ми е да те будам.",
+       "lat": "žalno mi e da te budam.",
+       "en": "I am sorry to wake you."
+      },
+      {
+       "cyr": "Рана зора зазорува,",
+       "lat": "Rana zora zazoruva,",
+       "en": "Early dawn is breaking,"
+      },
+      {
+       "cyr": "јасно сонце веќе иде,",
+       "lat": "jasno sonce veḱe ide,",
+       "en": "the bright sun is already coming,"
+      },
+      {
+       "cyr": "ќе изгрее, ќе нè виде.",
+       "lat": "ḱe izgree, ḱe nè vide.",
+       "en": "it will rise, it will see us."
+      },
+      {
+       "cyr": "Мило ми е да те гледам,",
+       "lat": "Milo mi e da te gledam,",
+       "en": "I love to look at you,"
+      },
+      {
+       "cyr": "ама сонце ќе нè види,",
+       "lat": "ama sonce ḱe nè vidi,",
+       "en": "but the sun will see us,"
+      },
+      {
+       "cyr": "ќе нè види и завиди.",
+       "lat": "ḱe nè vidi i zavidi.",
+       "en": "it will see us and envy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А момче се милно моли:",
+       "lat": "A momče se milno moli:",
+       "en": "And the lad pleads tenderly:"
+      },
+      {
+       "cyr": "- Как' да станам, малој моме?",
+       "lat": "- Kak' da stanam, maloj mome?",
+       "en": "- How can I get up, little girl?"
+      },
+      {
+       "cyr": "Как' да станам, малој моме,",
+       "lat": "Kak' da stanam, maloj mome,",
+       "en": "How can I get up, little girl,"
+      },
+      {
+       "cyr": "кога немам веќе сила,",
+       "lat": "koga nemam veḱe sila,",
+       "en": "when I have no strength left,"
+      },
+      {
+       "cyr": "кога ти си ја испила?",
+       "lat": "koga ti si ja ispila?",
+       "en": "when you have drunk it up?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

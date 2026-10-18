@@ -1,0 +1,95 @@
+{
+ "id": 1394,
+ "slug": "rano-ranila-bela-rumena",
+ "title_cyr": "Рано ранила бела Румена",
+ "title_latin": "Rano ranila bela Rumena",
+ "title_en": "Pretty Rumena woke up early",
+ "pesna_url": "https://pesna.org/song/1394",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Рано ранила бела Румена,",
+       "lat": "Rano ranila bela Rumena,",
+       "en": "Pretty Rumena woke up early,"
+      },
+      {
+       "cyr": "на студна вода, шарена чешма.",
+       "lat": "na studna voda, šarena češma.",
+       "en": "to bring cold water from the colorful fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ручек ручает, оро играјат,",
+       "lat": "Ruček ručaet, oro igrajat,",
+       "en": "They were lunching and dancing,"
+      },
+      {
+       "cyr": "оро играат, песни си пејат.",
+       "lat": "oro igraat, pesni si pejat.",
+       "en": "they were dancing and singing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еден ми ерген ручек не ручат,",
+       "lat": "Eden mi ergen ruček ne ručat,",
+       "en": "One bachelor was not eating his lunch,"
+      },
+      {
+       "cyr": "пушка си држит на нишан, мерит.",
+       "lat": "puška si držit na nišan, merit.",
+       "en": "he held his gun, aiming it at his mark."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Удри Румена по бело грло,",
+       "lat": "Udri Rumena po belo grlo,",
+       "en": "He shot Rumena in her white throat,"
+      },
+      {
+       "cyr": "падна Румена на црна земја.",
+       "lat": "padna Rumena na crna zemja.",
+       "en": "Rumena collapsed onto the black earth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тамо ми седит млади ергени,",
+       "lat": "Tamo mi sedit mladi ergeni,",
+       "en": "The young bachelors are sitting there,"
+      },
+      {
+       "cyr": "млади ергени седат под жолта дуња.",
+       "lat": "mladi ergeni sedat pod žolta dunja.",
+       "en": "young bachelors sitting under the yellow quince."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

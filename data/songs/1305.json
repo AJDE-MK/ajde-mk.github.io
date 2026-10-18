@@ -1,0 +1,168 @@
+{
+ "id": 1305,
+ "slug": "kitche-mi-padna",
+ "title_cyr": "Китче ми падна",
+ "title_latin": "Kitče mi padna",
+ "title_en": "My Little Flower Fell",
+ "pesna_url": "https://pesna.org/song/1305",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Величе' and 'дадо' are vocatives; I read 'дадо' as a refrain address, not necessarily a literal father. 'Тој бело лице' is my reading: he wants a kiss on the face as payment.",
+ "words_to_learn": [
+  {
+   "mk": "китче",
+   "en": "small bunch of flowers, posy"
+  },
+  {
+   "mk": "шамиче",
+   "en": "small headscarf"
+  },
+  {
+   "mk": "момче",
+   "en": "young man, lad"
+  },
+  {
+   "mk": "кирија",
+   "en": "fee, rent, payment"
+  },
+  {
+   "mk": "скупа",
+   "en": "expensive"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (interjection)"
+  },
+  {
+   "mk": "дадо",
+   "en": "father, dad (also a term of address)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Кочо Рацин",
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Миле Коларов",
+  "МФГ Сандански",
+  "Рада Јованова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3309"
+  },
+  {
+   "who": "МФГ Сандански",
+   "url": "https://pesna.org/audio-download/3434"
+  },
+  {
+   "who": "Миле Коларов, Рада Јованова",
+   "url": "https://pesna.org/audio-download/3435"
+  },
+  {
+   "who": "Вања Лазарова, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3436"
+  },
+  {
+   "who": "Ансамбл Кочо Рацин",
+   "url": "https://pesna.org/audio-download/3886"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Китче ми падна, бре Величе,",
+       "lat": "Kitče mi padna, bre Veliče,",
+       "en": "My little flower fell, hey Velichko,"
+      },
+      {
+       "cyr": "китче ми падна, дадо,",
+       "lat": "kitče mi padna, dado,",
+       "en": "my little flower fell, father,"
+      },
+      {
+       "cyr": "од врв шамиче, бре Величе,",
+       "lat": "od vrv šamiče, bre Veliče,",
+       "en": "from my scarf, hey Velichko,"
+      },
+      {
+       "cyr": "од врв шамиче, дадо.",
+       "lat": "od vrv šamiče, dado.",
+       "en": "from my scarf, father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момче го најде, бре Величе,",
+       "lat": "Momče go najde, bre Veliče,",
+       "en": "A young man found it, hey Velichko,"
+      },
+      {
+       "cyr": "момче го најде, дадо,",
+       "lat": "momče go najde, dado,",
+       "en": "a young man found it, father,"
+      },
+      {
+       "cyr": "па не го дава, бре Величе,",
+       "lat": "pa ne go dava, bre Veliče,",
+       "en": "and he does not give it back, hey Velichko,"
+      },
+      {
+       "cyr": "па не го дава, дадо.",
+       "lat": "pa ne go dava, dado.",
+       "en": "and he does not give it back, father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тражи кирија, бре Величе,",
+       "lat": "Traži kirija, bre Veliče,",
+       "en": "He asks for a fee, hey Velichko,"
+      },
+      {
+       "cyr": "тражи кирија, дадо,",
+       "lat": "traži kirija, dado,",
+       "en": "he asks for a fee, father,"
+      },
+      {
+       "cyr": "скупа кирија, бре Величе,",
+       "lat": "skupa kirija, bre Veliče,",
+       "en": "an expensive fee, hey Velichko,"
+      },
+      {
+       "cyr": "тој бело лице, дадо.",
+       "lat": "toj belo lice, dado.",
+       "en": "a white face, father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Китче си давам, бре Величе,",
+       "lat": "Kitče si davam, bre Veliče,",
+       "en": "I give the little flower, hey Velichko,"
+      },
+      {
+       "cyr": "лице не давам, дадо.",
+       "lat": "lice ne davam, dado.",
+       "en": "I do not give my face, father."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

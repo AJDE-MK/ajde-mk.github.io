@@ -1,0 +1,181 @@
+{
+ "id": 137,
+ "slug": "zbogum-majko-jas-otidov",
+ "title_cyr": "Збогум мајко, јас отидов",
+ "title_latin": "Zbogum majko, jas otidov",
+ "title_en": "Farewell, Mother, I Have Left",
+ "pesna_url": "https://pesna.org/song/137",
+ "background": "A farewell song with a heavy feeling. Goodbye to the father's hearth, brothers and sisters, friends old and young; wherever I go I will remember you forever. The last verse is for the mother alone: in a foreign unknown land I will spend my life.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (gurbet farewell song). 'ем другарки' I read as 'and also female friends'; 'ле' is a filler, rendered 'oh'.",
+ "words_to_learn": [
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "заминам",
+   "en": "I depart"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "огниште",
+   "en": "hearth, family home"
+  },
+  {
+   "mk": "другари",
+   "en": "friends (male)"
+  },
+  {
+   "mk": "ем",
+   "en": "and also"
+  },
+  {
+   "mk": "споменвам",
+   "en": "I remember, mention"
+  },
+  {
+   "mk": "жалам",
+   "en": "I grieve"
+  }
+ ],
+ "performers": [
+  "Анастасиа Митровска",
+  "Душко Георгиевски",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Румјана Попова"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/805"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/806"
+  },
+  {
+   "who": "Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/807"
+  },
+  {
+   "who": "Румјана Попова",
+   "url": "https://pesna.org/audio-download/3158"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4170"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Збогум мајко, јас отидов",
+       "lat": "Zbogum majko, jas otidov",
+       "en": "Farewell, mother, I have left,"
+      },
+      {
+       "cyr": "дојде денот да заминам.",
+       "lat": "dojde denot da zaminam.",
+       "en": "the day has come for me to depart."
+      },
+      {
+       "cyr": "Разделба ми срце мачи",
+       "lat": "Razdelba mi srce mači",
+       "en": "Parting torments my heart"
+      },
+      {
+       "cyr": "и пак ме тера да пејам.",
+       "lat": "i pak me tera da pejam.",
+       "en": "and yet makes me sing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогом татково огниште,",
+       "lat": "Zbogom tatkovo ognište,",
+       "en": "Farewell, father's hearth,"
+      },
+      {
+       "cyr": "збогом браќа и сестри.",
+       "lat": "zbogom braḱa i sestri.",
+       "en": "farewell, brothers and sisters."
+      },
+      {
+       "cyr": "Збогум другари, ем другарки,",
+       "lat": "Zbogum drugari, em drugarki,",
+       "en": "Farewell, friends, male and female,"
+      },
+      {
+       "cyr": "стари и млади дечиња.",
+       "lat": "stari i mladi dečinja.",
+       "en": "old and young children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За последно збогум ви кажам,",
+       "lat": "Za posledno zbogum vi kažam,",
+       "en": "For the last time I say farewell to you,"
+      },
+      {
+       "cyr": "последен пат ви гледам јас.",
+       "lat": "posleden pat vi gledam jas.",
+       "en": "for the last time I look at you."
+      },
+      {
+       "cyr": "Било каде и да идам,",
+       "lat": "Bilo kade i da idam,",
+       "en": "Wherever I may go,"
+      },
+      {
+       "cyr": "вечно ќе ве споменвам.",
+       "lat": "večno ḱe ve spomenvam.",
+       "en": "I will remember you forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А за тебе, мила мајко,",
+       "lat": "A za tebe, mila majko,",
+       "en": "And for you, dear mother,"
+      },
+      {
+       "cyr": "јас ќе жалам, ем тажам.",
+       "lat": "jas ḱe žalam, em tažam.",
+       "en": "I will grieve and mourn."
+      },
+      {
+       "cyr": "В' туѓа земја, непозната,",
+       "lat": "V' tuǵa zemja, nepoznata,",
+       "en": "In a foreign, unknown land,"
+      },
+      {
+       "cyr": "живот ле мајко ќе поминам.",
+       "lat": "život le majko ḱe pominam.",
+       "en": "my life, oh mother, I will spend."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

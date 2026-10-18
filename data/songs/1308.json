@@ -1,0 +1,203 @@
+{
+ "id": 1308,
+ "slug": "zasviri-edna-nasha-milane",
+ "title_cyr": "Засвири една наша Милане",
+ "title_latin": "Zasviri edna naša Milane",
+ "title_en": "Play One of Ours, Milan",
+ "pesna_url": "https://pesna.org/song/1308",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: sounds like a modern novokomponirana (newly composed) song, but I cannot name an author. 'Засвири една наша' means play one of our songs (my reading of 'наша' as 'our song').",
+ "words_to_learn": [
+  {
+   "mk": "гради",
+   "en": "chest, breast"
+  },
+  {
+   "mk": "солза",
+   "en": "tear"
+  },
+  {
+   "mk": "слегува",
+   "en": "runs down, descends"
+  },
+  {
+   "mk": "тагувам",
+   "en": "I grieve, I am sad"
+  },
+  {
+   "mk": "ранува",
+   "en": "wounds"
+  },
+  {
+   "mk": "ќе помине",
+   "en": "it will pass"
+  },
+  {
+   "mk": "заоѓа",
+   "en": "sets (like the sun)"
+  },
+  {
+   "mk": "овена",
+   "en": "withered"
+  },
+  {
+   "mk": "слана",
+   "en": "frost"
+  },
+  {
+   "mk": "нежно",
+   "en": "gently, tenderly"
+  }
+ ],
+ "performers": [
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/3313"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во гради сликата негова,",
+       "lat": "Vo gradi slikata negova,",
+       "en": "In my breast his picture,"
+      },
+      {
+       "cyr": "еве солза слегува,",
+       "lat": "eve solza sleguva,",
+       "en": "here a tear runs down,"
+      },
+      {
+       "cyr": "да му каже дека уште живее во мене,",
+       "lat": "da mu kaže deka ušte živee vo mene,",
+       "en": "to tell him that he still lives in me,"
+      },
+      {
+       "cyr": "да му каже: исто е.",
+       "lat": "da mu kaže: isto e.",
+       "en": "to tell him: it is the same."
+      },
+      {
+       "cyr": "Нека види дека уште сама сум, тагувам,",
+       "lat": "Neka vidi deka ušte sama sum, taguvam,",
+       "en": "Let him see that I am still alone, grieving,"
+      },
+      {
+       "cyr": "тој што срца ранува.",
+       "lat": "toj što srca ranuva.",
+       "en": "he who wounds hearts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Засвири една наша Милане, за мене,",
+       "lat": "Zasviri edna naša Milane, za mene,",
+       "en": "Play one of ours, Milan, for me,"
+      },
+      {
+       "cyr": "свири, ќе помине,",
+       "lat": "sviri, ḱe pomine,",
+       "en": "play, it will pass,"
+      },
+      {
+       "cyr": "кој немал еднаш љубов голема,",
+       "lat": "koj nemal ednaš ljubov golema,",
+       "en": "whoever never had a great love once,"
+      },
+      {
+       "cyr": "тој што нема душа не знае да тагува.",
+       "lat": "toj što nema duša ne znae da taguva.",
+       "en": "he who has no soul does not know how to grieve."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во мене среќата заоѓа,",
+       "lat": "Vo mene sreḱata zaoǵa,",
+       "en": "In me happiness is setting,"
+      },
+      {
+       "cyr": "само тага наоѓам.",
+       "lat": "samo taga naoǵam.",
+       "en": "I find only sorrow."
+      },
+      {
+       "cyr": "Една роза и без вода цутеше некогаш,",
+       "lat": "Edna roza i bez voda cuteše nekogaš,",
+       "en": "A rose even without water once bloomed,"
+      },
+      {
+       "cyr": "сега таа овена.",
+       "lat": "sega taa ovena.",
+       "en": "now it has withered."
+      },
+      {
+       "cyr": "Една роза и без сонце остана црвена,",
+       "lat": "Edna roza i bez sonce ostana crvena,",
+       "en": "A rose even without sun stayed red,"
+      },
+      {
+       "cyr": "сега слана на неа.",
+       "lat": "sega slana na nea.",
+       "en": "now frost is on it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Засвири една наша Милане, за мене,",
+       "lat": "Zasviri edna naša Milane, za mene,",
+       "en": "Play one of ours, Milan, for me,"
+      },
+      {
+       "cyr": "свири, ќе помине,",
+       "lat": "sviri, ḱe pomine,",
+       "en": "play, it will pass,"
+      },
+      {
+       "cyr": "кој немал еднаш љубов голема,",
+       "lat": "koj nemal ednaš ljubov golema,",
+       "en": "whoever never had a great love once,"
+      },
+      {
+       "cyr": "тој што нема душа не знае да тагува.",
+       "lat": "toj što nema duša ne znae da taguva.",
+       "en": "he who has no soul does not know how to grieve."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свири ми, свири нежно Милане,",
+       "lat": "Sviri mi, sviri nežno Milane,",
+       "en": "Play for me, play gently, Milan,"
+      },
+      {
+       "cyr": "да ми помине.",
+       "lat": "da mi pomine.",
+       "en": "so that it passes for me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

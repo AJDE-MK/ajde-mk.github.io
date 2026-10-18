@@ -1,0 +1,158 @@
+{
+ "id": 216,
+ "slug": "ordan-sedi-na-kulata",
+ "title_cyr": "Ордан седи на кулата",
+ "title_latin": "Ordan sedi na kulata",
+ "title_en": "Ordan sits on the tower",
+ "pesna_url": "https://pesna.org/song/216",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благоја Николовски",
+  "Болеробенд",
+  "Весели прилепчани",
+  "Гоце Делчев Ансамбл - Софија",
+  "Импресија",
+  "Македонски мерак",
+  "Сашо Гигов - Гиш"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/1140"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/1141"
+  },
+  {
+   "who": "Импресија",
+   "url": "https://pesna.org/audio-download/1142"
+  },
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/1369"
+  },
+  {
+   "who": "Гоце Делчев Ансамбл - Софија",
+   "url": "https://pesna.org/audio-download/3487"
+  },
+  {
+   "who": "Весели прилепчани",
+   "url": "https://pesna.org/audio-download/3488"
+  },
+  {
+   "who": "Благоја Николовски",
+   "url": "https://pesna.org/audio-download/3489"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ордан седи на кулата,",
+       "lat": "Ordan sedi na kulata,",
+       "en": "Ordan sits on the tower,",
+       "en_mt": false
+      },
+      {
+       "cyr": "па ми гледа горе-долу.",
+       "lat": "pa mi gleda gore-dolu.",
+       "en": "keeping a look-out (looking up and down).",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми догледал силен аскер,",
+       "lat": "Mi dogledal silen asker,",
+       "en": "He saw a big army,",
+       "en_mt": false
+      },
+      {
+       "cyr": "силен аскер, башибозук.",
+       "lat": "silen asker, bašibozuk.",
+       "en": "a big army, bashi-bazouk*.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фрли бомба во селото,",
+       "lat": "Frli bomba vo seloto,",
+       "en": "He threw a bomb in the village,",
+       "en_mt": false
+      },
+      {
+       "cyr": "се затресе цело село.",
+       "lat": "se zatrese celo selo.",
+       "en": "which shook the whole village.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извикнаа селаните:",
+       "lat": "Izviknaa selanite:",
+       "en": "The villagers exclaimed:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Што е ова од Ордана,",
+       "lat": "- Što e ova od Ordana,",
+       "en": "\"What is this from Ordan,",
+       "en_mt": false
+      },
+      {
+       "cyr": "од Јордана Пиперката?",
+       "lat": "od Jordana Piperkata?",
+       "en": "from Jordan Piperka?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ордан сабја не го сече,",
+       "lat": "Ordan sabja ne go seče,",
+       "en": "A saber can't cut Jordan,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јордан куршум не го дупи.",
+       "lat": "Jordan kuršum ne go dupi.",
+       "en": "a bullet can't kill Jordan.\"",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "// Во спомен на Јордан Пиперката.",
+       "lat": "// Vo spomen na Jordan Piperkata.",
+       "en": "// In memory of vojvoda Jordan Piperkata (1870 -1903).",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

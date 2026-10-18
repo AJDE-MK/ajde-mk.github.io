@@ -1,0 +1,171 @@
+{
+ "id": 1083,
+ "slug": "ne-rusaj-prusaj",
+ "title_cyr": "Не русај, прусај",
+ "title_latin": "Ne rusaj, prusaj",
+ "title_en": "Don't strut before me",
+ "pesna_url": "https://pesna.org/song/1083",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Не русај, прусај' is my reading as 'don't strut and swagger' (guess); 'лапка' I read as a clod or small thing to throw; 'да ти го пиша' is read as 'write you' (name or image) in the notebook.",
+ "words_to_learn": [
+  {
+   "mk": "лепа",
+   "en": "beauty, pretty one"
+  },
+  {
+   "mk": "срце",
+   "en": "heart"
+  },
+  {
+   "mk": "горено",
+   "en": "burned"
+  },
+  {
+   "mk": "пепел",
+   "en": "ash"
+  },
+  {
+   "mk": "тефтер",
+   "en": "notebook"
+  },
+  {
+   "mk": "аскер",
+   "en": "army (military service)"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, desire, passion"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  }
+ ],
+ "performers": [
+  "Бапчорки",
+  "Ethnusiasm"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/2543"
+  },
+  {
+   "who": "Ethnusiasm",
+   "url": "https://pesna.org/audio-download/2544"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не русај, прусај,",
+       "lat": "Ne rusaj, prusaj,",
+       "en": "Don't strut and swagger,"
+      },
+      {
+       "cyr": "пред мене, мори лепа,",
+       "lat": "pred mene, mori lepa,",
+       "en": "in front of me, hey beauty,"
+      },
+      {
+       "cyr": "не ми го гори срцето.",
+       "lat": "ne mi go gori srceto.",
+       "en": "do not burn my heart."
+      },
+      {
+       "cyr": "Стига е само горено, мори лепа,",
+       "lat": "Stiga e samo goreno, mori lepa,",
+       "en": "Enough, it has burned already, hey beauty,"
+      },
+      {
+       "cyr": "горено, пепел сторено.",
+       "lat": "goreno, pepel storeno.",
+       "en": "burned, turned to ash."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лапка ќе фрла по тебе, мори лепа,",
+       "lat": "Lapka ḱe frla po tebe, mori lepa,",
+       "en": "I will throw a clod at you, hey beauty,"
+      },
+      {
+       "cyr": "да се завртиш, да видиш,",
+       "lat": "da se zavrtiš, da vidiš,",
+       "en": "so that you turn around, so that you see,"
+      },
+      {
+       "cyr": "да ти го вида лицето, мори лепа,",
+       "lat": "da ti go vida liceto, mori lepa,",
+       "en": "so that I see your face, hey beauty,"
+      },
+      {
+       "cyr": "лицето бело, црвено.",
+       "lat": "liceto belo, crveno.",
+       "en": "your face white, red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти го пиша на тефтер, мори лепа,",
+       "lat": "Da ti go piša na tefter, mori lepa,",
+       "en": "I will write you in a notebook, hey beauty,"
+      },
+      {
+       "cyr": "кога ќе ода на аскер,",
+       "lat": "koga ḱe oda na asker,",
+       "en": "when I go to the army,"
+      },
+      {
+       "cyr": "ко ќе ми текни за тебе, мори лепа,",
+       "lat": "ko ḱe mi tekni za tebe, mori lepa,",
+       "en": "when you come to my mind, hey beauty,"
+      },
+      {
+       "cyr": "да го отвора тефтеро.",
+       "lat": "da go otvora teftero.",
+       "en": "I will open the notebook."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти го вида лицето, мори лепа,",
+       "lat": "Da ti go vida liceto, mori lepa,",
+       "en": "So that I see your face, hey beauty,"
+      },
+      {
+       "cyr": "лицето бело, црвено,",
+       "lat": "liceto belo, crveno,",
+       "en": "your face white, red,"
+      },
+      {
+       "cyr": "да ми помини мерако, мори лепа,",
+       "lat": "da mi pomini merako, mori lepa,",
+       "en": "so that my longing passes, hey beauty,"
+      },
+      {
+       "cyr": "мерако голем по тебе.",
+       "lat": "merako golem po tebe.",
+       "en": "my great longing for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

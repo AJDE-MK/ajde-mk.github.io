@@ -1,0 +1,186 @@
+{
+ "id": 812,
+ "slug": "glas-mi-se-slusha",
+ "title_cyr": "Глас ми се слуша",
+ "title_latin": "Glas mi se sluša",
+ "title_en": "A voice is heard",
+ "pesna_url": "https://pesna.org/song/812",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The speaker of the second-to-last stanza is presumably the Turks interrogating Jana (my reading); 'кучко' is an insult.",
+ "words_to_learn": [
+  {
+   "mk": "глас",
+   "en": "voice, sound"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (end-blown shepherd's flute)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "мачат",
+   "en": "torture"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law (husband's father)"
+  },
+  {
+   "mk": "имање",
+   "en": "property, wealth"
+  },
+  {
+   "mk": "кули",
+   "en": "towers"
+  }
+ ],
+ "performers": [
+  "Александар Сарев",
+  "Ангеле Димовски",
+  "Наум Петрески",
+  "Next Time"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1641"
+  },
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/1642"
+  },
+  {
+   "who": "Ангеле Димовски",
+   "url": "https://pesna.org/audio-download/1643"
+  },
+  {
+   "who": "Next Time",
+   "url": "https://pesna.org/audio-download/3764"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Глас ми се слуша,",
+       "lat": "Glas mi se sluša,",
+       "en": "A voice is heard"
+      },
+      {
+       "cyr": "горе во планина.",
+       "lat": "gore vo planina.",
+       "en": "up in the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' кавал свири,",
+       "lat": "Dal' kaval sviri,",
+       "en": "Is it a kaval playing"
+      },
+      {
+       "cyr": "или моме пее?",
+       "lat": "ili mome pee?",
+       "en": "or a girl singing?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни кавал свири,",
+       "lat": "Ni kaval sviri,",
+       "en": "Neither a kaval playing"
+      },
+      {
+       "cyr": "ни моме пее,",
+       "lat": "ni mome pee,",
+       "en": "nor a girl singing,"
+      },
+      {
+       "cyr": "тук' си ја мачат",
+       "lat": "tuk' si ja mačat",
+       "en": "but they are torturing"
+      },
+      {
+       "cyr": "убавата Јана.",
+       "lat": "ubavata Jana.",
+       "en": "beautiful Jana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи бре, Јано,",
+       "lat": "- Kaži bre, Jano,",
+       "en": "- Tell me, Jana,"
+      },
+      {
+       "cyr": "кажи бре, кучко,",
+       "lat": "kaži bre, kučko,",
+       "en": "tell me, you bitch,"
+      },
+      {
+       "cyr": "кажи бре Јано",
+       "lat": "kaži bre Jano",
+       "en": "tell me, Jana,"
+      },
+      {
+       "cyr": "свекрово имање.",
+       "lat": "svekrovo imanje.",
+       "en": "your father-in-law's property."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј вие, Турци,",
+       "lat": "- Ej vie, Turci,",
+       "en": "- Hey you, Turks,"
+      },
+      {
+       "cyr": "Турци будали,",
+       "lat": "Turci budali,",
+       "en": "foolish Turks,"
+      },
+      {
+       "cyr": "свекор ми има",
+       "lat": "svekor mi ima",
+       "en": "my father-in-law has"
+      },
+      {
+       "cyr": "дворови широки,",
+       "lat": "dvorovi široki,",
+       "en": "wide courtyards,"
+      },
+      {
+       "cyr": "кули високи,",
+       "lat": "kuli visoki,",
+       "en": "high towers,"
+      },
+      {
+       "cyr": "дворови широки.",
+       "lat": "dvorovi široki.",
+       "en": "wide courtyards."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

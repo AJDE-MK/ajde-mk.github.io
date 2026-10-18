@@ -1,0 +1,165 @@
+{
+ "id": 1590,
+ "slug": "da-ja-nemam-pesnata",
+ "title_cyr": "Да ја немам песната",
+ "title_latin": "Da ja nemam pesnata",
+ "title_en": "If I didn't have the song",
+ "pesna_url": "https://pesna.org/song/1590",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it may be a modern composition but I cannot name an author. 'лунѕам' is my reading as 'stare / wander about'; 'далдисан' comes from Turkish, 'lost in thought'.",
+ "words_to_learn": [
+  {
+   "mk": "душа",
+   "en": "soul"
+  },
+  {
+   "mk": "милувам",
+   "en": "caress, cherish"
+  },
+  {
+   "mk": "најмила",
+   "en": "dearest"
+  },
+  {
+   "mk": "лунѕам",
+   "en": "stare, wander aimlessly (dialect)"
+  },
+  {
+   "mk": "далдисан",
+   "en": "dazed, lost in thought"
+  },
+  {
+   "mk": "стега",
+   "en": "squeezes, tightens"
+  },
+  {
+   "mk": "препукне",
+   "en": "bursts, cracks"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "другари",
+   "en": "friends, companions"
+  }
+ ],
+ "performers": [
+  "Душко Георгиевски"
+ ],
+ "audio": [
+  {
+   "who": "Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/4154"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ме боли душата",
+       "lat": "Ḱe me boli dušata",
+       "en": "My soul will ache"
+      },
+      {
+       "cyr": "да ме остави",
+       "lat": "da me ostavi",
+       "en": "when she leaves me,"
+      },
+      {
+       "cyr": "таа што ја милувам",
+       "lat": "taa što ja miluvam",
+       "en": "the one I have cherished"
+      },
+      {
+       "cyr": "девет години.",
+       "lat": "devet godini.",
+       "en": "for nine years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Но, тебе да те немам,",
+       "lat": "No, tebe da te nemam,",
+       "en": "But if I didn't have you,"
+      },
+      {
+       "cyr": "песно најмила,",
+       "lat": "pesno najmila,",
+       "en": "dearest song,"
+      },
+      {
+       "cyr": "јас ќе лунѕам слеп и болен,",
+       "lat": "jas ḱe lundzam slep i bolen,",
+       "en": "I would stare, blind and sick,"
+      },
+      {
+       "cyr": "вечно далдисан.",
+       "lat": "večno daldisan.",
+       "en": "forever dazed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ме стега срцето,",
+       "lat": "Ḱe me stega srceto,",
+       "en": "My heart will tighten,"
+      },
+      {
+       "cyr": "ќе ми препукне,",
+       "lat": "ḱe mi prepukne,",
+       "en": "it will burst,"
+      },
+      {
+       "cyr": "да не видам роднини",
+       "lat": "da ne vidam rodnini",
+       "en": "so that I do not see relatives"
+      },
+      {
+       "cyr": "и верни другари.",
+       "lat": "i verni drugari.",
+       "en": "and faithful friends."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Но, тебе да те немам,",
+       "lat": "No, tebe da te nemam,",
+       "en": "But if I didn't have you,"
+      },
+      {
+       "cyr": "песно најмила,",
+       "lat": "pesno najmila,",
+       "en": "dearest song,"
+      },
+      {
+       "cyr": "јас ќе лунѕам слеп и болен,",
+       "lat": "jas ḱe lundzam slep i bolen,",
+       "en": "I would stare, blind and sick,"
+      },
+      {
+       "cyr": "вечно далдисан.",
+       "lat": "večno daldisan.",
+       "en": "forever dazed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

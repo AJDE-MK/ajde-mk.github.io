@@ -1,0 +1,204 @@
+{
+ "id": 732,
+ "slug": "ah-vie-moi-ludi-mladi-godini",
+ "title_cyr": "Ах, вие мои луди млади години",
+ "title_latin": "Ah, vie moi ludi mladi godini",
+ "title_en": "Ah, My Foolish Young Years",
+ "pesna_url": "https://pesna.org/song/732",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The line 'Таа љубов не беше верна дека бевме непосвршени' is my reading: the love was not faithful/binding because they were not engaged.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "лично момче",
+   "en": "handsome lad"
+  },
+  {
+   "mk": "свршат",
+   "en": "to engage / betroth"
+  },
+  {
+   "mk": "стројници",
+   "en": "match-makers"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "red wine"
+  },
+  {
+   "mk": "љута ракија",
+   "en": "strong rakija"
+  },
+  {
+   "mk": "летнавте",
+   "en": "you flew away"
+  },
+  {
+   "mk": "непосвршени",
+   "en": "not yet engaged"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Виолета Томовска",
+  "Сузана Гавазова"
+ ],
+ "audio": [
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/924"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/925"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/2509"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дури бев мома при мама,",
+       "lat": "Duri bev moma pri mama,",
+       "en": "While I was a girl at my mother's,"
+      },
+      {
+       "cyr": "љубев едно лично момче.",
+       "lat": "ljubev edno lično momče.",
+       "en": "I loved a handsome lad."
+      },
+      {
+       "cyr": "Таа љубов не беше верна",
+       "lat": "Taa ljubov ne beše verna",
+       "en": "That love was not faithful"
+      },
+      {
+       "cyr": "дека бевме непосвршени.",
+       "lat": "deka bevme neposvršeni.",
+       "en": "because we were not yet engaged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, вие мои луди млади години,",
+       "lat": "Ah, vie moi ludi mladi godini,",
+       "en": "Ah, you my foolish young years,"
+      },
+      {
+       "cyr": "летнавте, ама назад",
+       "lat": "letnavte, ama nazad",
+       "en": "you flew away, but back"
+      },
+      {
+       "cyr": "не се вративте.",
+       "lat": "ne se vrativte.",
+       "en": "you did not return."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стројници прати да ме свршат,",
+       "lat": "Strojnici prati da me svršat,",
+       "en": "He sent match-makers to engage me,"
+      },
+      {
+       "cyr": "мене татко не ме даде.",
+       "lat": "mene tatko ne me dade.",
+       "en": "my father did not give me."
+      },
+      {
+       "cyr": "Туку ме даде преку Вардар,",
+       "lat": "Tuku me dade preku Vardar,",
+       "en": "Instead he gave me across the Vardar,"
+      },
+      {
+       "cyr": "за момче што не го љубам.",
+       "lat": "za momče što ne go ljubam.",
+       "en": "to a lad I do not love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, вие мои луди млади години,",
+       "lat": "Ah, vie moi ludi mladi godini,",
+       "en": "Ah, you my foolish young years,"
+      },
+      {
+       "cyr": "летнавте, ама назад",
+       "lat": "letnavte, ama nazad",
+       "en": "you flew away, but back"
+      },
+      {
+       "cyr": "не се вративте.",
+       "lat": "ne se vrativte.",
+       "en": "you did not return."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вино ли беше таа љубов,",
+       "lat": "Vino li beše taa ljubov,",
+       "en": "Was that love wine,"
+      },
+      {
+       "cyr": "што ме толку силно опи?",
+       "lat": "što me tolku silno opi?",
+       "en": "that made me so strongly drunk?"
+      },
+      {
+       "cyr": "Пијани бевме без рујно вино,",
+       "lat": "Pijani bevme bez rujno vino,",
+       "en": "We were drunk without red wine,"
+      },
+      {
+       "cyr": "ама и без љута ракија.",
+       "lat": "ama i bez ljuta rakija.",
+       "en": "and without strong rakija too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, вие мои луди млади години,",
+       "lat": "Ah, vie moi ludi mladi godini,",
+       "en": "Ah, you my foolish young years,"
+      },
+      {
+       "cyr": "летнавте, ама назад",
+       "lat": "letnavte, ama nazad",
+       "en": "you flew away, but back"
+      },
+      {
+       "cyr": "не се вративте.",
+       "lat": "ne se vrativte.",
+       "en": "you did not return."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

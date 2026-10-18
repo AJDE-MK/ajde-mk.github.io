@@ -1,0 +1,209 @@
+{
+ "id": 1222,
+ "slug": "oj-ti-dedo-gero",
+ "title_cyr": "Ој ти дедо Геро",
+ "title_latin": "Oj ti dedo Gero",
+ "title_en": "Oh Grandfather Gero",
+ "pesna_url": "https://pesna.org/song/1222",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional village song from Ljubojno (Prespa). 'Бура Ристо, бура' may be a name or address; I rendered it as 'Storm, Risto, storm' as my reading.",
+ "words_to_learn": [
+  {
+   "mk": "врева",
+   "en": "commotion, noise"
+  },
+  {
+   "mk": "мејана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "бура",
+   "en": "storm"
+  },
+  {
+   "mk": "не плаши се",
+   "en": "do not be afraid"
+  },
+  {
+   "mk": "пилиња",
+   "en": "chicks"
+  },
+  {
+   "mk": "јагањца",
+   "en": "lambs"
+  },
+  {
+   "mk": "блеат",
+   "en": "bleat"
+  },
+  {
+   "mk": "ваја",
+   "en": "this (dialect)"
+  }
+ ],
+ "performers": [
+  "Никола Бадев",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3019"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој ти дедо Геро,",
+       "lat": "Oj ti dedo Gero,",
+       "en": "Oh you, grandfather Gero,"
+      },
+      {
+       "cyr": "што е ваја врева,",
+       "lat": "što e vaja vreva,",
+       "en": "what is this commotion"
+      },
+      {
+       "cyr": "во село Љубојно,",
+       "lat": "vo selo Ljubojno,",
+       "en": "in the village of Ljubojno,"
+      },
+      {
+       "cyr": "а, во село Љубојно?",
+       "lat": "a, vo selo Ljubojno?",
+       "en": "ah, in the village of Ljubojno?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во село Љубојно,",
+       "lat": "Vo selo Ljubojno,",
+       "en": "In the village of Ljubojno,"
+      },
+      {
+       "cyr": "средната мејана,",
+       "lat": "srednata mejana,",
+       "en": "in the middle tavern,"
+      },
+      {
+       "cyr": "а, средната мејана.",
+       "lat": "a, srednata mejana.",
+       "en": "ah, in the middle tavern."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бура Ристо, бура,",
+       "lat": "Bura Risto, bura,",
+       "en": "Storm, Risto, storm,"
+      },
+      {
+       "cyr": "бура, не плаши се,",
+       "lat": "bura, ne plaši se,",
+       "en": "storm, do not be afraid,"
+      },
+      {
+       "cyr": "а, бура, не плаши се.",
+       "lat": "a, bura, ne plaši se.",
+       "en": "ah, storm, do not be afraid."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние сме си, Ристо,",
+       "lat": "Nie sme si, Risto,",
+       "en": "We are, Risto,"
+      },
+      {
+       "cyr": "пилиња по небо,",
+       "lat": "pilinja po nebo,",
+       "en": "chicks in the sky,"
+      },
+      {
+       "cyr": "а, пилиња по небо.",
+       "lat": "a, pilinja po nebo.",
+       "en": "ah, chicks in the sky."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јаганца блеат,",
+       "lat": "A jaganca bleat,",
+       "en": "And the lambs bleat,"
+      },
+      {
+       "cyr": "по мајки си одат,",
+       "lat": "po majki si odat,",
+       "en": "they follow their mothers,"
+      },
+      {
+       "cyr": "а, по мајки си одат.",
+       "lat": "a, po majki si odat.",
+       "en": "ah, they follow their mothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бура, Ристо, бура,",
+       "lat": "Bura, Risto, bura,",
+       "en": "Storm, Risto, storm,"
+      },
+      {
+       "cyr": "бура, не плаши се,",
+       "lat": "bura, ne plaši se,",
+       "en": "storm, do not be afraid,"
+      },
+      {
+       "cyr": "а, бура, не плаши се.",
+       "lat": "a, bura, ne plaši se.",
+       "en": "ah, storm, do not be afraid."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој ти дедо Геро,",
+       "lat": "Oj ti dedo Gero,",
+       "en": "Oh you, grandfather Gero,"
+      },
+      {
+       "cyr": "што е ваја врева,",
+       "lat": "što e vaja vreva,",
+       "en": "what is this commotion"
+      },
+      {
+       "cyr": "во село Љубојно,",
+       "lat": "vo selo Ljubojno,",
+       "en": "in the village of Ljubojno,"
+      },
+      {
+       "cyr": "а, во село Љубојно?",
+       "lat": "a, vo selo Ljubojno?",
+       "en": "ah, in the village of Ljubojno?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

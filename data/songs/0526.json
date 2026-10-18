@@ -1,0 +1,177 @@
+{
+ "id": 526,
+ "slug": "pijan-idam-majko",
+ "title_cyr": "Пијан идам мајко",
+ "title_latin": "Pijan idam majko",
+ "title_en": "I come home drunk, mother",
+ "pesna_url": "https://pesna.org/song/526",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, may be a newer folk-style song (no author I can name). Several lines (for example 'не ме остават' and 'сè со рујно вино') are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "меанџика",
+   "en": "tavern girl"
+  },
+  {
+   "mk": "пусти",
+   "en": "cursed, wretched"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "пијан",
+   "en": "drunk"
+  },
+  {
+   "mk": "заборавам",
+   "en": "I forget"
+  },
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  }
+ ],
+ "performers": [
+  "Румјана Попова"
+ ],
+ "audio": [
+  {
+   "who": "Румјана Попова",
+   "url": "https://pesna.org/audio-download/2117"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Меаните мајко пусти да останат",
+       "lat": "Meanite majko pusti da ostanat",
+       "en": "Let the cursed taverns remain, mother,"
+      },
+      {
+       "cyr": "меанџики моми да ги заборавам, мајче,",
+       "lat": "meandžiki momi da gi zaboravam, majče,",
+       "en": "let me forget the tavern girls, mother,"
+      },
+      {
+       "cyr": "да се женам, мила мајчице",
+       "lat": "da se ženam, mila majčice",
+       "en": "let me marry, dear mother,"
+      },
+      {
+       "cyr": "за првото либе,",
+       "lat": "za prvoto libe,",
+       "en": "the first love,"
+      },
+      {
+       "cyr": "тоа си го сакам мајчице,",
+       "lat": "toa si go sakam majčice,",
+       "en": "her I love, dear mother,"
+      },
+      {
+       "cyr": "на овој чуден свет.",
+       "lat": "na ovoj čuden svet.",
+       "en": "in this strange world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие пусти пари само по меани,",
+       "lat": "Tie pusti pari samo po meani,",
+       "en": "Those cursed coins only go to taverns,"
+      },
+      {
+       "cyr": "зошто ми ги даде, вино јас да пијам,",
+       "lat": "zošto mi gi dade, vino jas da pijam,",
+       "en": "why did you give them to me, so I could drink wine,"
+      },
+      {
+       "cyr": "а ти мајко, стара мајчице",
+       "lat": "a ti majko, stara majčice",
+       "en": "and you, mother, old dear mother,"
+      },
+      {
+       "cyr": "од сон да се будиш,",
+       "lat": "od son da se budiš,",
+       "en": "wake from sleep,"
+      },
+      {
+       "cyr": "порти да отвориш мајчице,",
+       "lat": "porti da otvoriš majčice,",
+       "en": "open the gate, dear mother,"
+      },
+      {
+       "cyr": "дома да дојдам,",
+       "lat": "doma da dojdam,",
+       "en": "for me to come home,"
+      },
+      {
+       "cyr": "ај, дома да дојдам.",
+       "lat": "aj, doma da dojdam.",
+       "en": "oh, to come home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пијан идам мајко од пусти меани,",
+       "lat": "Pijan idam majko od pusti meani,",
+       "en": "I come home drunk, mother, from the cursed taverns,"
+      },
+      {
+       "cyr": "само рујно вино саноќ сум си пило,",
+       "lat": "samo rujno vino sanoḱ sum si pilo,",
+       "en": "all night I drank only ruby wine,"
+      },
+      {
+       "cyr": "само многу љубам мајчице,",
+       "lat": "samo mnogu ljubam majčice,",
+       "en": "I only love a lot, dear mother,"
+      },
+      {
+       "cyr": "сè со рујно вино,",
+       "lat": "sè so rujno vino,",
+       "en": "all with ruby wine,"
+      },
+      {
+       "cyr": "како да се женам мајчице,",
+       "lat": "kako da se ženam majčice,",
+       "en": "as if I were getting married, dear mother,"
+      },
+      {
+       "cyr": "не ме остават,",
+       "lat": "ne me ostavat,",
+       "en": "they don't leave me,"
+      },
+      {
+       "cyr": "ај не ме остават.",
+       "lat": "aj ne me ostavat.",
+       "en": "oh, they don't leave me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,210 @@
+{
+ "id": 624,
+ "slug": "aj-merak-imam",
+ "title_cyr": "Ај мерак имам",
+ "title_latin": "Aj merak imam",
+ "title_en": "Oh, I Have a Longing",
+ "pesna_url": "https://pesna.org/song/624",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'комшиче' is grammatically neuter, but it is read as a girl; 'ми го дадоа' keeps the neuter. Stanzas 4 and 5 are obscure; my reading is that the speaker cursed the match and she will be widowed by the following week.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "longing, desire, fancy"
+  },
+  {
+   "mk": "комшиче",
+   "en": "little neighbor"
+  },
+  {
+   "mk": "побратим",
+   "en": "sworn brother, close friend"
+  },
+  {
+   "mk": "нунко",
+   "en": "best man, godfather (dialect)"
+  },
+  {
+   "mk": "куме",
+   "en": "wedding sponsor (vocative)"
+  },
+  {
+   "mk": "невестица",
+   "en": "little bride"
+  },
+  {
+   "mk": "клевета",
+   "en": "slander"
+  },
+  {
+   "mk": "удовица",
+   "en": "widow"
+  }
+ ],
+ "performers": [
+  "Борис Ангелковски",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Борис Ангелковски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2963"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај мерак имам, мерак имам",
+       "lat": "Aj merak imam, merak imam",
+       "en": "Oh, I have a longing, a longing"
+      },
+      {
+       "cyr": "за наш'то комшиче.",
+       "lat": "za naš'to komšiče.",
+       "en": "for our little neighbor."
+      },
+      {
+       "cyr": "ај го побарав, го побарав",
+       "lat": "aj go pobarav, go pobarav",
+       "en": "Oh, I asked for her, asked for her,"
+      },
+      {
+       "cyr": "не ми го дадоа.",
+       "lat": "ne mi go dadoa.",
+       "en": "they did not give her to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај го дадоа, го дадоа",
+       "lat": "Aj go dadoa, go dadoa",
+       "en": "Oh, they gave her, gave her"
+      },
+      {
+       "cyr": "за мојот побратим",
+       "lat": "za mojot pobratim",
+       "en": "to my sworn brother,"
+      },
+      {
+       "cyr": "ај па ме кани, па ме кани",
+       "lat": "aj pa me kani, pa me kani",
+       "en": "oh, and he invites me, invites me"
+      },
+      {
+       "cyr": "нунко да му бидам.",
+       "lat": "nunko da mu bidam.",
+       "en": "to be his best man."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај венчај куме, венчај куме",
+       "lat": "Aj venčaj kume, venčaj kume",
+       "en": "Oh, marry them, sponsor, marry them,"
+      },
+      {
+       "cyr": "млада невестица",
+       "lat": "mlada nevestica",
+       "en": "the young little bride."
+      },
+      {
+       "cyr": "Ај пак да венчам, как' да венчам",
+       "lat": "Aj pak da venčam, kak' da venčam",
+       "en": "Oh, how should I marry them, how marry them,"
+      },
+      {
+       "cyr": "срцево ми плаче.",
+       "lat": "srcevo mi plače.",
+       "en": "when my heart weeps."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај попот дава, попот дава,",
+       "lat": "Aj popot dava, popot dava,",
+       "en": "Oh, the priest gives, the priest gives,"
+      },
+      {
+       "cyr": "мила молитвица,",
+       "lat": "mila molitvica,",
+       "en": "a dear little prayer,"
+      },
+      {
+       "cyr": "ај, а јас дадов, а јас дадов,",
+       "lat": "aj, a jas dadov, a jas dadov,",
+       "en": "oh, and I gave, and I gave,"
+      },
+      {
+       "cyr": "клета клеветица.",
+       "lat": "kleta klevetica.",
+       "en": "a cursed little slander."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај до недела, до недела",
+       "lat": "Aj do nedela, do nedela",
+       "en": "Oh, until Sunday, until Sunday,"
+      },
+      {
+       "cyr": "млада невеста",
+       "lat": "mlada nevesta",
+       "en": "a young bride,"
+      },
+      {
+       "cyr": "ај до другата, до другата",
+       "lat": "aj do drugata, do drugata",
+       "en": "oh, until the next one, until the next,"
+      },
+      {
+       "cyr": "црна удовица.",
+       "lat": "crna udovica.",
+       "en": "a black widow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај до другата, до другата",
+       "lat": "Aj do drugata, do drugata",
+       "en": "Oh, until the next one, until the next,"
+      },
+      {
+       "cyr": "млада удовица",
+       "lat": "mlada udovica",
+       "en": "a young widow,"
+      },
+      {
+       "cyr": "ај до третата, до третата",
+       "lat": "aj do tretata, do tretata",
+       "en": "oh, until the third, until the third,"
+      },
+      {
+       "cyr": "моја да ми биде.",
+       "lat": "moja da mi bide.",
+       "en": "may she be mine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

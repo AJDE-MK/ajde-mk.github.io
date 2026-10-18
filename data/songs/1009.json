@@ -1,0 +1,213 @@
+{
+ "id": 1009,
+ "slug": "zoshto-me-machish-sudbino-kleta",
+ "title_cyr": "Зошто ме мачиш судбино клета",
+ "title_latin": "Zošto me mačiš sudbino kleta",
+ "title_en": "Why do you torment me, cursed fate",
+ "pesna_url": "https://pesna.org/song/1009",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: sounds like a modern composed song about childlessness, but I cannot name an author. Line 'чедото мое ми го одзема' is read as fate keeping a child from her, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "судбина",
+   "en": "fate, destiny"
+  },
+  {
+   "mk": "клета",
+   "en": "cursed"
+  },
+  {
+   "mk": "проклета",
+   "en": "damned"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "одзема",
+   "en": "takes away"
+  },
+  {
+   "mk": "проколна",
+   "en": "cursed (past)"
+  },
+  {
+   "mk": "згрешила",
+   "en": "I have sinned, done wrong"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "рожба",
+   "en": "offspring, birth"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2341"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/4348"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зошто ме мачиш, судбино клета,",
+       "lat": "Zošto me mačiš, sudbino kleta,",
+       "en": "Why do you torment me, cursed fate,"
+      },
+      {
+       "cyr": "судбино моја, проклета да си,",
+       "lat": "sudbino moja, prokleta da si,",
+       "en": "my fate, may you be damned,"
+      },
+      {
+       "cyr": "чедото моjе ми го одзема,",
+       "lat": "čedoto moje mi go odzema,",
+       "en": "my child you take from me,"
+      },
+      {
+       "cyr": "зошто ме судбо лошо проколна,",
+       "lat": "zošto me sudbo lošo prokolna,",
+       "en": "why, fate, did you curse me so badly,"
+      },
+      {
+       "cyr": "чедото мое ми го одзема,",
+       "lat": "čedoto moe mi go odzema,",
+       "en": "my child you take from me,"
+      },
+      {
+       "cyr": "зошто ме судбо лошо проколна?",
+       "lat": "zošto me sudbo lošo prokolna?",
+       "en": "why, fate, did you curse me so badly?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зар јас не можам чедо да гледам,",
+       "lat": "Zar jas ne možam čedo da gledam,",
+       "en": "Am I not able to see my child,"
+      },
+      {
+       "cyr": "со злато и свила да го облечам,",
+       "lat": "so zlato i svila da go oblečam,",
+       "en": "to dress it in gold and silk,"
+      },
+      {
+       "cyr": "кажи ми, кажи, судбино прoклета,",
+       "lat": "kaži mi, kaži, sudbino prokleta,",
+       "en": "tell me, tell me, cursed fate,"
+      },
+      {
+       "cyr": "зошто ме, судбо, лошо проколна,",
+       "lat": "zošto me, sudbo, lošo prokolna,",
+       "en": "why, fate, did you curse me so badly,"
+      },
+      {
+       "cyr": "кажи ми, кажи, судбино клета,",
+       "lat": "kaži mi, kaži, sudbino kleta,",
+       "en": "tell me, tell me, cursed fate,"
+      },
+      {
+       "cyr": "што сум ти судбо толку згрешила?",
+       "lat": "što sum ti sudbo tolku zgrešila?",
+       "en": "what did I do wrong to you, fate, so much?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секој ми вели да сум најсреќна,",
+       "lat": "Sekoj mi veli da sum najsreḱna,",
+       "en": "Everyone tells me I am the happiest,"
+      },
+      {
+       "cyr": "никој не знае мојата болка,",
+       "lat": "nikoj ne znae mojata bolka,",
+       "en": "no one knows my pain,"
+      },
+      {
+       "cyr": "мојата болка не се лекува,",
+       "lat": "mojata bolka ne se lekuva,",
+       "en": "my pain cannot be healed,"
+      },
+      {
+       "cyr": "чедо со пари не се купува,",
+       "lat": "čedo so pari ne se kupuva,",
+       "en": "a child cannot be bought with money,"
+      },
+      {
+       "cyr": "мојата болка не се лекува,",
+       "lat": "mojata bolka ne se lekuva,",
+       "en": "my pain cannot be healed,"
+      },
+      {
+       "cyr": "рожба со пари не се купува.",
+       "lat": "rožba so pari ne se kupuva.",
+       "en": "a birth cannot be bought with money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ништо не може судбино клета,",
+       "lat": "Ništo ne može sudbino kleta,",
+       "en": "Nothing can, cursed fate,"
+      },
+      {
+       "cyr": "болно ми срце да развесели,",
+       "lat": "bolno mi srce da razveseli,",
+       "en": "cheer my aching heart,"
+      },
+      {
+       "cyr": "само со песни болки заборавам,",
+       "lat": "samo so pesni bolki zaboravam,",
+       "en": "only with songs do I forget the pain,"
+      },
+      {
+       "cyr": "песната ги мојте рани лекува,",
+       "lat": "pesnata gi mojte rani lekuva,",
+       "en": "song heals my wounds,"
+      },
+      {
+       "cyr": "само со песни болки заборавам,",
+       "lat": "samo so pesni bolki zaboravam,",
+       "en": "only with songs do I forget the pain,"
+      },
+      {
+       "cyr": "песната ги мојте рани лекува.",
+       "lat": "pesnata gi mojte rani lekuva.",
+       "en": "song heals my wounds."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

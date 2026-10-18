@@ -1,0 +1,179 @@
+{
+ "id": 750,
+ "slug": "prokleta-sudbino",
+ "title_cyr": "Проклета судбино",
+ "title_latin": "Prokleta sudbino",
+ "title_en": "Cursed Fate",
+ "pesna_url": "https://pesna.org/song/750",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like an estrada-style song but I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "незаборавна",
+   "en": "unforgettable"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "неизлечива",
+   "en": "incurable"
+  },
+  {
+   "mk": "судбина",
+   "en": "fate"
+  },
+  {
+   "mk": "раздели",
+   "en": "parted, separated"
+  },
+  {
+   "mk": "милувања",
+   "en": "caresses"
+  },
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "пуста младост",
+   "en": "wretched/empty youth"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1081"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, љубов моја, незаборавна,",
+       "lat": "Ej, ljubov moja, nezaboravna,",
+       "en": "Hey, my love, unforgettable,"
+      },
+      {
+       "cyr": "еј, рано моја, неизлечива.",
+       "lat": "ej, rano moja, neizlečiva.",
+       "en": "hey, my wound, incurable."
+      },
+      {
+       "cyr": "Колку ѕвезди има на небото,",
+       "lat": "Kolku dzvezdi ima na neboto,",
+       "en": "As many stars as there are in the sky,"
+      },
+      {
+       "cyr": "толку болки носам во срцето.",
+       "lat": "tolku bolki nosam vo srceto.",
+       "en": "so many pains I carry in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета судбино, што ми направи,",
+       "lat": "Prokleta sudbino, što mi napravi,",
+       "en": "Cursed fate, what have you done to me,"
+      },
+      {
+       "cyr": "од верна љубов што ме раздели?",
+       "lat": "od verna ljubov što me razdeli?",
+       "en": "you who parted me from a faithful love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, кај се тие слатки соништа,",
+       "lat": "Ej, kaj se tie slatki soništa,",
+       "en": "Hey, where are those sweet dreams,"
+      },
+      {
+       "cyr": "бакнежи, песни и милувања?",
+       "lat": "bakneži, pesni i miluvanja?",
+       "en": "kisses, songs and caresses?"
+      },
+      {
+       "cyr": "Еј, кај се сега тие насмевки,",
+       "lat": "Ej, kaj se sega tie nasmevki,",
+       "en": "Hey, where are those smiles now,"
+      },
+      {
+       "cyr": "во очи твои, сини, небесни?",
+       "lat": "vo oči tvoi, sini, nebesni?",
+       "en": "in your eyes, blue, heavenly?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета судбино, што ми направи,",
+       "lat": "Prokleta sudbino, što mi napravi,",
+       "en": "Cursed fate, what have you done to me,"
+      },
+      {
+       "cyr": "од верна љубов што ме раздели?",
+       "lat": "od verna ljubov što me razdeli?",
+       "en": "you who parted me from a faithful love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мои деној, црни без тебе,",
+       "lat": "Ej, moi denoj, crni bez tebe,",
+       "en": "Hey, my days, black without you,"
+      },
+      {
+       "cyr": "за мене славеј веќе не пее.",
+       "lat": "za mene slavej veḱe ne pee.",
+       "en": "for me the nightingale no longer sings."
+      },
+      {
+       "cyr": "Малку среќа чекав, не дочекав,",
+       "lat": "Malku sreḱa čekav, ne dočekav,",
+       "en": "I waited for a little happiness, it never came,"
+      },
+      {
+       "cyr": "пуста младост тажна си поминав.",
+       "lat": "pusta mladost tažna si pominav.",
+       "en": "I spent my wretched youth in sorrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета судбино, што ми направи,",
+       "lat": "Prokleta sudbino, što mi napravi,",
+       "en": "Cursed fate, what have you done to me,"
+      },
+      {
+       "cyr": "од верна љубов што ме раздели?",
+       "lat": "od verna ljubov što me razdeli?",
+       "en": "you who parted me from a faithful love?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

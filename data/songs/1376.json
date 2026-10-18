@@ -1,0 +1,193 @@
+{
+ "id": 1376,
+ "slug": "izvikna-stojan-provikna",
+ "title_cyr": "Извикна Стојан, провикна",
+ "title_latin": "Izvikna Stojan, provikna",
+ "title_en": "Stojan called out, shouted",
+ "pesna_url": "https://pesna.org/song/1376",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song, no author named, so translated.",
+ "words_to_learn": [
+  {
+   "mk": "извикна",
+   "en": "called out"
+  },
+  {
+   "mk": "провикна",
+   "en": "shouted"
+  },
+  {
+   "mk": "дочуј",
+   "en": "hear (imperative)"
+  },
+  {
+   "mk": "ќе се сторам",
+   "en": "I will become"
+  },
+  {
+   "mk": "партизан",
+   "en": "partisan"
+  },
+  {
+   "mk": "борба",
+   "en": "struggle, fight"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band"
+  },
+  {
+   "mk": "рамо",
+   "en": "shoulder"
+  },
+  {
+   "mk": "косам",
+   "en": "I mow down"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3558"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Извикна Стојан, провикна,",
+       "lat": "Izvikna Stojan, provikna,",
+       "en": "Stojan called out, shouted"
+      },
+      {
+       "cyr": "од високите планини:",
+       "lat": "od visokite planini:",
+       "en": "from the high mountains:"
+      },
+      {
+       "cyr": "- Дочуј ме мајко, дочуј ме,",
+       "lat": "- Dočuj me majko, dočuj me,",
+       "en": "- Hear me, mother, hear me,"
+      },
+      {
+       "cyr": "јас ќе се сторам партизан!",
+       "lat": "jas ḱe se storam partizan!",
+       "en": "I will become a partisan!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другари верни, другари,",
+       "lat": "Drugari verni, drugari,",
+       "en": "Faithful comrades, comrades,"
+      },
+      {
+       "cyr": "одам во борба за слобода,",
+       "lat": "odam vo borba za sloboda,",
+       "en": "I go to fight for freedom,"
+      },
+      {
+       "cyr": "одам во борба за слобода,",
+       "lat": "odam vo borba za sloboda,",
+       "en": "I go to fight for freedom,"
+      },
+      {
+       "cyr": "за наша Македонија.",
+       "lat": "za naša Makedonija.",
+       "en": "for our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе се сторам партизан,",
+       "lat": "Jas ḱe se storam partizan,",
+       "en": "I will become a partisan,"
+      },
+      {
+       "cyr": "планини мајко ќе шетам,",
+       "lat": "planini majko ḱe šetam,",
+       "en": "I will roam the mountains, mother,"
+      },
+      {
+       "cyr": "планини мајко ќе шетам,",
+       "lat": "planini majko ḱe šetam,",
+       "en": "I will roam the mountains, mother,"
+      },
+      {
+       "cyr": "верна дружина ќе водам.",
+       "lat": "verna družina ḱe vodam.",
+       "en": "I will lead a faithful company."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другари верни, другари,",
+       "lat": "Drugari verni, drugari,",
+       "en": "Faithful comrades, comrades,"
+      },
+      {
+       "cyr": "одам во борба за слобода,",
+       "lat": "odam vo borba za sloboda,",
+       "en": "I go to fight for freedom,"
+      },
+      {
+       "cyr": "одам во борба за слобода,",
+       "lat": "odam vo borba za sloboda,",
+       "en": "I go to fight for freedom,"
+      },
+      {
+       "cyr": "за наша Македонија.",
+       "lat": "za naša Makedonija.",
+       "en": "for our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пушка на рамо ќе носам,",
+       "lat": "Puška na ramo ḱe nosam,",
+       "en": "I will carry a rifle on my shoulder,"
+      },
+      {
+       "cyr": "клети фашисти ќе косам,",
+       "lat": "kleti fašisti ḱe kosam,",
+       "en": "I will mow down the cursed fascists,"
+      },
+      {
+       "cyr": "планини мајко ќе шетам,",
+       "lat": "planini majko ḱe šetam,",
+       "en": "I will roam the mountains, mother,"
+      },
+      {
+       "cyr": "верна дружина ќе водам.",
+       "lat": "verna družina ḱe vodam.",
+       "en": "I will lead a faithful company."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

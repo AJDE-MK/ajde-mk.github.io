@@ -1,0 +1,213 @@
+{
+ "id": 1399,
+ "slug": "oj-berberi-majstori",
+ "title_cyr": "Ој бербери, мајстори",
+ "title_latin": "Oj berberi, majstori",
+ "title_en": "Hey, barbers, masters",
+ "pesna_url": "https://pesna.org/song/1399",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last line ('кој те видим жив изгори') is my reading: roughly 'may whoever sees you burn alive'. Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "бербер",
+   "en": "barber"
+  },
+  {
+   "mk": "мајстор",
+   "en": "master craftsman"
+  },
+  {
+   "mk": "клетва",
+   "en": "curse"
+  },
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market street"
+  },
+  {
+   "mk": "кабает",
+   "en": "blame, fault"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura (string instrument)"
+  },
+  {
+   "mk": "ѓул",
+   "en": "rose"
+  },
+  {
+   "mk": "намирисани",
+   "en": "scented"
+  },
+  {
+   "mk": "мома",
+   "en": "maiden, unmarried girl"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3581"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој бербери, мајстори,",
+       "lat": "Oj berberi, majstori,",
+       "en": "Hey barbers, masters,"
+      },
+      {
+       "cyr": "клетви ви се големи:",
+       "lat": "kletvi vi se golemi:",
+       "en": "great curses on you:"
+      },
+      {
+       "cyr": "дуќан да се запали,",
+       "lat": "duḱan da se zapali,",
+       "en": "may the shop catch fire,"
+      },
+      {
+       "cyr": "чаршија да изгори.",
+       "lat": "čaršija da izgori.",
+       "en": "may the bazaar burn down,"
+      },
+      {
+       "cyr": "Што не може Марето",
+       "lat": "Što ne može Mareto",
+       "en": "because Mare cannot"
+      },
+      {
+       "cyr": "низ чаршија да прошета.",
+       "lat": "niz čaršija da prošeta.",
+       "en": "stroll through the bazaar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Оф, Маре, ти кабает немаш,",
+       "lat": "(Of, Mare, ti kabaet nemaš,",
+       "en": "(Oh, Mare, you are not to blame,"
+      },
+      {
+       "cyr": "не бре душо, ти немаш кабает!)",
+       "lat": "ne bre dušo, ti nemaš kabaet!)",
+       "en": "no, my soul, you are not to blame!)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вие пусти бербери,",
+       "lat": "Vie pusti berberi,",
+       "en": "You wretched barbers,"
+      },
+      {
+       "cyr": "со тамбури во раце,",
+       "lat": "so tamburi vo race,",
+       "en": "with tamburas in your hands,"
+      },
+      {
+       "cyr": "свирите и пеете",
+       "lat": "svirite i peete",
+       "en": "you play and sing"
+      },
+      {
+       "cyr": "и по Маре викате:",
+       "lat": "i po Mare vikate:",
+       "en": "and you call out after Mare:"
+      },
+      {
+       "cyr": "- Ох бре Маре, долги коси,",
+       "lat": "- Oh bre Mare, dolgi kosi,",
+       "en": "- Oh, Mare, long hair,"
+      },
+      {
+       "cyr": "ела в' дуќан, зачешлај ги!",
+       "lat": "ela v' duḱan, začešlaj gi!",
+       "en": "come into the shop, comb it!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Ох Маре, Маре,",
+       "lat": "(Oh Mare, Mare,",
+       "en": "(Oh, Mare, Mare,"
+      },
+      {
+       "cyr": "прва изгоро!)",
+       "lat": "prva izgoro!)",
+       "en": "may you burn first!)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маре вели, говори:",
+       "lat": "Mare veli, govori:",
+       "en": "Mare says, speaks:"
+      },
+      {
+       "cyr": "- Ој бербери, мајстори,",
+       "lat": "- Oj berberi, majstori,",
+       "en": "- Hey barbers, masters,"
+      },
+      {
+       "cyr": "коси ми се чешлани,",
+       "lat": "kosi mi se češlani,",
+       "en": "my hair is combed,"
+      },
+      {
+       "cyr": "со ѓул намирисани.",
+       "lat": "so ǵul namirisani.",
+       "en": "scented with rose."
+      },
+      {
+       "cyr": "Ако влезам во дуќанот",
+       "lat": "Ako vlezam vo duḱanot",
+       "en": "If I go into the shop,"
+      },
+      {
+       "cyr": "дали мома ќе излезам?",
+       "lat": "dali moma ḱe izlezam?",
+       "en": "will I come out a maiden?"
+      },
+      {
+       "cyr": "- Ах бре, Маре, долги коси,",
+       "lat": "- Ah bre, Mare, dolgi kosi,",
+       "en": "- Ah, Mare, long hair,"
+      },
+      {
+       "cyr": "кој те видим жив изгори!",
+       "lat": "koj te vidim živ izgori!",
+       "en": "may whoever sees you burn alive!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

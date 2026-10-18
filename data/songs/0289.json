@@ -1,0 +1,216 @@
+{
+ "id": 289,
+ "slug": "shto-da-pravam-shto-da-chinam",
+ "title_cyr": "Што да правам, што да чинам",
+ "title_latin": "Što da pravam, što da činam",
+ "title_en": "What should I do",
+ "pesna_url": "https://pesna.org/song/289",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вања Лазарова",
+  "Виолета Митева",
+  "Влатко Лозаноски",
+  "Даниела Калаџиска",
+  "Елена Велевска",
+  "Елена Ристеска",
+  "Ламбе Алабаковски",
+  "Маргица Антевска",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Пијано бар",
+  "Сузана Гавазова"
+ ],
+ "audio": [
+  {
+   "who": "Маргица Антевска",
+   "url": "https://pesna.org/audio-download/97"
+  },
+  {
+   "who": "Виолета Митева",
+   "url": "https://pesna.org/audio-download/98"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/99"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/100"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/101"
+  },
+  {
+   "who": "Вања Лазарова, Елена Ристеска",
+   "url": "https://pesna.org/audio-download/102"
+  },
+  {
+   "who": "Елена Ристеска, Ламбе Алабаковски",
+   "url": "https://pesna.org/audio-download/103"
+  },
+  {
+   "who": "Елена Ристеска",
+   "url": "https://pesna.org/audio-download/104"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/105"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/106"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1945"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2039"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Кандисуј бре лудо младо)",
+       "lat": "(Kandisuj bre ludo mlado)",
+       "en": "(Agree, crazy young lad)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем мерак мила мајко,",
+       "lat": "Golem merak mila majko,",
+       "en": "A big desire, dear mother,"
+      },
+      {
+       "cyr": "скоро јас ќе умрам,",
+       "lat": "skoro jas ḱe umram,",
+       "en": "I'll almost die,"
+      },
+      {
+       "cyr": "два мерака, два севдаха,",
+       "lat": "dva meraka, dva sevdaha,",
+       "en": "two desires, two sorrows,"
+      },
+      {
+       "cyr": "скоро одат во гроба.",
+       "lat": "skoro odat vo groba.",
+       "en": "will soon go to the grave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што да правам, што да чинам",
+       "lat": "Što da pravam, što da činam",
+       "en": "What should I do,"
+      },
+      {
+       "cyr": "кога е лоша мајка ми?",
+       "lat": "koga e loša majka mi?",
+       "en": "when my mother is evil,"
+      },
+      {
+       "cyr": "Не ми дава да заљубам",
+       "lat": "Ne mi dava da zaljubam",
+       "en": "she won't let me love"
+      },
+      {
+       "cyr": "од личните ергени.",
+       "lat": "od ličnite ergeni.",
+       "en": "those handsome unmarried young men."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кандисуј бре лудо младо",
+       "lat": "Kandisuj bre ludo mlado",
+       "en": "Agree, hey crazy young lad,"
+      },
+      {
+       "cyr": "што ти дава мајка ми.",
+       "lat": "što ti dava majka mi.",
+       "en": "to whatever my mother offers to you,"
+      },
+      {
+       "cyr": "Мама дава, лудо младо,",
+       "lat": "Mama dava, ludo mlado,",
+       "en": "she offers, crazy lad,"
+      },
+      {
+       "cyr": "три санд'ка бовчалок.",
+       "lat": "tri sand'ka bovčalok.",
+       "en": "three cases of dowry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кандисуј бре лудо младо",
+       "lat": "Kandisuj bre ludo mlado",
+       "en": "Agree, hey crazy lad,"
+      },
+      {
+       "cyr": "што ти дава татко ми.",
+       "lat": "što ti dava tatko mi.",
+       "en": "to whatever my father offers to you,"
+      },
+      {
+       "cyr": "Тато дава, лудо младо,",
+       "lat": "Tato dava, ludo mlado,",
+       "en": "my father offers, crazy lad,"
+      },
+      {
+       "cyr": "триста лири жолтици.",
+       "lat": "trista liri žoltici.",
+       "en": "three hundred gold liras."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој Раде, немој душо,",
+       "lat": "Nemoj Rade, nemoj dušo,",
+       "en": "Don't, Rade, don't my love,"
+      },
+      {
+       "cyr": "голем мерак да фрлаш,",
+       "lat": "golem merak da frlaš,",
+       "en": "throw away a big desire,"
+      },
+      {
+       "cyr": "два мерака, два севдаха",
+       "lat": "dva meraka, dva sevdaha",
+       "en": "two desires, two sorrows,"
+      },
+      {
+       "cyr": "скоро одат во гроба.",
+       "lat": "skoro odat vo groba.",
+       "en": "will soon go to the grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

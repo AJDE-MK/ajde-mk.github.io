@@ -1,0 +1,158 @@
+{
+ "id": 878,
+ "slug": "bolno-legna-lenche",
+ "title_cyr": "Болно легна Ленче",
+ "title_latin": "Bolno legna Lenče",
+ "title_en": "Lenche lay down sick",
+ "pesna_url": "https://pesna.org/song/878",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional (urban sevdalinka style); origin unclear. Lenche is a diminutive of Lena.",
+ "words_to_learn": [
+  {
+   "mk": "болно легна",
+   "en": "lay down sick"
+  },
+  {
+   "mk": "кара севда",
+   "en": "black (deep) love-sickness"
+  },
+  {
+   "mk": "постела",
+   "en": "bedding, bed"
+  },
+  {
+   "mk": "доктури",
+   "en": "doctors"
+  },
+  {
+   "mk": "аман",
+   "en": "oh (plaintive interjection)"
+  },
+  {
+   "mk": "ќе стане",
+   "en": "will get up (recover)"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1914"
+  },
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1918"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болно легна Ленче,",
+       "lat": "Bolno legna Lenče,",
+       "en": "Lenche lay down sick,"
+      },
+      {
+       "cyr": "од кара севда.",
+       "lat": "od kara sevda.",
+       "en": "from black love-sickness."
+      },
+      {
+       "cyr": "Еј, аман, аман, еј, аман.",
+       "lat": "Ej, aman, aman, ej, aman.",
+       "en": "Hey, aman, aman, hey, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Искинало Ленче",
+       "lat": "Iskinalo Lenče",
+       "en": "Lenche tore up"
+      },
+      {
+       "cyr": "свилена постела.",
+       "lat": "svilena postela.",
+       "en": "her silk bedding."
+      },
+      {
+       "cyr": "Еј, аман, аман, еј, аман.",
+       "lat": "Ej, aman, aman, ej, aman.",
+       "en": "Hey, aman, aman, hey, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На глава ѝ седат",
+       "lat": "Na glava ì sedat",
+       "en": "At her head sit"
+      },
+      {
+       "cyr": "тројца доктури.",
+       "lat": "trojca dokturi.",
+       "en": "three doctors."
+      },
+      {
+       "cyr": "Први доктур збори:",
+       "lat": "Prvi doktur zbori:",
+       "en": "The first doctor says:"
+      },
+      {
+       "cyr": "- Ленче е болно, еј аман.",
+       "lat": "- Lenče e bolno, ej aman.",
+       "en": "- Lenche is sick, hey aman."
+      },
+      {
+       "cyr": "Еј, аман, аман, еј, аман.",
+       "lat": "Ej, aman, aman, ej, aman.",
+       "en": "Hey, aman, aman, hey, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втори доктур збори:",
+       "lat": "Vtori doktur zbori:",
+       "en": "The second doctor says:"
+      },
+      {
+       "cyr": "- Ленче ќе умре.",
+       "lat": "- Lenče ḱe umre.",
+       "en": "- Lenche will die."
+      },
+      {
+       "cyr": "Треќи доктур збори:",
+       "lat": "Treḱi doktur zbori:",
+       "en": "The third doctor says:"
+      },
+      {
+       "cyr": "- Ленче ќе стане, еј аман.",
+       "lat": "- Lenče ḱe stane, ej aman.",
+       "en": "- Lenche will get up, hey aman."
+      },
+      {
+       "cyr": "Еј, аман, аман, еј, аман.",
+       "lat": "Ej, aman, aman, ej, aman.",
+       "en": "Hey, aman, aman, hey, aman."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,166 @@
+{
+ "id": 389,
+ "slug": "tri-godini-se-ljubevme",
+ "title_cyr": "Три години се љубевме",
+ "title_latin": "Tri godini se ljubevme",
+ "title_en": "Three years we were in love",
+ "pesna_url": "https://pesna.org/song/389",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Ансамбл Панче Пешев",
+  "Борка Мамула",
+  "Влатко Миладиноски",
+  "Елена Ристеска",
+  "Зоран Џорлев",
+  "Зора Василевска",
+  "Радио студио Скопје",
+  "Серенада",
+  "Сузана Спасовска",
+  "Чардаш"
+ ],
+ "audio": [
+  {
+   "who": "Чардаш",
+   "url": "https://pesna.org/audio-download/1174"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1175"
+  },
+  {
+   "who": "Влатко Миладиноски, Елена Ристеска, Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1176"
+  },
+  {
+   "who": "Зора Василевска",
+   "url": "https://pesna.org/audio-download/1177"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1933"
+  },
+  {
+   "who": "Александар Сариевски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2953"
+  },
+  {
+   "who": "Борка Мамула",
+   "url": "https://pesna.org/audio-download/3161"
+  },
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3848"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три години се љубевме",
+       "lat": "Tri godini se ljubevme",
+       "en": "Three years we were in love,"
+      },
+      {
+       "cyr": "лоша дума не рековме.",
+       "lat": "loša duma ne rekovme.",
+       "en": "not a bad word was spoken (between us)."
+      },
+      {
+       "cyr": "Зар не ти е жал бре либе, аман ли за мене,",
+       "lat": "Zar ne ti e žal bre libe, aman li za mene,",
+       "en": "Have you no pity for me, love,"
+      },
+      {
+       "cyr": "јас да умрам сè заради тебе?",
+       "lat": "jas da umram sè zaradi tebe?",
+       "en": "for me to die because of you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојта мајка песни пее,",
+       "lat": "Tvojta majka pesni pee,",
+       "en": "Your mother is singing songs (for you),"
+      },
+      {
+       "cyr": "а пак мојта солзи лее.",
+       "lat": "a pak mojta solzi lee.",
+       "en": "mine is laying tears for me."
+      },
+      {
+       "cyr": "Зар не ти е жал бре либе, аман ли за мене,",
+       "lat": "Zar ne ti e žal bre libe, aman li za mene,",
+       "en": "Have you no pity for me, love,"
+      },
+      {
+       "cyr": "јас да умрам сè заради тебе?",
+       "lat": "jas da umram sè zaradi tebe?",
+       "en": "for me to die because of you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе ти чукат тапаните,",
+       "lat": "Tebe ti čukat tapanite,",
+       "en": "Drums are banging for you,*"
+      },
+      {
+       "cyr": "а пак мене камбаните.",
+       "lat": "a pak mene kambanite.",
+       "en": "bells are ringing for me."
+      },
+      {
+       "cyr": "Зар не ти е жално либе, аман ли за мене,",
+       "lat": "Zar ne ti e žalno libe, aman li za mene,",
+       "en": "Have you no pity for me, love,"
+      },
+      {
+       "cyr": "јас да умрам сè заради тебе?",
+       "lat": "jas da umram sè zaradi tebe?",
+       "en": "for me to die because of you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе те носат на венчило,",
+       "lat": "Tebe te nosat na venčilo,",
+       "en": "They are bringing you to a wedding,*"
+      },
+      {
+       "cyr": "а пак мене на носило.",
+       "lat": "a pak mene na nosilo.",
+       "en": "they are bringing me to a hanging."
+      },
+      {
+       "cyr": "Зар не ти е жално либе, аман ли за мене,",
+       "lat": "Zar ne ti e žalno libe, aman li za mene,",
+       "en": "Have you no pity for me, love,"
+      },
+      {
+       "cyr": "јас да умрам сè заради тебе?",
+       "lat": "jas da umram sè zaradi tebe?",
+       "en": "for me to die because of you?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

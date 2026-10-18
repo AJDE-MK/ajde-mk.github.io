@@ -1,0 +1,162 @@
+{
+ "id": 58,
+ "slug": "se-svalila-mitra-dolu-vo-gradina",
+ "title_cyr": "Се свалила Митра долу во градина",
+ "title_latin": "Se svalila Mitra dolu vo gradina",
+ "title_en": "Mitra Went Down Into the Garden",
+ "pesna_url": "https://pesna.org/song/58",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'ран бел босилок' is my reading as 'early white basil'; the song ends with Mitra preferring death to changing her faith.",
+ "words_to_learn": [
+  {
+   "mk": "се свалила",
+   "en": "went down, descended"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "набере",
+   "en": "to pick, gather"
+  },
+  {
+   "mk": "босилок",
+   "en": "basil"
+  },
+  {
+   "mk": "аман",
+   "en": "oh (interjection of pleading or woe)"
+  },
+  {
+   "mk": "јузбашии",
+   "en": "captains (Turkish yüzbaşı, officers)"
+  },
+  {
+   "mk": "Солун",
+   "en": "Salonica, Thessaloniki"
+  },
+  {
+   "mk": "вера",
+   "en": "faith, religion"
+  }
+ ],
+ "performers": [
+  "Коста Новакис"
+ ],
+ "audio": [
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/2179"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се свалила Митра, се свалила,",
+       "lat": "Se svalila Mitra, se svalila,",
+       "en": "Mitra went down, went down,"
+      },
+      {
+       "cyr": "аман се свалила Митра,",
+       "lat": "aman se svalila Mitra,",
+       "en": "oh, Mitra went down,"
+      },
+      {
+       "cyr": "долу во градина.",
+       "lat": "dolu vo gradina.",
+       "en": "down into the garden."
+      },
+      {
+       "cyr": "Да набере Митра, да набере,",
+       "lat": "Da nabere Mitra, da nabere,",
+       "en": "To pick, Mitra, to pick,"
+      },
+      {
+       "cyr": "да набере Митра,",
+       "lat": "da nabere Mitra,",
+       "en": "to pick, Mitra,"
+      },
+      {
+       "cyr": "ран бел босилок.",
+       "lat": "ran bel bosilok.",
+       "en": "early white basil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја фатиле Митра, ја фатиле,",
+       "lat": "Ja fatile Mitra, ja fatile,",
+       "en": "They caught Mitra, they caught her,"
+      },
+      {
+       "cyr": "ама ја фатија Митра,",
+       "lat": "ama ja fatija Mitra,",
+       "en": "yes, they caught Mitra,"
+      },
+      {
+       "cyr": "Турци јузбашии.",
+       "lat": "Turci juzbašii.",
+       "en": "Turkish captains."
+      },
+      {
+       "cyr": "Ја носиле Митра, ја носиле,",
+       "lat": "Ja nosile Mitra, ja nosile,",
+       "en": "They carried Mitra, carried her,"
+      },
+      {
+       "cyr": "аман ја носиле Митра,",
+       "lat": "aman ja nosile Mitra,",
+       "en": "oh, they carried Mitra,"
+      },
+      {
+       "cyr": "дури во града Солуна.",
+       "lat": "duri vo grada Soluna.",
+       "en": "as far as the city of Salonica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја питале Митра, ја питале,",
+       "lat": "Ja pitale Mitra, ja pitale,",
+       "en": "They asked Mitra, asked her,"
+      },
+      {
+       "cyr": "аман ја питале Митра,",
+       "lat": "aman ja pitale Mitra,",
+       "en": "oh, they asked Mitra,"
+      },
+      {
+       "cyr": "чија вера сака.",
+       "lat": "čija vera saka.",
+       "en": "whose faith she wants."
+      },
+      {
+       "cyr": "Глава дава Митра, глава дава,",
+       "lat": "Glava dava Mitra, glava dava,",
+       "en": "Mitra gives her head, gives her head,"
+      },
+      {
+       "cyr": "аман глава дава Митра.",
+       "lat": "aman glava dava Mitra.",
+       "en": "oh, Mitra gives her head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

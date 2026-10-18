@@ -1,0 +1,158 @@
+{
+ "id": 801,
+ "slug": "promeni-se-sute",
+ "title_cyr": "Промени се, Суте",
+ "title_latin": "Promeni se, Sute",
+ "title_en": "Change Your Clothes, Sute",
+ "pesna_url": "https://pesna.org/song/801",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'Да зажарват' I render 'will be jealous' (literally 'will burn'); 'Клепки има, очи нема' is a poetic image I read as 'I have lashes but no eyes (nothing to see with) since he does not come'; my reading.",
+ "words_to_learn": [
+  {
+   "mk": "промени се",
+   "en": "change (your clothes)"
+  },
+  {
+   "mk": "нареди се",
+   "en": "dress up, adorn yourself"
+  },
+  {
+   "mk": "портето",
+   "en": "the (small) gate"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "tip, gift of money"
+  },
+  {
+   "mk": "алтани",
+   "en": "gold coins"
+  },
+  {
+   "mk": "мамудии",
+   "en": "mamudiye, Ottoman gold coins"
+  },
+  {
+   "mk": "гуша",
+   "en": "throat, neck"
+  },
+  {
+   "mk": "друшки",
+   "en": "girlfriends, companions"
+  }
+ ],
+ "performers": [
+  "Македонски народен ансамбл",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1543"
+  },
+  {
+   "who": "Македонски народен ансамбл",
+   "url": "https://pesna.org/audio-download/3018"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Промени се, Суте, нареди се,",
+       "lat": "- Promeni se, Sute, naredi se,",
+       "en": "- Change your clothes, Sute, dress up,"
+      },
+      {
+       "cyr": "па излези, Суте мори, на портето.",
+       "lat": "pa izlezi, Sute mori, na porteto.",
+       "en": "and come out, Sute dear, to the gate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе те гледа, Суте, свекрвата,",
+       "lat": "Ḱe te gleda, Sute, svekrvata,",
+       "en": "Your mother-in-law will see you, Sute,"
+      },
+      {
+       "cyr": "ќе ти даде, Суте мори, голем бакшиш.",
+       "lat": "ḱe ti dade, Sute mori, golem bakšiš.",
+       "en": "she will give you, Sute dear, a big tip."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем бакшиш Суте, ред алтани,",
+       "lat": "Golem bakšiš Sute, red altani,",
+       "en": "A big tip, Sute, a row of gold coins,"
+      },
+      {
+       "cyr": "ред алтани, Суте мори, мамудии.",
+       "lat": "red altani, Sute mori, mamudii.",
+       "en": "a row of gold coins, Sute dear, mamudiye coins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ги врзеш, Суте, на гушата,",
+       "lat": "Da gi vrzeš, Sute, na gušata,",
+       "en": "Tie them, Sute, around your neck,"
+      },
+      {
+       "cyr": "да зажарват, Суте мори, твоите друшки.",
+       "lat": "da zažarvat, Sute mori, tvoite druški.",
+       "en": "so your friends, Sute dear, will be jealous."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ја чекам, мајко, свекрва ми,",
+       "lat": "- Ne ja čekam, majko, svekrva mi,",
+       "en": "- I am not waiting, mother, for my mother-in-law,"
+      },
+      {
+       "cyr": "туку си го чекам, мајко, моето либе.",
+       "lat": "tuku si go čekam, majko, moeto libe.",
+       "en": "but I am waiting, mother, for my sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Клепки има, мајко, очи нема,",
+       "lat": "Klepki ima, majko, oči nema,",
+       "en": "There are lashes, mother, but no eyes,"
+      },
+      {
+       "cyr": "штом не иде, мила мајко, да ме земе.",
+       "lat": "štom ne ide, mila majko, da me zeme.",
+       "en": "since he does not come, dear mother, to take me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

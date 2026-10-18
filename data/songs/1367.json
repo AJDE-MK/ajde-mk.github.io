@@ -1,0 +1,177 @@
+{
+ "id": 1367,
+ "slug": "bolno-mi-legnalo-viteto-belevo",
+ "title_cyr": "Болно ми легнало Витето Белево",
+ "title_latin": "Bolno mi legnalo Viteto Belevo",
+ "title_en": "Vito Belevo lay ill",
+ "pesna_url": "https://pesna.org/song/1367",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Lines 5-6 of stanza 5 and the Rafail stanzas are unclear; my reading of 'сабја го пресече' is that Rafail cut himself or someone in the heart. 'копан' translated as 'beetle' (laundry beater) per the source note; 'Витето Белево' is a name (Vita Belevo).",
+ "words_to_learn": [
+  {
+   "mk": "болно",
+   "en": "ill, sick"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "мераци",
+   "en": "longing, desires, cravings"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market street"
+  },
+  {
+   "mk": "доктор",
+   "en": "doctor"
+  },
+  {
+   "mk": "сабја",
+   "en": "sword, saber"
+  },
+  {
+   "mk": "копан",
+   "en": "wooden laundry beater"
+  },
+  {
+   "mk": "фирали",
+   "en": "women's slippers (filari)"
+  },
+  {
+   "mk": "уш'",
+   "en": "still, yet (dialect)"
+  }
+ ],
+ "performers": [
+  "КУД Илинден Струга",
+  "Струшки бисери",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/3541"
+  },
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/3542"
+  },
+  {
+   "who": "КУД Илинден Струга",
+   "url": "https://pesna.org/audio-download/3543"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болно ми легнало Витето Белево.",
+       "lat": "Bolno mi legnalo Viteto Belevo.",
+       "en": "Vito Belevo has lain ill."
+      },
+      {
+       "cyr": "Болно ми легнало, болно на постела.",
+       "lat": "Bolno mi legnalo, bolno na postela.",
+       "en": "She has lain ill, ill in bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Болно на постела од пусти мераци.",
+       "lat": "Bolno na postela od pusti meraci.",
+       "en": "Ill in bed from cursed longing."
+      },
+      {
+       "cyr": "Од пусти мераци за тој Петруша.",
+       "lat": "Od pusti meraci za toj Petruša.",
+       "en": "From cursed longing for that Petrusha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми излезе Санте долу в' чаршија.",
+       "lat": "Mi izleze Sante dolu v' čaršija.",
+       "en": "Sante came out down to the bazaar."
+      },
+      {
+       "cyr": "Ми повика Санте до два доктора.",
+       "lat": "Mi povika Sante do dva doktora.",
+       "en": "Sante called for two doctors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први доктор велеше Витето ќе умрит.",
+       "lat": "Prvi doktor veleše Viteto ḱe umrit.",
+       "en": "The first doctor said Vito will die."
+      },
+      {
+       "cyr": "Втори доктор велеше уш' не се знае.",
+       "lat": "Vtori doktor veleše uš' ne se znae.",
+       "en": "The second doctor said it's still not known."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога разбрал Рафаил, сабја го пресече.",
+       "lat": "Koga razbral Rafail, sabja go preseče.",
+       "en": "When Rafail found out, he cut with his sword."
+      },
+      {
+       "cyr": "Сабја го пресече во бело срце.",
+       "lat": "Sabja go preseče vo belo srce.",
+       "en": "He cut with his sword into the white heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ете го Рафаил кај иде со копан на рамо.",
+       "lat": "Ete go Rafail kaj ide so kopan na ramo.",
+       "en": "There is Rafail, coming with a beetle on his shoulder."
+      },
+      {
+       "cyr": "Со копан на рамо со се фирали.",
+       "lat": "So kopan na ramo so se firali.",
+       "en": "With a beetle on his shoulder, with slippers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За да го види Витето, Витето Белево.",
+       "lat": "Za da go vidi Viteto, Viteto Belevo.",
+       "en": "To see Vito, Vito Belevo."
+      },
+      {
+       "cyr": "Зошто болно лежи од пусти мераци.",
+       "lat": "Zošto bolno leži od pusti meraci.",
+       "en": "Because she lies ill from cursed longing."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

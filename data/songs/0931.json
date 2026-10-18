@@ -1,0 +1,180 @@
+{
+ "id": 931,
+ "slug": "fati-se-boe-na-oro",
+ "title_cyr": "Фати се Бое на оро",
+ "title_latin": "Fati se Boe na oro",
+ "title_en": "Join the Dance, Boe",
+ "pesna_url": "https://pesna.org/song/931",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Boe is a name, probably a girl's, given her sex in the 'фустанче' exchange (my reading). 'Лудо' is an affectionate address, rendered 'you fool'.",
+ "words_to_learn": [
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "фати се",
+   "en": "join (the dance), take hold"
+  },
+  {
+   "mk": "заиграј",
+   "en": "dance!"
+  },
+  {
+   "mk": "момите",
+   "en": "the girls"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "коланче",
+   "en": "little belt, sash"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "тенка половина",
+   "en": "slim waist"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, silly (affectionate address)"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Благоја Грујовски",
+  "Кале",
+  "Сузана Гавазова",
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/2103"
+  },
+  {
+   "who": "Благоја Грујовски, Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/2104"
+  },
+  {
+   "who": "Анета Љумаковска, Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/2105"
+  },
+  {
+   "who": "Кале",
+   "url": "https://pesna.org/audio-download/2700"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Фати се Бое мори на оро,",
+       "lat": "- Fati se Boe mori na oro,",
+       "en": "- Join the dance, Boe, hey,"
+      },
+      {
+       "cyr": "орото не прилега без тебе,",
+       "lat": "oroto ne prilega bez tebe,",
+       "en": "the dance does not look right without you,"
+      },
+      {
+       "cyr": "момите плачат, Бое, за тебе.",
+       "lat": "momite plačat, Boe, za tebe.",
+       "en": "the girls are crying, Boe, for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како да се фатам, лудо, на оро,",
+       "lat": "- Kako da se fatam, ludo, na oro,",
+       "en": "- How can I join the dance, you fool,"
+      },
+      {
+       "cyr": "кога си немам, лудо, фустанче,",
+       "lat": "koga si nemam, ludo, fustanče,",
+       "en": "when I have no little dress, you fool,"
+      },
+      {
+       "cyr": "за тенка половина коланче?",
+       "lat": "za tenka polovina kolanče?",
+       "en": "no little belt for my slim waist?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Фати се Бое мори заиграј,",
+       "lat": "- Fati se Boe mori zaigraj,",
+       "en": "- Join the dance, Boe, hey, dance,"
+      },
+      {
+       "cyr": "јас ќе ти купам, Бое, фустанче,",
+       "lat": "jas ḱe ti kupam, Boe, fustanče,",
+       "en": "I will buy you a little dress, Boe,"
+      },
+      {
+       "cyr": "за тенка половина коланче.",
+       "lat": "za tenka polovina kolanče.",
+       "en": "and a little belt for your slim waist."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како да се фатам, лудо, на оро,",
+       "lat": "- Kako da se fatam, ludo, na oro,",
+       "en": "- How can I join the dance, you fool,"
+      },
+      {
+       "cyr": "кога си немам, лудо, фустанче,",
+       "lat": "koga si nemam, ludo, fustanče,",
+       "en": "when I have no little dress, you fool,"
+      },
+      {
+       "cyr": "за бело грло, лудо, ѓерданче?",
+       "lat": "za belo grlo, ludo, ǵerdanče?",
+       "en": "no little necklace for my white throat?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Фати се Бое мори, заиграј,",
+       "lat": "- Fati se Boe mori, zaigraj,",
+       "en": "- Join the dance, Boe, hey, dance,"
+      },
+      {
+       "cyr": "јас ќе ти купам, Бое, фустанче,",
+       "lat": "jas ḱe ti kupam, Boe, fustanče,",
+       "en": "I will buy you a little dress, Boe,"
+      },
+      {
+       "cyr": "за бело грло, Бое, ѓерданче.",
+       "lat": "za belo grlo, Boe, ǵerdanče.",
+       "en": "and a little necklace for your white throat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,245 @@
+{
+ "id": 1174,
+ "slug": "gjorgjija-more-terzija",
+ "title_cyr": "Ѓорѓија море терзија",
+ "title_latin": "Ǵorǵija more terzija",
+ "title_en": "Giorgia, hey tailor",
+ "pesna_url": "https://pesna.org/song/1174",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A riddle-like exchange of impossible tasks between a woman and a tailor, ending in a marriage promise. 'Ујдисам' follows the given note (to fit); 'од око' I render 'by eye'.",
+ "words_to_learn": [
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "ќурдија",
+   "en": "jacket, coat"
+  },
+  {
+   "mk": "аршин",
+   "en": "old unit of length (measuring stick)"
+  },
+  {
+   "mk": "ујдиса",
+   "en": "to fit, adjust"
+  },
+  {
+   "mk": "педа",
+   "en": "span of a hand"
+  },
+  {
+   "mk": "восок",
+   "en": "wax"
+  },
+  {
+   "mk": "погача",
+   "en": "round flat loaf"
+  },
+  {
+   "mk": "трепки",
+   "en": "eyelashes"
+  },
+  {
+   "mk": "век да векувам",
+   "en": "to live out my life"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2847"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ѓорѓија море терзија,",
+       "lat": "- Ǵorǵija more terzija,",
+       "en": "- Giorgia, hey tailor,"
+      },
+      {
+       "cyr": "сошиј ми една ќурдија,",
+       "lat": "sošij mi edna ḱurdija,",
+       "en": "sew me a jacket,"
+      },
+      {
+       "cyr": "без аршин да ја измериш,",
+       "lat": "bez aršin da ja izmeriš,",
+       "en": "measure it without an arshin,"
+      },
+      {
+       "cyr": "без конци да ја сошиеш,",
+       "lat": "bez konci da ja sošieš,",
+       "en": "sew it without thread,"
+      },
+      {
+       "cyr": "од око да ја ујдисаш,",
+       "lat": "od oko da ja ujdisaš,",
+       "en": "fit it by eye,"
+      },
+      {
+       "cyr": "ќурдија да ми сошиеш,",
+       "lat": "ḱurdija da mi sošieš,",
+       "en": "sew me a jacket,"
+      },
+      {
+       "cyr": "од око да ја направиш,",
+       "lat": "od oko da ja napraviš,",
+       "en": "make it by eye,"
+      },
+      {
+       "cyr": "ќурдија да ми ујдисаш.",
+       "lat": "ḱurdija da mi ujdisaš.",
+       "en": "fit me a jacket."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах мори Доце Попова,",
+       "lat": "- Ah mori Doce Popova,",
+       "en": "- Ah, hey Doce Popova,"
+      },
+      {
+       "cyr": "ќурдија ќе ти сошијам,",
+       "lat": "ḱurdija ḱe ti sošijam,",
+       "en": "I will sew you a jacket,"
+      },
+      {
+       "cyr": "од сенка мера ќе земам,",
+       "lat": "od senka mera ḱe zemam,",
+       "en": "I will take the measure from a shadow,"
+      },
+      {
+       "cyr": "со педа ќе ја измерам,",
+       "lat": "so peda ḱe ja izmeram,",
+       "en": "I will measure it with a span,"
+      },
+      {
+       "cyr": "со восок ќе ја излепам,",
+       "lat": "so vosok ḱe ja izlepam,",
+       "en": "I will glue it with wax,"
+      },
+      {
+       "cyr": "ќурдија ќе ти ујдисам,",
+       "lat": "ḱurdija ḱe ti ujdisam,",
+       "en": "I will fit you a jacket,"
+      },
+      {
+       "cyr": "со восок ќе ја излепам,",
+       "lat": "so vosok ḱe ja izlepam,",
+       "en": "I will glue it with wax,"
+      },
+      {
+       "cyr": "ќурдија ќе ти ујдисам.",
+       "lat": "ḱurdija ḱe ti ujdisam.",
+       "en": "I will fit you a jacket."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори Доце Попова,",
+       "lat": "Ah mori Doce Popova,",
+       "en": "Ah, hey Doce Popova,"
+      },
+      {
+       "cyr": "ти да ми месиш погача,",
+       "lat": "ti da mi mesiš pogača,",
+       "en": "you knead me a loaf,"
+      },
+      {
+       "cyr": "без сито брашно да сееш,",
+       "lat": "bez sito brašno da seeš,",
+       "en": "sift the flour without a sieve,"
+      },
+      {
+       "cyr": "без вода да ја замесиш,",
+       "lat": "bez voda da ja zamesiš,",
+       "en": "knead it without water,"
+      },
+      {
+       "cyr": "без огон да ја испечеш,",
+       "lat": "bez ogon da ja ispečeš,",
+       "en": "bake it without a fire,"
+      },
+      {
+       "cyr": "бела погача да јадам,",
+       "lat": "bela pogača da jadam,",
+       "en": "so I can eat a white loaf,"
+      },
+      {
+       "cyr": "бела погача да јадам,",
+       "lat": "bela pogača da jadam,",
+       "en": "so I can eat a white loaf,"
+      },
+      {
+       "cyr": "од тебе Доце Попова.",
+       "lat": "od tebe Doce Popova.",
+       "en": "from you, Doce Popova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах море Ѓорѓи терзија,",
+       "lat": "- Ah more Ǵorǵi terzija,",
+       "en": "- Ah, hey Giorgi the tailor,"
+      },
+      {
+       "cyr": "погача ќе ти замесам,",
+       "lat": "pogača ḱe ti zamesam,",
+       "en": "I will knead you a loaf,"
+      },
+      {
+       "cyr": "со трепки брашно ќе сеам,",
+       "lat": "so trepki brašno ḱe seam,",
+       "en": "I will sift the flour with eyelashes,"
+      },
+      {
+       "cyr": "со солзи ќе ја замесам,",
+       "lat": "so solzi ḱe ja zamesam,",
+       "en": "I will knead it with tears,"
+      },
+      {
+       "cyr": "на гради ќе ја испечам",
+       "lat": "na gradi ḱe ja ispečam",
+       "en": "I will bake it on my breast,"
+      },
+      {
+       "cyr": "и тебе Ѓорѓи ќе земам,",
+       "lat": "i tebe Ǵorǵi ḱe zemam,",
+       "en": "and I will take you, Giorgi,"
+      },
+      {
+       "cyr": "и тебе Ѓорѓи ќе земам,",
+       "lat": "i tebe Ǵorǵi ḱe zemam,",
+       "en": "and I will take you, Giorgi,"
+      },
+      {
+       "cyr": "со тебе век да векувам.",
+       "lat": "so tebe vek da vekuvam.",
+       "en": "to live my whole life with you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

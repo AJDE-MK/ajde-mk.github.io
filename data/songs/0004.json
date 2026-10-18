@@ -1,0 +1,156 @@
+{
+ "id": 4,
+ "slug": "da-mi-puknish-stara-majko",
+ "title_cyr": "Да ми пукниш, стара мајко",
+ "title_latin": "Da mi pukniš, stara majko",
+ "title_en": "May you burst, old mother",
+ "pesna_url": "https://pesna.org/song/4",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Костурчанки"
+ ],
+ "audio": [
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/994"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Да ми пукниш, стара мајко,",
+       "lat": "Da mi pukniš, stara majko,",
+       "en": "May you burst, old mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да тресниш, да тресниш,",
+       "lat": "da tresniš, da tresniš,",
+       "en": "Burst and explode,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зашчо ме роди, мамо, убава, калеша!",
+       "lat": "zaščo me rodi, mamo, ubava, kaleša!",
+       "en": "For you've born me beautiful!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Да не можа на портето,",
+       "lat": "Da ne moža na porteto,",
+       "en": "I can't go outside, old mother, on the porch,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да слеза, да слезам,",
+       "lat": "da sleza, da slezam,",
+       "en": "to go down, to go down,",
+       "en_mt": true
+      },
+      {
+       "cyr": "од тие пусти, мамо, беќари, ергени.",
+       "lat": "od tie pusti, mamo, beḱari, ergeni.",
+       "en": "Because of those damn bachelors, Those young lads!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свилена марама, мамо,",
+       "lat": "Svilena marama, mamo,",
+       "en": "They gave me a knitted scarf",
+       "en_mt": false
+      },
+      {
+       "cyr": "даваја, давае,",
+       "lat": "davaja, davae,",
+       "en": "they gave, they gave,",
+       "en_mt": true
+      },
+      {
+       "cyr": "бело ми лице, мамо,",
+       "lat": "belo mi lice, mamo,",
+       "en": "But wanted my white face.",
+       "en_mt": false
+      },
+      {
+       "cyr": "сакаја, сакае.",
+       "lat": "sakaja, sakae.",
+       "en": "they wanted, they wanted.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срмено елече, мамо,",
+       "lat": "Srmeno eleče, mamo,",
+       "en": "They gave me a red eleče*",
+       "en_mt": false
+      },
+      {
+       "cyr": "даваја, даваје,",
+       "lat": "davaja, davaje,",
+       "en": "they gave, they gave,",
+       "en_mt": true
+      },
+      {
+       "cyr": "црни ми очи, мамо,",
+       "lat": "crni mi oči, mamo,",
+       "en": "But wanted my black eyes.",
+       "en_mt": false
+      },
+      {
+       "cyr": "сакаја, сакаје.",
+       "lat": "sakaja, sakaje.",
+       "en": "they wanted, they wanted.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Низа жолтици, мамо,",
+       "lat": "Niza žoltici, mamo,",
+       "en": "They gave me golden coins",
+       "en_mt": false
+      },
+      {
+       "cyr": "даваја, даваа,",
+       "lat": "davaja, davaa,",
+       "en": "they gave, they gave,",
+       "en_mt": true
+      },
+      {
+       "cyr": "рамна ми снага, мамо,",
+       "lat": "ramna mi snaga, mamo,",
+       "en": "But wanted my tall body!",
+       "en_mt": false
+      },
+      {
+       "cyr": "сакаја, сакаа.",
+       "lat": "sakaja, sakaa.",
+       "en": "they wanted, they wanted.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

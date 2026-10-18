@@ -1,0 +1,141 @@
+{
+ "id": 1597,
+ "slug": "od-bair-maalo-mamo-do-shirok-sokak",
+ "title_cyr": "Од Баир Маало мамо, до Широк Сокак",
+ "title_latin": "Od Bair Maalo mamo, do Širok Sokak",
+ "title_en": "From Bair Maalo, Mother, to Shirok Sokak",
+ "pesna_url": "https://pesna.org/song/1597",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (Bitola song, possibly a composed city song) but I cannot name an author. 'Венчаница амајлија' is my reading (a dress that serves as a good-luck charm).",
+ "words_to_learn": [
+  {
+   "mk": "маало",
+   "en": "neighborhood (Turkish loan)"
+  },
+  {
+   "mk": "сокак",
+   "en": "street (Turkish loan)"
+  },
+  {
+   "mk": "широк",
+   "en": "wide"
+  },
+  {
+   "mk": "се веселат",
+   "en": "make merry"
+  },
+  {
+   "mk": "чочек",
+   "en": "chochek, a lively folk dance"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, old market quarter"
+  },
+  {
+   "mk": "венчаница",
+   "en": "wedding dress"
+  },
+  {
+   "mk": "амајлија",
+   "en": "amulet, charm"
+  },
+  {
+   "mk": "довека",
+   "en": "for ever"
+  }
+ ],
+ "performers": [
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/4162"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од Баир Маало мамо, до Широк Сокак",
+       "lat": "Od Bair Maalo mamo, do Širok Sokak",
+       "en": "From Bair Maalo, mother, to Shirok Sokak"
+      },
+      {
+       "cyr": "сите пеат и се веселат.",
+       "lat": "site peat i se veselat.",
+       "en": "everyone sings and makes merry."
+      },
+      {
+       "cyr": "Сите пеат и се веселат,",
+       "lat": "Site peat i se veselat,",
+       "en": "Everyone sings and makes merry,"
+      },
+      {
+       "cyr": "старо, младо чочек играат.",
+       "lat": "staro, mlado čoček igraat.",
+       "en": "old and young dance the chochek."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде моме мори до чаршија,",
+       "lat": "Ajde mome mori do čaršija,",
+       "en": "Come, girl, hey, to the bazaar,"
+      },
+      {
+       "cyr": "да ти купам венчаница.",
+       "lat": "da ti kupam venčanica.",
+       "en": "let me buy you a wedding dress."
+      },
+      {
+       "cyr": "Да ти купам венчаница,",
+       "lat": "Da ti kupam venčanica,",
+       "en": "Let me buy you a wedding dress,"
+      },
+      {
+       "cyr": "венчаница амајлија.",
+       "lat": "venčanica amajlija.",
+       "en": "a wedding dress, an amulet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде моме мори до Битола,",
+       "lat": "Ajde mome mori do Bitola,",
+       "en": "Come, girl, hey, to Bitola,"
+      },
+      {
+       "cyr": "во Баир Маало и Широк Сокак.",
+       "lat": "vo Bair Maalo i Širok Sokak.",
+       "en": "to Bair Maalo and Shirok Sokak."
+      },
+      {
+       "cyr": "Да ми бидеш млада невеста,",
+       "lat": "Da mi bideš mlada nevesta,",
+       "en": "Be my young bride,"
+      },
+      {
+       "cyr": "млада невеста, жена довека.",
+       "lat": "mlada nevesta, žena doveka.",
+       "en": "young bride, wife for ever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

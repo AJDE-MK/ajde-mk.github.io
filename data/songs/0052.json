@@ -1,0 +1,90 @@
+{
+ "id": 52,
+ "slug": "dinka-dvori-mete",
+ "title_cyr": "Динка двори мете",
+ "title_latin": "Dinka dvori mete",
+ "title_en": "Dinka sweeps the yard",
+ "pesna_url": "https://pesna.org/song/52",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The surnames are patronymic-style (Popova = priest's, Pop-Nikolova = Priest Nikola's); kept as names.",
+ "words_to_learn": [
+  {
+   "mk": "двори",
+   "en": "yard, courtyard"
+  },
+  {
+   "mk": "мете",
+   "en": "sweeps"
+  },
+  {
+   "mk": "дробни",
+   "en": "small, fine"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "рони",
+   "en": "sheds, drops"
+  },
+  {
+   "mk": "поп",
+   "en": "priest"
+  }
+ ],
+ "performers": [
+  "Hor Radio Televizije Beograd"
+ ],
+ "audio": [
+  {
+   "who": "Hor Radio Televizije Beograd",
+   "url": "https://pesna.org/audio-download/3222"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Динка двори мете,",
+       "lat": "Dinka dvori mete,",
+       "en": "Dinka sweeps the yard,"
+      },
+      {
+       "cyr": "дробни солзи рони.",
+       "lat": "drobni solzi roni.",
+       "en": "shedding small tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Динка Попова, Икономова,",
+       "lat": "Dinka Popova, Ikonomova,",
+       "en": "Dinka Popova, Ikonomova,"
+      },
+      {
+       "cyr": "Динка, Динка Попова,",
+       "lat": "Dinka, Dinka Popova,",
+       "en": "Dinka, Dinka Popova,"
+      },
+      {
+       "cyr": "Поп-Николова.",
+       "lat": "Pop-Nikolova.",
+       "en": "Pop-Nikolova."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

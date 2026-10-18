@@ -1,0 +1,184 @@
+{
+ "id": 1328,
+ "slug": "ej-odrodnici",
+ "title_cyr": "Еј одродници",
+ "title_latin": "Ej odrodnici",
+ "title_en": "Hey, Renegades",
+ "pesna_url": "https://pesna.org/song/1328",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "About the 1948 Aegean Macedonian child refugees; origin unclear and clearly modern, but I cannot name an author. 'Беломорје' (Aegean) and the verbs 'разнебитат/однародат' are my reading (break up / denationalise).",
+ "words_to_learn": [
+  {
+   "mk": "одродник",
+   "en": "renegade, traitor to one's people"
+  },
+  {
+   "mk": "напатени",
+   "en": "tormented, suffered"
+  },
+  {
+   "mk": "распадени",
+   "en": "scattered"
+  },
+  {
+   "mk": "огниште",
+   "en": "hearth, family home"
+  },
+  {
+   "mk": "растуривте",
+   "en": "you scattered, destroyed"
+  },
+  {
+   "mk": "род",
+   "en": "kin, clan"
+  },
+  {
+   "mk": "Беломорје",
+   "en": "the Aegean coast (White Sea)"
+  },
+  {
+   "mk": "клетва",
+   "en": "curse"
+  },
+  {
+   "mk": "раздени",
+   "en": "to dawn"
+  }
+ ],
+ "performers": [
+  "Благоја Грујовски"
+ ],
+ "audio": [
+  {
+   "who": "Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/3396"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Деца бевме напатени)",
+       "lat": "(Deca bevme napateni)",
+       "en": "(We were children, tormented)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деца бевме напатени,",
+       "lat": "Deca bevme napateni,",
+       "en": "We were children, tormented,"
+      },
+      {
+       "cyr": "ширум светот распадени,",
+       "lat": "širum svetot raspadeni,",
+       "en": "scattered widely across the world,"
+      },
+      {
+       "cyr": "само да не разнебитат,",
+       "lat": "samo da ne raznebitat,",
+       "en": "only so that they would not break us up,"
+      },
+      {
+       "cyr": "само да не однародат.",
+       "lat": "samo da ne odnarodat.",
+       "en": "only so that they would not make us lose our nation."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј одродници, што ни сторивте,",
+       "lat": "Ej odrodnici, što ni storivte,",
+       "en": "Hey renegades, what have you done to us,"
+      },
+      {
+       "cyr": "свети огништа ни растуривте,",
+       "lat": "sveti ogništa ni rasturivte,",
+       "en": "you scattered our sacred hearths,"
+      },
+      {
+       "cyr": "ко што било пак ќе биде,",
+       "lat": "ko što bilo pak ḱe bide,",
+       "en": "what was will be again,"
+      },
+      {
+       "cyr": "род со рода ќе се види,",
+       "lat": "rod so roda ḱe se vidi,",
+       "en": "kin will meet kin,"
+      },
+      {
+       "cyr": "Беломорје нов ден ќе го раздени.",
+       "lat": "Belomorje nov den ḱe go razdeni.",
+       "en": "the Aegean will bring a new day to dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Солзи тешки Беломорски,",
+       "lat": "Solzi teški Belomorski,",
+       "en": "Heavy tears of the Aegean,"
+      },
+      {
+       "cyr": "нигде пристан татков, мајчински,",
+       "lat": "nigde pristan tatkov, majčinski,",
+       "en": "no haven anywhere, father's or mother's,"
+      },
+      {
+       "cyr": "клетва лута ќе ги стигне,",
+       "lat": "kletva luta ḱe gi stigne,",
+       "en": "the bitter curse will catch up with them,"
+      },
+      {
+       "cyr": "тажен Егеј ќе ги проколне.",
+       "lat": "tažen Egej ḱe gi prokolne.",
+       "en": "the sad Aegean will curse them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј одродници, што ни сторивте,",
+       "lat": "Ej odrodnici, što ni storivte,",
+       "en": "Hey renegades, what have you done to us,"
+      },
+      {
+       "cyr": "свети огништа ни растуривте,",
+       "lat": "sveti ogništa ni rasturivte,",
+       "en": "you scattered our sacred hearths,"
+      },
+      {
+       "cyr": "ко што било пак ќе биде,",
+       "lat": "ko što bilo pak ḱe bide,",
+       "en": "what was will be again,"
+      },
+      {
+       "cyr": "род со рода ќе се види,",
+       "lat": "rod so roda ḱe se vidi,",
+       "en": "kin will meet kin,"
+      },
+      {
+       "cyr": "Беломорје нов ден ќе го раздени.",
+       "lat": "Belomorje nov den ḱe go razdeni.",
+       "en": "the Aegean will bring a new day to dawn."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

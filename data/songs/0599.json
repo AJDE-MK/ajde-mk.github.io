@@ -1,0 +1,188 @@
+{
+ "id": 599,
+ "slug": "brala-moma-kapini",
+ "title_cyr": "Брала мома капини",
+ "title_latin": "Brala moma kapini",
+ "title_en": "A Girl Was Picking Blackberries",
+ "pesna_url": "https://pesna.org/song/599",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'падарот' is my reading as 'field guard' (a dialect/Turkish-derived word, not certain). The joke is that the guard asks her to shorten her dress and hair so she does not damage the crops.",
+ "words_to_learn": [
+  {
+   "mk": "брала",
+   "en": "was picking (past tense, feminine)"
+  },
+  {
+   "mk": "капини",
+   "en": "blackberries"
+  },
+  {
+   "mk": "чичо",
+   "en": "uncle (father's brother)"
+  },
+  {
+   "mk": "здогледал",
+   "en": "caught sight of, spotted"
+  },
+  {
+   "mk": "падар",
+   "en": "field-watchman, guard of the fields"
+  },
+  {
+   "mk": "постој",
+   "en": "stop, stay a moment"
+  },
+  {
+   "mk": "бостан",
+   "en": "melon or vegetable patch"
+  },
+  {
+   "mk": "лоза",
+   "en": "grapevine"
+  },
+  {
+   "mk": "мрсиш",
+   "en": "you tangle, mess up"
+  },
+  {
+   "mk": "аман",
+   "en": "Turkish-derived cry of plea or lament (oh, mercy)"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Рахилка Бурзевска",
+  "Соња Тарчуловска",
+  "Bill Skimos Band"
+ ],
+ "audio": [
+  {
+   "who": "Рахилка Бурзевска",
+   "url": "https://pesna.org/audio-download/836"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/837"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1981"
+  },
+  {
+   "who": "Соња Тарчуловска",
+   "url": "https://pesna.org/audio-download/2615"
+  },
+  {
+   "who": "Bill Skimos Band",
+   "url": "https://pesna.org/audio-download/3098"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Брала мома капини,",
+       "lat": "Brala moma kapini,",
+       "en": "A girl was picking blackberries,"
+      },
+      {
+       "cyr": "во чичови градини",
+       "lat": "vo čičovi gradini",
+       "en": "in her uncle's gardens,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја здогледал падарот",
+       "lat": "Ja zdogledal padarot",
+       "en": "The field-watchman spotted her"
+      },
+      {
+       "cyr": "и на моме говори",
+       "lat": "i na mome govori",
+       "en": "and speaks to the girl,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Постој моме, почекај,",
+       "lat": "- Postoj mome, počekaj,",
+       "en": "- Stop, girl, wait,"
+      },
+      {
+       "cyr": "да ти речам два збора,",
+       "lat": "da ti rečam dva zbora,",
+       "en": "let me say two words to you,"
+      },
+      {
+       "cyr": "оф, аман, аман аман.",
+       "lat": "of, aman, aman aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крени моме фустанот,",
+       "lat": "Kreni mome fustanot,",
+       "en": "Lift up your dress, girl,"
+      },
+      {
+       "cyr": "да не газиш бостанот,",
+       "lat": "da ne gaziš bostanot,",
+       "en": "so you don't trample the melon patch,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сечи моме косите,",
+       "lat": "Seči mome kosite,",
+       "en": "Cut your hair, girl,"
+      },
+      {
+       "cyr": "да не мрсиш лозите,",
+       "lat": "da ne mrsiš lozite,",
+       "en": "so you don't tangle the vines,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

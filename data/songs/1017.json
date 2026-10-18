@@ -1,0 +1,140 @@
+{
+ "id": 1017,
+ "slug": "sheta-gjuro-po-charshija",
+ "title_cyr": "Шета Ѓуро по чаршија",
+ "title_latin": "Šeta Ǵuro po čaršija",
+ "title_en": "Gjuro Walks Through the Bazaar",
+ "pesna_url": "https://pesna.org/song/1017",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'урубии' is a guess (possibly a dialect word for pocket contents or a type of coin/cloth); I could not identify it, so that line is my reading. The grape-turns-into-a-girl motif is a known folk-tale type.",
+ "words_to_learn": [
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market quarter"
+  },
+  {
+   "mk": "џеб",
+   "en": "pocket"
+  },
+  {
+   "mk": "гројзе",
+   "en": "grapes"
+  },
+  {
+   "mk": "риза",
+   "en": "shirt"
+  },
+  {
+   "mk": "зоба",
+   "en": "eats (pecks)"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "рачица",
+   "en": "little hand"
+  },
+  {
+   "mk": "одменица",
+   "en": "replacement, substitute"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Шета Ѓуро по чаршија,",
+       "lat": "Šeta Ǵuro po čaršija,",
+       "en": "Gjuro walks through the bazaar,"
+      },
+      {
+       "cyr": "нит' купуват, нит' продават.",
+       "lat": "nit' kupuvat, nit' prodavat.",
+       "en": "neither buying nor selling."
+      },
+      {
+       "cyr": "Раце држит во џепови,",
+       "lat": "Race držit vo džepovi,",
+       "en": "He keeps his hands in his pockets,"
+      },
+      {
+       "cyr": "полни му се урубии,",
+       "lat": "polni mu se urubii,",
+       "en": "his pockets are full of urubii,"
+      },
+      {
+       "cyr": "гројзе најде, гројзе купи",
+       "lat": "grojze najde, grojze kupi",
+       "en": "he found grapes, he bought grapes"
+      },
+      {
+       "cyr": "и го зави в' бела риза.",
+       "lat": "i go zavi v' bela riza.",
+       "en": "and wrapped them in a white shirt."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тргна дома да си оди,",
+       "lat": "Trgna doma da si odi,",
+       "en": "He set off to go home,"
+      },
+      {
+       "cyr": "оде, оде до пола сата,",
+       "lat": "ode, ode do pola sata,",
+       "en": "he walked, walked for half an hour,"
+      },
+      {
+       "cyr": "седна гројзе да го зоба.",
+       "lat": "sedna grojze da go zoba.",
+       "en": "sat down to eat the grapes."
+      },
+      {
+       "cyr": "- Не сум гројзе за зобање,",
+       "lat": "- Ne sum grojze za zobanje,",
+       "en": "- I am not a grape for eating,"
+      },
+      {
+       "cyr": "тук' сум мома за љубење!",
+       "lat": "tuk' sum moma za ljubenje!",
+       "en": "I am a girl for kissing!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ја фати за рачица,",
+       "lat": "I ja fati za račica,",
+       "en": "And he took her by the little hand,"
+      },
+      {
+       "cyr": "води, води дури дома:",
+       "lat": "vodi, vodi duri doma:",
+       "en": "he leads her, leads her all the way home:"
+      },
+      {
+       "cyr": "- На ти мајко одменица.",
+       "lat": "- Na ti majko odmenica.",
+       "en": "- Here, mother, a replacement for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

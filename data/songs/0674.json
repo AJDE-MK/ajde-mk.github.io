@@ -1,0 +1,174 @@
+{
+ "id": 674,
+ "slug": "marie-dilber-bela-marie",
+ "title_cyr": "Марие дилбер бела Марие",
+ "title_latin": "Marie dilber bela Marie",
+ "title_en": "Maria, pretty white Maria",
+ "pesna_url": "https://pesna.org/song/674",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гоце Арнаудов",
+  "Ѓорѓи Желчевски",
+  "Зоран Георгиев",
+  "Кевсер Селимова",
+  "Наум Петрески",
+  "Нина Спирова",
+  "Пепи Бафтировски",
+  "Распеани каменичани",
+  "Ристе Тевдоски",
+  "Танец",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/867"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/868"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/869"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/870"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/871"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/872"
+  },
+  {
+   "who": "Ристе Тевдоски",
+   "url": "https://pesna.org/audio-download/983"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/1157"
+  },
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/1158"
+  },
+  {
+   "who": "Распеани каменичани",
+   "url": "https://pesna.org/audio-download/1159"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Марие, дилбер бела Марие,",
+       "lat": "Marie, dilber bela Marie,",
+       "en": "Maria, pretty white Maria,"
+      },
+      {
+       "cyr": "Марие, дилбер бела Марије,",
+       "lat": "Marie, dilber bela Marije,",
+       "en": "Maria, pretty white Maria,"
+      },
+      {
+       "cyr": "што кротко ткаеш ле, ем плачеш,",
+       "lat": "što krotko tkaeš le, em plačeš,",
+       "en": "why are you gently weaving, and crying,"
+      },
+      {
+       "cyr": "што кротко ткаеш ле, ем плачеш?",
+       "lat": "što krotko tkaeš le, em plačeš?",
+       "en": "why are you gently weaving, and crying?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' ти е разбојот расипан,",
+       "lat": "Dal' ti e razbojot rasipan,",
+       "en": "Is your loom not working,"
+      },
+      {
+       "cyr": "дал' ти е разбојот расипан,",
+       "lat": "dal' ti e razbojot rasipan,",
+       "en": "is your loom not working,"
+      },
+      {
+       "cyr": "ил' ти се нишките скинати,",
+       "lat": "il' ti se niškite skinati,",
+       "en": "or are your threads broken,"
+      },
+      {
+       "cyr": "ил' ти е брдото скршено?",
+       "lat": "il' ti e brdoto skršeno?",
+       "en": "or is your thread holder broken?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит' ми е разбојот расипан,",
+       "lat": "Nit' mi e razbojot rasipan,",
+       "en": "Neighter my loom not working,"
+      },
+      {
+       "cyr": "нит' ми е разбојот расипан,",
+       "lat": "nit' mi e razbojot rasipan,",
+       "en": "neighter my loom not working,"
+      },
+      {
+       "cyr": "нит' ми се нишките скинати,",
+       "lat": "nit' mi se niškite skinati,",
+       "en": "nor my threads are broken,"
+      },
+      {
+       "cyr": "нит' ми се нишките скинати.",
+       "lat": "nit' mi se niškite skinati.",
+       "en": "nor my threads are broken."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит' ми се нишките скинати,",
+       "lat": "Nit' mi se niškite skinati,",
+       "en": "Neighter my threads are broken,"
+      },
+      {
+       "cyr": "нит' ми се нишките скинати,",
+       "lat": "nit' mi se niškite skinati,",
+       "en": "neighter my threads are broken,"
+      },
+      {
+       "cyr": "нит' ми е брдото скршено,",
+       "lat": "nit' mi e brdoto skršeno,",
+       "en": "nor my thread holder is broken,"
+      },
+      {
+       "cyr": "тук' ми е либето далеку.",
+       "lat": "tuk' mi e libeto daleku.",
+       "en": "but my darling is far away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

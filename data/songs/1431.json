@@ -1,0 +1,238 @@
+{
+ "id": 1431,
+ "slug": "oj-korune",
+ "title_cyr": "Ој Коруне",
+ "title_latin": "Oj Korune",
+ "title_en": "Oh Korun",
+ "pesna_url": "https://pesna.org/song/1431",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Word meanings for the three bandit terms come from the source notes. The last stanza is unclear to me; my reading is that the boy burns to catch the speaker and collect a blood debt, with his father and uncles behind him.",
+ "words_to_learn": [
+  {
+   "mk": "ој",
+   "en": "oh (interjection)"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (address)"
+  },
+  {
+   "mk": "доаѓаш",
+   "en": "you come"
+  },
+  {
+   "mk": "машко дете",
+   "en": "male child, boy"
+  },
+  {
+   "mk": "се метнало",
+   "en": "took after, resembled"
+  },
+  {
+   "mk": "ќесеџија",
+   "en": "purse-cutter, robber"
+  },
+  {
+   "mk": "бинекчија",
+   "en": "horseman, good rider"
+  },
+  {
+   "mk": "арамија",
+   "en": "bandit, thief"
+  },
+  {
+   "mk": "крвнина",
+   "en": "blood-money, blood debt"
+  },
+  {
+   "mk": "чичко",
+   "en": "paternal uncle"
+  },
+  {
+   "mk": "вујко",
+   "en": "maternal uncle"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3648"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Коруне, млад Корун,",
+       "lat": "- Oj Korune, mlad Korun,",
+       "en": "- Oh Korun, young Korun,"
+      },
+      {
+       "cyr": "зошто Корун море, не доаѓаш",
+       "lat": "zošto Korun more, ne doaǵaš",
+       "en": "why, Korun, hey, don't you come"
+      },
+      {
+       "cyr": "како што ми Корун, доаѓаше?",
+       "lat": "kako što mi Korun, doaǵaše?",
+       "en": "as you used to come, Korun?"
+      },
+      {
+       "cyr": "Секој петок, Корун, и сабота,",
+       "lat": "Sekoj petok, Korun, i sabota,",
+       "en": "Every Friday, Korun, and Saturday,"
+      },
+      {
+       "cyr": "негде-годе, Корун, и недела.",
+       "lat": "negde-gode, Korun, i nedela.",
+       "en": "sometimes, Korun, even Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори Недо, мори",
+       "lat": "- Mori Nedo, mori",
+       "en": "- Hey Neda, hey,"
+      },
+      {
+       "cyr": "бела Недо,",
+       "lat": "bela Nedo,",
+       "en": "white Neda,"
+      },
+      {
+       "cyr": "сум чул Недо мори",
+       "lat": "sum čul Nedo mori",
+       "en": "I have heard, Neda, hey,"
+      },
+      {
+       "cyr": "си имала,",
+       "lat": "si imala,",
+       "en": "you had,"
+      },
+      {
+       "cyr": "си имала Недо,",
+       "lat": "si imala Nedo,",
+       "en": "you had, Neda,"
+      },
+      {
+       "cyr": "машко дете,",
+       "lat": "maško dete,",
+       "en": "a male child,"
+      },
+      {
+       "cyr": "машко дете Недо,",
+       "lat": "maško dete Nedo,",
+       "en": "a male child, Neda,"
+      },
+      {
+       "cyr": "Костадинче.",
+       "lat": "Kostadinče.",
+       "en": "little Kostadin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се метнало, Недо,",
+       "lat": "Se metnalo, Nedo,",
+       "en": "He took after, Neda,"
+      },
+      {
+       "cyr": "на татка му,",
+       "lat": "na tatka mu,",
+       "en": "his father, Neda,"
+      },
+      {
+       "cyr": "на татка му Недо",
+       "lat": "na tatka mu Nedo",
+       "en": "his father, Neda,"
+      },
+      {
+       "cyr": "ќесеџија.",
+       "lat": "ḱesedžija.",
+       "en": "the purse-cutter."
+      },
+      {
+       "cyr": "На чичко му Недо",
+       "lat": "Na čičko mu Nedo",
+       "en": "After his uncle, Neda,"
+      },
+      {
+       "cyr": "бинекчија,",
+       "lat": "binekčija,",
+       "en": "the horseman,"
+      },
+      {
+       "cyr": "на вујка му Недо",
+       "lat": "na vujka mu Nedo",
+       "en": "after his maternal uncle, Neda,"
+      },
+      {
+       "cyr": "арамија.",
+       "lat": "aramija.",
+       "en": "the bandit."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се попалил Недо",
+       "lat": "Se popalil Nedo",
+       "en": "He got fired up, Neda,"
+      },
+      {
+       "cyr": "да ме фати,",
+       "lat": "da me fati,",
+       "en": "to catch me,"
+      },
+      {
+       "cyr": "крвнината Недо",
+       "lat": "krvninata Nedo",
+       "en": "the blood-money, Neda,"
+      },
+      {
+       "cyr": "да ја врати.",
+       "lat": "da ja vrati.",
+       "en": "to get back."
+      },
+      {
+       "cyr": "На татка му Недо,",
+       "lat": "Na tatka mu Nedo,",
+       "en": "His father, Neda,"
+      },
+      {
+       "cyr": "на чичко му,",
+       "lat": "na čičko mu,",
+       "en": "his uncle,"
+      },
+      {
+       "cyr": "на чичко му Недо",
+       "lat": "na čičko mu Nedo",
+       "en": "his uncle, Neda,"
+      },
+      {
+       "cyr": "и вујко му.",
+       "lat": "i vujko mu.",
+       "en": "and his maternal uncle."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

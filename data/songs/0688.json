@@ -1,0 +1,170 @@
+{
+ "id": 688,
+ "slug": "kraj-vardara-sedeshe",
+ "title_cyr": "Крај Вардара седеше",
+ "title_latin": "Kraj Vardara sedeše",
+ "title_en": "She sat by the Vardar",
+ "pesna_url": "https://pesna.org/song/688",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да пукнеш ќе те земам' I read as 'I will take you even if you burst/die', an idiom of defiance (my reading). The last refrain has 'пукниш' as written.",
+ "words_to_learn": [
+  {
+   "mk": "крај",
+   "en": "beside, by"
+  },
+  {
+   "mk": "седеше",
+   "en": "she sat (imperfect)"
+  },
+  {
+   "mk": "алтан",
+   "en": "golden (Turkish-origin)"
+  },
+  {
+   "mk": "капче",
+   "en": "small cap"
+  },
+  {
+   "mk": "везеше",
+   "en": "she embroidered"
+  },
+  {
+   "mk": "шеќерџиче",
+   "en": "little sweet-seller"
+  },
+  {
+   "mk": "јабанџиче",
+   "en": "little stranger / foreigner"
+  },
+  {
+   "mk": "колнеше",
+   "en": "she cursed"
+  },
+  {
+   "mk": "дробни",
+   "en": "small, fine"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Трајче Веселинов"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/94"
+  },
+  {
+   "who": "Трајче Веселинов",
+   "url": "https://pesna.org/audio-download/95"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Крај Вардара седеше",
+       "lat": "Kraj Vardara sedeše",
+       "en": "She sat by the Vardar"
+      },
+      {
+       "cyr": "алтан капче везеше.",
+       "lat": "altan kapče vezeše.",
+       "en": "embroidering a golden cap."
+      },
+      {
+       "cyr": "Шеќерџиче, јабанџиче",
+       "lat": "Šeḱerdžiče, jabandžiče",
+       "en": "Sweet-seller, stranger,"
+      },
+      {
+       "cyr": "да пукнеш ќе те земам.",
+       "lat": "da pukneš ḱe te zemam.",
+       "en": "I will take you even if you burst."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Алтан капче везеше,",
+       "lat": "Altan kapče vezeše,",
+       "en": "She embroidered a golden cap,"
+      },
+      {
+       "cyr": "дробни солзи ронеше.",
+       "lat": "drobni solzi roneše.",
+       "en": "shedding small tears."
+      },
+      {
+       "cyr": "Шеќерџиче, јабанџиче",
+       "lat": "Šeḱerdžiče, jabandžiče",
+       "en": "Sweet-seller, stranger,"
+      },
+      {
+       "cyr": "да пукнеш ќе те земам.",
+       "lat": "da pukneš ḱe te zemam.",
+       "en": "I will take you even if you burst."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дробни солзи ронеше,",
+       "lat": "Drobni solzi roneše,",
+       "en": "She shed small tears,"
+      },
+      {
+       "cyr": "тенки прсти кршеше.",
+       "lat": "tenki prsti kršeše.",
+       "en": "breaking her slender fingers."
+      },
+      {
+       "cyr": "Шеќерџиче, јабанџиче",
+       "lat": "Šeḱerdžiče, jabandžiče",
+       "en": "Sweet-seller, stranger,"
+      },
+      {
+       "cyr": "да пукнеш ќе те земам.",
+       "lat": "da pukneš ḱe te zemam.",
+       "en": "I will take you even if you burst."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тенки прсти кршеше,",
+       "lat": "Tenki prsti kršeše,",
+       "en": "Breaking her slender fingers,"
+      },
+      {
+       "cyr": "луто мајка колнеше.",
+       "lat": "luto majka kolneše.",
+       "en": "her mother cursed bitterly."
+      },
+      {
+       "cyr": "Шеќерџиче, јабанџиче",
+       "lat": "Šeḱerdžiče, jabandžiče",
+       "en": "Sweet-seller, stranger,"
+      },
+      {
+       "cyr": "да пукниш ќе те земам.",
+       "lat": "da pukniš ḱe te zemam.",
+       "en": "I will take you even if you burst."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

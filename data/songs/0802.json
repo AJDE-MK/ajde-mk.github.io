@@ -1,0 +1,121 @@
+{
+ "id": 802,
+ "slug": "pushti-ja-lelo-mori-todorka",
+ "title_cyr": "Пушти ја, Лело мори, Тодорка",
+ "title_latin": "Pušti ja, Lelo mori, Todorka",
+ "title_en": "Let her go, Lelo, Todorka",
+ "pesna_url": "https://pesna.org/song/802",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Лело is used as an address/refrain; the speakers' roles (Gjorgi, Todorka) are my reading. The last two lines are a proverb-like image, my reading: a beautiful girl has no 'family' because everyone claims her.",
+ "words_to_learn": [
+  {
+   "mk": "пушти",
+   "en": "let go, release"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "вишни",
+   "en": "sour cherries"
+  },
+  {
+   "mk": "черешни",
+   "en": "cherries"
+  },
+  {
+   "mk": "роднина",
+   "en": "relative, kin"
+  },
+  {
+   "mk": "дно",
+   "en": "bottom"
+  },
+  {
+   "mk": "пусто леле",
+   "en": "woe is me"
+  },
+  {
+   "mk": "мома",
+   "en": "girl"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1544"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пушти ја, Лело мори, Тодорка,",
+       "lat": "Pušti ja, Lelo mori, Todorka,",
+       "en": "Let her go, Lelo, hey, Todorka,"
+      },
+      {
+       "cyr": "двајца на лозје, Лело, да одиме.",
+       "lat": "dvajca na lozje, Lelo, da odime.",
+       "en": "the two of us to the vineyard, Lelo, let us go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Двајца на лозје, Лело, да одиме,",
+       "lat": "Dvajca na lozje, Lelo, da odime,",
+       "en": "The two of us to the vineyard, Lelo, let us go,"
+      },
+      {
+       "cyr": "вишни, черешни, Лело, да береме.",
+       "lat": "višni, čerešni, Lelo, da bereme.",
+       "en": "sour cherries, cherries, Lelo, let us pick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како да ја пуштам, Ѓорги, Тодорка,",
+       "lat": "Kako da ja puštam, Ǵorgi, Todorka,",
+       "en": "How can I let her go, Gjorgi, Todorka,"
+      },
+      {
+       "cyr": "нели сме, пусто леле, роднина.",
+       "lat": "neli sme, pusto lele, rodnina.",
+       "en": "are we not, woe is me, relatives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Длабоко море, Лело, дно нема,",
+       "lat": "Dlaboko more, Lelo, dno nema,",
+       "en": "The sea is deep, Lelo, it has no bottom,"
+      },
+      {
+       "cyr": "убаво моме, Лело, род нема.",
+       "lat": "ubavo mome, Lelo, rod nema.",
+       "en": "a beautiful girl, Lelo, has no kin."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

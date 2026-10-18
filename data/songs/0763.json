@@ -1,0 +1,206 @@
+{
+ "id": 763,
+ "slug": "ajde-chivo-li-e-ona-devojche",
+ "title_cyr": "Ајде чиво ли е она девојче",
+ "title_latin": "Ajde čivo li e ona devojče",
+ "title_en": "Come on, Whose Is That Girl",
+ "pesna_url": "https://pesna.org/song/763",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'рудоно стадо' is my reading as 'reddish flock'; 'изим' read as 'permission' from context. 'Вода ја однесло' is taken literally.",
+ "words_to_learn": [
+  {
+   "mk": "девојче",
+   "en": "girl"
+  },
+  {
+   "mk": "русана коса",
+   "en": "red-blond hair"
+  },
+  {
+   "mk": "рамо",
+   "en": "shoulder"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "изим",
+   "en": "permission, leave (dialect, Turkish-origin)"
+  },
+  {
+   "mk": "дукат",
+   "en": "ducat, gold coin"
+  },
+  {
+   "mk": "жалам",
+   "en": "I grudge, I regret"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Распеани дебарчани"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1303"
+  },
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3911"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде чиво ли е она девојче",
+       "lat": "Ajde čivo li e ona devojče",
+       "en": "Come on, whose is that girl"
+      },
+      {
+       "cyr": "во наш'то градинче, леле,",
+       "lat": "vo naš'to gradinče, lele,",
+       "en": "in our little garden, oh dear,"
+      },
+      {
+       "cyr": "во наш'то градинче?",
+       "lat": "vo naš'to gradinče?",
+       "en": "in our little garden?"
+      },
+      {
+       "cyr": "Што ми растурило русана коса,",
+       "lat": "Što mi rasturilo rusana kosa,",
+       "en": "Who has let loose her red-blond hair,"
+      },
+      {
+       "cyr": "од рамо на рамо, леле,",
+       "lat": "od ramo na ramo, lele,",
+       "en": "from shoulder to shoulder, oh dear,"
+      },
+      {
+       "cyr": "од рамо на рамо?",
+       "lat": "od ramo na ramo?",
+       "en": "from shoulder to shoulder?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде како овчар рудоно стадо",
+       "lat": "Ajde kako ovčar rudono stado",
+       "en": "Come on, like a shepherd's reddish flock"
+      },
+      {
+       "cyr": "од брега на брега, леле,",
+       "lat": "od brega na brega, lele,",
+       "en": "from hill to hill, oh dear,"
+      },
+      {
+       "cyr": "од брега на брега.",
+       "lat": "od brega na brega.",
+       "en": "from hill to hill."
+      },
+      {
+       "cyr": "Ајде изим давај, стара бре мајко,",
+       "lat": "Ajde izim davaj, stara bre majko,",
+       "en": "Come on, give me leave, old mother,"
+      },
+      {
+       "cyr": "дали да го земам, леле,",
+       "lat": "dali da go zemam, lele,",
+       "en": "whether I should take her, oh dear,"
+      },
+      {
+       "cyr": "дали да го земам?",
+       "lat": "dali da go zemam?",
+       "en": "whether I should take her?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море изим имаш мили бре синко,",
+       "lat": "More izim imaš mili bre sinko,",
+       "en": "Hey, you have leave, dear son,"
+      },
+      {
+       "cyr": "појди побарај ја, леле,",
+       "lat": "pojdi pobaraj ja, lele,",
+       "en": "go and look for her, oh dear,"
+      },
+      {
+       "cyr": "појди побарај ја.",
+       "lat": "pojdi pobaraj ja.",
+       "en": "go and look for her."
+      },
+      {
+       "cyr": "Ајде вода ја однесло, бре синко,",
+       "lat": "Ajde voda ja odneslo, bre sinko,",
+       "en": "Come on, the water carried her off, son,"
+      },
+      {
+       "cyr": "тебе ја донесло, леле,",
+       "lat": "tebe ja doneslo, lele,",
+       "en": "it brought her to you, oh dear,"
+      },
+      {
+       "cyr": "тебе ја донесло.",
+       "lat": "tebe ja doneslo.",
+       "en": "it brought her to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море пари давам, ич не ги жалам,",
+       "lat": "More pari davam, ič ne gi žalam,",
+       "en": "Hey, I give money, I don't grudge it at all,"
+      },
+      {
+       "cyr": "само да ја земам, леле,",
+       "lat": "samo da ja zemam, lele,",
+       "en": "only so that I may take her, oh dear,"
+      },
+      {
+       "cyr": "само да ја земам.",
+       "lat": "samo da ja zemam.",
+       "en": "only so that I may take her."
+      },
+      {
+       "cyr": "Ајде пари давам, сè жолти дукати,",
+       "lat": "Ajde pari davam, sè žolti dukati,",
+       "en": "Come on, I give money, all yellow ducats,"
+      },
+      {
+       "cyr": "само да ја земам, леле,",
+       "lat": "samo da ja zemam, lele,",
+       "en": "only so that I may take her, oh dear,"
+      },
+      {
+       "cyr": "само даја земам.",
+       "lat": "samo daja zemam.",
+       "en": "only so that I may take her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

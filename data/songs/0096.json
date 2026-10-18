@@ -1,0 +1,158 @@
+{
+ "id": 96,
+ "slug": "sprema-se-mladen-sprema-se",
+ "title_cyr": "Спрема се Младен, спрема се",
+ "title_latin": "Sprema se Mladen, sprema se",
+ "title_en": "Mladen gets ready, gets ready",
+ "pesna_url": "https://pesna.org/song/96",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јас ќе се либе посвршам' is my reading as 'I will die/finish myself'; 'робинка за црна земја' read as 'slave of the black earth' (buried in the ground).",
+ "words_to_learn": [
+  {
+   "mk": "спрема се",
+   "en": "gets ready"
+  },
+  {
+   "mk": "аскерче",
+   "en": "young soldier (Turkish askeri)"
+  },
+  {
+   "mk": "служи",
+   "en": "serves"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "китка",
+   "en": "sprig, bouquet"
+  },
+  {
+   "mk": "пазува",
+   "en": "bosom"
+  },
+  {
+   "mk": "овене",
+   "en": "wilts"
+  }
+ ],
+ "performers": [
+  "Блага Петреска",
+  "Дана Јевремова",
+  "Захаринка Милосављевиќ"
+ ],
+ "audio": [
+  {
+   "who": "Дана Јевремова",
+   "url": "https://pesna.org/audio-download/1737"
+  },
+  {
+   "who": "Блага Петреска, Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/2762"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Спрема се Младен, спрема се,",
+       "lat": "Sprema se Mladen, sprema se,",
+       "en": "Mladen gets ready, gets ready,"
+      },
+      {
+       "cyr": "младо аскерче да оди,",
+       "lat": "mlado askerče da odi,",
+       "en": "to go as a young soldier,"
+      },
+      {
+       "cyr": "девет години да служи,",
+       "lat": "devet godini da služi,",
+       "en": "to serve nine years"
+      },
+      {
+       "cyr": "во таја града Битола.",
+       "lat": "vo taja grada Bitola.",
+       "en": "in that town of Bitola."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко му пари броеше,",
+       "lat": "Tatko mu pari broeše,",
+       "en": "His father counted out money,"
+      },
+      {
+       "cyr": "мајка му руба спремаше,",
+       "lat": "majka mu ruba spremaše,",
+       "en": "his mother prepared clothes,"
+      },
+      {
+       "cyr": "браќа му коњче ковеја,",
+       "lat": "braḱa mu konjče koveja,",
+       "en": "his brothers shod a little horse for him,"
+      },
+      {
+       "cyr": "либе му китка даваше,",
+       "lat": "libe mu kitka davaše,",
+       "en": "his sweetheart gave him a sprig of flowers,"
+      },
+      {
+       "cyr": "тивко му дума думаше:",
+       "lat": "tivko mu duma dumaše:",
+       "en": "and quietly spoke words to him:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Младене, либе Младене,",
+       "lat": "- „Mladene, libe Mladene,",
+       "en": "- \"Mladen, my love Mladen,"
+      },
+      {
+       "cyr": "китка в' пазува да чуваш,",
+       "lat": "kitka v' pazuva da čuvaš,",
+       "en": "keep the sprig in your bosom,"
+      },
+      {
+       "cyr": "кога ќе китка овене,",
+       "lat": "koga ḱe kitka ovene,",
+       "en": "when the sprig wilts,"
+      },
+      {
+       "cyr": "јас ќе се либе посвршам.",
+       "lat": "jas ḱe se libe posvršam.",
+       "en": "I will die, sweetheart."
+      },
+      {
+       "cyr": "Јас ќе се либе посвршам,",
+       "lat": "Jas ḱe se libe posvršam,",
+       "en": "I will die, sweetheart,"
+      },
+      {
+       "cyr": "за црна земја робинка“.",
+       "lat": "za crna zemja robinka“.",
+       "en": "and be a slave of the black earth\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

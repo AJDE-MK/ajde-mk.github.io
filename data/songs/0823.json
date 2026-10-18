@@ -1,0 +1,169 @@
+{
+ "id": 823,
+ "slug": "temen-se-oblak-zadade",
+ "title_cyr": "Темен се облак зададе",
+ "title_latin": "Temen se oblak zadade",
+ "title_en": "A Dark Cloud Has Risen",
+ "pesna_url": "https://pesna.org/song/823",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Revolutionary-era song about the band of Gotse Delchev. 'Буковичко' as 'Bukovik' is my reading of a place name.",
+ "words_to_learn": [
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "зададе",
+   "en": "has come up, approached"
+  },
+  {
+   "mk": "ајдучки",
+   "en": "outlaw's, haiduk's"
+  },
+  {
+   "mk": "кладенче",
+   "en": "little spring, well"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band, company"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, band leader"
+  },
+  {
+   "mk": "ало знаме",
+   "en": "crimson banner"
+  },
+  {
+   "mk": "смрт",
+   "en": "death"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "душман",
+   "en": "enemy"
+  }
+ ],
+ "performers": [
+  "Сашо Гигов - Гиш"
+ ],
+ "audio": [
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/1685"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Темен се облак зададе",
+       "lat": "Temen se oblak zadade",
+       "en": "A dark cloud has risen"
+      },
+      {
+       "cyr": "на врв на Пирин планина,",
+       "lat": "na vrv na Pirin planina,",
+       "en": "over the peak of the Pirin mountain,"
+      },
+      {
+       "cyr": "на ајдучката рамнина",
+       "lat": "na ajdučkata ramnina",
+       "en": "over the outlaws' plain"
+      },
+      {
+       "cyr": "на Буковичко кладенче.",
+       "lat": "na Bukovičko kladenče.",
+       "en": "at the Bukovik spring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми е било облаче,",
+       "lat": "Ne mi e bilo oblače,",
+       "en": "It was not a little cloud,"
+      },
+      {
+       "cyr": "тук' ми е била четата",
+       "lat": "tuk' mi e bila četata",
+       "en": "it was the band"
+      },
+      {
+       "cyr": "на Гоце Делчев војвода.",
+       "lat": "na Goce Delčev vojvoda.",
+       "en": "of voivode Gotse Delchev."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред чета орле леташе",
+       "lat": "Pred četa orle letaše",
+       "en": "Before the band an eagle flew,"
+      },
+      {
+       "cyr": "алово знаме вееше,",
+       "lat": "alovo zname veeše,",
+       "en": "a crimson banner waved,"
+      },
+      {
+       "cyr": "на знамето пишуваше:",
+       "lat": "na znameto pišuvaše:",
+       "en": "on the banner was written:"
+      },
+      {
+       "cyr": "„Смрт или слобода",
+       "lat": "„Smrt ili sloboda",
+       "en": "\"Death or freedom"
+      },
+      {
+       "cyr": "за мајка Македонија“!",
+       "lat": "za majka Makedonija“!",
+       "en": "for mother Macedonia\"!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стан'вајте браќа, не спијте",
+       "lat": "Stan'vajte braḱa, ne spijte",
+       "en": "Get up, brothers, do not sleep,"
+      },
+      {
+       "cyr": "со душман да се биеме",
+       "lat": "so dušman da se bieme",
+       "en": "let us fight the enemy,"
+      },
+      {
+       "cyr": "слобода да добиеме",
+       "lat": "sloboda da dobieme",
+       "en": "let us win freedom"
+      },
+      {
+       "cyr": "за мајка Македонија.",
+       "lat": "za majka Makedonija.",
+       "en": "for mother Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,141 @@
+{
+ "id": 970,
+ "slug": "bog-da-bie-kochanski-sejmeni",
+ "title_cyr": "Бог да бие кочански сејмени",
+ "title_latin": "Bog da bie kočanski sejmeni",
+ "title_en": "May God Strike the Kochani Seymens",
+ "pesna_url": "https://pesna.org/song/970",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, historical-sounding song, no author known. 'Ги однеле' is ambiguous (who was taken up to the middle of the village); I kept it literal and read it as the seymens being led there.",
+ "words_to_learn": [
+  {
+   "mk": "бог да бие",
+   "en": "may God strike (a curse)"
+  },
+  {
+   "mk": "сејмени",
+   "en": "seymens, Ottoman irregular armed guards"
+  },
+  {
+   "mk": "спаднале",
+   "en": "came down, descended"
+  },
+  {
+   "mk": "селани",
+   "en": "villagers"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas, rebel fighters"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish filler)"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, tap"
+  },
+  {
+   "mk": "куршуми",
+   "en": "bullets"
+  },
+  {
+   "mk": "истераа",
+   "en": "drove out"
+  }
+ ],
+ "performers": [
+  "Дана Јевремова"
+ ],
+ "audio": [
+  {
+   "who": "Дана Јевремова",
+   "url": "https://pesna.org/audio-download/2244"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие кочански сејмени, џанам,",
+       "lat": "Bog da bie kočanski sejmeni, džanam,",
+       "en": "May God strike the Kochani seymens, my dear,"
+      },
+      {
+       "cyr": "што спаднале во село Зрновци.",
+       "lat": "što spadnale vo selo Zrnovci.",
+       "en": "who descended on the village of Zrnovci."
+      },
+      {
+       "cyr": "- Ој ле вие, зрновски селани, џанам,",
+       "lat": "- Oj le vie, zrnovski selani, džanam,",
+       "en": "- Oh you, villagers of Zrnovci, my dear,"
+      },
+      {
+       "cyr": "нема веќе зрновски комити?",
+       "lat": "nema veḱe zrnovski komiti?",
+       "en": "are there no more Zrnovci rebels?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми собрале зрновски селани, џанам,",
+       "lat": "Mi sobrale zrnovski selani, džanam,",
+       "en": "The villagers of Zrnovci gathered, my dear,"
+      },
+      {
+       "cyr": "ги однеле горе на сред село.",
+       "lat": "gi odnele gore na sred selo.",
+       "en": "they took them up to the middle of the village."
+      },
+      {
+       "cyr": "Ги одвеле горе на сред село, џанам,",
+       "lat": "Gi odvele gore na sred selo, džanam,",
+       "en": "They led them up to the middle of the village, my dear,"
+      },
+      {
+       "cyr": "на сред село, таму кај чешмата.",
+       "lat": "na sred selo, tamu kaj češmata.",
+       "en": "to the middle of the village, there by the fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште зборот не ми го дорекле, џанам,",
+       "lat": "Ušte zborot ne mi go dorekle, džanam,",
+       "en": "They had not yet finished speaking, my dear,"
+      },
+      {
+       "cyr": "се собрале зрновски комити.",
+       "lat": "se sobrale zrnovski komiti.",
+       "en": "when the Zrnovci rebels gathered."
+      },
+      {
+       "cyr": "Загрмеа бомби и куршуми, џанам,",
+       "lat": "Zagrmea bombi i kuršumi, džanam,",
+       "en": "Bombs and bullets thundered, my dear,"
+      },
+      {
+       "cyr": "истераа кочански сејмени.",
+       "lat": "isteraa kočanski sejmeni.",
+       "en": "they drove out the Kochani seymens."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

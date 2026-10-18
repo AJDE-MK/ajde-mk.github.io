@@ -1,0 +1,149 @@
+{
+ "id": 695,
+ "slug": "more-shto-si-bevme-golemoto-drushtvo",
+ "title_cyr": "Море што си бевме големото друштво",
+ "title_latin": "More što si bevme golemoto društvo",
+ "title_en": "Hey, what a big company we were",
+ "pesna_url": "https://pesna.org/song/695",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Маркој Кули is my reading of Marko's Towers above Prilep. 'прле' is dialect for roasted peppers (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "друштво",
+   "en": "company, group of friends"
+  },
+  {
+   "mk": "пијаници",
+   "en": "drinkers, drunkards"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier, army service"
+  },
+  {
+   "mk": "затвор",
+   "en": "prison"
+  },
+  {
+   "mk": "граница",
+   "en": "border"
+  },
+  {
+   "mk": "дај Бог",
+   "en": "God willing"
+  },
+  {
+   "mk": "прле",
+   "en": "peppers (Prilep dialect form)"
+  },
+  {
+   "mk": "печиме",
+   "en": "we roast/bake"
+  },
+  {
+   "mk": "прилепчанки",
+   "en": "women of Prilep"
+  }
+ ],
+ "performers": [
+  "Алтернатор",
+  "Сашко Савески",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Сашко Савески",
+   "url": "https://pesna.org/audio-download/155"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/237"
+  },
+  {
+   "who": "Алтернатор",
+   "url": "https://pesna.org/audio-download/238"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори што си бевме големото друштво,",
+       "lat": "Mori što si bevme golemoto društvo,",
+       "en": "Hey, what a big company we were,"
+      },
+      {
+       "cyr": "големото друштво - сите пијаници.",
+       "lat": "golemoto društvo - site pijanici.",
+       "en": "a big company, all of us drinkers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој војник појде, кој в' затвор ојде,",
+       "lat": "Koj vojnik pojde, koj v' zatvor ojde,",
+       "en": "One went to the army, one went off to prison,"
+      },
+      {
+       "cyr": "кој граница фати - назад не се врати.",
+       "lat": "koj granica fati - nazad ne se vrati.",
+       "en": "one crossed the border and never came back."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ако дај Бог да се собериме,",
+       "lat": "More ako daj Bog da se soberime,",
+       "en": "Hey, if God grants that we get together,"
+      },
+      {
+       "cyr": "горе Маркој Кули прле ќе печиме,",
+       "lat": "gore Markoj Kuli prle ḱe pečime,",
+       "en": "up at Marko's Towers we'll roast peppers,"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прле ќе печиме, вино ќе пијаме,",
+       "lat": "Prle ḱe pečime, vino ḱe pijame,",
+       "en": "We'll roast peppers, we'll drink wine,"
+      },
+      {
+       "cyr": "вино ќе пијаме, моми ќе љубиме.",
+       "lat": "vino ḱe pijame, momi ḱe ljubime.",
+       "en": "we'll drink wine, we'll kiss girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми ќе љубиме, моми Македонки,",
+       "lat": "Momi ḱe ljubime, momi Makedonki,",
+       "en": "We'll kiss girls, Macedonian girls,"
+      },
+      {
+       "cyr": "моми Македонки - сите прилепчанки.",
+       "lat": "momi Makedonki - site prilepčanki.",
+       "en": "Macedonian girls, all of them from Prilep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

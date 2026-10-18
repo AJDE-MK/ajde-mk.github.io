@@ -1,0 +1,168 @@
+{
+ "id": 538,
+ "slug": "ozdola-idet-eden-mlad-vojvoda",
+ "title_cyr": "Оздола идет еден млад војвода",
+ "title_latin": "Ozdola idet eden mlad vojvoda",
+ "title_en": "A young vojvoda comes from down there",
+ "pesna_url": "https://pesna.org/song/538",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/473"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оздола идат еден млад војвода,",
+       "lat": "Ozdola idat eden mlad vojvoda,",
+       "en": "A young vojvoda comes from down there,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по него одат седум, осум души,",
+       "lat": "po nego odat sedum, osum duši,",
+       "en": "following him are seven, eight people,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нане мила нане, седум, осум души.",
+       "lat": "nane mila nane, sedum, osum duši.",
+       "en": "granny, dear granny, seven, eight people.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На рамо ми носат пушки малихери,",
+       "lat": "Na ramo mi nosat puški maliheri,",
+       "en": "On their shoulders they carry Mannlicher rifles,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на гради ми носат чифте патрондаши,",
+       "lat": "na gradi mi nosat čifte patrondaši,",
+       "en": "on their chest they carry cartridges,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на глава ми носет црни фес капчина,",
+       "lat": "na glava mi noset crni fes kapčina,",
+       "en": "on their heads they wear black fez hats,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нане мила нане, црни фес шапчиња.",
+       "lat": "nane mila nane, crni fes šapčinja.",
+       "en": "granny, dear granny, black fez hats.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Право ми тргет горе за Рашанец,",
+       "lat": "Pravo mi trget gore za Rašanec,",
+       "en": "They are headed straight up for Rashanec,",
+       "en_mt": false
+      },
+      {
+       "cyr": "првиот ми беше Аргир Маринче,",
+       "lat": "prviot mi beše Argir Marinče,",
+       "en": "the first one was Argir Marinche,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вториот ми беше тој Васил Зимов,",
+       "lat": "vtoriot mi beše toj Vasil Zimov,",
+       "en": "the second one was Vasil Zimov,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нане мила нане, тој Васил Зимов.",
+       "lat": "nane mila nane, toj Vasil Zimov.",
+       "en": "granny, dear granny, Vasil Zimov.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третиот ми беше Стеван Куртела,",
+       "lat": "Tretiot mi beše Stevan Kurtela,",
+       "en": "The third one was Stefan Kurtela,",
+       "en_mt": false
+      },
+      {
+       "cyr": "четвртиот ми беше Јанко Димитров,",
+       "lat": "četvrtiot mi beše Janko Dimitrov,",
+       "en": "the fourth one was Janko Dimitrov,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нане мила нане, Јанко Димитров.",
+       "lat": "nane mila nane, Janko Dimitrov.",
+       "en": "granny, dear granny, Janko Dimitrov.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го убие Вељан од Речица,",
+       "lat": "Bog da go ubie Veljan od Rečica,",
+       "en": "May God kill Veljan of Rechica,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нане мила нане, Вељан од Речица",
+       "lat": "nane mila nane, Veljan od Rečica",
+       "en": "granny, dear granny, Veljan of Rechica,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ги предаде седум осум души",
+       "lat": "što gi predade sedum osum duši",
+       "en": "who betrayed seven, eight people,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Седум осум души, сè млади момчина",
+       "lat": "Sedum osum duši, sè mladi momčina",
+       "en": "Seven, eight people, all young lads,",
+       "en_mt": false
+      },
+      {
+       "cyr": "се млади момчиња, сите Македонци",
+       "lat": "se mladi momčinja, site Makedonci",
+       "en": "all young lads, all Macedonians,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нане мила нане, сите Македонци.",
+       "lat": "nane mila nane, site Makedonci.",
+       "en": "granny, dear granny, all Macedonians.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

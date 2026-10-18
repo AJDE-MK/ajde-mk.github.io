@@ -1,0 +1,179 @@
+{
+ "id": 687,
+ "slug": "legnalo-mome-zaspalo",
+ "title_cyr": "Легнало моме заспало",
+ "title_latin": "Legnalo mome zaspalo",
+ "title_en": "The Girl Lay Down and Fell Asleep",
+ "pesna_url": "https://pesna.org/song/687",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last lines of stanzas 3 to 5 ('како него да се тркала', 'низ него да се провира', 'со него да се ќердосам') are my reading as the girl's wish: to roll like the apple, to slip through the ring, to enjoy herself with the kisser. 'ќердосам' is a dialect word I am unsure of.",
+ "words_to_learn": [
+  {
+   "mk": "легнало",
+   "en": "lay down"
+  },
+  {
+   "mk": "заспало",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "соне",
+   "en": "dream (dialect form of 'сон')"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor"
+  },
+  {
+   "mk": "јаболко",
+   "en": "apple"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "потфрли",
+   "en": "threw (to someone)"
+  },
+  {
+   "mk": "ѓули",
+   "en": "rose (Turkish gül)"
+  },
+  {
+   "mk": "ќердосам",
+   "en": "enjoy myself, have fun (my reading)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/262"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Легнало моме заспало",
+       "lat": "Legnalo mome zaspalo",
+       "en": "The girl lay down and fell asleep"
+      },
+      {
+       "cyr": "на мајкино си колено аман, ѓули аман,",
+       "lat": "na majkino si koleno aman, ǵuli aman,",
+       "en": "on her mother's knee, aman, gül, aman,"
+      },
+      {
+       "cyr": "таман што си моме заспало,",
+       "lat": "taman što si mome zaspalo,",
+       "en": "just as the girl fell asleep,"
+      },
+      {
+       "cyr": "големо соне видело аман, ѓули аман.",
+       "lat": "golemo sone videlo aman, ǵuli aman.",
+       "en": "she saw a great dream, aman, gül, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сон дојдоја три луди,",
+       "lat": "Na son dojdoja tri ludi,",
+       "en": "In the dream came three lads,"
+      },
+      {
+       "cyr": "три луди млади беќари аман, ѓули аман.",
+       "lat": "tri ludi mladi beḱari aman, ǵuli aman.",
+       "en": "three young bachelors, aman, gül, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првиот што ми помина,",
+       "lat": "Prviot što mi pomina,",
+       "en": "The first one who passed by me,"
+      },
+      {
+       "cyr": "тој ми потфрли јаболко аман, ѓули аман,",
+       "lat": "toj mi potfrli jabolko aman, ǵuli aman,",
+       "en": "he threw an apple to me, aman, gül, aman,"
+      },
+      {
+       "cyr": "тој што потфрли јаболко",
+       "lat": "toj što potfrli jabolko",
+       "en": "the one who threw the apple,"
+      },
+      {
+       "cyr": "како него да се тркала аман, ѓули аман.",
+       "lat": "kako nego da se trkala aman, ǵuli aman.",
+       "en": "I would roll after him like it, aman, gül, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вториот што ми помина,",
+       "lat": "Vtoriot što mi pomina,",
+       "en": "The second one who passed by me,"
+      },
+      {
+       "cyr": "тој ми потфрли злат прстен аман, ѓули аман,",
+       "lat": "toj mi potfrli zlat prsten aman, ǵuli aman,",
+       "en": "he threw a gold ring to me, aman, gül, aman,"
+      },
+      {
+       "cyr": "тој што потврли злат прстен",
+       "lat": "toj što potvrli zlat prsten",
+       "en": "the one who threw the gold ring,"
+      },
+      {
+       "cyr": "низ него да се провира аман, ѓули аман.",
+       "lat": "niz nego da se provira aman, ǵuli aman.",
+       "en": "I would slip through him like it, aman, gül, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третиот што ми помина,",
+       "lat": "Tretiot što mi pomina,",
+       "en": "The third one who passed by me,"
+      },
+      {
+       "cyr": "тој мене на сон целува аман, ѓули аман,",
+       "lat": "toj mene na son celuva aman, ǵuli aman,",
+       "en": "he kisses me in the dream, aman, gül, aman,"
+      },
+      {
+       "cyr": "тој што мене на сон целува",
+       "lat": "toj što mene na son celuva",
+       "en": "the one who kisses me in the dream,"
+      },
+      {
+       "cyr": "со него да се ќердосам аман, ѓули аман.",
+       "lat": "so nego da se ḱerdosam aman, ǵuli aman.",
+       "en": "I would enjoy myself with him, aman, gül, aman."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,218 @@
+{
+ "id": 1167,
+ "slug": "ne-zaminuvaj-ne-me-ostavaj",
+ "title_cyr": "Не заминувај, не ме оставај",
+ "title_latin": "Ne zaminuvaj, ne me ostavaj",
+ "title_en": "Don't leave, don't abandon me",
+ "pesna_url": "https://pesna.org/song/1167",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it sounds like a modern composed song but I cannot name an author. 'Не ќе ме запреш' is read as 'you will not stop me' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "заминувај",
+   "en": "leave, depart"
+  },
+  {
+   "mk": "оставај",
+   "en": "leave behind, abandon"
+  },
+  {
+   "mk": "љубиш",
+   "en": "you love"
+  },
+  {
+   "mk": "запреш",
+   "en": "you stop"
+  },
+  {
+   "mk": "далечен",
+   "en": "distant"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native land"
+  },
+  {
+   "mk": "подај",
+   "en": "give, hand over"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "гушнам",
+   "en": "I embrace"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2835"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не заминувај, не ме оставај,",
+       "lat": "- Ne zaminuvaj, ne me ostavaj,",
+       "en": "- Don't leave, don't abandon me,"
+      },
+      {
+       "cyr": "зар не ме љубиш, каде одиш ти?",
+       "lat": "zar ne me ljubiš, kade odiš ti?",
+       "en": "don't you love me, where are you going?"
+      },
+      {
+       "cyr": "- Одам, одам девојко, не ќе ме запреш ти,",
+       "lat": "- Odam, odam devojko, ne ḱe me zapreš ti,",
+       "en": "- I'm going, I'm going, girl, you will not stop me,"
+      },
+      {
+       "cyr": "пат ме влече далечен, најмил мој роден крај.",
+       "lat": "pat me vleče dalečen, najmil moj roden kraj.",
+       "en": "a far road pulls me, my dearest native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме сакаш, ако ме љубиш,",
+       "lat": "Ako me sakaš, ako me ljubiš,",
+       "en": "If you want me, if you love me,"
+      },
+      {
+       "cyr": "со мене дојди ти,",
+       "lat": "so mene dojdi ti,",
+       "en": "come with me,"
+      },
+      {
+       "cyr": "подај ми рака, рака и срце,",
+       "lat": "podaj mi raka, raka i srce,",
+       "en": "give me your hand, hand and heart,"
+      },
+      {
+       "cyr": "дојди во мојот крај.",
+       "lat": "dojdi vo mojot kraj.",
+       "en": "come to my land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе ти дадам сè, сè што имам јас,",
+       "lat": "- Ḱe ti dadam sè, sè što imam jas,",
+       "en": "- I will give you everything, all that I have,"
+      },
+      {
+       "cyr": "само остани овде кај мене.",
+       "lat": "samo ostani ovde kaj mene.",
+       "en": "just stay here with me."
+      },
+      {
+       "cyr": "- Одам, одам девојко, одам на далек пат,",
+       "lat": "- Odam, odam devojko, odam na dalek pat,",
+       "en": "- I'm going, I'm going, girl, I'm going on a long road,"
+      },
+      {
+       "cyr": "тага в' гради стегнала, тага за роден крај.",
+       "lat": "taga v' gradi stegnala, taga za roden kraj.",
+       "en": "sorrow has tightened in my chest, sorrow for my native land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме сакаш, ако ме љубиш,",
+       "lat": "Ako me sakaš, ako me ljubiš,",
+       "en": "If you want me, if you love me,"
+      },
+      {
+       "cyr": "со мене дојди ти,",
+       "lat": "so mene dojdi ti,",
+       "en": "come with me,"
+      },
+      {
+       "cyr": "подај ми рака, рака и срце,",
+       "lat": "podaj mi raka, raka i srce,",
+       "en": "give me your hand, hand and heart,"
+      },
+      {
+       "cyr": "дојди во мојот крај.",
+       "lat": "dojdi vo mojot kraj.",
+       "en": "come to my land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тогаш оди си, не те запирам,",
+       "lat": "- Togaš odi si, ne te zapiram,",
+       "en": "- Then go, I won't stop you,"
+      },
+      {
+       "cyr": "но ќе чекам јас да се вратиш пак.",
+       "lat": "no ḱe čekam jas da se vratiš pak.",
+       "en": "but I will wait for you to come back again."
+      },
+      {
+       "cyr": "- Одам, одам девојко, роден да гушнам крај,",
+       "lat": "- Odam, odam devojko, roden da gušnam kraj,",
+       "en": "- I'm going, I'm going, girl, to embrace my native land,"
+      },
+      {
+       "cyr": "в' душа болка легнала, болка за татков дом.",
+       "lat": "v' duša bolka legnala, bolka za tatkov dom.",
+       "en": "pain has settled in my soul, pain for my father's home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме сакаш, ако ме љубиш,",
+       "lat": "Ako me sakaš, ako me ljubiš,",
+       "en": "If you want me, if you love me,"
+      },
+      {
+       "cyr": "со мене дојди ти,",
+       "lat": "so mene dojdi ti,",
+       "en": "come with me,"
+      },
+      {
+       "cyr": "подај ми рака, рака и срце,",
+       "lat": "podaj mi raka, raka i srce,",
+       "en": "give me your hand, hand and heart,"
+      },
+      {
+       "cyr": "дојди во мојот крај.",
+       "lat": "dojdi vo mojot kraj.",
+       "en": "come to my land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

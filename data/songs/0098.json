@@ -1,0 +1,137 @@
+{
+ "id": 98,
+ "slug": "slavej-pee-na-trendafil",
+ "title_cyr": "Славеј пее на трендафил",
+ "title_latin": "Slavej pee na trendafil",
+ "title_en": "The Nightingale Sings on the Rose",
+ "pesna_url": "https://pesna.org/song/98",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бог да бие' is a curse formula, rendered literally as 'God strike'. 'Em' (and) is Turkish-derived.",
+ "words_to_learn": [
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "нажалено",
+   "en": "grieved"
+  },
+  {
+   "mk": "насрдено",
+   "en": "angry, upset"
+  },
+  {
+   "mk": "надалеку",
+   "en": "far away"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "прво либе",
+   "en": "first love"
+  }
+ ],
+ "performers": [
+  "Нада Макеларска"
+ ],
+ "audio": [
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/1963"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Славеј пее на трендафил,",
+       "lat": "Slavej pee na trendafil,",
+       "en": "The nightingale sings on the rose,"
+      },
+      {
+       "cyr": "моме седи на пенџере,",
+       "lat": "mome sedi na pendžere,",
+       "en": "the girl sits at the window,"
+      },
+      {
+       "cyr": "нажалено, насрдено,",
+       "lat": "nažaleno, nasrdeno,",
+       "en": "grieved, angry,"
+      },
+      {
+       "cyr": "ем со солзи на очите.",
+       "lat": "em so solzi na očite.",
+       "en": "and with tears in her eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Бог да бие мојта мајка,",
+       "lat": "- Bog da bie mojta majka,",
+       "en": "- God strike my mother,"
+      },
+      {
+       "cyr": "што ме даде надалеку,",
+       "lat": "što me dade nadaleku,",
+       "en": "who gave me away far off,"
+      },
+      {
+       "cyr": "да не можам да се видам,",
+       "lat": "da ne možam da se vidam,",
+       "en": "so that I cannot see"
+      },
+      {
+       "cyr": "ни со мајка, ни со татко.",
+       "lat": "ni so majka, ni so tatko.",
+       "en": "either mother or father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни со мајка, ни со татко,",
+       "lat": "Ni so majka, ni so tatko,",
+       "en": "Neither mother nor father,"
+      },
+      {
+       "cyr": "ни со мојте мили сестри,",
+       "lat": "ni so mojte mili sestri,",
+       "en": "nor my dear sisters,"
+      },
+      {
+       "cyr": "ни со моите мили браќа,",
+       "lat": "ni so moite mili braḱa,",
+       "en": "nor my dear brothers,"
+      },
+      {
+       "cyr": "ни со моето прво либе.",
+       "lat": "ni so moeto prvo libe.",
+       "en": "nor my first love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

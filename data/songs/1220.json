@@ -1,0 +1,138 @@
+{
+ "id": 1220,
+ "slug": "mi-se-sobrale-12-drugara",
+ "title_cyr": "Ми се собрале 12 другара",
+ "title_latin": "Mi se sobrale 12 drugara",
+ "title_en": "Twelve Comrades Gathered",
+ "pesna_url": "https://pesna.org/song/1220",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional haiduk (outlaw) song as far as I can tell; origin unclear. 'Ајде' is a filler meaning 'come on'.",
+ "words_to_learn": [
+  {
+   "mk": "ми се собрале",
+   "en": "gathered (for me, colloquial)"
+  },
+  {
+   "mk": "другар",
+   "en": "comrade, friend"
+  },
+  {
+   "mk": "славна",
+   "en": "famous, glorious"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "меана",
+   "en": "inn, tavern"
+  },
+  {
+   "mk": "ајдучка",
+   "en": "outlaw's (haiduk)"
+  },
+  {
+   "mk": "девојка",
+   "en": "girl"
+  }
+ ],
+ "performers": [
+  "Мирвет Беловска",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3012"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми се собрале",
+       "lat": "Mi se sobrale",
+       "en": "Gathered for me"
+      },
+      {
+       "cyr": "12 другара,",
+       "lat": "12 drugara,",
+       "en": "12 comrades,"
+      },
+      {
+       "cyr": "12 другара,",
+       "lat": "12 drugara,",
+       "en": "12 comrades,"
+      },
+      {
+       "cyr": "славна дружина.",
+       "lat": "slavna družina.",
+       "en": "famous company."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе ми одат",
+       "lat": "Ajde ḱe mi odat",
+       "en": "Come on, they will go"
+      },
+      {
+       "cyr": "во гора зелена,",
+       "lat": "vo gora zelena,",
+       "en": "into the green forest,"
+      },
+      {
+       "cyr": "во гора зелена,",
+       "lat": "vo gora zelena,",
+       "en": "into the green forest,"
+      },
+      {
+       "cyr": "кај Ајдучка меана.",
+       "lat": "kaj Ajdučka meana.",
+       "en": "to the Outlaw Inn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде у меани,",
+       "lat": "Ajde u meani,",
+       "en": "Come on, at the inn,"
+      },
+      {
+       "cyr": "Смиљана девојка,",
+       "lat": "Smiljana devojka,",
+       "en": "girl Smiljana,"
+      },
+      {
+       "cyr": "ај у меани,",
+       "lat": "aj u meani,",
+       "en": "hey, at the inn,"
+      },
+      {
+       "cyr": "Смиљана девојка.",
+       "lat": "Smiljana devojka.",
+       "en": "girl Smiljana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

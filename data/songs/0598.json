@@ -1,0 +1,210 @@
+{
+ "id": 598,
+ "slug": "chifte-chifte-pajtonlari",
+ "title_cyr": "Чифте, чифте пајтонлари",
+ "title_latin": "Čifte, čifte pajtonlari",
+ "title_en": "Two, two phaetons",
+ "pesna_url": "https://pesna.org/song/598",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Ансамбл Самуил",
+  "Кевсер Селимова"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/80"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1523"
+  },
+  {
+   "who": "Ансамбл Самуил",
+   "url": "https://pesna.org/audio-download/2004"
+  },
+  {
+   "who": "Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2005"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3779"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Чифте чифте пајтонлари",
+       "lat": "Čifte čifte pajtonlari",
+       "en": "I serve you two, and two phaetons.",
+       "en_mt": false
+      },
+      {
+       "cyr": "гетирдим сана.",
+       "lat": "getirdim sana.",
+       "en": "I brought them to you.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Не дедим сана, аман!",
+       "lat": "Ne dedim sana, aman!",
+       "en": "What I say to you, aman!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дарилма бана, опа!",
+       "lat": "Darilma bana, opa!",
+       "en": "Don't be angry with me! Hoppa!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не дедим сана маикем",
+       "lat": "Ne dedim sana maikem",
+       "en": "What I say to you maykem,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дарилма бана.",
+       "lat": "darilma bana.",
+       "en": "don't be angry with me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ока ока локумлари",
+       "lat": "Oka oka lokumlari",
+       "en": "I serve you two, and two pounds of lokum.",
+       "en_mt": false
+      },
+      {
+       "cyr": "гетирдеим сана.",
+       "lat": "getirdeim sana.",
+       "en": "I brought them to you.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Не дедим сана, аман!",
+       "lat": "Ne dedim sana, aman!",
+       "en": "What I say to you, aman!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дарилма бана, опа!",
+       "lat": "Darilma bana, opa!",
+       "en": "Don't be angry with me! Hoppa!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не дедим сана маикем",
+       "lat": "Ne dedim sana maikem",
+       "en": "What I say to you maykem,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дарилма бана.",
+       "lat": "darilma bana.",
+       "en": "don't be angry with me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шише шише коњаклари",
+       "lat": "Šiše šiše konjaklari",
+       "en": "I serve you two, and two bottles of cognac.",
+       "en_mt": false
+      },
+      {
+       "cyr": "ичирдим сана.",
+       "lat": "ičirdim sana.",
+       "en": "I made you drink them.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Не дедим сана, аман!",
+       "lat": "Ne dedim sana, aman!",
+       "en": "What I say to you, aman!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дарилма бана, опа!",
+       "lat": "Darilma bana, opa!",
+       "en": "Don't be angry with me! Hoppa!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не дедим сана маикем",
+       "lat": "Ne dedim sana maikem",
+       "en": "What I say to you maykem,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дарилма бана.",
+       "lat": "darilma bana.",
+       "en": "don't be angry with me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сонра сонра чок муабет",
+       "lat": "Sonra sonra čok muabet",
+       "en": "Once upon a time, because we were very close,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дарилдин бана.",
+       "lat": "darildin bana.",
+       "en": "you had to be angry with me.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не дедим сана, аман!",
+       "lat": "Ne dedim sana, aman!",
+       "en": "What I say to you, aman!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дарилма бана, опа!",
+       "lat": "Darilma bana, opa!",
+       "en": "Don't be angry with me! Hoppa!",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не дедим сана маикем",
+       "lat": "Ne dedim sana maikem",
+       "en": "What I say to you maykem,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дарилма бана.",
+       "lat": "darilma bana.",
+       "en": "don't be angry with me.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

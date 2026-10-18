@@ -1,0 +1,166 @@
+{
+ "id": 1510,
+ "slug": "dervishko-vishko-mome",
+ "title_cyr": "Дервишко-вишко моме",
+ "title_latin": "Derviško-viško mome",
+ "title_en": "Dervish-like Girl",
+ "pesna_url": "https://pesna.org/song/1510",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional hoeing song. 'Дервишко-вишко' is a rhyming play on 'дервишко' (dervish-like); the sense of 'dervish-like' here is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, maiden (vocative)"
+  },
+  {
+   "mk": "душо",
+   "en": "soul, darling (vocative)"
+  },
+  {
+   "mk": "роб",
+   "en": "slave, servant"
+  },
+  {
+   "mk": "лико",
+   "en": "face"
+  },
+  {
+   "mk": "лудо",
+   "en": "silly one, fool (here teasing)"
+  },
+  {
+   "mk": "фајда",
+   "en": "benefit, use"
+  },
+  {
+   "mk": "копачка",
+   "en": "hoeing/digging song"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3949"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Копачка)",
+       "lat": "(Kopačka)",
+       "en": "(Hoeing song)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дервишко-вишко моме",
+       "lat": "- Derviško-viško mome",
+       "en": "- Dervish-like girl"
+      },
+      {
+       "cyr": "дервишко душо.",
+       "lat": "derviško dušo.",
+       "en": "dervish-like soul."
+      },
+      {
+       "cyr": "Дервишко-вишко моме",
+       "lat": "Derviško-viško mome",
+       "en": "Dervish-like girl"
+      },
+      {
+       "cyr": "дервишко душо.",
+       "lat": "derviško dušo.",
+       "en": "dervish-like soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Роб ќе ти бидам моме,",
+       "lat": "Rob ḱe ti bidam mome,",
+       "en": "I will be your slave, girl,"
+      },
+      {
+       "cyr": "роб ќе ти бидам.",
+       "lat": "rob ḱe ti bidam.",
+       "en": "I will be your slave."
+      },
+      {
+       "cyr": "Роб ќе ти бидам моме,",
+       "lat": "Rob ḱe ti bidam mome,",
+       "en": "I will be your slave, girl,"
+      },
+      {
+       "cyr": "време три години.",
+       "lat": "vreme tri godini.",
+       "en": "for a time of three years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само да ти видам моме,",
+       "lat": "Samo da ti vidam mome,",
+       "en": "Just to see, girl,"
+      },
+      {
+       "cyr": "само да ти видам.",
+       "lat": "samo da ti vidam.",
+       "en": "just to see."
+      },
+      {
+       "cyr": "Само да ти видам моме",
+       "lat": "Samo da ti vidam mome",
+       "en": "Just to see, girl,"
+      },
+      {
+       "cyr": "белото лико.",
+       "lat": "beloto liko.",
+       "en": "your white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да го видиш лудо",
+       "lat": "- I da go vidiš ludo",
+       "en": "- And even if you see it, silly one,"
+      },
+      {
+       "cyr": "и да го видиш.",
+       "lat": "i da go vidiš.",
+       "en": "even if you see it."
+      },
+      {
+       "cyr": "И да го видиш лудо",
+       "lat": "I da go vidiš ludo",
+       "en": "And even if you see it, silly one,"
+      },
+      {
+       "cyr": "фајда си немаш.",
+       "lat": "fajda si nemaš.",
+       "en": "you have no benefit from it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

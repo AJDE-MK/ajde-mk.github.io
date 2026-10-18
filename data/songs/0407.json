@@ -1,0 +1,609 @@
+{
+ "id": 407,
+ "slug": "bog-da-go-bie-toj-ibraim-odzha",
+ "title_cyr": "Бог да го бие тој Ибраим Оџа",
+ "title_latin": "Bog da go bie toj Ibraim Odža",
+ "title_en": "May God punish this Ibraim Odzha",
+ "pesna_url": "https://pesna.org/song/407",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алексо Тончов",
+  "Ансамбл чалгии на РТС",
+  "Бајрам Сеферовски",
+  "Битолски мерак",
+  "Давид Мамудов",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Драги Спасовски",
+  "Здраве Стафилов",
+  "Љубојна",
+  "Мазафер Махмут",
+  "Мирвет Беловска",
+  "Мустафа Еминов",
+  "Наум Петрески",
+  "Николас Бочварис",
+  "Панче Здравков",
+  "Пеце Атанасовски",
+  "Радио студио Скопје",
+  "Рамадан Бајрами",
+  "Рамче Идризов",
+  "Танец",
+  "Трајче Нашев",
+  "Цане Николовски",
+  "Gamze Matraci",
+  "John Todorovski",
+  "Makedoniko meraki",
+  "Ot izvora",
+  "Parashos",
+  "Kallas",
+  "Kardogiannis",
+  "Stauridis",
+  "Papadodpoulos",
+  "Pipiliaris",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Николас Бочварис",
+   "url": "https://pesna.org/audio-download/141"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/1998"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/1999"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2000"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/2001"
+  },
+  {
+   "who": "Битолски мерак",
+   "url": "https://pesna.org/audio-download/2002"
+  },
+  {
+   "who": "Панче Здравков",
+   "url": "https://pesna.org/audio-download/2003"
+  },
+  {
+   "who": "Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2864"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/3310"
+  },
+  {
+   "who": "Gamze Matraci",
+   "url": "https://pesna.org/audio-download/3760"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3932"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4143"
+  },
+  {
+   "who": "John Todorovski",
+   "url": "https://pesna.org/audio-download/4144"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/4145"
+  },
+  {
+   "who": "Ot izvora",
+   "url": "https://pesna.org/audio-download/4148"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/4210"
+  },
+  {
+   "who": "Ансамбл чалгии на РТС",
+   "url": "https://pesna.org/audio-download/4211"
+  },
+  {
+   "who": "Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/4212"
+  },
+  {
+   "who": "Рамадан Бајрами",
+   "url": "https://pesna.org/audio-download/4213"
+  },
+  {
+   "who": "Бајрам Сеферовски, Давид Мамудов, Рамче Идризов",
+   "url": "https://pesna.org/audio-download/4214"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4215"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4216"
+  },
+  {
+   "who": "Мазафер Махмут",
+   "url": "https://pesna.org/audio-download/4217"
+  },
+  {
+   "who": "Алексо Тончов, Здраве Стафилов, Мустафа Еминов, Трајче Нашев",
+   "url": "https://pesna.org/audio-download/4218"
+  },
+  {
+   "who": "Parashos, Kallas, Kardogiannis, Stauridis, Papadodpoulos, Pipiliaris",
+   "url": "https://pesna.org/audio-download/4219"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/4220"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го бие тој Ибраим Оџа,",
+       "lat": "Bog da go bie toj Ibraim Odža,",
+       "en": "May God punish this Ibraim Odzha,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Ибраим Оџа, баш арамија,",
+       "lat": "toj Ibraim Odža, baš aramija,",
+       "en": "this Ibraim Odzha, such a rogue,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Ибраим Оџа, баш арамија.",
+       "lat": "toj Ibraim Odža, baš aramija.",
+       "en": "this Ibraim Odzha, such a rogue.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ми излезе на Гучева Чешма,",
+       "lat": "Što mi izleze na Gučeva Češma,",
+       "en": "Because he set out to the spring of Guchevo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Гучева Чешма, со триесетмина,",
+       "lat": "na Gučeva Češma, so triesetmina,",
+       "en": "to the spring of Guchevo with thirty men,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Гучева Чешма, со триесетмина.",
+       "lat": "na Gučeva Češma, so triesetmina.",
+       "en": "to the spring of Guchevo with thirty men.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од таму минале два-три ќумурџии,",
+       "lat": "Od tamu minale dva-tri ḱumurdžii,",
+       "en": "From there passed two or three coalburners,",
+       "en_mt": false
+      },
+      {
+       "cyr": "два-три ќумурџии, многу сиромаси,",
+       "lat": "dva-tri ḱumurdžii, mnogu siromasi,",
+       "en": "two or three coalburners, very poor men,",
+       "en_mt": false
+      },
+      {
+       "cyr": "два-три ќумурџии, многу сиромаси.",
+       "lat": "dva-tri ḱumurdžii, mnogu siromasi.",
+       "en": "two or three coalburners, very poor men.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Многу ти години, бре Ибраим Оџа,",
+       "lat": "- „Mnogu ti godini, bre Ibraim Odža,",
+       "en": "- May your years be many, he, Ibraim Odzha,",
+       "en_mt": false
+      },
+      {
+       "cyr": "многу ти години, бре Ибраим Оџа“.",
+       "lat": "mnogu ti godini, bre Ibraim Odža“.",
+       "en": "May your years be many, he, Ibraim Odzha.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ибраим Оџа им одговара:",
+       "lat": "Ibraim Odža im odgovara:",
+       "en": "Ibraim Odzha replied to them:",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Мојте години, многу нека бидат,",
+       "lat": "- „Mojte godini, mnogu neka bidat,",
+       "en": "- My years, they will be many,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вашите години, малу нека бидат,",
+       "lat": "vašite godini, malu neka bidat,",
+       "en": "your years, they will be few.",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај идете долу, во село Гучево,",
+       "lat": "aj idete dolu, vo selo Gučevo,",
+       "en": "Go down into the Guchevo village,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да им кажете на гучевчаните,",
+       "lat": "da im kažete na gučevčanite,",
+       "en": "and tell the people of Guchevo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ручек да ми гответ, за триесет души,",
+       "lat": "ruček da mi gotvet, za trieset duši,",
+       "en": "that they prepare me a dinner for thirty people,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јагне печено, ем вино црвено“.",
+       "lat": "jagne pečeno, em vino crveno“.",
+       "en": "roasted lamb and red wine.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го бие тој Ибраим Оџа,",
+       "lat": "Bog da go bie toj Ibraim Odža,",
+       "en": "May God punish this Ibraim Odzha,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Ибраим Оџа, алданчанецот,",
+       "lat": "toj Ibraim Odža, aldančanecot,",
+       "en": "this Ibraim Odzha from Aldanci,",
+       "en_mt": false
+      },
+      {
+       "cyr": "баш арамија, ем кесеџија.",
+       "lat": "baš aramija, em kesedžija.",
+       "en": "the biggest bandit and robber.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, што ми излегол Прилепското поле",
+       "lat": "Aj, što mi izlegol Prilepskoto pole",
+       "en": "Because he came to the plain of Prilep,",
+       "en_mt": false
+      },
+      {
+       "cyr": "па ми накачил, горе Крушево,",
+       "lat": "pa mi nakačil, gore Kruševo,",
+       "en": "and climbed up above Krushevo,",
+       "en_mt": true
+      },
+      {
+       "cyr": "зад коријата, Крушева чешма.",
+       "lat": "zad korijata, Kruševa češma.",
+       "en": "behind the grove, to the fountain of Krushevo.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од оздола идат тројца ќумурџии,",
+       "lat": "Od ozdola idat trojca ḱumurdžii,",
+       "en": "From below came three coalburners",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Ибраим Оџа му проговарат:",
+       "lat": "na Ibraim Odža mu progovarat:",
+       "en": "and said to Ibraim Odzha:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Многу ти години, бре Ибраим Оџа“.",
+       "lat": "- „Mnogu ti godini, bre Ibraim Odža“.",
+       "en": "- May your years be many, oh, Ibraim Odzha.",
+       "en_mt": false
+      },
+      {
+       "cyr": "А Ибраим Оџа им одговара:",
+       "lat": "A Ibraim Odža im odgovara:",
+       "en": "And Ibraim Odzha answered them:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Мојве години, многу нека бидат,",
+       "lat": "- „Mojve godini, mnogu neka bidat,",
+       "en": "- My years may be many,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вашите години, малку да ви бидат.",
+       "lat": "vašite godini, malku da vi bidat.",
+       "en": "your years shall be few.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слезете долу, градот Крушево,",
+       "lat": "Slezete dolu, gradot Kruševo,",
+       "en": "Go down to Krushevo town,",
+       "en_mt": false
+      },
+      {
+       "cyr": "абер да носите кај валијата.",
+       "lat": "aber da nosite kaj valijata.",
+       "en": "bring a message to the governor,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кај валијата до невестите.",
+       "lat": "kaj valijata do nevestite.",
+       "en": "to the governor and to the young women.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ајде да ми спремат и да ми донесат",
+       "lat": "Ajde da mi spremat i da mi donesat",
+       "en": "Go on, they shall prepare and bring me",
+       "en_mt": false
+      },
+      {
+       "cyr": "печено јагне, бела погача,",
+       "lat": "pečeno jagne, bela pogača,",
+       "en": "roasted lamb, white bread,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вино, ракија, петстотини лири.",
+       "lat": "vino, rakija, petstotini liri.",
+       "en": "wine, spirits, fivehundred gold coins.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не послушат и не ми донесат",
+       "lat": "Ako ne poslušat i ne mi donesat",
+       "en": "If they don’t listen and don’t bring this,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе ги соберам триесетте души,",
+       "lat": "ḱe gi soberam triesette duši,",
+       "en": "I will gather my thirty men,",
+       "en_mt": false
+      },
+      {
+       "cyr": "па јас ќе дојдам долу во Крушево.",
+       "lat": "pa jas ḱe dojdam dolu vo Kruševo.",
+       "en": "to invade Krushevo.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мажи ќе тепам, жени ќе срамам,",
+       "lat": "Maži ḱe tepam, ženi ḱe sramam,",
+       "en": "I will kill the men and dishonour the women,",
+       "en_mt": false
+      },
+      {
+       "cyr": "деца ќе колам, сè ќе запалам,",
+       "lat": "deca ḱe kolam, sè ḱe zapalam,",
+       "en": "cut the children’s throats and set fire",
+       "en_mt": false
+      },
+      {
+       "cyr": "градот Крушево јас ќе го изгорам“!",
+       "lat": "gradot Kruševo jas ḱe go izgoram“!",
+       "en": "to Krushevo and burn it down.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 3",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го бие тој Ибраим Оџа,",
+       "lat": "Bog da go bie toj Ibraim Odža,",
+       "en": "May God punish this Ibraim Odzha,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тој Ибраим Оџа, анаталчанецот,",
+       "lat": "toj Ibraim Odža, anatalčanecot,",
+       "en": "this Ibraim Odzha, the man from Anatalci,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тој Ибраим Оџа, тоа лошо куче.",
+       "lat": "toj Ibraim Odža, toa lošo kuče.",
+       "en": "this Ibraim Odzha, that wicked dog.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ај, што ми излегол баш арамија",
+       "lat": "Aj, što mi izlegol baš aramija",
+       "en": "Oh, what a real rogue has come out,",
+       "en_mt": true
+      },
+      {
+       "cyr": "баш арамија ем ќесеџија.",
+       "lat": "baš aramija em ḱesedžija.",
+       "en": "a real rogue and a robber.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ај, што ми излегол Прилепското поле",
+       "lat": "Aj, što mi izlegol Prilepskoto pole",
+       "en": "Oh, he has come out to the plain of Prilep,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Прилепското поле, Крушевската страна.",
+       "lat": "Prilepskoto pole, Kruševskata strana.",
+       "en": "the plain of Prilep, the Krushevo side.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крушевската страна горе Крушево",
+       "lat": "Kruševskata strana gore Kruševo",
+       "en": "The Krushevo side, up above Krushevo,",
+       "en_mt": true
+      },
+      {
+       "cyr": "горе Крушево, зад коријата",
+       "lat": "gore Kruševo, zad korijata",
+       "en": "up above Krushevo, behind the grove,",
+       "en_mt": true
+      },
+      {
+       "cyr": "зад коријата, Крушевата чешма.",
+       "lat": "zad korijata, Kruševata češma.",
+       "en": "behind the grove, the fountain of Krushevo.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ај ми донасол млади ќумурџии",
+       "lat": "Aj mi donasol mladi ḱumurdžii",
+       "en": "Oh, he brought along young coalburners,",
+       "en_mt": true
+      },
+      {
+       "cyr": "млади ќумурџии, сите аџамии.",
+       "lat": "mladi ḱumurdžii, site adžamii.",
+       "en": "young coalburners, all greenhorns.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Слезете долу, градот Крушево",
+       "lat": "Slezete dolu, gradot Kruševo",
+       "en": "Go down to Krushevo town,",
+       "en_mt": false
+      },
+      {
+       "cyr": "абер да носите кај валијата.",
+       "lat": "aber da nosite kaj valijata.",
+       "en": "bring a message to the governor.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ми донесат рудото јагне",
+       "lat": "Da mi donesat rudoto jagne",
+       "en": "Let them bring me the ruddy lamb,",
+       "en_mt": true
+      },
+      {
+       "cyr": "рудото јагне, бела погача",
+       "lat": "rudoto jagne, bela pogača",
+       "en": "the ruddy lamb, white bread,",
+       "en_mt": true
+      },
+      {
+       "cyr": "бела погача, петстотини лири.",
+       "lat": "bela pogača, petstotini liri.",
+       "en": "white bread, five hundred lira.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ако не носат рудото јагне",
+       "lat": "Ako ne nosat rudoto jagne",
+       "en": "If they do not bring the ruddy lamb,",
+       "en_mt": true
+      },
+      {
+       "cyr": "рудото јагне, бела погача",
+       "lat": "rudoto jagne, bela pogača",
+       "en": "the ruddy lamb, white bread,",
+       "en_mt": true
+      },
+      {
+       "cyr": "бела погача, петстотини лири.",
+       "lat": "bela pogača, petstotini liri.",
+       "en": "white bread, five hundred lira.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Жени ќе страмам, деца ќе колам",
+       "lat": "Ženi ḱe stramam, deca ḱe kolam",
+       "en": "I will dishonour the women, cut the children's throats,",
+       "en_mt": true
+      },
+      {
+       "cyr": "градот Крушево јас ќе изгорам.",
+       "lat": "gradot Kruševo jas ḱe izgoram.",
+       "en": "I will burn down the town of Krushevo.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

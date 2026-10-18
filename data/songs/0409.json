@@ -1,0 +1,126 @@
+{
+ "id": 409,
+ "slug": "ah-minav-gora-minav-druga",
+ "title_cyr": "Ах минав гора, минав друга",
+ "title_latin": "Ah minav gora, minav druga",
+ "title_en": "Ah, I Passed One Forest, Passed Another",
+ "pesna_url": "https://pesna.org/song/409",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дробен јасен' read as a slender or fine-leaved ash, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "дробен",
+   "en": "slender, fine"
+  },
+  {
+   "mk": "јасен",
+   "en": "ash tree"
+  },
+  {
+   "mk": "славеј пиле",
+   "en": "nightingale"
+  },
+  {
+   "mk": "рано",
+   "en": "early"
+  },
+  {
+   "mk": "буди",
+   "en": "wake"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "приспивала",
+   "en": "lulled to sleep"
+  },
+  {
+   "mk": "милувала",
+   "en": "caressed"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/1272"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/1273"
+  },
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/3953"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах минав гора, минав друга,",
+       "lat": "Ah minav gora, minav druga,",
+       "en": "Ah, I passed one forest, passed another,"
+      },
+      {
+       "cyr": "ах, во гората дробен јасен,",
+       "lat": "ah, vo gorata droben jasen,",
+       "en": "ah, in the forest a slender ash tree,"
+      },
+      {
+       "cyr": "ах, на јасенот славеј пиле,",
+       "lat": "ah, na jasenot slavej pile,",
+       "en": "ah, on the ash tree a nightingale bird,"
+      },
+      {
+       "cyr": "ах, славеј пиле рано пее.",
+       "lat": "ah, slavej pile rano pee.",
+       "en": "ah, the nightingale bird sings early."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах не пеј пиле, не пеј рано,",
+       "lat": "Ah ne pej pile, ne pej rano,",
+       "en": "Ah, do not sing, bird, do not sing early,"
+      },
+      {
+       "cyr": "ах, не буди ми мојто либе,",
+       "lat": "ah, ne budi mi mojto libe,",
+       "en": "ah, do not wake my sweetheart,"
+      },
+      {
+       "cyr": "ах, саноќ сум го приспивала,",
+       "lat": "ah, sanoḱ sum go prispivala,",
+       "en": "ah, all night I was lulling him to sleep,"
+      },
+      {
+       "cyr": "ах, приспивала, милувала.",
+       "lat": "ah, prispivala, miluvala.",
+       "en": "ah, lulling him to sleep, caressing him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

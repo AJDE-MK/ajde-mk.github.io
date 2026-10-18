@@ -1,0 +1,217 @@
+{
+ "id": 818,
+ "slug": "vojniche-mlado-regrutche",
+ "title_cyr": "Војниче, младо регрутче",
+ "title_latin": "Vojniče, mlado regrutče",
+ "title_en": "Soldier, Young Recruit",
+ "pesna_url": "https://pesna.org/song/818",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style conscription song; origin unclear. 'Војниќе' in the last stanza I read as a variant of 'војниче' (young soldier).",
+ "words_to_learn": [
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "регрут",
+   "en": "recruit"
+  },
+  {
+   "mk": "војска",
+   "en": "army, military service"
+  },
+  {
+   "mk": "испрати",
+   "en": "to send off"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  },
+  {
+   "mk": "утре",
+   "en": "tomorrow"
+  },
+  {
+   "mk": "в' година",
+   "en": "in a year"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1671"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3203"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не плачете мајки наши родени,",
+       "lat": "Ne plačete majki naši rodeni,",
+       "en": "Do not cry, our birth mothers,"
+      },
+      {
+       "cyr": "не жалете мили наши татковци.",
+       "lat": "ne žalete mili naši tatkovci.",
+       "en": "do not grieve, our dear fathers."
+      },
+      {
+       "cyr": "Радуј се мајко или тате",
+       "lat": "Raduj se majko ili tate",
+       "en": "Rejoice, mother or father,"
+      },
+      {
+       "cyr": "што се си сина вие родиле.",
+       "lat": "što se si sina vie rodile.",
+       "en": "that you gave birth to a son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запејте вие песна весела",
+       "lat": "Zapejte vie pesna vesela",
+       "en": "Sing a cheerful song,"
+      },
+      {
+       "cyr": "утре војници ние одиме.",
+       "lat": "utre vojnici nie odime.",
+       "en": "tomorrow we go as soldiers."
+      },
+      {
+       "cyr": "Утре војници ние одиме,",
+       "lat": "Utre vojnici nie odime,",
+       "en": "Tomorrow we go as soldiers,"
+      },
+      {
+       "cyr": "војници млади, млади регрути.",
+       "lat": "vojnici mladi, mladi regruti.",
+       "en": "young soldiers, young recruits."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Радуј се мајко или тате",
+       "lat": "Raduj se majko ili tate",
+       "en": "Rejoice, mother or father,"
+      },
+      {
+       "cyr": "што се си сина вие родиле,",
+       "lat": "što se si sina vie rodile,",
+       "en": "that you gave birth to a son,"
+      },
+      {
+       "cyr": "родиле сина и исчекале",
+       "lat": "rodile sina i isčekale",
+       "en": "you gave birth to a son and waited"
+      },
+      {
+       "cyr": "на војска да го испратите.",
+       "lat": "na vojska da go ispratite.",
+       "en": "to send him off to the army."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запејте вие песна весела",
+       "lat": "Zapejte vie pesna vesela",
+       "en": "Sing a cheerful song,"
+      },
+      {
+       "cyr": "утре војници ние одиме.",
+       "lat": "utre vojnici nie odime.",
+       "en": "tomorrow we go as soldiers."
+      },
+      {
+       "cyr": "Утре војници ние одиме,",
+       "lat": "Utre vojnici nie odime,",
+       "en": "Tomorrow we go as soldiers,"
+      },
+      {
+       "cyr": "војници млади, млади регрути.",
+       "lat": "vojnici mladi, mladi regruti.",
+       "en": "young soldiers, young recruits."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи либе и ти по мене",
+       "lat": "Ne plači libe i ti po mene",
+       "en": "Do not cry for me either, sweetheart,"
+      },
+      {
+       "cyr": "не рони солзи по бело лице,",
+       "lat": "ne roni solzi po belo lice,",
+       "en": "do not shed tears down your white face,"
+      },
+      {
+       "cyr": "туку иди дома, спремај дарови,",
+       "lat": "tuku idi doma, spremaj darovi,",
+       "en": "but go home, prepare gifts,"
+      },
+      {
+       "cyr": "в' година ќе дојдам, тебе ќе земам.",
+       "lat": "v' godina ḱe dojdam, tebe ḱe zemam.",
+       "en": "in a year I will come, I will take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запеј ми, мила, песна весела,",
+       "lat": "Zapej mi, mila, pesna vesela,",
+       "en": "Sing me, dear, a cheerful song,"
+      },
+      {
+       "cyr": "утре војниќе младо ќе бидам.",
+       "lat": "utre vojniḱe mlado ḱe bidam.",
+       "en": "tomorrow I will be a young soldier."
+      },
+      {
+       "cyr": "Утре војниче младо ќе бидам,",
+       "lat": "Utre vojniče mlado ḱe bidam,",
+       "en": "Tomorrow I will be a young soldier,"
+      },
+      {
+       "cyr": "в' година ќе дојдам, тебе ќе земам.",
+       "lat": "v' godina ḱe dojdam, tebe ḱe zemam.",
+       "en": "in a year I will come, I will take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,161 @@
+{
+ "id": 1594,
+ "slug": "samo-ti",
+ "title_cyr": "Само ти",
+ "title_latin": "Samo ti",
+ "title_en": "Only You",
+ "pesna_url": "https://pesna.org/song/1594",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern sentimental song but I cannot name an author. 'Пуста младост' is rendered as 'empty youth' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "среќа",
+   "en": "happiness, luck"
+  },
+  {
+   "mk": "пуста",
+   "en": "empty, wretched (also 'cursed')"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "чемер",
+   "en": "bitterness, sorrow"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "неизлечива",
+   "en": "incurable"
+  },
+  {
+   "mk": "измами",
+   "en": "deceived"
+  },
+  {
+   "mk": "дарив",
+   "en": "I gave (as a gift)"
+  }
+ ],
+ "performers": [
+  "Срма"
+ ],
+ "audio": [
+  {
+   "who": "Срма",
+   "url": "https://pesna.org/audio-download/4158"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Со години среќа не видов,",
+       "lat": "So godini sreḱa ne vidov,",
+       "en": "For years I have seen no happiness,"
+      },
+      {
+       "cyr": "пуста младост си заминува.",
+       "lat": "pusta mladost si zaminuva.",
+       "en": "my empty youth is passing away."
+      },
+      {
+       "cyr": "Чемер носам во душава,",
+       "lat": "Čemer nosam vo dušava,",
+       "en": "I carry bitterness in this soul,"
+      },
+      {
+       "cyr": "в' срце рана неизлечива.",
+       "lat": "v' srce rana neizlečiva.",
+       "en": "in my heart an incurable wound."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само ти, ти ми беше сè,",
+       "lat": "Samo ti, ti mi beše sè,",
+       "en": "Only you, you were everything to me,"
+      },
+      {
+       "cyr": "сè што имав јас во животов.",
+       "lat": "sè što imav jas vo životov.",
+       "en": "everything I had in my life."
+      },
+      {
+       "cyr": "Зошто душо, зошто мила ти,",
+       "lat": "Zošto dušo, zošto mila ti,",
+       "en": "Why, darling, why, my dear,"
+      },
+      {
+       "cyr": "зошто ти ме измами?",
+       "lat": "zošto ti me izmami?",
+       "en": "why did you deceive me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Знаеш колку јас те љубев,",
+       "lat": "Znaeš kolku jas te ljubev,",
+       "en": "You know how much I loved you,"
+      },
+      {
+       "cyr": "ти ја дарив сета младост.",
+       "lat": "ti ja dariv seta mladost.",
+       "en": "I gave you all my youth."
+      },
+      {
+       "cyr": "Како душа јас да смирам,",
+       "lat": "Kako duša jas da smiram,",
+       "en": "How am I to calm my soul,"
+      },
+      {
+       "cyr": "кога веќе не те имам?",
+       "lat": "koga veḱe ne te imam?",
+       "en": "when I no longer have you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само ти, ти ми беше сè,",
+       "lat": "Samo ti, ti mi beše sè,",
+       "en": "Only you, you were everything to me,"
+      },
+      {
+       "cyr": "сè што имав јас во животов.",
+       "lat": "sè što imav jas vo životov.",
+       "en": "everything I had in my life."
+      },
+      {
+       "cyr": "Зошто душо, зошто мила ти,",
+       "lat": "Zošto dušo, zošto mila ti,",
+       "en": "Why, darling, why, my dear,"
+      },
+      {
+       "cyr": "зошто ти ме измами?",
+       "lat": "zošto ti me izmami?",
+       "en": "why did you deceive me?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

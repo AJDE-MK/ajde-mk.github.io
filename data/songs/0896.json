@@ -1,0 +1,184 @@
+{
+ "id": 896,
+ "slug": "of-shto-sum-tolku-daleku",
+ "title_cyr": "Оф, што сум толку далеку",
+ "title_latin": "Of, što sum tolku daleku",
+ "title_en": "Oh, How Far I Am",
+ "pesna_url": "https://pesna.org/song/896",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'убост' is my reading of 'убавина' (beauty); 'Бело море' is the Aegean (White Sea).",
+ "words_to_learn": [
+  {
+   "mk": "далеку",
+   "en": "far"
+  },
+  {
+   "mk": "убост",
+   "en": "beauty (my reading)"
+  },
+  {
+   "mk": "мермерна",
+   "en": "marble (adj.)"
+  },
+  {
+   "mk": "крвава",
+   "en": "bloody"
+  },
+  {
+   "mk": "бескрајно",
+   "en": "endless"
+  },
+  {
+   "mk": "поробени",
+   "en": "enslaved"
+  },
+  {
+   "mk": "непокорени",
+   "en": "unconquered"
+  },
+  {
+   "mk": "последна желба",
+   "en": "last wish"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1969"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/4349"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Последна желба)",
+       "lat": "(Posledna želba)",
+       "en": "(Last wish)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, што сум толку далеку, далеку",
+       "lat": "Of, što sum tolku daleku, daleku",
+       "en": "Oh, how far I am, far"
+      },
+      {
+       "cyr": "од тебе Македонијо.",
+       "lat": "od tebe Makedonijo.",
+       "en": "from you, Macedonia."
+      },
+      {
+       "cyr": "Оф, што не можам да гледам, да гледам",
+       "lat": "Of, što ne možam da gledam, da gledam",
+       "en": "Oh, that I cannot see, cannot see"
+      },
+      {
+       "cyr": "твојата убост мермерна.",
+       "lat": "tvojata ubost mermerna.",
+       "en": "your marble beauty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Охридско езеро, убаво, убаво,",
+       "lat": "Ohridsko ezero, ubavo, ubavo,",
+       "en": "Ohrid lake, beautiful, beautiful,"
+      },
+      {
+       "cyr": "Пирин планина, висока.",
+       "lat": "Pirin planina, visoka.",
+       "en": "Pirin mountain, high."
+      },
+      {
+       "cyr": "Реката Вардар, крвава, крвава",
+       "lat": "Rekata Vardar, krvava, krvava",
+       "en": "The river Vardar, bloody, bloody"
+      },
+      {
+       "cyr": "и Бело море, бескрајно.",
+       "lat": "i Belo more, beskrajno.",
+       "en": "and the White Sea, endless."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти раѓаш само синои герои,",
+       "lat": "Ti raǵaš samo sinoi geroi,",
+       "en": "You bear only hero sons,"
+      },
+      {
+       "cyr": "храбри Mакедонци.",
+       "lat": "hrabri Makedonci.",
+       "en": "brave Macedonians."
+      },
+      {
+       "cyr": "Вечно се поробени и разделени,",
+       "lat": "Večno se porobeni i razdeleni,",
+       "en": "Forever enslaved and divided,"
+      },
+      {
+       "cyr": "никогаш непокорени.",
+       "lat": "nikogaš nepokoreni.",
+       "en": "never subdued."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Болен си лежам в' туѓина, в' туѓина",
+       "lat": "Bolen si ležam v' tuǵina, v' tuǵina",
+       "en": "Sick I lie in a foreign land, a foreign land,"
+      },
+      {
+       "cyr": "и тамо јас ќе си умрам.",
+       "lat": "i tamo jas ḱe si umram.",
+       "en": "and there I will die."
+      },
+      {
+       "cyr": "Последна желба си имам, си имам,",
+       "lat": "Posledna želba si imam, si imam,",
+       "en": "A last wish I have, I have,"
+      },
+      {
+       "cyr": "в' Македонија да дојдам.",
+       "lat": "v' Makedonija da dojdam.",
+       "en": "to come to Macedonia."
+      },
+      {
+       "cyr": "Македонија да видам, да видам",
+       "lat": "Makedonija da vidam, da vidam",
+       "en": "To see Macedonia, to see,"
+      },
+      {
+       "cyr": "и таму јас да си умрам.",
+       "lat": "i tamu jas da si umram.",
+       "en": "and to die there."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

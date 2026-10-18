@@ -1,0 +1,161 @@
+{
+ "id": 768,
+ "slug": "majka-ima-edno-chedo",
+ "title_cyr": "Мајка има едно чедо",
+ "title_latin": "Majka ima edno čedo",
+ "title_en": "A mother has one child",
+ "pesna_url": "https://pesna.org/song/768",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Line 4 'и него го проколнала' is rendered as 'and cursed him' (my reading); Bojana is read as a girl's name or place.",
+ "words_to_learn": [
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "женење",
+   "en": "marrying (of a man), wedding"
+  },
+  {
+   "mk": "се налути",
+   "en": "became angry"
+  },
+  {
+   "mk": "проколнала",
+   "en": "cursed"
+  },
+  {
+   "mk": "колнење",
+   "en": "cursing"
+  },
+  {
+   "mk": "шетав",
+   "en": "I roamed, I walked about"
+  },
+  {
+   "mk": "китки",
+   "en": "bouquets, bunches of flowers"
+  },
+  {
+   "mk": "процветала",
+   "en": "bloomed"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1310"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мајка има едно чедо,",
+       "lat": "Majka ima edno čedo,",
+       "en": "A mother has one child,"
+      },
+      {
+       "cyr": "едно чедо, мајка, за женење.",
+       "lat": "edno čedo, majka, za ženenje.",
+       "en": "one child, mother, for marrying."
+      },
+      {
+       "cyr": "Луто мајка, се налути,",
+       "lat": "Luto majka, se naluti,",
+       "en": "The mother grew angry,"
+      },
+      {
+       "cyr": "и него го, мајка, проколнала.",
+       "lat": "i nego go, majka, prokolnala.",
+       "en": "and cursed him, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој мајко, не ме колни,",
+       "lat": "Nemoj majko, ne me kolni,",
+       "en": "Don't, mother, don't curse me,"
+      },
+      {
+       "cyr": "не сум дете, мајко, за колнење.",
+       "lat": "ne sum dete, majko, za kolnenje.",
+       "en": "I am not a child, mother, for cursing."
+      },
+      {
+       "cyr": "Не сум дете за колнење,",
+       "lat": "Ne sum dete za kolnenje,",
+       "en": "I am not a child for cursing,"
+      },
+      {
+       "cyr": "тук' сум дете, мајко, за женење.",
+       "lat": "tuk' sum dete, majko, za ženenje.",
+       "en": "but I am a child, mother, for marrying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седумдесет села шетав,",
+       "lat": "Sedumdeset sela šetav,",
+       "en": "Seventy villages I roamed,"
+      },
+      {
+       "cyr": "осумдесет, мајко, моми љубев.",
+       "lat": "osumdeset, majko, momi ljubev.",
+       "en": "eighty, mother, girls I loved."
+      },
+      {
+       "cyr": "Осумдесет моми љубев,",
+       "lat": "Osumdeset momi ljubev,",
+       "en": "Eighty girls I loved,"
+      },
+      {
+       "cyr": "деведесет мајко, китки носев.",
+       "lat": "devedeset majko, kitki nosev.",
+       "en": "ninety, mother, bouquets I carried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите китки овенаа,",
+       "lat": "Site kitki ovenaa,",
+       "en": "All the bouquets wilted,"
+      },
+      {
+       "cyr": "само една, мајко, процветала.",
+       "lat": "samo edna, majko, procvetala.",
+       "en": "only one, mother, bloomed."
+      },
+      {
+       "cyr": "Само една процветала,",
+       "lat": "Samo edna procvetala,",
+       "en": "Only one bloomed,"
+      },
+      {
+       "cyr": "таја беше, мајко, од Бојана.",
+       "lat": "taja beše, majko, od Bojana.",
+       "en": "that one, mother, was from Bojana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

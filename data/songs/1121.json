@@ -1,0 +1,129 @@
+{
+ "id": 1121,
+ "slug": "tropnalo-oro",
+ "title_cyr": "Тропнало оро",
+ "title_latin": "Tropnalo oro",
+ "title_en": "Sound of the rhythm of the dances",
+ "pesna_url": "https://pesna.org/song/1121",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец",
+  "The Balkanics"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2682"
+  },
+  {
+   "who": "The Balkanics",
+   "url": "https://pesna.org/audio-download/4146"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Што е свирки, Веде мори,",
+       "lat": "- Što e svirki, Vede mori,",
+       "en": "- What are these sounds, Veda,",
+       "en_mt": false
+      },
+      {
+       "cyr": "горе над селото?",
+       "lat": "gore nad seloto?",
+       "en": "up there, above the village?",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Идат, идат млади моми,",
+       "lat": "- Idat, idat mladi momi,",
+       "en": "- Young girls are coming,",
+       "en_mt": false
+      },
+      {
+       "cyr": "моми песнопојки,",
+       "lat": "momi pesnopojki,",
+       "en": "girls singing songs,",
+       "en_mt": false
+      },
+      {
+       "cyr": "идат, идат млади момци,",
+       "lat": "idat, idat mladi momci,",
+       "en": "young boys are coming,",
+       "en_mt": false
+      },
+      {
+       "cyr": "момци играорци.",
+       "lat": "momci igraorci.",
+       "en": "boys dancing oro.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Орото почна бре лудо",
+       "lat": "- Oroto počna bre ludo",
+       "en": "- The dances started",
+       "en_mt": false
+      },
+      {
+       "cyr": "сред село крај чешмата,",
+       "lat": "sred selo kraj češmata,",
+       "en": "in the middle of the village, next to the fountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "орото почна бре лудо",
+       "lat": "oroto počna bre ludo",
+       "en": "the dances started",
+       "en_mt": false
+      },
+      {
+       "cyr": "на сред село.",
+       "lat": "na sred selo.",
+       "en": "in the middle of the village.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ти моме зошто не дојде",
+       "lat": "Ti mome zošto ne dojde",
+       "en": "And you, girl, why didn't you come",
+       "en_mt": false
+      },
+      {
+       "cyr": "сред село крај чешмата,",
+       "lat": "sred selo kraj češmata,",
+       "en": "in the middle of the village, at the fountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зошто не дојде бре лудо,",
+       "lat": "zošto ne dojde bre ludo,",
+       "en": "why didn't you come,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на сред село?",
+       "lat": "na sred selo?",
+       "en": "in the middle of the village?",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,182 @@
+{
+ "id": 653,
+ "slug": "dojdi-majko-isprati-me",
+ "title_cyr": "Дојди мајко испрати ме",
+ "title_latin": "Dojdi majko isprati me",
+ "title_en": "Come, Mother, See Me Off",
+ "pesna_url": "https://pesna.org/song/653",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (emigrant folk-style song, no author I can name). 'Оф, мајко ле' is a lament filler.",
+ "words_to_learn": [
+  {
+   "mk": "испрати",
+   "en": "see off, send off"
+  },
+  {
+   "mk": "далеку",
+   "en": "far"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, abroad"
+  },
+  {
+   "mk": "браќа",
+   "en": "brothers"
+  },
+  {
+   "mk": "сестри",
+   "en": "sisters"
+  },
+  {
+   "mk": "солзи лејме",
+   "en": "we shed tears"
+  },
+  {
+   "mk": "родниот крај",
+   "en": "homeland, native region"
+  },
+  {
+   "mk": "стигнав",
+   "en": "I arrived"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле"
+ ],
+ "audio": [
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/895"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дојди мајко испрати ме",
+       "lat": "Dojdi majko isprati me",
+       "en": "Come, mother, see me off,"
+      },
+      {
+       "cyr": "јас ќе си одам.",
+       "lat": "jas ḱe si odam.",
+       "en": "I will be going."
+      },
+      {
+       "cyr": "Јас ќе одам мила мајко",
+       "lat": "Jas ḱe odam mila majko",
+       "en": "I will go, dear mother,"
+      },
+      {
+       "cyr": "многу далеку,",
+       "lat": "mnogu daleku,",
+       "en": "very far,"
+      },
+      {
+       "cyr": "оф мајко ле, туѓа туѓина.",
+       "lat": "of majko le, tuǵa tuǵina.",
+       "en": "oh, mother, hey, a foreign land."
+      },
+      {
+       "cyr": "Јас ќе одам, мила мајко",
+       "lat": "Jas ḱe odam, mila majko",
+       "en": "I will go, dear mother,"
+      },
+      {
+       "cyr": "туѓа туѓина.",
+       "lat": "tuǵa tuǵina.",
+       "en": "to a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ги видам, мила мајко",
+       "lat": "Da gi vidam, mila majko",
+       "en": "To see, dear mother,"
+      },
+      {
+       "cyr": "нашите браќа.",
+       "lat": "našite braḱa.",
+       "en": "our brothers."
+      },
+      {
+       "cyr": "Да запејме, мила мајко",
+       "lat": "Da zapejme, mila majko",
+       "en": "Let us sing, dear mother,"
+      },
+      {
+       "cyr": "песна убава.",
+       "lat": "pesna ubava.",
+       "en": "a beautiful song."
+      },
+      {
+       "cyr": "Оф, мајко ле, песна убава,",
+       "lat": "Of, majko le, pesna ubava,",
+       "en": "Oh, mother, hey, a beautiful song,"
+      },
+      {
+       "cyr": "песна пејме, солзи лејме",
+       "lat": "pesna pejme, solzi lejme",
+       "en": "we sing a song, we shed tears"
+      },
+      {
+       "cyr": "за родниот крај.",
+       "lat": "za rodniot kraj.",
+       "en": "for the homeland."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога стигнав, мила мајко",
+       "lat": "Koga stignav, mila majko",
+       "en": "When I arrived, dear mother,"
+      },
+      {
+       "cyr": "в' туѓа туѓина,",
+       "lat": "v' tuǵa tuǵina,",
+       "en": "in a foreign land,"
+      },
+      {
+       "cyr": "таму сретнав, мила мајко",
+       "lat": "tamu sretnav, mila majko",
+       "en": "there I met, dear mother,"
+      },
+      {
+       "cyr": "браќа и сестри.",
+       "lat": "braḱa i sestri.",
+       "en": "brothers and sisters."
+      },
+      {
+       "cyr": "Оф мајко ле, браќа и сестри",
+       "lat": "Of majko le, braḱa i sestri",
+       "en": "Oh, mother, hey, brothers and sisters,"
+      },
+      {
+       "cyr": "песна пејме, солзи лејме",
+       "lat": "pesna pejme, solzi lejme",
+       "en": "we sing a song, we shed tears"
+      },
+      {
+       "cyr": "за родниот крај.",
+       "lat": "za rodniot kraj.",
+       "en": "for the homeland."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

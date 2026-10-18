@@ -1,0 +1,137 @@
+{
+ "id": 5,
+ "slug": "mitre-vlao-teshko-ranet",
+ "title_cyr": "Митре Влао, тешко ранет",
+ "title_latin": "Mitre Vlao, teško ranet",
+ "title_en": "Mitre Vlao, Badly Wounded",
+ "pesna_url": "https://pesna.org/song/5",
+ "background": "A death scene in a few lines. The IMRO fighter Mitre the Vlach, grievously wounded, asks his comrades for his rifle. He wants to fire it toward Vich mountain, across the heights and hollows, so that it says goodbye to the Kostur region and to all of Macedonia. A rifle used to whisper goodbye across a landscape.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'дулбија' is a rare word I am guessing; 'ја врла ... да распула' is my reading that he wants to cast his gaze over the mountains and valleys. Commemorates Mitre Panџаров the Vlach, as stated in the source note.",
+ "words_to_learn": [
+  {
+   "mk": "ранет",
+   "en": "wounded"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "се моли",
+   "en": "begs, prays"
+  },
+  {
+   "mk": "подајте",
+   "en": "hand over (imperative plural)"
+  },
+  {
+   "mk": "дулбија",
+   "en": "(my reading) binoculars or a spyglass"
+  },
+  {
+   "mk": "распули",
+   "en": "(my reading) scatter, cast its gaze"
+  },
+  {
+   "mk": "се проста",
+   "en": "say farewell"
+  },
+  {
+   "mk": "Костурско",
+   "en": "the Kostur (Kastoria) region"
+  }
+ ],
+ "performers": [
+  "Николина Кузмановска"
+ ],
+ "audio": [
+  {
+   "who": "Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/1644"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Митре Влао, тешко ранет,",
+       "lat": "Mitre Vlao, teško ranet,",
+       "en": "Mitre Vlao, badly wounded,"
+      },
+      {
+       "cyr": "им се моли на другари:",
+       "lat": "im se moli na drugari:",
+       "en": "begs his comrades:"
+      },
+      {
+       "cyr": "- Ој другари, мили браќа,",
+       "lat": "- Oj drugari, mili braḱa,",
+       "en": "- Oh comrades, dear brothers,"
+      },
+      {
+       "cyr": "подајте ми дулбијата.",
+       "lat": "podajte mi dulbijata.",
+       "en": "hand me my dulbia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ја врла Вич планина,",
+       "lat": "Da ja vrla Vič planina,",
+       "en": "Let me cast it onto Mount Vich,"
+      },
+      {
+       "cyr": "да распула горе-долу.",
+       "lat": "da raspula gore-dolu.",
+       "en": "let it scatter up and down."
+      },
+      {
+       "cyr": "Планините, долините,",
+       "lat": "Planinite, dolinite,",
+       "en": "The mountains, the valleys,"
+      },
+      {
+       "cyr": "и Баскарските Извори.",
+       "lat": "i Baskarskite Izvori.",
+       "en": "and the Baskar Springs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се проста со Костурско,",
+       "lat": "Da se prosta so Kostursko,",
+       "en": "Let me say farewell to the Kostur region,"
+      },
+      {
+       "cyr": "и со цела Македонија,",
+       "lat": "i so cela Makedonija,",
+       "en": "and to all of Macedonia,"
+      },
+      {
+       "cyr": "да се проста со Костурско,",
+       "lat": "da se prosta so Kostursko,",
+       "en": "let me say farewell to the Kostur region,"
+      },
+      {
+       "cyr": "и со цела Македонија.",
+       "lat": "i so cela Makedonija.",
+       "en": "and to all of Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

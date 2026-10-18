@@ -1,0 +1,124 @@
+{
+ "id": 696,
+ "slug": "angele-eden-na-mama-dzhanam",
+ "title_cyr": "Ангеле еден на мама, џанам",
+ "title_latin": "Angele eden na mama, džanam",
+ "title_en": "Angel, mother's only one",
+ "pesna_url": "https://pesna.org/song/696",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, related to the building-the-tower/bridge ballad theme. 'Ангеле еден на мама' is my reading (Angel, mother's only son); the last line is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "кула",
+   "en": "tower"
+  },
+  {
+   "mk": "мачи",
+   "en": "torment, make toil"
+  },
+  {
+   "mk": "невести",
+   "en": "young brides"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors, young men"
+  },
+  {
+   "mk": "девојки",
+   "en": "girls"
+  },
+  {
+   "mk": "песок",
+   "en": "sand"
+  },
+  {
+   "mk": "цигли",
+   "en": "bricks"
+  },
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish loan)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ангеле еден на мама, џанам,",
+       "lat": "Angele eden na mama, džanam,",
+       "en": "Angel, mother's only one, dear,"
+      },
+      {
+       "cyr": "не дигај кула голема.",
+       "lat": "ne digaj kula golema.",
+       "en": "do not raise a great tower."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не мачи млади невести, џанам,",
+       "lat": "Ne mači mladi nevesti, džanam,",
+       "en": "Do not torment young brides, dear,"
+      },
+      {
+       "cyr": "да носат песок и цигли.",
+       "lat": "da nosat pesok i cigli.",
+       "en": "to carry sand and bricks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не мачи млади ергени, џанам,",
+       "lat": "Ne mači mladi ergeni, džanam,",
+       "en": "Do not torment young bachelors, dear,"
+      },
+      {
+       "cyr": "да носат тешки камења.",
+       "lat": "da nosat teški kamenja.",
+       "en": "to carry heavy stones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не мачи млади девојки, џанам,",
+       "lat": "Ne mači mladi devojki, džanam,",
+       "en": "Do not torment young girls, dear,"
+      },
+      {
+       "cyr": "не мачи млади девојки.",
+       "lat": "ne mači mladi devojki.",
+       "en": "do not torment young girls."
+      },
+      {
+       "cyr": "Да носат вода студена, џанам,",
+       "lat": "Da nosat voda studena, džanam,",
+       "en": "To carry cold water, dear,"
+      },
+      {
+       "cyr": "водата ни е далеку.",
+       "lat": "vodata ni e daleku.",
+       "en": "the water is far from us."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

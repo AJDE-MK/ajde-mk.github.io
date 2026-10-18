@@ -1,0 +1,240 @@
+{
+ "id": 881,
+ "slug": "gjurgjana-mi-bolna-lega",
+ "title_cyr": "Ѓурѓана ми болна лега",
+ "title_latin": "Ǵurǵana mi bolna lega",
+ "title_en": "Gjurgjana lay down ill",
+ "pesna_url": "https://pesna.org/song/881",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'леле дуе' is unclear to me; my reading is 'alas, my dear' (possibly a form of душо). 'Исќип' I read as Skopje.",
+ "words_to_learn": [
+  {
+   "mk": "лега",
+   "en": "lay down (dialect form of легна)"
+  },
+  {
+   "mk": "болна",
+   "en": "ill, sick"
+  },
+  {
+   "mk": "веруе",
+   "en": "believes (dialect form)"
+  },
+  {
+   "mk": "је",
+   "en": "is (dialect form of е)"
+  },
+  {
+   "mk": "понудие",
+   "en": "treats, offerings (gifts of food)"
+  },
+  {
+   "mk": "гурабије",
+   "en": "gurabiya, a sweet crumbly cookie"
+  },
+  {
+   "mk": "леблебије",
+   "en": "roasted chickpeas"
+  },
+  {
+   "mk": "бадем шеќер",
+   "en": "almond candy"
+  },
+  {
+   "mk": "Исќип",
+   "en": "Skopje (Ottoman name Üsküp)"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска"
+ ],
+ "audio": [
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1919"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ѓурѓана ми, Ѓурѓана ми,",
+       "lat": "Ǵurǵana mi, Ǵurǵana mi,",
+       "en": "Gjurgjana, oh my Gjurgjana,"
+      },
+      {
+       "cyr": "Ѓурѓана ми болна лега,",
+       "lat": "Ǵurǵana mi bolna lega,",
+       "en": "Gjurgjana lay down ill,"
+      },
+      {
+       "cyr": "леле, леле, болна лега, еј.",
+       "lat": "lele, lele, bolna lega, ej.",
+       "en": "alas, alas, lay down ill, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој Ѓурѓа, никој Ѓурѓа,",
+       "lat": "Nikoj Ǵurǵa, nikoj Ǵurǵa,",
+       "en": "Nobody, Gjurga, nobody, Gjurga,"
+      },
+      {
+       "cyr": "никој Ѓурѓа не веруе,",
+       "lat": "nikoj Ǵurǵa ne verue,",
+       "en": "nobody believes Gjurga,"
+      },
+      {
+       "cyr": "леле, леле, не веруе, еј.",
+       "lat": "lele, lele, ne verue, ej.",
+       "en": "alas, alas, believes, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не веруе, не веруе,",
+       "lat": "Ne verue, ne verue,",
+       "en": "Doesn't believe, doesn't believe,"
+      },
+      {
+       "cyr": "не веруе, леле дуе,",
+       "lat": "ne verue, lele due,",
+       "en": "doesn't believe, alas, my dear,"
+      },
+      {
+       "cyr": "леле, леле, леле дуе, еј.",
+       "lat": "lele, lele, lele due, ej.",
+       "en": "alas, alas, alas, my dear, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој веруе, кој веруе,",
+       "lat": "Koj verue, koj verue,",
+       "en": "Whoever believes, whoever believes,"
+      },
+      {
+       "cyr": "кој веруе дома не је,",
+       "lat": "koj verue doma ne je,",
+       "en": "whoever believes is not at home,"
+      },
+      {
+       "cyr": "леле, леле, дома не је, еј.",
+       "lat": "lele, lele, doma ne je, ej.",
+       "en": "alas, alas, not at home, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Отишол је, отишол је,",
+       "lat": "Otišol je, otišol je,",
+       "en": "He has gone, he has gone,"
+      },
+      {
+       "cyr": "отишол је на далеку,",
+       "lat": "otišol je na daleku,",
+       "en": "he has gone far away,"
+      },
+      {
+       "cyr": "леле, леле, на далеку, еј.",
+       "lat": "lele, lele, na daleku, ej.",
+       "en": "alas, alas, far away, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Он ѝ праќа, он ѝ праќа,",
+       "lat": "On ì praḱa, on ì praḱa,",
+       "en": "He sends her, he sends her,"
+      },
+      {
+       "cyr": "он ѝ праќа понудие,",
+       "lat": "on ì praḱa ponudie,",
+       "en": "he sends her treats,"
+      },
+      {
+       "cyr": "леле, леле, понудие, еј.",
+       "lat": "lele, lele, ponudie, ej.",
+       "en": "alas, alas, treats, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Стамбола, од Стамбола,",
+       "lat": "Od Stambola, od Stambola,",
+       "en": "From Istanbul, from Istanbul,"
+      },
+      {
+       "cyr": "од Стамбола гурабије,",
+       "lat": "od Stambola gurabije,",
+       "en": "from Istanbul, gurabiya cookies,"
+      },
+      {
+       "cyr": "леле, леле, гурабије, еј.",
+       "lat": "lele, lele, gurabije, ej.",
+       "en": "alas, alas, gurabiya cookies, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Солуна, од Солуна,",
+       "lat": "Od Soluna, od Soluna,",
+       "en": "From Salonika, from Salonika,"
+      },
+      {
+       "cyr": "од Солуна леблебије,",
+       "lat": "od Soluna leblebije,",
+       "en": "from Salonika, roasted chickpeas,"
+      },
+      {
+       "cyr": "леле, леле, леблебије, еј.",
+       "lat": "lele, lele, leblebije, ej.",
+       "en": "alas, alas, roasted chickpeas, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Исќипа, од Исќипа,",
+       "lat": "Od Isḱipa, od Isḱipa,",
+       "en": "From Skopje, from Skopje,"
+      },
+      {
+       "cyr": "од Исќипа бадем шеќер,",
+       "lat": "od Isḱipa badem šeḱer,",
+       "en": "from Skopje, almond candy,"
+      },
+      {
+       "cyr": "леле, леле, бадем шеќер, еј.",
+       "lat": "lele, lele, badem šeḱer, ej.",
+       "en": "alas, alas, almond candy, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

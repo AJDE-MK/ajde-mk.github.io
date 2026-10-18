@@ -1,0 +1,272 @@
+{
+ "id": 83,
+ "slug": "t-mna-m-gla-po-poleto",
+ "title_cyr": "Т’мна м’гла по полето",
+ "title_latin": "T’mna m’gla po poleto",
+ "title_en": "Dark Mist over the Field",
+ "pesna_url": "https://pesna.org/song/83",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The 'Друга верзија' and 'Магла пада нане' lines are translated as ordinary lines. 'Или ме жени, или ме доми' is my reading: 'marry me off or send me to a husband's house'. The 'flower divides the cheeks' line is my reading. In the first version 'лудо' is read as 'young man'.",
+ "words_to_learn": [
+  {
+   "mk": "магла",
+   "en": "mist, fog"
+  },
+  {
+   "mk": "туга",
+   "en": "sorrow"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "плот",
+   "en": "fence"
+  },
+  {
+   "mk": "ѕид",
+   "en": "wall"
+  },
+  {
+   "mk": "одаи",
+   "en": "rooms"
+  },
+  {
+   "mk": "чардаци",
+   "en": "verandas, upper balconies"
+  },
+  {
+   "mk": "матен",
+   "en": "muddy, turbid"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска"
+ ],
+ "audio": [
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1932"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Т'мна м'гла, мале, по полето,",
+       "lat": "T'mna m'gla, male, po poleto,",
+       "en": "Dark mist, mother, over the field,"
+      },
+      {
+       "cyr": "мене туга, мале, на срцето,",
+       "lat": "mene tuga, male, na srceto,",
+       "en": "sorrow for me, mother, on my heart,"
+      },
+      {
+       "cyr": "з' едно лудо, мале, од селото.",
+       "lat": "z' edno ludo, male, od seloto.",
+       "en": "for a certain fool, mother, from the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "З' едно лудо, мале, од селото,",
+       "lat": "Z' edno ludo, male, od seloto,",
+       "en": "For a certain fool, mother, from the village,"
+      },
+      {
+       "cyr": "близу, близу мале, во комшијете,",
+       "lat": "blizu, blizu male, vo komšijete,",
+       "en": "near, near, mother, among the neighbours,"
+      },
+      {
+       "cyr": "плот нè дели, мале, дворовите.",
+       "lat": "plot nè deli, male, dvorovite.",
+       "en": "a fence divides us, mother, the yards."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Плот нè дели, мале, дворовите,",
+       "lat": "Plot nè deli, male, dvorovite,",
+       "en": "A fence divides us, mother, the yards,"
+      },
+      {
+       "cyr": "ѕид нè дели, мале, одајете.",
+       "lat": "dzid nè deli, male, odajete.",
+       "en": "a wall divides us, mother, the rooms."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Магла пада нане",
+       "lat": "Magla pada nane",
+       "en": "Mist falls, mother"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Магла падна мамо,",
+       "lat": "Magla padna mamo,",
+       "en": "Mist fell, mother,"
+      },
+      {
+       "cyr": "по полето.",
+       "lat": "po poleto.",
+       "en": "over the field."
+      },
+      {
+       "cyr": "Тага мене мамо,",
+       "lat": "Taga mene mamo,",
+       "en": "Sorrow for me, mother,"
+      },
+      {
+       "cyr": "на срцето,",
+       "lat": "na srceto,",
+       "en": "on my heart,"
+      },
+      {
+       "cyr": "за едно моме, мамо,",
+       "lat": "za edno mome, mamo,",
+       "en": "for a girl, mother,"
+      },
+      {
+       "cyr": "во комшии.",
+       "lat": "vo komšii.",
+       "en": "among the neighbours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Плет ни дели, мамо,",
+       "lat": "Plet ni deli, mamo,",
+       "en": "A hedge divides us, mother,"
+      },
+      {
+       "cyr": "двориштата.",
+       "lat": "dvorištata.",
+       "en": "the courtyards."
+      },
+      {
+       "cyr": "Ѕид ни дели, мамо,",
+       "lat": "Dzid ni deli, mamo,",
+       "en": "A wall divides us, mother,"
+      },
+      {
+       "cyr": "чардаците,",
+       "lat": "čardacite,",
+       "en": "the verandas."
+      },
+      {
+       "cyr": "китка дели, мамо,",
+       "lat": "kitka deli, mamo,",
+       "en": "A flower divides us, mother,"
+      },
+      {
+       "cyr": "образите.",
+       "lat": "obrazite.",
+       "en": "the cheeks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ил' ме жени, мамо,",
+       "lat": "Il' me ženi, mamo,",
+       "en": "Either marry me off, mother,"
+      },
+      {
+       "cyr": "ил' ме доми.",
+       "lat": "il' me domi.",
+       "en": "or send me to a husband's house."
+      },
+      {
+       "cyr": "пуста младост, мамо,",
+       "lat": "pusta mladost, mamo,",
+       "en": "Barren youth, mother,"
+      },
+      {
+       "cyr": "не се трпи.",
+       "lat": "ne se trpi.",
+       "en": "cannot be endured."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не е огин, мамо,",
+       "lat": "Ne e ogin, mamo,",
+       "en": "It is not a fire, mother,"
+      },
+      {
+       "cyr": "да прегори.",
+       "lat": "da pregori.",
+       "en": "to burn out."
+      },
+      {
+       "cyr": "Не е вода, мамо,",
+       "lat": "Ne e voda, mamo,",
+       "en": "It is not water, mother,"
+      },
+      {
+       "cyr": "да претече.",
+       "lat": "da preteče.",
+       "en": "to flow past."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не ме жениш,",
+       "lat": "Ako ne me ženiš,",
+       "en": "If you do not marry me,"
+      },
+      {
+       "cyr": "нит' ме домиш,",
+       "lat": "nit' me domiš,",
+       "en": "nor send me off,"
+      },
+      {
+       "cyr": "ќе се фрлам, мамо,",
+       "lat": "ḱe se frlam, mamo,",
+       "en": "I will throw myself, mother,"
+      },
+      {
+       "cyr": "в матен Вардар.",
+       "lat": "v maten Vardar.",
+       "en": "into the muddy Vardar."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

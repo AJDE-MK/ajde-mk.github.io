@@ -1,0 +1,221 @@
+{
+ "id": 1570,
+ "slug": "sobrale-se-stari-babi",
+ "title_cyr": "Собрале се стари баби",
+ "title_latin": "Sobrale se stari babi",
+ "title_en": "The Old Grannies Gathered",
+ "pesna_url": "https://pesna.org/song/1570",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (playful rhyming song, may be a modern children's or novelty song); no author named. 'Баба Неда, се ѝ е од реда' is my reading ('everything is in order for her').",
+ "words_to_learn": [
+  {
+   "mk": "баба",
+   "en": "grandmother, old woman"
+  },
+  {
+   "mk": "дедо",
+   "en": "grandfather, old man"
+  },
+  {
+   "mk": "мегдан",
+   "en": "village square"
+  },
+  {
+   "mk": "оро",
+   "en": "horo, folk circle dance"
+  },
+  {
+   "mk": "жаба",
+   "en": "frog"
+  },
+  {
+   "mk": "желка",
+   "en": "tortoise"
+  },
+  {
+   "mk": "тупан",
+   "en": "large drum"
+  },
+  {
+   "mk": "гајдаџија",
+   "en": "bagpiper"
+  },
+  {
+   "mk": "зурлаџија",
+   "en": "zurla player"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "кавал",
+   "en": "end-blown shepherd's flute"
+  }
+ ],
+ "performers": [
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/4097"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Собрале се стари баби,",
+       "lat": "Sobrale se stari babi,",
+       "en": "The old grannies gathered,"
+      },
+      {
+       "cyr": "стари баби како жаби.",
+       "lat": "stari babi kako žabi.",
+       "en": "old grannies like frogs."
+      },
+      {
+       "cyr": "Песни пеат, оро играат,",
+       "lat": "Pesni peat, oro igraat,",
+       "en": "They sing songs, they dance the horo,"
+      },
+      {
+       "cyr": "на сред село, на мегданот.",
+       "lat": "na sred selo, na megdanot.",
+       "en": "in the middle of the village, on the square."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Баба Ленка, најмаленка,",
+       "lat": "Baba Lenka, najmalenka,",
+       "en": "Granny Lenka, the smallest,"
+      },
+      {
+       "cyr": "баба Руса, многу куса,",
+       "lat": "baba Rusa, mnogu kusa,",
+       "en": "Granny Rusa, very short,"
+      },
+      {
+       "cyr": "баба Ванка, дебеланка,",
+       "lat": "baba Vanka, debelanka,",
+       "en": "Granny Vanka, the fatty,"
+      },
+      {
+       "cyr": "баба Ганка, ептен танка.",
+       "lat": "baba Ganka, epten tanka.",
+       "en": "Granny Ganka, very thin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Баба Ратка, како патка,",
+       "lat": "Baba Ratka, kako patka,",
+       "en": "Granny Ratka, like a duck,"
+      },
+      {
+       "cyr": "баба Елка, како желка,",
+       "lat": "baba Elka, kako želka,",
+       "en": "Granny Elka, like a tortoise,"
+      },
+      {
+       "cyr": "баба Миа, лута змија,",
+       "lat": "baba Mia, luta zmija,",
+       "en": "Granny Mia, a fierce snake,"
+      },
+      {
+       "cyr": "баба Трена, риба мрена.",
+       "lat": "baba Trena, riba mrena.",
+       "en": "Granny Trena, a barbel fish."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Баба Миха, многу тиха,",
+       "lat": "Baba Miha, mnogu tiha,",
+       "en": "Granny Miha, very quiet,"
+      },
+      {
+       "cyr": "баба Јана, пак пијана,",
+       "lat": "baba Jana, pak pijana,",
+       "en": "Granny Jana, drunk again,"
+      },
+      {
+       "cyr": "баба Нада, со два заба,",
+       "lat": "baba Nada, so dva zaba,",
+       "en": "Granny Nada, with two teeth,"
+      },
+      {
+       "cyr": "баба Неда, се ѝ е од реда.",
+       "lat": "baba Neda, se ì e od reda.",
+       "en": "Granny Neda, always in her turn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздол' иде дедо Ване,",
+       "lat": "Ozdol' ide dedo Vane,",
+       "en": "From below comes Grandpa Vane,"
+      },
+      {
+       "cyr": "дедо Ване, сос' тупане.",
+       "lat": "dedo Vane, sos' tupane.",
+       "en": "Grandpa Vane, with a drum."
+      },
+      {
+       "cyr": "Дедо Петре, гајдаџија,",
+       "lat": "Dedo Petre, gajdadžija,",
+       "en": "Grandpa Petre, the bagpiper,"
+      },
+      {
+       "cyr": "плус и Ѓорѓи, зурлаџија.",
+       "lat": "plus i Ǵorǵi, zurladžija.",
+       "en": "plus Gjorgji, the zurla player."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дочуле ги два овчари,",
+       "lat": "Dočule gi dva ovčari,",
+       "en": "Two shepherds heard them,"
+      },
+      {
+       "cyr": "два овчари со кавали.",
+       "lat": "dva ovčari so kavali.",
+       "en": "two shepherds with flutes."
+      },
+      {
+       "cyr": "Оро играат, песни пеат,",
+       "lat": "Oro igraat, pesni peat,",
+       "en": "They dance the horo, they sing songs,"
+      },
+      {
+       "cyr": "стари баби како жаби.",
+       "lat": "stari babi kako žabi.",
+       "en": "old grannies like frogs."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,210 @@
+{
+ "id": 207,
+ "slug": "razvila-gora-zelena",
+ "title_cyr": "Развила гора зелена",
+ "title_latin": "Razvila gora zelena",
+ "title_en": "The Green Forest Has Leafed Out",
+ "pesna_url": "https://pesna.org/song/207",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect forms (ки с' ја мен'ме, ќи се сторам, прајме) are my reading as 'let us swap clothes / I will become / we will make'. 'Потам помнале' is my reading as 'then remembered'. The last line has no closing punctuation in the source.",
+ "words_to_learn": [
+  {
+   "mk": "ајдути",
+   "en": "outlaws, haiduks"
+  },
+  {
+   "mk": "нивеста",
+   "en": "bride (dialect form of невеста)"
+  },
+  {
+   "mk": "деверо",
+   "en": "best man, groom's brother"
+  },
+  {
+   "mk": "зурли",
+   "en": "zurla pipes"
+  },
+  {
+   "mk": "тапани",
+   "en": "drums"
+  },
+  {
+   "mk": "рубата",
+   "en": "clothes (dialect)"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre"
+  },
+  {
+   "mk": "јаска",
+   "en": "I too (dialect)"
+  }
+ ],
+ "performers": [
+  "Коста Новакис"
+ ],
+ "audio": [
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/1446"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Развила гора зелена,",
+       "lat": "Razvila gora zelena,",
+       "en": "The green forest has leafed out,"
+      },
+      {
+       "cyr": "развила гора зелена,",
+       "lat": "razvila gora zelena,",
+       "en": "the green forest has leafed out,"
+      },
+      {
+       "cyr": "ништо не влегва во неја,",
+       "lat": "ništo ne vlegva vo neja,",
+       "en": "nothing enters into it,"
+      },
+      {
+       "cyr": "ништо не влегва во неја.",
+       "lat": "ništo ne vlegva vo neja.",
+       "en": "nothing enters into it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Потам помнале ајдуте,",
+       "lat": "Potam pomnale ajdute,",
+       "en": "Then the outlaws remembered,"
+      },
+      {
+       "cyr": "потам помнале ајдуте,",
+       "lat": "potam pomnale ajdute,",
+       "en": "then the outlaws remembered,"
+      },
+      {
+       "cyr": "фатија пушки да пукат,",
+       "lat": "fatija puški da pukat,",
+       "en": "they took up rifles to shoot,"
+      },
+      {
+       "cyr": "фатија пушки да пукат.",
+       "lat": "fatija puški da pukat.",
+       "en": "they took up rifles to shoot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нивеста веле говори:",
+       "lat": "Nivesta vele govori:",
+       "en": "The bride speaks and says:"
+      },
+      {
+       "cyr": "- Запрејте зурли тапани,",
+       "lat": "- Zaprejte zurli tapani,",
+       "en": "- Stop, pipes and drums,"
+      },
+      {
+       "cyr": "полна е гора ајдути.",
+       "lat": "polna e gora ajduti.",
+       "en": "the forest is full of outlaws."
+      },
+      {
+       "cyr": "Полна е гора ајдути,",
+       "lat": "Polna e gora ajduti,",
+       "en": "The forest is full of outlaws,"
+      },
+      {
+       "cyr": "ништо не влегва во неа.",
+       "lat": "ništo ne vlegva vo nea.",
+       "en": "nothing enters into it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деверо малој братенче,",
+       "lat": "Devero maloj bratenče,",
+       "en": "Best man, little brother,"
+      },
+      {
+       "cyr": "деверо малој братенче,",
+       "lat": "devero maloj bratenče,",
+       "en": "best man, little brother,"
+      },
+      {
+       "cyr": "Ај ки с' ја мен'ме рубата,",
+       "lat": "Aj ki s' ja men'me rubata,",
+       "en": "come, let us swap our clothes,"
+      },
+      {
+       "cyr": "ај ки с' ја мен'ме рубата.",
+       "lat": "aj ki s' ja men'me rubata.",
+       "en": "come, let us swap our clothes."
+      },
+      {
+       "cyr": "Јас ки се сторам деверо,",
+       "lat": "Jas ki se storam devero,",
+       "en": "I will become the best man,"
+      },
+      {
+       "cyr": "теб ки те прајме нивеста.",
+       "lat": "teb ki te prajme nivesta.",
+       "en": "and we will make you the bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нeвеста веле говори,",
+       "lat": "Nevesta vele govori,",
+       "en": "The bride speaks and says,"
+      },
+      {
+       "cyr": "нeвеста веле говори:",
+       "lat": "nevesta vele govori:",
+       "en": "the bride speaks and says:"
+      },
+      {
+       "cyr": "- Јаска можам пушка да држам,",
+       "lat": "- Jaska možam puška da držam,",
+       "en": "- I too can hold a rifle,"
+      },
+      {
+       "cyr": "јаска можам сабја да вртам.",
+       "lat": "jaska možam sabja da vrtam.",
+       "en": "I too can wield a sabre."
+      },
+      {
+       "cyr": "Јаска можам пушка да држам,",
+       "lat": "Jaska možam puška da držam,",
+       "en": "I too can hold a rifle,"
+      },
+      {
+       "cyr": "јаска можам сабја да вртам",
+       "lat": "jaska možam sabja da vrtam",
+       "en": "I too can wield a sabre"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

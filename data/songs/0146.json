@@ -1,0 +1,396 @@
+{
+ "id": 146,
+ "slug": "sedna-baba-da-vechera",
+ "title_cyr": "Седна баба да вечера",
+ "title_latin": "Sedna baba da večera",
+ "title_en": "Granny Sat Down to Have Supper",
+ "pesna_url": "https://pesna.org/song/146",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Guesses: 'злојасна' as 'ravenous' and 'калеши' as a kind of ram (left untranslated); 'натрескала' as 'got stuffed/plastered' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "баба",
+   "en": "granny, old woman"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper; to have supper"
+  },
+  {
+   "mk": "еребица",
+   "en": "partridge"
+  },
+  {
+   "mk": "галаб",
+   "en": "pigeon, dove"
+  },
+  {
+   "mk": "пржени",
+   "en": "fried"
+  },
+  {
+   "mk": "јалови",
+   "en": "barren"
+  },
+  {
+   "mk": "грбави",
+   "en": "humpbacked"
+  },
+  {
+   "mk": "бочка",
+   "en": "barrel"
+  },
+  {
+   "mk": "се најала",
+   "en": "she ate her fill"
+  },
+  {
+   "mk": "се напила",
+   "en": "she drank her fill"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Антонио Трајковски",
+  "Лазе Аврамовски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/216"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/217"
+  },
+  {
+   "who": "Лазе Аврамовски",
+   "url": "https://pesna.org/audio-download/4140"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4297"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Седна баба да вечера,",
+       "lat": "Sedna baba da večera,",
+       "en": "Granny sat down to have supper,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, па се не најала,",
+       "lat": "baba bila zlojasna, pa se ne najala,",
+       "en": "granny was ravenous, so she did not eat her fill,"
+      },
+      {
+       "cyr": "па се не напила.",
+       "lat": "pa se ne napila.",
+       "en": "so she did not drink her fill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втора вечер вечера",
+       "lat": "Vtora večer večera",
+       "en": "The second evening she dined on"
+      },
+      {
+       "cyr": "два ми летни галаба,",
+       "lat": "dva mi letni galaba,",
+       "en": "two summer pigeons,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, пак се не најала,",
+       "lat": "baba bila zlojasna, pak se ne najala,",
+       "en": "granny was ravenous, still she did not eat her fill,"
+      },
+      {
+       "cyr": "па се не напила.",
+       "lat": "pa se ne napila.",
+       "en": "so she did not drink her fill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трета вечер вечера",
+       "lat": "Treta večer večera",
+       "en": "The third evening she dined on"
+      },
+      {
+       "cyr": "три кокошки пржени,",
+       "lat": "tri kokoški prženi,",
+       "en": "three fried chickens,"
+      },
+      {
+       "cyr": "два ми летни галаба,",
+       "lat": "dva mi letni galaba,",
+       "en": "two summer pigeons,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, пак се не најала,",
+       "lat": "baba bila zlojasna, pak se ne najala,",
+       "en": "granny was ravenous, still she did not eat her fill,"
+      },
+      {
+       "cyr": "па се не напила.",
+       "lat": "pa se ne napila.",
+       "en": "so she did not drink her fill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Четвртата вечер вечера",
+       "lat": "Četvrtata večer večera",
+       "en": "The fourth evening she dined on"
+      },
+      {
+       "cyr": "четири овна калеши,",
+       "lat": "četiri ovna kaleši,",
+       "en": "four kaleshi rams,"
+      },
+      {
+       "cyr": "три кокошки пржени,",
+       "lat": "tri kokoški prženi,",
+       "en": "three fried chickens,"
+      },
+      {
+       "cyr": "два ми летни галаба,",
+       "lat": "dva mi letni galaba,",
+       "en": "two summer pigeons,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, пак се не најала,",
+       "lat": "baba bila zlojasna, pak se ne najala,",
+       "en": "granny was ravenous, still she did not eat her fill,"
+      },
+      {
+       "cyr": "па се не напила.",
+       "lat": "pa se ne napila.",
+       "en": "so she did not drink her fill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Петта вечер вечера",
+       "lat": "Petta večer večera",
+       "en": "The fifth evening she dined on"
+      },
+      {
+       "cyr": "пет ми крави јалови,",
+       "lat": "pet mi kravi jalovi,",
+       "en": "five barren cows,"
+      },
+      {
+       "cyr": "четири овна калеши,",
+       "lat": "četiri ovna kaleši,",
+       "en": "four kaleshi rams,"
+      },
+      {
+       "cyr": "три кокошки пржени,",
+       "lat": "tri kokoški prženi,",
+       "en": "three fried chickens,"
+      },
+      {
+       "cyr": "два ми летни галаба,",
+       "lat": "dva mi letni galaba,",
+       "en": "two summer pigeons,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, пак се не најала,",
+       "lat": "baba bila zlojasna, pak se ne najala,",
+       "en": "granny was ravenous, still she did not eat her fill,"
+      },
+      {
+       "cyr": "па се не напила.",
+       "lat": "pa se ne napila.",
+       "en": "so she did not drink her fill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шеста вечер вечера",
+       "lat": "Šesta večer večera",
+       "en": "The sixth evening she dined on"
+      },
+      {
+       "cyr": "шест камили грбави,",
+       "lat": "šest kamili grbavi,",
+       "en": "six humpbacked camels,"
+      },
+      {
+       "cyr": "пет ми крави јалови,",
+       "lat": "pet mi kravi jalovi,",
+       "en": "five barren cows,"
+      },
+      {
+       "cyr": "четири овна калеши,",
+       "lat": "četiri ovna kaleši,",
+       "en": "four kaleshi rams,"
+      },
+      {
+       "cyr": "три кокошки пржени,",
+       "lat": "tri kokoški prženi,",
+       "en": "three fried chickens,"
+      },
+      {
+       "cyr": "два ми летни галаба,",
+       "lat": "dva mi letni galaba,",
+       "en": "two summer pigeons,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, пак се не најала,",
+       "lat": "baba bila zlojasna, pak se ne najala,",
+       "en": "granny was ravenous, still she did not eat her fill,"
+      },
+      {
+       "cyr": "па се не напила.",
+       "lat": "pa se ne napila.",
+       "en": "so she did not drink her fill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седма вечер испила",
+       "lat": "Sedma večer ispila",
+       "en": "The seventh evening she drank"
+      },
+      {
+       "cyr": "седум бочки со вино,",
+       "lat": "sedum bočki so vino,",
+       "en": "seven barrels of wine,"
+      },
+      {
+       "cyr": "шест камили грбави,",
+       "lat": "šest kamili grbavi,",
+       "en": "six humpbacked camels,"
+      },
+      {
+       "cyr": "пет ми крави јалови,",
+       "lat": "pet mi kravi jalovi,",
+       "en": "five barren cows,"
+      },
+      {
+       "cyr": "четири овна калеши,",
+       "lat": "četiri ovna kaleši,",
+       "en": "four kaleshi rams,"
+      },
+      {
+       "cyr": "три кокошки пржени,",
+       "lat": "tri kokoški prženi,",
+       "en": "three fried chickens,"
+      },
+      {
+       "cyr": "два ми летни галаба,",
+       "lat": "dva mi letni galaba,",
+       "en": "two summer pigeons,"
+      },
+      {
+       "cyr": "една еребица, една еребица.",
+       "lat": "edna erebica, edna erebica.",
+       "en": "one partridge, one partridge."
+      },
+      {
+       "cyr": "Пак баба не јала, пак баба не пила,",
+       "lat": "Pak baba ne jala, pak baba ne pila,",
+       "en": "Still granny did not eat, still granny did not drink,"
+      },
+      {
+       "cyr": "баба била злојасна, пак се не најала,",
+       "lat": "baba bila zlojasna, pak se ne najala,",
+       "en": "granny was ravenous, still she did not eat her fill,"
+      },
+      {
+       "cyr": "е пак се натрескала.",
+       "lat": "e pak se natreskala.",
+       "en": "and yet she got stuffed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

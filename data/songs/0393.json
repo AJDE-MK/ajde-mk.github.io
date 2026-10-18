@@ -1,0 +1,305 @@
+{
+ "id": 393,
+ "slug": "trgnala-mi-ruma-moma",
+ "title_cyr": "Тргнала ми Рума мома",
+ "title_latin": "Trgnala mi Ruma moma",
+ "title_en": "Ruma the Girl Set Out",
+ "pesna_url": "https://pesna.org/song/393",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Shepherd-and-girl dialogue in folk style; origin unclear, no author I can name. 'Зело би те, зело лудо' is my reading ('I would take you, take you madly'); 'Рума' is taken as a girl's name.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (shepherd's flute)"
+  },
+  {
+   "mk": "меден",
+   "en": "honey-sweet"
+  },
+  {
+   "mk": "ситна роса",
+   "en": "fine dew"
+  },
+  {
+   "mk": "подвикнува",
+   "en": "calls out"
+  },
+  {
+   "mk": "коли",
+   "en": "to slaughter"
+  },
+  {
+   "mk": "рудо јагне",
+   "en": "red/reddish lamb"
+  },
+  {
+   "mk": "свилен фустан",
+   "en": "silk dress"
+  },
+  {
+   "mk": "не арчи се",
+   "en": "do not spend (money)"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Даниела Величкова",
+  "Дејан Митев",
+  "Ѓорѓи Желчевски",
+  "Иван Андонов",
+  "Иван Дјаков",
+  "Кевсер Селимова",
+  "Костадинка Танчева",
+  "Кочо Петровски",
+  "Пендари",
+  "Џина Стоева"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2043"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2044"
+  },
+  {
+   "who": "Пендари",
+   "url": "https://pesna.org/audio-download/2045"
+  },
+  {
+   "who": "Иван Дјаков",
+   "url": "https://pesna.org/audio-download/2046"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2920"
+  },
+  {
+   "who": "Дејан Митев",
+   "url": "https://pesna.org/audio-download/3381"
+  },
+  {
+   "who": "Даниела Величкова, Иван Андонов, Костадинка Танчева",
+   "url": "https://pesna.org/audio-download/3382"
+  },
+  {
+   "who": "Џина Стоева",
+   "url": "https://pesna.org/audio-download/3383"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргнала ми Рума мома",
+       "lat": "Trgnala mi Ruma moma",
+       "en": "Ruma the girl set out"
+      },
+      {
+       "cyr": "низ гора зелена,",
+       "lat": "niz gora zelena,",
+       "en": "through the green forest,"
+      },
+      {
+       "cyr": "и по неа Стојан овчар",
+       "lat": "i po nea Stojan ovčar",
+       "en": "and after her Stojan the shepherd"
+      },
+      {
+       "cyr": "с' меден кавал свири.",
+       "lat": "s' meden kaval sviri.",
+       "en": "plays on a honey-sweet flute."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Руме, моме,",
+       "lat": "- Rume, mome,",
+       "en": "- Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, изгорев за тебе.",
+       "lat": "Rume, izgorev za tebe.",
+       "en": "Ruma, I am burning for you."
+      },
+      {
+       "cyr": "Руме моме,",
+       "lat": "Rume mome,",
+       "en": "Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, умирам за тебе.",
+       "lat": "Rume, umiram za tebe.",
+       "en": "Ruma, I am dying for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "С' кавал свири Стојан овчар",
+       "lat": "S' kaval sviri Stojan ovčar",
+       "en": "Stojan the shepherd plays on the flute,"
+      },
+      {
+       "cyr": "ситна роса паѓа,",
+       "lat": "sitna rosa paǵa,",
+       "en": "fine dew is falling,"
+      },
+      {
+       "cyr": "и на Руме подвикнува:",
+       "lat": "i na Rume podviknuva:",
+       "en": "and he calls out to Ruma:"
+      },
+      {
+       "cyr": "- Стој, почекај Руме!",
+       "lat": "- Stoj, počekaj Rume!",
+       "en": "- Stop, wait, Ruma!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Руме, моме,",
+       "lat": "- Rume, mome,",
+       "en": "- Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, изгорев за тебе.",
+       "lat": "Rume, izgorev za tebe.",
+       "en": "Ruma, I am burning for you."
+      },
+      {
+       "cyr": "Руме моме,",
+       "lat": "Rume mome,",
+       "en": "Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, умирам за тебе.",
+       "lat": "Rume, umiram za tebe.",
+       "en": "Ruma, I am dying for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе ти колам рудо јагне",
+       "lat": "- Ḱe ti kolam rudo jagne",
+       "en": "- I will slaughter a red lamb for you,"
+      },
+      {
+       "cyr": "дали би ме зело?",
+       "lat": "dali bi me zelo?",
+       "en": "would you take me?"
+      },
+      {
+       "cyr": "- Зело би те, зело лудо",
+       "lat": "- Zelo bi te, zelo ludo",
+       "en": "- I would take you, take you madly,"
+      },
+      {
+       "cyr": "ама куќа немаш.",
+       "lat": "ama kuḱa nemaš.",
+       "en": "but you have no house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Руме, моме,",
+       "lat": "- Rume, mome,",
+       "en": "- Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, изгорев за тебе.",
+       "lat": "Rume, izgorev za tebe.",
+       "en": "Ruma, I am burning for you."
+      },
+      {
+       "cyr": "Руме моме,",
+       "lat": "Rume mome,",
+       "en": "Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, умирам за тебе.",
+       "lat": "Rume, umiram za tebe.",
+       "en": "Ruma, I am dying for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе ти купам свилен фустан",
+       "lat": "- Ḱe ti kupam svilen fustan",
+       "en": "- I will buy you a silk dress,"
+      },
+      {
+       "cyr": "дали ќе го носиш?",
+       "lat": "dali ḱe go nosiš?",
+       "en": "will you wear it?"
+      },
+      {
+       "cyr": "- Не купувај не арчи се",
+       "lat": "- Ne kupuvaj ne arči se",
+       "en": "- Do not buy it, do not spend,"
+      },
+      {
+       "cyr": "тебе не те сакам.",
+       "lat": "tebe ne te sakam.",
+       "en": "I do not love you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Руме, моме,",
+       "lat": "- Rume, mome,",
+       "en": "- Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, изгорев за тебе.",
+       "lat": "Rume, izgorev za tebe.",
+       "en": "Ruma, I am burning for you."
+      },
+      {
+       "cyr": "Руме моме,",
+       "lat": "Rume mome,",
+       "en": "Ruma, girl,"
+      },
+      {
+       "cyr": "Руме, умирам за тебе.",
+       "lat": "Rume, umiram za tebe.",
+       "en": "Ruma, I am dying for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,224 @@
+{
+ "id": 121,
+ "slug": "chetvorica-kumiti",
+ "title_cyr": "Четворица кумити",
+ "title_latin": "Četvorica kumiti",
+ "title_en": "Four Wedding Sponsors",
+ "pesna_url": "https://pesna.org/song/121",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Place names Кршисер and Гари are as written; I do not know them. 'кумити' is my reading as a plural of 'кум'. 'Дал бог добро' is a standard reply greeting. Line 'долап мусандра' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "кум",
+   "en": "wedding sponsor, best man, godfather"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, daughter-in-law"
+  },
+  {
+   "mk": "чардак",
+   "en": "upper porch, balcony"
+  },
+  {
+   "mk": "одаја",
+   "en": "room"
+  },
+  {
+   "mk": "долап",
+   "en": "cupboard"
+  },
+  {
+   "mk": "мусандра",
+   "en": "built-in wall cupboard (dialect)"
+  },
+  {
+   "mk": "тајфа",
+   "en": "company, group (Turkish-origin)"
+  },
+  {
+   "mk": "напијам",
+   "en": "I give a drink to"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/86"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/89"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Четворица кумити",
+       "lat": "Četvorica kumiti",
+       "en": "Four wedding sponsors"
+      },
+      {
+       "cyr": "низ Кршисер врвеја.",
+       "lat": "niz Kršiser vrveja.",
+       "en": "were walking through Kršisar."
+      },
+      {
+       "cyr": "Низ Кршисер врвеја,",
+       "lat": "Niz Kršiser vrveja,",
+       "en": "They were walking through Kršisar,"
+      },
+      {
+       "cyr": "право Гари влегоја.",
+       "lat": "pravo Gari vlegoja.",
+       "en": "they entered Gari straight away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првиот беше, врвеше,",
+       "lat": "Prviot beše, vrveše,",
+       "en": "The first one, as he walked, was"
+      },
+      {
+       "cyr": "Стојанчо Паун кумита.",
+       "lat": "Stojančo Paun kumita.",
+       "en": "Stojančo, Paun's sponsor."
+      },
+      {
+       "cyr": "Други ми беше, врвеше,",
+       "lat": "Drugi mi beše, vrveše,",
+       "en": "The second one, as he walked, was"
+      },
+      {
+       "cyr": "Стефанов Мицо кумита.",
+       "lat": "Stefanov Mico kumita.",
+       "en": "Stefan's Mico, the sponsor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трети ми беше, врвеше,",
+       "lat": "Treti mi beše, vrveše,",
+       "en": "The third one, as he walked, was"
+      },
+      {
+       "cyr": "Алексо Кирко кумита.",
+       "lat": "Alekso Kirko kumita.",
+       "en": "Aleksо, Kirko's sponsor."
+      },
+      {
+       "cyr": "Четврти беше, врвеше,",
+       "lat": "Četvrti beše, vrveše,",
+       "en": "The fourth was"
+      },
+      {
+       "cyr": "Пејданчо Блажо, кумита.",
+       "lat": "Pejdančo Blažo, kumita.",
+       "en": "Pejdančo, Blažo's sponsor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чукат, чукат на врата:",
+       "lat": "Čukat, čukat na vrata:",
+       "en": "They knock, knock on the door:"
+      },
+      {
+       "cyr": "- Отвори млада невесто.",
+       "lat": "- Otvori mlada nevesto.",
+       "en": "- Open up, young bride."
+      },
+      {
+       "cyr": "Отвори млада невесто,",
+       "lat": "Otvori mlada nevesto,",
+       "en": "Open up, young bride,"
+      },
+      {
+       "cyr": "невесто млада Стојанице.",
+       "lat": "nevesto mlada Stojanice.",
+       "en": "young bride Stojanica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Она си слезе од чардак",
+       "lat": "Ona si sleze od čardak",
+       "en": "She came down from the upper porch"
+      },
+      {
+       "cyr": "и си вратата отвори.",
+       "lat": "i si vratata otvori.",
+       "en": "and opened the door."
+      },
+      {
+       "cyr": "- Добро вечер, невесто!",
+       "lat": "- Dobro večer, nevesto!",
+       "en": "- Good evening, bride!"
+      },
+      {
+       "cyr": "- Дал бог добро, кумити!",
+       "lat": "- Dal bog dobro, kumiti!",
+       "en": "- God grant good, sponsors!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан си вели, говори:",
+       "lat": "Stojan si veli, govori:",
+       "en": "Stojan says, speaks:"
+      },
+      {
+       "cyr": "- Невесто млада, Стојанице,",
+       "lat": "- Nevesto mlada, Stojanice,",
+       "en": "- Young bride, Stojanica,"
+      },
+      {
+       "cyr": "качи се горе в' одаја,",
+       "lat": "kači se gore v' odaja,",
+       "en": "climb up to the room,"
+      },
+      {
+       "cyr": "отвори долап мусандра.",
+       "lat": "otvori dolap musandra.",
+       "en": "open the cupboard of the wall shelf."
+      },
+      {
+       "cyr": "Извади шише ракија,",
+       "lat": "Izvadi šiše rakija,",
+       "en": "Bring out a bottle of brandy,"
+      },
+      {
+       "cyr": "тајфата да ја напијам!",
+       "lat": "tajfata da ja napijam!",
+       "en": "so that I may treat the company!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

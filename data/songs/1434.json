@@ -1,0 +1,228 @@
+{
+ "id": 1434,
+ "slug": "ne-plachi-stano-mori",
+ "title_cyr": "Не плачи Стано мори",
+ "title_latin": "Ne plači Stano mori",
+ "title_en": "Don't cry, Stana, hey",
+ "pesna_url": "https://pesna.org/song/1434",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding women's song. 'топар' I render as 'bundle' (my reading); 'Пусто да остане' is a curse-like phrase, my reading 'may it be left empty/damned'.",
+ "words_to_learn": [
+  {
+   "mk": "сајче",
+   "en": "sayak, sleeveless embroidered woman's jacket"
+  },
+  {
+   "mk": "срмено",
+   "en": "made with silver/gold thread"
+  },
+  {
+   "mk": "предено",
+   "en": "spun"
+  },
+  {
+   "mk": "сновано",
+   "en": "warped (prepared for weaving)"
+  },
+  {
+   "mk": "кроено",
+   "en": "cut (cloth)"
+  },
+  {
+   "mk": "шиено",
+   "en": "sewn"
+  },
+  {
+   "mk": "везено",
+   "en": "embroidered"
+  },
+  {
+   "mk": "шарки",
+   "en": "patterns, designs"
+  },
+  {
+   "mk": "некадарно",
+   "en": "not capable, unable"
+  },
+  {
+   "mk": "груби",
+   "en": "scratch (dialect, 'не груби' = don't scratch)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Гајтан",
+  "Васка Илиева",
+  "Гуна Иванова",
+  "Трио Меџидија"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3655"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3896"
+  },
+  {
+   "who": "Гуна Иванова",
+   "url": "https://pesna.org/audio-download/3897"
+  },
+  {
+   "who": "Ансамбл Гајтан",
+   "url": "https://pesna.org/audio-download/3898"
+  },
+  {
+   "who": "Трио Меџидија",
+   "url": "https://pesna.org/audio-download/3899"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не плачи Стано мори, не жали,",
+       "lat": "- Ne plači Stano mori, ne žali,",
+       "en": "- Don't cry, Stana, hey, don't grieve,"
+      },
+      {
+       "cyr": "не рони солзи, мори, крвави,",
+       "lat": "ne roni solzi, mori, krvavi,",
+       "en": "don't shed tears, hey, bloody ones,"
+      },
+      {
+       "cyr": "не груби лице мори црвено,",
+       "lat": "ne grubi lice mori crveno,",
+       "en": "don't scratch your red face, hey,"
+      },
+      {
+       "cyr": "не топи сајче мори срмено.",
+       "lat": "ne topi sajče mori srmeno.",
+       "en": "don't ruin the silver-threaded sayak."
+      },
+      {
+       "cyr": "Скапо ти е сајче мори платено,",
+       "lat": "Skapo ti e sajče mori plateno,",
+       "en": "The sayak is dear, hey, it was paid for,"
+      },
+      {
+       "cyr": "в' Стамбола града е предено.",
+       "lat": "v' Stambola grada e predeno.",
+       "en": "it was spun in the city of Istanbul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' Стамбола града мори предено,",
+       "lat": "V' Stambola grada mori predeno,",
+       "en": "In the city of Istanbul, hey, it was spun,"
+      },
+      {
+       "cyr": "в' Солуна града е сновано,",
+       "lat": "v' Soluna grada e snovano,",
+       "en": "in the city of Salonica it was warped,"
+      },
+      {
+       "cyr": "в' Битола града е кроено,",
+       "lat": "v' Bitola grada e kroeno,",
+       "en": "in the city of Bitola it was cut,"
+      },
+      {
+       "cyr": "во Велес града е шиено.",
+       "lat": "vo Veles grada e šieno.",
+       "en": "in the city of Veles it was sewn."
+      },
+      {
+       "cyr": "Во Велес града е шиено,",
+       "lat": "Vo Veles grada e šieno,",
+       "en": "In the city of Veles it was sewn,"
+      },
+      {
+       "cyr": "во бело Скопје е везено.",
+       "lat": "vo belo Skopje e vezeno.",
+       "en": "in white Skopje it was embroidered."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Додека се сајче, мори, навезе,",
+       "lat": "Dodeka se sajče, mori, naveze,",
+       "en": "Until the sayak, hey, was embroidered,"
+      },
+      {
+       "cyr": "еден топар игли се скршија,",
+       "lat": "eden topar igli se skršija,",
+       "en": "a whole bundle of needles broke,"
+      },
+      {
+       "cyr": "еден топар конци се свршија,",
+       "lat": "eden topar konci se svršija,",
+       "en": "a whole bundle of thread ran out,"
+      },
+      {
+       "cyr": "додека се сајчето навезе.",
+       "lat": "dodeka se sajčeto naveze.",
+       "en": "until the sayak was embroidered."
+      },
+      {
+       "cyr": "Како на небото, мори, ѕвездите,",
+       "lat": "Kako na neboto, mori, dzvezdite,",
+       "en": "Like the stars in the sky, hey,"
+      },
+      {
+       "cyr": "така на сајчето, мори, шарките.",
+       "lat": "taka na sajčeto, mori, šarkite.",
+       "en": "so are the patterns on the sayak, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пусто да остане, лудо, сајчето,",
+       "lat": "- Pusto da ostane, ludo, sajčeto,",
+       "en": "- May the sayak be left empty, foolish one,"
+      },
+      {
+       "cyr": "пусто да остане лудо сајчето,",
+       "lat": "pusto da ostane ludo sajčeto,",
+       "en": "may the sayak be left empty, foolish one,"
+      },
+      {
+       "cyr": "кога е момче море малечко,",
+       "lat": "koga e momče more malečko,",
+       "en": "when the lad is, hey, so small,"
+      },
+      {
+       "cyr": "малечко момче, некадарно.",
+       "lat": "malečko momče, nekadarno.",
+       "en": "a small lad, not yet capable."
+      },
+      {
+       "cyr": "Кога е момче, море, малечко,",
+       "lat": "Koga e momče, more, malečko,",
+       "en": "When the lad is, hey, small,"
+      },
+      {
+       "cyr": "малечко момче, некадарно.",
+       "lat": "malečko momče, nekadarno.",
+       "en": "a small lad, not yet capable."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

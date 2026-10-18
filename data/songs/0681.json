@@ -1,0 +1,142 @@
+{
+ "id": 681,
+ "slug": "ljubinke-mome-ubavo",
+ "title_cyr": "Љубинке моме убаво",
+ "title_latin": "Ljubinke mome ubavo",
+ "title_en": "Lovely Girl, My Beloved",
+ "pesna_url": "https://pesna.org/song/681",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, reads as traditional. 'армаса' (my reading: got engaged/was promised) and 'лудо' (endearment, 'my dear') are my best guesses at dialect usage.",
+ "words_to_learn": [
+  {
+   "mk": "убаво",
+   "en": "beautiful, lovely"
+  },
+  {
+   "mk": "везеш",
+   "en": "you embroider"
+  },
+  {
+   "mk": "конец",
+   "en": "thread"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, yearning, deep desire"
+  },
+  {
+   "mk": "мачи",
+   "en": "torments, troubles"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "душманка",
+   "en": "female enemy"
+  }
+ ],
+ "performers": [
+  "Димитар Пљачков",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Димитар Пљачков, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/1898"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Љубинке моме убаво, леле убаво,",
+       "lat": "- Ljubinke mome ubavo, lele ubavo,",
+       "en": "- My lovely girl, oh lovely,"
+      },
+      {
+       "cyr": "што тажно везеш, ем плачеш,",
+       "lat": "što tažno vezeš, em plačeš,",
+       "en": "why do you embroider so sadly, and weep,"
+      },
+      {
+       "cyr": "што тажно везиш моме, ем плачеш?",
+       "lat": "što tažno veziš mome, em plačeš?",
+       "en": "why do you embroider so sadly, girl, and weep?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали ти се мрси конецот, леле конецот,",
+       "lat": "Dali ti se mrsi konecot, lele konecot,",
+       "en": "Is the thread getting tangled, oh the thread,"
+      },
+      {
+       "cyr": "или те мачи меракот,",
+       "lat": "ili te mači merakot,",
+       "en": "or is it longing that torments you,"
+      },
+      {
+       "cyr": "или те мачи моме меракот?",
+       "lat": "ili te mači mome merakot?",
+       "en": "or is it longing that torments you, girl?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ми се мрси конецот, леле конецот,",
+       "lat": "- Ne mi se mrsi konecot, lele konecot,",
+       "en": "- The thread is not getting tangled, oh the thread,"
+      },
+      {
+       "cyr": "тук' ме мачи меракот,",
+       "lat": "tuk' me mači merakot,",
+       "en": "it is only longing that torments me,"
+      },
+      {
+       "cyr": "тук' ме мачи, лудо, меракот.",
+       "lat": "tuk' me mači, ludo, merakot.",
+       "en": "it is only longing that torments me, my dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти ми се либето армаса, леле армаса,",
+       "lat": "Snošti mi se libeto armasa, lele armasa,",
+       "en": "Last night my sweetheart was engaged, oh engaged,"
+      },
+      {
+       "cyr": "за мојта верна другарка,",
+       "lat": "za mojta verna drugarka,",
+       "en": "to my faithful friend,"
+      },
+      {
+       "cyr": "за мојта прва, лудо, душманка.",
+       "lat": "za mojta prva, ludo, dušmanka.",
+       "en": "to my first, my dear, enemy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,133 @@
+{
+ "id": 170,
+ "slug": "sej-so-zdravje-sevdo-moja",
+ "title_cyr": "Сеј со здравје севдо моја",
+ "title_latin": "Sej so zdravje sevdo moja",
+ "title_en": "Farewell, my love",
+ "pesna_url": "https://pesna.org/song/170",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last stanza is unclear and my reading; 'денеска си го љубело' may refer to the face having kissed someone. The note on the source says 'коноштисам' means 'to meet'; I translated it as spending the night, which is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "сеј со здравје",
+   "en": "farewell, go in health"
+  },
+  {
+   "mk": "севдо",
+   "en": "love, longing (Turkish loan)"
+  },
+  {
+   "mk": "пушчи ме",
+   "en": "let me go"
+  },
+  {
+   "mk": "коноштисам",
+   "en": "to stay overnight, to meet (dialect)"
+  },
+  {
+   "mk": "уста",
+   "en": "mouth"
+  },
+  {
+   "mk": "позборвиме",
+   "en": "we talk"
+  },
+  {
+   "mk": "вени",
+   "en": "wither, fade"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2156"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сеј со здравје, севдо моја",
+       "lat": "Sej so zdravje, sevdo moja",
+       "en": "Farewell, my love,"
+      },
+      {
+       "cyr": "пушчи ме да си одам.",
+       "lat": "pušči me da si odam.",
+       "en": "let me go on my way."
+      },
+      {
+       "cyr": "Сета работа си ја оставив,",
+       "lat": "Seta rabota si ja ostaviv,",
+       "en": "I left all my work"
+      },
+      {
+       "cyr": "со тебе да се коноштисам.",
+       "lat": "so tebe da se konoštisam.",
+       "en": "to stay the night with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Подари ми твојта слатка уста",
+       "lat": "Podari mi tvojta slatka usta",
+       "en": "Give me your sweet mouth"
+      },
+      {
+       "cyr": "за да си позборвиме.",
+       "lat": "za da si pozborvime.",
+       "en": "so that we can talk."
+      },
+      {
+       "cyr": "Подари ми твојте црни очи",
+       "lat": "Podari mi tvojte crni oči",
+       "en": "Give me your dark eyes"
+      },
+      {
+       "cyr": "за да се погледаме.",
+       "lat": "za da se pogledame.",
+       "en": "so that we can look at each other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не вени ми, мое лице бело",
+       "lat": "Ne veni mi, moe lice belo",
+       "en": "Do not wither, my white face,"
+      },
+      {
+       "cyr": "денеска си го љубело.",
+       "lat": "deneska si go ljubelo.",
+       "en": "today you kissed him."
+      },
+      {
+       "cyr": "Не плачете, мои очи црни,",
+       "lat": "Ne plačete, moi oči crni,",
+       "en": "Do not weep, my dark eyes,"
+      },
+      {
+       "cyr": "до сега бевте со него.",
+       "lat": "do sega bevte so nego.",
+       "en": "until now you were with him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

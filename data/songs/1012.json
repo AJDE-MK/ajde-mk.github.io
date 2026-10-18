@@ -1,0 +1,326 @@
+{
+ "id": 1012,
+ "slug": "shto-si-tolku-leno-gajlelija",
+ "title_cyr": "Што си толку, Лено, гајлелија",
+ "title_latin": "Što si tolku, Leno, gajlelija",
+ "title_en": "Why are you so, Lena, lovesick",
+ "pesna_url": "https://pesna.org/song/1012",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Гајлелија' is a guess (lovesick or pining). Speakers swap between Lena, Klime and Stavre in the first version, so the dialogue attribution is my reading. 'Понудица/понадица' read as a gift for a sick person; 'пo бре лудо младо' translated as 'you silly young one'.",
+ "words_to_learn": [
+  {
+   "mk": "гајлелија",
+   "en": "lovesick, pining (dialect, my reading)"
+  },
+  {
+   "mk": "мераклија",
+   "en": "someone full of yearning or desire"
+  },
+  {
+   "mk": "преврзана",
+   "en": "bound up (head bandaged)"
+  },
+  {
+   "mk": "понадица",
+   "en": "a small gift or treat for a sick person"
+  },
+  {
+   "mk": "дуња",
+   "en": "quince"
+  },
+  {
+   "mk": "оздравела",
+   "en": "recovered"
+  },
+  {
+   "mk": "ќе се зејме",
+   "en": "we will marry (take each other)"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  }
+ ],
+ "performers": [
+  "Ансамбл Македонија",
+  "Виолета Томовска",
+  "Елена Трајчева",
+  "Љубојна",
+  "Никола Бадев",
+  "Секула Пупиноски"
+ ],
+ "audio": [
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/2346"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2347"
+  },
+  {
+   "who": "Секула Пупиноски",
+   "url": "https://pesna.org/audio-download/2348"
+  },
+  {
+   "who": "Ансамбл Македонија, Елена Трајчева",
+   "url": "https://pesna.org/audio-download/3160"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/3386"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3706"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Што си толку, Лено, гајлелија,",
+       "lat": "- Što si tolku, Leno, gajlelija,",
+       "en": "- Why are you so, Lena, gaylelia,"
+      },
+      {
+       "cyr": "гајлелија Лено, мераклија, аман,",
+       "lat": "gajlelija Leno, meraklija, aman,",
+       "en": "gaylelia Lena, merakliya, oh,"
+      },
+      {
+       "cyr": "со главата, Лено, преврзана?",
+       "lat": "so glavata, Leno, prevrzana?",
+       "en": "with your head bound up?"
+      },
+      {
+       "cyr": "Дали мајка, Лено, ти е болна,",
+       "lat": "Dali majka, Leno, ti e bolna,",
+       "en": "Is your mother, Lena, sick,"
+      },
+      {
+       "cyr": "или браќа, Лено, ти се болни, аман,",
+       "lat": "ili braḱa, Leno, ti se bolni, aman,",
+       "en": "or are your brothers, Lena, sick, oh,"
+      },
+      {
+       "cyr": "или сестра, Лено, ти умрела?",
+       "lat": "ili sestra, Leno, ti umrela?",
+       "en": "or has your sister, Lena, died?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ниту мајка, Климе, ми е болна,",
+       "lat": "- Nitu majka, Klime, mi e bolna,",
+       "en": "- Neither is my mother sick, Klime,"
+      },
+      {
+       "cyr": "шест недели, Климе, болна лежам, аман,",
+       "lat": "šest nedeli, Klime, bolna ležam, aman,",
+       "en": "six weeks, Klime, I have lain sick, oh,"
+      },
+      {
+       "cyr": "ти не дојде, Климе, да ме видиш.",
+       "lat": "ti ne dojde, Klime, da me vidiš.",
+       "en": "you did not come, Klime, to see me."
+      },
+      {
+       "cyr": "Ти не дојде, Климе, да ме видиш,",
+       "lat": "Ti ne dojde, Klime, da me vidiš,",
+       "en": "You did not come, Klime, to see me,"
+      },
+      {
+       "cyr": "понадица, Климе, да донесиш, аман,",
+       "lat": "ponadica, Klime, da donesiš, aman,",
+       "en": "to bring a gift, Klime, oh,"
+      },
+      {
+       "cyr": "понадица, Климе, жолта дуња.",
+       "lat": "ponadica, Klime, žolta dunja.",
+       "en": "a gift, Klime, a yellow quince."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дојдов, дојдов Лено, до портата,",
+       "lat": "- Dojdov, dojdov Leno, do portata,",
+       "en": "- I came, I came, Lena, to the gate,"
+      },
+      {
+       "cyr": "ме сретнаја, Лено, твојте браќа аман,",
+       "lat": "me sretnaja, Leno, tvojte braḱa aman,",
+       "en": "your brothers, Lena, met me, oh,"
+      },
+      {
+       "cyr": "ми рекоја, Лено, си оздравела.",
+       "lat": "mi rekoja, Leno, si ozdravela.",
+       "en": "they told me, Lena, you had recovered."
+      },
+      {
+       "cyr": "Моли бога, Лено, и господа,",
+       "lat": "Moli boga, Leno, i gospoda,",
+       "en": "Pray to God, Lena, and to the Lord,"
+      },
+      {
+       "cyr": "Ставре да си оди Америка, аман,",
+       "lat": "Stavre da si odi Amerika, aman,",
+       "en": "that Stavre goes to America, oh,"
+      },
+      {
+       "cyr": "да работи, Ставре, во фабрика.",
+       "lat": "da raboti, Stavre, vo fabrika.",
+       "en": "to work, Stavre, in a factory."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогаш ние, Лено, ќе се зејме,",
+       "lat": "Togaš nie, Leno, ḱe se zejme,",
+       "en": "Then we, Lena, will marry,"
+      },
+      {
+       "cyr": "голем живот, Лено, ќе живејме, аман,",
+       "lat": "golem život, Leno, ḱe živejme, aman,",
+       "en": "we will live, Lena, a great life, oh,"
+      },
+      {
+       "cyr": "со јадење, Лено, со пиење.",
+       "lat": "so jadenje, Leno, so pienje.",
+       "en": "with eating, Lena, with drinking."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "# # # (Друга верзија) # # #",
+       "lat": "# # # (Druga verzija) # # #",
+       "en": "# # # (Друга верзија) # # #"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Што си толку гајлелија,",
+       "lat": "- Što si tolku gajlelija,",
+       "en": "- Why are you so lovesick,"
+      },
+      {
+       "cyr": "а бре лудо младо,",
+       "lat": "a bre ludo mlado,",
+       "en": "you silly young one,"
+      },
+      {
+       "cyr": "гајлелија, мераклија,",
+       "lat": "gajlelija, meraklija,",
+       "en": "lovesick, yearning,"
+      },
+      {
+       "cyr": "глава преврзано?",
+       "lat": "glava prevrzano?",
+       "en": "with your head bound up?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как да не сум гајлелија,",
+       "lat": "- Kak da ne sum gajlelija,",
+       "en": "- How should I not be lovesick,"
+      },
+      {
+       "cyr": "а бре лудо младо,",
+       "lat": "a bre ludo mlado,",
+       "en": "you silly young one,"
+      },
+      {
+       "cyr": "шест недели болна лежам,",
+       "lat": "šest nedeli bolna ležam,",
+       "en": "six weeks I lie sick,"
+      },
+      {
+       "cyr": "при мене не дојде?",
+       "lat": "pri mene ne dojde?",
+       "en": "you did not come to me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Понудица да донесеш,",
+       "lat": "Ponudica da doneseš,",
+       "en": "To bring a gift,"
+      },
+      {
+       "cyr": "а бре лудо младо,",
+       "lat": "a bre ludo mlado,",
+       "en": "you silly young one,"
+      },
+      {
+       "cyr": "понудица, жолта дуња",
+       "lat": "ponudica, žolta dunja",
+       "en": "a gift, a yellow quince"
+      },
+      {
+       "cyr": "и тиквешко грозје.",
+       "lat": "i tikveško grozje.",
+       "en": "and Tikvesh grapes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Си отидов на нивата,",
+       "lat": "- Si otidov na nivata,",
+       "en": "- I went to the field,"
+      },
+      {
+       "cyr": "а бре лудо младо",
+       "lat": "a bre ludo mlado",
+       "en": "you silly young one,"
+      },
+      {
+       "cyr": "дрво има, дуња нема,",
+       "lat": "drvo ima, dunja nema,",
+       "en": "there is a tree, no quince,"
+      },
+      {
+       "cyr": "понуда не носам,",
+       "lat": "ponuda ne nosam,",
+       "en": "I bring no gift,"
+      },
+      {
+       "cyr": "лозје има, грозје нема,",
+       "lat": "lozje ima, grozje nema,",
+       "en": "there is vine, no grapes,"
+      },
+      {
+       "cyr": "понуда не носам.",
+       "lat": "ponuda ne nosam.",
+       "en": "I bring no gift."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

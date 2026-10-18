@@ -1,0 +1,153 @@
+{
+ "id": 155,
+ "slug": "mnogu-mi-go-falat-babo",
+ "title_cyr": "Многу ми го фалат, бабо",
+ "title_latin": "Mnogu mi go falat, babo",
+ "title_en": "They praise her so much, father",
+ "pesna_url": "https://pesna.org/song/155",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бабо' is addressed to the girl's father (a request to see the daughter). The 'сè болно легнало' line is my reading: whoever saw her fell sick (with love).",
+ "words_to_learn": [
+  {
+   "mk": "фалат",
+   "en": "they praise"
+  },
+  {
+   "mk": "бабо",
+   "en": "father (dialect, address)"
+  },
+  {
+   "mk": "мори",
+   "en": "hey, oh (filler)"
+  },
+  {
+   "mk": "момиче",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "легнало",
+   "en": "lay down"
+  },
+  {
+   "mk": "шарена",
+   "en": "colorful, multicolored"
+  },
+  {
+   "mk": "одаја",
+   "en": "room, chamber"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Вања Лазарова",
+  "Љубојна",
+  "Мирвет Беловска",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/724"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/725"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/2398"
+  },
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3006"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Многу ми го фалат, бабо мори",
+       "lat": "Mnogu mi go falat, babo mori",
+       "en": "They praise so much, father, oh,"
+      },
+      {
+       "cyr": "вашето момиче.",
+       "lat": "vašeto momiče.",
+       "en": "your girl."
+      },
+      {
+       "cyr": "Бабо мори, вашето момиче.",
+       "lat": "Babo mori, vašeto momiče.",
+       "en": "Father oh, your girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој го е видело, бабо мори,",
+       "lat": "Koj go e videlo, babo mori,",
+       "en": "Whoever has seen her, father, oh,"
+      },
+      {
+       "cyr": "сè болно легнало.",
+       "lat": "sè bolno legnalo.",
+       "en": "lay down sick."
+      },
+      {
+       "cyr": "Бабо мори, во вашата куќа.",
+       "lat": "Babo mori, vo vašata kuḱa.",
+       "en": "Father oh, in your house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И јас да го видам, бабо мори",
+       "lat": "I jas da go vidam, babo mori",
+       "en": "Let me see her too, father, oh,"
+      },
+      {
+       "cyr": "ако болен лежам.",
+       "lat": "ako bolen ležam.",
+       "en": "even if I lie sick."
+      },
+      {
+       "cyr": "Бабо мори, ако болен лежам.",
+       "lat": "Babo mori, ako bolen ležam.",
+       "en": "Father oh, even if I lie sick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако болен лежам, бабо мори",
+       "lat": "Ako bolen ležam, babo mori",
+       "en": "Even if I lie sick, father, oh,"
+      },
+      {
+       "cyr": "во вашата куќа.",
+       "lat": "vo vašata kuḱa.",
+       "en": "in your house."
+      },
+      {
+       "cyr": "Бабо мори, в' шарена одаја.",
+       "lat": "Babo mori, v' šarena odaja.",
+       "en": "Father oh, in a colorful room."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

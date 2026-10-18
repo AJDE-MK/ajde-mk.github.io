@@ -1,0 +1,131 @@
+{
+ "id": 1065,
+ "slug": "majka-mi-kupila-shareni-chorapi",
+ "title_cyr": "Мајка ми купила шарени чорапи",
+ "title_latin": "Majka mi kupila šareni čorapi",
+ "title_en": "Mother bought me colorful socks",
+ "pesna_url": "https://pesna.org/song/1065",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional children's/play song as far as I can tell; origin unclear. 'штрак-штрук' is a sound refrain, transliterated.",
+ "words_to_learn": [
+  {
+   "mk": "чорапи",
+   "en": "socks"
+  },
+  {
+   "mk": "шарени",
+   "en": "colorful, multicolored"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "носе",
+   "en": "wears (dialect form)"
+  },
+  {
+   "mk": "порастиш",
+   "en": "you grow up"
+  },
+  {
+   "mk": "ќерко",
+   "en": "daughter (vocative)"
+  },
+  {
+   "mk": "штрак-штрук",
+   "en": "refrain sound, click-clack"
+  }
+ ],
+ "performers": [
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2469"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ми купила шарени чорапи,",
+       "lat": "Majka mi kupila šareni čorapi,",
+       "en": "Mother bought me colorful socks,"
+      },
+      {
+       "cyr": "штрак-штрук, шарени чорапи.",
+       "lat": "štrak-štruk, šareni čorapi.",
+       "en": "shtrak-shtruk, colorful socks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни она ги носе, ни мен' ми ги дава",
+       "lat": "Ni ona gi nose, ni men' mi gi dava",
+       "en": "She doesn't wear them herself, and doesn't give them to me"
+      },
+      {
+       "cyr": "штрак-штрук, ни мен' ми ги дава.",
+       "lat": "štrak-štruk, ni men' mi gi dava.",
+       "en": "shtrak-shtruk, doesn't give them to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога ќе порастиш, ќерко, други ќе ти купам,",
+       "lat": "- Koga ḱe porastiš, ḱerko, drugi ḱe ti kupam,",
+       "en": "- When you grow up, daughter, I will buy you other ones,"
+      },
+      {
+       "cyr": "штрак-штрук, други ќе ти купам.",
+       "lat": "štrak-štruk, drugi ḱe ti kupam.",
+       "en": "shtrak-shtruk, I will buy you other ones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ми купила шарено фустанче,",
+       "lat": "Majka mi kupila šareno fustanče,",
+       "en": "Mother bought me a colorful little dress,"
+      },
+      {
+       "cyr": "штрак-штрук, шарено фустанче.",
+       "lat": "štrak-štruk, šareno fustanče.",
+       "en": "shtrak-shtruk, a colorful little dress."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога ќе порастиш, ќерко, други ќе ти купам,",
+       "lat": "- Koga ḱe porastiš, ḱerko, drugi ḱe ti kupam,",
+       "en": "- When you grow up, daughter, I will buy you other ones,"
+      },
+      {
+       "cyr": "штрак-штрук, други ќе ти купам.",
+       "lat": "štrak-štruk, drugi ḱe ti kupam.",
+       "en": "shtrak-shtruk, I will buy you other ones."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

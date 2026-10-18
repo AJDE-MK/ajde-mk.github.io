@@ -1,0 +1,120 @@
+{
+ "id": 157,
+ "slug": "ni-prela-gora-ni-tkala",
+ "title_cyr": "Ни прела гора, ни ткала",
+ "title_latin": "Ni prela gora, ni tkala",
+ "title_en": "The forest neither spun, nor wove",
+ "pesna_url": "https://pesna.org/song/157",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Влатко Стефановски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/109"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/1293"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1499"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ни прела гора, ни ткала",
+       "lat": "Ni prela gora, ni tkala",
+       "en": "The forest neither spun, nor wove,",
+       "en_mt": false
+      },
+      {
+       "cyr": "са зима болна лежала,",
+       "lat": "sa zima bolna ležala,",
+       "en": "entire winter it laid sick,",
+       "en_mt": false
+      },
+      {
+       "cyr": "са зима болна лежала.",
+       "lat": "sa zima bolna ležala.",
+       "en": "entire winter it laid sick.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога на пролет станала,",
+       "lat": "Koga na prolet stanala,",
+       "en": "When it got up in the spring,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тивко ми ветре поддувна,",
+       "lat": "tivko mi vetre podduvna,",
+       "en": "a silent breeze started to blow,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пролетна песна запеја.",
+       "lat": "proletna pesna zapeja.",
+       "en": "singing a spring song.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сама се гора облекла,",
+       "lat": "Sama se gora oblekla,",
+       "en": "The forest dressed herself,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè во зелено кадифе,",
+       "lat": "sè vo zeleno kadife,",
+       "en": "all in green velvet,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè во зелена долама.",
+       "lat": "sè vo zelena dolama.",
+       "en": "all in green dolama*.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сè во зелено кадифе,",
+       "lat": "Sè vo zeleno kadife,",
+       "en": "All in green velvet,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè во зелена долама.",
+       "lat": "sè vo zelena dolama.",
+       "en": "all in green dolama.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

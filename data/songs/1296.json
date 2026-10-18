@@ -1,0 +1,167 @@
+{
+ "id": 1296,
+ "slug": "svirete-mi-tamburi",
+ "title_cyr": "Свирете ми тамбури",
+ "title_latin": "Svirete mi tamburi",
+ "title_en": "Play for Me, Tambouras",
+ "pesna_url": "https://pesna.org/song/1296",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a newer tavern-style (kafana) song, but I cannot name an author. 'Тури' in 'две-три тури' is my reading as 'rounds/pours'; 'Шоиќ' looks like a surname, kept as Šoić.",
+ "words_to_learn": [
+  {
+   "mk": "тамбури",
+   "en": "tambouras (string instruments)"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "сенка",
+   "en": "shadow"
+  },
+  {
+   "mk": "трепери",
+   "en": "trembles"
+  },
+  {
+   "mk": "чаша",
+   "en": "glass, cup"
+  },
+  {
+   "mk": "полноќ",
+   "en": "midnight"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "расне",
+   "en": "grows"
+  }
+ ],
+ "performers": [
+  "Нино Величковски"
+ ],
+ "audio": [
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/3290"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свирете ми тамбури, в' песна ја барам",
+       "lat": "Svirete mi tamburi, v' pesna ja baram",
+       "en": "Play for me, tambouras, in song I seek"
+      },
+      {
+       "cyr": "сета моја љубов пак да ѝ ја дарам.",
+       "lat": "seta moja ljubov pak da ì ja daram.",
+       "en": "to give her all my love again."
+      },
+      {
+       "cyr": "Како лажна сенка пред мене стои,",
+       "lat": "Kako lažna senka pred mene stoi,",
+       "en": "Like a false shadow she stands before me,"
+      },
+      {
+       "cyr": "сал за неа трепери тамбурата на Шоиќ.",
+       "lat": "sal za nea treperi tamburata na Šoiḱ.",
+       "en": "only for her trembles Šoić's tambura."
+      },
+      {
+       "cyr": "Донеси вино, уште две-три тури",
+       "lat": "Donesi vino, ušte dve-tri turi",
+       "en": "Bring wine, two or three more rounds,"
+      },
+      {
+       "cyr": "и само нека свират моите тамбури.",
+       "lat": "i samo neka svirat moite tamburi.",
+       "en": "and let only my tambouras play."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свирете ми тамбури со песната ваша,",
+       "lat": "Svirete mi tamburi so pesnata vaša,",
+       "en": "Play for me, tambouras, with your song,"
+      },
+      {
+       "cyr": "многу чаши испив за љубовта наша.",
+       "lat": "mnogu čaši ispiv za ljubovta naša.",
+       "en": "I drank many glasses for our love."
+      },
+      {
+       "cyr": "Како лажна сенка пред мене стои,",
+       "lat": "Kako lažna senka pred mene stoi,",
+       "en": "Like a false shadow she stands before me,"
+      },
+      {
+       "cyr": "сал за неа трепери тамбурата на Шоиќ.",
+       "lat": "sal za nea treperi tamburata na Šoiḱ.",
+       "en": "only for her trembles Šoić's tambura."
+      },
+      {
+       "cyr": "Донеси вино, уште две-три тури",
+       "lat": "Donesi vino, ušte dve-tri turi",
+       "en": "Bring wine, two or three more rounds,"
+      },
+      {
+       "cyr": "и само нека свират моите тамбури.",
+       "lat": "i samo neka svirat moite tamburi.",
+       "en": "and let only my tambouras play."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминува полноќ, светлото се гасне,",
+       "lat": "Pominuva polnoḱ, svetloto se gasne,",
+       "en": "Midnight passes, the light goes out,"
+      },
+      {
+       "cyr": "мојата тага сè повеќе расне.",
+       "lat": "mojata taga sè poveḱe rasne.",
+       "en": "my sorrow grows ever greater."
+      },
+      {
+       "cyr": "Свирете, свирете, ми остана само",
+       "lat": "Svirete, svirete, mi ostana samo",
+       "en": "Play, play, all I have left"
+      },
+      {
+       "cyr": "оваа празна чаша и песната ваша.",
+       "lat": "ovaa prazna čaša i pesnata vaša.",
+       "en": "is this empty glass and your song."
+      },
+      {
+       "cyr": "Донеси вино, уште две-три тури",
+       "lat": "Donesi vino, ušte dve-tri turi",
+       "en": "Bring wine, two or three more rounds,"
+      },
+      {
+       "cyr": "и само нека свират моите тамбури.",
+       "lat": "i samo neka svirat moite tamburi.",
+       "en": "and let only my tambouras play."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

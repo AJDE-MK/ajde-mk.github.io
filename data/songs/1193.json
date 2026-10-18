@@ -1,0 +1,235 @@
+{
+ "id": 1193,
+ "slug": "mori-svakje",
+ "title_cyr": "Мори сваќе",
+ "title_latin": "Mori svaḱe",
+ "title_en": "Hey, Father-in-Law",
+ "pesna_url": "https://pesna.org/song/1193",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Comic dialogue between the two families' in-laws. 'Ја гу пратив' is dialect for 'I sent her'; 'ич не ја бива' is 'she is no good at all'. 'Black in-law' (црни свате) is an insult, my reading. Traditional.",
+ "words_to_learn": [
+  {
+   "mk": "сваќе / свате",
+   "en": "in-law (parent of the spouse; vocative)"
+  },
+  {
+   "mk": "снаа",
+   "en": "daughter-in-law, bride"
+  },
+  {
+   "mk": "мрзелива",
+   "en": "lazy"
+  },
+  {
+   "mk": "замете",
+   "en": "to sweep"
+  },
+  {
+   "mk": "ѓубре",
+   "en": "rubbish"
+  },
+  {
+   "mk": "замеси",
+   "en": "to knead"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "опинци",
+   "en": "peasant leather shoes"
+  },
+  {
+   "mk": "зетко",
+   "en": "son-in-law, groom"
+  },
+  {
+   "mk": "подгрбавен",
+   "en": "hunchbacked"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2925"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/2926"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Мори сваќе, сваќе, пуста сваќе,",
+       "lat": "- Mori svaḱe, svaḱe, pusta svaḱe,",
+       "en": "- Hey, in-law, in-law, wretched in-law,"
+      },
+      {
+       "cyr": "мори што ми даде пуста снаа,",
+       "lat": "mori što mi dade pusta snaa,",
+       "en": "hey, what a daughter-in-law you gave me,"
+      },
+      {
+       "cyr": "мори за нива е мрзелива,",
+       "lat": "mori za niva e mrzeliva,",
+       "en": "hey, in the field she is lazy,"
+      },
+      {
+       "cyr": "мори а за дома, ич не ја бива.",
+       "lat": "mori a za doma, ič ne ja biva.",
+       "en": "hey, and at home, she is no good at all."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори јас ѝ реков да замете,",
+       "lat": "Mori jas ì rekov da zamete,",
+       "en": "Hey, I told her to sweep,"
+      },
+      {
+       "cyr": "мори мете, мете, два дни, три дни,",
+       "lat": "mori mete, mete, dva dni, tri dni,",
+       "en": "hey, she sweeps, sweeps, two days, three days,"
+      },
+      {
+       "cyr": "мори мете, мете, два дни, три дни,",
+       "lat": "mori mete, mete, dva dni, tri dni,",
+       "en": "hey, she sweeps, sweeps, two days, three days,"
+      },
+      {
+       "cyr": "мори а ѓубрето зад вратата.",
+       "lat": "mori a ǵubreto zad vratata.",
+       "en": "hey, but the rubbish is behind the door."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори јас ѝ реков да замеси,",
+       "lat": "Mori jas ì rekov da zamesi,",
+       "en": "Hey, I told her to knead dough,"
+      },
+      {
+       "cyr": "мори си замеси ракавите,",
+       "lat": "mori si zamesi rakavite,",
+       "en": "hey, she kneaded her sleeves,"
+      },
+      {
+       "cyr": "мори си замеси ракавите,",
+       "lat": "mori si zamesi rakavite,",
+       "en": "hey, she kneaded her sleeves,"
+      },
+      {
+       "cyr": "мори и раците до лактите.",
+       "lat": "mori i racite do laktite.",
+       "en": "hey, and her arms up to the elbows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори ја гу пратив за на вода,",
+       "lat": "Mori ja gu prativ za na voda,",
+       "en": "Hey, I sent her for water,"
+      },
+      {
+       "cyr": "мори си искрши двете стомни,",
+       "lat": "mori si iskrši dvete stomni,",
+       "en": "hey, she broke both jugs,"
+      },
+      {
+       "cyr": "мори си искрши двете стомни,",
+       "lat": "mori si iskrši dvete stomni,",
+       "en": "hey, she broke both jugs,"
+      },
+      {
+       "cyr": "мори си загуби опинците.",
+       "lat": "mori si zagubi opincite.",
+       "en": "hey, she lost her peasant shoes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море свате, свате, црни свате,",
+       "lat": "- More svate, svate, crni svate,",
+       "en": "- Hey, in-law, in-law, black in-law,"
+      },
+      {
+       "cyr": "море каква снаа ти пак сакаш,",
+       "lat": "more kakva snaa ti pak sakaš,",
+       "en": "hey, what kind of bride do you want again,"
+      },
+      {
+       "cyr": "море бела, бела, ем дебела,",
+       "lat": "more bela, bela, em debela,",
+       "en": "hey, white, white, and fat too,"
+      },
+      {
+       "cyr": "море за момчето арно ја бива.",
+       "lat": "more za momčeto arno ja biva.",
+       "en": "hey, she is quite good enough for the lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море свате, свате, пусти свате,",
+       "lat": "More svate, svate, pusti svate,",
+       "en": "Hey, in-law, in-law, wretched in-law,"
+      },
+      {
+       "cyr": "море каков зетко ти ми даде,",
+       "lat": "more kakov zetko ti mi dade,",
+       "en": "hey, what kind of groom you gave me,"
+      },
+      {
+       "cyr": "море во нозете испокривен,",
+       "lat": "more vo nozete ispokriven,",
+       "en": "hey, crooked in the legs,"
+      },
+      {
+       "cyr": "море во грбот е подгрбавен.",
+       "lat": "more vo grbot e podgrbaven.",
+       "en": "hey, humpbacked in the back."
+      },
+      {
+       "cyr": "Море во грбот е подгрбавен,",
+       "lat": "More vo grbot e podgrbaven,",
+       "en": "Hey, humpbacked in the back,"
+      },
+      {
+       "cyr": "море на главата влакно си нема.",
+       "lat": "more na glavata vlakno si nema.",
+       "en": "hey, on his head he has not a single hair."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,188 @@
+{
+ "id": 865,
+ "slug": "pogana",
+ "title_cyr": "Погана",
+ "title_latin": "Pogana",
+ "title_en": "Pogana",
+ "pesna_url": "https://pesna.org/song/865",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Далваџија' as 'robber' and 'Казандолци' as 'Kazandol men' are my readings. 'ѝ згреам' in stanza 3 I took as 'warm them' (the children).",
+ "words_to_learn": [
+  {
+   "mk": "ќ' одам",
+   "en": "I will go (short form of ќе одам)"
+  },
+  {
+   "mk": "наберам",
+   "en": "I gather"
+  },
+  {
+   "mk": "товар дрва",
+   "en": "a load of firewood"
+  },
+  {
+   "mk": "згрејам",
+   "en": "I warm"
+  },
+  {
+   "mk": "дробни деца",
+   "en": "small children"
+  },
+  {
+   "mk": "далваџија",
+   "en": "robber, bandit (my reading)"
+  },
+  {
+   "mk": "клети",
+   "en": "cursed"
+  },
+  {
+   "mk": "загинам",
+   "en": "I perish"
+  },
+  {
+   "mk": "ранија",
+   "en": "they wounded"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  }
+ ],
+ "performers": [
+  "Болеробенд",
+  "Бубамара бенд",
+  "Маестрал",
+  "Огнени момчиња",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/1889"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/1890"
+  },
+  {
+   "who": "Бубамара бенд",
+   "url": "https://pesna.org/audio-download/1891"
+  },
+  {
+   "who": "Маестрал",
+   "url": "https://pesna.org/audio-download/1892"
+  },
+  {
+   "who": "Огнени момчиња",
+   "url": "https://pesna.org/audio-download/1893"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ќ' одам, ќ' одам, стара ле мајко, во Погана,",
+       "lat": "- Ḱ' odam, ḱ' odam, stara le majko, vo Pogana,",
+       "en": "- I'll go, I'll go, old mother, to Pogana,"
+      },
+      {
+       "cyr": "за да наберам, стара ле мајко, товар дрва,",
+       "lat": "za da naberam, stara le majko, tovar drva,",
+       "en": "to gather, old mother, a load of wood,"
+      },
+      {
+       "cyr": "за да си згрејам, стара ле мајко, дробни деца.",
+       "lat": "za da si zgrejam, stara le majko, drobni deca.",
+       "en": "to warm, old mother, my small children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Немој, немој, Тано бре сину, во Погана,",
+       "lat": "- Nemoj, nemoj, Tano bre sinu, vo Pogana,",
+       "en": "- Don't, don't, Tano my son, to Pogana,"
+      },
+      {
+       "cyr": "море Погана е, Тано бре сину, далваџија,",
+       "lat": "more Pogana e, Tano bre sinu, dalvadžija,",
+       "en": "hey, Pogana is, Tano my son, a place of robbers,"
+      },
+      {
+       "cyr": "од клети турци, Тано бре сину, Казандолци.",
+       "lat": "od kleti turci, Tano bre sinu, Kazandolci.",
+       "en": "of cursed Turks, Tano my son, the Kazandol men."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќ' умрам, ќ' умрам, стара ле мајко, ќе загинам,",
+       "lat": "- Ḱ' umram, ḱ' umram, stara le majko, ḱe zaginam,",
+       "en": "- I'll die, I'll die, old mother, I'll perish,"
+      },
+      {
+       "cyr": "море ќе наберам, стара ле мајко, товар дрва,",
+       "lat": "more ḱe naberam, stara le majko, tovar drva,",
+       "en": "hey, I'll gather, old mother, a load of wood,"
+      },
+      {
+       "cyr": "море ќе ѝ згреам, стара ле мајко, дробни деца.",
+       "lat": "more ḱe ì zgream, stara le majko, drobni deca.",
+       "en": "hey, I'll warm them, old mother, my small children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не послуша, Тано бре јунак, стара си мајка,",
+       "lat": "Ne posluša, Tano bre junak, stara si majka,",
+       "en": "He did not listen, Tano brave lad, to his old mother,"
+      },
+      {
+       "cyr": "море го ранија, Тано бре јунак, во лева страна,",
+       "lat": "more go ranija, Tano bre junak, vo leva strana,",
+       "en": "hey, they wounded him, Tano brave lad, in the left side,"
+      },
+      {
+       "cyr": "во лева страна, Тано бре јунак, во петата.",
+       "lat": "vo leva strana, Tano bre junak, vo petata.",
+       "en": "in the left side, Tano brave lad, in the heel."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога слушна, стара ле мајка, се нажали,",
+       "lat": "Koga slušna, stara le majka, se nažali,",
+       "en": "When she heard, old mother, she grieved,"
+      },
+      {
+       "cyr": "море се нажали, стара ле мајка, се расплака,",
+       "lat": "more se nažali, stara le majka, se rasplaka,",
+       "en": "hey, she grieved, old mother, she wept,"
+      },
+      {
+       "cyr": "море се расплака, стара ле мајка, за свое чедо.",
+       "lat": "more se rasplaka, stara le majka, za svoe čedo.",
+       "en": "hey, she wept, old mother, for her child."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

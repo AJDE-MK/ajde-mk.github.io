@@ -1,0 +1,129 @@
+{
+ "id": 303,
+ "slug": "site-devojchinja",
+ "title_cyr": "Сите девојчиња",
+ "title_latin": "Site devojčinja",
+ "title_en": "All the girls",
+ "pesna_url": "https://pesna.org/song/303",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Samet Kurtuldu)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благица Павловска",
+  "Виданка Георгиева",
+  "Енвер Расимов",
+  "Есма Реџепова",
+  "Фаворити",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Благица Павловска",
+   "url": "https://pesna.org/audio-download/75"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/76"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/1607"
+  },
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/1608"
+  },
+  {
+   "who": "Фаворити",
+   "url": "https://pesna.org/audio-download/1609"
+  },
+  {
+   "who": "Енвер Расимов, Есма Реџепова",
+   "url": "https://pesna.org/audio-download/3579"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сите девојчиња мамо се мажија",
+       "lat": "Site devojčinja mamo se mažija",
+       "en": "All the girls, mother, got married,"
+      },
+      {
+       "cyr": "најубави момци зедоа,",
+       "lat": "najubavi momci zedoa,",
+       "en": "to most beautiful young men,"
+      },
+      {
+       "cyr": "а јас најмалата, најубава мома",
+       "lat": "a jas najmalata, najubava moma",
+       "en": "and me, the youngest and prettiest one,"
+      },
+      {
+       "cyr": "си останав мајко без к'смет.",
+       "lat": "si ostanav majko bez k'smet.",
+       "en": "I am left, mother, without any luck."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас си го зедов младото бекриче",
+       "lat": "Jas si go zedov mladoto bekriče",
+       "en": "I married a young bachelor"
+      },
+      {
+       "cyr": "што ми пие вино ракија,",
+       "lat": "što mi pie vino rakija,",
+       "en": "who drinks wine and rakia,"
+      },
+      {
+       "cyr": "везден ми оди мамо по меани",
+       "lat": "vezden mi odi mamo po meani",
+       "en": "and goes, mother, to taverns,"
+      },
+      {
+       "cyr": "пие лумпуј, лумпуј до зори.",
+       "lat": "pie lumpuj, lumpuj do zori.",
+       "en": "to drink and carouse until dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сека вечер либе оди по меани",
+       "lat": "Seka večer libe odi po meani",
+       "en": "Every night my darling goes to taverns,"
+      },
+      {
+       "cyr": "сè за таа пуста ракија,",
+       "lat": "sè za taa pusta rakija,",
+       "en": "all for that damned rakia,"
+      },
+      {
+       "cyr": "а кога се враќа, мајко од меани",
+       "lat": "a koga se vraḱa, majko od meani",
+       "en": "and when he comes back, mother, from the taverns,"
+      },
+      {
+       "cyr": "удри мавај, мавај по мене.",
+       "lat": "udri mavaj, mavaj po mene.",
+       "en": "he is beating me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

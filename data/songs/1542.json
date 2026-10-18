@@ -1,0 +1,180 @@
+{
+ "id": 1542,
+ "slug": "ajde-dojdi-rado",
+ "title_cyr": "Ајде дојди Радо",
+ "title_latin": "Ajde dojdi Rado",
+ "title_en": "Come on, come, Rada",
+ "pesna_url": "https://pesna.org/song/1542",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Likely a song of a man leaving to work abroad; origin unclear, looks traditional or a folk-style song with no author I can name.",
+ "words_to_learn": [
+  {
+   "mk": "испрати",
+   "en": "see off, send off"
+  },
+  {
+   "mk": "не жали ме",
+   "en": "do not pity/grieve for me"
+  },
+  {
+   "mk": "оти",
+   "en": "because, for (dialect)"
+  },
+  {
+   "mk": "на далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "жална",
+   "en": "sorrowful"
+  },
+  {
+   "mk": "оставам",
+   "en": "I leave"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul (endearment)"
+  },
+  {
+   "mk": "мислам",
+   "en": "I think"
+  },
+  {
+   "mk": "оф",
+   "en": "oh (sigh)"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/4027"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/4438"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде дојди Радо, испрати ме,",
+       "lat": "Ajde dojdi Rado, isprati me,",
+       "en": "Come on, come, Rada, see me off,"
+      },
+      {
+       "cyr": "испрати ме, мила, не жали ме,",
+       "lat": "isprati me, mila, ne žali me,",
+       "en": "see me off, dear, do not pity me,"
+      },
+      {
+       "cyr": "оти јас ќе одам многу на далеку,",
+       "lat": "oti jas ḱe odam mnogu na daleku,",
+       "en": "for I will go very far away,"
+      },
+      {
+       "cyr": "оф, Радо ле,",
+       "lat": "of, Rado le,",
+       "en": "oh, Rada,"
+      },
+      {
+       "cyr": "оти јас ќе одам многу на далеку,",
+       "lat": "oti jas ḱe odam mnogu na daleku,",
+       "en": "for I will go very far away,"
+      },
+      {
+       "cyr": "оф, либе ле.",
+       "lat": "of, libe le.",
+       "en": "oh, sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе либе жална те оставам,",
+       "lat": "Tebe libe žalna te ostavam,",
+       "en": "I leave you, sweetheart, sorrowful,"
+      },
+      {
+       "cyr": "те оставам при мојата мајка,",
+       "lat": "te ostavam pri mojata majka,",
+       "en": "I leave you with my mother,"
+      },
+      {
+       "cyr": "при мојата мајка, и при мојот татко,",
+       "lat": "pri mojata majka, i pri mojot tatko,",
+       "en": "with my mother and with my father,"
+      },
+      {
+       "cyr": "оф, Радо ле,",
+       "lat": "of, Rado le,",
+       "en": "oh, Rada,"
+      },
+      {
+       "cyr": "при мојата мајка, и при мојот татко,",
+       "lat": "pri mojata majka, i pri mojot tatko,",
+       "en": "with my mother and with my father,"
+      },
+      {
+       "cyr": "оф, либе ле.",
+       "lat": "of, libe le.",
+       "en": "oh, sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој Радо за мене да жалиш,",
+       "lat": "Nemoj Rado za mene da žališ,",
+       "en": "Do not grieve for me, Rada,"
+      },
+      {
+       "cyr": "немој душо за мене да плачиш,",
+       "lat": "nemoj dušo za mene da plačiš,",
+       "en": "do not weep for me, my soul,"
+      },
+      {
+       "cyr": "каде и да одам, сè на тебе мислам,",
+       "lat": "kade i da odam, sè na tebe mislam,",
+       "en": "wherever I go I think only of you,"
+      },
+      {
+       "cyr": "оф, Радо ле,",
+       "lat": "of, Rado le,",
+       "en": "oh, Rada,"
+      },
+      {
+       "cyr": "сè на тебе мислам, и на мојте деца,",
+       "lat": "sè na tebe mislam, i na mojte deca,",
+       "en": "I think only of you and of my children,"
+      },
+      {
+       "cyr": "оф, либе ле.",
+       "lat": "of, libe le.",
+       "en": "oh, sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

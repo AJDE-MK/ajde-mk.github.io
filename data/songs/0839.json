@@ -1,0 +1,103 @@
+{
+ "id": 839,
+ "slug": "odi-bre-libe",
+ "title_cyr": "Оди бре либе",
+ "title_latin": "Odi bre libe",
+ "title_en": "Go On, My Love",
+ "pesna_url": "https://pesna.org/song/839",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional dance song. 'тук'' I read as 'but/only'.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "фаќа се",
+   "en": "to join hands (in the dance)"
+  },
+  {
+   "mk": "спроти",
+   "en": "opposite"
+  },
+  {
+   "mk": "веѓи",
+   "en": "eyebrows"
+  },
+  {
+   "mk": "намигни",
+   "en": "wink"
+  },
+  {
+   "mk": "скрши",
+   "en": "bend, knit (the brows)"
+  }
+ ],
+ "performers": [
+  "Анка Гиева"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1790"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оди бре либе, оди кај ќе одиш,",
+       "lat": "Odi bre libe, odi kaj ḱe odiš,",
+       "en": "Go on, hey love, go wherever you go,"
+      },
+      {
+       "cyr": "ти при мене, либе ле, пак ќе се вратиш.",
+       "lat": "ti pri mene, libe le, pak ḱe se vratiš.",
+       "en": "you will come back to me anyway, my love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На орото, либе, не се фаќај до мене,",
+       "lat": "Na oroto, libe, ne se faḱaj do mene,",
+       "en": "At the dance, love, do not hold on next to me,"
+      },
+      {
+       "cyr": "тук' се фати, либе ле, ти спроти мене.",
+       "lat": "tuk' se fati, libe le, ti sproti mene.",
+       "en": "but hold on, my love, opposite me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дигни очи, либе, ти погледни ме,",
+       "lat": "Digni oči, libe, ti pogledni me,",
+       "en": "Lift your eyes, love, and look at me,"
+      },
+      {
+       "cyr": "скрши веѓи, либе ле, ти намигни ми.",
+       "lat": "skrši veǵi, libe le, ti namigni mi.",
+       "en": "knit your brows, my love, and wink at me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

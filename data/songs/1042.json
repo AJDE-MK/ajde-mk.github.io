@@ -1,0 +1,140 @@
+{
+ "id": 1042,
+ "slug": "kinisala-stana",
+ "title_cyr": "Кинисала Стана",
+ "title_latin": "Kinisala Stana",
+ "title_en": "Stana Set Out",
+ "pesna_url": "https://pesna.org/song/1042",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect 3rd-person endings in -т (загубит, заљубит) and 'у' for 'во'. The last two lines are my reading. Traditional.",
+ "words_to_learn": [
+  {
+   "mk": "кинисала",
+   "en": "set out (f.)"
+  },
+  {
+   "mk": "левен",
+   "en": "brave young man"
+  },
+  {
+   "mk": "на гости",
+   "en": "on a visit"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "оделе",
+   "en": "they walked (dialect)"
+  },
+  {
+   "mk": "попеј",
+   "en": "sing a bit"
+  },
+  {
+   "mk": "арамија",
+   "en": "outlaw, bandit"
+  },
+  {
+   "mk": "загубит",
+   "en": "will destroy (dialect, -т ending)"
+  },
+  {
+   "mk": "заљубит",
+   "en": "will make fall in love (dialect)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисала Стана",
+       "lat": "Kinisala Stana",
+       "en": "Stana set out"
+      },
+      {
+       "cyr": "со левен Стојана",
+       "lat": "so leven Stojana",
+       "en": "with brave Stojan"
+      },
+      {
+       "cyr": "у мајка на гости.",
+       "lat": "u majka na gosti.",
+       "en": "to visit her mother."
+      },
+      {
+       "cyr": "Оделе што ми оделе,",
+       "lat": "Odele što mi odele,",
+       "en": "They walked and walked"
+      },
+      {
+       "cyr": "до гора зелена.",
+       "lat": "do gora zelena.",
+       "en": "to the green forest."
+      },
+      {
+       "cyr": "Стојан на Стана велеше:",
+       "lat": "Stojan na Stana veleše:",
+       "en": "Stojan said to Stana:"
+      },
+      {
+       "cyr": "- Попеј Стано, попеј,",
+       "lat": "- Popej Stano, popej,",
+       "en": "- Sing a little, Stana, sing,"
+      },
+      {
+       "cyr": "како што си пееше.",
+       "lat": "kako što si peeše.",
+       "en": "as you used to sing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стојане, Стојане,",
+       "lat": "- Stojane, Stojane,",
+       "en": "- Stojan, Stojan,"
+      },
+      {
+       "cyr": "како да пејам,",
+       "lat": "kako da pejam,",
+       "en": "how can I sing,"
+      },
+      {
+       "cyr": "мене ќе ме чуе",
+       "lat": "mene ḱe me čue",
+       "en": "Ajro the outlaw"
+      },
+      {
+       "cyr": "Ајро арамија,",
+       "lat": "Ajro aramija,",
+       "en": "will hear me,"
+      },
+      {
+       "cyr": "тебе ќе загубит,",
+       "lat": "tebe ḱe zagubit,",
+       "en": "he will ruin you,"
+      },
+      {
+       "cyr": "мене ќе заљубит.",
+       "lat": "mene ḱe zaljubit.",
+       "en": "he will make me fall in love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

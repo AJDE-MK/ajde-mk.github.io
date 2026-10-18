@@ -1,0 +1,141 @@
+{
+ "id": 169,
+ "slug": "stojane-more-stojane",
+ "title_cyr": "Стојане море Стојане",
+ "title_latin": "Stojane more Stojane",
+ "title_en": "Stojan, hey Stojan",
+ "pesna_url": "https://pesna.org/song/169",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Мирослав Тадиќ",
+  "Охридски трубадури",
+  "Радиша Теофиловиќ",
+  "Ратко Теофиловиќ"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1476"
+  },
+  {
+   "who": "Мирослав Тадиќ, Радиша Теофиловиќ, Ратко Теофиловиќ",
+   "url": "https://pesna.org/audio-download/2278"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојане, море Стојане, сине",
+       "lat": "Stojane, more Stojane, sine",
+       "en": "Stojan, hey Stojan, my son,"
+      },
+      {
+       "cyr": "три села чинат давија.",
+       "lat": "tri sela činat davija.",
+       "en": "three lions are planning to,"
+      },
+      {
+       "cyr": "Три села чинат вдавија, сине",
+       "lat": "Tri sela činat vdavija, sine",
+       "en": "three lions are planning to, my son,"
+      },
+      {
+       "cyr": "стрико ти прв дауџија.",
+       "lat": "striko ti prv daudžija.",
+       "en": "kill your uncle first."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стојане, ќе те обесат, сине",
+       "lat": "- Stojane, ḱe te obesat, sine",
+       "en": "- Stojan, they'll hang you, my son,"
+      },
+      {
+       "cyr": "сред село на муренкана,",
+       "lat": "sred selo na murenkana,",
+       "en": "at the middle of the village, on the mulberry,"
+      },
+      {
+       "cyr": "зашто си љубел момите, сине",
+       "lat": "zašto si ljubel momite, sine",
+       "en": "because you loved the girls, my son,"
+      },
+      {
+       "cyr": "ем калешите невести.",
+       "lat": "em kalešite nevesti.",
+       "en": "and the dark-skinned wifes."
+      },
+      {
+       "cyr": "Ем калешите невести, сине,",
+       "lat": "Em kalešite nevesti, sine,",
+       "en": "And the dark-skinned wifes, my son,"
+      },
+      {
+       "cyr": "ем сиротите вдовици.",
+       "lat": "em sirotite vdovici.",
+       "en": "and the poor widows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мајко ле моја, мајчице мила,",
+       "lat": "- Majko le moja, majčice mila,",
+       "en": "- My mother, dear mother,"
+      },
+      {
+       "cyr": "кога ќе мене да бесат,",
+       "lat": "koga ḱe mene da besat,",
+       "en": "when they hang me,"
+      },
+      {
+       "cyr": "високо да ме дигает мајко,",
+       "lat": "visoko da me digaet majko,",
+       "en": "let them lift me high, mother,"
+      },
+      {
+       "cyr": "момите да ме гледает.",
+       "lat": "momite da me gledaet.",
+       "en": "so that the girls can look at me."
+      },
+      {
+       "cyr": "Лицето да им венеит, мамо",
+       "lat": "Liceto da im veneit, mamo",
+       "en": "May their faces dry in sorrow, mother,"
+      },
+      {
+       "cyr": "срцето да им копнеит.",
+       "lat": "srceto da im kopneit.",
+       "en": "may their hearts yearn."
+      },
+      {
+       "cyr": "Срцето да им копнеит, мајко,",
+       "lat": "Srceto da im kopneit, majko,",
+       "en": "May their hearts yearn, mother,"
+      },
+      {
+       "cyr": "снагата да им треперит.",
+       "lat": "snagata da im treperit.",
+       "en": "may their body tremble."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

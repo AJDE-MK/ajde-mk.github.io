@@ -1,0 +1,168 @@
+{
+ "id": 262,
+ "slug": "za-kogo-ti-cuti-dano-liceto",
+ "title_cyr": "За кого ти цути Дано лицето",
+ "title_latin": "Za kogo ti cuti Dano liceto",
+ "title_en": "For whom is your face, Dana, blooming",
+ "pesna_url": "https://pesna.org/song/262",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благоја Грујовски",
+  "Бранислав Стојановски",
+  "Влатко Лозаноски",
+  "Гоце Арнаудов",
+  "Добри Ставревски",
+  "Зоран Ванев",
+  "Лихнидос",
+  "Македонски мерак",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/779"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/780"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/781"
+  },
+  {
+   "who": "Лихнидос",
+   "url": "https://pesna.org/audio-download/782"
+  },
+  {
+   "who": "Зоран Ванев",
+   "url": "https://pesna.org/audio-download/783"
+  },
+  {
+   "who": "Бранислав Стојановски",
+   "url": "https://pesna.org/audio-download/784"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/1550"
+  },
+  {
+   "who": "Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/2106"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2900"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "За кого ти цути Дано лицето,",
+       "lat": "Za kogo ti cuti Dano liceto,",
+       "en": "For whom is your face blooming, Dana,"
+      },
+      {
+       "cyr": "по кого ти шарат Дано очите,",
+       "lat": "po kogo ti šarat Dano očite,",
+       "en": "on whom are your eyes glancing, Dana,"
+      },
+      {
+       "cyr": "за кого ја чуваш Дано снагата,",
+       "lat": "za kogo ja čuvaš Dano snagata,",
+       "en": "for whom are you saving your body, Dana,"
+      },
+      {
+       "cyr": "таа рамна снага Дано мермерна?",
+       "lat": "taa ramna snaga Dano mermerna?",
+       "en": "that slim body, Dana, like marble?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Галено, галено Дано кој ќе ја",
+       "lat": "Galeno, galeno Dano koj ḱe ja",
+       "en": "Oh my caressed one, caressed, Dana,"
+      },
+      {
+       "cyr": "твојата руса коса милува,",
+       "lat": "tvojata rusa kosa miluva,",
+       "en": "who will fondle your blonde hair, Dana,"
+      },
+      {
+       "cyr": "срмено елече Дано раскопча",
+       "lat": "srmeno eleče Dano raskopča",
+       "en": "unbutton your silver jelick, Dana"
+      },
+      {
+       "cyr": "твојто медно усте Дано целува?",
+       "lat": "tvojto medno uste Dano celuva?",
+       "en": "and kiss your lips of honey, Dana?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наскоро ми в' срце јадој ќе влезат",
+       "lat": "Naskoro mi v' srce jadoj ḱe vlezat",
+       "en": "Soon, worries will enter my heart"
+      },
+      {
+       "cyr": "лице бело и румено овена",
+       "lat": "lice belo i rumeno ovena",
+       "en": "my white and red face will wither"
+      },
+      {
+       "cyr": "таа рамна снага бргу опадна",
+       "lat": "taa ramna snaga brgu opadna",
+       "en": "that slim body will quickly fade away"
+      },
+      {
+       "cyr": "а и медно усте Дано овена.",
+       "lat": "a i medno uste Dano ovena.",
+       "en": "and these honey lips will wither, Dana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие сите мајки, татковци",
+       "lat": "Bog da bie site majki, tatkovci",
+       "en": "May god punish all the mothers, fathers"
+      },
+      {
+       "cyr": "што лакомат за богатство и пари",
+       "lat": "što lakomat za bogatstvo i pari",
+       "en": "those who are greedy for wealth and money"
+      },
+      {
+       "cyr": "мили деца мажат, женат кај годе",
+       "lat": "mili deca mažat, ženat kaj gode",
+       "en": "who give in marriage their dear children, however they wish"
+      },
+      {
+       "cyr": "поробуваат својте чеда до гроба.",
+       "lat": "porobuvaat svojte čeda do groba.",
+       "en": "and enslave their children until the grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

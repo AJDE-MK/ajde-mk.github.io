@@ -1,0 +1,170 @@
+{
+ "id": 276,
+ "slug": "tri-godini-kate-bolen-lezhav",
+ "title_cyr": "Три години Кате болен лежав",
+ "title_latin": "Tri godini Kate bolen ležav",
+ "title_en": "Three years, Kate, I have been lying sick",
+ "pesna_url": "https://pesna.org/song/276",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Злате Милошевски",
+  "Наум Петрески",
+  "Охридски трубадури",
+  "Пепи Бафтировски",
+  "Радио студио Скопје",
+  "Тајфата на Шуле",
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1047"
+  },
+  {
+   "who": "Тајфата на Шуле",
+   "url": "https://pesna.org/audio-download/1048"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1049"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1050"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1285"
+  },
+  {
+   "who": "Злате Милошевски",
+   "url": "https://pesna.org/audio-download/1286"
+  },
+  {
+   "who": "Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2912"
+  },
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3423"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3986"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три години Кате болен лежам, ајде де",
+       "lat": "Tri godini Kate bolen ležam, ajde de",
+       "en": "Three years, Kate, I have been lying sick, come on,"
+      },
+      {
+       "cyr": "ти не дојде Кате да ме видиш.",
+       "lat": "ti ne dojde Kate da me vidiš.",
+       "en": "you didn't come, Kate, to see me."
+      },
+      {
+       "cyr": "Шуќур Господ Кате те донесе, ајде де",
+       "lat": "Šuḱur Gospod Kate te donese, ajde de",
+       "en": "Finally God brought you to me, come on,"
+      },
+      {
+       "cyr": "понадица Кате да ми донесиш.",
+       "lat": "ponadica Kate da mi donesiš.",
+       "en": "to bring me, Kate, some treats."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Понадица Кате да ми донесиш, ајде де",
+       "lat": "Ponadica Kate da mi donesiš, ajde de",
+       "en": "To bring me, Kate, some treats, come on,"
+      },
+      {
+       "cyr": "среде лето Кате жолта дуња.",
+       "lat": "srede leto Kate žolta dunja.",
+       "en": "in the middle of summer, Kate, a yellow quince."
+      },
+      {
+       "cyr": "Среде лето Кате жолта дуна, ајде де",
+       "lat": "Srede leto Kate žolta duna, ajde de",
+       "en": "In the middle of summer, Kate, a yellow quince, come on,"
+      },
+      {
+       "cyr": "среде зима Кате лубеница.",
+       "lat": "srede zima Kate lubenica.",
+       "en": "in the middle of winter, Kate, a watermelon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поткрени го Кате перничево, ајде де",
+       "lat": "Potkreni go Kate perničevo, ajde de",
+       "en": "Move up a little bit, Kate, this pillow, come on,"
+      },
+      {
+       "cyr": "сврти ми го Кате кон езеро.",
+       "lat": "svrti mi go Kate kon ezero.",
+       "en": "turn it, Kate, towards the lake."
+      },
+      {
+       "cyr": "Да го видам Кате езероно, ајде де",
+       "lat": "Da go vidam Kate ezerono, ajde de",
+       "en": "Let me see the lake, Kate, come on,"
+      },
+      {
+       "cyr": "како бијат Кате, далги, далги.",
+       "lat": "kako bijat Kate, dalgi, dalgi.",
+       "en": "how are pounding, Kate, the waves, the waves."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како бијат Кате, далги далги, ајде де",
+       "lat": "Kako bijat Kate, dalgi dalgi, ajde de",
+       "en": "How are pounding, Kate, the waves, the waves, come on,"
+      },
+      {
+       "cyr": "така бијат Кате моево срце.",
+       "lat": "taka bijat Kate moevo srce.",
+       "en": "the same way is pounding, Kate, my heart."
+      },
+      {
+       "cyr": "Така бијат Кате моево срце, ајде де",
+       "lat": "Taka bijat Kate moevo srce, ajde de",
+       "en": "The same way is pounding, Kate, my heart, come on,"
+      },
+      {
+       "cyr": "моево срце Кате за твоето.",
+       "lat": "moevo srce Kate za tvoeto.",
+       "en": "my heart, Kate, for yours."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

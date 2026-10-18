@@ -1,0 +1,190 @@
+{
+ "id": 911,
+ "slug": "svadba-makedonska",
+ "title_cyr": "Свадба македонска",
+ "title_latin": "Svadba makedonska",
+ "title_en": "Macedonian Wedding",
+ "pesna_url": "https://pesna.org/song/911",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: sounds like an emigrant (gurbet) song, no author I can name. Translated fully.",
+ "words_to_learn": [
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "дукати",
+   "en": "ducats, gold coins"
+  },
+  {
+   "mk": "срма",
+   "en": "gold or silver thread embroidery"
+  },
+  {
+   "mk": "накитена",
+   "en": "adorned"
+  },
+  {
+   "mk": "оро",
+   "en": "oro (circle dance)"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, desire"
+  }
+ ],
+ "performers": [
+  "Благица Калева",
+  "Влатко Лозаноски",
+  "Есма Реџепова",
+  "Перо Христов"
+ ],
+ "audio": [
+  {
+   "who": "Благица Калева, Перо Христов",
+   "url": "https://pesna.org/audio-download/2016"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2017"
+  },
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/2018"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свадба македонска да направам,",
+       "lat": "Svadba makedonska da napravam,",
+       "en": "Let me hold a Macedonian wedding,"
+      },
+      {
+       "cyr": "мома Македонка јас да земам,",
+       "lat": "moma Makedonka jas da zemam,",
+       "en": "let me take a Macedonian girl,"
+      },
+      {
+       "cyr": "со дукати, мамо, наредена",
+       "lat": "so dukati, mamo, naredena",
+       "en": "adorned with ducats, mother,"
+      },
+      {
+       "cyr": "и со срма, мамо, накитена.",
+       "lat": "i so srma, mamo, nakitena.",
+       "en": "and decked with gold thread, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми Македонки песна да запеат,",
+       "lat": "Momi Makedonki pesna da zapeat,",
+       "en": "May Macedonian girls start a song,"
+      },
+      {
+       "cyr": "момци Македонци оро да играат.",
+       "lat": "momci Makedonci oro da igraat.",
+       "en": "may Macedonian lads dance the oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни другари, мамо, ни роднини",
+       "lat": "Ni drugari, mamo, ni rodnini",
+       "en": "No friends, mother, no relatives,"
+      },
+      {
+       "cyr": "во туѓина свадба не се прави.",
+       "lat": "vo tuǵina svadba ne se pravi.",
+       "en": "in a foreign land a wedding is not made."
+      },
+      {
+       "cyr": "Кој орото, мамо, ќе го води",
+       "lat": "Koj oroto, mamo, ḱe go vodi",
+       "en": "Who will lead the oro, mother,"
+      },
+      {
+       "cyr": "кои сватови, мамо, ќе ми бидат?",
+       "lat": "koi svatovi, mamo, ḱe mi bidat?",
+       "en": "who will be my wedding guests, mother?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми Македонки песна да запеат,",
+       "lat": "Momi Makedonki pesna da zapeat,",
+       "en": "May Macedonian girls start a song,"
+      },
+      {
+       "cyr": "момци Македонци оро да играат.",
+       "lat": "momci Makedonci oro da igraat.",
+       "en": "may Macedonian lads dance the oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мерак ми е дома да си дојдам,",
+       "lat": "Merak mi e doma da si dojdam,",
+       "en": "I long to come home,"
+      },
+      {
+       "cyr": "браќа, сестри, роднини да видам,",
+       "lat": "braḱa, sestri, rodnini da vidam,",
+       "en": "to see brothers, sisters, relatives,"
+      },
+      {
+       "cyr": "песна македонска да запеам,",
+       "lat": "pesna makedonska da zapeam,",
+       "en": "to sing a Macedonian song,"
+      },
+      {
+       "cyr": "оро македонско да заиграм.",
+       "lat": "oro makedonsko da zaigram.",
+       "en": "to dance the Macedonian oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми Македонки песна да запеат,",
+       "lat": "Momi Makedonki pesna da zapeat,",
+       "en": "May Macedonian girls start a song,"
+      },
+      {
+       "cyr": "момци Македонци оро да играат.",
+       "lat": "momci Makedonci oro da igraat.",
+       "en": "may Macedonian lads dance the oro."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

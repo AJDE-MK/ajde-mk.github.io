@@ -1,0 +1,161 @@
+{
+ "id": 925,
+ "slug": "devojche-more-devojche",
+ "title_cyr": "Девојче, море девојче",
+ "title_latin": "Devojče, more devojče",
+ "title_en": "Girl, hey girl",
+ "pesna_url": "https://pesna.org/song/925",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Last line 'елај си моме кај мене' is my reading: 'come, be my girl, to me'. 'не ме караја' is a dialect imperative form.",
+ "words_to_learn": [
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "лудо",
+   "en": "silly (endearing/scolding address)"
+  },
+  {
+   "mk": "будало",
+   "en": "fool"
+  },
+  {
+   "mk": "караја",
+   "en": "scold (imperative, dialect)"
+  },
+  {
+   "mk": "навреме",
+   "en": "in good time"
+  },
+  {
+   "mk": "моме за женење",
+   "en": "girl of marriageable age"
+  },
+  {
+   "mk": "натепа",
+   "en": "will beat up"
+  }
+ ],
+ "performers": [
+  "Емил Ристосков"
+ ],
+ "audio": [
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/2088"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Девојче, море девојче",
+       "lat": "- Devojče, more devojče",
+       "en": "- Girl, hey girl,"
+      },
+      {
+       "cyr": "не стој доцна на порте.",
+       "lat": "ne stoj docna na porte.",
+       "en": "don't stand late at the gate."
+      },
+      {
+       "cyr": "Не стој доцна на порте,",
+       "lat": "Ne stoj docna na porte,",
+       "en": "Don't stand late at the gate,"
+      },
+      {
+       "cyr": "не пребирај ергене.",
+       "lat": "ne prebiraj ergene.",
+       "en": "don't pick over the bachelors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе излезне мајка ти,",
+       "lat": "Ḱe izlezne majka ti,",
+       "en": "Your mother will come out,"
+      },
+      {
+       "cyr": "мајка ти, лудо, татко ти.",
+       "lat": "majka ti, ludo, tatko ti.",
+       "en": "your mother, silly, your father."
+      },
+      {
+       "cyr": "Мајка ти ќе те повика,",
+       "lat": "Majka ti ḱe te povika,",
+       "en": "Your mother will call you in,"
+      },
+      {
+       "cyr": "татко ти ќе те натепа.",
+       "lat": "tatko ti ḱe te natepa.",
+       "en": "your father will beat you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј море момче, будало,",
+       "lat": "- Ej more momče, budalo,",
+       "en": "- Hey boy, you fool,"
+      },
+      {
+       "cyr": "мене не ме караја,",
+       "lat": "mene ne me karaja,",
+       "en": "don't scold me,"
+      },
+      {
+       "cyr": "оти сум си навреме,",
+       "lat": "oti sum si navreme,",
+       "en": "for I am in good time,"
+      },
+      {
+       "cyr": "навреме мома за женење.",
+       "lat": "navreme moma za ženenje.",
+       "en": "in good time, a girl ready for marrying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога си моме за женење,",
+       "lat": "- Koga si mome za ženenje,",
+       "en": "- Since you are a girl ready for marrying,"
+      },
+      {
+       "cyr": "не стој доцна на порте.",
+       "lat": "ne stoj docna na porte.",
+       "en": "don't stand late at the gate."
+      },
+      {
+       "cyr": "Не стој доцна на порте,",
+       "lat": "Ne stoj docna na porte,",
+       "en": "Don't stand late at the gate,"
+      },
+      {
+       "cyr": "елај си моме кај мене.",
+       "lat": "elaj si mome kaj mene.",
+       "en": "come and be my girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

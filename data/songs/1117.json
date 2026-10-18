@@ -1,0 +1,189 @@
+{
+ "id": 1117,
+ "slug": "jano-janke-tripatanke",
+ "title_cyr": "Јано, Јанке Трипатанке",
+ "title_latin": "Jano, Janke Tripatanke",
+ "title_en": "Jana, Janka Tripatanka",
+ "pesna_url": "https://pesna.org/song/1117",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Трипатанке' (Tripatanka) is probably a nickname; 'од греови, од грев' is my reading ('because of sin'), the exact sense is uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "снага",
+   "en": "figure, body, build"
+  },
+  {
+   "mk": "рипче",
+   "en": "little fish (dialect)"
+  },
+  {
+   "mk": "симитче",
+   "en": "little simit, round bread ring"
+  },
+  {
+   "mk": "усте",
+   "en": "mouth"
+  },
+  {
+   "mk": "срп",
+   "en": "sickle"
+  },
+  {
+   "mk": "пресечено",
+   "en": "cut through"
+  },
+  {
+   "mk": "сретнам",
+   "en": "I meet"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul, dear"
+  },
+  {
+   "mk": "грев",
+   "en": "sin"
+  }
+ ],
+ "performers": [
+  "Габриела Новевска"
+ ],
+ "audio": [
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/2672"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јано, Јанке мори Трипатанке,",
+       "lat": "Jano, Janke mori Tripatanke,",
+       "en": "Jana, Janka, hey Tripatanka,"
+      },
+      {
+       "cyr": "од греови, мори, не се гледаш,",
+       "lat": "od greovi, mori, ne se gledaš,",
+       "en": "because of sins, hey, you cannot be looked at,"
+      },
+      {
+       "cyr": "Јано, Јанке мори Трипатанке,",
+       "lat": "Jano, Janke mori Tripatanke,",
+       "en": "Jana, Janka, hey Tripatanka,"
+      },
+      {
+       "cyr": "од грев не мож' душо да те гледам.",
+       "lat": "od grev ne mož' dušo da te gledam.",
+       "en": "because of sin I cannot look at you, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Снага носиш, Јано, како риба,",
+       "lat": "Snaga nosiš, Jano, kako riba,",
+       "en": "You carry a figure, Jana, like a fish,"
+      },
+      {
+       "cyr": "лицето ти, мори, тој симитче,",
+       "lat": "liceto ti, mori, toj simitče,",
+       "en": "your face, hey, that simit bread ring,"
+      },
+      {
+       "cyr": "тенка снага, Јано, како рипче,",
+       "lat": "tenka snaga, Jano, kako ripče,",
+       "en": "slender figure, Jana, like a little fish,"
+      },
+      {
+       "cyr": "бело лице, душо, тој симитче.",
+       "lat": "belo lice, dušo, toj simitče.",
+       "en": "white face, my soul, that simit."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Устето ти, Јано, нацрвено,",
+       "lat": "Usteto ti, Jano, nacrveno,",
+       "en": "Your mouth, Jana, reddened,"
+      },
+      {
+       "cyr": "како со срп, душо, пресечено,",
+       "lat": "kako so srp, dušo, presečeno,",
+       "en": "as if cut with a sickle, my soul,"
+      },
+      {
+       "cyr": "тенко усте, Јано, нацрвено,",
+       "lat": "tenko uste, Jano, nacrveno,",
+       "en": "thin mouth, Jana, reddened,"
+      },
+      {
+       "cyr": "како со срп, душо, пресечено.",
+       "lat": "kako so srp, dušo, presečeno.",
+       "en": "as if cut with a sickle, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе те видам Јано, ќе те сретнам,",
+       "lat": "Ḱe te vidam Jano, ḱe te sretnam,",
+       "en": "When I see you, Jana, when I meet you,"
+      },
+      {
+       "cyr": "по три дена, Јано, леб не јадам,",
+       "lat": "po tri dena, Jano, leb ne jadam,",
+       "en": "for three days, Jana, I do not eat bread,"
+      },
+      {
+       "cyr": "по три дена, Јано, леб не јадам,",
+       "lat": "po tri dena, Jano, leb ne jadam,",
+       "en": "for three days, Jana, I do not eat bread,"
+      },
+      {
+       "cyr": "по четири вода јас не пијам.",
+       "lat": "po četiri voda jas ne pijam.",
+       "en": "for four I do not drink water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја кажи ми, Јано, што да правам,",
+       "lat": "Ja kaži mi, Jano, što da pravam,",
+       "en": "Tell me, Jana, what to do,"
+      },
+      {
+       "cyr": "што да сторам, душо, да те земам,",
+       "lat": "što da storam, dušo, da te zemam,",
+       "en": "what to do, my soul, to take you,"
+      },
+      {
+       "cyr": "ако тебе, Јано, не те земам,",
+       "lat": "ako tebe, Jano, ne te zemam,",
+       "en": "if I do not take you, Jana,"
+      },
+      {
+       "cyr": "поарно е, душо, да си умрам.",
+       "lat": "poarno e, dušo, da si umram.",
+       "en": "it is better, my soul, that I die."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

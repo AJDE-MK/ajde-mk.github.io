@@ -1,0 +1,150 @@
+{
+ "id": 500,
+ "slug": "zoshto-si-me-majko-rodila",
+ "title_cyr": "Зошто си ме мајко родила",
+ "title_latin": "Zošto si me majko rodila",
+ "title_en": "Why Did You Bear Me, Mother",
+ "pesna_url": "https://pesna.org/song/500",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: no author I can name. The second stanza is hard to follow; 'Херој биди мила мајко ти' is my reading ('be a hero, dear mother'), possibly meaning 'be proud'.",
+ "words_to_learn": [
+  {
+   "mk": "родила",
+   "en": "gave birth"
+  },
+  {
+   "mk": "машко чедо",
+   "en": "male child, son"
+  },
+  {
+   "mk": "радост",
+   "en": "joy"
+  },
+  {
+   "mk": "херој",
+   "en": "hero"
+  },
+  {
+   "mk": "ѕвезда",
+   "en": "star"
+  },
+  {
+   "mk": "сјај",
+   "en": "radiance"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native land"
+  },
+  {
+   "mk": "оф аман",
+   "en": "oh alas (Turkish-style lament)"
+  }
+ ],
+ "performers": [
+  "Амира Медуњанин",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Енвер Расимов",
+  "Есма Реџепова",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/802"
+  },
+  {
+   "who": "Есма Реџепова, Енвер Расимов",
+   "url": "https://pesna.org/audio-download/803"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/804"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Есма Реџепова",
+   "url": "https://pesna.org/audio-download/890"
+  },
+  {
+   "who": "Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/1631"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зошто си ме мајко родила, леле, ле",
+       "lat": "Zošto si me majko rodila, lele, le",
+       "en": "Why did you bear me, mother, oh my, oh"
+      },
+      {
+       "cyr": "цел живот не си ме видела",
+       "lat": "cel život ne si me videla",
+       "en": "you never saw me in your whole life"
+      },
+      {
+       "cyr": "ти си машко чедо створила, леле, ле",
+       "lat": "ti si maško čedo stvorila, lele, le",
+       "en": "you made a male child, oh my, oh"
+      },
+      {
+       "cyr": "и на друг си радост мајко дарила",
+       "lat": "i na drug si radost majko darila",
+       "en": "and gave joy to another, mother"
+      },
+      {
+       "cyr": "леле оф аман, леле, ле.",
+       "lat": "lele of aman, lele, le.",
+       "en": "oh alas, oh my, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Херој биди мила мајко ти, леле, ле",
+       "lat": "Heroj bidi mila majko ti, lele, le",
+       "en": "Be a hero, dear mother, oh my, oh"
+      },
+      {
+       "cyr": "што си среќна ѕвезда родила",
+       "lat": "što si sreḱna dzvezda rodila",
+       "en": "because you bore a lucky star"
+      },
+      {
+       "cyr": "јас ќе цветам мајко како сјај, оф леле",
+       "lat": "jas ḱe cvetam majko kako sjaj, of lele",
+       "en": "I will bloom, mother, like a radiance, oh my"
+      },
+      {
+       "cyr": "за мојот мила мајко роден крај",
+       "lat": "za mojot mila majko roden kraj",
+       "en": "for my dear, mother, native land"
+      },
+      {
+       "cyr": "леле оф аман, леле, ле",
+       "lat": "lele of aman, lele, le",
+       "en": "oh alas, oh my, oh"
+      },
+      {
+       "cyr": "за мојот мила мајко роден крај.",
+       "lat": "za mojot mila majko roden kraj.",
+       "en": "for my dear, mother, native land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

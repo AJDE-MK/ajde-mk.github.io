@@ -1,0 +1,166 @@
+{
+ "id": 1561,
+ "slug": "samo-edna-pesna",
+ "title_cyr": "Само една песна",
+ "title_latin": "Samo edna pesna",
+ "title_en": "Just one song",
+ "pesna_url": "https://pesna.org/song/1561",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern emigrant song). 'простум' is my reading 'a simple man'; 'каде тебе' I read as 'where did I spend you'.",
+ "words_to_learn": [
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "далечина",
+   "en": "distance"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "изгубил",
+   "en": "lost"
+  },
+  {
+   "mk": "потрошил",
+   "en": "wasted, spent"
+  },
+  {
+   "mk": "таговна",
+   "en": "sorrowful"
+  },
+  {
+   "mk": "недопеана",
+   "en": "unfinished (song)"
+  },
+  {
+   "mk": "татковина",
+   "en": "homeland"
+  },
+  {
+   "mk": "простум",
+   "en": "simple, ordinary (my reading)"
+  }
+ ],
+ "performers": [
+  "Горан Стоилков",
+  "Екстра бенд",
+  "Зоран Џорлев",
+  "Кирил Митоски",
+  "Миле Кузмановски",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/4082"
+  },
+  {
+   "who": "Миле Кузмановски",
+   "url": "https://pesna.org/audio-download/4083"
+  },
+  {
+   "who": "Горан Стоилков, Екстра бенд",
+   "url": "https://pesna.org/audio-download/4084"
+  },
+  {
+   "who": "Зоран Џорлев, Кирил Митоски",
+   "url": "https://pesna.org/audio-download/4085"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Младоста ми помина во далечина,",
+       "lat": "Mladosta mi pomina vo dalečina,",
+       "en": "My youth passed away in the distance,"
+      },
+      {
+       "cyr": "тага носам, мајко стара, како планина.",
+       "lat": "taga nosam, majko stara, kako planina.",
+       "en": "I carry sorrow, old mother, like a mountain."
+      },
+      {
+       "cyr": "Што сум добил јас, што сум изгубил,",
+       "lat": "Što sum dobil jas, što sum izgubil,",
+       "en": "What have I gained, what have I lost,"
+      },
+      {
+       "cyr": "каде тебе, еј животе, сум те потрошил?",
+       "lat": "kade tebe, ej živote, sum te potrošil?",
+       "en": "where, oh life, did I waste you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само една песна таговна, недопеана,",
+       "lat": "Samo edna pesna tagovna, nedopeana,",
+       "en": "Just one sad song, unfinished,"
+      },
+      {
+       "cyr": "ќе те памти душо студена, љубов неогреана.",
+       "lat": "ḱe te pamti dušo studena, ljubov neogreana.",
+       "en": "will remember you, cold soul, unwarmed love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жалосни се писмата, горки вината,",
+       "lat": "Žalosni se pismata, gorki vinata,",
+       "en": "Sorrowful are the letters, bitter the wines,"
+      },
+      {
+       "cyr": "дали простум ќе ме прими татковината?",
+       "lat": "dali prostum ḱe me primi tatkovinata?",
+       "en": "will the homeland receive me, a simple man?"
+      },
+      {
+       "cyr": "Што сум добил јас, што сум изгубил,",
+       "lat": "Što sum dobil jas, što sum izgubil,",
+       "en": "What have I gained, what have I lost,"
+      },
+      {
+       "cyr": "каде тебе, еј животе, сум те потрошил?",
+       "lat": "kade tebe, ej živote, sum te potrošil?",
+       "en": "where, oh life, did I waste you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само една песна таговна, недопеана,",
+       "lat": "Samo edna pesna tagovna, nedopeana,",
+       "en": "Just one sad song, unfinished,"
+      },
+      {
+       "cyr": "ќе те памти душо студена, љубов неогреана.",
+       "lat": "ḱe te pamti dušo studena, ljubov neogreana.",
+       "en": "will remember you, cold soul, unwarmed love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

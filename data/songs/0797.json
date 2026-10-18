@@ -1,0 +1,181 @@
+{
+ "id": 797,
+ "slug": "petre-gajdadzhijata",
+ "title_cyr": "Петре гајдаџијата",
+ "title_latin": "Petre gajdadžijata",
+ "title_en": "Petre the Piper",
+ "pesna_url": "https://pesna.org/song/797",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding dance song. Forms like фанаја/фанаа are dialect past tenses of 'to take hold'; лидо I read as 'sweetheart', somewhat unsure.",
+ "words_to_learn": [
+  {
+   "mk": "гајда",
+   "en": "bagpipe"
+  },
+  {
+   "mk": "гајдаџија",
+   "en": "bagpiper"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "се фати на оро",
+   "en": "to join the dance"
+  },
+  {
+   "mk": "бате",
+   "en": "older brother (form of address)"
+  },
+  {
+   "mk": "моми",
+   "en": "girls, young unmarried women"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors, young men"
+  },
+  {
+   "mk": "лидо",
+   "en": "sweetheart (dialect)"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1507"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бате Петре засвири, засвири со гајдата,",
+       "lat": "Bate Petre zasviri, zasviri so gajdata,",
+       "en": "Brother Petre, play, play on the bagpipe,"
+      },
+      {
+       "cyr": "бате Петре засвири, засвири со гајдата,",
+       "lat": "bate Petre zasviri, zasviri so gajdata,",
+       "en": "brother Petre, play, play on the bagpipe,"
+      },
+      {
+       "cyr": "дај-ду-ру-ду-лу ли-ди-лид, засвири со гајдата.",
+       "lat": "daj-du-ru-du-lu li-di-lid, zasviri so gajdata.",
+       "en": "daj-du-ru-du-lu li-di-lid, play on the bagpipe."
+      },
+      {
+       "cyr": "Еј, еј, бате Петре гајдаџи, засвири со гајдата,",
+       "lat": "Ej, ej, bate Petre gajdadži, zasviri so gajdata,",
+       "en": "Hey, hey, brother Petre the piper, play on the bagpipe,"
+      },
+      {
+       "cyr": "бате Петре засвири, оро да заиграме.",
+       "lat": "bate Petre zasviri, oro da zaigrame.",
+       "en": "brother Petre, play, so we can dance the oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цело село станало, на оро се фанало,",
+       "lat": "Celo selo stanalo, na oro se fanalo,",
+       "en": "The whole village got up, joined hands in the oro,"
+      },
+      {
+       "cyr": "цело село станало, на оро се фанало,",
+       "lat": "celo selo stanalo, na oro se fanalo,",
+       "en": "the whole village got up, joined hands in the oro,"
+      },
+      {
+       "cyr": "дај-ду-ру-ду-лу ли-ди-лид, на оро се фанало.",
+       "lat": "daj-du-ru-du-lu li-di-lid, na oro se fanalo.",
+       "en": "daj-du-ru-du-lu li-di-lid, joined hands in the oro."
+      },
+      {
+       "cyr": "Еј, еј, бате Петре гајдаџи, засвири со гајдата,",
+       "lat": "Ej, ej, bate Petre gajdadži, zasviri so gajdata,",
+       "en": "Hey, hey, brother Petre the piper, play on the bagpipe,"
+      },
+      {
+       "cyr": "бате Петре засвири, оро да заиграме.",
+       "lat": "bate Petre zasviri, oro da zaigrame.",
+       "en": "brother Petre, play, so we can dance the oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите моми дојдоа, на оро се фанаа,",
+       "lat": "Site momi dojdoa, na oro se fanaa,",
+       "en": "All the girls came, joined hands in the oro,"
+      },
+      {
+       "cyr": "и ергени дојдоа, и они се фанаја,",
+       "lat": "i ergeni dojdoa, i oni se fanaja,",
+       "en": "and the young men came, and they joined hands too,"
+      },
+      {
+       "cyr": "дај-ду-ру-ду-лу ли-ди-лид, и они се фанаа.",
+       "lat": "daj-du-ru-du-lu li-di-lid, i oni se fanaa.",
+       "en": "daj-du-ru-du-lu li-di-lid, and they joined hands too."
+      },
+      {
+       "cyr": "Еј, еј, бате Петре гајдаџи, засвири со гајдата,",
+       "lat": "Ej, ej, bate Petre gajdadži, zasviri so gajdata,",
+       "en": "Hey, hey, brother Petre the piper, play on the bagpipe,"
+      },
+      {
+       "cyr": "бате Петре засвири, оро да заиграме.",
+       "lat": "bate Petre zasviri, oro da zaigrame.",
+       "en": "brother Petre, play, so we can dance the oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите си се фанаја, мојто лидо не дојде,",
+       "lat": "Site si se fanaja, mojto lido ne dojde,",
+       "en": "Everyone has joined hands, my sweetheart did not come,"
+      },
+      {
+       "cyr": "мојто лидо не дојде, оро да ми поведе,",
+       "lat": "mojto lido ne dojde, oro da mi povede,",
+       "en": "my sweetheart did not come, to lead the oro for me,"
+      },
+      {
+       "cyr": "дај-ду-ру-ду-лу ли-ди-лид, оро да ми поведе.",
+       "lat": "daj-du-ru-du-lu li-di-lid, oro da mi povede.",
+       "en": "daj-du-ru-du-lu li-di-lid, to lead the oro for me."
+      },
+      {
+       "cyr": "Еј, еј, бате Петре гајдаџи, засвири со гајдата,",
+       "lat": "Ej, ej, bate Petre gajdadži, zasviri so gajdata,",
+       "en": "Hey, hey, brother Petre the piper, play on the bagpipe,"
+      },
+      {
+       "cyr": "бате Петре засвири, оро да заиграме.",
+       "lat": "bate Petre zasviri, oro da zaigrame.",
+       "en": "brother Petre, play, so we can dance the oro."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

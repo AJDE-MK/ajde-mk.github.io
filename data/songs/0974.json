@@ -1,0 +1,167 @@
+{
+ "id": 974,
+ "slug": "kje-ti-kupam-shirok-fustan-zuice",
+ "title_cyr": "Ќе ти купам широк фустан Зуице",
+ "title_latin": "Ḱe ti kupam širok fustan Zuice",
+ "title_en": "I'll buy you a wide dress, Zuica",
+ "pesna_url": "https://pesna.org/song/974",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. Zuica is a girl's name (diminutive). 'Пусто да остане... гледање' is my reading: a girl's retort that his looking is worthless without a sweetheart beside her.",
+ "words_to_learn": [
+  {
+   "mk": "широк фустан",
+   "en": "wide dress"
+  },
+  {
+   "mk": "аман",
+   "en": "oh (plaintive interjection)"
+  },
+  {
+   "mk": "девојче",
+   "en": "girl"
+  },
+  {
+   "mk": "пусто да остане",
+   "en": "may it be left empty / cursed be"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "dear young one (sweetheart)"
+  },
+  {
+   "mk": "кован ѓердан",
+   "en": "forged (metal) necklace"
+  },
+  {
+   "mk": "при мене",
+   "en": "by me, next to me"
+  }
+ ],
+ "performers": [
+  "Марина Пухариќ",
+  "Нада Макеларска",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2256"
+  },
+  {
+   "who": "Марина Пухариќ",
+   "url": "https://pesna.org/audio-download/2257"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/2897"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе ти купам широк фустан, Зуице,",
+       "lat": "- Ḱe ti kupam širok fustan, Zuice,",
+       "en": "- I'll buy you a wide dress, Zuica,"
+      },
+      {
+       "cyr": "аман девојче,",
+       "lat": "aman devojče,",
+       "en": "oh, girl,"
+      },
+      {
+       "cyr": "ти да носиш, јас да гледам, Зуице,",
+       "lat": "ti da nosiš, jas da gledam, Zuice,",
+       "en": "you wear it, I'll watch, Zuica,"
+      },
+      {
+       "cyr": "ти да носиш, аман девојче.",
+       "lat": "ti da nosiš, aman devojče.",
+       "en": "you wear it, oh, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пусто да остане мајко твојто гледање,",
+       "lat": "- Pusto da ostane majko tvojto gledanje,",
+       "en": "- Let your watching be left empty, mother,"
+      },
+      {
+       "cyr": "аман твојто гледање,",
+       "lat": "aman tvojto gledanje,",
+       "en": "oh, your watching,"
+      },
+      {
+       "cyr": "кога немам лудо младо при мене,",
+       "lat": "koga nemam ludo mlado pri mene,",
+       "en": "when I have no dear young man by me,"
+      },
+      {
+       "cyr": "кога немам, аман крај мене.",
+       "lat": "koga nemam, aman kraj mene.",
+       "en": "when I have none, oh, beside me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе ти купам кован ѓердан, Зуице,",
+       "lat": "- Ḱe ti kupam kovan ǵerdan, Zuice,",
+       "en": "- I'll buy you a forged necklace, Zuica,"
+      },
+      {
+       "cyr": "аман девојче,",
+       "lat": "aman devojče,",
+       "en": "oh, girl,"
+      },
+      {
+       "cyr": "ти да носиш, јас да гледам, Зуице,",
+       "lat": "ti da nosiš, jas da gledam, Zuice,",
+       "en": "you wear it, I'll watch, Zuica,"
+      },
+      {
+       "cyr": "ти да носиш, аман девојче.",
+       "lat": "ti da nosiš, aman devojče.",
+       "en": "you wear it, oh, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пусто да остане мајко твојто гледање,",
+       "lat": "- Pusto da ostane majko tvojto gledanje,",
+       "en": "- Let your watching be left empty, mother,"
+      },
+      {
+       "cyr": "аман твојто гледање,",
+       "lat": "aman tvojto gledanje,",
+       "en": "oh, your watching,"
+      },
+      {
+       "cyr": "кога немам лудо младо при мене,",
+       "lat": "koga nemam ludo mlado pri mene,",
+       "en": "when I have no dear young man by me,"
+      },
+      {
+       "cyr": "кога немам, аман крај мене.",
+       "lat": "koga nemam, aman kraj mene.",
+       "en": "when I have none, oh, beside me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

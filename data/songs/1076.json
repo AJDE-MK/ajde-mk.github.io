@@ -1,0 +1,143 @@
+{
+ "id": 1076,
+ "slug": "stanala-rano-bosilka",
+ "title_cyr": "Станала рано Босилка",
+ "title_latin": "Stanala rano Bosilka",
+ "title_en": "Bosilka got up early",
+ "pesna_url": "https://pesna.org/song/1076",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Георги Илиевски",
+  "Илија Луков",
+  "Стојан Харизанов"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2513"
+  },
+  {
+   "who": "Стојан Харизанов",
+   "url": "https://pesna.org/audio-download/2514"
+  },
+  {
+   "who": "Илија Луков",
+   "url": "https://pesna.org/audio-download/2515"
+  },
+  {
+   "who": "Георги Илиевски",
+   "url": "https://pesna.org/audio-download/2516"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Станала рано Босилка,",
+       "lat": "Stanala rano Bosilka,",
+       "en": "Bosilka got up early"
+      },
+      {
+       "cyr": "станала рано в недела.",
+       "lat": "stanala rano v nedela.",
+       "en": "Got up early on Sunday"
+      },
+      {
+       "cyr": "Скршила гранка маслина",
+       "lat": "Skršila granka maslina",
+       "en": "Broke off a branch of olive"
+      },
+      {
+       "cyr": "да мете рамни дворови.",
+       "lat": "da mete ramni dvorovi.",
+       "en": "To sweep the level courtyard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рамни дворови метеше,",
+       "lat": "Ramni dvorovi meteše,",
+       "en": "While sweeping the wide courtyard"
+      },
+      {
+       "cyr": "со јасно сонце збореше.",
+       "lat": "so jasno sonce zboreše.",
+       "en": "She spoke with the shining sun"
+      },
+      {
+       "cyr": "- „Сонце ле, сонце убаво,",
+       "lat": "- „Sonce le, sonce ubavo,",
+       "en": "- Oh Sun, beautiful sun,"
+      },
+      {
+       "cyr": "ти грееш многу високо.",
+       "lat": "ti greeš mnogu visoko.",
+       "en": "You shine from high above."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти грееш многу високо,",
+       "lat": "Ti greeš mnogu visoko,",
+       "en": "You shine from high above"
+      },
+      {
+       "cyr": "та гледаш многу далеко.",
+       "lat": "ta gledaš mnogu daleko.",
+       "en": "And can thus see very far"
+      },
+      {
+       "cyr": "Нели го виде либето,",
+       "lat": "Neli go vide libeto,",
+       "en": "Don't you see my sweetheart"
+      },
+      {
+       "cyr": "либето ми е в туѓина“?",
+       "lat": "libeto mi e v tuǵina“?",
+       "en": "My sweetheart who is working in foreign lands?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Видов го видов, Босилке,",
+       "lat": "- „Vidov go vidov, Bosilke,",
+       "en": "- I saw him, saw, Bosilka,"
+      },
+      {
+       "cyr": "со дружина си седеше,",
+       "lat": "so družina si sedeše,",
+       "en": "He was sitting with his companions"
+      },
+      {
+       "cyr": "за тебе лаф си правеше,",
+       "lat": "za tebe laf si praveše,",
+       "en": "He was talking about you"
+      },
+      {
+       "cyr": "да дојде да те ожени“.",
+       "lat": "da dojde da te oženi“.",
+       "en": "That he would come and marry you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

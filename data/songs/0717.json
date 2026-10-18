@@ -1,0 +1,187 @@
+{
+ "id": 717,
+ "slug": "pomnish-li-libe-todoro",
+ "title_cyr": "Помниш ли, либе Тодоро",
+ "title_latin": "Pomniš li, libe Todoro",
+ "title_en": "Do you remember, my love Todora",
+ "pesna_url": "https://pesna.org/song/717",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Ансамбл Македонија",
+  "Афион",
+  "Васка Илиева",
+  "Мишко Крстевски",
+  "Модус",
+  "Танец",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/598"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/599"
+  },
+  {
+   "who": "Афион",
+   "url": "https://pesna.org/audio-download/600"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1542"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/1831"
+  },
+  {
+   "who": "Модус",
+   "url": "https://pesna.org/audio-download/2820"
+  },
+  {
+   "who": "Ансамбл Македонија",
+   "url": "https://pesna.org/audio-download/2821"
+  },
+  {
+   "who": "Александар Сариевски, Танец",
+   "url": "https://pesna.org/audio-download/3851"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Помниш ли, либе Тодоро,",
+       "lat": "Pomniš li, libe Todoro,",
+       "en": "Do you remember, my love Todora,"
+      },
+      {
+       "cyr": "кога се двајца љубевме,",
+       "lat": "koga se dvajca ljubevme,",
+       "en": "when we were in love,"
+      },
+      {
+       "cyr": "во чичовото градинче,",
+       "lat": "vo čičovoto gradinče,",
+       "en": "in uncle's garden,"
+      },
+      {
+       "cyr": "под чичовото маслинче?",
+       "lat": "pod čičovoto maslinče?",
+       "en": "under uncle's olive tree?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На една гранка стоевме,",
+       "lat": "Na edna granka stoevme,",
+       "en": "We sat on a branch,"
+      },
+      {
+       "cyr": "вишни си цреши зобевме,",
+       "lat": "višni si creši zobevme,",
+       "en": "ate cherries,"
+      },
+      {
+       "cyr": "лута си клетва дадовме,",
+       "lat": "luta si kletva dadovme,",
+       "en": "and cursed each other,"
+      },
+      {
+       "cyr": "кој првин ќе се ожени.",
+       "lat": "koj prvin ḱe se oženi.",
+       "en": "whoever marries first."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој првин ќе се ожени,",
+       "lat": "Koj prvin ḱe se oženi,",
+       "en": "Whoever marries first,"
+      },
+      {
+       "cyr": "девет години да лежи,",
+       "lat": "devet godini da leži,",
+       "en": "may he lie ill for nine years,"
+      },
+      {
+       "cyr": "девет постели да скапе",
+       "lat": "devet posteli da skape",
+       "en": "may nine beds rot below him,"
+      },
+      {
+       "cyr": "и на десетта да стане.",
+       "lat": "i na desetta da stane.",
+       "en": "and may he get up from the tenth one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сламка да се потпира",
+       "lat": "Na slamka da se potpira",
+       "en": "May he prop on a straw,"
+      },
+      {
+       "cyr": "и таа тешка да му е,",
+       "lat": "i taa teška da mu e,",
+       "en": "and may it be heavy for him,"
+      },
+      {
+       "cyr": "од лист опинци да носи",
+       "lat": "od list opinci da nosi",
+       "en": "may he wear moccasins made of leaves,"
+      },
+      {
+       "cyr": "и тие тешки да му се.",
+       "lat": "i tie teški da mu se.",
+       "en": "and may they be heavy for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од лешник вода да пие",
+       "lat": "Od lešnik voda da pie",
+       "en": "May he drink out of a hazelut shell,"
+      },
+      {
+       "cyr": "и таа многу да му е,",
+       "lat": "i taa mnogu da mu e,",
+       "en": "and may it be too much for him,"
+      },
+      {
+       "cyr": "низ прстен да се издене",
+       "lat": "niz prsten da se izdene",
+       "en": "may he sqeeze through a ring,"
+      },
+      {
+       "cyr": "и тиа широк да му е!",
+       "lat": "i tia širok da mu e!",
+       "en": "and may it be wide for him!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

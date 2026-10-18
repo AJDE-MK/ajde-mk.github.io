@@ -1,0 +1,161 @@
+{
+ "id": 1185,
+ "slug": "dajte-mi-ja",
+ "title_cyr": "Дајте ми ја",
+ "title_latin": "Dajte mi ja",
+ "title_en": "Give Her to Me",
+ "pesna_url": "https://pesna.org/song/1185",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: newly composed feel but no author I can name. Bisera is a girl's name and also means 'pearl' (the pun with 'бисер' is intended in the lyric).",
+ "words_to_learn": [
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "чалгии",
+   "en": "chalgia (town band music)"
+  },
+  {
+   "mk": "чалгија",
+   "en": "chalgia musician"
+  },
+  {
+   "mk": "сиромав",
+   "en": "poor"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "бисер",
+   "en": "pearl"
+  },
+  {
+   "mk": "позлати",
+   "en": "will gild"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/2898"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Немам пари, сребро, злато, немам сватови,",
+       "lat": "Nemam pari, srebro, zlato, nemam svatovi,",
+       "en": "I have no money, silver, gold, I have no wedding guests,"
+      },
+      {
+       "cyr": "со мене се, мајко, само моите чалгии.",
+       "lat": "so mene se, majko, samo moite čalgii.",
+       "en": "all I have, mother, is my chalgia music."
+      },
+      {
+       "cyr": "Срце носам јас за неа, не ме враќајте,",
+       "lat": "Srce nosam jas za nea, ne me vraḱajte,",
+       "en": "I carry a heart for her, do not send me back,"
+      },
+      {
+       "cyr": "ноќи не спијам, мајко, таа ми е сè.",
+       "lat": "noḱi ne spijam, majko, taa mi e sè.",
+       "en": "I do not sleep at night, mother, she is everything to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дајте ми ја, дајте ми ја Бисера,",
+       "lat": "Dajte mi ja, dajte mi ja Bisera,",
+       "en": "Give her to me, give me Bisera,"
+      },
+      {
+       "cyr": "моја мома сакана.",
+       "lat": "moja moma sakana.",
+       "en": "my beloved girl."
+      },
+      {
+       "cyr": "Дајте ми ја, дајте ми ја Бисера,",
+       "lat": "Dajte mi ja, dajte mi ja Bisera,",
+       "en": "Give her to me, give me Bisera,"
+      },
+      {
+       "cyr": "од бисер поубава.",
+       "lat": "od biser poubava.",
+       "en": "more beautiful than a pearl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чалгија сум, сиромав сум, немам дарови,",
+       "lat": "Čalgija sum, siromav sum, nemam darovi,",
+       "en": "I am a chalgia player, I am poor, I have no gifts,"
+      },
+      {
+       "cyr": "мојта љубов, мојта песна ќе ја позлати.",
+       "lat": "mojta ljubov, mojta pesna ḱe ja pozlati.",
+       "en": "my love, my song will gild it."
+      },
+      {
+       "cyr": "Срце носам јас за неа, не ме враќајте,",
+       "lat": "Srce nosam jas za nea, ne me vraḱajte,",
+       "en": "I carry a heart for her, do not send me back,"
+      },
+      {
+       "cyr": "ноќи не спијам, мајко, таа ми е сè.",
+       "lat": "noḱi ne spijam, majko, taa mi e sè.",
+       "en": "I do not sleep at night, mother, she is everything to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дајте ми ја, дајте ми ја Бисера,",
+       "lat": "Dajte mi ja, dajte mi ja Bisera,",
+       "en": "Give her to me, give me Bisera,"
+      },
+      {
+       "cyr": "моја мома сакана.",
+       "lat": "moja moma sakana.",
+       "en": "my beloved girl."
+      },
+      {
+       "cyr": "Дајте ми ја, дајте ми ја Бисера,",
+       "lat": "Dajte mi ja, dajte mi ja Bisera,",
+       "en": "Give her to me, give me Bisera,"
+      },
+      {
+       "cyr": "од бисер поубава.",
+       "lat": "od biser poubava.",
+       "en": "more beautiful than a pearl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,129 @@
+{
+ "id": 364,
+ "slug": "mila-majko-mojto-libe",
+ "title_cyr": "Мила мајко мојто либе",
+ "title_latin": "Mila majko mojto libe",
+ "title_en": "Dear mother, my darling",
+ "pesna_url": "https://pesna.org/song/364",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/944"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мила мајко мојто либе",
+       "lat": "Mila majko mojto libe",
+       "en": "Dear mother, my darling"
+      },
+      {
+       "cyr": "не ми е дома,",
+       "lat": "ne mi e doma,",
+       "en": "is not home,"
+      },
+      {
+       "cyr": "ми отиде на туѓина",
+       "lat": "mi otide na tuǵina",
+       "en": "he went abroad,"
+      },
+      {
+       "cyr": "тага голема.",
+       "lat": "taga golema.",
+       "en": "oh, big sorrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминаа три години",
+       "lat": "Pominaa tri godini",
+       "en": "Three years have passed by"
+      },
+      {
+       "cyr": "како го нема,",
+       "lat": "kako go nema,",
+       "en": "as he is gone,"
+      },
+      {
+       "cyr": "ниту пише, ниту иде",
+       "lat": "nitu piše, nitu ide",
+       "en": "neither he writes, nor he comes"
+      },
+      {
+       "cyr": "мене да види.",
+       "lat": "mene da vidi.",
+       "en": "to see me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Барем еднаш да го видам",
+       "lat": "Barem ednaš da go vidam",
+       "en": "If I can see him once"
+      },
+      {
+       "cyr": "дома да дојде,",
+       "lat": "doma da dojde,",
+       "en": "to come home,"
+      },
+      {
+       "cyr": "или на сон да го видам",
+       "lat": "ili na son da go vidam",
+       "en": "or to see him in my dreams"
+      },
+      {
+       "cyr": "како на јаве.",
+       "lat": "kako na jave.",
+       "en": "like in real life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми облекол море долама",
+       "lat": "Mi oblekol more dolama",
+       "en": "He is dressed in long clothes,"
+      },
+      {
+       "cyr": "дури до земја,",
+       "lat": "duri do zemja,",
+       "en": "long until the ground,"
+      },
+      {
+       "cyr": "да го сретнам, да го видам",
+       "lat": "da go sretnam, da go vidam",
+       "en": "if I meet him, if I see him,"
+      },
+      {
+       "cyr": "не го познавам.",
+       "lat": "ne go poznavam.",
+       "en": "I won't recognize him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

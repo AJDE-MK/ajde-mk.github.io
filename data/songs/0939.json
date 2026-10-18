@@ -1,0 +1,130 @@
+{
+ "id": 939,
+ "slug": "nasheto-selo-rano-vecheralo",
+ "title_cyr": "Нашето село рано вечерало",
+ "title_latin": "Našeto selo rano večeralo",
+ "title_en": "Our village had its supper early",
+ "pesna_url": "https://pesna.org/song/939",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. Verb forms like 'избегав' and 'успало' shift person oddly; I read 'избегав' as 'ran away' (my reading), and the speaker in line 6 is Stojanica.",
+ "words_to_learn": [
+  {
+   "mk": "вечерало",
+   "en": "had supper"
+  },
+  {
+   "mk": "подзаспало",
+   "en": "dozed off, fell asleep"
+  },
+  {
+   "mk": "стомна",
+   "en": "pitcher, water jug"
+  },
+  {
+   "mk": "вода",
+   "en": "water"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "отворени",
+   "en": "open"
+  },
+  {
+   "mk": "коњ",
+   "en": "horse"
+  },
+  {
+   "mk": "избега",
+   "en": "ran away"
+  },
+  {
+   "mk": "стани",
+   "en": "get up"
+  }
+ ],
+ "performers": [
+  "Баклава"
+ ],
+ "audio": [
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/2167"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нашето село рано вечерало,",
+       "lat": "Našeto selo rano večeralo,",
+       "en": "Our village had its supper early,"
+      },
+      {
+       "cyr": "рано вечерало, рано подзаспало.",
+       "lat": "rano večeralo, rano podzaspalo.",
+       "en": "had its supper early, fell asleep early."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само не ми заспа Стоjаница млада,",
+       "lat": "Samo ne mi zaspa Stojanica mlada,",
+       "en": "Only young Stojanica did not fall asleep,"
+      },
+      {
+       "cyr": "стомни си земала, на вода ќе оди.",
+       "lat": "stomni si zemala, na voda ḱe odi.",
+       "en": "she took her pitcher, she goes for water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ми забравила порти отворени,",
+       "lat": "Pa mi zabravila porti otvoreni,",
+       "en": "And she forgot the gates open,"
+      },
+      {
+       "cyr": "коње му избегав, коње на Стоjана.",
+       "lat": "konje mu izbegav, konje na Stojana.",
+       "en": "I let the horse run away, Stojan's horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ми проговара Стоjаница млада:",
+       "lat": "Pa mi progovara Stojanica mlada:",
+       "en": "And young Stojanica speaks to me:"
+      },
+      {
+       "cyr": "- Стани ми Стоjан, што си се успало,",
+       "lat": "- Stani mi Stojan, što si se uspalo,",
+       "en": "- Get up, Stojan, why did you oversleep,"
+      },
+      {
+       "cyr": "коње ти избегав, не мож' да го врата.",
+       "lat": "konje ti izbegav, ne mož' da go vrata.",
+       "en": "your horse has run away, I cannot bring it back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

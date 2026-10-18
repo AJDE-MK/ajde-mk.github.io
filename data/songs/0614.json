@@ -1,0 +1,184 @@
+{
+ "id": 614,
+ "slug": "ajde-zasvirete-brakja-svirachi",
+ "title_cyr": "Ајде засвирете браќа свирачи",
+ "title_latin": "Ajde zasvirete braḱa svirači",
+ "title_en": "Come On, Play, Brother Musicians",
+ "pesna_url": "https://pesna.org/song/614",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (kafana-style song, no author I can name). 'Цел век јас тешко го врвам' is my reading as 'I have gone through my whole life with difficulty'.",
+ "words_to_learn": [
+  {
+   "mk": "свирач",
+   "en": "musician, player"
+  },
+  {
+   "mk": "мачи",
+   "en": "torments"
+  },
+  {
+   "mk": "позлатам",
+   "en": "I will gild, cover in gold"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "мераклија",
+   "en": "pleasure-lover, reveller"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "крчма",
+   "en": "tavern"
+  },
+  {
+   "mk": "маки",
+   "en": "troubles, hardships"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски",
+  "Јованче Димовски"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/740"
+  },
+  {
+   "who": "Јованче Димовски",
+   "url": "https://pesna.org/audio-download/741"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде засвирете браќа свирачи",
+       "lat": "Ajde zasvirete braḱa svirači",
+       "en": "Come on, play, brother musicians,"
+      },
+      {
+       "cyr": "да заборавам сè што ме мачи,",
+       "lat": "da zaboravam sè što me mači,",
+       "en": "so I forget everything that torments me,"
+      },
+      {
+       "cyr": "пари ќе платам, ќе ве позлатам",
+       "lat": "pari ḱe platam, ḱe ve pozlatam",
+       "en": "I will pay money, I will gild you,"
+      },
+      {
+       "cyr": "бар малку радост јас да си вратам.",
+       "lat": "bar malku radost jas da si vratam.",
+       "en": "at least to win back a little joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Играм и пеам, ќе му се смеам",
+       "lat": "Igram i peam, ḱe mu se smeam",
+       "en": "I dance and sing, I will laugh"
+      },
+      {
+       "cyr": "на овој живот што го живеам.",
+       "lat": "na ovoj život što go živeam.",
+       "en": "at this life that I live."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оваа вечер јас сè ќе платам",
+       "lat": "Ovaa večer jas sè ḱe platam",
+       "en": "Tonight I will pay for everything,"
+      },
+      {
+       "cyr": "животот краток не ќе го вратам.",
+       "lat": "životot kratok ne ḱe go vratam.",
+       "en": "short life I will not get back."
+      },
+      {
+       "cyr": "Целиот век јас тешко го врвам",
+       "lat": "Celiot vek jas teško go vrvam",
+       "en": "All my life I have gone through with difficulty"
+      },
+      {
+       "cyr": "и многу маки по него тргам.",
+       "lat": "i mnogu maki po nego trgam.",
+       "en": "and taken many troubles along it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Играм и пеам, ќе му се смеам",
+       "lat": "Igram i peam, ḱe mu se smeam",
+       "en": "I dance and sing, I will laugh"
+      },
+      {
+       "cyr": "на овој живот што го живеам.",
+       "lat": "na ovoj život što go živeam.",
+       "en": "at this life that I live."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не заборавај вино и ракија,",
+       "lat": "Ne zaboravaj vino i rakija,",
+       "en": "Don't forget wine and rakija,"
+      },
+      {
+       "cyr": "признавам, браќа, бев мераклија.",
+       "lat": "priznavam, braḱa, bev meraklija.",
+       "en": "I admit, brothers, I was a reveller."
+      },
+      {
+       "cyr": "Меани, крчми, мои биле куќи,",
+       "lat": "Meani, krčmi, moi bile kuḱi,",
+       "en": "Inns, taverns were my homes,"
+      },
+      {
+       "cyr": "јас во нив минав најлуди ноќи.",
+       "lat": "jas vo niv minav najludi noḱi.",
+       "en": "in them I spent the wildest nights."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Играм и пеам, ќе му се смеам",
+       "lat": "Igram i peam, ḱe mu se smeam",
+       "en": "I dance and sing, I will laugh"
+      },
+      {
+       "cyr": "на овој живот што го живеам.",
+       "lat": "na ovoj život što go živeam.",
+       "en": "at this life that I live."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,145 @@
+{
+ "id": 924,
+ "slug": "dimitrijo-sine-mitre",
+ "title_cyr": "Димитријо, сине Митре",
+ "title_latin": "Dimitrijo, sine Mitre",
+ "title_en": "Dimitar, my son Mitre",
+ "pesna_url": "https://pesna.org/song/924",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анета Љумаковска",
+  "Галија",
+  "Група Седенка",
+  "Елена Андоновска",
+  "Игор Цветковски",
+  "Молика",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2071"
+  },
+  {
+   "who": "Игор Цветковски",
+   "url": "https://pesna.org/audio-download/2072"
+  },
+  {
+   "who": "Галија",
+   "url": "https://pesna.org/audio-download/2073"
+  },
+  {
+   "who": "Анета Љумаковска, Молика",
+   "url": "https://pesna.org/audio-download/4193"
+  },
+  {
+   "who": "Група Седенка, Елена Андоновска",
+   "url": "https://pesna.org/audio-download/4194"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Димитријо, сине Митре,",
+       "lat": "Dimitrijo, sine Mitre,",
+       "en": "Dimitar, my son Mitre,"
+      },
+      {
+       "cyr": "мајкино единче.",
+       "lat": "majkino edinče.",
+       "en": "mother's only child."
+      },
+      {
+       "cyr": "Три години, сине Митре,",
+       "lat": "Tri godini, sine Mitre,",
+       "en": "For three years, my son Mitre,"
+      },
+      {
+       "cyr": "мајка болна лежи.",
+       "lat": "majka bolna leži.",
+       "en": "your mother lies sick in bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти не дојде, сине Митре,",
+       "lat": "Ti ne dojde, sine Mitre,",
+       "en": "You didn't come, my son Mitre,"
+      },
+      {
+       "cyr": "мајка да си видиш.",
+       "lat": "majka da si vidiš.",
+       "en": "to see your mother."
+      },
+      {
+       "cyr": "Да ме прашаш, сине Митре,",
+       "lat": "Da me prašaš, sine Mitre,",
+       "en": "To ask me, my son Mitre,"
+      },
+      {
+       "cyr": "од што болна лежам.",
+       "lat": "od što bolna ležam.",
+       "en": "why am I lying sick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Димитријо, сине Митре,",
+       "lat": "Dimitrijo, sine Mitre,",
+       "en": "Dimitar, my son Mitre,"
+      },
+      {
+       "cyr": "мајкино будалче.",
+       "lat": "majkino budalče.",
+       "en": "mother's fool."
+      },
+      {
+       "cyr": "Зар не видиш, сине Митре,",
+       "lat": "Zar ne vidiš, sine Mitre,",
+       "en": "Can't you see, my son Mitre,"
+      },
+      {
+       "cyr": "да те жена вара?",
+       "lat": "da te žena vara?",
+       "en": "that your wife is cheating on you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако, ако мајко,",
+       "lat": "- Ako, ako majko,",
+       "en": "- Let her, let her, mother,"
+      },
+      {
+       "cyr": "нека вара,",
+       "lat": "neka vara,",
+       "en": "let her cheat on me,"
+      },
+      {
+       "cyr": "барем е убава.",
+       "lat": "barem e ubava.",
+       "en": "at least she is pretty."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

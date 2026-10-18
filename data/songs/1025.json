@@ -1,0 +1,165 @@
+{
+ "id": 1025,
+ "slug": "reshiv-da-si-se-ozhenam",
+ "title_cyr": "Решив да си се оженам",
+ "title_latin": "Rešiv da si se oženam",
+ "title_en": "I decided to marry",
+ "pesna_url": "https://pesna.org/song/1025",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Рачај' (a form of порачај) is dialect and my reading is 'send word'. 'Отаде' means 'from over there'.",
+ "words_to_learn": [
+  {
+   "mk": "реши",
+   "en": "decided"
+  },
+  {
+   "mk": "оженам се",
+   "en": "I marry (man marrying)"
+  },
+  {
+   "mk": "пендарче",
+   "en": "little pendant (coin ornament)"
+  },
+  {
+   "mk": "утре",
+   "en": "tomorrow"
+  },
+  {
+   "mk": "порачај",
+   "en": "send word, let me know"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "gift"
+  },
+  {
+   "mk": "ѓерданче",
+   "en": "little necklace"
+  },
+  {
+   "mk": "бело грло",
+   "en": "white throat/neck"
+  }
+ ],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2362"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Решив да си се оженам",
+       "lat": "Rešiv da si se oženam",
+       "en": "I decided to marry"
+      },
+      {
+       "cyr": "за едно младо девојче,",
+       "lat": "za edno mlado devojče,",
+       "en": "a young girl,"
+      },
+      {
+       "cyr": "за едно младо,",
+       "lat": "za edno mlado,",
+       "en": "a young one,"
+      },
+      {
+       "cyr": "за едно младо девојче.",
+       "lat": "za edno mlado devojče.",
+       "en": "a young girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тоа ми побара пендарче.",
+       "lat": "Toa mi pobara pendarče.",
+       "en": "She asked me for a pendant."
+      },
+      {
+       "cyr": "Утре ќе одам град Скопје,",
+       "lat": "Utre ḱe odam grad Skopje,",
+       "en": "Tomorrow I will go to the city of Skopje,"
+      },
+      {
+       "cyr": "утре ќе одам,",
+       "lat": "utre ḱe odam,",
+       "en": "tomorrow I will go,"
+      },
+      {
+       "cyr": "утре ќе одам град Скопје.",
+       "lat": "utre ḱe odam grad Skopje.",
+       "en": "tomorrow I will go to the city of Skopje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Рачај, порачај либе ле,",
+       "lat": "- Račaj, poračaj libe le,",
+       "en": "- Send word, my love,"
+      },
+      {
+       "cyr": "што бакшиш сакаш отаде,",
+       "lat": "što bakšiš sakaš otade,",
+       "en": "what gift do you want from over there,"
+      },
+      {
+       "cyr": "што бакшиш сакаш",
+       "lat": "što bakšiš sakaš",
+       "en": "what gift do you want"
+      },
+      {
+       "cyr": "отаде да ти донесам?",
+       "lat": "otade da ti donesam?",
+       "en": "that I bring you from over there?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Отаде да ми донесеш",
+       "lat": "- Otade da mi doneseš",
+       "en": "- Bring me from over there"
+      },
+      {
+       "cyr": "за бело грло ѓерданче,",
+       "lat": "za belo grlo ǵerdanče,",
+       "en": "for my white throat a necklace,"
+      },
+      {
+       "cyr": "за бело грло,",
+       "lat": "za belo grlo,",
+       "en": "for my white throat,"
+      },
+      {
+       "cyr": "за бело грло ѓерданче.",
+       "lat": "za belo grlo ǵerdanče.",
+       "en": "for my white throat a necklace."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,179 @@
+{
+ "id": 1523,
+ "slug": "stojne-crnook-neveno",
+ "title_cyr": "Стојне црноок невено",
+ "title_latin": "Stojne crnook neveno",
+ "title_en": "Stojna, Black-Eyed Marigold",
+ "pesna_url": "https://pesna.org/song/1523",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Да си ојме' is my reading ('to go home'); 'вампир шета' may be a jocular warning that someone is prowling at night.",
+ "words_to_learn": [
+  {
+   "mk": "невена",
+   "en": "marigold (term of endearment)"
+  },
+  {
+   "mk": "црноок",
+   "en": "black-eyed"
+  },
+  {
+   "mk": "тури",
+   "en": "pour, put"
+  },
+  {
+   "mk": "да си ојме",
+   "en": "that we go home (dialect, my reading)"
+  },
+  {
+   "mk": "сељане",
+   "en": "villagers"
+  },
+  {
+   "mk": "вампир",
+   "en": "vampire"
+  },
+  {
+   "mk": "шеќерна кутија",
+   "en": "sugar box"
+  },
+  {
+   "mk": "алтан",
+   "en": "gold (Turkish loan)"
+  },
+  {
+   "mk": "мамудија",
+   "en": "old Ottoman gold coin"
+  }
+ ],
+ "performers": [
+  "Драги Спасовски",
+  "Иринка Бујуклиева"
+ ],
+ "audio": [
+  {
+   "who": "Иринка Бујуклиева",
+   "url": "https://pesna.org/audio-download/3982"
+  },
+  {
+   "who": "Иринка Бујуклиева",
+   "url": "https://pesna.org/audio-download/3983"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/3984"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојне, црноок невено,",
+       "lat": "Stojne, crnook neveno,",
+       "en": "Stojna, black-eyed marigold,"
+      },
+      {
+       "cyr": "тури вино да пиеме, мори.",
+       "lat": "turi vino da pieme, mori.",
+       "en": "pour wine for us to drink, hey."
+      },
+      {
+       "cyr": "Тури вино да пиеме",
+       "lat": "Turi vino da pieme",
+       "en": "Pour wine for us to drink"
+      },
+      {
+       "cyr": "или кажи да си ојме, мори.",
+       "lat": "ili kaži da si ojme, mori.",
+       "en": "or tell us to go home, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Или кажи да си ојме",
+       "lat": "Ili kaži da si ojme",
+       "en": "Or tell us to go home"
+      },
+      {
+       "cyr": "кучињата да не лајат, мори.",
+       "lat": "kučinjata da ne lajat, mori.",
+       "en": "so the dogs do not bark, hey."
+      },
+      {
+       "cyr": "Кучињата да не лајат",
+       "lat": "Kučinjata da ne lajat",
+       "en": "So the dogs do not bark"
+      },
+      {
+       "cyr": "да не викаат сељането, мори,",
+       "lat": "da ne vikaat seljaneto, mori,",
+       "en": "and do not wake the villagers, hey,"
+      },
+      {
+       "cyr": "вампир шета низ селото.",
+       "lat": "vampir šeta niz seloto.",
+       "en": "a vampire is walking through the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојне црноок невено,",
+       "lat": "Stojne crnook neveno,",
+       "en": "Stojna, black-eyed marigold,"
+      },
+      {
+       "cyr": "уста шеќерна кутија, мори.",
+       "lat": "usta šeḱerna kutija, mori.",
+       "en": "mouth a sugar box, hey."
+      },
+      {
+       "cyr": "Уста шеќерна кутија",
+       "lat": "Usta šeḱerna kutija",
+       "en": "Mouth a sugar box,"
+      },
+      {
+       "cyr": "чело алтан мамудија, мори.",
+       "lat": "čelo altan mamudija, mori.",
+       "en": "forehead a gold mamudija coin, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојне црноок невено",
+       "lat": "Stojne crnook neveno",
+       "en": "Stojna, black-eyed marigold,"
+      },
+      {
+       "cyr": "тури вино да пиеме, мори.",
+       "lat": "turi vino da pieme, mori.",
+       "en": "pour wine for us to drink, hey."
+      },
+      {
+       "cyr": "Тури вино да пиеме",
+       "lat": "Turi vino da pieme",
+       "en": "Pour wine for us to drink,"
+      },
+      {
+       "cyr": "или вино или вода, мори.",
+       "lat": "ili vino ili voda, mori.",
+       "en": "either wine or water, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

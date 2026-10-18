@@ -1,0 +1,161 @@
+{
+ "id": 1451,
+ "slug": "ah-ti-mladost",
+ "title_cyr": "Ах, ти младост",
+ "title_latin": "Ah, ti mladost",
+ "title_en": "Ah, you youth",
+ "pesna_url": "https://pesna.org/song/1451",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern sounding, origin unclear (no author I can name). 'ко да паднале' is my reading ('as if fallen').",
+ "words_to_learn": [
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "ладни ноќи",
+   "en": "cold nights"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "стегнале",
+   "en": "tightened"
+  },
+  {
+   "mk": "избега",
+   "en": "ran away"
+  },
+  {
+   "mk": "сокаци",
+   "en": "alleys, lanes"
+  },
+  {
+   "mk": "заљубиле",
+   "en": "(have) fallen in love"
+  },
+  {
+   "mk": "дарил",
+   "en": "(I) gave as a gift"
+  }
+ ],
+ "performers": [
+  "Ѓоко Дончев"
+ ],
+ "audio": [
+  {
+   "who": "Ѓоко Дончев",
+   "url": "https://pesna.org/audio-download/3712"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сега сум без тебе,",
+       "lat": "Sega sum bez tebe,",
+       "en": "Now I am without you,"
+      },
+      {
+       "cyr": "ладни ноќи се надвиснале.",
+       "lat": "ladni noḱi se nadvisnale.",
+       "en": "cold nights have closed in."
+      },
+      {
+       "cyr": "Спомени само имаме,",
+       "lat": "Spomeni samo imame,",
+       "en": "We only have memories,"
+      },
+      {
+       "cyr": "години душа стегнале.",
+       "lat": "godini duša stegnale.",
+       "en": "years have tightened the soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, ти младост, чудна си ми била,",
+       "lat": "Ah, ti mladost, čudna si mi bila,",
+       "en": "Ah, you youth, you were strange to me,"
+      },
+      {
+       "cyr": "јас се свртев, ти ми избега.",
+       "lat": "jas se svrtev, ti mi izbega.",
+       "en": "I turned around, you ran away from me."
+      },
+      {
+       "cyr": "Колку вино, песни, солзи, смеа,",
+       "lat": "Kolku vino, pesni, solzi, smea,",
+       "en": "How much wine, songs, tears, laughter,"
+      },
+      {
+       "cyr": "тебе сум ти дарил за век да те имам.",
+       "lat": "tebe sum ti daril za vek da te imam.",
+       "en": "I gave to you so I would have you forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Помислив на тебе,",
+       "lat": "Pomisliv na tebe,",
+       "en": "I thought of you,"
+      },
+      {
+       "cyr": "две-три солзи ко да паднале.",
+       "lat": "dve-tri solzi ko da padnale.",
+       "en": "two or three tears seem to have fallen."
+      },
+      {
+       "cyr": "Сокаци гледам исти се,",
+       "lat": "Sokaci gledam isti se,",
+       "en": "I look at the alleys, they are the same,"
+      },
+      {
+       "cyr": "само други се заљубиле.",
+       "lat": "samo drugi se zaljubile.",
+       "en": "only others have fallen in love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, ти младост, чудна си ми била,",
+       "lat": "Ah, ti mladost, čudna si mi bila,",
+       "en": "Ah, you youth, you were strange to me,"
+      },
+      {
+       "cyr": "јас се свртев, ти ми избега.",
+       "lat": "jas se svrtev, ti mi izbega.",
+       "en": "I turned around, you ran away from me."
+      },
+      {
+       "cyr": "Колку вино, песни, солзи, смеа,",
+       "lat": "Kolku vino, pesni, solzi, smea,",
+       "en": "How much wine, songs, tears, laughter,"
+      },
+      {
+       "cyr": "тебе сум ти дарил за век да те имам.",
+       "lat": "tebe sum ti daril za vek da te imam.",
+       "en": "I gave to you so I would have you forever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

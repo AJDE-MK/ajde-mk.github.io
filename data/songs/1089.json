@@ -1,0 +1,118 @@
+{
+ "id": 1089,
+ "slug": "lisavo",
+ "title_cyr": "Лисаво",
+ "title_latin": "Lisavo",
+ "title_en": "Lisava",
+ "pesna_url": "https://pesna.org/song/1089",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Василија Петрова",
+  "Коста Новакис",
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2561"
+  },
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/2562"
+  },
+  {
+   "who": "Василија Петрова",
+   "url": "https://pesna.org/audio-download/4461"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лисаво, Лисаво, Лисаво на мајка,",
+       "lat": "Lisavo, Lisavo, Lisavo na majka,",
+       "en": "Lisava, Lisava, Lisava, mother's daughter,"
+      },
+      {
+       "cyr": "џан1 бела кадано2,",
+       "lat": "džan1 bela kadano2,",
+       "en": "my soul, white lady,"
+      },
+      {
+       "cyr": "солунска коконо3.",
+       "lat": "solunska kokono3.",
+       "en": "cocotte from Solun (Thessaloniki)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти кога запеиш, Лисаво на мајка,",
+       "lat": "Ti koga zapeiš, Lisavo na majka,",
+       "en": "When you sing, mother's Lisava,"
+      },
+      {
+       "cyr": "далеку се слуше, дур' на наш'та нива,",
+       "lat": "daleku se sluše, dur' na naš'ta niva,",
+       "en": "it is heard far away, even in our field,"
+      },
+      {
+       "cyr": "дур на нашта нива, дур' на наш'та слива.",
+       "lat": "dur na našta niva, dur' na naš'ta sliva.",
+       "en": "even in our field, even on our plum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас кога да слушнам, Лисаво на мајка,",
+       "lat": "Jas koga da slušnam, Lisavo na majka,",
+       "en": "When I hear you, mother's Lisavo,"
+      },
+      {
+       "cyr": "српот4 го фарљувам, на стог са качувам,",
+       "lat": "srpot4 go farljuvam, na stog sa kačuvam,",
+       "en": "I throw away the scythe, I climb on the stack,"
+      },
+      {
+       "cyr": "срце ми горее, шо арно си пееш.",
+       "lat": "srce mi goree, šo arno si peeš.",
+       "en": "my heart is burning, how well you sing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти кога запеиш, Лисаво на мајка,",
+       "lat": "Ti koga zapeiš, Lisavo na majka,",
+       "en": "When you sing, mother's Lisava,"
+      },
+      {
+       "cyr": "далеко се слуше, прико три планини,",
+       "lat": "daleko se sluše, priko tri planini,",
+       "en": "it is heard far away, beyond three mountains,"
+      },
+      {
+       "cyr": "прико три морини, солунското поле.",
+       "lat": "priko tri morini, solunskoto pole.",
+       "en": "beyond three seas, the Solun field."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

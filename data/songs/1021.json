@@ -1,0 +1,114 @@
+{
+ "id": 1021,
+ "slug": "nedo-le-arna-devojko",
+ "title_cyr": "Недо ле, арна девојко",
+ "title_latin": "Nedo le, arna devojko",
+ "title_en": "Neda, you good girl",
+ "pesna_url": "https://pesna.org/song/1021",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Даниел Тошевски",
+  "Кирил Манчевски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2359"
+  },
+  {
+   "who": "Даниел Тошевски",
+   "url": "https://pesna.org/audio-download/2360"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2361"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Недо ле, арна девојко,",
+       "lat": "Nedo le, arna devojko,",
+       "en": "- Neda, you good girl,"
+      },
+      {
+       "cyr": "што сношти доцна седевте,",
+       "lat": "što snošti docna sedevte,",
+       "en": "why did you stay up so late last night?"
+      },
+      {
+       "cyr": "три пати петли пееја,",
+       "lat": "tri pati petli peeja,",
+       "en": "Three times the cocks were crowing,"
+      },
+      {
+       "cyr": "два пати вино точевте?",
+       "lat": "dva pati vino točevte?",
+       "en": "twice you refilled your glass of wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј море, лудо, та младо,",
+       "lat": "- Ej more, ludo, ta mlado,",
+       "en": "- Oh you crazy young man,"
+      },
+      {
+       "cyr": "дилми ме прашаш, ќе кажам:",
+       "lat": "dilmi me prašaš, ḱe kažam:",
+       "en": "if you ask me, I’ll tell you."
+      },
+      {
+       "cyr": "сношти си дојдов од Стамбол,",
+       "lat": "snošti si dojdov od Stambol,",
+       "en": "Yesterday I came from Stambol (Istanbul)"
+      },
+      {
+       "cyr": "дебела книга донесов.",
+       "lat": "debela kniga donesov.",
+       "en": "and brought with me a thick book."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од стари баби пишано,",
+       "lat": "Od stari babi pišano,",
+       "en": "Written by old women,"
+      },
+      {
+       "cyr": "од млади невести кажано:",
+       "lat": "od mladi nevesti kažano:",
+       "en": "told by young girls,"
+      },
+      {
+       "cyr": "кои што се сакаат два млади,",
+       "lat": "koi što se sakaat dva mladi,",
+       "en": "about how two young people loved each other,"
+      },
+      {
+       "cyr": "грев било да не се земат.",
+       "lat": "grev bilo da ne se zemat.",
+       "en": "it would be a shame, if they wouldn’t take each other in marriage."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

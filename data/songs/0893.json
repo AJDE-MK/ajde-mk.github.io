@@ -1,0 +1,174 @@
+{
+ "id": 893,
+ "slug": "slavej-pee-na-trendafil",
+ "title_cyr": "Славеј пее на трендафил",
+ "title_latin": "Slavej pee na trendafil",
+ "title_en": "The Nightingale Sings on the Rose",
+ "pesna_url": "https://pesna.org/song/893",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding song, origin unclear. 'Дека друга тој си љуби' is read as 'that he is kissing another'.",
+ "words_to_learn": [
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window (Turkish-origin)"
+  },
+  {
+   "mk": "пиле",
+   "en": "little bird (also endearment)"
+  },
+  {
+   "mk": "абер",
+   "en": "news (Turkish-origin)"
+  },
+  {
+   "mk": "јабана",
+   "en": "foreign land (Turkish-origin)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "гушка",
+   "en": "hugs"
+  },
+  {
+   "mk": "векува",
+   "en": "lives all one's life"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Драгица Мавровска",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева, Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/1964"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2927"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Славеј пее на трендафил,",
+       "lat": "Slavej pee na trendafil,",
+       "en": "The nightingale sings on the rose,"
+      },
+      {
+       "cyr": "Донка спие крај пенџере.",
+       "lat": "Donka spie kraj pendžere.",
+       "en": "Donka sleeps by the window."
+      },
+      {
+       "cyr": "- Немој пиле, не пеј рано,",
+       "lat": "- Nemoj pile, ne pej rano,",
+       "en": "- Do not, little bird, do not sing so early,"
+      },
+      {
+       "cyr": "тежок сон сум сонувало.",
+       "lat": "težok son sum sonuvalo.",
+       "en": "I have dreamed a heavy dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ти пеам, јас те будам,",
+       "lat": "- Jas ti peam, jas te budam,",
+       "en": "- I sing to you, I wake you,"
+      },
+      {
+       "cyr": "голем абер јас ти носам,",
+       "lat": "golem aber jas ti nosam,",
+       "en": "I bring you big news,"
+      },
+      {
+       "cyr": "од туѓина, од јабана,",
+       "lat": "od tuǵina, od jabana,",
+       "en": "from abroad, from foreign lands,"
+      },
+      {
+       "cyr": "од твоето верно либе.",
+       "lat": "od tvoeto verno libe.",
+       "en": "from your faithful love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Немој пиле, не ме лажи,",
+       "lat": "- Nemoj pile, ne me laži,",
+       "en": "- Do not, little bird, do not lie to me,"
+      },
+      {
+       "cyr": "мојто либе не се враќа.",
+       "lat": "mojto libe ne se vraḱa.",
+       "en": "my love is not coming back."
+      },
+      {
+       "cyr": "Сонот тежок јас го видов",
+       "lat": "Sonot težok jas go vidov",
+       "en": "I saw the heavy dream"
+      },
+      {
+       "cyr": "дека друга тој си љуби.",
+       "lat": "deka druga toj si ljubi.",
+       "en": "that he is kissing another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не верувај, сонот лаже,",
+       "lat": "- Ne veruvaj, sonot laže,",
+       "en": "- Do not believe it, the dream lies,"
+      },
+      {
+       "cyr": "твојто либе веќе иде,",
+       "lat": "tvojto libe veḱe ide,",
+       "en": "your love is already coming,"
+      },
+      {
+       "cyr": "да те љуби, да те гушка",
+       "lat": "da te ljubi, da te guška",
+       "en": "to kiss you, to hold you,"
+      },
+      {
+       "cyr": "и со тебе век векува.",
+       "lat": "i so tebe vek vekuva.",
+       "en": "and to live with you forever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

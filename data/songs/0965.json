@@ -1,0 +1,165 @@
+{
+ "id": 965,
+ "slug": "sluzhba-sluzhi-mladi-dimitrija",
+ "title_cyr": "Служба служи млади Димитрија",
+ "title_latin": "Služba služi mladi Dimitrija",
+ "title_en": "Young Dimitrija is in service",
+ "pesna_url": "https://pesna.org/song/965",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Служба служи' is my reading as 'is in service / does his duty'; 'име си чека' I read as awaiting his name day. 'Да нè служи' is 'to serve us'.",
+ "words_to_learn": [
+  {
+   "mk": "служба",
+   "en": "service, work (here: duties of host/employment)"
+  },
+  {
+   "mk": "Митровден",
+   "en": "St. Demetrius' Day"
+  },
+  {
+   "mk": "канил",
+   "en": "had invited"
+  },
+  {
+   "mk": "надошле",
+   "en": "arrived, came"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "поднапиле",
+   "en": "had a bit to drink"
+  },
+  {
+   "mk": "шега",
+   "en": "joke, teasing"
+  },
+  {
+   "mk": "подбиват",
+   "en": "tease (dialect 3rd pl.)"
+  },
+  {
+   "mk": "одбере",
+   "en": "chooses"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2237"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Служба служи млади Димитрија,",
+       "lat": "Služba služi mladi Dimitrija,",
+       "en": "Young Dimitrija is in service,"
+      },
+      {
+       "cyr": "служба служи и име си чека,",
+       "lat": "služba služi i ime si čeka,",
+       "en": "he serves and awaits his name day,"
+      },
+      {
+       "cyr": "гости чека на ден на Митровден,",
+       "lat": "gosti čeka na den na Mitrovden,",
+       "en": "he awaits guests on the day of St. Demetrius,"
+      },
+      {
+       "cyr": "гости чека на ден на Митровден.",
+       "lat": "gosti čeka na den na Mitrovden.",
+       "en": "he awaits guests on the day of St. Demetrius."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како канил, така му надошле,",
+       "lat": "Kako kanil, taka mu nadošle,",
+       "en": "As he invited, so they arrived,"
+      },
+      {
+       "cyr": "му дојдоја гости, пријатели,",
+       "lat": "mu dojdoja gosti, prijateli,",
+       "en": "guests came to him, friends,"
+      },
+      {
+       "cyr": "пријатели и мили роднини,",
+       "lat": "prijateli i mili rodnini,",
+       "en": "friends and dear relatives,"
+      },
+      {
+       "cyr": "јадат, пијат и ми се веселат.",
+       "lat": "jadat, pijat i mi se veselat.",
+       "en": "they eat, drink and make merry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми се они поднапиле,",
+       "lat": "Koga mi se oni podnapile,",
+       "en": "When they had drunk a little,"
+      },
+      {
+       "cyr": "си почнале песни да си пејат,",
+       "lat": "si počnale pesni da si pejat,",
+       "en": "they began to sing songs,"
+      },
+      {
+       "cyr": "песни пејат и ора да играт,",
+       "lat": "pesni pejat i ora da igrat,",
+       "en": "they sing songs and dance round dances,"
+      },
+      {
+       "cyr": "песни пејат, шега се подбиват.",
+       "lat": "pesni pejat, šega se podbivat.",
+       "en": "they sing songs, they tease each other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па му велат гости на Димитриј:",
+       "lat": "Pa mu velat gosti na Dimitrij:",
+       "en": "And the guests say to Dimitrij:"
+      },
+      {
+       "cyr": "- Камо ти е твојта мила сестра,",
+       "lat": "- Kamo ti e tvojta mila sestra,",
+       "en": "- Where is your dear sister,"
+      },
+      {
+       "cyr": "да нè служи, момче да одбере,",
+       "lat": "da nè služi, momče da odbere,",
+       "en": "to serve us, to choose a lad,"
+      },
+      {
+       "cyr": "да нè служи, момче да одбере?",
+       "lat": "da nè služi, momče da odbere?",
+       "en": "to serve us, to choose a lad?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

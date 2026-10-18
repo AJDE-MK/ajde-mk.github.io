@@ -1,0 +1,208 @@
+{
+ "id": 764,
+ "slug": "dejgidi-magdaleno-mori",
+ "title_cyr": "Дејгиди Магдалено мори",
+ "title_latin": "Dejgidi Magdaleno mori",
+ "title_en": "Dejgidi, Magdalena, Hey",
+ "pesna_url": "https://pesna.org/song/764",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дејгиди' in the title is an unclear word I left untranslated (my reading: a filler exclamation). 'Сам не се јаде' is rendered literally as 'it does not eat by itself', meaning it is no pleasure alone.",
+ "words_to_learn": [
+  {
+   "mk": "вечерам",
+   "en": "I have dinner"
+  },
+  {
+   "mk": "младо пиле",
+   "en": "young chicken"
+  },
+  {
+   "mk": "печено",
+   "en": "roasted"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red (rosy) wine"
+  },
+  {
+   "mk": "ѓузел",
+   "en": "lovely, pretty (Turkish-derived)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "аман",
+   "en": "oh dear, alas"
+  },
+  {
+   "mk": "шарена",
+   "en": "colourful, patterned"
+  },
+  {
+   "mk": "одаја",
+   "en": "room"
+  },
+  {
+   "mk": "легнав",
+   "en": "I lay down"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Војо Стојановски",
+  "Мирко Митревски",
+  "МФГ Огражденска четворка",
+  "Пепи Христозова"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/1538"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1539"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/1540"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/1541"
+  },
+  {
+   "who": "МФГ Огражденска четворка",
+   "url": "https://pesna.org/audio-download/3394"
+  },
+  {
+   "who": "Пепи Христозова",
+   "url": "https://pesna.org/audio-download/3395"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Седнав да вечерам)",
+       "lat": "(Sednav da večeram)",
+       "en": "(I sat down to have dinner)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седнав да вечерам младо пиле печено,",
+       "lat": "Sednav da večeram mlado pile pečeno,",
+       "en": "I sat down to have dinner, a young roast chicken,"
+      },
+      {
+       "cyr": "седнав да вечерам младо пиле печено,",
+       "lat": "sednav da večeram mlado pile pečeno,",
+       "en": "I sat down to have dinner, a young roast chicken,"
+      },
+      {
+       "cyr": "аман, ѓузел бела Магдалено, моме мори,",
+       "lat": "aman, ǵuzel bela Magdaleno, mome mori,",
+       "en": "aman, lovely white Magdalena, hey girl,"
+      },
+      {
+       "cyr": "сам не се јаде,",
+       "lat": "sam ne se jade,",
+       "en": "it does not eat by itself,"
+      },
+      {
+       "cyr": "аман, ѓузел бела Магдалено, моме мори,",
+       "lat": "aman, ǵuzel bela Magdaleno, mome mori,",
+       "en": "aman, lovely white Magdalena, hey girl,"
+      },
+      {
+       "cyr": "сам не се јаде.",
+       "lat": "sam ne se jade.",
+       "en": "it does not eat by itself."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зедов да пијам рујно вино црвено,",
+       "lat": "Zedov da pijam rujno vino crveno,",
+       "en": "I took up to drink ruby red wine,"
+      },
+      {
+       "cyr": "зедов да пијам рујно вино црвено,",
+       "lat": "zedov da pijam rujno vino crveno,",
+       "en": "I took up to drink ruby red wine,"
+      },
+      {
+       "cyr": "аман, ѓузел бела Магдалено, моме мори,",
+       "lat": "aman, ǵuzel bela Magdaleno, mome mori,",
+       "en": "aman, lovely white Magdalena, hey girl,"
+      },
+      {
+       "cyr": "сам не се пие,",
+       "lat": "sam ne se pie,",
+       "en": "it does not drink by itself,"
+      },
+      {
+       "cyr": "аман, ѓузел бела Магдалено, моме мори,",
+       "lat": "aman, ǵuzel bela Magdaleno, mome mori,",
+       "en": "aman, lovely white Magdalena, hey girl,"
+      },
+      {
+       "cyr": "сам не се пие.",
+       "lat": "sam ne se pie.",
+       "en": "it does not drink by itself."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Легнав да спијам в' шарена одаја,",
+       "lat": "Legnav da spijam v' šarena odaja,",
+       "en": "I lay down to sleep in a colourful room,"
+      },
+      {
+       "cyr": "легнав да спијам в' шарена одаја,",
+       "lat": "legnav da spijam v' šarena odaja,",
+       "en": "I lay down to sleep in a colourful room,"
+      },
+      {
+       "cyr": "аман, ѓузел бела Магдалено, моме мори,",
+       "lat": "aman, ǵuzel bela Magdaleno, mome mori,",
+       "en": "aman, lovely white Magdalena, hey girl,"
+      },
+      {
+       "cyr": "сам не се спие,",
+       "lat": "sam ne se spie,",
+       "en": "it does not sleep by itself,"
+      },
+      {
+       "cyr": "аман, ѓузел бела Магдалено, моме мори,",
+       "lat": "aman, ǵuzel bela Magdaleno, mome mori,",
+       "en": "aman, lovely white Magdalena, hey girl,"
+      },
+      {
+       "cyr": "сам не се спие.",
+       "lat": "sam ne se spie.",
+       "en": "it does not sleep by itself."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

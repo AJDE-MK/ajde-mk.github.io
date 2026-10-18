@@ -1,0 +1,108 @@
+{
+ "id": 324,
+ "slug": "podigni-si-milo-libe-belo-krpe",
+ "title_cyr": "Подигни си мило либе бело крпе",
+ "title_latin": "Podigni si milo libe belo krpe",
+ "title_en": "Lift your white kerchief, dear love",
+ "pesna_url": "https://pesna.org/song/324",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Last line is my reading: 'for Janeta' probably means promised to a man named Janeta/Jane (a male name) in the neighboring family.",
+ "words_to_learn": [
+  {
+   "mk": "подигни",
+   "en": "lift up"
+  },
+  {
+   "mk": "крпа",
+   "en": "kerchief, cloth"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  },
+  {
+   "mk": "фајде",
+   "en": "use, benefit"
+  },
+  {
+   "mk": "продадено",
+   "en": "sold"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbors"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "dear young man (lit. foolish young)"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/3385"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Подигни си мило либе бело крпе",
+       "lat": "- Podigni si milo libe belo krpe",
+       "en": "- Lift your white kerchief, dear love"
+      },
+      {
+       "cyr": "да ти видам мило либе бело лице.",
+       "lat": "da ti vidam milo libe belo lice.",
+       "en": "so I can see your white face, dear love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да видиш, лудо младо, фајде нема",
+       "lat": "- I da vidiš, ludo mlado, fajde nema",
+       "en": "- And even if you see it, foolish young man, it is no use,"
+      },
+      {
+       "cyr": "бело лице, лудо младо, продадено.",
+       "lat": "belo lice, ludo mlado, prodadeno.",
+       "en": "my white face, foolish young man, is sold."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Продадено, лудо младо, во комшии",
+       "lat": "Prodadeno, ludo mlado, vo komšii",
+       "en": "Sold, foolish young man, to the neighbors"
+      },
+      {
+       "cyr": "во комшии, лудо младо, за Јанета.",
+       "lat": "vo komšii, ludo mlado, za Janeta.",
+       "en": "to the neighbors, foolish young man, for Janeta."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

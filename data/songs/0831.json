@@ -1,0 +1,93 @@
+{
+ "id": 831,
+ "slug": "me-sakaa-dvajca-trojca",
+ "title_cyr": "Ме сакаа двајца тројца",
+ "title_latin": "Me sakaa dvajca trojca",
+ "title_en": "Two or three citizens loved me",
+ "pesna_url": "https://pesna.org/song/831",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Драгица Николова"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1768"
+  },
+  {
+   "who": "Драгица Николова",
+   "url": "https://pesna.org/audio-download/1769"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ме сакаја двајца-тројца граѓани,",
+       "lat": "Me sakaja dvajca-trojca graǵani,",
+       "en": "Two or three citizens loved me,"
+      },
+      {
+       "cyr": "мене мама за граѓани не дава.",
+       "lat": "mene mama za graǵani ne dava.",
+       "en": "but my mother didn't give me to citizens."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме сакаја двајца-тројца селани,",
+       "lat": "Me sakaja dvajca-trojca selani,",
+       "en": "Two or three villagers loved me,"
+      },
+      {
+       "cyr": "мене мама за селанин ме даде.",
+       "lat": "mene mama za selanin me dade.",
+       "en": "my mother gаve me to а villager."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во недела свадба ми направија,",
+       "lat": "Vo nedela svadba mi napravija,",
+       "en": "On Sunday, they organized my wedding,"
+      },
+      {
+       "cyr": "понеделник, зедов српот на рамо.",
+       "lat": "ponedelnik, zedov srpot na ramo.",
+       "en": "on Monday, I put my sickle on my shoulder."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' понеделник зедов српот на рамо,",
+       "lat": "V' ponedelnik zedov srpot na ramo,",
+       "en": "On Monday, I put my sickle on my shoulder,"
+      },
+      {
+       "cyr": "ме пратија право в' поле на жетва.",
+       "lat": "me pratija pravo v' pole na žetva.",
+       "en": "they sent me right away to harvest the field."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,133 @@
+{
+ "id": 920,
+ "slug": "od-ljubov-ne-se-bega",
+ "title_cyr": "Од љубов не се бега",
+ "title_latin": "Od ljubov ne se bega",
+ "title_en": "You Cannot Run from Love",
+ "pesna_url": "https://pesna.org/song/920",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'билно бие' is my reading ('the pulse beats'); 'би летнал' is a masculine conditional ('I would fly').",
+ "words_to_learn": [
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  },
+  {
+   "mk": "лејам",
+   "en": "I pour"
+  },
+  {
+   "mk": "кријам",
+   "en": "I hide"
+  },
+  {
+   "mk": "стегам",
+   "en": "I clench"
+  },
+  {
+   "mk": "бега",
+   "en": "run away, flee"
+  },
+  {
+   "mk": "тешко ми е",
+   "en": "it is hard for me"
+  },
+  {
+   "mk": "шега",
+   "en": "joke"
+  }
+ ],
+ "performers": [
+  "Зафир Хаџиманов"
+ ],
+ "audio": [
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/2058"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ седам, саноќ пијам,",
+       "lat": "Sanoḱ sedam, sanoḱ pijam,",
+       "en": "All night I sit, all night I drink,"
+      },
+      {
+       "cyr": "вино лејам, солзи кријам,",
+       "lat": "vino lejam, solzi krijam,",
+       "en": "I pour wine, I hide tears,"
+      },
+      {
+       "cyr": "солзи кријам, срце стегам,",
+       "lat": "solzi krijam, srce stegam,",
+       "en": "I hide tears, I clench my heart,"
+      },
+      {
+       "cyr": "но од љубов не се бега.",
+       "lat": "no od ljubov ne se bega.",
+       "en": "but you cannot run from love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да сум пиле, јас би летнал,",
+       "lat": "Da sum pile, jas bi letnal,",
+       "en": "If I were a bird, I would fly,"
+      },
+      {
+       "cyr": "да сум ветре, би те сретнал,",
+       "lat": "da sum vetre, bi te sretnal,",
+       "en": "if I were the wind, I would meet you,"
+      },
+      {
+       "cyr": "но далеку ти си сега,",
+       "lat": "no daleku ti si sega,",
+       "en": "but you are far away now,"
+      },
+      {
+       "cyr": "а од љубов не се бега.",
+       "lat": "a od ljubov ne se bega.",
+       "en": "and you cannot run from love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум човек, тешко ми е,",
+       "lat": "Jas sum čovek, teško mi e,",
+       "en": "I am a man, it is hard for me,"
+      },
+      {
+       "cyr": "болна болка, билно бие,",
+       "lat": "bolna bolka, bilno bie,",
+       "en": "aching pain, the pulse beats,"
+      },
+      {
+       "cyr": "барам песна, барам шега,",
+       "lat": "baram pesna, baram šega,",
+       "en": "I seek a song, I seek a joke,"
+      },
+      {
+       "cyr": "но од љубов не се бега.",
+       "lat": "no od ljubov ne se bega.",
+       "en": "but you cannot run from love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

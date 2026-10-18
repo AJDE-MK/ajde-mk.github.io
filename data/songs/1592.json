@@ -1,0 +1,165 @@
+{
+ "id": 1592,
+ "slug": "dule-majstore",
+ "title_cyr": "Дуле мајсторе",
+ "title_latin": "Dule majstore",
+ "title_en": "Dule the master craftsman",
+ "pesna_url": "https://pesna.org/song/1592",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it reads like a modern town song, but I cannot name an author. 'на увце' is my reading: played right into the ear.",
+ "words_to_learn": [
+  {
+   "mk": "мајстор",
+   "en": "master craftsman"
+  },
+  {
+   "mk": "кафеана",
+   "en": "tavern, cafe"
+  },
+  {
+   "mk": "свирачи",
+   "en": "musicians"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "tip"
+  },
+  {
+   "mk": "мангуп",
+   "en": "rogue, scamp"
+  },
+  {
+   "mk": "тивко",
+   "en": "quietly, softly"
+  },
+  {
+   "mk": "будалче",
+   "en": "little fool"
+  },
+  {
+   "mk": "гајле не ти е",
+   "en": "you don't care"
+  },
+  {
+   "mk": "утеши",
+   "en": "console, comfort"
+  }
+ ],
+ "performers": [
+  "Маријана Мишева"
+ ],
+ "audio": [
+  {
+   "who": "Маријана Мишева",
+   "url": "https://pesna.org/audio-download/4156"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цел' ноќ во кафеани седиш, Дуле мајсторе,",
+       "lat": "Cel' noḱ vo kafeani sediš, Dule majstore,",
+       "en": "All night you sit in taverns, Dule the master craftsman,"
+      },
+      {
+       "cyr": "на свирачи бакшиш делиш, море мангупе.",
+       "lat": "na svirači bakšiš deliš, more mangupe.",
+       "en": "you hand out tips to the musicians, hey you rogue."
+      },
+      {
+       "cyr": "Многу сакаш да ти свират тивко, на увце",
+       "lat": "Mnogu sakaš da ti svirat tivko, na uvce",
+       "en": "You like them to play softly for you, in your ear,"
+      },
+      {
+       "cyr": "и на маса да ти пеат, море ѓаволе.",
+       "lat": "i na masa da ti peat, more ǵavole.",
+       "en": "and to sing at your table, hey you devil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дуле, Дуле, Дуле бре, вредно мајсторче,",
+       "lat": "Dule, Dule, Dule bre, vredno majstorče,",
+       "en": "Dule, Dule, Dule hey, hard-working young master,"
+      },
+      {
+       "cyr": "чувај си ја жената, море будалче.",
+       "lat": "čuvaj si ja ženata, more budalče.",
+       "en": "watch over your wife, hey you silly fool."
+      },
+      {
+       "cyr": "Ако Дуле побргу не си дојдеш ти,",
+       "lat": "Ako Dule pobrgu ne si dojdeš ti,",
+       "en": "If you don't come home sooner, Dule,"
+      },
+      {
+       "cyr": "тука е комшијата да ја утеши.",
+       "lat": "tuka e komšijata da ja uteši.",
+       "en": "the neighbor is right here to console her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жена ти те чека Дуле, да си дојдеш ти,",
+       "lat": "Žena ti te čeka Dule, da si dojdeš ti,",
+       "en": "Your wife is waiting for you, Dule, for you to come,"
+      },
+      {
+       "cyr": "а ти скиташ цели ноќи по кафеани.",
+       "lat": "a ti skitaš celi noḱi po kafeani.",
+       "en": "and you wander whole nights through the taverns."
+      },
+      {
+       "cyr": "Ни за жена, ни за куќа гајле не ти е,",
+       "lat": "Ni za žena, ni za kuḱa gajle ne ti e,",
+       "en": "You care neither for wife nor for house,"
+      },
+      {
+       "cyr": "само да се свирачите вечно со тебе.",
+       "lat": "samo da se sviračite večno so tebe.",
+       "en": "as long as the musicians are with you forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дуле, Дуле, Дуле бре, вредно мајсторче,",
+       "lat": "Dule, Dule, Dule bre, vredno majstorče,",
+       "en": "Dule, Dule, Dule hey, hard-working young master,"
+      },
+      {
+       "cyr": "чувај си ја жената, море будалче.",
+       "lat": "čuvaj si ja ženata, more budalče.",
+       "en": "watch over your wife, hey you silly fool."
+      },
+      {
+       "cyr": "Ако Дуле побргу не си дојдеш ти,",
+       "lat": "Ako Dule pobrgu ne si dojdeš ti,",
+       "en": "If you don't come home sooner, Dule,"
+      },
+      {
+       "cyr": "тука е комшијата да ја утеши.",
+       "lat": "tuka e komšijata da ja uteši.",
+       "en": "the neighbor is right here to console her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

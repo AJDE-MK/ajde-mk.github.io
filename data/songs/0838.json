@@ -1,0 +1,129 @@
+{
+ "id": 838,
+ "slug": "esen-dojde-vojnici-odat",
+ "title_cyr": "Есен дојде, војници одат",
+ "title_latin": "Esen dojde, vojnici odat",
+ "title_en": "Autumn came, soldiers are going",
+ "pesna_url": "https://pesna.org/song/838",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/1789"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Есен дојде во нашиот град,",
+       "lat": "Esen dojde vo našiot grad,",
+       "en": "Autumn came to our city,"
+      },
+      {
+       "cyr": "во армија војници одат.",
+       "lat": "vo armija vojnici odat.",
+       "en": "to the army the soldiers left."
+      },
+      {
+       "cyr": "Моето либе со нив појде",
+       "lat": "Moeto libe so niv pojde",
+       "en": "My love went with them,"
+      },
+      {
+       "cyr": "на далеку во непознат град.",
+       "lat": "na daleku vo nepoznat grad.",
+       "en": "far away, into an unknown city."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас останав сама да седам,",
+       "lat": "Jas ostanav sama da sedam,",
+       "en": "I stayed alone to sit"
+      },
+      {
+       "cyr": "да го чекам до година.",
+       "lat": "da go čekam do godina.",
+       "en": "and wait for him until next year."
+      },
+      {
+       "cyr": "Солза по солза, поток потече,",
+       "lat": "Solza po solza, potok poteče,",
+       "en": "Tear by tear, a stream started to flow,"
+      },
+      {
+       "cyr": "издив по издив, ветер завеа.",
+       "lat": "izdiv po izdiv, veter zavea.",
+       "en": "breath by breath, wind started to blow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Есен дојде во нашиот град,",
+       "lat": "Esen dojde vo našiot grad,",
+       "en": "Autumn came to our city,"
+      },
+      {
+       "cyr": "од армија војници идат.",
+       "lat": "od armija vojnici idat.",
+       "en": "from the army soldiers were coming."
+      },
+      {
+       "cyr": "Моето либе со нив дојде,",
+       "lat": "Moeto libe so niv dojde,",
+       "en": "My love came with them,"
+      },
+      {
+       "cyr": "од далеку, од непознат град.",
+       "lat": "od daleku, od nepoznat grad.",
+       "en": "from far away, from an unknown city."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас отидов да го пречекам,",
+       "lat": "Jas otidov da go prečekam,",
+       "en": "I went to welcome him,"
+      },
+      {
+       "cyr": "го пречекав, го прегрнав.",
+       "lat": "go prečekav, go pregrnav.",
+       "en": "I welcomed him, I embraced him."
+      },
+      {
+       "cyr": "Насмев по насмев, сонце огреа,",
+       "lat": "Nasmev po nasmev, sonce ogrea,",
+       "en": "Smile by smile, the Sun started to shine,"
+      },
+      {
+       "cyr": "бакнеж по бакнеж, песна се слеа.",
+       "lat": "baknež po baknež, pesna se slea.",
+       "en": "kiss by kiss, a song started to flow."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,137 @@
+{
+ "id": 1029,
+ "slug": "igrale-igrale-devojchinja",
+ "title_cyr": "Играле, играле девојчиња",
+ "title_latin": "Igrale, igrale devojčinja",
+ "title_en": "The Girls Were Dancing",
+ "pesna_url": "https://pesna.org/song/1029",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'кај лудо' I read as 'with the sweetheart (foolish one)'.",
+ "words_to_learn": [
+  {
+   "mk": "играле",
+   "en": "they danced"
+  },
+  {
+   "mk": "темница",
+   "en": "dusk, darkness"
+  },
+  {
+   "mk": "дома",
+   "en": "home"
+  },
+  {
+   "mk": "собрало",
+   "en": "gathered"
+  },
+  {
+   "mk": "бараат",
+   "en": "look for"
+  },
+  {
+   "mk": "нашле",
+   "en": "found"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I do not want"
+  },
+  {
+   "mk": "луѓе",
+   "en": "people, folks"
+  }
+ ],
+ "performers": [
+  "Ангелко Спироски"
+ ],
+ "audio": [
+  {
+   "who": "Ангелко Спироски",
+   "url": "https://pesna.org/audio-download/2369"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Играле, играле девојчиња,",
+       "lat": "Igrale, igrale devojčinja,",
+       "en": "They danced, the girls danced,"
+      },
+      {
+       "cyr": "играле, играле, до темници,",
+       "lat": "igrale, igrale, do temnici,",
+       "en": "they danced, they danced until dusk,"
+      },
+      {
+       "cyr": "сите си, сите си дома пошле,",
+       "lat": "site si, site si doma pošle,",
+       "en": "all of them, all of them went home,"
+      },
+      {
+       "cyr": "само си едно не пошло.",
+       "lat": "samo si edno ne pošlo.",
+       "en": "only one did not go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цело се село собрало",
+       "lat": "Celo se selo sobralo",
+       "en": "The whole village gathered"
+      },
+      {
+       "cyr": "момето да ми го бараат,",
+       "lat": "mometo da mi go baraat,",
+       "en": "to look for the girl,"
+      },
+      {
+       "cyr": "нашле го, нашле го во една куќа,",
+       "lat": "našle go, našle go vo edna kuḱa,",
+       "en": "they found her, they found her in a house,"
+      },
+      {
+       "cyr": "во една куќа, кај лудо.",
+       "lat": "vo edna kuḱa, kaj ludo.",
+       "en": "in a house, with her sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде бре, ајде бре моме,",
+       "lat": "- Ajde bre, ajde bre mome,",
+       "en": "- Come on, hey, come on girl,"
+      },
+      {
+       "cyr": "ајде бре моме ти дома!",
+       "lat": "ajde bre mome ti doma!",
+       "en": "come on, girl, you go home!"
+      },
+      {
+       "cyr": "- Нејќам бре луѓе, не идам,",
+       "lat": "- Nejḱam bre luǵe, ne idam,",
+       "en": "- I do not want to, folks, I am not going,"
+      },
+      {
+       "cyr": "овде си имам јас либе.",
+       "lat": "ovde si imam jas libe.",
+       "en": "here I have my sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

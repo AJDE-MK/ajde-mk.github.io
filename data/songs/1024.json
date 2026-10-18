@@ -1,0 +1,114 @@
+{
+ "id": 1024,
+ "slug": "virum-voda-virum-virovita",
+ "title_cyr": "Вирум вода, вирум вировита",
+ "title_latin": "Virum voda, virum virovita",
+ "title_en": "The water whirls, a whirlpool",
+ "pesna_url": "https://pesna.org/song/1024",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Вирум вода, вирум вировита' is my reading (verb form unclear); the image of the whirlpool stands for the crowd gathering at the groom's yard. Struga Malesija wedding custom song, dialect forms (-ит, -ват).",
+ "words_to_learn": [
+  {
+   "mk": "вода",
+   "en": "water"
+  },
+  {
+   "mk": "вир",
+   "en": "whirlpool"
+  },
+  {
+   "mk": "се берит",
+   "en": "gathers (dialect)"
+  },
+  {
+   "mk": "истекуват",
+   "en": "flows out (dialect)"
+  },
+  {
+   "mk": "јунак",
+   "en": "young hero, young man"
+  },
+  {
+   "mk": "дворје",
+   "en": "courtyard"
+  },
+  {
+   "mk": "китени",
+   "en": "decked out, adorned"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "лепа",
+   "en": "fair, beautiful"
+  },
+  {
+   "mk": "мошне",
+   "en": "very"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Вирум вода, вирум вировита,",
+       "lat": "Virum voda, virum virovita,",
+       "en": "The water whirls, a whirling pool,"
+      },
+      {
+       "cyr": "вир се берит, не ми истекуват.",
+       "lat": "vir se berit, ne mi istekuvat.",
+       "en": "the whirlpool gathers, it does not flow away from me."
+      },
+      {
+       "cyr": "Не ми била вода вировита,",
+       "lat": "Ne mi bila voda virovita,",
+       "en": "It was not whirling water for me,"
+      },
+      {
+       "cyr": "туку ми биле јунакови дворје.",
+       "lat": "tuku mi bile junakovi dvorje.",
+       "en": "but the courtyard of the young hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми се берат китени сватови,",
+       "lat": "Mi se berat kiteni svatovi,",
+       "en": "The decked-out wedding guests gather,"
+      },
+      {
+       "cyr": "ќе ми одат по лепа невеста,",
+       "lat": "ḱe mi odat po lepa nevesta,",
+       "en": "they will go to fetch a fair bride,"
+      },
+      {
+       "cyr": "од далеку, мошне на далеку,",
+       "lat": "od daleku, mošne na daleku,",
+       "en": "from far away, very far away,"
+      },
+      {
+       "cyr": "од богато, мошне на богато.",
+       "lat": "od bogato, mošne na bogato.",
+       "en": "from a rich house, very rich."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

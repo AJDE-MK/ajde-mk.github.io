@@ -1,0 +1,409 @@
+{
+ "id": 982,
+ "slug": "lichna-mara-meandzhika",
+ "title_cyr": "Лична Мара меанџика",
+ "title_latin": "Lična Mara meandžika",
+ "title_en": "Fair Mara the tavern-keeper",
+ "pesna_url": "https://pesna.org/song/982",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad. The husband is called 'момче' in the early verses and Stojan later; 'Го заклаја два џелата' is read in the child's voice (my reading), with the lines about the head being a supernatural voice.",
+ "words_to_learn": [
+  {
+   "mk": "меанџика",
+   "en": "tavern-keeper (woman)"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy, son"
+  },
+  {
+   "mk": "печалба",
+   "en": "work abroad for wages"
+  },
+  {
+   "mk": "душманка",
+   "en": "enemy, ill-wisher (female)"
+  },
+  {
+   "mk": "џелат",
+   "en": "executioner"
+  },
+  {
+   "mk": "лута змија",
+   "en": "fierce, venomous snake"
+  },
+  {
+   "mk": "ручај",
+   "en": "eat (a meal), have lunch"
+  },
+  {
+   "mk": "вујко",
+   "en": "maternal uncle"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "заклан",
+   "en": "slaughtered"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2290"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лична Мара меанџика,",
+       "lat": "Lična Mara meandžika,",
+       "en": "Fair Mara the tavern-keeper,"
+      },
+      {
+       "cyr": "си имала машко дете.",
+       "lat": "si imala maško dete.",
+       "en": "she had a baby son."
+      },
+      {
+       "cyr": "Си имала машко дете,",
+       "lat": "Si imala maško dete,",
+       "en": "She had a baby son,"
+      },
+      {
+       "cyr": "машко дете, Костадинче.",
+       "lat": "maško dete, Kostadinče.",
+       "en": "a baby son, Kostadinche."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нејно момче на туѓина,",
+       "lat": "Nejno momče na tuǵina,",
+       "en": "Her lad was in a foreign land,"
+      },
+      {
+       "cyr": "на туѓина, на печалба.",
+       "lat": "na tuǵina, na pečalba.",
+       "en": "in a foreign land, working for wages."
+      },
+      {
+       "cyr": "Па ѝ велат комшиките,",
+       "lat": "Pa ì velat komšikite,",
+       "en": "And the neighbor women tell her,"
+      },
+      {
+       "cyr": "комшијките, душманките:",
+       "lat": "komšijkite, dušmankite:",
+       "en": "the neighbor women, the ill-wishers:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори Маро, лична Маро,",
+       "lat": "- Mori Maro, lična Maro,",
+       "en": "- Hey Mara, fair Mara,"
+      },
+      {
+       "cyr": "не си чекај твојто момче.",
+       "lat": "ne si čekaj tvojto momče.",
+       "en": "don't wait for your lad."
+      },
+      {
+       "cyr": "Твојто момче друга љуби,",
+       "lat": "Tvojto momče druga ljubi,",
+       "en": "Your lad loves another,"
+      },
+      {
+       "cyr": "друга има во туѓина.",
+       "lat": "druga ima vo tuǵina.",
+       "en": "he has another in the foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се налути лична Мара,",
+       "lat": "Se naluti lična Mara,",
+       "en": "Fair Mara grew angry,"
+      },
+      {
+       "cyr": "си заљуби два џелата.",
+       "lat": "si zaljubi dva dželata.",
+       "en": "she took up with two executioners."
+      },
+      {
+       "cyr": "Си заљуби два џелата,",
+       "lat": "Si zaljubi dva dželata,",
+       "en": "She took up with two executioners,"
+      },
+      {
+       "cyr": "ѝ заклаја машко дете.",
+       "lat": "ì zaklaja maško dete.",
+       "en": "they slaughtered her baby son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мариното лично момче",
+       "lat": "Marinoto lično momče",
+       "en": "Mara's handsome lad"
+      },
+      {
+       "cyr": "лош сон сони во туѓина.",
+       "lat": "loš son soni vo tuǵina.",
+       "en": "had a bad dream in the foreign land."
+      },
+      {
+       "cyr": "Го укаса лута змија,",
+       "lat": "Go ukasa luta zmija,",
+       "en": "A fierce snake bit him,"
+      },
+      {
+       "cyr": "меѓу двете црни очи.",
+       "lat": "meǵu dvete crni oči.",
+       "en": "between his two black eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па им вели на другари:",
+       "lat": "Pa im veli na drugari:",
+       "en": "And he says to his comrades:"
+      },
+      {
+       "cyr": "- Еј другари, мили браќа,",
+       "lat": "- Ej drugari, mili braḱa,",
+       "en": "- Hey comrades, dear brothers,"
+      },
+      {
+       "cyr": "лош сон видов пред зората,",
+       "lat": "loš son vidov pred zorata,",
+       "en": "I saw a bad dream before dawn,"
+      },
+      {
+       "cyr": "ме укаса лута змија.",
+       "lat": "me ukasa luta zmija.",
+       "en": "a fierce snake bit me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме укаса лута змија,",
+       "lat": "Me ukasa luta zmija,",
+       "en": "A fierce snake bit me,"
+      },
+      {
+       "cyr": "меѓу двете црни очи.",
+       "lat": "meǵu dvete crni oči.",
+       "en": "between my two black eyes."
+      },
+      {
+       "cyr": "Дали Мара ми умрела,",
+       "lat": "Dali Mara mi umrela,",
+       "en": "Has my Mara died,"
+      },
+      {
+       "cyr": "или мое машко дете?",
+       "lat": "ili moe maško dete?",
+       "en": "or my baby son?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си вјавна брза коња",
+       "lat": "Pa si vjavna brza konja",
+       "en": "And he mounted his swift horse"
+      },
+      {
+       "cyr": "и си дојде право дома.",
+       "lat": "i si dojde pravo doma.",
+       "en": "and came straight home."
+      },
+      {
+       "cyr": "Си ја нашол лична Мара,",
+       "lat": "Si ja našol lična Mara,",
+       "en": "He found fair Mara,"
+      },
+      {
+       "cyr": "па ѝ вели, ѝ говори:",
+       "lat": "pa ì veli, ì govori:",
+       "en": "and says to her, speaks to her:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори Маро, лична Маро,",
+       "lat": "- Mori Maro, lična Maro,",
+       "en": "- Hey Mara, fair Mara,"
+      },
+      {
+       "cyr": "каде ми е машко дете?",
+       "lat": "kade mi e maško dete?",
+       "en": "where is my baby son?"
+      },
+      {
+       "cyr": "Каде ми е машко дете,",
+       "lat": "Kade mi e maško dete,",
+       "en": "Where is my baby son,"
+      },
+      {
+       "cyr": "машко дете, Костадинче?",
+       "lat": "maško dete, Kostadinče?",
+       "en": "baby son, Kostadinche?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Стојана, Мара вели:",
+       "lat": "Na Stojana, Mara veli:",
+       "en": "To Stojan, Mara says:"
+      },
+      {
+       "cyr": "- Ручај Стојан, не се мисли.",
+       "lat": "- Ručaj Stojan, ne se misli.",
+       "en": "- Eat, Stojan, don't worry."
+      },
+      {
+       "cyr": "Наше дете на школи е,",
+       "lat": "Naše dete na školi e,",
+       "en": "Our child is at school,"
+      },
+      {
+       "cyr": "на школи е, на играње.",
+       "lat": "na školi e, na igranje.",
+       "en": "at school, at play."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу пати се враќаше,",
+       "lat": "Mnogu pati se vraḱaše,",
+       "en": "Many times he used to go back,"
+      },
+      {
+       "cyr": "кај браќа ми, кај вујковци.",
+       "lat": "kaj braḱa mi, kaj vujkovci.",
+       "en": "to my brothers, to his uncles."
+      },
+      {
+       "cyr": "Може тамо е отишло,",
+       "lat": "Može tamo e otišlo,",
+       "en": "Maybe he has gone there,"
+      },
+      {
+       "cyr": "да поигра со вујковци.",
+       "lat": "da poigra so vujkovci.",
+       "en": "to play with his uncles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај нешто му прозборе,",
+       "lat": "Togaj nešto mu prozbore,",
+       "en": "Then something spoke to him,"
+      },
+      {
+       "cyr": "во мислите стојанови:",
+       "lat": "vo mislite stojanovi:",
+       "en": "in Stojan's thoughts:"
+      },
+      {
+       "cyr": "- Ручај тате, не си мисли,",
+       "lat": "- Ručaj tate, ne si misli,",
+       "en": "- Eat, father, don't worry,"
+      },
+      {
+       "cyr": "твојто дете е заклано.",
+       "lat": "tvojto dete e zaklano.",
+       "en": "your child has been slaughtered."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го заклаја два џелата,",
+       "lat": "Go zaklaja dva dželata,",
+       "en": "Two executioners slaughtered me,"
+      },
+      {
+       "cyr": "мојта глава, закопана.",
+       "lat": "mojta glava, zakopana.",
+       "en": "my head is buried."
+      },
+      {
+       "cyr": "Мојта глава под пенџере,",
+       "lat": "Mojta glava pod pendžere,",
+       "en": "My head is under the window,"
+      },
+      {
+       "cyr": "под пенџере, на куќата.",
+       "lat": "pod pendžere, na kuḱata.",
+       "en": "under the window, of the house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Копај тате под пенџере,",
+       "lat": "Kopaj tate pod pendžere,",
+       "en": "Dig, father, under the window,"
+      },
+      {
+       "cyr": "ќе го најдеш твојто дете.",
+       "lat": "ḱe go najdeš tvojto dete.",
+       "en": "you will find your child."
+      },
+      {
+       "cyr": "Ќе го најдеш твојто дете,",
+       "lat": "Ḱe go najdeš tvojto dete,",
+       "en": "You will find your child,"
+      },
+      {
+       "cyr": "твојто дете, Костадинче.",
+       "lat": "tvojto dete, Kostadinče.",
+       "en": "your child, Kostadinche."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

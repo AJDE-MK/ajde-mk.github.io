@@ -1,0 +1,157 @@
+{
+ "id": 1148,
+ "slug": "kako-pirej",
+ "title_cyr": "Како пиреј",
+ "title_latin": "Kako pirej",
+ "title_en": "Like couch grass",
+ "pesna_url": "https://pesna.org/song/1148",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern patriotic song; origin unclear, I cannot name the author. 'во пусти мугри бели' is my reading ('in the empty white dawns').",
+ "words_to_learn": [
+  {
+   "mk": "пиреј",
+   "en": "couch grass (hard to uproot weed)"
+  },
+  {
+   "mk": "векови",
+   "en": "centuries"
+  },
+  {
+   "mk": "раздели",
+   "en": "divide, separate"
+  },
+  {
+   "mk": "корни",
+   "en": "uproot"
+  },
+  {
+   "mk": "истреби",
+   "en": "wipe out, eradicate"
+  },
+  {
+   "mk": "мугри",
+   "en": "dawns, twilight"
+  },
+  {
+   "mk": "маки",
+   "en": "hardships"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/2783"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Со векови сме чекале, и нас сонце да нè грее,",
+       "lat": "So vekovi sme čekale, i nas sonce da nè gree,",
+       "en": "For centuries we have waited for the sun to warm us too,"
+      },
+      {
+       "cyr": "името мило наше, цел свет да го пее.",
+       "lat": "imeto milo naše, cel svet da go pee.",
+       "en": "our dear name, for the whole world to sing it."
+      },
+      {
+       "cyr": "А што ни се не сторија, брат од брата да се дели,",
+       "lat": "A što ni se ne storija, brat od brata da se deli,",
+       "en": "And what was not done to us, for brother to be split from brother,"
+      },
+      {
+       "cyr": "доцна легни рано стани, во пусти мугри бели.",
+       "lat": "docna legni rano stani, vo pusti mugri beli.",
+       "en": "lie down late, rise early, in the empty white dawns."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Браќа, сестри, Македонци,",
+       "lat": "Braḱa, sestri, Makedonci,",
+       "en": "Brothers, sisters, Macedonians,"
+      },
+      {
+       "cyr": "нема таква сила која може да нè раздели!",
+       "lat": "nema takva sila koja može da nè razdeli!",
+       "en": "there is no force that can divide us!"
+      },
+      {
+       "cyr": "Браќа, сестри, Македонци,",
+       "lat": "Braḱa, sestri, Makedonci,",
+       "en": "Brothers, sisters, Macedonians,"
+      },
+      {
+       "cyr": "како пиреј сечи, корни, нема да ја истреби.",
+       "lat": "kako pirej seči, korni, nema da ja istrebi.",
+       "en": "like couch grass, cut it, uproot it, it will not be wiped out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само некој гледа од горе,",
+       "lat": "Samo nekoj gleda od gore,",
+       "en": "Only someone looks from above,"
+      },
+      {
+       "cyr": "сите маки тој ги знае.",
+       "lat": "site maki toj gi znae.",
+       "en": "he knows all the hardships."
+      },
+      {
+       "cyr": "Оваа земја раѓа, пее,",
+       "lat": "Ovaa zemja raǵa, pee,",
+       "en": "This land gives birth, sings,"
+      },
+      {
+       "cyr": "о боже, вечна да е!",
+       "lat": "o bože, večna da e!",
+       "en": "oh God, may it be eternal!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Браќа, сестри, Македонци,",
+       "lat": "Braḱa, sestri, Makedonci,",
+       "en": "Brothers, sisters, Macedonians,"
+      },
+      {
+       "cyr": "нема таква сила која може да нè раздели!",
+       "lat": "nema takva sila koja može da nè razdeli!",
+       "en": "there is no force that can divide us!"
+      },
+      {
+       "cyr": "Браќа, сестри, Македонци,",
+       "lat": "Braḱa, sestri, Makedonci,",
+       "en": "Brothers, sisters, Macedonians,"
+      },
+      {
+       "cyr": "како пиреј сечи, корни, нема да ја истреби.",
+       "lat": "kako pirej seči, korni, nema da ja istrebi.",
+       "en": "like couch grass, cut it, uproot it, it will not be wiped out."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,174 @@
+{
+ "id": 951,
+ "slug": "molitva",
+ "title_cyr": "Молитва",
+ "title_latin": "Molitva",
+ "title_en": "Prayer",
+ "pesna_url": "https://pesna.org/song/951",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Hymn-like prayer; origin unclear, no author I can name. 'му' in 'му запеам' is unclear (him/it); 'нека е што не сме ние' is my reading: 'may it be what we are not'.",
+ "words_to_learn": [
+  {
+   "mk": "боже",
+   "en": "God (vocative)"
+  },
+  {
+   "mk": "сила",
+   "en": "strength"
+  },
+  {
+   "mk": "небесна",
+   "en": "heavenly"
+  },
+  {
+   "mk": "ѕвезда",
+   "en": "star"
+  },
+  {
+   "mk": "химна",
+   "en": "hymn, anthem"
+  },
+  {
+   "mk": "родот",
+   "en": "the people, the kin"
+  },
+  {
+   "mk": "мудрост",
+   "en": "wisdom"
+  },
+  {
+   "mk": "семе",
+   "en": "seed"
+  },
+  {
+   "mk": "жито",
+   "en": "wheat, grain"
+  },
+  {
+   "mk": "светено",
+   "en": "blessed, sanctified"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Bratia"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2190"
+  },
+  {
+   "who": "Bratia",
+   "url": "https://pesna.org/audio-download/3854"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми, боже, сила небесна,",
+       "lat": "Daj mi, bože, sila nebesna,",
+       "en": "Give me, God, heavenly strength,"
+      },
+      {
+       "cyr": "да се кренам, да се извишам,",
+       "lat": "da se krenam, da se izvišam,",
+       "en": "to rise, to lift myself up,"
+      },
+      {
+       "cyr": "како ѕвезда јас да огреам,",
+       "lat": "kako dzvezda jas da ogream,",
+       "en": "to shine like a star,"
+      },
+      {
+       "cyr": "химна да му запеам.",
+       "lat": "himna da mu zapeam.",
+       "en": "to sing a hymn to him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека расне, о боже, родот убав мој,",
+       "lat": "Neka rasne, o bože, rodot ubav moj,",
+       "en": "May it grow, O God, my beautiful people,"
+      },
+      {
+       "cyr": "златен дожд од мудрост долго нека пие.",
+       "lat": "zlaten dožd od mudrost dolgo neka pie.",
+       "en": "may it drink a golden rain of wisdom for long."
+      },
+      {
+       "cyr": "Нека биде, о боже, вечен родот мој,",
+       "lat": "Neka bide, o bože, večen rodot moj,",
+       "en": "May it be, O God, my people eternal,"
+      },
+      {
+       "cyr": "нека е што не сме ние.",
+       "lat": "neka e što ne sme nie.",
+       "en": "may it be what we are not."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми, боже, љубов ангелска,",
+       "lat": "Daj mi, bože, ljubov angelska,",
+       "en": "Give me, God, angelic love,"
+      },
+      {
+       "cyr": "плодно семе јас да посеам,",
+       "lat": "plodno seme jas da poseam,",
+       "en": "so that I may sow fertile seed,"
+      },
+      {
+       "cyr": "да се роди жито медено,",
+       "lat": "da se rodi žito medeno,",
+       "en": "so that honey-sweet wheat is born,"
+      },
+      {
+       "cyr": "вино зрело, светено.",
+       "lat": "vino zrelo, sveteno.",
+       "en": "ripe, blessed wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека расне, о боже, родот убав мој,",
+       "lat": "Neka rasne, o bože, rodot ubav moj,",
+       "en": "May it grow, O God, my beautiful people,"
+      },
+      {
+       "cyr": "златен дожд од мудрост долго нека пие.",
+       "lat": "zlaten dožd od mudrost dolgo neka pie.",
+       "en": "may it drink a golden rain of wisdom for long."
+      },
+      {
+       "cyr": "Нека биде, о боже, вечен родот мој,",
+       "lat": "Neka bide, o bože, večen rodot moj,",
+       "en": "May it be, O God, my people eternal,"
+      },
+      {
+       "cyr": "нека е што не сме ние.",
+       "lat": "neka e što ne sme nie.",
+       "en": "may it be what we are not."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

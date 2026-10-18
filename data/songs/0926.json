@@ -1,0 +1,188 @@
+{
+ "id": 926,
+ "slug": "brale-brale-se-sobrale",
+ "title_cyr": "Брале, брале, се собрале",
+ "title_latin": "Brale, brale, se sobrale",
+ "title_en": "Brother, brother, they gathered",
+ "pesna_url": "https://pesna.org/song/926",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). 'ќучук' is a Turkish loan for 'little/dog'; I render it 'dog-faced' as my guess, it may be a nickname. 'Брале' in the title is a mistranscription-like variant of 'збрале'.",
+ "words_to_learn": [
+  {
+   "mk": "се собрале",
+   "en": "they gathered"
+  },
+  {
+   "mk": "моми",
+   "en": "girls (plural of моме)"
+  },
+  {
+   "mk": "гороцвеќе",
+   "en": "mountain flowers (my reading)"
+  },
+  {
+   "mk": "набрале",
+   "en": "they picked, gathered"
+  },
+  {
+   "mk": "гајдаџија",
+   "en": "bagpiper"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "поповата",
+   "en": "the priest's (daughter)"
+  },
+  {
+   "mk": "рус",
+   "en": "blonde"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "леле",
+   "en": "alas"
+  }
+ ],
+ "performers": [
+  "Димитар Коларов",
+  "Емил Ристосков",
+  "Илија Аргиров",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/2089"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/2090"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2091"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2148"
+  },
+  {
+   "who": "Димитар Коларов",
+   "url": "https://pesna.org/audio-download/3175"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Збрале, збрале, се собрале",
+       "lat": "Zbrale, zbrale, se sobrale",
+       "en": "They gathered, gathered, they came together"
+      },
+      {
+       "cyr": "од селото моми најубави,",
+       "lat": "od seloto momi najubavi,",
+       "en": "the most beautiful girls of the village,"
+      },
+      {
+       "cyr": "ќе ми одат, мале, во гората,",
+       "lat": "ḱe mi odat, male, vo gorata,",
+       "en": "they will go, mother, to the forest,"
+      },
+      {
+       "cyr": "да ми берат моми гороцвеќе.",
+       "lat": "da mi berat momi gorocveḱe.",
+       "en": "to pick mountain flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Брале, брале, ми набрале,",
+       "lat": "Brale, brale, mi nabrale,",
+       "en": "Brother, brother, they picked,"
+      },
+      {
+       "cyr": "ми тргнаја моми да си одат.",
+       "lat": "mi trgnaja momi da si odat.",
+       "en": "the girls set off to go home."
+      },
+      {
+       "cyr": "Леле, боже, леле, што ги сретна,",
+       "lat": "Lele, bože, lele, što gi sretna,",
+       "en": "Alas, God, alas, whom did they meet,"
+      },
+      {
+       "cyr": "лоша среќа, Димко гајдаџија.",
+       "lat": "loša sreḱa, Dimko gajdadžija.",
+       "en": "bad luck, Dimko the bagpiper."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми засвирил Димко едно оро,",
+       "lat": "Mi zasviril Dimko edno oro,",
+       "en": "Dimko struck up a dance,"
+      },
+      {
+       "cyr": "се фанаа моми да ми играт.",
+       "lat": "se fanaa momi da mi igrat.",
+       "en": "the girls took hold to dance."
+      },
+      {
+       "cyr": "Оро води, леле, ќучук Митра,",
+       "lat": "Oro vodi, lele, ḱučuk Mitra,",
+       "en": "The dance is led, alas, by dog-faced Mitra,"
+      },
+      {
+       "cyr": "а до неа Стојна поповата.",
+       "lat": "a do nea Stojna popovata.",
+       "en": "and next to her Stojna the priest's daughter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми писна, леле, руса Стојна:",
+       "lat": "Mi pisna, lele, rusa Stojna:",
+       "en": "She shrieked, alas, blonde Stojna:"
+      },
+      {
+       "cyr": "- Леле, боже, леле, што ме снајде,",
+       "lat": "- Lele, bože, lele, što me snajde,",
+       "en": "- Alas, God, alas, what has befallen me,"
+      },
+      {
+       "cyr": "си изгубив, леле, ѓерданчето,",
+       "lat": "si izgubiv, lele, ǵerdančeto,",
+       "en": "I have lost, alas, my necklace,"
+      },
+      {
+       "cyr": "ѓерданчето, леле, стотте лири!",
+       "lat": "ǵerdančeto, lele, stotte liri!",
+       "en": "my necklace, alas, worth a hundred lira!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

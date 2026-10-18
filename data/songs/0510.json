@@ -1,0 +1,191 @@
+{
+ "id": 510,
+ "slug": "tamu-le-majko-blizu-bitola",
+ "title_cyr": "Таму ле мајко близу Битола",
+ "title_latin": "Tamu le majko blizu Bitola",
+ "title_en": "There, Mother, Near Bitola",
+ "pesna_url": "https://pesna.org/song/510",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. This is a revolutionary-era ballad about Taki Daskalot; I treated it as traditional folklore but could not confirm it is not a later composition. 'Сардисаа' as 'surrounded' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "корија",
+   "en": "thicket, forest"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company of comrades"
+  },
+  {
+   "mk": "шпиуни",
+   "en": "spies"
+  },
+  {
+   "mk": "сардисаа",
+   "en": "they surrounded (dialect)"
+  },
+  {
+   "mk": "тиран",
+   "en": "tyrant"
+  },
+  {
+   "mk": "клет",
+   "en": "accursed"
+  },
+  {
+   "mk": "нерамна",
+   "en": "unequal"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Октет Македонија",
+  "Фонтана"
+ ],
+ "audio": [
+  {
+   "who": "Фонтана",
+   "url": "https://pesna.org/audio-download/2083"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/2084"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3552"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Таму ле мајко, близу Битола,",
+       "lat": "Tamu le majko, blizu Bitola,",
+       "en": "There, mother, near Bitola,"
+      },
+      {
+       "cyr": "во ореовската густа корија,",
+       "lat": "vo oreovskata gusta korija,",
+       "en": "in the thick Oreovo forest,"
+      },
+      {
+       "cyr": "Таки Даскалот смело загина",
+       "lat": "Taki Daskalot smelo zagina",
+       "en": "Taki the Teacher boldly fell"
+      },
+      {
+       "cyr": "со неговата верна дружина,",
+       "lat": "so negovata verna družina,",
+       "en": "with his loyal band,"
+      },
+      {
+       "cyr": "со нив загина смела девојка,",
+       "lat": "so niv zagina smela devojka,",
+       "en": "with them fell a brave girl,"
+      },
+      {
+       "cyr": "млада Елпида Карамандова.",
+       "lat": "mlada Elpida Karamandova.",
+       "en": "young Elpida Karamandova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Предадени од клети шпиуни,",
+       "lat": "Predadeni od kleti špiuni,",
+       "en": "Betrayed by accursed spies,"
+      },
+      {
+       "cyr": "ги сардисаа од сите страни,",
+       "lat": "gi sardisaa od site strani,",
+       "en": "they were surrounded from all sides,"
+      },
+      {
+       "cyr": "пушки згрмеа, бомби трештеа,",
+       "lat": "puški zgrmea, bombi treštea,",
+       "en": "rifles thundered, bombs crashed,"
+      },
+      {
+       "cyr": "крвава почна борба нерамна.",
+       "lat": "krvava počna borba neramna.",
+       "en": "a bloody, unequal battle began."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај извика Таки Даскалот",
+       "lat": "Togaj izvika Taki Daskalot",
+       "en": "Then Taki the Teacher cried out"
+      },
+      {
+       "cyr": "на неговата верна дружина:",
+       "lat": "na negovata verna družina:",
+       "en": "to his loyal band:"
+      },
+      {
+       "cyr": "- Фрлајте бомби, тиран сотрете,",
+       "lat": "- Frlajte bombi, tiran sotrete,",
+       "en": "- Throw bombs, crush the tyrant,"
+      },
+      {
+       "cyr": "живи во рака не се давајте.",
+       "lat": "živi vo raka ne se davajte.",
+       "en": "do not give yourselves up alive."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Клети тирани во борба нерамна",
+       "lat": "Kleti tirani vo borba neramna",
+       "en": "The accursed tyrants, in an unequal battle,"
+      },
+      {
+       "cyr": "сета дружина му ја убија,",
+       "lat": "seta družina mu ja ubija,",
+       "en": "killed his whole band,"
+      },
+      {
+       "cyr": "Таки Даскалот жив не се даде,",
+       "lat": "Taki Daskalot živ ne se dade,",
+       "en": "Taki the Teacher did not give himself up alive,"
+      },
+      {
+       "cyr": "откачи бомба, над неа легна,",
+       "lat": "otkači bomba, nad nea legna,",
+       "en": "he unhooked a bomb and lay down over it,"
+      },
+      {
+       "cyr": "самиот крвта си ја пролеа,",
+       "lat": "samiot krvta si ja prolea,",
+       "en": "he spilled his own blood"
+      },
+      {
+       "cyr": "за слободата на Македонија.",
+       "lat": "za slobodata na Makedonija.",
+       "en": "for the freedom of Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

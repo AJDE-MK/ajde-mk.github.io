@@ -1,0 +1,235 @@
+{
+ "id": 929,
+ "slug": "angelino-maloj-mome",
+ "title_cyr": "Ангелино, малој моме",
+ "title_latin": "Angelino, maloj mome",
+ "title_en": "Angelina, Young Girl",
+ "pesna_url": "https://pesna.org/song/929",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'аџамија' and 'малој' are Turkish-influenced/dialect forms I am fairly but not fully sure of; 'посвшено' is my reading of 'посвршено' (engaged).",
+ "words_to_learn": [
+  {
+   "mk": "малој моме",
+   "en": "young girl (малој as dialect vocative form)"
+  },
+  {
+   "mk": "ајде",
+   "en": "come on"
+  },
+  {
+   "mk": "црните очи",
+   "en": "black eyes"
+  },
+  {
+   "mk": "аџамија",
+   "en": "novice, greenhorn (from Turkish acemi)"
+  },
+  {
+   "mk": "цреши",
+   "en": "cherries"
+  },
+  {
+   "mk": "симит",
+   "en": "simit, ring-shaped bread"
+  },
+  {
+   "mk": "тенка снага",
+   "en": "slender figure"
+  },
+  {
+   "mk": "вита ела",
+   "en": "slim fir tree"
+  },
+  {
+   "mk": "стројник",
+   "en": "matchmaker (wedding envoy)"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday"
+  }
+ ],
+ "performers": [
+  "Круме Спасовски"
+ ],
+ "audio": [
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/2101"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ангелино, малој моме,",
+       "lat": "- Angelino, maloj mome,",
+       "en": "- Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде Ангелино, малој моме,",
+       "lat": "ajde Angelino, maloj mome,",
+       "en": "come on, Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде продаваш ли црните очи?",
+       "lat": "ajde prodavaš li crnite oči?",
+       "en": "come on, are you selling your black eyes?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре лудо, аџамија,",
+       "lat": "- A bre ludo, adžamija,",
+       "en": "- Hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде а бре лудо, аџамија,",
+       "lat": "ajde a bre ludo, adžamija,",
+       "en": "come on, hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде не се цреши да ги купиш.",
+       "lat": "ajde ne se creši da gi kupiš.",
+       "en": "come on, they are not cherries for you to buy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ангелино, малој моме,",
+       "lat": "- Angelino, maloj mome,",
+       "en": "- Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде Ангелино, малој моме,",
+       "lat": "ajde Angelino, maloj mome,",
+       "en": "come on, Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде продаваш ли белото лице?",
+       "lat": "ajde prodavaš li beloto lice?",
+       "en": "come on, are you selling your white face?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре лудо, аџамија,",
+       "lat": "- A bre ludo, adžamija,",
+       "en": "- Hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде а бре лудо, аџамија,",
+       "lat": "ajde a bre ludo, adžamija,",
+       "en": "come on, hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде не е симит да го јадеш.",
+       "lat": "ajde ne e simit da go jadeš.",
+       "en": "come on, it is not a simit for you to eat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ангелино, малој моме,",
+       "lat": "- Angelino, maloj mome,",
+       "en": "- Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде Ангелино, малој моме,",
+       "lat": "ajde Angelino, maloj mome,",
+       "en": "come on, Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде продаваш ли тенката снага?",
+       "lat": "ajde prodavaš li tenkata snaga?",
+       "en": "come on, are you selling your slender figure?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре лудо, аџамија,",
+       "lat": "- A bre ludo, adžamija,",
+       "en": "- Hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде а бре лудо, аџамија,",
+       "lat": "ajde a bre ludo, adžamija,",
+       "en": "come on, hey you fool, you novice,"
+      },
+      {
+       "cyr": "не е вита ела да ја сечеш.",
+       "lat": "ne e vita ela da ja sečeš.",
+       "en": "it is not a slim fir tree for you to cut."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ангелино, малој моме,",
+       "lat": "- Angelino, maloj mome,",
+       "en": "- Angelina, young girl,"
+      },
+      {
+       "cyr": "ајде Ангелино, малој моме,",
+       "lat": "ajde Angelino, maloj mome,",
+       "en": "come on, Angelina, young girl,"
+      },
+      {
+       "cyr": "дали вечер стројник да ти пратам?",
+       "lat": "dali večer strojnik da ti pratam?",
+       "en": "shall I send a matchmaker to you tonight?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре лудо, аџамија,",
+       "lat": "- A bre ludo, adžamija,",
+       "en": "- Hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде а бре лудо, аџамија,",
+       "lat": "ajde a bre ludo, adžamija,",
+       "en": "come on, hey you fool, you novice,"
+      },
+      {
+       "cyr": "ајде и да пратиш, фајде немаш.",
+       "lat": "ajde i da pratiš, fajde nemaš.",
+       "en": "come on, even if you send one, you have no use."
+      },
+      {
+       "cyr": "Море, јас сум, лудо, посвшено,",
+       "lat": "More, jas sum, ludo, posvšeno,",
+       "en": "Hey, I am, my dear, engaged,"
+      },
+      {
+       "cyr": "ајде во недела свадба ќе ми прават.",
+       "lat": "ajde vo nedela svadba ḱe mi pravat.",
+       "en": "come on, on Sunday they will hold my wedding."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

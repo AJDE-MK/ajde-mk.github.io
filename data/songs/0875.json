@@ -1,0 +1,244 @@
+{
+ "id": 875,
+ "slug": "arshin-arshin",
+ "title_cyr": "Аршин, аршин",
+ "title_latin": "Aršin, aršin",
+ "title_en": "Arshin, Arshin",
+ "pesna_url": "https://pesna.org/song/875",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like an urban merchant song (cloth seller). 'Маршин' seems a rhyming nonsense echo of 'аршин'. The '(Друга верзија)' marker line is copied unchanged.",
+ "words_to_learn": [
+  {
+   "mk": "аршин",
+   "en": "arshin, an old cloth-measuring length (about 70 cm)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "верувај ми",
+   "en": "believe me"
+  },
+  {
+   "mk": "зборој",
+   "en": "words (dialect form of зборови)"
+  },
+  {
+   "mk": "думи",
+   "en": "words"
+  },
+  {
+   "mk": "се заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "до века",
+   "en": "forever"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1911"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3661"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Аршин, аршин, маршин,",
+       "lat": "Aršin, aršin, maršin,",
+       "en": "Arshin, arshin, marshin,"
+      },
+      {
+       "cyr": "ој девојко, тебе те сакам.",
+       "lat": "oj devojko, tebe te sakam.",
+       "en": "oh girl, it is you I love."
+      },
+      {
+       "cyr": "Нели ти стига младоста моја, кажи ми,",
+       "lat": "Neli ti stiga mladosta moja, kaži mi,",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на мојте зборој верувај ми.",
+       "lat": "i na mojte zboroj veruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сè што имав, сè ти дадов,",
+       "lat": "Sè što imav, sè ti dadov,",
+       "en": "Everything I had, I gave you,"
+      },
+      {
+       "cyr": "а од тебе ништо не зедов.",
+       "lat": "a od tebe ništo ne zedov.",
+       "en": "but from you I took nothing."
+      },
+      {
+       "cyr": "Нели ти стига младоста моја, кажи ми,",
+       "lat": "Neli ti stiga mladosta moja, kaži mi,",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на мојте зборој верувај ми.",
+       "lat": "i na mojte zboroj veruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти се молам, либе до Бога,",
+       "lat": "Ti se molam, libe do Boga,",
+       "en": "I beg you, my love, by God,"
+      },
+      {
+       "cyr": "до вечера да бидеш моја.",
+       "lat": "do večera da bideš moja.",
+       "en": "to be mine by evening."
+      },
+      {
+       "cyr": "Нели ти стига младоста моја, кажи ми,",
+       "lat": "Neli ti stiga mladosta moja, kaži mi,",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на мојте зборој верувај ми.",
+       "lat": "i na mojte zboroj veruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Аршин, аршин, свила продавам,",
+       "lat": "Aršin, aršin, svila prodavam,",
+       "en": "Arshin, arshin, I sell silk,"
+      },
+      {
+       "cyr": "само тебе либе да земам.",
+       "lat": "samo tebe libe da zemam.",
+       "en": "only to take you, my love."
+      },
+      {
+       "cyr": "Нели ти е доста младоста моја, кажи ми ти",
+       "lat": "Neli ti e dosta mladosta moja, kaži mi ti",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на моите думи поверувај ми.",
+       "lat": "i na moite dumi poveruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом те видов и се заљубив,",
+       "lat": "Štom te vidov i se zaljubiv,",
+       "en": "As soon as I saw you I fell in love,"
+      },
+      {
+       "cyr": "сите пари си ги потрошив.",
+       "lat": "site pari si gi potrošiv.",
+       "en": "I spent all my money."
+      },
+      {
+       "cyr": "Нели ти е доста младоста моја, кажи ми ти",
+       "lat": "Neli ti e dosta mladosta moja, kaži mi ti",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на моите думи поверувај ми.",
+       "lat": "i na moite dumi poveruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе те молам либе до Бога,",
+       "lat": "Ḱe te molam libe do Boga,",
+       "en": "I will beg you, my love, by God,"
+      },
+      {
+       "cyr": "да си моја, моја до века.",
+       "lat": "da si moja, moja do veka.",
+       "en": "to be mine, mine forever."
+      },
+      {
+       "cyr": "Нели ти е доста младоста моја, кажи ми ти",
+       "lat": "Neli ti e dosta mladosta moja, kaži mi ti",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на моите думи поверувај ми.",
+       "lat": "i na moite dumi poveruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Аршин, аршин, ла, ла, ла,",
+       "lat": "Aršin, aršin, la, la, la,",
+       "en": "Arshin, arshin, la, la, la,"
+      },
+      {
+       "cyr": "ти си моја, пак моја.",
+       "lat": "ti si moja, pak moja.",
+       "en": "you are mine, again mine."
+      },
+      {
+       "cyr": "Нели ти е доста младоста моја, кажи ми ти",
+       "lat": "Neli ti e dosta mladosta moja, kaži mi ti",
+       "en": "Isn't my youth enough for you, tell me,"
+      },
+      {
+       "cyr": "и на моите думи поверувај ми.",
+       "lat": "i na moite dumi poveruvaj mi.",
+       "en": "and believe my words."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

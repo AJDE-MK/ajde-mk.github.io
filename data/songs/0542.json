@@ -1,0 +1,162 @@
+{
+ "id": 542,
+ "slug": "nemam-milo-nemam-drago",
+ "title_cyr": "Немам мило, немам драго",
+ "title_latin": "Nemam milo, nemam drago",
+ "title_en": "I don't have dear, I don't have darling",
+ "pesna_url": "https://pesna.org/song/542",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Деспина",
+  "Лихнидос",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1703"
+  },
+  {
+   "who": "Лихнидос",
+   "url": "https://pesna.org/audio-download/1704"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/1705"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Немам мило, немам драго,",
+       "lat": "Nemam milo, nemam drago,",
+       "en": "I don't have dear, I don't have darling"
+      },
+      {
+       "cyr": "нит' пак сакам ни да знам,",
+       "lat": "nit' pak sakam ni da znam,",
+       "en": "and I don't even want to know,"
+      },
+      {
+       "cyr": "како бродот без кормило,",
+       "lat": "kako brodot bez kormilo,",
+       "en": "like a boat without a steering wheel,"
+      },
+      {
+       "cyr": "ќе си скитам по светот.",
+       "lat": "ḱe si skitam po svetot.",
+       "en": "I'll stray accross the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе си скитам јас езера,",
+       "lat": "Ḱe si skitam jas ezera,",
+       "en": "I will wander around the lakes,"
+      },
+      {
+       "cyr": "без надежи, без љубов,",
+       "lat": "bez nadeži, bez ljubov,",
+       "en": "without hope, without love,"
+      },
+      {
+       "cyr": "дури јас не си го најдам",
+       "lat": "duri jas ne si go najdam",
+       "en": "until I find"
+      },
+      {
+       "cyr": "денес мојот студен гроб.",
+       "lat": "denes mojot studen grob.",
+       "en": "my cold grave today."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По полиња, по горите,",
+       "lat": "Po polinja, po gorite,",
+       "en": "Accross the fields, accross the forests,"
+      },
+      {
+       "cyr": "кај ќе стигнам, ќе спијам,",
+       "lat": "kaj ḱe stignam, ḱe spijam,",
+       "en": "I'll sleep wherever I can,"
+      },
+      {
+       "cyr": "ќе се влечкам по тревите",
+       "lat": "ḱe se vlečkam po trevite",
+       "en": "I will crawl through the grass"
+      },
+      {
+       "cyr": "и по полските цвеќа.",
+       "lat": "i po polskite cveḱa.",
+       "en": "and flowers in the meadows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се качам на Венера,",
+       "lat": "Ḱe se kačam na Venera,",
+       "en": "I will climb to Venus,"
+      },
+      {
+       "cyr": "на најсветлата ѕвезда,",
+       "lat": "na najsvetlata dzvezda,",
+       "en": "the brightest star,"
+      },
+      {
+       "cyr": "ќе ѝ кажам јас на неа,",
+       "lat": "ḱe ì kažam jas na nea,",
+       "en": "and I will tell her"
+      },
+      {
+       "cyr": "што сум патил по светот.",
+       "lat": "što sum patil po svetot.",
+       "en": "about my sufferings through the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се качам в' парахода",
+       "lat": "Ḱe se kačam v' parahoda",
+       "en": "I will get on a steam boat"
+      },
+      {
+       "cyr": "и ќе викнам с' голем глас:",
+       "lat": "i ḱe viknam s' golem glas:",
+       "en": "and I will shout with a loud voice:"
+      },
+      {
+       "cyr": "„Збогум мила, збогом драга,",
+       "lat": "„Zbogum mila, zbogom draga,",
+       "en": "- \"Goodbye dear, goodbye darling,"
+      },
+      {
+       "cyr": "јас ќе одам далеку“.",
+       "lat": "jas ḱe odam daleku“.",
+       "en": "I will go far away\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

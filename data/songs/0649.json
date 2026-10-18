@@ -1,0 +1,151 @@
+{
+ "id": 649,
+ "slug": "ednash-minav-na-mosteto",
+ "title_cyr": "Еднаш минав на мостето",
+ "title_latin": "Ednaš minav na mosteto",
+ "title_en": "Once I passed over the bridge",
+ "pesna_url": "https://pesna.org/song/649",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'посврши ме' is my reading (arrange my marriage); '[х2]' markers kept as [x2].",
+ "words_to_learn": [
+  {
+   "mk": "мосте",
+   "en": "little bridge"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window (Turkish loan)"
+  },
+  {
+   "mk": "се караше",
+   "en": "was quarreling"
+  },
+  {
+   "mk": "посврши ме",
+   "en": "marry me off (my reading)"
+  },
+  {
+   "mk": "одбери",
+   "en": "choose"
+  },
+  {
+   "mk": "спроти",
+   "en": "opposite, facing"
+  },
+  {
+   "mk": "трендафилче",
+   "en": "little rose"
+  },
+  {
+   "mk": "каранфилче",
+   "en": "little carnation"
+  }
+ ],
+ "performers": [
+  "Миле Тодоровски"
+ ],
+ "audio": [
+  {
+   "who": "Миле Тодоровски",
+   "url": "https://pesna.org/audio-download/899"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еднаш минав на мостето",
+       "lat": "Ednaš minav na mosteto",
+       "en": "Once I passed over the little bridge"
+      },
+      {
+       "cyr": "видов моме на пенџере [х2]",
+       "lat": "vidov mome na pendžere [h2]",
+       "en": "I saw a girl at the window [x2]"
+      },
+      {
+       "cyr": "со мајка си се караше.",
+       "lat": "so majka si se karaše.",
+       "en": "she was quarreling with her mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде со мајка си се караше",
+       "lat": "Ajde so majka si se karaše",
+       "en": "Come on, she was quarreling with her mother:"
+      },
+      {
+       "cyr": "мајко ле мила посврши ме [х2]",
+       "lat": "majko le mila posvrši me [h2]",
+       "en": "dear mother, marry me off [x2]"
+      },
+      {
+       "cyr": "арно момче одбери ми.",
+       "lat": "arno momče odberi mi.",
+       "en": "choose me a good lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде добро момче одбери ми",
+       "lat": "Ajde dobro momče odberi mi",
+       "en": "Come on, choose me a good lad"
+      },
+      {
+       "cyr": "како мене, спроти мене",
+       "lat": "kako mene, sproti mene",
+       "en": "like me, right opposite me"
+      },
+      {
+       "cyr": "како црвено трендафилче",
+       "lat": "kako crveno trendafilče",
+       "en": "like a red rose"
+      },
+      {
+       "cyr": "развиено каранфилче.",
+       "lat": "razvieno karanfilče.",
+       "en": "a blooming carnation."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашла сум ти мила ле ќерко",
+       "lat": "Našla sum ti mila le ḱerko",
+       "en": "I have found you, my dear daughter"
+      },
+      {
+       "cyr": "како тебе, спроти тебе",
+       "lat": "kako tebe, sproti tebe",
+       "en": "someone like you, right opposite you"
+      },
+      {
+       "cyr": "како црвено трендафилче",
+       "lat": "kako crveno trendafilče",
+       "en": "like a red rose"
+      },
+      {
+       "cyr": "развиено карамфилче.",
+       "lat": "razvieno karamfilče.",
+       "en": "a blooming carnation."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,170 @@
+{
+ "id": 1499,
+ "slug": "devojche-belo-crveno",
+ "title_cyr": "Девојче бело, црвено",
+ "title_latin": "Devojče belo, crveno",
+ "title_en": "Girl, white and red",
+ "pesna_url": "https://pesna.org/song/1499",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style love song; origin unclear. 'ај' is a filler, rendered 'oh'.",
+ "words_to_learn": [
+  {
+   "mk": "бело",
+   "en": "white"
+  },
+  {
+   "mk": "црвено",
+   "en": "red"
+  },
+  {
+   "mk": "грло",
+   "en": "throat, neck"
+  },
+  {
+   "mk": "филџан",
+   "en": "small cup"
+  },
+  {
+   "mk": "ракија",
+   "en": "brandy"
+  },
+  {
+   "mk": "да се опијам",
+   "en": "to get drunk"
+  },
+  {
+   "mk": "скут",
+   "en": "lap"
+  },
+  {
+   "mk": "риза",
+   "en": "shirt"
+  },
+  {
+   "mk": "везана",
+   "en": "embroidered"
+  }
+ ],
+ "performers": [
+  "Распеани дебарчани",
+  "Распеани стружани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3914"
+  },
+  {
+   "who": "Распеани стружани",
+   "url": "https://pesna.org/audio-download/4397"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девојче бело, црвено",
+       "lat": "Devojče belo, crveno",
+       "en": "Girl, white and red,"
+      },
+      {
+       "cyr": "ај што ти е бело грлото.",
+       "lat": "aj što ti e belo grloto.",
+       "en": "oh, how white your throat is."
+      },
+      {
+       "cyr": "Што ти е бело грлото,",
+       "lat": "Što ti e belo grloto,",
+       "en": "How white your throat is,"
+      },
+      {
+       "cyr": "ај како на филџан грлото.",
+       "lat": "aj kako na fildžan grloto.",
+       "en": "oh, like a little cup, your throat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Филџанот полн со ракија,",
+       "lat": "Fildžanot poln so rakija,",
+       "en": "The cup is full of rakija,"
+      },
+      {
+       "cyr": "ај дај ми го да се напијам.",
+       "lat": "aj daj mi go da se napijam.",
+       "en": "oh, give it to me so I can drink."
+      },
+      {
+       "cyr": "Дај ми го да се напијам,",
+       "lat": "Daj mi go da se napijam,",
+       "en": "Give it to me so I can drink,"
+      },
+      {
+       "cyr": "ај да пијам, да се опијам.",
+       "lat": "aj da pijam, da se opijam.",
+       "en": "oh, so I drink and get drunk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да пијам да се опијам,",
+       "lat": "Da pijam da se opijam,",
+       "en": "So I drink and get drunk,"
+      },
+      {
+       "cyr": "ај на скутот твој да заспијам.",
+       "lat": "aj na skutot tvoj da zaspijam.",
+       "en": "oh, so I fall asleep in your lap."
+      },
+      {
+       "cyr": "На скутот твој да заспијам,",
+       "lat": "Na skutot tvoj da zaspijam,",
+       "en": "So I fall asleep in your lap,"
+      },
+      {
+       "cyr": "ај со риза да ме покриеш.",
+       "lat": "aj so riza da me pokrieš.",
+       "en": "oh, so you cover me with a shirt."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ризата да е везана,",
+       "lat": "Rizata da e vezana,",
+       "en": "Let the shirt be embroidered,"
+      },
+      {
+       "cyr": "а името да е пишано.",
+       "lat": "a imeto da e pišano.",
+       "en": "and the name be written."
+      },
+      {
+       "cyr": "Името да е пишано,",
+       "lat": "Imeto da e pišano,",
+       "en": "Let the name be written,"
+      },
+      {
+       "cyr": "името твое и мое.",
+       "lat": "imeto tvoe i moe.",
+       "en": "your name and mine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

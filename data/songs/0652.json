@@ -1,0 +1,184 @@
+{
+ "id": 652,
+ "slug": "dosta-dosta-lichno-le-stojne",
+ "title_cyr": "Доста, доста лично ле Стојне",
+ "title_latin": "Dosta, dosta lično le Stojne",
+ "title_en": "Enough, Enough, Pretty Stojna",
+ "pesna_url": "https://pesna.org/song/652",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Лично' rendered 'pretty' and 'бегај ти за мене' as 'run away with me' are my reading; the speaker changes in stanza three.",
+ "words_to_learn": [
+  {
+   "mk": "доста",
+   "en": "enough"
+  },
+  {
+   "mk": "слугинче",
+   "en": "little servant girl"
+  },
+  {
+   "mk": "слугуваш",
+   "en": "you serve"
+  },
+  {
+   "mk": "дворуваш",
+   "en": "you attend to, wait on"
+  },
+  {
+   "mk": "бегај",
+   "en": "run away, elope"
+  },
+  {
+   "mk": "страдам",
+   "en": "I suffer"
+  },
+  {
+   "mk": "сираче",
+   "en": "orphan"
+  },
+  {
+   "mk": "засакај",
+   "en": "begin to love, take a liking to"
+  }
+ ],
+ "performers": [
+  "Андријана Јаневска",
+  "Васка Илиева",
+  "Горан Кукиќ",
+  "Драгица Мавровска",
+  "Ленче Кукиќ",
+  "Наум Петрески",
+  "Никола Бадев",
+  "Румјана Попова"
+ ],
+ "audio": [
+  {
+   "who": "Ленче Кукиќ, Горан Кукиќ",
+   "url": "https://pesna.org/audio-download/190"
+  },
+  {
+   "who": "Никола Бадев, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1554"
+  },
+  {
+   "who": "Наум Петрески, Румјана Попова",
+   "url": "https://pesna.org/audio-download/1555"
+  },
+  {
+   "who": "Андријана Јаневска",
+   "url": "https://pesna.org/audio-download/1556"
+  },
+  {
+   "who": "Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4309"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Доста, доста лично ле Стојне",
+       "lat": "Dosta, dosta lično le Stojne",
+       "en": "Enough, enough, pretty Stojna,"
+      },
+      {
+       "cyr": "слугинче слугуваш,",
+       "lat": "sluginče sluguvaš,",
+       "en": "you serve as a little servant,"
+      },
+      {
+       "cyr": "слугинче слугуваш ле Стојне",
+       "lat": "sluginče sluguvaš le Stojne",
+       "en": "you serve as a little servant, Stojna,"
+      },
+      {
+       "cyr": "секого дворуваш.",
+       "lat": "sekogo dvoruvaš.",
+       "en": "you wait on everybody."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, ајде лично ле Стојне",
+       "lat": "Ajde, ajde lično le Stojne",
+       "en": "Come on, come on, pretty Stojna,"
+      },
+      {
+       "cyr": "бегај ти за мене",
+       "lat": "begaj ti za mene",
+       "en": "run away with me,"
+      },
+      {
+       "cyr": "бегај ти за мене ле Стојне",
+       "lat": "begaj ti za mene le Stojne",
+       "en": "run away with me, Stojna,"
+      },
+      {
+       "cyr": "јас страдам за тебе.",
+       "lat": "jas stradam za tebe.",
+       "en": "I am suffering for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам, не можам бре лудо",
+       "lat": "Ne možam, ne možam bre ludo",
+       "en": "I cannot, I cannot, you fool,"
+      },
+      {
+       "cyr": "ништо јас си немам",
+       "lat": "ništo jas si nemam",
+       "en": "I have nothing at all,"
+      },
+      {
+       "cyr": "сираче сум јас пораснало",
+       "lat": "sirače sum jas porasnalo",
+       "en": "I grew up an orphan"
+      },
+      {
+       "cyr": "без мајка и без татко.",
+       "lat": "bez majka i bez tatko.",
+       "en": "without mother and without father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ништо не ти сакам ле Стојне",
+       "lat": "Ništo ne ti sakam le Stojne",
+       "en": "I want nothing from you, Stojna,"
+      },
+      {
+       "cyr": "засакај ме од срце",
+       "lat": "zasakaj me od srce",
+       "en": "love me from the heart,"
+      },
+      {
+       "cyr": "љубовта е скапа ле Стојне",
+       "lat": "ljubovta e skapa le Stojne",
+       "en": "love is dear, Stojna,"
+      },
+      {
+       "cyr": "најсакана до гроба.",
+       "lat": "najsakana do groba.",
+       "en": "the most beloved, to the grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

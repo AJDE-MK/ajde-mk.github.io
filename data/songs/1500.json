@@ -1,0 +1,121 @@
+{
+ "id": 1500,
+ "slug": "ide-mome-od-banjata",
+ "title_cyr": "Иде моме од бањата",
+ "title_latin": "Ide mome od banjata",
+ "title_en": "A girl comes from the bathhouse",
+ "pesna_url": "https://pesna.org/song/1500",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. The third stanza is ambiguous; 'рудо јагне' (fleecy or ruddy lamb) is my reading, and who lets the lamb go in the last stanza is also my reading (the girl).",
+ "words_to_learn": [
+  {
+   "mk": "бања",
+   "en": "bathhouse"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "измиено",
+   "en": "washed"
+  },
+  {
+   "mk": "исчешлано",
+   "en": "combed"
+  },
+  {
+   "mk": "руси коси",
+   "en": "fair (blond) hair"
+  },
+  {
+   "mk": "рамена",
+   "en": "shoulders"
+  },
+  {
+   "mk": "заплетено",
+   "en": "braided"
+  },
+  {
+   "mk": "детелина",
+   "en": "clover"
+  }
+ ],
+ "performers": [
+  "Распеани дебарчани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3915"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Иде моме џанам од бањата,",
+       "lat": "Ide mome džanam od banjata,",
+       "en": "A girl is coming, dear, from the bathhouse,"
+      },
+      {
+       "cyr": "измиено џанам, исчешлано.",
+       "lat": "izmieno džanam, isčešlano.",
+       "en": "washed, dear, and combed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Руси коси џанам по рамена,",
+       "lat": "Rusi kosi džanam po ramena,",
+       "en": "Her fair hair, dear, over her shoulders,"
+      },
+      {
+       "cyr": "ситно и дробно џанам заплетено.",
+       "lat": "sitno i drobno džanam zapleteno.",
+       "en": "finely and thickly, dear, braided."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сретна лудо џанам рудо јагне,",
+       "lat": "Sretna ludo džanam rudo jagne,",
+       "en": "She met a lad, dear, a fleecy lamb,"
+      },
+      {
+       "cyr": "не знаеше џанам да го јаде.",
+       "lat": "ne znaeše džanam da go jade.",
+       "en": "he did not know, dear, how to eat it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си го пушти џанам во планина,",
+       "lat": "Si go pušti džanam vo planina,",
+       "en": "She let it go, dear, into the mountain,"
+      },
+      {
+       "cyr": "да си пасе џанам детелина.",
+       "lat": "da si pase džanam detelina.",
+       "en": "to graze, dear, on clover."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

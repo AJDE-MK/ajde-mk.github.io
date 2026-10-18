@@ -1,0 +1,201 @@
+{
+ "id": 1351,
+ "slug": "sal-ti-le-se-najde-babo",
+ "title_cyr": "Сал ти ле се најде бабо",
+ "title_latin": "Sal ti le se najde babo",
+ "title_en": "Only you were found, granny",
+ "pesna_url": "https://pesna.org/song/1351",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Humorous song, origin unclear. 'Искарај не' is my reading (drive us/me out, i.e. send me away with the girl); the sense of the third stanza is loose.",
+ "words_to_learn": [
+  {
+   "mk": "бабо",
+   "en": "granny (vocative)"
+  },
+  {
+   "mk": "зелник",
+   "en": "pie with greens/cabbage"
+  },
+  {
+   "mk": "месиш",
+   "en": "you knead"
+  },
+  {
+   "mk": "шугави",
+   "en": "scabby"
+  },
+  {
+   "mk": "гурелави",
+   "en": "with eye gunk, gummy"
+  },
+  {
+   "mk": "вариш",
+   "en": "you brew/boil"
+  },
+  {
+   "mk": "арна",
+   "en": "good, fine"
+  },
+  {
+   "mk": "заглави",
+   "en": "bolt/lock"
+  }
+ ],
+ "performers": [
+  "Монистра"
+ ],
+ "audio": [
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/3526"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сал ти ле се најде бабо",
+       "lat": "Sal ti le se najde babo",
+       "en": "Only you were found, oh granny,"
+      },
+      {
+       "cyr": "од олкаво село, бабо,",
+       "lat": "od olkavo selo, babo,",
+       "en": "from such a village, granny,"
+      },
+      {
+       "cyr": "од олкаво село,",
+       "lat": "od olkavo selo,",
+       "en": "from such a village,"
+      },
+      {
+       "cyr": "зелник да ми месиш бабо,",
+       "lat": "zelnik da mi mesiš babo,",
+       "en": "to knead me a zelnik, granny,"
+      },
+      {
+       "cyr": "со шугави раце бабо,",
+       "lat": "so šugavi race babo,",
+       "en": "with scabby hands, granny,"
+      },
+      {
+       "cyr": "со шугави раце?",
+       "lat": "so šugavi race?",
+       "en": "with scabby hands?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кафе да ми вариш бабо",
+       "lat": "Kafe da mi variš babo",
+       "en": "To brew me coffee, granny,"
+      },
+      {
+       "cyr": "с' гурелави очи бабо,",
+       "lat": "s' gurelavi oči babo,",
+       "en": "with gummy eyes, granny,"
+      },
+      {
+       "cyr": "с' гурелави очи.",
+       "lat": "s' gurelavi oči.",
+       "en": "with gummy eyes."
+      },
+      {
+       "cyr": "Кога ти ќе тураш бабо,",
+       "lat": "Koga ti ḱe turaš babo,",
+       "en": "When you pour it, granny,"
+      },
+      {
+       "cyr": "па не ми е слатко бабо,",
+       "lat": "pa ne mi e slatko babo,",
+       "en": "it is not sweet to me, granny,"
+      },
+      {
+       "cyr": "па не ми е слатко.",
+       "lat": "pa ne mi e slatko.",
+       "en": "it is not sweet to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Комшии кажуваат бабо,",
+       "lat": "Komšii kažuvaat babo,",
+       "en": "The neighbours tell, granny,"
+      },
+      {
+       "cyr": "арна мома имаш бабо,",
+       "lat": "arna moma imaš babo,",
+       "en": "you have a fine girl, granny,"
+      },
+      {
+       "cyr": "арна мома имаш.",
+       "lat": "arna moma imaš.",
+       "en": "you have a fine girl."
+      },
+      {
+       "cyr": "Искарај не, слатка бабо,",
+       "lat": "Iskaraj ne, slatka babo,",
+       "en": "Drive me out, sweet granny,"
+      },
+      {
+       "cyr": "доведи момата бабо,",
+       "lat": "dovedi momata babo,",
+       "en": "bring the girl, granny,"
+      },
+      {
+       "cyr": "доведи момата.",
+       "lat": "dovedi momata.",
+       "en": "bring the girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Доведи момата бабо,",
+       "lat": "Dovedi momata babo,",
+       "en": "Bring the girl, granny,"
+      },
+      {
+       "cyr": "заглави вратата бабо,",
+       "lat": "zaglavi vratata babo,",
+       "en": "bolt the door, granny,"
+      },
+      {
+       "cyr": "заглави вратата.",
+       "lat": "zaglavi vratata.",
+       "en": "bolt the door."
+      },
+      {
+       "cyr": "Сол и леб да јадам бабо,",
+       "lat": "Sol i leb da jadam babo,",
+       "en": "Let me eat salt and bread, granny,"
+      },
+      {
+       "cyr": "па слатко ќе ми е бабо,",
+       "lat": "pa slatko ḱe mi e babo,",
+       "en": "and it will be sweet to me, granny,"
+      },
+      {
+       "cyr": "па слатко ќе ми е.",
+       "lat": "pa slatko ḱe mi e.",
+       "en": "and it will be sweet to me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

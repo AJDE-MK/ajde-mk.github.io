@@ -1,0 +1,162 @@
+{
+ "id": 1175,
+ "slug": "gordo-poreche",
+ "title_cyr": "Гордо Порече",
+ "title_latin": "Gordo Poreče",
+ "title_en": "Proud Poreche",
+ "pesna_url": "https://pesna.org/song/1175",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it reads like a modern homeland song but I cannot name an author. Poreche is a region along the river Treska.",
+ "words_to_learn": [
+  {
+   "mk": "бисер",
+   "en": "pearl"
+  },
+  {
+   "mk": "пенлива",
+   "en": "foamy"
+  },
+  {
+   "mk": "огниште",
+   "en": "hearth, home"
+  },
+  {
+   "mk": "липи",
+   "en": "linden trees"
+  },
+  {
+   "mk": "капини",
+   "en": "brambles, blackberry bushes"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "се стегнало",
+   "en": "has tightened"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева",
+  "Кале"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2854"
+  },
+  {
+   "who": "Кале",
+   "url": "https://pesna.org/audio-download/2855"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Роде мој македонски,",
+       "lat": "Rode moj makedonski,",
+       "en": "My Macedonian homeland,"
+      },
+      {
+       "cyr": "бисер твој е Порече,",
+       "lat": "biser tvoj e Poreče,",
+       "en": "your pearl is Poreche,"
+      },
+      {
+       "cyr": "покрај Треска пенлива,",
+       "lat": "pokraj Treska penliva,",
+       "en": "along the foamy Treska,"
+      },
+      {
+       "cyr": "песната е најмила.",
+       "lat": "pesnata e najmila.",
+       "en": "the song is the dearest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Родно наше Порече,",
+       "lat": "Rodno naše Poreče,",
+       "en": "Our native Poreche,"
+      },
+      {
+       "cyr": "родно наше огниште,",
+       "lat": "rodno naše ognište,",
+       "en": "our native hearth,"
+      },
+      {
+       "cyr": "покрај липи, капини,",
+       "lat": "pokraj lipi, kapini,",
+       "en": "among linden trees and brambles,"
+      },
+      {
+       "cyr": "чуваш детски спомени.",
+       "lat": "čuvaš detski spomeni.",
+       "en": "you keep childhood memories."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поречани, пријатели,",
+       "lat": "Porečani, prijateli,",
+       "en": "People of Poreche, friends,"
+      },
+      {
+       "cyr": "мои мили роднини,",
+       "lat": "moi mili rodnini,",
+       "en": "my dear relatives,"
+      },
+      {
+       "cyr": "срце ми се стегнало,",
+       "lat": "srce mi se stegnalo,",
+       "en": "my heart has tightened,"
+      },
+      {
+       "cyr": "за луди млади години.",
+       "lat": "za ludi mladi godini.",
+       "en": "for the foolish young years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Родно наше Порече,",
+       "lat": "Rodno naše Poreče,",
+       "en": "Our native Poreche,"
+      },
+      {
+       "cyr": "родно наше огниште,",
+       "lat": "rodno naše ognište,",
+       "en": "our native hearth,"
+      },
+      {
+       "cyr": "покрај липи, капини,",
+       "lat": "pokraj lipi, kapini,",
+       "en": "among linden trees and brambles,"
+      },
+      {
+       "cyr": "чуваш детски спомени.",
+       "lat": "čuvaš detski spomeni.",
+       "en": "you keep childhood memories."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

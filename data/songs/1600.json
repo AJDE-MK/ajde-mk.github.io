@@ -1,0 +1,167 @@
+{
+ "id": 1600,
+ "slug": "domakjine-dobri-gosti-ti-dojdoa",
+ "title_cyr": "Домаќине, добри гости ти дојдоа",
+ "title_latin": "Domaḱine, dobri gosti ti dojdoa",
+ "title_en": "Host, good guests have come to you",
+ "pesna_url": "https://pesna.org/song/1600",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ангелко Спироски",
+  "Гуна Иванова",
+  "Драги Спасовски",
+  "Елита",
+  "Јордан Митев",
+  "Неврокопски танчери",
+  "Николај Славеев",
+  "Ројал",
+  "Слави Трифонов",
+  "Цане Николовски",
+  "Valia"
+ ],
+ "audio": [
+  {
+   "who": "Елита, Цане Николовски",
+   "url": "https://pesna.org/audio-download/4176"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/4177"
+  },
+  {
+   "who": "Ројал",
+   "url": "https://pesna.org/audio-download/4178"
+  },
+  {
+   "who": "Ангелко Спироски",
+   "url": "https://pesna.org/audio-download/4179"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/4385"
+  },
+  {
+   "who": "Николај Славеев",
+   "url": "https://pesna.org/audio-download/4403"
+  },
+  {
+   "who": "Слави Трифонов",
+   "url": "https://pesna.org/audio-download/4404"
+  },
+  {
+   "who": "Неврокопски танчери",
+   "url": "https://pesna.org/audio-download/4405"
+  },
+  {
+   "who": "Valia",
+   "url": "https://pesna.org/audio-download/4406"
+  },
+  {
+   "who": "Гуна Иванова",
+   "url": "https://pesna.org/audio-download/4407"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Домаќине, добри гости ти дојдоа,",
+       "lat": "Domaḱine, dobri gosti ti dojdoa,",
+       "en": "Host, good guests have come to you,"
+      },
+      {
+       "cyr": "ај, добар абер ти донесоа.",
+       "lat": "aj, dobar aber ti donesoa.",
+       "en": "ah, they have brought you good news."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стадо ти се, домаќине, објагнало,",
+       "lat": "Stado ti se, domaḱine, objagnalo,",
+       "en": "Your flock, host, has lambed,"
+      },
+      {
+       "cyr": "ах, половина облизнило.",
+       "lat": "ah, polovina obliznilo.",
+       "en": "ah, half of them are tweens."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жена ти се, домаќине, породила,",
+       "lat": "Žena ti se, domaḱine, porodila,",
+       "en": "Host, your wife has given birth,"
+      },
+      {
+       "cyr": "ај, породила машко дете.",
+       "lat": "aj, porodila maško dete.",
+       "en": "ah, she has given birth to a son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Домаќине, денес се јаде и пие,",
+       "lat": "Domaḱine, denes se jade i pie,",
+       "en": "Host, today we eat and drink,"
+      },
+      {
+       "cyr": "ах, денес се свадба прави.",
+       "lat": "ah, denes se svadba pravi.",
+       "en": "ah, today we have a wedding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако спиеш, домаќине разбуди се,",
+       "lat": "Ako spieš, domaḱine razbudi se,",
+       "en": "If you are sleeping, host, wake up,"
+      },
+      {
+       "cyr": "ако пиеш, домаќине развесели се,",
+       "lat": "ako pieš, domaḱine razveseli se,",
+       "en": "ah, if you are drinking, host, cheer up,"
+      },
+      {
+       "cyr": "ај, ако пиеш, развесели се.",
+       "lat": "aj, ako pieš, razveseli se.",
+       "en": "ah, if you are drinking, cheer up."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false,
+ "edits": [
+  {
+   "was_cyr": "Домаќине, стадо ти се објагнало,",
+   "was_lat": "Domaḱine, stado ti se objagnalo,",
+   "was_en": "Host, your flock has lambed,",
+   "reason": "Word order follows Jordan Mitev's recording (the video on the page), per Mike on 2026-10-18. Pesna.org has the older order. English re-ordered by Claude."
+  },
+  {
+   "was_cyr": "ах, половина облизнало.",
+   "was_lat": "ah, polovina obliznalo.",
+   "was_en": "ah, half of them are tweens.",
+   "reason": "Mike hears Jordan Mitev sing 'облизнило' (2026-10-18). Pesna.org has 'облизнало'. English left as Pesna.org has it."
+  }
+ ]
+}

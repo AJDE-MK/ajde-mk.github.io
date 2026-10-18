@@ -1,0 +1,275 @@
+{
+ "id": 1291,
+ "slug": "kazhi-kazhi-kjerko",
+ "title_cyr": "Кажи, кажи ќерко",
+ "title_latin": "Kaži, kaži ḱerko",
+ "title_en": "Tell Me, Tell Me, Daughter",
+ "pesna_url": "https://pesna.org/song/1291",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Stanza 6 (Арам да му се... чурапе... да не ги ќердосе) is unclear; my reading is a curse on his socks, 'арам' = forbidden/cursed, 'ќердосе' possibly 'wear out/enjoy'. Dialect forms like к'лни and 'ќа' are as written; 'Дилми' in line 5 is my reading as 'Do you (ask) me'.",
+ "words_to_learn": [
+  {
+   "mk": "ќерко",
+   "en": "daughter (vocative)"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "мила мајко",
+   "en": "dear mother"
+  },
+  {
+   "mk": "писмо",
+   "en": "letter"
+  },
+  {
+   "mk": "Солун",
+   "en": "Salonica (Thessaloniki)"
+  },
+  {
+   "mk": "да се армасам",
+   "en": "to get engaged"
+  },
+  {
+   "mk": "заб'равам",
+   "en": "I forget"
+  },
+  {
+   "mk": "пресно сирење",
+   "en": "fresh white cheese"
+  },
+  {
+   "mk": "чурапе",
+   "en": "socks"
+  },
+  {
+   "mk": "другарите",
+   "en": "the friends"
+  },
+  {
+   "mk": "разделат",
+   "en": "they separate"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Славка Чрчева",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3257"
+  },
+  {
+   "who": "Славка Чрчева, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/3258"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи, кажи, ќерко Славко,",
+       "lat": "- Kaži, kaži, ḱerko Slavko,",
+       "en": "- Tell me, tell me, daughter Slavka,"
+      },
+      {
+       "cyr": "што си плакала,",
+       "lat": "što si plakala,",
+       "en": "why have you been crying,"
+      },
+      {
+       "cyr": "што си плакала, ле ќерко,",
+       "lat": "što si plakala, le ḱerko,",
+       "en": "why have you been crying, hey daughter,"
+      },
+      {
+       "cyr": "што си сакала?",
+       "lat": "što si sakala?",
+       "en": "what did you want?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дилми ме питаш, мори мајко,",
+       "lat": "- Dilmi me pitaš, mori majko,",
+       "en": "- Do you ask me, hey mother,"
+      },
+      {
+       "cyr": "јас ќе ти кажам,",
+       "lat": "jas ḱe ti kažam,",
+       "en": "I will tell you,"
+      },
+      {
+       "cyr": "ако знаеш, мори мајко",
+       "lat": "ako znaeš, mori majko",
+       "en": "if you know, hey mother,"
+      },
+      {
+       "cyr": "и ти ќе плачеш.",
+       "lat": "i ti ḱe plačeš.",
+       "en": "you too will cry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Писмо добив, мила мајко,",
+       "lat": "Pismo dobiv, mila majko,",
+       "en": "I got a letter, dear mother,"
+      },
+      {
+       "cyr": "од града Солуна,",
+       "lat": "od grada Soluna,",
+       "en": "from the town of Salonica,"
+      },
+      {
+       "cyr": "од града Солуна, мајко,",
+       "lat": "od grada Soluna, majko,",
+       "en": "from the town of Salonica, mother,"
+      },
+      {
+       "cyr": "од Николијата.",
+       "lat": "od Nikolijata.",
+       "en": "from Nikolija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во писмо пише, мила мајко,",
+       "lat": "Vo pismo piše, mila majko,",
+       "en": "In the letter it says, dear mother,"
+      },
+      {
+       "cyr": "да се армасам,",
+       "lat": "da se armasam,",
+       "en": "that I should get engaged,"
+      },
+      {
+       "cyr": "да не го чекам, мила мајко,",
+       "lat": "da ne go čekam, mila majko,",
+       "en": "that I should not wait for him, dear mother,"
+      },
+      {
+       "cyr": "Николијата.",
+       "lat": "Nikolijata.",
+       "en": "for Nikolija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Как' ќе му заб'равам, мајко,",
+       "lat": "Kak' ḱe mu zab'ravam, majko,",
+       "en": "How will I forget him, mother,"
+      },
+      {
+       "cyr": "белото лице,",
+       "lat": "beloto lice,",
+       "en": "his white face,"
+      },
+      {
+       "cyr": "белото му лице, мајко,",
+       "lat": "beloto mu lice, majko,",
+       "en": "his white face, mother,"
+      },
+      {
+       "cyr": "пресно сирење?",
+       "lat": "presno sirenje?",
+       "en": "like fresh white cheese?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Арам да му се, мила мајко,",
+       "lat": "Aram da mu se, mila majko,",
+       "en": "Cursed be his, dear mother, white socks,"
+      },
+      {
+       "cyr": "бел'те чурапе,",
+       "lat": "bel'te čurape,",
+       "en": "that he wears them,"
+      },
+      {
+       "cyr": "да ги носе, мила мајко,",
+       "lat": "da gi nose, mila majko,",
+       "en": "let him wear them, dear mother,"
+      },
+      {
+       "cyr": "да не ги ќердосе!",
+       "lat": "da ne gi ḱerdose!",
+       "en": "let him not wear them out!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ним го к`лни, мила ќерко,",
+       "lat": "- Nim go k`lni, mila ḱerko,",
+       "en": "- Curse him, dear daughter,"
+      },
+      {
+       "cyr": "Николијата,",
+       "lat": "Nikolijata,",
+       "en": "Nikolija,"
+      },
+      {
+       "cyr": "писмото е напишано",
+       "lat": "pismoto e napišano",
+       "en": "the letter was written"
+      },
+      {
+       "cyr": "од другарите му.",
+       "lat": "od drugarite mu.",
+       "en": "by his friends."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие сакаат, мила ќерко,",
+       "lat": "Tie sakaat, mila ḱerko,",
+       "en": "They want, dear daughter,"
+      },
+      {
+       "cyr": "да ве разделат,",
+       "lat": "da ve razdelat,",
+       "en": "to separate you two,"
+      },
+      {
+       "cyr": "да ве разделат, мила ќерко,",
+       "lat": "da ve razdelat, mila ḱerko,",
+       "en": "to separate you two, dear daughter,"
+      },
+      {
+       "cyr": "но не ќе можат.",
+       "lat": "no ne ḱe možat.",
+       "en": "but they will not be able to."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

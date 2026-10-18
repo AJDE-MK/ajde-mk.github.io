@@ -1,0 +1,217 @@
+{
+ "id": 143,
+ "slug": "te-kazhuvaet-bre-ilinoj-mome",
+ "title_cyr": "Те кажувает бре, Илиној моме",
+ "title_latin": "Te kažuvaet bre, Ilinoj mome",
+ "title_en": "People praise you, Ilina girl",
+ "pesna_url": "https://pesna.org/song/143",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Гога Зафировски",
+  "Здравко Мандаджиев",
+  "Игнат Виденов",
+  "Наум Петрески",
+  "Чардаш"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1298"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1299"
+  },
+  {
+   "who": "Чардаш",
+   "url": "https://pesna.org/audio-download/1300"
+  },
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2443"
+  },
+  {
+   "who": "Игнат Виденов",
+   "url": "https://pesna.org/audio-download/3139"
+  },
+  {
+   "who": "Здравко Мандаджиев",
+   "url": "https://pesna.org/audio-download/3140"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Те кажувает бре, Илиној моме,",
+       "lat": "- Te kažuvaet bre, Ilinoj mome,",
+       "en": "People praise you, Ilina girl",
+       "en_mt": false
+      },
+      {
+       "cyr": "да си тенко плело",
+       "lat": "da si tenko plelo",
+       "en": "that you can knit so thin",
+       "en_mt": false
+      },
+      {
+       "cyr": "и ситно си ткало.",
+       "lat": "i sitno si tkalo.",
+       "en": "and that you can weave so precise.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ја ќа ти дада бре, Илино моме",
+       "lat": "Ja ḱa ti dada bre, Ilino mome",
+       "en": "I will give you, Ilina girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еден стодрам памук,",
+       "lat": "eden stodram pamuk,",
+       "en": "a hundred drams of cotton,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еден сто драм памук.",
+       "lat": "eden sto dram pamuk.",
+       "en": "a hundred drams of cotton.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти да ми исткајеш бре, Илиној моме",
+       "lat": "Ti da mi istkaješ bre, Ilinoj mome",
+       "en": "You will weave for me, Ilina girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "триста лакти платно,",
+       "lat": "trista lakti platno,",
+       "en": "three hundred cubits of canvas,",
+       "en_mt": false
+      },
+      {
+       "cyr": "триста лакти платно.",
+       "lat": "trista lakti platno.",
+       "en": "three hundred cubits of canvas.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Шо ќе ти останет бре, Илиној моме",
+       "lat": "Šo ḱe ti ostanet bre, Ilinoj mome",
+       "en": "With whatever is left, Ilina girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "една бела риза,",
+       "lat": "edna bela riza,",
+       "en": "weave for me one white towel,",
+       "en_mt": false
+      },
+      {
+       "cyr": "една бела риза.",
+       "lat": "edna bela riza.",
+       "en": "one white towel.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Те кажувајет бре, ковенџи Петре (кувенџи Ѓорѓи)",
+       "lat": "- Te kažuvajet bre, kovendži Petre (kuvendži Ǵorǵi)",
+       "en": "People praise you, silversmith Peter (or George),",
+       "en_mt": false
+      },
+      {
+       "cyr": "да си мајстор било,",
+       "lat": "da si majstor bilo,",
+       "en": "that you are a great craftsman,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да си мајстор било.",
+       "lat": "da si majstor bilo.",
+       "en": "that you are a great craftsman.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ја ќа ти дада бре, ковенџи Петре",
+       "lat": "Ja ḱa ti dada bre, kovendži Petre",
+       "en": "I will give you, silversmith Peter",
+       "en_mt": false
+      },
+      {
+       "cyr": "една стара пара,",
+       "lat": "edna stara para,",
+       "en": "one old coin,",
+       "en_mt": false
+      },
+      {
+       "cyr": "една стара пара.",
+       "lat": "edna stara para.",
+       "en": "one old coin.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти да ми направиш бре, ковенџи Петре",
+       "lat": "Ti da mi napraviš bre, kovendži Petre",
+       "en": "You will craft for me, silversmith Peter,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еден сребрен разбој,",
+       "lat": "eden srebren razboj,",
+       "en": "one silver loom,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еден сребрен разбој.",
+       "lat": "eden srebren razboj.",
+       "en": "one silver loom.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Шо ќе ти престанет бре, ковенџи Петре",
+       "lat": "Šo ḱe ti prestanet bre, kovendži Petre",
+       "en": "With whatever is left, silversmith Peter,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еден сребрен прстен,",
+       "lat": "eden srebren prsten,",
+       "en": "one silver ring,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еден сребрен прстен.",
+       "lat": "eden srebren prsten.",
+       "en": "one silver ring.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

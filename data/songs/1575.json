@@ -1,0 +1,222 @@
+{
+ "id": 1575,
+ "slug": "al-da-bi-ja-nashlo-nashata-komshika",
+ "title_cyr": "Ал да би ја нашло нашата комшика",
+ "title_latin": "Al da bi ja našlo našata komšika",
+ "title_en": "If only our neighbor woman would find her",
+ "pesna_url": "https://pesna.org/song/1575",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional town song from Veles; origin otherwise unclear. 'прааџика' and 'јорганџика' are my reading (a woman associated with a trade or with quilts), and the Asija lines are obscure, so those are guesses.",
+ "words_to_learn": [
+  {
+   "mk": "мамо",
+   "en": "mother (vocative)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "налони",
+   "en": "wooden clogs"
+  },
+  {
+   "mk": "ѓердани",
+   "en": "necklaces (beaded or coin)"
+  },
+  {
+   "mk": "ѕвецка",
+   "en": "jingles"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "tip, gratuity"
+  },
+  {
+   "mk": "мерак",
+   "en": "fancy, passion, delight"
+  },
+  {
+   "mk": "накити се",
+   "en": "adorn yourself"
+  },
+  {
+   "mk": "којничани",
+   "en": "people of Kojnik (a Veles neighborhood)"
+  }
+ ],
+ "performers": [
+  "Група Кактус",
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4108"
+  },
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4109"
+  },
+  {
+   "who": "Група Кактус",
+   "url": "https://pesna.org/audio-download/4110"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ал да би ја нашло мамо",
+       "lat": "- Al da bi ja našlo mamo",
+       "en": "- If only she would find her, mother,"
+      },
+      {
+       "cyr": "нашата комшика.",
+       "lat": "našata komšika.",
+       "en": "our neighbor woman."
+      },
+      {
+       "cyr": "Многу е таа прааџика, мамо,",
+       "lat": "Mnogu e taa praadžika, mamo,",
+       "en": "She is a great one for ..., mother,"
+      },
+      {
+       "cyr": "многу е јорганџика.",
+       "lat": "mnogu e jorgandžika.",
+       "en": "she is a great one for quilts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Којникот го шета мамо",
+       "lat": "Kojnikot go šeta mamo",
+       "en": "She strolls through Kojnik, mother,"
+      },
+      {
+       "cyr": "бело променета.",
+       "lat": "belo promeneta.",
+       "en": "dressed up in white."
+      },
+      {
+       "cyr": "Со налони тропа, мамо,",
+       "lat": "So naloni tropa, mamo,",
+       "en": "She clatters in clogs, mother,"
+      },
+      {
+       "cyr": "со ѓердани ѕвецка.",
+       "lat": "so ǵerdani dzvecka.",
+       "en": "she jingles with necklaces."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусти којничани мамо",
+       "lat": "Pusti kojničani mamo",
+       "en": "The Kojnik folk, poor things, mother,"
+      },
+      {
+       "cyr": "многу овардари",
+       "lat": "mnogu ovardari",
+       "en": "very many of them watchmen,"
+      },
+      {
+       "cyr": "капи ѝ симињаја, мамо,",
+       "lat": "kapi ì siminjaja, mamo,",
+       "en": "they toss her caps, mother,"
+      },
+      {
+       "cyr": "бакшиш ѝ даваја.",
+       "lat": "bakšiš ì davaja.",
+       "en": "they give her tips."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И моето либе, мамо,",
+       "lat": "I moeto libe, mamo,",
+       "en": "And my sweetheart, mother,"
+      },
+      {
+       "cyr": "мерак ѝ фрлило.",
+       "lat": "merak ì frlilo.",
+       "en": "has taken a fancy to her."
+      },
+      {
+       "cyr": "По цел ноќ не иде, мамо,",
+       "lat": "Po cel noḱ ne ide, mamo,",
+       "en": "He doesn't come all night, mother,"
+      },
+      {
+       "cyr": "со мене не спие.",
+       "lat": "so mene ne spie.",
+       "en": "he doesn't sleep with me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И ти промени се, ќерко,",
+       "lat": "- I ti promeni se, ḱerko,",
+       "en": "- You change too, daughter,"
+      },
+      {
+       "cyr": "и ти накити се.",
+       "lat": "i ti nakiti se.",
+       "en": "you dress up too."
+      },
+      {
+       "cyr": "Со налони тропај ќерко,",
+       "lat": "So naloni tropaj ḱerko,",
+       "en": "Clatter in clogs, daughter,"
+      },
+      {
+       "cyr": "со ѓердани ѕвецкај.",
+       "lat": "so ǵerdani dzveckaj.",
+       "en": "jingle with necklaces."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Асија ќе стане, ќерко,",
+       "lat": "Asija ḱe stane, ḱerko,",
+       "en": "Asija will stand up, daughter,"
+      },
+      {
+       "cyr": "тој на којничани",
+       "lat": "toj na kojničani",
+       "en": "he, in front of the Kojnik folk"
+      },
+      {
+       "cyr": "нема да те даде, ќерко,",
+       "lat": "nema da te dade, ḱerko,",
+       "en": "will not give you away, daughter,"
+      },
+      {
+       "cyr": "они да те љубат.",
+       "lat": "oni da te ljubat.",
+       "en": "for them to love you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

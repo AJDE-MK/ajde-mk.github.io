@@ -1,0 +1,151 @@
+{
+ "id": 1621,
+ "slug": "zhaklina",
+ "title_cyr": "Жаклина",
+ "title_latin": "Žaklina",
+ "title_en": "Zhaklina",
+ "pesna_url": "https://pesna.org/song/1621",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Антонио Трајковски",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/4310"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4311"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Душава само знае",
+       "lat": "Dušava samo znae",
+       "en": "This soul only knows"
+      },
+      {
+       "cyr": "колку љубов јас за тебе чувам.",
+       "lat": "kolku ljubov jas za tebe čuvam.",
+       "en": "how much love I keep for you."
+      },
+      {
+       "cyr": "За тебе солза сјае",
+       "lat": "Za tebe solza sjae",
+       "en": "A tear shines for you"
+      },
+      {
+       "cyr": "денови јас многу тажни имам.",
+       "lat": "denovi jas mnogu tažni imam.",
+       "en": "I have very sad days."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жаклина, љубов моја,",
+       "lat": "Žaklina, ljubov moja,",
+       "en": "Zhaklina (Jacqueline), my love,"
+      },
+      {
+       "cyr": "Жаклина, желбо моја.",
+       "lat": "Žaklina, želbo moja.",
+       "en": "Zhaklina, my desire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Години, лета минат,",
+       "lat": "Godini, leta minat,",
+       "en": "Years, summers have passed,"
+      },
+      {
+       "cyr": "каде ли си, сакам да те видам.",
+       "lat": "kade li si, sakam da te vidam.",
+       "en": "where are you, I want to see you."
+      },
+      {
+       "cyr": "Помисли, среќна беше,",
+       "lat": "Pomisli, sreḱna beše,",
+       "en": "Think, you were happy,"
+      },
+      {
+       "cyr": "долги ноќи јас те љубов мила.",
+       "lat": "dolgi noḱi jas te ljubov mila.",
+       "en": "long nights I love you dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жаклина, љубов моја,",
+       "lat": "Žaklina, ljubov moja,",
+       "en": "Zhaklina, my love,"
+      },
+      {
+       "cyr": "Жаклина, желбо моја.",
+       "lat": "Žaklina, želbo moja.",
+       "en": "Zhaklina, my desire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запејте една песна,",
+       "lat": "Zapejte edna pesna,",
+       "en": "Sing a song,"
+      },
+      {
+       "cyr": "тешко ми е, душава ми гори.",
+       "lat": "teško mi e, dušava mi gori.",
+       "en": "it's hard for me, my soul burns."
+      },
+      {
+       "cyr": "Тагата не е лесна",
+       "lat": "Tagata ne e lesna",
+       "en": "Sadness is not easy"
+      },
+      {
+       "cyr": "кога седам самиот до зори.",
+       "lat": "koga sedam samiot do zori.",
+       "en": "when I sit alone until dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жаклина, љубов моја,",
+       "lat": "Žaklina, ljubov moja,",
+       "en": "Zhaklina, my love,"
+      },
+      {
+       "cyr": "Жаклина, желбо моја.",
+       "lat": "Žaklina, želbo moja.",
+       "en": "Zhaklina, my desire."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

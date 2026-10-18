@@ -1,0 +1,315 @@
+{
+ "id": 1277,
+ "slug": "kakvo-chudo-golemo",
+ "title_cyr": "Какво чудо големо",
+ "title_latin": "Kakvo čudo golemo",
+ "title_en": "What a great wonder",
+ "pesna_url": "https://pesna.org/song/1277",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (children's or folk-style song). 'Скорушанче' and 'габрешанче' look like 'person from Skorusha / Gabresh' (my reading, unsure); 'до овчарче' as 'next to the little shepherd' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "чудо",
+   "en": "wonder, marvel"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "гајда",
+   "en": "bagpipe"
+  },
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "овчарче",
+   "en": "little shepherd"
+  },
+  {
+   "mk": "шубарче",
+   "en": "little fur hat"
+  },
+  {
+   "mk": "саиче",
+   "en": "little sleeveless wool coat (diminutive of саја)"
+  },
+  {
+   "mk": "настранило",
+   "en": "tilted to the side"
+  },
+  {
+   "mk": "станало",
+   "en": "has happened / has got up"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Танев",
+  "Наум Петрески",
+  "Октет Македонија"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/3215"
+  },
+  {
+   "who": "Ѓорѓи Танев",
+   "url": "https://pesna.org/audio-download/3216"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/3217"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ајде де,",
+       "lat": "Ej, ajde de,",
+       "en": "Hey, come on,"
+      },
+      {
+       "cyr": "што е чудо станало,",
+       "lat": "što e čudo stanalo,",
+       "en": "what a wonder has happened,"
+      },
+      {
+       "cyr": "какво чудо големо,",
+       "lat": "kakvo čudo golemo,",
+       "en": "what a great wonder,"
+      },
+      {
+       "cyr": "цело село станало,",
+       "lat": "celo selo stanalo,",
+       "en": "the whole village has got up,"
+      },
+      {
+       "cyr": "цело село на оро.",
+       "lat": "celo selo na oro.",
+       "en": "the whole village to the dance."
+      },
+      {
+       "cyr": "Гајда свири: либ, либ, либ,",
+       "lat": "Gajda sviri: lib, lib, lib,",
+       "en": "The bagpipe plays: lib, lib, lib,"
+      },
+      {
+       "cyr": "тапан чука: рум, дум, дум.",
+       "lat": "tapan čuka: rum, dum, dum.",
+       "en": "the drum beats: rum, dum, dum."
+      },
+      {
+       "cyr": "Какво чудо големо,",
+       "lat": "Kakvo čudo golemo,",
+       "en": "What a great wonder,"
+      },
+      {
+       "cyr": "цело село на оро,",
+       "lat": "celo selo na oro,",
+       "en": "the whole village at the dance,"
+      },
+      {
+       "cyr": "рум, дум, дум, дум,",
+       "lat": "rum, dum, dum, dum,",
+       "en": "rum, dum, dum, dum,"
+      },
+      {
+       "cyr": "рум, дум, дум.",
+       "lat": "rum, dum, dum.",
+       "en": "rum, dum, dum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ајде де,",
+       "lat": "Ej, ajde de,",
+       "en": "Hey, come on,"
+      },
+      {
+       "cyr": "оро води овчарче,",
+       "lat": "oro vodi ovčarče,",
+       "en": "a little shepherd leads the dance,"
+      },
+      {
+       "cyr": "море какво овчарче?",
+       "lat": "more kakvo ovčarče?",
+       "en": "hey, what little shepherd?"
+      },
+      {
+       "cyr": "Овчарче, скорушанче,",
+       "lat": "Ovčarče, skorušanče,",
+       "en": "A little shepherd, little early one from Skorusha,"
+      },
+      {
+       "cyr": "настранило шубарче.",
+       "lat": "nastranilo šubarče.",
+       "en": "he has tilted his little fur hat to the side."
+      },
+      {
+       "cyr": "Гајда свири: либ, либ, либ,",
+       "lat": "Gajda sviri: lib, lib, lib,",
+       "en": "The bagpipe plays: lib, lib, lib,"
+      },
+      {
+       "cyr": "тапан чука: рум, дум, дум.",
+       "lat": "tapan čuka: rum, dum, dum.",
+       "en": "the drum beats: rum, dum, dum."
+      },
+      {
+       "cyr": "Оро води овчарче,",
+       "lat": "Oro vodi ovčarče,",
+       "en": "A little shepherd leads the dance,"
+      },
+      {
+       "cyr": "овчарче, скорушанче,",
+       "lat": "ovčarče, skorušanče,",
+       "en": "little shepherd, little early one from Skorusha,"
+      },
+      {
+       "cyr": "рум, дум, дум, дум,",
+       "lat": "rum, dum, dum, dum,",
+       "en": "rum, dum, dum, dum,"
+      },
+      {
+       "cyr": "рум, дум, дум.",
+       "lat": "rum, dum, dum.",
+       "en": "rum, dum, dum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ајде де,",
+       "lat": "Ej, ajde de,",
+       "en": "Hey, come on,"
+      },
+      {
+       "cyr": "до овчарче, девојче,",
+       "lat": "do ovčarče, devojče,",
+       "en": "next to the little shepherd, a girl,"
+      },
+      {
+       "cyr": "море какво девојче?",
+       "lat": "more kakvo devojče?",
+       "en": "hey, what girl?"
+      },
+      {
+       "cyr": "Девојче, габрешанче,",
+       "lat": "Devojče, gabrešanče,",
+       "en": "A girl, little one from Gabresh,"
+      },
+      {
+       "cyr": "со везено саиче.",
+       "lat": "so vezeno saiče.",
+       "en": "with an embroidered little sleeveless coat."
+      },
+      {
+       "cyr": "Гајда свири: либ, либ, либ,",
+       "lat": "Gajda sviri: lib, lib, lib,",
+       "en": "The bagpipe plays: lib, lib, lib,"
+      },
+      {
+       "cyr": "тапан чука: рум, дум, дум.",
+       "lat": "tapan čuka: rum, dum, dum.",
+       "en": "the drum beats: rum, dum, dum."
+      },
+      {
+       "cyr": "Девојче, габрешанче,",
+       "lat": "Devojče, gabrešanče,",
+       "en": "A girl, little one from Gabresh,"
+      },
+      {
+       "cyr": "со плетено саиче,",
+       "lat": "so pleteno saiče,",
+       "en": "with a knitted little sleeveless coat,"
+      },
+      {
+       "cyr": "рум, дум, дум, дум,",
+       "lat": "rum, dum, dum, dum,",
+       "en": "rum, dum, dum, dum,"
+      },
+      {
+       "cyr": "рум, дум, дум.",
+       "lat": "rum, dum, dum.",
+       "en": "rum, dum, dum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ајде де,",
+       "lat": "Ej, ajde de,",
+       "en": "Hey, come on,"
+      },
+      {
+       "cyr": "што е чудо станало,",
+       "lat": "što e čudo stanalo,",
+       "en": "what a wonder has happened,"
+      },
+      {
+       "cyr": "какво чудо големо,",
+       "lat": "kakvo čudo golemo,",
+       "en": "what a great wonder,"
+      },
+      {
+       "cyr": "цело село станало,",
+       "lat": "celo selo stanalo,",
+       "en": "the whole village has got up,"
+      },
+      {
+       "cyr": "цело село на оро.",
+       "lat": "celo selo na oro.",
+       "en": "the whole village to the dance."
+      },
+      {
+       "cyr": "Гајда свири: либ, либ, либ,",
+       "lat": "Gajda sviri: lib, lib, lib,",
+       "en": "The bagpipe plays: lib, lib, lib,"
+      },
+      {
+       "cyr": "тапан чука: рум, дум, дум.",
+       "lat": "tapan čuka: rum, dum, dum.",
+       "en": "the drum beats: rum, dum, dum."
+      },
+      {
+       "cyr": "Какво чудо големо,",
+       "lat": "Kakvo čudo golemo,",
+       "en": "What a great wonder,"
+      },
+      {
+       "cyr": "цело село на оро,",
+       "lat": "celo selo na oro,",
+       "en": "the whole village at the dance,"
+      },
+      {
+       "cyr": "рум, дум, дум, дум,",
+       "lat": "rum, dum, dum, dum,",
+       "en": "rum, dum, dum, dum,"
+      },
+      {
+       "cyr": "рум, дум, дум.",
+       "lat": "rum, dum, dum.",
+       "en": "rum, dum, dum."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

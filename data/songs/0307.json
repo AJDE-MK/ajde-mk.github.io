@@ -1,0 +1,157 @@
+{
+ "id": 307,
+ "slug": "si-pominav-pokraj-bitola",
+ "title_cyr": "Си поминав покрај Битола",
+ "title_latin": "Si pominav pokraj Bitola",
+ "title_en": "I was passing by Bitola",
+ "pesna_url": "https://pesna.org/song/307",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional song, origin unclear. 'калешо' is a dialect word I am unsure of; my reading is 'lovely, the chosen one' (from калеш, invite).",
+ "words_to_learn": [
+  {
+   "mk": "поминав",
+   "en": "I passed by"
+  },
+  {
+   "mk": "заминав",
+   "en": "I was going away"
+  },
+  {
+   "mk": "покрај",
+   "en": "past, beside"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, young woman"
+  },
+  {
+   "mk": "убаво",
+   "en": "beautiful"
+  },
+  {
+   "mk": "сиромашко",
+   "en": "poor (masc., dialect form)"
+  },
+  {
+   "mk": "земам",
+   "en": "I take, I marry"
+  }
+ ],
+ "performers": [
+  "Староградски ансамбл Битола"
+ ],
+ "audio": [
+  {
+   "who": "Староградски ансамбл Битола",
+   "url": "https://pesna.org/audio-download/3319"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си поминав си заминав",
+       "lat": "Si pominav si zaminav",
+       "en": "I was passing, I was going by"
+      },
+      {
+       "cyr": "покрај Битола,",
+       "lat": "pokraj Bitola,",
+       "en": "past Bitola,"
+      },
+      {
+       "cyr": "трала ла ла ла ла",
+       "lat": "trala la la la la",
+       "en": "trala la la la la"
+      },
+      {
+       "cyr": "покрај Битола.",
+       "lat": "pokraj Bitola.",
+       "en": "past Bitola."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' си најдов, там си најдов",
+       "lat": "Tam' si najdov, tam si najdov",
+       "en": "There I found, there I found"
+      },
+      {
+       "cyr": "моме убаво,",
+       "lat": "mome ubavo,",
+       "en": "a beautiful girl,"
+      },
+      {
+       "cyr": "трала ла ла ла ла",
+       "lat": "trala la la la la",
+       "en": "trala la la la la"
+      },
+      {
+       "cyr": "моме калешо.",
+       "lat": "mome kalešo.",
+       "en": "a girl, a lovely one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори моме, малој моме",
+       "lat": "- Mori mome, maloj mome",
+       "en": "- Hey girl, young girl"
+      },
+      {
+       "cyr": "колку те сакам,",
+       "lat": "kolku te sakam,",
+       "en": "how much I love you,"
+      },
+      {
+       "cyr": "трала ла ла ла ла",
+       "lat": "trala la la la la",
+       "en": "trala la la la la"
+      },
+      {
+       "cyr": "колку те сакам.",
+       "lat": "kolku te sakam.",
+       "en": "how much I love you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пари немам да те земам",
+       "lat": "Pari nemam da te zemam",
+       "en": "I have no money to marry you"
+      },
+      {
+       "cyr": "сум сиромашко,",
+       "lat": "sum siromaško,",
+       "en": "I am poor,"
+      },
+      {
+       "cyr": "трала ла ла ла ла",
+       "lat": "trala la la la la",
+       "en": "trala la la la la"
+      },
+      {
+       "cyr": "сум сиромашко.",
+       "lat": "sum siromaško.",
+       "en": "I am poor."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

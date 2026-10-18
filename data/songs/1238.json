@@ -1,0 +1,219 @@
+{
+ "id": 1238,
+ "slug": "kinisa-da-oda-o-v-mbel-na-gosti",
+ "title_cyr": "Киниса да ода о В'мбел на гости",
+ "title_latin": "Kinisa da oda o V'mbel na gosti",
+ "title_en": "I Set Off to Visit Vambel",
+ "pesna_url": "https://pesna.org/song/1238",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Aegean Macedonian dialect from Vambel (now destroyed): 'ојду дур де ојду', 'п'лни бележици', 'јаска ж'лна', 'дади' (give) are my reading. The source note says Vambel was a Macedonian village in Aegean Macedonia destroyed in the Greek Civil War.",
+ "words_to_learn": [
+  {
+   "mk": "киниса",
+   "en": "I set off"
+  },
+  {
+   "mk": "на гости",
+   "en": "to visit, as a guest"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "абер",
+   "en": "news, message"
+  },
+  {
+   "mk": "врни се",
+   "en": "come back (dialect)"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "бележица",
+   "en": "bracelet (dialect, my reading)"
+  },
+  {
+   "mk": "промена",
+   "en": "change of clothes"
+  },
+  {
+   "mk": "севда",
+   "en": "love-longing, passion (Turkish loan)"
+  },
+  {
+   "mk": "јатрва",
+   "en": "sister-in-law (husband's brother's wife)"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Молика",
+  "Ристана Николова",
+  "Сања Димова"
+ ],
+ "audio": [
+  {
+   "who": "Ристана Николова",
+   "url": "https://pesna.org/audio-download/3099"
+  },
+  {
+   "who": "Анета Љумаковска, Молика",
+   "url": "https://pesna.org/audio-download/3100"
+  },
+  {
+   "who": "Сања Димова",
+   "url": "https://pesna.org/audio-download/3601"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Киниса да ода,",
+       "lat": "Kinisa da oda,",
+       "en": "I set off to go,"
+      },
+      {
+       "cyr": "о В'мбел на гости.",
+       "lat": "o V'mbel na gosti.",
+       "en": "to Vambel to visit."
+      },
+      {
+       "cyr": "Ојду дур де ојду,",
+       "lat": "Ojdu dur de ojdu,",
+       "en": "I walk and walk,"
+      },
+      {
+       "cyr": "до белата чешма.",
+       "lat": "do belata češma.",
+       "en": "to the white fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седна да почина,",
+       "lat": "Sedna da počina,",
+       "en": "I sat down to rest,"
+      },
+      {
+       "cyr": "вода да с'напија.",
+       "lat": "voda da s'napija.",
+       "en": "to have a drink of water."
+      },
+      {
+       "cyr": "Аберо ми дојде:",
+       "lat": "Abero mi dojde:",
+       "en": "A messenger came to me:"
+      },
+      {
+       "cyr": "- „Врни се невесто“.",
+       "lat": "- „Vrni se nevesto“.",
+       "en": "- \"Come back, bride.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момчето ти дојде,",
+       "lat": "Momčeto ti dojde,",
+       "en": "Your young man came,"
+      },
+      {
+       "cyr": "дома не те најде.",
+       "lat": "doma ne te najde.",
+       "en": "he did not find you at home."
+      },
+      {
+       "cyr": "Туку ми те најде",
+       "lat": "Tuku mi te najde",
+       "en": "But he found you"
+      },
+      {
+       "cyr": "у мајка на гости.",
+       "lat": "u majka na gosti.",
+       "en": "visiting your mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пљусна бели р'ци,",
+       "lat": "Pljusna beli r'ci,",
+       "en": "She clapped her white hands,"
+      },
+      {
+       "cyr": "п'лни бележици.",
+       "lat": "p'lni beležici.",
+       "en": "her bracelets full of ornaments (my reading)."
+      },
+      {
+       "cyr": "Леле јаска ж'лна:",
+       "lat": "Lele jaska ž'lna:",
+       "en": "Oh, poor me, sorry me (my reading):"
+      },
+      {
+       "cyr": "кој ќе му ја дади",
+       "lat": "koj ḱe mu ja dadi",
+       "en": "who will give him"
+      },
+      {
+       "cyr": "белата промена?",
+       "lat": "belata promena?",
+       "en": "the white change of clothes?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе му ја дади",
+       "lat": "Koj ḱe mu ja dadi",
+       "en": "Who will give him"
+      },
+      {
+       "cyr": "белата промена,",
+       "lat": "belata promena,",
+       "en": "the white change of clothes,"
+      },
+      {
+       "cyr": "со севда правена?",
+       "lat": "so sevda pravena?",
+       "en": "made with love-longing?"
+      },
+      {
+       "cyr": "Нека му ја дади,",
+       "lat": "Neka mu ja dadi,",
+       "en": "Let her give it to him,"
+      },
+      {
+       "cyr": "Зоња Кољовица",
+       "lat": "Zonja Koljovica",
+       "en": "Zonja Koljovitsa"
+      },
+      {
+       "cyr": "и јатрва Кираца.",
+       "lat": "i jatrva Kiraca.",
+       "en": "and sister-in-law Kiratsa."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

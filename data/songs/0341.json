@@ -1,0 +1,176 @@
+{
+ "id": 341,
+ "slug": "oj-devojche-belo-i-crveno",
+ "title_cyr": "Ој девојче, бело и црвено",
+ "title_latin": "Oj devojče, belo i crveno",
+ "title_en": "Hey girl, white and red",
+ "pesna_url": "https://pesna.org/song/341",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Виолета Томовска",
+  "Добри Ставревски",
+  "Илија Аргиров",
+  "Нина Спирова",
+  "Петар Гигов"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1281"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1282"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/1283"
+  },
+  {
+   "who": "Петар Гигов",
+   "url": "https://pesna.org/audio-download/2326"
+  },
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/2479"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/2480"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/4180"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој девојче, бело и црвено",
+       "lat": "Oj devojče, belo i crveno",
+       "en": "Hey girl, white and red,"
+      },
+      {
+       "cyr": "како тебе, моме,",
+       "lat": "kako tebe, mome,",
+       "en": "like you, girl,"
+      },
+      {
+       "cyr": "нигде не најдов.",
+       "lat": "nigde ne najdov.",
+       "en": "I haven't found anywhere."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каква мајка беше",
+       "lat": "Kakva majka beše",
+       "en": "Who was the mother"
+      },
+      {
+       "cyr": "тебе што те роди",
+       "lat": "tebe što te rodi",
+       "en": "that gave birth to you,"
+      },
+      {
+       "cyr": "тебе што те роди",
+       "lat": "tebe što te rodi",
+       "en": "that gave birth to you"
+      },
+      {
+       "cyr": "толку убава?",
+       "lat": "tolku ubava?",
+       "en": "so beautiful?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали си Гркиња,",
+       "lat": "Dali si Grkinja,",
+       "en": "Are you Greek"
+      },
+      {
+       "cyr": "или Македонка,",
+       "lat": "ili Makedonka,",
+       "en": "or Macedonian,"
+      },
+      {
+       "cyr": "цел свет да се чуди",
+       "lat": "cel svet da se čudi",
+       "en": "the whole wolrd is wondering"
+      },
+      {
+       "cyr": "на твојта убост?",
+       "lat": "na tvojta ubost?",
+       "en": "about your beauty?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три години стана",
+       "lat": "Tri godini stana",
+       "en": "Three years have passed now"
+      },
+      {
+       "cyr": "како ме зафана,",
+       "lat": "kako me zafana,",
+       "en": "since it started,"
+      },
+      {
+       "cyr": "љуто да ме мачи",
+       "lat": "ljuto da me mači",
+       "en": "since I am tormented"
+      },
+      {
+       "cyr": "твојата љубов.",
+       "lat": "tvojata ljubov.",
+       "en": "by my love to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја земи ножето,",
+       "lat": "Ja zemi nožeto,",
+       "en": "Here, get the little knife,"
+      },
+      {
+       "cyr": "распарај срцето,",
+       "lat": "rasparaj srceto,",
+       "en": "tear my heart apart,"
+      },
+      {
+       "cyr": "таму ќе си најдеш",
+       "lat": "tamu ḱe si najdeš",
+       "en": "there you will find"
+      },
+      {
+       "cyr": "отровна љубов.",
+       "lat": "otrovna ljubov.",
+       "en": "a poisonous love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

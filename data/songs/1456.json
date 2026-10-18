@@ -1,0 +1,223 @@
+{
+ "id": 1456,
+ "slug": "sevdalino-sevdo-moja-najgolema",
+ "title_cyr": "Севдалино, севдо моја најголема",
+ "title_latin": "Sevdalino, sevdo moja najgolema",
+ "title_en": "Sevdalina, My Greatest Sevda",
+ "pesna_url": "https://pesna.org/song/1456",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern town song, no author I can name). 'бекрија' rendered as 'bachelor-drinker' is my reading; the title has 'Севдалино' while the text has 'Севдано'/'Севдало' (vocative forms of the name).",
+ "words_to_learn": [
+  {
+   "mk": "севда",
+   "en": "passionate love, longing"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "бессони",
+   "en": "sleepless"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, town market (and its gossip)"
+  },
+  {
+   "mk": "бекрија",
+   "en": "carouser, drinker"
+  },
+  {
+   "mk": "мераклија",
+   "en": "bon vivant, one who enjoys pleasures"
+  },
+  {
+   "mk": "љута ракија",
+   "en": "strong brandy"
+  },
+  {
+   "mk": "непреболена",
+   "en": "never gotten over"
+  }
+ ],
+ "performers": [
+  "Меџит Муслиоски"
+ ],
+ "audio": [
+  {
+   "who": "Меџит Муслиоски",
+   "url": "https://pesna.org/audio-download/3731"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од што те љубам, не спијам,",
+       "lat": "Od što te ljubam, ne spijam,",
+       "en": "Because I love you, I do not sleep,"
+      },
+      {
+       "cyr": "в' меани чаши испивам.",
+       "lat": "v' meani čaši ispivam.",
+       "en": "in taverns I drain glasses."
+      },
+      {
+       "cyr": "Ноќите ми се бессони,",
+       "lat": "Noḱite mi se bessoni,",
+       "en": "My nights are sleepless,"
+      },
+      {
+       "cyr": "постели без тебе студени.",
+       "lat": "posteli bez tebe studeni.",
+       "en": "beds cold without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдано, Севдо моја, што ми стори,",
+       "lat": "Sevdano, Sevdo moja, što mi stori,",
+       "en": "Sevdana, my Sevda, what have you done to me,"
+      },
+      {
+       "cyr": "љута рана на срце ми отвори.",
+       "lat": "ljuta rana na srce mi otvori.",
+       "en": "you opened a bitter wound in my heart."
+      },
+      {
+       "cyr": "Севдано, Севдо моја најголема,",
+       "lat": "Sevdano, Sevdo moja najgolema,",
+       "en": "Sevdana, my greatest Sevda,"
+      },
+      {
+       "cyr": "моја стара рано, непреболена.",
+       "lat": "moja stara rano, neprebolena.",
+       "en": "my old wound, never healed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чаршија збори за мене",
+       "lat": "Čaršija zbori za mene",
+       "en": "The bazaar talks about me,"
+      },
+      {
+       "cyr": "дека сум голем бекрија.",
+       "lat": "deka sum golem bekrija.",
+       "en": "that I am a great bachelor-drinker."
+      },
+      {
+       "cyr": "Дека сум прв мераклија,",
+       "lat": "Deka sum prv meraklija,",
+       "en": "That I am the first reveller,"
+      },
+      {
+       "cyr": "на песна и на љута ракија.",
+       "lat": "na pesna i na ljuta rakija.",
+       "en": "for song and for strong brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдано, Севдо моја, што ми стори,",
+       "lat": "Sevdano, Sevdo moja, što mi stori,",
+       "en": "Sevdana, my Sevda, what have you done to me,"
+      },
+      {
+       "cyr": "љута рана на срце ми отвори.",
+       "lat": "ljuta rana na srce mi otvori.",
+       "en": "you opened a bitter wound in my heart."
+      },
+      {
+       "cyr": "Севдано, Севдо моја најголема,",
+       "lat": "Sevdano, Sevdo moja najgolema,",
+       "en": "Sevdana, my greatest Sevda,"
+      },
+      {
+       "cyr": "моја стара рано, непреболена.",
+       "lat": "moja stara rano, neprebolena.",
+       "en": "my old wound, never healed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не слушај Севде никого,",
+       "lat": "Ne slušaj Sevde nikogo,",
+       "en": "Do not listen to anyone, Sevda,"
+      },
+      {
+       "cyr": "слушај што вели срцево.",
+       "lat": "slušaj što veli srcevo.",
+       "en": "listen to what this heart says."
+      },
+      {
+       "cyr": "Срце ми вели, говори,",
+       "lat": "Srce mi veli, govori,",
+       "en": "My heart tells me, speaks,"
+      },
+      {
+       "cyr": "двајцата да се земиме.",
+       "lat": "dvajcata da se zemime.",
+       "en": "that we two should marry."
+      },
+      {
+       "cyr": "Двајцата да се земиме,",
+       "lat": "Dvajcata da se zemime,",
+       "en": "That we two should marry,"
+      },
+      {
+       "cyr": "никогаш да не се разделиме.",
+       "lat": "nikogaš da ne se razdelime.",
+       "en": "never to part."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдало, Севдо моја, што ми стори,",
+       "lat": "Sevdalo, Sevdo moja, što mi stori,",
+       "en": "Sevdana, my Sevda, what have you done to me,"
+      },
+      {
+       "cyr": "љута рана на срце ми отвори.",
+       "lat": "ljuta rana na srce mi otvori.",
+       "en": "you opened a bitter wound in my heart."
+      },
+      {
+       "cyr": "Севдано, Севдо моја најголема,",
+       "lat": "Sevdano, Sevdo moja najgolema,",
+       "en": "Sevdana, my greatest Sevda,"
+      },
+      {
+       "cyr": "моја стара рано, непреболена.",
+       "lat": "moja stara rano, neprebolena.",
+       "en": "my old wound, never healed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

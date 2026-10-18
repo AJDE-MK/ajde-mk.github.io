@@ -1,0 +1,162 @@
+{
+ "id": 692,
+ "slug": "koga-si-bevme-mali",
+ "title_cyr": "Кога си бевме мали",
+ "title_latin": "Koga si bevme mali",
+ "title_en": "When we were young",
+ "pesna_url": "https://pesna.org/song/692",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Персиди",
+  "Прилепски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Прилепски мерак",
+   "url": "https://pesna.org/audio-download/855"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/918"
+  },
+  {
+   "who": "Персиди",
+   "url": "https://pesna.org/audio-download/1111"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога си бевме мали,",
+       "lat": "Koga si bevme mali,",
+       "en": "When we were young,"
+      },
+      {
+       "cyr": "кога си бевме мали,",
+       "lat": "koga si bevme mali,",
+       "en": "when we were young,"
+      },
+      {
+       "cyr": "кога си бевме мали мило либе",
+       "lat": "koga si bevme mali milo libe",
+       "en": "When we were young, dear,"
+      },
+      {
+       "cyr": "љубов не знаевме.",
+       "lat": "ljubov ne znaevme.",
+       "en": "we didn't know what love is."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А сега пораснавме,",
+       "lat": "A sega porasnavme,",
+       "en": "And now we have grown older,"
+      },
+      {
+       "cyr": "а сега пораснавме,",
+       "lat": "a sega porasnavme,",
+       "en": "and now we have grown older,"
+      },
+      {
+       "cyr": "а сега пораснавме мило либе",
+       "lat": "a sega porasnavme milo libe",
+       "en": "and now we have grown older, dear,"
+      },
+      {
+       "cyr": "од љубов страдаме.",
+       "lat": "od ljubov stradame.",
+       "en": "and we ache because of love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црвената ти врска,",
+       "lat": "Crvenata ti vrska,",
+       "en": "Your red tie,"
+      },
+      {
+       "cyr": "црвената ти врска,",
+       "lat": "crvenata ti vrska,",
+       "en": "your red tie,"
+      },
+      {
+       "cyr": "црвената ти врска мило либе",
+       "lat": "crvenata ti vrska milo libe",
+       "en": "your red tie, dear,"
+      },
+      {
+       "cyr": "срцето ми прска.",
+       "lat": "srceto mi prska.",
+       "en": "will explode my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Машина ќе ти купам,",
+       "lat": "Mašina ḱe ti kupam,",
+       "en": "I will buy you a sewing machine,"
+      },
+      {
+       "cyr": "машина ќе ти купам,",
+       "lat": "mašina ḱe ti kupam,",
+       "en": "I will buy you a sewing machine,"
+      },
+      {
+       "cyr": "машина ќе ти купам мило либе",
+       "lat": "mašina ḱe ti kupam milo libe",
+       "en": "I will buy you a sewing machine, dear,"
+      },
+      {
+       "cyr": "шивачка да бидеш.",
+       "lat": "šivačka da bideš.",
+       "en": "and you can sew at home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не сакам да работиш,",
+       "lat": "Ne sakam da rabotiš,",
+       "en": "I don't want you to go to work,"
+      },
+      {
+       "cyr": "не сакам да работиш,",
+       "lat": "ne sakam da rabotiš,",
+       "en": "I don't want you to go to work,"
+      },
+      {
+       "cyr": "не сакам да работиш мило либе",
+       "lat": "ne sakam da rabotiš milo libe",
+       "en": "I don't want you to go to work, dear,"
+      },
+      {
+       "cyr": "до мене да седиш.",
+       "lat": "do mene da sediš.",
+       "en": "I want you to be next to me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

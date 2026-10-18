@@ -1,0 +1,113 @@
+{
+ "id": 1256,
+ "slug": "lino-mori-lichna-sevdalino",
+ "title_cyr": "Лино мори лична севдалино",
+ "title_latin": "Lino mori lična sevdalino",
+ "title_en": "Lina, Oh Pretty Love",
+ "pesna_url": "https://pesna.org/song/1256",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a newer tavern song but no author known to me. 'Лино' is a name or endearment (vocative).",
+ "words_to_learn": [
+  {
+   "mk": "вино",
+   "en": "wine"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "ме опиваш",
+   "en": "you make me drunk"
+  },
+  {
+   "mk": "севдалина",
+   "en": "beloved (севда, love-longing)"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "росна",
+   "en": "dewy"
+  },
+  {
+   "mk": "детелина",
+   "en": "clover"
+  },
+  {
+   "mk": "мамурлија",
+   "en": "hungover person"
+  }
+ ],
+ "performers": [
+  "Борче Крстески"
+ ],
+ "audio": [
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/3173"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лино, вино ли се твоите очи?",
+       "lat": "Lino, vino li se tvoite oči?",
+       "en": "Lina, are your eyes wine?"
+      },
+      {
+       "cyr": "Ме погледаш, ме опиваш.",
+       "lat": "Me pogledaš, me opivaš.",
+       "en": "You glance at me, you make me drunk."
+      },
+      {
+       "cyr": "Лино мори лична севдалино,",
+       "lat": "Lino mori lična sevdalino,",
+       "en": "Lina, oh pretty love,"
+      },
+      {
+       "cyr": "Лино, моја росна детелино.",
+       "lat": "Lino, moja rosna detelino.",
+       "en": "Lina, my dewy clover."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По цела недела пијан одам,",
+       "lat": "Po cela nedela pijan odam,",
+       "en": "All week long I walk around drunk,"
+      },
+      {
+       "cyr": "а по месец мамурлија.",
+       "lat": "a po mesec mamurlija.",
+       "en": "and all month hungover."
+      },
+      {
+       "cyr": "Лино мори лична севдалино,",
+       "lat": "Lino mori lična sevdalino,",
+       "en": "Lina, oh pretty love,"
+      },
+      {
+       "cyr": "Лино, моја росна детелино.",
+       "lat": "Lino, moja rosna detelino.",
+       "en": "Lina, my dewy clover."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

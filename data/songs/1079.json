@@ -1,0 +1,476 @@
+{
+ "id": 1079,
+ "slug": "jana-e-shuma-gradila",
+ "title_cyr": "Јана е шума градила",
+ "title_latin": "Jana e šuma gradila",
+ "title_en": "Jana was building a forest",
+ "pesna_url": "https://pesna.org/song/1079",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Шума градила' is odd; I translated it literally, the idiom may mean something else (my reading). The first version has Bulgarian-like forms (всичко, усте) and the lilce-belilce line is my reading as cosmetics; 'ќускија' is a guess for a basket or pack.",
+ "words_to_learn": [
+  {
+   "mk": "шума",
+   "en": "forest"
+  },
+  {
+   "mk": "градила",
+   "en": "was building (fem.)"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "делија",
+   "en": "brave fellow, hero"
+  },
+  {
+   "mk": "будала",
+   "en": "fool"
+  },
+  {
+   "mk": "ќускија",
+   "en": "basket / pack (my reading)"
+  },
+  {
+   "mk": "целувнам",
+   "en": "I kiss (once)"
+  },
+  {
+   "mk": "лилце-белилце",
+   "en": "face whitener (cosmetic)"
+  }
+ ],
+ "performers": [
+  "Васил Волканов",
+  "Кавадарка",
+  "Љубимка Бисерова",
+  "Митра Бисерова",
+  "Неда Бисерова",
+  "Перун",
+  "Тајфата на Димо Дулот"
+ ],
+ "audio": [
+  {
+   "who": "Тајфата на Димо Дулот",
+   "url": "https://pesna.org/audio-download/2521"
+  },
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/2522"
+  },
+  {
+   "who": "Васил Волканов",
+   "url": "https://pesna.org/audio-download/4256"
+  },
+  {
+   "who": "Љубимка Бисерова, Митра Бисерова, Неда Бисерова",
+   "url": "https://pesna.org/audio-download/4257"
+  },
+  {
+   "who": "Кавадарка",
+   "url": "https://pesna.org/audio-download/4258"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јана е шума градила, леле,",
+       "lat": "Jana e šuma gradila, lele,",
+       "en": "Jana was building a forest, oh dear,"
+      },
+      {
+       "cyr": "Јана е шума градила,",
+       "lat": "Jana e šuma gradila,",
+       "en": "Jana was building a forest,"
+      },
+      {
+       "cyr": "градила, градила.",
+       "lat": "gradila, gradila.",
+       "en": "building, building."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До пладне шума градила, леле,",
+       "lat": "Do pladne šuma gradila, lele,",
+       "en": "Until noon she was building a forest, oh dear,"
+      },
+      {
+       "cyr": "до пладне шума градила,",
+       "lat": "do pladne šuma gradila,",
+       "en": "until noon she was building a forest,"
+      },
+      {
+       "cyr": "градила, градила.",
+       "lat": "gradila, gradila.",
+       "en": "building, building."
+      },
+      {
+       "cyr": "Од пладне момци љубила, леле,",
+       "lat": "Od pladne momci ljubila, lele,",
+       "en": "From noon she kissed lads, oh dear,"
+      },
+      {
+       "cyr": "од пладне момци љубила,",
+       "lat": "od pladne momci ljubila,",
+       "en": "from noon she kissed lads,"
+      },
+      {
+       "cyr": "љубила, љубила.",
+       "lat": "ljubila, ljubila.",
+       "en": "kissing, kissing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде Илија, леле,",
+       "lat": "Ozdola ide Ilija, lele,",
+       "en": "From below comes Ilija, oh dear,"
+      },
+      {
+       "cyr": "оздола иде Илија,",
+       "lat": "ozdola ide Ilija,",
+       "en": "from below comes Ilija,"
+      },
+      {
+       "cyr": "Илија делија.",
+       "lat": "Ilija delija.",
+       "en": "Ilija the brave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ти моме, ти моме, ти лудо ли си,",
+       "lat": "- Ti mome, ti mome, ti ludo li si,",
+       "en": "- You girl, you girl, are you crazy,"
+      },
+      {
+       "cyr": "ти моме, ти моме, ти лудо ли си ле?",
+       "lat": "ti mome, ti mome, ti ludo li si le?",
+       "en": "you girl, you girl, are you crazy, hey?"
+      },
+      {
+       "cyr": "Што љубиш, што мамиш, моето братче,",
+       "lat": "Što ljubiš, što mamiš, moeto bratče,",
+       "en": "Whom do you kiss, whom do you charm, my little brother,"
+      },
+      {
+       "cyr": "што љубиш, што мамиш, моето братче де?",
+       "lat": "što ljubiš, što mamiš, moeto bratče de?",
+       "en": "whom do you kiss, whom do you charm, my little brother, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моето, моето братче Иванче,",
+       "lat": "Moeto, moeto bratče Ivanče,",
+       "en": "My, my little brother Ivanche,"
+      },
+      {
+       "cyr": "моето, моето братче Иванче, де?",
+       "lat": "moeto, moeto bratče Ivanče, de?",
+       "en": "my, my little brother Ivanche, hey?"
+      },
+      {
+       "cyr": "- Тој на мен', тој на мен', всичко купуваше,",
+       "lat": "- Toj na men', toj na men', vsičko kupuvaše,",
+       "en": "- He bought me everything,"
+      },
+      {
+       "cyr": "тој на мен', тој на мен', всичко купуваше де.",
+       "lat": "toj na men', toj na men', vsičko kupuvaše de.",
+       "en": "he bought me everything, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На лице, на лице, лилце-белилце,",
+       "lat": "Na lice, na lice, lilce-belilce,",
+       "en": "For my face, for my face, white face-powder,"
+      },
+      {
+       "cyr": "на усте, на усте, лилце-црвилце, де.",
+       "lat": "na uste, na uste, lilce-crvilce, de.",
+       "en": "for my lips, for my lips, red lip-color, hey."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јана е шума градила",
+       "lat": "Jana e šuma gradila",
+       "en": "Jana was building a forest"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јана е шума градила, леле,",
+       "lat": "Jana e šuma gradila, lele,",
+       "en": "Jana was building a forest, oh dear,"
+      },
+      {
+       "cyr": "Јана е шума градила,",
+       "lat": "Jana e šuma gradila,",
+       "en": "Jana was building a forest,"
+      },
+      {
+       "cyr": "градила, леле, градила,",
+       "lat": "gradila, lele, gradila,",
+       "en": "building, oh dear, building,"
+      },
+      {
+       "cyr": "хеј, градила.",
+       "lat": "hej, gradila.",
+       "en": "hey, building."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До обед шума градила, леле,",
+       "lat": "Do obed šuma gradila, lele,",
+       "en": "Until noon she was building a forest, oh dear,"
+      },
+      {
+       "cyr": "след обед момци љубила,",
+       "lat": "sled obed momci ljubila,",
+       "en": "after noon she kissed lads,"
+      },
+      {
+       "cyr": "љубила, леле, љубила,",
+       "lat": "ljubila, lele, ljubila,",
+       "en": "kissing, oh dear, kissing,"
+      },
+      {
+       "cyr": "хеј, љубила.",
+       "lat": "hej, ljubila.",
+       "en": "hey, kissing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од долу иде Илија, леле,",
+       "lat": "Od dolu ide Ilija, lele,",
+       "en": "From below comes Ilija, oh dear,"
+      },
+      {
+       "cyr": "на рамо носи ќускија,",
+       "lat": "na ramo nosi ḱuskija,",
+       "en": "on his shoulder he carries a basket,"
+      },
+      {
+       "cyr": "ќускија, леле, ќускија,",
+       "lat": "ḱuskija, lele, ḱuskija,",
+       "en": "a basket, oh dear, a basket,"
+      },
+      {
+       "cyr": "хеј, ќускија.",
+       "lat": "hej, ḱuskija.",
+       "en": "hey, a basket."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И си на Јана говори, леле,",
+       "lat": "I si na Jana govori, lele,",
+       "en": "And he says to Jana, oh dear,"
+      },
+      {
+       "cyr": "и си на Јана говори,",
+       "lat": "i si na Jana govori,",
+       "en": "and he says to Jana,"
+      },
+      {
+       "cyr": "говори, леле, говори,",
+       "lat": "govori, lele, govori,",
+       "en": "says, oh dear, says,"
+      },
+      {
+       "cyr": "хеј, говори.",
+       "lat": "hej, govori.",
+       "en": "hey, says."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дај Јано да те целувнам, леле,",
+       "lat": "- Daj Jano da te celuvnam, lele,",
+       "en": "- Let me kiss you, Jana, oh dear,"
+      },
+      {
+       "cyr": "дај Јано да те целувнам,",
+       "lat": "daj Jano da te celuvnam,",
+       "en": "let me kiss you, Jana,"
+      },
+      {
+       "cyr": "целувнам, леле, целувнам,",
+       "lat": "celuvnam, lele, celuvnam,",
+       "en": "kiss, oh dear, kiss,"
+      },
+      {
+       "cyr": "хеј, целувнам.",
+       "lat": "hej, celuvnam.",
+       "en": "hey, kiss."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре, Илија, будала, леле,",
+       "lat": "- A bre, Ilija, budala, lele,",
+       "en": "- Hey, Ilija, you fool, oh dear,"
+      },
+      {
+       "cyr": "тук' ли се мома целува,",
+       "lat": "tuk' li se moma celuva,",
+       "en": "is this where a girl is kissed,"
+      },
+      {
+       "cyr": "целува, леле, целува,",
+       "lat": "celuva, lele, celuva,",
+       "en": "is kissed, oh dear, is kissed,"
+      },
+      {
+       "cyr": "хеј, целува?",
+       "lat": "hej, celuva?",
+       "en": "hey, is kissed?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да идем долу в' селото, леле,",
+       "lat": "Da idem dolu v' seloto, lele,",
+       "en": "Let's go down to the village, oh dear,"
+      },
+      {
+       "cyr": "там' ќе дам да ме целувнеш,",
+       "lat": "tam' ḱe dam da me celuvneš,",
+       "en": "there I will let you kiss me,"
+      },
+      {
+       "cyr": "целувнеш, леле, целувнеш,",
+       "lat": "celuvneš, lele, celuvneš,",
+       "en": "kiss, oh dear, kiss,"
+      },
+      {
+       "cyr": "хеј, целувнеш.",
+       "lat": "hej, celuvneš.",
+       "en": "hey, kiss."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слегоа долу в' селото, леле,",
+       "lat": "Slegoa dolu v' seloto, lele,",
+       "en": "They went down to the village, oh dear,"
+      },
+      {
+       "cyr": "слегоа долу в' селото,",
+       "lat": "slegoa dolu v' seloto,",
+       "en": "they went down to the village,"
+      },
+      {
+       "cyr": "в' селото, леле, в' селото,",
+       "lat": "v' seloto, lele, v' seloto,",
+       "en": "to the village, oh dear, to the village,"
+      },
+      {
+       "cyr": "хеј, в' селото.",
+       "lat": "hej, v' seloto.",
+       "en": "hey, to the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јана на Иљо говори, леле,",
+       "lat": "Jana na Iljo govori, lele,",
+       "en": "Jana says to Iljo, oh dear,"
+      },
+      {
+       "cyr": "- А бре, Илија, будала, леле,",
+       "lat": "- A bre, Ilija, budala, lele,",
+       "en": "- Hey, Ilija, you fool, oh dear,"
+      },
+      {
+       "cyr": "будала, леле, будала,",
+       "lat": "budala, lele, budala,",
+       "en": "fool, oh dear, fool,"
+      },
+      {
+       "cyr": "хеј, будала.",
+       "lat": "hej, budala.",
+       "en": "hey, fool."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тук' ли се мома целува, леле,",
+       "lat": "Tuk' li se moma celuva, lele,",
+       "en": "Is this where a girl is kissed, oh dear,"
+      },
+      {
+       "cyr": "тук' ли се мома целува,",
+       "lat": "tuk' li se moma celuva,",
+       "en": "is this where a girl is kissed,"
+      },
+      {
+       "cyr": "целува, леле, целува,",
+       "lat": "celuva, lele, celuva,",
+       "en": "is kissed, oh dear, is kissed,"
+      },
+      {
+       "cyr": "хеј, целува?",
+       "lat": "hej, celuva?",
+       "en": "hey, is kissed?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

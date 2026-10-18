@@ -1,0 +1,173 @@
+{
+ "id": 498,
+ "slug": "a-bre-makedonche-ti-vardarsko-pile",
+ "title_cyr": "А бре Македонче ти вардарско пиле",
+ "title_latin": "A bre Makedonče ti vardarsko pile",
+ "title_en": "Hey Macedonian, You Bird of the Vardar",
+ "pesna_url": "https://pesna.org/song/498",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Пусија' is rendered 'ambush' (from Turkish pusu), my reading. 'Македонче' is a diminutive, 'little Macedonian'.",
+ "words_to_learn": [
+  {
+   "mk": "а бре",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "пиле",
+   "en": "bird, chick (also endearment)"
+  },
+  {
+   "mk": "поноќно време",
+   "en": "midnight time"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy, alas (Turkish loan)"
+  },
+  {
+   "mk": "пусија",
+   "en": "ambush"
+  },
+  {
+   "mk": "Солун",
+   "en": "Salonica (Thessaloniki)"
+  },
+  {
+   "mk": "немој",
+   "en": "do not"
+  },
+  {
+   "mk": "чекат",
+   "en": "they wait"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Алпина",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Алпина",
+   "url": "https://pesna.org/audio-download/1095"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1254"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре Македонче ти вардарско пиле",
+       "lat": "A bre Makedonče ti vardarsko pile",
+       "en": "Hey, Macedonian, you bird of the Vardar,"
+      },
+      {
+       "cyr": "каде ќе одиш по ноќно време",
+       "lat": "kade ḱe odiš po noḱno vreme",
+       "en": "where are you going at night time,"
+      },
+      {
+       "cyr": "аман, аман, поноќно време.",
+       "lat": "aman, aman, ponoḱno vreme.",
+       "en": "mercy, mercy, at midnight?"
+      },
+      {
+       "cyr": "Тебе ми те чекат абре Македонче",
+       "lat": "Tebe mi te čekat abre Makedonče",
+       "en": "They are waiting for you, hey Macedonian,"
+      },
+      {
+       "cyr": "тебе ми те чекат до три пусии,",
+       "lat": "tebe mi te čekat do tri pusii,",
+       "en": "they are waiting for you at three ambushes,"
+      },
+      {
+       "cyr": "аман, аман, аман до три пусии.",
+       "lat": "aman, aman, aman do tri pusii.",
+       "en": "mercy, mercy, mercy, at three ambushes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва пусија абре Македонче",
+       "lat": "Prva pusija abre Makedonče",
+       "en": "The first ambush, hey Macedonian,"
+      },
+      {
+       "cyr": "прва пусија града Прилепа",
+       "lat": "prva pusija grada Prilepa",
+       "en": "the first ambush, the city of Prilep,"
+      },
+      {
+       "cyr": "аман, аман, аман града Прилепа.",
+       "lat": "aman, aman, aman grada Prilepa.",
+       "en": "mercy, mercy, mercy, the city of Prilep."
+      },
+      {
+       "cyr": "Втора пусија абре Македонче",
+       "lat": "Vtora pusija abre Makedonče",
+       "en": "The second ambush, hey Macedonian,"
+      },
+      {
+       "cyr": "втора пусија града Битола",
+       "lat": "vtora pusija grada Bitola",
+       "en": "the second ambush, the city of Bitola,"
+      },
+      {
+       "cyr": "аман, аман, аман града Битола.",
+       "lat": "aman, aman, aman grada Bitola.",
+       "en": "mercy, mercy, mercy, the city of Bitola."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трета пусија абре Македонче",
+       "lat": "Treta pusija abre Makedonče",
+       "en": "The third ambush, hey Macedonian,"
+      },
+      {
+       "cyr": "трета пусија града Солуна",
+       "lat": "treta pusija grada Soluna",
+       "en": "the third ambush, the city of Salonica,"
+      },
+      {
+       "cyr": "аман, аман, аман града Солуна.",
+       "lat": "aman, aman, aman grada Soluna.",
+       "en": "mercy, mercy, mercy, the city of Salonica."
+      },
+      {
+       "cyr": "Абре Македонче ти вардарско пиле",
+       "lat": "Abre Makedonče ti vardarsko pile",
+       "en": "Hey Macedonian, you bird of the Vardar,"
+      },
+      {
+       "cyr": "немој да одиш по ноќно време",
+       "lat": "nemoj da odiš po noḱno vreme",
+       "en": "do not go at night time,"
+      },
+      {
+       "cyr": "аман, аман, аман по ноќно време.",
+       "lat": "aman, aman, aman po noḱno vreme.",
+       "en": "mercy, mercy, mercy, at night time."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

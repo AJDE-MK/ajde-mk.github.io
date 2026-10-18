@@ -1,0 +1,241 @@
+{
+ "id": 887,
+ "slug": "svekrvice-mori",
+ "title_cyr": "Свекрвице мори",
+ "title_latin": "Svekrvice mori",
+ "title_en": "Mother-in-law, hey",
+ "pesna_url": "https://pesna.org/song/887",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The nonsense-looking refrain 'Иљче море џан, медор мол сенга, ајде елем дотурма' is my reading only and seems to be Turkish-flavoured filler, so those words are left mostly untranslated; 'чифтели чапуљ' (çiftetelli dancer, scoundrel) and 'пуш' (worthless) are also guesses.",
+ "words_to_learn": [
+  {
+   "mk": "свекрвица",
+   "en": "mother-in-law (affectionate/address form)"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "пијаница",
+   "en": "drunkard"
+  },
+  {
+   "mk": "беља",
+   "en": "trouble, misfortune"
+  },
+  {
+   "mk": "бесно куче",
+   "en": "rabid dog"
+  },
+  {
+   "mk": "џан / џанам",
+   "en": "dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "се задирам",
+   "en": "to pick on, provoke"
+  }
+ ],
+ "performers": [
+  "Светлана Радовска"
+ ],
+ "audio": [
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1931"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свекрвице мори,",
+       "lat": "Svekrvice mori,",
+       "en": "Mother-in-law, hey,"
+      },
+      {
+       "cyr": "нели имам т'нка снага",
+       "lat": "neli imam t'nka snaga",
+       "en": "do I not have a slender waist"
+      },
+      {
+       "cyr": "за сина ти?",
+       "lat": "za sina ti?",
+       "en": "for your son?"
+      },
+      {
+       "cyr": "Нели ти е син ти",
+       "lat": "Neli ti e sin ti",
+       "en": "Isn't your son"
+      },
+      {
+       "cyr": "чифтели чапуљ,",
+       "lat": "čifteli čapulj,",
+       "en": "a çiftetelli-dancing scoundrel,"
+      },
+      {
+       "cyr": "пуш пијаница,",
+       "lat": "puš pijanica,",
+       "en": "a worthless drunkard,"
+      },
+      {
+       "cyr": "по меане иде,",
+       "lat": "po meane ide,",
+       "en": "he goes around the taverns,"
+      },
+      {
+       "cyr": "рујно вино пие,",
+       "lat": "rujno vino pie,",
+       "en": "drinks ruby-red wine,"
+      },
+      {
+       "cyr": "со мене не спие?",
+       "lat": "so mene ne spie?",
+       "en": "and does not sleep with me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' да го најде,",
+       "lat": "Dal' da go najde,",
+       "en": "May it find him,"
+      },
+      {
+       "cyr": "што беља не снајде,",
+       "lat": "što belja ne snajde,",
+       "en": "the trouble that has not found (him yet),"
+      },
+      {
+       "cyr": "бесно куче.",
+       "lat": "besno kuče.",
+       "en": "the rabid dog."
+      },
+      {
+       "cyr": "Иљче море џан,",
+       "lat": "Iljče more džan,",
+       "en": "Ilche, hey, my dear,"
+      },
+      {
+       "cyr": "медор мол сенга, ајде",
+       "lat": "medor mol senga, ajde",
+       "en": "medor mol senga, come on"
+      },
+      {
+       "cyr": "елем дотурма, џанам,",
+       "lat": "elem doturma, džanam,",
+       "en": "elem doturma, my dear,"
+      },
+      {
+       "cyr": "не се задирај.",
+       "lat": "ne se zadiraj.",
+       "en": "don't pick on me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свекрвице мори,",
+       "lat": "Svekrvice mori,",
+       "en": "Mother-in-law, hey,"
+      },
+      {
+       "cyr": "нели имам бело грло",
+       "lat": "neli imam belo grlo",
+       "en": "do I not have a white throat"
+      },
+      {
+       "cyr": "за сина ти?",
+       "lat": "za sina ti?",
+       "en": "for your son?"
+      },
+      {
+       "cyr": "Нели ти е син ти",
+       "lat": "Neli ti e sin ti",
+       "en": "Isn't your son"
+      },
+      {
+       "cyr": "чифтели чапуљ,",
+       "lat": "čifteli čapulj,",
+       "en": "a çiftetelli-dancing scoundrel,"
+      },
+      {
+       "cyr": "пуш пијаница,",
+       "lat": "puš pijanica,",
+       "en": "a worthless drunkard,"
+      },
+      {
+       "cyr": "по меане иде,",
+       "lat": "po meane ide,",
+       "en": "he goes around the taverns,"
+      },
+      {
+       "cyr": "рујно вино пие,",
+       "lat": "rujno vino pie,",
+       "en": "drinks ruby-red wine,"
+      },
+      {
+       "cyr": "со мене не спие?",
+       "lat": "so mene ne spie?",
+       "en": "and does not sleep with me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' да го најде,",
+       "lat": "Dal' da go najde,",
+       "en": "May it find him,"
+      },
+      {
+       "cyr": "што беља не снајде,",
+       "lat": "što belja ne snajde,",
+       "en": "the trouble that has not found (him yet),"
+      },
+      {
+       "cyr": "бесно куче.",
+       "lat": "besno kuče.",
+       "en": "the rabid dog."
+      },
+      {
+       "cyr": "Иљче море џан,",
+       "lat": "Iljče more džan,",
+       "en": "Ilche, hey, my dear,"
+      },
+      {
+       "cyr": "медор мол сенга, ајде",
+       "lat": "medor mol senga, ajde",
+       "en": "medor mol senga, come on"
+      },
+      {
+       "cyr": "елем дотурма, џанам,",
+       "lat": "elem doturma, džanam,",
+       "en": "elem doturma, my dear,"
+      },
+      {
+       "cyr": "не се задирај.",
+       "lat": "ne se zadiraj.",
+       "en": "don't pick on me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

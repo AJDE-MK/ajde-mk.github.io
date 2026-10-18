@@ -1,0 +1,172 @@
+{
+ "id": 608,
+ "slug": "blagunjo-dejche-mori-pozharanche",
+ "title_cyr": "Благуњо дејче мори пожаранче",
+ "title_latin": "Blagunjo dejče mori požaranče",
+ "title_en": "Blagunya girl from Pozharane",
+ "pesna_url": "https://pesna.org/song/608",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Амира Медуњанин",
+  "Ѓорѓи Желчевски",
+  "Есма Реџепова",
+  "Ирена Ристеска",
+  "Кевсер Селимова",
+  "Миле Кузмановски",
+  "Наум Петрески",
+  "Пепи Бафтировски",
+  "Предраг Цуне Гојковиќ",
+  "Сузана Спасовска",
+  "Mostar Sevdah Reunion"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска, Наум Петрески",
+   "url": "https://pesna.org/audio-download/79"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/570"
+  },
+  {
+   "who": "Есма Реџепова, Предраг Цуне Гојковиќ",
+   "url": "https://pesna.org/audio-download/571"
+  },
+  {
+   "who": "Сузана Спасовска, Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/572"
+  },
+  {
+   "who": "Миле Кузмановски, Ирена Ристеска",
+   "url": "https://pesna.org/audio-download/573"
+  },
+  {
+   "who": "Mostar Sevdah Reunion, Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/574"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Благуњо дејче мори, пожаранче",
+       "lat": "Blagunjo dejče mori, požaranče",
+       "en": "Blagunya girl from Pozharane,",
+       "en_mt": false
+      },
+      {
+       "cyr": "отвори ми џам 'ли пенџер,",
+       "lat": "otvori mi džam 'li pendžer,",
+       "en": "Open the glass window for me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сакам да те видам јас.",
+       "lat": "sakam da te vidam jas.",
+       "en": "I want to see you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деј гиди Аце море аџамија,",
+       "lat": "Dej gidi Ace more adžamija,",
+       "en": "Oh, Ace, you naive boy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "како да ти јас отворам,",
+       "lat": "kako da ti jas otvoram,",
+       "en": "Why should I open the window,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кога не те сакам јас?",
+       "lat": "koga ne te sakam jas?",
+       "en": "When I don’t love you?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Благуно дејче мори пожаранче,",
+       "lat": "Blaguno dejče mori požaranče,",
+       "en": "Blaguna girl from Pozharane,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ја подај ми руси коси,",
+       "lat": "ja podaj mi rusi kosi,",
+       "en": "Let down your blonde hair,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сакам да ги мрсам јас.",
+       "lat": "sakam da gi mrsam jas.",
+       "en": "I want to play with it.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деј гиди Аце море аџамија,",
+       "lat": "Dej gidi Ace more adžamija,",
+       "en": "Oh, Ace, you naive boy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што да давам руси коси,",
+       "lat": "što da davam rusi kosi,",
+       "en": "Why should I let down my blonde hair,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кога не те сакам јас?",
+       "lat": "koga ne te sakam jas?",
+       "en": "When I don’t love you?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Благуно дејче мори пожаранче,",
+       "lat": "Blaguno dejče mori požaranče,",
+       "en": "Blagunya girl from Pozharane,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе продадам сарај куќа,",
+       "lat": "ḱe prodadam saraj kuḱa,",
+       "en": "I will sell my mansion,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само да те земам јас.",
+       "lat": "samo da te zemam jas.",
+       "en": "Just to marry you.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

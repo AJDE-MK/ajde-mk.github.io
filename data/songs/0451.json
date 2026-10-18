@@ -1,0 +1,358 @@
+{
+ "id": 451,
+ "slug": "zaspala-jana-janinka",
+ "title_cyr": "Заспала Јана, Јанинка",
+ "title_latin": "Zaspala Jana, Janinka",
+ "title_en": "Jana, Little Jana, Fell Asleep",
+ "pesna_url": "https://pesna.org/song/451",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Луди' (madmen) and 'аџамии' are uncertain dialect or archaic words; 'пукнала, треснала' as a curse-like outburst, 'зелен да биде как' него' and 'низ него да се провира' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "заспала",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "колено",
+   "en": "knee, lap"
+  },
+  {
+   "mk": "будеше",
+   "en": "was waking"
+  },
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "аџамии",
+   "en": "ajamii (unsure: novices, simpletons)"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "целува",
+   "en": "kisses"
+  },
+  {
+   "mk": "ќердосам",
+   "en": "enjoy, take pleasure (dialect)"
+  },
+  {
+   "mk": "век да векувам",
+   "en": "to live out my life"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Виолета Крстева",
+  "Драгица Николова",
+  "Драги Спасовски",
+  "Петранка Костадинова",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/1637"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1638"
+  },
+  {
+   "who": "Виолета Крстева, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/1677"
+  },
+  {
+   "who": "Александар Сариевски, Драгица Николова",
+   "url": "https://pesna.org/audio-download/2915"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заспала Јана, Јанинка, леле",
+       "lat": "Zaspala Jana, Janinka, lele",
+       "en": "Jana, little Jana, fell asleep, oh dear,"
+      },
+      {
+       "cyr": "заспала Јана, Јанинка",
+       "lat": "zaspala Jana, Janinka",
+       "en": "Jana, little Jana, fell asleep"
+      },
+      {
+       "cyr": "на мајкино си колено,",
+       "lat": "na majkino si koleno,",
+       "en": "on her mother's knee,"
+      },
+      {
+       "cyr": "на мајкино си колено.",
+       "lat": "na majkino si koleno.",
+       "en": "on her mother's knee."
+      },
+      {
+       "cyr": "Заспала Јана, Јанинка",
+       "lat": "Zaspala Jana, Janinka",
+       "en": "Jana, little Jana, fell asleep"
+      },
+      {
+       "cyr": "на мајкино си колено.",
+       "lat": "na majkino si koleno.",
+       "en": "on her mother's knee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ја Јана будеше, леле",
+       "lat": "Majka ja Jana budeše, lele",
+       "en": "Her mother woke Jana, oh dear,"
+      },
+      {
+       "cyr": "мајка ја Јана будеше:",
+       "lat": "majka ja Jana budeše:",
+       "en": "her mother woke Jana:"
+      },
+      {
+       "cyr": "- Стани ми ќерко, Јанинке",
+       "lat": "- Stani mi ḱerko, Janinke",
+       "en": "- Get up, daughter, little Jana,"
+      },
+      {
+       "cyr": "денес се, ќерко, не спие,",
+       "lat": "denes se, ḱerko, ne spie,",
+       "en": "today, daughter, one does not sleep,"
+      },
+      {
+       "cyr": "стани ми ќерко, Јанинке",
+       "lat": "stani mi ḱerko, Janinke",
+       "en": "get up, daughter, little Jana,"
+      },
+      {
+       "cyr": "денес се, ќерко, не спие.",
+       "lat": "denes se, ḱerko, ne spie.",
+       "en": "today, daughter, one does not sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пукнала, мајко треснала, леле",
+       "lat": "- Puknala, majko tresnala, lele",
+       "en": "- Burst and crack, mother, oh dear,"
+      },
+      {
+       "cyr": "пукнала мајко, треснала,",
+       "lat": "puknala majko, tresnala,",
+       "en": "burst, mother, and crack,"
+      },
+      {
+       "cyr": "што бев си слатко заспала",
+       "lat": "što bev si slatko zaspala",
+       "en": "I was sleeping so sweetly"
+      },
+      {
+       "cyr": "и сладок сон сонувала.",
+       "lat": "i sladok son sonuvala.",
+       "en": "and dreaming a sweet dream."
+      },
+      {
+       "cyr": "Што бев си слатко заспала",
+       "lat": "Što bev si slatko zaspala",
+       "en": "I was sleeping so sweetly"
+      },
+      {
+       "cyr": "и сладок сон сонувала.",
+       "lat": "i sladok son sonuvala.",
+       "en": "and dreaming a sweet dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сон дојдоа три луди, леле",
+       "lat": "Na son dojdoa tri ludi, lele",
+       "en": "In my dream three madmen came, oh dear,"
+      },
+      {
+       "cyr": "на сон дојдоа три луди,",
+       "lat": "na son dojdoa tri ludi,",
+       "en": "in my dream three madmen came,"
+      },
+      {
+       "cyr": "три луди, три аџамии,",
+       "lat": "tri ludi, tri adžamii,",
+       "en": "three madmen, three ajamii,"
+      },
+      {
+       "cyr": "три луди, три аџамии.",
+       "lat": "tri ludi, tri adžamii.",
+       "en": "three madmen, three ajamii."
+      },
+      {
+       "cyr": "На сон дојдоја три луди",
+       "lat": "Na son dojdoja tri ludi",
+       "en": "In my dream three madmen came,"
+      },
+      {
+       "cyr": "три луди млади момчиња.",
+       "lat": "tri ludi mladi momčinja.",
+       "en": "three madmen, young lads."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први ми даде јаболко, леле",
+       "lat": "Prvi mi dade jabolko, lele",
+       "en": "The first gave me an apple, oh dear,"
+      },
+      {
+       "cyr": "први ми даде јаболко,",
+       "lat": "prvi mi dade jabolko,",
+       "en": "the first gave me an apple,"
+      },
+      {
+       "cyr": "втори ми даде злат прстен,",
+       "lat": "vtori mi dade zlat prsten,",
+       "en": "the second gave me a gold ring,"
+      },
+      {
+       "cyr": "втори ми даде злат прстен.",
+       "lat": "vtori mi dade zlat prsten.",
+       "en": "the second gave me a gold ring."
+      },
+      {
+       "cyr": "Први ми даде јаболко,",
+       "lat": "Prvi mi dade jabolko,",
+       "en": "The first gave me an apple,"
+      },
+      {
+       "cyr": "втори ми даде злат прстен.",
+       "lat": "vtori mi dade zlat prsten.",
+       "en": "the second gave me a gold ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втори ми даде злат прстен, леле,",
+       "lat": "Vtori mi dade zlat prsten, lele,",
+       "en": "The second gave me a gold ring, oh dear,"
+      },
+      {
+       "cyr": "втори ми даде злат прстен,",
+       "lat": "vtori mi dade zlat prsten,",
+       "en": "the second gave me a gold ring,"
+      },
+      {
+       "cyr": "трети ме мене целува,",
+       "lat": "treti me mene celuva,",
+       "en": "the third kissed me,"
+      },
+      {
+       "cyr": "трети ме мене целува.",
+       "lat": "treti me mene celuva.",
+       "en": "the third kissed me."
+      },
+      {
+       "cyr": "Втори ми даде злат прстен,",
+       "lat": "Vtori mi dade zlat prsten,",
+       "en": "The second gave me a gold ring,"
+      },
+      {
+       "cyr": "трети ме мене целува.",
+       "lat": "treti me mene celuva.",
+       "en": "the third kissed me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој што ми даде јаболко, леле",
+       "lat": "Toj što mi dade jabolko, lele",
+       "en": "He who gave me the apple, oh dear,"
+      },
+      {
+       "cyr": "тој што ми даде јаболко",
+       "lat": "toj što mi dade jabolko",
+       "en": "he who gave me the apple,"
+      },
+      {
+       "cyr": "зелен да биде как' него,",
+       "lat": "zelen da bide kak' nego,",
+       "en": "may he be green like it,"
+      },
+      {
+       "cyr": "зелен да биде как' него.",
+       "lat": "zelen da bide kak' nego.",
+       "en": "may he be green like it."
+      },
+      {
+       "cyr": "Тој што ми даде злат прстен,",
+       "lat": "Toj što mi dade zlat prsten,",
+       "en": "He who gave me the gold ring,"
+      },
+      {
+       "cyr": "низ него да се провира.",
+       "lat": "niz nego da se provira.",
+       "en": "may he slip through it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој што ме мене целувна, леле",
+       "lat": "Toj što me mene celuvna, lele",
+       "en": "He who kissed me, oh dear,"
+      },
+      {
+       "cyr": "тој што ме мене целувна",
+       "lat": "toj što me mene celuvna",
+       "en": "he who kissed me,"
+      },
+      {
+       "cyr": "дај ми го Боже, дај, дај, дај",
+       "lat": "daj mi go Bože, daj, daj, daj",
+       "en": "give him to me, God, give, give, give,"
+      },
+      {
+       "cyr": "со него век да векувам.",
+       "lat": "so nego vek da vekuvam.",
+       "en": "that I may live my life with him."
+      },
+      {
+       "cyr": "Со него век да векувам,",
+       "lat": "So nego vek da vekuvam,",
+       "en": "That I may live my life with him,"
+      },
+      {
+       "cyr": "со него да се ќердосам.",
+       "lat": "so nego da se ḱerdosam.",
+       "en": "that I may enjoy life with him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

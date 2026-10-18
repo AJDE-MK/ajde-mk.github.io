@@ -1,0 +1,300 @@
+{
+ "id": 432,
+ "slug": "makedonsko-devojche",
+ "title_cyr": "Македонско девојче",
+ "title_latin": "Makedonsko devojče",
+ "title_en": "Macedonian girl",
+ "pesna_url": "https://pesna.org/song/432",
+ "background": "Written and composed by Jonče Hristovski in 1964, in 14/8 time. A love song to Macedonian girls that became an unofficial anthem, especially in the diaspora. Danced as *pravo* or *lesno*. Hristovski (1931-2000) was born in Bitola and was a singer and composer of folk music who also performed with the Tanec national ensemble. His wife died in the 1963 Skopje earthquake after giving birth to their twin daughters; a year later he wrote his best-known song.",
+ "background_source": "Source of these notes: your 6-song songbook.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасија Петреска",
+  "Антонио Трајковски",
+  "Борис Солтаријски",
+  "Виолета Томовска",
+  "Влатко Стефановски",
+  "Володја Стојанов",
+  "Даниела Калаџиска",
+  "Јонче Христовски",
+  "Кирил Манчевски",
+  "Николај Славеев",
+  "Пијано бар",
+  "Севдалина Спасова",
+  "Barcelona Gipsy balKan Orchestra",
+  "Kazuhiro Kotetsu",
+  "Mitan Project",
+  "Silvia",
+  "Słowianki"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/429"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/430"
+  },
+  {
+   "who": "Севдалина Спасова",
+   "url": "https://pesna.org/audio-download/431"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/432"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/433"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/434"
+  },
+  {
+   "who": "Борис Солтаријски",
+   "url": "https://pesna.org/audio-download/1787"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1788"
+  },
+  {
+   "who": "Słowianki",
+   "url": "https://pesna.org/audio-download/2275"
+  },
+  {
+   "who": "Володја Стојанов",
+   "url": "https://pesna.org/audio-download/3135"
+  },
+  {
+   "who": "Barcelona Gipsy balKan Orchestra",
+   "url": "https://pesna.org/audio-download/3259"
+  },
+  {
+   "who": "Николај Славеев",
+   "url": "https://pesna.org/audio-download/3267"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3630"
+  },
+  {
+   "who": "Анастасија Петреска",
+   "url": "https://pesna.org/audio-download/3640"
+  },
+  {
+   "who": "Silvia",
+   "url": "https://pesna.org/audio-download/3680"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4314"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Македонско девојче,",
+       "lat": "Makedonsko devojče,",
+       "en": "Macedonian girl,"
+      },
+      {
+       "cyr": "китка шарена,",
+       "lat": "kitka šarena,",
+       "en": "a colorful bouquet,"
+      },
+      {
+       "cyr": "во градина набрана",
+       "lat": "vo gradina nabrana",
+       "en": "picked up in the garden"
+      },
+      {
+       "cyr": "дар подарена.",
+       "lat": "dar podarena.",
+       "en": "and presented as a gift."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали има н' овој бели свет",
+       "lat": "Dali ima n' ovoj beli svet",
+       "en": "Is there in this world"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче?",
+       "lat": "poubavo devojče od Makedonče?",
+       "en": "a more beautiful girl than Macedonian?"
+      },
+      {
+       "cyr": "Нема, нема не ќе се роди",
+       "lat": "Nema, nema ne ḱe se rodi",
+       "en": "No, there isn't, and there won't be born,"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче.",
+       "lat": "poubavo devojče od Makedonče.",
+       "en": "a more beautiful girl than Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нема ѕвезди полични",
+       "lat": "Nema dzvezdi polični",
+       "en": "There are no stars which are"
+      },
+      {
+       "cyr": "од твојте очи,",
+       "lat": "od tvojte oči,",
+       "en": "more beautiful than your eyes,"
+      },
+      {
+       "cyr": "да се ноќе на небо,",
+       "lat": "da se noḱe na nebo,",
+       "en": "if they are in the sky at night"
+      },
+      {
+       "cyr": "ден ќе раздени.",
+       "lat": "den ḱe razdeni.",
+       "en": "a day will dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали има н' овој бели свет",
+       "lat": "Dali ima n' ovoj beli svet",
+       "en": "Is there in this world"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче?",
+       "lat": "poubavo devojče od Makedonče?",
+       "en": "a more beautiful girl than Macedonian?"
+      },
+      {
+       "cyr": "Нема, нема не ќе се роди",
+       "lat": "Nema, nema ne ḱe se rodi",
+       "en": "No, there isn't, and there won't be born,"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче.",
+       "lat": "poubavo devojče od Makedonče.",
+       "en": "a more beautiful girl than Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога коси расплети",
+       "lat": "Koga kosi raspleti",
+       "en": "When she unbraids her hair"
+      },
+      {
+       "cyr": "како коприна",
+       "lat": "kako koprina",
+       "en": "like a silk,"
+      },
+      {
+       "cyr": "лична е, и полична,",
+       "lat": "lična e, i polična,",
+       "en": "she is pretty, more pretty"
+      },
+      {
+       "cyr": "од самовила.",
+       "lat": "od samovila.",
+       "en": "than a fairy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали има на овој бели свет",
+       "lat": "Dali ima na ovoj beli svet",
+       "en": "Is there in this world"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче?",
+       "lat": "poubavo devojče od Makedonče?",
+       "en": "a more beautiful girl than Macedonian?"
+      },
+      {
+       "cyr": "Нема, нема не ќе се роди",
+       "lat": "Nema, nema ne ḱe se rodi",
+       "en": "No, there isn't, and there won't be born,"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче.",
+       "lat": "poubavo devojče od Makedonče.",
+       "en": "a more beautiful girl than Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога песна запее",
+       "lat": "Koga pesna zapee",
+       "en": "When she sings a song"
+      },
+      {
+       "cyr": "славеј натпее,",
+       "lat": "slavej natpee,",
+       "en": "she outsings a nightingale,"
+      },
+      {
+       "cyr": "кога оро заигра",
+       "lat": "koga oro zaigra",
+       "en": "when she dances oro,"
+      },
+      {
+       "cyr": "срце разигра.",
+       "lat": "srce razigra.",
+       "en": "she makes the heart dance, too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали има на овој бели свет",
+       "lat": "Dali ima na ovoj beli svet",
+       "en": "Is there in this world"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче?",
+       "lat": "poubavo devojče od Makedonče?",
+       "en": "a more beautiful girl than Macedonian?"
+      },
+      {
+       "cyr": "Нема, нема не ќе се роди",
+       "lat": "Nema, nema ne ḱe se rodi",
+       "en": "No, there isn't, and there won't be born,"
+      },
+      {
+       "cyr": "поубаво девојче од Македонче.",
+       "lat": "poubavo devojče od Makedonče.",
+       "en": "a more beautiful girl than Macedonian."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

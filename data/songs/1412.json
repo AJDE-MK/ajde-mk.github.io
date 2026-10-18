@@ -1,0 +1,95 @@
+{
+ "id": 1412,
+ "slug": "stani-sine",
+ "title_cyr": "Стани сине",
+ "title_latin": "Stani sine",
+ "title_en": "Get up my son",
+ "pesna_url": "https://pesna.org/song/1412",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стани сине стани, паша ми те викат",
+       "lat": "- Stani sine stani, paša mi te vikat",
+       "en": "- Get up my son, the pasha is calling you"
+      },
+      {
+       "cyr": "тимар да препишиш, арнаутска земја.",
+       "lat": "timar da prepišiš, arnautska zemja.",
+       "en": "to transfer to you the Albanian estate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ме викат мајко тимар да препишам,",
+       "lat": "- Ne me vikat majko timar da prepišam,",
+       "en": "- He is not calling me, mother, for the transfer,"
+      },
+      {
+       "cyr": "пашата ме вика глава да ми земит.",
+       "lat": "pašata me vika glava da mi zemit.",
+       "en": "the pasha is calling for my head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пашината ќерка од бања излезе,",
+       "lat": "Pašinata ḱerka od banja izleze,",
+       "en": "The pasha’s daughter came out of a bath house,"
+      },
+      {
+       "cyr": "измиена мајко, лепо изтриена.",
+       "lat": "izmiena majko, lepo iztriena.",
+       "en": "all washed, mother, beautifully rubbed dry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја си фатив мајко пашината ќерка,",
+       "lat": "Ja si fativ majko pašinata ḱerka,",
+       "en": "I seized the pasha’s daughter, mother,"
+      },
+      {
+       "cyr": "па си ја избакнав и си ја исчинав.",
+       "lat": "pa si ja izbaknav i si ja isčinav.",
+       "en": "well I kissed her and I made love to her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За това мене мајко паша ме викат,",
+       "lat": "Za tova mene majko paša me vikat,",
+       "en": "For that, mother, the pasha is calling me"
+      },
+      {
+       "cyr": "пашата ме викат глава да ми земит.",
+       "lat": "pašata me vikat glava da mi zemit.",
+       "en": "the pasha is calling for my head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,141 @@
+{
+ "id": 439,
+ "slug": "ako-pijam-rujno-vino",
+ "title_cyr": "Ако пијам рујно вино",
+ "title_latin": "Ako pijam rujno vino",
+ "title_en": "If I Drink Red Wine",
+ "pesna_url": "https://pesna.org/song/439",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author I can name. The last stanza is hard to parse: 'изгор очи' and 'изгор пак либе за тебе' are my reading (burning eyes / longing again for you).",
+ "words_to_learn": [
+  {
+   "mk": "рујно вино",
+   "en": "red, ruby-coloured wine"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "заборавам",
+   "en": "I forget"
+  },
+  {
+   "mk": "прозорец",
+   "en": "window"
+  },
+  {
+   "mk": "Пелистер",
+   "en": "Pelister (mountain near Bitola)"
+  },
+  {
+   "mk": "врв",
+   "en": "peak"
+  },
+  {
+   "mk": "шеќер усни",
+   "en": "sugar lips"
+  },
+  {
+   "mk": "бујни коси",
+   "en": "thick, lush hair"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/561"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ако пијам рујно вино",
+       "lat": "Ako pijam rujno vino",
+       "en": "If I drink red wine"
+      },
+      {
+       "cyr": "ако пијам рум, ракија",
+       "lat": "ako pijam rum, rakija",
+       "en": "if I drink rum, rakija"
+      },
+      {
+       "cyr": "ако пијам, ако пијам",
+       "lat": "ako pijam, ako pijam",
+       "en": "if I drink, if I drink"
+      },
+      {
+       "cyr": "пијам да те заборавам.",
+       "lat": "pijam da te zaboravam.",
+       "en": "I drink to forget you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не ми веруваш",
+       "lat": "Ako ne mi veruvaš",
+       "en": "If you do not believe me"
+      },
+      {
+       "cyr": "отвори го прозорецот",
+       "lat": "otvori go prozorecot",
+       "en": "open the window"
+      },
+      {
+       "cyr": "погледни го Пелистер",
+       "lat": "pogledni go Pelister",
+       "en": "look at Pelister"
+      },
+      {
+       "cyr": "прашај ги врвовите.",
+       "lat": "prašaj gi vrvovite.",
+       "en": "ask the peaks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако пијам изгор очи",
+       "lat": "Ako pijam izgor oči",
+       "en": "If I drink, burn out my eyes"
+      },
+      {
+       "cyr": "ако љубам шеќер усни",
+       "lat": "ako ljubam šeḱer usni",
+       "en": "if I kiss, sugar lips"
+      },
+      {
+       "cyr": "ако мрсам бујни коси",
+       "lat": "ako mrsam bujni kosi",
+       "en": "if I stroke thick hair"
+      },
+      {
+       "cyr": "изгор пак либе за тебе.",
+       "lat": "izgor pak libe za tebe.",
+       "en": "then again I long for you, sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

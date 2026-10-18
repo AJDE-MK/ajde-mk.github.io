@@ -1,0 +1,188 @@
+{
+ "id": 1665,
+ "slug": "den-se-razdenilo",
+ "title_cyr": "Ден се разденило",
+ "title_latin": "Den se razdenilo",
+ "title_en": "The day has dawned",
+ "pesna_url": "https://pesna.org/song/1665",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4472"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ден се разденило, сонце огреало",
+       "lat": "Den se razdenilo, sonce ogrealo",
+       "en": "The day has dawned, the sun has risen",
+       "en_mt": false
+      },
+      {
+       "cyr": "високо, ајде над Мариово,",
+       "lat": "visoko, ajde nad Mariovo,",
+       "en": "high, come over Mariovo,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по цела рамна Пелагонија.",
+       "lat": "po cela ramna Pelagonija.",
+       "en": "all over flat Pelagonija.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, од мерак да не можеш",
+       "lat": "Aj, od merak da ne možeš",
+       "en": "Oh, it is joy",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се нагледаш",
+       "lat": "da se nagledaš",
+       "en": "to see",
+       "en_mt": false
+      },
+      {
+       "cyr": "планини, села македонски.",
+       "lat": "planini, sela makedonski.",
+       "en": "the mountains, Macedonian villages.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Над Крушево и Прилеп",
+       "lat": "Nad Kruševo i Prilep",
+       "en": "Over Kruševo and Prilep",
+       "en_mt": false
+      },
+      {
+       "cyr": "и над Битола.",
+       "lat": "i nad Bitola.",
+       "en": "and over Bitola.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ден се разденило, сонце огреало",
+       "lat": "Den se razdenilo, sonce ogrealo",
+       "en": "The day has dawned, the sun has risen",
+       "en_mt": false
+      },
+      {
+       "cyr": "високо, над Пелистер планина,",
+       "lat": "visoko, nad Pelister planina,",
+       "en": "high, over Pelister Mountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по цела преспанска околија.",
+       "lat": "po cela prespanska okolija.",
+       "en": "all over the Prespa district.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, од мерак да не можеш",
+       "lat": "Aj, od merak da ne možeš",
+       "en": "Oh, it is joy",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се нагледаш",
+       "lat": "da se nagledaš",
+       "en": "to see",
+       "en_mt": false
+      },
+      {
+       "cyr": "на цела преспанска околија.",
+       "lat": "na cela prespanska okolija.",
+       "en": "the whole Prespa district.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На Преспанско Езеро,",
+       "lat": "Na Prespansko Ezero,",
+       "en": "Lake Prespa,",
+       "en_mt": false
+      },
+      {
+       "cyr": "бисер убаво.",
+       "lat": "biser ubavo.",
+       "en": "a beautiful pearl.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ден се разденило, сонце огреало",
+       "lat": "Den se razdenilo, sonce ogrealo",
+       "en": "The day has dawned, the sun has risen",
+       "en_mt": false
+      },
+      {
+       "cyr": "високо, ајде над Галичица,",
+       "lat": "visoko, ajde nad Galičica,",
+       "en": "high, come over Galicica,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по цела охридска околија.",
+       "lat": "po cela ohridska okolija.",
+       "en": "all over the Ohrid district.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, од мерак да не можеш",
+       "lat": "Aj, od merak da ne možeš",
+       "en": "Oh, it is joy",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се нагледаш",
+       "lat": "da se nagledaš",
+       "en": "to see",
+       "en_mt": false
+      },
+      {
+       "cyr": "на древен Охрид и Струга убава.",
+       "lat": "na dreven Ohrid i Struga ubava.",
+       "en": "the ancient Ohrid and beautiful Struga.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На Охридско Езеро,",
+       "lat": "Na Ohridsko Ezero,",
+       "en": "Lake Ohrid,",
+       "en_mt": false
+      },
+      {
+       "cyr": "бисер бисерно.",
+       "lat": "biser biserno.",
+       "en": "a pearl of pearls.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

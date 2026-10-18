@@ -1,0 +1,191 @@
+{
+ "id": 497,
+ "slug": "acano-mlada-nevesto",
+ "title_cyr": "Ацано млада невесто",
+ "title_latin": "Acano mlada nevesto",
+ "title_en": "Young Bride Acana",
+ "pesna_url": "https://pesna.org/song/497",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Ќе ми те тебе прелажат' (they will deceive you for me) and 'чапкан' (rendered 'too', possibly 'rascal') are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "срамота",
+   "en": "shame"
+  },
+  {
+   "mk": "еснафи",
+   "en": "guild craftsmen"
+  },
+  {
+   "mk": "лебари",
+   "en": "bakers"
+  },
+  {
+   "mk": "касапи",
+   "en": "butchers"
+  },
+  {
+   "mk": "намигнуваат",
+   "en": "they wink"
+  },
+  {
+   "mk": "будала",
+   "en": "fool"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Бата Канда",
+  "Војо Стојановски",
+  "Димитар Коларов",
+  "Зоран Џорлев",
+  "Ирена Спасовска",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Bafjaz"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/507"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/508"
+  },
+  {
+   "who": "Bafjaz",
+   "url": "https://pesna.org/audio-download/509"
+  },
+  {
+   "who": "Зоран Џорлев, Војо Стојановски",
+   "url": "https://pesna.org/audio-download/510"
+  },
+  {
+   "who": "Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/511"
+  },
+  {
+   "who": "Димитар Коларов",
+   "url": "https://pesna.org/audio-download/2474"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2475"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/2476"
+  },
+  {
+   "who": "Бата Канда",
+   "url": "https://pesna.org/audio-download/2625"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ацано млада невесто,",
+       "lat": "- Acano mlada nevesto,",
+       "en": "- Acana, young bride,"
+      },
+      {
+       "cyr": "што доцкан седиш на порта,",
+       "lat": "što dockan sediš na porta,",
+       "en": "why do you sit late at the gate,"
+      },
+      {
+       "cyr": "нели те тебе срамота?",
+       "lat": "neli te tebe sramota?",
+       "en": "are you not ashamed?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми поминуваат еснафи,",
+       "lat": "Mi pominuvaat esnafi,",
+       "en": "Guild craftsmen pass by me,"
+      },
+      {
+       "cyr": "ем тија пусти лебари,",
+       "lat": "em tija pusti lebari,",
+       "en": "and those wretched bakers,"
+      },
+      {
+       "cyr": "ем тија чапкан касапи.",
+       "lat": "em tija čapkan kasapi.",
+       "en": "and those butchers too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со око ти намигнуваат,",
+       "lat": "So oko ti namignuvaat,",
+       "en": "They wink at you with their eyes,"
+      },
+      {
+       "cyr": "со глава ти навртуваат,",
+       "lat": "so glava ti navrtuvaat,",
+       "en": "they turn their heads toward you,"
+      },
+      {
+       "cyr": "ќе ми те тебе прелажат.",
+       "lat": "ḱe mi te tebe prelažat.",
+       "en": "they will deceive you for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди, Ѓорѓи будала,",
+       "lat": "- Dejgidi, Ǵorǵi budala,",
+       "en": "- Hey, Gjorgji, you fool,"
+      },
+      {
+       "cyr": "што ако с' око намигнуват,",
+       "lat": "što ako s' oko namignuvat,",
+       "en": "what if they wink with their eyes,"
+      },
+      {
+       "cyr": "нели те тебе пречекувам?",
+       "lat": "neli te tebe prečekuvam?",
+       "en": "am I not waiting for you?"
+      },
+      {
+       "cyr": "Што ако с' глава навртуват,",
+       "lat": "Što ako s' glava navrtuvat,",
+       "en": "What if they turn their heads,"
+      },
+      {
+       "cyr": "нели те тебе пречекувам?",
+       "lat": "neli te tebe prečekuvam?",
+       "en": "am I not waiting for you?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

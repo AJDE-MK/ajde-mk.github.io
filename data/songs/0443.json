@@ -1,0 +1,142 @@
+{
+ "id": 443,
+ "slug": "ajde-kje-te-prasham-bre-donke",
+ "title_cyr": "Ајде ќе те прашам бре Донке",
+ "title_latin": "Ajde ḱe te prašam bre Donke",
+ "title_en": "Come, I will ask you, hey Donka",
+ "pesna_url": "https://pesna.org/song/443",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Вардаринке' rendered 'of the Vardar' (my reading, a girl from the Vardar). 'Мирче Ацев' and 'Страшо Пинџур' are names of historical revolutionary fighters as far as I can tell, but I am not certain.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (filler)"
+  },
+  {
+   "mk": "прашам",
+   "en": "I ask"
+  },
+  {
+   "mk": "матна вода",
+   "en": "muddy water"
+  },
+  {
+   "mk": "далги",
+   "en": "waves"
+  },
+  {
+   "mk": "лудо",
+   "en": "silly one / fool (affectionate here)"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero / brave man"
+  },
+  {
+   "mk": "донесе",
+   "en": "brought"
+  }
+ ],
+ "performers": [
+  "Македонски мерак",
+  "Октет Куманово"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/1181"
+  },
+  {
+   "who": "Октет Куманово",
+   "url": "https://pesna.org/audio-download/1182"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе те прашам, бре Донке,",
+       "lat": "Ajde ḱe te prašam, bre Donke,",
+       "en": "Come on, I will ask you, hey Donka,"
+      },
+      {
+       "cyr": "Донке Вардаринке:",
+       "lat": "Donke Vardarinke:",
+       "en": "Donka of the Vardar:"
+      },
+      {
+       "cyr": "Ајде дали тече, бре Донке,",
+       "lat": "Ajde dali teče, bre Donke,",
+       "en": "Come on, does it flow, hey Donka,"
+      },
+      {
+       "cyr": "Вардар матна вода?",
+       "lat": "Vardar matna voda?",
+       "en": "the Vardar, muddy water?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде тече, тече, бре лудо,",
+       "lat": "Ajde teče, teče, bre ludo,",
+       "en": "Come on, it flows, flows, hey silly one,"
+      },
+      {
+       "cyr": "бели далги фрла.",
+       "lat": "beli dalgi frla.",
+       "en": "it throws up white waves."
+      },
+      {
+       "cyr": "Ајде ми донесе, бре лудо,",
+       "lat": "Ajde mi donese, bre ludo,",
+       "en": "Come on, it brought me, hey silly one,"
+      },
+      {
+       "cyr": "до два ми јунака.",
+       "lat": "do dva mi junaka.",
+       "en": "up to two heroes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде први јунак ми беше",
+       "lat": "Ajde prvi junak mi beše",
+       "en": "Come on, the first hero was"
+      },
+      {
+       "cyr": "тој ми Мирче Ацев.",
+       "lat": "toj mi Mirče Acev.",
+       "en": "my Mirche Acev."
+      },
+      {
+       "cyr": "Ајде втори јунак ми беше",
+       "lat": "Ajde vtori junak mi beše",
+       "en": "Come on, the second hero was"
+      },
+      {
+       "cyr": "тој ми Страшо Пинџур.",
+       "lat": "toj mi Strašo Pindžur.",
+       "en": "my Strasho Pindzhur."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

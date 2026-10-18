@@ -1,0 +1,180 @@
+{
+ "id": 1443,
+ "slug": "odi-todoro-v-gradina",
+ "title_cyr": "Оди Тодоро в' градина",
+ "title_latin": "Odi Todoro v' gradina",
+ "title_en": "Go, Todora, to the garden",
+ "pesna_url": "https://pesna.org/song/1443",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Либето ќе ти помине' rendered as 'your sweetheart will get over it' (my reading). Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "китка",
+   "en": "bunch of flowers, bouquet"
+  },
+  {
+   "mk": "набереш",
+   "en": "you pick (flowers)"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I don't want (dialect)"
+  },
+  {
+   "mk": "тук'",
+   "en": "only (dialect)"
+  },
+  {
+   "mk": "комшика",
+   "en": "female neighbor"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "маки задаваат",
+   "en": "they cause torment"
+  }
+ ],
+ "performers": [
+  "Зорица Танковска",
+  "Маријана Манолева"
+ ],
+ "audio": [
+  {
+   "who": "Зорица Танковска",
+   "url": "https://pesna.org/audio-download/3682"
+  },
+  {
+   "who": "Маријана Манолева",
+   "url": "https://pesna.org/audio-download/3683"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Оди Тодоро в' градина,",
+       "lat": "- Odi Todoro v' gradina,",
+       "en": "- Go, Todora, into the garden,"
+      },
+      {
+       "cyr": "либето ќе ти помине,",
+       "lat": "libeto ḱe ti pomine,",
+       "en": "your sweetheart will get over it,"
+      },
+      {
+       "cyr": "китки ти да му набереш,",
+       "lat": "kitki ti da mu nabereš,",
+       "en": "pick him a bouquet of flowers,"
+      },
+      {
+       "cyr": "војник ќе оди,",
+       "lat": "vojnik ḱe odi,",
+       "en": "he is going as a soldier,"
+      },
+      {
+       "cyr": "ќе оди, мила ќерко,",
+       "lat": "ḱe odi, mila ḱerko,",
+       "en": "he is going, dear daughter,"
+      },
+      {
+       "cyr": "многу далеку.",
+       "lat": "mnogu daleku.",
+       "en": "very far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не одам мајко, нејќам го,",
+       "lat": "- Ne odam majko, nejḱam go,",
+       "en": "- I won't go, mother, I don't want to,"
+      },
+      {
+       "cyr": "мене ме тој не сака,",
+       "lat": "mene me toj ne saka,",
+       "en": "he does not love me,"
+      },
+      {
+       "cyr": "тук' си сака, мила мајко,",
+       "lat": "tuk' si saka, mila majko,",
+       "en": "he only loves, dear mother,"
+      },
+      {
+       "cyr": "мома богата,",
+       "lat": "moma bogata,",
+       "en": "a rich girl,"
+      },
+      {
+       "cyr": "тук' ја сака, Марика,",
+       "lat": "tuk' ja saka, Marika,",
+       "en": "he only loves Marika,"
+      },
+      {
+       "cyr": "наш'та комшика.",
+       "lat": "naš'ta komšika.",
+       "en": "our neighbor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На чешма одат заедно,",
+       "lat": "Na češma odat zaedno,",
+       "en": "They go to the fountain together,"
+      },
+      {
+       "cyr": "на оро еден до други,",
+       "lat": "na oro eden do drugi,",
+       "en": "at the dance one next to the other,"
+      },
+      {
+       "cyr": "за мен' зборат, се смеат,",
+       "lat": "za men' zborat, se smeat,",
+       "en": "they talk about me, they laugh,"
+      },
+      {
+       "cyr": "маки задаваат,",
+       "lat": "maki zadavaat,",
+       "en": "they torment me,"
+      },
+      {
+       "cyr": "за мен' зборат, се смеат,",
+       "lat": "za men' zborat, se smeat,",
+       "en": "they talk about me, they laugh,"
+      },
+      {
+       "cyr": "маки задаваат.",
+       "lat": "maki zadavaat.",
+       "en": "they torment me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

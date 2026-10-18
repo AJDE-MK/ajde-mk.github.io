@@ -1,0 +1,129 @@
+{
+ "id": 499,
+ "slug": "aber-mi-dojde-od-mojto-libe",
+ "title_cyr": "Абер ми дојде од мојто либе",
+ "title_latin": "Aber mi dojde od mojto libe",
+ "title_en": "News Came to Me from My Love",
+ "pesna_url": "https://pesna.org/song/499",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The gender of the beloved is ambiguous in the Macedonian text ('либе' is neuter); I rendered it as 'him' (my reading, since the song seems sung by a woman).",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, message"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "болно",
+   "en": "ill, sick"
+  },
+  {
+   "mk": "здраво",
+   "en": "healthy, well"
+  },
+  {
+   "mk": "легнало",
+   "en": "has lain down (taken to bed)"
+  },
+  {
+   "mk": "прегрна",
+   "en": "embraced"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1676"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абер ми дојде од мојто либе,",
+       "lat": "Aber mi dojde od mojto libe,",
+       "en": "News came to me from my love,"
+      },
+      {
+       "cyr": "јас да идам, јас да го видам.",
+       "lat": "jas da idam, jas da go vidam.",
+       "en": "that I should go, that I should see him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас да идам, јас да го видам,",
+       "lat": "Jas da idam, jas da go vidam,",
+       "en": "That I should go, that I should see him,"
+      },
+      {
+       "cyr": "дали е болно, или е здраво,",
+       "lat": "dali e bolno, ili e zdravo,",
+       "en": "whether he is ill, or well,"
+      },
+      {
+       "cyr": "или за мене болно легнало.",
+       "lat": "ili za mene bolno legnalo.",
+       "en": "or has fallen ill on my account."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Или за мене болно легнало,",
+       "lat": "Ili za mene bolno legnalo,",
+       "en": "Or has fallen ill on my account,"
+      },
+      {
+       "cyr": "кога отидов да го видам,",
+       "lat": "koga otidov da go vidam,",
+       "en": "when I went to see him,"
+      },
+      {
+       "cyr": "стана либе ме прегрна.",
+       "lat": "stana libe me pregrna.",
+       "en": "my love got up and embraced me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стана либе ме прегрна,",
+       "lat": "Stana libe me pregrna,",
+       "en": "My love got up and embraced me,"
+      },
+      {
+       "cyr": "абер ми дојде од мојто либе",
+       "lat": "aber mi dojde od mojto libe",
+       "en": "news came to me from my love"
+      },
+      {
+       "cyr": "јас да идам, јас да го видам.",
+       "lat": "jas da idam, jas da go vidam.",
+       "en": "that I should go, that I should see him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

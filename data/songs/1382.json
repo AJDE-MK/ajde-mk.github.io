@@ -1,0 +1,106 @@
+{
+ "id": 1382,
+ "slug": "toj-vecherat-taa-ne-vecherat",
+ "title_cyr": "Тој вечерат, таа не вечерат",
+ "title_latin": "Toj večerat, taa ne večerat",
+ "title_en": "He eats, she does not eat",
+ "pesna_url": "https://pesna.org/song/1382",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Синоќ дојде јунак од туѓина,",
+       "lat": "Sinoḱ dojde junak od tuǵina,",
+       "en": "Last night the warrior arrived from a foreign land,"
+      },
+      {
+       "cyr": "донесол е туѓинка девојка,",
+       "lat": "donesol e tuǵinka devojka,",
+       "en": "He brought a foreign girl with him"
+      },
+      {
+       "cyr": "поубава мајка не родила.",
+       "lat": "poubava majka ne rodila.",
+       "en": "No mother has given birth to a more beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мори слези да би ми не слегла,",
+       "lat": "- Mori slezi da bi mi ne slegla,",
+       "en": "- You come down or stay there forever,"
+      },
+      {
+       "cyr": "мори зборви да би онемела,",
+       "lat": "mori zborvi da bi onemela,",
+       "en": "You speak or go mute forever,"
+      },
+      {
+       "cyr": "мори јади да се не најадиш!",
+       "lat": "mori jadi da se ne najadiš!",
+       "en": "You eat or be hungry forever!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали ми те куќа не бендиса,",
+       "lat": "Dali mi te kuḱa ne bendisa,",
+       "en": "Is it because you don’t like the house,"
+      },
+      {
+       "cyr": "дали ми те момче не ареса,",
+       "lat": "dali mi te momče ne aresa,",
+       "en": "Is it because you don’t like your husband,"
+      },
+      {
+       "cyr": "дали ми те свекор не ареса?",
+       "lat": "dali mi te svekor ne aresa?",
+       "en": "Is because you don’t like your father-in-law?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој слегувет, таа не слегует,",
+       "lat": "Toj sleguvet, taa ne sleguet,",
+       "en": "He comes down, she does not come down,"
+      },
+      {
+       "cyr": "тој зборует, таа не зборует,",
+       "lat": "toj zboruet, taa ne zboruet,",
+       "en": "He speaks, she does not speak,"
+      },
+      {
+       "cyr": "тој се смеит, таа не се смеит,",
+       "lat": "toj se smeit, taa ne se smeit,",
+       "en": "He laughs, she does not laugh,"
+      },
+      {
+       "cyr": "тој вечерат, таа не вечерат.",
+       "lat": "toj večerat, taa ne večerat.",
+       "en": "He eats, she does not eat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

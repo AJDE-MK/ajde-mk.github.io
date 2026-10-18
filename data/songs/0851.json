@@ -1,0 +1,214 @@
+{
+ "id": 851,
+ "slug": "snoshti-pojdov-mila-mamo",
+ "title_cyr": "Сношти појдов мила мамо",
+ "title_latin": "Snošti pojdov mila mamo",
+ "title_en": "Last Night I Went, Dear Mother",
+ "pesna_url": "https://pesna.org/song/851",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'на бостано' and 'ѓердано', 'фустано' carry a dialect definite or vocative ending -о; I read them as plain nouns. 'пустото ми лудо ... мирно не остана' is my reading: 'the wretched lad would not stay still'.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "седенка",
+   "en": "evening gathering for spinning and socializing"
+  },
+  {
+   "mk": "плетенка",
+   "en": "braid (of hair)"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance (oro)"
+  },
+  {
+   "mk": "пола",
+   "en": "skirt, hem of a garment"
+  },
+  {
+   "mk": "бостан",
+   "en": "melon or vegetable field"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace (beaded or coin)"
+  },
+  {
+   "mk": "бунар",
+   "en": "well"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "пусто",
+   "en": "wretched, damned (mild curse)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Ирена Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1842"
+  },
+  {
+   "who": "Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/1843"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти појдов, мила мамо, на седенка",
+       "lat": "Snošti pojdov, mila mamo, na sedenka",
+       "en": "Last night I went, dear mother, to the spinning party"
+      },
+      {
+       "cyr": "и некој ме фати, мамо, за плетенка.",
+       "lat": "i nekoj me fati, mamo, za pletenka.",
+       "en": "and someone grabbed me, mother, by the braid."
+      },
+      {
+       "cyr": "Тој држ - јас држ, тој трга - јас тргам,",
+       "lat": "Toj drž - jas drž, toj trga - jas trgam,",
+       "en": "He holds - I hold, he pulls - I pull,"
+      },
+      {
+       "cyr": "тој трга - јас тргам, тој натамо - јас навамо,",
+       "lat": "toj trga - jas trgam, toj natamo - jas navamo,",
+       "en": "he pulls - I pull, he that way - I this way,"
+      },
+      {
+       "cyr": "се скина плетенка, мамо, се скина плетенка,",
+       "lat": "se skina pletenka, mamo, se skina pletenka,",
+       "en": "the braid tore off, mother, the braid tore off,"
+      },
+      {
+       "cyr": "пустото ми лудо, мамо, мирно не остана.",
+       "lat": "pustoto mi ludo, mamo, mirno ne ostana.",
+       "en": "the wretched lad, mother, did not stay quiet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си појдов, мила мамо, на орото,",
+       "lat": "Pa si pojdov, mila mamo, na oroto,",
+       "en": "Then I went, dear mother, to the round dance,"
+      },
+      {
+       "cyr": "и некој ме фати, мамо, за полата.",
+       "lat": "i nekoj me fati, mamo, za polata.",
+       "en": "and someone grabbed me, mother, by the skirt."
+      },
+      {
+       "cyr": "Тој држ - јас држ, тој трга - јас тргам,",
+       "lat": "Toj drž - jas drž, toj trga - jas trgam,",
+       "en": "He holds - I hold, he pulls - I pull,"
+      },
+      {
+       "cyr": "тој трга - јас тргам, тој натамо - јас навамо,",
+       "lat": "toj trga - jas trgam, toj natamo - jas navamo,",
+       "en": "he pulls - I pull, he that way - I this way,"
+      },
+      {
+       "cyr": "се скина полата, мамо, се скина полата,",
+       "lat": "se skina polata, mamo, se skina polata,",
+       "en": "the skirt tore, mother, the skirt tore,"
+      },
+      {
+       "cyr": "пустото ми лудо, мамо, мирно не остана.",
+       "lat": "pustoto mi ludo, mamo, mirno ne ostana.",
+       "en": "the wretched lad, mother, did not stay quiet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вчера појдов, мила мамо, на бостано",
+       "lat": "Včera pojdov, mila mamo, na bostano",
+       "en": "Yesterday I went, dear mother, to the melon field,"
+      },
+      {
+       "cyr": "и некој ме фати, мамо, за ѓердано.",
+       "lat": "i nekoj me fati, mamo, za ǵerdano.",
+       "en": "and someone grabbed me, mother, by the necklace."
+      },
+      {
+       "cyr": "Тој држ - јас држ, тој трга - јас тргам,",
+       "lat": "Toj drž - jas drž, toj trga - jas trgam,",
+       "en": "He holds - I hold, he pulls - I pull,"
+      },
+      {
+       "cyr": "тој трга - јас тргам, тој натамо - јас навамо,",
+       "lat": "toj trga - jas trgam, toj natamo - jas navamo,",
+       "en": "he pulls - I pull, he that way - I this way,"
+      },
+      {
+       "cyr": "се скина ѓердано, мамо, се скина ѓердано,",
+       "lat": "se skina ǵerdano, mamo, se skina ǵerdano,",
+       "en": "the necklace tore, mother, the necklace tore,"
+      },
+      {
+       "cyr": "пустото ми лудо, мамо, мирно не остана.",
+       "lat": "pustoto mi ludo, mamo, mirno ne ostana.",
+       "en": "the wretched lad, mother, did not stay quiet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се вратив, мила мамо, на бунаро",
+       "lat": "Pa se vrativ, mila mamo, na bunaro",
+       "en": "Then I came back, dear mother, to the well,"
+      },
+      {
+       "cyr": "и некој ме фати, мамо, за фустано.",
+       "lat": "i nekoj me fati, mamo, za fustano.",
+       "en": "and someone grabbed me, mother, by the dress."
+      },
+      {
+       "cyr": "Тој држ - јас држ, тој трга - јас тргам,",
+       "lat": "Toj drž - jas drž, toj trga - jas trgam,",
+       "en": "He holds - I hold, he pulls - I pull,"
+      },
+      {
+       "cyr": "тој трга - јас тргам, тој натамо - јас навамо,",
+       "lat": "toj trga - jas trgam, toj natamo - jas navamo,",
+       "en": "he pulls - I pull, he that way - I this way,"
+      },
+      {
+       "cyr": "се скина фустано, мамо, се скина фустано,",
+       "lat": "se skina fustano, mamo, se skina fustano,",
+       "en": "the dress tore, mother, the dress tore,"
+      },
+      {
+       "cyr": "пустото ми лудо, мамо, мирно не остана.",
+       "lat": "pustoto mi ludo, mamo, mirno ne ostana.",
+       "en": "the wretched lad, mother, did not stay quiet."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

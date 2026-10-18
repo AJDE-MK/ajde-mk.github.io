@@ -1,0 +1,152 @@
+{
+ "id": 1165,
+ "slug": "kraj-vardara-dvajca-sedevme",
+ "title_cyr": "Крај Вардара двајца седевме",
+ "title_latin": "Kraj Vardara dvajca sedevme",
+ "title_en": "We two sat by the Vardar",
+ "pesna_url": "https://pesna.org/song/1165",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author known to me. 'Тогај клетва либе дадовме' I render 'then we swore an oath' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "сонував",
+   "en": "I dreamed of"
+  },
+  {
+   "mk": "целивав",
+   "en": "I kissed"
+  },
+  {
+   "mk": "шеќерни",
+   "en": "sugary"
+  },
+  {
+   "mk": "медени",
+   "en": "honeyed"
+  },
+  {
+   "mk": "изневери",
+   "en": "is unfaithful"
+  },
+  {
+   "mk": "удави",
+   "en": "drown"
+  },
+  {
+   "mk": "клетва",
+   "en": "oath, curse"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2833"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти либе јас те сонував",
+       "lat": "Snošti libe jas te sonuvav",
+       "en": "Last night, sweetheart, I dreamed of you"
+      },
+      {
+       "cyr": "и во сон те целивав.",
+       "lat": "i vo son te celivav.",
+       "en": "and in the dream I kissed you."
+      },
+      {
+       "cyr": "Устите беа шеќерни, де,",
+       "lat": "Ustite bea šeḱerni, de,",
+       "en": "Your lips were sugary, oh,"
+      },
+      {
+       "cyr": "слатки ем медени, де.",
+       "lat": "slatki em medeni, de.",
+       "en": "sweet and honeyed, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крај Вардара двајца седевме,",
+       "lat": "Kraj Vardara dvajca sedevme,",
+       "en": "We two sat by the Vardar,"
+      },
+      {
+       "cyr": "еден на друг зборевме.",
+       "lat": "eden na drug zborevme.",
+       "en": "we talked to each other."
+      },
+      {
+       "cyr": "Устите беа шеќерни, де,",
+       "lat": "Ustite bea šeḱerni, de,",
+       "en": "Your lips were sugary, oh,"
+      },
+      {
+       "cyr": "слатки ем медени, де.",
+       "lat": "slatki em medeni, de.",
+       "en": "sweet and honeyed, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе од нас изневери, де,",
+       "lat": "Koj ḱe od nas izneveri, de,",
+       "en": "Whichever of us is unfaithful, oh,"
+      },
+      {
+       "cyr": "в' река Вардар да се удави,",
+       "lat": "v' reka Vardar da se udavi,",
+       "en": "let him drown in the river Vardar,"
+      },
+      {
+       "cyr": "тогај клетва либе дадовме,",
+       "lat": "togaj kletva libe dadovme,",
+       "en": "then, sweetheart, we swore an oath"
+      },
+      {
+       "cyr": "да не се разделиме.",
+       "lat": "da ne se razdelime.",
+       "en": "that we would not part."
+      },
+      {
+       "cyr": "Устите беа шеќерни, де,",
+       "lat": "Ustite bea šeḱerni, de,",
+       "en": "Your lips were sugary, oh,"
+      },
+      {
+       "cyr": "слатки ем медени, де.",
+       "lat": "slatki em medeni, de.",
+       "en": "sweet and honeyed, oh."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

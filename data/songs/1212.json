@@ -1,0 +1,131 @@
+{
+ "id": 1212,
+ "slug": "nejkjum-nejkjum",
+ "title_cyr": "Нејќум, нејќум",
+ "title_latin": "Nejḱum, nejḱum",
+ "title_en": "I Don't Want, I Don't Want",
+ "pesna_url": "https://pesna.org/song/1212",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. 'Велој, первези' is my reading as 'sister-in-law (велој) and ornaments/frames (первези)'; unsure of this line.",
+ "words_to_learn": [
+  {
+   "mk": "нејќум",
+   "en": "I don't want (dialect)"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "золва",
+   "en": "husband's sister"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy, alas"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, unmarried young man"
+  },
+  {
+   "mk": "туку сакам",
+   "en": "but I want"
+  },
+  {
+   "mk": "лудо",
+   "en": "foolish one (affectionate)"
+  }
+ ],
+ "performers": [
+  "Елена Мукаетова",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Елена Мукаетова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2985"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нејќум, нејќум, нејќум леле нејќум,",
+       "lat": "Nejḱum, nejḱum, nejḱum lele nejḱum,",
+       "en": "I don't want, I don't want, I don't want, oh dear, I don't want,"
+      },
+      {
+       "cyr": "свекор и свекрва, аман аман.",
+       "lat": "svekor i svekrva, aman aman.",
+       "en": "father-in-law and mother-in-law, mercy, mercy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нејќум, нејќум, нејќум леле, нејќум,",
+       "lat": "Nejḱum, nejḱum, nejḱum lele, nejḱum,",
+       "en": "I don't want, I don't want, I don't want, oh dear, I don't want,"
+      },
+      {
+       "cyr": "золви золвини, аман аман.",
+       "lat": "zolvi zolvini, aman aman.",
+       "en": "the husband's sisters-in-law, mercy, mercy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нејќум, нејќум, нејќум леле, нејќум,",
+       "lat": "Nejḱum, nejḱum, nejḱum lele, nejḱum,",
+       "en": "I don't want, I don't want, I don't want, oh dear, I don't want,"
+      },
+      {
+       "cyr": "велој, первези, аман аман.",
+       "lat": "veloj, pervezi, aman aman.",
+       "en": "the husband's brother's wife, the ornaments, mercy, mercy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туку сакам, туку леле сакам,",
+       "lat": "Tuku sakam, tuku lele sakam,",
+       "en": "But I want, but oh dear I want,"
+      },
+      {
+       "cyr": "ерген, лудото, аман аман,",
+       "lat": "ergen, ludoto, aman aman,",
+       "en": "a bachelor, the foolish one, mercy, mercy,"
+      },
+      {
+       "cyr": "ерген, лудото.",
+       "lat": "ergen, ludoto.",
+       "en": "a bachelor, the foolish one."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

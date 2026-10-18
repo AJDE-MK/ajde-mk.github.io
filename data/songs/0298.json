@@ -1,0 +1,167 @@
+{
+ "id": 298,
+ "slug": "snoshti-minav-pokraj-vash-to-porte",
+ "title_cyr": "Сношти минав покрај ваш'то порте",
+ "title_latin": "Snošti minav pokraj vaš'to porte",
+ "title_en": "Last Night I Passed by Your Gate",
+ "pesna_url": "https://pesna.org/song/298",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Сношти' and 'порте' are dialectal forms; 'од теб' не се делам' read as 'I cannot part from you'.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "порте",
+   "en": "gate (dialect: 'порта')"
+  },
+  {
+   "mk": "умирам",
+   "en": "I am dying"
+  },
+  {
+   "mk": "загинвам",
+   "en": "I am perishing"
+  },
+  {
+   "mk": "не се делам",
+   "en": "I do not part"
+  },
+  {
+   "mk": "Бог да бие",
+   "en": "may God strike (curse)"
+  },
+  {
+   "mk": "раздели",
+   "en": "separated, parted"
+  }
+ ],
+ "performers": [
+  "Ансамбл Антико",
+  "Зоран Ванев",
+  "Круме Спасовски"
+ ],
+ "audio": [
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/604"
+  },
+  {
+   "who": "Ансамбл Антико",
+   "url": "https://pesna.org/audio-download/2124"
+  },
+  {
+   "who": "Зоран Ванев",
+   "url": "https://pesna.org/audio-download/2342"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти минав покрај ваш'то порте либе",
+       "lat": "Snošti minav pokraj vaš'to porte libe",
+       "en": "Last night I passed by your gate, love,"
+      },
+      {
+       "cyr": "ти на порти стоеше",
+       "lat": "ti na porti stoeše",
+       "en": "you were standing at the gate,"
+      },
+      {
+       "cyr": "ај умирам, либе загинвам",
+       "lat": "aj umiram, libe zaginvam",
+       "en": "oh, I am dying, love, I am perishing,"
+      },
+      {
+       "cyr": "и од теб' не се делам.",
+       "lat": "i od teb' ne se delam.",
+       "en": "and I cannot part from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ти реков: „Добро вечер, мило либе“,",
+       "lat": "Jas ti rekov: „Dobro večer, milo libe“,",
+       "en": "I said to you: 'Good evening, dear love,'"
+      },
+      {
+       "cyr": "крена глава, ме погледна,",
+       "lat": "krena glava, me pogledna,",
+       "en": "you raised your head and looked at me,"
+      },
+      {
+       "cyr": "ај умирам, либе загинвам",
+       "lat": "aj umiram, libe zaginvam",
+       "en": "oh, I am dying, love, I am perishing,"
+      },
+      {
+       "cyr": "и од теб' не се делам.",
+       "lat": "i od teb' ne se delam.",
+       "en": "and I cannot part from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие твојта мајка мило либе",
+       "lat": "Bog da bie tvojta majka milo libe",
+       "en": "May God strike your mother, dear love,"
+      },
+      {
+       "cyr": "што не двајцата раздели",
+       "lat": "što ne dvajcata razdeli",
+       "en": "for she parted the two of us,"
+      },
+      {
+       "cyr": "ај умирам, либе загинвам",
+       "lat": "aj umiram, libe zaginvam",
+       "en": "oh, I am dying, love, I am perishing,"
+      },
+      {
+       "cyr": "и од теб' не се делам.",
+       "lat": "i od teb' ne se delam.",
+       "en": "and I cannot part from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие твојта мајка, а и татко",
+       "lat": "Bog da bie tvojta majka, a i tatko",
+       "en": "May God strike your mother, and your father too,"
+      },
+      {
+       "cyr": "што не двајцата раздели",
+       "lat": "što ne dvajcata razdeli",
+       "en": "for they parted the two of us,"
+      },
+      {
+       "cyr": "ај умирам, либе загинвам",
+       "lat": "aj umiram, libe zaginvam",
+       "en": "oh, I am dying, love, I am perishing,"
+      },
+      {
+       "cyr": "и од теб' не се делам.",
+       "lat": "i od teb' ne se delam.",
+       "en": "and I cannot part from you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

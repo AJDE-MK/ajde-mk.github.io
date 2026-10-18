@@ -1,0 +1,203 @@
+{
+ "id": 627,
+ "slug": "ah-kade-e-mojto-libe",
+ "title_cyr": "Ах, каде е мојто либе",
+ "title_latin": "Ah, kade e mojto libe",
+ "title_en": "Oh, where is my love",
+ "pesna_url": "https://pesna.org/song/627",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алексо Димов",
+  "Ани Малинкова",
+  "Антонија Шола",
+  "Виктор Масторидис",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Гоце Арнаудов",
+  "Група АС",
+  "Даниела Калаџиска",
+  "Диран Тавитјан",
+  "Елена Велевска",
+  "Зоран Џорлев",
+  "Ирена Спасовска",
+  "Јасмина Мукаетова",
+  "Катерина Танева",
+  "Нели ти реков",
+  "Пијано бар",
+  "Сања Лефкова",
+  "Сузана Спасовска",
+  "Gamze Matraci"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/129"
+  },
+  {
+   "who": "Група АС",
+   "url": "https://pesna.org/audio-download/130"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/131"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/132"
+  },
+  {
+   "who": "Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/133"
+  },
+  {
+   "who": "Јасмина Мукаетова",
+   "url": "https://pesna.org/audio-download/134"
+  },
+  {
+   "who": "Сања Лефкова",
+   "url": "https://pesna.org/audio-download/135"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/136"
+  },
+  {
+   "who": "Зоран Џорлев, Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/137"
+  },
+  {
+   "who": "Ани Малинкова, Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/138"
+  },
+  {
+   "who": "Катерина Танева, Нели ти реков",
+   "url": "https://pesna.org/audio-download/2408"
+  },
+  {
+   "who": "Зоран Џорлев, Катерина Танева",
+   "url": "https://pesna.org/audio-download/2409"
+  },
+  {
+   "who": "Антонија Шола, Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан",
+   "url": "https://pesna.org/audio-download/2410"
+  },
+  {
+   "who": "Виктор Масторидис",
+   "url": "https://pesna.org/audio-download/3212"
+  },
+  {
+   "who": "Gamze Matraci",
+   "url": "https://pesna.org/audio-download/3759"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах, каде е мојто либе,",
+       "lat": "Ah, kade e mojto libe,",
+       "en": "Oh, where is my love,"
+      },
+      {
+       "cyr": "дали мисли тој на мене?",
+       "lat": "dali misli toj na mene?",
+       "en": "does he think about me?"
+      },
+      {
+       "cyr": "Јас за него само венам,",
+       "lat": "Jas za nego samo venam,",
+       "en": "I keep withering because of him,"
+      },
+      {
+       "cyr": "и за него ќе умрам.",
+       "lat": "i za nego ḱe umram.",
+       "en": "and I will die because of him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коленичев јас пред него,",
+       "lat": "Koleničev jas pred nego,",
+       "en": "I was on my knees in front of him,"
+      },
+      {
+       "cyr": "ем со солзи на очите:",
+       "lat": "em so solzi na očite:",
+       "en": "with tears in my eyes:"
+      },
+      {
+       "cyr": "- „Кажи, кажи неверно либе,",
+       "lat": "- „Kaži, kaži neverno libe,",
+       "en": "- \"Tell me, tell me unfaithful love,"
+      },
+      {
+       "cyr": "која љубиш освен мене“?",
+       "lat": "koja ljubiš osven mene“?",
+       "en": "do you love someone else beside me\"?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зошто кажа ти пред мама",
+       "lat": "Zošto kaža ti pred mama",
+       "en": "Why did you tell my mother"
+      },
+      {
+       "cyr": "каде бевме ние двајца?",
+       "lat": "kade bevme nie dvajca?",
+       "en": "where the two of us were?"
+      },
+      {
+       "cyr": "Ако либе те излажам,",
+       "lat": "Ako libe te izlažam,",
+       "en": "If I lie to you, love,"
+      },
+      {
+       "cyr": "подобро е јас да умрам.",
+       "lat": "podobro e jas da umram.",
+       "en": "I should better die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Блазе оној што си љуби,",
+       "lat": "Blaze onoj što si ljubi,",
+       "en": "Those that love are blessed,"
+      },
+      {
+       "cyr": "кој што љуби верно либе,",
+       "lat": "koj što ljubi verno libe,",
+       "en": "those that love a faithful lover,"
+      },
+      {
+       "cyr": "тој бесценет камен носи",
+       "lat": "toj bescenet kamen nosi",
+       "en": "those have a priceless gem"
+      },
+      {
+       "cyr": "и е верен дур' до гроба.",
+       "lat": "i e veren dur' do groba.",
+       "en": "and are faithful 'till the grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

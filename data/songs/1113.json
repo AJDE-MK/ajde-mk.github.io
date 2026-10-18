@@ -1,0 +1,174 @@
+{
+ "id": 1113,
+ "slug": "padnalo-mome-od-boga",
+ "title_cyr": "Паднало моме од бога",
+ "title_latin": "Padnalo mome od boga",
+ "title_en": "A girl fell from God",
+ "pesna_url": "https://pesna.org/song/1113",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "First line is an alternative title as given in the source. 'Милна' and 'мирно масло' (tender, fragrant oil) are my reading. Variant of Patruno moме.",
+ "words_to_learn": [
+  {
+   "mk": "паднало",
+   "en": "fallen"
+  },
+  {
+   "mk": "бавча",
+   "en": "garden, orchard"
+  },
+  {
+   "mk": "никната",
+   "en": "sprouted, grown"
+  },
+  {
+   "mk": "родила",
+   "en": "gave birth"
+  },
+  {
+   "mk": "масло",
+   "en": "oil"
+  },
+  {
+   "mk": "доила",
+   "en": "nursed"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "лулала",
+   "en": "rocked (a cradle)"
+  },
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  },
+  {
+   "mk": "Ѓурѓовден",
+   "en": "St George's Day"
+  }
+ ],
+ "performers": [
+  "Мегленки",
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4272"
+  },
+  {
+   "who": "Мегленки",
+   "url": "https://pesna.org/audio-download/4275"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Патруно моме убава)",
+       "lat": "(Patruno mome ubava)",
+       "en": "(Patruno, beautiful girl)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Паднало моме од бога",
+       "lat": "Padnalo mome od boga",
+       "en": "A girl fell from God"
+      },
+      {
+       "cyr": "во среде бавча градина.",
+       "lat": "vo srede bavča gradina.",
+       "en": "in the middle of a garden orchard."
+      },
+      {
+       "cyr": "- Марике, бела Марике,",
+       "lat": "- Marike, bela Marike,",
+       "en": "- Marika, white Marika,"
+      },
+      {
+       "cyr": "ал' си од бога падната,",
+       "lat": "al' si od boga padnata,",
+       "en": "were you fallen from God,"
+      },
+      {
+       "cyr": "или од земја никната?",
+       "lat": "ili od zemja niknata?",
+       "en": "or sprouted from the earth?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- He сум од бога падната,",
+       "lat": "- He sum od boga padnata,",
+       "en": "- I am not fallen from God,"
+      },
+      {
+       "cyr": "нити од земја никната,",
+       "lat": "niti od zemja niknata,",
+       "en": "nor sprouted from the earth,"
+      },
+      {
+       "cyr": "милна ме мајка родила,",
+       "lat": "milna me majka rodila,",
+       "en": "my dear mother bore me,"
+      },
+      {
+       "cyr": "мирно ме масло мачкала",
+       "lat": "mirno me maslo mačkala",
+       "en": "calmly she rubbed me with oil,"
+      },
+      {
+       "cyr": "со благо млеко доила,",
+       "lat": "so blago mleko doila,",
+       "en": "nursed me with gentle milk,"
+      },
+      {
+       "cyr": "под трендафилот лулала.",
+       "lat": "pod trendafilot lulala.",
+       "en": "rocked me under the rose bush."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Велигден сум родена,",
+       "lat": "Na Veligden sum rodena,",
+       "en": "I was born on Easter,"
+      },
+      {
+       "cyr": "а крстена на Ѓурѓовден,",
+       "lat": "a krstena na Ǵurǵovden,",
+       "en": "and baptized on St George's Day,"
+      },
+      {
+       "cyr": "лично ми име туриле,",
+       "lat": "lično mi ime turile,",
+       "en": "they gave me a fine name,"
+      },
+      {
+       "cyr": "лично бре име Марика.",
+       "lat": "lično bre ime Marika.",
+       "en": "a fine name, hey, Marika."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,137 @@
+{
+ "id": 1146,
+ "slug": "tri-godini-mori-dano",
+ "title_cyr": "Три години, мори Дано",
+ "title_latin": "Tri godini, mori Dano",
+ "title_en": "Three Years, Hey Dana",
+ "pesna_url": "https://pesna.org/song/1146",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Армасани' in the plural form is slightly odd here; my reading is 'betrothed'. 'Рудо' is an old poetic word, translated 'ruddy'.",
+ "words_to_learn": [
+  {
+   "mk": "армасани",
+   "en": "engaged, betrothed"
+  },
+  {
+   "mk": "невидени",
+   "en": "unseen, not having seen each other"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring tap"
+  },
+  {
+   "mk": "калап сапун",
+   "en": "a bar of soap"
+  },
+  {
+   "mk": "бело лице",
+   "en": "white face (fair complexion)"
+  },
+  {
+   "mk": "рудо грло",
+   "en": "ruddy/golden-red throat"
+  },
+  {
+   "mk": "аман",
+   "en": "oh dear, alas (interjection)"
+  }
+ ],
+ "performers": [
+  "Ѓоко Јовиќ"
+ ],
+ "audio": [
+  {
+   "who": "Ѓоко Јовиќ",
+   "url": "https://pesna.org/audio-download/2781"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три години, мори Дано, три години,",
+       "lat": "Tri godini, mori Dano, tri godini,",
+       "en": "Three years, hey Dana, three years,"
+      },
+      {
+       "cyr": "три години, мори Дано, армасани.",
+       "lat": "tri godini, mori Dano, armasani.",
+       "en": "three years, hey Dana, engaged,"
+      },
+      {
+       "cyr": "Аман, аман, ах мори Дано, невидени.",
+       "lat": "Aman, aman, ah mori Dano, nevideni.",
+       "en": "Aman, aman, ah hey Dana, unseen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само еднаш, мори Дано, само еднаш,",
+       "lat": "Samo ednaš, mori Dano, samo ednaš,",
+       "en": "Only once, hey Dana, only once,"
+      },
+      {
+       "cyr": "само еднаш, мори Дано, на чешмето.",
+       "lat": "samo ednaš, mori Dano, na češmeto.",
+       "en": "only once, hey Dana, at the fountain."
+      },
+      {
+       "cyr": "Аман, аман, ах мори Дано, на чешмето.",
+       "lat": "Aman, aman, ah mori Dano, na češmeto.",
+       "en": "Aman, aman, ah hey Dana, at the fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ти дадов, мори Дано, јас ти дадов,",
+       "lat": "Jas ti dadov, mori Dano, jas ti dadov,",
+       "en": "I gave you, hey Dana, I gave you,"
+      },
+      {
+       "cyr": "јас ти дадов, мори Дано, калап сапун.",
+       "lat": "jas ti dadov, mori Dano, kalap sapun.",
+       "en": "I gave you, hey Dana, a bar of soap."
+      },
+      {
+       "cyr": "Аман, аман, ах мори Дано, калап сапун.",
+       "lat": "Aman, aman, ah mori Dano, kalap sapun.",
+       "en": "Aman, aman, ah hey Dana, a bar of soap."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти да измиеш, мори Дано, да измиеш,",
+       "lat": "Ti da izmieš, mori Dano, da izmieš,",
+       "en": "So that you wash, hey Dana, wash,"
+      },
+      {
+       "cyr": "ти да измиеш, мори Дано, бело лице.",
+       "lat": "ti da izmieš, mori Dano, belo lice.",
+       "en": "so that you wash, hey Dana, your white face."
+      },
+      {
+       "cyr": "Аман, аман, ах мори Дано, рудо грло.",
+       "lat": "Aman, aman, ah mori Dano, rudo grlo.",
+       "en": "Aman, aman, ah hey Dana, your ruddy throat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

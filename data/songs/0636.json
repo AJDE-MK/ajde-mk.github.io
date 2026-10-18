@@ -1,0 +1,134 @@
+{
+ "id": 636,
+ "slug": "ilchovice-mlada-nevesto",
+ "title_cyr": "Илчовице млада невесто",
+ "title_latin": "Ilčovice mlada nevesto",
+ "title_en": "Ilchovitsa, young bride",
+ "pesna_url": "https://pesna.org/song/636",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ацо Андонов",
+  "Васка Илиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/708"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/709"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Илчовице млада невесто,",
+       "lat": "Ilčovice mlada nevesto,",
+       "en": "Ilchovica, young bride,"
+      },
+      {
+       "cyr": "дали си чула разбрала?",
+       "lat": "dali si čula razbrala?",
+       "en": "have you heard, have you understood?"
+      },
+      {
+       "cyr": "Дали си чула разбрала,",
+       "lat": "Dali si čula razbrala,",
+       "en": "Have you heard, have you understood,"
+      },
+      {
+       "cyr": "оти е дошол агутот?",
+       "lat": "oti e došol agutot?",
+       "en": "that the agha has come?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оти е дошол агутот,",
+       "lat": "Oti e došol agutot,",
+       "en": "That the agha has come,"
+      },
+      {
+       "cyr": "агутот мустак бегутот?",
+       "lat": "agutot mustak begutot?",
+       "en": "the agha, the bey with the mustache?"
+      },
+      {
+       "cyr": "Илчовице млада невесто,",
+       "lat": "Ilčovice mlada nevesto,",
+       "en": "Ilcovitsa, young bride,"
+      },
+      {
+       "cyr": "имате село големо.",
+       "lat": "imate selo golemo.",
+       "en": "you have a big village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имате село големо,",
+       "lat": "Imate selo golemo,",
+       "en": "You have a big village,"
+      },
+      {
+       "cyr": "имате моми убави.",
+       "lat": "imate momi ubavi.",
+       "en": "you have beautiful maidens."
+      },
+      {
+       "cyr": "На снага тенки, високи,",
+       "lat": "Na snaga tenki, visoki,",
+       "en": "Slim and tall in build,"
+      },
+      {
+       "cyr": "на лице бели, црвени.",
+       "lat": "na lice beli, crveni.",
+       "en": "with white and red faces."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Иљчовице млада невесто,",
+       "lat": "Iljčovice mlada nevesto,",
+       "en": "Ilchovice, young bride,"
+      },
+      {
+       "cyr": "ареса ми се, бендиса.",
+       "lat": "aresa mi se, bendisa.",
+       "en": "you please me, I like you."
+      },
+      {
+       "cyr": "Ареса ми се, бендиса,",
+       "lat": "Aresa mi se, bendisa,",
+       "en": "You please me, I like you,"
+      },
+      {
+       "cyr": "млaдото невесте Илчово.",
+       "lat": "mladoto neveste Ilčovo.",
+       "en": "young bride of Ilcho."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

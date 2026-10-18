@@ -1,0 +1,142 @@
+{
+ "id": 410,
+ "slug": "rajna-na-porti-stoeshe",
+ "title_cyr": "Рајна на порти стоеше",
+ "title_latin": "Rajna na porti stoeše",
+ "title_en": "Rajna stood at the gate",
+ "pesna_url": "https://pesna.org/song/410",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding song. 'Дружба' in 'писмо од дружба' is my reading: a letter from a companion/friend (possibly the sweetheart).",
+ "words_to_learn": [
+  {
+   "mk": "порти",
+   "en": "gate (of a yard)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "јунак",
+   "en": "young hero, lad"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "дружба",
+   "en": "companion, company"
+  },
+  {
+   "mk": "думаше",
+   "en": "spoke, said"
+  },
+  {
+   "mk": "замина",
+   "en": "went away, departed"
+  }
+ ],
+ "performers": [
+  "Деспина"
+ ],
+ "audio": [
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/2078"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Рајна на порти стоеше, мила мамо,",
+       "lat": "Rajna na porti stoeše, mila mamo,",
+       "en": "Rajna stood at the gate, dear mother,"
+      },
+      {
+       "cyr": "Рајна на порти стоеше,",
+       "lat": "Rajna na porti stoeše,",
+       "en": "Rajna stood at the gate,"
+      },
+      {
+       "cyr": "либето си го чекаше.",
+       "lat": "libeto si go čekaše.",
+       "en": "waiting for her sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде млад јунак, мила мамо,",
+       "lat": "Ozdola ide mlad junak, mila mamo,",
+       "en": "From below comes a young lad, dear mother,"
+      },
+      {
+       "cyr": "оздола иде млад јунак,",
+       "lat": "ozdola ide mlad junak,",
+       "en": "from below comes a young lad,"
+      },
+      {
+       "cyr": "и носи писмо за Рајна.",
+       "lat": "i nosi pismo za Rajna.",
+       "en": "and he brings a letter for Rajna."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Рајно ле, моме убаво, леле убаво,",
+       "lat": "- Rajno le, mome ubavo, lele ubavo,",
+       "en": "- Oh Rajna, beautiful girl, oh beautiful,"
+      },
+      {
+       "cyr": "Рајне ле, моме убаво,",
+       "lat": "Rajne le, mome ubavo,",
+       "en": "Rajna, beautiful girl,"
+      },
+      {
+       "cyr": "носам ти писмо од дружба.",
+       "lat": "nosam ti pismo od družba.",
+       "en": "I bring you a letter from your companion."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рајна на јунак думаше, леле думаше,",
+       "lat": "Rajna na junak dumaše, lele dumaše,",
+       "en": "Rajna spoke to the lad, oh she spoke,"
+      },
+      {
+       "cyr": "Рајна на јунак думаше:",
+       "lat": "Rajna na junak dumaše:",
+       "en": "Rajna spoke to the lad:"
+      },
+      {
+       "cyr": "- Што ќе ми писмо од дружба,",
+       "lat": "- Što ḱe mi pismo od družba,",
+       "en": "- What do I want with a letter from my companion,"
+      },
+      {
+       "cyr": "кога ми либе замина?",
+       "lat": "koga mi libe zamina?",
+       "en": "when my sweetheart has gone away?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

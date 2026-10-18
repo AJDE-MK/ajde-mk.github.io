@@ -1,0 +1,206 @@
+{
+ "id": 767,
+ "slug": "kichevjani-moskovjani",
+ "title_cyr": "Кичевјани, московјани",
+ "title_latin": "Kičevjani, moskovjani",
+ "title_en": "People of Kičevo, People of Moscow",
+ "pesna_url": "https://pesna.org/song/767",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Московјани' (rendered 'people of Moscow') may be a dialect or place-name form; 'Лавчанче' as 'Lavchan lad' and 'калеш' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "комити",
+   "en": "rebel fighters (komiti)"
+  },
+  {
+   "mk": "ага",
+   "en": "agha (Ottoman lord, form of address)"
+  },
+  {
+   "mk": "востание",
+   "en": "uprising"
+  },
+  {
+   "mk": "поминаа",
+   "en": "they passed by"
+  },
+  {
+   "mk": "заминаа",
+   "en": "they went away"
+  },
+  {
+   "mk": "рудо јагне",
+   "en": "ruddy (reddish) lamb"
+  },
+  {
+   "mk": "вечераа",
+   "en": "they had supper"
+  },
+  {
+   "mk": "калеш",
+   "en": "handsome, dashing"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Распеани дебарчани"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1307"
+  },
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3910"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кичевјани, море, московјани,",
+       "lat": "Kičevjani, more, moskovjani,",
+       "en": "People of Kičevo, hey, people of Moscow,"
+      },
+      {
+       "cyr": "дал' видовте, море, кој помина,",
+       "lat": "dal' vidovte, more, koj pomina,",
+       "en": "did you see, hey, who passed by,"
+      },
+      {
+       "cyr": "кој помина, море, кој замина?",
+       "lat": "koj pomina, more, koj zamina?",
+       "en": "who passed by, hey, who went on?"
+      },
+      {
+       "cyr": "- Поминаја, аго, заминаја,",
+       "lat": "- Pominaja, ago, zaminaja,",
+       "en": "- They passed by, agha, they went on,"
+      },
+      {
+       "cyr": "комитите, аго, од кичевско,",
+       "lat": "komitite, ago, od kičevsko,",
+       "en": "the rebels, agha, from the Kičevo region,"
+      },
+      {
+       "cyr": "од кичевско, аго, од дебарско.",
+       "lat": "od kičevsko, ago, od debarsko.",
+       "en": "from the Kičevo region, agha, from the Debar region."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први беше, аго, што врвеше,",
+       "lat": "Prvi beše, ago, što vrveše,",
+       "en": "The first, agha, who was marching,"
+      },
+      {
+       "cyr": "кара Павле, аго, Лазоровчев,",
+       "lat": "kara Pavle, ago, Lazorovčev,",
+       "en": "was black Pavle, agha, Lazorovchev,"
+      },
+      {
+       "cyr": "кара Павле, аго, Лазоровчев.",
+       "lat": "kara Pavle, ago, Lazorovčev.",
+       "en": "black Pavle, agha, Lazorovchev."
+      },
+      {
+       "cyr": "Втори беше, аго, што врвеше,",
+       "lat": "Vtori beše, ago, što vrveše,",
+       "en": "The second, agha, who was marching,"
+      },
+      {
+       "cyr": "русо Наќе, аго, Лавчанчето,",
+       "lat": "ruso Naḱe, ago, Lavčančeto,",
+       "en": "fair-haired Nake, agha, the Lavchan lad,"
+      },
+      {
+       "cyr": "русо Наќе, аго, Лавчанчето.",
+       "lat": "ruso Naḱe, ago, Lavčančeto.",
+       "en": "fair-haired Nake, agha, the Lavchan lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трети беше, аго, што врвеше,",
+       "lat": "Treti beše, ago, što vrveše,",
+       "en": "The third, agha, who was marching,"
+      },
+      {
+       "cyr": "калеш Пејчин, аго, Галичанец,",
+       "lat": "kaleš Pejčin, ago, Galičanec,",
+       "en": "handsome Pejcho, agha, from Galichnik,"
+      },
+      {
+       "cyr": "калеш Пејчин, аго, Галичанец.",
+       "lat": "kaleš Pejčin, ago, Galičanec.",
+       "en": "handsome Pejcho, agha, from Galichnik."
+      },
+      {
+       "cyr": "Вечераа, аго, рудо јагне,",
+       "lat": "Večeraa, ago, rudo jagne,",
+       "en": "They ate supper, agha, a ruddy lamb,"
+      },
+      {
+       "cyr": "и пред зори заминаа,",
+       "lat": "i pred zori zaminaa,",
+       "en": "and before dawn they left,"
+      },
+      {
+       "cyr": "заминаја аго за Смилево.",
+       "lat": "zaminaja ago za Smilevo.",
+       "en": "they left, agha, for Smilevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заминаа аго, за Смилево,",
+       "lat": "Zaminaa ago, za Smilevo,",
+       "en": "They left, agha, for Smilevo,"
+      },
+      {
+       "cyr": "од Смилево, аго, за Крушево,",
+       "lat": "od Smilevo, ago, za Kruševo,",
+       "en": "from Smilevo, agha, for Kruševo,"
+      },
+      {
+       "cyr": "од Смилево, аго за Крушево.",
+       "lat": "od Smilevo, ago za Kruševo.",
+       "en": "from Smilevo, agha, for Kruševo."
+      },
+      {
+       "cyr": "Ќе ми дигат, аго, востание,",
+       "lat": "Ḱe mi digat, ago, vostanie,",
+       "en": "They will raise, agha, an uprising,"
+      },
+      {
+       "cyr": "востание, аго, Илинденско,",
+       "lat": "vostanie, ago, Ilindensko,",
+       "en": "an uprising, agha, the Ilinden one,"
+      },
+      {
+       "cyr": "востанание, аго, македонско.",
+       "lat": "vostananie, ago, makedonsko.",
+       "en": "an uprising, agha, a Macedonian one."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

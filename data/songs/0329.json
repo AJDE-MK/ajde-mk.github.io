@@ -1,0 +1,189 @@
+{
+ "id": 329,
+ "slug": "pileto-mi-pee",
+ "title_cyr": "Пилето ми пее",
+ "title_latin": "Pileto mi pee",
+ "title_en": "The Little Bird Sings",
+ "pesna_url": "https://pesna.org/song/329",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Тук' те тебе' is my reading of 'only you'. 'Рачај' in line 'Рачај, порачај' is a repeated form of 'порачај'.",
+ "words_to_learn": [
+  {
+   "mk": "пилето",
+   "en": "the little bird"
+  },
+  {
+   "mk": "сабајле",
+   "en": "morning"
+  },
+  {
+   "mk": "зори",
+   "en": "dawn"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "спреми",
+   "en": "to prepare"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "порачај",
+   "en": "send word, tell me"
+  },
+  {
+   "mk": "арчат",
+   "en": "are spent"
+  },
+  {
+   "mk": "се кине",
+   "en": "gets torn"
+  },
+  {
+   "mk": "тук' те тебе",
+   "en": "only you (my reading)"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Ацо Андонов",
+  "Виолета Томовска",
+  "Влатко Лозаноски",
+  "Зоран Георгиев",
+  "Зоран Џорлев",
+  "Јованка Житарова"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/489"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/490"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/491"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/492"
+  },
+  {
+   "who": "Зоран Џорлев, Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/493"
+  },
+  {
+   "who": "Јованка Житарова",
+   "url": "https://pesna.org/audio-download/494"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/2815"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пилето ми пее рано на сабајле",
+       "lat": "Pileto mi pee rano na sabajle",
+       "en": "The little bird sings early in the morning,"
+      },
+      {
+       "cyr": "рано на сабајле рано пред зори.",
+       "lat": "rano na sabajle rano pred zori.",
+       "en": "early in the morning, early before dawn."
+      },
+      {
+       "cyr": "Па ми ја буди младата невеста,",
+       "lat": "Pa mi ja budi mladata nevesta,",
+       "en": "And it wakes my young bride for me,"
+      },
+      {
+       "cyr": "младата невеста коња да спреми.",
+       "lat": "mladata nevesta konja da spremi.",
+       "en": "the young bride, to get the horse ready."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коња да спреми на пат ќе одам",
+       "lat": "Konja da spremi na pat ḱe odam",
+       "en": "To get the horse ready, I will go on the road,"
+      },
+      {
+       "cyr": "на пат ќе одам туѓа туѓина.",
+       "lat": "na pat ḱe odam tuǵa tuǵina.",
+       "en": "I will go on the road, to a foreign land."
+      },
+      {
+       "cyr": "Рачај, порачај ти млада невесто,",
+       "lat": "Račaj, poračaj ti mlada nevesto,",
+       "en": "Send word, send word, young bride,"
+      },
+      {
+       "cyr": "рачај, порачај што да ти купам.",
+       "lat": "račaj, poračaj što da ti kupam.",
+       "en": "send word what I should buy you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали пари сакаш или писмо сакаш",
+       "lat": "Dali pari sakaš ili pismo sakaš",
+       "en": "Do you want money, or do you want a letter,"
+      },
+      {
+       "cyr": "ил' ме мене сакаш дома да дојдам?",
+       "lat": "il' me mene sakaš doma da dojdam?",
+       "en": "or do you want me to come home?"
+      },
+      {
+       "cyr": "Ниту пари сакам ниту писмо сакам,",
+       "lat": "Nitu pari sakam nitu pismo sakam,",
+       "en": "I want neither money nor a letter,"
+      },
+      {
+       "cyr": "тук' те тебе сакам дома да дојдиш.",
+       "lat": "tuk' te tebe sakam doma da dojdiš.",
+       "en": "I only want you to come home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Парите се арчат, писмото се кине,",
+       "lat": "Parite se arčat, pismoto se kine,",
+       "en": "Money gets spent, a letter gets torn,"
+      },
+      {
+       "cyr": "а љубовта трае вечно до гроба.",
+       "lat": "a ljubovta trae večno do groba.",
+       "en": "but love lasts forever, until the grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

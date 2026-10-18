@@ -1,0 +1,179 @@
+{
+ "id": 1454,
+ "slug": "kinisa-stojanka",
+ "title_cyr": "Киниса Стојанка",
+ "title_latin": "Kinisa Stojanka",
+ "title_en": "Stojanka set out",
+ "pesna_url": "https://pesna.org/song/1454",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ѓумовите' is my reading as 'the jugs' (unsure), and 'стројник' as a matchmaker-type go-between (unsure). The switch from Stojanka to Stanka is as in the source. Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "киниса",
+   "en": "set out, started off"
+  },
+  {
+   "mk": "вода",
+   "en": "water"
+  },
+  {
+   "mk": "л'скат",
+   "en": "gleam, shine"
+  },
+  {
+   "mk": "летно сонце",
+   "en": "summer sun"
+  },
+  {
+   "mk": "коса",
+   "en": "hair, braid"
+  },
+  {
+   "mk": "вијат",
+   "en": "wind, curl"
+  },
+  {
+   "mk": "опиташ",
+   "en": "you ask, inquire"
+  },
+  {
+   "mk": "да даваат",
+   "en": "to give (in marriage)"
+  },
+  {
+   "mk": "абер",
+   "en": "news"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  }
+ ],
+ "performers": [
+  "Мери Минас Магдалена"
+ ],
+ "audio": [
+  {
+   "who": "Мери Минас Магдалена",
+   "url": "https://pesna.org/audio-download/3726"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Киниса Стојанка мамо",
+       "lat": "Kinisa Stojanka mamo",
+       "en": "Stojanka set out, mother,"
+      },
+      {
+       "cyr": "за вода да ј'оди.",
+       "lat": "za voda da j'odi.",
+       "en": "to go for water."
+      },
+      {
+       "cyr": "Ѓумовите л'скат мамо",
+       "lat": "Ǵumovite l'skat mamo",
+       "en": "The jugs gleam, mother,"
+      },
+      {
+       "cyr": "како летно сонце.",
+       "lat": "kako letno sonce.",
+       "en": "like the summer sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Косите му вијат мамо",
+       "lat": "Kosite mu vijat mamo",
+       "en": "Her braids wind, mother,"
+      },
+      {
+       "cyr": "од рамо на рамо.",
+       "lat": "od ramo na ramo.",
+       "en": "from shoulder to shoulder."
+      },
+      {
+       "cyr": "Стројник ќе те пуштам мамо",
+       "lat": "Strojnik ḱe te puštam mamo",
+       "en": "Matchmaker, I will send you, mother,"
+      },
+      {
+       "cyr": "во Станка да ј'одиш.",
+       "lat": "vo Stanka da j'odiš.",
+       "en": "to go to Stanka's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дома да му ј'одиш мамо,",
+       "lat": "Doma da mu j'odiš mamo,",
+       "en": "To go to her home, mother,"
+      },
+      {
+       "cyr": "на стол да му седниш.",
+       "lat": "na stol da mu sedniš.",
+       "en": "to sit on her chair."
+      },
+      {
+       "cyr": "И да ги опиташ мамо",
+       "lat": "I da gi opitaš mamo",
+       "en": "And to ask them, mother,"
+      },
+      {
+       "cyr": "дали ќе ја даваат.",
+       "lat": "dali ḱe ja davaat.",
+       "en": "whether they will give her away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ни ја дадат мамо,",
+       "lat": "Ako ni ja dadat mamo,",
+       "en": "If they give her to us, mother,"
+      },
+      {
+       "cyr": "бргу да си дојдиш.",
+       "lat": "brgu da si dojdiš.",
+       "en": "come back quickly."
+      },
+      {
+       "cyr": "Бргу да си дојдиш мамо,",
+       "lat": "Brgu da si dojdiš mamo,",
+       "en": "Come back quickly, mother,"
+      },
+      {
+       "cyr": "абер да донесиш,",
+       "lat": "aber da donesiš,",
+       "en": "bring the news,"
+      },
+      {
+       "cyr": "абер да донесиш мамо,",
+       "lat": "aber da donesiš mamo,",
+       "en": "bring the news, mother,"
+      },
+      {
+       "cyr": "свадба да правиме!",
+       "lat": "svadba da pravime!",
+       "en": "that we hold a wedding!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

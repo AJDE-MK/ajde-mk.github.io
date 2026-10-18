@@ -1,0 +1,116 @@
+{
+ "id": 456,
+ "slug": "slavej-pile-rano-pee",
+ "title_cyr": "Славеј пиле рано пее",
+ "title_latin": "Slavej pile rano pee",
+ "title_en": "A Nightingale sings early",
+ "pesna_url": "https://pesna.org/song/456",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Марија Луковска - Чибариќ",
+  "Нада Макеларска"
+ ],
+ "audio": [
+  {
+   "who": "Марија Луковска - Чибариќ, Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2110"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2111"
+  },
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/3976"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Славеј пиле рано пее",
+       "lat": "Slavej pile rano pee",
+       "en": "A Nightingale sings early"
+      },
+      {
+       "cyr": "рано пее пред зората,",
+       "lat": "rano pee pred zorata,",
+       "en": "Early singing before dawn"
+      },
+      {
+       "cyr": "па ми буди лудо младо,",
+       "lat": "pa mi budi ludo mlado,",
+       "en": "and wakes a crazy lad,"
+      },
+      {
+       "cyr": "лудо младо, неженето.",
+       "lat": "ludo mlado, neženeto.",
+       "en": "crazy lad, not married."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, стани лудо младо",
+       "lat": "- Stani, stani ludo mlado",
+       "en": "- Get up, get crazy lad"
+      },
+      {
+       "cyr": "да ми одиш врв планина,",
+       "lat": "da mi odiš vrv planina,",
+       "en": "to go to the mountain peak,"
+      },
+      {
+       "cyr": "таму има до три моми,",
+       "lat": "tamu ima do tri momi,",
+       "en": "there are three girls,"
+      },
+      {
+       "cyr": "до три моми Македонки.",
+       "lat": "do tri momi Makedonki.",
+       "en": "three Macedonian girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва мома дрва бери",
+       "lat": "Prva moma drva beri",
+       "en": "The first girl gathers wood,"
+      },
+      {
+       "cyr": "втора мома оган пали,",
+       "lat": "vtora moma ogan pali,",
+       "en": "the second girl lights a fire,"
+      },
+      {
+       "cyr": "втора мома оган пали",
+       "lat": "vtora moma ogan pali",
+       "en": "the second girl lights a fire,"
+      },
+      {
+       "cyr": "трета мома јагне пече.",
+       "lat": "treta moma jagne peče.",
+       "en": "the third girl roasts lamb."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

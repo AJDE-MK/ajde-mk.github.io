@@ -1,0 +1,176 @@
+{
+ "id": 45,
+ "slug": "stani-mi-sine-stojane",
+ "title_cyr": "Стани ми сине Стојане",
+ "title_latin": "Stani mi sine Stojane",
+ "title_en": "Get Up, My Son Stojan",
+ "pesna_url": "https://pesna.org/song/45",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Гергелички' (place name) and 'до... двамина' and the final stanza ('уф неа/уф мене') are my reading and uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "оро",
+   "en": "round folk dance"
+  },
+  {
+   "mk": "се збрало",
+   "en": "has gathered"
+  },
+  {
+   "mk": "чаир",
+   "en": "meadow"
+  },
+  {
+   "mk": "играат",
+   "en": "they dance"
+  },
+  {
+   "mk": "пеат",
+   "en": "they sing"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "чобан",
+   "en": "herdsman"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "гривна",
+   "en": "bracelet"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стани ми, сине Стојане,",
+       "lat": "Stani mi, sine Stojane,",
+       "en": "Get up, my son Stojan,"
+      },
+      {
+       "cyr": "големо оро се збрало Стојане,",
+       "lat": "golemo oro se zbralo Stojane,",
+       "en": "a great dance has gathered, Stojan,"
+      },
+      {
+       "cyr": "големо оро се збрало.",
+       "lat": "golemo oro se zbralo.",
+       "en": "a great dance has gathered."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На гергелички чаири",
+       "lat": "Na gergelički čairi",
+       "en": "On the Gergelichki meadows"
+      },
+      {
+       "cyr": "играат сине и пеат, Стојане,",
+       "lat": "igraat sine i peat, Stojane,",
+       "en": "they dance, son, and sing, Stojan,"
+      },
+      {
+       "cyr": "играат сине и пеат.",
+       "lat": "igraat sine i peat.",
+       "en": "they dance, son, and sing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До секоја мома и момче,",
+       "lat": "Do sekoja moma i momče,",
+       "en": "Beside every girl and lad,"
+      },
+      {
+       "cyr": "до Ратка твоја двамина, Стојане,",
+       "lat": "do Ratka tvoja dvamina, Stojane,",
+       "en": "beside your Ratka, the two of them, Stojan,"
+      },
+      {
+       "cyr": "до Ратка твоја двамина.",
+       "lat": "do Ratka tvoja dvamina.",
+       "en": "beside your Ratka, the two of them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Два мина, сине овчари,",
+       "lat": "Dva mina, sine ovčari,",
+       "en": "Two shepherds, son,"
+      },
+      {
+       "cyr": "овчари сине, чобани Стојане,",
+       "lat": "ovčari sine, čobani Stojane,",
+       "en": "shepherds, son, herdsmen, Stojan,"
+      },
+      {
+       "cyr": "овчари сине, чобани.",
+       "lat": "ovčari sine, čobani.",
+       "en": "shepherds, son, herdsmen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нек' пеат мамо, нек' играат,",
+       "lat": "- Nek' peat mamo, nek' igraat,",
+       "en": "- Let them sing, mother, let them dance,"
+      },
+      {
+       "cyr": "Ратка е моја, па моја, мамо ле,",
+       "lat": "Ratka e moja, pa moja, mamo le,",
+       "en": "Ratka is mine, mine, oh mother,"
+      },
+      {
+       "cyr": "Ратка е моја, па моја.",
+       "lat": "Ratka e moja, pa moja.",
+       "en": "Ratka is mine, mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прстенот ми е уф неа,",
+       "lat": "Prstenot mi e uf nea,",
+       "en": "The ring is on her, hey,"
+      },
+      {
+       "cyr": "гривните ѝ се уф мене, мамо ле,",
+       "lat": "grivnite ì se uf mene, mamo le,",
+       "en": "her bracelets are on me, oh mother,"
+      },
+      {
+       "cyr": "гривните ѝ се уф мене.",
+       "lat": "grivnite ì se uf mene.",
+       "en": "her bracelets are on me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,128 @@
+{
+ "id": 866,
+ "slug": "s-zaradi-drug",
+ "title_cyr": "Сè заради друг",
+ "title_latin": "Sè zaradi drug",
+ "title_en": "All Because of Another",
+ "pesna_url": "https://pesna.org/song/866",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known. The refrain 'сè заради друг' is ambiguous (who the 'another' is); I kept it literal.",
+ "words_to_learn": [
+  {
+   "mk": "заљубив",
+   "en": "fell in love"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, lass"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "да ја барам",
+   "en": "to ask for her (in marriage), to look for her"
+  },
+  {
+   "mk": "не ја дава",
+   "en": "does not give her away"
+  },
+  {
+   "mk": "се разболе",
+   "en": "fell ill"
+  },
+  {
+   "mk": "легна",
+   "en": "lay down"
+  }
+ ],
+ "performers": [
+  "Биоритам",
+  "Петар Нечовски",
+  "Сестрите Мавровски"
+ ],
+ "audio": [
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/1894"
+  },
+  {
+   "who": "Биоритам",
+   "url": "https://pesna.org/audio-download/1895"
+  },
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/4356"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си заљубив едно моме, многу убаво, многу убаво,",
+       "lat": "Si zaljubiv edno mome, mnogu ubavo, mnogu ubavo,",
+       "en": "I fell in love with a girl, very beautiful, very beautiful,"
+      },
+      {
+       "cyr": "таа мене ме сакаше, јас ја сакав без да знае,",
+       "lat": "taa mene me sakaše, jas ja sakav bez da znae,",
+       "en": "she loved me, I loved her without her knowing,"
+      },
+      {
+       "cyr": "јас ја сакав без да знае, сè заради друг, заради друг.",
+       "lat": "jas ja sakav bez da znae, sè zaradi drug, zaradi drug.",
+       "en": "I loved her without her knowing, all because of another, because of another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас отидов да ја барам за невеста, за невеста,",
+       "lat": "Jas otidov da ja baram za nevesta, za nevesta,",
+       "en": "I went to ask for her as a bride, as a bride,"
+      },
+      {
+       "cyr": "јас отидов да ја барам, мајка ѝ не ја дава,",
+       "lat": "jas otidov da ja baram, majka ì ne ja dava,",
+       "en": "I went to ask for her, her mother does not give her,"
+      },
+      {
+       "cyr": "мајка ѝ не ја дава, сè заради друг, заради друг.",
+       "lat": "majka ì ne ja dava, sè zaradi drug, zaradi drug.",
+       "en": "her mother does not give her, all because of another, because of another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да ја земам за невеста, за невеста,",
+       "lat": "Dojde vreme da ja zemam za nevesta, za nevesta,",
+       "en": "The time came to take her as a bride, as a bride,"
+      },
+      {
+       "cyr": "дојде време да ја земам, легна моме се разболе,",
+       "lat": "dojde vreme da ja zemam, legna mome se razbole,",
+       "en": "the time came to take her, the girl lay down and fell ill,"
+      },
+      {
+       "cyr": "легна моме се разболе, сè заради друг, заради друг.",
+       "lat": "legna mome se razbole, sè zaradi drug, zaradi drug.",
+       "en": "the girl lay down and fell ill, all because of another, because of another."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,97 @@
+{
+ "id": 1041,
+ "slug": "s-nce-treptit-da-sednit",
+ "title_cyr": "С'нце трептит да седнит",
+ "title_latin": "S'nce treptit da sednit",
+ "title_en": "The sun is trembling, about to set",
+ "pesna_url": "https://pesna.org/song/1041",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect forms with -it for 3rd person (трептит, седнит, кажиш). 'Трептит да седнит' as 'trembling, about to set' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "с'нце",
+   "en": "sun (short dialect form)"
+  },
+  {
+   "mk": "трептит",
+   "en": "trembles, flickers (dialect -it ending)"
+  },
+  {
+   "mk": "седнит",
+   "en": "sits down, sets (dialect)"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear (interjection)"
+  },
+  {
+   "mk": "почекај",
+   "en": "wait a little"
+  },
+  {
+   "mk": "опитам",
+   "en": "I ask"
+  },
+  {
+   "mk": "босилок",
+   "en": "basil"
+  },
+  {
+   "mk": "рида",
+   "en": "hill, ridge"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "С'нце трептит да седнит, леле",
+       "lat": "S'nce treptit da sednit, lele",
+       "en": "The sun is trembling, about to set, oh dear,"
+      },
+      {
+       "cyr": "девојче трча по него, леле.",
+       "lat": "devojče trča po nego, lele.",
+       "en": "a girl runs after it, oh dear."
+      },
+      {
+       "cyr": "- Чекај, почекај с'нце ле,",
+       "lat": "- Čekaj, počekaj s'nce le,",
+       "en": "- Wait, wait for me, sun,"
+      },
+      {
+       "cyr": "јас ќе те нешто опитам,",
+       "lat": "jas ḱe te nešto opitam,",
+       "en": "I will ask you something,"
+      },
+      {
+       "cyr": "ти мене право да кажиш:",
+       "lat": "ti mene pravo da kažiš:",
+       "en": "you tell me the truth:"
+      },
+      {
+       "cyr": "дали се сади босилок",
+       "lat": "dali se sadi bosilok",
+       "en": "is basil planted"
+      },
+      {
+       "cyr": "на сува рида без вода?",
+       "lat": "na suva rida bez voda?",
+       "en": "on a dry hill without water?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

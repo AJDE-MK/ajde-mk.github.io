@@ -1,0 +1,198 @@
+{
+ "id": 1043,
+ "slug": "svekrva-mara-karashe",
+ "title_cyr": "Свекрва Мара караше",
+ "title_latin": "Svekrva Mara karaše",
+ "title_en": "Mother-in-law scolded Mara",
+ "pesna_url": "https://pesna.org/song/1043",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad. 'пригодна' is read as 'suitable'; 'навали' as 'drove down' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "снаа",
+   "en": "daughter-in-law"
+  },
+  {
+   "mk": "караше",
+   "en": "scolded"
+  },
+  {
+   "mk": "куќница",
+   "en": "housekeeper, homemaker"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock, herd"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "чобанин",
+   "en": "herdsman"
+  },
+  {
+   "mk": "забега / одбегна",
+   "en": "fled / ran away"
+  },
+  {
+   "mk": "жени",
+   "en": "to marry off (a man)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свекрва Мара караше:",
+       "lat": "Svekrva Mara karaše:",
+       "en": "Mother-in-law scolded Mara:"
+      },
+      {
+       "cyr": "- Маро ле, мила снао ле,",
+       "lat": "- Maro le, mila snao le,",
+       "en": "- Mara, oh, dear daughter-in-law, oh,"
+      },
+      {
+       "cyr": "не си за в' куќа куќница,",
+       "lat": "ne si za v' kuḱa kuḱnica,",
+       "en": "you are no housekeeper for the house,"
+      },
+      {
+       "cyr": "ни си за в' комшии комшивка,",
+       "lat": "ni si za v' komšii komšivka,",
+       "en": "nor a neighbor for the neighbors,"
+      },
+      {
+       "cyr": "ни за во село селанка,",
+       "lat": "ni za vo selo selanka,",
+       "en": "nor a villager for the village,"
+      },
+      {
+       "cyr": "ниту Стојану пригодна.",
+       "lat": "nitu Stojanu prigodna.",
+       "en": "nor suitable for Stojan either."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Забега Маре, одбегна,",
+       "lat": "Zabega Mare, odbegna,",
+       "en": "Mara fled, ran away,"
+      },
+      {
+       "cyr": "од таа лоша свекрва,",
+       "lat": "od taa loša svekrva,",
+       "en": "from that wicked mother-in-law,"
+      },
+      {
+       "cyr": "одбегна Маре в' планина.",
+       "lat": "odbegna Mare v' planina.",
+       "en": "Mara ran away to the mountain."
+      },
+      {
+       "cyr": "Спечали Маре стадо големо,",
+       "lat": "Spečali Mare stado golemo,",
+       "en": "Mara earned a big flock,"
+      },
+      {
+       "cyr": "после ми двадесет години",
+       "lat": "posle mi dvadeset godini",
+       "en": "then after twenty years"
+      },
+      {
+       "cyr": "навали Маре стадо на село.",
+       "lat": "navali Mare stado na selo.",
+       "en": "Mara drove the flock down to the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми го сретнала Стојана:",
+       "lat": "Mi go sretnala Stojana:",
+       "en": "She met Stojan:"
+      },
+      {
+       "cyr": "- Стојане, море Стојане,",
+       "lat": "- Stojane, more Stojane,",
+       "en": "- Stojan, hey Stojan,"
+      },
+      {
+       "cyr": "дали е жива мајка ти?",
+       "lat": "dali e živa majka ti?",
+       "en": "is your mother alive?"
+      },
+      {
+       "cyr": "- Овчаре море, чобане,",
+       "lat": "- Ovčare more, čobane,",
+       "en": "- Shepherd, hey, herdsman,"
+      },
+      {
+       "cyr": "кога ми Мара одбегна,",
+       "lat": "koga mi Mara odbegna,",
+       "en": "when Mara ran away,"
+      },
+      {
+       "cyr": "тогај ми мајка умрела.",
+       "lat": "togaj mi majka umrela.",
+       "en": "then my mother died."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стојане, море Стојане,",
+       "lat": "- Stojane, more Stojane,",
+       "en": "- Stojan, hey Stojan,"
+      },
+      {
+       "cyr": "дали е живо детето",
+       "lat": "dali e živo deteto",
+       "en": "is the child alive"
+      },
+      {
+       "cyr": "што ти го Мара остави?",
+       "lat": "što ti go Mara ostavi?",
+       "en": "that Mara left you?"
+      },
+      {
+       "cyr": "- Овчаре, море чобане,",
+       "lat": "- Ovčare, more čobane,",
+       "en": "- Shepherd, hey, herdsman,"
+      },
+      {
+       "cyr": "живо е, живо, как' да не,",
+       "lat": "živo e, živo, kak' da ne,",
+       "en": "alive, alive, how could he not be,"
+      },
+      {
+       "cyr": "в' недела ќе го жениме.",
+       "lat": "v' nedela ḱe go ženime.",
+       "en": "on Sunday we are marrying him off."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,228 @@
+{
+ "id": 1324,
+ "slug": "melnishkata-moma",
+ "title_cyr": "Мелнишката мома",
+ "title_latin": "Melniškata moma",
+ "title_en": "The Girl from Melnik",
+ "pesna_url": "https://pesna.org/song/1324",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'ем' in 'вели ем говори' is read as dialect 'and'.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, unmarried young woman"
+  },
+  {
+   "mk": "шетала",
+   "en": "walked around (f.)"
+  },
+  {
+   "mk": "продавала",
+   "en": "was selling (f.)"
+  },
+  {
+   "mk": "собирала",
+   "en": "was collecting (f.)"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "младото",
+   "en": "the young man"
+  },
+  {
+   "mk": "ем",
+   "en": "and (dialect, my reading)"
+  },
+  {
+   "mk": "доплатам",
+   "en": "I pay the remainder"
+  },
+  {
+   "mk": "земај",
+   "en": "take (imperative)"
+  }
+ ],
+ "performers": [
+  "МФГ Склаве",
+  "Радостина Панјова"
+ ],
+ "audio": [
+  {
+   "who": "МФГ Склаве",
+   "url": "https://pesna.org/audio-download/3349"
+  },
+  {
+   "who": "Радостина Панјова",
+   "url": "https://pesna.org/audio-download/3350"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мелнишката мома мамо,",
+       "lat": "Melniškata moma mamo,",
+       "en": "The girl from Melnik, mother,"
+      },
+      {
+       "cyr": "мелнишката мома,",
+       "lat": "melniškata moma,",
+       "en": "the girl from Melnik,"
+      },
+      {
+       "cyr": "по Мелник шетала,",
+       "lat": "po Melnik šetala,",
+       "en": "walked around Melnik,"
+      },
+      {
+       "cyr": "по Мелник шетала.",
+       "lat": "po Melnik šetala.",
+       "en": "walked around Melnik."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По Мелник шетала, мамо,",
+       "lat": "Po Melnik šetala, mamo,",
+       "en": "Walked around Melnik, mother,"
+      },
+      {
+       "cyr": "по Мелник шетала,",
+       "lat": "po Melnik šetala,",
+       "en": "walked around Melnik,"
+      },
+      {
+       "cyr": "вино продавала,",
+       "lat": "vino prodavala,",
+       "en": "selling wine,"
+      },
+      {
+       "cyr": "вино продавала.",
+       "lat": "vino prodavala.",
+       "en": "selling wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вино продавала, мамо,",
+       "lat": "Vino prodavala, mamo,",
+       "en": "Selling wine, mother,"
+      },
+      {
+       "cyr": "вино продавала,",
+       "lat": "vino prodavala,",
+       "en": "selling wine,"
+      },
+      {
+       "cyr": "пари собирала,",
+       "lat": "pari sobirala,",
+       "en": "collecting money,"
+      },
+      {
+       "cyr": "пари собирала.",
+       "lat": "pari sobirala.",
+       "en": "collecting money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пари собирала, мамо,",
+       "lat": "Pari sobirala, mamo,",
+       "en": "Collecting money, mother,"
+      },
+      {
+       "cyr": "пари собирала,",
+       "lat": "pari sobirala,",
+       "en": "collecting money,"
+      },
+      {
+       "cyr": "фустан купувала,",
+       "lat": "fustan kupuvala,",
+       "en": "buying a dress,"
+      },
+      {
+       "cyr": "фустан купувала.",
+       "lat": "fustan kupuvala.",
+       "en": "buying a dress."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младото ѝ вели, вели,",
+       "lat": "Mladoto ì veli, veli,",
+       "en": "The young man says to her, says,"
+      },
+      {
+       "cyr": "младото и вели,",
+       "lat": "mladoto i veli,",
+       "en": "the young man says to her,"
+      },
+      {
+       "cyr": "вели ем говори,",
+       "lat": "veli em govori,",
+       "en": "he says and speaks,"
+      },
+      {
+       "cyr": "вели ем говори:",
+       "lat": "veli em govori:",
+       "en": "he says and speaks:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Земај моме, земај моме",
+       "lat": "- Zemaj mome, zemaj mome",
+       "en": "- Take, girl, take, girl,"
+      },
+      {
+       "cyr": "што ти срце сака,",
+       "lat": "što ti srce saka,",
+       "en": "whatever your heart wants,"
+      },
+      {
+       "cyr": "што ти недостига,",
+       "lat": "što ti nedostiga,",
+       "en": "whatever you lack,"
+      },
+      {
+       "cyr": "јас ќе ти доплатам,",
+       "lat": "jas ḱe ti doplatam,",
+       "en": "I will pay the rest,"
+      },
+      {
+       "cyr": "што ти недостига,",
+       "lat": "što ti nedostiga,",
+       "en": "whatever you lack,"
+      },
+      {
+       "cyr": "јас ќе ти доплатам.",
+       "lat": "jas ḱe ti doplatam.",
+       "en": "I will pay the rest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

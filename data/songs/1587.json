@@ -1,0 +1,272 @@
+{
+ "id": 1587,
+ "slug": "buchat-mi-silni-vetrovi",
+ "title_cyr": "Бучат ми силни ветрови",
+ "title_latin": "Bučat mi silni vetrovi",
+ "title_en": "The strong winds roar",
+ "pesna_url": "https://pesna.org/song/1587",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional historical song about the 1902 fight at Rakitnica (Demir Hisar area) and voivode Velko Petrov Markov. 'татни' (rumble) is my reading. The '(друга верзија)' line is translated as '(another version)'.",
+ "words_to_learn": [
+  {
+   "mk": "ветрови",
+   "en": "winds"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel leader"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "трага",
+   "en": "trail"
+  },
+  {
+   "mk": "легло",
+   "en": "lair, hideout"
+  },
+  {
+   "mk": "аскер",
+   "en": "army, soldiers"
+  },
+  {
+   "mk": "сардиса",
+   "en": "surrounded, ambushed"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of men"
+  },
+  {
+   "mk": "бестрашни",
+   "en": "fearless"
+  }
+ ],
+ "performers": [
+  "Влатко Лозаноски",
+  "Гога Зафировски"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/4136"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/4137"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бучат ми силни ветрови,",
+       "lat": "Bučat mi silni vetrovi,",
+       "en": "The strong winds roar,"
+      },
+      {
+       "cyr": "татни небо и земја",
+       "lat": "tatni nebo i zemja",
+       "en": "sky and earth rumble"
+      },
+      {
+       "cyr": "за Крушевската планина",
+       "lat": "za Kruševskata planina",
+       "en": "over the Krushevo mountain,"
+      },
+      {
+       "cyr": "планина, несреќната Ракитница.",
+       "lat": "planina, nesreḱnata Rakitnica.",
+       "en": "the mountain, unfortunate Rakitnica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извика гора зелена,",
+       "lat": "Izvika gora zelena,",
+       "en": "The green forest cried out,"
+      },
+      {
+       "cyr": "солзи пролива и плаче:",
+       "lat": "solzi proliva i plače:",
+       "en": "shedding tears and weeping:"
+      },
+      {
+       "cyr": "- Дејгиди Велко војвода,",
+       "lat": "- Dejgidi Velko vojvoda,",
+       "en": "- Alas, Velko the voivode,"
+      },
+      {
+       "cyr": "војвода, дејгиди славен јунаку.",
+       "lat": "vojvoda, dejgidi slaven junaku.",
+       "en": "voivode, alas, glorious hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што стори ти, што направи",
+       "lat": "Što stori ti, što napravi",
+       "en": "What did you do, what did you make"
+      },
+      {
+       "cyr": "од гора сестра се оддели?",
+       "lat": "od gora sestra se oddeli?",
+       "en": "that you parted from your sister the forest?"
+      },
+      {
+       "cyr": "Трагата ти ја најдоа",
+       "lat": "Tragata ti ja najdoa",
+       "en": "They found your trail,"
+      },
+      {
+       "cyr": "најдоа, леглото ти го дознаа.",
+       "lat": "najdoa, legloto ti go doznaa.",
+       "en": "they found it, they learned of your lair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трагата ти ја најдоја,",
+       "lat": "Tragata ti ja najdoja,",
+       "en": "They found your trail,"
+      },
+      {
+       "cyr": "леглото ти го дознаја.",
+       "lat": "legloto ti go doznaja.",
+       "en": "they learned of your lair."
+      },
+      {
+       "cyr": "Безброен аскер те сардиса,",
+       "lat": "Bezbroen asker te sardisa,",
+       "en": "Countless soldiers surrounded you,"
+      },
+      {
+       "cyr": "сардиса, и тие лути Черкези.",
+       "lat": "sardisa, i tie luti Čerkezi.",
+       "en": "surrounded you, and those fierce Circassians."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дувнале силни ветрови, море ветрови,",
+       "lat": "Duvnale silni vetrovi, more vetrovi,",
+       "en": "Strong winds blew, hey, winds,"
+      },
+      {
+       "cyr": "во таа гора зелена.",
+       "lat": "vo taa gora zelena.",
+       "en": "into that green forest."
+      },
+      {
+       "cyr": "Загрми небо, засветка, море засветка,",
+       "lat": "Zagrmi nebo, zasvetka, more zasvetka,",
+       "en": "The sky thundered and flashed, hey, flashed,"
+      },
+      {
+       "cyr": "зафучи таа планина.",
+       "lat": "zafuči taa planina.",
+       "en": "that mountain howled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заофка гора зелена, море зелена,",
+       "lat": "Zaofka gora zelena, more zelena,",
+       "en": "The green forest groaned, hey, green,"
+      },
+      {
+       "cyr": "почна да плачи, да тажи:",
+       "lat": "počna da plači, da taži:",
+       "en": "it began to cry and mourn:"
+      },
+      {
+       "cyr": "- Дејгиди, Велко војвода, море војвода,",
+       "lat": "- Dejgidi, Velko vojvoda, more vojvoda,",
+       "en": "- Alas, Velko the voivode, hey, voivode,"
+      },
+      {
+       "cyr": "дејгиди, славен јунаку!",
+       "lat": "dejgidi, slaven junaku!",
+       "en": "alas, glorious hero!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ми пособра и набра, море и набра,",
+       "lat": "Što mi posobra i nabra, more i nabra,",
+       "en": "What you gathered and collected, hey, collected,"
+      },
+      {
+       "cyr": "верна дружина зговорна.",
+       "lat": "verna družina zgovorna.",
+       "en": "a loyal, united company."
+      },
+      {
+       "cyr": "Двајсет одбор момчиња, море момчиња,",
+       "lat": "Dvajset odbor momčinja, more momčinja,",
+       "en": "Twenty chosen lads, hey, lads,"
+      },
+      {
+       "cyr": "сите готови да умрат.",
+       "lat": "site gotovi da umrat.",
+       "en": "all ready to die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битка се почна крвава, море крвава,",
+       "lat": "Bitka se počna krvava, more krvava,",
+       "en": "A bloody battle began, hey, bloody,"
+      },
+      {
+       "cyr": "во селото Ракитица.",
+       "lat": "vo seloto Rakitica.",
+       "en": "in the village of Rakitica."
+      },
+      {
+       "cyr": "Кај што јуначки паднаа, море паднаа,",
+       "lat": "Kaj što junački padnaa, more padnaa,",
+       "en": "Where they fell heroically, hey, fell,"
+      },
+      {
+       "cyr": "твојте бестрашни момчиња.",
+       "lat": "tvojte bestrašni momčinja.",
+       "en": "your fearless lads."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

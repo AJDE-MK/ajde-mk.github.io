@@ -1,0 +1,141 @@
+{
+ "id": 1297,
+ "slug": "vo-pirina-po-planina",
+ "title_cyr": "Во Пирина, по планина",
+ "title_latin": "Vo Pirina, po planina",
+ "title_en": "In Pirin, in the Mountain",
+ "pesna_url": "https://pesna.org/song/1297",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern patriotic song about the Pirin region. Line 'сè го луто боли' is my reading (everything hurts him fiercely).",
+ "words_to_learn": [
+  {
+   "mk": "ранет",
+   "en": "wounded"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "клети",
+   "en": "accursed, wretched"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  }
+ ],
+ "performers": [
+  "Костадин Гугов"
+ ],
+ "audio": [
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/3293"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во Пирина, во планина ранет јунак лежи,",
+       "lat": "Vo Pirina, vo planina ranet junak leži,",
+       "en": "In Pirin, in the mountain, a wounded hero lies,"
+      },
+      {
+       "cyr": "болен лежи, тага памти за мили другари,",
+       "lat": "bolen leži, taga pamti za mili drugari,",
+       "en": "Sick he lies, he remembers sorrow for his dear comrades,"
+      },
+      {
+       "cyr": "дека се тешко предадени од клети душмани.",
+       "lat": "deka se teško predadeni od kleti dušmani.",
+       "en": "that they were cruelly betrayed by accursed enemies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лежи јунак, тага памти, сè го луто боли,",
+       "lat": "Leži junak, taga pamti, sè go luto boli,",
+       "en": "The hero lies, remembers sorrow, everything hurts him fiercely,"
+      },
+      {
+       "cyr": "над глава му славеј пиле тажна песна пее.",
+       "lat": "nad glava mu slavej pile tažna pesna pee.",
+       "en": "above his head a nightingale bird sings a sad song."
+      },
+      {
+       "cyr": "Проговара ранет јунак на славеј пиле:",
+       "lat": "Progovara ranet junak na slavej pile:",
+       "en": "The wounded hero speaks to the nightingale bird:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не пеј пиле тажна песна, отиди до дома",
+       "lat": "- Ne pej pile tažna pesna, otidi do doma",
+       "en": "- Do not sing a sad song, bird, go off to my home"
+      },
+      {
+       "cyr": "дај кажи, славеј пиле, на мојта мајка",
+       "lat": "daj kaži, slavej pile, na mojta majka",
+       "en": "go tell, nightingale bird, my mother"
+      },
+      {
+       "cyr": "дека лежам, славеј пиле, ранет ќе умрам.",
+       "lat": "deka ležam, slavej pile, ranet ḱe umram.",
+       "en": "that I lie, nightingale bird, and will die of my wounds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да им кажиш, славеј пиле, на мојте другари,",
+       "lat": "Da im kažiš, slavej pile, na mojte drugari,",
+       "en": "Tell my comrades, nightingale bird,"
+      },
+      {
+       "cyr": "дење и ноќе да се борат за мила слобода,",
+       "lat": "denje i noḱe da se borat za mila sloboda,",
+       "en": "to fight day and night for dear freedom,"
+      },
+      {
+       "cyr": "да се борат дење и ноќе против клети душмани.",
+       "lat": "da se borat denje i noḱe protiv kleti dušmani.",
+       "en": "to fight day and night against the accursed enemies."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,118 @@
+{
+ "id": 528,
+ "slug": "ranet-lezhi-mlad-partizan",
+ "title_cyr": "Ранет лежи млад партизан",
+ "title_latin": "Ranet leži mlad partizan",
+ "title_en": "A Wounded Young Partisan Lies",
+ "pesna_url": "https://pesna.org/song/528",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Partisan song of the WWII period; origin unclear, no author named. Traditional-style repetition of words is kept for line-by-line matching.",
+ "words_to_learn": [
+  {
+   "mk": "ранет",
+   "en": "wounded"
+  },
+  {
+   "mk": "партизан",
+   "en": "partisan"
+  },
+  {
+   "mk": "надзглавје",
+   "en": "head of the bed, place at the head"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle"
+  },
+  {
+   "mk": "покривач",
+   "en": "blanket, cover"
+  },
+  {
+   "mk": "сино небо",
+   "en": "blue sky"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "писмо",
+   "en": "letter"
+  },
+  {
+   "mk": "загинав",
+   "en": "I perished"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ранет ми, ранет лежи млад партизан",
+       "lat": "Ranet mi, ranet leži mlad partizan",
+       "en": "Wounded, wounded lies a young partisan"
+      },
+      {
+       "cyr": "надзглавје, надзглавје му тенка пушка.",
+       "lat": "nadzglavje, nadzglavje mu tenka puška.",
+       "en": "at his head, at his head a slim rifle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Покривач, покривач му сино небо",
+       "lat": "Pokrivač, pokrivač mu sino nebo",
+       "en": "His blanket, his blanket is the blue sky"
+      },
+      {
+       "cyr": "партизан, партизан вели говори:",
+       "lat": "partizan, partizan veli govori:",
+       "en": "the partisan, the partisan speaks and says:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Другари, другари верни другари",
+       "lat": "- Drugari, drugari verni drugari",
+       "en": "- Comrades, comrades, faithful comrades"
+      },
+      {
+       "cyr": "писмо ми, писмо ми мене напишете.",
+       "lat": "pismo mi, pismo mi mene napišete.",
+       "en": "write me, write me a letter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да знаат дека паднав и загинав",
+       "lat": "Da znaat deka padnav i zaginav",
+       "en": "Let them know that I fell and perished"
+      },
+      {
+       "cyr": "за нашата, за нашата Македонија.",
+       "lat": "za našata, za našata Makedonija.",
+       "en": "for our, for our Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

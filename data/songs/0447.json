@@ -1,0 +1,185 @@
+{
+ "id": 447,
+ "slug": "aj-shto-mi-e-milo-em-drago",
+ "title_cyr": "Ај што ми е мило ем драго",
+ "title_latin": "Aj što mi e milo em drago",
+ "title_en": "Oh, How Dear and Precious to Me",
+ "pesna_url": "https://pesna.org/song/447",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song, treated as anonymous folk song; I do not know of a named author. 'Лавчанската корија' as 'Lavci grove' is my reading of a place name.",
+ "words_to_learn": [
+  {
+   "mk": "мило ем драго",
+   "en": "dear and precious"
+  },
+  {
+   "mk": "партизанка",
+   "en": "female partisan"
+  },
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "проштевај",
+   "en": "forgive (me)"
+  },
+  {
+   "mk": "род",
+   "en": "kin, family, people"
+  },
+  {
+   "mk": "бој",
+   "en": "battle"
+  },
+  {
+   "mk": "корија",
+   "en": "grove, small forest"
+  },
+  {
+   "mk": "кладенец",
+   "en": "spring, well"
+  },
+  {
+   "mk": "клетва",
+   "en": "oath (also: curse)"
+  },
+  {
+   "mk": "фашисти",
+   "en": "fascists"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Танец",
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1094"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3550"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/4338"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај што ми е мило, ем драго,",
+       "lat": "Aj što mi e milo, em drago,",
+       "en": "Oh, how dear and precious it is to me"
+      },
+      {
+       "cyr": "млада партизанка да бидам.",
+       "lat": "mlada partizanka da bidam.",
+       "en": "to be a young partisan woman."
+      },
+      {
+       "cyr": "Млада партизанка да бидам,",
+       "lat": "Mlada partizanka da bidam,",
+       "en": "To be a young partisan woman"
+      },
+      {
+       "cyr": "на Пелистерска планина.",
+       "lat": "na Pelisterska planina.",
+       "en": "on the Pelister mountain."
+      },
+      {
+       "cyr": "Збогум и проштевај роде мој",
+       "lat": "Zbogum i proštevaj rode moj",
+       "en": "Farewell and forgive me, my kin,"
+      },
+      {
+       "cyr": "јас отидов во бој, бој, бој.",
+       "lat": "jas otidov vo boj, boj, boj.",
+       "en": "I have gone to battle, battle, battle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Пелистерска планина,",
+       "lat": "Na Pelisterska planina,",
+       "en": "On the Pelister mountain,"
+      },
+      {
+       "cyr": "во Лавчанската корија,",
+       "lat": "vo Lavčanskata korija,",
+       "en": "in the Lavci grove,"
+      },
+      {
+       "cyr": "во Лавчанската корија",
+       "lat": "vo Lavčanskata korija",
+       "en": "in the Lavci grove"
+      },
+      {
+       "cyr": "кај дванаесте кладенци.",
+       "lat": "kaj dvanaeste kladenci.",
+       "en": "at the twelve springs."
+      },
+      {
+       "cyr": "Збогум и проштевај роде мој",
+       "lat": "Zbogum i proštevaj rode moj",
+       "en": "Farewell and forgive me, my kin,"
+      },
+      {
+       "cyr": "јас отидов во бој, бој, бој.",
+       "lat": "jas otidov vo boj, boj, boj.",
+       "en": "I have gone to battle, battle, battle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму си клетва зедовме,",
+       "lat": "Tamu si kletva zedovme,",
+       "en": "There we took an oath,"
+      },
+      {
+       "cyr": "со фашисти да се биеме,",
+       "lat": "so fašisti da se bieme,",
+       "en": "to fight the fascists,"
+      },
+      {
+       "cyr": "слобода да добиеме,",
+       "lat": "sloboda da dobieme,",
+       "en": "to win freedom"
+      },
+      {
+       "cyr": "за наша Македонија.",
+       "lat": "za naša Makedonija.",
+       "en": "for our Macedonia."
+      },
+      {
+       "cyr": "Збогум и проштевај роде мој",
+       "lat": "Zbogum i proštevaj rode moj",
+       "en": "Farewell and forgive me, my kin,"
+      },
+      {
+       "cyr": "јас отидов во бој, бој, бој.",
+       "lat": "jas otidov vo boj, boj, boj.",
+       "en": "I have gone to battle, battle, battle."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

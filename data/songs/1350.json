@@ -1,0 +1,193 @@
+{
+ "id": 1350,
+ "slug": "mori-mome-solunenke",
+ "title_cyr": "Мори моме Солуненке",
+ "title_latin": "Mori mome Solunenke",
+ "title_en": "Hey, girl from Salonica",
+ "pesna_url": "https://pesna.org/song/1350",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional love song. 'Распетлана' I render 'with hair undone' (my reading, literally 'unlooped'); 'Дека' I read as 'where'.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "блазе",
+   "en": "blessed, lucky"
+  },
+  {
+   "mk": "тешко",
+   "en": "hard, woe"
+  },
+  {
+   "mk": "горко",
+   "en": "bitter"
+  },
+  {
+   "mk": "руси коси",
+   "en": "blond hair"
+  },
+  {
+   "mk": "скала",
+   "en": "ladder, stairs"
+  },
+  {
+   "mk": "качам",
+   "en": "I climb"
+  },
+  {
+   "mk": "раскопчана",
+   "en": "unbuttoned"
+  },
+  {
+   "mk": "распашана",
+   "en": "unbelted"
+  },
+  {
+   "mk": "гологлава",
+   "en": "bareheaded"
+  }
+ ],
+ "performers": [
+  "Зарина Првасевда",
+  "Мегленки"
+ ],
+ "audio": [
+  {
+   "who": "Зарина Првасевда",
+   "url": "https://pesna.org/audio-download/3525"
+  },
+  {
+   "who": "Мегленки",
+   "url": "https://pesna.org/audio-download/3531"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме Солуненке",
+       "lat": "Mori mome Solunenke",
+       "en": "Hey, girl from Salonica,"
+      },
+      {
+       "cyr": "блазе нему кој те има.",
+       "lat": "blaze nemu koj te ima.",
+       "en": "blessed is he who has you."
+      },
+      {
+       "cyr": "Мори моме Солуненке",
+       "lat": "Mori mome Solunenke",
+       "en": "Hey, girl from Salonica,"
+      },
+      {
+       "cyr": "блазе него кој те има.",
+       "lat": "blaze nego koj te ima.",
+       "en": "blessed is he who has you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тешко и горко кој те нема,",
+       "lat": "Teško i gorko koj te nema,",
+       "en": "Hard and bitter for him who doesn't have you,"
+      },
+      {
+       "cyr": "така му и на мојва душа.",
+       "lat": "taka mu i na mojva duša.",
+       "en": "so it is for my soul too."
+      },
+      {
+       "cyr": "Тешко и горко кој те нема",
+       "lat": "Teško i gorko koj te nema",
+       "en": "Hard and bitter for him who doesn't have you,"
+      },
+      {
+       "cyr": "така му и на мојва душа.",
+       "lat": "taka mu i na mojva duša.",
+       "en": "so it is for my soul too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сечи моме русите коси",
+       "lat": "Seči mome rusite kosi",
+       "en": "Cut, girl, your blond hair,"
+      },
+      {
+       "cyr": "прави скала да се качам.",
+       "lat": "pravi skala da se kačam.",
+       "en": "make a ladder for me to climb."
+      },
+      {
+       "cyr": "Сечи моме русите коси,",
+       "lat": "Seči mome rusite kosi,",
+       "en": "Cut, girl, your blond hair,"
+      },
+      {
+       "cyr": "прави скала да се качам.",
+       "lat": "pravi skala da se kačam.",
+       "en": "make a ladder for me to climb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се качам, да те видам,",
+       "lat": "Da se kačam, da te vidam,",
+       "en": "So that I climb, to see you,"
+      },
+      {
+       "cyr": "раскопчана, распетлана.",
+       "lat": "raskopčana, raspetlana.",
+       "en": "unbuttoned, with hair undone."
+      },
+      {
+       "cyr": "Да се качам да те видам,",
+       "lat": "Da se kačam da te vidam,",
+       "en": "So that I climb to see you,"
+      },
+      {
+       "cyr": "раскопчана распетлана.",
+       "lat": "raskopčana raspetlana.",
+       "en": "unbuttoned, with hair undone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дека спиеш гола и боса,",
+       "lat": "Deka spieš gola i bosa,",
+       "en": "Where you sleep bare and barefoot,"
+      },
+      {
+       "cyr": "распашана, гологлава,",
+       "lat": "raspašana, gologlava,",
+       "en": "unbelted, bareheaded,"
+      },
+      {
+       "cyr": "руси коси растурени.",
+       "lat": "rusi kosi rastureni.",
+       "en": "blond hair spread loose."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

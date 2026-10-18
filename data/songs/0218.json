@@ -1,0 +1,180 @@
+{
+ "id": 218,
+ "slug": "oblak-se-vie-orlite-pishtat",
+ "title_cyr": "Облак се вие, орлите пиштат",
+ "title_latin": "Oblak se vie, orlite pištat",
+ "title_en": "A Cloud Is Swirling, the Eagles Screech",
+ "pesna_url": "https://pesna.org/song/218",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Note says this is a version of 'Песна за Караџата'. 'Спици се прават' read as skewers/spikes used for torture, my reading; 'усти затворат' read as 'mouths are shut' (dialect).",
+ "words_to_learn": [
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "орел",
+   "en": "eagle"
+  },
+  {
+   "mk": "грозна",
+   "en": "dreadful, terrible"
+  },
+  {
+   "mk": "корен",
+   "en": "root"
+  },
+  {
+   "mk": "борја",
+   "en": "pines (dialect plural)"
+  },
+  {
+   "mk": "спица",
+   "en": "skewer, spoke"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "славни",
+   "en": "glorious"
+  },
+  {
+   "mk": "нокти",
+   "en": "nails (fingernails)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Панде Коминовски - Пашата"
+ ],
+ "audio": [
+  {
+   "who": "Панде Коминовски - Пашата",
+   "url": "https://pesna.org/audio-download/734"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3645"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Облак се вие, орлите пиштат,",
+       "lat": "Oblak se vie, orlite pištat,",
+       "en": "A cloud is swirling, the eagles screech,"
+      },
+      {
+       "cyr": "Балканот ја пее грозната песна,",
+       "lat": "Balkanot ja pee groznata pesna,",
+       "en": "the Balkans sing the dreadful song,"
+      },
+      {
+       "cyr": "Дали врни, грми ил' се земја тресе,",
+       "lat": "Dali vrni, grmi il' se zemja trese,",
+       "en": "Is it raining, thundering, or is the earth shaking,"
+      },
+      {
+       "cyr": "Или се борја од корен корнат?",
+       "lat": "Ili se borja od koren kornat?",
+       "en": "Or are the pines being torn up by the roots?"
+      },
+      {
+       "cyr": "Ниту врни, грми, нит' се земја тресе,",
+       "lat": "Nitu vrni, grmi, nit' se zemja trese,",
+       "en": "It is neither raining nor thundering, nor is the earth shaking,"
+      },
+      {
+       "cyr": "Ниту се борја од корен корнат.",
+       "lat": "Nitu se borja od koren kornat.",
+       "en": "Nor are the pines being torn up by the roots."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Буки се сечат, спици се прават,",
+       "lat": "Buki se sečat, spici se pravat,",
+       "en": "Beech trees are cut, skewers are made,"
+      },
+      {
+       "cyr": "На Македонците под нокти редат.",
+       "lat": "Na Makedoncite pod nokti redat.",
+       "en": "and set under the fingernails of Macedonians."
+      },
+      {
+       "cyr": "Фурни се горат, железа се топат,",
+       "lat": "Furni se gorat, železa se topat,",
+       "en": "Ovens are burning, iron is melting,"
+      },
+      {
+       "cyr": "На Македонци усти затворат.",
+       "lat": "Na Makedonci usti zatvorat.",
+       "en": "and the mouths of Macedonians are shut."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали има уште, кој да не знае,",
+       "lat": "Dali ima ušte, koj da ne znae,",
+       "en": "Is there still anyone who does not know"
+      },
+      {
+       "cyr": "До каде е наш'та Македонија?",
+       "lat": "Do kade e naš'ta Makedonija?",
+       "en": "how far our Macedonia reaches?"
+      },
+      {
+       "cyr": "Има ли уште, кој да не знае,",
+       "lat": "Ima li ušte, koj da ne znae,",
+       "en": "Is there still anyone who does not know"
+      },
+      {
+       "cyr": "До каде е наш'та Македонија?",
+       "lat": "Do kade e naš'ta Makedonija?",
+       "en": "how far our Macedonia reaches?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штип, Куманово, Струмица и Струга,",
+       "lat": "Štip, Kumanovo, Strumica i Struga,",
+       "en": "Štip, Kumanovo, Strumica and Struga,"
+      },
+      {
+       "cyr": "Гевгелиско поле, дур' до Солуна,",
+       "lat": "Gevgelisko pole, dur' do Soluna,",
+       "en": "the Gevgelija field, all the way to Salonica,"
+      },
+      {
+       "cyr": "Таму живеат само Македонци,",
+       "lat": "Tamu živeat samo Makedonci,",
+       "en": "there live only Macedonians,"
+      },
+      {
+       "cyr": "Само Македонци, славни јунаци.",
+       "lat": "Samo Makedonci, slavni junaci.",
+       "en": "only Macedonians, glorious heroes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

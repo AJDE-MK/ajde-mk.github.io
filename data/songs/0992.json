@@ -1,0 +1,124 @@
+{
+ "id": 992,
+ "slug": "ostana-ratka-mlada-udovica",
+ "title_cyr": "Остана Ратка млада удовица",
+ "title_latin": "Ostana Ratka mlada udovica",
+ "title_en": "Ratka was left a young widow",
+ "pesna_url": "https://pesna.org/song/992",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Aleksey Dvorecki)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Пирински гриваци",
+  "Balkan Sevdah"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2310"
+  },
+  {
+   "who": "Balkan Sevdah",
+   "url": "https://pesna.org/audio-download/2311"
+  },
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/2312"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Остана Ратка млада удовица",
+       "lat": "Ostana Ratka mlada udovica",
+       "en": "Ratka was left a young widow"
+      },
+      {
+       "cyr": "на седумнаесет години.",
+       "lat": "na sedumnaeset godini.",
+       "en": "at the age of seventeen."
+      },
+      {
+       "cyr": "Бело лице Ратка забулила",
+       "lat": "Belo lice Ratka zabulila",
+       "en": "Ratka hid her white face with a veil,"
+      },
+      {
+       "cyr": "и за прво либе жалила.",
+       "lat": "i za prvo libe žalila.",
+       "en": "and mourned for her first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка на Ратка тихо ѝ говори:",
+       "lat": "Majka na Ratka tiho ì govori:",
+       "en": "Ratka's mother speaks to her:"
+      },
+      {
+       "cyr": "- Не ми плачи Ратке, не жали.",
+       "lat": "- Ne mi plači Ratke, ne žali.",
+       "en": "- Don't mourn Ratka, don't grieve."
+      },
+      {
+       "cyr": "Ти си ќерко, млада и убава,",
+       "lat": "Ti si ḱerko, mlada i ubava,",
+       "en": "You my daughter, you are young and beautiful,"
+      },
+      {
+       "cyr": "друго либе ќе си заљубиш.",
+       "lat": "drugo libe ḱe si zaljubiš.",
+       "en": "you'll fall in love with another young man."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ратка на мајка плаче и говори:",
+       "lat": "Ratka na majka plače i govori:",
+       "en": "Ratka cried to her mother and said:"
+      },
+      {
+       "cyr": "- Не ми збори, мајко, не ме гори.",
+       "lat": "- Ne mi zbori, majko, ne me gori.",
+       "en": "- Don't talk to me mother, don't burn me."
+      },
+      {
+       "cyr": "Како мојто либе нигде нема,",
+       "lat": "Kako mojto libe nigde nema,",
+       "en": "There is no one like my love anywhere,"
+      },
+      {
+       "cyr": "ни во турско мајко, ни каурско.",
+       "lat": "ni vo tursko majko, ni kaursko.",
+       "en": "not in Muslim lands, nor in Christian lands!"
+      },
+      {
+       "cyr": "Ни во турско, ни каурско,",
+       "lat": "Ni vo tursko, ni kaursko,",
+       "en": "Not in Muslim lands, nor in Christian lands,"
+      },
+      {
+       "cyr": "ни во цела Македонија.",
+       "lat": "ni vo cela Makedonija.",
+       "en": "not in all of Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

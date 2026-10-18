@@ -1,0 +1,128 @@
+{
+ "id": 1676,
+ "slug": "ne-me-machi-dano",
+ "title_cyr": "Не ме мачи Дано",
+ "title_latin": "Ne me mači Dano",
+ "title_en": "Do not torment me, Dana",
+ "pesna_url": "https://pesna.org/song/1676",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4487"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "По меани одам,",
+       "lat": "Po meani odam,",
+       "en": "I frequent the taverns,"
+      },
+      {
+       "cyr": "рујно вино пијам",
+       "lat": "rujno vino pijam",
+       "en": "drinking deep red wine"
+      },
+      {
+       "cyr": "сè заради тебе,",
+       "lat": "sè zaradi tebe,",
+       "en": "all because of you,"
+      },
+      {
+       "cyr": "моја лична Дано.",
+       "lat": "moja lična Dano.",
+       "en": "my lovely Dana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе те видам",
+       "lat": "Koga ḱe te vidam",
+       "en": "When I see you"
+      },
+      {
+       "cyr": "слатко насмеана,",
+       "lat": "slatko nasmeana,",
+       "en": "smiling so sweetly,"
+      },
+      {
+       "cyr": "душава ми гори,",
+       "lat": "dušava mi gori,",
+       "en": "my soul is on fire,"
+      },
+      {
+       "cyr": "сакам да си моја.",
+       "lat": "sakam da si moja.",
+       "en": "I want you to be mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе ги видам",
+       "lat": "Koga ḱe gi vidam",
+       "en": "When I see"
+      },
+      {
+       "cyr": "твоите мили очи,",
+       "lat": "tvoite mili oči,",
+       "en": "your lovely eyes,"
+      },
+      {
+       "cyr": "душава ми гори,",
+       "lat": "dušava mi gori,",
+       "en": "my soul is on fire,"
+      },
+      {
+       "cyr": "сакам да се мои.",
+       "lat": "sakam da se moi.",
+       "en": "I want them to be mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ме мачи Дано,",
+       "lat": "Ne me mači Dano,",
+       "en": "Do not torment me, Dana,"
+      },
+      {
+       "cyr": "од силна љубов горам,",
+       "lat": "od silna ljubov goram,",
+       "en": "I burn with intense love,"
+      },
+      {
+       "cyr": "ако не те љубам,",
+       "lat": "ako ne te ljubam,",
+       "en": "If I do not have your love,"
+      },
+      {
+       "cyr": "пијан јас ќе умрам.",
+       "lat": "pijan jas ḱe umram.",
+       "en": "I shall die a drunkard."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

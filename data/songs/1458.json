@@ -1,0 +1,137 @@
+{
+ "id": 1458,
+ "slug": "svadba-se-pravi-v-skudrinje-selo",
+ "title_cyr": "Свадба се прави в' Скудриње село",
+ "title_latin": "Svadba se pravi v' Skudrinje selo",
+ "title_en": "A Wedding Is Held in Skudrinje Village",
+ "pesna_url": "https://pesna.org/song/1458",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'ливаѓе' read as 'meadow' and 'избегала' as 'ran away': my reading. Skudrinje, Zhirovnitsa and the Radika are in the Reka region.",
+ "words_to_learn": [
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "накитени",
+   "en": "decorated"
+  },
+  {
+   "mk": "китка",
+   "en": "bouquet, posy"
+  },
+  {
+   "mk": "сиротица",
+   "en": "orphan girl"
+  },
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "зурла",
+   "en": "zurna (loud reed pipe)"
+  },
+  {
+   "mk": "пеливан",
+   "en": "wrestler"
+  },
+  {
+   "mk": "гости",
+   "en": "guests"
+  },
+  {
+   "mk": "сирак",
+   "en": "orphan"
+  }
+ ],
+ "performers": [
+  "Меџит Муслиоски"
+ ],
+ "audio": [
+  {
+   "who": "Меџит Муслиоски",
+   "url": "https://pesna.org/audio-download/3738"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свадба се прави в' Скудриње село",
+       "lat": "Svadba se pravi v' Skudrinje selo",
+       "en": "A wedding is held in Skudrinje village,"
+      },
+      {
+       "cyr": "да појдиме мајко, колку е весело.",
+       "lat": "da pojdime majko, kolku e veselo.",
+       "en": "let us go, mother, how merry it is."
+      },
+      {
+       "cyr": "Коњи накитени, китки шарени,",
+       "lat": "Konji nakiteni, kitki šareni,",
+       "en": "Horses decorated, colourful bouquets,"
+      },
+      {
+       "cyr": "сè е накитено, в' ново облечено.",
+       "lat": "sè e nakiteno, v' novo oblečeno.",
+       "en": "everything decorated, dressed in new."
+      },
+      {
+       "cyr": "Избегала Фата, млада сиротица,",
+       "lat": "Izbegala Fata, mlada sirotica,",
+       "en": "Fata ran away, a young orphan,"
+      },
+      {
+       "cyr": "од нашето место, село Жировница.",
+       "lat": "od našeto mesto, selo Žirovnica.",
+       "en": "from our place, the village of Zhirovnitsa."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тапаните бијат, зурлите вијат,",
+       "lat": "Tapanite bijat, zurlite vijat,",
+       "en": "The drums beat, the zurnas wail,"
+      },
+      {
+       "cyr": "в' ливаѓе блиска, пеливани бијат.",
+       "lat": "v' livaǵe bliska, pelivani bijat.",
+       "en": "in the meadow nearby, wrestlers fight."
+      },
+      {
+       "cyr": "Гости ни дојдоа од рекански села,",
+       "lat": "Gosti ni dojdoa od rekanski sela,",
+       "en": "Guests came to us from the Reka villages,"
+      },
+      {
+       "cyr": "песните се слушаат по Радика цела.",
+       "lat": "pesnite se slušaat po Radika cela.",
+       "en": "songs are heard all along the Radika."
+      },
+      {
+       "cyr": "Од малечка Фата сирак останала,",
+       "lat": "Od malečka Fata sirak ostanala,",
+       "en": "From small, Fata was left an orphan,"
+      },
+      {
+       "cyr": "татко, мајка, Фата не си прегрнала.",
+       "lat": "tatko, majka, Fata ne si pregrnala.",
+       "en": "father, mother, Fata never embraced."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

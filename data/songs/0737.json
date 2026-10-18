@@ -1,0 +1,221 @@
+{
+ "id": 737,
+ "slug": "ajde-brala-moma-belo-grozje",
+ "title_cyr": "Ајде брала мома бело грозје",
+ "title_latin": "Ajde brala moma belo grozje",
+ "title_en": "Come on, the Girl Picked White Grapes",
+ "pesna_url": "https://pesna.org/song/737",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'полскиот делија' is my reading as 'the field hero' (possibly a field guard); 'галапче' is a word I am unsure of, rendered 'little rascal' as a guess.",
+ "words_to_learn": [
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "бочва",
+   "en": "barrel"
+  },
+  {
+   "mk": "меана",
+   "en": "inn, tavern"
+  },
+  {
+   "mk": "друм",
+   "en": "road"
+  },
+  {
+   "mk": "делија",
+   "en": "hero, dashing fellow"
+  },
+  {
+   "mk": "немерено",
+   "en": "unmeasured"
+  },
+  {
+   "mk": "неброени",
+   "en": "uncounted"
+  },
+  {
+   "mk": "ѓаволче",
+   "en": "little devil"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Наум Петрески",
+  "Ристе Тевдоски",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Ристе Тевдоски",
+   "url": "https://pesna.org/audio-download/984"
+  },
+  {
+   "who": "Филиграни, Ансамбл чалгии на РТС",
+   "url": "https://pesna.org/audio-download/985"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/986"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде брала мома бело ми грозје, ем црно.",
+       "lat": "Ajde brala moma belo mi grozje, em crno.",
+       "en": "Come on, the girl picked white grapes, and black too."
+      },
+      {
+       "cyr": "Брала мома, бело ми грозје,",
+       "lat": "Brala moma, belo mi grozje,",
+       "en": "The girl picked white grapes,"
+      },
+      {
+       "cyr": "ем црно, ем црно.",
+       "lat": "em crno, em crno.",
+       "en": "and black, and black."
+      },
+      {
+       "cyr": "Брала мома бело ми грозје,",
+       "lat": "Brala moma belo mi grozje,",
+       "en": "The girl picked white grapes,"
+      },
+      {
+       "cyr": "ем црно, ем црно.",
+       "lat": "em crno, em crno.",
+       "en": "and black, and black."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде наполнила девет ми бочви, со вино.",
+       "lat": "Ajde napolnila devet mi bočvi, so vino.",
+       "en": "Come on, she filled nine barrels with wine."
+      },
+      {
+       "cyr": "Наполнила девет ми бочви,",
+       "lat": "Napolnila devet mi bočvi,",
+       "en": "She filled nine barrels,"
+      },
+      {
+       "cyr": "со вино, со вино.",
+       "lat": "so vino, so vino.",
+       "en": "with wine, with wine."
+      },
+      {
+       "cyr": "Наполнила девет ми бочви,",
+       "lat": "Napolnila devet mi bočvi,",
+       "en": "She filled nine barrels,"
+      },
+      {
+       "cyr": "со вино, со вино.",
+       "lat": "so vino, so vino.",
+       "en": "with wine, with wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде отворила среде друми меана.",
+       "lat": "Ajde otvorila srede drumi meana.",
+       "en": "Come on, she opened an inn in the middle of the road."
+      },
+      {
+       "cyr": "Отворила среде друми,",
+       "lat": "Otvorila srede drumi,",
+       "en": "She opened in the middle of the road,"
+      },
+      {
+       "cyr": "меана, меана.",
+       "lat": "meana, meana.",
+       "en": "an inn, an inn."
+      },
+      {
+       "cyr": "Отворила среде друми,",
+       "lat": "Otvorila srede drumi,",
+       "en": "She opened in the middle of the road,"
+      },
+      {
+       "cyr": "меана, меана.",
+       "lat": "meana, meana.",
+       "en": "an inn, an inn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде научил се Дрено, полскиот делија.",
+       "lat": "Ajde naučil se Dreno, polskiot delija.",
+       "en": "Come on, Dreno got used to it, the field hero."
+      },
+      {
+       "cyr": "Научил се Дрено, полскиот",
+       "lat": "Naučil se Dreno, polskiot",
+       "en": "Dreno got used to it, the field"
+      },
+      {
+       "cyr": "делија, делија.",
+       "lat": "delija, delija.",
+       "en": "hero, hero."
+      },
+      {
+       "cyr": "Научил се Дрено, полскиот",
+       "lat": "Naučil se Dreno, polskiot",
+       "en": "Dreno got used to it, the field"
+      },
+      {
+       "cyr": "делија, делија.",
+       "lat": "delija, delija.",
+       "en": "hero, hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде точи вино, немерено, девојче.",
+       "lat": "Ajde toči vino, nemereno, devojče.",
+       "en": "Come on, pour wine, unmeasured, girl."
+      },
+      {
+       "cyr": "Земај пари, неброени,",
+       "lat": "Zemaj pari, nebroeni,",
+       "en": "Take money, uncounted,"
+      },
+      {
+       "cyr": "ѓаволче, ѓаволче.",
+       "lat": "ǵavolče, ǵavolče.",
+       "en": "little devil, little devil."
+      },
+      {
+       "cyr": "Земај пари, неброени,",
+       "lat": "Zemaj pari, nebroeni,",
+       "en": "Take money, uncounted,"
+      },
+      {
+       "cyr": "ѓаволче, галапче.",
+       "lat": "ǵavolče, galapče.",
+       "en": "little devil, little rascal."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,151 @@
+{
+ "id": 1395,
+ "slug": "ela-mi-veliche-na-novo-dukjanche",
+ "title_cyr": "Ела ми Величе на ново дуќанче",
+ "title_latin": "Ela mi Veliče na novo duḱanče",
+ "title_en": "Come to My New Little Shop, Velichka",
+ "pesna_url": "https://pesna.org/song/1395",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional playful dialogue song, origin unclear. 'Величе' is a name used as vocative (possibly a girl's name Velichka); 'мазник' (mazhnik) is my reading as a pastry (no certain translation).",
+ "words_to_learn": [
+  {
+   "mk": "дуќанче",
+   "en": "little shop"
+  },
+  {
+   "mk": "гости",
+   "en": "guests"
+  },
+  {
+   "mk": "пречекаш",
+   "en": "you welcome"
+  },
+  {
+   "mk": "погача",
+   "en": "round flatbread"
+  },
+  {
+   "mk": "месиш",
+   "en": "you knead"
+  },
+  {
+   "mk": "гуска",
+   "en": "goose"
+  },
+  {
+   "mk": "заколиш",
+   "en": "you slaughter"
+  },
+  {
+   "mk": "мазник",
+   "en": "a type of pastry"
+  },
+  {
+   "mk": "ручек",
+   "en": "lunch"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/3575"
+  },
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/3576"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ела ми Величе на ново дуќанче.",
+       "lat": "- Ela mi Veliče na novo duḱanče.",
+       "en": "- Come, Velichka, to my new little shop."
+      },
+      {
+       "cyr": "- Идам, не идам, идам, не идам, сама ќе дојдам.",
+       "lat": "- Idam, ne idam, idam, ne idam, sama ḱe dojdam.",
+       "en": "- I'm coming, I'm not coming, I'm coming, I'm not coming, I'll come by myself."
+      },
+      {
+       "cyr": "- Ела ми Величе гости да пречекаш.",
+       "lat": "- Ela mi Veliče gosti da prečekaš.",
+       "en": "- Come, Velichka, to welcome the guests."
+      },
+      {
+       "cyr": "- Не знам, не знам, не знам, не знам како се чека.",
+       "lat": "- Ne znam, ne znam, ne znam, ne znam kako se čeka.",
+       "en": "- I don't know, I don't know, I don't know, I don't know how guests are welcomed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ела ми Величе погача да месиш.",
+       "lat": "- Ela mi Veliče pogača da mesiš.",
+       "en": "- Come, Velichka, to knead the flatbread."
+      },
+      {
+       "cyr": "- Не знам, не знам, не знам, не знам како се меси.",
+       "lat": "- Ne znam, ne znam, ne znam, ne znam kako se mesi.",
+       "en": "- I don't know, I don't know, I don't know, I don't know how it is kneaded."
+      },
+      {
+       "cyr": "- Ела ми Величе гуска да заколиш.",
+       "lat": "- Ela mi Veliče guska da zakoliš.",
+       "en": "- Come, Velichka, to slaughter the goose."
+      },
+      {
+       "cyr": "- Не знам, не знам, не знам, не знам како се коли.",
+       "lat": "- Ne znam, ne znam, ne znam, ne znam kako se koli.",
+       "en": "- I don't know, I don't know, I don't know, I don't know how it is slaughtered."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ела ми Величе мазник да месиш.",
+       "lat": "- Ela mi Veliče maznik da mesiš.",
+       "en": "- Come, Velichka, to knead the mazhnik pastry."
+      },
+      {
+       "cyr": "- Не знам, не знам, не знам, не знам како се меси.",
+       "lat": "- Ne znam, ne znam, ne znam, ne znam kako se mesi.",
+       "en": "- I don't know, I don't know, I don't know, I don't know how it is kneaded."
+      },
+      {
+       "cyr": "- Ела ми Величе ручек да ручаме.",
+       "lat": "- Ela mi Veliče ruček da ručame.",
+       "en": "- Come, Velichka, to have lunch together."
+      },
+      {
+       "cyr": "- Идам, не идам, идам, не идам, еве кај идам,",
+       "lat": "- Idam, ne idam, idam, ne idam, eve kaj idam,",
+       "en": "- I'm coming, I'm not coming, I'm coming, I'm not coming, here I come,"
+      },
+      {
+       "cyr": "сега ќе дојдам!",
+       "lat": "sega ḱe dojdam!",
+       "en": "I'll be there now!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

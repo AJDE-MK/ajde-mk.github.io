@@ -1,0 +1,230 @@
+{
+ "id": 1393,
+ "slug": "borjano-borjanke",
+ "title_cyr": "Борјано, Борјанке",
+ "title_latin": "Borjano, Borjanke",
+ "title_en": "Borjana, Borjanka",
+ "pesna_url": "https://pesna.org/song/1393",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). The last two lines are my reading: 'аро' looks like a dialect word for a rogue or a good-for-nothing and I am unsure of it.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl"
+  },
+  {
+   "mk": "пееш",
+   "en": "you sing"
+  },
+  {
+   "mk": "гласот",
+   "en": "the voice"
+  },
+  {
+   "mk": "нива",
+   "en": "field"
+  },
+  {
+   "mk": "рид",
+   "en": "hill"
+  },
+  {
+   "mk": "срп",
+   "en": "sickle"
+  },
+  {
+   "mk": "оставам",
+   "en": "I leave, put down"
+  },
+  {
+   "mk": "редби",
+   "en": "verses, arrangements"
+  },
+  {
+   "mk": "арен",
+   "en": "good, fine"
+  },
+  {
+   "mk": "аро",
+   "en": "good-for-nothing, rogue (my reading)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Деспина",
+  "Пула",
+  "Ирена Спасовска",
+  "Мито Гошев",
+  "Народен вокален ансамбл Здравец - Украина",
+  "Непознат изведувач",
+  "Стојан Ненков",
+  "Стојче Тошевски",
+  "Танец",
+  "Цане Петров",
+  "Aneta George",
+  "Balkanes koesmet"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/3573"
+  },
+  {
+   "who": "Мито Гошев",
+   "url": "https://pesna.org/audio-download/3582"
+  },
+  {
+   "who": "Ансамбл Деспина, Пула",
+   "url": "https://pesna.org/audio-download/4184"
+  },
+  {
+   "who": "Aneta George",
+   "url": "https://pesna.org/audio-download/4185"
+  },
+  {
+   "who": "Стојче Тошевски",
+   "url": "https://pesna.org/audio-download/4186"
+  },
+  {
+   "who": "Ирена Спасовска, Цане Петров",
+   "url": "https://pesna.org/audio-download/4187"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4188"
+  },
+  {
+   "who": "Balkanes koesmet",
+   "url": "https://pesna.org/audio-download/4189"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4190"
+  },
+  {
+   "who": "Стојан Ненков",
+   "url": "https://pesna.org/audio-download/4191"
+  },
+  {
+   "who": "Народен вокален ансамбл Здравец - Украина",
+   "url": "https://pesna.org/audio-download/4192"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Борјано, Борјанке,",
+       "lat": "Borjano, Borjanke,",
+       "en": "Borjana, Borjanka,"
+      },
+      {
+       "cyr": "сал ти ли си мома,",
+       "lat": "sal ti li si moma,",
+       "en": "are you the only girl,"
+      },
+      {
+       "cyr": "сал ти ли си мома мори,",
+       "lat": "sal ti li si moma mori,",
+       "en": "are you the only girl, hey,"
+      },
+      {
+       "cyr": "сал ти ли знаеш да пееш?",
+       "lat": "sal ti li znaeš da peeš?",
+       "en": "are you the only one who knows how to sing?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гласот ти се слуша",
+       "lat": "Glasot ti se sluša",
+       "en": "Your voice is heard"
+      },
+      {
+       "cyr": "дур' до нашта нива,",
+       "lat": "dur' do našta niva,",
+       "en": "all the way to our field,"
+      },
+      {
+       "cyr": "дур' до наша нива мори,",
+       "lat": "dur' do naša niva mori,",
+       "en": "all the way to our field, hey,"
+      },
+      {
+       "cyr": "меѓу двата рида.",
+       "lat": "meǵu dvata rida.",
+       "en": "between the two hills."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Српот си оставам",
+       "lat": "Srpot si ostavam",
+       "en": "I leave my sickle"
+      },
+      {
+       "cyr": "тебе да те слушам",
+       "lat": "tebe da te slušam",
+       "en": "to listen to you,"
+      },
+      {
+       "cyr": "какви песни пееш,",
+       "lat": "kakvi pesni peeš,",
+       "en": "what songs you sing,"
+      },
+      {
+       "cyr": "какви редби редиш.",
+       "lat": "kakvi redbi rediš.",
+       "en": "what verses you arrange."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На арните момци,",
+       "lat": "Na arnite momci,",
+       "en": "To the good lads,"
+      },
+      {
+       "cyr": "полошите моми,",
+       "lat": "pološite momi,",
+       "en": "the worse girls,"
+      },
+      {
+       "cyr": "на лошите моми,",
+       "lat": "na lošite momi,",
+       "en": "to the bad girls,"
+      },
+      {
+       "cyr": "арните момчиња.",
+       "lat": "arnite momčinja.",
+       "en": "the good boys."
+      },
+      {
+       "cyr": "На мен' се годило",
+       "lat": "Na men' se godilo",
+       "en": "To me it fell"
+      },
+      {
+       "cyr": "едно старо аро.",
+       "lat": "edno staro aro.",
+       "en": "an old one, a good-for-nothing."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

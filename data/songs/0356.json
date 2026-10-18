@@ -1,0 +1,233 @@
+{
+ "id": 356,
+ "slug": "na-srce-mi-lezhi-mila-mamo",
+ "title_cyr": "На срце ми лежи мила мамо",
+ "title_latin": "Na srce mi leži mila mamo",
+ "title_en": "On my heart is lying, mother dear",
+ "pesna_url": "https://pesna.org/song/356",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Ани Малинкова",
+  "Дејан Петровски",
+  "Дивна Гиева",
+  "Ѓорѓи Желчевски",
+  "Есма Реџепова",
+  "Зоран Џорлев",
+  "Јованка Јакимовска Митревска",
+  "Кевсер Селимова",
+  "Наум Петрески",
+  "Петранка Костадинова",
+  "Сузан Кардеш"
+ ],
+ "audio": [
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/634"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/635"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/636"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/637"
+  },
+  {
+   "who": "Сузан Кардеш",
+   "url": "https://pesna.org/audio-download/638"
+  },
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/639"
+  },
+  {
+   "who": "Зоран Џорлев, Јованка Јакимовска Митревска",
+   "url": "https://pesna.org/audio-download/640"
+  },
+  {
+   "who": "Зоран Џорлев, Ани Малинкова",
+   "url": "https://pesna.org/audio-download/641"
+  },
+  {
+   "who": "Дивна Гиева",
+   "url": "https://pesna.org/audio-download/2527"
+  },
+  {
+   "who": "Дејан Петровски",
+   "url": "https://pesna.org/audio-download/4139"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На срце ми лежи мила мамо",
+       "lat": "Na srce mi leži mila mamo",
+       "en": "On my heart is lying, mother dear,"
+      },
+      {
+       "cyr": "на срце ли лежи,",
+       "lat": "na srce li leži,",
+       "en": "on my heart is lying,"
+      },
+      {
+       "cyr": "ај на срце ми лежи, мила мамо",
+       "lat": "aj na srce mi leži, mila mamo",
+       "en": "Ay! On my heart is lying, mother dear,"
+      },
+      {
+       "cyr": "една лута змија.",
+       "lat": "edna luta zmija.",
+       "en": "a poisonous snake."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми била змија мила мамо",
+       "lat": "Ne mi bila zmija mila mamo",
+       "en": "It was not a snake, mother dear,"
+      },
+      {
+       "cyr": "не ми била змија,",
+       "lat": "ne mi bila zmija,",
+       "en": "it was not a snake."
+      },
+      {
+       "cyr": "ај не ми била змија, мила мамо",
+       "lat": "aj ne mi bila zmija, mila mamo",
+       "en": "Ay! It was not a snake, mother dear,"
+      },
+      {
+       "cyr": "тук' е кара Севда.",
+       "lat": "tuk' e kara Sevda.",
+       "en": "here was dark Sevda."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдините очи, мила мамо",
+       "lat": "Sevdinite oči, mila mamo",
+       "en": "Sevda's eyes, mother dear,"
+      },
+      {
+       "cyr": "Севдините очи,",
+       "lat": "Sevdinite oči,",
+       "en": "Sevda's eyes,"
+      },
+      {
+       "cyr": "ај Севдините очи, мила мамо",
+       "lat": "aj Sevdinite oči, mila mamo",
+       "en": "Ay! Sevda's eyes, mother dear,"
+      },
+      {
+       "cyr": "црни черешови.",
+       "lat": "crni čerešovi.",
+       "en": "are black cherries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдините веѓи мила мамо",
+       "lat": "Sevdinite veǵi mila mamo",
+       "en": "Sevda's eyebrows, mother dear,"
+      },
+      {
+       "cyr": "Севдините веѓи,",
+       "lat": "Sevdinite veǵi,",
+       "en": "Sevda's eyebrows,"
+      },
+      {
+       "cyr": "ај Севдините веѓи мила мамо",
+       "lat": "aj Sevdinite veǵi mila mamo",
+       "en": "Ay! Sevda's eyebrows, mother dear,"
+      },
+      {
+       "cyr": "морски пијавици.",
+       "lat": "morski pijavici.",
+       "en": "are sea leeches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдината снага мила мамо",
+       "lat": "Sevdinata snaga mila mamo",
+       "en": "Sevda's figure, mother dear,"
+      },
+      {
+       "cyr": "Севдината снага,",
+       "lat": "Sevdinata snaga,",
+       "en": "Sevda's figure,"
+      },
+      {
+       "cyr": "ај Севдината снага мила мамо",
+       "lat": "aj Sevdinata snaga mila mamo",
+       "en": "Ay! Sevda's figure, mother dear"
+      },
+      {
+       "cyr": "тенка ем висока.",
+       "lat": "tenka em visoka.",
+       "en": "is slender and tall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оди посакај ја, мила мамо",
+       "lat": "Odi posakaj ja, mila mamo",
+       "en": "Go and ask for her, mother dear."
+      },
+      {
+       "cyr": "оди посакај ја,",
+       "lat": "odi posakaj ja,",
+       "en": "Go and ask for her."
+      },
+      {
+       "cyr": "ај ако ти ја дадат, мила мамо",
+       "lat": "aj ako ti ja dadat, mila mamo",
+       "en": "Ay! and if they give her, mother dear."
+      },
+      {
+       "cyr": "в' пајтон донеси ја.",
+       "lat": "v' pajton donesi ja.",
+       "en": "bring her in a carriage (for a wedding)."
+      },
+      {
+       "cyr": "Ај ако не ја дадат, мила мамо",
+       "lat": "Aj ako ne ja dadat, mila mamo",
+       "en": "Ay! and if they don't give her, mother dear,"
+      },
+      {
+       "cyr": "постој, погледај ја.",
+       "lat": "postoj, pogledaj ja.",
+       "en": "remain watching her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

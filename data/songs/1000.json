@@ -1,0 +1,147 @@
+{
+ "id": 1000,
+ "slug": "jas-sum-chisto-makedonche",
+ "title_cyr": "Јас сум чисто Македонче",
+ "title_latin": "Jas sum čisto Makedonče",
+ "title_en": "I am a pure little Macedonian",
+ "pesna_url": "https://pesna.org/song/1000",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'си оставив' is a reflexive past ('I left'). The 'three parts' refer to the partition of Macedonia; Australia as the 'fourth' refers to emigration.",
+ "words_to_learn": [
+  {
+   "mk": "Македонче",
+   "en": "little Macedonian"
+  },
+  {
+   "mk": "околија",
+   "en": "district"
+  },
+  {
+   "mk": "жалосна",
+   "en": "sorrowful"
+  },
+  {
+   "mk": "тирани",
+   "en": "tyrants"
+  },
+  {
+   "mk": "разделија",
+   "en": "they divided (dialect past form)"
+  },
+  {
+   "mk": "на три страни",
+   "en": "into three parts"
+  },
+  {
+   "mk": "пиринско",
+   "en": "Pirin region"
+  },
+  {
+   "mk": "леринско",
+   "en": "Lerin (Florina) region"
+  }
+ ],
+ "performers": [
+  "Бански старчета",
+  "Војо Стојановски",
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/2322"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2323"
+  },
+  {
+   "who": "Бански старчета",
+   "url": "https://pesna.org/audio-download/2324"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум чисто Македонче",
+       "lat": "Jas sum čisto Makedonče",
+       "en": "I am a pure little Macedonian"
+      },
+      {
+       "cyr": "од битолската околија.",
+       "lat": "od bitolskata okolija.",
+       "en": "from the Bitola district."
+      },
+      {
+       "cyr": "Од битолската околија,",
+       "lat": "Od bitolskata okolija,",
+       "en": "From the Bitola district,"
+      },
+      {
+       "cyr": "од жалосна Македонија.",
+       "lat": "od žalosna Makedonija.",
+       "en": "from sorrowful Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие тираните,",
+       "lat": "Bog da bie tiranite,",
+       "en": "May God strike the tyrants,"
+      },
+      {
+       "cyr": "на три страни нè разделија.",
+       "lat": "na tri strani nè razdelija.",
+       "en": "they divided us into three parts."
+      },
+      {
+       "cyr": "На три страни нè разделија,",
+       "lat": "Na tri strani nè razdelija,",
+       "en": "They divided us into three parts,"
+      },
+      {
+       "cyr": "а четврта Австралија.",
+       "lat": "a četvrta Avstralija.",
+       "en": "and the fourth is Australia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си оставив браќа в' пиринско,",
+       "lat": "Si ostaviv braḱa v' pirinsko,",
+       "en": "I left brothers in the Pirin region,"
+      },
+      {
+       "cyr": "си оставив сестри в' леринско.",
+       "lat": "si ostaviv sestri v' lerinsko.",
+       "en": "I left sisters in the Lerin region."
+      },
+      {
+       "cyr": "Си оставив сестри в' леринско,",
+       "lat": "Si ostaviv sestri v' lerinsko,",
+       "en": "I left sisters in the Lerin region,"
+      },
+      {
+       "cyr": "мајка, татко во охридско.",
+       "lat": "majka, tatko vo ohridsko.",
+       "en": "mother and father in the Ohrid region."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

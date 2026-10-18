@@ -1,0 +1,151 @@
+{
+ "id": 1171,
+ "slug": "mori-vano-lichna-vano",
+ "title_cyr": "Мори Вано, лична Вано",
+ "title_latin": "Mori Vano, lična Vano",
+ "title_en": "Hey Vana, lovely Vana",
+ "pesna_url": "https://pesna.org/song/1171",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ем промени' I read as 'and changed you too' (my reading, unsure); 'излагат' I take as 'come out' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "лична",
+   "en": "lovely, handsome"
+  },
+  {
+   "mk": "ќерко",
+   "en": "daughter (vocative)"
+  },
+  {
+   "mk": "роди",
+   "en": "gave birth to"
+  },
+  {
+   "mk": "пуст",
+   "en": "wretched"
+  },
+  {
+   "mk": "бања",
+   "en": "bath, spa"
+  },
+  {
+   "mk": "излагат",
+   "en": "they leave, go out (my reading)"
+  },
+  {
+   "mk": "турчам",
+   "en": "to turn Turk (convert)"
+  },
+  {
+   "mk": "анадолци",
+   "en": "Anatolians"
+  },
+  {
+   "mk": "глава давам",
+   "en": "I give my head"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2840"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори Вано, лична ќерко,",
+       "lat": "Mori Vano, lična ḱerko,",
+       "en": "Hey Vana, lovely daughter,"
+      },
+      {
+       "cyr": "што те мајка лична роди,",
+       "lat": "što te majka lična rodi,",
+       "en": "that your mother bore so lovely,"
+      },
+      {
+       "cyr": "лична роди, ем промени.",
+       "lat": "lična rodi, em promeni.",
+       "en": "bore lovely, and changed you too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па те прати в' пусто Скопје,",
+       "lat": "Pa te prati v' pusto Skopje,",
+       "en": "Then she sent you to wretched Skopje,"
+      },
+      {
+       "cyr": "пусто Скопје, скопска бања,",
+       "lat": "pusto Skopje, skopska banja,",
+       "en": "wretched Skopje, the Skopje bath,"
+      },
+      {
+       "cyr": "скопска бања, Катланово.",
+       "lat": "skopska banja, Katlanovo.",
+       "en": "the Skopje bath, Katlanovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму има многу Турци,",
+       "lat": "Tamu ima mnogu Turci,",
+       "en": "There are many Turks there,"
+      },
+      {
+       "cyr": "нит' се бањат, нит' излагат,",
+       "lat": "nit' se banjat, nit' izlagat,",
+       "en": "they neither bathe nor leave,"
+      },
+      {
+       "cyr": "тук' ја чекаат лична Вана,",
+       "lat": "tuk' ja čekaat lična Vana,",
+       "en": "but wait for lovely Vana,"
+      },
+      {
+       "cyr": "лична Вана да ја турчат.",
+       "lat": "lična Vana da ja turčat.",
+       "en": "to turn lovely Vana Turkish."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара лична Вана:",
+       "lat": "Progovara lična Vana:",
+       "en": "Lovely Vana speaks up:"
+      },
+      {
+       "cyr": "- Море Турци, анадолци,",
+       "lat": "- More Turci, anadolci,",
+       "en": "- Hey Turks, Anatolians,"
+      },
+      {
+       "cyr": "глава давам, не се турчам!",
+       "lat": "glava davam, ne se turčam!",
+       "en": "I give my head, I will not turn Turk!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

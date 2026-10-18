@@ -1,0 +1,154 @@
+{
+ "id": 1257,
+ "slug": "otide-panda-na-gosti",
+ "title_cyr": "Отиде Панда на гости",
+ "title_latin": "Otide Panda na gosti",
+ "title_en": "Panda Went Visiting",
+ "pesna_url": "https://pesna.org/song/1257",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, humorous song about a corn-shucking gathering. 'жив ти теткина' is my reading (an oath-like exclamation, roughly 'may your aunt live').",
+ "words_to_learn": [
+  {
+   "mk": "на гости",
+   "en": "visiting"
+  },
+  {
+   "mk": "тетка",
+   "en": "aunt"
+  },
+  {
+   "mk": "кочани",
+   "en": "corn cobs"
+  },
+  {
+   "mk": "лупење",
+   "en": "shucking, peeling"
+  },
+  {
+   "mk": "вечерат",
+   "en": "to have supper"
+  },
+  {
+   "mk": "легнуваат",
+   "en": "go to bed"
+  },
+  {
+   "mk": "ламба",
+   "en": "lamp"
+  },
+  {
+   "mk": "вриснала",
+   "en": "screamed"
+  },
+  {
+   "mk": "штипна",
+   "en": "pinched"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3176"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3177"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Отиде Панда на гости,",
+       "lat": "Otide Panda na gosti,",
+       "en": "Panda went visiting,"
+      },
+      {
+       "cyr": "на гости кај тетка ѝ,",
+       "lat": "na gosti kaj tetka ì,",
+       "en": "visiting at her aunt's,"
+      },
+      {
+       "cyr": "на кочани лупење.",
+       "lat": "na kočani lupenje.",
+       "en": "for the shucking of corn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лупеле, што ми лупеле,",
+       "lat": "Lupele, što mi lupele,",
+       "en": "They shucked, oh how they shucked,"
+      },
+      {
+       "cyr": "фанале да вечерат,",
+       "lat": "fanale da večerat,",
+       "en": "they sat down to eat supper,"
+      },
+      {
+       "cyr": "јале, што вечерале,",
+       "lat": "jale, što večerale,",
+       "en": "they ate, oh how they ate,"
+      },
+      {
+       "cyr": "станале да легнуваат.",
+       "lat": "stanale da legnuvaat.",
+       "en": "they got up to go to bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таман, што ми легнале,",
+       "lat": "Taman, što mi legnale,",
+       "en": "Just as they lay down,"
+      },
+      {
+       "cyr": "завртиле ламбата,",
+       "lat": "zavrtile lambata,",
+       "en": "they turned down the lamp,"
+      },
+      {
+       "cyr": "сите ми позаспале.",
+       "lat": "site mi pozaspale.",
+       "en": "and all of them fell asleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај ми Панда вриснала:",
+       "lat": "Togaj mi Panda vrisnala:",
+       "en": "Then Panda screamed:"
+      },
+      {
+       "cyr": "- Тетко ле, жив ти теткина,",
+       "lat": "- Tetko le, živ ti tetkina,",
+       "en": "- Auntie, may your aunt be well,"
+      },
+      {
+       "cyr": "некој ме штипна за рака!",
+       "lat": "nekoj me štipna za raka!",
+       "en": "someone pinched me on the arm!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,109 @@
+{
+ "id": 829,
+ "slug": "elenko-mome-mori-ubava",
+ "title_cyr": "Еленко, моме мори, убава",
+ "title_latin": "Elenko, mome mori, ubava",
+ "title_en": "Elena, pretty girl",
+ "pesna_url": "https://pesna.org/song/829",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Нина Спирова",
+  "Станко Ливрински",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/1763"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1764"
+  },
+  {
+   "who": "Станко Ливрински, Танец",
+   "url": "https://pesna.org/audio-download/1765"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еленко, моме мори, убава,",
+       "lat": "Elenko, mome mori, ubava,",
+       "en": "Elena, pretty girl,"
+      },
+      {
+       "cyr": "зошто солзи рониш, моме, ем плачеш?",
+       "lat": "zošto solzi roniš, mome, em plačeš?",
+       "en": "why are you in tears, girl, crying?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' мајка жалиш, моме, ил' татко,",
+       "lat": "Dal' majka žališ, mome, il' tatko,",
+       "en": "Are you sorry for your mother, girl, or your father,"
+      },
+      {
+       "cyr": "ил' за твојте браќа, сестро, комити?",
+       "lat": "il' za tvojte braḱa, sestro, komiti?",
+       "en": "or for your brothers, sister, the rebels (komiti)?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој бре, лудо, не ме јадосуј,",
+       "lat": "Nemoj bre, ludo, ne me jadosuj,",
+       "en": "Do not, crazy lad, make me more sad,"
+      },
+      {
+       "cyr": "и на срце рана не ми задевај,",
+       "lat": "i na srce rana ne mi zadevaj,",
+       "en": "do not poke my heart's wound,"
+      },
+      {
+       "cyr": "оти за мојта рана лек нема.",
+       "lat": "oti za mojta rana lek nema.",
+       "en": "because for my wound there is no cure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит' мајка жалам лудо, нит' татко,",
+       "lat": "Nit' majka žalam ludo, nit' tatko,",
+       "en": "I am neighter sorry for my mother, crazy lad, nor for my father,,"
+      },
+      {
+       "cyr": "туку си го жалам, лудо, либето,",
+       "lat": "tuku si go žalam, ludo, libeto,",
+       "en": "but instead I am sorry for my love,"
+      },
+      {
+       "cyr": "либето ми е, лудо, в' туѓина.",
+       "lat": "libeto mi e, ludo, v' tuǵina.",
+       "en": "my love is, crazy lad, in a foreign country."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

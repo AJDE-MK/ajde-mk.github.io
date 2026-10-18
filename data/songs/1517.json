@@ -1,0 +1,170 @@
+{
+ "id": 1517,
+ "slug": "despa-mi-stoi-kraj-dunava",
+ "title_cyr": "Деспа ми стои крај Дунава",
+ "title_latin": "Despa mi stoi kraj Dunava",
+ "title_en": "Despa Stands by the Danube",
+ "pesna_url": "https://pesna.org/song/1517",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad. 'Девет рала тапани' (literally 'nine ploughs of drums') is obscure; 'nine ploughs' worth of drums' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "колне",
+   "en": "curses"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy! alas! (Turkish loan)"
+  },
+  {
+   "mk": "пресушат",
+   "en": "dry up"
+  },
+  {
+   "mk": "испукаат",
+   "en": "burst, crack open"
+  },
+  {
+   "mk": "удави",
+   "en": "drowned"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "рало",
+   "en": "plough"
+  },
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "зурла",
+   "en": "zurla, folk oboe"
+  },
+  {
+   "mk": "бегај",
+   "en": "run away"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски",
+  "Димитар Гешевски",
+  "Мирвет Беловска"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/3967"
+  },
+  {
+   "who": "Димитар Гешевски",
+   "url": "https://pesna.org/audio-download/3968"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/3969"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Деспа ми стои крај Дунава,",
+       "lat": "Despa mi stoi kraj Dunava,",
+       "en": "Despa stands by the Danube,"
+      },
+      {
+       "cyr": "Деспа си Дунав љуто колнеше:",
+       "lat": "Despa si Dunav ljuto kolneše:",
+       "en": "Despa was fiercely cursing the Danube:"
+      },
+      {
+       "cyr": "- Дунав, Дунав, аман бел Дунав,",
+       "lat": "- Dunav, Dunav, aman bel Dunav,",
+       "en": "- Danube, Danube, mercy, white Danube,"
+      },
+      {
+       "cyr": "водите да ти пресушат.",
+       "lat": "vodite da ti presušat.",
+       "en": "may your waters dry up,"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Водите да ти пресушат,",
+       "lat": "Vodite da ti presušat,",
+       "en": "may your waters dry up,"
+      },
+      {
+       "cyr": "рибите да ти испукаат,",
+       "lat": "ribite da ti ispukaat,",
+       "en": "may your fish burst dead,"
+      },
+      {
+       "cyr": "што ми го удави моето братче",
+       "lat": "što mi go udavi moeto bratče",
+       "en": "you who drowned my little brother"
+      },
+      {
+       "cyr": "со триста души сватови,",
+       "lat": "so trista duši svatovi,",
+       "en": "with three hundred wedding guests,"
+      },
+      {
+       "cyr": "со девет рала тапани",
+       "lat": "so devet rala tapani",
+       "en": "with nine ploughs' worth of drums"
+      },
+      {
+       "cyr": "и со девет зурли сребрени?",
+       "lat": "i so devet zurli srebreni?",
+       "en": "and with nine silver zurlas?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Деспо, Деспо, бегај од тука,",
+       "lat": "- Oj Despo, Despo, begaj od tuka,",
+       "en": "- Oh Despa, Despa, run away from here,"
+      },
+      {
+       "cyr": "да не те удавам, аман и тебе,",
+       "lat": "da ne te udavam, aman i tebe,",
+       "en": "so that I do not drown you, mercy, you too,"
+      },
+      {
+       "cyr": "водите да те однесат,",
+       "lat": "vodite da te odnesat,",
+       "en": "the waters would carry you off,"
+      },
+      {
+       "cyr": "да не те удавам, аман и тебе,",
+       "lat": "da ne te udavam, aman i tebe,",
+       "en": "so that I do not drown you, mercy, you too,"
+      },
+      {
+       "cyr": "како што го удавив твоето братче.",
+       "lat": "kako što go udaviv tvoeto bratče.",
+       "en": "as I drowned your little brother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

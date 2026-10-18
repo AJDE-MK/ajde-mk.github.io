@@ -1,0 +1,212 @@
+{
+ "id": 726,
+ "slug": "slaga-se-s-lnce-da-zajde",
+ "title_cyr": "Слага се с'лнце да зајде",
+ "title_latin": "Slaga se s'lnce da zajde",
+ "title_en": "The Sun Is About to Set",
+ "pesna_url": "https://pesna.org/song/726",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Божано' is a refrain word whose meaning I am not sure of (left as 'Bozhano'); 'бела мори, црвена' / 'т'нка мори, висока' rendered as refrain descriptors, my reading. 'Слага се' read as 'is about to'.",
+ "words_to_learn": [
+  {
+   "mk": "зајде",
+   "en": "sets (of the sun)"
+  },
+  {
+   "mk": "ридина",
+   "en": "hill"
+  },
+  {
+   "mk": "падина",
+   "en": "slope"
+  },
+  {
+   "mk": "кладенче",
+   "en": "little well, spring"
+  },
+  {
+   "mk": "косач",
+   "en": "mower"
+  },
+  {
+   "mk": "опкладиле се",
+   "en": "made a bet"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor"
+  },
+  {
+   "mk": "вдовац",
+   "en": "widower"
+  },
+  {
+   "mk": "префрли",
+   "en": "throws over"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова",
+  "Кисмет"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/828"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/834"
+  },
+  {
+   "who": "Кисмет",
+   "url": "https://pesna.org/audio-download/835"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Слага се с'лнце да зајде",
+       "lat": "Slaga se s'lnce da zajde",
+       "en": "The sun is about to set"
+      },
+      {
+       "cyr": "Божано, бела мори, црвена.",
+       "lat": "Božano, bela mori, crvena.",
+       "en": "Bozhano, white, hey, and red."
+      },
+      {
+       "cyr": "Преко ридине, падине,",
+       "lat": "Preko ridine, padine,",
+       "en": "Over the hills, the slopes,"
+      },
+      {
+       "cyr": "Божано, т'нка мори, висока.",
+       "lat": "Božano, t'nka mori, visoka.",
+       "en": "Bozhano, slender, hey, and tall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И во планине, бор дрво,",
+       "lat": "I vo planine, bor drvo,",
+       "en": "And in the mountains, a pine tree,"
+      },
+      {
+       "cyr": "Божано, бела мори, црвена.",
+       "lat": "Božano, bela mori, crvena.",
+       "en": "Bozhano, white, hey, and red."
+      },
+      {
+       "cyr": "А до бор дрво, кладенче,",
+       "lat": "A do bor drvo, kladenče,",
+       "en": "And beside the pine tree, a little spring,"
+      },
+      {
+       "cyr": "Божано, т'нка мори, висока.",
+       "lat": "Božano, t'nka mori, visoka.",
+       "en": "Bozhano, slender, hey, and tall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А до кладенче, косачи,",
+       "lat": "A do kladenče, kosači,",
+       "en": "And beside the spring, mowers,"
+      },
+      {
+       "cyr": "Божано, бела мори, црвена.",
+       "lat": "Božano, bela mori, crvena.",
+       "en": "Bozhano, white, hey, and red."
+      },
+      {
+       "cyr": "опкладиле се косачи,",
+       "lat": "opkladile se kosači,",
+       "en": "the mowers made a wager,"
+      },
+      {
+       "cyr": "Божано, т'нка мори, висока.",
+       "lat": "Božano, t'nka mori, visoka.",
+       "en": "Bozhano, slender, hey, and tall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе префрли бор дрво,",
+       "lat": "Koj ḱe prefrli bor drvo,",
+       "en": "Whoever throws over the pine tree,"
+      },
+      {
+       "cyr": "тој ќе ја земе, мори, Калина.",
+       "lat": "toj ḱe ja zeme, mori, Kalina.",
+       "en": "will take Kalina, hey."
+      },
+      {
+       "cyr": "Префрлил беќар, не могал,",
+       "lat": "Prefrlil beḱar, ne mogal,",
+       "en": "The bachelor threw, he could not,"
+      },
+      {
+       "cyr": "префрлил вдовац мори, не могал.",
+       "lat": "prefrlil vdovac mori, ne mogal.",
+       "en": "the widower threw, hey, he could not."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стар дедо фрлил, префрлил,",
+       "lat": "Star dedo frlil, prefrlil,",
+       "en": "The old grandfather threw, and threw it over,"
+      },
+      {
+       "cyr": "узнаја момо мори, Калино.",
+       "lat": "uznaja momo mori, Kalino.",
+       "en": "he won the girl, hey, Kalina."
+      },
+      {
+       "cyr": "Викна Калина да плаче:",
+       "lat": "Vikna Kalina da plače:",
+       "en": "Kalina cried out in tears:"
+      },
+      {
+       "cyr": "- Оф леле, Боже, до Бога!",
+       "lat": "- Of lele, Bože, do Boga!",
+       "en": "- Oh woe, God, oh God!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е Господ судија,",
+       "lat": "Što mi e Gospod sudija,",
+       "en": "Why is the Lord my judge,"
+      },
+      {
+       "cyr": "стар дедо момче да ми е?",
+       "lat": "star dedo momče da mi e?",
+       "en": "that an old grandfather should be my young man?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

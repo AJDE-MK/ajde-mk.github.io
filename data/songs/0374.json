@@ -1,0 +1,165 @@
+{
+ "id": 374,
+ "slug": "zhalna-majka",
+ "title_cyr": "Жална мајка",
+ "title_latin": "Žalna majka",
+ "title_en": "Sad mother",
+ "pesna_url": "https://pesna.org/song/374",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/936"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жална мајка в' себе плаче,",
+       "lat": "Žalna majka v' sebe plače,",
+       "en": "Sad mother cries in silence,"
+      },
+      {
+       "cyr": "внуците ги теши,",
+       "lat": "vnucite gi teši,",
+       "en": "she comforts her grandchildren."
+      },
+      {
+       "cyr": "бол во гради лут ја вие,",
+       "lat": "bol vo gradi lut ja vie,",
+       "en": "With severe pain in her chest,"
+      },
+      {
+       "cyr": "а ним им се смеши.",
+       "lat": "a nim im se smeši.",
+       "en": "yet she smiles at them."
+      },
+      {
+       "cyr": "Ах, спијте внуци мои,",
+       "lat": "Ah, spijte vnuci moi,",
+       "en": "Ah, sleep my grandchildren,"
+      },
+      {
+       "cyr": "пак, пак ќе дојде тој,",
+       "lat": "pak, pak ḱe dojde toj,",
+       "en": "again, again he will come,"
+      },
+      {
+       "cyr": "ќе ви пее за Битола,",
+       "lat": "ḱe vi pee za Bitola,",
+       "en": "he'll sing to you about Bitola,"
+      },
+      {
+       "cyr": "за наш роден крај.",
+       "lat": "za naš roden kraj.",
+       "en": "about our hometown."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Спијат внуци, мајка плаче",
+       "lat": "Spijat vnuci, majka plače",
+       "en": "The grandchildren are sleeping, the mother is crying,"
+      },
+      {
+       "cyr": "очи солзи леат,",
+       "lat": "oči solzi leat,",
+       "en": "her eyes are filled with tears,"
+      },
+      {
+       "cyr": "кај си синко да ги видиш",
+       "lat": "kaj si sinko da gi vidiš",
+       "en": "where are you, my son, to see"
+      },
+      {
+       "cyr": "твојте мили деца?",
+       "lat": "tvojte mili deca?",
+       "en": "your dear children?"
+      },
+      {
+       "cyr": "Ах, спијат деца твои,",
+       "lat": "Ah, spijat deca tvoi,",
+       "en": "Ah, your kids are sleeping,"
+      },
+      {
+       "cyr": "в' сон го слушат твојот пој,",
+       "lat": "v' son go slušat tvojot poj,",
+       "en": "in their sleep they hear your song,"
+      },
+      {
+       "cyr": "стани синко да ги видиш",
+       "lat": "stani sinko da gi vidiš",
+       "en": "wake up, my son, to see them,"
+      },
+      {
+       "cyr": "стани сине мој.",
+       "lat": "stani sine moj.",
+       "en": "wake up my son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка плаче, солзи течат",
+       "lat": "Majka plače, solzi tečat",
+       "en": "The mother is crying, the tears are flowing,"
+      },
+      {
+       "cyr": "синот свој го жали,",
+       "lat": "sinot svoj go žali,",
+       "en": "she mourns her son,"
+      },
+      {
+       "cyr": "Благој Петров Караѓуле",
+       "lat": "Blagoj Petrov Karaǵule",
+       "en": "Blagoj Petrov Karagjule"
+      },
+      {
+       "cyr": "во мисли го гали.",
+       "lat": "vo misli go gali.",
+       "en": "she caresses him in her thoughts."
+      },
+      {
+       "cyr": "Оф, единец мој ти,",
+       "lat": "Of, edinec moj ti,",
+       "en": "Oh, my only son,"
+      },
+      {
+       "cyr": "в' гради болка ти ни сви,",
+       "lat": "v' gradi bolka ti ni svi,",
+       "en": "you nested pain in our chest,"
+      },
+      {
+       "cyr": "стани чедо, пеј ни песна",
+       "lat": "stani čedo, pej ni pesna",
+       "en": "get up child, sing us a song,"
+      },
+      {
+       "cyr": "стани не ми спи.",
+       "lat": "stani ne mi spi.",
+       "en": "get up don't sleep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

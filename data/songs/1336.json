@@ -1,0 +1,128 @@
+{
+ "id": 1336,
+ "slug": "oj-jovane",
+ "title_cyr": "Ој Јоване",
+ "title_latin": "Oj Jovane",
+ "title_en": "Oh Jovan",
+ "pesna_url": "https://pesna.org/song/1336",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Part of the Lazarica (St Lazarus) ritual songs. 'зару' is a filler particle, here rendered 'indeed' (my reading); 'во седела' is unclear, I read it as a variant of 'седеле' (sat).",
+ "words_to_learn": [
+  {
+   "mk": "домаќин",
+   "en": "master of the house"
+  },
+  {
+   "mk": "крива врба",
+   "en": "crooked willow"
+  },
+  {
+   "mk": "билбили",
+   "en": "nightingales"
+  },
+  {
+   "mk": "поручок",
+   "en": "midday meal"
+  },
+  {
+   "mk": "ужина",
+   "en": "afternoon snack"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "сито",
+   "en": "sieve"
+  },
+  {
+   "mk": "ситна година",
+   "en": "a fine year (fine-grained, plentiful)"
+  }
+ ],
+ "performers": [
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3427"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Јоване зару домаќине,",
+       "lat": "Oj Jovane zaru domaḱine,",
+       "en": "Oh Jovan, indeed, master of the house,"
+      },
+      {
+       "cyr": "кај куќа ти зару река течи,",
+       "lat": "kaj kuḱa ti zaru reka teči,",
+       "en": "by your house, indeed, a river flows,"
+      },
+      {
+       "cyr": "во реката зару крива врба,",
+       "lat": "vo rekata zaru kriva vrba,",
+       "en": "in the river, indeed, a crooked willow,"
+      },
+      {
+       "cyr": "на врбата зару три седела,",
+       "lat": "na vrbata zaru tri sedela,",
+       "en": "on the willow, indeed, three sat,"
+      },
+      {
+       "cyr": "во седела зару три билбили,",
+       "lat": "vo sedela zaru tri bilbili,",
+       "en": "in the seat, indeed, three nightingales,"
+      },
+      {
+       "cyr": "први пее зару за поручок,",
+       "lat": "prvi pee zaru za poručok,",
+       "en": "the first sings, indeed, for the midday meal,"
+      },
+      {
+       "cyr": "втори пее зару за ужина,",
+       "lat": "vtori pee zaru za užina,",
+       "en": "the second sings, indeed, for the afternoon snack,"
+      },
+      {
+       "cyr": "трети пее зару за вечера:",
+       "lat": "treti pee zaru za večera:",
+       "en": "the third sings, indeed, for supper:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кој ни даде со сито,",
+       "lat": "- Koj ni dade so sito,",
+       "en": "- Whoever gave us with a sieve,"
+      },
+      {
+       "cyr": "зару да е ситна година,",
+       "lat": "zaru da e sitna godina,",
+       "en": "indeed, may the year be fine-grained,"
+      },
+      {
+       "cyr": "зару да е ситна година.",
+       "lat": "zaru da e sitna godina.",
+       "en": "indeed, may the year be fine-grained."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

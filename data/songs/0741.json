@@ -1,0 +1,168 @@
+{
+ "id": 741,
+ "slug": "mace-mace-teche-voda-studena",
+ "title_cyr": "Маце, маце, тече вода студена",
+ "title_latin": "Mace, mace, teče voda studena",
+ "title_en": "Maca, Maca, cold water is running",
+ "pesna_url": "https://pesna.org/song/741",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Афион",
+  "Драган Даутовски квартет",
+  "Марјан Јанкоски",
+  "Монистра",
+  "Пеце Атанасовски"
+ ],
+ "audio": [
+  {
+   "who": "Афион",
+   "url": "https://pesna.org/audio-download/1024"
+  },
+  {
+   "who": "Драган Даутовски квартет, Марјан Јанкоски",
+   "url": "https://pesna.org/audio-download/1025"
+  },
+  {
+   "who": "Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/1026"
+  },
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/2824"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Маце, маце, тече вода студена, мале,",
+       "lat": "Mace, mace, teče voda studena, male,",
+       "en": "Maca, Maca, cold water is running,"
+      },
+      {
+       "cyr": "тече вода студена.",
+       "lat": "teče voda studena.",
+       "en": "cold water is running."
+      },
+      {
+       "cyr": "Маце маце кара гранка зелена, мале,",
+       "lat": "Mace mace kara granka zelena, male,",
+       "en": "Maca, Maca, it is pushing a green branch,"
+      },
+      {
+       "cyr": "кара гранка зелена.",
+       "lat": "kara granka zelena.",
+       "en": "it is pushing a green branch."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маце маце на гранката бел камен, мале,",
+       "lat": "Mace mace na grankata bel kamen, male,",
+       "en": "Maca, Maca, on the branch there is a white rock,"
+      },
+      {
+       "cyr": "на гранката бел камен.",
+       "lat": "na grankata bel kamen.",
+       "en": "on the branch there is a white rock."
+      },
+      {
+       "cyr": "Маце маце на каменот постела, мале,",
+       "lat": "Mace mace na kamenot postela, male,",
+       "en": "Maca, Maca, on the rock there is a bed,"
+      },
+      {
+       "cyr": "на каменот постела.",
+       "lat": "na kamenot postela.",
+       "en": "on the rock there is a bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маце маце на постела седеше, мале,",
+       "lat": "Mace mace na postela sedeše, male,",
+       "en": "Maca, Maca, on the bed is sitting,"
+      },
+      {
+       "cyr": "на постела седеше.",
+       "lat": "na postela sedeše.",
+       "en": "on the bed is sitting."
+      },
+      {
+       "cyr": "Маце маце това младо терзиче, мале,",
+       "lat": "Mace mace tova mlado terziče, male,",
+       "en": "Maca, Maca, that young tailor,"
+      },
+      {
+       "cyr": "това младо терзиче.",
+       "lat": "tova mlado terziče.",
+       "en": "that young tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маце маце и на Маца шиеше, мале,",
+       "lat": "Mace mace i na Maca šieše, male,",
+       "en": "Maca, Maca, he is sewing for Maca,"
+      },
+      {
+       "cyr": "и на Маца шиеше.",
+       "lat": "i na Maca šieše.",
+       "en": "sewing for Maca."
+      },
+      {
+       "cyr": "Маце маце Маца седи до него, мале,",
+       "lat": "Mace mace Maca sedi do nego, male,",
+       "en": "Maca, Maca is sitting next to him,"
+      },
+      {
+       "cyr": "Маца седи до него.",
+       "lat": "Maca sedi do nego.",
+       "en": "sitting next to him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Маце маце та му конци сукаше, мале,",
+       "lat": "Mace mace ta mu konci sukaše, male,",
+       "en": "Maca, Maca, she is threading his threads,"
+      },
+      {
+       "cyr": "та му конци сукаше.",
+       "lat": "ta mu konci sukaše.",
+       "en": "she is threading his threads."
+      },
+      {
+       "cyr": "Маце маце през рамо ги фрла, мале,",
+       "lat": "Mace mace prez ramo gi frla, male,",
+       "en": "Maca, Maca, she is throwing them over the shoulder,"
+      },
+      {
+       "cyr": "през рамо ги фрла.",
+       "lat": "prez ramo gi frla.",
+       "en": "she is throwing them over the shoulder."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

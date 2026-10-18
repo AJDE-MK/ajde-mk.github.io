@@ -1,0 +1,209 @@
+{
+ "id": 1533,
+ "slug": "ednash-dojdov-jano-mori",
+ "title_cyr": "Еднаш дојдов Јано мори",
+ "title_latin": "Ednaš dojdov Jano mori",
+ "title_en": "Once I came, Jana",
+ "pesna_url": "https://pesna.org/song/1533",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ваше село' uses the polite/plural form, probably just 'your village'. 'Виеше' (from вие 'twist') is used for dancing the oro. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "ваше село",
+   "en": "your (pl./polite) village"
+  },
+  {
+   "mk": "дома",
+   "en": "at home"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance, the dance"
+  },
+  {
+   "mk": "виеше",
+   "en": "you danced (the oro)"
+  },
+  {
+   "mk": "танец",
+   "en": "dance"
+  },
+  {
+   "mk": "девојки",
+   "en": "girls"
+  },
+  {
+   "mk": "невести",
+   "en": "brides, young wives"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul (endearment)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/4003"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/4004"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еднаш дојдов Јано мори ваше село,",
+       "lat": "Ednaš dojdov Jano mori vaše selo,",
+       "en": "Once I came, hey Jana, to your village,"
+      },
+      {
+       "cyr": "еднаш дојдов ваше село,",
+       "lat": "ednaš dojdov vaše selo,",
+       "en": "once I came to your village,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      },
+      {
+       "cyr": "Тебе дома Јано мори не те најдов,",
+       "lat": "Tebe doma Jano mori ne te najdov,",
+       "en": "I did not find you at home, hey Jana,"
+      },
+      {
+       "cyr": "тебе дома не те најдов,",
+       "lat": "tebe doma ne te najdov,",
+       "en": "I did not find you at home,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Теб те најдов Јано мори сред селото,",
+       "lat": "Teb te najdov Jano mori sred seloto,",
+       "en": "I found you, hey Jana, in the middle of the village,"
+      },
+      {
+       "cyr": "теб те најдов сред селото,",
+       "lat": "teb te najdov sred seloto,",
+       "en": "I found you in the middle of the village,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      },
+      {
+       "cyr": "Сред селото Јано мори на орото",
+       "lat": "Sred seloto Jano mori na oroto",
+       "en": "In the middle of the village, hey Jana, at the dance,"
+      },
+      {
+       "cyr": "сред селото на орото,",
+       "lat": "sred seloto na oroto,",
+       "en": "in the middle of the village at the dance,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти виеше Јано мори до три танца,",
+       "lat": "Ti vieše Jano mori do tri tanca,",
+       "en": "You danced, hey Jana, up to three dances,"
+      },
+      {
+       "cyr": "ти виеше до три танца,",
+       "lat": "ti vieše do tri tanca,",
+       "en": "you danced up to three dances,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      },
+      {
+       "cyr": "Први танец Јано мори од девојки,",
+       "lat": "Prvi tanec Jano mori od devojki,",
+       "en": "The first dance, hey Jana, of the girls,"
+      },
+      {
+       "cyr": "први танец од девојки,",
+       "lat": "prvi tanec od devojki,",
+       "en": "the first dance of the girls,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втори танец Јано мори од невести",
+       "lat": "Vtori tanec Jano mori od nevesti",
+       "en": "The second dance, hey Jana, of the brides,"
+      },
+      {
+       "cyr": "втори танец од невести,",
+       "lat": "vtori tanec od nevesti,",
+       "en": "the second dance of the brides,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      },
+      {
+       "cyr": "Трети танец Јано мори од ергени,",
+       "lat": "Treti tanec Jano mori od ergeni,",
+       "en": "The third dance, hey Jana, of the bachelors,"
+      },
+      {
+       "cyr": "трети танец од ергени,",
+       "lat": "treti tanec od ergeni,",
+       "en": "the third dance of the bachelors,"
+      },
+      {
+       "cyr": "де мори Јано де, ајде душо де.",
+       "lat": "de mori Jano de, ajde dušo de.",
+       "en": "hey, hey Jana, hey, come on, my soul."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

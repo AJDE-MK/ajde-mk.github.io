@@ -1,0 +1,138 @@
+{
+ "id": 1105,
+ "slug": "lenche-bitolchanche",
+ "title_cyr": "Ленче битолчанче",
+ "title_latin": "Lenče bitolčanče",
+ "title_en": "Lenche from Bitola",
+ "pesna_url": "https://pesna.org/song/1105",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Дарко Стефановски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Георге Илов"
+ ],
+ "audio": [
+  {
+   "who": "Георге Илов",
+   "url": "https://pesna.org/audio-download/2650"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си поминав крај Битола,",
+       "lat": "Si pominav kraj Bitola,",
+       "en": "I've walked through Bitola,"
+      },
+      {
+       "cyr": "заљубив јас моме,",
+       "lat": "zaljubiv jas mome,",
+       "en": "I fell in love with a girl,"
+      },
+      {
+       "cyr": "лично Ленче, битолчанче,",
+       "lat": "lično Lenče, bitolčanče,",
+       "en": "stunning Lenche, from Bitola"
+      },
+      {
+       "cyr": "горска самовила.",
+       "lat": "gorska samovila.",
+       "en": "forest fairy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три години тајна љубов,",
+       "lat": "Tri godini tajna ljubov,",
+       "en": "Three years in a secret love,"
+      },
+      {
+       "cyr": "без да некој знае,",
+       "lat": "bez da nekoj znae,",
+       "en": "without anyone knowing,"
+      },
+      {
+       "cyr": "лично Ленче, битолчанче,",
+       "lat": "lično Lenče, bitolčanče,",
+       "en": "stunning Lenche, from Bitola"
+      },
+      {
+       "cyr": "без да некој знае.",
+       "lat": "bez da nekoj znae.",
+       "en": "without anyone knowing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ојде Ленче да си праша",
+       "lat": "Ojde Lenče da si praša",
+       "en": "Lenche went to ask"
+      },
+      {
+       "cyr": "нејзината мајка,",
+       "lat": "nejzinata majka,",
+       "en": "her mother,"
+      },
+      {
+       "cyr": "лично Ленче, битолчанче,",
+       "lat": "lično Lenče, bitolčanče,",
+       "en": "stunning Lenche, from Bitola"
+      },
+      {
+       "cyr": "мајка не даваше.",
+       "lat": "majka ne davaše.",
+       "en": "her mother wouldn't allow it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако мајка не те дава,",
+       "lat": "- Ako majka ne te dava,",
+       "en": "- If mother won't allow,"
+      },
+      {
+       "cyr": "бегај ти по мене,",
+       "lat": "begaj ti po mene,",
+       "en": "come with me,"
+      },
+      {
+       "cyr": "ќе те земам, лично Ленче,",
+       "lat": "ḱe te zemam, lično Lenče,",
+       "en": "I will take you, stunning Lenche,"
+      },
+      {
+       "cyr": "моја да ми бидеш,",
+       "lat": "moja da mi bideš,",
+       "en": "you will be mine,"
+      },
+      {
+       "cyr": "цела рода ќе поканам,",
+       "lat": "cela roda ḱe pokanam,",
+       "en": "I will invite the whole family,"
+      },
+      {
+       "cyr": "свадба ќе направам.",
+       "lat": "svadba ḱe napravam.",
+       "en": "we're going to have a wedding."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,186 @@
+{
+ "id": 133,
+ "slug": "razbole-se-irina-moma",
+ "title_cyr": "Разболе се Ирина мома",
+ "title_latin": "Razbole se Irina moma",
+ "title_en": "Irina the Girl Fell Ill",
+ "pesna_url": "https://pesna.org/song/133",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Стројник' as matchmaker and 'зацрни' as 'make me wear black / blacken my life' are my reading. 'Станаа три години' taken as 'it has been three years'.",
+ "words_to_learn": [
+  {
+   "mk": "разболе се",
+   "en": "fell ill"
+  },
+  {
+   "mk": "лежи",
+   "en": "lies (in bed)"
+  },
+  {
+   "mk": "кара севда",
+   "en": "black love-longing, lovesickness"
+  },
+  {
+   "mk": "стројник",
+   "en": "matchmaker (the one sent to ask for a bride)"
+  },
+  {
+   "mk": "сиромав",
+   "en": "poor"
+  },
+  {
+   "mk": "зацрни",
+   "en": "made (me) wear black, plunged into mourning"
+  },
+  {
+   "mk": "млада и зелена",
+   "en": "young and green (fresh)"
+  },
+  {
+   "mk": "ете",
+   "en": "here, now, lo"
+  }
+ ],
+ "performers": [
+  "Дејан Николоски Чуле",
+  "Зоран Ванев",
+  "Никола Бадев",
+  "Оливер Глигоров"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/966"
+  },
+  {
+   "who": "Зоран Ванев",
+   "url": "https://pesna.org/audio-download/2440"
+  },
+  {
+   "who": "Дејан Николоски Чуле",
+   "url": "https://pesna.org/audio-download/2441"
+  },
+  {
+   "who": "Оливер Глигоров",
+   "url": "https://pesna.org/audio-download/2442"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Разболе се, ај разболе се",
+       "lat": "Razbole se, aj razbole se",
+       "en": "She fell ill, hey, she fell ill,"
+      },
+      {
+       "cyr": "мојата Ирина,",
+       "lat": "mojata Irina,",
+       "en": "my Irina,"
+      },
+      {
+       "cyr": "ете станаа три години",
+       "lat": "ete stanaa tri godini",
+       "en": "it has been three years now"
+      },
+      {
+       "cyr": "откако лежи.",
+       "lat": "otkako leži.",
+       "en": "since she has lain in bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи Иринке, ај кажи душо,",
+       "lat": "- Kaži Irinke, aj kaži dušo,",
+       "en": "- Tell me, Irinka, hey tell me, dear,"
+      },
+      {
+       "cyr": "од што си болна?",
+       "lat": "od što si bolna?",
+       "en": "what are you sick from?"
+      },
+      {
+       "cyr": "- Мојта болест, ах мило либе",
+       "lat": "- Mojta bolest, ah milo libe",
+       "en": "- My sickness, ah dear love,"
+      },
+      {
+       "cyr": "од кара севда.",
+       "lat": "od kara sevda.",
+       "en": "is from black love-longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пратив стројник, ах мило либе",
+       "lat": "- Prativ strojnik, ah milo libe",
+       "en": "- I sent the matchmaker, ah dear love,"
+      },
+      {
+       "cyr": "мајка ти те не дава,",
+       "lat": "majka ti te ne dava,",
+       "en": "your mother does not give you,"
+      },
+      {
+       "cyr": "оти јас сум, ах мило либе,",
+       "lat": "oti jas sum, ah milo libe,",
+       "en": "because I am, ah dear love,"
+      },
+      {
+       "cyr": "многу сиромав.",
+       "lat": "mnogu siromav.",
+       "en": "very poor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Зошто мајко ти ме мене",
+       "lat": "- Zošto majko ti me mene",
+       "en": "- Why, mother, did you"
+      },
+      {
+       "cyr": "млада зацрни?",
+       "lat": "mlada zacrni?",
+       "en": "make me, young, wear black?"
+      },
+      {
+       "cyr": "Јас да умрам, ах мила мајко,",
+       "lat": "Jas da umram, ah mila majko,",
+       "en": "Should I die, ah dear mother,"
+      },
+      {
+       "cyr": "млада и зелена?",
+       "lat": "mlada i zelena?",
+       "en": "young and green?"
+      },
+      {
+       "cyr": "Јас да умрам, ах мила мајко,",
+       "lat": "Jas da umram, ah mila majko,",
+       "en": "Should I die, ah dear mother,"
+      },
+      {
+       "cyr": "од кара севда?",
+       "lat": "od kara sevda?",
+       "en": "from black love-longing?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

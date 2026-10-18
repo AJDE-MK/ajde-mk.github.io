@@ -1,0 +1,162 @@
+{
+ "id": 1261,
+ "slug": "skopje-skopje",
+ "title_cyr": "Скопје, Скопје",
+ "title_latin": "Skopje, Skopje",
+ "title_en": "Skopje, Skopje",
+ "pesna_url": "https://pesna.org/song/1261",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; apparently about the 1963 Skopje earthquake, but I cannot name an author. 'Свеста ни ја зеде' is my reading: 'took our senses/consciousness'.",
+ "words_to_learn": [
+  {
+   "mk": "чудно",
+   "en": "wondrous"
+  },
+  {
+   "mk": "ненагледно",
+   "en": "never enough to look at"
+  },
+  {
+   "mk": "убост",
+   "en": "beauty (dialect)"
+  },
+  {
+   "mk": "рушевини",
+   "en": "ruins, rubble"
+  },
+  {
+   "mk": "родбина",
+   "en": "kin, relatives"
+  },
+  {
+   "mk": "поцрне",
+   "en": "turned black, went into mourning"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  }
+ ],
+ "performers": [
+  "Емил Ристосков",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3187"
+  },
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/3188"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Скопје, Скопје чудно, ненагледно,",
+       "lat": "Skopje, Skopje čudno, nenagledno,",
+       "en": "Skopje, Skopje, wondrous, never to be seen enough,"
+      },
+      {
+       "cyr": "твојта убост в' срцата ни се крие",
+       "lat": "tvojta ubost v' srcata ni se krie",
+       "en": "your beauty is hidden in our hearts,"
+      },
+      {
+       "cyr": "в' срцата наши ти ни се лееше,",
+       "lat": "v' srcata naši ti ni se leeše,",
+       "en": "you poured yourself into our hearts,"
+      },
+      {
+       "cyr": "но на крајот свеста ни ја зеде.",
+       "lat": "no na krajot svesta ni ja zede.",
+       "en": "but at the end it took our senses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убавиот Вардар што сред тебе тече,",
+       "lat": "Ubaviot Vardar što sred tebe teče,",
+       "en": "The beautiful Vardar that flows through you,"
+      },
+      {
+       "cyr": "преди шест месеци тој те однесе,",
+       "lat": "predi šest meseci toj te odnese,",
+       "en": "six months ago it carried you away,"
+      },
+      {
+       "cyr": "природната сила за тебе не се смили,",
+       "lat": "prirodnata sila za tebe ne se smili,",
+       "en": "natural force had no mercy on you,"
+      },
+      {
+       "cyr": "Македонија нема да заборави.",
+       "lat": "Makedonija nema da zaboravi.",
+       "en": "Macedonia will not forget."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу народ од цел свет ти дојде,",
+       "lat": "Mnogu narod od cel svet ti dojde,",
+       "en": "Many people from the whole world came to you,"
+      },
+      {
+       "cyr": "гледаат отпад, па и они плачат,",
+       "lat": "gledaat otpad, pa i oni plačat,",
+       "en": "they see the ruins, and they too weep,"
+      },
+      {
+       "cyr": "многу народ под рушевини згази,",
+       "lat": "mnogu narod pod ruševini zgazi,",
+       "en": "many people it trampled under the rubble,"
+      },
+      {
+       "cyr": "стари, млади, и на лулка деца.",
+       "lat": "stari, mladi, i na lulka deca.",
+       "en": "old, young, and children in the cradle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу народ без родбина остави,",
+       "lat": "Mnogu narod bez rodbina ostavi,",
+       "en": "Many people it left without kin,"
+      },
+      {
+       "cyr": "без мајки, татковци, браќа и сестри,",
+       "lat": "bez majki, tatkovci, braḱa i sestri,",
+       "en": "without mothers, fathers, brothers and sisters,"
+      },
+      {
+       "cyr": "многу народ Скопје ти поцрне,",
+       "lat": "mnogu narod Skopje ti pocrne,",
+       "en": "many people, Skopje, you turned black,"
+      },
+      {
+       "cyr": "Југославија нема да заборави.",
+       "lat": "Jugoslavija nema da zaboravi.",
+       "en": "Yugoslavia will not forget."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

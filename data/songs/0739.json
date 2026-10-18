@@ -1,0 +1,277 @@
+{
+ "id": 739,
+ "slug": "tri-godini-stanaa",
+ "title_cyr": "Три години станаа",
+ "title_latin": "Tri godini stanaa",
+ "title_en": "It's been three years now",
+ "pesna_url": "https://pesna.org/song/739",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Борче Крстески",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Драган Вучиќ",
+  "Душко Георгиевски",
+  "Ѓоко Јовиќ",
+  "Зоран Џорлев",
+  "Калдрма",
+  "Круме Спасовски",
+  "Маестрал",
+  "Персиди",
+  "Раим Баки",
+  "Славе Велјановски",
+  "Смилја Митревска",
+  "Сузана Спасовска",
+  "Тања Јовановска",
+  "Energy Band Skopje"
+ ],
+ "audio": [
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/1004"
+  },
+  {
+   "who": "Славе Велјановски",
+   "url": "https://pesna.org/audio-download/1005"
+  },
+  {
+   "who": "Раим Баки",
+   "url": "https://pesna.org/audio-download/1006"
+  },
+  {
+   "who": "Калдрма",
+   "url": "https://pesna.org/audio-download/1007"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/1008"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/1009"
+  },
+  {
+   "who": "Смилја Митревска",
+   "url": "https://pesna.org/audio-download/1011"
+  },
+  {
+   "who": "Персиди",
+   "url": "https://pesna.org/audio-download/1012"
+  },
+  {
+   "who": "Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/1013"
+  },
+  {
+   "who": "Тања Јовановска",
+   "url": "https://pesna.org/audio-download/1014"
+  },
+  {
+   "who": "Маестрал",
+   "url": "https://pesna.org/audio-download/1015"
+  },
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/1601"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/2856"
+  },
+  {
+   "who": "Зоран Џорлев, Круме Спасовски",
+   "url": "https://pesna.org/audio-download/2857"
+  },
+  {
+   "who": "Energy Band Skopje, Ѓоко Јовиќ",
+   "url": "https://pesna.org/audio-download/2858"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3924"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Три години станаа,",
+       "lat": "- Tri godini stanaa,",
+       "en": "- It's been three years now"
+      },
+      {
+       "cyr": "како ме зафана,",
+       "lat": "kako me zafana,",
+       "en": "since it started"
+      },
+      {
+       "cyr": "лудо да ме мачи,",
+       "lat": "ludo da me mači,",
+       "en": "to madly torment me"
+      },
+      {
+       "cyr": "мојата љубов.",
+       "lat": "mojata ljubov.",
+       "en": "my love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, колку је мачно,",
+       "lat": "Ah, kolku je mačno,",
+       "en": "Oh, it's so hard,"
+      },
+      {
+       "cyr": "ах, колку е жално,",
+       "lat": "ah, kolku e žalno,",
+       "en": "oh, it's so sad,"
+      },
+      {
+       "cyr": "јаска да те љубам,",
+       "lat": "jaska da te ljubam,",
+       "en": "for me to love you"
+      },
+      {
+       "cyr": "друг да те земи.",
+       "lat": "drug da te zemi.",
+       "en": "and someone else to marry you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја земи ножето,",
+       "lat": "Ja zemi nožeto,",
+       "en": "Here, take this knife,"
+      },
+      {
+       "cyr": "распарај срцето,",
+       "lat": "rasparaj srceto,",
+       "en": "and tear my heart open,"
+      },
+      {
+       "cyr": "таму ќе си најдеш",
+       "lat": "tamu ḱe si najdeš",
+       "en": "you'll find there"
+      },
+      {
+       "cyr": "искрена љубов.",
+       "lat": "iskrena ljubov.",
+       "en": "honest love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каква мајка беше",
+       "lat": "Kakva majka beše",
+       "en": "What was your mother like"
+      },
+      {
+       "cyr": "тебе што те роди,",
+       "lat": "tebe što te rodi,",
+       "en": "who gave birth to you,"
+      },
+      {
+       "cyr": "цел свет да се чуди",
+       "lat": "cel svet da se čudi",
+       "en": "so that the whole world is amazed"
+      },
+      {
+       "cyr": "на твојта убост?",
+       "lat": "na tvojta ubost?",
+       "en": "by your beauty?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мојта мајка беше",
+       "lat": "- Mojta majka beše",
+       "en": "- My mother was"
+      },
+      {
+       "cyr": "лична, симпатична,",
+       "lat": "lična, simpatična,",
+       "en": "pretty, cute,"
+      },
+      {
+       "cyr": "и ме мене роди",
+       "lat": "i me mene rodi",
+       "en": "and she made me"
+      },
+      {
+       "cyr": "уште полична.",
+       "lat": "ušte polična.",
+       "en": "even prettier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако не те земам",
+       "lat": "- Ako ne te zemam",
+       "en": "- If I don't marry you"
+      },
+      {
+       "cyr": "млада убавица,",
+       "lat": "mlada ubavica,",
+       "en": "as a young beauty,"
+      },
+      {
+       "cyr": "јаска ќе те земам",
+       "lat": "jaska ḱe te zemam",
+       "en": "I will marry you"
+      },
+      {
+       "cyr": "црна вдовица.",
+       "lat": "crna vdovica.",
+       "en": "as a black widow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не те земам",
+       "lat": "Ako ne te zemam",
+       "en": "If I don't marry you"
+      },
+      {
+       "cyr": "долу на Земјата,",
+       "lat": "dolu na Zemjata,",
+       "en": "down on the Earth,"
+      },
+      {
+       "cyr": "јаска ќе те земам",
+       "lat": "jaska ḱe te zemam",
+       "en": "I will marry you"
+      },
+      {
+       "cyr": "горе на Небо.",
+       "lat": "gore na Nebo.",
+       "en": "up in the Heavens."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

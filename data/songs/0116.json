@@ -1,0 +1,126 @@
+{
+ "id": 116,
+ "slug": "izlezi-mome-na-chardakot",
+ "title_cyr": "Излези моме на чардакот",
+ "title_latin": "Izlezi mome na čardakot",
+ "title_en": "Come Out, Girl, onto the Balcony",
+ "pesna_url": "https://pesna.org/song/116",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. 'Везден гледам' is my reading ('I watch, all dressed up'); the word 'везден' is uncertain, possibly 'embroidered/adorned'.",
+ "words_to_learn": [
+  {
+   "mk": "излези",
+   "en": "come out"
+  },
+  {
+   "mk": "чардак",
+   "en": "balcony, raised porch"
+  },
+  {
+   "mk": "оро",
+   "en": "oro, circle dance"
+  },
+  {
+   "mk": "ергени",
+   "en": "young bachelors"
+  },
+  {
+   "mk": "моми",
+   "en": "girls"
+  },
+  {
+   "mk": "убави",
+   "en": "beautiful"
+  },
+  {
+   "mk": "заиграм",
+   "en": "I start dancing"
+  },
+  {
+   "mk": "срце гори",
+   "en": "heart burns"
+  }
+ ],
+ "performers": [
+  "Daniela Tosic",
+  "Hans Brandenburger"
+ ],
+ "audio": [
+  {
+   "who": "Hans Brandenburger",
+   "url": "https://pesna.org/audio-download/3454"
+  },
+  {
+   "who": "Daniela Tosic",
+   "url": "https://pesna.org/audio-download/4241"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излези моме на чардак,",
+       "lat": "Izlezi mome na čardak,",
+       "en": "Come out, girl, onto the balcony,"
+      },
+      {
+       "cyr": "да видиш моме оро големо.",
+       "lat": "da vidiš mome oro golemo.",
+       "en": "to see, girl, the great dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На оро моме, на оро,",
+       "lat": "Na oro mome, na oro,",
+       "en": "To the dance, girl, to the dance,"
+      },
+      {
+       "cyr": "млади ергени, моми убави.",
+       "lat": "mladi ergeni, momi ubavi.",
+       "en": "young bachelors, beautiful girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден гледам моме на орото,",
+       "lat": "Vezden gledam mome na oroto,",
+       "en": "I watch the dance all dressed up, girl,"
+      },
+      {
+       "cyr": "до тебе моме да заиграм.",
+       "lat": "do tebe mome da zaigram.",
+       "en": "to start dancing next to you, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срце ми гори за тебе,",
+       "lat": "Srce mi gori za tebe,",
+       "en": "My heart burns for you,"
+      },
+      {
+       "cyr": "не можам моме без тебе.",
+       "lat": "ne možam mome bez tebe.",
+       "en": "I cannot, girl, without you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

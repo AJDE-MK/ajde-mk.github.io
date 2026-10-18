@@ -1,0 +1,171 @@
+{
+ "id": 888,
+ "slug": "todoro-libe-todoro",
+ "title_cyr": "Тодоро, либе Тодоро",
+ "title_latin": "Todoro, libe Todoro",
+ "title_en": "Todora, Dear Todora",
+ "pesna_url": "https://pesna.org/song/888",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The speaker roles in the last stanza are unclear (it says 'your mother' but Todora is the one being addressed), so that part is my reading; 'изгоро' is an affectionate form from 'изгорува'.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "изгоро",
+   "en": "burnt one (term of endearment/teasing)"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "појди",
+   "en": "go, set off"
+  },
+  {
+   "mk": "прашај",
+   "en": "ask"
+  },
+  {
+   "mk": "фајде",
+   "en": "use, benefit"
+  },
+  {
+   "mk": "искара",
+   "en": "scolded, drove off"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  }
+ ],
+ "performers": [
+  "Анка Гиева"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1939"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Тодоро, либе Тодоро,",
+       "lat": "- Todoro, libe Todoro,",
+       "en": "- Todora, dear Todora,"
+      },
+      {
+       "cyr": "прва мори изгоро,",
+       "lat": "prva mori izgoro,",
+       "en": "first, hey, burnt one,"
+      },
+      {
+       "cyr": "доста игра, Тодоро,",
+       "lat": "dosta igra, Todoro,",
+       "en": "enough dancing, Todora,"
+      },
+      {
+       "cyr": "доста игра на оро.",
+       "lat": "dosta igra na oro.",
+       "en": "enough dancing in the circle dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде појди, Тодоро,",
+       "lat": "Ajde pojdi, Todoro,",
+       "en": "Come on, go, Todora,"
+      },
+      {
+       "cyr": "ајде појди, изгоро,",
+       "lat": "ajde pojdi, izgoro,",
+       "en": "come on, go, burnt one,"
+      },
+      {
+       "cyr": "прашај ја ле мајка ти",
+       "lat": "prašaj ja le majka ti",
+       "en": "ask your mother"
+      },
+      {
+       "cyr": "дал' те дава за мене.",
+       "lat": "dal' te dava za mene.",
+       "en": "whether she will give you to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да ја прашам, лудо бре,",
+       "lat": "- I da ja prašam, ludo bre,",
+       "en": "- Even if I ask her, you fool,"
+      },
+      {
+       "cyr": "знам фајде си нема,",
+       "lat": "znam fajde si nema,",
+       "en": "I know there is no use,"
+      },
+      {
+       "cyr": "мајка мене ме искара",
+       "lat": "majka mene me iskara",
+       "en": "mother scolded me"
+      },
+      {
+       "cyr": "и за тебе не ме дава.",
+       "lat": "i za tebe ne me dava.",
+       "en": "and does not give me for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти мајка те виде,",
+       "lat": "Snošti majka te vide,",
+       "en": "Last night your mother saw you,"
+      },
+      {
+       "cyr": "со Невена стоеше,",
+       "lat": "so Nevena stoeše,",
+       "en": "standing with Nevena,"
+      },
+      {
+       "cyr": "со Невена стоеше,",
+       "lat": "so Nevena stoeše,",
+       "en": "standing with Nevena,"
+      },
+      {
+       "cyr": "Невена ја грлеше,",
+       "lat": "Nevena ja grleše,",
+       "en": "hugging Nevena,"
+      },
+      {
+       "cyr": "со Невена стоеше,",
+       "lat": "so Nevena stoeše,",
+       "en": "standing with Nevena,"
+      },
+      {
+       "cyr": "Невена ја љубеше.",
+       "lat": "Nevena ja ljubeše.",
+       "en": "kissing Nevena."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

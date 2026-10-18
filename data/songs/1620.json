@@ -1,0 +1,103 @@
+{
+ "id": 1620,
+ "slug": "ja-podaj-mi-libe-edna-chasha-vino",
+ "title_cyr": "Ја подај ми либе една чаша вино",
+ "title_latin": "Ja podaj mi libe edna čaša vino",
+ "title_en": "Please give me, my love, a glass of wine",
+ "pesna_url": "https://pesna.org/song/1620",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Драгица Мавровска"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева, Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4306"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ја подај ми либе една чаша вино,",
+       "lat": "- Ja podaj mi libe edna čaša vino,",
+       "en": "- Please give me, my love, a glass of wine,"
+      },
+      {
+       "cyr": "да пијам, либе да пијам.",
+       "lat": "da pijam, libe da pijam.",
+       "en": "to drink, my love, please let me drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај на порти стои стариот татко",
+       "lat": "- Aj na porti stoi stariot tatko",
+       "en": "- Oh, the old father is standing at the gate"
+      },
+      {
+       "cyr": "и гледа, либе и гледа.",
+       "lat": "i gleda, libe i gleda.",
+       "en": "and watching, my love, he is watching."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- На тебе татко, а на мене дедо,",
+       "lat": "- Na tebe tatko, a na mene dedo,",
+       "en": "- Both your father, and my grandfather,"
+      },
+      {
+       "cyr": "не гледа, либе не гледа.",
+       "lat": "ne gleda, libe ne gleda.",
+       "en": "they don't see, my love, they don't see."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај на порти стои мојата мајка",
+       "lat": "- Aj na porti stoi mojata majka",
+       "en": "- Oh, my mother is standing at the gate"
+      },
+      {
+       "cyr": "и гледа, либе и гледа.",
+       "lat": "i gleda, libe i gleda.",
+       "en": "and watching, my love, she is watching."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- На тебе мајка, а на мене баба,",
+       "lat": "- Na tebe majka, a na mene baba,",
+       "en": "- Both your mother, and my grandmother,"
+      },
+      {
+       "cyr": "не гледа, либе не гледа.",
+       "lat": "ne gleda, libe ne gleda.",
+       "en": "they don't see, my love, they don't see."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

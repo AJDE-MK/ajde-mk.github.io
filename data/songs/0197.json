@@ -1,0 +1,165 @@
+{
+ "id": 197,
+ "slug": "izlezi-mome-rusanke",
+ "title_cyr": "Излези моме Русанке",
+ "title_latin": "Izlezi mome Rusanke",
+ "title_en": "Come Out, Girl Rusanka",
+ "pesna_url": "https://pesna.org/song/197",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. 'тук' and 'је/е' are dialect forms (my reading: 'only', 'her'); Hadji Dimcho is a name, not a title I can explain further.",
+ "words_to_learn": [
+  {
+   "mk": "излези",
+   "en": "come out"
+  },
+  {
+   "mk": "пречекаш",
+   "en": "you meet/welcome"
+  },
+  {
+   "mk": "одседлаш",
+   "en": "you unsaddle"
+  },
+  {
+   "mk": "душманка",
+   "en": "female enemy"
+  },
+  {
+   "mk": "раздели",
+   "en": "to separate, divide"
+  },
+  {
+   "mk": "се посврши",
+   "en": "got engaged"
+  },
+  {
+   "mk": "чорбаџи",
+   "en": "wealthy man, notable (Turkish-era)"
+  },
+  {
+   "mk": "жолтица",
+   "en": "gold coin"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3308"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3670"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излези моме Русанке,",
+       "lat": "Izlezi mome Rusanke,",
+       "en": "Come out, girl Rusanka,"
+      },
+      {
+       "cyr": "излези да ме пречекаш.",
+       "lat": "izlezi da me prečekaš.",
+       "en": "come out to meet me."
+      },
+      {
+       "cyr": "Излези да ме пречекаш",
+       "lat": "Izlezi da me prečekaš",
+       "en": "Come out to meet me"
+      },
+      {
+       "cyr": "и коња да ми одседлаш.",
+       "lat": "i konja da mi odsedlaš.",
+       "en": "and unsaddle my horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми излегла Русанка,",
+       "lat": "Ne mi izlegla Rusanka,",
+       "en": "Rusanka did not come out,"
+      },
+      {
+       "cyr": "тук' је излегла мајка е.",
+       "lat": "tuk' je izlegla majka e.",
+       "en": "only her mother came out."
+      },
+      {
+       "cyr": "Тук' је излегла мајка е,",
+       "lat": "Tuk' je izlegla majka e,",
+       "en": "Only her mother came out,"
+      },
+      {
+       "cyr": "мајка е, наш'та душманка.",
+       "lat": "majka e, naš'ta dušmanka.",
+       "en": "her mother, our enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка е, наш'та душманка,",
+       "lat": "Majka e, naš'ta dušmanka,",
+       "en": "Her mother, our enemy,"
+      },
+      {
+       "cyr": "што сака да не раздели.",
+       "lat": "što saka da ne razdeli.",
+       "en": "who wants to part us."
+      },
+      {
+       "cyr": "Што сака да не раздели,",
+       "lat": "Što saka da ne razdeli,",
+       "en": "Who wants to part us,"
+      },
+      {
+       "cyr": "две срца да ни одвои.",
+       "lat": "dve srca da ni odvoi.",
+       "en": "to separate two hearts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Русанка ми се посврши",
+       "lat": "Rusanka mi se posvrši",
+       "en": "Rusanka got engaged"
+      },
+      {
+       "cyr": "за Хаџи Димчо, чорбаџи.",
+       "lat": "za Hadži Dimčo, čorbadži.",
+       "en": "to Hadji Dimcho, the rich man."
+      },
+      {
+       "cyr": "За Хаџи Димчо, чорбаџи,",
+       "lat": "Za Hadži Dimčo, čorbadži,",
+       "en": "To Hadji Dimcho, the rich man,"
+      },
+      {
+       "cyr": "за 150 жолтици.",
+       "lat": "za 150 žoltici.",
+       "en": "for 150 gold coins."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

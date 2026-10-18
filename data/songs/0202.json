@@ -1,0 +1,180 @@
+{
+ "id": 202,
+ "slug": "ako-odam-vo-bitola",
+ "title_cyr": "Ако одам во Битола",
+ "title_latin": "Ako odam vo Bitola",
+ "title_en": "If I go in Bitola",
+ "pesna_url": "https://pesna.org/song/202",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анета Љумаковска",
+  "Влатко Лозаноски",
+  "Октет Македонија",
+  "Пајтон",
+  "Тоше Проески",
+  "Energy Band Skopje",
+  "Kazuhiro Kotetsu"
+ ],
+ "audio": [
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/776"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/777"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/921"
+  },
+  {
+   "who": "Пајтон",
+   "url": "https://pesna.org/audio-download/922"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/923"
+  },
+  {
+   "who": "Energy Band Skopje",
+   "url": "https://pesna.org/audio-download/2508"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3627"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ако одам во Битола,",
+       "lat": "Ako odam vo Bitola,",
+       "en": "If I go in Bitola"
+      },
+      {
+       "cyr": "ќе прошетам по Широк сокак.",
+       "lat": "ḱe prošetam po Širok sokak.",
+       "en": "I'll walk along Shirok Sokak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А на Дембел чаршија",
+       "lat": "A na Dembel čaršija",
+       "en": "And in the lazy bazaar"
+      },
+      {
+       "cyr": "кафе ќе се напијам,",
+       "lat": "kafe ḱe se napijam,",
+       "en": "I'll drink coffee,"
+      },
+      {
+       "cyr": "младост мило ќе си спомињам.",
+       "lat": "mladost milo ḱe si spominjam.",
+       "en": "and remember my happy youth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мори моме, како да речам,",
+       "lat": "Ej, mori mome, kako da rečam,",
+       "en": "Hey, dear girl, how can I say,"
+      },
+      {
+       "cyr": "за Солуна, за Стамбола,",
+       "lat": "za Soluna, za Stambola,",
+       "en": "for Salonica, for Constantinople,"
+      },
+      {
+       "cyr": "неа не давам.",
+       "lat": "nea ne davam.",
+       "en": "I wouldn't trade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако одам во Битола,",
+       "lat": "Ako odam vo Bitola,",
+       "en": "If I go in Bitola"
+      },
+      {
+       "cyr": "ќе нарачам до три пајтона.",
+       "lat": "ḱe naračam do tri pajtona.",
+       "en": "I'll hire three carriages."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први мене ќе носи,",
+       "lat": "Prvi mene ḱe nosi,",
+       "en": "The first will carry me,"
+      },
+      {
+       "cyr": "в' други чалгии ќе свират,",
+       "lat": "v' drugi čalgii ḱe svirat,",
+       "en": "in the second, musicians to play,"
+      },
+      {
+       "cyr": "в' трети товар, мерак ќе носам.",
+       "lat": "v' treti tovar, merak ḱe nosam.",
+       "en": "in the third, wishes I'll carry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мори моме, како да речам,",
+       "lat": "Ej, mori mome, kako da rečam,",
+       "en": "Hey, dear girl, how to say,"
+      },
+      {
+       "cyr": "за Солуна, за Стамбола,",
+       "lat": "za Soluna, za Stambola,",
+       "en": "for Salonica, for Constantinople,"
+      },
+      {
+       "cyr": "неја не давам.",
+       "lat": "neja ne davam.",
+       "en": "I wouldn't trade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За Солуна, за Стамбола,",
+       "lat": "Za Soluna, za Stambola,",
+       "en": "For Salonica, for Constantinople,"
+      },
+      {
+       "cyr": "Битола не давам.",
+       "lat": "Bitola ne davam.",
+       "en": "I wouldn't trade Bitola."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

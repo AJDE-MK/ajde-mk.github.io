@@ -1,0 +1,181 @@
+{
+ "id": 1199,
+ "slug": "ivano-ivanke",
+ "title_cyr": "Ивано, Иванке",
+ "title_latin": "Ivano, Ivanke",
+ "title_en": "Ivana, Ivanka",
+ "pesna_url": "https://pesna.org/song/1199",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'прав не дигаш' is my reading ('you raise no dust', possibly dialect for прав = прашина); could also mean 'you don't hold yourself upright'. Origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "кревај се",
+   "en": "raise yourself, get on your high horse"
+  },
+  {
+   "mk": "на големо",
+   "en": "grandly, highly"
+  },
+  {
+   "mk": "колено",
+   "en": "knee"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "веѓи",
+   "en": "eyebrows"
+  },
+  {
+   "mk": "намигни",
+   "en": "wink"
+  },
+  {
+   "mk": "бисер",
+   "en": "pearl"
+  },
+  {
+   "mk": "нижиш",
+   "en": "you string (beads)"
+  },
+  {
+   "mk": "шеќер",
+   "en": "sugar"
+  }
+ ],
+ "performers": [
+  "Нада Макеларска"
+ ],
+ "audio": [
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2947"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не се кревај на големо,",
+       "lat": "Ne se krevaj na golemo,",
+       "en": "Don't lift yourself up too high,"
+      },
+      {
+       "cyr": "Ивано, Иванке,",
+       "lat": "Ivano, Ivanke,",
+       "en": "Ivana, Ivanka,"
+      },
+      {
+       "cyr": "да не паднеш на колено,",
+       "lat": "da ne padneš na koleno,",
+       "en": "lest you fall to your knees,"
+      },
+      {
+       "cyr": "Ивано, Иванке.",
+       "lat": "Ivano, Ivanke.",
+       "en": "Ivana, Ivanka."
+      },
+      {
+       "cyr": "Дигни очи, погледај ме,",
+       "lat": "Digni oči, pogledaj me,",
+       "en": "Raise your eyes, look at me,"
+      },
+      {
+       "cyr": "Ивано, Иванке,",
+       "lat": "Ivano, Ivanke,",
+       "en": "Ivana, Ivanka,"
+      },
+      {
+       "cyr": "крши веѓи, намигни ми,",
+       "lat": "krši veǵi, namigni mi,",
+       "en": "knit your brows, wink at me,"
+      },
+      {
+       "cyr": "Ивано, Иванке.",
+       "lat": "Ivano, Ivanke.",
+       "en": "Ivana, Ivanka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога одиш, прав не дигаш,",
+       "lat": "Koga odiš, prav ne digaš,",
+       "en": "When you walk, you raise no dust,"
+      },
+      {
+       "cyr": "Ивано, Иванке,",
+       "lat": "Ivano, Ivanke,",
+       "en": "Ivana, Ivanka,"
+      },
+      {
+       "cyr": "кога думаш, бисер нижиш,",
+       "lat": "koga dumaš, biser nižiš,",
+       "en": "when you speak, you string pearls,"
+      },
+      {
+       "cyr": "Ивано, Иванке.",
+       "lat": "Ivano, Ivanke.",
+       "en": "Ivana, Ivanka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Устето ти шеќер,",
+       "lat": "Usteto ti šeḱer,",
+       "en": "Your little mouth is sugar,"
+      },
+      {
+       "cyr": "Ивано, Иванке,",
+       "lat": "Ivano, Ivanke,",
+       "en": "Ivana, Ivanka,"
+      },
+      {
+       "cyr": "уста блажи, душа гори,",
+       "lat": "usta blaži, duša gori,",
+       "en": "it soothes the mouth, it burns the soul,"
+      },
+      {
+       "cyr": "Ивано, Иванке,",
+       "lat": "Ivano, Ivanke,",
+       "en": "Ivana, Ivanka,"
+      },
+      {
+       "cyr": "не се кревај на големо,",
+       "lat": "ne se krevaj na golemo,",
+       "en": "don't lift yourself up too high,"
+      },
+      {
+       "cyr": "Ивано, Иванке,",
+       "lat": "Ivano, Ivanke,",
+       "en": "Ivana, Ivanka,"
+      },
+      {
+       "cyr": "да не паднеш на колено,",
+       "lat": "da ne padneš na koleno,",
+       "en": "lest you fall to your knees,"
+      },
+      {
+       "cyr": "Ивано, Иванке.",
+       "lat": "Ivano, Ivanke.",
+       "en": "Ivana, Ivanka."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

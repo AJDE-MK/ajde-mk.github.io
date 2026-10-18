@@ -1,0 +1,165 @@
+{
+ "id": 1213,
+ "slug": "imam-momche-kako-leshnik",
+ "title_cyr": "Имам момче како лешник",
+ "title_latin": "Imam momče kako lešnik",
+ "title_en": "I Have a Lad Like a Hazelnut",
+ "pesna_url": "https://pesna.org/song/1213",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song; the lad seems to be a hazelnut, which the mice eat, my reading. 'Месив зелен зелник' (kneaded a green zelnik) is slightly odd, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "лешник",
+   "en": "hazelnut"
+  },
+  {
+   "mk": "зелник",
+   "en": "pie with greens (leek/cabbage/spinach)"
+  },
+  {
+   "mk": "орање",
+   "en": "ploughing"
+  },
+  {
+   "mk": "ридче",
+   "en": "little hill"
+  },
+  {
+   "mk": "скутале",
+   "en": "apron / lap of the skirt (dialect form)"
+  },
+  {
+   "mk": "амбар",
+   "en": "granary, storehouse"
+  },
+  {
+   "mk": "глувци",
+   "en": "mice (dialect; standard глувци = deaf men, my reading)"
+  },
+  {
+   "mk": "изгризаа",
+   "en": "they gnawed off"
+  },
+  {
+   "mk": "леле бре",
+   "en": "oh my (interjection)"
+  }
+ ],
+ "performers": [
+  "Вера Филипова",
+  "Драгица Николова"
+ ],
+ "audio": [
+  {
+   "who": "Вера Филипова, Драгица Николова",
+   "url": "https://pesna.org/audio-download/2987"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Имам момче како лешник, ха,",
+       "lat": "Imam momče kako lešnik, ha,",
+       "en": "I have a lad like a hazelnut, ha,"
+      },
+      {
+       "cyr": "што си месив зелен зелник,",
+       "lat": "što si mesiv zelen zelnik,",
+       "en": "who kneaded a green-cabbage pie,"
+      },
+      {
+       "cyr": "леле бре, бре, бре, бре.",
+       "lat": "lele bre, bre, bre, bre.",
+       "en": "oh my, bre, bre, bre, bre."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си отидив на орање, ха,",
+       "lat": "Si otidiv na oranje, ha,",
+       "en": "I went off to plough, ha,"
+      },
+      {
+       "cyr": "то го видов на ридчето,",
+       "lat": "to go vidov na ridčeto,",
+       "en": "and I saw him on the little hill,"
+      },
+      {
+       "cyr": "леле бре, бре, бре, бре.",
+       "lat": "lele bre, bre, bre, bre.",
+       "en": "oh my, bre, bre, bre, bre."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си го зедов во скутале, ха,",
+       "lat": "Si go zedov vo skutale, ha,",
+       "en": "I took him in my apron, ha,"
+      },
+      {
+       "cyr": "си го однесов дури дома,",
+       "lat": "si go odnesov duri doma,",
+       "en": "I carried him all the way home,"
+      },
+      {
+       "cyr": "леле бре, бре, бре, бре.",
+       "lat": "lele bre, bre, bre, bre.",
+       "en": "oh my, bre, bre, bre, bre."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си го ставив во амбарот, ха,",
+       "lat": "Si go staviv vo ambarot, ha,",
+       "en": "I put him in the granary, ha,"
+      },
+      {
+       "cyr": "кај што беа пусти глувци,",
+       "lat": "kaj što bea pusti gluvci,",
+       "en": "where the wretched mice were,"
+      },
+      {
+       "cyr": "леле бре, бре, бре, бре.",
+       "lat": "lele bre, bre, bre, bre.",
+       "en": "oh my, bre, bre, bre, bre."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Му изгризаа двете уши, ха,",
+       "lat": "Mu izgrizaa dvete uši, ha,",
+       "en": "They gnawed off both his ears, ha,"
+      },
+      {
+       "cyr": "си останав без лешник момче,",
+       "lat": "si ostanav bez lešnik momče,",
+       "en": "and I was left without my hazelnut lad,"
+      },
+      {
+       "cyr": "леле бре, бре, бре, бре.",
+       "lat": "lele bre, bre, bre, bre.",
+       "en": "oh my, bre, bre, bre, bre."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

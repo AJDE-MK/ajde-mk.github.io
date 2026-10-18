@@ -1,0 +1,243 @@
+{
+ "id": 1098,
+ "slug": "pesna-za-ovcharani",
+ "title_cyr": "Песна за Овчарани",
+ "title_latin": "Pesna za Ovčarani",
+ "title_en": "Song About Ovcharani",
+ "pesna_url": "https://pesna.org/song/1098",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; I cannot name an author. Ovcharani is a village in the Lerin (Florina) area in Greece. 'Мамо' and 'мајко' are both rendered 'mother'.",
+ "words_to_learn": [
+  {
+   "mk": "прошетав",
+   "en": "I strolled"
+  },
+  {
+   "mk": "села",
+   "en": "villages"
+  },
+  {
+   "mk": "црква",
+   "en": "church"
+  },
+  {
+   "mk": "комитски песни",
+   "en": "rebel (komita) songs"
+  },
+  {
+   "mk": "пуштено оро",
+   "en": "pushteno oro (a folk dance)"
+  },
+  {
+   "mk": "славеа",
+   "en": "they celebrated"
+  },
+  {
+   "mk": "ронеа",
+   "en": "they shed"
+  },
+  {
+   "mk": "клета",
+   "en": "cursed"
+  },
+  {
+   "mk": "егејската мака",
+   "en": "the Aegean suffering"
+  }
+ ],
+ "performers": [
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/2632"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си прошетав, мила мамо,",
+       "lat": "Si prošetav, mila mamo,",
+       "en": "I strolled, dear mother,"
+      },
+      {
+       "cyr": "леринските села.",
+       "lat": "lerinskite sela.",
+       "en": "through the villages of Lerin."
+      },
+      {
+       "cyr": "Си застанав во Овчарани,",
+       "lat": "Si zastanav vo Ovčarani,",
+       "en": "I stopped in Ovcharani,"
+      },
+      {
+       "cyr": "крај црквата бела.",
+       "lat": "kraj crkvata bela.",
+       "en": "by the white church."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму си најдов Македонци,",
+       "lat": "Tamu si najdov Makedonci,",
+       "en": "There I found Macedonians,"
+      },
+      {
+       "cyr": "стари и млади овчаранци,",
+       "lat": "stari i mladi ovčaranci,",
+       "en": "old and young people of Ovcharani,"
+      },
+      {
+       "cyr": "комитски песни пееа,",
+       "lat": "komitski pesni peea,",
+       "en": "they sang rebel songs,"
+      },
+      {
+       "cyr": "пуштено оро играа,",
+       "lat": "pušteno oro igraa,",
+       "en": "they danced the pushteno oro,"
+      },
+      {
+       "cyr": "Илинден, мајко, славеа",
+       "lat": "Ilinden, majko, slavea",
+       "en": "they celebrated Ilinden, mother,"
+      },
+      {
+       "cyr": "и од радост солзи ронеа.",
+       "lat": "i od radost solzi ronea.",
+       "en": "and shed tears of joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си заплакав и јас, мамо,",
+       "lat": "Si zaplakav i jas, mamo,",
+       "en": "I too wept, mother,"
+      },
+      {
+       "cyr": "си проронав солза",
+       "lat": "si proronav solza",
+       "en": "I shed a tear"
+      },
+      {
+       "cyr": "за судбина клета наша,",
+       "lat": "za sudbina kleta naša,",
+       "en": "for our cursed fate,"
+      },
+      {
+       "cyr": "за егејската мака.",
+       "lat": "za egejskata maka.",
+       "en": "for the Aegean suffering."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму си најдов Македонци,",
+       "lat": "Tamu si najdov Makedonci,",
+       "en": "There I found Macedonians,"
+      },
+      {
+       "cyr": "стари и млади овчаранци,",
+       "lat": "stari i mladi ovčaranci,",
+       "en": "old and young people of Ovcharani,"
+      },
+      {
+       "cyr": "комитски песни пееа,",
+       "lat": "komitski pesni peea,",
+       "en": "they sang rebel songs,"
+      },
+      {
+       "cyr": "пуштено оро играа,",
+       "lat": "pušteno oro igraa,",
+       "en": "they danced the pushteno oro,"
+      },
+      {
+       "cyr": "Илинден, мајко, славеа",
+       "lat": "Ilinden, majko, slavea",
+       "en": "they celebrated Ilinden, mother,"
+      },
+      {
+       "cyr": "и од радост солзи ронеа.",
+       "lat": "i od radost solzi ronea.",
+       "en": "and shed tears of joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе прошетам, мила мамо,",
+       "lat": "Ḱe prošetam, mila mamo,",
+       "en": "I will stroll, dear mother,"
+      },
+      {
+       "cyr": "леринските села,",
+       "lat": "lerinskite sela,",
+       "en": "through the villages of Lerin,"
+      },
+      {
+       "cyr": "ќе раскажам за Овчарани,",
+       "lat": "ḱe raskažam za Ovčarani,",
+       "en": "I will tell about Ovcharani,"
+      },
+      {
+       "cyr": "за црквата бела.",
+       "lat": "za crkvata bela.",
+       "en": "about the white church."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму си најдов Македонци,",
+       "lat": "Tamu si najdov Makedonci,",
+       "en": "There I found Macedonians,"
+      },
+      {
+       "cyr": "стари и млади овчаранци,",
+       "lat": "stari i mladi ovčaranci,",
+       "en": "old and young people of Ovcharani,"
+      },
+      {
+       "cyr": "комитски песни пееа,",
+       "lat": "komitski pesni peea,",
+       "en": "they sang rebel songs,"
+      },
+      {
+       "cyr": "пуштено оро играа,",
+       "lat": "pušteno oro igraa,",
+       "en": "they danced the pushteno oro,"
+      },
+      {
+       "cyr": "Илинден, мајко, славеа",
+       "lat": "Ilinden, majko, slavea",
+       "en": "they celebrated Ilinden, mother,"
+      },
+      {
+       "cyr": "и од радост солзи ронеа.",
+       "lat": "i od radost solzi ronea.",
+       "en": "and shed tears of joy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

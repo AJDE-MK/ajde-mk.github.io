@@ -1,0 +1,129 @@
+{
+ "id": 955,
+ "slug": "petro-petrolinko-gizdava-devojko",
+ "title_cyr": "Петро, Петролинко, гиздава девојко",
+ "title_latin": "Petro, Petrolinko, gizdava devojko",
+ "title_en": "Petro, Petrolinka, pretty girl",
+ "pesna_url": "https://pesna.org/song/955",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Срмени гајтани' is silver-thread braid trimming on clothing.",
+ "words_to_learn": [
+  {
+   "mk": "гиздава",
+   "en": "pretty, adorned"
+  },
+  {
+   "mk": "двори",
+   "en": "yard"
+  },
+  {
+   "mk": "нагори",
+   "en": "upward, up above"
+  },
+  {
+   "mk": "планински",
+   "en": "of the mountain"
+  },
+  {
+   "mk": "носат",
+   "en": "they wear"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "срмени",
+   "en": "silver (embroidered)"
+  },
+  {
+   "mk": "гајтан",
+   "en": "braid, cord trimming"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова",
+  "Мирослав Тадиќ",
+  "Yvette Holzwarth"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2203"
+  },
+  {
+   "who": "Yvette Holzwarth, Мирослав Тадиќ",
+   "url": "https://pesna.org/audio-download/3500"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Петро, Петролинко,",
+       "lat": "- Petro, Petrolinko,",
+       "en": "- Petro, Petrolinka,"
+      },
+      {
+       "cyr": "гиздава девојко,",
+       "lat": "gizdava devojko,",
+       "en": "pretty girl,"
+      },
+      {
+       "cyr": "што стоиш на двори,",
+       "lat": "što stoiš na dvori,",
+       "en": "why do you stand in the yard,"
+      },
+      {
+       "cyr": "што гледаш нагори?",
+       "lat": "što gledaš nagori?",
+       "en": "why do you look upward?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Гледам си ги, гледам",
+       "lat": "- Gledam si gi, gledam",
+       "en": "- I am looking, looking"
+      },
+      {
+       "cyr": "планинските моми.",
+       "lat": "planinskite momi.",
+       "en": "at the mountain girls."
+      },
+      {
+       "cyr": "Планинските моми,",
+       "lat": "Planinskite momi,",
+       "en": "The mountain girls,"
+      },
+      {
+       "cyr": "што убаво носат:",
+       "lat": "što ubavo nosat:",
+       "en": "how beautifully they dress:"
+      },
+      {
+       "cyr": "црвени фустани,",
+       "lat": "crveni fustani,",
+       "en": "red dresses,"
+      },
+      {
+       "cyr": "срмени гајтани.",
+       "lat": "srmeni gajtani.",
+       "en": "silver braids."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

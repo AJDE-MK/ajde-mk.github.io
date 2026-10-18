@@ -1,0 +1,178 @@
+{
+ "id": 550,
+ "slug": "mi-go-zatvorile-mladiot-jordancho",
+ "title_cyr": "Ми го затвориле младиот Јорданчо",
+ "title_latin": "Mi go zatvorile mladiot Jordančo",
+ "title_en": "They imprisoned young Jordančo",
+ "pesna_url": "https://pesna.org/song/550",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Коски до рамена' is literally 'bones to the shoulders' (my reading: skeletal remains or a grim image). 'Ми' in verbs is a narrative filler.",
+ "words_to_learn": [
+  {
+   "mk": "затворил",
+   "en": "imprisoned, shut in"
+  },
+  {
+   "mk": "зандан",
+   "en": "dungeon"
+  },
+  {
+   "mk": "коски",
+   "en": "bones"
+  },
+  {
+   "mk": "се пушта",
+   "en": "is released"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "прегрнала",
+   "en": "embraced"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "побратим",
+   "en": "sworn brother, close friend"
+  }
+ ],
+ "performers": [
+  "Гоце Касаповски",
+  "Драгица Николова",
+  "Лилјана Докова",
+  "Никола Бадев",
+  "Стојан Иванов",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/1406"
+  },
+  {
+   "who": "Гоце Касаповски",
+   "url": "https://pesna.org/audio-download/1407"
+  },
+  {
+   "who": "Лилјана Докова, Стојан Иванов",
+   "url": "https://pesna.org/audio-download/1457"
+  },
+  {
+   "who": "Драгица Николова, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2943"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми го затвориле младиот Јорданчо",
+       "lat": "Mi go zatvorile mladiot Jordančo",
+       "en": "They imprisoned young Jordančo,"
+      },
+      {
+       "cyr": "ми го затвориле во темни зандани.",
+       "lat": "mi go zatvorile vo temni zandani.",
+       "en": "they imprisoned him in dark dungeons."
+      },
+      {
+       "cyr": "Во зандани има вода до колена,",
+       "lat": "Vo zandani ima voda do kolena,",
+       "en": "In the dungeons there is water to the knees,"
+      },
+      {
+       "cyr": "вода до колена, коски до рамена.",
+       "lat": "voda do kolena, koski do ramena.",
+       "en": "water to the knees, bones to the shoulders."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лежал што ми лежал, време три години,",
+       "lat": "Ležal što mi ležal, vreme tri godini,",
+       "en": "He lay and lay, the time of three years,"
+      },
+      {
+       "cyr": "време три години, а и шест месеци.",
+       "lat": "vreme tri godini, a i šest meseci.",
+       "en": "the time of three years and six months."
+      },
+      {
+       "cyr": "Кога време дојде Јордан да се пушта,",
+       "lat": "Koga vreme dojde Jordan da se pušta,",
+       "en": "When the time came for Jordan to be released,"
+      },
+      {
+       "cyr": "право тој ми трга во негово село.",
+       "lat": "pravo toj mi trga vo negovo selo.",
+       "en": "straight he set out for his village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми пристигнал в' неговата куќа,",
+       "lat": "Koga mi pristignal v' negovata kuḱa,",
+       "en": "When he arrived at his house,"
+      },
+      {
+       "cyr": "два пати ми викнал, три пати ми тропнал.",
+       "lat": "dva pati mi viknal, tri pati mi tropnal.",
+       "en": "twice he called, three times he knocked."
+      },
+      {
+       "cyr": "Порти отворила неговата мајка,",
+       "lat": "Porti otvorila negovata majka,",
+       "en": "His mother opened the gate,"
+      },
+      {
+       "cyr": "порти отворила, сина прегрнала.",
+       "lat": "porti otvorila, sina pregrnala.",
+       "en": "opened the gate, embraced her son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каде ми е мајко мојто верно либе",
+       "lat": "- Kade mi e majko mojto verno libe",
+       "en": "- Where is, mother, my faithful sweetheart,"
+      },
+      {
+       "cyr": "порти да отвори, мене да пречека?",
+       "lat": "porti da otvori, mene da prečeka?",
+       "en": "to open the gate, to meet me?"
+      },
+      {
+       "cyr": "- Твојто верно либе, сношти се омажи",
+       "lat": "- Tvojto verno libe, snošti se omaži",
+       "en": "- Your faithful sweetheart married last night"
+      },
+      {
+       "cyr": "за твојот комшија, за твојот побратим.",
+       "lat": "za tvojot komšija, za tvojot pobratim.",
+       "en": "to your neighbor, to your sworn brother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,138 @@
+{
+ "id": 1243,
+ "slug": "odamna-li-si-mome-kalugjerica",
+ "title_cyr": "Одамна ли си моме калуѓерица",
+ "title_latin": "Odamna li si mome kaluǵerica",
+ "title_en": "Are you, girl, a nun for a long time?",
+ "pesna_url": "https://pesna.org/song/1243",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гуна Иванова",
+  "Непознат изведувач",
+  "Пенка Павлова"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3124"
+  },
+  {
+   "who": "Гуна Иванова",
+   "url": "https://pesna.org/audio-download/3125"
+  },
+  {
+   "who": "Пенка Павлова",
+   "url": "https://pesna.org/audio-download/3126"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Одамна ли си, моме ле,",
+       "lat": "- Odamna li si, mome le,",
+       "en": "- Are you, girl, a nun"
+      },
+      {
+       "cyr": "калуѓерица?",
+       "lat": "kaluǵerica?",
+       "en": "for a long time?"
+      },
+      {
+       "cyr": "- Ни сум одамна, бајно ле,",
+       "lat": "- Ni sum odamna, bajno le,",
+       "en": "- I am neither for a long time, pretty lad,"
+      },
+      {
+       "cyr": "ни од скоро.",
+       "lat": "ni od skoro.",
+       "en": "nor recently."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- За кого носиш, моме ле,",
+       "lat": "- Za kogo nosiš, mome le,",
+       "en": "- For whom are you keeping, girl,"
+      },
+      {
+       "cyr": "тие црни очи?",
+       "lat": "tie crni oči?",
+       "en": "those black eyes?"
+      },
+      {
+       "cyr": "- Носам ги, носам, бајно ле,",
+       "lat": "- Nosam gi, nosam, bajno le,",
+       "en": "- I am keeping them, pretty lad,"
+      },
+      {
+       "cyr": "за црна земја.",
+       "lat": "za crna zemja.",
+       "en": "for the black earth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Црната земја, моме ле,",
+       "lat": "- Crnata zemja, mome le,",
+       "en": "- The black earth, girl,"
+      },
+      {
+       "cyr": "сполај не кажва.",
+       "lat": "spolaj ne kažva.",
+       "en": "will not be grateful."
+      },
+      {
+       "cyr": "Сполај не кажва, моме ле,",
+       "lat": "Spolaj ne kažva, mome le,",
+       "en": "It will not be grateful, girl,"
+      },
+      {
+       "cyr": "и не се радува.",
+       "lat": "i ne se raduva.",
+       "en": "and it will not be happy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ги на мене, моме ле,",
+       "lat": "Daj gi na mene, mome le,",
+       "en": "Give them to me, girl,"
+      },
+      {
+       "cyr": "сполај да кажам.",
+       "lat": "spolaj da kažam.",
+       "en": "I will be grateful."
+      },
+      {
+       "cyr": "Сполај да кажам, моме ле,",
+       "lat": "Spolaj da kažam, mome le,",
+       "en": "I will be grateful, girl,"
+      },
+      {
+       "cyr": "и да се радувам.",
+       "lat": "i da se raduvam.",
+       "en": "and I will be happy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

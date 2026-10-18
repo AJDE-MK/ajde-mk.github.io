@@ -1,0 +1,149 @@
+{
+ "id": 93,
+ "slug": "stojne-bre-stojne",
+ "title_cyr": "Стојне бре, Стојне",
+ "title_latin": "Stojne bre, Stojne",
+ "title_en": "Stojna, Hey, Stojna",
+ "pesna_url": "https://pesna.org/song/93",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'аџамија' is a dialect word I am unsure of; I read 'аџамија џанам' as 'dear one, my soul' (possibly 'inexperienced one'). 'копала' read as digging a vineyard, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "вино",
+   "en": "wine"
+  },
+  {
+   "mk": "црвено",
+   "en": "red"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong brandy"
+  },
+  {
+   "mk": "копала",
+   "en": "dug (the vineyard)"
+  },
+  {
+   "mk": "аргатин",
+   "en": "hired farm laborer (plural: аргати)"
+  },
+  {
+   "mk": "викала",
+   "en": "called, summoned"
+  },
+  {
+   "mk": "беќари",
+   "en": "bachelors"
+  },
+  {
+   "mk": "џанам",
+   "en": "my soul, dear (Turkish loan)"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1551"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојне бре, Стојне, убаво моме,",
+       "lat": "Stojne bre, Stojne, ubavo mome,",
+       "en": "Stojna, hey, Stojna, beautiful girl,"
+      },
+      {
+       "cyr": "што ти е вино мори црвено?",
+       "lat": "što ti e vino mori crveno?",
+       "en": "why is your wine, hey, red?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ти е вино црвено, Стојне,",
+       "lat": "Što ti e vino crveno, Stojne,",
+       "en": "Why is your wine red, Stojna,"
+      },
+      {
+       "cyr": "што ти е лута, мори, ракија?",
+       "lat": "što ti e luta, mori, rakija?",
+       "en": "why is your brandy, hey, so strong?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали си моме сама копала,",
+       "lat": "Dali si mome sama kopala,",
+       "en": "Did you dig it yourself, girl,"
+      },
+      {
+       "cyr": "ил' си аргати мори викала?",
+       "lat": "il' si argati mori vikala?",
+       "en": "or did you call hired laborers, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море, лудо, аџамија џанам,",
+       "lat": "Ej more, ludo, adžamija džanam,",
+       "en": "Oh hey, young lad, dear one, my soul,"
+      },
+      {
+       "cyr": "не сум го сама море копала.",
+       "lat": "ne sum go sama more kopala.",
+       "en": "I did not dig it myself, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум аргати викала лудо,",
+       "lat": "Jas sum argati vikala ludo,",
+       "en": "I called laborers, young lad,"
+      },
+      {
+       "cyr": "млади девојки, море беќари.",
+       "lat": "mladi devojki, more beḱari.",
+       "en": "young girls, hey, and bachelors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затој е вино црвено, лудо,",
+       "lat": "Zatoj e vino crveno, ludo,",
+       "en": "That is why the wine is red, lad,"
+      },
+      {
+       "cyr": "зато је лута море ракија.",
+       "lat": "zato je luta more rakija.",
+       "en": "that is why the brandy is strong, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,193 @@
+{
+ "id": 527,
+ "slug": "po-gorite-makedonski",
+ "title_cyr": "По горите македонски",
+ "title_latin": "Po gorite makedonski",
+ "title_en": "Through the Macedonian forests",
+ "pesna_url": "https://pesna.org/song/527",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The sister here may be a sworn sister rather than a blood sister (my reading); 'jаз-е' is the dialect form of 'I'.",
+ "words_to_learn": [
+  {
+   "mk": "шетала",
+   "en": "she walked / strolled"
+  },
+  {
+   "mk": "охриѓанка",
+   "en": "woman from Ohrid"
+  },
+  {
+   "mk": "бука",
+   "en": "beech tree"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave young man"
+  },
+  {
+   "mk": "милна сестра",
+   "en": "dear sister"
+  },
+  {
+   "mk": "ранет",
+   "en": "wounded"
+  },
+  {
+   "mk": "мастило",
+   "en": "ink"
+  },
+  {
+   "mk": "загинав",
+   "en": "I died / perished"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Група Македонија",
+  "Непознат изведувач",
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/1051"
+  },
+  {
+   "who": "Група Македонија",
+   "url": "https://pesna.org/audio-download/1170"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1171"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "По горите македонски шетала мома,",
+       "lat": "Po gorite makedonski šetala moma,",
+       "en": "Through the Macedonian forests a girl walked,"
+      },
+      {
+       "cyr": "шетала е охриѓанка, убава мома,",
+       "lat": "šetala e ohriǵanka, ubava moma,",
+       "en": "she walked, a girl from Ohrid, a beautiful girl,"
+      },
+      {
+       "cyr": "шетала е охриѓанка, убава мома.",
+       "lat": "šetala e ohriǵanka, ubava moma.",
+       "en": "she walked, a girl from Ohrid, a beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму долу под буките лежи млад јунак,",
+       "lat": "Tamu dolu pod bukite leži mlad junak,",
+       "en": "There below the beech trees lies a young hero,"
+      },
+      {
+       "cyr": "над глава му милна сестра, жално го гледа,",
+       "lat": "nad glava mu milna sestra, žalno go gleda,",
+       "en": "over his head his dear sister looks at him sorrowfully,"
+      },
+      {
+       "cyr": "над глава му милна сестра, жално го гледа.",
+       "lat": "nad glava mu milna sestra, žalno go gleda.",
+       "en": "over his head his dear sister looks at him sorrowfully."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ем го гледа, ем прашува: - Каде те боли?",
+       "lat": "Em go gleda, em prašuva: - Kade te boli?",
+       "en": "She looks at him and asks: - Where does it hurt you?"
+      },
+      {
+       "cyr": "- Не прашувај, милна сестро, тешко сум ранет.",
+       "lat": "- Ne prašuvaj, milna sestro, teško sum ranet.",
+       "en": "- Do not ask, dear sister, I am badly wounded."
+      },
+      {
+       "cyr": "- Не прашувај, милна сестро, тешко сум ранет.",
+       "lat": "- Ne prašuvaj, milna sestro, teško sum ranet.",
+       "en": "- Do not ask, dear sister, I am badly wounded."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земи книга и мастило, писмо напиши,",
+       "lat": "Zemi kniga i mastilo, pismo napiši,",
+       "en": "Take a book and ink, write a letter,"
+      },
+      {
+       "cyr": "испрати го до Битола, при мојта мајка.",
+       "lat": "isprati go do Bitola, pri mojta majka.",
+       "en": "send it to Bitola, to my mother."
+      },
+      {
+       "cyr": "Испрати го до Битола, при мој'та мајка.",
+       "lat": "Isprati go do Bitola, pri moj'ta majka.",
+       "en": "Send it to Bitola, to my mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во писмото да напишеш до два-три збора,",
+       "lat": "Vo pismoto da napišeš do dva-tri zbora,",
+       "en": "In the letter write two or three words,"
+      },
+      {
+       "cyr": "нека чита, нека знае, зошто загинав.",
+       "lat": "neka čita, neka znae, zošto zaginav.",
+       "en": "let her read, let her know why I died."
+      },
+      {
+       "cyr": "Нека чита, нека знае, зошто загинав.",
+       "lat": "Neka čita, neka znae, zošto zaginav.",
+       "en": "Let her read, let her know why I died."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јазе мајко млад загинав за слободата,",
+       "lat": "Jaze majko mlad zaginav za slobodata,",
+       "en": "I, mother, died young for freedom,"
+      },
+      {
+       "cyr": "за слобода, мила мајко, за Македонија.",
+       "lat": "za sloboda, mila majko, za Makedonija.",
+       "en": "for freedom, dear mother, for Macedonia."
+      },
+      {
+       "cyr": "За слобода, мила мајко, за Македонија.",
+       "lat": "Za sloboda, mila majko, za Makedonija.",
+       "en": "For freedom, dear mother, for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

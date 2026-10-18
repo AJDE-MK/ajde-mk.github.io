@@ -1,0 +1,200 @@
+{
+ "id": 1135,
+ "slug": "kako-da-ti-recham-mila-ostani",
+ "title_cyr": "Како да ти речам мила остани",
+ "title_latin": "Kako da ti rečam mila ostani",
+ "title_en": "How Can I Tell You, Dear, Stay",
+ "pesna_url": "https://pesna.org/song/1135",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern pop-style lyric; origin unclear, no author I can name. The lines 'љубеше искрено', 'не заборава' and the person shifts (ти / неа) are my reading and may be loosely worded in the original.",
+ "words_to_learn": [
+  {
+   "mk": "прости ми",
+   "en": "forgive me"
+  },
+  {
+   "mk": "срце",
+   "en": "heart"
+  },
+  {
+   "mk": "подарам",
+   "en": "to give (as a gift)"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "искрено",
+   "en": "sincerely"
+  },
+  {
+   "mk": "остани",
+   "en": "stay (imperative)"
+  },
+  {
+   "mk": "оган",
+   "en": "fire"
+  },
+  {
+   "mk": "освојам",
+   "en": "to win over, conquer"
+  },
+  {
+   "mk": "душа",
+   "en": "soul"
+  }
+ ],
+ "performers": [
+  "Академци",
+  "Горан Тодоровски"
+ ],
+ "audio": [
+  {
+   "who": "Академци",
+   "url": "https://pesna.org/audio-download/2739"
+  },
+  {
+   "who": "Горан Тодоровски",
+   "url": "https://pesna.org/audio-download/2740"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Прости ми срце мое,",
+       "lat": "Prosti mi srce moe,",
+       "en": "Forgive me, my heart,"
+      },
+      {
+       "cyr": "што друго не ќе можам",
+       "lat": "što drugo ne ḱe možam",
+       "en": "because there is nothing else I can"
+      },
+      {
+       "cyr": "да ти подарам.",
+       "lat": "da ti podaram.",
+       "en": "give you."
+      },
+      {
+       "cyr": "Од љубов кога патиш,",
+       "lat": "Od ljubov koga patiš,",
+       "en": "When you suffer from love,"
+      },
+      {
+       "cyr": "со болка ќе си платиш,",
+       "lat": "so bolka ḱe si platiš,",
+       "en": "you will pay with pain,"
+      },
+      {
+       "cyr": "љубеше искрено.",
+       "lat": "ljubeše iskreno.",
+       "en": "you loved sincerely."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како да ти речам: „мила, остани“",
+       "lat": "Kako da ti rečam: „mila, ostani“",
+       "en": "How can I tell you: \"dear, stay\""
+      },
+      {
+       "cyr": "како да ти речам,",
+       "lat": "kako da ti rečam,",
+       "en": "how can I tell you,"
+      },
+      {
+       "cyr": "да не заплачам.",
+       "lat": "da ne zaplačam.",
+       "en": "without crying."
+      },
+      {
+       "cyr": "Срцево за тебе кога удира,",
+       "lat": "Srcevo za tebe koga udira,",
+       "en": "When my heart beats for you,"
+      },
+      {
+       "cyr": "душава без тебе кога умира.",
+       "lat": "dušava bez tebe koga umira.",
+       "en": "when my soul dies without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За неа живот давам,",
+       "lat": "Za nea život davam,",
+       "en": "For her I give my life,"
+      },
+      {
+       "cyr": "рака во оган ставам",
+       "lat": "raka vo ogan stavam",
+       "en": "I put my hand in the fire"
+      },
+      {
+       "cyr": "да ја освојам.",
+       "lat": "da ja osvojam.",
+       "en": "to win her."
+      },
+      {
+       "cyr": "Со друг си оди сега",
+       "lat": "So drug si odi sega",
+       "en": "She is leaving with another now"
+      },
+      {
+       "cyr": "и да се врати нема",
+       "lat": "i da se vrati nema",
+       "en": "and will not come back,"
+      },
+      {
+       "cyr": "не заборава.",
+       "lat": "ne zaborava.",
+       "en": "she does not forget."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како да ти речам: „мила, остани“",
+       "lat": "Kako da ti rečam: „mila, ostani“",
+       "en": "How can I tell you: \"dear, stay\""
+      },
+      {
+       "cyr": "како да ти речам,",
+       "lat": "kako da ti rečam,",
+       "en": "how can I tell you,"
+      },
+      {
+       "cyr": "да не заплачам.",
+       "lat": "da ne zaplačam.",
+       "en": "without crying."
+      },
+      {
+       "cyr": "Срцево за тебе кога удира,",
+       "lat": "Srcevo za tebe koga udira,",
+       "en": "When my heart beats for you,"
+      },
+      {
+       "cyr": "душава без тебе кога умира.",
+       "lat": "dušava bez tebe koga umira.",
+       "en": "when my soul dies without you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

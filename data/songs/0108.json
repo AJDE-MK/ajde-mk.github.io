@@ -1,0 +1,99 @@
+{
+ "id": 108,
+ "slug": "milkano-mome-mori",
+ "title_cyr": "Милкано моме мори",
+ "title_latin": "Milkano mome mori",
+ "title_en": "Milkana, Maiden, Hey",
+ "pesna_url": "https://pesna.org/song/108",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Last line 'збори по мен' меракот' is my reading: 'speak as I like / according to my wish'; it could also mean 'speak by my fancy'. The first line of the reply is my reading as well.",
+ "words_to_learn": [
+  {
+   "mk": "чифлик",
+   "en": "estate, large farm"
+  },
+  {
+   "mk": "бег",
+   "en": "beg (Ottoman landlord title)"
+  },
+  {
+   "mk": "ага",
+   "en": "aga (Ottoman title, 'sir, master')"
+  },
+  {
+   "mk": "мерак",
+   "en": "desire, pleasure, whim (Turkish loan)"
+  },
+  {
+   "mk": "моме",
+   "en": "maiden, girl"
+  },
+  {
+   "mk": "слушај",
+   "en": "listen"
+  }
+ ],
+ "performers": [
+  "Милко Златков"
+ ],
+ "audio": [
+  {
+   "who": "Милко Златков",
+   "url": "https://pesna.org/audio-download/3757"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Милкано, моме мори, Милкано,",
+       "lat": "Milkano, mome mori, Milkano,",
+       "en": "Milkana, maiden, hey, Milkana,"
+      },
+      {
+       "cyr": "слушај што вели Осман Бег.",
+       "lat": "slušaj što veli Osman Beg.",
+       "en": "listen to what Osman Beg says."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Чифликот ќе си моме продадам,",
+       "lat": "- Čiflikot ḱe si mome prodadam,",
+       "en": "- I will sell my estate, maiden,"
+      },
+      {
+       "cyr": "само тебе Милке моме да земам.",
+       "lat": "samo tebe Milke mome da zemam.",
+       "en": "only to take you, maiden Milka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Колку ти чини аго чифликот,",
+       "lat": "- Kolku ti čini ago čiflikot,",
+       "en": "- Whatever your estate is worth, aga,"
+      },
+      {
+       "cyr": "збори по мен' меракот.",
+       "lat": "zbori po men' merakot.",
+       "en": "speak to me according to your desire."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

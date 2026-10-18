@@ -1,0 +1,102 @@
+{
+ "id": 507,
+ "slug": "tamu-dolu-krivolachko",
+ "title_cyr": "Таму долу криволачко",
+ "title_latin": "Tamu dolu krivolačko",
+ "title_en": "Down there in Krivolak",
+ "pesna_url": "https://pesna.org/song/507",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1715"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Таму долу криволачко, Црвени Брегови",
+       "lat": "Tamu dolu krivolačko, Crveni Bregovi",
+       "en": "Down there in Krivolak, Crveni Bregovi,"
+      },
+      {
+       "cyr": "падна јунак за слобода, за Македонија.",
+       "lat": "padna junak za sloboda, za Makedonija.",
+       "en": "a hero fell for freedom, for Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со фашистка полиција борба водеше,",
+       "lat": "So fašistka policija borba vodeše,",
+       "en": "With fascist police he fought"
+      },
+      {
+       "cyr": "цел ден тој им стражуваше и им викаше:",
+       "lat": "cel den toj im stražuvaše i im vikaše:",
+       "en": "always telling them:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Еј крвници на народот, надвор од тука",
+       "lat": "- „Ej krvnici na narodot, nadvor od tuka",
+       "en": "- \"Hey you murderers of the people, get out of here,"
+      },
+      {
+       "cyr": "Македонија се дига, вас да истера.",
+       "lat": "Makedonija se diga, vas da istera.",
+       "en": "Macedonia is rising to drive you out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум чесен Македонец, крв македонска",
+       "lat": "Jas sum česen Makedonec, krv makedonska",
+       "en": "I am an honest Macedonian, with Macedonian blood,"
+      },
+      {
+       "cyr": "в' ваш'те раце не се давам, сам се убивам“.",
+       "lat": "v' vaš'te race ne se davam, sam se ubivam“.",
+       "en": "I am not falling in your hands, I'll rather kill myself\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Спиј спокојно, наш јунаку, Никола Петров",
+       "lat": "Spij spokojno, naš junaku, Nikola Petrov",
+       "en": "Sleep in peace, our hero Nikola Petrov,"
+      },
+      {
+       "cyr": "ти загина за слобода, за Македонија.",
+       "lat": "ti zagina za sloboda, za Makedonija.",
+       "en": "you died for freedom, for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

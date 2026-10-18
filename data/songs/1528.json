@@ -1,0 +1,174 @@
+{
+ "id": 1528,
+ "slug": "tapan-chuka-mila-mamo",
+ "title_cyr": "Тапан чука мила мамо",
+ "title_latin": "Tapan čuka mila mamo",
+ "title_en": "The Drum Is Beating, Dear Mother",
+ "pesna_url": "https://pesna.org/song/1528",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional holiday song. 'Набели си бело лице' means whiten (powder) your face, as I read it; 'да пукат душманите' is literally 'let the enemies burst' (with envy).",
+ "words_to_learn": [
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "празник",
+   "en": "feast, holiday"
+  },
+  {
+   "mk": "Илинден",
+   "en": "St Elijah's Day (2 August)"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes, garment"
+  },
+  {
+   "mk": "промена",
+   "en": "change of clothes, outfit"
+  },
+  {
+   "mk": "престегни",
+   "en": "tighten, fasten (a belt)"
+  },
+  {
+   "mk": "половина",
+   "en": "waist"
+  },
+  {
+   "mk": "руса",
+   "en": "fair, blond"
+  },
+  {
+   "mk": "орото",
+   "en": "the dance (circle dance)"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  }
+ ],
+ "performers": [
+  "Елена Андоновска",
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Елена Андоновска",
+   "url": "https://pesna.org/audio-download/3997"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/4205"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Тапан чука, мила мамо,",
+       "lat": "- Tapan čuka, mila mamo,",
+       "en": "- The drum is beating, dear mother,"
+      },
+      {
+       "cyr": "голем празник е, Илинден.",
+       "lat": "golem praznik e, Ilinden.",
+       "en": "it is a great feast, Ilinden."
+      },
+      {
+       "cyr": "Кажи, кажи мила мамо,",
+       "lat": "Kaži, kaži mila mamo,",
+       "en": "Tell me, tell me, dear mother,"
+      },
+      {
+       "cyr": "која руба да облечам?",
+       "lat": "koja ruba da oblečam?",
+       "en": "which clothes should I put on?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Облечи си, мила ќерко,",
+       "lat": "- Obleči si, mila ḱerko,",
+       "en": "- Put on, dear daughter,"
+      },
+      {
+       "cyr": "бела свилена промена,",
+       "lat": "bela svilena promena,",
+       "en": "a white silk change of clothes,"
+      },
+      {
+       "cyr": "престегни си, мила ќерко,",
+       "lat": "prestegni si, mila ḱerko,",
+       "en": "tighten, dear daughter,"
+      },
+      {
+       "cyr": "твоја рамна половина.",
+       "lat": "tvoja ramna polovina.",
+       "en": "your slender waist."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Исчешлај си руса коса,",
+       "lat": "Isčešlaj si rusa kosa,",
+       "en": "Comb your fair hair,"
+      },
+      {
+       "cyr": "набели си бело лице,",
+       "lat": "nabeli si belo lice,",
+       "en": "whiten your white face,"
+      },
+      {
+       "cyr": "па си оди, мила ќерко,",
+       "lat": "pa si odi, mila ḱerko,",
+       "en": "and go, dear daughter,"
+      },
+      {
+       "cyr": "среде село на орото.",
+       "lat": "srede selo na oroto.",
+       "en": "to the middle of the village to the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се фатиш, мила ќерко,",
+       "lat": "Da se fatiš, mila ḱerko,",
+       "en": "Join in, dear daughter,"
+      },
+      {
+       "cyr": "на орото до момите,",
+       "lat": "na oroto do momite,",
+       "en": "the dance beside the girls,"
+      },
+      {
+       "cyr": "па да гледаат ергените",
+       "lat": "pa da gledaat ergenite",
+       "en": "so that the bachelors look"
+      },
+      {
+       "cyr": "и да пукат душманите.",
+       "lat": "i da pukat dušmanite.",
+       "en": "and the enemies burst with envy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

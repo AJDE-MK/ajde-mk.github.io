@@ -1,0 +1,177 @@
+{
+ "id": 1034,
+ "slug": "vrati-se-bela-marija",
+ "title_cyr": "Врати се, бела Марија",
+ "title_latin": "Vrati se, bela Marija",
+ "title_en": "Come Back, White Maria",
+ "pesna_url": "https://pesna.org/song/1034",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern composed song. 'Живот ќе е приказна' is rendered as 'life will be a fairy tale' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "лисја",
+   "en": "leaves (foliage)"
+  },
+  {
+   "mk": "паѓаат",
+   "en": "they fall"
+  },
+  {
+   "mk": "приказна",
+   "en": "story, tale"
+  },
+  {
+   "mk": "врати се",
+   "en": "come back"
+  },
+  {
+   "mk": "драг",
+   "en": "dear"
+  },
+  {
+   "mk": "шепотат",
+   "en": "they whisper"
+  },
+  {
+   "mk": "блесна",
+   "en": "flashed"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  }
+ ],
+ "performers": [
+  "Ефто Пупиноски",
+  "Секула Пупиноски",
+  "Energy Band Skopje"
+ ],
+ "audio": [
+  {
+   "who": "Ефто Пупиноски",
+   "url": "https://pesna.org/audio-download/2377"
+  },
+  {
+   "who": "Секула Пупиноски",
+   "url": "https://pesna.org/audio-download/2378"
+  },
+  {
+   "who": "Energy Band Skopje",
+   "url": "https://pesna.org/audio-download/2379"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жолти лисја паѓаат само за тебе,",
+       "lat": "Žolti lisja paǵaat samo za tebe,",
+       "en": "Yellow leaves fall only for you,"
+      },
+      {
+       "cyr": "животот ќе е приказна штом си крај мене.",
+       "lat": "životot ḱe e prikazna štom si kraj mene.",
+       "en": "life will be a fairy tale as long as you are by me."
+      },
+      {
+       "cyr": "Врати се, бела Марија, врати се, ако ти останав драг.",
+       "lat": "Vrati se, bela Marija, vrati se, ako ti ostanav drag.",
+       "en": "Come back, white Maria, come back, if I stayed dear to you."
+      },
+      {
+       "cyr": "Жолтите лисја, Марија, шепотат само за љубовта пак.",
+       "lat": "Žoltite lisja, Marija, šepotat samo za ljubovta pak.",
+       "en": "The yellow leaves, Maria, whisper only about love again."
+      },
+      {
+       "cyr": "Врати се, бела Марија, врати се, како што замина ти,",
+       "lat": "Vrati se, bela Marija, vrati se, kako što zamina ti,",
+       "en": "Come back, white Maria, come back, just as you left,"
+      },
+      {
+       "cyr": "твојата љубов, Марија, само што блесна и веднаш се скри.",
+       "lat": "tvojata ljubov, Marija, samo što blesna i vednaš se skri.",
+       "en": "your love, Maria, just flashed and at once hid away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Повторно се раѓаат река спомени,",
+       "lat": "Povtorno se raǵaat reka spomeni,",
+       "en": "A river of memories is born again,"
+      },
+      {
+       "cyr": "лисјата си паѓаат многу години.",
+       "lat": "lisjata si paǵaat mnogu godini.",
+       "en": "the leaves have been falling for many years."
+      },
+      {
+       "cyr": "Врати се, бела Марија, врати се, ако ти останав драг.",
+       "lat": "Vrati se, bela Marija, vrati se, ako ti ostanav drag.",
+       "en": "Come back, white Maria, come back, if I stayed dear to you."
+      },
+      {
+       "cyr": "Жолтите лисја, Марија, шепотат само за љубовта пак.",
+       "lat": "Žoltite lisja, Marija, šepotat samo za ljubovta pak.",
+       "en": "The yellow leaves, Maria, whisper only about love again."
+      },
+      {
+       "cyr": "Врати се, бела Марија, врати се, како што замина ти,",
+       "lat": "Vrati se, bela Marija, vrati se, kako što zamina ti,",
+       "en": "Come back, white Maria, come back, just as you left,"
+      },
+      {
+       "cyr": "твојата љубов, Марија, само што блесна и веднаш се скри.",
+       "lat": "tvojata ljubov, Marija, samo što blesna i vednaš se skri.",
+       "en": "your love, Maria, just flashed and at once hid away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Долги тажни дождови врнат за мене,",
+       "lat": "Dolgi tažni doždovi vrnat za mene,",
+       "en": "Long sad rains fall for me,"
+      },
+      {
+       "cyr": "едни очи бескрајно плачат за тебе.",
+       "lat": "edni oči beskrajno plačat za tebe.",
+       "en": "one pair of eyes weeps endlessly for you."
+      },
+      {
+       "cyr": "Врати се, бела Марија, врати се, ако ти останав драг.",
+       "lat": "Vrati se, bela Marija, vrati se, ako ti ostanav drag.",
+       "en": "Come back, white Maria, come back, if I stayed dear to you."
+      },
+      {
+       "cyr": "Жолтите лисја, Марија, шепотат само за љубовта пак.",
+       "lat": "Žoltite lisja, Marija, šepotat samo za ljubovta pak.",
+       "en": "The yellow leaves, Maria, whisper only about love again."
+      },
+      {
+       "cyr": "Врати се, бела Марија, врати се, како што замина ти,",
+       "lat": "Vrati se, bela Marija, vrati se, kako što zamina ti,",
+       "en": "Come back, white Maria, come back, just as you left,"
+      },
+      {
+       "cyr": "твојата љубов, Марија, само што блесна и веднаш се скри.",
+       "lat": "tvojata ljubov, Marija, samo što blesna i vednaš se skri.",
+       "en": "your love, Maria, just flashed and at once hid away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

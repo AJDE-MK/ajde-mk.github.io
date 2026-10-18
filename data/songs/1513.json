@@ -1,0 +1,165 @@
+{
+ "id": 1513,
+ "slug": "baj-nikola",
+ "title_cyr": "Бај Никола",
+ "title_latin": "Baj Nikola",
+ "title_en": "Uncle Nikola",
+ "pesna_url": "https://pesna.org/song/1513",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding town song; origin unclear. 'За нунко ме канел' I read as 'invited me as godfather (best man)'; 'диското' is rendered 'my plate' following the given note's tray sense loosely, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market"
+  },
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "бај",
+   "en": "uncle, respectful address to an older man"
+  },
+  {
+   "mk": "калајџија",
+   "en": "tinsmith"
+  },
+  {
+   "mk": "кузум",
+   "en": "dear, darling (Turkish)"
+  },
+  {
+   "mk": "себап",
+   "en": "good deed, favor"
+  },
+  {
+   "mk": "побратим",
+   "en": "blood brother, sworn friend"
+  },
+  {
+   "mk": "комшија",
+   "en": "neighbor"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "gift, tip"
+  }
+ ],
+ "performers": [
+  "Габриела Новевска",
+  "Костадинка Палазова",
+  "Љубојна",
+  "Тимко Чичаковски",
+  "Billy Esteban"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/3955"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/3956"
+  },
+  {
+   "who": "Billy Esteban, Габриела Новевска",
+   "url": "https://pesna.org/audio-download/3957"
+  },
+  {
+   "who": "Тимко Чичаковски",
+   "url": "https://pesna.org/audio-download/3958"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/3959"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти отидех, џанам, јув чаршија,",
+       "lat": "Snošti otideh, džanam, juv čaršija,",
+       "en": "Last night I went, my dear, to the bazaar,"
+      },
+      {
+       "cyr": "јуф дуќанот на бај Никола.",
+       "lat": "juf duḱanot na baj Nikola.",
+       "en": "to the shop of Uncle Nikola."
+      },
+      {
+       "cyr": "- Еј, бај Николо, кузум калајџијо,",
+       "lat": "- Ej, baj Nikolo, kuzum kalajdžijo,",
+       "en": "- Hey, Uncle Nikola, my dear tinsmith,"
+      },
+      {
+       "cyr": "себап да чиниш, море, да не ме в'рниш.",
+       "lat": "sebap da činiš, more, da ne me v'rniš.",
+       "en": "do a good deed, hey, do not send me back."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, бај Николо, море калајџиjо,",
+       "lat": "Ej, baj Nikolo, more kalajdžijo,",
+       "en": "Hey, Uncle Nikola, hey tinsmith,"
+      },
+      {
+       "cyr": "калајдисај ми го диското.",
+       "lat": "kalajdisaj mi go diskoto.",
+       "en": "tin-plate my plate for me."
+      },
+      {
+       "cyr": "Сакај шо сакаш, арно ќе ти платам,",
+       "lat": "Sakaj šo sakaš, arno ḱe ti platam,",
+       "en": "Ask what you like, I will pay you well,"
+      },
+      {
+       "cyr": "сaл гледај саглaм да го калајдисаш.",
+       "lat": "sal gledaj saglam da go kalajdisaš.",
+       "en": "just take care to tin it soundly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојот побратим, море, мојот комшија,",
+       "lat": "Mojot pobratim, more, mojot komšija,",
+       "en": "My blood brother, hey, my neighbor,"
+      },
+      {
+       "cyr": "за нунко ме канел в недела,",
+       "lat": "za nunko me kanel v nedela,",
+       "en": "has invited me for his godfather on Sunday,"
+      },
+      {
+       "cyr": "бакшиш ќе носам, а бре бај Николо,",
+       "lat": "bakšiš ḱe nosam, a bre baj Nikolo,",
+       "en": "I will bring a gift, hey Uncle Nikola,"
+      },
+      {
+       "cyr": "бакшиш ќе дадам, море на невестата.",
+       "lat": "bakšiš ḱe dadam, more na nevestata.",
+       "en": "I will give a gift, hey, to the bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

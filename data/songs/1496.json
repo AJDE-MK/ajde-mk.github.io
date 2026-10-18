@@ -1,0 +1,183 @@
+{
+ "id": 1496,
+ "slug": "stojne-le-stojne",
+ "title_cyr": "Стојне ле, Стојне",
+ "title_latin": "Stojne le, Stojne",
+ "title_en": "Stojne, oh Stojne",
+ "pesna_url": "https://pesna.org/song/1496",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Летница' is my reading as 'summer place'; 'лично' is read as an endearment. Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "русо",
+   "en": "fair-haired, blond"
+  },
+  {
+   "mk": "зборот",
+   "en": "the word, promise"
+  },
+  {
+   "mk": "орница",
+   "en": "ploughland"
+  },
+  {
+   "mk": "круша",
+   "en": "pear tree"
+  },
+  {
+   "mk": "рудо јагне",
+   "en": "ruddy lamb"
+  },
+  {
+   "mk": "погача",
+   "en": "round loaf of bread"
+  },
+  {
+   "mk": "каракамен",
+   "en": "black stone"
+  },
+  {
+   "mk": "тргај",
+   "en": "set off, go"
+  },
+  {
+   "mk": "лично",
+   "en": "darling, dear"
+  },
+  {
+   "mk": "да се земиме",
+   "en": "to marry each other"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/3892"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојне ле, Стојне, русо ле Стојне,",
+       "lat": "Stojne le, Stojne, ruso le Stojne,",
+       "en": "Stojne, oh Stojne, oh fair-haired Stojne,"
+      },
+      {
+       "cyr": "зошто на зборот не стоиш?",
+       "lat": "zošto na zborot ne stoiš?",
+       "en": "why do you not keep your word?"
+      },
+      {
+       "cyr": "Зошто на зборот не стоиш, Стојне,",
+       "lat": "Zošto na zborot ne stoiš, Stojne,",
+       "en": "Why do you not keep your word, Stojne,"
+      },
+      {
+       "cyr": "двајцата што го зборвавме?",
+       "lat": "dvajcata što go zborvavme?",
+       "en": "the one the two of us spoke?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На таа нива орница, Стојне,",
+       "lat": "Na taa niva ornica, Stojne,",
+       "en": "On that field, ploughland, Stojne,"
+      },
+      {
+       "cyr": "под таа круша летница,",
+       "lat": "pod taa kruša letnica,",
+       "en": "under that pear tree, a summer spot,"
+      },
+      {
+       "cyr": "рудото јагне печено, Стојне,",
+       "lat": "rudoto jagne pečeno, Stojne,",
+       "en": "roast ruddy lamb, Stojne,"
+      },
+      {
+       "cyr": "на крива круша делено.",
+       "lat": "na kriva kruša deleno.",
+       "en": "shared under a crooked pear tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рудото јагне печено, Стојне,",
+       "lat": "Rudoto jagne pečeno, Stojne,",
+       "en": "Roast ruddy lamb, Stojne,"
+      },
+      {
+       "cyr": "бела погача месена.",
+       "lat": "bela pogača mesena.",
+       "en": "white loaf kneaded."
+      },
+      {
+       "cyr": "Бела погача месена, Стојне,",
+       "lat": "Bela pogača mesena, Stojne,",
+       "en": "White loaf kneaded, Stojne,"
+      },
+      {
+       "cyr": "на каракамен печена.",
+       "lat": "na karakamen pečena.",
+       "en": "baked on a black stone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојне ле, Стојне, русо ле Стојне,",
+       "lat": "Stojne le, Stojne, ruso le Stojne,",
+       "en": "Stojne, oh Stojne, oh fair-haired Stojne,"
+      },
+      {
+       "cyr": "зошто на зборот не стоиш?",
+       "lat": "zošto na zborot ne stoiš?",
+       "en": "why do you not keep your word?"
+      },
+      {
+       "cyr": "Зошто на зборот не стоиш, Стојне,",
+       "lat": "Zošto na zborot ne stoiš, Stojne,",
+       "en": "Why do you not keep your word, Stojne,"
+      },
+      {
+       "cyr": "двајцата што го зборвавме?",
+       "lat": "dvajcata što go zborvavme?",
+       "en": "the one the two of us spoke?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, тргај Стојне по мене, лично,",
+       "lat": "Aj, trgaj Stojne po mene, lično,",
+       "en": "Ah, set out after me, my love,"
+      },
+      {
+       "cyr": "двајцата да се земиме!",
+       "lat": "dvajcata da se zemime!",
+       "en": "let the two of us marry!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

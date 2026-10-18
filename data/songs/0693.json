@@ -1,0 +1,201 @@
+{
+ "id": 693,
+ "slug": "koga-se-mazheshe-shto-ti-se-chineshe",
+ "title_cyr": "Кога се мажеше што ти се чинеше",
+ "title_latin": "Koga se mažeše što ti se čineše",
+ "title_en": "When you were getting married, what did you think",
+ "pesna_url": "https://pesna.org/song/693",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'лиду, лиду, лиду ду' is a refrain syllable group, left as is. 'Камо' rendered 'where are' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "се мажеше",
+   "en": "you were getting married (of a woman)"
+  },
+  {
+   "mk": "шеќерче",
+   "en": "sweet / candy"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law"
+  },
+  {
+   "mk": "девер",
+   "en": "brother-in-law (husband's brother)"
+  },
+  {
+   "mk": "бовчалак",
+   "en": "bundle (of clothes)"
+  },
+  {
+   "mk": "чорапи",
+   "en": "socks"
+  }
+ ],
+ "performers": [
+  "Биоритам",
+  "Васка Илиева",
+  "Пет плус"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/82"
+  },
+  {
+   "who": "Биоритам",
+   "url": "https://pesna.org/audio-download/83"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1066"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3191"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога се мажеше што ти се чинеше, невесто",
+       "lat": "Koga se mažeše što ti se čineše, nevesto",
+       "en": "When you were getting married, what did you think, bride,"
+      },
+      {
+       "cyr": "мори црно око, лиду, лиду, лиду ду",
+       "lat": "mori crno oko, lidu, lidu, lidu du",
+       "en": "hey black eye, lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "црно ле око де?",
+       "lat": "crno le oko de?",
+       "en": "black eye, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали ти се чинеше момче е шеќерче, невесто",
+       "lat": "Dali ti se čineše momče e šeḱerče, nevesto",
+       "en": "Did it seem to you the lad is a sweet candy, bride,"
+      },
+      {
+       "cyr": "мори црно око, лиду, лиду, лиду ду",
+       "lat": "mori crno oko, lidu, lidu, lidu du",
+       "en": "hey black eye, lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "црно ле око де?",
+       "lat": "crno le oko de?",
+       "en": "black eye, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ниту е момче, момче шеќерче, невесто",
+       "lat": "Nitu e momče, momče šeḱerče, nevesto",
+       "en": "Neither is the lad, the lad, a sweet candy, bride,"
+      },
+      {
+       "cyr": "мори црно око, лиду, лиду, лиду ду",
+       "lat": "mori crno oko, lidu, lidu, lidu du",
+       "en": "hey black eye, lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "црно леј око де.",
+       "lat": "crno lej oko de.",
+       "en": "black eye, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Камо ти невесто за сватови дарови, невесто,",
+       "lat": "Kamo ti nevesto za svatovi darovi, nevesto,",
+       "en": "Where are, bride, the gifts for the wedding guests, bride,"
+      },
+      {
+       "cyr": "мори црно око, лиду, лиду, лиду ду",
+       "lat": "mori crno oko, lidu, lidu, lidu du",
+       "en": "hey black eye, lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "црно ле око де?",
+       "lat": "crno le oko de?",
+       "en": "black eye, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Камо ти невесто за свекрва кошула, невесто,",
+       "lat": "Kamo ti nevesto za svekrva košula, nevesto,",
+       "en": "Where is, bride, the shirt for the mother-in-law, bride,"
+      },
+      {
+       "cyr": "мори црно око, лиду, лиду, лиду ду",
+       "lat": "mori crno oko, lidu, lidu, lidu du",
+       "en": "hey black eye, lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "црно ле око де?",
+       "lat": "crno le oko de?",
+       "en": "black eye, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За свекорот бовчалак, за деверот чорапи, невесто,",
+       "lat": "Za svekorot bovčalak, za deverot čorapi, nevesto,",
+       "en": "For the father-in-law a bundle, for the brother-in-law socks, bride,"
+      },
+      {
+       "cyr": "мори црно око, лиду, лиду, лиду ду",
+       "lat": "mori crno oko, lidu, lidu, lidu du",
+       "en": "hey black eye, lidu, lidu, lidu du"
+      },
+      {
+       "cyr": "црно ле око де?",
+       "lat": "crno le oko de?",
+       "en": "black eye, hey?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

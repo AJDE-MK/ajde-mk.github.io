@@ -1,0 +1,155 @@
+{
+ "id": 1585,
+ "slug": "pesna-za-novo-selo",
+ "title_cyr": "Песна за Ново село",
+ "title_latin": "Pesna za Novo selo",
+ "title_en": "Song for Novo Selo",
+ "pesna_url": "https://pesna.org/song/1585",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Novo Selo is a village name; 'Л'џите' is a place name by the spring, I am unsure of its meaning (my reading: a locality name). Possibly a modern local song, origin unclear, no author I can name.",
+ "words_to_learn": [
+  {
+   "mk": "запеј",
+   "en": "sing! (imperative, start singing)"
+  },
+  {
+   "mk": "се чуе",
+   "en": "can be heard"
+  },
+  {
+   "mk": "извор",
+   "en": "spring (water source)"
+  },
+  {
+   "mk": "жалосна",
+   "en": "sad, mournful"
+  },
+  {
+   "mk": "радосна",
+   "en": "joyful"
+  },
+  {
+   "mk": "вечна",
+   "en": "eternal"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "збориме",
+   "en": "we talk (dialect/standard 'зборуваме')"
+  }
+ ],
+ "performers": [
+  "Александар Митевски",
+  "Драган Спасов - Дац",
+  "Зоран Ванев",
+  "Зуица Лазова",
+  "Наум Петрески",
+  "Трајче Манев",
+  "Фантастико бенд"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Ванев",
+   "url": "https://pesna.org/audio-download/4126"
+  },
+  {
+   "who": "Зуица Лазова, Наум Петрески",
+   "url": "https://pesna.org/audio-download/4127"
+  },
+  {
+   "who": "Фантастико бенд",
+   "url": "https://pesna.org/audio-download/4128"
+  },
+  {
+   "who": "Александар Митевски, Драган Спасов - Дац, Трајче Манев",
+   "url": "https://pesna.org/audio-download/4129"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Запеј песна мори моме,",
+       "lat": "- Zapej pesna mori mome,",
+       "en": "- Sing a song, hey girl,"
+      },
+      {
+       "cyr": "да се чуе в Ново село,",
+       "lat": "da se čue v Novo selo,",
+       "en": "so it can be heard in Novo Selo,"
+      },
+      {
+       "cyr": "Ново село кај изворо,",
+       "lat": "Novo selo kaj izvoro,",
+       "en": "Novo Selo by the spring,"
+      },
+      {
+       "cyr": "кај изворот, кај Л'џите.",
+       "lat": "kaj izvorot, kaj L'džite.",
+       "en": "by the spring, by L'dzhite."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каква песна да запеам",
+       "lat": "- Kakva pesna da zapeam",
+       "en": "- What song shall I sing,"
+      },
+      {
+       "cyr": "море лудо, море младо,",
+       "lat": "more ludo, more mlado,",
+       "en": "hey lad, hey young one,"
+      },
+      {
+       "cyr": "дал' жалосна ил радосна,",
+       "lat": "dal' žalosna il radosna,",
+       "en": "sad or joyful,"
+      },
+      {
+       "cyr": "за нашата вечна љубов?",
+       "lat": "za našata večna ljubov?",
+       "en": "about our eternal love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дојди моме кај изворо,",
+       "lat": "- Dojdi mome kaj izvoro,",
+       "en": "- Come, girl, to the spring,"
+      },
+      {
+       "cyr": "кај изворо кај Л'џите.",
+       "lat": "kaj izvoro kaj L'džite.",
+       "en": "to the spring by L'dzhite."
+      },
+      {
+       "cyr": "Ќе пееме, ќе збориме",
+       "lat": "Ḱe peeme, ḱe zborime",
+       "en": "We will sing, we will talk"
+      },
+      {
+       "cyr": "за нашата вечна љубов.",
+       "lat": "za našata večna ljubov.",
+       "en": "about our eternal love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

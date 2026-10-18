@@ -1,0 +1,215 @@
+{
+ "id": 948,
+ "slug": "lenka",
+ "title_cyr": "Ленка",
+ "title_latin": "Lenka",
+ "title_en": "Lenka",
+ "pesna_url": "https://pesna.org/song/948",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a literary poem, but I cannot name an author. 'на наломи' (my reading: 'to the seasonal work') and 'недоткаена' (my reading: 'not finished weaving') are guesses; 'дарована' read as 'a gift'.",
+ "words_to_learn": [
+  {
+   "mk": "кошула",
+   "en": "shirt"
+  },
+  {
+   "mk": "ленена",
+   "en": "made of linen"
+  },
+  {
+   "mk": "разбој",
+   "en": "loom"
+  },
+  {
+   "mk": "наломи",
+   "en": "seasonal field work (my reading)"
+  },
+  {
+   "mk": "тутун",
+   "en": "tobacco"
+  },
+  {
+   "mk": "монопол",
+   "en": "tobacco monopoly (factory)"
+  },
+  {
+   "mk": "веѓи",
+   "en": "eyebrows"
+  },
+  {
+   "mk": "грутка",
+   "en": "lump"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  }
+ ],
+ "performers": [
+  "Зафир Хаџиманов"
+ ],
+ "audio": [
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/2184"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Откако Ленка остави",
+       "lat": "Otkako Lenka ostavi",
+       "en": "After Lenka left"
+      },
+      {
+       "cyr": "кошула тенка ленена,",
+       "lat": "košula tenka lenena,",
+       "en": "her thin linen shirt,"
+      },
+      {
+       "cyr": "кошула тенка ленена,",
+       "lat": "košula tenka lenena,",
+       "en": "her thin linen shirt,"
+      },
+      {
+       "cyr": "на разбој недовезена",
+       "lat": "na razboj nedovezena",
+       "en": "unfinished on the loom"
+      },
+      {
+       "cyr": "и на наломи отиде",
+       "lat": "i na nalomi otide",
+       "en": "and went to the harvest-work"
+      },
+      {
+       "cyr": "тутун да реди в' монопол,",
+       "lat": "tutun da redi v' monopol,",
+       "en": "to sort tobacco in the monopoly,"
+      },
+      {
+       "cyr": "лицето ѝ се измени,",
+       "lat": "liceto ì se izmeni,",
+       "en": "her face changed,"
+      },
+      {
+       "cyr": "веѓи ѝ паднаа надолу",
+       "lat": "veǵi ì padnaa nadolu",
+       "en": "her brows dropped down"
+      },
+      {
+       "cyr": "и усни свија кораво.",
+       "lat": "i usni svija koravo.",
+       "en": "and her lips set hard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не беше Ленка родена",
+       "lat": "Ne beše Lenka rodena",
+       "en": "Lenka was not born"
+      },
+      {
+       "cyr": "за тија пусти тутуни,",
+       "lat": "za tija pusti tutuni,",
+       "en": "for those bleak tobaccos,"
+      },
+      {
+       "cyr": "тутуни - жолти отрови",
+       "lat": "tutuni - žolti otrovi",
+       "en": "tobaccos, yellow poisons"
+      },
+      {
+       "cyr": "за гради - китки розови.",
+       "lat": "za gradi - kitki rozovi.",
+       "en": "for chests, rosy bouquets."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва година помина,",
+       "lat": "Prva godina pomina,",
+       "en": "The first year passed,"
+      },
+      {
+       "cyr": "грутка в' срцето ѝ легна,",
+       "lat": "grutka v' srceto ì legna,",
+       "en": "a lump settled in her heart,"
+      },
+      {
+       "cyr": "втора година намина,",
+       "lat": "vtora godina namina,",
+       "en": "the second year came,"
+      },
+      {
+       "cyr": "болест ја в' гради искина.",
+       "lat": "bolest ja v' gradi iskina.",
+       "en": "illness tore her in the chest."
+      },
+      {
+       "cyr": "Трета година, земјата",
+       "lat": "Treta godina, zemjata",
+       "en": "The third year, the earth"
+      },
+      {
+       "cyr": "на Ленка покри снагата.",
+       "lat": "na Lenka pokri snagata.",
+       "en": "covered Lenka's body."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ноќе кога месечко",
+       "lat": "I noḱe koga mesečko",
+       "en": "And at night when the moon"
+      },
+      {
+       "cyr": "гроб ѝ со свила виеше,",
+       "lat": "grob ì so svila vieše,",
+       "en": "wove a silk wreath over her grave,"
+      },
+      {
+       "cyr": "ветeрчок тихо над неа",
+       "lat": "veterčok tiho nad nea",
+       "en": "a little breeze quietly above her"
+      },
+      {
+       "cyr": "дробна ѝ тага рееше:",
+       "lat": "drobna ì taga reeše:",
+       "en": "scattered a small sorrow:"
+      },
+      {
+       "cyr": "\"Зошто ми, зошто остана",
+       "lat": "\"Zošto mi, zošto ostana",
+       "en": "\"Why, why did it remain for me,"
+      },
+      {
+       "cyr": "кошула недоткаена,",
+       "lat": "košula nedotkaena,",
+       "en": "the shirt not stitched,"
+      },
+      {
+       "cyr": "кошула беше даровна?\"",
+       "lat": "košula beše darovna?\"",
+       "en": "the shirt was a gift?\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,149 @@
+{
+ "id": 588,
+ "slug": "devet-godini-bolen-lezhav",
+ "title_cyr": "Девет години болен лежав",
+ "title_latin": "Devet godini bolen ležav",
+ "title_en": "Nine years I lay sick",
+ "pesna_url": "https://pesna.org/song/588",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Speaker changes between verses and some lines are ambiguous; verse 2 and 3 are my reading. Line 'ко не си воен' I read as 'because you are not a warrior'.",
+ "words_to_learn": [
+  {
+   "mk": "болен",
+   "en": "sick"
+  },
+  {
+   "mk": "лежам",
+   "en": "I lie"
+  },
+  {
+   "mk": "рајски",
+   "en": "of paradise"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "ронев",
+   "en": "I shed (imperfect)"
+  },
+  {
+   "mk": "превез",
+   "en": "veil"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  },
+  {
+   "mk": "роб",
+   "en": "slave"
+  },
+  {
+   "mk": "достоен",
+   "en": "worthy"
+  },
+  {
+   "mk": "венец",
+   "en": "wreath"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1388"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девет години болен лежам",
+       "lat": "Devet godini bolen ležam",
+       "en": "Nine years I lay sick"
+      },
+      {
+       "cyr": "в' рајски градини, в' рајски градини",
+       "lat": "v' rajski gradini, v' rajski gradini",
+       "en": "in the gardens of paradise, in the gardens of paradise"
+      },
+      {
+       "cyr": "солзи ронев, солзи ронев.",
+       "lat": "solzi ronev, solzi ronev.",
+       "en": "I shed tears, I shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "С' превез девојче плаче над гроб",
+       "lat": "S' prevez devojče plače nad grob",
+       "en": "With a veil a girl weeps over the grave"
+      },
+      {
+       "cyr": "и ми се смеит, и ми се смеит",
+       "lat": "i mi se smeit, i mi se smeit",
+       "en": "and he laughs at me, and he laughs at me"
+      },
+      {
+       "cyr": "да сум бил роб, да сум бил роб.",
+       "lat": "da sum bil rob, da sum bil rob.",
+       "en": "that I was a slave, that I was a slave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не си достоен, ох ангел мој",
+       "lat": "Ne si dostoen, oh angel moj",
+       "en": "You are not worthy, oh my angel"
+      },
+      {
+       "cyr": "ко не си воен, не си достоен",
+       "lat": "ko ne si voen, ne si dostoen",
+       "en": "because you are not a warrior, you are not worthy"
+      },
+      {
+       "cyr": "јунак во бој, јунак во бој.",
+       "lat": "junak vo boj, junak vo boj.",
+       "en": "of a hero in battle, a hero in battle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сама ќе дојдам, мили мој",
+       "lat": "Sama ḱe dojdam, mili moj",
+       "en": "I will come myself, my dear"
+      },
+      {
+       "cyr": "крст да ти сложам, венец да положам",
+       "lat": "krst da ti složam, venec da položam",
+       "en": "to place a cross for you, to lay a wreath"
+      },
+      {
+       "cyr": "на гробот твој, на гробот твој.",
+       "lat": "na grobot tvoj, na grobot tvoj.",
+       "en": "on your grave, on your grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

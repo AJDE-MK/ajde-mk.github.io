@@ -1,0 +1,228 @@
+{
+ "id": 1321,
+ "slug": "kitka-mi-sharena",
+ "title_cyr": "Китка ми шарена",
+ "title_latin": "Kitka mi šarena",
+ "title_en": "My Colourful Bouquet",
+ "pesna_url": "https://pesna.org/song/1321",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). 'Кара' in the refrain is my reading as a name or filler; 'прежалиш' lines are my reading (you will regret the dress / give up your heart).",
+ "words_to_learn": [
+  {
+   "mk": "главиш се",
+   "en": "you get engaged (dialect)"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "шарено",
+   "en": "colourful"
+  },
+  {
+   "mk": "алтани",
+   "en": "gold coins"
+  },
+  {
+   "mk": "заиграш",
+   "en": "you start to dance"
+  },
+  {
+   "mk": "запреш",
+   "en": "you stop"
+  },
+  {
+   "mk": "прежалиш",
+   "en": "you will regret / grieve for"
+  },
+  {
+   "mk": "китка",
+   "en": "bouquet, posy"
+  },
+  {
+   "mk": "каранфилче",
+   "en": "little carnation"
+  },
+  {
+   "mk": "трендафилче",
+   "en": "little rose"
+  }
+ ],
+ "performers": [
+  "Ансамбл Деспина",
+  "Пула",
+  "Биоритам",
+  "Зуица Лазова",
+  "Љупчо Бубо Каров",
+  "Нино Величковски",
+  "Петја Панева",
+  "Руска Стојменова",
+  "Сирма"
+ ],
+ "audio": [
+  {
+   "who": "Руска Стојменова",
+   "url": "https://pesna.org/audio-download/3341"
+  },
+  {
+   "who": "Петја Панева",
+   "url": "https://pesna.org/audio-download/3342"
+  },
+  {
+   "who": "Зуица Лазова, Љупчо Бубо Каров",
+   "url": "https://pesna.org/audio-download/3412"
+  },
+  {
+   "who": "Сирма",
+   "url": "https://pesna.org/audio-download/3414"
+  },
+  {
+   "who": "Биоритам",
+   "url": "https://pesna.org/audio-download/3415"
+  },
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/3416"
+  },
+  {
+   "who": "Ансамбл Деспина, Пула",
+   "url": "https://pesna.org/audio-download/3797"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Трендафилчето, каранфилчето)",
+       "lat": "(Trendafilčeto, karanfilčeto)",
+       "en": "(Little rose, little carnation)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако да се главиш, мене да си кажеш,",
+       "lat": "Ako da se glaviš, mene da si kažeš,",
+       "en": "If you should get engaged, tell me,"
+      },
+      {
+       "cyr": "Доне, Доне мамино.",
+       "lat": "Done, Done mamino.",
+       "en": "Dona, Dona, mother's dear."
+      },
+      {
+       "cyr": "Јазе да ти купам шарено фустанче,",
+       "lat": "Jaze da ti kupam šareno fustanče,",
+       "en": "I will buy you a colourful dress,"
+      },
+      {
+       "cyr": "Доне, Доне мамино.",
+       "lat": "Done, Done mamino.",
+       "en": "Dona, Dona, mother's dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кара, каранфилчето, трендафилчето,",
+       "lat": "Kara, karanfilčeto, trendafilčeto,",
+       "en": "Kara, little carnation, little rose,"
+      },
+      {
+       "cyr": "китка ми, китка ми шарена, немирисана.",
+       "lat": "kitka mi, kitka mi šarena, nemirisana.",
+       "en": "my bouquet, my colourful bouquet, without scent."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе го носиш, алтани да броиш,",
+       "lat": "Koga ḱe go nosiš, altani da broiš,",
+       "en": "When you wear it, you will count gold coins,"
+      },
+      {
+       "cyr": "Доне, Доне мамино.",
+       "lat": "Done, Done mamino.",
+       "en": "Dona, Dona, mother's dear."
+      },
+      {
+       "cyr": "Кога ќе заиграш, сонцето да запреш,",
+       "lat": "Koga ḱe zaigraš, sonceto da zapreš,",
+       "en": "When you start to dance, you will stop the sun,"
+      },
+      {
+       "cyr": "Доне, Доне мамино.",
+       "lat": "Done, Done mamino.",
+       "en": "Dona, Dona, mother's dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кара, каранфилчето, трендафилчето,",
+       "lat": "Kara, karanfilčeto, trendafilčeto,",
+       "en": "Kara, little carnation, little rose,"
+      },
+      {
+       "cyr": "китка ми, китка ми шарена, немирисана.",
+       "lat": "kitka mi, kitka mi šarena, nemirisana.",
+       "en": "my bouquet, my colourful bouquet, without scent."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момче кога земаш, фустан ќе прежалиш,",
+       "lat": "Momče koga zemaš, fustan ḱe prežališ,",
+       "en": "When you take a lad, you will regret the dress,"
+      },
+      {
+       "cyr": "Доне, Доне мамино.",
+       "lat": "Done, Done mamino.",
+       "en": "Dona, Dona, mother's dear."
+      },
+      {
+       "cyr": "Момче кога љубиш, срце ќе прежалиш,",
+       "lat": "Momče koga ljubiš, srce ḱe prežališ,",
+       "en": "When you love a lad, you will regret your heart,"
+      },
+      {
+       "cyr": "Доне, Доне мамино.",
+       "lat": "Done, Done mamino.",
+       "en": "Dona, Dona, mother's dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кара, каранфилчето, трендафилчето,",
+       "lat": "Kara, karanfilčeto, trendafilčeto,",
+       "en": "Kara, little carnation, little rose,"
+      },
+      {
+       "cyr": "китка ми, китка ми шарена, немирисана.",
+       "lat": "kitka mi, kitka mi šarena, nemirisana.",
+       "en": "my bouquet, my colourful bouquet, without scent."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

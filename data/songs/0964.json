@@ -1,0 +1,258 @@
+{
+ "id": 964,
+ "slug": "kinisa-mome-na-voda",
+ "title_cyr": "Киниса моме на вода",
+ "title_latin": "Kinisa mome na voda",
+ "title_en": "The girl set out for water",
+ "pesna_url": "https://pesna.org/song/964",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'ведро млеко турије' I read as put the milk on to heat (my reading). 'момево' is rendered as 'this lad' (my reading, the song itself is about a girl, so the referent is unclear).",
+ "words_to_learn": [
+  {
+   "mk": "киниса",
+   "en": "I set out"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "ибрик",
+   "en": "pitcher, ewer"
+  },
+  {
+   "mk": "потишта",
+   "en": "path"
+  },
+  {
+   "mk": "бачило",
+   "en": "mountain sheepfold"
+  },
+  {
+   "mk": "ќеаја",
+   "en": "chief shepherd's steward / foreman"
+  },
+  {
+   "mk": "чобан",
+   "en": "shepherd"
+  },
+  {
+   "mk": "кум",
+   "en": "best man, godfather"
+  },
+  {
+   "mk": "поп",
+   "en": "priest"
+  },
+  {
+   "mk": "венчаме",
+   "en": "we marry (church wedding)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Габриела Новевска",
+  "Монистра",
+  "Ташко Грујовски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2233"
+  },
+  {
+   "who": "Ташко Грујовски",
+   "url": "https://pesna.org/audio-download/2234"
+  },
+  {
+   "who": "Габриела Новевска, Монистра",
+   "url": "https://pesna.org/audio-download/2674"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/3376"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Киниса моме на вода,",
+       "lat": "Kinisa mome na voda,",
+       "en": "The girl set out for water,"
+      },
+      {
+       "cyr": "киниса моме на вода",
+       "lat": "kinisa mome na voda",
+       "en": "the girl set out for water"
+      },
+      {
+       "cyr": "со двете стомни шарени",
+       "lat": "so dvete stomni šareni",
+       "en": "with two painted jugs"
+      },
+      {
+       "cyr": "и два ибрика сребрени,",
+       "lat": "i dva ibrika srebreni,",
+       "en": "and two silver pitchers,"
+      },
+      {
+       "cyr": "со двете стомни шарени",
+       "lat": "so dvete stomni šareni",
+       "en": "with two painted jugs"
+      },
+      {
+       "cyr": "и два ибрика сребрени.",
+       "lat": "i dva ibrika srebreni.",
+       "en": "and two silver pitchers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Загреши моме потишта,",
+       "lat": "Zagreši mome potišta,",
+       "en": "The girl lost the path,"
+      },
+      {
+       "cyr": "загреши моме потишта,",
+       "lat": "zagreši mome potišta,",
+       "en": "the girl lost the path,"
+      },
+      {
+       "cyr": "отиде горе в планина",
+       "lat": "otide gore v planina",
+       "en": "she went up into the mountain"
+      },
+      {
+       "cyr": "на Димовото бачило,",
+       "lat": "na Dimovoto bačilo,",
+       "en": "to Dimo's sheepfold,"
+      },
+      {
+       "cyr": "отиде горе в планина",
+       "lat": "otide gore v planina",
+       "en": "she went up into the mountain"
+      },
+      {
+       "cyr": "на Димовото бачило.",
+       "lat": "na Dimovoto bačilo.",
+       "en": "to Dimo's sheepfold."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите овчари станаје",
+       "lat": "Site ovčari stanaje",
+       "en": "All the shepherds got up"
+      },
+      {
+       "cyr": "и ведро млеко турије.",
+       "lat": "i vedro mleko turije.",
+       "en": "and put the milk on to boil."
+      },
+      {
+       "cyr": "Димо ќеаја не стана",
+       "lat": "Dimo ḱeaja ne stana",
+       "en": "Dimo the chief shepherd did not get up"
+      },
+      {
+       "cyr": "и ведро млеко не тури,",
+       "lat": "i vedro mleko ne turi,",
+       "en": "and did not put the milk on,"
+      },
+      {
+       "cyr": "Димо ќеаја не стана",
+       "lat": "Dimo ḱeaja ne stana",
+       "en": "Dimo the chief shepherd did not get up"
+      },
+      {
+       "cyr": "и ведро млеко не тури.",
+       "lat": "i vedro mleko ne turi.",
+       "en": "and did not put the milk on."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извикна Димо ќеаја:",
+       "lat": "Izvikna Dimo ḱeaja:",
+       "en": "Dimo the chief shepherd called out:"
+      },
+      {
+       "cyr": "- Овчари, млади чобани,",
+       "lat": "- Ovčari, mladi čobani,",
+       "en": "- Shepherds, young herdsmen,"
+      },
+      {
+       "cyr": "слезите долу в Галичник,",
+       "lat": "slezite dolu v Galičnik,",
+       "en": "go down to Galichnik,"
+      },
+      {
+       "cyr": "викните попа и кума,",
+       "lat": "viknite popa i kuma,",
+       "en": "call the priest and the best man,"
+      },
+      {
+       "cyr": "викните попа и кума,",
+       "lat": "viknite popa i kuma,",
+       "en": "call the priest and the best man,"
+      },
+      {
+       "cyr": "момево да го венчаме.",
+       "lat": "momevo da go venčame.",
+       "en": "let us marry this lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога во црква одеје,",
+       "lat": "Koga vo crkva odeje,",
+       "en": "When they went to church,"
+      },
+      {
+       "cyr": "кога во црква одеје",
+       "lat": "koga vo crkva odeje",
+       "en": "when they went to church"
+      },
+      {
+       "cyr": "крвава роса росеше.",
+       "lat": "krvava rosa roseše.",
+       "en": "bloody dew was falling."
+      },
+      {
+       "cyr": "Кога од црква идеје,",
+       "lat": "Koga od crkva ideje,",
+       "en": "When they came from church,"
+      },
+      {
+       "cyr": "кога од црква идеје",
+       "lat": "koga od crkva ideje",
+       "en": "when they came from church"
+      },
+      {
+       "cyr": "ситни камења паѓаје.",
+       "lat": "sitni kamenja paǵaje.",
+       "en": "small stones were falling."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

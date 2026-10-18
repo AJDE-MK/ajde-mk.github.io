@@ -1,0 +1,411 @@
+{
+ "id": 1559,
+ "slug": "dimitrija-vino-pie",
+ "title_cyr": "Димитрија вино пие",
+ "title_latin": "Dimitrija vino pie",
+ "title_en": "Dimitrija drinks wine",
+ "pesna_url": "https://pesna.org/song/1559",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, three versions; the marker line is copied as given in the source. 'Нарусија' (version 2), 'напрашија' and 'рум ракија' are my reading; 'ојме' is a dialect form (let us go) and 'дафиново' I read as 'laurel'.",
+ "words_to_learn": [
+  {
+   "mk": "божур",
+   "en": "peony"
+  },
+  {
+   "mk": "голуб",
+   "en": "dove, pigeon"
+  },
+  {
+   "mk": "паун",
+   "en": "peacock"
+  },
+  {
+   "mk": "перје",
+   "en": "feathers"
+  },
+  {
+   "mk": "севда",
+   "en": "love, passion (Turkish-origin)"
+  },
+  {
+   "mk": "одајче",
+   "en": "little room"
+  },
+  {
+   "mk": "сачмајлија",
+   "en": "loaded with buckshot (of a gun)"
+  },
+  {
+   "mk": "тенка пушка",
+   "en": "thin (slim) rifle or shotgun"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "налутил се",
+   "en": "got angry"
+  }
+ ],
+ "performers": [
+  "Баклава",
+  "Влатко Миладиноски",
+  "Захаринка Милосављевиќ",
+  "МПГ Кучковци"
+ ],
+ "audio": [
+  {
+   "who": "МПГ Кучковци",
+   "url": "https://pesna.org/audio-download/4064"
+  },
+  {
+   "who": "Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/4065"
+  },
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/4066"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/4067"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Димитрија вино пие, вино пие ле",
+       "lat": "Dimitrija vino pie, vino pie le",
+       "en": "Dimitrija drinks wine, drinks wine, oh,"
+      },
+      {
+       "cyr": "де море, вино пие.",
+       "lat": "de more, vino pie.",
+       "en": "hey there, drinks wine."
+      },
+      {
+       "cyr": "Оној дрво божурово, божурово ле,",
+       "lat": "Onoj drvo božurovo, božurovo le,",
+       "en": "That peony tree, peony, oh,"
+      },
+      {
+       "cyr": "де море, божурово, их!",
+       "lat": "de more, božurovo, ih!",
+       "en": "hey there, peony, oh!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Долетале два голуба, два голуба ле,",
+       "lat": "Doletale dva goluba, dva goluba le,",
+       "en": "Two doves flew in, two doves, oh,"
+      },
+      {
+       "cyr": "де море, три пауна.",
+       "lat": "de more, tri pauna.",
+       "en": "hey there, three peacocks."
+      },
+      {
+       "cyr": "Растресале бело перје, наросиле ле,",
+       "lat": "Rastresale belo perje, narosile le,",
+       "en": "They shook out white feathers, sprinkled, oh,"
+      },
+      {
+       "cyr": "де море, сладок ручек, их!",
+       "lat": "de more, sladok ruček, ih!",
+       "en": "hey there, a sweet lunch, oh!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара Димитрија, Димитрија ле,",
+       "lat": "Progovara Dimitrija, Dimitrija le,",
+       "en": "Dimitrija speaks, Dimitrija, oh,"
+      },
+      {
+       "cyr": "де море, Димитрија.",
+       "lat": "de more, Dimitrija.",
+       "en": "hey there, Dimitrija."
+      },
+      {
+       "cyr": "- Ајде Лино, моја севдо ле,",
+       "lat": "- Ajde Lino, moja sevdo le,",
+       "en": "- Come on, Lina, my love, oh,"
+      },
+      {
+       "cyr": "де море, моја севдо, их!",
+       "lat": "de more, moja sevdo, ih!",
+       "en": "hey there, my love, oh!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да ојме во одајче, во одајче ле,",
+       "lat": "Aj da ojme vo odajče, vo odajče le,",
+       "en": "Come, let us go to the little room, to the little room, oh,"
+      },
+      {
+       "cyr": "де море, во одајче.",
+       "lat": "de more, vo odajče.",
+       "en": "hey there, to the little room."
+      },
+      {
+       "cyr": "Ај да ојме во одајче, во одајче ле,",
+       "lat": "Aj da ojme vo odajče, vo odajče le,",
+       "en": "Come, let us go to the little room, to the little room, oh,"
+      },
+      {
+       "cyr": "де море, во одајче.",
+       "lat": "de more, vo odajče.",
+       "en": "hey there, to the little room."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Димитрија вино пие под тој дрво,",
+       "lat": "Dimitrija vino pie pod toj drvo,",
+       "en": "Dimitrija drinks wine under that tree,"
+      },
+      {
+       "cyr": "ајде де, дафиново.",
+       "lat": "ajde de, dafinovo.",
+       "en": "come on now, laurel."
+      },
+      {
+       "cyr": "Тука шетаат два пауна и тој Љубе,",
+       "lat": "Tuka šetaat dva pauna i toj Ljube,",
+       "en": "Here two peacocks and that Ljube stroll,"
+      },
+      {
+       "cyr": "ајде де, и тој Љубе.",
+       "lat": "ajde de, i toj Ljube.",
+       "en": "come on now, and that Ljube."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излегоа три голуба од тој дрво,",
+       "lat": "Izlegoa tri goluba od toj drvo,",
+       "en": "Three doves came out of that tree,"
+      },
+      {
+       "cyr": "ајде де, излегоа.",
+       "lat": "ajde de, izlegoa.",
+       "en": "come on now, they came out."
+      },
+      {
+       "cyr": "Нарусија три голуба чаша с' вино,",
+       "lat": "Narusija tri goluba čaša s' vino,",
+       "en": "Three doves dropped into the glass of wine,"
+      },
+      {
+       "cyr": "ајде де, чаша с' вино.",
+       "lat": "ajde de, čaša s' vino.",
+       "en": "come on now, the glass of wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наљутил се на голуби Димитрија,",
+       "lat": "Naljutil se na golubi Dimitrija,",
+       "en": "Dimitrija got angry at the doves,"
+      },
+      {
+       "cyr": "ајде де, наљутил се.",
+       "lat": "ajde de, naljutil se.",
+       "en": "come on now, he got angry."
+      },
+      {
+       "cyr": "- Дај ми Љубе т'нка пушка сачмајлија,",
+       "lat": "- Daj mi Ljube t'nka puška sačmajlija,",
+       "en": "- Give me, Ljube, the thin shotgun,"
+      },
+      {
+       "cyr": "ајде де, сачмајлија.",
+       "lat": "ajde de, sačmajlija.",
+       "en": "come on now, the buckshot one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да убијам мило Љубе, три голуба,",
+       "lat": "Da ubijam milo Ljube, tri goluba,",
+       "en": "To kill, dear Ljube, the three doves,"
+      },
+      {
+       "cyr": "ајде де, да убијам.",
+       "lat": "ajde de, da ubijam.",
+       "en": "come on now, to kill."
+      },
+      {
+       "cyr": "Не се љути, тук' си љуби твое Љубе,",
+       "lat": "Ne se ljuti, tuk' si ljubi tvoe Ljube,",
+       "en": "Do not be angry, just love what is yours, Ljube,"
+      },
+      {
+       "cyr": "ајде де, твое Љубе.",
+       "lat": "ajde de, tvoe Ljube.",
+       "en": "come on now, your own Ljube."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од пиење, нели знаеш, глава боли,",
+       "lat": "Od pienje, neli znaeš, glava boli,",
+       "en": "From drinking, don't you know, the head aches,"
+      },
+      {
+       "cyr": "ајде де, глава боли.",
+       "lat": "ajde de, glava boli.",
+       "en": "come on now, the head aches."
+      },
+      {
+       "cyr": "Од љубење, Димитријо срце боли,",
+       "lat": "Od ljubenje, Dimitrijo srce boli,",
+       "en": "From loving, Dimitrija, the heart aches,"
+      },
+      {
+       "cyr": "ајде де, срце боли.",
+       "lat": "ajde de, srce boli.",
+       "en": "come on now, the heart aches."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 3",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Димитрија џанам, Димитрија,",
+       "lat": "Dimitrija džanam, Dimitrija,",
+       "en": "Dimitrija, dear, Dimitrija,"
+      },
+      {
+       "cyr": "Димитрија ајде ле џанам вино пие,",
+       "lat": "Dimitrija ajde le džanam vino pie,",
+       "en": "Dimitrija, come on, dear, drinks wine,"
+      },
+      {
+       "cyr": "вино пие, ајде ле џанам, рум ракија.",
+       "lat": "vino pie, ajde le džanam, rum rakija.",
+       "en": "drinks wine, come on, dear, ruddy rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прелетаја џанам, прелетаа,",
+       "lat": "Preletaja džanam, preletaa,",
+       "en": "They flew over, dear, they flew over,"
+      },
+      {
+       "cyr": "прелетаа, ајде ле џанам, два сокола,",
+       "lat": "preletaa, ajde le džanam, dva sokola,",
+       "en": "they flew over, come on, dear, two falcons,"
+      },
+      {
+       "cyr": "напрашија, ајде ле џанам, рујното вино.",
+       "lat": "naprašija, ajde le džanam, rujnoto vino.",
+       "en": "they dusted, come on, dear, the ruby wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Налутил се џанам, налутил се,",
+       "lat": "Nalutil se džanam, nalutil se,",
+       "en": "He got angry, dear, he got angry,"
+      },
+      {
+       "cyr": "налутил се, ајде ле џанам, Димитрија,",
+       "lat": "nalutil se, ajde le džanam, Dimitrija,",
+       "en": "he got angry, come on, dear, Dimitrija,"
+      },
+      {
+       "cyr": "налутил се, ајде ле џанам, Димитрија.",
+       "lat": "nalutil se, ajde le džanam, Dimitrija.",
+       "en": "he got angry, come on, dear, Dimitrija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја подајте џанам, ја подајте,",
+       "lat": "- Ja podajte džanam, ja podajte,",
+       "en": "- Hand over, dear, hand over,"
+      },
+      {
+       "cyr": "ја подајте, ајде ле џанам, тенката пушка,",
+       "lat": "ja podajte, ajde le džanam, tenkata puška,",
+       "en": "hand over, come on, dear, the thin gun,"
+      },
+      {
+       "cyr": "ја подајте, ајде ле џанам, тенката пушка.",
+       "lat": "ja podajte, ajde le džanam, tenkata puška.",
+       "en": "hand over, come on, dear, the thin gun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да утепам џанам, да утепам,",
+       "lat": "Da utepam džanam, da utepam,",
+       "en": "So that I kill, dear, kill,"
+      },
+      {
+       "cyr": "да утепам, ајде ле џанам, два сокола,",
+       "lat": "da utepam, ajde le džanam, dva sokola,",
+       "en": "kill, come on, dear, two falcons,"
+      },
+      {
+       "cyr": "два сокола, ајде ле џанам, два галаба.",
+       "lat": "dva sokola, ajde le džanam, dva galaba.",
+       "en": "two falcons, come on, dear, two doves."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

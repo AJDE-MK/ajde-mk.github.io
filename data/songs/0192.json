@@ -1,0 +1,166 @@
+{
+ "id": 192,
+ "slug": "pesna-za-karadzhata",
+ "title_cyr": "Песна за Караџата",
+ "title_latin": "Pesna za Karadžata",
+ "title_en": "Song about Karadzha",
+ "pesna_url": "https://pesna.org/song/192",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/733"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Облак се вие, орлите пиштат,",
+       "lat": "Oblak se vie, orlite pištat,",
+       "en": "A cloud is swirling, the eagles are screeching,"
+      },
+      {
+       "cyr": "планини пеат за Караџата.",
+       "lat": "planini peat za Karadžata.",
+       "en": "mountains are singing about the Karadzha."
+      },
+      {
+       "cyr": "Запеј ми, запеј Кожуф планино",
+       "lat": "Zapej mi, zapej Kožuf planino",
+       "en": "Sing to me, sing Kozhuf Mountain"
+      },
+      {
+       "cyr": "старата песна за Караџата.",
+       "lat": "starata pesna za Karadžata.",
+       "en": "the old song about the Karadzha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја кажи, кажи, а бре Караџа,",
+       "lat": "- Ja kaži, kaži, a bre Karadža,",
+       "en": "- Tell me, tell me Karadzha"
+      },
+      {
+       "cyr": "до каде је Македонија?",
+       "lat": "do kade je Makedonija?",
+       "en": "how far does Macedonia stretch?"
+      },
+      {
+       "cyr": "- Ето таму горе, Кумановско поле",
+       "lat": "- Eto tamu gore, Kumanovsko pole",
+       "en": "- Up over there, Kumanovo Plain,"
+      },
+      {
+       "cyr": "Охрид, Битола, дур' до Пирина.",
+       "lat": "Ohrid, Bitola, dur' do Pirina.",
+       "en": "Ohrid, Bitola, all the way to Pirin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шчици се бичат, спици се прават,",
+       "lat": "Ščici se bičat, spici se pravat,",
+       "en": "Splinters are torn, needles are made,"
+      },
+      {
+       "cyr": "на Македонци во нокти клават,",
+       "lat": "na Makedonci vo nokti klavat,",
+       "en": "inserted below the nails of Macedonians,"
+      },
+      {
+       "cyr": "в' огинот гори, железо се топи,",
+       "lat": "v' oginot gori, železo se topi,",
+       "en": "in the fire that's burning, iron is melted"
+      },
+      {
+       "cyr": "на Македонци под мишки клават.",
+       "lat": "na Makedonci pod miški klavat.",
+       "en": "and put in the armpits of Macedonians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја кажи, кажи, а бре Караџа,",
+       "lat": "- Ja kaži, kaži, a bre Karadža,",
+       "en": "- Tell me, tell me Karadzha"
+      },
+      {
+       "cyr": "до каде е Македонија?",
+       "lat": "do kade e Makedonija?",
+       "en": "how far does Macedonia stretch?"
+      },
+      {
+       "cyr": "- Ето таму долу, Прилеп, Кавадарци",
+       "lat": "- Eto tamu dolu, Prilep, Kavadarci",
+       "en": "- Down over there, Prilep, Kavadarci,"
+      },
+      {
+       "cyr": "Неготино, Дојран, дур' до Солуна.",
+       "lat": "Negotino, Dojran, dur' do Soluna.",
+       "en": "Negotino, Dojran, all the way to Solun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај нека знае цела Европа,",
+       "lat": "Aj neka znae cela Evropa,",
+       "en": "May all Europe know"
+      },
+      {
+       "cyr": "до каде е Македонија:",
+       "lat": "do kade e Makedonija:",
+       "en": "how far does Macedonia stretch:"
+      },
+      {
+       "cyr": "ето тамо горе, Тетовско поле,",
+       "lat": "eto tamo gore, Tetovsko pole,",
+       "en": "up over there, Tetovo Plain,"
+      },
+      {
+       "cyr": "Гостивар, Струга, дур' до Кичево.",
+       "lat": "Gostivar, Struga, dur' do Kičevo.",
+       "en": "Gostivar, Struga, all the way to Kichevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Има ли уште кој да не знае",
+       "lat": "Ima li ušte koj da ne znae",
+       "en": "Is there anyone else who still does not know"
+      },
+      {
+       "cyr": "каде е македонската земја?",
+       "lat": "kade e makedonskata zemja?",
+       "en": "where is the land of Macedonia?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

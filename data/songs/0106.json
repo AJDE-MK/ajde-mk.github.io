@@ -1,0 +1,196 @@
+{
+ "id": 106,
+ "slug": "malkite-momi",
+ "title_cyr": "Малките моми",
+ "title_latin": "Malkite momi",
+ "title_en": "The young girls",
+ "pesna_url": "https://pesna.org/song/106",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The song uses a dated term for a dark-skinned boy; translated as 'Arab boy' literally. 'Делба делиле' is my reading as 'were dividing shares/lots'.",
+ "words_to_learn": [
+  {
+   "mk": "моми",
+   "en": "girls, young women"
+  },
+  {
+   "mk": "делба",
+   "en": "division, sharing out"
+  },
+  {
+   "mk": "сека",
+   "en": "every, each"
+  },
+  {
+   "mk": "момче",
+   "en": "boy, lad"
+  },
+  {
+   "mk": "Арапче",
+   "en": "little Arab, dark-skinned boy"
+  },
+  {
+   "mk": "мила",
+   "en": "washed"
+  },
+  {
+   "mk": "трила",
+   "en": "scrubbed, rubbed"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Ансамбл Кочо Рацин",
+  "Афион",
+  "КУД Орце Николов"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/596"
+  },
+  {
+   "who": "Афион",
+   "url": "https://pesna.org/audio-download/597"
+  },
+  {
+   "who": "КУД Орце Николов",
+   "url": "https://pesna.org/audio-download/2831"
+  },
+  {
+   "who": "Ансамбл Кочо Рацин",
+   "url": "https://pesna.org/audio-download/3493"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Малките моми",
+       "lat": "Malkite momi",
+       "en": "The young girls"
+      },
+      {
+       "cyr": "делба делиле.",
+       "lat": "delba delile.",
+       "en": "were dividing shares."
+      },
+      {
+       "cyr": "Mалките моми",
+       "lat": "Malkite momi",
+       "en": "The young girls"
+      },
+      {
+       "cyr": "делба делиле.",
+       "lat": "delba delile.",
+       "en": "were dividing shares."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сека мома",
+       "lat": "Na seka moma",
+       "en": "To every girl"
+      },
+      {
+       "cyr": "по едно момче.",
+       "lat": "po edno momče.",
+       "en": "one boy."
+      },
+      {
+       "cyr": "На бела Рада",
+       "lat": "Na bela Rada",
+       "en": "To white Rada"
+      },
+      {
+       "cyr": "црно Арапче.",
+       "lat": "crno Arapče.",
+       "en": "a black Arab boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се чудила",
+       "lat": "Pa se čudila",
+       "en": "And she wondered"
+      },
+      {
+       "cyr": "што да прави.",
+       "lat": "što da pravi.",
+       "en": "what to do."
+      },
+      {
+       "cyr": "Па се чудила",
+       "lat": "Pa se čudila",
+       "en": "And she wondered"
+      },
+      {
+       "cyr": "што да му прави.",
+       "lat": "što da mu pravi.",
+       "en": "what to do with him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па го однела",
+       "lat": "Pa go odnela",
+       "en": "And she took him"
+      },
+      {
+       "cyr": "на река Вардар.",
+       "lat": "na reka Vardar.",
+       "en": "to the river Vardar."
+      },
+      {
+       "cyr": "Два дни го мила,",
+       "lat": "Dva dni go mila,",
+       "en": "Two days she washed him,"
+      },
+      {
+       "cyr": "три дни го трила.",
+       "lat": "tri dni go trila.",
+       "en": "three days she scrubbed him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па го качила",
+       "lat": "Pa go kačila",
+       "en": "And she lifted him"
+      },
+      {
+       "cyr": "на бела коња.",
+       "lat": "na bela konja.",
+       "en": "onto a white horse."
+      },
+      {
+       "cyr": "Коњ се белее,",
+       "lat": "Konj se belee,",
+       "en": "The horse is white,"
+      },
+      {
+       "cyr": "либе црнее.",
+       "lat": "libe crnee.",
+       "en": "the love is black."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,146 @@
+{
+ "id": 1425,
+ "slug": "umreja-batko-gjorgjija",
+ "title_cyr": "Умреја батко Ѓорѓија",
+ "title_latin": "Umreja batko Ǵorǵija",
+ "title_en": "Big brother George died",
+ "pesna_url": "https://pesna.org/song/1425",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Ансамбл Панче Пешев",
+  "Васка Илиева",
+  "Јонче Христовски",
+  "Нино Величковски",
+  "Октет Куманово",
+  "Октет Македонија"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3642"
+  },
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/3649"
+  },
+  {
+   "who": "Октет Куманово",
+   "url": "https://pesna.org/audio-download/3650"
+  },
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3651"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3652"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/3653"
+  },
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/3654"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Умреја батко Ѓорѓија, мори бабо,",
+       "lat": "Umreja batko Ǵorǵija, mori babo,",
+       "en": "Big brother George died, grandma,"
+      },
+      {
+       "cyr": "за едну чашу ракија.",
+       "lat": "za ednu čašu rakija.",
+       "en": "for one glass of rakija*."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не је умреја од болест, мори бабо",
+       "lat": "Ne je umreja od bolest, mori babo",
+       "en": "He did not die of a disease, grandma,"
+      },
+      {
+       "cyr": "тук је умреја од лудост.",
+       "lat": "tuk je umreja od ludost.",
+       "en": "but died of madness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Све што видеја убаво, мори бабо",
+       "lat": "Sve što videja ubavo, mori babo",
+       "en": "Everything beautiful that he saw, grandma,"
+      },
+      {
+       "cyr": "све сакат да је његово.",
+       "lat": "sve sakat da je njegovo.",
+       "en": "he wanted it to be his."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Видеја арни волови, мори бабо",
+       "lat": "Videja arni volovi, mori babo",
+       "en": "He saw nice oxen, grandma,"
+      },
+      {
+       "cyr": "па сакат да се његови.",
+       "lat": "pa sakat da se njegovi.",
+       "en": "so he wanted them to be his."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Видеја младу невесту, мори бабо",
+       "lat": "Videja mladu nevestu, mori babo",
+       "en": "He saw a young bride, grandma,"
+      },
+      {
+       "cyr": "па сакат да је његова.",
+       "lat": "pa sakat da je njegova.",
+       "en": "so he wanted her to be his."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не је умреја од болест, мори бабо",
+       "lat": "Ne je umreja od bolest, mori babo",
+       "en": "He did not die of a disease, grandma,"
+      },
+      {
+       "cyr": "тук је умреја од лудост.",
+       "lat": "tuk je umreja od ludost.",
+       "en": "but died of madness."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

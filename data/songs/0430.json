@@ -1,0 +1,162 @@
+{
+ "id": 430,
+ "slug": "mori-mome-magde",
+ "title_cyr": "Мори моме Магде",
+ "title_latin": "Mori mome Magde",
+ "title_en": "Hey, Maiden Magda",
+ "pesna_url": "https://pesna.org/song/430",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Да ти ја кршам' (snap/bend your waist) is my reading, rendered as 'wrap my arms around it'.",
+ "words_to_learn": [
+  {
+   "mk": "умирам за",
+   "en": "I am dying for"
+  },
+  {
+   "mk": "заврти се",
+   "en": "turn around / spin"
+  },
+  {
+   "mk": "заљуби",
+   "en": "fall in love"
+  },
+  {
+   "mk": "изгубив цел век",
+   "en": "I lost a whole lifetime"
+  },
+  {
+   "mk": "руса коса",
+   "en": "fair (blond) hair"
+  },
+  {
+   "mk": "флорин",
+   "en": "florin (gold coin)"
+  },
+  {
+   "mk": "снага",
+   "en": "figure, build"
+  }
+ ],
+ "performers": [
+  "Ацо Андонов",
+  "Зоран Марковски",
+  "Мице Димитров",
+  "Наум Петрески",
+  "Никола Бадев",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/1425"
+  },
+  {
+   "who": "Мице Димитров",
+   "url": "https://pesna.org/audio-download/1426"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1427"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1428"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/1429"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1967"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме Магде, умирам за тебе,",
+       "lat": "Mori mome Magde, umiram za tebe,",
+       "en": "Hey maiden Magda, I am dying for you,"
+      },
+      {
+       "cyr": "заврти се мила Магде, ај заљуби мене,",
+       "lat": "zavrti se mila Magde, aj zaljubi mene,",
+       "en": "turn around, dear Magda, come on, fall in love with me,"
+      },
+      {
+       "cyr": "сè заради тебе Магде, изгубив цел век.",
+       "lat": "sè zaradi tebe Magde, izgubiv cel vek.",
+       "en": "everything for you, Magda, I have lost a whole lifetime."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Руса коса имаш, свети како флорин,",
+       "lat": "Rusa kosa imaš, sveti kako florin,",
+       "en": "You have fair hair, shining like a florin,"
+      },
+      {
+       "cyr": "заврти се мила Магде, ај заљуби мене,",
+       "lat": "zavrti se mila Magde, aj zaljubi mene,",
+       "en": "turn around, dear Magda, come on, fall in love with me,"
+      },
+      {
+       "cyr": "сè заради тебе Магде, изгубив цел век.",
+       "lat": "sè zaradi tebe Magde, izgubiv cel vek.",
+       "en": "everything for you, Magda, I have lost a whole lifetime."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црни очи имаш, дај ми ги на мене,",
+       "lat": "Crni oči imaš, daj mi gi na mene,",
+       "en": "You have black eyes, give them to me,"
+      },
+      {
+       "cyr": "заврти се мила Магде, ај заљуби мене,",
+       "lat": "zavrti se mila Magde, aj zaljubi mene,",
+       "en": "turn around, dear Magda, come on, fall in love with me,"
+      },
+      {
+       "cyr": "сè заради тебе Магде, изгубив цел век.",
+       "lat": "sè zaradi tebe Magde, izgubiv cel vek.",
+       "en": "everything for you, Magda, I have lost a whole lifetime."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рамна снага имаш, дај да ти ја кршам,",
+       "lat": "Ramna snaga imaš, daj da ti ja kršam,",
+       "en": "You have a straight figure, let me wrap my arms around it,"
+      },
+      {
+       "cyr": "заврти се мила Магде, ај заљуби мене,",
+       "lat": "zavrti se mila Magde, aj zaljubi mene,",
+       "en": "turn around, dear Magda, come on, fall in love with me,"
+      },
+      {
+       "cyr": "сè заради тебе Магде, изгубив цел век.",
+       "lat": "sè zaradi tebe Magde, izgubiv cel vek.",
+       "en": "everything for you, Magda, I have lost a whole lifetime."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,125 @@
+{
+ "id": 957,
+ "slug": "stojne-bre-mome-kochansko",
+ "title_cyr": "Стојне бре, моме кочанско",
+ "title_latin": "Stojne bre, mome kočansko",
+ "title_en": "Stojna, maiden from Kochani",
+ "pesna_url": "https://pesna.org/song/957",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вања Лазарова",
+  "Кирил Џајковски"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова, Кирил Џајковски",
+   "url": "https://pesna.org/audio-download/2214"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/3643"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/4055"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стојне бре, моме кочанско,",
+       "lat": "- Stojne bre, mome kočansko,",
+       "en": "- Stojna, maiden from Kochani,"
+      },
+      {
+       "cyr": "каде си било, шетало?",
+       "lat": "kade si bilo, šetalo?",
+       "en": "where were you, strolling?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден си дома не било,",
+       "lat": "Vezden si doma ne bilo,",
+       "en": "All day you weren't at home,"
+      },
+      {
+       "cyr": "капка си вода не пило.",
+       "lat": "kapka si voda ne pilo.",
+       "en": "a drop of water you haven't even had."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Капка си вода не пило,",
+       "lat": "Kapka si voda ne pilo,",
+       "en": "A drop of water, you haven't even had,"
+      },
+      {
+       "cyr": "трошка си лебец не јало.",
+       "lat": "troška si lebec ne jalo.",
+       "en": "a crumb of bread, you haven't even eaten."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди, лудо, будало,",
+       "lat": "- Dejgidi, ludo, budalo,",
+       "en": "- Oh, you crazy lad,"
+      },
+      {
+       "cyr": "не бери гајле за мене.",
+       "lat": "ne beri gajle za mene.",
+       "en": "don't you worry about me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум си, лудо, свршено",
+       "lat": "Jas sum si, ludo, svršeno",
+       "en": "I got engaged, you crazy lad,"
+      },
+      {
+       "cyr": "за едно, лудо, комшивче.",
+       "lat": "za edno, ludo, komšivče.",
+       "en": "with, you crazy lad, a boy from the neighbourhood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што јава коња дорија*,",
+       "lat": "Što java konja dorija*,",
+       "en": "He rides a bay horse,"
+      },
+      {
+       "cyr": "што носи саат в' пазува.",
+       "lat": "što nosi saat v' pazuva.",
+       "en": "he carries a watch in his bosom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

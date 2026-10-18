@@ -1,0 +1,172 @@
+{
+ "id": 235,
+ "slug": "kazhi-mi-kazhi-katinke",
+ "title_cyr": "Кажи ми, кажи Катинке",
+ "title_latin": "Kaži mi, kaži Katinke",
+ "title_en": "Tell me, tell me, Katinka",
+ "pesna_url": "https://pesna.org/song/235",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Lovesickness song; the sickness is love. No guessed lines.",
+ "words_to_learn": [
+  {
+   "mk": "кажи",
+   "en": "tell (imperative)"
+  },
+  {
+   "mk": "вечер",
+   "en": "evening"
+  },
+  {
+   "mk": "дојдам",
+   "en": "I come (subjunctive)"
+  },
+  {
+   "mk": "постојам",
+   "en": "I stand a while"
+  },
+  {
+   "mk": "болен",
+   "en": "sick"
+  },
+  {
+   "mk": "без болест",
+   "en": "without illness"
+  },
+  {
+   "mk": "легнав",
+   "en": "I lay down"
+  },
+  {
+   "mk": "две-три думи",
+   "en": "two or three words"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Драги Спасовски",
+  "Езерки",
+  "Зафир Хаџиманов",
+  "Игнат Виденов",
+  "Октет Македонија",
+  "Dina Trageser"
+ ],
+ "audio": [
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/479"
+  },
+  {
+   "who": "Езерки",
+   "url": "https://pesna.org/audio-download/480"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/2623"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/2755"
+  },
+  {
+   "who": "Игнат Виденов",
+   "url": "https://pesna.org/audio-download/2756"
+  },
+  {
+   "who": "Dina Trageser",
+   "url": "https://pesna.org/audio-download/3866"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/4017"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кажи ми, кажи Катинке,",
+       "lat": "Kaži mi, kaži Katinke,",
+       "en": "Tell me, tell me, Katinka,"
+      },
+      {
+       "cyr": "која ли вечер да дојдам?",
+       "lat": "koja li večer da dojdam?",
+       "en": "which evening should I come?"
+      },
+      {
+       "cyr": "Хеј, хај, болен сум јас,",
+       "lat": "Hej, haj, bolen sum jas,",
+       "en": "Hey, hey, I am sick,"
+      },
+      {
+       "cyr": "без болест, болен си легнав.",
+       "lat": "bez bolest, bolen si legnav.",
+       "en": "sick without an illness I lay down."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Која ли вечер да дојдам,",
+       "lat": "Koja li večer da dojdam,",
+       "en": "Which evening should I come,"
+      },
+      {
+       "cyr": "пред врата да ти постојам?",
+       "lat": "pred vrata da ti postojam?",
+       "en": "to stand a while before your door?"
+      },
+      {
+       "cyr": "Хеј, хај, болен сум јас,",
+       "lat": "Hej, haj, bolen sum jas,",
+       "en": "Hey, hey, I am sick,"
+      },
+      {
+       "cyr": "без болест, болен си легнав.",
+       "lat": "bez bolest, bolen si legnav.",
+       "en": "sick without an illness I lay down."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред врата да ти постојам,",
+       "lat": "Pred vrata da ti postojam,",
+       "en": "To stand a while before your door,"
+      },
+      {
+       "cyr": "две до три думи да кажам,",
+       "lat": "dve do tri dumi da kažam,",
+       "en": "to say two or three words,"
+      },
+      {
+       "cyr": "лицето да ти го видам.",
+       "lat": "liceto da ti go vidam.",
+       "en": "to see your face."
+      },
+      {
+       "cyr": "Хеј, хај, болен сум јас,",
+       "lat": "Hej, haj, bolen sum jas,",
+       "en": "Hey, hey, I am sick,"
+      },
+      {
+       "cyr": "без болест, болен си легнав.",
+       "lat": "bez bolest, bolen si legnav.",
+       "en": "sick without an illness I lay down."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

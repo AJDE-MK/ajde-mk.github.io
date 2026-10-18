@@ -1,0 +1,217 @@
+{
+ "id": 1550,
+ "slug": "neverna",
+ "title_cyr": "Неверна",
+ "title_latin": "Neverna",
+ "title_en": "Unfaithful one",
+ "pesna_url": "https://pesna.org/song/1550",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern-sounding song, but I cannot name an author, so origin unclear. 'В' лицето грубам' is my reading ('I grow coarse in the face'); 'кој ли те пее' is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "неверна",
+   "en": "unfaithful (woman)"
+  },
+  {
+   "mk": "таги",
+   "en": "sorrows"
+  },
+  {
+   "mk": "смирам",
+   "en": "I calm down"
+  },
+  {
+   "mk": "скријам",
+   "en": "I hide"
+  },
+  {
+   "mk": "далги",
+   "en": "waves"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "везден",
+   "en": "always, every day (dialect)"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes, garment"
+  },
+  {
+   "mk": "воздишки",
+   "en": "sighs"
+  },
+  {
+   "mk": "копнеам",
+   "en": "I pine, I long"
+  }
+ ],
+ "performers": [
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/4039"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Без неа шетам, без неа спијам,",
+       "lat": "Bez nea šetam, bez nea spijam,",
+       "en": "Without her I walk, without her I sleep,"
+      },
+      {
+       "cyr": "од неа носам длабоки таги.",
+       "lat": "od nea nosam dlaboki tagi.",
+       "en": "from her I carry deep sorrows."
+      },
+      {
+       "cyr": "Кај да се смирам, кај да се скријам,",
+       "lat": "Kaj da se smiram, kaj da se skrijam,",
+       "en": "Where can I find calm, where can I hide,"
+      },
+      {
+       "cyr": "градите бијат по неа далги.",
+       "lat": "gradite bijat po nea dalgi.",
+       "en": "waves beat in my chest for her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да си што не ме љубиш",
+       "lat": "Prokleta da si što ne me ljubiš",
+       "en": "Cursed be you who do not love me,"
+      },
+      {
+       "cyr": "жено незадоволна.",
+       "lat": "ženo nezadovolna.",
+       "en": "dissatisfied woman."
+      },
+      {
+       "cyr": "Умирам по тебе, неверна,",
+       "lat": "Umiram po tebe, neverna,",
+       "en": "I am dying for you, unfaithful one,"
+      },
+      {
+       "cyr": "изгорев, ѕвездо северна.",
+       "lat": "izgorev, dzvezdo severna.",
+       "en": "I have burned up, north star."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден ја носам истата руба,",
+       "lat": "Vezden ja nosam istata ruba,",
+       "en": "Always I wear the same clothes,"
+      },
+      {
+       "cyr": "далеку одам, празен се враќам,",
+       "lat": "daleku odam, prazen se vraḱam,",
+       "en": "I go far away, I come back empty,"
+      },
+      {
+       "cyr": "стареам брзо, в' лицето грубам,",
+       "lat": "staream brzo, v' liceto grubam,",
+       "en": "I am ageing fast, I grow coarse in the face,"
+      },
+      {
+       "cyr": "воздишки долги по неа праќам.",
+       "lat": "vozdiški dolgi po nea praḱam.",
+       "en": "long sighs I send after her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да си што не ме љубиш",
+       "lat": "Prokleta da si što ne me ljubiš",
+       "en": "Cursed be you who do not love me,"
+      },
+      {
+       "cyr": "жено незадоволна.",
+       "lat": "ženo nezadovolna.",
+       "en": "dissatisfied woman."
+      },
+      {
+       "cyr": "Умирам по тебе, неверна,",
+       "lat": "Umiram po tebe, neverna,",
+       "en": "I am dying for you, unfaithful one,"
+      },
+      {
+       "cyr": "изгорев, ѕвездо северна.",
+       "lat": "izgorev, dzvezdo severna.",
+       "en": "I have burned up, north star."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не јадам веќе, не пијам вина,",
+       "lat": "Ne jadam veḱe, ne pijam vina,",
+       "en": "I no longer eat, I no longer drink wine,"
+      },
+      {
+       "cyr": "кој ли те пее убава песно,",
+       "lat": "koj li te pee ubava pesno,",
+       "en": "whoever sings you, beautiful song,"
+      },
+      {
+       "cyr": "копнеам, скитам, денови минат,",
+       "lat": "kopneam, skitam, denovi minat,",
+       "en": "I pine, I wander, the days pass,"
+      },
+      {
+       "cyr": "за тебе душо сегде е тесно.",
+       "lat": "za tebe dušo segde e tesno.",
+       "en": "for you, my soul, everywhere is narrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да си што не ме љубиш",
+       "lat": "Prokleta da si što ne me ljubiš",
+       "en": "Cursed be you who do not love me,"
+      },
+      {
+       "cyr": "жено незадоволна.",
+       "lat": "ženo nezadovolna.",
+       "en": "dissatisfied woman."
+      },
+      {
+       "cyr": "Умирам по тебе, неверна,",
+       "lat": "Umiram po tebe, neverna,",
+       "en": "I am dying for you, unfaithful one,"
+      },
+      {
+       "cyr": "изгорев, ѕвездо северна.",
+       "lat": "izgorev, dzvezdo severna.",
+       "en": "I have burned up, north star."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

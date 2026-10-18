@@ -1,0 +1,178 @@
+{
+ "id": 630,
+ "slug": "jas-si-go-sakam-nano",
+ "title_cyr": "Јас си го сакам нано",
+ "title_latin": "Jas si go sakam nano",
+ "title_en": "I Love Her, Mother",
+ "pesna_url": "https://pesna.org/song/630",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The refrain 'Кажи, речи, речи, кажи' is rendered as 'Tell her, say, say, tell', my reading (the object 'her' is implied).",
+ "words_to_learn": [
+  {
+   "mk": "јазе",
+   "en": "I (dialect)"
+  },
+  {
+   "mk": "поп",
+   "en": "priest"
+  },
+  {
+   "mk": "филџан",
+   "en": "small coffee cup"
+  },
+  {
+   "mk": "руса коса",
+   "en": "blond hair"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "straight, slender figure"
+  },
+  {
+   "mk": "мрена",
+   "en": "barbel (fish)"
+  },
+  {
+   "mk": "кажи, речи",
+   "en": "tell, say"
+  }
+ ],
+ "performers": [
+  "Александар Трпчев",
+  "Васил Волканов",
+  "Вера Трпкова",
+  "Кочо Петровски",
+  "Никола Бадев",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1414"
+  },
+  {
+   "who": "Радио студио Скопје, Вера Трпкова",
+   "url": "https://pesna.org/audio-download/3397"
+  },
+  {
+   "who": "Александар Трпчев",
+   "url": "https://pesna.org/audio-download/4264"
+  },
+  {
+   "who": "Кочо Петровски",
+   "url": "https://pesna.org/audio-download/4265"
+  },
+  {
+   "who": "Васил Волканов",
+   "url": "https://pesna.org/audio-download/4266"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јазе си го сакам мамо",
+       "lat": "Jaze si go sakam mamo",
+       "en": "I love, mother,"
+      },
+      {
+       "cyr": "поповото Стојне.",
+       "lat": "popovoto Stojne.",
+       "en": "the priest's Stojna."
+      },
+      {
+       "cyr": "Кажи, речи, речи, кажи,",
+       "lat": "Kaži, reči, reči, kaži,",
+       "en": "Tell her, say, say, tell,"
+      },
+      {
+       "cyr": "поповото Стојне.",
+       "lat": "popovoto Stojne.",
+       "en": "the priest's Stojna."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црни очи има мамо,",
+       "lat": "Crni oči ima mamo,",
+       "en": "She has black eyes, mother,"
+      },
+      {
+       "cyr": "солунски филџани.",
+       "lat": "solunski fildžani.",
+       "en": "like Salonika coffee cups."
+      },
+      {
+       "cyr": "Кажи, речи, речи, кажи,",
+       "lat": "Kaži, reči, reči, kaži,",
+       "en": "Tell her, say, say, tell,"
+      },
+      {
+       "cyr": "солунски филџани.",
+       "lat": "solunski fildžani.",
+       "en": "like Salonika coffee cups."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Руса коса има мамо,",
+       "lat": "Rusa kosa ima mamo,",
+       "en": "She has blond hair, mother,"
+      },
+      {
+       "cyr": "од рамо на рамо.",
+       "lat": "od ramo na ramo.",
+       "en": "from shoulder to shoulder."
+      },
+      {
+       "cyr": "Кажи, речи, речи, кажи,",
+       "lat": "Kaži, reči, reči, kaži,",
+       "en": "Tell her, say, say, tell,"
+      },
+      {
+       "cyr": "од рамо на рамо.",
+       "lat": "od ramo na ramo.",
+       "en": "from shoulder to shoulder."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рамна снага има мамо,",
+       "lat": "Ramna snaga ima mamo,",
+       "en": "She has a straight figure, mother,"
+      },
+      {
+       "cyr": "како мрена риба.",
+       "lat": "kako mrena riba.",
+       "en": "like a barbel fish."
+      },
+      {
+       "cyr": "Кажи, речи, речи, кажи,",
+       "lat": "Kaži, reči, reči, kaži,",
+       "en": "Tell her, say, say, tell,"
+      },
+      {
+       "cyr": "како мрена риба.",
+       "lat": "kako mrena riba.",
+       "en": "like a barbel fish."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

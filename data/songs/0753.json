@@ -1,0 +1,209 @@
+{
+ "id": 753,
+ "slug": "shto-mozhe-ljubovta",
+ "title_cyr": "Што може љубовта",
+ "title_latin": "Što može ljubovta",
+ "title_en": "What Love Can Do",
+ "pesna_url": "https://pesna.org/song/753",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (modern-sounding love song, no author I can name). 'певлива' I read as 'singable, melodious'.",
+ "words_to_learn": [
+  {
+   "mk": "кафеана",
+   "en": "tavern, cafe"
+  },
+  {
+   "mk": "гости",
+   "en": "guests"
+  },
+  {
+   "mk": "свеќата",
+   "en": "the candle"
+  },
+  {
+   "mk": "опојно",
+   "en": "intoxicating"
+  },
+  {
+   "mk": "липа",
+   "en": "linden tree"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "чекориме",
+   "en": "we step, walk"
+  },
+  {
+   "mk": "запреме",
+   "en": "we will stop"
+  }
+ ],
+ "performers": [
+  "Боеми"
+ ],
+ "audio": [
+  {
+   "who": "Боеми",
+   "url": "https://pesna.org/audio-download/1098"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во старата кафеана",
+       "lat": "Vo starata kafeana",
+       "en": "In the old tavern"
+      },
+      {
+       "cyr": "само ние гости сме.",
+       "lat": "samo nie gosti sme.",
+       "en": "we are the only guests."
+      },
+      {
+       "cyr": "Мала маса, интимна,",
+       "lat": "Mala masa, intimna,",
+       "en": "A small, intimate table,"
+      },
+      {
+       "cyr": "а на маса рози две.",
+       "lat": "a na masa rozi dve.",
+       "en": "and on the table two roses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Музиканти тивко свират",
+       "lat": "Muzikanti tivko svirat",
+       "en": "Musicians play softly,"
+      },
+      {
+       "cyr": "бавно гори свеќата,",
+       "lat": "bavno gori sveḱata,",
+       "en": "the candle burns slowly,"
+      },
+      {
+       "cyr": "вљубено се гледаме,",
+       "lat": "vljubeno se gledame,",
+       "en": "we gaze at each other in love,"
+      },
+      {
+       "cyr": "не се крие среќата.",
+       "lat": "ne se krie sreḱata.",
+       "en": "happiness is not hidden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Виното е опојно,",
+       "lat": "Vinoto e opojno,",
+       "en": "The wine is intoxicating,"
+      },
+      {
+       "cyr": "песната е певлива,",
+       "lat": "pesnata e pevliva,",
+       "en": "the song is singable,"
+      },
+      {
+       "cyr": "но да згрее срца две",
+       "lat": "no da zgree srca dve",
+       "en": "but to warm two hearts"
+      },
+      {
+       "cyr": "може само љубовта.",
+       "lat": "može samo ljubovta.",
+       "en": "only love can."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прегрнати излеговме",
+       "lat": "Pregrnati izlegovme",
+       "en": "Embracing we left,"
+      },
+      {
+       "cyr": "ноќта тивка, пролетна,",
+       "lat": "noḱta tivka, proletna,",
+       "en": "the night quiet, of spring,"
+      },
+      {
+       "cyr": "мирисот на липите",
+       "lat": "mirisot na lipite",
+       "en": "the scent of the lindens"
+      },
+      {
+       "cyr": "спои срца довека.",
+       "lat": "spoi srca doveka.",
+       "en": "joined hearts forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зора зори, ние двајца",
+       "lat": "Zora zori, nie dvajca",
+       "en": "Dawn is breaking, we two"
+      },
+      {
+       "cyr": "бавно си чекориме,",
+       "lat": "bavno si čekorime,",
+       "en": "walk slowly,"
+      },
+      {
+       "cyr": "да се може, времето",
+       "lat": "da se može, vremeto",
+       "en": "if it were possible, time"
+      },
+      {
+       "cyr": "сега ќе го запреме.",
+       "lat": "sega ḱe go zapreme.",
+       "en": "we would now stop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Виното е опојно,",
+       "lat": "Vinoto e opojno,",
+       "en": "The wine is intoxicating,"
+      },
+      {
+       "cyr": "песната е певлива,",
+       "lat": "pesnata e pevliva,",
+       "en": "the song is singable,"
+      },
+      {
+       "cyr": "но да згрее срца две,",
+       "lat": "no da zgree srca dve,",
+       "en": "but to warm two hearts,"
+      },
+      {
+       "cyr": "може само љубовта.",
+       "lat": "može samo ljubovta.",
+       "en": "only love can."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

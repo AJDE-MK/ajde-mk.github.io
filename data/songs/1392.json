@@ -1,0 +1,97 @@
+{
+ "id": 1392,
+ "slug": "shto-pominav-majko",
+ "title_cyr": "Што поминав мајко",
+ "title_latin": "Što pominav majko",
+ "title_en": "When I walked by mother",
+ "pesna_url": "https://pesna.org/song/1392",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори, мајко ле мори, мајко,",
+       "lat": "Mori, majko le mori, majko,",
+       "en": "My mother, my dear mother,"
+      },
+      {
+       "cyr": "што поминав, мајко ле мори, горната маала,",
+       "lat": "što pominav, majko le mori, gornata maala,",
+       "en": "when I walked, mother, by the upper quarters,"
+      },
+      {
+       "cyr": "што си видов, мајко ле мори, Доста девојка,",
+       "lat": "što si vidov, majko le mori, Dosta devojka,",
+       "en": "there I saw, mother, the maiden Dosta,"
+      },
+      {
+       "cyr": "Доста беше, мајко ле мори, како мене.",
+       "lat": "Dosta beše, majko le mori, kako mene.",
+       "en": "Dosta was, my mother, just like me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори, мајко ле мори мајко,",
+       "lat": "Mori, majko le mori majko,",
+       "en": "My mother, my dear mother,"
+      },
+      {
+       "cyr": "ко мене, мајко ле мори, прилегат за мене.",
+       "lat": "ko mene, majko le mori, prilegat za mene.",
+       "en": "she’s like me, dear mother, she’s my kind."
+      },
+      {
+       "cyr": "Иди мамо, мајко ле мори, питај ми ју",
+       "lat": "Idi mamo, majko le mori, pitaj mi ju",
+       "en": "Go to her, mom, dear mother, and ask for her,"
+      },
+      {
+       "cyr": "ак ти ју давит мајко, да се позаба’иш.",
+       "lat": "ak ti ju davit majko, da se pozaba’iš.",
+       "en": "if they’ll give her to me, mother, then stay to celebrate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори, мајко ле мори, мајко,",
+       "lat": "Mori, majko le mori, majko,",
+       "en": "My mother, my dear mother,"
+      },
+      {
+       "cyr": "ак не ти ју давит мајко, брго да си дојдиш.",
+       "lat": "ak ne ti ju davit majko, brgo da si dojdiš.",
+       "en": "if they won’t give her, come back home quickly."
+      },
+      {
+       "cyr": "Куќи ќе расипам мајко, манастир ќе правам,",
+       "lat": "Kuḱi ḱe rasipam majko, manastir ḱe pravam,",
+       "en": "I’ll knock down the house, mother, and I’ll build a monastery,"
+      },
+      {
+       "cyr": "манастир ќе пра’ам мајко, калуѓер ќе бидам.",
+       "lat": "manastir ḱe pra’am majko, kaluǵer ḱe bidam.",
+       "en": "I’ll build a monastery, mother, and become a monk."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

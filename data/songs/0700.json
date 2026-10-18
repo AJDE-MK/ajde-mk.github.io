@@ -1,0 +1,97 @@
+{
+ "id": 700,
+ "slug": "davaj-me-mamo-mori-davaj-me",
+ "title_cyr": "Давај ме мамо мори давај ме",
+ "title_latin": "Davaj me mamo mori davaj me",
+ "title_en": "Give me away, mother, hey, give me away",
+ "pesna_url": "https://pesna.org/song/700",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Speaker roles are unclear; my reading is that a daughter asks to be given to the young man and the mother refuses. 'Женето' and the lines about the fourth child 'on his heart' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "давај",
+   "en": "give (away)"
+  },
+  {
+   "mk": "бекријче",
+   "en": "little bachelor, carefree young man"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "foolish young (affectionate address)"
+  },
+  {
+   "mk": "женето",
+   "en": "the husband/man (dialect)"
+  },
+  {
+   "mk": "болно",
+   "en": "sick, ailing"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (filler)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Давај ме мамо мори давај ме",
+       "lat": "Davaj me mamo mori davaj me",
+       "en": "Give me away, mother, hey, give me away"
+      },
+      {
+       "cyr": "за тоа лудо младо бекријче.",
+       "lat": "za toa ludo mlado bekrijče.",
+       "en": "to that foolish young bachelor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам ќерко мори, неможам,",
+       "lat": "Ne možam ḱerko mori, nemožam,",
+       "en": "I can't, daughter, hey, I can't,"
+      },
+      {
+       "cyr": "болно е, лудо, младо женето,",
+       "lat": "bolno e, ludo, mlado ženeto,",
+       "en": "he is sick, the foolish young husband,"
+      },
+      {
+       "cyr": "пред седум, осум ќерко мори години.",
+       "lat": "pred sedum, osum ḱerko mori godini.",
+       "en": "since seven, eight years ago, daughter, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три деца ќерко мори тој има",
+       "lat": "Tri deca ḱerko mori toj ima",
+       "en": "Three children, daughter, hey, he has,"
+      },
+      {
+       "cyr": "четврто ќерко мори на срце.",
+       "lat": "četvrto ḱerko mori na srce.",
+       "en": "and a fourth, daughter, hey, on his heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,145 @@
+{
+ "id": 101,
+ "slug": "kinisue-stojan-vo-planina",
+ "title_cyr": "Кинисуе Стојан во планина",
+ "title_latin": "Kinisue Stojan vo planina",
+ "title_en": "Stojan Set Off to the Mountain",
+ "pesna_url": "https://pesna.org/song/101",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. 'шега' in 'се бијат шега' is my reading as 'fight over a joke'; the line is slightly unclear.",
+ "words_to_learn": [
+  {
+   "mk": "кинисуе",
+   "en": "set off (dialect form)"
+  },
+  {
+   "mk": "нарачуе",
+   "en": "gives instructions, orders"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "рудина",
+   "en": "meadow, upland pasture"
+  },
+  {
+   "mk": "напасам",
+   "en": "to graze (the flock)"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock, herd"
+  },
+  {
+   "mk": "сокаци",
+   "en": "lanes, narrow streets"
+  },
+  {
+   "mk": "селаните",
+   "en": "the villagers"
+  },
+  {
+   "mk": "другарите",
+   "en": "the friends, comrades"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/3838"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисуе Стојан во планина,",
+       "lat": "Kinisue Stojan vo planina,",
+       "en": "Stojan set off to the mountain,"
+      },
+      {
+       "cyr": "кинисуе Стојан, нарачуе,",
+       "lat": "kinisue Stojan, naračue,",
+       "en": "Stojan set off, he gave instructions,"
+      },
+      {
+       "cyr": "нарачуе Стојан на мајка си.",
+       "lat": "naračue Stojan na majka si.",
+       "en": "Stojan gave instructions to his mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ќе одам мајко во планина,",
+       "lat": "- Jas ḱe odam majko vo planina,",
+       "en": "- I will go, mother, to the mountain,"
+      },
+      {
+       "cyr": "во планина мајко, по рудина,",
+       "lat": "vo planina majko, po rudina,",
+       "en": "to the mountain, mother, to the meadow,"
+      },
+      {
+       "cyr": "да напасам мајко бело стадо.",
+       "lat": "da napasam majko belo stado.",
+       "en": "to graze, mother, the white flock."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти оставам мајко седум сестри,",
+       "lat": "Ti ostavam majko sedum sestri,",
+       "en": "I leave you, mother, seven sisters,"
+      },
+      {
+       "cyr": "ти да гледаш мајко да ги караш,",
+       "lat": "ti da gledaš majko da gi karaš,",
+       "en": "you see to it, mother, that you keep them in check,"
+      },
+      {
+       "cyr": "да не скитат ноќе по сокаци.",
+       "lat": "da ne skitat noḱe po sokaci.",
+       "en": "that they do not wander at night through the lanes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не чујам мајко нешто смеја,",
+       "lat": "Da ne čujam majko nešto smeja,",
+       "en": "That I do not hear, mother, any mockery,"
+      },
+      {
+       "cyr": "да се бијат шега селаните,",
+       "lat": "da se bijat šega selanite,",
+       "en": "that the villagers do not fight over a joke,"
+      },
+      {
+       "cyr": "да не ми се смејат другарите.",
+       "lat": "da ne mi se smejat drugarite.",
+       "en": "that my friends do not laugh at me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,178 @@
+{
+ "id": 1548,
+ "slug": "go-pratile-dedo",
+ "title_cyr": "Го пратиле дедо",
+ "title_latin": "Go pratile dedo",
+ "title_en": "They sent grandpa",
+ "pesna_url": "https://pesna.org/song/1548",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song, origin unclear. 'Азганче' is left as is because I am unsure of the meaning (possibly a kind of young or strong horse).",
+ "words_to_learn": [
+  {
+   "mk": "дедо",
+   "en": "grandfather, old man"
+  },
+  {
+   "mk": "Ат-пазар",
+   "en": "horse market"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn (Turkish-origin)"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong rakija"
+  },
+  {
+   "mk": "бербер",
+   "en": "barber"
+  },
+  {
+   "mk": "брада",
+   "en": "beard"
+  },
+  {
+   "mk": "мустак",
+   "en": "moustache"
+  },
+  {
+   "mk": "мајтапчија",
+   "en": "joker, teaser"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruddy (red) wine"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгии на РТС, Филиграни",
+   "url": "https://pesna.org/audio-download/4037"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Го пратиле дедо на Ат-пазар,",
+       "lat": "Go pratile dedo na At-pazar,",
+       "en": "They sent grandpa to the Horse Market,"
+      },
+      {
+       "cyr": "да си купи коњче азганче,",
+       "lat": "da si kupi konjče azganče,",
+       "en": "to buy a little horse, an azganche,"
+      },
+      {
+       "cyr": "да не оди пеш по планина.",
+       "lat": "da ne odi peš po planina.",
+       "en": "so that he would not walk over the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми пошол дедо на Ат-пазар,",
+       "lat": "Ne mi pošol dedo na At-pazar,",
+       "en": "Grandpa did not go to the Horse Market,"
+      },
+      {
+       "cyr": "тук' ми пошол в' ладна меана,",
+       "lat": "tuk' mi pošol v' ladna meana,",
+       "en": "he went into a cold tavern,"
+      },
+      {
+       "cyr": "си нарачал лута ракија.",
+       "lat": "si naračal luta rakija.",
+       "en": "and ordered strong rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море дедо, мераклија,",
+       "lat": "Ej more dedo, meraklija,",
+       "en": "Hey, old grandpa, a reveller,"
+      },
+      {
+       "cyr": "еј море дедо, мајтапчија.",
+       "lat": "ej more dedo, majtapčija.",
+       "en": "hey, old grandpa, a joker."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го пратиле дедо на бербер,",
+       "lat": "Go pratile dedo na berber,",
+       "en": "They sent grandpa to the barber,"
+      },
+      {
+       "cyr": "брадата да му ја избричат,",
+       "lat": "bradata da mu ja izbričat,",
+       "en": "to have his beard shaved,"
+      },
+      {
+       "cyr": "мустакот да му го поткастрат.",
+       "lat": "mustakot da mu go potkastrat.",
+       "en": "to have his moustache trimmed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми пошол дедо на бербер,",
+       "lat": "Ne mi pošol dedo na berber,",
+       "en": "Grandpa did not go to the barber,"
+      },
+      {
+       "cyr": "тук' ми пошол в' ладна меана,",
+       "lat": "tuk' mi pošol v' ladna meana,",
+       "en": "he went into a cold tavern,"
+      },
+      {
+       "cyr": "си нарачал винце рујно, румено.",
+       "lat": "si naračal vince rujno, rumeno.",
+       "en": "and ordered ruddy, rosy little wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море дедо, мераклија,",
+       "lat": "Ej more dedo, meraklija,",
+       "en": "Hey, old grandpa, a reveller,"
+      },
+      {
+       "cyr": "еј море дедо, мајтапчија.",
+       "lat": "ej more dedo, majtapčija.",
+       "en": "hey, old grandpa, a joker."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

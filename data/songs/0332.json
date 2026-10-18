@@ -1,0 +1,175 @@
+{
+ "id": 332,
+ "slug": "otvrli-si-belo-lenche-dulacheto",
+ "title_cyr": "Отврли си бело Ленче дулачето",
+ "title_latin": "Otvrli si belo Lenče dulačeto",
+ "title_en": "Lift your veil, fair Lenche",
+ "pesna_url": "https://pesna.org/song/332",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Кара Коце' rendered as 'dark Koce' (my reading, 'кара' = dark/black); 'дулаче' as veil and 'Јонета' as a name are guesses. 'Подигни си, бре невесте дулачето' is rendered as 'Lift your veil, hey bride'.",
+ "words_to_learn": [
+  {
+   "mk": "дулаче",
+   "en": "bridal veil (my reading)"
+  },
+  {
+   "mk": "отврли",
+   "en": "lift, throw back (dialect)"
+  },
+  {
+   "mk": "гајтан веѓи",
+   "en": "thread-thin (finely drawn) eyebrows"
+  },
+  {
+   "mk": "продадено",
+   "en": "sold"
+  },
+  {
+   "mk": "зенгии",
+   "en": "rich people (Turkish loan)"
+  },
+  {
+   "mk": "лири",
+   "en": "lira (coins)"
+  },
+  {
+   "mk": "елек",
+   "en": "vest, waistcoat"
+  }
+ ],
+ "performers": [
+  "Љупка Рондова"
+ ],
+ "audio": [
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/2725"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Отврли си бело Ленче дулачето",
+       "lat": "- Otvrli si belo Lenče dulačeto",
+       "en": "- Lift the veil, fair Lenche,"
+      },
+      {
+       "cyr": "да ти видам бело Ленче, бело лице,",
+       "lat": "da ti vidam belo Lenče, belo lice,",
+       "en": "so I can see you, fair Lenche, your white face,"
+      },
+      {
+       "cyr": "да ти видам, бело Ленче, бело лице.",
+       "lat": "da ti vidam, belo Lenče, belo lice.",
+       "en": "so I can see you, fair Lenche, your white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да видиш, кара Коце, фајде немаш,",
+       "lat": "- I da vidiš, kara Koce, fajde nemaš,",
+       "en": "- Even if you see it, dark Koce, it won't help you,"
+      },
+      {
+       "cyr": "бело лице, кара Коце, продадено,",
+       "lat": "belo lice, kara Koce, prodadeno,",
+       "en": "my white face, dark Koce, is sold,"
+      },
+      {
+       "cyr": "продадено, кара Коце, за Јонета.",
+       "lat": "prodadeno, kara Koce, za Joneta.",
+       "en": "sold, dark Koce, to Jonete."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Отврли си бело Ленче дулачето",
+       "lat": "- Otvrli si belo Lenče dulačeto",
+       "en": "- Lift the veil, fair Lenche,"
+      },
+      {
+       "cyr": "да ти видам бело Ленче, црни очи,",
+       "lat": "da ti vidam belo Lenče, crni oči,",
+       "en": "so I can see you, fair Lenche, your black eyes,"
+      },
+      {
+       "cyr": "црни очи, бело Ленче, гајтан веѓи.",
+       "lat": "crni oči, belo Lenče, gajtan veǵi.",
+       "en": "your black eyes, fair Lenche, your thread-thin brows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да видиш, лудо младо, фајде немаш,",
+       "lat": "- I da vidiš, ludo mlado, fajde nemaš,",
+       "en": "- Even if you see them, foolish young man, it won't help you,"
+      },
+      {
+       "cyr": "црни очи, лудо младо, продадени,",
+       "lat": "crni oči, ludo mlado, prodadeni,",
+       "en": "my black eyes, foolish young man, are sold,"
+      },
+      {
+       "cyr": "гајтан веѓи, лудо младо, продадени.",
+       "lat": "gajtan veǵi, ludo mlado, prodadeni.",
+       "en": "my thread-thin brows, foolish young man, are sold."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Придадени, кара Коце, у комшии,",
+       "lat": "Pridadeni, kara Koce, u komšii,",
+       "en": "Sold, dark Koce, to the neighbours,"
+      },
+      {
+       "cyr": "у комшии, кара Коце, у зенгии,",
+       "lat": "u komšii, kara Koce, u zengii,",
+       "en": "to the neighbours, dark Koce, to the rich people,"
+      },
+      {
+       "cyr": "у комшии, лудо младо, у зенгии.",
+       "lat": "u komšii, ludo mlado, u zengii.",
+       "en": "to the neighbours, foolish young man, to the rich people."
+      },
+      {
+       "cyr": "Тато зеде, лудо младо, двајсет лири,",
+       "lat": "Tato zede, ludo mlado, dvajset liri,",
+       "en": "Father took, foolish young man, twenty lira,"
+      },
+      {
+       "cyr": "мајка зеде, лудо младо, шарен елек.",
+       "lat": "majka zede, ludo mlado, šaren elek.",
+       "en": "mother took, foolish young man, a colourful vest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Друга верзија: Подигни си, бре невесте дулачето.",
+       "lat": "Druga verzija: Podigni si, bre neveste dulačeto.",
+       "en": "Another version: Lift your veil, hey bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

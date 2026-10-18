@@ -1,0 +1,245 @@
+{
+ "id": 617,
+ "slug": "ajde-red-se-redat-male",
+ "title_cyr": "Ајде ред се редат мале",
+ "title_latin": "Ajde red se redat male",
+ "title_en": "Oh, they are forming ranks",
+ "pesna_url": "https://pesna.org/song/617",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: David Golber)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Теодосиевски",
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Николина Кузмановска",
+  "Октет Куманово",
+  "Стефче Стојковски",
+  "Танец",
+  "Blair Greenberg",
+  "Macedonian Women's Choir of Melbourne",
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/953"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/954"
+  },
+  {
+   "who": "Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/955"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/956"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/957"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1267"
+  },
+  {
+   "who": "Ансамбл Теодосиевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3027"
+  },
+  {
+   "who": "Октет Куманово",
+   "url": "https://pesna.org/audio-download/3028"
+  },
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3418"
+  },
+  {
+   "who": "Blair Greenberg, Macedonian Women's Choir of Melbourne",
+   "url": "https://pesna.org/audio-download/4063"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ред се редат, мале",
+       "lat": "Ajde red se redat, male",
+       "en": "Oh, they are forming ranks, mother,"
+      },
+      {
+       "cyr": "море ред се редат,",
+       "lat": "more red se redat,",
+       "en": "Hey, they are forming ranks,"
+      },
+      {
+       "cyr": "кочански сејмени, мила мамо",
+       "lat": "kočanski sejmeni, mila mamo",
+       "en": "The Kochani gendarmes, dear mama"
+      },
+      {
+       "cyr": "кочански сејмени.",
+       "lat": "kočanski sejmeni.",
+       "en": "The Kochani gendarmes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе ми одат, мале",
+       "lat": "Ajde ḱe mi odat, male",
+       "en": "Oh, they will go, mother"
+      },
+      {
+       "cyr": "ајде ќе ми одат,",
+       "lat": "ajde ḱe mi odat,",
+       "en": "Oh, they will go,"
+      },
+      {
+       "cyr": "покрај Крива Река мила мале,",
+       "lat": "pokraj Kriva Reka mila male,",
+       "en": "By Bent River, dear mother,"
+      },
+      {
+       "cyr": "покрај Крива Река.",
+       "lat": "pokraj Kriva Reka.",
+       "en": "By Bent River."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе го барат, мале",
+       "lat": "Ajde ḱe go barat, male",
+       "en": "Oh, they will look for, mother"
+      },
+      {
+       "cyr": "ајде ќе го барат",
+       "lat": "ajde ḱe go barat",
+       "en": "Oh, they will look for"
+      },
+      {
+       "cyr": "Иљо арамија, мила мамо",
+       "lat": "Iljo aramija, mila mamo",
+       "en": "Iljo the bandit, dear mother"
+      },
+      {
+       "cyr": "Иљо арамија.",
+       "lat": "Iljo aramija.",
+       "en": "Iljo the bandit."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде не ми било Иљо",
+       "lat": "Ajde ne mi bilo Iljo",
+       "en": "Oh Iljo wasn't"
+      },
+      {
+       "cyr": "ајде не ми било,",
+       "lat": "ajde ne mi bilo,",
+       "en": "Oh he wasn't"
+      },
+      {
+       "cyr": "покрај Крива Река, мила мамо",
+       "lat": "pokraj Kriva Reka, mila mamo",
+       "en": "By Bent River, dear mama"
+      },
+      {
+       "cyr": "покрај Крива Река.",
+       "lat": "pokraj Kriva Reka.",
+       "en": "By Bent River."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде тук' ми било Иљо",
+       "lat": "Ajde tuk' mi bilo Iljo",
+       "en": "Oh, Iljo was here"
+      },
+      {
+       "cyr": "ајде тук' ми било,",
+       "lat": "ajde tuk' mi bilo,",
+       "en": "Oh, he was here"
+      },
+      {
+       "cyr": "во Солуна града, мила мале",
+       "lat": "vo Soluna grada, mila male",
+       "en": "In Solun city, dear mother"
+      },
+      {
+       "cyr": "во ладна меана.",
+       "lat": "vo ladna meana.",
+       "en": "In a cool tavern."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде Иљо пило мале",
+       "lat": "Ajde Iljo pilo male",
+       "en": "Oh Iljo was drinking, mother"
+      },
+      {
+       "cyr": "ајде Иљо пило",
+       "lat": "ajde Iljo pilo",
+       "en": "Oh Iljo was drinking"
+      },
+      {
+       "cyr": "вино ем ракија, мила мамо",
+       "lat": "vino em rakija, mila mamo",
+       "en": "Wine and brandy, dear mama"
+      },
+      {
+       "cyr": "вино ем ракија.",
+       "lat": "vino em rakija.",
+       "en": "Wine and brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде го служила мале",
+       "lat": "Ajde go služila male",
+       "en": "Oh she was serving him, mother"
+      },
+      {
+       "cyr": "ајде го служила",
+       "lat": "ajde go služila",
+       "en": "Oh she was serving him"
+      },
+      {
+       "cyr": "мома Македонка, мила мамо",
+       "lat": "moma Makedonka, mila mamo",
+       "en": "A Macedonian girl, dear mama"
+      },
+      {
+       "cyr": "мома Македонка.",
+       "lat": "moma Makedonka.",
+       "en": "A Macedonian girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

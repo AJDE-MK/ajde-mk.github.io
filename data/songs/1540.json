@@ -1,0 +1,236 @@
+{
+ "id": 1540,
+ "slug": "chuj-bledi-doktore",
+ "title_cyr": "Чуј, бледи докторе",
+ "title_latin": "Čuj, bledi doktore",
+ "title_en": "Listen, pale doctor",
+ "pesna_url": "https://pesna.org/song/1540",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it reads like a later urban song, but I cannot name an author. The speaker is a woman ('која сум'). 'Кола' is rendered 'carriage' (my reading, possibly a hearse).",
+ "words_to_learn": [
+  {
+   "mk": "чуј",
+   "en": "listen, hear (imperative)"
+  },
+  {
+   "mk": "бледи",
+   "en": "pale"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  },
+  {
+   "mk": "нож",
+   "en": "knife"
+  },
+  {
+   "mk": "улици",
+   "en": "streets"
+  },
+  {
+   "mk": "скитав",
+   "en": "I wandered"
+  },
+  {
+   "mk": "прободи",
+   "en": "pierce (imperative)"
+  },
+  {
+   "mk": "тајна",
+   "en": "secret"
+  },
+  {
+   "mk": "камбана",
+   "en": "bell"
+  },
+  {
+   "mk": "венец",
+   "en": "wreath"
+  },
+  {
+   "mk": "кола",
+   "en": "carriage, cart"
+  }
+ ],
+ "performers": [
+  "Гоце Петрески",
+  "Петранка Костадинова",
+  "Ребус",
+  "Фана Шомова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/4019"
+  },
+  {
+   "who": "Фана Шомова",
+   "url": "https://pesna.org/audio-download/4020"
+  },
+  {
+   "who": "Гоце Петрески",
+   "url": "https://pesna.org/audio-download/4021"
+  },
+  {
+   "who": "Ребус",
+   "url": "https://pesna.org/audio-download/4022"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Чуј, бледи докторе, ти кој си",
+       "lat": "Čuj, bledi doktore, ti koj si",
+       "en": "Listen, pale doctor, whoever you are,"
+      },
+      {
+       "cyr": "што стоиш гордо над мене",
+       "lat": "što stoiš gordo nad mene",
+       "en": "who stand proudly over me"
+      },
+      {
+       "cyr": "и сечеш раните ми болни",
+       "lat": "i sečeš ranite mi bolni",
+       "en": "and cut my painful wounds,"
+      },
+      {
+       "cyr": "смирен и многу натажен.",
+       "lat": "smiren i mnogu natažen.",
+       "en": "calm and very sorrowful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чуј, твојот нож не ме плаши,",
+       "lat": "Čuj, tvojot nož ne me plaši,",
+       "en": "Listen, your knife does not frighten me,"
+      },
+      {
+       "cyr": "ти не ме знаеш која сум.",
+       "lat": "ti ne me znaeš koja sum.",
+       "en": "you do not know who I am."
+      },
+      {
+       "cyr": "Чуј, сега јас да ти раскажам",
+       "lat": "Čuj, sega jas da ti raskažam",
+       "en": "Listen, now let me tell you"
+      },
+      {
+       "cyr": "која сум, тогаш сечи ги.",
+       "lat": "koja sum, togaš seči gi.",
+       "en": "who I am, then cut them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас мајка, татко не познавам,",
+       "lat": "Jas majka, tatko ne poznavam,",
+       "en": "I know neither mother nor father,"
+      },
+      {
+       "cyr": "таткова куќа јас немам,",
+       "lat": "tatkova kuḱa jas nemam,",
+       "en": "I have no father's house,"
+      },
+      {
+       "cyr": "по улиците непознати",
+       "lat": "po ulicite nepoznati",
+       "en": "through unknown streets"
+      },
+      {
+       "cyr": "сè скитав и израснав јас.",
+       "lat": "sè skitav i izrasnav jas.",
+       "en": "I wandered always and grew up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не чекај, сечи докторе,",
+       "lat": "Ne čekaj, seči doktore,",
+       "en": "Do not wait, cut, doctor,"
+      },
+      {
+       "cyr": "прободи ми го срцето,",
+       "lat": "probodi mi go srceto,",
+       "en": "pierce my heart,"
+      },
+      {
+       "cyr": "ќе најдеш тајната голема",
+       "lat": "ḱe najdeš tajnata golema",
+       "en": "you will find the great secret"
+      },
+      {
+       "cyr": "што сум ја скрила длабоко.",
+       "lat": "što sum ja skrila dlaboko.",
+       "en": "that I have hidden deep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом чуеш тажната камбана,",
+       "lat": "Štom čueš tažnata kambana,",
+       "en": "When you hear the sad bell,"
+      },
+      {
+       "cyr": "не сакам солзи да рониш,",
+       "lat": "ne sakam solzi da roniš,",
+       "en": "I do not want you to shed tears,"
+      },
+      {
+       "cyr": "јас сакам само еден венец",
+       "lat": "jas sakam samo eden venec",
+       "en": "I want only one wreath"
+      },
+      {
+       "cyr": "со твојте раце исплетен.",
+       "lat": "so tvojte race ispleten.",
+       "en": "woven by your hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом видиш црната кола",
+       "lat": "Štom vidiš crnata kola",
+       "en": "When you see the black carriage"
+      },
+      {
+       "cyr": "без товар таа сама да мине,",
+       "lat": "bez tovar taa sama da mine,",
+       "en": "pass by alone without a load,"
+      },
+      {
+       "cyr": "знај дека мене ме носат",
+       "lat": "znaj deka mene me nosat",
+       "en": "know that they are carrying me"
+      },
+      {
+       "cyr": "во вечен дом да почивам.",
+       "lat": "vo večen dom da počivam.",
+       "en": "to my eternal home to rest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

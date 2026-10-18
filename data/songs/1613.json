@@ -1,0 +1,368 @@
+{
+ "id": 1613,
+ "slug": "patruno-mome",
+ "title_cyr": "Патруно моме",
+ "title_latin": "Patruno mome",
+ "title_en": "Patruna, beautiful girl",
+ "pesna_url": "https://pesna.org/song/1613",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "ВИС Аманет",
+  "Зарина Првасевда",
+  "Мегленки",
+  "От извора",
+  "Рамадан Бајрами",
+  "Славчо Петрунов",
+  "Chepkalo Projects",
+  "Natascha Rogers",
+  "Quareim Quartet"
+ ],
+ "audio": [
+  {
+   "who": "Мегленки",
+   "url": "https://pesna.org/audio-download/4273"
+  },
+  {
+   "who": "От извора",
+   "url": "https://pesna.org/audio-download/4274"
+  },
+  {
+   "who": "ВИС Аманет",
+   "url": "https://pesna.org/audio-download/4276"
+  },
+  {
+   "who": "Chepkalo Projects",
+   "url": "https://pesna.org/audio-download/4277"
+  },
+  {
+   "who": "Рамадан Бајрами",
+   "url": "https://pesna.org/audio-download/4278"
+  },
+  {
+   "who": "Natascha Rogers, Quareim Quartet, Зарина Првасевда",
+   "url": "https://pesna.org/audio-download/4279"
+  },
+  {
+   "who": "Славчо Петрунов",
+   "url": "https://pesna.org/audio-download/4280"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Патруно моме убава",
+       "lat": "- Patruno mome ubava",
+       "en": "Patruna, beautiful girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Патруна тенка, висока.",
+       "lat": "Patruna tenka, visoka.",
+       "en": "Patruna, thin and tall,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Зашо ми врвиш крај порти?",
+       "lat": "Zašo mi vrviš kraj porti?",
+       "en": "Why do you pass by my gates?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Зошто ми гориш срцето?",
+       "lat": "Zošto mi goriš srceto?",
+       "en": "Why is my heart burning for you?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Патруно моме убава",
+       "lat": "Patruno mome ubava",
+       "en": "Patruna, beautiful girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај да ја питаш мајка ти",
+       "lat": "daj da ja pitaš majka ti",
+       "en": "Oh, go ask your mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дал ќе те даде за мене",
+       "lat": "dal ḱe te dade za mene",
+       "en": "If she will give you to me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за мене џанам, зулумџија.",
+       "lat": "za mene džanam, zulumdžija.",
+       "en": "To me, my love, my soul.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре ти лудо будало",
+       "lat": "- A bre ti ludo budalo",
+       "en": "Oh come on, you are a crazy fool,",
+       "en_mt": false
+      },
+      {
+       "cyr": "како да ја питам мајка ми",
+       "lat": "kako da ja pitam majka mi",
+       "en": "How can I ask my mother?",
+       "en_mt": false
+      },
+      {
+       "cyr": "јаска сам веќе армасана",
+       "lat": "jaska sam veḱe armasana",
+       "en": "I am already engaged,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за тој ми Кољо зенгија.",
+       "lat": "za toj mi Koljo zengija.",
+       "en": "With Koljo zengija1.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Патруно моме убаво",
+       "lat": "- Patruno mome ubavo",
+       "en": "Patruna, beautiful girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај да те бегам за мене",
+       "lat": "daj da te begam za mene",
+       "en": "Oh, I will elope with you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и јас си имам богатство",
+       "lat": "i jas si imam bogatstvo",
+       "en": "I have wealth of my own:",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мегленско поле широко.",
+       "lat": "Meglensko pole široko.",
+       "en": "The wide fields of Meglen.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Патруно моме, Патруно",
+       "lat": "Patruno mome, Patruno",
+       "en": "Patruna, girl, Patruna,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ејгиди пиле шарено",
+       "lat": "ejgidi pile šareno",
+       "en": "oh, you colorful bird,",
+       "en_mt": true
+      },
+      {
+       "cyr": "дали си от Бога паднато",
+       "lat": "dali si ot Boga padnato",
+       "en": "did you fall from God,",
+       "en_mt": true
+      },
+      {
+       "cyr": "или си од земја никнато?",
+       "lat": "ili si od zemja niknato?",
+       "en": "or did you sprout from the earth?",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Патруно моме, Патруно",
+       "lat": "Patruno mome, Patruno",
+       "en": "Patruna, girl, Patruna,",
+       "en_mt": true
+      },
+      {
+       "cyr": "дејгиди пиле шарено",
+       "lat": "dejgidi pile šareno",
+       "en": "oh, you colorful bird,",
+       "en_mt": true
+      },
+      {
+       "cyr": "дали си от мајка родено",
+       "lat": "dali si ot majka rodeno",
+       "en": "were you born of a mother,",
+       "en_mt": true
+      },
+      {
+       "cyr": "или си от попот крстено?",
+       "lat": "ili si ot popot krsteno?",
+       "en": "or baptized by a priest?",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит сам от Бога паднато",
+       "lat": "Nit sam ot Boga padnato",
+       "en": "I did not fall from God,",
+       "en_mt": true
+      },
+      {
+       "cyr": "нит сам од земја никнато.",
+       "lat": "nit sam od zemja niknato.",
+       "en": "nor did I sprout from the earth.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ја сам от мајка родено",
+       "lat": "Ja sam ot majka rodeno",
+       "en": "I was born of a mother,",
+       "en_mt": true
+      },
+      {
+       "cyr": "јас сум од попот крстено",
+       "lat": "jas sum od popot krsteno",
+       "en": "I was baptized by a priest,",
+       "en_mt": true
+      },
+      {
+       "cyr": "су благо млеко доено",
+       "lat": "su blago mleko doeno",
+       "en": "nursed with gentle milk,",
+       "en_mt": true
+      },
+      {
+       "cyr": "со рујно вино пиено.",
+       "lat": "so rujno vino pieno.",
+       "en": "and drank red wine.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 3",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Патруно моме, Патруно",
+       "lat": "Patruno mome, Patruno",
+       "en": "Patruna, girl, Patruna,",
+       "en_mt": true
+      },
+      {
+       "cyr": "А, што си толку убава",
+       "lat": "A, što si tolku ubava",
+       "en": "oh, why are you so beautiful,",
+       "en_mt": true
+      },
+      {
+       "cyr": "дал’ си от Бога паднала",
+       "lat": "dal’ si ot Boga padnala",
+       "en": "did you fall from God,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ил’ си от мajкa родена?",
+       "lat": "il’ si ot majka rodena?",
+       "en": "or were you born of a mother?",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не сам от бога паднала",
+       "lat": "- Ne sam ot boga padnala",
+       "en": "- I did not fall from God,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тук’ сам от мajкa pодeнa.",
+       "lat": "tuk’ sam ot majka podena.",
+       "en": "I was just born of a mother.",
+       "en_mt": true
+      },
+      {
+       "cyr": "На ден Велигден родена",
+       "lat": "Na den Veligden rodena",
+       "en": "Born on Easter day,",
+       "en_mt": true
+      },
+      {
+       "cyr": "на ден Ѓурѓовден кpcтeнa.",
+       "lat": "na den Ǵurǵovden kpctena.",
+       "en": "baptized on Saint George's day.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со бело млеко дојена",
+       "lat": "So belo mleko dojena",
+       "en": "Nursed with white milk,",
+       "en_mt": true
+      },
+      {
+       "cyr": "су pyjнo вино пиена.",
+       "lat": "su pyjno vino piena.",
+       "en": "and I drank red wine.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Затоj сам бела румена",
+       "lat": "Zatoj sam bela rumena",
+       "en": "That is why I am white and rosy,",
+       "en_mt": true
+      },
+      {
+       "cyr": "зато сум тенка, висока.",
+       "lat": "zato sum tenka, visoka.",
+       "en": "that is why I am thin and tall.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

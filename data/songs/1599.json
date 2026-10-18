@@ -1,0 +1,189 @@
+{
+ "id": 1599,
+ "slug": "maca-voda-lila",
+ "title_cyr": "Маца вода лила",
+ "title_latin": "Maca voda lila",
+ "title_en": "Maca poured water",
+ "pesna_url": "https://pesna.org/song/1599",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The last stanza is cheeky; my reading is that 'сакаш ич не питај' means 'if you love me, never ask' and the numb arm is a joke about their night together. 'Ја подај' is a dialect form of 'подај'.",
+ "words_to_learn": [
+  {
+   "mk": "лила",
+   "en": "poured (dialect)"
+  },
+  {
+   "mk": "бардак",
+   "en": "jug, earthenware pitcher"
+  },
+  {
+   "mk": "китка",
+   "en": "bunch of flowers, posy"
+  },
+  {
+   "mk": "шарена",
+   "en": "coloured, multicoloured"
+  },
+  {
+   "mk": "ја подај ми",
+   "en": "hand me, pass me"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  },
+  {
+   "mk": "отрпнала",
+   "en": "went numb"
+  }
+ ],
+ "performers": [
+  "Ансамбл за староградски песни Серенада",
+  "Ансамбл Распеани виничани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Распеани виничани",
+   "url": "https://pesna.org/audio-download/4174"
+  },
+  {
+   "who": "Ансамбл за староградски песни Серенада",
+   "url": "https://pesna.org/audio-download/4175"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Маца вода лила,",
+       "lat": "Maca voda lila,",
+       "en": "Maca poured water,"
+      },
+      {
+       "cyr": "бело лице мила.",
+       "lat": "belo lice mila.",
+       "en": "washing her white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздол' иде Гоце",
+       "lat": "Ozdol' ide Goce",
+       "en": "Goce comes from below"
+      },
+      {
+       "cyr": "и на Маца дума:",
+       "lat": "i na Maca duma:",
+       "en": "and says to Maca:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја подај ми Маце",
+       "lat": "- Ja podaj mi Mace",
+       "en": "- Hand me, Maca,"
+      },
+      {
+       "cyr": "зелен бардак вода",
+       "lat": "zelen bardak voda",
+       "en": "a green jug of water"
+      },
+      {
+       "cyr": "и китка шарена.",
+       "lat": "i kitka šarena.",
+       "en": "and a coloured bunch of flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стој почекај Гоце",
+       "lat": "- Stoj počekaj Goce",
+       "en": "- Stop and wait, Goce,"
+      },
+      {
+       "cyr": "до дома да идам,",
+       "lat": "do doma da idam,",
+       "en": "let me go home,"
+      },
+      {
+       "cyr": "мама да ја видам.",
+       "lat": "mama da ja vidam.",
+       "en": "to see my mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дава ли се Гоце",
+       "lat": "Dava li se Goce",
+       "en": "Is water given, Goce,"
+      },
+      {
+       "cyr": "на ергени вода",
+       "lat": "na ergeni voda",
+       "en": "to bachelors"
+      },
+      {
+       "cyr": "и китка шарена?",
+       "lat": "i kitka šarena?",
+       "en": "and a coloured bunch of flowers?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Сакаш ли бре Маце,",
+       "lat": "- Sakaš li bre Mace,",
+       "en": "- Do you love me, hey Maca,"
+      },
+      {
+       "cyr": "сакаш ич не питај,",
+       "lat": "sakaš ič ne pitaj,",
+       "en": "if you love me, don't ask at all,"
+      },
+      {
+       "cyr": "саноќ си ми Маце",
+       "lat": "sanoḱ si mi Mace",
+       "en": "all night, Maca,"
+      },
+      {
+       "cyr": "на рака лежнала",
+       "lat": "na raka ležnala",
+       "en": "you lay on my arm,"
+      },
+      {
+       "cyr": "дури ми е Маце",
+       "lat": "duri mi e Mace",
+       "en": "so that my arm, Maca,"
+      },
+      {
+       "cyr": "рака отрпнала.",
+       "lat": "raka otrpnala.",
+       "en": "went numb."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

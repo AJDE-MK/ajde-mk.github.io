@@ -1,0 +1,136 @@
+{
+ "id": 1539,
+ "slug": "oj-mori-dano-dandano",
+ "title_cyr": "Ој мори Дано, Дандано",
+ "title_latin": "Oj mori Dano, Dandano",
+ "title_en": "Oh Dana, Dandana",
+ "pesna_url": "https://pesna.org/song/1539",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ќе падни' and 'елај' are dialect forms. 'Ние да се земиме' means 'let us marry'. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "чупе",
+   "en": "girl, lass"
+  },
+  {
+   "mk": "брег",
+   "en": "bank, slope"
+  },
+  {
+   "mk": "се рони",
+   "en": "is crumbling"
+  },
+  {
+   "mk": "ќе падни",
+   "en": "will fall (dialect)"
+  },
+  {
+   "mk": "потисни",
+   "en": "crush, press down"
+  },
+  {
+   "mk": "елај",
+   "en": "come (dialect)"
+  },
+  {
+   "mk": "куртулиш",
+   "en": "you rescue, save (Turkish-origin)"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  }
+ ],
+ "performers": [
+  "Бапчорки"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/4014"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој мори Дано, Дандано,",
+       "lat": "- Oj mori Dano, Dandano,",
+       "en": "- Oh Dana, Dandana,"
+      },
+      {
+       "cyr": "мори чупе убаво.",
+       "lat": "mori čupe ubavo.",
+       "en": "hey, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не стој таму под брегот,",
+       "lat": "Ne stoj tamu pod bregot,",
+       "en": "Do not stand there under the bank,"
+      },
+      {
+       "cyr": "брег се рони, ќе падни,",
+       "lat": "breg se roni, ḱe padni,",
+       "en": "the bank is crumbling, it will fall,"
+      },
+      {
+       "cyr": "тебе ќе те потисни.",
+       "lat": "tebe ḱe te potisni.",
+       "en": "it will crush you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој море лудо де младо,",
+       "lat": "- Oj more ludo de mlado,",
+       "en": "- Oh hey, young lad,"
+      },
+      {
+       "cyr": "елај тука при мене,",
+       "lat": "elaj tuka pri mene,",
+       "en": "come here to me,"
+      },
+      {
+       "cyr": "мене да ме куртулиш.",
+       "lat": "mene da me kurtuliš.",
+       "en": "to save me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене да ме куртулиш,",
+       "lat": "Mene da me kurtuliš,",
+       "en": "To save me,"
+      },
+      {
+       "cyr": "ние да се земиме,",
+       "lat": "nie da se zemime,",
+       "en": "let us marry,"
+      },
+      {
+       "cyr": "свадба да направиме.",
+       "lat": "svadba da napravime.",
+       "en": "let us hold a wedding."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

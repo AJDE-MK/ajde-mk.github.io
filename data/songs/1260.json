@@ -1,0 +1,421 @@
+{
+ "id": 1260,
+ "slug": "dojchin-junak-sirak-janko-i-krali-marko-solunski-chuvachi",
+ "title_cyr": "Дојчин јунак, Сирак Јанко и Крали Марко, солунски чувачи",
+ "title_latin": "Dojčin junak, Sirak Janko i Krali Marko, solunski čuvači",
+ "title_en": "Dojchin the Hero, Orphan Janko and King Marko, Guardians of Salonica",
+ "pesna_url": "https://pesna.org/song/1260",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional epic song (Dojchin, Janko, Marko). 'Нојбет' (guard duty by turns) and 'вигла' are my reading; 'тегле' (heads) and 'Беш чинар' (Five Plane Trees, a place name) are also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "бан",
+   "en": "ban, medieval ruler or governor"
+  },
+  {
+   "mk": "кралј",
+   "en": "king"
+  },
+  {
+   "mk": "кули",
+   "en": "towers"
+  },
+  {
+   "mk": "сирак",
+   "en": "orphan"
+  },
+  {
+   "mk": "вигла",
+   "en": "spyglass, lookout (my reading)"
+  },
+  {
+   "mk": "кораб",
+   "en": "ship"
+  },
+  {
+   "mk": "челебија",
+   "en": "gentleman (Turkish title)"
+  },
+  {
+   "mk": "чужја вера",
+   "en": "foreign faith"
+  },
+  {
+   "mk": "скеле",
+   "en": "landing, pier"
+  },
+  {
+   "mk": "ѓумрук",
+   "en": "customs duty"
+  },
+  {
+   "mk": "боздоган",
+   "en": "mace"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of comrades"
+  },
+  {
+   "mk": "предвикна",
+   "en": "called out, shouted"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале, се набрале,",
+       "lat": "Se sobrale, se nabrale,",
+       "en": "They gathered, they assembled,"
+      },
+      {
+       "cyr": "до три бана, до три кралја,",
+       "lat": "do tri bana, do tri kralja,",
+       "en": "up to three bans, up to three kings,"
+      },
+      {
+       "cyr": "во град Солун, на солунски,",
+       "lat": "vo grad Solun, na solunski,",
+       "en": "in the town of Salonica, in the Salonican,"
+      },
+      {
+       "cyr": "на солунски седум кули.",
+       "lat": "na solunski sedum kuli.",
+       "en": "in the Salonican seven towers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едниот је Дојчин јунак,",
+       "lat": "Edniot je Dojčin junak,",
+       "en": "One of them is Dojchin the hero,"
+      },
+      {
+       "cyr": "Дојчин јунак од Солуна,",
+       "lat": "Dojčin junak od Soluna,",
+       "en": "Dojchin the hero from Salonica,"
+      },
+      {
+       "cyr": "а вториот сирак Јанко,",
+       "lat": "a vtoriot sirak Janko,",
+       "en": "and the second orphan Janko,"
+      },
+      {
+       "cyr": "сирак Јанко од Јанина.",
+       "lat": "sirak Janko od Janina.",
+       "en": "orphan Janko from Janina."
+      },
+      {
+       "cyr": "А треќиот Крали Марко,",
+       "lat": "A treḱiot Krali Marko,",
+       "en": "And the third King Marko,"
+      },
+      {
+       "cyr": "Крали Марко од Прилепа.",
+       "lat": "Krali Marko od Prilepa.",
+       "en": "King Marko from Prilep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јадат, пијат, се веселат,",
+       "lat": "Jadat, pijat, se veselat,",
+       "en": "They eat, drink, make merry,"
+      },
+      {
+       "cyr": "со нојбет си градот чуват.",
+       "lat": "so nojbet si gradot čuvat.",
+       "en": "and take turns guarding the town."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите редот одредоха,",
+       "lat": "Site redot odredoha,",
+       "en": "They all set the order,"
+      },
+      {
+       "cyr": "редот дојде на Дојчина,",
+       "lat": "redot dojde na Dojčina,",
+       "en": "the turn came to Dojchin,"
+      },
+      {
+       "cyr": "та си узе златна вигла,",
+       "lat": "ta si uze zlatna vigla,",
+       "en": "and he took a golden spyglass,"
+      },
+      {
+       "cyr": "та разгледа горе долу,",
+       "lat": "ta razgleda gore dolu,",
+       "en": "and looked up and down,"
+      },
+      {
+       "cyr": "по патишта, по друмишта,",
+       "lat": "po patišta, po drumišta,",
+       "en": "along the roads, along the highways,"
+      },
+      {
+       "cyr": "и по поле и по море.",
+       "lat": "i po pole i po more.",
+       "en": "and over the field and over the sea."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога гледат по морето,",
+       "lat": "Koga gledat po moreto,",
+       "en": "When they look over the sea,"
+      },
+      {
+       "cyr": "зададел се шарен кораб,",
+       "lat": "zadadel se šaren korab,",
+       "en": "a colorful ship appeared,"
+      },
+      {
+       "cyr": "внатре седе еден турски,",
+       "lat": "vnatre sede eden turski,",
+       "en": "inside sits a Turk,"
+      },
+      {
+       "cyr": "еден турски челебија.",
+       "lat": "eden turski čelebija.",
+       "en": "a Turkish gentleman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еден Турчин чужја вера,",
+       "lat": "Eden Turčin čužja vera,",
+       "en": "A Turk of foreign faith,"
+      },
+      {
+       "cyr": "не си иде на скелето,",
+       "lat": "ne si ide na skeleto,",
+       "en": "he does not go to the landing,"
+      },
+      {
+       "cyr": "право тегле на Беш чинар.",
+       "lat": "pravo tegle na Beš činar.",
+       "en": "he heads straight to Besh Chinar."
+      },
+      {
+       "cyr": "Там излезе од коработ,",
+       "lat": "Tam izleze od korabot,",
+       "en": "There he came out of the ship,"
+      },
+      {
+       "cyr": "и отвори бели чадар.",
+       "lat": "i otvori beli čadar.",
+       "en": "and opened a white parasol."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Как' си виде Дојчин јунак,",
+       "lat": "Kak' si vide Dojčin junak,",
+       "en": "When Dojchin the hero saw him,"
+      },
+      {
+       "cyr": "та си вјахна брза коња,",
+       "lat": "ta si vjahna brza konja,",
+       "en": "he mounted his swift horse,"
+      },
+      {
+       "cyr": "та си слезе на Беш чинар.",
+       "lat": "ta si sleze na Beš činar.",
+       "en": "and rode down to Besh Chinar."
+      },
+      {
+       "cyr": "Од далеку се предвикна,",
+       "lat": "Od daleku se predvikna,",
+       "en": "From afar he called out,"
+      },
+      {
+       "cyr": "на Турчина му говоре:",
+       "lat": "na Turčina mu govore:",
+       "en": "and said to the Turk:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Море турски челебија,",
+       "lat": "- „More turski čelebija,",
+       "en": "- 'Hey Turkish gentleman,"
+      },
+      {
+       "cyr": "море Турчин, чужја вера!",
+       "lat": "more Turčin, čužja vera!",
+       "en": "hey Turk of foreign faith!"
+      },
+      {
+       "cyr": "Заш' не идеш на скелето,",
+       "lat": "Zaš' ne ideš na skeleto,",
+       "en": "Why do you not come to the landing,"
+      },
+      {
+       "cyr": "да си платиш тешки ѓумрук,",
+       "lat": "da si platiš teški ǵumruk,",
+       "en": "to pay the heavy customs duty,"
+      },
+      {
+       "cyr": "тук' си дошол на Беш чинар“?",
+       "lat": "tuk' si došol na Beš činar“?",
+       "en": "but have come to Besh Chinar?'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турчин веле и говоре:",
+       "lat": "Turčin vele i govore:",
+       "en": "The Turk says and speaks:"
+      },
+      {
+       "cyr": "- „Ја не дојдов да ви плаштам,",
+       "lat": "- „Ja ne dojdov da vi plaštam,",
+       "en": "- 'I did not come to pay you,"
+      },
+      {
+       "cyr": "да ви плаштам тешки ѓумрук,",
+       "lat": "da vi plaštam teški ǵumruk,",
+       "en": "to pay you the heavy customs duty,"
+      },
+      {
+       "cyr": "тук' сум дошол од султана,",
+       "lat": "tuk' sum došol od sultana,",
+       "en": "I have come from the sultan,"
+      },
+      {
+       "cyr": "да повелјам град Солуна“.",
+       "lat": "da poveljam grad Soluna“.",
+       "en": "to command the town of Salonica.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Дојчин му жал паднало,",
+       "lat": "Na Dojčin mu žal padnalo,",
+       "en": "Dojchin was seized by anger,"
+      },
+      {
+       "cyr": "та си крена боздогана,",
+       "lat": "ta si krena bozdogana,",
+       "en": "and he raised his mace,"
+      },
+      {
+       "cyr": "та си фрли по Турчина",
+       "lat": "ta si frli po Turčina",
+       "en": "and threw it at the Turk,"
+      },
+      {
+       "cyr": "и боздоган му утече,",
+       "lat": "i bozdogan mu uteče,",
+       "en": "but the mace slipped away,"
+      },
+      {
+       "cyr": "и не погоди Турчина.",
+       "lat": "i ne pogodi Turčina.",
+       "en": "and did not hit the Turk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тога Турчин се предвикна:",
+       "lat": "Toga Turčin se predvikna:",
+       "en": "Then the Turk called out:"
+      },
+      {
+       "cyr": "- „Излезите од коработ",
+       "lat": "- „Izlezite od korabot",
+       "en": "- 'Come out of the ship"
+      },
+      {
+       "cyr": "да фатиме Дојчин јунак“!",
+       "lat": "da fatime Dojčin junak“!",
+       "en": "so we can catch Dojchin the hero!'"
+      },
+      {
+       "cyr": "Дојчин назад се поврна,",
+       "lat": "Dojčin nazad se povrna,",
+       "en": "Dojchin turned back,"
+      },
+      {
+       "cyr": "дробни солзи си пророни,",
+       "lat": "drobni solzi si proroni,",
+       "en": "shed small tears,"
+      },
+      {
+       "cyr": "отиде на седум кули,",
+       "lat": "otide na sedum kuli,",
+       "en": "went to the seven towers,"
+      },
+      {
+       "cyr": "на дружина им говори:",
+       "lat": "na družina im govori:",
+       "en": "and said to his company:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Што седите, што гледате?",
+       "lat": "- „Što sedite, što gledate?",
+       "en": "- 'Why do you sit, why do you watch?"
+      },
+      {
+       "cyr": "Дошла турска челебија,",
+       "lat": "Došla turska čelebija,",
+       "en": "A Turkish gentleman has come,"
+      },
+      {
+       "cyr": "челебија, чужја вера.",
+       "lat": "čelebija, čužja vera.",
+       "en": "a gentleman, of foreign faith."
+      },
+      {
+       "cyr": "Што чиниме да чиниме,",
+       "lat": "Što činime da činime,",
+       "en": "Whatever we do, let us do it,"
+      },
+      {
+       "cyr": "град Солуна да чуваме“.",
+       "lat": "grad Soluna da čuvame“.",
+       "en": "to guard the town of Salonica.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

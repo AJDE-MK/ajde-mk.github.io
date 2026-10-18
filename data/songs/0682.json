@@ -1,0 +1,169 @@
+{
+ "id": 682,
+ "slug": "lino-mome-lino",
+ "title_cyr": "Лино моме Лино",
+ "title_latin": "Lino mome Lino",
+ "title_en": "Lina, girl Lina",
+ "pesna_url": "https://pesna.org/song/682",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Стои диван' means to stand in respectful attendance (my reading, the phrase is guesswork). The speaker changes between stanzas; the third stanza's 'ојде' is dialect for 'went'.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "севдалино",
+   "en": "lovesick one, one filled with longing"
+  },
+  {
+   "mk": "вечер",
+   "en": "evening"
+  },
+  {
+   "mk": "доаѓај",
+   "en": "come (imperative)"
+  },
+  {
+   "mk": "Солуна",
+   "en": "Thessaloniki"
+  },
+  {
+   "mk": "пазар",
+   "en": "market"
+  },
+  {
+   "mk": "диван",
+   "en": "standing respectfully (my reading; from diwan, a council)"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Душко Георгиевски",
+  "Зоран Џорлев",
+  "Кирил Манчевски",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/657"
+  },
+  {
+   "who": "Зоран Џорлев, Сузана Спасовска, Душко Георгиевски",
+   "url": "https://pesna.org/audio-download/658"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лино моме Лино,",
+       "lat": "Lino mome Lino,",
+       "en": "Lina, girl Lina,"
+      },
+      {
+       "cyr": "севдалино.",
+       "lat": "sevdalino.",
+       "en": "lovesick one."
+      },
+      {
+       "cyr": "Која вечер Лино,",
+       "lat": "Koja večer Lino,",
+       "en": "Which evening, Lina,"
+      },
+      {
+       "cyr": "да ти дојдам?",
+       "lat": "da ti dojdam?",
+       "en": "shall I come to you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море кога сакаш Ѓорѓи",
+       "lat": "More koga sakaš Ǵorǵi",
+       "en": "Hey, whenever you want, Gjorgji,"
+      },
+      {
+       "cyr": "тогаш дојди,",
+       "lat": "togaš dojdi,",
+       "en": "then come,"
+      },
+      {
+       "cyr": "оваа вечер Ѓорѓи",
+       "lat": "ovaa večer Ǵorǵi",
+       "en": "this evening, Gjorgji,"
+      },
+      {
+       "cyr": "не доаѓај.",
+       "lat": "ne doaǵaj.",
+       "en": "do not come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море татко ојде Ѓорѓи",
+       "lat": "More tatko ojde Ǵorǵi",
+       "en": "Hey, father has gone, Gjorgji,"
+      },
+      {
+       "cyr": "во Солуна",
+       "lat": "vo Soluna",
+       "en": "to Thessaloniki,"
+      },
+      {
+       "cyr": "во Солуна Ѓорѓи",
+       "lat": "vo Soluna Ǵorǵi",
+       "en": "to Thessaloniki, Gjorgji,"
+      },
+      {
+       "cyr": "на пазарот.",
+       "lat": "na pazarot.",
+       "en": "to the market."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море кога ојдов мамо",
+       "lat": "More koga ojdov mamo",
+       "en": "Hey, when I went, mother,"
+      },
+      {
+       "cyr": "што да видам",
+       "lat": "što da vidam",
+       "en": "to see,"
+      },
+      {
+       "cyr": "Лина стои диван",
+       "lat": "Lina stoi divan",
+       "en": "Lina stands in the diwan"
+      },
+      {
+       "cyr": "пред свекрва.",
+       "lat": "pred svekrva.",
+       "en": "before her mother-in-law."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

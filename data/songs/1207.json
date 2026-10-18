@@ -1,0 +1,219 @@
+{
+ "id": 1207,
+ "slug": "brej-gjurchin-stojne-ubavo",
+ "title_cyr": "Бреј Ѓурчин Стојне убаво",
+ "title_latin": "Brej Ǵurčin Stojne ubavo",
+ "title_en": "Hey, Gurchin Stojna, the beautiful",
+ "pesna_url": "https://pesna.org/song/1207",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ѓурчин' is probably a girl's epithet or surname, left untranslated (my reading). 'Смилова' I read as immortelle (смил).",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "кладенче",
+   "en": "little well"
+  },
+  {
+   "mk": "изворче",
+   "en": "little spring"
+  },
+  {
+   "mk": "борина",
+   "en": "pine wood"
+  },
+  {
+   "mk": "грутка",
+   "en": "lump, clod"
+  },
+  {
+   "mk": "китка",
+   "en": "sprig, bouquet"
+  },
+  {
+   "mk": "смил",
+   "en": "immortelle (everlasting flower)"
+  },
+  {
+   "mk": "вене",
+   "en": "withers"
+  },
+  {
+   "mk": "јунак",
+   "en": "young hero, lad"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Никола Бадев",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2966"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2967"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Бреј Ѓурчин Стојне убаво, ле",
+       "lat": "- Brej Ǵurčin Stojne ubavo, le",
+       "en": "- Hey, beautiful Gurchin Stojna, oh,"
+      },
+      {
+       "cyr": "ти беше сношти на вода",
+       "lat": "ti beše snošti na voda",
+       "en": "last night you were at the water,"
+      },
+      {
+       "cyr": "на погорното кладенче,",
+       "lat": "na pogornoto kladenče,",
+       "en": "at the upper little well,"
+      },
+      {
+       "cyr": "на подолното изворче.",
+       "lat": "na podolnoto izvorče.",
+       "en": "at the lower little spring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога одеше пееше,",
+       "lat": "Koga odeše peeše,",
+       "en": "When you walked you sang,"
+      },
+      {
+       "cyr": "кај што стоеше, грееше,",
+       "lat": "kaj što stoeše, greeše,",
+       "en": "where you stood you glowed,"
+      },
+      {
+       "cyr": "како јасна Месечина,",
+       "lat": "kako jasna Mesečina,",
+       "en": "like the bright Moon,"
+      },
+      {
+       "cyr": "како факли на борина.",
+       "lat": "kako fakli na borina.",
+       "en": "like pine torches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Отидов малку погоре, ле",
+       "lat": "- Otidov malku pogore, le",
+       "en": "- I went a little higher, oh,"
+      },
+      {
+       "cyr": "там најдов грутка снегова,",
+       "lat": "tam najdov grutka snegova,",
+       "en": "there I found a lump of snow,"
+      },
+      {
+       "cyr": "на грутка велам, говорам,",
+       "lat": "na grutka velam, govoram,",
+       "en": "I say to the lump, I speak,"
+      },
+      {
+       "cyr": "на грутка велам, говорам:",
+       "lat": "na grutka velam, govoram:",
+       "en": "I say to the lump, I speak:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Топи се, грутко снегова,",
+       "lat": "- Topi se, grutko snegova,",
+       "en": "- Melt, lump of snow,"
+      },
+      {
+       "cyr": "како се топи млад јунак",
+       "lat": "kako se topi mlad junak",
+       "en": "as a young man melts"
+      },
+      {
+       "cyr": "за Ѓурчин Стојна убава,",
+       "lat": "za Ǵurčin Stojna ubava,",
+       "en": "for beautiful Gurchin Stojna,"
+      },
+      {
+       "cyr": "за Ѓурчин Стојна убава.",
+       "lat": "za Ǵurčin Stojna ubava.",
+       "en": "for beautiful Gurchin Stojna."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се качив уште погоре, ле",
+       "lat": "Se kačiv ušte pogore, le",
+       "en": "I climbed still higher, oh,"
+      },
+      {
+       "cyr": "там' најдов китка смилова,",
+       "lat": "tam' najdov kitka smilova,",
+       "en": "there I found a sprig of immortelle,"
+      },
+      {
+       "cyr": "на китка велам, говорам,",
+       "lat": "na kitka velam, govoram,",
+       "en": "I say to the sprig, I speak,"
+      },
+      {
+       "cyr": "на китка велам, говорам:",
+       "lat": "na kitka velam, govoram:",
+       "en": "I say to the sprig, I speak:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Вени се, китко смилова,",
+       "lat": "- Veni se, kitko smilova,",
+       "en": "- Wither, sprig of immortelle,"
+      },
+      {
+       "cyr": "како што вене млад јунак,",
+       "lat": "kako što vene mlad junak,",
+       "en": "as a young man withers"
+      },
+      {
+       "cyr": "за Ѓурчин Стојна убава,",
+       "lat": "za Ǵurčin Stojna ubava,",
+       "en": "for beautiful Gurchin Stojna,"
+      },
+      {
+       "cyr": "за Ѓурчин Стојна убава.",
+       "lat": "za Ǵurčin Stojna ubava.",
+       "en": "for beautiful Gurchin Stojna."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

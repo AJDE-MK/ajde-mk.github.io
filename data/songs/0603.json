@@ -1,0 +1,151 @@
+{
+ "id": 603,
+ "slug": "bog-da-go-ubie-shefki-kachakot",
+ "title_cyr": "Бог да го убие Шефки качакот",
+ "title_latin": "Bog da go ubie Šefki kačakot",
+ "title_en": "May God Kill Shefki the Bandit",
+ "pesna_url": "https://pesna.org/song/603",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Таја брза коња' is dialect (feminine form for horse); I read it as 'that swift horse'.",
+ "words_to_learn": [
+  {
+   "mk": "качак",
+   "en": "bandit, outlaw"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear (Turkish-origin endearment)"
+  },
+  {
+   "mk": "бесно куче",
+   "en": "rabid dog"
+  },
+  {
+   "mk": "бердан",
+   "en": "berdan rifle"
+  },
+  {
+   "mk": "куршум",
+   "en": "bullet"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre"
+  },
+  {
+   "mk": "посегнал",
+   "en": "reached out for, laid hands on"
+  },
+  {
+   "mk": "доста",
+   "en": "enough"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1382"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го убие џанам тој Шефки качакот,",
+       "lat": "Bog da go ubie džanam toj Šefki kačakot,",
+       "en": "May God kill him, my dear, that Shefki the bandit,"
+      },
+      {
+       "cyr": "тој Шефки качакот, тоа бесно куче.",
+       "lat": "toj Šefki kačakot, toa besno kuče.",
+       "en": "that Shefki the bandit, that rabid dog."
+      },
+      {
+       "cyr": "Што ми посегнал, џанам, битолските села,",
+       "lat": "Što mi posegnal, džanam, bitolskite sela,",
+       "en": "He who reached out, my dear, for the villages of Bitola,"
+      },
+      {
+       "cyr": "битолските села, село Могилово.",
+       "lat": "bitolskite sela, selo Mogilovo.",
+       "en": "the villages of Bitola, the village of Mogilovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој ти бре Шефки море, ти бре бесно куче,",
+       "lat": "Oj ti bre Šefki more, ti bre besno kuče,",
+       "en": "Oh you Shefki, hey, you rabid dog,"
+      },
+      {
+       "cyr": "на небо те барав, на земја те најдов.",
+       "lat": "na nebo te barav, na zemja te najdov.",
+       "en": "I looked for you in the sky, I found you on the ground."
+      },
+      {
+       "cyr": "Дури ми те најдов Шефки нозете ме болат,",
+       "lat": "Duri mi te najdov Šefki nozete me bolat,",
+       "en": "By the time I found you, Shefki, my legs hurt,"
+      },
+      {
+       "cyr": "нозете ме болат од тешки куршуми.",
+       "lat": "nozete me bolat od teški kuršumi.",
+       "en": "my legs hurt from heavy bullets."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Доста си носел Шефки таа бердан пушка,",
+       "lat": "Dosta si nosel Šefki taa berdan puška,",
+       "en": "You have carried that berdan rifle long enough, Shefki,"
+      },
+      {
+       "cyr": "сега рече Господ јас да ја носам.",
+       "lat": "sega reče Gospod jas da ja nosam.",
+       "en": "now God says I shall carry it."
+      },
+      {
+       "cyr": "Доста си носел Шефки таа остра сабја,",
+       "lat": "Dosta si nosel Šefki taa ostra sabja,",
+       "en": "You have carried that sharp sabre long enough, Shefki,"
+      },
+      {
+       "cyr": "сега рече Господ јас да ја носам.",
+       "lat": "sega reče Gospod jas da ja nosam.",
+       "en": "now God says I shall carry it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Доста си јавал Шефки таја брза коња,",
+       "lat": "Dosta si javal Šefki taja brza konja,",
+       "en": "You have ridden that swift horse long enough, Shefki,"
+      },
+      {
+       "cyr": "сега рече Господ јас да ја јавам.",
+       "lat": "sega reče Gospod jas da ja javam.",
+       "en": "now God says I shall ride it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

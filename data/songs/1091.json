@@ -1,0 +1,181 @@
+{
+ "id": 1091,
+ "slug": "shto-mi-e-milo-em-drago-na-kojnik-dukjan-da-imam",
+ "title_cyr": "Што ми е мило ем драго на Којник дуќан да имам",
+ "title_latin": "Što mi e milo em drago na Kojnik duḱan da imam",
+ "title_en": "What I would love most is a shop in Kojnik",
+ "pesna_url": "https://pesna.org/song/1091",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Kojnik is a Veles neighbourhood. Stanza 3 lines 3 and 4 ('зик тончето', 'на Спасеви') are unclear dialect; my reading only. 'Бузанчанки' is my reading as girls from Buzanci.",
+ "words_to_learn": [
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "драго",
+   "en": "dear, precious"
+  },
+  {
+   "mk": "моми",
+   "en": "girls"
+  },
+  {
+   "mk": "афион",
+   "en": "opium poppy (fields)"
+  },
+  {
+   "mk": "аргати",
+   "en": "hired labourers"
+  },
+  {
+   "mk": "баби",
+   "en": "old women"
+  },
+  {
+   "mk": "без заби",
+   "en": "without teeth"
+  },
+  {
+   "mk": "оф аман",
+   "en": "oh, alas (interjection)"
+  }
+ ],
+ "performers": [
+  "Виртус Велес",
+  "Круме Спасовски",
+  "Распеани велешани",
+  "Соната Велес",
+  "Тринити бенд"
+ ],
+ "audio": [
+  {
+   "who": "Тринити бенд",
+   "url": "https://pesna.org/audio-download/2591"
+  },
+  {
+   "who": "Соната Велес",
+   "url": "https://pesna.org/audio-download/2592"
+  },
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/2593"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/2594"
+  },
+  {
+   "who": "Виртус Велес",
+   "url": "https://pesna.org/audio-download/2595"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е мило ем драго, оф аман,",
+       "lat": "Što mi e milo em drago, of aman,",
+       "en": "What is dear and precious to me, oh aman,"
+      },
+      {
+       "cyr": "што ми е мило ем драго,",
+       "lat": "što mi e milo em drago,",
+       "en": "what is dear and precious to me,"
+      },
+      {
+       "cyr": "на Којник дуќан да имам, аман, аман,",
+       "lat": "na Kojnik duḱan da imam, aman, aman,",
+       "en": "is to have a shop in Kojnik, aman, aman,"
+      },
+      {
+       "cyr": "на Којник дуќан да имам.",
+       "lat": "na Kojnik duḱan da imam.",
+       "en": "to have a shop in Kojnik."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Којнички моми да гледам, оф аман,",
+       "lat": "Kojnički momi da gledam, of aman,",
+       "en": "To look at the Kojnik girls, oh aman,"
+      },
+      {
+       "cyr": "којнички моми да гледам,",
+       "lat": "kojnički momi da gledam,",
+       "en": "to look at the Kojnik girls,"
+      },
+      {
+       "cyr": "којнички ем бузанчанки, аман, аман,",
+       "lat": "kojnički em buzančanki, aman, aman,",
+       "en": "the Kojnik girls and the Buzanchani girls, aman, aman,"
+      },
+      {
+       "cyr": "којнички ем бузанчанки.",
+       "lat": "kojnički em buzančanki.",
+       "en": "the Kojnik girls and the Buzanchani girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми одат на афион, оф аман,",
+       "lat": "Koga mi odat na afion, of aman,",
+       "en": "When they go to the poppy fields, oh aman,"
+      },
+      {
+       "cyr": "кога ми одат на афион,",
+       "lat": "koga mi odat na afion,",
+       "en": "when they go to the poppy fields,"
+      },
+      {
+       "cyr": "у Петрета зик тончето, аман, аман,",
+       "lat": "u Petreta zik tončeto, aman, aman,",
+       "en": "at Petre's, the fine cheeks (my reading), aman, aman,"
+      },
+      {
+       "cyr": "у Јована на Спасеви.",
+       "lat": "u Jovana na Spasevi.",
+       "en": "at Jovan's, on Spasevi's land (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Петрета аргатите, оф аман,",
+       "lat": "Na Petreta argatite, of aman,",
+       "en": "At Petre's the hired labourers, oh aman,"
+      },
+      {
+       "cyr": "сè млади моми убави,",
+       "lat": "sè mladi momi ubavi,",
+       "en": "are all young beautiful girls,"
+      },
+      {
+       "cyr": "на Јована аргатите, аман, аман,",
+       "lat": "na Jovana argatite, aman, aman,",
+       "en": "at Jovan's the hired labourers, aman, aman,"
+      },
+      {
+       "cyr": "сè стари баби без заби.",
+       "lat": "sè stari babi bez zabi.",
+       "en": "are all old women without teeth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

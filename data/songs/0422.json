@@ -1,0 +1,381 @@
+{
+ "id": 422,
+ "slug": "pesna-za-despina",
+ "title_cyr": "Песна за Деспина",
+ "title_latin": "Pesna za Despina",
+ "title_en": "A song for Despina",
+ "pesna_url": "https://pesna.org/song/422",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Деспина",
+  "Зоран Марковски",
+  "Климе Садило",
+  "Никола Бадев",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/307"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/308"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/309"
+  },
+  {
+   "who": "Климе Садило",
+   "url": "https://pesna.org/audio-download/310"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/311"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/312"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/313"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Голема риџа ти чинам",
+       "lat": "- Golema ridža ti činam",
+       "en": "- I have a big plea for you,"
+      },
+      {
+       "cyr": "ти кира Савето,",
+       "lat": "ti kira Saveto,",
+       "en": "lady Saveta,"
+      },
+      {
+       "cyr": "и јас те поздрављам,",
+       "lat": "i jas te pozdravljam,",
+       "en": "and I am sending you my regards,"
+      },
+      {
+       "cyr": "да ми дојдиш на визита,",
+       "lat": "da mi dojdiš na vizita,",
+       "en": "please come to visit me,"
+      },
+      {
+       "cyr": "јас да те пречекам.",
+       "lat": "jas da te prečekam.",
+       "en": "I’ll welcome you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам јас да дојдам",
+       "lat": "- Ne možam jas da dojdam",
+       "en": "- I can’t come,"
+      },
+      {
+       "cyr": "ти кира Марие,",
+       "lat": "ti kira Marie,",
+       "en": "lady Maria,"
+      },
+      {
+       "cyr": "таџис не чини се,",
+       "lat": "tadžis ne čini se,",
+       "en": "but don’t be sorry,"
+      },
+      {
+       "cyr": "ќе ти ја пратам сестра ми",
+       "lat": "ḱe ti ja pratam sestra mi",
+       "en": "I’ll send you my sister,"
+      },
+      {
+       "cyr": "кира Катерина.",
+       "lat": "kira Katerina.",
+       "en": "lady Katerina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чукна, тропна на вратата",
+       "lat": "Čukna, tropna na vratata",
+       "en": "She knocked on the gate,"
+      },
+      {
+       "cyr": "тетка Катерина",
+       "lat": "tetka Katerina",
+       "en": "aunt Katerina,"
+      },
+      {
+       "cyr": "отвори Деспина,",
+       "lat": "otvori Despina,",
+       "en": "Despina opened it,"
+      },
+      {
+       "cyr": "је се спушти на Деспина,",
+       "lat": "je se spušti na Despina,",
+       "en": "she reached for Despina,"
+      },
+      {
+       "cyr": "ја баци раката,",
+       "lat": "ja baci rakata,",
+       "en": "who kissed her hand,"
+      },
+      {
+       "cyr": "во раката меџидија",
+       "lat": "vo rakata medžidija",
+       "en": "in her hand there was a silver coin,"
+      },
+      {
+       "cyr": "нишан за Деспина.",
+       "lat": "nišan za Despina.",
+       "en": "a gift for Despina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нишан ти давам Деспино,",
+       "lat": "- Nišan ti davam Despino,",
+       "en": "- I am giving you a gift Despina,"
+      },
+      {
+       "cyr": "да не ме заборавиш.",
+       "lat": "da ne me zaboraviš.",
+       "en": "so that you don’t forget me."
+      },
+      {
+       "cyr": "Поминаја три години,",
+       "lat": "Pominaja tri godini,",
+       "en": "There’s been three years now"
+      },
+      {
+       "cyr": "ти ме заборави.",
+       "lat": "ti me zaboravi.",
+       "en": "how you have forgotten me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дојди горе во одаја,",
+       "lat": "- Dojdi gore vo odaja,",
+       "en": "- Please come upstairs to the room,"
+      },
+      {
+       "cyr": "тетко Катерино,",
+       "lat": "tetko Katerino,",
+       "en": "aunt Katerina,"
+      },
+      {
+       "cyr": "на џамфес миндери,",
+       "lat": "na džamfes minderi,",
+       "en": "sit on the silk settees,"
+      },
+      {
+       "cyr": "ти благо да си земиш,",
+       "lat": "ti blago da si zemiš,",
+       "en": "have some sweets,"
+      },
+      {
+       "cyr": "кафе да с' напиеш.",
+       "lat": "kafe da s' napieš.",
+       "en": "drink some coffee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас благо не ти љубам,",
+       "lat": "- Jas blago ne ti ljubam,",
+       "en": "- I don’t like sweets"
+      },
+      {
+       "cyr": "кафе не ти пијам,",
+       "lat": "kafe ne ti pijam,",
+       "en": "and don’t drink coffee,"
+      },
+      {
+       "cyr": "ти кира Марие.",
+       "lat": "ti kira Marie.",
+       "en": "lady Maria."
+      },
+      {
+       "cyr": "Само ја сакам Деспина",
+       "lat": "Samo ja sakam Despina",
+       "en": "I just want Despina"
+      },
+      {
+       "cyr": "за кир Ристакија.",
+       "lat": "za kir Ristakija.",
+       "en": "for mister Ristaki."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие тој Пармака,",
+       "lat": "Bog da bie toj Parmaka,",
+       "en": "May God punish that Parmak,"
+      },
+      {
+       "cyr": "Пармак Димитрија,",
+       "lat": "Parmak Dimitrija,",
+       "en": "Parmak Dimitria,"
+      },
+      {
+       "cyr": "Димитри чапкунот.",
+       "lat": "Dimitri čapkunot.",
+       "en": "Dimitria the seducer."
+      },
+      {
+       "cyr": "Што је мамил три години",
+       "lat": "Što je mamil tri godini",
+       "en": "He was cheating for three years"
+      },
+      {
+       "cyr": "таа кира Деспина,",
+       "lat": "taa kira Despina,",
+       "en": "lady Despina,"
+      },
+      {
+       "cyr": "што је мамил три години,",
+       "lat": "što je mamil tri godini,",
+       "en": "promising to marry her,"
+      },
+      {
+       "cyr": "и пак не је зеде.",
+       "lat": "i pak ne je zede.",
+       "en": "but didn’t marry her in the end."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во сабота навечер,",
+       "lat": "Vo sabota navečer,",
+       "en": "On Saturday night,"
+      },
+      {
+       "cyr": "во осум сатот,",
+       "lat": "vo osum satot,",
+       "en": "at eight o’clock,"
+      },
+      {
+       "cyr": "свирит Караѓуле.",
+       "lat": "svirit Karaǵule.",
+       "en": "Karagjule is playing."
+      },
+      {
+       "cyr": "Бргу направи азуал",
+       "lat": "Brgu napravi azual",
+       "en": "Quickly make a plea"
+      },
+      {
+       "cyr": "ти кира Марие,",
+       "lat": "ti kira Marie,",
+       "en": "lady Maria,"
+      },
+      {
+       "cyr": "фрли го на Андронакија,",
+       "lat": "frli go na Andronakija,",
+       "en": "to mister Andronaki,"
+      },
+      {
+       "cyr": "ти кира Марие.",
+       "lat": "ti kira Marie.",
+       "en": "lady Maria."
+      },
+      {
+       "cyr": "- Голема риџа ти чинам",
+       "lat": "- Golema ridža ti činam",
+       "en": "- I have a big plea for you,"
+      },
+      {
+       "cyr": "кир Андронакија,",
+       "lat": "kir Andronakija,",
+       "en": "mister Andronaki,"
+      },
+      {
+       "cyr": "Деспина ќе ја грабеа,",
+       "lat": "Despina ḱe ja grabea,",
+       "en": "they planned to grab Despina,"
+      },
+      {
+       "cyr": "јас не ќе је видев.",
+       "lat": "jas ne ḱe je videv.",
+       "en": "I would never see her again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Колку се ѕвезди на небо,",
+       "lat": "- Kolku se dzvezdi na nebo,",
+       "en": "- As much as there are stars in the sky,"
+      },
+      {
+       "cyr": "пушки ќе донесам,",
+       "lat": "puški ḱe donesam,",
+       "en": "I’ll bring rifles,"
+      },
+      {
+       "cyr": "пушки ќе фрламе.",
+       "lat": "puški ḱe frlame.",
+       "en": "we will shoot the rifles."
+      },
+      {
+       "cyr": "Деспина ќе ја грабиме",
+       "lat": "Despina ḱe ja grabime",
+       "en": "We will grab Despina"
+      },
+      {
+       "cyr": "ти не ќе е видиш.",
+       "lat": "ti ne ḱe e vidiš.",
+       "en": "and you will never see her again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Немој Марие, нечинит",
+       "lat": "- Nemoj Marie, nečinit",
+       "en": "- Please, no, Maria, that is not good,"
+      },
+      {
+       "cyr": "резил да не бидиш.",
+       "lat": "rezil da ne bidiš.",
+       "en": "it will be a shame for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

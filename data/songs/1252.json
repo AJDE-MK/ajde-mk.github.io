@@ -1,0 +1,198 @@
+{
+ "id": 1252,
+ "slug": "bela-jano",
+ "title_cyr": "Бела Јано",
+ "title_latin": "Bela Jano",
+ "title_en": "White Jana",
+ "pesna_url": "https://pesna.org/song/1252",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; I cannot name an author. 'Дал' as 'do you' (question particle) and the neuter 'не сум заспало' (singer speaks of himself in neuter) are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "донеси",
+   "en": "bring"
+  },
+  {
+   "mk": "вино",
+   "en": "wine"
+  },
+  {
+   "mk": "напијам",
+   "en": "I get drunk / drink my fill"
+  },
+  {
+   "mk": "севдо",
+   "en": "longing, passionate love (Turkish loan)"
+  },
+  {
+   "mk": "послатка",
+   "en": "sweeter"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "помила",
+   "en": "dearer"
+  },
+  {
+   "mk": "полична",
+   "en": "prettier"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight, the Moon"
+  }
+ ],
+ "performers": [
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/3165"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Донеси вино црвено,",
+       "lat": "Donesi vino crveno,",
+       "en": "Bring red wine,"
+      },
+      {
+       "cyr": "еј мори бела Јано,",
+       "lat": "ej mori bela Jano,",
+       "en": "hey, white Jana,"
+      },
+      {
+       "cyr": "дај вино да се напијам,",
+       "lat": "daj vino da se napijam,",
+       "en": "give me wine to get drunk,"
+      },
+      {
+       "cyr": "Јано, севдо голема.",
+       "lat": "Jano, sevdo golema.",
+       "en": "Jana, great longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Послатка си од грозјето,",
+       "lat": "Poslatka si od grozjeto,",
+       "en": "You are sweeter than grapes,"
+      },
+      {
+       "cyr": "помила си од Сонцето,",
+       "lat": "pomila si od Sonceto,",
+       "en": "dearer than the Sun,"
+      },
+      {
+       "cyr": "Јано, полична од Месечина.",
+       "lat": "Jano, polična od Mesečina.",
+       "en": "Jana, prettier than the Moon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три ноќи не сум заспало,",
+       "lat": "Tri noḱi ne sum zaspalo,",
+       "en": "Three nights I have not slept,"
+      },
+      {
+       "cyr": "еј мори бела Јано,",
+       "lat": "ej mori bela Jano,",
+       "en": "hey, white Jana,"
+      },
+      {
+       "cyr": "на тебе Јано мислело,",
+       "lat": "na tebe Jano mislelo,",
+       "en": "I have been thinking of you,"
+      },
+      {
+       "cyr": "Јано, севдо голема.",
+       "lat": "Jano, sevdo golema.",
+       "en": "Jana, great longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Послатка си од грозјето,",
+       "lat": "Poslatka si od grozjeto,",
+       "en": "You are sweeter than grapes,"
+      },
+      {
+       "cyr": "помила си од Сонцето,",
+       "lat": "pomila si od Sonceto,",
+       "en": "dearer than the Sun,"
+      },
+      {
+       "cyr": "Јано, полична од Месечина.",
+       "lat": "Jano, polična od Mesečina.",
+       "en": "Jana, prettier than the Moon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' мислиш уште на мене,",
+       "lat": "Dal' misliš ušte na mene,",
+       "en": "Do you still think of me,"
+      },
+      {
+       "cyr": "еј мори бела Јано,",
+       "lat": "ej mori bela Jano,",
+       "en": "hey, white Jana,"
+      },
+      {
+       "cyr": "како што мислам на тебе,",
+       "lat": "kako što mislam na tebe,",
+       "en": "as I think of you,"
+      },
+      {
+       "cyr": "Јано, севдо голема.",
+       "lat": "Jano, sevdo golema.",
+       "en": "Jana, great longing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Послатка си од грозјето,",
+       "lat": "Poslatka si od grozjeto,",
+       "en": "You are sweeter than grapes,"
+      },
+      {
+       "cyr": "помила си од Сонцето,",
+       "lat": "pomila si od Sonceto,",
+       "en": "dearer than the Sun,"
+      },
+      {
+       "cyr": "Јано, полична од Месечина.",
+       "lat": "Jano, polična od Mesečina.",
+       "en": "Jana, prettier than the Moon."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

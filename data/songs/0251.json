@@ -1,0 +1,174 @@
+{
+ "id": 251,
+ "slug": "zoshto-ti-me-ostavash",
+ "title_cyr": "Зошто ти ме оставаш",
+ "title_latin": "Zošto ti me ostavaš",
+ "title_en": "Why are you leaving me",
+ "pesna_url": "https://pesna.org/song/251",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Folk-style; I cannot confirm it is anonymous. The curse in stanza 3 and the 'руба' (trousseau) lines are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "оставаш",
+   "en": "you leave, abandon"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "сиромавче",
+   "en": "poor lad"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes, trousseau"
+  },
+  {
+   "mk": "жал ми е",
+   "en": "I am sorry, it aches me"
+  },
+  {
+   "mk": "тргај",
+   "en": "set off, come along"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зошто ти ме оставаш",
+       "lat": "Zošto ti me ostavaš",
+       "en": "Why are you leaving me,"
+      },
+      {
+       "cyr": "кажи Маре, кажи ми,",
+       "lat": "kaži Mare, kaži mi,",
+       "en": "tell me, Mare, tell me,"
+      },
+      {
+       "cyr": "зошто ме забораваш,",
+       "lat": "zošto me zaboravaš,",
+       "en": "why are you forgetting me,"
+      },
+      {
+       "cyr": "кое момче ќе љубиш?",
+       "lat": "koe momče ḱe ljubiš?",
+       "en": "which lad will you love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти дојде татко ти",
+       "lat": "Snošti dojde tatko ti",
+       "en": "Last night your father came,"
+      },
+      {
+       "cyr": "со мајка ми збореше,",
+       "lat": "so majka mi zboreše,",
+       "en": "he talked with my mother,"
+      },
+      {
+       "cyr": "свадба ќе ни правеа,",
+       "lat": "svadba ḱe ni pravea,",
+       "en": "they were going to arrange our wedding,"
+      },
+      {
+       "cyr": "за нас двајца збореа.",
+       "lat": "za nas dvajca zborea.",
+       "en": "they talked about the two of us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие татко ти",
+       "lat": "Bog da bie tatko ti",
+       "en": "May God strike your father"
+      },
+      {
+       "cyr": "од сè што ми побара,",
+       "lat": "od sè što mi pobara,",
+       "en": "for all that he asked of me,"
+      },
+      {
+       "cyr": "а јас него ниедно,",
+       "lat": "a jas nego niedno,",
+       "en": "and I have none of it for him,"
+      },
+      {
+       "cyr": "оти сум сиромавче.",
+       "lat": "oti sum siromavče.",
+       "en": "because I am poor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жал ми е од срцево",
+       "lat": "Žal mi e od srcevo",
+       "en": "My heart aches"
+      },
+      {
+       "cyr": "дека не сум со тебе,",
+       "lat": "deka ne sum so tebe,",
+       "en": "that I am not with you,"
+      },
+      {
+       "cyr": "оти руба си немам,",
+       "lat": "oti ruba si nemam,",
+       "en": "because I have no clothes,"
+      },
+      {
+       "cyr": "дека сум сиромавче.",
+       "lat": "deka sum siromavče.",
+       "en": "because I am poor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас не слушам татко ми",
+       "lat": "Jas ne slušam tatko mi",
+       "en": "I do not listen to my father,"
+      },
+      {
+       "cyr": "руба Маре не сакам,",
+       "lat": "ruba Mare ne sakam,",
+       "en": "Mare, I don't want a dowry of clothes,"
+      },
+      {
+       "cyr": "сега ќе се земиме",
+       "lat": "sega ḱe se zemime",
+       "en": "now we will marry,"
+      },
+      {
+       "cyr": "тргај Маре со мене.",
+       "lat": "trgaj Mare so mene.",
+       "en": "come away, Mare, with me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

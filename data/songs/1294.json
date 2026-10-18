@@ -1,0 +1,206 @@
+{
+ "id": 1294,
+ "slug": "katerino-mome",
+ "title_cyr": "Катерино моме",
+ "title_latin": "Katerino mome",
+ "title_en": "Katerina, Girl",
+ "pesna_url": "https://pesna.org/song/1294",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Question and answer between a man and Katerina. Pirin and the Aegean (Egeја) refer to the Macedonian regions in Bulgaria and Greece; 'Егеја' I read as the Aegean region. The given notes mention other versions of this song.",
+ "words_to_learn": [
+  {
+   "mk": "моме / мома",
+   "en": "girl (vocative moме)"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "гиздава",
+   "en": "elegant, finely dressed, handsome"
+  },
+  {
+   "mk": "трева",
+   "en": "grass"
+  },
+  {
+   "mk": "газила",
+   "en": "trampled, walked on (feminine)"
+  },
+  {
+   "mk": "пиела",
+   "en": "drank (feminine)"
+  },
+  {
+   "mk": "родила",
+   "en": "gave birth to"
+  },
+  {
+   "mk": "либе",
+   "en": "love, sweetheart"
+  },
+  {
+   "mk": "по мајка / по татко",
+   "en": "on the mother's side / on the father's side"
+  },
+  {
+   "mk": "раснела",
+   "en": "grew up (feminine)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Пирин",
+  "Благица Павловска",
+  "Десислава Добрева",
+  "Елена Наумова",
+  "Ирена Спасовска",
+  "Ленче Кукиќ",
+  "Селект Бенд",
+  "Серенада",
+  "Татиана Сарбинска",
+  "Цане Николовски",
+  "Цане Петров",
+  "Џамбо Агушеви Оркестар",
+  "Nixar"
+ ],
+ "audio": [
+  {
+   "who": "Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/3276"
+  },
+  {
+   "who": "Ленче Кукиќ",
+   "url": "https://pesna.org/audio-download/3277"
+  },
+  {
+   "who": "Благица Павловска",
+   "url": "https://pesna.org/audio-download/3278"
+  },
+  {
+   "who": "Елена Наумова",
+   "url": "https://pesna.org/audio-download/3279"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/3280"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/3281"
+  },
+  {
+   "who": "Селект Бенд",
+   "url": "https://pesna.org/audio-download/3282"
+  },
+  {
+   "who": "Десислава Добрева",
+   "url": "https://pesna.org/audio-download/3283"
+  },
+  {
+   "who": "Ансамбл Пирин",
+   "url": "https://pesna.org/audio-download/3284"
+  },
+  {
+   "who": "Татиана Сарбинска",
+   "url": "https://pesna.org/audio-download/3285"
+  },
+  {
+   "who": "Џамбо Агушеви Оркестар",
+   "url": "https://pesna.org/audio-download/3286"
+  },
+  {
+   "who": "Цане Петров",
+   "url": "https://pesna.org/audio-download/3287"
+  },
+  {
+   "who": "Nixar",
+   "url": "https://pesna.org/audio-download/3288"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Катерино моме, Катерино,",
+       "lat": "- Katerino mome, Katerino,",
+       "en": "- Katerina, girl, Katerina,"
+      },
+      {
+       "cyr": "зошто си толку, моме, убава,",
+       "lat": "zošto si tolku, mome, ubava,",
+       "en": "why are you so beautiful, girl,"
+      },
+      {
+       "cyr": "зошто си толку, моме, гиздава?",
+       "lat": "zošto si tolku, mome, gizdava?",
+       "en": "why are you so elegant, girl?"
+      },
+      {
+       "cyr": "Каква си трева, моме, газила,",
+       "lat": "Kakva si treva, mome, gazila,",
+       "en": "What grass did you trample, girl,"
+      },
+      {
+       "cyr": "каква си вода, моме, пиела,",
+       "lat": "kakva si voda, mome, piela,",
+       "en": "what water did you drink, girl,"
+      },
+      {
+       "cyr": "каква те мајка, моме, родила,",
+       "lat": "kakva te majka, mome, rodila,",
+       "en": "what mother bore you, girl,"
+      },
+      {
+       "cyr": "па штом си толку, моме, убава?",
+       "lat": "pa štom si tolku, mome, ubava?",
+       "en": "that you are so beautiful, girl?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас сум по мајка, либе, од Пирина,",
+       "lat": "- Jas sum po majka, libe, od Pirina,",
+       "en": "- On my mother's side, love, I am from Pirin,"
+      },
+      {
+       "cyr": "јас сум по татко, либе, од Егеја,",
+       "lat": "jas sum po tatko, libe, od Egeja,",
+       "en": "on my father's side, love, from the Aegean,"
+      },
+      {
+       "cyr": "раснела, мило либе, крај Вардара,",
+       "lat": "rasnela, milo libe, kraj Vardara,",
+       "en": "I grew up, dear love, beside the Vardar,"
+      },
+      {
+       "cyr": "затоа сум си, либе, убава.",
+       "lat": "zatoa sum si, libe, ubava.",
+       "en": "that is why, love, I am beautiful."
+      },
+      {
+       "cyr": "Затоа сум си, либе, убава,",
+       "lat": "Zatoa sum si, libe, ubava,",
+       "en": "That is why, love, I am beautiful."
+      },
+      {
+       "cyr": "Затоа сум си, либе, гиздава.",
+       "lat": "Zatoa sum si, libe, gizdava.",
+       "en": "That is why, love, I am elegant."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,163 @@
+{
+ "id": 1301,
+ "slug": "velichka-na-balkon-sedeshe",
+ "title_cyr": "Величка на балкон седеше",
+ "title_latin": "Velička na balkon sedeše",
+ "title_en": "Velichka Sat on the Balcony",
+ "pesna_url": "https://pesna.org/song/1301",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author I can name. The last line reads 'your first friend, your first enemy' as one person who has turned from friend into rival (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "балкон",
+   "en": "balcony"
+  },
+  {
+   "mk": "тантела",
+   "en": "lace"
+  },
+  {
+   "mk": "предеше",
+   "en": "was spinning"
+  },
+  {
+   "mk": "љубовна песна",
+   "en": "love song"
+  },
+  {
+   "mk": "либе",
+   "en": "beloved, sweetheart"
+  },
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "ергени",
+   "en": "young bachelors"
+  },
+  {
+   "mk": "думаа",
+   "en": "were saying (dialect, standard: зборуваа)"
+  },
+  {
+   "mk": "жаловна",
+   "en": "mournful, sorrowful"
+  },
+  {
+   "mk": "се армаса",
+   "en": "got engaged (armasa = engagement)"
+  },
+  {
+   "mk": "другарка",
+   "en": "female friend, companion"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3302"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Величка на балкон седеше,",
+       "lat": "Velička na balkon sedeše,",
+       "en": "Velichka sat on the balcony,"
+      },
+      {
+       "cyr": "бела тантела предеше,",
+       "lat": "bela tantela predeše,",
+       "en": "spinning white lace,"
+      },
+      {
+       "cyr": "љубовна песна пееше.",
+       "lat": "ljubovna pesna peeše.",
+       "en": "singing a love song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љубовна песна пееше,",
+       "lat": "Ljubovna pesna peeše,",
+       "en": "Singing a love song,"
+      },
+      {
+       "cyr": "либето си го чекаше.",
+       "lat": "libeto si go čekaše.",
+       "en": "waiting for her beloved."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола идат момчиња,",
+       "lat": "Ozdola idat momčinja,",
+       "en": "From below come boys,"
+      },
+      {
+       "cyr": "момчиња, млади ергени,",
+       "lat": "momčinja, mladi ergeni,",
+       "en": "boys, young bachelors,"
+      },
+      {
+       "cyr": "и на Величка думаа:",
+       "lat": "i na Velička dumaa:",
+       "en": "and they said to Velichka:"
+      },
+      {
+       "cyr": "- Величке, моме убава,",
+       "lat": "- Veličke, mome ubava,",
+       "en": "- Velichka, beautiful girl,"
+      },
+      {
+       "cyr": "не пеј си песна љубовна,",
+       "lat": "ne pej si pesna ljubovna,",
+       "en": "do not sing your love song,"
+      },
+      {
+       "cyr": "тук пеј ти песна жаловна.",
+       "lat": "tuk pej ti pesna žalovna.",
+       "en": "sing here a song of lament."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либето ти се армаса,",
+       "lat": "Libeto ti se armasa,",
+       "en": "Your beloved has got engaged,"
+      },
+      {
+       "cyr": "за твојта прва другарка,",
+       "lat": "za tvojta prva drugarka,",
+       "en": "to your first friend,"
+      },
+      {
+       "cyr": "за твојта прва душманка.",
+       "lat": "za tvojta prva dušmanka.",
+       "en": "to your first enemy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

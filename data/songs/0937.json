@@ -1,0 +1,231 @@
+{
+ "id": 937,
+ "slug": "tri-godini-jas-te-chekam",
+ "title_cyr": "Три години јас те чекам",
+ "title_latin": "Tri godini jas te čekam",
+ "title_en": "Three years I have waited for you",
+ "pesna_url": "https://pesna.org/song/937",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style dialogue; origin unclear. 'Ќе бегам бегалка' is an idiom I read as 'I will elope'.",
+ "words_to_learn": [
+  {
+   "mk": "чека",
+   "en": "to wait"
+  },
+  {
+   "mk": "порасне",
+   "en": "to grow up"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "бегалка",
+   "en": "runaway (female)"
+  },
+  {
+   "mk": "грев",
+   "en": "sin"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding party, matchmakers"
+  },
+  {
+   "mk": "бурмајлија",
+   "en": "wedding ring (Turkish loan)"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, silly (affectionate)"
+  }
+ ],
+ "performers": [
+  "Анастасиа Митровска",
+  "Виолета Томовска",
+  "Јанко Неделчев",
+  "Кирил Манчевски",
+  "Молика",
+  "Непознат изведувач",
+  "Рени Митрева"
+ ],
+ "audio": [
+  {
+   "who": "Јанко Неделчев, Рени Митрева",
+   "url": "https://pesna.org/audio-download/2149"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2150"
+  },
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/3879"
+  },
+  {
+   "who": "Анастасиа Митровска, Молика",
+   "url": "https://pesna.org/audio-download/4172"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Три години јас те чекам",
+       "lat": "- Tri godini jas te čekam",
+       "en": "- Three years I have waited for you"
+      },
+      {
+       "cyr": "да пораснеш, да те земам.",
+       "lat": "da porasneš, da te zemam.",
+       "en": "for you to grow up, for me to take you."
+      },
+      {
+       "cyr": "- Ах море либе, брзо дојди,",
+       "lat": "- Ah more libe, brzo dojdi,",
+       "en": "- Ah, my love, come quickly,"
+      },
+      {
+       "cyr": "болна лежам за тебе.",
+       "lat": "bolna ležam za tebe.",
+       "en": "I lie sick for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако дојдам да те сакам,",
+       "lat": "- Ako dojdam da te sakam,",
+       "en": "- If I come to court you,"
+      },
+      {
+       "cyr": "твојот татко не те дава.",
+       "lat": "tvojot tatko ne te dava.",
+       "en": "your father will not give you."
+      },
+      {
+       "cyr": "- Ах море либе, брзо дојди,",
+       "lat": "- Ah more libe, brzo dojdi,",
+       "en": "- Ah, my love, come quickly,"
+      },
+      {
+       "cyr": "јас ќе бегам бегалка.",
+       "lat": "jas ḱe begam begalka.",
+       "en": "I will run away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој што љуби, грев не чини,",
+       "lat": "Koj što ljubi, grev ne čini,",
+       "en": "Whoever loves does no sin,"
+      },
+      {
+       "cyr": "тоа го знаат и старите.",
+       "lat": "toa go znaat i starite.",
+       "en": "even the old people know this."
+      },
+      {
+       "cyr": "Затоа лудо не чекај,",
+       "lat": "Zatoa ludo ne čekaj,",
+       "en": "So do not wait foolishly,"
+      },
+      {
+       "cyr": "испрати сватови.",
+       "lat": "isprati svatovi.",
+       "en": "send the wedding party."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Прстен купив, бурмајлија,",
+       "lat": "- Prsten kupiv, burmajlija,",
+       "en": "- I bought a ring, a wedding band,"
+      },
+      {
+       "cyr": "утре идам да те сакам.",
+       "lat": "utre idam da te sakam.",
+       "en": "tomorrow I come to court you."
+      },
+      {
+       "cyr": "- Немој лудо, не се троши,",
+       "lat": "- Nemoj ludo, ne se troši,",
+       "en": "- Do not, fool, do not spend,"
+      },
+      {
+       "cyr": "јас сум твоја без прстен.",
+       "lat": "jas sum tvoja bez prsten.",
+       "en": "I am yours without a ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И за твојте гради купив",
+       "lat": "- I za tvojte gradi kupiv",
+       "en": "- And for your breast I bought"
+      },
+      {
+       "cyr": "кован ѓердан, старо злато.",
+       "lat": "kovan ǵerdan, staro zlato.",
+       "en": "a forged necklace, old gold."
+      },
+      {
+       "cyr": "- Немој лудо, не се троши,",
+       "lat": "- Nemoj ludo, ne se troši,",
+       "en": "- Do not, fool, do not spend,"
+      },
+      {
+       "cyr": "јас сум твоја без ѓердан.",
+       "lat": "jas sum tvoja bez ǵerdan.",
+       "en": "I am yours without a necklace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој што љуби, грев не чини,",
+       "lat": "Koj što ljubi, grev ne čini,",
+       "en": "Whoever loves does no sin,"
+      },
+      {
+       "cyr": "тоа го знаат и старите.",
+       "lat": "toa go znaat i starite.",
+       "en": "even the old people know this."
+      },
+      {
+       "cyr": "Затоа лудо не чекај,",
+       "lat": "Zatoa ludo ne čekaj,",
+       "en": "So do not wait foolishly,"
+      },
+      {
+       "cyr": "испрати сватови.",
+       "lat": "isprati svatovi.",
+       "en": "send the wedding party."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

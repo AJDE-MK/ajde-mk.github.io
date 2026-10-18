@@ -1,0 +1,209 @@
+{
+ "id": 384,
+ "slug": "v-nedela-dojde-ludo-mlado",
+ "title_cyr": "В' недела дојде лудо младо",
+ "title_latin": "V' nedela dojde ludo mlado",
+ "title_en": "On Sunday a Young Lad Came",
+ "pesna_url": "https://pesna.org/song/384",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Не ме кани ... при теб' да седам' is my reading: 'do not invite me to stay with you' (the lad is speaking, probably the girl being told not to ask). Speaker roles in the middle stanzas are my interpretation.",
+ "words_to_learn": [
+  {
+   "mk": "лудо младо",
+   "en": "young lad (fixed folk phrase, 'young and wild')"
+  },
+  {
+   "mk": "на гости",
+   "en": "as a guest, visiting"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy"
+  },
+  {
+   "mk": "оди",
+   "en": "go"
+  },
+  {
+   "mk": "жали",
+   "en": "grieve, mourn"
+  },
+  {
+   "mk": "земи ме",
+   "en": "take me"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1484"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1485"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1486"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "В' недела дојде лудо младо",
+       "lat": "V' nedela dojde ludo mlado",
+       "en": "On Sunday a young lad came"
+      },
+      {
+       "cyr": "у нас на гости.",
+       "lat": "u nas na gosti.",
+       "en": "to us as a guest."
+      },
+      {
+       "cyr": "Седе два дни, седе три дни",
+       "lat": "Sede dva dni, sede tri dni",
+       "en": "He stayed two days, he stayed three days,"
+      },
+      {
+       "cyr": "седеше недела.",
+       "lat": "sedeše nedela.",
+       "en": "he stayed a week."
+      },
+      {
+       "cyr": "Па си тргна да си оди",
+       "lat": "Pa si trgna da si odi",
+       "en": "Then he set off to go"
+      },
+      {
+       "cyr": "в' туѓа туѓина.",
+       "lat": "v' tuǵa tuǵina.",
+       "en": "to a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудо младо не оди в' туѓина,",
+       "lat": "Ludo mlado ne odi v' tuǵina,",
+       "en": "Young lad, do not go to a foreign land,"
+      },
+      {
+       "cyr": "лудо младо, остани лудо младо при мене.",
+       "lat": "ludo mlado, ostani ludo mlado pri mene.",
+       "en": "young lad, stay with me, young lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ме кани лудо младо",
+       "lat": "Ne me kani ludo mlado",
+       "en": "Do not invite me, young lad,"
+      },
+      {
+       "cyr": "при теб' да седам,",
+       "lat": "pri teb' da sedam,",
+       "en": "to stay with you,"
+      },
+      {
+       "cyr": "мене чека стара мајка",
+       "lat": "mene čeka stara majka",
+       "en": "my old mother is waiting for me"
+      },
+      {
+       "cyr": "и стари татко.",
+       "lat": "i stari tatko.",
+       "en": "and my old father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудо младо земи ме со тебе,",
+       "lat": "Ludo mlado zemi me so tebe,",
+       "en": "Young lad, take me with you,"
+      },
+      {
+       "cyr": "лудо младо, не можам лудо младо без тебе.",
+       "lat": "ludo mlado, ne možam ludo mlado bez tebe.",
+       "en": "young lad, I cannot, young lad, without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас не можам да те земам",
+       "lat": "Jas ne možam da te zemam",
+       "en": "I cannot take you"
+      },
+      {
+       "cyr": "тебе со мене,",
+       "lat": "tebe so mene,",
+       "en": "with me,"
+      },
+      {
+       "cyr": "јас си имам друго либе",
+       "lat": "jas si imam drugo libe",
+       "en": "I have another sweetheart"
+      },
+      {
+       "cyr": "и машко дете.",
+       "lat": "i maško dete.",
+       "en": "and a baby boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младој моме не оди по мене,",
+       "lat": "Mladoj mome ne odi po mene,",
+       "en": "Young maiden, do not follow me,"
+      },
+      {
+       "cyr": "малој моме, не жали мило моме за мене.",
+       "lat": "maloj mome, ne žali milo mome za mene.",
+       "en": "little maiden, do not grieve for me, dear maiden."
+      },
+      {
+       "cyr": "Лудо младо, земи ме со тебе,",
+       "lat": "Ludo mlado, zemi me so tebe,",
+       "en": "Young lad, take me with you,"
+      },
+      {
+       "cyr": "лудо младо, не можам лудо младо без тебе.",
+       "lat": "ludo mlado, ne možam ludo mlado bez tebe.",
+       "en": "young lad, I cannot, young lad, without you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

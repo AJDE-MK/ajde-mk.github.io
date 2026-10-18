@@ -1,0 +1,163 @@
+{
+ "id": 277,
+ "slug": "tri-godini-bolen-lezham",
+ "title_cyr": "Три години болен лежам",
+ "title_latin": "Tri godini bolen ležam",
+ "title_en": "I have been lying sick for three years",
+ "pesna_url": "https://pesna.org/song/277",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Ансамбл чалгија",
+  "Виолета Томовска",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Мишко Крстевски",
+  "Наум Петрески",
+  "Цветанка Ласкова"
+ ],
+ "audio": [
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/1621"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1622"
+  },
+  {
+   "who": "Виолета Томовска, Наум Петрески",
+   "url": "https://pesna.org/audio-download/1623"
+  },
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/1624"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1625"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/2151"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3901"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три години болен лежав",
+       "lat": "Tri godini bolen ležav",
+       "en": "I have been lying sick for three years,"
+      },
+      {
+       "cyr": "аман, аман, аман,",
+       "lat": "aman, aman, aman,",
+       "en": "oh, oh, oh,"
+      },
+      {
+       "cyr": "за твоите црни очи.",
+       "lat": "za tvoite crni oči.",
+       "en": "for your black eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Отвори го пенџерчето",
+       "lat": "Otvori go pendžerčeto",
+       "en": "Open the little window,"
+      },
+      {
+       "cyr": "аман, аман, аман,",
+       "lat": "aman, aman, aman,",
+       "en": "oh, oh, oh,"
+      },
+      {
+       "cyr": "да ти речам до два збора",
+       "lat": "da ti rečam do dva zbora",
+       "en": "I want to tell you a word or two,"
+      },
+      {
+       "cyr": "отвори го и пак затвори го.",
+       "lat": "otvori go i pak zatvori go.",
+       "en": "open it and then close it again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очите ми, очите ти",
+       "lat": "Očite mi, očite ti",
+       "en": "My eyes, your eyes,"
+      },
+      {
+       "cyr": "аман, аман, аман,",
+       "lat": "aman, aman, aman,",
+       "en": "oh, oh, oh,"
+      },
+      {
+       "cyr": "тие ми се стројниците.",
+       "lat": "tie mi se strojnicite.",
+       "en": "they are my matchmakers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милување, бакнување",
+       "lat": "Miluvanje, baknuvanje",
+       "en": "Caressing, kissing,"
+      },
+      {
+       "cyr": "аман, аман, аман",
+       "lat": "aman, aman, aman",
+       "en": "oh, oh, oh,"
+      },
+      {
+       "cyr": "тоа се, велат, прикаски.",
+       "lat": "toa se, velat, prikaski.",
+       "en": "those are, they say, just stories."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај повтори, избаци ме",
+       "lat": "Aj povtori, izbaci me",
+       "en": "Come on, do it again, kiss me,"
+      },
+      {
+       "cyr": "аман, аман, аман,",
+       "lat": "aman, aman, aman,",
+       "en": "oh, oh, oh,"
+      },
+      {
+       "cyr": "да не легнам и да умрам.",
+       "lat": "da ne legnam i da umram.",
+       "en": "or I will lie down and die."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,168 @@
+{
+ "id": 1191,
+ "slug": "trgna-mi-stojna-za-voda",
+ "title_cyr": "Тргна ми Стојна за вода",
+ "title_latin": "Trgna mi Stojna za voda",
+ "title_en": "Stojna set out for water",
+ "pesna_url": "https://pesna.org/song/1191",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'мусандра' is a built-in wall cupboard (Turkish loan); my reading.",
+ "words_to_learn": [
+  {
+   "mk": "тргна",
+   "en": "set out"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring tap"
+  },
+  {
+   "mk": "шарена",
+   "en": "colorful, patterned"
+  },
+  {
+   "mk": "стомна",
+   "en": "jug, pitcher"
+  },
+  {
+   "mk": "земјани",
+   "en": "clay, earthen"
+  },
+  {
+   "mk": "бег",
+   "en": "bey (Ottoman lord)"
+  },
+  {
+   "mk": "кула",
+   "en": "tower"
+  },
+  {
+   "mk": "долап",
+   "en": "cupboard"
+  },
+  {
+   "mk": "скути",
+   "en": "lap"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Васка Илиева",
+  "Кочо Петровски",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Васка Илиева, Кочо Петровски, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2922"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргна ми Стојна за вода",
+       "lat": "Trgna mi Stojna za voda",
+       "en": "Stojna set out for water"
+      },
+      {
+       "cyr": "на таа чешма шарена,",
+       "lat": "na taa češma šarena,",
+       "en": "to that colorful fountain,"
+      },
+      {
+       "cyr": "на таа чешма шарена,",
+       "lat": "na taa češma šarena,",
+       "en": "to that colorful fountain,"
+      },
+      {
+       "cyr": "со двете стомни земјани.",
+       "lat": "so dvete stomni zemjani.",
+       "en": "with two clay jugs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Али бег седи на кула,",
+       "lat": "Ali beg sedi na kula,",
+       "en": "The bey sits on his tower,"
+      },
+      {
+       "cyr": "на Стојна вели, говори:",
+       "lat": "na Stojna veli, govori:",
+       "en": "and says to Stojna, speaks:"
+      },
+      {
+       "cyr": "- Стојне ле, Стојне убаво,",
+       "lat": "- Stojne le, Stojne ubavo,",
+       "en": "- Stojna, oh Stojna, beautiful,"
+      },
+      {
+       "cyr": "качи се горе на кула.",
+       "lat": "kači se gore na kula.",
+       "en": "come up here to the tower."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Качи се горе на кула,",
+       "lat": "Kači se gore na kula,",
+       "en": "Come up here to the tower,"
+      },
+      {
+       "cyr": "отвори долап мусандра,",
+       "lat": "otvori dolap musandra,",
+       "en": "open the musandra cupboard,"
+      },
+      {
+       "cyr": "отвори долап мусандра,",
+       "lat": "otvori dolap musandra,",
+       "en": "open the musandra cupboard,"
+      },
+      {
+       "cyr": "извади шише ракија.",
+       "lat": "izvadi šiše rakija.",
+       "en": "take out a bottle of rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извади шише ракија,",
+       "lat": "Izvadi šiše rakija,",
+       "en": "Take out a bottle of rakija,"
+      },
+      {
+       "cyr": "да пијам, да се опијам.",
+       "lat": "da pijam, da se opijam.",
+       "en": "so that I drink and get drunk."
+      },
+      {
+       "cyr": "Да пијам, да се опијам,",
+       "lat": "Da pijam, da se opijam,",
+       "en": "So that I drink and get drunk,"
+      },
+      {
+       "cyr": "на скути да ти преспијам.",
+       "lat": "na skuti da ti prespijam.",
+       "en": "and sleep on your lap."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

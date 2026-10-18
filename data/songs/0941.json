@@ -1,0 +1,189 @@
+{
+ "id": 941,
+ "slug": "oj-stojane-moj-komshija",
+ "title_cyr": "Ој Стојане, мој комшија",
+ "title_latin": "Oj Stojane, moj komšija",
+ "title_en": "Hey Stojan, My Neighbor",
+ "pesna_url": "https://pesna.org/song/941",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song, southern/eastern dialect (су = са/се, гу = го). Stanzas 2, 3 and 5 contain lines I am guessing at, marked 'my reading'; the joke seems to be that the rooster did not crow.",
+ "words_to_learn": [
+  {
+   "mk": "комшија",
+   "en": "neighbor"
+  },
+  {
+   "mk": "наљутија",
+   "en": "angered (dialect past)"
+  },
+  {
+   "mk": "кокошка",
+   "en": "hen"
+  },
+  {
+   "mk": "затворени",
+   "en": "shut in"
+  },
+  {
+   "mk": "неметени",
+   "en": "unswept"
+  },
+  {
+   "mk": "петел",
+   "en": "rooster"
+  },
+  {
+   "mk": "полегнасмо",
+   "en": "we lay down"
+  },
+  {
+   "mk": "запојаше",
+   "en": "began to crow/sing"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  }
+ ],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/2169"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Стојане, мој комшија,",
+       "lat": "- Oj Stojane, moj komšija,",
+       "en": "- Hey Stojan, my neighbor,"
+      },
+      {
+       "cyr": "што си жену море наљутија,",
+       "lat": "što si ženu more naljutija,",
+       "en": "why did you anger your wife, hey,"
+      },
+      {
+       "cyr": "па кокошке су ти затворени,",
+       "lat": "pa kokoške su ti zatvoreni,",
+       "en": "so that your hens are shut in,"
+      },
+      {
+       "cyr": "рамни двори, Стојан, неметени?",
+       "lat": "ramni dvori, Stojan, nemeteni?",
+       "en": "the level yard, Stojan, unswept?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој комшике, Јовке кумановке,",
+       "lat": "- Oj komšike, Jovke kumanovke,",
+       "en": "- Hey neighbor, Jovka of Kumanovo,"
+      },
+      {
+       "cyr": "да кажују, мори, ќе се смееш,",
+       "lat": "da kažuju, mori, ḱe se smeeš,",
+       "en": "if I tell you, hey, you will laugh,"
+      },
+      {
+       "cyr": "а да видиш мори, ќе ме жалиш,",
+       "lat": "a da vidiš mori, ḱe me žališ,",
+       "en": "but if you saw, hey, you would pity me,"
+      },
+      {
+       "cyr": "сал' на мужа, Јовке, да не кажеш.",
+       "lat": "sal' na muža, Jovke, da ne kažeš.",
+       "en": "only, Jovka, don't tell my husband (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Синојќа си, мори, полегнасмо",
+       "lat": "Sinojḱa si, mori, polegnasmo",
+       "en": "Last night, hey, we lay down"
+      },
+      {
+       "cyr": "и за петла, мори, збор зборесмо.",
+       "lat": "i za petla, mori, zbor zboresmo.",
+       "en": "and talked, hey, about the rooster."
+      },
+      {
+       "cyr": "Што не пое, мори, да не пукне,",
+       "lat": "Što ne poe, mori, da ne pukne,",
+       "en": "That he didn't crow, hey, may he burst (my reading),"
+      },
+      {
+       "cyr": "сви комшиски, Јовке, запојаше.",
+       "lat": "svi komšiski, Jovke, zapojaše.",
+       "en": "all the neighbors', Jovka, crowed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит' се спие, Јовке, нит' стануе,",
+       "lat": "Nit' se spie, Jovke, nit' stanue,",
+       "en": "Neither sleeping, Jovka, nor getting up,"
+      },
+      {
+       "cyr": "нит' се зора, сестро, дочекуе,",
+       "lat": "nit' se zora, sestro, dočekue,",
+       "en": "nor, sister, waiting for the dawn,"
+      },
+      {
+       "cyr": "а од муку, мори, не заспасмо,",
+       "lat": "a od muku, mori, ne zaspasmo,",
+       "en": "and from anguish, hey, we did not sleep,"
+      },
+      {
+       "cyr": "едвај зору, сестро, дочекасмо.",
+       "lat": "edvaj zoru, sestro, dočekasmo.",
+       "en": "barely, sister, did we wait for the dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затој ми се жена наљутила,",
+       "lat": "Zatoj mi se žena naljutila,",
+       "en": "That's why my wife got angry,"
+      },
+      {
+       "cyr": "без појање куќу не гу бива.",
+       "lat": "bez pojanje kuḱu ne gu biva.",
+       "en": "without crowing the house is not right (my reading)."
+      },
+      {
+       "cyr": "Затој су кокошке затворени,",
+       "lat": "Zatoj su kokoške zatvoreni,",
+       "en": "That's why the hens are shut in,"
+      },
+      {
+       "cyr": "рамни двори, Јовке, неметени.",
+       "lat": "ramni dvori, Jovke, nemeteni.",
+       "en": "the level yard, Jovka, unswept."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

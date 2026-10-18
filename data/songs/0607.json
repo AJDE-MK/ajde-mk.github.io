@@ -1,0 +1,270 @@
+{
+ "id": 607,
+ "slug": "bitola-moj-roden-kraj",
+ "title_cyr": "Битола, мој роден крај",
+ "title_latin": "Bitola, moj roden kraj",
+ "title_en": "Bitola, my hometown",
+ "pesna_url": "https://pesna.org/song/607",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ајри Демировски",
+  "Ajri Demirovski",
+  "Александар Сариевски",
+  "Анка Гиева",
+  "Благој Петров - Караѓуле",
+  "Виолета Томовска",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Драгица Мавровска",
+  "Ѓорѓи Желчевски",
+  "Зоран Марковски",
+  "Кевсер Селимова",
+  "Октет Македонија",
+  "Оливер Драгојевиќ",
+  "Петранка Костадинова",
+  "Цветанка Ласкова",
+  "Hu Songhua (胡松华)",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/751"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/752"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/753"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/754"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/755"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/756"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/757"
+  },
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/758"
+  },
+  {
+   "who": "Ајри Демировски",
+   "url": "https://pesna.org/audio-download/759"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Оливер Драгојевиќ",
+   "url": "https://pesna.org/audio-download/1801"
+  },
+  {
+   "who": "Анка Гиева, Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/3112"
+  },
+  {
+   "who": "Hu Songhua (胡松华)",
+   "url": "https://pesna.org/audio-download/3562"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3904"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Битола, мој роден крај",
+       "lat": "Bitola, moj roden kraj",
+       "en": "Bitola, the city I was born in,"
+      },
+      {
+       "cyr": "во тебе сум роден",
+       "lat": "vo tebe sum roden",
+       "en": "I was born in you,"
+      },
+      {
+       "cyr": "за мене си рај.",
+       "lat": "za mene si raj.",
+       "en": "for me, you are Paradise."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, мој роден крај,",
+       "lat": "Bitola, moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам од срце знај.",
+       "lat": "jas te sakam od srce znaj.",
+       "en": "I love you from my heart."
+      },
+      {
+       "cyr": "Битола мој роден крај,",
+       "lat": "Bitola moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам, за тебе пеам.",
+       "lat": "jas te sakam, za tebe peam.",
+       "en": "I love you, I sing for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу градови, села јас пројдов,",
+       "lat": "Mnogu gradovi, sela jas projdov,",
+       "en": "Many cities and villages I passed,"
+      },
+      {
+       "cyr": "како тебе мил за мене",
+       "lat": "kako tebe mil za mene",
+       "en": "but like you dear for me"
+      },
+      {
+       "cyr": "нигде не најдов.",
+       "lat": "nigde ne najdov.",
+       "en": "I could not find."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, мој роден крај,",
+       "lat": "Bitola, moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам од срце знај.",
+       "lat": "jas te sakam od srce znaj.",
+       "en": "I love you from my heart."
+      },
+      {
+       "cyr": "Битола мој роден крај,",
+       "lat": "Bitola moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам, за тебе пејам.",
+       "lat": "jas te sakam, za tebe pejam.",
+       "en": "I love you, I sing for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште како дете по тебе одев бос",
+       "lat": "Ušte kako dete po tebe odev bos",
+       "en": "When I was a kid, I walked barefoot in you,"
+      },
+      {
+       "cyr": "во тебе пораснав",
+       "lat": "vo tebe porasnav",
+       "en": "I grew up in you,"
+      },
+      {
+       "cyr": "јас не сум ти гост.",
+       "lat": "jas ne sum ti gost.",
+       "en": "I am not a guest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, мој роден крај,",
+       "lat": "Bitola, moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам од срце знај.",
+       "lat": "jas te sakam od srce znaj.",
+       "en": "I love you from my heart."
+      },
+      {
+       "cyr": "Битола мој роден крај,",
+       "lat": "Bitola moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам, за тебе пеам.",
+       "lat": "jas te sakam, za tebe peam.",
+       "en": "I love you, I sing for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Има ли кој, граде мој",
+       "lat": "Ima li koj, grade moj",
+       "en": "Is there anyone, my city,"
+      },
+      {
+       "cyr": "збогум да ти каже,",
+       "lat": "zbogum da ti kaže,",
+       "en": "to tell you \"Good bye\""
+      },
+      {
+       "cyr": "да не заплаче?",
+       "lat": "da ne zaplače?",
+       "en": "and not to cry?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, мој роден крај,",
+       "lat": "Bitola, moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам од срце знај.",
+       "lat": "jas te sakam od srce znaj.",
+       "en": "I love you from my heart."
+      },
+      {
+       "cyr": "Битола мој роден крај,",
+       "lat": "Bitola moj roden kraj,",
+       "en": "Bitola, the city I was born in"
+      },
+      {
+       "cyr": "јас те сакам, за тебе пеам.",
+       "lat": "jas te sakam, za tebe peam.",
+       "en": "I love you, I sing for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

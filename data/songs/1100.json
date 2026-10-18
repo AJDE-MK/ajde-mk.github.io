@@ -1,0 +1,159 @@
+{
+ "id": 1100,
+ "slug": "lezhal-e-stojan",
+ "title_cyr": "Лежал е Стојан",
+ "title_latin": "Ležal e Stojan",
+ "title_en": "Stojan lay ill",
+ "pesna_url": "https://pesna.org/song/1100",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional (looks like a Bulgarian-border dialect). 'Арајме' as 'we pounced' is a guess, and 'клошари' as 'vagrants' is my reading; 'ка' = when.",
+ "words_to_learn": [
+  {
+   "mk": "лежал",
+   "en": "lay (ill), was bedridden"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "маќеа",
+   "en": "stepmother"
+  },
+  {
+   "mk": "му се додеало",
+   "en": "she got fed up"
+  },
+  {
+   "mk": "греови",
+   "en": "sins"
+  },
+  {
+   "mk": "длабоки",
+   "en": "deep"
+  },
+  {
+   "mk": "луди и млади",
+   "en": "wild and young"
+  },
+  {
+   "mk": "гората",
+   "en": "the forest"
+  },
+  {
+   "mk": "исклајме",
+   "en": "we slaughtered (dialect)"
+  },
+  {
+   "mk": "всичките",
+   "en": "all of them (dialect)"
+  }
+ ],
+ "performers": [
+  "Извор"
+ ],
+ "audio": [
+  {
+   "who": "Извор",
+   "url": "https://pesna.org/audio-download/2641"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лежал е Стојан, лежал е де,",
+       "lat": "Ležal e Stojan, ležal e de,",
+       "en": "Stojan lay ill, he lay ill, hey,"
+      },
+      {
+       "cyr": "цели ми девет години, ајде,",
+       "lat": "celi mi devet godini, ajde,",
+       "en": "all of nine years, come on,"
+      },
+      {
+       "cyr": "сменил е девет постели.",
+       "lat": "smenil e devet posteli.",
+       "en": "he changed nine beds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На маќеа му се додеало, де",
+       "lat": "Na maḱea mu se dodealo, de",
+       "en": "His stepmother got fed up, hey,"
+      },
+      {
+       "cyr": "та си на Стојан думаше, ајде:",
+       "lat": "ta si na Stojan dumaše, ajde:",
+       "en": "and said to Stojan, come on:"
+      },
+      {
+       "cyr": "- Кажи си, сине, греове.",
+       "lat": "- Kaži si, sine, greove.",
+       "en": "- Tell your sins, son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан на маќеа проговара:",
+       "lat": "Stojan na maḱea progovara:",
+       "en": "Stojan answers his stepmother:"
+      },
+      {
+       "cyr": "- Греове ми са големи, ајде,",
+       "lat": "- Greove mi sa golemi, ajde,",
+       "en": "- My sins are great, come on,"
+      },
+      {
+       "cyr": "големи, мале, длабоки.",
+       "lat": "golemi, male, dlaboki.",
+       "en": "great, mother, and deep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ка бевме луди и млади, де,",
+       "lat": "Ka bevme ludi i mladi, de,",
+       "en": "When we were wild and young, hey,"
+      },
+      {
+       "cyr": "таму в' гората одевме, ајде,",
+       "lat": "tamu v' gorata odevme, ajde,",
+       "en": "we went there into the forest, come on,"
+      },
+      {
+       "cyr": "сретнавме до три клошари,",
+       "lat": "sretnavme do tri klošari,",
+       "en": "we met up to three vagrants,"
+      },
+      {
+       "cyr": "арајме, та ги исклајме,",
+       "lat": "arajme, ta gi isklajme,",
+       "en": "we pounced and we slaughtered them,"
+      },
+      {
+       "cyr": "исклајме, мале, всичките.",
+       "lat": "isklajme, male, vsičkite.",
+       "en": "we slaughtered them, mother, every one."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

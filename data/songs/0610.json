@@ -1,0 +1,217 @@
+{
+ "id": 610,
+ "slug": "ako-imash-srce",
+ "title_cyr": "Ако имаш срце",
+ "title_latin": "Ako imaš srce",
+ "title_en": "If You Have a Heart",
+ "pesna_url": "https://pesna.org/song/610",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern pop-style lyric sung by a woman; origin unclear, no author I can name. 'бели денови' is my reading as plain 'bright/empty days'; 'денови - мисли студени' is read as 'days are cold thoughts'.",
+ "words_to_learn": [
+  {
+   "mk": "ноќите",
+   "en": "the nights"
+  },
+  {
+   "mk": "грееш",
+   "en": "you shine, warm"
+  },
+  {
+   "mk": "разбери ме",
+   "en": "understand me"
+  },
+  {
+   "mk": "посади",
+   "en": "plant"
+  },
+  {
+   "mk": "цветам",
+   "en": "I bloom"
+  },
+  {
+   "mk": "неспани",
+   "en": "sleepless"
+  },
+  {
+   "mk": "бели денови",
+   "en": "white (empty/bright) days"
+  },
+  {
+   "mk": "наутро",
+   "en": "in the morning"
+  },
+  {
+   "mk": "кафе",
+   "en": "coffee"
+  },
+  {
+   "mk": "отровно",
+   "en": "poisonous"
+  }
+ ],
+ "performers": [
+  "Тавче гравче"
+ ],
+ "audio": [
+  {
+   "who": "Тавче гравче",
+   "url": "https://pesna.org/audio-download/2195"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ноќите мои со тебе,",
+       "lat": "Noḱite moi so tebe,",
+       "en": "My nights with you,"
+      },
+      {
+       "cyr": "ко сонце грееш крај мене,",
+       "lat": "ko sonce greeš kraj mene,",
+       "en": "you shine like the sun beside me,"
+      },
+      {
+       "cyr": "без тебе не би пеела,",
+       "lat": "bez tebe ne bi peela,",
+       "en": "without you I would not sing,"
+      },
+      {
+       "cyr": "без тебе не би живеела.",
+       "lat": "bez tebe ne bi živeela.",
+       "en": "without you I would not live."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако имаш срце, разбери ме,",
+       "lat": "Ako imaš srce, razberi me,",
+       "en": "If you have a heart, understand me,"
+      },
+      {
+       "cyr": "земи к'о цвеќе посади ме,",
+       "lat": "zemi k'o cveḱe posadi me,",
+       "en": "take me like a flower and plant me,"
+      },
+      {
+       "cyr": "вечно да цветам јас за тебе,",
+       "lat": "večno da cvetam jas za tebe,",
+       "en": "so I may bloom forever for you,"
+      },
+      {
+       "cyr": "а ти да стоиш крај мене.",
+       "lat": "a ti da stoiš kraj mene.",
+       "en": "and you stand beside me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не жали ноќи неспани,",
+       "lat": "Ne žali noḱi nespani,",
+       "en": "Do not regret sleepless nights,"
+      },
+      {
+       "cyr": "не брои бели денови,",
+       "lat": "ne broi beli denovi,",
+       "en": "do not count white days,"
+      },
+      {
+       "cyr": "ноќите се за љубење,",
+       "lat": "noḱite se za ljubenje,",
+       "en": "nights are for kissing,"
+      },
+      {
+       "cyr": "денови - мисли студени.",
+       "lat": "denovi - misli studeni.",
+       "en": "days are cold thoughts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако имаш срце, разбери ме,",
+       "lat": "Ako imaš srce, razberi me,",
+       "en": "If you have a heart, understand me,"
+      },
+      {
+       "cyr": "земи к'о цвеќе посади ме,",
+       "lat": "zemi k'o cveḱe posadi me,",
+       "en": "take me like a flower and plant me,"
+      },
+      {
+       "cyr": "вечно да цветам јас за тебе,",
+       "lat": "večno da cvetam jas za tebe,",
+       "en": "so I may bloom forever for you,"
+      },
+      {
+       "cyr": "а ти да стоиш крај мене.",
+       "lat": "a ti da stoiš kraj mene.",
+       "en": "and you stand beside me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наутро кафе испиваш,",
+       "lat": "Nautro kafe ispivaš,",
+       "en": "In the morning you drink coffee,"
+      },
+      {
+       "cyr": "набргу си заминуваш,",
+       "lat": "nabrgu si zaminuvaš,",
+       "en": "soon you leave,"
+      },
+      {
+       "cyr": "за тебе кафе медено,",
+       "lat": "za tebe kafe medeno,",
+       "en": "for you the coffee is honeyed,"
+      },
+      {
+       "cyr": "за мене кафе отровно.",
+       "lat": "za mene kafe otrovno.",
+       "en": "for me the coffee is poison."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако имаш срце, разбери ме,",
+       "lat": "Ako imaš srce, razberi me,",
+       "en": "If you have a heart, understand me,"
+      },
+      {
+       "cyr": "земи к'о цвеќе посади ме,",
+       "lat": "zemi k'o cveḱe posadi me,",
+       "en": "take me like a flower and plant me,"
+      },
+      {
+       "cyr": "вечно да цветам јас за тебе,",
+       "lat": "večno da cvetam jas za tebe,",
+       "en": "so I may bloom forever for you,"
+      },
+      {
+       "cyr": "а ти да стоиш крај мене.",
+       "lat": "a ti da stoiš kraj mene.",
+       "en": "and you stand beside me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

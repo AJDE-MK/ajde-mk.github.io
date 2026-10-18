@@ -1,0 +1,154 @@
+{
+ "id": 770,
+ "slug": "sinokja-dojdov-od-gurbet",
+ "title_cyr": "Синоќа дојдов од гурбет",
+ "title_latin": "Sinoḱa dojdov od gurbet",
+ "title_en": "Last night I came home from gurbet",
+ "pesna_url": "https://pesna.org/song/770",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Билјан Стојаноски",
+  "Влатко Лозаноски",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1316"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2040"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2356"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Синоќа дојдов од гурбет, џанам,",
+       "lat": "Sinoḱa dojdov od gurbet, džanam,",
+       "en": "Last night I came home from gurbet,",
+       "en_mt": false
+      },
+      {
+       "cyr": "змија ми влезе в' пазува.",
+       "lat": "zmija mi vleze v' pazuva.",
+       "en": "and a snake crawled into my bosom.",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Подај ја, жено, раката, џанум,",
+       "lat": "- Podaj ja, ženo, rakata, džanum,",
+       "en": "- Put your arm in there, my wife,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ми извадиш змијата!",
+       "lat": "da mi izvadiš zmijata!",
+       "en": "and pull out the snake!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Без рака не останувам, мажу,",
+       "lat": "- Bez raka ne ostanuvam, mažu,",
+       "en": "- I wouldn't lose my arm, my husband,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без тебе ќе си останам,",
+       "lat": "bez tebe ḱe si ostanam,",
+       "en": "I would rather lose you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без рака не останувам, мажу,",
+       "lat": "bez raka ne ostanuvam, mažu,",
+       "en": "I wouldn't lose my arm, my husband,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без тебе ќе си останам.",
+       "lat": "bez tebe ḱe si ostanam.",
+       "en": "I would rather lose you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Подај ја, сестро, раката, џанум,",
+       "lat": "- Podaj ja, sestro, rakata, džanum,",
+       "en": "- Put your arm in there, my sister,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ми извадиш змијата!",
+       "lat": "da mi izvadiš zmijata!",
+       "en": "and pull out the snake!",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Без рака не останувам, брату,",
+       "lat": "- Bez raka ne ostanuvam, bratu,",
+       "en": "- I wouldn't lose my arm, my brother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без тебе ќе си останам.",
+       "lat": "bez tebe ḱe si ostanam.",
+       "en": "I would rather lose you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Подај ја, мајко, раката, џанум,",
+       "lat": "- Podaj ja, majko, rakata, džanum,",
+       "en": "- Put your arm in there, my mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ми извадиш змијата!",
+       "lat": "da mi izvadiš zmijata!",
+       "en": "and pull out the snake!",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Без раце ќе си останам, синко,",
+       "lat": "- Bez race ḱe si ostanam, sinko,",
+       "en": "- I would rather lose my arms, my son,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без тебе не останувам.",
+       "lat": "bez tebe ne ostanuvam.",
+       "en": "but I wouldn't lose you.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

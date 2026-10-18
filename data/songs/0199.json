@@ -1,0 +1,114 @@
+{
+ "id": 199,
+ "slug": "se-sobrale-komitite",
+ "title_cyr": "Се собрале комитите",
+ "title_latin": "Se sobrale komitite",
+ "title_en": "The komiti gathered",
+ "pesna_url": "https://pesna.org/song/199",
+ "background": "One of the further Ilinden songs your songbook listed to explore. Its title means \"The Komiti Gathered\". Not checked whether it is traditional or a later composition.",
+ "background_source": "Source of these notes: your 6-song songbook.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Војо Стојановски",
+  "Македонски мерак",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/34"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/35"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/2050"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале комитите,",
+       "lat": "Se sobrale komitite,",
+       "en": "The komiti gathered"
+      },
+      {
+       "cyr": "ќе ми одат в Суво поле.",
+       "lat": "ḱe mi odat v Suvo pole.",
+       "en": "They will go to Dry Valley"
+      },
+      {
+       "cyr": "Напред оди војводата,",
+       "lat": "Napred odi vojvodata,",
+       "en": "In front walks the Vojvoda"
+      },
+      {
+       "cyr": "војводата Јордан Пиперка.",
+       "lat": "vojvodata Jordan Piperka.",
+       "en": "The Vojvoda, Jordan Piperka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ми фаќаат метеризи,",
+       "lat": "Ḱe mi faḱaat meterizi,",
+       "en": "They will be creating an ambush"
+      },
+      {
+       "cyr": "ќе го чекат Алил паша,",
+       "lat": "ḱe go čekat Alil paša,",
+       "en": "They will be waiting for Alil Pasha"
+      },
+      {
+       "cyr": "што ја грабил руса Стојна,",
+       "lat": "što ja grabil rusa Stojna,",
+       "en": "Who kidnapped blonde Stojna"
+      },
+      {
+       "cyr": "руса Стојна од Мало Церско.",
+       "lat": "rusa Stojna od Malo Cersko.",
+       "en": "Blonde Stojna, from Small Cersko."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара војводата:",
+       "lat": "Progovara vojvodata:",
+       "en": "The vojvoda speaks:"
+      },
+      {
+       "cyr": "- Ај да слеземе долу в Брезово,",
+       "lat": "- Aj da slezeme dolu v Brezovo,",
+       "en": "-Let’s go down to Brezovo,"
+      },
+      {
+       "cyr": "да го венчаме Алил паша",
+       "lat": "da go venčame Alil paša",
+       "en": "So we can wed Alil Pasha"
+      },
+      {
+       "cyr": "за невеста остра сабја.",
+       "lat": "za nevesta ostra sabja.",
+       "en": "With the bride the sharp sword."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

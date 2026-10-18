@@ -1,0 +1,229 @@
+{
+ "id": 480,
+ "slug": "ogreala-mesechina",
+ "title_cyr": "Огреала месечина",
+ "title_latin": "Ogreala mesečina",
+ "title_en": "The Moon Shone",
+ "pesna_url": "https://pesna.org/song/480",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Сетолчанки' as women from a place called Setolci is my reading; 'нејесте' is dialect for невести.",
+ "words_to_learn": [
+  {
+   "mk": "огреала",
+   "en": "shone, rose (of the moon)"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight, moon"
+  },
+  {
+   "mk": "невеста / нејесте",
+   "en": "bride, young wife (dialect: нејесте)"
+  },
+  {
+   "mk": "бакал",
+   "en": "grocer"
+  },
+  {
+   "mk": "драм",
+   "en": "dram (small unit of weight)"
+  },
+  {
+   "mk": "белило / црвило",
+   "en": "white / red face paint"
+  },
+  {
+   "mk": "гурбетчија",
+   "en": "migrant worker abroad"
+  },
+  {
+   "mk": "теглат",
+   "en": "they trudge, they drag along"
+  }
+ ],
+ "performers": [
+  "Васил Волканов",
+  "Васка Илиева",
+  "Влатко Стефановски",
+  "Драги Спасовски",
+  "Љубојна",
+  "Микле Симовски",
+  "Непознат изведувач",
+  "Нора",
+  "Серенада",
+  "Трио Гавровски"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1458"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1459"
+  },
+  {
+   "who": "Микле Симовски",
+   "url": "https://pesna.org/audio-download/1462"
+  },
+  {
+   "who": "Нора",
+   "url": "https://pesna.org/audio-download/1463"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1464"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1922"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2949"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3950"
+  },
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/4259"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/4260"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/4261"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/4262"
+  },
+  {
+   "who": "Васил Волканов",
+   "url": "https://pesna.org/audio-download/4263"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Огреала месечина, леле",
+       "lat": "Ogreala mesečina, lele",
+       "en": "The moon shone, oh,"
+      },
+      {
+       "cyr": "огрејала месечина,",
+       "lat": "ogrejala mesečina,",
+       "en": "the moon shone,"
+      },
+      {
+       "cyr": "од Солуна до Тетово.",
+       "lat": "od Soluna do Tetovo.",
+       "en": "from Salonica to Tetovo."
+      },
+      {
+       "cyr": "Не ми била месечина леле,",
+       "lat": "Ne mi bila mesečina lele,",
+       "en": "It was not the moon, oh,"
+      },
+      {
+       "cyr": "тук' ми биле три невесте,",
+       "lat": "tuk' mi bile tri neveste,",
+       "en": "it was three brides,"
+      },
+      {
+       "cyr": "три нејесте Сетолчанке.",
+       "lat": "tri nejeste Setolčanke.",
+       "en": "three brides from Setolci."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прво теглат за Тетово, леле",
+       "lat": "Prvo teglat za Tetovo, lele",
+       "en": "First they trudge toward Tetovo, oh,"
+      },
+      {
+       "cyr": "право одат за Тетово,",
+       "lat": "pravo odat za Tetovo,",
+       "en": "they go straight to Tetovo,"
+      },
+      {
+       "cyr": "кај бакалот чичо Кољо.",
+       "lat": "kaj bakalot čičo Koljo.",
+       "en": "to the grocer, Uncle Koljo."
+      },
+      {
+       "cyr": "- Добро утро чичо Кољо, море",
+       "lat": "- Dobro utro čičo Koljo, more",
+       "en": "- Good morning, Uncle Koljo, hey,"
+      },
+      {
+       "cyr": "добро утро чичо Кољо.",
+       "lat": "dobro utro čičo Koljo.",
+       "en": "good morning, Uncle Koljo."
+      },
+      {
+       "cyr": "- Дал бог добро три нејесте,",
+       "lat": "- Dal bog dobro tri nejeste,",
+       "en": "- May God give good, three brides,"
+      },
+      {
+       "cyr": "три нејесте Сетолчанке.",
+       "lat": "tri nejeste Setolčanke.",
+       "en": "three brides from Setolci."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ми дадеш драм белило, леле",
+       "lat": "Da mi dadeš dram belilo, lele",
+       "en": "Give me a dram of whitener, oh,"
+      },
+      {
+       "cyr": "да ми дадеш драм белило,",
+       "lat": "da mi dadeš dram belilo,",
+       "en": "give me a dram of whitener,"
+      },
+      {
+       "cyr": "драм белило, драм црвило.",
+       "lat": "dram belilo, dram crvilo.",
+       "en": "a dram of whitener, a dram of red."
+      },
+      {
+       "cyr": "Наши мажи гурбетчие, леле",
+       "lat": "Naši maži gurbetčie, lele",
+       "en": "Our husbands are away working abroad, oh,"
+      },
+      {
+       "cyr": "наши мажи гурбетчие,",
+       "lat": "naši maži gurbetčie,",
+       "en": "our husbands are away working abroad,"
+      },
+      {
+       "cyr": "кој ќе дојдат, ќе ти платат.",
+       "lat": "koj ḱe dojdat, ḱe ti platat.",
+       "en": "when they come, they will pay you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

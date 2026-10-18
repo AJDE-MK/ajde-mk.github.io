@@ -1,0 +1,207 @@
+{
+ "id": 560,
+ "slug": "kazhi-jano-kazhi-dusho",
+ "title_cyr": "Кажи Јано, кажи душо",
+ "title_latin": "Kaži Jano, kaži dušo",
+ "title_en": "Say, Jana, say, my love",
+ "pesna_url": "https://pesna.org/song/560",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Војо Стојановски",
+  "Костадин Гугов",
+  "МРТВ",
+  "Наум Петрески",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Серенада",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/525"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/526"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/527"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/528"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/529"
+  },
+  {
+   "who": "МРТВ",
+   "url": "https://pesna.org/audio-download/530"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/2519"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/3747"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи Јано, кажи душо",
+       "lat": "- Kaži Jano, kaži dušo",
+       "en": "- Say, Jana, say, my love,",
+       "en_mt": false
+      },
+      {
+       "cyr": "која вечер јас да дојдам?",
+       "lat": "koja večer jas da dojdam?",
+       "en": "which evening, Jana, will I come to you?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кажи Јано, кажи душо",
+       "lat": "Kaži Jano, kaži dušo",
+       "en": "- Say, Jana, say, my love,",
+       "en_mt": false
+      },
+      {
+       "cyr": "која вечер Јано, јас да дојдам?",
+       "lat": "koja večer Jano, jas da dojdam?",
+       "en": "which evening, Jana, will I come to you?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога сакаш, тогај дојди,",
+       "lat": "- Koga sakaš, togaj dojdi,",
+       "en": "- If you want, do come,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со мнозина да не идеш.",
+       "lat": "so mnozina da ne ideš.",
+       "en": "Don’t come with many people, Georgi,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кога сакаш тогај дојди,",
+       "lat": "Koga sakaš togaj dojdi,",
+       "en": "- If you want, do come,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со мноѕина џанам, да не идеш.",
+       "lat": "so mnodzina džanam, da ne ideš.",
+       "en": "Don’t come with many people, Georgi,",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да го земеш тој Ѓорѓија,",
+       "lat": "- Da go zemeš toj Ǵorǵija,",
+       "en": "- You should take that Georgi,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тој Ѓорѓија овардата.",
+       "lat": "toj Ǵorǵija ovardata.",
+       "en": "that Georgi, the ovarda.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Да го земеш тој Ѓорѓија,",
+       "lat": "Da go zemeš toj Ǵorǵija,",
+       "en": "- You should take that Georgi,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тој Ѓорѓија џанам, овардата.",
+       "lat": "toj Ǵorǵija džanam, ovardata.",
+       "en": "that Georgi, dear, the ovarda.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тој ме знае кај што седам,",
+       "lat": "- Toj me znae kaj što sedam,",
+       "en": "- He knows where I live,",
+       "en_mt": true
+      },
+      {
+       "cyr": "во одајчето варосано (кадросано, чикмосано).",
+       "lat": "vo odajčeto varosano (kadrosano, čikmosano).",
+       "en": "The little chamber is limewashed, limewashed, Georgi, painted*",
+       "en_mt": false
+      },
+      {
+       "cyr": "Одајчето ми е мало,",
+       "lat": "Odajčeto mi e malo,",
+       "en": "small is my little chamber.",
+       "en_mt": false
+      },
+      {
+       "cyr": "тоа збира џанам, само двајца.",
+       "lat": "toa zbira džanam, samo dvajca.",
+       "en": "and only accommodates two, darling.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе јадиме, ќе пиеме",
+       "lat": "- Ḱe jadime, ḱe pieme",
+       "en": "We eat, we drink,",
+       "en_mt": false
+      },
+      {
+       "cyr": "голем џумбус ќе направиме.",
+       "lat": "golem džumbus ḱe napravime.",
+       "en": "Georgi, let us have a big party.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ќе јадиме, ќе пиеме",
+       "lat": "Ḱe jadime, ḱe pieme",
+       "en": "We eat, we drink,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и на крајот џанам, ќе се зејме.",
+       "lat": "i na krajot džanam, ḱe se zejme.",
+       "en": "and in the end, Georgi, we sleep.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,138 @@
+{
+ "id": 1332,
+ "slug": "mori-oj-nevesto",
+ "title_cyr": "Мори ој невесто",
+ "title_latin": "Mori oj nevesto",
+ "title_en": "Hey, Oh Bride",
+ "pesna_url": "https://pesna.org/song/1332",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Wedding-eve song for the bride. Lines cut off mid-word (јабо-, промене-, дели-) are repeats in singing. 'катаденска рува' is my reading as 'everyday dress' (катадневна).",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "јаболко",
+   "en": "apple"
+  },
+  {
+   "mk": "променета",
+   "en": "dressed up, changed"
+  },
+  {
+   "mk": "на гости",
+   "en": "visiting"
+  },
+  {
+   "mk": "кинисаш",
+   "en": "you set off"
+  },
+  {
+   "mk": "делија",
+   "en": "brave man, hero"
+  },
+  {
+   "mk": "рува",
+   "en": "clothes, dress"
+  },
+  {
+   "mk": "Велигденска",
+   "en": "of Easter"
+  }
+ ],
+ "performers": [
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3422"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Мори ој невесто, црвено јаболко",
+       "lat": "- Mori oj nevesto, crveno jabolko",
+       "en": "- Hey, oh bride, red apple,"
+      },
+      {
+       "cyr": "јој невесто, црвено јабо-",
+       "lat": "joj nevesto, crveno jabo-",
+       "en": "oh bride, red ap-"
+      },
+      {
+       "cyr": "Мори шо си толку лепо променета,",
+       "lat": "Mori šo si tolku lepo promeneta,",
+       "en": "Hey, why are you so beautifully dressed up,"
+      },
+      {
+       "cyr": "шо си толку лепо промене-",
+       "lat": "šo si tolku lepo promene-",
+       "en": "why are you so beautifully dres-"
+      },
+      {
+       "cyr": "Мори дал' на гости мислиш да кинисаш",
+       "lat": "Mori dal' na gosti misliš da kinisaš",
+       "en": "Hey, are you thinking of setting off to visit,"
+      },
+      {
+       "cyr": "јел' од гости тука си дојдена?",
+       "lat": "jel' od gosti tuka si dojdena?",
+       "en": "or have you come here from visiting?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море јој Илија, Илија делија,",
+       "lat": "- More joj Ilija, Ilija delija,",
+       "en": "- Hey, oh Ilija, Ilija the brave,"
+      },
+      {
+       "cyr": "јој Илија, Илија дели-",
+       "lat": "joj Ilija, Ilija deli-",
+       "en": "oh Ilija, Ilija the bra-"
+      },
+      {
+       "cyr": "Море ниту од гости тука си дојдена",
+       "lat": "More nitu od gosti tuka si dojdena",
+       "en": "Hey, I did not come here from visiting"
+      },
+      {
+       "cyr": "ни на гости мисла да кинисам.",
+       "lat": "ni na gosti misla da kinisam.",
+       "en": "nor do I intend to set off to visit."
+      },
+      {
+       "cyr": "Море ваја ми е катаденска рува,",
+       "lat": "More vaja mi e katadenska ruva,",
+       "en": "Hey, this is my everyday dress,"
+      },
+      {
+       "cyr": "друга не имам, Велигденска рува",
+       "lat": "druga ne imam, Veligdenska ruva",
+       "en": "I have no other, an Easter dress"
+      },
+      {
+       "cyr": "иииии!",
+       "lat": "iiiii!",
+       "en": "aaaah!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,187 @@
+{
+ "id": 1356,
+ "slug": "stamjanine-domakjine",
+ "title_cyr": "Стамјанине домаќине",
+ "title_latin": "Stamjanine domaḱine",
+ "title_en": "Stamjanin, head of the household",
+ "pesna_url": "https://pesna.org/song/1356",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стамјанине домаќине,",
+       "lat": "Stamjanine domaḱine,",
+       "en": "Stamjanin, head of the household,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тука ли си или не си?",
+       "lat": "tuka li si ili ne si?",
+       "en": "are you there or are you not?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако спиеш, разбуди се,",
+       "lat": "Ako spieš, razbudi se,",
+       "en": "If you’re sleeping, wake up,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ако пиеш, весели се.",
+       "lat": "ako pieš, veseli se.",
+       "en": "if you are drinking, be merry.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оти идат мали моми,",
+       "lat": "Oti idat mali momi,",
+       "en": "Because young maidens are coming,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мали моми, водичарки.",
+       "lat": "mali momi, vodičarki.",
+       "en": "young epiphany-bell maidens.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Домаќине Стамјанине,",
+       "lat": "Domaḱine Stamjanine,",
+       "en": "Householder Stamjanin,",
+       "en_mt": true
+      },
+      {
+       "cyr": "дали пиеш, или спиеш,",
+       "lat": "dali pieš, ili spieš,",
+       "en": "are you drinking, or are you sleeping,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ако пиеш весели се,",
+       "lat": "ako pieš veseli se,",
+       "en": "if you are drinking, be merry,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ако спиеш разбуди се.",
+       "lat": "ako spieš razbudi se.",
+       "en": "if you are sleeping, wake up.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Долетало лепо пиле,",
+       "lat": "Doletalo lepo pile,",
+       "en": "A lovely bird flew in,",
+       "en_mt": true
+      },
+      {
+       "cyr": "на рамена на Стамена,",
+       "lat": "na ramena na Stamena,",
+       "en": "onto the shoulders of Stamen,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тогај велит домаќинот:",
+       "lat": "togaj velit domaḱinot:",
+       "en": "then the householder says:",
+       "en_mt": true
+      },
+      {
+       "cyr": "- Ај подајте лак и стрела,",
+       "lat": "- Aj podajte lak i strela,",
+       "en": "- Come, hand me the bow and arrow,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да застрела ова пиле.",
+       "lat": "da zastrela ova pile.",
+       "en": "to shoot this bird.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одговори лепо пиле:",
+       "lat": "Odgovori lepo pile:",
+       "en": "The lovely bird answered:",
+       "en_mt": true
+      },
+      {
+       "cyr": "- Не сум пиле за стрелање,",
+       "lat": "- Ne sum pile za strelanje,",
+       "en": "- I am not a bird for shooting,",
+       "en_mt": true
+      },
+      {
+       "cyr": "тук сум пиле аберџија,",
+       "lat": "tuk sum pile aberdžija,",
+       "en": "I am a bird, a messenger,",
+       "en_mt": true
+      },
+      {
+       "cyr": "абер носам од далеку,",
+       "lat": "aber nosam od daleku,",
+       "en": "I bring news from afar,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ти си имаш мила сина,",
+       "lat": "ti si imaš mila sina,",
+       "en": "you have a dear son,",
+       "en_mt": true
+      },
+      {
+       "cyr": "царот има мила ќерка,",
+       "lat": "carot ima mila ḱerka,",
+       "en": "the emperor has a dear daughter,",
+       "en_mt": true
+      },
+      {
+       "cyr": "двајца да се сосватите.",
+       "lat": "dvajca da se sosvatite.",
+       "en": "for the two of you to become in-laws.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,160 @@
+{
+ "id": 1198,
+ "slug": "lidudu-lidudu",
+ "title_cyr": "Лидуду, лидуду",
+ "title_latin": "Lidudu, lidudu",
+ "title_en": "Lidudu, lidudu",
+ "pesna_url": "https://pesna.org/song/1198",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Humorous song of a boy too young to marry. 'Клиса' I take as a children's game (my reading); 'се настури' I render 'got ready' (my reading, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "жени",
+   "en": "marries off (a son)"
+  },
+  {
+   "mk": "пазар",
+   "en": "shopping, market"
+  },
+  {
+   "mk": "накупуел",
+   "en": "bought up (dialect)"
+  },
+  {
+   "mk": "дете",
+   "en": "child"
+  },
+  {
+   "mk": "клиса",
+   "en": "a children's game (my reading)"
+  },
+  {
+   "mk": "неќум",
+   "en": "I do not want (dialect)"
+  },
+  {
+   "mk": "тепа",
+   "en": "beats"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2946"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свадба ќе си праве, Чачко ми Рожденски,",
+       "lat": "Svadba ḱe si prave, Čačko mi Roždenski,",
+       "en": "Chachko from Rozhden is holding a wedding,"
+      },
+      {
+       "cyr": "дете ќе си жене за мома Клиновка,",
+       "lat": "dete ḱe si žene za moma Klinovka,",
+       "en": "he is marrying off his child to the girl from Klinovo,"
+      },
+      {
+       "cyr": "лидуду, лидуду, лидуду, дуду лиду.",
+       "lat": "lidudu, lidudu, lidudu, dudu lidu.",
+       "en": "lidudu, lidudu, lidudu, dudu lidu."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чачко се настури долу в Кавадарци,",
+       "lat": "Čačko se nasturi dolu v Kavadarci,",
+       "en": "Chachko got ready down in Kavadarci,"
+      },
+      {
+       "cyr": "пазар ќе си праве, сина ќе си жене,",
+       "lat": "pazar ḱe si prave, sina ḱe si žene,",
+       "en": "he will go shopping, he is marrying off his son,"
+      },
+      {
+       "cyr": "лидуду, лидуду, лидуду, дуду лиду.",
+       "lat": "lidudu, lidudu, lidudu, dudu lidu.",
+       "en": "lidudu, lidudu, lidudu, dudu lidu."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пазаруел Чачко, накупуел Чачко,",
+       "lat": "Pazaruel Čačko, nakupuel Čačko,",
+       "en": "Chachko did the shopping, Chachko bought a lot,"
+      },
+      {
+       "cyr": "па си дошол дома, дете да облече,",
+       "lat": "pa si došol doma, dete da obleče,",
+       "en": "and came home to dress the child,"
+      },
+      {
+       "cyr": "лидуду, лидуду, лидуду, дуду лиду.",
+       "lat": "lidudu, lidudu, lidudu, dudu lidu.",
+       "en": "lidudu, lidudu, lidudu, dudu lidu."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вамо дете, тамо, нигде дете нема,",
+       "lat": "Vamo dete, tamo, nigde dete nema,",
+       "en": "Here is the child, there, the child is nowhere,"
+      },
+      {
+       "cyr": "оно си играе клиса со децата,",
+       "lat": "ono si igrae klisa so decata,",
+       "en": "he is playing 'klisa' with the children,"
+      },
+      {
+       "cyr": "лидуду, лидуду, лидуду, дуду лиду.",
+       "lat": "lidudu, lidudu, lidudu, dudu lidu.",
+       "en": "lidudu, lidudu, lidudu, dudu lidu."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тате мили тате, неќум да ме жениш,",
+       "lat": "- Tate mili tate, neḱum da me ženiš,",
+       "en": "- Dear father, I do not want you to marry me off,"
+      },
+      {
+       "cyr": "жена е голема, она ќе ме тепа,",
+       "lat": "žena e golema, ona ḱe me tepa,",
+       "en": "the wife is grown up, she will beat me,"
+      },
+      {
+       "cyr": "лидуду, лидуду, лидуду, дуду лиду.",
+       "lat": "lidudu, lidudu, lidudu, dudu lidu.",
+       "en": "lidudu, lidudu, lidudu, dudu lidu."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

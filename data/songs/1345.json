@@ -1,0 +1,171 @@
+{
+ "id": 1345,
+ "slug": "evropo-i-kanado",
+ "title_cyr": "Европо и Канадо",
+ "title_latin": "Evropo i Kanado",
+ "title_en": "Europe and Canada",
+ "pesna_url": "https://pesna.org/song/1345",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigration song; origin unclear. Stanza 2 and 3 are loosely worded (my reading: 'немаа може' = they could not have).",
+ "words_to_learn": [
+  {
+   "mk": "поздрави праќам",
+   "en": "I send greetings"
+  },
+  {
+   "mk": "расплакани",
+   "en": "in tears, weeping"
+  },
+  {
+   "mk": "стар крај",
+   "en": "the old country/homeland"
+  },
+  {
+   "mk": "дечиња",
+   "en": "children"
+  },
+  {
+   "mk": "боси",
+   "en": "barefoot"
+  },
+  {
+   "mk": "голи",
+   "en": "naked"
+  },
+  {
+   "mk": "пуста пара",
+   "en": "worthless/accursed money"
+  },
+  {
+   "mk": "туѓа земја",
+   "en": "foreign land"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3513"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Европо и Канадо,",
+       "lat": "Oj Evropo i Kanado,",
+       "en": "Oh Europe and Canada,"
+      },
+      {
+       "cyr": "Америко и Австралијо,",
+       "lat": "Ameriko i Avstralijo,",
+       "en": "America and Australia,"
+      },
+      {
+       "cyr": "поздрави праќам до стари крај",
+       "lat": "pozdravi praḱam do stari kraj",
+       "en": "I send greetings to the old country"
+      },
+      {
+       "cyr": "од многу мајки расплакани.",
+       "lat": "od mnogu majki rasplakani.",
+       "en": "from many weeping mothers."
+      },
+      {
+       "cyr": "Оф, сестри, браќа и татковци",
+       "lat": "Of, sestri, braḱa i tatkovci",
+       "en": "Oh, sisters, brothers and fathers"
+      },
+      {
+       "cyr": "до нивни жени и дечиња.",
+       "lat": "do nivni ženi i dečinja.",
+       "en": "to their wives and children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ги чувате нашите деца",
+       "lat": "Da gi čuvate našite deca",
+       "en": "Look after our children,"
+      },
+      {
+       "cyr": "тие деца се со маки,",
+       "lat": "tie deca se so maki,",
+       "en": "those children are with hardship,"
+      },
+      {
+       "cyr": "голи и боси пораснаа",
+       "lat": "goli i bosi porasnaa",
+       "en": "they grew up naked and barefoot"
+      },
+      {
+       "cyr": "но за пуста пара си оставија.",
+       "lat": "no za pusta para si ostavija.",
+       "en": "but they left for worthless money."
+      },
+      {
+       "cyr": "Оставија своја земја",
+       "lat": "Ostavija svoja zemja",
+       "en": "They left their land,"
+      },
+      {
+       "cyr": "своја мајка и свој татко.",
+       "lat": "svoja majka i svoj tatko.",
+       "en": "their mother and their father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немаа може пари и богатство",
+       "lat": "Nemaa može pari i bogatstvo",
+       "en": "They could not have money and wealth"
+      },
+      {
+       "cyr": "но имаа радост и веселба.",
+       "lat": "no imaa radost i veselba.",
+       "en": "but they had joy and merriment."
+      },
+      {
+       "cyr": "Сè со песни пораснаа,",
+       "lat": "Sè so pesni porasnaa,",
+       "en": "They grew up with songs,"
+      },
+      {
+       "cyr": "вратете се мои дечиња.",
+       "lat": "vratete se moi dečinja.",
+       "en": "come back, my children."
+      },
+      {
+       "cyr": "Туѓа земја, тага голема,",
+       "lat": "Tuǵa zemja, taga golema,",
+       "en": "A foreign land, great sorrow,"
+      },
+      {
+       "cyr": "вратете се при ваша мајка.",
+       "lat": "vratete se pri vaša majka.",
+       "en": "come back to your mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

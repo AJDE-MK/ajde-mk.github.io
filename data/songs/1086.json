@@ -1,0 +1,128 @@
+{
+ "id": 1086,
+ "slug": "temna-e-magla-padnala",
+ "title_cyr": "Темна е магла паднала",
+ "title_latin": "Temna e magla padnala",
+ "title_en": "Dark fog has fallen",
+ "pesna_url": "https://pesna.org/song/1086",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Роза Цветкова"
+ ],
+ "audio": [
+  {
+   "who": "Роза Цветкова",
+   "url": "https://pesna.org/audio-download/2550"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори темна е магла ле паднала,",
+       "lat": "Mori temna e magla le padnala,",
+       "en": "Hey, dark fog has fallen,"
+      },
+      {
+       "cyr": "темна е магла ле паднала.",
+       "lat": "temna e magla le padnala.",
+       "en": "dark fog has fallen."
+      },
+      {
+       "cyr": "Море всичко е поле ле покрила,",
+       "lat": "More vsičko e pole le pokrila,",
+       "en": "Hey, it covered the entire field,"
+      },
+      {
+       "cyr": "всичко е поле ле покрила.",
+       "lat": "vsičko e pole le pokrila.",
+       "en": "it covered the entire field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори сал едно дрво е остила,",
+       "lat": "Mori sal edno drvo e ostila,",
+       "en": "Hey, it left just one tree,"
+      },
+      {
+       "cyr": "сал едно дрво е остила.",
+       "lat": "sal edno drvo e ostila.",
+       "en": "it left just one tree."
+      },
+      {
+       "cyr": "Мори и оно цвете ле ц'втеше,",
+       "lat": "Mori i ono cvete le c'vteše,",
+       "en": "Hey, and that tree was in bloom,"
+      },
+      {
+       "cyr": "и оно цвете ле ц'втеше.",
+       "lat": "i ono cvete le c'vteše.",
+       "en": "and that tree was in bloom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори помалко сино ле зелено,",
+       "lat": "Mori pomalko sino le zeleno,",
+       "en": "Hey, a little blue and green,"
+      },
+      {
+       "cyr": "помалко сино ле зелено.",
+       "lat": "pomalko sino le zeleno.",
+       "en": "a little blue and green."
+      },
+      {
+       "cyr": "Мори момиче бело ле црвено,",
+       "lat": "Mori momiče belo le crveno,",
+       "en": "Hey, a girl white and red,"
+      },
+      {
+       "cyr": "момиче бело ле црвено.",
+       "lat": "momiče belo le crveno.",
+       "en": "a girl white and red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори бери го Злато моме кичице,",
+       "lat": "Mori beri go Zlato mome kičice,",
+       "en": "- Hey, gather it, Zlata, that centaury*,"
+      },
+      {
+       "cyr": "бери го Злато моме кичице.",
+       "lat": "beri go Zlato mome kičice.",
+       "en": "gather that centaury, Zlata."
+      },
+      {
+       "cyr": "Мори та да се пукат Злато душмане,",
+       "lat": "Mori ta da se pukat Zlato dušmane,",
+       "en": "Hey, and don't worry what the people will say**,"
+      },
+      {
+       "cyr": "та да се пукат Злато душмане.",
+       "lat": "ta da se pukat Zlato dušmane.",
+       "en": "don't worry what the people will say."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

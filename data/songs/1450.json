@@ -1,0 +1,146 @@
+{
+ "id": 1450,
+ "slug": "mori-mome",
+ "title_cyr": "Мори моме",
+ "title_latin": "Mori mome",
+ "title_en": "Oh fair maiden",
+ "pesna_url": "https://pesna.org/song/1450",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/3708"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме, мори моме,",
+       "lat": "Mori mome, mori mome,",
+       "en": "Oh fair maiden, my pretty fair maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ластар моме, леле.",
+       "lat": "lastar mome, lele.",
+       "en": "slender maiden, oh dear.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Мори моме, мори моме,",
+       "lat": "Mori mome, mori mome,",
+       "en": "Oh fair maiden, my pretty fair maiden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ластар моме. Их!",
+       "lat": "lastar mome. Ih!",
+       "en": "slender maiden. Ah!",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај се моме, ај се моме,",
+       "lat": "Aj se mome, aj se mome,",
+       "en": "come marry me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти ожени, леле.",
+       "lat": "ti oženi, lele.",
+       "en": "come be my wife.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај се моме,",
+       "lat": "Aj se mome,",
+       "en": "come marry me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај се моме,",
+       "lat": "aj se mome,",
+       "en": "come marry me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти ожени. Их!",
+       "lat": "ti oženi. Ih!",
+       "en": "come be my wife.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит се женам, нит се женам",
+       "lat": "Nit se ženam, nit se ženam",
+       "en": "I'll not be wedded",
+       "en_mt": false
+      },
+      {
+       "cyr": "нит се мажам, леле.",
+       "lat": "nit se mažam, lele.",
+       "en": "to any man,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Скоро ми је,",
+       "lat": "Skoro mi je,",
+       "en": "my mother is lost,",
+       "en_mt": false
+      },
+      {
+       "cyr": "скоро ми је мама јумрела. Их!",
+       "lat": "skoro mi je mama jumrela. Ih!",
+       "en": "gone forever.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Још ле нема, још ле нема",
+       "lat": "Još le nema, još le nema",
+       "en": "Not yet, not yet,",
+       "en_mt": true
+      },
+      {
+       "cyr": "шест месеци леле.",
+       "lat": "šest meseci lele.",
+       "en": "Barely six months have passed now,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ќе ја жалам,",
+       "lat": "Ḱe ja žalam,",
+       "en": "and I must mourn her",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе ја жалам годинава. Их!",
+       "lat": "ḱe ja žalam godinava. Ih!",
+       "en": "a year.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

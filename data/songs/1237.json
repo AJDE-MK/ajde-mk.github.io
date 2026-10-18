@@ -1,0 +1,184 @@
+{
+ "id": 1237,
+ "slug": "brache-le-bozhine",
+ "title_cyr": "Браче ле Божине",
+ "title_latin": "Brače le Božine",
+ "title_en": "Brother Bozhin",
+ "pesna_url": "https://pesna.org/song/1237",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'со црна роза доземи' and 'на џаде' are dialect and unclear to me, so those renderings are guesses. 'Версконо/Церсконо поле' are place names I could not verify.",
+ "words_to_learn": [
+  {
+   "mk": "браче",
+   "en": "brother (vocative, dear)"
+  },
+  {
+   "mk": "сон",
+   "en": "dream"
+  },
+  {
+   "mk": "сонила",
+   "en": "dreamed (fem.)"
+  },
+  {
+   "mk": "јаваше",
+   "en": "was riding"
+  },
+  {
+   "mk": "појас",
+   "en": "sash, belt"
+  },
+  {
+   "mk": "запашан",
+   "en": "tied on, girded"
+  },
+  {
+   "mk": "загинат",
+   "en": "perished"
+  },
+  {
+   "mk": "гробнина",
+   "en": "grave site"
+  },
+  {
+   "mk": "собери",
+   "en": "gather"
+  }
+ ],
+ "performers": [
+  "Демирхисарски бисери",
+  "Миле Миладиноски",
+  "Спасен Силјаноски Паце"
+ ],
+ "audio": [
+  {
+   "who": "Демирхисарски бисери",
+   "url": "https://pesna.org/audio-download/3094"
+  },
+  {
+   "who": "Миле Миладиноски",
+   "url": "https://pesna.org/audio-download/3095"
+  },
+  {
+   "who": "Спасен Силјаноски Паце",
+   "url": "https://pesna.org/audio-download/3096"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Песна за Јордан Пиперката)",
+       "lat": "(Pesna za Jordan Piperkata)",
+       "en": "(Song about Jordan Piperkata)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Браче ле, браче, Божине,",
+       "lat": "Brače le, brače, Božine,",
+       "en": "Brother, hey brother Bozhin,"
+      },
+      {
+       "cyr": "ноќеска сон сум сонила,",
+       "lat": "noḱeska son sum sonila,",
+       "en": "tonight I dreamed a dream,"
+      },
+      {
+       "cyr": "на сон го видов Јордана,",
+       "lat": "na son go vidov Jordana,",
+       "en": "in the dream I saw Jordan,"
+      },
+      {
+       "cyr": "на бела коња јаваше.",
+       "lat": "na bela konja javaše.",
+       "en": "he was riding a white horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На бела коња јаваше,",
+       "lat": "Na bela konja javaše,",
+       "en": "He was riding a white horse,"
+      },
+      {
+       "cyr": "со црна роза доземи,",
+       "lat": "so crna roza dozemi,",
+       "en": "with a black rose in hand (my reading),"
+      },
+      {
+       "cyr": "со црвен појас запашан,",
+       "lat": "so crven pojas zapašan,",
+       "en": "with a red sash tied on,"
+      },
+      {
+       "cyr": "Версконо поле шеташе.",
+       "lat": "Verskono pole šetaše.",
+       "en": "he was walking in the Versko field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Браче ле, браче, Божине,",
+       "lat": "Brače le, brače, Božine,",
+       "en": "Brother, hey brother Bozhin,"
+      },
+      {
+       "cyr": "в' темнина тој е загинат,",
+       "lat": "v' temnina toj e zaginat,",
+       "en": "in the darkness he has perished,"
+      },
+      {
+       "cyr": "в' темнина тој е загинат,",
+       "lat": "v' temnina toj e zaginat,",
+       "en": "in the darkness he has perished,"
+      },
+      {
+       "cyr": "в' Церсконо поле на џаде.",
+       "lat": "v' Cerskono pole na džade.",
+       "en": "in the Cersko field, on the road (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Браче ле, браче, Божине,",
+       "lat": "Brače le, brače, Božine,",
+       "en": "Brother, hey brother Bozhin,"
+      },
+      {
+       "cyr": "собери мало, големо,",
+       "lat": "soberi malo, golemo,",
+       "en": "gather the small and the great,"
+      },
+      {
+       "cyr": "ај д`ојме да го бараме,",
+       "lat": "aj d`ojme da go barame,",
+       "en": "come, let us go look for him,"
+      },
+      {
+       "cyr": "гробнина да му знаеме.",
+       "lat": "grobnina da mu znaeme.",
+       "en": "so that we know his grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

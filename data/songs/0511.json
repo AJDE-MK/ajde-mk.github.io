@@ -1,0 +1,171 @@
+{
+ "id": 511,
+ "slug": "trgna-mi-donka-da-odi",
+ "title_cyr": "Тргна ми Донка да оди",
+ "title_latin": "Trgna mi Donka da odi",
+ "title_en": "Donka set out to go",
+ "pesna_url": "https://pesna.org/song/511",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Пуста' translated as 'desolate' (it can also mean 'wretched'); this is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "чешма",
+   "en": "fountain, spring (public tap)"
+  },
+  {
+   "mk": "шарена",
+   "en": "colorful, multicolored"
+  },
+  {
+   "mk": "беќарче",
+   "en": "young bachelor, carefree lad"
+  },
+  {
+   "mk": "постој",
+   "en": "stay, stop"
+  },
+  {
+   "mk": "прсна",
+   "en": "burst out (into)"
+  },
+  {
+   "mk": "капини",
+   "en": "brambles, blackberry bushes"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "фалба",
+   "en": "praise, boast"
+  }
+ ],
+ "performers": [
+  "Александар Сарев"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/3229"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргна ми Донка да оди",
+       "lat": "Trgna mi Donka da odi",
+       "en": "Donka set out to go"
+      },
+      {
+       "cyr": "на таа чешма шарена",
+       "lat": "na taa češma šarena",
+       "en": "to that colorful fountain,"
+      },
+      {
+       "cyr": "на таа вода студена",
+       "lat": "na taa voda studena",
+       "en": "to that cold water,"
+      },
+      {
+       "cyr": "низ тоа поле широко.",
+       "lat": "niz toa pole široko.",
+       "en": "across that wide field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде беќарче",
+       "lat": "Ozdola ide beḱarče",
+       "en": "From below comes a bachelor lad"
+      },
+      {
+       "cyr": "на Донка вели, говори:",
+       "lat": "na Donka veli, govori:",
+       "en": "and says to Donka, speaks:"
+      },
+      {
+       "cyr": "- Постој ми Донке, почекај",
+       "lat": "- Postoj mi Donke, počekaj",
+       "en": "- Stay, Donka, wait,"
+      },
+      {
+       "cyr": "јас да ти речам два збора.",
+       "lat": "jas da ti rečam dva zbora.",
+       "en": "let me tell you two words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прсна ми Донка да бега",
+       "lat": "Prsna mi Donka da bega",
+       "en": "Donka burst out to run away"
+      },
+      {
+       "cyr": "низ тоа поле широко,",
+       "lat": "niz toa pole široko,",
+       "en": "across that wide field,"
+      },
+      {
+       "cyr": "низ тоа поле широко,",
+       "lat": "niz toa pole široko,",
+       "en": "across that wide field,"
+      },
+      {
+       "cyr": "низ тие пусти капини.",
+       "lat": "niz tie pusti kapini.",
+       "en": "through those desolate brambles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пуста капина ја фатила",
+       "lat": "Pusta kapina ja fatila",
+       "en": "The desolate bramble caught her"
+      },
+      {
+       "cyr": "за свиленото фустанче.",
+       "lat": "za svilenoto fustanče.",
+       "en": "by her silk dress."
+      },
+      {
+       "cyr": "- Држи ја капино, не пуштај,",
+       "lat": "- Drži ja kapino, ne puštaj,",
+       "en": "- Hold her, bramble, don't let go,"
+      },
+      {
+       "cyr": "голема фалба за тебе,",
+       "lat": "golema falba za tebe,",
+       "en": "great praise for you,"
+      },
+      {
+       "cyr": "голема фалба за тебе,",
+       "lat": "golema falba za tebe,",
+       "en": "great praise for you,"
+      },
+      {
+       "cyr": "убава Донка за мене.",
+       "lat": "ubava Donka za mene.",
+       "en": "beautiful Donka for me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

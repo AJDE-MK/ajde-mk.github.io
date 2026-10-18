@@ -1,0 +1,161 @@
+{
+ "id": 968,
+ "slug": "leno-lenche",
+ "title_cyr": "Лено, Ленче",
+ "title_latin": "Leno, Lenče",
+ "title_en": "Lena, Lenche",
+ "pesna_url": "https://pesna.org/song/968",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Изгор' is a guess: I read it as 'burning, torment' used as an endearment. 'Лено, Ленче' are forms of the name Lena.",
+ "words_to_learn": [
+  {
+   "mk": "медни усни",
+   "en": "honey lips"
+  },
+  {
+   "mk": "девојче",
+   "en": "little girl"
+  },
+  {
+   "mk": "галеница",
+   "en": "darling, pet"
+  },
+  {
+   "mk": "свршеница",
+   "en": "fiancee"
+  },
+  {
+   "mk": "стројници",
+   "en": "match-makers, wedding envoys"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "милувам",
+   "en": "I caress"
+  },
+  {
+   "mk": "изгор",
+   "en": "torment, burning pain (my reading)"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2242"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, за кого ти се тие црни очи,",
+       "lat": "Ej, za kogo ti se tie crni oči,",
+       "en": "Hey, for whom are those black eyes of yours,"
+      },
+      {
+       "cyr": "за кого ти се тие медни усни?",
+       "lat": "za kogo ti se tie medni usni?",
+       "en": "for whom are those honey lips of yours?"
+      },
+      {
+       "cyr": "Лено, Ленче, ајде кажи ми,",
+       "lat": "Leno, Lenče, ajde kaži mi,",
+       "en": "Lena, Lenche, come on, tell me,"
+      },
+      {
+       "cyr": "немој срце да ми изгори.",
+       "lat": "nemoj srce da mi izgori.",
+       "en": "don't let my heart burn up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лено, Лено, Ленче, мамино девојче,",
+       "lat": "Leno, Leno, Lenče, mamino devojče,",
+       "en": "Lena, Lena, Lenche, mother's little girl,"
+      },
+      {
+       "cyr": "татина галеница, биди ми свршеница.",
+       "lat": "tatina galenica, bidi mi svršenica.",
+       "en": "father's darling, be my fiancee."
+      },
+      {
+       "cyr": "Сè што сакаш, Ленче, тебе ќе ти дадам,",
+       "lat": "Sè što sakaš, Lenče, tebe ḱe ti dadam,",
+       "en": "Everything you want, Lenche, I will give you,"
+      },
+      {
+       "cyr": "коси да ти милувам, на гради да те успивам.",
+       "lat": "kosi da ti miluvam, na gradi da te uspivam.",
+       "en": "I will caress your hair, I will lull you to sleep on my chest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, крај твоите порти стројници се редат,",
+       "lat": "Ej, kraj tvoite porti strojnici se redat,",
+       "en": "Hey, by your gate the match-makers line up,"
+      },
+      {
+       "cyr": "под твојот прозор ергени ти пеат.",
+       "lat": "pod tvojot prozor ergeni ti peat.",
+       "en": "under your window bachelors sing to you."
+      },
+      {
+       "cyr": "Лено, Ленче, изгор мој, само јас ќе бидам твој,",
+       "lat": "Leno, Lenče, izgor moj, samo jas ḱe bidam tvoj,",
+       "en": "Lena, Lenche, my torment, only I will be yours,"
+      },
+      {
+       "cyr": "Лено, Ленче, ангел мој, само јас ќе бидам твој.",
+       "lat": "Leno, Lenče, angel moj, samo jas ḱe bidam tvoj.",
+       "en": "Lena, Lenche, my angel, only I will be yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лено, Лено, Ленче, мамино девојче,",
+       "lat": "Leno, Leno, Lenče, mamino devojče,",
+       "en": "Lena, Lena, Lenche, mother's little girl,"
+      },
+      {
+       "cyr": "татина галеница, биди ми свршеница.",
+       "lat": "tatina galenica, bidi mi svršenica.",
+       "en": "father's darling, be my fiancee."
+      },
+      {
+       "cyr": "Сè што сакаш, Ленче, тебе ќе ти дадам,",
+       "lat": "Sè što sakaš, Lenče, tebe ḱe ti dadam,",
+       "en": "Everything you want, Lenche, I will give you,"
+      },
+      {
+       "cyr": "коси да ти милувам, на гради да те успивам.",
+       "lat": "kosi da ti miluvam, na gradi da te uspivam.",
+       "en": "I will caress your hair, I will lull you to sleep on my chest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

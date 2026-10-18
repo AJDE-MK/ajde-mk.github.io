@@ -1,0 +1,151 @@
+{
+ "id": 1099,
+ "slug": "a-dadeja-jana",
+ "title_cyr": "А дадеја Јана",
+ "title_latin": "A dadeja Jana",
+ "title_en": "Ah, Jana was given away",
+ "pesna_url": "https://pesna.org/song/1099",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'А дадеја' I read as 'was given (in marriage)', my reading; 'ем говори' is a filler ('and speaks').",
+ "words_to_learn": [
+  {
+   "mk": "надалеку",
+   "en": "far away"
+  },
+  {
+   "mk": "гори",
+   "en": "forests, mountains"
+  },
+  {
+   "mk": "мажена",
+   "en": "married (of a woman)"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law"
+  },
+  {
+   "mk": "снаа",
+   "en": "daughter-in-law"
+  },
+  {
+   "mk": "промена",
+   "en": "change of clothes, dress"
+  },
+  {
+   "mk": "кукавица",
+   "en": "cuckoo"
+  },
+  {
+   "mk": "продума",
+   "en": "to say a word"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2640"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А дадеја Јана многу надалеку,",
+       "lat": "A dadeja Jana mnogu nadaleku,",
+       "en": "Ah, Jana was given far away,"
+      },
+      {
+       "cyr": "многу надалеку, преку две-три гори,",
+       "lat": "mnogu nadaleku, preku dve-tri gori,",
+       "en": "very far away, across two or three forests,"
+      },
+      {
+       "cyr": "преку две-три гори и четири реки.",
+       "lat": "preku dve-tri gori i četiri reki.",
+       "en": "across two or three forests and four rivers."
+      },
+      {
+       "cyr": "Три години Јана откак' е мажена,",
+       "lat": "Tri godini Jana otkak' e mažena,",
+       "en": "It is three years since Jana was married,"
+      },
+      {
+       "cyr": "дума не продума, ни се насмејала.",
+       "lat": "duma ne produma, ni se nasmejala.",
+       "en": "she has not said a word, nor smiled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јаниниот свекор вели, ем говори:",
+       "lat": "Janiniot svekor veli, em govori:",
+       "en": "Jana's father-in-law speaks and says:"
+      },
+      {
+       "cyr": "- Снаи, мили снаи, девет мили снаи,",
+       "lat": "- Snai, mili snai, devet mili snai,",
+       "en": "- Daughters-in-law, dear daughters-in-law, nine dear daughters-in-law,"
+      },
+      {
+       "cyr": "облечете Јана в' белата промена",
+       "lat": "oblečete Jana v' belata promena",
+       "en": "dress Jana in a white dress"
+      },
+      {
+       "cyr": "и ја прошетајте в' новата градина.",
+       "lat": "i ja prošetajte v' novata gradina.",
+       "en": "and take her for a walk in the new garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На јаболка кука жална кукавица,",
+       "lat": "Na jabolka kuka žalna kukavica,",
+       "en": "In the apple tree a sad cuckoo calls,"
+      },
+      {
+       "cyr": "тогај Јана дума, дума продумила:",
+       "lat": "togaj Jana duma, duma produmila:",
+       "en": "then Jana speaks, she said a word:"
+      },
+      {
+       "cyr": "- Кукај кукавице, и ти како мене,",
+       "lat": "- Kukaj kukavice, i ti kako mene,",
+       "en": "- Call, cuckoo, you too like me,"
+      },
+      {
+       "cyr": "и ти како мене, без мајка и татко,",
+       "lat": "i ti kako mene, bez majka i tatko,",
+       "en": "you too like me, without mother and father,"
+      },
+      {
+       "cyr": "без мајка и татко, без браќа и сестри.",
+       "lat": "bez majka i tatko, bez braḱa i sestri.",
+       "en": "without mother and father, without brothers and sisters."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

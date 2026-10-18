@@ -1,0 +1,247 @@
+{
+ "id": 10,
+ "slug": "makedonka",
+ "title_cyr": "Македонка",
+ "title_latin": "Makedonka",
+ "title_en": "Macedonian Woman",
+ "pesna_url": "https://pesna.org/song/10",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Patriotic song, origin unclear, no author I can name. 'Гоцева лична убавица' is read as a reference to Gotse Delchev; 'Пиринка / Егејка / Вардарка' name the three parts of Macedonia.",
+ "words_to_learn": [
+  {
+   "mk": "вистина",
+   "en": "truth, it is true"
+  },
+  {
+   "mk": "мамо",
+   "en": "mother (vocative)"
+  },
+  {
+   "mk": "распеана",
+   "en": "singing, full of song"
+  },
+  {
+   "mk": "Илинден",
+   "en": "St. Elijah's Day (2 August), Ilinden uprising"
+  },
+  {
+   "mk": "убавица",
+   "en": "beauty"
+  },
+  {
+   "mk": "да горам",
+   "en": "to burn"
+  },
+  {
+   "mk": "бликам",
+   "en": "to gush, flash"
+  },
+  {
+   "mk": "горда",
+   "en": "proud"
+  },
+  {
+   "mk": "расцутена",
+   "en": "blossomed"
+  },
+  {
+   "mk": "Вардарка",
+   "en": "woman from the Vardar region"
+  }
+ ],
+ "performers": [
+  "Славка Младеновска"
+ ],
+ "audio": [
+  {
+   "who": "Славка Младеновска",
+   "url": "https://pesna.org/audio-download/1673"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Вистина е мила мамо, вистина,",
+       "lat": "Vistina e mila mamo, vistina,",
+       "en": "It is true, dear mother, it is true,"
+      },
+      {
+       "cyr": "среќна сум мамо Македонка,",
+       "lat": "sreḱna sum mamo Makedonka,",
+       "en": "I am happy, mother, a Macedonian woman,"
+      },
+      {
+       "cyr": "со душа и срце распеана,",
+       "lat": "so duša i srce raspeana,",
+       "en": "singing with soul and heart,"
+      },
+      {
+       "cyr": "на ден Илинден родена,",
+       "lat": "na den Ilinden rodena,",
+       "en": "born on Ilinden day,"
+      },
+      {
+       "cyr": "со душа и срце распеана,",
+       "lat": "so duša i srce raspeana,",
+       "en": "singing with soul and heart,"
+      },
+      {
+       "cyr": "Гоцева лична убавица.",
+       "lat": "Goceva lična ubavica.",
+       "en": "Gotse's beautiful sweetheart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да пеам, да играм,",
+       "lat": "Da peam, da igram,",
+       "en": "To sing, to dance,"
+      },
+      {
+       "cyr": "да горам, да бликам,",
+       "lat": "da goram, da blikam,",
+       "en": "to burn, to gush forth,"
+      },
+      {
+       "cyr": "сè ќе сторам,",
+       "lat": "sè ḱe storam,",
+       "en": "I will do everything"
+      },
+      {
+       "cyr": "мајко да те имам.",
+       "lat": "majko da te imam.",
+       "en": "to have you, mother."
+      },
+      {
+       "cyr": "Со тага и солзи,",
+       "lat": "So taga i solzi,",
+       "en": "In sorrow and tears,"
+      },
+      {
+       "cyr": "во радост и песна, ееејјј.",
+       "lat": "vo radost i pesna, eeejjj.",
+       "en": "in joy and song, eeeyyy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали сум Пиринка, Пиринка,",
+       "lat": "Dali sum Pirinka, Pirinka,",
+       "en": "Am I a Pirin woman, a Pirin woman,"
+      },
+      {
+       "cyr": "Егејка, Егејка, Вардарка, Вардарка,",
+       "lat": "Egejka, Egejka, Vardarka, Vardarka,",
+       "en": "an Aegean woman, an Aegean woman, a Vardar woman, a Vardar woman,"
+      },
+      {
+       "cyr": "јас сум, јас сум Македонка.",
+       "lat": "jas sum, jas sum Makedonka.",
+       "en": "I am, I am a Macedonian woman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вистина е мила мамо, вистина,",
+       "lat": "Vistina e mila mamo, vistina,",
+       "en": "It is true, dear mother, it is true,"
+      },
+      {
+       "cyr": "горда сум мамо Македонка,",
+       "lat": "gorda sum mamo Makedonka,",
+       "en": "I am proud, mother, a Macedonian woman,"
+      },
+      {
+       "cyr": "со Пиринско цвеќе расцутена,",
+       "lat": "so Pirinsko cveḱe rascutena,",
+       "en": "blossomed with Pirin flowers,"
+      },
+      {
+       "cyr": "од Егејско сонце огреана,",
+       "lat": "od Egejsko sonce ogreana,",
+       "en": "warmed by the Aegean sun,"
+      },
+      {
+       "cyr": "со Пиринско цвеќе расцутена,",
+       "lat": "so Pirinsko cveḱe rascutena,",
+       "en": "blossomed with Pirin flowers,"
+      },
+      {
+       "cyr": "од Вардарска вода полеана.",
+       "lat": "od Vardarska voda poleana.",
+       "en": "watered by Vardar water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да пеам, да играм,",
+       "lat": "Da peam, da igram,",
+       "en": "To sing, to dance,"
+      },
+      {
+       "cyr": "да горам, да бликам,",
+       "lat": "da goram, da blikam,",
+       "en": "to burn, to gush forth,"
+      },
+      {
+       "cyr": "сè ќе сторам,",
+       "lat": "sè ḱe storam,",
+       "en": "I will do everything"
+      },
+      {
+       "cyr": "мајко да те имам.",
+       "lat": "majko da te imam.",
+       "en": "to have you, mother."
+      },
+      {
+       "cyr": "Со тага и солзи,",
+       "lat": "So taga i solzi,",
+       "en": "In sorrow and tears,"
+      },
+      {
+       "cyr": "во радост и песна, ееејјј.",
+       "lat": "vo radost i pesna, eeejjj.",
+       "en": "in joy and song, eeeyyy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали сум Пиринка, Пиринка,",
+       "lat": "Dali sum Pirinka, Pirinka,",
+       "en": "Am I a Pirin woman, a Pirin woman,"
+      },
+      {
+       "cyr": "Егејка, Егејка, Вардарка, Вардарка,",
+       "lat": "Egejka, Egejka, Vardarka, Vardarka,",
+       "en": "an Aegean woman, an Aegean woman, a Vardar woman, a Vardar woman,"
+      },
+      {
+       "cyr": "јас сум, јас сум Македонка.",
+       "lat": "jas sum, jas sum Makedonka.",
+       "en": "I am, I am a Macedonian woman."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

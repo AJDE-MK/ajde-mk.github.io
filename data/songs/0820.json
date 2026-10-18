@@ -1,0 +1,68 @@
+{
+ "id": 820,
+ "slug": "a-shto-mi-se-jadno-dodealo",
+ "title_cyr": "А што ми се јадно додеало",
+ "title_latin": "A što mi se jadno dodealo",
+ "title_en": "I am getting sick and tired",
+ "pesna_url": "https://pesna.org/song/820",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А што ми се, море ле, иј",
+       "lat": "A što mi se, more le, ij",
+       "en": "I am getting, hey,"
+      },
+      {
+       "cyr": "јадно додејало, иј,",
+       "lat": "jadno dodejalo, ij,",
+       "en": "sick and tired, hey,"
+      },
+      {
+       "cyr": "од троица пусти настојника.",
+       "lat": "od troica pusti nastojnika.",
+       "en": "of those three field supervisors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први вика побрго да жнејам,",
+       "lat": "Prvi vika pobrgo da žnejam,",
+       "en": "The first one says that I should harvest faster,"
+      },
+      {
+       "cyr": "други вика пониско да жнејам,",
+       "lat": "drugi vika ponisko da žnejam,",
+       "en": "the second one says that I should harvest lower,"
+      },
+      {
+       "cyr": "трети вика клас'то да го збирам,",
+       "lat": "treti vika klas'to da go zbiram,",
+       "en": "the third one says that I should collect the glean,"
+      },
+      {
+       "cyr": "па на него јазе да угодам.",
+       "lat": "pa na nego jaze da ugodam.",
+       "en": "so I will please him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

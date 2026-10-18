@@ -1,0 +1,367 @@
+{
+ "id": 1110,
+ "slug": "mi-te-prodadova-dosto-mome-mariovsko",
+ "title_cyr": "Ми те продадова, Досто, моме мариовско",
+ "title_latin": "Mi te prodadova, Dosto, mome mariovsko",
+ "title_en": "We sold you, Dosta, Mariovo girl",
+ "pesna_url": "https://pesna.org/song/1110",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Mariovo song about a girl sold to Ali Pasha at Ioannina; the line 'Ти побело дојде' is my reading (you came out whiter than the brides). 'Тија ти зедова' I render 'Those we took' (my reading, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "кмет",
+   "en": "village elder"
+  },
+  {
+   "mk": "Илинден",
+   "en": "St. Elijah's day (20 July)"
+  },
+  {
+   "mk": "јеничари",
+   "en": "Janissaries"
+  },
+  {
+   "mk": "сарај",
+   "en": "palace"
+  },
+  {
+   "mk": "булка",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "јубавина",
+   "en": "loveliness, beauty"
+  },
+  {
+   "mk": "качија",
+   "en": "they brought up, lifted"
+  },
+  {
+   "mk": "занесова",
+   "en": "we carried off"
+  },
+  {
+   "mk": "пуст",
+   "en": "wretched"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале, ајде, се набрале,",
+       "lat": "Se sobrale, ajde, se nabrale,",
+       "en": "They gathered, come on, they assembled,"
+      },
+      {
+       "cyr": "се собрале пусто Мариово,",
+       "lat": "se sobrale pusto Mariovo,",
+       "en": "they gathered, wretched Mariovo,"
+      },
+      {
+       "cyr": "се набрале кмети мариовски,",
+       "lat": "se nabrale kmeti mariovski,",
+       "en": "the Mariovo village elders assembled,"
+      },
+      {
+       "cyr": "сите кмети, и земски и селски,",
+       "lat": "site kmeti, i zemski i selski,",
+       "en": "all the elders, both of the land and of the village,"
+      },
+      {
+       "cyr": "сите кмети, кмети мариовски,",
+       "lat": "site kmeti, kmeti mariovski,",
+       "en": "all the elders, the Mariovo elders,"
+      },
+      {
+       "cyr": "на Илинден, море, на добер ден,",
+       "lat": "na Ilinden, more, na dober den,",
+       "en": "on St. Elijah's day, hey, on a good day,"
+      },
+      {
+       "cyr": "се собрале село Градешница.",
+       "lat": "se sobrale selo Gradešnica.",
+       "en": "they gathered in the village of Gradeshnica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми те продадова, Досто,",
+       "lat": "Mi te prodadova, Dosto,",
+       "en": "We sold you, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "моме мариовско.",
+       "lat": "mome mariovsko.",
+       "en": "Mariovo girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми те продадова, Досто,",
+       "lat": "Mi te prodadova, Dosto,",
+       "en": "We sold you, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "на Турци јеничари.",
+       "lat": "na Turci jeničari.",
+       "en": "to the Janissary Turks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога те зедова, Досто,",
+       "lat": "Koga te zedova, Dosto,",
+       "en": "When we took you, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "кога те зедова.",
+       "lat": "koga te zedova.",
+       "en": "when we took you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми те занесова, Досто,",
+       "lat": "Mi te zanesova, Dosto,",
+       "en": "We carried you off, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "дури во Јанино.",
+       "lat": "duri vo Janino.",
+       "en": "all the way to Ioannina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми те продадова, Досто,",
+       "lat": "Mi te prodadova, Dosto,",
+       "en": "We sold you, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "на стар Али-паша.",
+       "lat": "na star Ali-paša.",
+       "en": "to old Ali Pasha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога те качија, Досто,",
+       "lat": "Koga te kačija, Dosto,",
+       "en": "When they brought you up, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "на високи сарај.",
+       "lat": "na visoki saraj.",
+       "en": "to the high palace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти побело дојде, Досто,",
+       "lat": "Ti pobelo dojde, Dosto,",
+       "en": "You came out whiter, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "од белите булки.",
+       "lat": "od belite bulki.",
+       "en": "than the white brides."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твоја јубавина, Досто,",
+       "lat": "Tvoja jubavina, Dosto,",
+       "en": "Your loveliness, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "уште поубава.",
+       "lat": "ušte poubava.",
+       "en": "was even lovelier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тија ти зедова, Досто,",
+       "lat": "Tija ti zedova, Dosto,",
+       "en": "Those we took, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "пуста јубавина.",
+       "lat": "pusta jubavina.",
+       "en": "your wretched loveliness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми те продадова, Досто,",
+       "lat": "Mi te prodadova, Dosto,",
+       "en": "We sold you, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "моме мариовско.",
+       "lat": "mome mariovsko.",
+       "en": "Mariovo girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први кмет ми беше, Досто,",
+       "lat": "Prvi kmet mi beše, Dosto,",
+       "en": "The first elder was, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "Коренко од Дуње.",
+       "lat": "Korenko od Dunje.",
+       "en": "Korenko from Dunje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втори кмет ми беше, Досто,",
+       "lat": "Vtori kmet mi beše, Dosto,",
+       "en": "The second elder was, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "Брајанче од Кокре.",
+       "lat": "Brajanče od Kokre.",
+       "en": "Brajanche from Kokre."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Треќи кмет ми беше, Досто,",
+       "lat": "Treḱi kmet mi beše, Dosto,",
+       "en": "The third elder was, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "Перко од Кајлани.",
+       "lat": "Perko od Kajlani.",
+       "en": "Perko from Kajlani."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Четврти ми беше, Досто,",
+       "lat": "Četvrti mi beše, Dosto,",
+       "en": "The fourth was, Dosta,"
+      },
+      {
+       "cyr": "Досто, мори Досто,",
+       "lat": "Dosto, mori Dosto,",
+       "en": "Dosta, hey Dosta,"
+      },
+      {
+       "cyr": "Брајан од Пештани.",
+       "lat": "Brajan od Peštani.",
+       "en": "Brajan from Peshtani."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

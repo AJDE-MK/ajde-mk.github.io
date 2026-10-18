@@ -1,0 +1,124 @@
+{
+ "id": 1244,
+ "slug": "idam-ne-idam",
+ "title_cyr": "Идам, не идам",
+ "title_latin": "Idam, ne idam",
+ "title_en": "I come, I don't come",
+ "pesna_url": "https://pesna.org/song/1244",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Да! Можем",
+  "Trio Bulgarka"
+ ],
+ "audio": [
+  {
+   "who": "Trio Bulgarka",
+   "url": "https://pesna.org/audio-download/3130"
+  },
+  {
+   "who": "Да! Можем",
+   "url": "https://pesna.org/audio-download/3147"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој, ела ми Фелиџе,",
+       "lat": "- Oj, ela mi Felidže,",
+       "en": "- Oh, come to me Felidzhe"
+      },
+      {
+       "cyr": "на малото дуќанче.",
+       "lat": "na maloto duḱanče.",
+       "en": "to the small workshop."
+      },
+      {
+       "cyr": "- Идам, не идам,",
+       "lat": "- Idam, ne idam,",
+       "en": "- I come, I don't come,"
+      },
+      {
+       "cyr": "сама ќе дојдам.",
+       "lat": "sama ḱe dojdam.",
+       "en": "alone I'll come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога дојдам, либе,",
+       "lat": "- Koga dojdam, libe,",
+       "en": "When I come, dear,"
+      },
+      {
+       "cyr": "порти да отвориш,",
+       "lat": "porti da otvoriš,",
+       "en": "open the doors,"
+      },
+      {
+       "cyr": "портите широки.",
+       "lat": "portite široki.",
+       "en": "the wide doors."
+      },
+      {
+       "cyr": "- Идам, не идам,",
+       "lat": "- Idam, ne idam,",
+       "en": "I come, I don't come,"
+      },
+      {
+       "cyr": "сама ќе дојдам.",
+       "lat": "sama ḱe dojdam.",
+       "en": "alone I'll come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мене да пречекаш,",
+       "lat": "- Mene da prečekaš,",
+       "en": "Wait for me,"
+      },
+      {
+       "cyr": "мене да прегрнеш,",
+       "lat": "mene da pregrneš,",
+       "en": "embrace me,"
+      },
+      {
+       "cyr": "мене да целунеш.",
+       "lat": "mene da celuneš.",
+       "en": "kiss me,"
+      },
+      {
+       "cyr": "- Идам, не идам,",
+       "lat": "- Idam, ne idam,",
+       "en": "I come, I don't come,"
+      },
+      {
+       "cyr": "сама ќе дојдам,",
+       "lat": "sama ḱe dojdam,",
+       "en": "alone I'll come."
+      },
+      {
+       "cyr": "што ќе ми чиниш?",
+       "lat": "što ḱe mi činiš?",
+       "en": "What will you do to me?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

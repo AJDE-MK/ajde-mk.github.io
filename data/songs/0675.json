@@ -1,0 +1,162 @@
+{
+ "id": 675,
+ "slug": "mare-mori-mare",
+ "title_cyr": "Маре мори Маре",
+ "title_latin": "Mare mori Mare",
+ "title_en": "Mare, hey Mare",
+ "pesna_url": "https://pesna.org/song/675",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "First lines read 'why are you washing white things and wearing black' (my reading of 'а што бело переш'). Implied meaning is that the soldier died.",
+ "words_to_learn": [
+  {
+   "mk": "переш",
+   "en": "you wash (laundry)"
+  },
+  {
+   "mk": "жалиш",
+   "en": "you mourn / grieve for"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "стари татко",
+   "en": "old father"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (interjection)"
+  },
+  {
+   "mk": "го нема",
+   "en": "he is gone / not there"
+  }
+ ],
+ "performers": [
+  "Акустико бенд",
+  "МРТВ"
+ ],
+ "audio": [
+  {
+   "who": "МРТВ",
+   "url": "https://pesna.org/audio-download/3225"
+  },
+  {
+   "who": "Акустико бенд",
+   "url": "https://pesna.org/audio-download/3226"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Маре мори Маре",
+       "lat": "- Mare mori Mare",
+       "en": "- Mare, hey Mare,"
+      },
+      {
+       "cyr": "а што бело переш.",
+       "lat": "a što belo pereš.",
+       "en": "why are you washing white,"
+      },
+      {
+       "cyr": "А што бело переш,",
+       "lat": "A što belo pereš,",
+       "en": "why are you washing white,"
+      },
+      {
+       "cyr": "а што црно носиш.",
+       "lat": "a što crno nosiš.",
+       "en": "why are you wearing black?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали мајка жалиш,",
+       "lat": "Dali majka žališ,",
+       "en": "Are you mourning your mother,"
+      },
+      {
+       "cyr": "или стари татко?",
+       "lat": "ili stari tatko?",
+       "en": "or your old father?"
+      },
+      {
+       "cyr": "Или си го жалиш",
+       "lat": "Ili si go žališ",
+       "en": "Or are you mourning"
+      },
+      {
+       "cyr": "твојто прво либе?",
+       "lat": "tvojto prvo libe?",
+       "en": "your first love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ниту мајка жалам",
+       "lat": "- Nitu majka žalam",
+       "en": "- I am not mourning my mother,"
+      },
+      {
+       "cyr": "ниту стари татко.",
+       "lat": "nitu stari tatko.",
+       "en": "nor my old father."
+      },
+      {
+       "cyr": "Туку си го жалам",
+       "lat": "Tuku si go žalam",
+       "en": "I am mourning"
+      },
+      {
+       "cyr": "мојто прво либе.",
+       "lat": "mojto prvo libe.",
+       "en": "my first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Војник ми отиде",
+       "lat": "Vojnik mi otide",
+       "en": "He went off as a soldier"
+      },
+      {
+       "cyr": "време три години.",
+       "lat": "vreme tri godini.",
+       "en": "for three years' time."
+      },
+      {
+       "cyr": "Коњот му се врати,",
+       "lat": "Konjot mu se vrati,",
+       "en": "His horse came back,"
+      },
+      {
+       "cyr": "а него го нема.",
+       "lat": "a nego go nema.",
+       "en": "but he is nowhere."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,207 @@
+{
+ "id": 632,
+ "slug": "janke-le-janke-ubava",
+ "title_cyr": "Јанке ле Јанке убава",
+ "title_latin": "Janke le Janke ubava",
+ "title_en": "Janka, oh Janka, beautiful",
+ "pesna_url": "https://pesna.org/song/632",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Промена' as a kerchief and 'брачеди' as cousins are my reading. The dance speaker explains why they cannot join hands as kin.",
+ "words_to_learn": [
+  {
+   "mk": "промена",
+   "en": "kerchief / head covering (my reading)"
+  },
+  {
+   "mk": "слези",
+   "en": "come down"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "роднина",
+   "en": "relatives, kin"
+  },
+  {
+   "mk": "чичо",
+   "en": "paternal uncle"
+  },
+  {
+   "mk": "стрина",
+   "en": "uncle's wife, aunt"
+  },
+  {
+   "mk": "јатрви",
+   "en": "wives of brothers"
+  },
+  {
+   "mk": "брачеди",
+   "en": "first cousins (dialect, my reading)"
+  }
+ ],
+ "performers": [
+  "Борис Ангелковски",
+  "Виолета Томовска",
+  "Војо Стојановски",
+  "Есма Реџепова",
+  "Никола Бадев",
+  "Николина Стојановска",
+  "Фаворити"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1232"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/1233"
+  },
+  {
+   "who": "Никола Бадев, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1410"
+  },
+  {
+   "who": "Борис Ангелковски, Есма Реџепова",
+   "url": "https://pesna.org/audio-download/1411"
+  },
+  {
+   "who": "Николина Стојановска",
+   "url": "https://pesna.org/audio-download/1412"
+  },
+  {
+   "who": "Фаворити",
+   "url": "https://pesna.org/audio-download/1413"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јанке ле, Јанке убава,",
+       "lat": "Janke le, Janke ubava,",
+       "en": "Janka, oh Janka, beautiful,"
+      },
+      {
+       "cyr": "облечи бела промена.",
+       "lat": "obleči bela promena.",
+       "en": "put on a white kerchief."
+      },
+      {
+       "cyr": "Облечи бела промена,",
+       "lat": "Obleči bela promena,",
+       "en": "Put on a white kerchief,"
+      },
+      {
+       "cyr": "па слези Јанке сред село.",
+       "lat": "pa slezi Janke sred selo.",
+       "en": "and come down, Janka, to the middle of the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па слези долу сред село,",
+       "lat": "Pa slezi dolu sred selo,",
+       "en": "And come down to the middle of the village,"
+      },
+      {
+       "cyr": "да видиш чудо големо.",
+       "lat": "da vidiš čudo golemo.",
+       "en": "to see a great wonder."
+      },
+      {
+       "cyr": "Да видиш оро големо",
+       "lat": "Da vidiš oro golemo",
+       "en": "To see a great dance"
+      },
+      {
+       "cyr": "и да се фатиш на оро.",
+       "lat": "i da se fatiš na oro.",
+       "en": "and to join the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам брату да дојдам,",
+       "lat": "Ne možam bratu da dojdam,",
+       "en": "I cannot come to my brother,"
+      },
+      {
+       "cyr": "нели сме пусто роднина?",
+       "lat": "neli sme pusto rodnina?",
+       "en": "are we not close kin?"
+      },
+      {
+       "cyr": "Тате и чичо, два брата,",
+       "lat": "Tate i čičo, dva brata,",
+       "en": "Father and uncle, two brothers,"
+      },
+      {
+       "cyr": "мама и стрина јатрви.",
+       "lat": "mama i strina jatrvi.",
+       "en": "mother and aunt, wives of brothers."
+      },
+      {
+       "cyr": "Тате и чичо, два брата,",
+       "lat": "Tate i čičo, dva brata,",
+       "en": "Father and uncle, two brothers,"
+      },
+      {
+       "cyr": "јас и ти први брачеди.",
+       "lat": "jas i ti prvi bračedi.",
+       "en": "you and I, first cousins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јано ле Јанке, убаво",
+       "lat": "Jano le Janke, ubavo",
+       "en": "Jana, oh Janka, beautiful,"
+      },
+      {
+       "cyr": "широко поле крај нема.",
+       "lat": "široko pole kraj nema.",
+       "en": "the wide field has no end."
+      },
+      {
+       "cyr": "Широко море крај нема,",
+       "lat": "Široko more kraj nema,",
+       "en": "The wide sea has no end,"
+      },
+      {
+       "cyr": "ситно камење број нема.",
+       "lat": "sitno kamenje broj nema.",
+       "en": "the small stones have no number."
+      },
+      {
+       "cyr": "Длабоко море дно нема,",
+       "lat": "Dlaboko more dno nema,",
+       "en": "The deep sea has no bottom,"
+      },
+      {
+       "cyr": "убава Јана род нема.",
+       "lat": "ubava Jana rod nema.",
+       "en": "beautiful Jana has no kin."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

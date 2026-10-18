@@ -1,0 +1,209 @@
+{
+ "id": 1417,
+ "slug": "elaj-kjerko-kaj-majka-na-gosti",
+ "title_cyr": "Елај ќерко кај мајка на гости",
+ "title_latin": "Elaj ḱerko kaj majka na gosti",
+ "title_en": "Come, daughter, visit your mother",
+ "pesna_url": "https://pesna.org/song/1417",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last stanza is hard to follow (dialect: 'јет' = 'is', 'вркнит' = push or throw, 'желки' = grief). Speaker and meaning of the last stanza are my reading only; it seems to be a stepmother or wife speaking harshly. Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "елај",
+   "en": "come (dialect imperative)"
+  },
+  {
+   "mk": "ќерко",
+   "en": "daughter"
+  },
+  {
+   "mk": "на гости",
+   "en": "visiting"
+  },
+  {
+   "mk": "алва шеќерлија",
+   "en": "sugared halva"
+  },
+  {
+   "mk": "патот",
+   "en": "the road"
+  },
+  {
+   "mk": "поли",
+   "en": "skirt hem"
+  },
+  {
+   "mk": "мамо",
+   "en": "mama"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, child (here)"
+  },
+  {
+   "mk": "жена",
+   "en": "wife, woman"
+  },
+  {
+   "mk": "пропасиш",
+   "en": "you perish"
+  }
+ ],
+ "performers": [
+  "Цветан Јошевски"
+ ],
+ "audio": [
+  {
+   "who": "Цветан Јошевски",
+   "url": "https://pesna.org/audio-download/3638"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Елај ќерко, елај душо,",
+       "lat": "- Elaj ḱerko, elaj dušo,",
+       "en": "- Come, daughter, come, dear,"
+      },
+      {
+       "cyr": "кај мајка на гости,",
+       "lat": "kaj majka na gosti,",
+       "en": "visiting your mother,"
+      },
+      {
+       "cyr": "мајка ќе ти даде",
+       "lat": "majka ḱe ti dade",
+       "en": "your mother will give you"
+      },
+      {
+       "cyr": "алва шеќерлија.",
+       "lat": "alva šeḱerlija.",
+       "en": "sugared halva."
+      },
+      {
+       "cyr": "Мајка ќе ти даде",
+       "lat": "Majka ḱe ti dade",
+       "en": "Your mother will give you"
+      },
+      {
+       "cyr": "алва шеќерлија.",
+       "lat": "alva šeḱerlija.",
+       "en": "sugared halva."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам да дојдам, мајко,",
+       "lat": "- Ne možam da dojdam, majko,",
+       "en": "- I cannot come, mother,"
+      },
+      {
+       "cyr": "не можам да дојдам,",
+       "lat": "ne možam da dojdam,",
+       "en": "I cannot come,"
+      },
+      {
+       "cyr": "не можам да дојдам,",
+       "lat": "ne možam da dojdam,",
+       "en": "I cannot come,"
+      },
+      {
+       "cyr": "патот е далеку.",
+       "lat": "patot e daleku.",
+       "en": "the road is far."
+      },
+      {
+       "cyr": "Патот е далеку,",
+       "lat": "Patot e daleku,",
+       "en": "The road is far,"
+      },
+      {
+       "cyr": "а момче јет мало.",
+       "lat": "a momče jet malo.",
+       "en": "and the boy is still small."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На вода ќе одам, мајко,",
+       "lat": "Na voda ḱe odam, majko,",
+       "en": "I will go for water, mother,"
+      },
+      {
+       "cyr": "на вода ќе одам,",
+       "lat": "na voda ḱe odam,",
+       "en": "I will go for water,"
+      },
+      {
+       "cyr": "на вода ќе одам,",
+       "lat": "na voda ḱe odam,",
+       "en": "I will go for water,"
+      },
+      {
+       "cyr": "за поли ме држи.",
+       "lat": "za poli me drži.",
+       "en": "he holds me by the skirt"
+      },
+      {
+       "cyr": "За поли ме држи",
+       "lat": "Za poli me drži",
+       "en": "He holds me by the skirt"
+      },
+      {
+       "cyr": "и ми вика „мамо“.",
+       "lat": "i mi vika „mamo“.",
+       "en": "and calls me 'mama'."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас не ти сум мајка, лудо,",
+       "lat": "Jas ne ti sum majka, ludo,",
+       "en": "I am not your mother, fool,"
+      },
+      {
+       "cyr": "јас не ти сум мајка,",
+       "lat": "jas ne ti sum majka,",
+       "en": "I am not your mother,"
+      },
+      {
+       "cyr": "јас не сум ти мајка,",
+       "lat": "jas ne sum ti majka,",
+       "en": "I am not your mother,"
+      },
+      {
+       "cyr": "максуз да те вркнит,",
+       "lat": "maksuz da te vrknit,",
+       "en": "to push you away on purpose,"
+      },
+      {
+       "cyr": "туку сум ти жена,",
+       "lat": "tuku sum ti žena,",
+       "en": "but I am your wife,"
+      },
+      {
+       "cyr": "желки да пропасиш!",
+       "lat": "želki da propasiš!",
+       "en": "may you perish in grief!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

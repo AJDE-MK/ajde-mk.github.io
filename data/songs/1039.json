@@ -1,0 +1,92 @@
+{
+ "id": 1039,
+ "slug": "aj-shto-e-lepo-i-ubavo",
+ "title_cyr": "Ај што е лепо и убаво",
+ "title_latin": "Aj što e lepo i ubavo",
+ "title_en": "Oh, What Is Fair and Lovely",
+ "pesna_url": "https://pesna.org/song/1039",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'С'нце' is 'сонце' (sun); 'угреват' is a dialect form of 'угрева'. Traditional religious song, origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "лепо",
+   "en": "beautiful, fair"
+  },
+  {
+   "mk": "убаво",
+   "en": "lovely, nice"
+  },
+  {
+   "mk": "угреват",
+   "en": "rises (dialect)"
+  },
+  {
+   "mk": "рајски",
+   "en": "heavenly, of paradise"
+  },
+  {
+   "mk": "трпеза",
+   "en": "table, feast"
+  },
+  {
+   "mk": "поставени",
+   "en": "set, laid out"
+  },
+  {
+   "mk": "врвје",
+   "en": "summit"
+  },
+  {
+   "mk": "Свети",
+   "en": "Saint"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај што е лепо и убаво",
+       "lat": "Aj što e lepo i ubavo",
+       "en": "Oh, what is fair and lovely"
+      },
+      {
+       "cyr": "од кај што с'нце угреват.",
+       "lat": "od kaj što s'nce ugrevat.",
+       "en": "from where the sun rises."
+      },
+      {
+       "cyr": "Рајски трпези поставени",
+       "lat": "Rajski trpezi postaveni",
+       "en": "Heavenly tables laid out"
+      },
+      {
+       "cyr": "на врвје Свети Илија,",
+       "lat": "na vrvje Sveti Ilija,",
+       "en": "on the summit of Saint Elijah,"
+      },
+      {
+       "cyr": "до него Свети Ѓорѓија,",
+       "lat": "do nego Sveti Ǵorǵija,",
+       "en": "next to him Saint George,"
+      },
+      {
+       "cyr": "меѓу ним сестра Марија.",
+       "lat": "meǵu nim sestra Marija.",
+       "en": "between them sister Marija."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

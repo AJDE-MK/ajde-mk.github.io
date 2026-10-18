@@ -1,0 +1,214 @@
+{
+ "id": 85,
+ "slug": "se-skarale-se-stepale",
+ "title_cyr": "Се скарале, се степале",
+ "title_latin": "Se skarale, se stepale",
+ "title_en": "They quarreled, they fought",
+ "pesna_url": "https://pesna.org/song/85",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The first line in parentheses is an alternate title line in the source and is translated as is. 'лудо, младо' rendered 'a fool, a young one' (affectionate, my reading).",
+ "words_to_learn": [
+  {
+   "mk": "се скарале",
+   "en": "quarreled"
+  },
+  {
+   "mk": "се степале",
+   "en": "fought, beat each other"
+  },
+  {
+   "mk": "се собрале",
+   "en": "gathered"
+  },
+  {
+   "mk": "тиквешанки",
+   "en": "women/girls of Tikvesh"
+  },
+  {
+   "mk": "сокршиле",
+   "en": "broke"
+  },
+  {
+   "mk": "искубале",
+   "en": "pulled out"
+  },
+  {
+   "mk": "коси",
+   "en": "hair"
+  },
+  {
+   "mk": "да вадат",
+   "en": "to take out"
+  },
+  {
+   "mk": "неженето",
+   "en": "unmarried (of a man)"
+  }
+ ],
+ "performers": [
+  "Распеани кавадарчани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани кавадарчани",
+   "url": "https://pesna.org/audio-download/36"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Се собрале, се степале)",
+       "lat": "(Se sobrale, se stepale)",
+       "en": "(They gathered, they fought)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале, се степале,",
+       "lat": "Se sobrale, se stepale,",
+       "en": "They gathered, they fought,"
+      },
+      {
+       "cyr": "моми тиквешанки.",
+       "lat": "momi tikvešanki.",
+       "en": "the girls of Tikvesh."
+      },
+      {
+       "cyr": "Бре, бре, бре,",
+       "lat": "Bre, bre, bre,",
+       "en": "Hey, hey, hey,"
+      },
+      {
+       "cyr": "се собрале, се степале,",
+       "lat": "se sobrale, se stepale,",
+       "en": "they gathered, they fought,"
+      },
+      {
+       "cyr": "бре, бре, бре,",
+       "lat": "bre, bre, bre,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "моми тиквешанки.",
+       "lat": "momi tikvešanki.",
+       "en": "the girls of Tikvesh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Раците си сокршиле,",
+       "lat": "Racite si sokršile,",
+       "en": "They broke their hands,"
+      },
+      {
+       "cyr": "коси искубале.",
+       "lat": "kosi iskubale.",
+       "en": "pulled out their hair."
+      },
+      {
+       "cyr": "Бре, бре, бре,",
+       "lat": "Bre, bre, bre,",
+       "en": "Hey, hey, hey,"
+      },
+      {
+       "cyr": "рациве си сокршиле,",
+       "lat": "racive si sokršile,",
+       "en": "they broke these hands,"
+      },
+      {
+       "cyr": "бре, бре, бре,",
+       "lat": "bre, bre, bre,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "коси искубале.",
+       "lat": "kosi iskubale.",
+       "en": "pulled out their hair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си почнале, си почнале,",
+       "lat": "Si počnale, si počnale,",
+       "en": "They started, they started,"
+      },
+      {
+       "cyr": "очи да си вадат.",
+       "lat": "oči da si vadat.",
+       "en": "to gouge out each other's eyes."
+      },
+      {
+       "cyr": "Бре, бре, бре,",
+       "lat": "Bre, bre, bre,",
+       "en": "Hey, hey, hey,"
+      },
+      {
+       "cyr": "си почнале, си почнале,",
+       "lat": "si počnale, si počnale,",
+       "en": "they started, they started,"
+      },
+      {
+       "cyr": "бре, бре, бре,",
+       "lat": "bre, bre, bre,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "очи да си вадат.",
+       "lat": "oči da si vadat.",
+       "en": "to gouge out each other's eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сè за едно лудо, младо,",
+       "lat": "Sè za edno ludo, mlado,",
+       "en": "All over one fool, a young one,"
+      },
+      {
+       "cyr": "лудо, неженето.",
+       "lat": "ludo, neženeto.",
+       "en": "a fool, unmarried."
+      },
+      {
+       "cyr": "Бре, бре, бре,",
+       "lat": "Bre, bre, bre,",
+       "en": "Hey, hey, hey,"
+      },
+      {
+       "cyr": "сè за едно лудо, младо,",
+       "lat": "sè za edno ludo, mlado,",
+       "en": "all over one fool, a young one,"
+      },
+      {
+       "cyr": "бре, бре, бре,",
+       "lat": "bre, bre, bre,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "лудо, неженето.",
+       "lat": "ludo, neženeto.",
+       "en": "a fool, unmarried."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,137 @@
+{
+ "id": 1578,
+ "slug": "andon-ide-od-charshija",
+ "title_cyr": "Андон иде од чаршија",
+ "title_latin": "Andon ide od čaršija",
+ "title_en": "Andon comes from the market",
+ "pesna_url": "https://pesna.org/song/1578",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'јатма шеќер' is my reading (a sweet or sugar treat); not certain of the exact meaning.",
+ "words_to_learn": [
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar quarter"
+  },
+  {
+   "mk": "аман",
+   "en": "oh, alas (Turkish loan)"
+  },
+  {
+   "mk": "ал",
+   "en": "bright red"
+  },
+  {
+   "mk": "шамија",
+   "en": "kerchief, headscarf"
+  },
+  {
+   "mk": "леблебија",
+   "en": "roasted chickpeas"
+  },
+  {
+   "mk": "јатма шеќер",
+   "en": "(a kind of) sugar candy; my reading"
+  },
+  {
+   "mk": "суво грозје",
+   "en": "raisins, dried grapes"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  }
+ ],
+ "performers": [
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4113"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Андон иде од чаршија,",
+       "lat": "Andon ide od čaršija,",
+       "en": "Andon comes from the market,"
+      },
+      {
+       "cyr": "аман аман, од чаршија.",
+       "lat": "aman aman, od čaršija.",
+       "en": "alas, alas, from the market."
+      },
+      {
+       "cyr": "В раце носи ал шамија,",
+       "lat": "V race nosi al šamija,",
+       "en": "In his hands he carries a red kerchief,"
+      },
+      {
+       "cyr": "аман аман, ал шамија.",
+       "lat": "aman aman, al šamija.",
+       "en": "alas, alas, a red kerchief."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во шамија леблебија,",
+       "lat": "Vo šamija leblebija,",
+       "en": "In the kerchief roasted chickpeas,"
+      },
+      {
+       "cyr": "аман аман, леблебија.",
+       "lat": "aman aman, leblebija.",
+       "en": "alas, alas, roasted chickpeas."
+      },
+      {
+       "cyr": "Леблебија, јатма шеќер,",
+       "lat": "Leblebija, jatma šeḱer,",
+       "en": "Roasted chickpeas, sugar candy,"
+      },
+      {
+       "cyr": "аман аман, јатма шеќер.",
+       "lat": "aman aman, jatma šeḱer.",
+       "en": "alas, alas, sugar candy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јатма шеќер, суво грозје,",
+       "lat": "Jatma šeḱer, suvo grozje,",
+       "en": "Sugar candy, dried grapes,"
+      },
+      {
+       "cyr": "аман аман, суво грозје.",
+       "lat": "aman aman, suvo grozje.",
+       "en": "alas, alas, dried grapes."
+      },
+      {
+       "cyr": "Ќе ја носи кај либето",
+       "lat": "Ḱe ja nosi kaj libeto",
+       "en": "He will take them to his sweetheart,"
+      },
+      {
+       "cyr": "аман аман, кај либето.",
+       "lat": "aman aman, kaj libeto.",
+       "en": "alas, alas, to his sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

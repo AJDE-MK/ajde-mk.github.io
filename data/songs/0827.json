@@ -1,0 +1,133 @@
+{
+ "id": 827,
+ "slug": "igrale-babi-po-mesechina",
+ "title_cyr": "Играле баби по месечина",
+ "title_latin": "Igrale babi po mesečina",
+ "title_en": "Grannies are dancing in the moonlight",
+ "pesna_url": "https://pesna.org/song/827",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец",
+  "Daniela Tosic"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1753"
+  },
+  {
+   "who": "Daniela Tosic",
+   "url": "https://pesna.org/audio-download/4242"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Играле баби по месечина,",
+       "lat": "Igrale babi po mesečina,",
+       "en": "Grannies are dancing in the moonlight,"
+      },
+      {
+       "cyr": "играле баби и се прашувале,",
+       "lat": "igrale babi i se prašuvale,",
+       "en": "grannies are dancing and are asking themselves,"
+      },
+      {
+       "cyr": "вангере бири, џангере џанум,",
+       "lat": "vangere biri, džangere džanum,",
+       "en": "hey, ho, darling,"
+      },
+      {
+       "cyr": "по месечина.",
+       "lat": "po mesečina.",
+       "en": "in the moonlight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Што ти е бабо глава расцепена,",
+       "lat": "- Što ti e babo glava rascepena,",
+       "en": "- Granny, why is your head split open (wounded),"
+      },
+      {
+       "cyr": "глава расцепена, рака искршена,",
+       "lat": "glava rascepena, raka iskršena,",
+       "en": "your head split open, your hand broken,"
+      },
+      {
+       "cyr": "вангере бири, џангере џанум,",
+       "lat": "vangere biri, džangere džanum,",
+       "en": "hey, ho, darling,"
+      },
+      {
+       "cyr": "рака искршена?",
+       "lat": "raka iskršena?",
+       "en": "your hand broken?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Глава расцепена многу гледајќи,",
+       "lat": "- Glava rascepena mnogu gledajḱi,",
+       "en": "- The split head has seen much,"
+      },
+      {
+       "cyr": "глава расцепена многу гледајќи,",
+       "lat": "glava rascepena mnogu gledajḱi,",
+       "en": "the split head has seen much,"
+      },
+      {
+       "cyr": "вангере бири, џангере џанум,",
+       "lat": "vangere biri, džangere džanum,",
+       "en": "hey, ho, darling,"
+      },
+      {
+       "cyr": "многу гледајќи.",
+       "lat": "mnogu gledajḱi.",
+       "en": "has seen much."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рука искршена, многу работејќи,",
+       "lat": "Ruka iskršena, mnogu rabotejḱi,",
+       "en": "The broken hand has worked much,"
+      },
+      {
+       "cyr": "рука искршена многу работејќи,",
+       "lat": "ruka iskršena mnogu rabotejḱi,",
+       "en": "the broken hand has worked much,"
+      },
+      {
+       "cyr": "вангере бири, џангере џанум,",
+       "lat": "vangere biri, džangere džanum,",
+       "en": "hey, ho, darling,"
+      },
+      {
+       "cyr": "многу работејќи.",
+       "lat": "mnogu rabotejḱi.",
+       "en": "has worked much."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

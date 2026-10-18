@@ -1,0 +1,165 @@
+{
+ "id": 788,
+ "slug": "stojane-more-stojane",
+ "title_cyr": "Стојане море, Стојане",
+ "title_latin": "Stojane more, Stojane",
+ "title_en": "Stojan, Hey Stojan",
+ "pesna_url": "https://pesna.org/song/788",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'Калешат' (ram) I read as 'speckled, with a mottled coat'; my reading. The last stanza's meaning (hanged in the girls' chamber) is likely a joke or euphemism; I kept it literal.",
+ "words_to_learn": [
+  {
+   "mk": "шетај",
+   "en": "stroll, walk about"
+  },
+  {
+   "mk": "фес",
+   "en": "fez"
+  },
+  {
+   "mk": "давија",
+   "en": "lawsuit, dispute (Turkish dava)"
+  },
+  {
+   "mk": "обесат",
+   "en": "(they) will hang"
+  },
+  {
+   "mk": "итер",
+   "en": "cunning, clever"
+  },
+  {
+   "mk": "овен",
+   "en": "ram"
+  },
+  {
+   "mk": "кадија",
+   "en": "kadi, Muslim judge"
+  },
+  {
+   "mk": "ефендија",
+   "en": "effendi, gentleman (title)"
+  },
+  {
+   "mk": "одаја",
+   "en": "chamber, room"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/1477"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојане море, Стојане, леле",
+       "lat": "Stojane more, Stojane, lele",
+       "en": "Stojan, hey Stojan, oh dear,"
+      },
+      {
+       "cyr": "не шетај често море низ село,",
+       "lat": "ne šetaj često more niz selo,",
+       "en": "don't stroll often, hey, through the village,"
+      },
+      {
+       "cyr": "не шетај често море низ село, Стојан,",
+       "lat": "ne šetaj često more niz selo, Stojan,",
+       "en": "don't stroll often, hey, through the village, Stojan,"
+      },
+      {
+       "cyr": "не носи фесот, море, над око.",
+       "lat": "ne nosi fesot, more, nad oko.",
+       "en": "don't wear your fez, hey, over your eye."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сред село чинат давија, леле,",
+       "lat": "Sred selo činat davija, lele,",
+       "en": "In the middle of the village a lawsuit is brewing, oh dear,"
+      },
+      {
+       "cyr": "Стојана да го, море, обесат.",
+       "lat": "Stojana da go, more, obesat.",
+       "en": "to hang Stojan, hey."
+      },
+      {
+       "cyr": "Стојан е итер, пак итер, леле,",
+       "lat": "Stojan e iter, pak iter, lele,",
+       "en": "Stojan is cunning, very cunning, oh dear,"
+      },
+      {
+       "cyr": "си појде горе, море, в планина.",
+       "lat": "si pojde gore, more, v planina.",
+       "en": "he went up, hey, to the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си зеде овен калешат, леле,",
+       "lat": "Si zede oven kalešat, lele,",
+       "en": "He took a speckled ram, oh dear,"
+      },
+      {
+       "cyr": "однесе долу, море, кадија.",
+       "lat": "odnese dolu, more, kadija.",
+       "en": "he took it down, hey, to the judge."
+      },
+      {
+       "cyr": "Кадија млад ефендија, леле,",
+       "lat": "Kadija mlad efendija, lele,",
+       "en": "The judge, a young effendi, oh dear,"
+      },
+      {
+       "cyr": "право да гледаш, море, давија.",
+       "lat": "pravo da gledaš, more, davija.",
+       "en": "to look rightly, hey, at the lawsuit."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојана да го обесиш, леле,",
+       "lat": "Stojana da go obesiš, lele,",
+       "en": "To hang Stojan, oh dear,"
+      },
+      {
+       "cyr": "во шарената, море, одаја,",
+       "lat": "vo šarenata, more, odaja,",
+       "en": "in the colorful, hey, chamber,"
+      },
+      {
+       "cyr": "во шарената одаја, леле,",
+       "lat": "vo šarenata odaja, lele,",
+       "en": "in the colorful chamber, oh dear,"
+      },
+      {
+       "cyr": "каде што спијат, море, момите.",
+       "lat": "kade što spijat, more, momite.",
+       "en": "where the girls, hey, sleep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

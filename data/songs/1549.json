@@ -1,0 +1,183 @@
+{
+ "id": 1549,
+ "slug": "jano-jandzo",
+ "title_cyr": "Јано, јанѕо",
+ "title_latin": "Jano, jandzo",
+ "title_en": "Jana, Janza",
+ "pesna_url": "https://pesna.org/song/1549",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern composition but I cannot name an author). 'Janza' per the notes is a reed or bad omen; I left it untranslated in the refrain. 'Зајдам' as 'go down/set' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "матна вода",
+   "en": "muddy, cloudy water"
+  },
+  {
+   "mk": "здивнам",
+   "en": "catch my breath"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  },
+  {
+   "mk": "сугаре",
+   "en": "late-born lamb"
+  },
+  {
+   "mk": "јанѕа",
+   "en": "reed; bad omen, unease"
+  },
+  {
+   "mk": "мора",
+   "en": "nightmare"
+  },
+  {
+   "mk": "чемер",
+   "en": "bitterness"
+  },
+  {
+   "mk": "пелин",
+   "en": "wormwood"
+  },
+  {
+   "mk": "зајдам",
+   "en": "go down, set (like the sun), perish"
+  }
+ ],
+ "performers": [
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/4038"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Без тебе јас заспан шетам,",
+       "lat": "Bez tebe jas zaspan šetam,",
+       "en": "Without you I walk about asleep,"
+      },
+      {
+       "cyr": "како матна вода,",
+       "lat": "kako matna voda,",
+       "en": "like muddy water,"
+      },
+      {
+       "cyr": "не знам кај да здивнам, душо,",
+       "lat": "ne znam kaj da zdivnam, dušo,",
+       "en": "I do not know where to draw breath, darling,"
+      },
+      {
+       "cyr": "каде ли да одам.",
+       "lat": "kade li da odam.",
+       "en": "where to go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јано, јагне, бело сугаре,",
+       "lat": "Jano, jagne, belo sugare,",
+       "en": "Jana, lamb, white late-born lamb,"
+      },
+      {
+       "cyr": "Јано, јанѕо што ме изгоре.",
+       "lat": "Jano, jandzo što me izgore.",
+       "en": "Jana, janza, you who burned me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Без тебе јас буден сонувам,",
+       "lat": "Bez tebe jas buden sonuvam,",
+       "en": "Without you I dream awake,"
+      },
+      {
+       "cyr": "ти си вечна мора,",
+       "lat": "ti si večna mora,",
+       "en": "you are my eternal nightmare,"
+      },
+      {
+       "cyr": "дење-ноќе сал си темнам,",
+       "lat": "denje-noḱe sal si temnam,",
+       "en": "day and night I only grow dark,"
+      },
+      {
+       "cyr": "ко темна гора.",
+       "lat": "ko temna gora.",
+       "en": "like a dark forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јано, јагне, бело сугаре,",
+       "lat": "Jano, jagne, belo sugare,",
+       "en": "Jana, lamb, white late-born lamb,"
+      },
+      {
+       "cyr": "Јано, јанѕо што ме изгоре.",
+       "lat": "Jano, jandzo što me izgore.",
+       "en": "Jana, janza, you who burned me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си пелин, чемер, отров,",
+       "lat": "Da si pelin, čemer, otrov,",
+       "en": "Even if you were wormwood, bitterness, poison,"
+      },
+      {
+       "cyr": "пак јас ќе те најдам,",
+       "lat": "pak jas ḱe te najdam,",
+       "en": "I would still find you,"
+      },
+      {
+       "cyr": "како можам Јано, душо,",
+       "lat": "kako možam Jano, dušo,",
+       "en": "how can I, Jana, darling,"
+      },
+      {
+       "cyr": "без тебе да зајдам?",
+       "lat": "bez tebe da zajdam?",
+       "en": "set (go down) without you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јано, јагне, бело сугаре,",
+       "lat": "Jano, jagne, belo sugare,",
+       "en": "Jana, lamb, white late-born lamb,"
+      },
+      {
+       "cyr": "Јано, јанѕо што ме изгоре.",
+       "lat": "Jano, jandzo što me izgore.",
+       "en": "Jana, janza, you who burned me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

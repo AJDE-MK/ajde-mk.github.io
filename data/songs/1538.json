@@ -1,0 +1,203 @@
+{
+ "id": 1538,
+ "slug": "svrshena-spasa-pobegna",
+ "title_cyr": "Свршена Спаса побегна",
+ "title_latin": "Svršena Spasa pobegna",
+ "title_en": "The betrothed Spasa ran away",
+ "pesna_url": "https://pesna.org/song/1538",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'с'јоди' in line 'Трајче да с'јоди до дома' is my reading (hurry/ride home). 'Бабинче' means 'of Babino' and Babino/Sapotnica are village names. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "свршена",
+   "en": "betrothed, engaged"
+  },
+  {
+   "mk": "побегна",
+   "en": "ran away, eloped"
+  },
+  {
+   "mk": "на гости",
+   "en": "visiting, as a guest"
+  },
+  {
+   "mk": "на чело",
+   "en": "at the head (of the table)"
+  },
+  {
+   "mk": "абер",
+   "en": "news"
+  },
+  {
+   "mk": "јавнал",
+   "en": "mounted (a horse)"
+  },
+  {
+   "mk": "дорија",
+   "en": "bay horse (dark brown)"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "brave one, hero (exclamation)"
+  },
+  {
+   "mk": "ѕверови",
+   "en": "wild beasts"
+  }
+ ],
+ "performers": [
+  "Бисер"
+ ],
+ "audio": [
+  {
+   "who": "Бисер",
+   "url": "https://pesna.org/audio-download/4013"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Свршена Спаса побегна леле,",
+       "lat": "Svršena Spasa pobegna lele,",
+       "en": "The betrothed Spasa ran away, oh,"
+      },
+      {
+       "cyr": "во тоа село Бабино.",
+       "lat": "vo toa selo Babino.",
+       "en": "to that village of Babino."
+      },
+      {
+       "cyr": "Во тоа село Бабино леле,",
+       "lat": "Vo toa selo Babino lele,",
+       "en": "To that village of Babino, oh,"
+      },
+      {
+       "cyr": "за тој ми Трајче Бабинче.",
+       "lat": "za toj mi Trajče Babinče.",
+       "en": "to that Trajche of Babino."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трајче се згодил на гости леле,",
+       "lat": "Trajče se zgodil na gosti lele,",
+       "en": "Trajche was at a feast, oh,"
+      },
+      {
+       "cyr": "на гости во Сапотница.",
+       "lat": "na gosti vo Sapotnica.",
+       "en": "as a guest in Sapotnica."
+      },
+      {
+       "cyr": "На чело тој си седеше леле,",
+       "lat": "Na čelo toj si sedeše lele,",
+       "en": "He sat at the head of the table, oh,"
+      },
+      {
+       "cyr": "лута ракија пиеше.",
+       "lat": "luta rakija pieše.",
+       "en": "he drank strong brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одеднаш абер му дојде леле,",
+       "lat": "Odednaš aber mu dojde lele,",
+       "en": "Suddenly news came to him, oh,"
+      },
+      {
+       "cyr": "Трајче да с'јоди до дома.",
+       "lat": "Trajče da s'jodi do doma.",
+       "en": "that Trajche should hurry home."
+      },
+      {
+       "cyr": "Јавнал си коња дорија леле,",
+       "lat": "Javnal si konja dorija lele,",
+       "en": "He mounted his bay horse, oh,"
+      },
+      {
+       "cyr": "право ми тргна Бабино.",
+       "lat": "pravo mi trgna Babino.",
+       "en": "and headed straight for Babino."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми дошол до дома леле,",
+       "lat": "Koga mi došol do doma lele,",
+       "en": "When he reached home, oh,"
+      },
+      {
+       "cyr": "чукнал и викнал на порта:",
+       "lat": "čuknal i viknal na porta:",
+       "en": "he knocked and called at the gate:"
+      },
+      {
+       "cyr": "- Каде си сама тргнала леле,",
+       "lat": "- Kade si sama trgnala lele,",
+       "en": "- Where have you set out alone, oh,"
+      },
+      {
+       "cyr": "ѕверови ќе те изедат?",
+       "lat": "dzverovi ḱe te izedat?",
+       "en": "the wild beasts will eat you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди Трајче Бабинче леле,",
+       "lat": "- Dejgidi Trajče Babinče lele,",
+       "en": "- Brave Trajche of Babino, oh,"
+      },
+      {
+       "cyr": "сношти ме мене свршија.",
+       "lat": "snošti me mene svršija.",
+       "en": "last night they betrothed me."
+      },
+      {
+       "cyr": "Сношти ме мене свршија леле,",
+       "lat": "Snošti me mene svršija lele,",
+       "en": "Last night they betrothed me, oh,"
+      },
+      {
+       "cyr": "зато сум сама тргнала.",
+       "lat": "zato sum sama trgnala.",
+       "en": "that is why I set out alone."
+      },
+      {
+       "cyr": "Зато сум сама тргнала леле,",
+       "lat": "Zato sum sama trgnala lele,",
+       "en": "That is why I set out alone, oh,"
+      },
+      {
+       "cyr": "јас сум ти Трајче за тебе.",
+       "lat": "jas sum ti Trajče za tebe.",
+       "en": "I am yours, Trajche, I am for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

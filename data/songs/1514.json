@@ -1,0 +1,127 @@
+{
+ "id": 1514,
+ "slug": "a-bre-momche-makedonche",
+ "title_cyr": "А бре момче Македонче",
+ "title_latin": "A bre momče Makedonče",
+ "title_en": "Hey, Macedonian lad",
+ "pesna_url": "https://pesna.org/song/1514",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Refers to Jane Sandanski (revolutionary leader in Pirin); the song itself is traditional with no author named, so translated.",
+ "words_to_learn": [
+  {
+   "mk": "момче",
+   "en": "lad, boy"
+  },
+  {
+   "mk": "Македонче",
+   "en": "little Macedonian"
+  },
+  {
+   "mk": "друм",
+   "en": "road"
+  },
+  {
+   "mk": "коњ",
+   "en": "horse"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "малка моме",
+   "en": "young girl"
+  },
+  {
+   "mk": "вчера",
+   "en": "yesterday"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3960"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- А бре момче Македонче,",
+       "lat": "- A bre momče Makedonče,",
+       "en": "- Hey, Macedonian lad,"
+      },
+      {
+       "cyr": "како седиш на два друма,",
+       "lat": "kako sediš na dva druma,",
+       "en": "how come you sit at the crossing of two roads,"
+      },
+      {
+       "cyr": "не виде ли коњ да мине?",
+       "lat": "ne vide li konj da mine?",
+       "en": "did you not see a horse pass?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не виде ли коњ да мине",
+       "lat": "Ne vide li konj da mine",
+       "en": "Did you not see a horse pass"
+      },
+      {
+       "cyr": "и на коња мојто либе",
+       "lat": "i na konja mojto libe",
+       "en": "and on the horse my love"
+      },
+      {
+       "cyr": "и на коња мојто либе?",
+       "lat": "i na konja mojto libe?",
+       "en": "and on the horse my love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Видев, видев малка моме,",
+       "lat": "- Videv, videv malka mome,",
+       "en": "- I saw, I saw, little girl,"
+      },
+      {
+       "cyr": "вчера мина за Пирина",
+       "lat": "včera mina za Pirina",
+       "en": "yesterday she passed toward Pirin"
+      },
+      {
+       "cyr": "да си види дружината,",
+       "lat": "da si vidi družinata,",
+       "en": "to see her company,"
+      },
+      {
+       "cyr": "дружината на Сандански.",
+       "lat": "družinata na Sandanski.",
+       "en": "the company of Sandanski."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

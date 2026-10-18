@@ -1,0 +1,143 @@
+{
+ "id": 1095,
+ "slug": "ne-odi-mome-kraj-bregot",
+ "title_cyr": "Не оди моме крај брегот",
+ "title_latin": "Ne odi mome kraj bregot",
+ "title_en": "Don't walk along the bank, girl",
+ "pesna_url": "https://pesna.org/song/1095",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Камо тој Господ да паднам' is my reading: 'would God that I fall'.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, young woman (address form)"
+  },
+  {
+   "mk": "брег",
+   "en": "bank, shore"
+  },
+  {
+   "mk": "се рони",
+   "en": "is crumbling"
+  },
+  {
+   "mk": "се удавиш",
+   "en": "you drown"
+  },
+  {
+   "mk": "комита",
+   "en": "komita, rebel fighter (Ottoman-era guerrilla)"
+  },
+  {
+   "mk": "сабја",
+   "en": "saber"
+  },
+  {
+   "mk": "потспремам",
+   "en": "to get ready, saddle up"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски",
+  "Зоран Џорлев",
+  "Николина Кузмановска"
+ ],
+ "audio": [
+  {
+   "who": "Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/2612"
+  },
+  {
+   "who": "Зоран Џорлев, Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/2613"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/2614"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не оди моме крај брегот,",
+       "lat": "- Ne odi mome kraj bregot,",
+       "en": "- Don't walk, girl, along the bank,"
+      },
+      {
+       "cyr": "брегот се рони, ќе паднеш.",
+       "lat": "bregot se roni, ḱe padneš.",
+       "en": "the bank is crumbling, you will fall."
+      },
+      {
+       "cyr": "Брегот се рони, ќе паднеш,",
+       "lat": "Bregot se roni, ḱe padneš,",
+       "en": "The bank is crumbling, you will fall,"
+      },
+      {
+       "cyr": "ќе паднеш, ќе се удавиш.",
+       "lat": "ḱe padneš, ḱe se udaviš.",
+       "en": "you will fall, you will drown."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Камо тој Господ да паднам,",
+       "lat": "- Kamo toj Gospod da padnam,",
+       "en": "- Would God that I fall,"
+      },
+      {
+       "cyr": "да паднам, да се удавам.",
+       "lat": "da padnam, da se udavam.",
+       "en": "fall and drown."
+      },
+      {
+       "cyr": "Да паднам, да се удавам,",
+       "lat": "Da padnam, da se udavam,",
+       "en": "Fall and drown,"
+      },
+      {
+       "cyr": "комита маж да не земам.",
+       "lat": "komita maž da ne zemam.",
+       "en": "so that I take no komita as a husband."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Комита рано станува",
+       "lat": "Komita rano stanuva",
+       "en": "A komita gets up early"
+      },
+      {
+       "cyr": "и мене млада разбудува,",
+       "lat": "i mene mlada razbuduva,",
+       "en": "and wakes me, the young one,"
+      },
+      {
+       "cyr": "коњата да му потспремам,",
+       "lat": "konjata da mu potspremam,",
+       "en": "to get his horses ready,"
+      },
+      {
+       "cyr": "сабјата да му подадам",
+       "lat": "sabjata da mu podadam",
+       "en": "to hand him his saber"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

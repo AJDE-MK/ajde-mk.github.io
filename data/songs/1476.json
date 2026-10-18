@@ -1,0 +1,189 @@
+{
+ "id": 1476,
+ "slug": "more-dosta-odi-gjorgji",
+ "title_cyr": "Море доста оди Ѓорѓи",
+ "title_latin": "More dosta odi Ǵorǵi",
+ "title_en": "Hey, Gjorgji Has Wandered Enough",
+ "pesna_url": "https://pesna.org/song/1476",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Malesh-region song. 'Нека земат да се плашам' is my reading ('let them take it, for me to be afraid' is unclear).",
+ "words_to_learn": [
+  {
+   "mk": "доста",
+   "en": "enough"
+  },
+  {
+   "mk": "шета",
+   "en": "strolls, wanders"
+  },
+  {
+   "mk": "каза",
+   "en": "district (Ottoman-era)"
+  },
+  {
+   "mk": "Малешевска",
+   "en": "of Malesh (region)"
+  },
+  {
+   "mk": "фанат",
+   "en": "(they) catch"
+  },
+  {
+   "mk": "врзат",
+   "en": "(they) tie up"
+  },
+  {
+   "mk": "букагии",
+   "en": "leg shackles (Turkish loan)"
+  },
+  {
+   "mk": "белегзии",
+   "en": "handcuffs, bracelets (Turkish loan)"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Славка Чрчева",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Славка Чрчева, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/3817"
+  },
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3818"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Море доста оди Ѓорѓи, ле доста шета",
+       "lat": "- More dosta odi Ǵorǵi, le dosta šeta",
+       "en": "- Hey, Gjorgji has wandered enough, oh, has walked enough,"
+      },
+      {
+       "cyr": "по казата сину ле Малешевска,",
+       "lat": "po kazata sinu le Maleševska,",
+       "en": "through the district, son, oh, of Malesh,"
+      },
+      {
+       "cyr": "по казата сину ле Малешевска.",
+       "lat": "po kazata sinu le Maleševska.",
+       "en": "through the district, son, oh, of Malesh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море доста љуби Ѓорѓи ле млади моми,",
+       "lat": "More dosta ljubi Ǵorǵi le mladi momi,",
+       "en": "Hey, Gjorgji has loved enough, oh, young girls,"
+      },
+      {
+       "cyr": "млади моми сину ле Малешевки,",
+       "lat": "mladi momi sinu le Maleševki,",
+       "en": "young girls, son, oh, of Malesh,"
+      },
+      {
+       "cyr": "млади моми сину ле Малешевки.",
+       "lat": "mladi momi sinu le Maleševki.",
+       "en": "young girls, son, oh, of Malesh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ќе фанат Ѓорѓи ле комшиите,",
+       "lat": "More ḱe fanat Ǵorǵi le komšiite,",
+       "en": "Hey, Gjorgji, the neighbors will catch you, oh,"
+      },
+      {
+       "cyr": "ќе те фанат сину ле ќе те врзат,",
+       "lat": "ḱe te fanat sinu le ḱe te vrzat,",
+       "en": "they will catch you, son, oh, they will tie you up,"
+      },
+      {
+       "cyr": "ќе те фанат сину ле ќе те врзат.",
+       "lat": "ḱe te fanat sinu le ḱe te vrzat.",
+       "en": "they will catch you, son, oh, they will tie you up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ќе ти стават Ѓорѓи ле букагии,",
+       "lat": "More ḱe ti stavat Ǵorǵi le bukagii,",
+       "en": "Hey, Gjorgji, they will put on you, oh, shackles,"
+      },
+      {
+       "cyr": "букагии сину ле на нозете,",
+       "lat": "bukagii sinu le na nozete,",
+       "en": "shackles, son, oh, on your legs,"
+      },
+      {
+       "cyr": "белегзии сину ле на рацете.",
+       "lat": "belegzii sinu le na racete.",
+       "en": "handcuffs, son, oh, on your hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море ако фанат мајко ле, нека фанат,",
+       "lat": "- More ako fanat majko le, neka fanat,",
+       "en": "- Hey, if they catch me, mother, oh, let them catch me,"
+      },
+      {
+       "cyr": "нека фанат мајко ле, нека врзат,",
+       "lat": "neka fanat majko le, neka vrzat,",
+       "en": "let them catch me, mother, oh, let them tie me,"
+      },
+      {
+       "cyr": "нека фанат мајко ле, нека врзат.",
+       "lat": "neka fanat majko le, neka vrzat.",
+       "en": "let them catch me, mother, oh, let them tie me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море нека земат мајко ле да се плашам,",
+       "lat": "More neka zemat majko le da se plašam,",
+       "en": "Hey, let them take it, mother, oh, to make me afraid,"
+      },
+      {
+       "cyr": "ни сам дете мајко ле да заплачам,",
+       "lat": "ni sam dete majko le da zaplačam,",
+       "en": "I am no child, mother, oh, to start crying,"
+      },
+      {
+       "cyr": "ја сам мајко Ѓорѓи ле силен јунак.",
+       "lat": "ja sam majko Ǵorǵi le silen junak.",
+       "en": "I, mother, am Gjorgji, oh, a strong hero."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

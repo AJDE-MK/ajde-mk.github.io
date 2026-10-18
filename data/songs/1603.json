@@ -1,0 +1,309 @@
+{
+ "id": 1603,
+ "slug": "pesna-za-selo-armensko",
+ "title_cyr": "Песна за село Арменско",
+ "title_latin": "Pesna za selo Armensko",
+ "title_en": "Song for the village of Armensko",
+ "pesna_url": "https://pesna.org/song/1603",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: modern patriotic song, no author named. 'Леринско' means the Lerin (Florina) region.",
+ "words_to_learn": [
+  {
+   "mk": "ми лежи на срце",
+   "en": "it weighs on my heart, I long to"
+  },
+  {
+   "mk": "рашетам",
+   "en": "I comb through, search"
+  },
+  {
+   "mk": "Ѓурѓовден",
+   "en": "St George's Day (6 May)"
+  },
+  {
+   "mk": "комитски",
+   "en": "of the komitas (Macedonian insurgents)"
+  },
+  {
+   "mk": "оро",
+   "en": "round folk dance"
+  },
+  {
+   "mk": "меракот",
+   "en": "heart's delight, pleasure"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag"
+  },
+  {
+   "mk": "слободно",
+   "en": "free"
+  }
+ ],
+ "performers": [
+  "Малена Бекиарис"
+ ],
+ "audio": [
+  {
+   "who": "Малена Бекиарис",
+   "url": "https://pesna.org/audio-download/4208"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мене ми лежи на срце",
+       "lat": "Mene mi leži na srce",
+       "en": "It weighs on my heart"
+      },
+      {
+       "cyr": "јас да си појдам Леринско,",
+       "lat": "jas da si pojdam Lerinsko,",
+       "en": "to go to the Lerin region,"
+      },
+      {
+       "cyr": "селата да ги рашетам,",
+       "lat": "selata da gi rašetam,",
+       "en": "to comb through the villages,"
+      },
+      {
+       "cyr": "да дојдам в' село Арменско.",
+       "lat": "da dojdam v' selo Armensko.",
+       "en": "to come to the village of Armensko."
+      },
+      {
+       "cyr": "Таму на сред ден Ѓурѓовден",
+       "lat": "Tamu na sred den Ǵurǵovden",
+       "en": "There, in the middle of the day, on St George's Day,"
+      },
+      {
+       "cyr": "да пеам песни комитски,",
+       "lat": "da peam pesni komitski,",
+       "en": "to sing komita songs,"
+      },
+      {
+       "cyr": "да пеам песни комитски",
+       "lat": "da peam pesni komitski",
+       "en": "to sing komita songs"
+      },
+      {
+       "cyr": "за браќа, сестри македонски.",
+       "lat": "za braḱa, sestri makedonski.",
+       "en": "for Macedonian brothers and sisters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Арменско оро да заиграм,",
+       "lat": "Armensko oro da zaigram,",
+       "en": "To dance the Armensko oro,"
+      },
+      {
+       "cyr": "на оро срце да разиграм,",
+       "lat": "na oro srce da razigram,",
+       "en": "to set my heart dancing at the oro,"
+      },
+      {
+       "cyr": "да си ја викнам до небо",
+       "lat": "da si ja viknam do nebo",
+       "en": "to shout it up to the sky,"
+      },
+      {
+       "cyr": "„Песна за Арменско“.",
+       "lat": "„Pesna za Armensko“.",
+       "en": "'Song for Armensko'."
+      },
+      {
+       "cyr": "Арменско оро да заиграм,",
+       "lat": "Armensko oro da zaigram,",
+       "en": "To dance the Armensko oro,"
+      },
+      {
+       "cyr": "на оро срце да разиграм,",
+       "lat": "na oro srce da razigram,",
+       "en": "to set my heart dancing at the oro,"
+      },
+      {
+       "cyr": "да си го сторам меракот,",
+       "lat": "da si go storam merakot,",
+       "en": "to fulfil my heart's desire,"
+      },
+      {
+       "cyr": "да се израдувам.",
+       "lat": "da se izraduvam.",
+       "en": "to rejoice."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Песната да се дочуе",
+       "lat": "Pesnata da se dočue",
+       "en": "May the song be heard"
+      },
+      {
+       "cyr": "околу Вардар секаде,",
+       "lat": "okolu Vardar sekade,",
+       "en": "all around the Vardar,"
+      },
+      {
+       "cyr": "до Преспа и до Пиринско,",
+       "lat": "do Prespa i do Pirinsko,",
+       "en": "to Prespa and to Pirin,"
+      },
+      {
+       "cyr": "до Бело Море, Егејско.",
+       "lat": "do Belo More, Egejsko.",
+       "en": "to the White Sea, the Aegean."
+      },
+      {
+       "cyr": "Да пеат сите на оро,",
+       "lat": "Da peat site na oro,",
+       "en": "Let everyone sing at the oro,"
+      },
+      {
+       "cyr": "да спомнат село Арменско,",
+       "lat": "da spomnat selo Armensko,",
+       "en": "let them mention the village of Armensko,"
+      },
+      {
+       "cyr": "да спомнат село Арменско",
+       "lat": "da spomnat selo Armensko",
+       "en": "let them mention the village of Armensko"
+      },
+      {
+       "cyr": "што вечно било македонско.",
+       "lat": "što večno bilo makedonsko.",
+       "en": "that was forever Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Арменско оро да заиграм,",
+       "lat": "Armensko oro da zaigram,",
+       "en": "To dance the Armensko oro,"
+      },
+      {
+       "cyr": "на оро срце да разиграм,",
+       "lat": "na oro srce da razigram,",
+       "en": "to set my heart dancing at the oro,"
+      },
+      {
+       "cyr": "да си ја викнам до небо",
+       "lat": "da si ja viknam do nebo",
+       "en": "to shout it up to the sky,"
+      },
+      {
+       "cyr": "„Песна за Арменско“.",
+       "lat": "„Pesna za Armensko“.",
+       "en": "'Song for Armensko'."
+      },
+      {
+       "cyr": "Арменско оро да заиграм,",
+       "lat": "Armensko oro da zaigram,",
+       "en": "To dance the Armensko oro,"
+      },
+      {
+       "cyr": "на оро срце да разиграм,",
+       "lat": "na oro srce da razigram,",
+       "en": "to set my heart dancing at the oro,"
+      },
+      {
+       "cyr": "да си го сторам меракот,",
+       "lat": "da si go storam merakot,",
+       "en": "to fulfil my heart's desire,"
+      },
+      {
+       "cyr": "да се израдувам.",
+       "lat": "da se izraduvam.",
+       "en": "to rejoice."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да пеат сите на оро,",
+       "lat": "Da peat site na oro,",
+       "en": "Let everyone sing at the oro,"
+      },
+      {
+       "cyr": "да веат знаме слободно,",
+       "lat": "da veat zname slobodno,",
+       "en": "let them wave a free flag,"
+      },
+      {
+       "cyr": "да пеат сите за неа,",
+       "lat": "da peat site za nea,",
+       "en": "let everyone sing for her,"
+      },
+      {
+       "cyr": "за цела Македонија.",
+       "lat": "za cela Makedonija.",
+       "en": "for all of Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Арменско оро да заиграм,",
+       "lat": "Armensko oro da zaigram,",
+       "en": "To dance the Armensko oro,"
+      },
+      {
+       "cyr": "на оро срце да разиграм,",
+       "lat": "na oro srce da razigram,",
+       "en": "to set my heart dancing at the oro,"
+      },
+      {
+       "cyr": "да си ја викнам до небо",
+       "lat": "da si ja viknam do nebo",
+       "en": "to shout it up to the sky,"
+      },
+      {
+       "cyr": "„Песна за Арменско“.",
+       "lat": "„Pesna za Armensko“.",
+       "en": "'Song for Armensko'."
+      },
+      {
+       "cyr": "Арменско оро да заиграм,",
+       "lat": "Armensko oro da zaigram,",
+       "en": "To dance the Armensko oro,"
+      },
+      {
+       "cyr": "на оро срце да разиграм,",
+       "lat": "na oro srce da razigram,",
+       "en": "to set my heart dancing at the oro,"
+      },
+      {
+       "cyr": "да си го сторам меракот,",
+       "lat": "da si go storam merakot,",
+       "en": "to fulfil my heart's desire,"
+      },
+      {
+       "cyr": "да се израдувам.",
+       "lat": "da se izraduvam.",
+       "en": "to rejoice."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

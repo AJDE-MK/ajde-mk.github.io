@@ -1,0 +1,162 @@
+{
+ "id": 1344,
+ "slug": "bolka-za-neret",
+ "title_cyr": "Болка за Нерет",
+ "title_latin": "Bolka za Neret",
+ "title_en": "Pain for Neret",
+ "pesna_url": "https://pesna.org/song/1344",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, it reads like a modern song about Aegean Macedonian exile; no author known to me. 'Пеесет' I read as 'петесет' (fifty), and 'Уште ни зборот не докажа' as 'had not yet finished the word' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "печалбар",
+   "en": "migrant worker (working abroad)"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "пуст",
+   "en": "cursed, wretched (expletive)"
+  },
+  {
+   "mk": "блиски",
+   "en": "loved ones, relatives"
+  },
+  {
+   "mk": "свеќи",
+   "en": "candles"
+  },
+  {
+   "mk": "внуци",
+   "en": "grandchildren"
+  },
+  {
+   "mk": "Нерет",
+   "en": "village in the Lerin (Florina) area"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Aidonia tis Florinas"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3477"
+  },
+  {
+   "who": "Aidonia tis Florinas",
+   "url": "https://pesna.org/audio-download/3478"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стари сме ќерко печалбари,",
+       "lat": "Stari sme ḱerko pečalbari,",
+       "en": "We are old, daughter, migrant workers,"
+      },
+      {
+       "cyr": "пеесет долги, тешки години,",
+       "lat": "peeset dolgi, teški godini,",
+       "en": "fifty long, hard years,"
+      },
+      {
+       "cyr": "имаме пари ќерко, куќи и коли,",
+       "lat": "imame pari ḱerko, kuḱi i koli,",
+       "en": "we have money, daughter, houses and cars,"
+      },
+      {
+       "cyr": "гледаме внуци, ама друго нè боли.",
+       "lat": "gledame vnuci, ama drugo nè boli.",
+       "en": "we watch our grandchildren, but something else hurts us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Болка за Нерет ќерко носам на душа,",
+       "lat": "Bolka za Neret ḱerko nosam na duša,",
+       "en": "I carry the pain for Neret in my soul, daughter,"
+      },
+      {
+       "cyr": "цел век ја носам ќерко, в туѓа туѓина",
+       "lat": "cel vek ja nosam ḱerko, v tuǵa tuǵina",
+       "en": "I have carried it a whole century, daughter, in a foreign land,"
+      },
+      {
+       "cyr": "цел живот пусти Грци не ми дадоа,",
+       "lat": "cel život pusti Grci ne mi dadoa,",
+       "en": "all my life the cursed Greeks did not give me"
+      },
+      {
+       "cyr": "да си го видам Нерет, не ме пуштија.",
+       "lat": "da si go vidam Neret, ne me puštija.",
+       "en": "to see my Neret, they did not let me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште ни зборот не докажа,",
+       "lat": "Ušte ni zborot ne dokaža,",
+       "en": "She had not even finished speaking,"
+      },
+      {
+       "cyr": "заплака тивко тетка Фанија:",
+       "lat": "zaplaka tivko tetka Fanija:",
+       "en": "Aunt Fania wept quietly:"
+      },
+      {
+       "cyr": "- Еднаш да појдев ќерко, село да видев",
+       "lat": "- Ednaš da pojdev ḱerko, selo da videv",
+       "en": "- If only I could go once, daughter, to see the village,"
+      },
+      {
+       "cyr": "на свои блиски мртви, свеќи да палев.",
+       "lat": "na svoi bliski mrtvi, sveḱi da palev.",
+       "en": "to light candles for my dead loved ones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Болка за Нерет ќерко носам на душа,",
+       "lat": "Bolka za Neret ḱerko nosam na duša,",
+       "en": "I carry the pain for Neret in my soul, daughter,"
+      },
+      {
+       "cyr": "цел век ја носам ќерко, в туѓа туѓина",
+       "lat": "cel vek ja nosam ḱerko, v tuǵa tuǵina",
+       "en": "I have carried it a whole century, daughter, in a foreign land,"
+      },
+      {
+       "cyr": "цел живот пусти Грци не ми дадоа,",
+       "lat": "cel život pusti Grci ne mi dadoa,",
+       "en": "all my life the cursed Greeks did not give me"
+      },
+      {
+       "cyr": "да си го видам Нерет, не ме пуштија.",
+       "lat": "da si go vidam Neret, ne me puštija.",
+       "en": "to see my Neret, they did not let me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

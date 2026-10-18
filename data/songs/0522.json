@@ -1,0 +1,161 @@
+{
+ "id": 522,
+ "slug": "stani-mi-gele-angele",
+ "title_cyr": "Стани ми Геле, Ангеле",
+ "title_latin": "Stani mi Gele, Angele",
+ "title_en": "Get up, my Gele, my Angel",
+ "pesna_url": "https://pesna.org/song/522",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Нakачи горе' (hang it up there) is my reading of 'take up/carry it to'; 'во гора сонце огреа' is literally 'the sun shone in the forest'. 'влегоја' is a dialect past plural ('they entered').",
+ "words_to_learn": [
+  {
+   "mk": "стани",
+   "en": "get up"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "зазори",
+   "en": "(it) dawned"
+  },
+  {
+   "mk": "берданка",
+   "en": "berdan rifle (old single-shot rifle)"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of comrades"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "нерамна",
+   "en": "uneven, unequal"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  }
+ ],
+ "performers": [
+  "Миле Тодоровски"
+ ],
+ "audio": [
+  {
+   "who": "Миле Тодоровски",
+   "url": "https://pesna.org/audio-download/1731"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стани ми Геле, Ангеле",
+       "lat": "Stani mi Gele, Angele",
+       "en": "Get up, my Gele, Angel,"
+      },
+      {
+       "cyr": "стани ми сине на мајка,",
+       "lat": "stani mi sine na majka,",
+       "en": "get up, my son, from your mother,"
+      },
+      {
+       "cyr": "мрачна се зора зазори",
+       "lat": "mračna se zora zazori",
+       "en": "the dark dawn has broken,"
+      },
+      {
+       "cyr": "во гора сонце огреа.",
+       "lat": "vo gora sonce ogrea.",
+       "en": "the sun has lit up the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани ми сине, Ангеле",
+       "lat": "Stani mi sine, Angele",
+       "en": "Get up, my son, Angel,"
+      },
+      {
+       "cyr": "земи си пушка берданка",
+       "lat": "zemi si puška berdanka",
+       "en": "take your berdan rifle,"
+      },
+      {
+       "cyr": "накачи горе в' планина,",
+       "lat": "nakači gore v' planina,",
+       "en": "hang it up there in the mountain,"
+      },
+      {
+       "cyr": "планина Пирин, убава.",
+       "lat": "planina Pirin, ubava.",
+       "en": "the mountain Pirin, beautiful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Накачи горе в' Пирина,",
+       "lat": "Nakači gore v' Pirina,",
+       "en": "Hang it up there in Pirin,"
+      },
+      {
+       "cyr": "таму ќе најдеш дружина,",
+       "lat": "tamu ḱe najdeš družina,",
+       "en": "there you will find your company,"
+      },
+      {
+       "cyr": "твоите верни другари",
+       "lat": "tvoite verni drugari",
+       "en": "your faithful comrades"
+      },
+      {
+       "cyr": "крвава борба ти водат.",
+       "lat": "krvava borba ti vodat.",
+       "en": "are fighting a bloody battle for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' крвава борба, нерамна,",
+       "lat": "V' krvava borba, neramna,",
+       "en": "Into the bloody, uneven battle"
+      },
+      {
+       "cyr": "твоја дружина влегоја,",
+       "lat": "tvoja družina vlegoja,",
+       "en": "your company has gone in,"
+      },
+      {
+       "cyr": "стани ми сине, стани ми,",
+       "lat": "stani mi sine, stani mi,",
+       "en": "get up, my son, get up,"
+      },
+      {
+       "cyr": "оди во гора зелена.",
+       "lat": "odi vo gora zelena.",
+       "en": "go to the green forest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,192 @@
+{
+ "id": 667,
+ "slug": "dali-dumash-libe",
+ "title_cyr": "Дали думаш либе",
+ "title_latin": "Dali dumaš libe",
+ "title_en": "Do you remember, love",
+ "pesna_url": "https://pesna.org/song/667",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дали думаш' is my reading as 'do you recall' (the alternate title says 'знаеш', do you know). 'Два' in 'двата' is dialectal for 'the two of us'.",
+ "words_to_learn": [
+  {
+   "mk": "думаш",
+   "en": "you say/mention (dialect; here 'do you recall')"
+  },
+  {
+   "mk": "паметуваш",
+   "en": "you remember"
+  },
+  {
+   "mk": "прошетка",
+   "en": "a stroll"
+  },
+  {
+   "mk": "се колнеше",
+   "en": "you swore"
+  },
+  {
+   "mk": "распарај",
+   "en": "rip open"
+  },
+  {
+   "mk": "мачно",
+   "en": "hard, painful"
+  },
+  {
+   "mk": "жално",
+   "en": "sad, sorrowful"
+  }
+ ],
+ "performers": [
+  "Анета Ефтимова",
+  "Атина Апостолова",
+  "Деспина",
+  "Јорданка Димова",
+  "Митко Тренчовски",
+  "Прилепски мерак",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Анета Ефтимова",
+   "url": "https://pesna.org/audio-download/114"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/115"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/1454"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/1940"
+  },
+  {
+   "who": "Прилепски мерак",
+   "url": "https://pesna.org/audio-download/1941"
+  },
+  {
+   "who": "Јорданка Димова, Митко Тренчовски",
+   "url": "https://pesna.org/audio-download/1942"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Дали знаеш либе)",
+       "lat": "(Dali znaeš libe)",
+       "en": "(Do you know, love)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали думаш либе,",
+       "lat": "Dali dumaš libe,",
+       "en": "Do you remember, love,"
+      },
+      {
+       "cyr": "дали паметуваш,",
+       "lat": "dali pametuvaš,",
+       "en": "do you recall,"
+      },
+      {
+       "cyr": "кога бевме, мило либе,",
+       "lat": "koga bevme, milo libe,",
+       "en": "when we were, dear love,"
+      },
+      {
+       "cyr": "двата на прошетка?",
+       "lat": "dvata na prošetka?",
+       "en": "the two of us on a stroll?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ми велеше,",
+       "lat": "Neli mi veleše,",
+       "en": "Didn't you tell me,"
+      },
+      {
+       "cyr": "нели се колнеше:",
+       "lat": "neli se kolneše:",
+       "en": "didn't you swear:"
+      },
+      {
+       "cyr": "- Јас не љубам друго либе",
+       "lat": "- Jas ne ljubam drugo libe",
+       "en": "- I love no other love"
+      },
+      {
+       "cyr": "освен тебе душо?",
+       "lat": "osven tebe dušo?",
+       "en": "but you, my soul?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја земи ножето,",
+       "lat": "Ja zemi nožeto,",
+       "en": "Take the knife,"
+      },
+      {
+       "cyr": "распарај срцето,",
+       "lat": "rasparaj srceto,",
+       "en": "tear open my heart,"
+      },
+      {
+       "cyr": "тамо ќе си најдеш либе",
+       "lat": "tamo ḱe si najdeš libe",
+       "en": "there you will find, love,"
+      },
+      {
+       "cyr": "две срца вљубени.",
+       "lat": "dve srca vljubeni.",
+       "en": "two hearts in love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, колку е мачно,",
+       "lat": "Ah, kolku e mačno,",
+       "en": "Ah, how hard it is,"
+      },
+      {
+       "cyr": "ах, колку е жално,",
+       "lat": "ah, kolku e žalno,",
+       "en": "ah, how sad it is,"
+      },
+      {
+       "cyr": "тебе да те љубам либе,",
+       "lat": "tebe da te ljubam libe,",
+       "en": "for me to love you, love,"
+      },
+      {
+       "cyr": "друга да те земе.",
+       "lat": "druga da te zeme.",
+       "en": "and another to take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

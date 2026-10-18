@@ -1,0 +1,121 @@
+{
+ "id": 1543,
+ "slug": "sonce-mi-e-zastanalo",
+ "title_cyr": "Сонце ми е застанало",
+ "title_latin": "Sonce mi e zastanalo",
+ "title_en": "The Sun Has Stood Still",
+ "pesna_url": "https://pesna.org/song/1543",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Чудно чудо' is an emphatic 'strange wonder'. Meaning of the sister selling her brother for cosmetics is as written; no further interpretation added.",
+ "words_to_learn": [
+  {
+   "mk": "сонце",
+   "en": "sun"
+  },
+  {
+   "mk": "застанало",
+   "en": "has stopped"
+  },
+  {
+   "mk": "пладнина",
+   "en": "noon"
+  },
+  {
+   "mk": "чудо",
+   "en": "wonder, marvel"
+  },
+  {
+   "mk": "препродава",
+   "en": "resells, sells off"
+  },
+  {
+   "mk": "белило",
+   "en": "whitening face powder"
+  },
+  {
+   "mk": "црвило",
+   "en": "rouge, red cosmetic"
+  },
+  {
+   "mk": "огледало",
+   "en": "mirror"
+  }
+ ],
+ "performers": [
+  "Блага Видец"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/4028"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сонце ми е застанало",
+       "lat": "Sonce mi e zastanalo",
+       "en": "The sun has stood still"
+      },
+      {
+       "cyr": "на сред небо, на пладнина.",
+       "lat": "na sred nebo, na pladnina.",
+       "en": "in the middle of the sky, at noon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И си гледа чудно чудо:",
+       "lat": "I si gleda čudno čudo:",
+       "en": "And it looks upon a strange wonder:"
+      },
+      {
+       "cyr": "сестра брата препродава.",
+       "lat": "sestra brata preprodava.",
+       "en": "a sister reselling her brother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сестра брата препродава",
+       "lat": "Sestra brata preprodava",
+       "en": "A sister reselling her brother"
+      },
+      {
+       "cyr": "за белило, ем црвило.",
+       "lat": "za belilo, em crvilo.",
+       "en": "for whitening and rouge."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За белило, ем црвило",
+       "lat": "Za belilo, em crvilo",
+       "en": "For whitening and rouge"
+      },
+      {
+       "cyr": "и шарено огледало.",
+       "lat": "i šareno ogledalo.",
+       "en": "and a colorful mirror."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

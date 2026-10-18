@@ -1,0 +1,165 @@
+{
+ "id": 879,
+ "slug": "chukav-chukav-male",
+ "title_cyr": "Чукав, чукав мале",
+ "title_latin": "Čukav, čukav male",
+ "title_en": "I Knocked and Knocked, Mother",
+ "pesna_url": "https://pesna.org/song/879",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional comic song. 'Синојка им' (my reading: last night, at their house) and 'оќит падна' (my reading: an urge/passion landed on my moustache) are guesses.",
+ "words_to_learn": [
+  {
+   "mk": "синојка / сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "мале",
+   "en": "mother, mum (address, also filler)"
+  },
+  {
+   "mk": "омалев",
+   "en": "I grew weary, exhausted"
+  },
+  {
+   "mk": "оќит",
+   "en": "a fit of longing, ardour (my reading)"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "ждринг",
+   "en": "clink (sound of a necklace)"
+  },
+  {
+   "mk": "ашик",
+   "en": "lover, suitor"
+  },
+  {
+   "mk": "пикнав се",
+   "en": "I squeezed in"
+  }
+ ],
+ "performers": [
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1916"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Синојка им, мале, дома дојдов, оф, оф,",
+       "lat": "Sinojka im, male, doma dojdov, of, of,",
+       "en": "Last night, mother, I came to her house, oh, oh,"
+      },
+      {
+       "cyr": "дома дојдов, мале, пред вратата.",
+       "lat": "doma dojdov, male, pred vratata.",
+       "en": "I came to the house, mother, to the front door."
+      },
+      {
+       "cyr": "Чукав, чукав мале, дури омалев, оф, оф,",
+       "lat": "Čukav, čukav male, duri omalev, of, of,",
+       "en": "I knocked and knocked, mother, until I wore myself out, oh, oh,"
+      },
+      {
+       "cyr": "чукав, чукав, мале, дури омалев.",
+       "lat": "čukav, čukav, male, duri omalev.",
+       "en": "I knocked and knocked, mother, until I wore myself out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На мустак ми, мале, оќит падна, оф, оф,",
+       "lat": "Na mustak mi, male, oḱit padna, of, of,",
+       "en": "A longing fell on my moustache, mother, oh, oh,"
+      },
+      {
+       "cyr": "на мустак ми, мале, оќит падна,",
+       "lat": "na mustak mi, male, oḱit padna,",
+       "en": "a longing fell on my moustache, mother,"
+      },
+      {
+       "cyr": "па се качив, мале, на ѕидчето, оф, оф,",
+       "lat": "pa se kačiv, male, na dzidčeto, of, of,",
+       "en": "so I climbed, mother, onto the little wall, oh, oh,"
+      },
+      {
+       "cyr": "им се пикнав, мале, низ пенџерчето.",
+       "lat": "im se piknav, male, niz pendžerčeto.",
+       "en": "I squeezed in, mother, through the little window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ѝ ступнав, мале, на грлцето, оф, оф,",
+       "lat": "Pa ì stupnav, male, na grlceto, of, of,",
+       "en": "Then I stepped, mother, on her little throat, oh, oh,"
+      },
+      {
+       "cyr": "па ѓерданот, мале, ждринг ждринготна.",
+       "lat": "pa ǵerdanot, male, ždring ždringotna.",
+       "en": "and the necklace, mother, went clink clink."
+      },
+      {
+       "cyr": "Се разбуди, мале, стара ѝ мајка, оф, оф,",
+       "lat": "Se razbudi, male, stara ì majka, of, of,",
+       "en": "Her old mother woke up, mother, oh, oh,"
+      },
+      {
+       "cyr": "- Што ти ѓердан, ќерко, ждринг ждринготна?",
+       "lat": "- Što ti ǵerdan, ḱerko, ždring ždringotna?",
+       "en": "- Why did your necklace go clink, daughter?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ме прескочи, мале, црната мачка, оф, оф,",
+       "lat": "- Me preskoči, male, crnata mačka, of, of,",
+       "en": "- The black cat, mother, jumped over me, oh, oh,"
+      },
+      {
+       "cyr": "ме прескочи, мале, црната мачка.",
+       "lat": "me preskoči, male, crnata mačka.",
+       "en": "the black cat, mother, jumped over me."
+      },
+      {
+       "cyr": "- Не ми беше, ќерко, црната мачка, оф, оф,",
+       "lat": "- Ne mi beše, ḱerko, crnata mačka, of, of,",
+       "en": "- It wasn't the black cat, daughter, oh, oh,"
+      },
+      {
+       "cyr": "туку беше, ќерко, Славе ашикот.",
+       "lat": "tuku beše, ḱerko, Slave ašikot.",
+       "en": "it was, daughter, Slave the lover."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

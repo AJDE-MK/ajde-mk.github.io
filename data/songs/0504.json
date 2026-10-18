@@ -1,0 +1,215 @@
+{
+ "id": 504,
+ "slug": "za-zarina",
+ "title_cyr": "За Зарина",
+ "title_latin": "Za Zarina",
+ "title_en": "About Zarina",
+ "pesna_url": "https://pesna.org/song/504",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'азбашти' (rendered 'friends') is a dialect word I am unsure about; my reading is companions or friends. 'тук'' is dialect for 'but/here'.",
+ "words_to_learn": [
+  {
+   "mk": "севда",
+   "en": "love, passion, longing"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "нишалка",
+   "en": "swing"
+  },
+  {
+   "mk": "се нишаш",
+   "en": "you swing"
+  },
+  {
+   "mk": "другарки",
+   "en": "female friends"
+  },
+  {
+   "mk": "душманки",
+   "en": "female enemies"
+  },
+  {
+   "mk": "право кажи ми",
+   "en": "tell me straight"
+  },
+  {
+   "mk": "чаре",
+   "en": "remedy, way out"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај",
+  "Охридски трубадури",
+  "Тајфата на Шуле",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Тајфата на Шуле",
+   "url": "https://pesna.org/audio-download/249"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/413"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1341"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2277"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3364"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/3750"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ој Зарино, прва севдо)",
+       "lat": "(Oj Zarino, prva sevdo)",
+       "en": "(Oh Zarina, my first love)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Зарино, прва севдо,",
+       "lat": "Oj Zarino, prva sevdo,",
+       "en": "Oh Zarina, my first love,"
+      },
+      {
+       "cyr": "еднуш јас дојдов дома ти.",
+       "lat": "ednuš jas dojdov doma ti.",
+       "en": "once I came to your house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе тука не те најдов,",
+       "lat": "Tebe tuka ne te najdov,",
+       "en": "I did not find you there,"
+      },
+      {
+       "cyr": "тук' те најдов по комшии.",
+       "lat": "tuk' te najdov po komšii.",
+       "en": "I found you among the neighbours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По комшии, по азбашти,",
+       "lat": "Po komšii, po azbašti,",
+       "en": "Among the neighbours, among the friends,"
+      },
+      {
+       "cyr": "кај се нишаш на нишалка.",
+       "lat": "kaj se nišaš na nišalka.",
+       "en": "where you were swinging on a swing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај се нишаш на нишалка",
+       "lat": "Kaj se nišaš na nišalka",
+       "en": "Where you were swinging on a swing"
+      },
+      {
+       "cyr": "со твоите први другарки",
+       "lat": "so tvoite prvi drugarki",
+       "en": "with your first girlfriends,"
+      },
+      {
+       "cyr": "со мојте први душманки.",
+       "lat": "so mojte prvi dušmanki.",
+       "en": "with my first enemies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мор' Зарино, прва севдо,",
+       "lat": "Mor' Zarino, prva sevdo,",
+       "en": "Hey Zarina, my first love,"
+      },
+      {
+       "cyr": "ако ме љубиш, љуби ме,",
+       "lat": "ako me ljubiš, ljubi me,",
+       "en": "if you love me, love me,"
+      },
+      {
+       "cyr": "ако не, право кажи ми.",
+       "lat": "ako ne, pravo kaži mi.",
+       "en": "if not, tell me straight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не, право кажи ми",
+       "lat": "Ako ne, pravo kaži mi",
+       "en": "If not, tell me straight"
+      },
+      {
+       "cyr": "да си го чинам чарето,",
+       "lat": "da si go činam čareto,",
+       "en": "so that I can find some remedy,"
+      },
+      {
+       "cyr": "да не си губам времето.",
+       "lat": "da ne si gubam vremeto.",
+       "en": "so that I don't waste my time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младоста течит како река,",
+       "lat": "Mladosta tečit kako reka,",
+       "en": "Youth flows like a river,"
+      },
+      {
+       "cyr": "а не е младост за два века.",
+       "lat": "a ne e mladost za dva veka.",
+       "en": "but youth does not last two centuries."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,202 @@
+{
+ "id": 1651,
+ "slug": "dzma-dzma-dzm",
+ "title_cyr": "Ѕма, ѕма, ѕм",
+ "title_latin": "Dzma, dzma, dzm",
+ "title_en": "Dzma, dzma, dzm",
+ "pesna_url": "https://pesna.org/song/1651",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Група Македонија",
+  "Драган Вучиќ",
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Група Македонија",
+   "url": "https://pesna.org/audio-download/4440"
+  },
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/4441"
+  },
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/4442"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си зедов дама родена,",
+       "lat": "Si zedov dama rodena,",
+       "en": "I married a real lady,",
+       "en_mt": false
+      },
+      {
+       "cyr": "уф, што ми е погодена:",
+       "lat": "uf, što mi e pogodena:",
+       "en": "ugh, she is right for me:",
+       "en_mt": false
+      },
+      {
+       "cyr": "танка е к'о лубеница,",
+       "lat": "tanka e k'o lubenica,",
+       "en": "thin as a watermelon,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тивка е ко воденица.",
+       "lat": "tivka e ko vodenica.",
+       "en": "quiet as a mill.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом ќе ја допре вратата,",
+       "lat": "Štom ḱe ja dopre vratata,",
+       "en": "As soon as she touches the door,",
+       "en_mt": false
+      },
+      {
+       "cyr": "веќе ја нема кваката,",
+       "lat": "veḱe ja nema kvakata,",
+       "en": "the doorknob is gone,",
+       "en_mt": false
+      },
+      {
+       "cyr": "а ако кренам рамења,",
+       "lat": "a ako krenam ramenja,",
+       "en": "and if I shrug,",
+       "en_mt": false
+      },
+      {
+       "cyr": "фрла со дрвја, камења.",
+       "lat": "frla so drvja, kamenja.",
+       "en": "throws trees and stones at me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕма, ѕма, ѕм, ѕма, ѕма, ѕм,",
+       "lat": "Dzma, dzma, dzm, dzma, dzma, dzm,",
+       "en": "Dzma, dzma, dzm, dzma, dzma, dzm,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ѕма, ѕма, ѕм, ѕм, ѕм.",
+       "lat": "dzma, dzma, dzm, dzm, dzm.",
+       "en": "dzma, dzma, dzm, dzm, dzm.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу ја сака песната,",
+       "lat": "Mnogu ja saka pesnata,",
+       "en": "She loves the song very much,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пее ко страчка збесната,",
+       "lat": "pee ko stračka zbesnata,",
+       "en": "sings like a mad magpie,",
+       "en_mt": false
+      },
+      {
+       "cyr": "штом ќе ја фатат мајките,",
+       "lat": "štom ḱe ja fatat majkite,",
+       "en": "once she gets excited,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сонува принц од бајките.",
+       "lat": "sonuva princ od bajkite.",
+       "en": "she dreams of a fairy tale prince.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕма, ѕма, ѕм, ѕма, ѕма, ѕм,",
+       "lat": "Dzma, dzma, dzm, dzma, dzma, dzm,",
+       "en": "Dzma, dzma, dzm, dzma, dzma, dzm,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ѕма, ѕма, ѕм, ѕм, ѕм.",
+       "lat": "dzma, dzma, dzm, dzm, dzm.",
+       "en": "dzma, dzma, dzm, dzm, dzm.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си зеде дама родена,",
+       "lat": "Si zede dama rodena,",
+       "en": "He married a real lady,",
+       "en_mt": false
+      },
+      {
+       "cyr": "уф, што му е погодена,",
+       "lat": "uf, što mu e pogodena,",
+       "en": "ugh, she is right for him",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој нејќе таква премија,",
+       "lat": "koj nejḱe takva premija,",
+       "en": "who does not want such a prize,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ако ја сакаш, земи ја.",
+       "lat": "ako ja sakaš, zemi ja.",
+       "en": "if you want her, take her.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕма, ѕма, ѕм, ѕма, ѕма, ѕм,",
+       "lat": "Dzma, dzma, dzm, dzma, dzma, dzm,",
+       "en": "Dzma, dzma, dzm, dzma, dzma, dzm,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ѕма, ѕма, ѕм, ѕм, ѕм.",
+       "lat": "dzma, dzma, dzm, dzm, dzm.",
+       "en": "dzma, dzma, dzm, dzm, dzm.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

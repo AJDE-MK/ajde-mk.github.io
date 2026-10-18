@@ -1,0 +1,151 @@
+{
+ "id": 1331,
+ "slug": "u-voj-dvor",
+ "title_cyr": "У вој двор",
+ "title_latin": "U voj dvor",
+ "title_en": "In This Courtyard",
+ "pesna_url": "https://pesna.org/song/1331",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Lazarice custom song; words are deliberately cut off at the end of each second line (the singers break off a syllable), so the cut-off English lines mirror that. My reading: 'вој' is a short form of 'овој'.",
+ "words_to_learn": [
+  {
+   "mk": "Лазарска песна",
+   "en": "Lazarice song (spring custom song sung on Lazar's Saturday)"
+  },
+  {
+   "mk": "у вој двор",
+   "en": "in this courtyard (dialect, standard: во овој двор)"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, young man"
+  },
+  {
+   "mk": "се ожени",
+   "en": "will marry (of a man)"
+  },
+  {
+   "mk": "есен",
+   "en": "autumn"
+  },
+  {
+   "mk": "Митровден",
+   "en": "St Demetrius' Day (26 October)"
+  },
+  {
+   "mk": "пченица",
+   "en": "wheat"
+  },
+  {
+   "mk": "рујно",
+   "en": "ruddy, deep red (of wine)"
+  },
+  {
+   "mk": "лута",
+   "en": "strong, fiery"
+  },
+  {
+   "mk": "ракија",
+   "en": "brandy"
+  }
+ ],
+ "performers": [
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3420"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Лазарска песна)",
+       "lat": "(Lazarska pesna)",
+       "en": "(Lazar's song)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "У вој двор има млад јунак,",
+       "lat": "U voj dvor ima mlad junak,",
+       "en": "In this courtyard there is a young hero,"
+      },
+      {
+       "cyr": "у вој двор има млад ју-",
+       "lat": "u voj dvor ima mlad ju-",
+       "en": "in this courtyard there is a young he-"
+      },
+      {
+       "cyr": "На есен ќе се ожени,",
+       "lat": "Na esen ḱe se oženi,",
+       "en": "In autumn he will marry,"
+      },
+      {
+       "cyr": "на есен ќе се оже-",
+       "lat": "na esen ḱe se ože-",
+       "en": "in autumn he will mar-"
+      },
+      {
+       "cyr": "На есен, каде Митровден,",
+       "lat": "Na esen, kade Mitrovden,",
+       "en": "In autumn, around St Demetrius' Day,"
+      },
+      {
+       "cyr": "на есен, каде Митро-",
+       "lat": "na esen, kade Mitro-",
+       "en": "in autumn, around St Deme-"
+      },
+      {
+       "cyr": "Со ситна бела пченица,",
+       "lat": "So sitna bela pčenica,",
+       "en": "With fine white wheat,"
+      },
+      {
+       "cyr": "со ситна бела пчени-",
+       "lat": "so sitna bela pčeni-",
+       "en": "with fine white wh-"
+      },
+      {
+       "cyr": "Со рујно вино црвено,",
+       "lat": "So rujno vino crveno,",
+       "en": "With ruddy red wine,"
+      },
+      {
+       "cyr": "со рујно вино црве-",
+       "lat": "so rujno vino crve-",
+       "en": "with ruddy red wi-"
+      },
+      {
+       "cyr": "Со лута бела ракија,",
+       "lat": "So luta bela rakija,",
+       "en": "With strong white brandy,"
+      },
+      {
+       "cyr": "со лута бела раки-",
+       "lat": "so luta bela raki-",
+       "en": "with strong white bran-"
+      },
+      {
+       "cyr": "иииии!",
+       "lat": "iiiii!",
+       "en": "iiiii!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

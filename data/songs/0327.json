@@ -1,0 +1,161 @@
+{
+ "id": 327,
+ "slug": "planino-pirin-planino",
+ "title_cyr": "Планино, Пирин Планино",
+ "title_latin": "Planino, Pirin Planino",
+ "title_en": "Mountain, Pirin Mountain",
+ "pesna_url": "https://pesna.org/song/327",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Потсклон' is rendered 'shelter' (my reading). Pirin is the mountain range in the Pirin Macedonia region.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "треви",
+   "en": "grasses"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  },
+  {
+   "mk": "сенка",
+   "en": "shadow, shade"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "потсклон",
+   "en": "shelter, refuge"
+  },
+  {
+   "mk": "берданка",
+   "en": "old rifle (Berdan)"
+  },
+  {
+   "mk": "војвода",
+   "en": "chieftain, outlaw leader"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1591"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Планино, Пирин Планино",
+       "lat": "Planino, Pirin Planino",
+       "en": "Mountain, Pirin Mountain,"
+      },
+      {
+       "cyr": "многу си Пирин убава.",
+       "lat": "mnogu si Pirin ubava.",
+       "en": "you are very beautiful, Pirin."
+      },
+      {
+       "cyr": "Ееј, ееј,",
+       "lat": "Eej, eej,",
+       "en": "Hey, hey,"
+      },
+      {
+       "cyr": "многу си Пирин убава.",
+       "lat": "mnogu si Pirin ubava.",
+       "en": "you are very beautiful, Pirin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По твоите треви зелени",
+       "lat": "Po tvoite trevi zeleni",
+       "en": "On your green grasses"
+      },
+      {
+       "cyr": "пасат ми јагни овчички.",
+       "lat": "pasat mi jagni ovčički.",
+       "en": "my little sheep and lambs graze."
+      },
+      {
+       "cyr": "Ееј, ееј,",
+       "lat": "Eej, eej,",
+       "en": "Hey, hey,"
+      },
+      {
+       "cyr": "пасат ми јагни овчички.",
+       "lat": "pasat mi jagni ovčički.",
+       "en": "my little sheep and lambs graze."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Под твојте сенки дебели",
+       "lat": "Pod tvojte senki debeli",
+       "en": "Under your thick shadows"
+      },
+      {
+       "cyr": "јунаци потсклон наоѓаат.",
+       "lat": "junaci potsklon naoǵaat.",
+       "en": "heroes find shelter."
+      },
+      {
+       "cyr": "Ееј, ееј,",
+       "lat": "Eej, eej,",
+       "en": "Hey, hey,"
+      },
+      {
+       "cyr": "јунаци потсклон наоѓаат.",
+       "lat": "junaci potsklon naoǵaat.",
+       "en": "heroes find shelter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сека гранка берданка,",
+       "lat": "Na seka granka berdanka,",
+       "en": "On every branch a rifle,"
+      },
+      {
+       "cyr": "до сека вода, војвода.",
+       "lat": "do seka voda, vojvoda.",
+       "en": "by every spring a chieftain."
+      },
+      {
+       "cyr": "Ееј, ееј,",
+       "lat": "Eej, eej,",
+       "en": "Hey, hey,"
+      },
+      {
+       "cyr": "до сека вода војвода.",
+       "lat": "do seka voda vojvoda.",
+       "en": "by every spring a chieftain."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

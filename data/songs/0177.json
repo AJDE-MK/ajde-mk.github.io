@@ -1,0 +1,233 @@
+{
+ "id": 177,
+ "slug": "pesna-za-arso-vojvoda",
+ "title_cyr": "Песна за Арсо војвода",
+ "title_latin": "Pesna za Arso vojvoda",
+ "title_en": "Song of Voivode Arso",
+ "pesna_url": "https://pesna.org/song/177",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Golyak is a mountain peak near Kichevo, per the source note. 'Малихер' is my reading as a Mannlicher rifle; 'деца цареви' rendered as 'sons of the Sultan' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "војвода",
+   "en": "leader of a rebel band"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "потера",
+   "en": "posse, pursuit party"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company of men"
+  },
+  {
+   "mk": "конак",
+   "en": "night's lodging"
+  },
+  {
+   "mk": "сардисале",
+   "en": "surrounded (my reading, from Turkish-origin verb)"
+  },
+  {
+   "mk": "јузбашија",
+   "en": "captain (Ottoman rank)"
+  },
+  {
+   "mk": "чауш",
+   "en": "sergeant (Ottoman rank)"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2281"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Загрмел Голјак, заплакал,",
+       "lat": "Zagrmel Goljak, zaplakal,",
+       "en": "Mount Goljak thundered and wept,"
+      },
+      {
+       "cyr": "заросил роса крвава.",
+       "lat": "zarosil rosa krvava.",
+       "en": "it rained down bloody dew."
+      },
+      {
+       "cyr": "Заросил роса крвава,",
+       "lat": "Zarosil rosa krvava,",
+       "en": "It rained down bloody dew,"
+      },
+      {
+       "cyr": "заради Арсо војвода.",
+       "lat": "zaradi Arso vojvoda.",
+       "en": "because of Voivode Arso."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде се чуло, видело",
+       "lat": "Kade se čulo, videlo",
+       "en": "Where was it ever heard or seen"
+      },
+      {
+       "cyr": "сестра да брата предаде?",
+       "lat": "sestra da brata predade?",
+       "en": "that a sister betrays her brother?"
+      },
+      {
+       "cyr": "Станала рано в' недела,",
+       "lat": "Stanala rano v' nedela,",
+       "en": "She got up early on Sunday,"
+      },
+      {
+       "cyr": "отишла в' село Другово.",
+       "lat": "otišla v' selo Drugovo.",
+       "en": "and went to the village of Drugovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Друговци, деца цареви,",
+       "lat": "- Drugovci, deca carevi,",
+       "en": "- People of Drugovo, sons of the Sultan,"
+      },
+      {
+       "cyr": "ако го Арса барате,",
+       "lat": "ako go Arsa barate,",
+       "en": "if you are looking for Arso,"
+      },
+      {
+       "cyr": "Арсо е в' Подвис на гости",
+       "lat": "Arso e v' Podvis na gosti",
+       "en": "Arso is a guest in Podvis"
+      },
+      {
+       "cyr": "со својта верна дружина.",
+       "lat": "so svojta verna družina.",
+       "en": "with his loyal band."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На две-три куќи на конак,",
+       "lat": "Na dve-tri kuḱi na konak,",
+       "en": "He is lodging in two or three houses,"
+      },
+      {
+       "cyr": "кај Спира и кај Томета.",
+       "lat": "kaj Spira i kaj Tometa.",
+       "en": "at Spiro's and at Tome's."
+      },
+      {
+       "cyr": "Кај Спира има пет мина,",
+       "lat": "Kaj Spira ima pet mina,",
+       "en": "At Spiro's there are five men,"
+      },
+      {
+       "cyr": "а кај Томета шест мина.",
+       "lat": "a kaj Tometa šest mina.",
+       "en": "and at Tome's six men."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Станале пусти Друговци,",
+       "lat": "Stanale pusti Drugovci,",
+       "en": "The wretched people of Drugovo got up,"
+      },
+      {
+       "cyr": "отишле долу в' Кичево,",
+       "lat": "otišle dolu v' Kičevo,",
+       "en": "they went down to Kichevo,"
+      },
+      {
+       "cyr": "дигнале силна потера,",
+       "lat": "dignale silna potera,",
+       "en": "they raised a strong posse,"
+      },
+      {
+       "cyr": "селото го сардисале.",
+       "lat": "seloto go sardisale.",
+       "en": "and they surrounded the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Догледа Арсо војвода,",
+       "lat": "Dogleda Arso vojvoda,",
+       "en": "Voivode Arso saw them,"
+      },
+      {
+       "cyr": "затегна пушка малихер.",
+       "lat": "zategna puška maliher.",
+       "en": "he cocked his rifle, a Mannlicher."
+      },
+      {
+       "cyr": "Прва ми пушка што пукна,",
+       "lat": "Prva mi puška što pukna,",
+       "en": "The first shot that rang out,"
+      },
+      {
+       "cyr": "јузбашијата ми падна.",
+       "lat": "juzbašijata mi padna.",
+       "en": "it brought down the captain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втора ми пушка што пукна,",
+       "lat": "Vtora mi puška što pukna,",
+       "en": "The second shot that rang out,"
+      },
+      {
+       "cyr": "баш чауш од коња падна.",
+       "lat": "baš čauš od konja padna.",
+       "en": "the sergeant fell from his horse."
+      },
+      {
+       "cyr": "Треќата пушка што пукна,",
+       "lat": "Treḱata puška što pukna,",
+       "en": "The third shot that rang out,"
+      },
+      {
+       "cyr": "падна ми Арсо војвода.",
+       "lat": "padna mi Arso vojvoda.",
+       "en": "Voivode Arso fell."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

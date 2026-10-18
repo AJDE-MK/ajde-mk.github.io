@@ -1,0 +1,209 @@
+{
+ "id": 1142,
+ "slug": "ajde-se-proshetal-nikola",
+ "title_cyr": "Ајде се прошетал Никола",
+ "title_latin": "Ajde se prošetal Nikola",
+ "title_en": "Nikola went strolling",
+ "pesna_url": "https://pesna.org/song/1142",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Bitola town song. 'Шарклија' as 'decorated' and 'анамче' as 'young lady' are my reading (unsure); 'Ајде' is a filler, rendered 'Come on'.",
+ "words_to_learn": [
+  {
+   "mk": "се прошетал",
+   "en": "went for a stroll"
+  },
+  {
+   "mk": "калдрми",
+   "en": "cobblestones"
+  },
+  {
+   "mk": "анамче",
+   "en": "young lady (Turkish-style, from hanim)"
+  },
+  {
+   "mk": "дивани",
+   "en": "divans, upper rooms"
+  },
+  {
+   "mk": "шимшир",
+   "en": "boxwood"
+  },
+  {
+   "mk": "пенџериња",
+   "en": "windows"
+  },
+  {
+   "mk": "чифлик",
+   "en": "farm estate"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura (long-necked lute)"
+  },
+  {
+   "mk": "кула",
+   "en": "tower, fortified house"
+  },
+  {
+   "mk": "баклава",
+   "en": "baklava"
+  }
+ ],
+ "performers": [
+  "Борче Крстески"
+ ],
+ "audio": [
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/2775"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде се прошетал Никола",
+       "lat": "Ajde se prošetal Nikola",
+       "en": "Come on, Nikola went strolling"
+      },
+      {
+       "cyr": "низ таја града Битола,",
+       "lat": "niz taja grada Bitola,",
+       "en": "through that town of Bitola,"
+      },
+      {
+       "cyr": "ај, по тија мермер калдрми.",
+       "lat": "aj, po tija mermer kaldrmi.",
+       "en": "hey, over those marble cobblestones."
+      },
+      {
+       "cyr": "Ајде го догледа анамче",
+       "lat": "Ajde go dogleda anamče",
+       "en": "Come on, the lady spotted him"
+      },
+      {
+       "cyr": "од високите дивани,",
+       "lat": "od visokite divani,",
+       "en": "from the high divans,"
+      },
+      {
+       "cyr": "море, од шимшир пенџериња.",
+       "lat": "more, od šimšir pendžerinja.",
+       "en": "hey, from the boxwood windows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде со око му мигнало,",
+       "lat": "Ajde so oko mu mignalo,",
+       "en": "Come on, she winked an eye at him,"
+      },
+      {
+       "cyr": "со глава му мавнало,",
+       "lat": "so glava mu mavnalo,",
+       "en": "she nodded her head at him,"
+      },
+      {
+       "cyr": "море, со уста му продума:",
+       "lat": "more, so usta mu produma:",
+       "en": "hey, she spoke to him with her mouth:"
+      },
+      {
+       "cyr": "- Ајде дојди вечер, Никола,",
+       "lat": "- Ajde dojdi večer, Nikola,",
+       "en": "- Come on, come tonight, Nikola,"
+      },
+      {
+       "cyr": "не је тука Селимбег,",
+       "lat": "ne je tuka Selimbeg,",
+       "en": "Selimbeg is not here,"
+      },
+      {
+       "cyr": "море, тој отиде на чифлик.",
+       "lat": "more, toj otide na čiflik.",
+       "en": "hey, he has gone to the farm."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде што ми беше Никола,",
+       "lat": "Ajde što mi beše Nikola,",
+       "en": "Come on, as for Nikola,"
+      },
+      {
+       "cyr": "тој си зеде тамбура,",
+       "lat": "toj si zede tambura,",
+       "en": "he took his tambura,"
+      },
+      {
+       "cyr": "море, тамбурата шарклија.",
+       "lat": "more, tamburata šarklija.",
+       "en": "hey, the decorated tambura."
+      },
+      {
+       "cyr": "Ајде, па отиде на кула,",
+       "lat": "Ajde, pa otide na kula,",
+       "en": "Come on, then he went to the tower,"
+      },
+      {
+       "cyr": "анамче го пречека,",
+       "lat": "anamče go prečeka,",
+       "en": "the lady received him,"
+      },
+      {
+       "cyr": "море, му направи вечера.",
+       "lat": "more, mu napravi večera.",
+       "en": "hey, she made him supper."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде си седнале двајцата,",
+       "lat": "Ajde si sednale dvajcata,",
+       "en": "Come on, the two of them sat down,"
+      },
+      {
+       "cyr": "анамска вечера вечераат,",
+       "lat": "anamska večera večeraat,",
+       "en": "they eat the lady's supper,"
+      },
+      {
+       "cyr": "море, ем баклава да јадат.",
+       "lat": "more, em baklava da jadat.",
+       "en": "hey, and baklava to eat as well."
+      },
+      {
+       "cyr": "Ајде до полноќ си седеле,",
+       "lat": "Ajde do polnoḱ si sedele,",
+       "en": "Come on, until midnight they sat,"
+      },
+      {
+       "cyr": "од полноќ се љубеле,",
+       "lat": "od polnoḱ se ljubele,",
+       "en": "from midnight they kissed,"
+      },
+      {
+       "cyr": "море, при зори си заспале.",
+       "lat": "more, pri zori si zaspale.",
+       "en": "hey, at dawn they fell asleep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,153 @@
+{
+ "id": 1232,
+ "slug": "prijdi-dojdi-eleno-mome",
+ "title_cyr": "Пријди, дојди Елено моме",
+ "title_latin": "Prijdi, dojdi Eleno mome",
+ "title_en": "Come Closer, Girl Elena",
+ "pesna_url": "https://pesna.org/song/1232",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, likely a humorous or teasing song about a garment; 'променава' is unknown to me, my reading only, and the object being washed or mended is never named.",
+ "words_to_learn": [
+  {
+   "mk": "пријди",
+   "en": "come closer"
+  },
+  {
+   "mk": "дојди",
+   "en": "come"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "колено",
+   "en": "knee"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul (vocative)"
+  },
+  {
+   "mk": "прана",
+   "en": "washed (feminine)"
+  },
+  {
+   "mk": "крпена",
+   "en": "mended"
+  },
+  {
+   "mk": "себап",
+   "en": "good deed"
+  },
+  {
+   "mk": "закрпи",
+   "en": "mend (imperative)"
+  },
+  {
+   "mk": "опери",
+   "en": "wash (imperative)"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/3076"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пријди, дојди Елено моме мори, до колено,",
+       "lat": "Prijdi, dojdi Eleno mome mori, do koleno,",
+       "en": "Come closer, Elena, girl, hey, up to the knee,"
+      },
+      {
+       "cyr": "хај, хај, Елено моме мори, до колено,",
+       "lat": "haj, haj, Eleno mome mori, do koleno,",
+       "en": "hey, hey, Elena, girl, hey, up to the knee,"
+      },
+      {
+       "cyr": "хај, хај, Елено душо мори, до колено.",
+       "lat": "haj, haj, Eleno dušo mori, do koleno.",
+       "en": "hey, hey, Elena, my soul, hey, up to the knee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па да видиш, Елено моме мори, променава,",
+       "lat": "Pa da vidiš, Eleno mome mori, promenava,",
+       "en": "And you will see, Elena, girl, hey, the change (my reading),"
+      },
+      {
+       "cyr": "хај, хај, Елено моме мори, променава,",
+       "lat": "haj, haj, Eleno mome mori, promenava,",
+       "en": "hey, hey, Elena, girl, hey, the change (my reading),"
+      },
+      {
+       "cyr": "хај, хај, Елено душо мори, променава.",
+       "lat": "haj, haj, Eleno dušo mori, promenava.",
+       "en": "hey, hey, Elena, my soul, hey, the change (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три години, Елено моме мори, не е прана,",
+       "lat": "Tri godini, Eleno mome mori, ne e prana,",
+       "en": "Three years, Elena, girl, hey, it has not been washed,"
+      },
+      {
+       "cyr": "хај, хај, Елено моме мори, не е прана,",
+       "lat": "haj, haj, Eleno mome mori, ne e prana,",
+       "en": "hey, hey, Elena, girl, hey, it has not been washed,"
+      },
+      {
+       "cyr": "хај, хај, Елено душо мори, не е крпена.",
+       "lat": "haj, haj, Eleno dušo mori, ne e krpena.",
+       "en": "hey, hey, Elena, my soul, hey, it has not been mended."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чини себап, Елено моме мори, закрпи ја,",
+       "lat": "Čini sebap, Eleno mome mori, zakrpi ja,",
+       "en": "Do a good deed, Elena, girl, hey, mend it,"
+      },
+      {
+       "cyr": "хај, хај, Елено моме мори, закрпи ја,",
+       "lat": "haj, haj, Eleno mome mori, zakrpi ja,",
+       "en": "hey, hey, Elena, girl, hey, mend it,"
+      },
+      {
+       "cyr": "хај, хај, Елено душо мори, опери ја.",
+       "lat": "haj, haj, Eleno dušo mori, operi ja.",
+       "en": "hey, hey, Elena, my soul, hey, wash it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

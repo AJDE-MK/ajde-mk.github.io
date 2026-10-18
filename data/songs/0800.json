@@ -1,0 +1,148 @@
+{
+ "id": 800,
+ "slug": "dodek-je-moma-pri-majka",
+ "title_cyr": "Додек је мома при мајка",
+ "title_latin": "Dodek je moma pri majka",
+ "title_en": "While a girl lives with her mother",
+ "pesna_url": "https://pesna.org/song/800",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Драгица Николова",
+  "Елена Мукаетова"
+ ],
+ "audio": [
+  {
+   "who": "Елена Мукаетова",
+   "url": "https://pesna.org/audio-download/1528"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1529"
+  },
+  {
+   "who": "Драгица Николова",
+   "url": "https://pesna.org/audio-download/2738"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Костурско оро)",
+       "lat": "(Kostursko oro)",
+       "en": "(Kostur dance)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Додек је мома при мајка,",
+       "lat": "Dodek je moma pri majka,",
+       "en": "While a girl lives with her mother,"
+      },
+      {
+       "cyr": "до ту је бела и црвена.",
+       "lat": "do tu je bela i crvena.",
+       "en": "Until then she is fair and rosy."
+      },
+      {
+       "cyr": "До ту је одила, шетала,",
+       "lat": "Do tu je odila, šetala,",
+       "en": "Until then she goes walking,"
+      },
+      {
+       "cyr": "момински песни пејала.",
+       "lat": "mominski pesni pejala.",
+       "en": "Until then she sings girls' songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момински песни пејала,",
+       "lat": "Mominski pesni pejala,",
+       "en": "She sings girls' songs,"
+      },
+      {
+       "cyr": "момински ора играла.",
+       "lat": "mominski ora igrala.",
+       "en": "she dances girls' dances."
+      },
+      {
+       "cyr": "Годи се, зацрнела се,",
+       "lat": "Godi se, zacrnela se,",
+       "en": "She gets engaged, turns black (unhappy),"
+      },
+      {
+       "cyr": "ожени се, закопа се.",
+       "lat": "oženi se, zakopa se.",
+       "en": "Gets married, is buried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А што се свекор, свекрва?",
+       "lat": "A što se svekor, svekrva?",
+       "en": "And what are father-in-law, mother-in-law?"
+      },
+      {
+       "cyr": "Това је црно црнило.",
+       "lat": "Tova je crno crnilo.",
+       "en": "They are black ink (unhappiness)."
+      },
+      {
+       "cyr": "А што се девер и золва?",
+       "lat": "A što se dever i zolva?",
+       "en": "And what are brother-in-law and sister-in-law?"
+      },
+      {
+       "cyr": "Това је жолто жолтило.",
+       "lat": "Tova je žolto žoltilo.",
+       "en": "They are yellow dye (sickness)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А што се малките деца?",
+       "lat": "A što se malkite deca?",
+       "en": "And what are the little children?"
+      },
+      {
+       "cyr": "Това се ситни синџири.",
+       "lat": "Tova se sitni sindžiri.",
+       "en": "They are little chains."
+      },
+      {
+       "cyr": "А што је китка шарена?",
+       "lat": "A što je kitka šarena?",
+       "en": "And what is the colorful bouquet?"
+      },
+      {
+       "cyr": "Това је првото либе.",
+       "lat": "Tova je prvoto libe.",
+       "en": "It is her first love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

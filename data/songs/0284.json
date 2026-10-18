@@ -1,0 +1,154 @@
+{
+ "id": 284,
+ "slug": "aj-zasvirete-mi-chalgii",
+ "title_cyr": "Ај засвирете ми чалгии",
+ "title_latin": "Aj zasvirete mi čalgii",
+ "title_en": "Come On, Play Me Chalgia Tunes",
+ "pesna_url": "https://pesna.org/song/284",
+ "background": "Credited to Jonče Hristovski in your songbook. *Čalgija* is the old urban ensemble of violin, oud, kanun, clarinet and hand drum heard in the cafés of Skopje, Bitola and Ohrid.",
+ "background_source": "Source of these notes: your 6-song songbook.",
+ "english_kind": "pesna",
+ "en_note": "",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гоце Арнаудов",
+  "Јонче Христовски",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1069"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/1070"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1071"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај засвирете ми чалгии,",
+       "lat": "Aj zasvirete mi čalgii,",
+       "en": "Come, play for me, chalgia players,",
+       "en_mt": false
+      },
+      {
+       "cyr": "една песна мераклиска,",
+       "lat": "edna pesna merakliska,",
+       "en": "a song full of merak,",
+       "en_mt": false
+      },
+      {
+       "cyr": "празник ми е на душава",
+       "lat": "praznik mi e na dušava",
+       "en": "it is a feast day for my soul,",
+       "en_mt": false
+      },
+      {
+       "cyr": "денес плачам за младоста.",
+       "lat": "denes plačam za mladosta.",
+       "en": "today I weep for my youth.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свирете ми чалгии",
+       "lat": "Svirete mi čalgii",
+       "en": "Play for me, chalgia players,",
+       "en_mt": false
+      },
+      {
+       "cyr": "свирете ми сѐ од срце,",
+       "lat": "svirete mi sè od srce,",
+       "en": "play me everything from the heart,",
+       "en_mt": false
+      },
+      {
+       "cyr": "празник ми е на душава,",
+       "lat": "praznik mi e na dušava,",
+       "en": "it is a feast day for my soul,",
+       "en_mt": false
+      },
+      {
+       "cyr": "денес тажам за младоста.",
+       "lat": "denes tažam za mladosta.",
+       "en": "today I grieve for my youth.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај засвирете ми чалгии",
+       "lat": "Aj zasvirete mi čalgii",
+       "en": "Come, play for me, chalgia players,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тешка песна како животот,",
+       "lat": "teška pesna kako životot,",
+       "en": "a heavy song like life itself,",
+       "en_mt": false
+      },
+      {
+       "cyr": "очи солзи да наполнам,",
+       "lat": "oči solzi da napolnam,",
+       "en": "so that I fill my eyes with tears,",
+       "en_mt": false
+      },
+      {
+       "cyr": "срце мое да олеснат.",
+       "lat": "srce moe da olesnat.",
+       "en": "so that my heart is eased.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свирете ми чалгии",
+       "lat": "Svirete mi čalgii",
+       "en": "Play for me, chalgia players,",
+       "en_mt": false
+      },
+      {
+       "cyr": "свирете ми сѐ од срце,",
+       "lat": "svirete mi sè od srce,",
+       "en": "play me everything from the heart,",
+       "en_mt": false
+      },
+      {
+       "cyr": "празник ми е на душата,",
+       "lat": "praznik mi e na dušata,",
+       "en": "it is a feast day for my soul,",
+       "en_mt": false
+      },
+      {
+       "cyr": "денес жалам за младоста.",
+       "lat": "denes žalam za mladosta.",
+       "en": "today I mourn for my youth.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

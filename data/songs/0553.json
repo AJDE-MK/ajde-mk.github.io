@@ -1,0 +1,206 @@
+{
+ "id": 553,
+ "slug": "mara-ohrigjanka",
+ "title_cyr": "Мара охриѓанка",
+ "title_latin": "Mara ohriǵanka",
+ "title_en": "Maria from Ohrid",
+ "pesna_url": "https://pesna.org/song/553",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1710"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мара охриѓанка",
+       "lat": "Mara ohriǵanka",
+       "en": "Maria from Ohrid",
+       "en_mt": false
+      },
+      {
+       "cyr": "на пенџер седеше.",
+       "lat": "na pendžer sedeše.",
+       "en": "was sitting on the window.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара охриѓанка",
+       "lat": "Mara ohriǵanka",
+       "en": "Maria from Ohrid",
+       "en_mt": false
+      },
+      {
+       "cyr": "на пенџер седеше.",
+       "lat": "na pendžer sedeše.",
+       "en": "was sitting on the window.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' раце држеше",
+       "lat": "V' race držeše",
+       "en": "In her hands she was holding",
+       "en_mt": false
+      },
+      {
+       "cyr": "огледалото.",
+       "lat": "ogledaloto.",
+       "en": "her mirror.",
+       "en_mt": false
+      },
+      {
+       "cyr": "В' р'це држеше",
+       "lat": "V' r'ce držeše",
+       "en": "In her hands she was holding",
+       "en_mt": false
+      },
+      {
+       "cyr": "огледалото.",
+       "lat": "ogledaloto.",
+       "en": "her mirror.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Руса си коса",
+       "lat": "Rusa si kosa",
+       "en": "Her blond hair",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара чешлаше.",
+       "lat": "Mara češlaše.",
+       "en": "Maria was combing.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Руса си коса",
+       "lat": "Rusa si kosa",
+       "en": "Her blond hair",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара чешлаше.",
+       "lat": "Mara češlaše.",
+       "en": "Maria was combing.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бело си лице",
+       "lat": "Belo si lice",
+       "en": "Her white face",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара пудреше.",
+       "lat": "Mara pudreše.",
+       "en": "Mara was powdering.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Бело си лице",
+       "lat": "Belo si lice",
+       "en": "Her white face",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара пудреше.",
+       "lat": "Mara pudreše.",
+       "en": "Mara was powdering.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Танка си снага",
+       "lat": "Tanka si snaga",
+       "en": "Her tall body",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара кршеше.",
+       "lat": "Mara kršeše.",
+       "en": "Maria was bending.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Танка си снага",
+       "lat": "Tanka si snaga",
+       "en": "Her tall body",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мара кршеше.",
+       "lat": "Mara kršeše.",
+       "en": "Maria was bending.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мара либето",
+       "lat": "Mara libeto",
+       "en": "Maria her love",
+       "en_mt": false
+      },
+      {
+       "cyr": "либето Мара",
+       "lat": "libeto Mara",
+       "en": "her love Maria",
+       "en_mt": false
+      },
+      {
+       "cyr": "си го чекаше.",
+       "lat": "si go čekaše.",
+       "en": "was waiting.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Либето Мара",
+       "lat": "Libeto Mara",
+       "en": "Her love Maria",
+       "en_mt": false
+      },
+      {
+       "cyr": "си го чекаше.",
+       "lat": "si go čekaše.",
+       "en": "was waiting.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

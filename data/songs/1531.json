@@ -1,0 +1,217 @@
+{
+ "id": 1531,
+ "slug": "samo-za-tebe",
+ "title_cyr": "Само за тебе",
+ "title_latin": "Samo za tebe",
+ "title_en": "Only for you",
+ "pesna_url": "https://pesna.org/song/1531",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern patriotic song; origin unclear (no author I can name). 'Македонјо' in stanza 2 is as written in the source.",
+ "words_to_learn": [
+  {
+   "mk": "земја",
+   "en": "land"
+  },
+  {
+   "mk": "се молам",
+   "en": "I pray"
+  },
+  {
+   "mk": "песни",
+   "en": "songs"
+  },
+  {
+   "mk": "вишни гори",
+   "en": "high/lofty forests (my reading)"
+  },
+  {
+   "mk": "бистри води",
+   "en": "clear waters"
+  },
+  {
+   "mk": "бисер",
+   "en": "pearl"
+  },
+  {
+   "mk": "славам",
+   "en": "I praise"
+  },
+  {
+   "mk": "до зори",
+   "en": "until dawn"
+  }
+ ],
+ "performers": [
+  "Круме Спасовски"
+ ],
+ "audio": [
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/4001"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Колку мислам земјо моја,",
+       "lat": "Kolku mislam zemjo moja,",
+       "en": "However much I think, my land,"
+      },
+      {
+       "cyr": "и се молам за тебе.",
+       "lat": "i se molam za tebe.",
+       "en": "and pray for you."
+      },
+      {
+       "cyr": "Пеам песни од сѐ срце,",
+       "lat": "Peam pesni od sè srce,",
+       "en": "I sing songs from all my heart,"
+      },
+      {
+       "cyr": "пеам само за тебе.",
+       "lat": "peam samo za tebe.",
+       "en": "I sing only for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ааај, само за тебе,",
+       "lat": "Aaaj, samo za tebe,",
+       "en": "Aaah, only for you,"
+      },
+      {
+       "cyr": "ааај, само за тебе!",
+       "lat": "aaaj, samo za tebe!",
+       "en": "aaah, only for you!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие твои вишни гори,",
+       "lat": "Tie tvoi višni gori,",
+       "en": "Those high forests of yours"
+      },
+      {
+       "cyr": "ко песни распеани.",
+       "lat": "ko pesni raspeani.",
+       "en": "are like songs sung out."
+      },
+      {
+       "cyr": "Тие твои бистри води,",
+       "lat": "Tie tvoi bistri vodi,",
+       "en": "Those clear waters of yours"
+      },
+      {
+       "cyr": "ко бисер разиграни.",
+       "lat": "ko biser razigrani.",
+       "en": "are like pearls playing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ааај, земјо мајчице,",
+       "lat": "Aaaj, zemjo majčice,",
+       "en": "Aaah, motherland,"
+      },
+      {
+       "cyr": "ааај, Македонјо!",
+       "lat": "aaaj, Makedonjo!",
+       "en": "aaah, Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти пеам мајко моја,",
+       "lat": "Ḱe ti peam majko moja,",
+       "en": "I will sing to you, my mother,"
+      },
+      {
+       "cyr": "наши песни до зори.",
+       "lat": "naši pesni do zori.",
+       "en": "our songs until dawn."
+      },
+      {
+       "cyr": "Ќе те славам мајко моја,",
+       "lat": "Ḱe te slavam majko moja,",
+       "en": "I will praise you, my mother,"
+      },
+      {
+       "cyr": "душа дур да изгори.",
+       "lat": "duša dur da izgori.",
+       "en": "until my soul burns out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ааај, само за тебе,",
+       "lat": "Aaaj, samo za tebe,",
+       "en": "Aaah, only for you,"
+      },
+      {
+       "cyr": "ааај, Македонијо!",
+       "lat": "aaaj, Makedonijo!",
+       "en": "aaah, Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие твои вишни гори,",
+       "lat": "Tie tvoi višni gori,",
+       "en": "Those high forests of yours"
+      },
+      {
+       "cyr": "ко песни распеани.",
+       "lat": "ko pesni raspeani.",
+       "en": "are like songs sung out."
+      },
+      {
+       "cyr": "Тие твои бистри води,",
+       "lat": "Tie tvoi bistri vodi,",
+       "en": "Those clear waters of yours"
+      },
+      {
+       "cyr": "ко бисер разиграни.",
+       "lat": "ko biser razigrani.",
+       "en": "are like pearls playing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ааај, само за тебе,",
+       "lat": "Aaaj, samo za tebe,",
+       "en": "Aaah, only for you,"
+      },
+      {
+       "cyr": "ааај, Македонијо!",
+       "lat": "aaaj, Makedonijo!",
+       "en": "aaah, Macedonia!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

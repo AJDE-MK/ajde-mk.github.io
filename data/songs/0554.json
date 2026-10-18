@@ -1,0 +1,125 @@
+{
+ "id": 554,
+ "slug": "ljubi-ljubi-ludo-mlado",
+ "title_cyr": "Љуби, љуби лудо младо",
+ "title_latin": "Ljubi, ljubi ludo mlado",
+ "title_en": "Love, love, dear young man",
+ "pesna_url": "https://pesna.org/song/554",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional lyric love song; origin unclear. '[2х]' markers rendered as [2x].",
+ "words_to_learn": [
+  {
+   "mk": "љуби",
+   "en": "love, kiss (imperative)"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "dear young man (lit. foolish young)"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  },
+  {
+   "mk": "бело",
+   "en": "white"
+  },
+  {
+   "mk": "рака",
+   "en": "hand"
+  },
+  {
+   "mk": "дури",
+   "en": "while, until"
+  },
+  {
+   "mk": "сал",
+   "en": "only (dialect)"
+  },
+  {
+   "mk": "изгорам",
+   "en": "I will burn"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Љуби, љуби лудо младо [2х]",
+       "lat": "Ljubi, ljubi ludo mlado [2h]",
+       "en": "Love, love, dear young man [2x]"
+      },
+      {
+       "cyr": "дури лице ми е бело",
+       "lat": "duri lice mi e belo",
+       "en": "while my face is white"
+      },
+      {
+       "cyr": "дури лице ми е младо. [2х]",
+       "lat": "duri lice mi e mlado. [2h]",
+       "en": "while my face is young. [2x]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љубам, љубам лудо младо [2х]",
+       "lat": "Ljubam, ljubam ludo mlado [2h]",
+       "en": "I love, I love, dear young man [2x]"
+      },
+      {
+       "cyr": "дури срце љубов сака",
+       "lat": "duri srce ljubov saka",
+       "en": "while the heart wants love"
+      },
+      {
+       "cyr": "ајде дојди дај ми рака. [2х]",
+       "lat": "ajde dojdi daj mi raka. [2h]",
+       "en": "come on, come, give me your hand. [2x]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас со тебе љубов водам [2х]",
+       "lat": "Jas so tebe ljubov vodam [2h]",
+       "en": "I carry on a love with you [2x]"
+      },
+      {
+       "cyr": "каде сакаш лудо младо",
+       "lat": "kade sakaš ludo mlado",
+       "en": "wherever you want, dear young man"
+      },
+      {
+       "cyr": "јас со тебе сал ќе одам",
+       "lat": "jas so tebe sal ḱe odam",
+       "en": "I will go only with you"
+      },
+      {
+       "cyr": "ако тебе не те земам",
+       "lat": "ako tebe ne te zemam",
+       "en": "if I do not take you"
+      },
+      {
+       "cyr": "лудо младо ќе изгорам.",
+       "lat": "ludo mlado ḱe izgoram.",
+       "en": "dear young man, I will burn."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

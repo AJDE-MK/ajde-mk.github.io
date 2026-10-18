@@ -1,0 +1,127 @@
+{
+ "id": 1353,
+ "slug": "senka-debela",
+ "title_cyr": "Сенка дебела",
+ "title_latin": "Senka debela",
+ "title_en": "Dense shade",
+ "pesna_url": "https://pesna.org/song/1353",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од поста излегла девојка,",
+       "lat": "Od posta izlegla devojka,",
+       "en": "A girl walked off from harvesting"
+      },
+      {
+       "cyr": "на брата си говорит:",
+       "lat": "na brata si govorit:",
+       "en": "To her brother she said:"
+      },
+      {
+       "cyr": "- Брату ле, брате Стојане,",
+       "lat": "- Bratu le, brate Stojane,",
+       "en": "- My dear brother, dear brother Stojan"
+      },
+      {
+       "cyr": "подај ми вода, леле, студена.",
+       "lat": "podaj mi voda, lele, studena.",
+       "en": "Give me some cold spring-water"
+      },
+      {
+       "cyr": "Брату ле, брате Стојане",
+       "lat": "Bratu le, brate Stojane",
+       "en": "My dear brother, dear brother Stojan"
+      },
+      {
+       "cyr": "најди ми сенка дебела.",
+       "lat": "najdi mi senka debela.",
+       "en": "Find me some dense shade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан ѝ веле, говоре,",
+       "lat": "Stojan ì vele, govore,",
+       "en": "Stojan spoke and replied"
+      },
+      {
+       "cyr": "на сестра си говорит:",
+       "lat": "na sestra si govorit:",
+       "en": "To his sister he said:"
+      },
+      {
+       "cyr": "- Сестро ле, сестро Елено,",
+       "lat": "- Sestro le, sestro Eleno,",
+       "en": "- My dear sister, dear Elena"
+      },
+      {
+       "cyr": "тук' нема вода, леле, студена.",
+       "lat": "tuk' nema voda, lele, studena.",
+       "en": "There is no cold spring-water here"
+      },
+      {
+       "cyr": "Сестро ле, сестро Елено,",
+       "lat": "Sestro le, sestro Eleno,",
+       "en": "My dear sister, dear sister Elena"
+      },
+      {
+       "cyr": "nи има сенка дебела.",
+       "lat": "ni ima senka debela.",
+       "en": "Nor is there any dense shade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан ѝ веле, говоре,",
+       "lat": "Stojan ì vele, govore,",
+       "en": "Stojan spoke and replied"
+      },
+      {
+       "cyr": "на сестра си говорит:",
+       "lat": "na sestra si govorit:",
+       "en": "To his sister he said:"
+      },
+      {
+       "cyr": "- Дојди во гора зелена,",
+       "lat": "- Dojdi vo gora zelena,",
+       "en": "- Come to the green mountain forest"
+      },
+      {
+       "cyr": "донеси вода, леле, студена.",
+       "lat": "donesi voda, lele, studena.",
+       "en": "Fetch some cold spring-water"
+      },
+      {
+       "cyr": "Дојди во гора зелена,",
+       "lat": "Dojdi vo gora zelena,",
+       "en": "Come to the green mountain forest"
+      },
+      {
+       "cyr": "там' има сенка дебела.",
+       "lat": "tam' ima senka debela.",
+       "en": "Over there, there is dense shade."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

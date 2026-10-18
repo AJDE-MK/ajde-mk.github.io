@@ -1,0 +1,188 @@
+{
+ "id": 452,
+ "slug": "zajdi-zajdi-jasno-sonce",
+ "title_cyr": "Зајди, зајди јасно сонце",
+ "title_latin": "Zajdi, zajdi jasno sonce",
+ "title_en": "Set, set, clear sun",
+ "pesna_url": "https://pesna.org/song/452",
+ "background": "A lament for lost youth, not for a lover. The singer tells the sun and moon to go dark and calls the forest her sister. The forest's leaves will grow back each spring; her youth never will. It is one of the most performed slow songs in the repertoire, recorded by everyone from Aleksandar Sarievski to Toše Proeski. Qwen's draft adds that it is usually sung as a mother's lament, and that other versions give the reason as wanting her son not to be sent to war (unchecked).",
+ "background_source": "Source of these notes: your 6-song songbook, with a variant noted from Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Александра Поповска",
+  "Алекса Недељковиќ",
+  "Амира Медуњанин",
+  "Андријана Јаневска",
+  "Василиса",
+  "Влатко Стефановски",
+  "Ганчо Николов",
+  "Гарабет Тавитјан",
+  "Драган Даутовски квартет",
+  "Зафир Хаџиманов",
+  "Зоран Марковски",
+  "Илија Аргиров",
+  "Каролина Гочева",
+  "Марија Димитрова",
+  "Азија Пинчева",
+  "Вања Димитрова",
+  "Нина Спирова",
+  "Павел Михов",
+  "Парамециум",
+  "Тоше Проески"
+ ],
+ "audio": [
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/44"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/45"
+  },
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/46"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/47"
+  },
+  {
+   "who": "Гарабет Тавитјан, Парамециум",
+   "url": "https://pesna.org/audio-download/48"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/49"
+  },
+  {
+   "who": "Каролина Гочева, Павел Михов",
+   "url": "https://pesna.org/audio-download/50"
+  },
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/51"
+  },
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/52"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1301"
+  },
+  {
+   "who": "Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/1629"
+  },
+  {
+   "who": "Василиса",
+   "url": "https://pesna.org/audio-download/1779"
+  },
+  {
+   "who": "Ганчо Николов",
+   "url": "https://pesna.org/audio-download/2236"
+  },
+  {
+   "who": "Алекса Недељковиќ",
+   "url": "https://pesna.org/audio-download/3051"
+  },
+  {
+   "who": "Андријана Јаневска, Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/3561"
+  },
+  {
+   "who": "Александра Поповска",
+   "url": "https://pesna.org/audio-download/3809"
+  },
+  {
+   "who": "Марија Димитрова, Азија Пинчева, Вања Димитрова",
+   "url": "https://pesna.org/audio-download/4135"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зајди, зајди јасно сонце,",
+       "lat": "Zajdi, zajdi jasno sonce,",
+       "en": "Set, set, clear Sun,"
+      },
+      {
+       "cyr": "зајди помрачи се,",
+       "lat": "zajdi pomrači se,",
+       "en": "set to dim"
+      },
+      {
+       "cyr": "и ти јасна ле месечино,",
+       "lat": "i ti jasna le mesečino,",
+       "en": "and you bright Moon,"
+      },
+      {
+       "cyr": "бегај удави се.",
+       "lat": "begaj udavi se.",
+       "en": "begone, drown yourself."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црнеј горо, црнеј сестро,",
+       "lat": "Crnej goro, crnej sestro,",
+       "en": "Blacken forest, blacken sister,"
+      },
+      {
+       "cyr": "двата да црнејме,",
+       "lat": "dvata da crnejme,",
+       "en": "let's both blacken."
+      },
+      {
+       "cyr": "ти за твојте лисја ле горо,",
+       "lat": "ti za tvojte lisja le goro,",
+       "en": "You, for your leaves, forest,"
+      },
+      {
+       "cyr": "јас за мојта младост.",
+       "lat": "jas za mojta mladost.",
+       "en": "I, for my youth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте лисја горо сестро,",
+       "lat": "Tvojte lisja goro sestro,",
+       "en": "Your leaves, forest, sister,"
+      },
+      {
+       "cyr": "пак ќе ти се вратат,",
+       "lat": "pak ḱe ti se vratat,",
+       "en": "will come back again."
+      },
+      {
+       "cyr": "а мојата младост ле горо,",
+       "lat": "a mojata mladost le goro,",
+       "en": "My youth, forest, sister"
+      },
+      {
+       "cyr": "нема да се врати.",
+       "lat": "nema da se vrati.",
+       "en": "will not come back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

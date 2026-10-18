@@ -1,0 +1,196 @@
+{
+ "id": 193,
+ "slug": "pesna-za-chakalarov",
+ "title_cyr": "Песна за Чакаларов",
+ "title_latin": "Pesna za Čakalarov",
+ "title_en": "A song for Chakalarov",
+ "pesna_url": "https://pesna.org/song/193",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Ело Калков",
+  "Киме Нанчов",
+  "Коста Апостолов",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/123"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/124"
+  },
+  {
+   "who": "Коста Апостолов",
+   "url": "https://pesna.org/audio-download/3567"
+  },
+  {
+   "who": "Ело Калков",
+   "url": "https://pesna.org/audio-download/3568"
+  },
+  {
+   "who": "Киме Нанчов",
+   "url": "https://pesna.org/audio-download/3569"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3662"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бој се почна во клисура,",
+       "lat": "Boj se počna vo klisura,",
+       "en": "The battle began in the ravine",
+       "en_mt": false
+      },
+      {
+       "cyr": "Чакаларов бре,",
+       "lat": "Čakalarov bre,",
+       "en": "Oh, Chakalarov!",
+       "en_mt": false
+      },
+      {
+       "cyr": "жив фатете го, обесете го",
+       "lat": "živ fatete go, obesete go",
+       "en": "“Capture him alive, hang him!",
+       "en_mt": false
+      },
+      {
+       "cyr": "тоа бесно куче сардисајте го.",
+       "lat": "toa besno kuče sardisajte go.",
+       "en": "That restless dog, surround him!”",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Македонка мома жнијаше,",
+       "lat": "Makedonka moma žnijaše,",
+       "en": "A Macedonian girl was harvesting",
+       "en_mt": false
+      },
+      {
+       "cyr": "Чакаларов бре,",
+       "lat": "Čakalarov bre,",
+       "en": "Oh, Chakalarov!",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кусото јачменче,",
+       "lat": "na kusoto jačmenče,",
+       "en": "In the short barley.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Чакаларов бре.",
+       "lat": "Čakalarov bre.",
+       "en": "Oh, Chakalarov!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде Бахтијар Паша,",
+       "lat": "Ozdola ide Bahtijar Paša,",
+       "en": "Bahtiar Pasha is coming from below",
+       "en_mt": false
+      },
+      {
+       "cyr": "со триесет илјади,",
+       "lat": "so trieset iljadi,",
+       "en": "With 30,000",
+       "en_mt": false
+      },
+      {
+       "cyr": "Чакаларов е",
+       "lat": "Čakalarov e",
+       "en": "Chakalarov is",
+       "en_mt": false
+      },
+      {
+       "cyr": "со триста момчиња.",
+       "lat": "so trista momčinja.",
+       "en": "with 300 lads.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бахтијар Паша викаше:",
+       "lat": "Bahtijar Paša vikaše:",
+       "en": "Bahtiar Pasha was yelling:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Уџум кардашла“,",
+       "lat": "- „Udžum kardašla“,",
+       "en": "“Soar, brothers!”",
+       "en_mt": false
+      },
+      {
+       "cyr": "Чакаларов викаше:",
+       "lat": "Čakalarov vikaše:",
+       "en": "Chakalarov was yelling:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Ура момчиња“!",
+       "lat": "- „Ura momčinja“!",
+       "en": "“Hurrah, lads!”",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жив фатете го, обесете го",
+       "lat": "Živ fatete go, obesete go",
+       "en": "“Capture him alive, hang him!",
+       "en_mt": false
+      },
+      {
+       "cyr": "тоа бесно куче сардисајте го.",
+       "lat": "toa besno kuče sardisajte go.",
+       "en": "That restless dog, assault him!”",
+       "en_mt": false
+      },
+      {
+       "cyr": "Однесете го горе в' Смилево",
+       "lat": "Odnesete go gore v' Smilevo",
+       "en": "Take him up to Smilevo",
+       "en_mt": false
+      },
+      {
+       "cyr": "кај комитетот море македонски.",
+       "lat": "kaj komitetot more makedonski.",
+       "en": "To the Macedonian committee.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,119 @@
+{
+ "id": 517,
+ "slug": "sanokj-mi-bilbil-propea",
+ "title_cyr": "Саноќ ми билбил пропеа",
+ "title_latin": "Sanoḱ mi bilbil propea",
+ "title_en": "Last night a nightingale sung",
+ "pesna_url": "https://pesna.org/song/517",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Костадин Гугов",
+  "Светлана Радовска",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1295"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/1296"
+  },
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1930"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/3295"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ ми билбил пропеа,",
+       "lat": "Sanoḱ mi bilbil propea,",
+       "en": "Last night a nightingale sung,"
+      },
+      {
+       "cyr": "саноќ ми билбил препеа,",
+       "lat": "sanoḱ mi bilbil prepea,",
+       "en": "last night a nightingale sung,"
+      },
+      {
+       "cyr": "на катиниот трендафил,",
+       "lat": "na katiniot trendafil,",
+       "en": "standing on Kate's rose,"
+      },
+      {
+       "cyr": "на катиниот трендафил.",
+       "lat": "na katiniot trendafil.",
+       "en": "standing on Kate's rose."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ми, стани Катинке,",
+       "lat": "- Stani mi, stani Katinke,",
+       "en": "Get up, get up Kate,"
+      },
+      {
+       "cyr": "стани ми, стани девојче.",
+       "lat": "stani mi, stani devojče.",
+       "en": "get up, get up girl."
+      },
+      {
+       "cyr": "Либето ти се посврши,",
+       "lat": "Libeto ti se posvrši,",
+       "en": "Your beloved one is engaged to be married"
+      },
+      {
+       "cyr": "од тебе сака проштење.",
+       "lat": "od tebe saka proštenje.",
+       "en": "and he asks forgiveness from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Од мене просто да му е,",
+       "lat": "- Od mene prosto da mu e,",
+       "en": "From me, he is forgiven,"
+      },
+      {
+       "cyr": "од мене просто да му е.",
+       "lat": "od mene prosto da mu e.",
+       "en": "from me, he is forgiven."
+      },
+      {
+       "cyr": "Од бога проклет да биде,",
+       "lat": "Od boga proklet da bide,",
+       "en": "From God, may he be damned,"
+      },
+      {
+       "cyr": "срцево ми го изгоре!",
+       "lat": "srcevo mi go izgore!",
+       "en": "for he burned my heart!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

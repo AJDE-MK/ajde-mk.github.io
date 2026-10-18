@@ -1,0 +1,213 @@
+{
+ "id": 980,
+ "slug": "bogata-sava-bogata",
+ "title_cyr": "Богата Сава, богата",
+ "title_latin": "Bogata Sava, bogata",
+ "title_en": "Rich Sava, Rich",
+ "pesna_url": "https://pesna.org/song/980",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Sava's baby is apparently a stone child, which is my reading of the last stanza; the ending 'Саво ле, Саво леле, богата' as the godfather's answer is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "богата",
+   "en": "rich"
+  },
+  {
+   "mk": "пиле млеко",
+   "en": "bird's milk (having everything)"
+  },
+  {
+   "mk": "рожба",
+   "en": "child, offspring"
+  },
+  {
+   "mk": "камен",
+   "en": "stone"
+  },
+  {
+   "mk": "пелени",
+   "en": "swaddling clothes"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  },
+  {
+   "mk": "нунко",
+   "en": "godfather"
+  },
+  {
+   "mk": "владика",
+   "en": "bishop"
+  },
+  {
+   "mk": "крстат",
+   "en": "baptize"
+  },
+  {
+   "mk": "вриснаја",
+   "en": "screamed"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2284"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Богата Сава, богата,",
+       "lat": "Bogata Sava, bogata,",
+       "en": "Rich Sava, rich,"
+      },
+      {
+       "cyr": "од пиле млеко, мори, имала,",
+       "lat": "od pile mleko, mori, imala,",
+       "en": "she had bird's milk, hey,"
+      },
+      {
+       "cyr": "од пиле млеко имала,",
+       "lat": "od pile mleko imala,",
+       "en": "she had bird's milk,"
+      },
+      {
+       "cyr": "од срце рожба, мори, немала.",
+       "lat": "od srce rožba, mori, nemala.",
+       "en": "she had no child of her heart, hey."
+      },
+      {
+       "cyr": "Турила камен на срце,",
+       "lat": "Turila kamen na srce,",
+       "en": "She put a stone on her heart,"
+      },
+      {
+       "cyr": "носила девет, мори, месеци.",
+       "lat": "nosila devet, mori, meseci.",
+       "en": "she carried for nine, hey, months."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Исткала свила, пелени,",
+       "lat": "Istkala svila, peleni,",
+       "en": "She wove silk, swaddling clothes,"
+      },
+      {
+       "cyr": "купила лулки, мори, сребрени,",
+       "lat": "kupila lulki, mori, srebreni,",
+       "en": "she bought cradles, hey, of silver,"
+      },
+      {
+       "cyr": "викнала нунко, владика,",
+       "lat": "viknala nunko, vladika,",
+       "en": "she called the godfather, the bishop,"
+      },
+      {
+       "cyr": "Савино дете, леле, да крстат.",
+       "lat": "Savino dete, lele, da krstat.",
+       "en": "to baptize Sava's child, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога во црква појдоја,",
+       "lat": "Koga vo crkva pojdoja,",
+       "en": "When they went to church,"
+      },
+      {
+       "cyr": "сите ми деца, леле, вриснаја.",
+       "lat": "site mi deca, lele, vrisnaja.",
+       "en": "all the children, oh, screamed."
+      },
+      {
+       "cyr": "Сите ми деца плачеа,",
+       "lat": "Site mi deca plačea,",
+       "en": "All the children cried,"
+      },
+      {
+       "cyr": "Савино дете, леле, не плаче.",
+       "lat": "Savino dete, lele, ne plače.",
+       "en": "Sava's child, oh, does not cry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми дома дојдоја,",
+       "lat": "Koga mi doma dojdoja,",
+       "en": "When they came home,"
+      },
+      {
+       "cyr": "Сава пред порти, леле, истрча,",
+       "lat": "Sava pred porti, lele, istrča,",
+       "en": "Sava ran out, oh, before the gate,"
+      },
+      {
+       "cyr": "и си го нунко запраша:",
+       "lat": "i si go nunko zapraša:",
+       "en": "and asked the godfather:"
+      },
+      {
+       "cyr": "- Нунко ле, нунко море, владико,",
+       "lat": "- Nunko le, nunko more, vladiko,",
+       "en": "- Godfather, hey godfather, bishop,"
+      },
+      {
+       "cyr": "какво му име кладовте?",
+       "lat": "kakvo mu ime kladovte?",
+       "en": "what name did you give him?"
+      },
+      {
+       "cyr": "- Саво ле, Саво леле, богата.",
+       "lat": "- Savo le, Savo lele, bogata.",
+       "en": "- Sava, oh Sava, oh, rich one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Саво ле, Саво богата,",
+       "lat": "Savo le, Savo bogata,",
+       "en": "Sava, oh Sava, rich one,"
+      },
+      {
+       "cyr": "пусто да ти е, мори, богатство!",
+       "lat": "pusto da ti e, mori, bogatstvo!",
+       "en": "may your wealth be cursed, hey!"
+      },
+      {
+       "cyr": "Нели е камен пак камен?",
+       "lat": "Neli e kamen pak kamen?",
+       "en": "Isn't a stone just a stone?"
+      },
+      {
+       "cyr": "Каменот, Саво мори, не плаче.",
+       "lat": "Kamenot, Savo mori, ne plače.",
+       "en": "A stone, Sava, hey, does not cry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

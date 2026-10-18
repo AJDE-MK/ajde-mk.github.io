@@ -1,0 +1,109 @@
+{
+ "id": 1078,
+ "slug": "dune-mori-maloj-mome",
+ "title_cyr": "Дуне мори, малој моме",
+ "title_latin": "Dune mori, maloj mome",
+ "title_en": "Dune, dear, little girl",
+ "pesna_url": "https://pesna.org/song/1078",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вокален ансамбл Езерец - Благоевград",
+  "Balkanswingband Sultan"
+ ],
+ "audio": [
+  {
+   "who": "Balkanswingband Sultan",
+   "url": "https://pesna.org/audio-download/2533"
+  },
+  {
+   "who": "Вокален ансамбл Езерец - Благоевград",
+   "url": "https://pesna.org/audio-download/3703"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дуне, Дуне мори, малој моме,",
+       "lat": "Dune, Dune mori, maloj mome,",
+       "en": "Dune, dear, little girl,"
+      },
+      {
+       "cyr": "слези, Дунка мори, на дворови,",
+       "lat": "slezi, Dunka mori, na dvorovi,",
+       "en": "come down, Dunka, to the courts"
+      },
+      {
+       "cyr": "да си ми гледаш, мори, јасно сонце,",
+       "lat": "da si mi gledaš, mori, jasno sonce,",
+       "en": "to look at the bright sun"
+      },
+      {
+       "cyr": "како зајде, мори, зад Пирина.",
+       "lat": "kako zajde, mori, zad Pirina.",
+       "en": "which shines over Pirin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си ми идеш, мори, на чешмата,",
+       "lat": "Da si mi ideš, mori, na češmata,",
+       "en": "Come to the well,"
+      },
+      {
+       "cyr": "на чешмата, мори, на водата.",
+       "lat": "na češmata, mori, na vodata.",
+       "en": "to the well, dear, to the water."
+      },
+      {
+       "cyr": "Там' си виде, мори, едно ми лудо,",
+       "lat": "Tam' si vide, mori, edno mi ludo,",
+       "en": "There you see a reckless young man,"
+      },
+      {
+       "cyr": "тој на Дунка, мори, проговори:",
+       "lat": "toj na Dunka, mori, progovori:",
+       "en": "who speaks to Dunka:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дуне, Дуне мори, малој моме,",
+       "lat": "- Dune, Dune mori, maloj mome,",
+       "en": "- Dune, dear, little girl,"
+      },
+      {
+       "cyr": "дај, дај дуне Мори, да си те бакнам,",
+       "lat": "daj, daj dune Mori, da si te baknam,",
+       "en": "come, Dune, so that I can kiss you."
+      },
+      {
+       "cyr": "Да си те бакнам, мори, по двете бузи,",
+       "lat": "Da si te baknam, mori, po dvete buzi,",
+       "en": "I kiss you on both lips,"
+      },
+      {
+       "cyr": "да ти направам, мори, две синици.",
+       "lat": "da ti napravam, mori, dve sinici.",
+       "en": "I give you two small bruises."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

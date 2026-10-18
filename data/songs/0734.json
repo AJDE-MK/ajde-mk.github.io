@@ -1,0 +1,261 @@
+{
+ "id": 734,
+ "slug": "shto-mi-omilelo",
+ "title_cyr": "Што ми омилело",
+ "title_latin": "Što mi omilelo",
+ "title_en": "What I have come to love",
+ "pesna_url": "https://pesna.org/song/734",
+ "background": "A gentle song of longing for a place, dressed up as longing for girls: what captured the singer is the Kumanovo plain, the Kumanovo girls and the *saie*, the embroidered woolen apron-dress, worked with little flower bouquets.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Kumanovo dialect forms (-е endings, к'д ќе ги погледну). Line 3 meaning ('when they look') and 'сае' as a woollen coat are my reading; the object of 'look' is unstated.",
+ "words_to_learn": [
+  {
+   "mk": "омилело",
+   "en": "(has) become dear"
+  },
+  {
+   "mk": "мале",
+   "en": "mother (vocative, dialect)"
+  },
+  {
+   "mk": "поле",
+   "en": "field, plain"
+  },
+  {
+   "mk": "моме",
+   "en": "girls (Kumanovo dialect plural)"
+  },
+  {
+   "mk": "променете",
+   "en": "the kerchiefs (dialect)"
+  },
+  {
+   "mk": "сае",
+   "en": "woollen coat (my reading)"
+  },
+  {
+   "mk": "извезене",
+   "en": "embroidered (dialect)"
+  },
+  {
+   "mk": "китке",
+   "en": "flowers, bouquets"
+  },
+  {
+   "mk": "закитене",
+   "en": "adorned (dialect)"
+  }
+ ],
+ "performers": [
+  "Памук"
+ ],
+ "audio": [
+  {
+   "who": "Памук",
+   "url": "https://pesna.org/audio-download/959"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ми омилело, мале,",
+       "lat": "Što mi omilelo, male,",
+       "en": "What I have come to love, mother,"
+      },
+      {
+       "cyr": "што ми омилело,",
+       "lat": "što mi omilelo,",
+       "en": "what I have come to love,"
+      },
+      {
+       "cyr": "еј, што ми омилело,",
+       "lat": "ej, što mi omilelo,",
+       "en": "hey, what I have come to love,"
+      },
+      {
+       "cyr": "еј, што ми омилело.",
+       "lat": "ej, što mi omilelo.",
+       "en": "hey, what I have come to love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кумановско поле, мале,",
+       "lat": "Kumanovsko pole, male,",
+       "en": "The Kumanovo field, mother,"
+      },
+      {
+       "cyr": "кумановско поле,",
+       "lat": "kumanovsko pole,",
+       "en": "the Kumanovo field,"
+      },
+      {
+       "cyr": "еј, кумановско поле,",
+       "lat": "ej, kumanovsko pole,",
+       "en": "hey, the Kumanovo field,"
+      },
+      {
+       "cyr": "еј, кумановско поле.",
+       "lat": "ej, kumanovsko pole.",
+       "en": "hey, the Kumanovo field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "К'д ќе ги погледну, мале,",
+       "lat": "K'd ḱe gi poglednu, male,",
+       "en": "When they look, mother,"
+      },
+      {
+       "cyr": "к'д ќе ги погледну,",
+       "lat": "k'd ḱe gi poglednu,",
+       "en": "when they look,"
+      },
+      {
+       "cyr": "еј, к'д ќе ги погледну,",
+       "lat": "ej, k'd ḱe gi poglednu,",
+       "en": "hey, when they look,"
+      },
+      {
+       "cyr": "еј, к'д ќе ги погледну.",
+       "lat": "ej, k'd ḱe gi poglednu.",
+       "en": "hey, when they look."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кумановске моме, мале,",
+       "lat": "Kumanovske mome, male,",
+       "en": "The Kumanovo girls, mother,"
+      },
+      {
+       "cyr": "кумановске моме,",
+       "lat": "kumanovske mome,",
+       "en": "the Kumanovo girls,"
+      },
+      {
+       "cyr": "еј, бело променете,",
+       "lat": "ej, belo promenete,",
+       "en": "hey, with white kerchiefs,"
+      },
+      {
+       "cyr": "еј, бело променете.",
+       "lat": "ej, belo promenete.",
+       "en": "hey, with white kerchiefs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што убаво носив, мале,",
+       "lat": "Što ubavo nosiv, male,",
+       "en": "What beautiful things I wore, mother,"
+      },
+      {
+       "cyr": "што убаво носив,",
+       "lat": "što ubavo nosiv,",
+       "en": "what beautiful things I wore,"
+      },
+      {
+       "cyr": "еј, што убаво носив,",
+       "lat": "ej, što ubavo nosiv,",
+       "en": "hey, what beautiful things I wore,"
+      },
+      {
+       "cyr": "еј, што убаво носив.",
+       "lat": "ej, što ubavo nosiv.",
+       "en": "hey, what beautiful things I wore."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сае извезене, мале,",
+       "lat": "Sae izvezene, male,",
+       "en": "Embroidered woollen coats, mother,"
+      },
+      {
+       "cyr": "сае извезене,",
+       "lat": "sae izvezene,",
+       "en": "embroidered woollen coats,"
+      },
+      {
+       "cyr": "еј, китке закитене,",
+       "lat": "ej, kitke zakitene,",
+       "en": "hey, flowers adorned,"
+      },
+      {
+       "cyr": "еј, китке закитене.",
+       "lat": "ej, kitke zakitene.",
+       "en": "hey, flowers adorned."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е омилело, мале,",
+       "lat": "Što mi e omilelo, male,",
+       "en": "What I have come to love, mother,"
+      },
+      {
+       "cyr": "што ми е омилело,",
+       "lat": "što mi e omilelo,",
+       "en": "what I have come to love,"
+      },
+      {
+       "cyr": "еј, што ми е омилело,",
+       "lat": "ej, što mi e omilelo,",
+       "en": "hey, what I have come to love,"
+      },
+      {
+       "cyr": "што ми е омилело.",
+       "lat": "što mi e omilelo.",
+       "en": "what I have come to love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кумановско поле, мале,",
+       "lat": "Kumanovsko pole, male,",
+       "en": "The Kumanovo field, mother,"
+      },
+      {
+       "cyr": "кумановско поле,",
+       "lat": "kumanovsko pole,",
+       "en": "the Kumanovo field,"
+      },
+      {
+       "cyr": "еј, кумановско поле,",
+       "lat": "ej, kumanovsko pole,",
+       "en": "hey, the Kumanovo field,"
+      },
+      {
+       "cyr": "еј, кумановско поле.",
+       "lat": "ej, kumanovsko pole.",
+       "en": "hey, the Kumanovo field."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

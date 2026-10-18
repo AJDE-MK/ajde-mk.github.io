@@ -1,0 +1,258 @@
+{
+ "id": 1470,
+ "slug": "more-rasti-rasti-ti-maloj-mome",
+ "title_cyr": "Море расти, расти ти малој моме",
+ "title_latin": "More rasti, rasti ti maloj mome",
+ "title_en": "Grow, grow, little girl",
+ "pesna_url": "https://pesna.org/song/1470",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A shape-shifting chase song. 'јаска' is my reading of 'I myself'; the last stanzas say 'lets fly' of a fish, which is in the original and rendered literally. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "расти",
+   "en": "grow"
+  },
+  {
+   "mk": "порастам",
+   "en": "I grow up"
+  },
+  {
+   "mk": "јаска",
+   "en": "I myself (dialect, 'јас ќе' blend, my reading)"
+  },
+  {
+   "mk": "ќе се сторам",
+   "en": "I will turn myself into"
+  },
+  {
+   "mk": "врапче",
+   "en": "sparrow"
+  },
+  {
+   "mk": "јавор",
+   "en": "maple"
+  },
+  {
+   "mk": "мренка",
+   "en": "barbel (a river fish)"
+  },
+  {
+   "mk": "плоча",
+   "en": "stone slab"
+  }
+ ],
+ "performers": [
+  "Александра Поповска",
+  "Драган Даутовски квартет"
+ ],
+ "audio": [
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/3805"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Расти ми, расти ти малој моме",
+       "lat": "- Rasti mi, rasti ti maloj mome",
+       "en": "- Grow, grow, little girl,"
+      },
+      {
+       "cyr": "расти да порастиш",
+       "lat": "rasti da porastiš",
+       "en": "grow until you are grown."
+      },
+      {
+       "cyr": "Море расти, расти ти малој моме",
+       "lat": "More rasti, rasti ti maloj mome",
+       "en": "Hey, grow, grow, little girl,"
+      },
+      {
+       "cyr": "јаска ќе те земам.",
+       "lat": "jaska ḱe te zemam.",
+       "en": "I myself will take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море јас ќе растам и ќе порастам,",
+       "lat": "- More jas ḱe rastam i ḱe porastam,",
+       "en": "- Hey, I will grow and I will grow up,"
+      },
+      {
+       "cyr": "тебе не те земам.",
+       "lat": "tebe ne te zemam.",
+       "en": "I will not take you."
+      },
+      {
+       "cyr": "Море ќе се сторам сино леле врапче,",
+       "lat": "More ḱe se storam sino lele vrapče,",
+       "en": "Hey, I will turn into a blue, oh, sparrow,"
+      },
+      {
+       "cyr": "ќе прелетам гора.",
+       "lat": "ḱe preletam gora.",
+       "en": "I will fly over the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море расти, расти ти малој моме",
+       "lat": "- More rasti, rasti ti maloj mome",
+       "en": "- Hey, grow, grow, little girl,"
+      },
+      {
+       "cyr": "јаска ќе те земам.",
+       "lat": "jaska ḱe te zemam.",
+       "en": "I myself will take you."
+      },
+      {
+       "cyr": "Море ќе се сторам јавор леле дрво",
+       "lat": "More ḱe se storam javor lele drvo",
+       "en": "Hey, I will turn into a maple, oh, tree,"
+      },
+      {
+       "cyr": "горе во планина.",
+       "lat": "gore vo planina.",
+       "en": "high up in the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко ќе лета, лета сиво леле врапче,",
+       "lat": "Ko ḱe leta, leta sivo lele vrapče,",
+       "en": "When it flies, flies, the grey, oh, sparrow,"
+      },
+      {
+       "cyr": "на мене ќе стапи.",
+       "lat": "na mene ḱe stapi.",
+       "en": "it will perch on me."
+      },
+      {
+       "cyr": "Мор' ќе лета, лета сиво леле врапче",
+       "lat": "Mor' ḱe leta, leta sivo lele vrapče",
+       "en": "Hey, when it flies, flies, the grey, oh, sparrow,"
+      },
+      {
+       "cyr": "на мене ќе стапи.",
+       "lat": "na mene ḱe stapi.",
+       "en": "it will perch on me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море расти, расти ти малој моме,",
+       "lat": "More rasti, rasti ti maloj mome,",
+       "en": "Hey, grow, grow, little girl,"
+      },
+      {
+       "cyr": "јаска ќе те земам.",
+       "lat": "jaska ḱe te zemam.",
+       "en": "I myself will take you."
+      },
+      {
+       "cyr": "- Море јас ќе растам и ќе порастам,",
+       "lat": "- More jas ḱe rastam i ḱe porastam,",
+       "en": "- Hey, I will grow and I will grow up,"
+      },
+      {
+       "cyr": "тебе не те земам.",
+       "lat": "tebe ne te zemam.",
+       "en": "I will not take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ќе се сторам мренка леле риба,",
+       "lat": "More ḱe se storam mrenka lele riba,",
+       "en": "Hey, I will turn into a barbel, oh, fish,"
+      },
+      {
+       "cyr": "море ќе препливам.",
+       "lat": "more ḱe preplivam.",
+       "en": "hey, I will swim across."
+      },
+      {
+       "cyr": "Море ќе се сторам мренка леле риба,",
+       "lat": "More ḱe se storam mrenka lele riba,",
+       "en": "Hey, I will turn into a barbel, oh, fish,"
+      },
+      {
+       "cyr": "море ќе препливам.",
+       "lat": "more ḱe preplivam.",
+       "en": "hey, I will swim across."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море расти, расти ти малој моме,",
+       "lat": "- More rasti, rasti ti maloj mome,",
+       "en": "- Hey, grow, grow, little girl,"
+      },
+      {
+       "cyr": "јаска ќе те земам.",
+       "lat": "jaska ḱe te zemam.",
+       "en": "I myself will take you."
+      },
+      {
+       "cyr": "Море ќе се сторам мала бре плоча",
+       "lat": "More ḱe se storam mala bre ploča",
+       "en": "Hey, I will turn into a small, hey, stone slab"
+      },
+      {
+       "cyr": "долу во морето.",
+       "lat": "dolu vo moreto.",
+       "en": "down in the sea."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко ќе лета, лета мренка леле риба",
+       "lat": "Ko ḱe leta, leta mrenka lele riba",
+       "en": "When it flies, flies, the barbel, oh, fish,"
+      },
+      {
+       "cyr": "на мене ќе стапи.",
+       "lat": "na mene ḱe stapi.",
+       "en": "it will land on me."
+      },
+      {
+       "cyr": "Ко ќе лета, лета мренка леле риба",
+       "lat": "Ko ḱe leta, leta mrenka lele riba",
+       "en": "When it flies, flies, the barbel, oh, fish,"
+      },
+      {
+       "cyr": "на мене ќе стапи.",
+       "lat": "na mene ḱe stapi.",
+       "en": "it will land on me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,151 @@
+{
+ "id": 680,
+ "slug": "magdo-mori-magdaleno",
+ "title_cyr": "Магдо мори Магдалено",
+ "title_latin": "Magdo mori Magdaleno",
+ "title_en": "Magda dear, Magdalena",
+ "pesna_url": "https://pesna.org/song/680",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Андријана Јаневска",
+  "Васка Илиева",
+  "Драгица Мавровска",
+  "Драгица Николова",
+  "Љубен и Весела Божкови",
+  "Марјан Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Андријана Јаневска, Марјан Стојановски",
+   "url": "https://pesna.org/audio-download/859"
+  },
+  {
+   "who": "Љубен и Весела Божкови",
+   "url": "https://pesna.org/audio-download/860"
+  },
+  {
+   "who": "Васка Илиева, Драгица Николова",
+   "url": "https://pesna.org/audio-download/2907"
+  },
+  {
+   "who": "Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4307"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Магдо мори, Магдалено",
+       "lat": "- Magdo mori, Magdaleno",
+       "en": "Magda dear, Magdalena,"
+      },
+      {
+       "cyr": "елај ми Магдо на колено",
+       "lat": "elaj mi Magdo na koleno",
+       "en": "come sit, Magda, in my lap,"
+      },
+      {
+       "cyr": "раскопчај ми кошулава,",
+       "lat": "raskopčaj mi košulava,",
+       "en": "unbutton my shirt,"
+      },
+      {
+       "cyr": "три години непрана.",
+       "lat": "tri godini neprana.",
+       "en": "nor washed for three years."
+      },
+      {
+       "cyr": "Аман, оф аман, аман",
+       "lat": "Aman, of aman, aman",
+       "en": "Please, oh please, please,"
+      },
+      {
+       "cyr": "Магдо, дојде зорт-заман.",
+       "lat": "Magdo, dojde zort-zaman.",
+       "en": "Magda, the times are very hard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Немам сапун Ѓорѓи, море",
+       "lat": "- Nemam sapun Ǵorǵi, more",
+       "en": "I don't have soap Gjorgji, dear,"
+      },
+      {
+       "cyr": "кошула да ти исперам,",
+       "lat": "košula da ti isperam,",
+       "en": "to wash your shirt,"
+      },
+      {
+       "cyr": "немам конец Ѓорѓи, море",
+       "lat": "nemam konec Ǵorǵi, more",
+       "en": "I don't have thread Gjorji, dear,"
+      },
+      {
+       "cyr": "кошула да ти закрпам.",
+       "lat": "košula da ti zakrpam.",
+       "en": "to patch your shirt."
+      },
+      {
+       "cyr": "Аман, оф аман, аман,",
+       "lat": "Aman, of aman, aman,",
+       "en": "Please, oh please, please,"
+      },
+      {
+       "cyr": "Ѓорѓи, дојде зорт-заман.",
+       "lat": "Ǵorǵi, dojde zort-zaman.",
+       "en": "Magda, the times are very hard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Раце ти се, Магдо мори,",
+       "lat": "- Race ti se, Magdo mori,",
+       "en": "Your hands are, Magda dear,"
+      },
+      {
+       "cyr": "к'о пирински ми сапун,",
+       "lat": "k'o pirinski mi sapun,",
+       "en": "like soap from Pirin,"
+      },
+      {
+       "cyr": "коси ти се, Магдо мори,",
+       "lat": "kosi ti se, Magdo mori,",
+       "en": "your hair is, Magda dear,"
+      },
+      {
+       "cyr": "к'о солунски свилен конец.",
+       "lat": "k'o solunski svilen konec.",
+       "en": "like silk thread from Solun."
+      },
+      {
+       "cyr": "Аман, оф аман, аман",
+       "lat": "Aman, of aman, aman",
+       "en": "Please, oh please, please,"
+      },
+      {
+       "cyr": "Магдо, дојде зорт-заман.",
+       "lat": "Magdo, dojde zort-zaman.",
+       "en": "Magda, the times are very hard."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

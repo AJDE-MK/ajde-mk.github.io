@@ -1,0 +1,138 @@
+{
+ "id": 1388,
+ "slug": "edna-pesna-jas-da-zapeam",
+ "title_cyr": "Една песна јас да запеам",
+ "title_latin": "Edna pesna jas da zapeam",
+ "title_en": "Let Me Sing One Song",
+ "pesna_url": "https://pesna.org/song/1388",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Mood is longing for a lost love; 'да запеам' used as a wish, rendered 'let me sing'.",
+ "words_to_learn": [
+  {
+   "mk": "запеам",
+   "en": "I (will) sing"
+  },
+  {
+   "mk": "заборавам",
+   "en": "I forget"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "тивко",
+   "en": "softly"
+  },
+  {
+   "mk": "виолино",
+   "en": "violin (vocative)"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "прости ми",
+   "en": "forgive me"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/3570"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една песна јас да запеам,",
+       "lat": "Edna pesna jas da zapeam,",
+       "en": "Let me sing one song,"
+      },
+      {
+       "cyr": "тешко ми е да заборавам.",
+       "lat": "teško mi e da zaboravam.",
+       "en": "it is hard for me to forget."
+      },
+      {
+       "cyr": "Дајте чаша рујно вино,",
+       "lat": "Dajte čaša rujno vino,",
+       "en": "Give me a glass of ruby wine,"
+      },
+      {
+       "cyr": "свири тивко виолино,",
+       "lat": "sviri tivko violino,",
+       "en": "play softly, violin,"
+      },
+      {
+       "cyr": "една песна јас да запеам.",
+       "lat": "edna pesna jas da zapeam.",
+       "en": "let me sing one song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мила врати се, еј, каде отиде,",
+       "lat": "Ej, mila vrati se, ej, kade otide,",
+       "en": "Hey, dear, come back, hey, where did you go,"
+      },
+      {
+       "cyr": "само тебе јас те љубам, младост моја си,",
+       "lat": "samo tebe jas te ljubam, mladost moja si,",
+       "en": "only you do I love, you are my youth,"
+      },
+      {
+       "cyr": "сè ќе сторам да те вратам, само прости ми.",
+       "lat": "sè ḱe storam da te vratam, samo prosti mi.",
+       "en": "I will do everything to bring you back, just forgive me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една песна јас да запеам,",
+       "lat": "Edna pesna jas da zapeam,",
+       "en": "Let me sing one song,"
+      },
+      {
+       "cyr": "душа боли, многу тагувам.",
+       "lat": "duša boli, mnogu taguvam.",
+       "en": "my soul aches, I grieve a lot."
+      },
+      {
+       "cyr": "Ех да можам да те видам,",
+       "lat": "Eh da možam da te vidam,",
+       "en": "Ah, if I could see you,"
+      },
+      {
+       "cyr": "да те љубам, да те имам,",
+       "lat": "da te ljubam, da te imam,",
+       "en": "to love you, to have you,"
+      },
+      {
+       "cyr": "една песна јас ќе запеам.",
+       "lat": "edna pesna jas ḱe zapeam.",
+       "en": "one song I will sing."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

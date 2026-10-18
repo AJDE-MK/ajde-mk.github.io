@@ -1,0 +1,151 @@
+{
+ "id": 1092,
+ "slug": "mari-dimano-dzhan-dimano",
+ "title_cyr": "Мари Димано, џан Димано",
+ "title_latin": "Mari Dimano, džan Dimano",
+ "title_en": "Hey Dimana, Dear Dimana",
+ "pesna_url": "https://pesna.org/song/1092",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Last stanza is my reading: 'башча' as father and 'ошче мене' as 'and me too'. Dialect forms such as ј'одиш and ј'обрни. Traditional.",
+ "words_to_learn": [
+  {
+   "mk": "џан",
+   "en": "dear, darling (Turkish-origin)"
+  },
+  {
+   "mk": "сокак",
+   "en": "lane, street"
+  },
+  {
+   "mk": "обрни се",
+   "en": "turn around"
+  },
+  {
+   "mk": "заврти се",
+   "en": "spin around"
+  },
+  {
+   "mk": "дафинови",
+   "en": "bay-laurel (like dark berries)"
+  },
+  {
+   "mk": "негалено",
+   "en": "pampered, tender"
+  },
+  {
+   "mk": "снага",
+   "en": "figure, build"
+  },
+  {
+   "mk": "мермер",
+   "en": "marble"
+  },
+  {
+   "mk": "башча",
+   "en": "father (dialect, my reading)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Радио Благоевград",
+  "Ганчо Николов",
+  "Љупчо Дуцевски"
+ ],
+ "audio": [
+  {
+   "who": "Љупчо Дуцевски",
+   "url": "https://pesna.org/audio-download/2602"
+  },
+  {
+   "who": "Ансамбл Радио Благоевград",
+   "url": "https://pesna.org/audio-download/2608"
+  },
+  {
+   "who": "Ганчо Николов",
+   "url": "https://pesna.org/audio-download/3174"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мари Димано, џан Димано,",
+       "lat": "Mari Dimano, džan Dimano,",
+       "en": "Hey Dimana, dear Dimana,"
+      },
+      {
+       "cyr": "како ј'одиш по сокаци,",
+       "lat": "kako j'odiš po sokaci,",
+       "en": "how you walk along the lanes,"
+      },
+      {
+       "cyr": "ј'обрни се, џан Димано,",
+       "lat": "j'obrni se, džan Dimano,",
+       "en": "turn around, dear Dimana,"
+      },
+      {
+       "cyr": "заврти се покрај мене.",
+       "lat": "zavrti se pokraj mene.",
+       "en": "spin around next to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти видам џан Димано,",
+       "lat": "Da ti vidam džan Dimano,",
+       "en": "Let me see, dear Dimana,"
+      },
+      {
+       "cyr": "црни очи дафинови,",
+       "lat": "crni oči dafinovi,",
+       "en": "your black bay-laurel eyes,"
+      },
+      {
+       "cyr": "бело лице негалено,",
+       "lat": "belo lice negaleno,",
+       "en": "your white, pampered face,"
+      },
+      {
+       "cyr": "танка снага, мермер нозе.",
+       "lat": "tanka snaga, mermer noze.",
+       "en": "your slim figure, marble legs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели дума си думаја,",
+       "lat": "Neli duma si dumaja,",
+       "en": "Isn't it what they are saying,"
+      },
+      {
+       "cyr": "твојо башча, моја мајка,",
+       "lat": "tvojo bašča, moja majka,",
+       "en": "your father and my mother,"
+      },
+      {
+       "cyr": "да те дадат, џан Димано,",
+       "lat": "da te dadat, džan Dimano,",
+       "en": "that they will give you away, dear Dimana,"
+      },
+      {
+       "cyr": "сакаат тебе ошче мене?",
+       "lat": "sakaat tebe ošče mene?",
+       "en": "are they wanting you, or me as well?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

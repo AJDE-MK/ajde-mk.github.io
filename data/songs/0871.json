@@ -1,0 +1,122 @@
+{
+ "id": 871,
+ "slug": "stojana-majka-ucheshe",
+ "title_cyr": "Стојана мајка учеше",
+ "title_latin": "Stojana majka učeše",
+ "title_en": "Stojan's Mother Advised Him",
+ "pesna_url": "https://pesna.org/song/871",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional haiduk/komita song. 'Куќа не врти' is my reading as 'doesn't keep a household'; 'кумита' is a dialect spelling of комита.",
+ "words_to_learn": [
+  {
+   "mk": "комита/кумита",
+   "en": "komita, guerrilla fighter"
+  },
+  {
+   "mk": "учеше",
+   "en": "advised, taught (imperfect)"
+  },
+  {
+   "mk": "куќа",
+   "en": "house, home"
+  },
+  {
+   "mk": "врти",
+   "en": "keeps going, turns (here: runs/keeps)"
+  },
+  {
+   "mk": "нарами",
+   "en": "slung over the shoulder"
+  },
+  {
+   "mk": "рамо",
+   "en": "shoulder"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "замина",
+   "en": "left, set off"
+  }
+ ],
+ "performers": [
+  "Паца Алексова",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Паца Алексова",
+   "url": "https://pesna.org/audio-download/1906"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1907"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојана мајка учеше:",
+       "lat": "Stojana majka učeše:",
+       "en": "Stojan's mother advised him:"
+      },
+      {
+       "cyr": "- Стојане, сине Стојане,",
+       "lat": "- Stojane, sine Stojane,",
+       "en": "- Stojan, son Stojan,"
+      },
+      {
+       "cyr": "не оди сине кумита.",
+       "lat": "ne odi sine kumita.",
+       "en": "don't go, son, to be a komita."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кумитлукот куќа не врти,",
+       "lat": "Kumitlukot kuḱa ne vrti,",
+       "en": "The komita life doesn't keep a household,"
+      },
+      {
+       "cyr": "кумитлукот деца не гледа.",
+       "lat": "kumitlukot deca ne gleda.",
+       "en": "the komita life doesn't see children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан си мајка не слуша",
+       "lat": "Stojan si majka ne sluša",
+       "en": "Stojan does not listen to his mother,"
+      },
+      {
+       "cyr": "нарами пушка на рамо,",
+       "lat": "narami puška na ramo,",
+       "en": "he slung his rifle on his shoulder,"
+      },
+      {
+       "cyr": "замина Стојан в' планина.",
+       "lat": "zamina Stojan v' planina.",
+       "en": "Stojan set off into the mountain."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,162 @@
+{
+ "id": 709,
+ "slug": "zhal-za-despina",
+ "title_cyr": "Жал за Деспина",
+ "title_latin": "Žal za Despina",
+ "title_en": "Sorrow for Despina",
+ "pesna_url": "https://pesna.org/song/709",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Сара Сталевска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Горан Андонов",
+  "Зоран Џорлев",
+  "Наум Петрески",
+  "Стефан Величковски",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/314"
+  },
+  {
+   "who": "Горан Андонов",
+   "url": "https://pesna.org/audio-download/315"
+  },
+  {
+   "who": "Зоран Џорлев, Стефан Величковски",
+   "url": "https://pesna.org/audio-download/316"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1957"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2407"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ме разбуди стара мајко,",
+       "lat": "Što me razbudi stara majko,",
+       "en": "Why did you wake me up, old mother,"
+      },
+      {
+       "cyr": "пусто срце ми е уморно,",
+       "lat": "pusto srce mi e umorno,",
+       "en": "my damned heart is tired"
+      },
+      {
+       "cyr": "од јадови за Деспина,",
+       "lat": "od jadovi za Despina,",
+       "en": "from sorrow for Despina,"
+      },
+      {
+       "cyr": "вчера мајко ја посвршија.",
+       "lat": "včera majko ja posvršija.",
+       "en": "yesterday she got engaged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две музики свират чалгии,",
+       "lat": "Dve muziki svirat čalgii,",
+       "en": "Two music bands play chalgii,"
+      },
+      {
+       "cyr": "една весела, друга таговна.",
+       "lat": "edna vesela, druga tagovna.",
+       "en": "one of them is happy, the other one sad."
+      },
+      {
+       "cyr": "Прва за неа, пеат сватови,",
+       "lat": "Prva za nea, peat svatovi,",
+       "en": "The first one is for her, relatives are singing,"
+      },
+      {
+       "cyr": "друга за﻿ мене, жал за Деспина.",
+       "lat": "druga za﻿ mene, žal za Despina.",
+       "en": "the other one is for me, sorrow for Despina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стара мајко ле, еве минува",
+       "lat": "Stara majko le, eve minuva",
+       "en": "Oh my old mother, here is she, passing by"
+      },
+      {
+       "cyr": "и пред порти застанува.",
+       "lat": "i pred porti zastanuva.",
+       "en": "and stopping at the gates."
+      },
+      {
+       "cyr": "Сите весели, таа солзи две",
+       "lat": "Site veseli, taa solzi dve",
+       "en": "Everyone is happy, she has two tears"
+      },
+      {
+       "cyr": "прошка бара мајко од мене.",
+       "lat": "proška bara majko od mene.",
+       "en": "she is asking me for forgiveness, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две музики свират чалгии,",
+       "lat": "Dve muziki svirat čalgii,",
+       "en": "Two music bands play chalgii,"
+      },
+      {
+       "cyr": "една весела, друга таговна.",
+       "lat": "edna vesela, druga tagovna.",
+       "en": "one of them is happy, the other one sad."
+      },
+      {
+       "cyr": "Прва за неа, пеат сватови,",
+       "lat": "Prva za nea, peat svatovi,",
+       "en": "The first one is for her, relatives are singing,"
+      },
+      {
+       "cyr": "друга за﻿ мене, жал за Деспина.",
+       "lat": "druga za﻿ mene, žal za Despina.",
+       "en": "the other one is for me, sorrow for Despina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И да свирите, и да пеете,",
+       "lat": "I da svirite, i da peete,",
+       "en": "Even if you play, even if you sing,"
+      },
+      {
+       "cyr": "жал за Деспина не ќе помине.",
+       "lat": "žal za Despina ne ḱe pomine.",
+       "en": "my sorrow for Despina will never end."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

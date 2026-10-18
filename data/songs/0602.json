@@ -1,0 +1,302 @@
+{
+ "id": 602,
+ "slug": "bolen-mi-lezhi-mlad-stojan",
+ "title_cyr": "Болен ми лежи млад Стојан",
+ "title_latin": "Bolen mi leži mlad Stojan",
+ "title_en": "Young Stojan lies sick",
+ "pesna_url": "https://pesna.org/song/602",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The second version's stanza 'до твојто либе две момчиња' and the last line are my reading. 'Тешка куќа на глава' is likely a figure for the burden of a household.",
+ "words_to_learn": [
+  {
+   "mk": "болен",
+   "en": "sick"
+  },
+  {
+   "mk": "чардак",
+   "en": "veranda, upper-floor porch"
+  },
+  {
+   "mk": "лежи",
+   "en": "lies"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "тешка",
+   "en": "heavy, hard"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "болест",
+   "en": "illness"
+  },
+  {
+   "mk": "жално",
+   "en": "sad, sorrowful"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Кочо Петровски",
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/765"
+  },
+  {
+   "who": "Јорданка Куцулова, Ѓорѓи Андреевски",
+   "url": "https://pesna.org/audio-download/766"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/769"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2937"
+  },
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/3975"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болен ми, болен ми лежи",
+       "lat": "Bolen mi, bolen mi leži",
+       "en": "Sick, sick he lies,"
+      },
+      {
+       "cyr": "млад Стојан, леле",
+       "lat": "mlad Stojan, lele",
+       "en": "young Stojan, oh dear,"
+      },
+      {
+       "cyr": "на висок, на високите чардаци,",
+       "lat": "na visok, na visokite čardaci,",
+       "en": "on the high, on the high verandas,"
+      },
+      {
+       "cyr": "на високите чардаци.",
+       "lat": "na visokite čardaci.",
+       "en": "on the high verandas."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка му, мајка му вели,",
+       "lat": "Majka mu, majka mu veli,",
+       "en": "His mother, his mother says,"
+      },
+      {
+       "cyr": "говори, леле:",
+       "lat": "govori, lele:",
+       "en": "speaks, oh dear:"
+      },
+      {
+       "cyr": "- Стани ми, стани ми сине Стојане,",
+       "lat": "- Stani mi, stani mi sine Stojane,",
+       "en": "- Get up, get up, my son Stojan,"
+      },
+      {
+       "cyr": "стани ми сине Стојане.",
+       "lat": "stani mi sine Stojane.",
+       "en": "get up, my son Stojan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам, не можам мајко",
+       "lat": "- Ne možam, ne možam majko",
+       "en": "- I cannot, I cannot, mother,"
+      },
+      {
+       "cyr": "да станам, леле",
+       "lat": "da stanam, lele",
+       "en": "get up, oh dear,"
+      },
+      {
+       "cyr": "тешка ми, тешка ми куќа на глава,",
+       "lat": "teška mi, teška mi kuḱa na glava,",
+       "en": "the house is heavy, heavy on my head,"
+      },
+      {
+       "cyr": "тешка ми куќа над глава.",
+       "lat": "teška mi kuḱa nad glava.",
+       "en": "the house is heavy over my head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тешка ми, тешка ми куќа",
+       "lat": "Teška mi, teška mi kuḱa",
+       "en": "Heavy, heavy is the house"
+      },
+      {
+       "cyr": "над глава, леле,",
+       "lat": "nad glava, lele,",
+       "en": "over my head, oh dear,"
+      },
+      {
+       "cyr": "машко ми, машко ми дете на раце,",
+       "lat": "maško mi, maško mi dete na race,",
+       "en": "a male, a male child in my arms,"
+      },
+      {
+       "cyr": "машко ми дете на раце.",
+       "lat": "maško mi dete na race.",
+       "en": "a male child in my arms."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- (друга верзија) -",
+       "lat": "- (druga verzija) -",
+       "en": "- (друга верзија) -"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Болен ми, болен ми",
+       "lat": "Bolen mi, bolen mi",
+       "en": "Sick, sick,"
+      },
+      {
+       "cyr": "ај болен ми лежи млад Стојан леле",
+       "lat": "aj bolen mi leži mlad Stojan lele",
+       "en": "oh, sick he lies, young Stojan, oh dear,"
+      },
+      {
+       "cyr": "на висок, ај на високите чардаци.",
+       "lat": "na visok, aj na visokite čardaci.",
+       "en": "on the high, oh, on the high verandas."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До него седи мајка му леле",
+       "lat": "Do nego sedi majka mu lele",
+       "en": "Beside him sits his mother, oh dear,"
+      },
+      {
+       "cyr": "на Стојан, ај на Стојан вели говори:",
+       "lat": "na Stojan, aj na Stojan veli govori:",
+       "en": "to Stojan, oh, to Stojan she says, speaks:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ми, стани ми",
+       "lat": "- Stani mi, stani mi",
+       "en": "- Get up, get up,"
+      },
+      {
+       "cyr": "ај стани ми сине Стојане леле",
+       "lat": "aj stani mi sine Stojane lele",
+       "en": "oh, get up, my son Stojan, oh dear,"
+      },
+      {
+       "cyr": "да видиш, ај да видиш оро големо.",
+       "lat": "da vidiš, aj da vidiš oro golemo.",
+       "en": "to see, oh, to see the big dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До сека, до сека",
+       "lat": "Do seka, do seka",
+       "en": "By every, by every"
+      },
+      {
+       "cyr": "ај до сека мома и момче леле",
+       "lat": "aj do seka moma i momče lele",
+       "en": "oh, by every girl and boy, oh dear,"
+      },
+      {
+       "cyr": "до твојто, ај до твојто либе две момчиња.",
+       "lat": "do tvojto, aj do tvojto libe dve momčinja.",
+       "en": "by your, oh, by your sweetheart, two lads."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам, не можам,",
+       "lat": "- Ne možam, ne možam,",
+       "en": "- I cannot, I cannot,"
+      },
+      {
+       "cyr": "ај не можам мајко да станам леле",
+       "lat": "aj ne možam majko da stanam lele",
+       "en": "oh, I cannot, mother, get up, oh dear,"
+      },
+      {
+       "cyr": "тешка ме ај тешка ме болест фатила.",
+       "lat": "teška me aj teška me bolest fatila.",
+       "en": "a heavy, oh, a heavy illness has seized me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жално е, жално е",
+       "lat": "Žalno e, žalno e",
+       "en": "It is sad, it is sad,"
+      },
+      {
+       "cyr": "жално е мајко, тешко е леле",
+       "lat": "žalno e majko, teško e lele",
+       "en": "it is sad, mother, it is hard, oh dear,"
+      },
+      {
+       "cyr": "да љубиш, ај да љубиш друг да го земе.",
+       "lat": "da ljubiš, aj da ljubiš drug da go zeme.",
+       "en": "to love, oh, to love and another take her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

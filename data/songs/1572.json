@@ -1,0 +1,179 @@
+{
+ "id": 1572,
+ "slug": "oj-nedo-nedo",
+ "title_cyr": "Ој Недо, Недо",
+ "title_latin": "Oj Nedo, Nedo",
+ "title_en": "Oh Neda, Neda",
+ "pesna_url": "https://pesna.org/song/1572",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song, origin unclear; the boasts are mock-riches (frog's leg of silver, mouse-skin of wine). 'Кучке' is an insulting address (bitch) and 'од глувче меше' and 'едно рало гаќи' are my reading. 'Слекува' is dialect for taking clothes off.",
+ "words_to_learn": [
+  {
+   "mk": "чорбаџија",
+   "en": "wealthy man, rich householder (Turkish-origin)"
+  },
+  {
+   "mk": "богатство",
+   "en": "wealth"
+  },
+  {
+   "mk": "срма",
+   "en": "gold or silver thread embroidery"
+  },
+  {
+   "mk": "глувче",
+   "en": "mouse"
+  },
+  {
+   "mk": "меше",
+   "en": "skin bag for liquids (my reading)"
+  },
+  {
+   "mk": "маана",
+   "en": "fault, flaw (Turkish-origin)"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "рало",
+   "en": "plough"
+  },
+  {
+   "mk": "облекува",
+   "en": "dresses, puts clothes on"
+  }
+ ],
+ "performers": [
+  "Костадин Гугов",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/4104"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/4141"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Недо, Недо мори, земи ме, Недо.",
+       "lat": "Oj Nedo, Nedo mori, zemi me, Nedo.",
+       "en": "Oh Neda, Neda, hey, take me, Neda."
+      },
+      {
+       "cyr": "Ако не ме земиш Недо,",
+       "lat": "Ako ne me zemiš Nedo,",
+       "en": "If you do not take me, Neda,"
+      },
+      {
+       "cyr": "ветрот ќе те земе, кучке,",
+       "lat": "vetrot ḱe te zeme, kučke,",
+       "en": "the wind will take you, bitch,"
+      },
+      {
+       "cyr": "што маана ми најде?",
+       "lat": "što maana mi najde?",
+       "en": "what fault did you find in me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние сме, Недо мори, луѓе чорбаџии,",
+       "lat": "Nie sme, Nedo mori, luǵe čorbadžii,",
+       "en": "We are, Neda dear, wealthy men,"
+      },
+      {
+       "cyr": "ние имаме Недо, големо богатство.",
+       "lat": "nie imame Nedo, golemo bogatstvo.",
+       "en": "we have, Neda, great riches."
+      },
+      {
+       "cyr": "Од жаба нога, Недо, целата срма,",
+       "lat": "Od žaba noga, Nedo, celata srma,",
+       "en": "From a frog's leg, Neda, all the silver embroidery,"
+      },
+      {
+       "cyr": "од глувче меше Недо, полно је со вино.",
+       "lat": "od gluvče meše Nedo, polno je so vino.",
+       "en": "from a mouse's skin, Neda, it is full of wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се надеваме, Недо,",
+       "lat": "Pa se nadevame, Nedo,",
+       "en": "And so we hope, Neda,"
+      },
+      {
+       "cyr": "свадба да правиме, кучке,",
+       "lat": "svadba da pravime, kučke,",
+       "en": "to hold a wedding, bitch,"
+      },
+      {
+       "cyr": "тебе да земиме.",
+       "lat": "tebe da zemime.",
+       "en": "to take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ние сме Недо мори, луѓе чорбаџии,",
+       "lat": "I nie sme Nedo mori, luǵe čorbadžii,",
+       "en": "And we too, Neda dear, are wealthy men,"
+      },
+      {
+       "cyr": "едно рало гаќи, Недо, деветмина браќа,",
+       "lat": "edno ralo gaḱi, Nedo, devetmina braḱa,",
+       "en": "one plough's worth of trousers, Neda, nine brothers,"
+      },
+      {
+       "cyr": "едниот ги слеква, Недо, другиот ги облеква.",
+       "lat": "edniot gi slekva, Nedo, drugiot gi oblekva.",
+       "en": "one takes them off, Neda, the other puts them on."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се надеваме, Недо,",
+       "lat": "Pa se nadevame, Nedo,",
+       "en": "And so we hope, Neda,"
+      },
+      {
+       "cyr": "свадба да правиме, кучке,",
+       "lat": "svadba da pravime, kučke,",
+       "en": "to hold a wedding, bitch,"
+      },
+      {
+       "cyr": "тебе да земиме.",
+       "lat": "tebe da zemime.",
+       "en": "to take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,170 @@
+{
+ "id": 1011,
+ "slug": "ni-jademe-ni-pieme",
+ "title_cyr": "Ни јадеме, ни пиеме",
+ "title_latin": "Ni jademe, ni pieme",
+ "title_en": "We neither eat nor drink",
+ "pesna_url": "https://pesna.org/song/1011",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The last two stanzas are confusing: 'два прстена да размени' (exchange two rings) sits oddly with 'separate us', so those lines are my reading. 'Дејгиди' is a dialect exclamation I am unsure of.",
+ "words_to_learn": [
+  {
+   "mk": "спокојно",
+   "en": "peacefully"
+  },
+  {
+   "mk": "дума",
+   "en": "talk, word"
+  },
+  {
+   "mk": "земеме се",
+   "en": "we marry each other"
+  },
+  {
+   "mk": "поминувам",
+   "en": "I pass by"
+  },
+  {
+   "mk": "видувам",
+   "en": "I see (dialect)"
+  },
+  {
+   "mk": "душманка",
+   "en": "enemy (fem.)"
+  },
+  {
+   "mk": "раздели",
+   "en": "separate"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "come on (exclamation, dialect)"
+  }
+ ],
+ "performers": [
+  "Нада Макеларска",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2345"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2601"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ни јадеме, ни пиеме,",
+       "lat": "Ni jademe, ni pieme,",
+       "en": "We neither eat nor drink,"
+      },
+      {
+       "cyr": "ни спокојно си спиеме,",
+       "lat": "ni spokojno si spieme,",
+       "en": "nor do we sleep peacefully,"
+      },
+      {
+       "cyr": "само си дума думаме,",
+       "lat": "samo si duma dumame,",
+       "en": "we only talk and talk,"
+      },
+      {
+       "cyr": "како да си се земеме.",
+       "lat": "kako da si se zememe.",
+       "en": "about how we might marry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три пати на ден поминувам",
+       "lat": "Tri pati na den pominuvam",
+       "en": "Three times a day I pass by"
+      },
+      {
+       "cyr": "и тебе не те видувам,",
+       "lat": "i tebe ne te viduvam,",
+       "en": "and I do not see you,"
+      },
+      {
+       "cyr": "само ја гледам мајка ти,",
+       "lat": "samo ja gledam majka ti,",
+       "en": "I only see your mother,"
+      },
+      {
+       "cyr": "мајка ти, наш'та душманка.",
+       "lat": "majka ti, naš'ta dušmanka.",
+       "en": "your mother, our enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ти, нашата душманка,",
+       "lat": "Majka ti, našata dušmanka,",
+       "en": "Your mother, our enemy,"
+      },
+      {
+       "cyr": "што сака да нè раздели,",
+       "lat": "što saka da nè razdeli,",
+       "en": "who wants to separate us,"
+      },
+      {
+       "cyr": "што сака да нè раздели,",
+       "lat": "što saka da nè razdeli,",
+       "en": "who wants to separate us,"
+      },
+      {
+       "cyr": "два прстена да размени.",
+       "lat": "dva prstena da razmeni.",
+       "en": "to exchange two rings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди лудо, будало,",
+       "lat": "Dejgidi ludo, budalo,",
+       "en": "Come on, silly, you fool,"
+      },
+      {
+       "cyr": "не ја ти слушај мајка ми,",
+       "lat": "ne ja ti slušaj majka mi,",
+       "en": "don't listen to my mother,"
+      },
+      {
+       "cyr": "што сака да нè раздели,",
+       "lat": "što saka da nè razdeli,",
+       "en": "who wants to separate us,"
+      },
+      {
+       "cyr": "две китки цвеќе да раздвои.",
+       "lat": "dve kitki cveḱe da razdvoi.",
+       "en": "to tear apart two bunches of flowers."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

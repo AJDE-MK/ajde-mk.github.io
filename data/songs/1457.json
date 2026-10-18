@@ -1,0 +1,365 @@
+{
+ "id": 1457,
+ "slug": "mahmut-se-sprema-za-tursko",
+ "title_cyr": "Махмут се спрема за турско",
+ "title_latin": "Mahmut se sprema za tursko",
+ "title_en": "Mahmut Prepares for Turkey",
+ "pesna_url": "https://pesna.org/song/1457",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding song with several Turkish loanwords; many phrases (калешо, емфер џумланке, ќиткара, манеста, окујем) are unclear to me and my renderings of those lines are guesses. The marker '(Друга верзија)' is copied as it appears in the source.",
+ "words_to_learn": [
+  {
+   "mk": "се спрема",
+   "en": "is getting ready"
+  },
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "делија",
+   "en": "brave fellow, hero"
+  },
+  {
+   "mk": "алајка",
+   "en": "maid, servant"
+  },
+  {
+   "mk": "рашетам",
+   "en": "I take for a walk"
+  },
+  {
+   "mk": "Стамбол",
+   "en": "Istanbul"
+  },
+  {
+   "mk": "око шарено",
+   "en": "colorful eye"
+  },
+  {
+   "mk": "дури не",
+   "en": "until"
+  },
+  {
+   "mk": "оженам",
+   "en": "I marry off"
+  },
+  {
+   "mk": "свила",
+   "en": "silk"
+  },
+  {
+   "mk": "алтен",
+   "en": "gold coin, gold"
+  }
+ ],
+ "performers": [
+  "Амада Илјаз",
+  "Ансамбл Македонија",
+  "Влатко Миладиноски",
+  "Војо Стојановски",
+  "Меџит Муслиоски"
+ ],
+ "audio": [
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/3733"
+  },
+  {
+   "who": "Меџит Муслиоски",
+   "url": "https://pesna.org/audio-download/3734"
+  },
+  {
+   "who": "Амада Илјаз",
+   "url": "https://pesna.org/audio-download/3735"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/3736"
+  },
+  {
+   "who": "Ансамбл Македонија",
+   "url": "https://pesna.org/audio-download/3737"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Махмут се спрема за турско",
+       "lat": "- Mahmut se sprema za tursko",
+       "en": "- Mahmut is getting ready for Turkey,"
+      },
+      {
+       "cyr": "бела Фетије, око калешо",
+       "lat": "bela Fetije, oko kalešo",
+       "en": "white Fetije, eye of a gazelle (my reading),"
+      },
+      {
+       "cyr": "и тебе те вика да одиш.",
+       "lat": "i tebe te vika da odiš.",
+       "en": "and he calls you to go too."
+      },
+      {
+       "cyr": "- Не можам Махмут да дојдам,",
+       "lat": "- Ne možam Mahmut da dojdam,",
+       "en": "- I cannot come, Mahmut,"
+      },
+      {
+       "cyr": "Махмут делија, Махмут терзија,",
+       "lat": "Mahmut delija, Mahmut terzija,",
+       "en": "Mahmut the brave, Mahmut the tailor,"
+      },
+      {
+       "cyr": "оти јас турски не знаам.",
+       "lat": "oti jas turski ne znaam.",
+       "en": "because I do not know Turkish."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја ќа ти купам алајке,",
+       "lat": "- Ja ḱa ti kupam alajke,",
+       "en": "- I will buy you a maid,"
+      },
+      {
+       "cyr": "бела Фетије, јоко калешо,",
+       "lat": "bela Fetije, joko kalešo,",
+       "en": "white Fetije, eye of a gazelle (my reading),"
+      },
+      {
+       "cyr": "алајке емфер џумланке.",
+       "lat": "alajke emfer džumlanke.",
+       "en": "a maid, an imperial dressed one (my reading)."
+      },
+      {
+       "cyr": "Низ Стамбол да те рашетам,",
+       "lat": "Niz Stambol da te rašetam,",
+       "en": "I will walk you through Istanbul,"
+      },
+      {
+       "cyr": "бела Фетије, око калешо,",
+       "lat": "bela Fetije, oko kalešo,",
+       "en": "white Fetije, eye of a gazelle (my reading),"
+      },
+      {
+       "cyr": "низ таа Капул Чаршија.",
+       "lat": "niz taa Kapul Čaršija.",
+       "en": "through that Covered Bazaar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам Махмут да дојдам,",
+       "lat": "- Ne možam Mahmut da dojdam,",
+       "en": "- I cannot come, Mahmut,"
+      },
+      {
+       "cyr": "Махмут делија, Махмут терзија,",
+       "lat": "Mahmut delija, Mahmut terzija,",
+       "en": "Mahmut the brave, Mahmut the tailor,"
+      },
+      {
+       "cyr": "дури не го женам Асима.",
+       "lat": "duri ne go ženam Asima.",
+       "en": "until I marry off Asim."
+      },
+      {
+       "cyr": "Дури не го женам Асима,",
+       "lat": "Duri ne go ženam Asima,",
+       "en": "Until I marry off Asim,"
+      },
+      {
+       "cyr": "Махмут делија, Махмут терзија,",
+       "lat": "Mahmut delija, Mahmut terzija,",
+       "en": "Mahmut the brave, Mahmut the tailor,"
+      },
+      {
+       "cyr": "Асима, ем Нурадина.",
+       "lat": "Asima, em Nuradina.",
+       "en": "Asim, and Nuradin too."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Магмут се готви во турско,",
+       "lat": "Magmut se gotvi vo tursko,",
+       "en": "Magmut is getting ready for Turkey,"
+      },
+      {
+       "cyr": "бела Ветија, око шарено,",
+       "lat": "bela Vetija, oko šareno,",
+       "en": "white Vetija, colorful eye,"
+      },
+      {
+       "cyr": "и тија ќе дојдеш со него,",
+       "lat": "i tija ḱe dojdeš so nego,",
+       "en": "and you will come with him too,"
+      },
+      {
+       "cyr": "бела Ветијо, со око шарено,",
+       "lat": "bela Vetijo, so oko šareno,",
+       "en": "white Vetija, with the colorful eye,"
+      },
+      {
+       "cyr": "во турско да те однесем,",
+       "lat": "vo tursko da te odnesem,",
+       "en": "I will take you to Turkey,"
+      },
+      {
+       "cyr": "бела Ветијо, ј'око шарено,",
+       "lat": "bela Vetijo, j'oko šareno,",
+       "en": "white Vetija, colorful eye,"
+      },
+      {
+       "cyr": "во пампур да те рашетам.",
+       "lat": "vo pampur da te rašetam.",
+       "en": "I will walk you around on the steamship."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Магмуте, Магмут терзија,",
+       "lat": "- Magmute, Magmut terzija,",
+       "en": "- Magmut, Magmut the tailor,"
+      },
+      {
+       "cyr": "ја не ти идем, Магмут, во турско,",
+       "lat": "ja ne ti idem, Magmut, vo tursko,",
+       "en": "I am not going with you to Turkey, Magmut,"
+      },
+      {
+       "cyr": "не знајем турски да зборим,",
+       "lat": "ne znajem turski da zborim,",
+       "en": "I do not know how to speak Turkish,"
+      },
+      {
+       "cyr": "море, Магмуте, Магмут терзија,",
+       "lat": "more, Magmute, Magmut terzija,",
+       "en": "hey, Magmut, Magmut the tailor,"
+      },
+      {
+       "cyr": "во пампур ќе ме заборајш.",
+       "lat": "vo pampur ḱe me zaborajš.",
+       "en": "on the steamship you will forget me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја ќе ти ватим алајка,",
+       "lat": "- Ja ḱe ti vatim alajka,",
+       "en": "- I will get you a maid,"
+      },
+      {
+       "cyr": "вела Ветијо, око шарено,",
+       "lat": "vela Vetijo, oko šareno,",
+       "en": "sweet Vetija, colorful eye,"
+      },
+      {
+       "cyr": "алајка и терџуманка,",
+       "lat": "alajka i terdžumanka,",
+       "en": "a maid and an interpreter,"
+      },
+      {
+       "cyr": "шо сакаш да ти искупим.",
+       "lat": "šo sakaš da ti iskupim.",
+       "en": "whatever you want I will buy you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја не ти идем во Турско,",
+       "lat": "- Ja ne ti idem vo Tursko,",
+       "en": "- I am not going with you to Turkey,"
+      },
+      {
+       "cyr": "море Магмуте, Магмут терзија,",
+       "lat": "more Magmute, Magmut terzija,",
+       "en": "hey Magmut, Magmut the tailor,"
+      },
+      {
+       "cyr": "дур не оженим, Ашима,",
+       "lat": "dur ne oženim, Ašima,",
+       "en": "until I marry off Ashim,"
+      },
+      {
+       "cyr": "море Магмуте, Магмут терзија,",
+       "lat": "more Magmute, Magmut terzija,",
+       "en": "hey Magmut, Magmut the tailor,"
+      },
+      {
+       "cyr": "дур не му идем ќиткара,",
+       "lat": "dur ne mu idem ḱitkara,",
+       "en": "until I go to him as a bridesmaid (my reading),"
+      },
+      {
+       "cyr": "море Магмуте, Магмут терзија,",
+       "lat": "more Magmute, Magmut terzija,",
+       "en": "hey Magmut, Magmut the tailor,"
+      },
+      {
+       "cyr": "дур не му заучим манеста.",
+       "lat": "dur ne mu zaučim manesta.",
+       "en": "until I teach him the headscarf (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Во турско ќе те однесем,",
+       "lat": "- Vo tursko ḱe te odnesem,",
+       "en": "- I will take you to Turkey,"
+      },
+      {
+       "cyr": "бела Ветијо, око шарено,",
+       "lat": "bela Vetijo, oko šareno,",
+       "en": "white Vetija, colorful eye,"
+      },
+      {
+       "cyr": "во свила ќе те овијем,",
+       "lat": "vo svila ḱe te ovijem,",
+       "en": "I will wrap you in silk,"
+      },
+      {
+       "cyr": "бела Ветијо, око шарено,",
+       "lat": "bela Vetijo, oko šareno,",
+       "en": "white Vetija, colorful eye,"
+      },
+      {
+       "cyr": "во алтен ќе те окујем.",
+       "lat": "vo alten ḱe te okujem.",
+       "en": "I will adorn you with gold."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

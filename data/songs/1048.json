@@ -1,0 +1,186 @@
+{
+ "id": 1048,
+ "slug": "v-gradina-mome-sedeshe",
+ "title_cyr": "В' градина моме седеше",
+ "title_latin": "V' gradina mome sedeše",
+ "title_en": "In the Garden a Girl Sat",
+ "pesna_url": "https://pesna.org/song/1048",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a newer folk-style song, but I cannot name an author. 'Пиле' means bird/chick and is used here as an address to the falcon.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "замолам",
+   "en": "I will ask, beg"
+  },
+  {
+   "mk": "летни",
+   "en": "fly (imperative)"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "пуста",
+   "en": "desolate, empty"
+  },
+  {
+   "mk": "здогледа",
+   "en": "spotted, caught sight of"
+  },
+  {
+   "mk": "лажно",
+   "en": "false"
+  },
+  {
+   "mk": "поарно",
+   "en": "better (dialect)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Емил Ристосков",
+  "Иван Узунов",
+  "Рајко Кирилов",
+  "Рени Крстева",
+  "Теди Еротеева"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2394"
+  },
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/3368"
+  },
+  {
+   "who": "Рајко Кирилов",
+   "url": "https://pesna.org/audio-download/3369"
+  },
+  {
+   "who": "Теди Еротеева",
+   "url": "https://pesna.org/audio-download/3370"
+  },
+  {
+   "who": "Рени Крстева",
+   "url": "https://pesna.org/audio-download/3371"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "В' градина моме седеше и сокол пиле молеше:",
+       "lat": "V' gradina mome sedeše i sokol pile moleše:",
+       "en": "In the garden a girl sat and begged the falcon bird:"
+      },
+      {
+       "cyr": "- Соколе пиле, соколе, јас ќе те нешто замолам,",
+       "lat": "- Sokole pile, sokole, jas ḱe te nešto zamolam,",
+       "en": "- Falcon bird, falcon, I will ask you something,"
+      },
+      {
+       "cyr": "летни ми соколе, летни ми пиле, одлетај,",
+       "lat": "letni mi sokole, letni mi pile, odletaj,",
+       "en": "fly for me, falcon, fly for me, bird, fly away,"
+      },
+      {
+       "cyr": "летни ми соколе, летни ми горе, високо.",
+       "lat": "letni mi sokole, letni mi gore, visoko.",
+       "en": "fly for me, falcon, fly for me up high, over the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либето ми е далеку, во таа пуста туѓина,",
+       "lat": "Libeto mi e daleku, vo taa pusta tuǵina,",
+       "en": "My love is far away, in that desolate foreign land,"
+      },
+      {
+       "cyr": "да летнеш пиле, одлеташ, да видиш либе што прави,",
+       "lat": "da letneš pile, odletaš, da vidiš libe što pravi,",
+       "en": "fly away, bird, to see what my love is doing,"
+      },
+      {
+       "cyr": "дали е уште мој или си друга љуби тој,",
+       "lat": "dali e ušte moj ili si druga ljubi toj,",
+       "en": "whether he is still mine or loves another girl,"
+      },
+      {
+       "cyr": "дали е уште мој или си друга љуби тој?",
+       "lat": "dali e ušte moj ili si druga ljubi toj?",
+       "en": "whether he is still mine or loves another girl?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Летна ми сокол одлета, летна ми горе високо,",
+       "lat": "Letna mi sokol odleta, letna mi gore visoko,",
+       "en": "The falcon flew off, flew up high over the forest,"
+      },
+      {
+       "cyr": "оттаму либе здогледа, друго си моме љубеше.",
+       "lat": "ottamu libe zdogleda, drugo si mome ljubeše.",
+       "en": "from there he spotted the love, he was kissing another girl."
+      },
+      {
+       "cyr": "Назад си полета и во градина долета,",
+       "lat": "Nazad si poleta i vo gradina doleta,",
+       "en": "He flew back and reached the garden,"
+      },
+      {
+       "cyr": "до моме застана и на моме говори:",
+       "lat": "do mome zastana i na mome govori:",
+       "en": "stopped by the girl and spoke to her:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Твоето либе лажно е и друго моме си љуби,",
+       "lat": "- Tvoeto libe lažno e i drugo mome si ljubi,",
+       "en": "- Your love is false and he loves another girl,"
+      },
+      {
+       "cyr": "ах, твојто срце тажно е, поарно што го изгуби,",
+       "lat": "ah, tvojto srce tažno e, poarno što go izgubi,",
+       "en": "oh, your heart is sad, better that you lost him,"
+      },
+      {
+       "cyr": "не жали за него, ти друго либе барај си,",
+       "lat": "ne žali za nego, ti drugo libe baraj si,",
+       "en": "don't grieve for him, look for another love,"
+      },
+      {
+       "cyr": "не жали за него и друго либе најди си.",
+       "lat": "ne žali za nego i drugo libe najdi si.",
+       "en": "don't grieve for him and find another love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

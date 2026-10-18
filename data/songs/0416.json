@@ -1,0 +1,209 @@
+{
+ "id": 416,
+ "slug": "milka-bolna-legnala",
+ "title_cyr": "Милка болна легнала",
+ "title_latin": "Milka bolna legnala",
+ "title_en": "Milka lay down sick",
+ "pesna_url": "https://pesna.org/song/416",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'понада' rendered 'ritual bread' (my reading; I am unsure of the exact word). 'Милка ми ја нема' rendered 'Milka is gone'.",
+ "words_to_learn": [
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "зазорила",
+   "en": "has dawned"
+  },
+  {
+   "mk": "дворој",
+   "en": "yard (dialect: двор)"
+  },
+  {
+   "mk": "да измети",
+   "en": "to sweep"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "дуња",
+   "en": "quince"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "камбаните",
+   "en": "the bells"
+  },
+  {
+   "mk": "венчавка",
+   "en": "wedding"
+  }
+ ],
+ "performers": [
+  "Момо Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Момо Николовски",
+   "url": "https://pesna.org/audio-download/21"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зора зазорила,",
+       "lat": "Zora zazorila,",
+       "en": "Dawn had dawned,"
+      },
+      {
+       "cyr": "сонце угрејало,",
+       "lat": "sonce ugrejalo,",
+       "en": "the sun had risen,"
+      },
+      {
+       "cyr": "в' Милкина градина.",
+       "lat": "v' Milkina gradina.",
+       "en": "in Milka's garden."
+      },
+      {
+       "cyr": "Милка не станува,",
+       "lat": "Milka ne stanuva,",
+       "en": "Milka does not get up,"
+      },
+      {
+       "cyr": "дворој да измети,",
+       "lat": "dvoroj da izmeti,",
+       "en": "to sweep the yard,"
+      },
+      {
+       "cyr": "в' постела болна легнала.",
+       "lat": "v' postela bolna legnala.",
+       "en": "she lay down sick in bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крај постела седи,",
+       "lat": "Kraj postela sedi,",
+       "en": "Beside the bed sits"
+      },
+      {
+       "cyr": "нејзиното либе,",
+       "lat": "nejzinoto libe,",
+       "en": "her sweetheart,"
+      },
+      {
+       "cyr": "со понада во раце.",
+       "lat": "so ponada vo race.",
+       "en": "with a ritual bread in his hands."
+      },
+      {
+       "cyr": "Во левата дуња,",
+       "lat": "Vo levata dunja,",
+       "en": "In the left a quince,"
+      },
+      {
+       "cyr": "во десната прстен,",
+       "lat": "vo desnata prsten,",
+       "en": "in the right a ring,"
+      },
+      {
+       "cyr": "Милка да ја венчава.",
+       "lat": "Milka da ja venčava.",
+       "en": "to wed Milka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Стани Милке, стани,",
+       "lat": "- „Stani Milke, stani,",
+       "en": "- 'Get up, Milka, get up,"
+      },
+      {
+       "cyr": "камбаните бијат,",
+       "lat": "kambanite bijat,",
+       "en": "the bells are ringing,"
+      },
+      {
+       "cyr": "за нашата венчавка“.",
+       "lat": "za našata venčavka“.",
+       "en": "for our wedding.'"
+      },
+      {
+       "cyr": "Милка ми станала,",
+       "lat": "Milka mi stanala,",
+       "en": "Milka got up,"
+      },
+      {
+       "cyr": "и заплакала,",
+       "lat": "i zaplakala,",
+       "en": "and wept,"
+      },
+      {
+       "cyr": "в' раце мртва му паднала.",
+       "lat": "v' race mrtva mu padnala.",
+       "en": "and fell dead into his hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зора зазорила,",
+       "lat": "Zora zazorila,",
+       "en": "Dawn had dawned,"
+      },
+      {
+       "cyr": "сонце угрејало,",
+       "lat": "sonce ugrejalo,",
+       "en": "the sun had risen,"
+      },
+      {
+       "cyr": "в' Милкина градина.",
+       "lat": "v' Milkina gradina.",
+       "en": "in Milka's garden."
+      },
+      {
+       "cyr": "Милка ми ја нема,",
+       "lat": "Milka mi ja nema,",
+       "en": "Milka is gone,"
+      },
+      {
+       "cyr": "дворој да измети,",
+       "lat": "dvoroj da izmeti,",
+       "en": "to sweep the yard,"
+      },
+      {
+       "cyr": "црна земја ја покрила.",
+       "lat": "crna zemja ja pokrila.",
+       "en": "the black earth has covered her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

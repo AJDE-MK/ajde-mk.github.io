@@ -1,0 +1,229 @@
+{
+ "id": 1462,
+ "slug": "chekaj-zhivote",
+ "title_cyr": "Чекај животе",
+ "title_latin": "Čekaj živote",
+ "title_en": "Wait, life",
+ "pesna_url": "https://pesna.org/song/1462",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern song that seems to refer to the singer Esma Redzepova; I cannot confidently name the author, so origin unclear. Lines 2 and 3 of the second stanza are broken to match the Macedonian line breaks (my reading of the word order).",
+ "words_to_learn": [
+  {
+   "mk": "чекај",
+   "en": "wait"
+  },
+  {
+   "mk": "животе",
+   "en": "life (vocative)"
+  },
+  {
+   "mk": "брзај се",
+   "en": "hurry (не брзај се = do not hurry)"
+  },
+  {
+   "mk": "ми се живее",
+   "en": "I feel like living"
+  },
+  {
+   "mk": "срце",
+   "en": "heart"
+  },
+  {
+   "mk": "борела",
+   "en": "struggled, fought (fem.)"
+  },
+  {
+   "mk": "горела",
+   "en": "burned (fem.)"
+  },
+  {
+   "mk": "душа",
+   "en": "soul"
+  },
+  {
+   "mk": "жалам",
+   "en": "I regret / I grieve"
+  }
+ ],
+ "performers": [
+  "Есма Реџепова"
+ ],
+ "audio": [
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/3751"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, чекај животе,",
+       "lat": "Ej, čekaj živote,",
+       "en": "Hey, wait, life,"
+      },
+      {
+       "cyr": "ти не брзај се,",
+       "lat": "ti ne brzaj se,",
+       "en": "do not hurry,"
+      },
+      {
+       "cyr": "ми се живее.",
+       "lat": "mi se živee.",
+       "en": "I feel like living."
+      },
+      {
+       "cyr": "Еј, слушај животе,",
+       "lat": "Ej, slušaj živote,",
+       "en": "Hey, listen, life,"
+      },
+      {
+       "cyr": "срце Есмино",
+       "lat": "srce Esmino",
+       "en": "Esma's heart"
+      },
+      {
+       "cyr": "ќе ти запее.",
+       "lat": "ḱe ti zapee.",
+       "en": "will sing to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сум се борела и сум горела,",
+       "lat": "Sum se borela i sum gorela,",
+       "en": "I have struggled and I have burned,"
+      },
+      {
+       "cyr": "сама светот јас со песна",
+       "lat": "sama svetot jas so pesna",
+       "en": "alone, with song, I"
+      },
+      {
+       "cyr": "сум го одела.",
+       "lat": "sum go odela.",
+       "en": "have walked the world."
+      },
+      {
+       "cyr": "Јас сум дала душа цела",
+       "lat": "Jas sum dala duša cela",
+       "en": "I have given a whole soul,"
+      },
+      {
+       "cyr": "што сум можела.",
+       "lat": "što sum možela.",
+       "en": "as much as I could."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, чекај животе,",
+       "lat": "Ej, čekaj živote,",
+       "en": "Hey, wait, life,"
+      },
+      {
+       "cyr": "ти не брзај се,",
+       "lat": "ti ne brzaj se,",
+       "en": "do not hurry,"
+      },
+      {
+       "cyr": "ми се живее.",
+       "lat": "mi se živee.",
+       "en": "I feel like living."
+      },
+      {
+       "cyr": "Еј, слушај животе,",
+       "lat": "Ej, slušaj živote,",
+       "en": "Hey, listen, life,"
+      },
+      {
+       "cyr": "срце Есмино",
+       "lat": "srce Esmino",
+       "en": "Esma's heart"
+      },
+      {
+       "cyr": "ќе ти запее.",
+       "lat": "ḱe ti zapee.",
+       "en": "will sing to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ќе остане Боже од мене,",
+       "lat": "Što ḱe ostane Bože od mene,",
+       "en": "What will remain of me, God,"
+      },
+      {
+       "cyr": "сè од срце јас сум дала,",
+       "lat": "sè od srce jas sum dala,",
+       "en": "everything I gave from the heart,"
+      },
+      {
+       "cyr": "ништо не жалам.",
+       "lat": "ništo ne žalam.",
+       "en": "I regret nothing."
+      },
+      {
+       "cyr": "А по мене луѓе нови,",
+       "lat": "A po mene luǵe novi,",
+       "en": "And after me new people,"
+      },
+      {
+       "cyr": "моите синови.",
+       "lat": "moite sinovi.",
+       "en": "my sons."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, чекај животе,",
+       "lat": "Ej, čekaj živote,",
+       "en": "Hey, wait, life,"
+      },
+      {
+       "cyr": "ти не брзај се,",
+       "lat": "ti ne brzaj se,",
+       "en": "do not hurry,"
+      },
+      {
+       "cyr": "ми се живее.",
+       "lat": "mi se živee.",
+       "en": "I feel like living."
+      },
+      {
+       "cyr": "Еј, слушај животе,",
+       "lat": "Ej, slušaj živote,",
+       "en": "Hey, listen, life,"
+      },
+      {
+       "cyr": "срце Есмино",
+       "lat": "srce Esmino",
+       "en": "Esma's heart"
+      },
+      {
+       "cyr": "ќе ти запее.",
+       "lat": "ḱe ti zapee.",
+       "en": "will sing to you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

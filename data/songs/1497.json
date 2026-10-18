@@ -1,0 +1,105 @@
+{
+ "id": 1497,
+ "slug": "ajde-pushka-pukna-u-gora-zelena",
+ "title_cyr": "Ајде пушка пукна у гора зелена",
+ "title_latin": "Ajde puška pukna u gora zelena",
+ "title_en": "A rifle fired in a green forest",
+ "pesna_url": "https://pesna.org/song/1497",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Бели мугри",
+  "Кочани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Бели мугри, Кочани",
+   "url": "https://pesna.org/audio-download/3895"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде пушка пукна у гора зелена,",
+       "lat": "Ajde puška pukna u gora zelena,",
+       "en": "A rifle fired in a green forest"
+      },
+      {
+       "cyr": "ајде та удари, џанам, најдобриот јунак.",
+       "lat": "ajde ta udari, džanam, najdobriot junak.",
+       "en": "and it hit the greatest hero."
+      },
+      {
+       "cyr": "Ајде јунак падна, падна и извикна,",
+       "lat": "Ajde junak padna, padna i izvikna,",
+       "en": "The hero fell, falling he shouted,"
+      },
+      {
+       "cyr": "ајде јунак вика, џанам, гората одекна.",
+       "lat": "ajde junak vika, džanam, gorata odekna.",
+       "en": "he shouted mightily and the forest echoed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде ој дружино, ти верна дружино,",
+       "lat": "- Ajde oj družino, ti verna družino,",
+       "en": "- Hey my company, faithful fighters,"
+      },
+      {
+       "cyr": "ајде земете ме, џанам, вглавете ми пушки.",
+       "lat": "ajde zemete me, džanam, vglavete mi puški.",
+       "en": "take me in your arms, put the rifles on your back."
+      },
+      {
+       "cyr": "Ајде носете ме у гора зелена,",
+       "lat": "Ajde nosete me u gora zelena,",
+       "en": "Take me to the green forest,"
+      },
+      {
+       "cyr": "ајде у гората, џанам, гроб ми ископајте.",
+       "lat": "ajde u gorata, džanam, grob mi iskopajte.",
+       "en": "and in the forest dig a grave for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде на гробот ми дрво посадете,",
+       "lat": "Ajde na grobot mi drvo posadete,",
+       "en": "On my grave plant a tree"
+      },
+      {
+       "cyr": "ајде за дрвото, џанам, коњот ми врзете.",
+       "lat": "ajde za drvoto, džanam, konjot mi vrzete.",
+       "en": "and tie my horse to the tree."
+      },
+      {
+       "cyr": "Ајде штом ќе треба, коњ ќе ми потропа,",
+       "lat": "Ajde štom ḱe treba, konj ḱe mi potropa,",
+       "en": "When the time is right, the horse will stomp,"
+      },
+      {
+       "cyr": "ајде ќе потропа, џанам, мене да пробуди.",
+       "lat": "ajde ḱe potropa, džanam, mene da probudi.",
+       "en": "the horse will stomp to wake me up."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

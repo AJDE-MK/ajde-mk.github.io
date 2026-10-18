@@ -1,0 +1,290 @@
+{
+ "id": 1143,
+ "slug": "ajde-pushka-pukna",
+ "title_cyr": "Ајде пушка пукна",
+ "title_latin": "Ajde puška pukna",
+ "title_en": "A gun went off",
+ "pesna_url": "https://pesna.org/song/1143",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional revolutionary-era song naming Dame Gruev and Goce Delchev as those who will take over the dying man's horse and gun. 'на мосто' I read as 'on the bridge'; Karamfilo is the one struck.",
+ "words_to_learn": [
+  {
+   "mk": "пушка",
+   "en": "gun, rifle"
+  },
+  {
+   "mk": "пукна",
+   "en": "went off, cracked (a shot)"
+  },
+  {
+   "mk": "мост",
+   "en": "bridge"
+  },
+  {
+   "mk": "викна, писна",
+   "en": "cried out, screamed"
+  },
+  {
+   "mk": "бре џанам",
+   "en": "hey, my dear (filler)"
+  },
+  {
+   "mk": "комитет",
+   "en": "the Committee (revolutionary organization)"
+  },
+  {
+   "mk": "јава",
+   "en": "rides (on horseback)"
+  },
+  {
+   "mk": "носи",
+   "en": "carries"
+  },
+  {
+   "mk": "деца",
+   "en": "children"
+  }
+ ],
+ "performers": [
+  "Борис Ангелковски",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Борис Ангелковски",
+   "url": "https://pesna.org/audio-download/2776"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2777"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде пушка пукна, бре џанам,",
+       "lat": "Ajde puška pukna, bre džanam,",
+       "en": "Come on, a gun went off, hey dear,"
+      },
+      {
+       "cyr": "пушка пукна.",
+       "lat": "puška pukna.",
+       "en": "a gun went off."
+      },
+      {
+       "cyr": "Ајде пушка пукна. бре џанам,",
+       "lat": "Ajde puška pukna. bre džanam,",
+       "en": "Come on, a gun went off, hey dear,"
+      },
+      {
+       "cyr": "горе на мосто.",
+       "lat": "gore na mosto.",
+       "en": "up on the bridge."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде та удари, бре џанам,",
+       "lat": "Ajde ta udari, bre džanam,",
+       "en": "Come on, it struck him, hey dear,"
+      },
+      {
+       "cyr": "та удари.",
+       "lat": "ta udari.",
+       "en": "it struck him."
+      },
+      {
+       "cyr": "Ајде та удари, бре џанам,",
+       "lat": "Ajde ta udari, bre džanam,",
+       "en": "Come on, it struck him, hey dear,"
+      },
+      {
+       "cyr": "Карамфило.",
+       "lat": "Karamfilo.",
+       "en": "Karamfilo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде викна, писна, бре џанам,",
+       "lat": "Ajde vikna, pisna, bre džanam,",
+       "en": "Come on, he cried out, screamed, hey dear,"
+      },
+      {
+       "cyr": "викна, писна.",
+       "lat": "vikna, pisna.",
+       "en": "cried out, screamed."
+      },
+      {
+       "cyr": "Ајде викна. писна, бре џанам.",
+       "lat": "Ajde vikna. pisna, bre džanam.",
+       "en": "Come on, he cried out, screamed, hey dear,"
+      },
+      {
+       "cyr": "Карамфило.",
+       "lat": "Karamfilo.",
+       "en": "Karamfilo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кој ќе гледа, бре џанам,",
+       "lat": "Ajde koj ḱe gleda, bre džanam,",
+       "en": "Come on, who will look after, hey dear,"
+      },
+      {
+       "cyr": "кој ќе гледа.",
+       "lat": "koj ḱe gleda.",
+       "en": "who will look after."
+      },
+      {
+       "cyr": "Ајде кој ќе гледа. бре џанам.",
+       "lat": "Ajde koj ḱe gleda. bre džanam.",
+       "en": "Come on, who will look after, hey dear,"
+      },
+      {
+       "cyr": "мојте деца.",
+       "lat": "mojte deca.",
+       "en": "my children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе ги гледа, бре џанам,",
+       "lat": "Ajde ḱe gi gleda, bre džanam,",
+       "en": "Come on, they will look after them, hey dear,"
+      },
+      {
+       "cyr": "ќе ги гледа.",
+       "lat": "ḱe gi gleda.",
+       "en": "they will look after them."
+      },
+      {
+       "cyr": "Ајде ќе ги гледа, бре џанам.",
+       "lat": "Ajde ḱe gi gleda, bre džanam.",
+       "en": "Come on, they will look after them, hey dear,"
+      },
+      {
+       "cyr": "Комитетот.",
+       "lat": "Komitetot.",
+       "en": "the Committee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кој ќе јава, бре џанам,",
+       "lat": "Ajde koj ḱe java, bre džanam,",
+       "en": "Come on, who will ride, hey dear,"
+      },
+      {
+       "cyr": "мојта коња.",
+       "lat": "mojta konja.",
+       "en": "my horse."
+      },
+      {
+       "cyr": "Ајде кој ќе јава, бре џанам.",
+       "lat": "Ajde koj ḱe java, bre džanam.",
+       "en": "Come on, who will ride, hey dear,"
+      },
+      {
+       "cyr": "мојта коња.",
+       "lat": "mojta konja.",
+       "en": "my horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе ја јава, бре џанам,",
+       "lat": "Ajde ḱe ja java, bre džanam,",
+       "en": "Come on, he will ride it, hey dear,"
+      },
+      {
+       "cyr": "ќе ја јава.",
+       "lat": "ḱe ja java.",
+       "en": "he will ride it."
+      },
+      {
+       "cyr": "Ајде ќе ја јава, бре џанам",
+       "lat": "Ajde ḱe ja java, bre džanam",
+       "en": "Come on, he will ride it, hey dear,"
+      },
+      {
+       "cyr": "Даме Груев.",
+       "lat": "Dame Gruev.",
+       "en": "Dame Gruev."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кој ќе носи, бре џанам",
+       "lat": "Ajde koj ḱe nosi, bre džanam",
+       "en": "Come on, who will carry, hey dear,"
+      },
+      {
+       "cyr": "мојта пушка.",
+       "lat": "mojta puška.",
+       "en": "my gun."
+      },
+      {
+       "cyr": "Ајде кој ќе носи, бре џанам",
+       "lat": "Ajde koj ḱe nosi, bre džanam",
+       "en": "Come on, who will carry, hey dear,"
+      },
+      {
+       "cyr": "мојта пушка.",
+       "lat": "mojta puška.",
+       "en": "my gun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе ја носи, бре џанам,",
+       "lat": "Ajde ḱe ja nosi, bre džanam,",
+       "en": "Come on, he will carry it, hey dear,"
+      },
+      {
+       "cyr": "ќе ја носи.",
+       "lat": "ḱe ja nosi.",
+       "en": "he will carry it."
+      },
+      {
+       "cyr": "Ајде ќе ја носи, бре џанам.",
+       "lat": "Ajde ḱe ja nosi, bre džanam.",
+       "en": "Come on, he will carry it, hey dear,"
+      },
+      {
+       "cyr": "Гоце Делчев.",
+       "lat": "Goce Delčev.",
+       "en": "Goce Delchev."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

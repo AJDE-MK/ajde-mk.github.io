@@ -1,0 +1,168 @@
+{
+ "id": 1204,
+ "slug": "bisero-kjerko",
+ "title_cyr": "Бисеро ќерко",
+ "title_latin": "Bisero ḱerko",
+ "title_en": "Daughter Biser",
+ "pesna_url": "https://pesna.org/song/1204",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'со девет рала мори тапани' is a guess: my reading is 'drums enough for nine plowlands', i.e. a huge wedding procession.",
+ "words_to_learn": [
+  {
+   "mk": "Бисера",
+   "en": "Biser (pearl; girl's name)"
+  },
+  {
+   "mk": "побратим",
+   "en": "sworn brother"
+  },
+  {
+   "mk": "вера",
+   "en": "faith"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "тапани",
+   "en": "drums"
+  },
+  {
+   "mk": "зурли",
+   "en": "zurnas (loud reed pipes)"
+  }
+ ],
+ "performers": [
+  "Атанас Велјов",
+  "Елена Мукаетова",
+  "Радио студио Скопје",
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Елена Мукаетова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2959"
+  },
+  {
+   "who": "Атанас Велјов",
+   "url": "https://pesna.org/audio-download/3029"
+  },
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/3030"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Бисеро ќерко мори, Бисеро леле,",
+       "lat": "- Bisero ḱerko mori, Bisero lele,",
+       "en": "- Daughter Biser, hey, Biser, oh,"
+      },
+      {
+       "cyr": "не ми фаќај Турчин мори, побратим,",
+       "lat": "ne mi faḱaj Turčin mori, pobratim,",
+       "en": "don't catch a Turk for me, hey, my sworn brother,"
+      },
+      {
+       "cyr": "Бисеро леле,",
+       "lat": "Bisero lele,",
+       "en": "Biser, oh,"
+      },
+      {
+       "cyr": "не ми фаќај Турчин мори, побратим.",
+       "lat": "ne mi faḱaj Turčin mori, pobratim.",
+       "en": "don't catch a Turk for me, hey, my sworn brother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турчинот вера мори не знае, леле,",
+       "lat": "Turčinot vera mori ne znae, lele,",
+       "en": "The Turk knows no faith, oh,"
+      },
+      {
+       "cyr": "Турчинот в' црква мори не иде,",
+       "lat": "Turčinot v' crkva mori ne ide,",
+       "en": "the Turk does not go to church, hey,"
+      },
+      {
+       "cyr": "Бисеро ќерко,",
+       "lat": "Bisero ḱerko,",
+       "en": "daughter Biser,"
+      },
+      {
+       "cyr": "Турчинот в' црква мори не иде.",
+       "lat": "Turčinot v' crkva mori ne ide.",
+       "en": "the Turk does not go to church, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако е од Бога речено, леле,",
+       "lat": "- Ako e od Boga rečeno, lele,",
+       "en": "- If it is said by God, oh,"
+      },
+      {
+       "cyr": "турска невеста мори ќе станам,",
+       "lat": "turska nevesta mori ḱe stanam,",
+       "en": "I will become a Turkish bride, hey,"
+      },
+      {
+       "cyr": "мајчице мори,",
+       "lat": "majčice mori,",
+       "en": "mother dear, hey,"
+      },
+      {
+       "cyr": "турска невеста леле ќе станам.",
+       "lat": "turska nevesta lele ḱe stanam.",
+       "en": "a Turkish bride, oh, I will become."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турска невеста џанам ќе станам, леле,",
+       "lat": "Turska nevesta džanam ḱe stanam, lele,",
+       "en": "A Turkish bride, my dear, I will become, oh,"
+      },
+      {
+       "cyr": "со девет рала мори тапани,",
+       "lat": "so devet rala mori tapani,",
+       "en": "with nine plowlands of drums, hey,"
+      },
+      {
+       "cyr": "мајчице мори,",
+       "lat": "majčice mori,",
+       "en": "mother dear, hey,"
+      },
+      {
+       "cyr": "со тие пискави зурли.",
+       "lat": "so tie piskavi zurli.",
+       "en": "with those shrill zurnas."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

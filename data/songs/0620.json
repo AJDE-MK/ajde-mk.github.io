@@ -1,0 +1,144 @@
+{
+ "id": 620,
+ "slug": "ajde-da-se-zemime-vase",
+ "title_cyr": "Ајде да се земиме, Васе",
+ "title_latin": "Ajde da se zemime, Vase",
+ "title_en": "Come on, Let's Get Married, Vase",
+ "pesna_url": "https://pesna.org/song/620",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ваневци' and 'Тодиевци' read as family names (the Vanevs, the Todievs), my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on, let's"
+  },
+  {
+   "mk": "да се земиме",
+   "en": "to marry each other"
+  },
+  {
+   "mk": "пари",
+   "en": "money"
+  },
+  {
+   "mk": "куќа",
+   "en": "house"
+  },
+  {
+   "mk": "шеќер",
+   "en": "sugar"
+  },
+  {
+   "mk": "локум",
+   "en": "Turkish delight"
+  },
+  {
+   "mk": "ладна бира",
+   "en": "cold beer"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Борче Крстески",
+  "Грозда Стоева",
+  "Пет плус"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/735"
+  },
+  {
+   "who": "Борче Крстески, Грозда Стоева",
+   "url": "https://pesna.org/audio-download/736"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1063"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде да се земиме, Васе, Васе",
+       "lat": "Ajde da se zemime, Vase, Vase",
+       "en": "Come on, let's marry each other, Vase, Vase,"
+      },
+      {
+       "cyr": "ајде да се земиме.",
+       "lat": "ajde da se zemime.",
+       "en": "come on, let's marry each other."
+      },
+      {
+       "cyr": "Како да се земиме Васе, Васе",
+       "lat": "Kako da se zemime Vase, Vase",
+       "en": "How can we marry each other, Vase, Vase,"
+      },
+      {
+       "cyr": "кога пари немаме?",
+       "lat": "koga pari nemame?",
+       "en": "when we have no money?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пари ќе направиме Васе, Васе",
+       "lat": "Pari ḱe napravime Vase, Vase",
+       "en": "We will make money, Vase, Vase,"
+      },
+      {
+       "cyr": "куќа ќе направиме.",
+       "lat": "kuḱa ḱe napravime.",
+       "en": "we will build a house."
+      },
+      {
+       "cyr": "Васето на Ваневци, Васе, Васе",
+       "lat": "Vaseto na Vanevci, Vase, Vase",
+       "en": "Vase of the Vanevs, Vase, Vase,"
+      },
+      {
+       "cyr": "Томе на Тодиевци.",
+       "lat": "Tome na Todievci.",
+       "en": "Tome of the Todievs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога бевме Битола, Васе, Васе",
+       "lat": "Koga bevme Bitola, Vase, Vase",
+       "en": "When we were in Bitola, Vase, Vase,"
+      },
+      {
+       "cyr": "шеќер, локум јадевме.",
+       "lat": "šeḱer, lokum jadevme.",
+       "en": "we ate sugar and Turkish delight."
+      },
+      {
+       "cyr": "Шеќер локум јадевме Васе, Васе",
+       "lat": "Šeḱer lokum jadevme Vase, Vase",
+       "en": "We ate sugar and Turkish delight, Vase, Vase,"
+      },
+      {
+       "cyr": "ладна бира пиевме.",
+       "lat": "ladna bira pievme.",
+       "en": "we drank cold beer."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

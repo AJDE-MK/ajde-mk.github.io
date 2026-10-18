@@ -1,0 +1,209 @@
+{
+ "id": 639,
+ "slug": "gena-mi-pojde-na-cheshma",
+ "title_cyr": "Гена ми појде на чешма",
+ "title_latin": "Gena mi pojde na češma",
+ "title_en": "Gena Went to the Fountain",
+ "pesna_url": "https://pesna.org/song/639",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Haiduk (outlaw) ballad in folk style; origin unclear, no author I can name. 'накачи патот кон дома' is my reading as 'took the road home'.",
+ "words_to_learn": [
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "исцели",
+   "en": "to heal"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "капиџик",
+   "en": "small gate (Turkish loan)"
+  },
+  {
+   "mk": "ајдучка",
+   "en": "of an outlaw (hajduk)"
+  },
+  {
+   "mk": "снага",
+   "en": "strength"
+  },
+  {
+   "mk": "грло",
+   "en": "throat"
+  }
+ ],
+ "performers": [
+  "Васил Виденов",
+  "Васил Волканов",
+  "Виолета Томовска",
+  "Игнат Виденов",
+  "Кирил Манчевски",
+  "Нелина",
+  "Сестри Филатови"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1208"
+  },
+  {
+   "who": "Сестри Филатови",
+   "url": "https://pesna.org/audio-download/1209"
+  },
+  {
+   "who": "Нелина",
+   "url": "https://pesna.org/audio-download/1374"
+  },
+  {
+   "who": "Васил Виденов, Игнат Виденов",
+   "url": "https://pesna.org/audio-download/1375"
+  },
+  {
+   "who": "Васил Волканов",
+   "url": "https://pesna.org/audio-download/1376"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Гена ми појде на чешма",
+       "lat": "Gena mi pojde na češma",
+       "en": "Gena went to the fountain"
+      },
+      {
+       "cyr": "стомните да си наполни,",
+       "lat": "stomnite da si napolni,",
+       "en": "to fill her water jugs,"
+      },
+      {
+       "cyr": "јунак од гора да лади,",
+       "lat": "junak od gora da ladi,",
+       "en": "to cool a hero from the forest,"
+      },
+      {
+       "cyr": "раните да му исцели.",
+       "lat": "ranite da mu isceli.",
+       "en": "to heal his wounds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, Гено, Гено убава,",
+       "lat": "Of, Geno, Geno ubava,",
+       "en": "Oh, Gena, Gena the beautiful,"
+      },
+      {
+       "cyr": "донеси вода студена.",
+       "lat": "donesi voda studena.",
+       "en": "bring cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наполни Гена стомните,",
+       "lat": "Napolni Gena stomnite,",
+       "en": "Gena filled the jugs,"
+      },
+      {
+       "cyr": "накачи патот кон дома,",
+       "lat": "nakači patot kon doma,",
+       "en": "she took the path home,"
+      },
+      {
+       "cyr": "отвори порте капиџик,",
+       "lat": "otvori porte kapidžik,",
+       "en": "opened the gate, the little door,"
+      },
+      {
+       "cyr": "подаде стомне на јунак.",
+       "lat": "podade stomne na junak.",
+       "en": "handed the jug to the hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, Гена, Гена убава,",
+       "lat": "Ah, Gena, Gena ubava,",
+       "en": "Ah, Gena, Gena the beautiful,"
+      },
+      {
+       "cyr": "донесе вода студена.",
+       "lat": "donese voda studena.",
+       "en": "she brought cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дигна ми јунак стомнето,",
+       "lat": "Digna mi junak stomneto,",
+       "en": "The hero raised the jug,"
+      },
+      {
+       "cyr": "разлади грло јуначко,",
+       "lat": "razladi grlo junačko,",
+       "en": "cooled his heroic throat,"
+      },
+      {
+       "cyr": "поврати снага ајдучка,",
+       "lat": "povrati snaga ajdučka,",
+       "en": "regained his outlaw's strength,"
+      },
+      {
+       "cyr": "однесе Гена во гора.",
+       "lat": "odnese Gena vo gora.",
+       "en": "and carried Gena off to the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах Гена, Гена убава",
+       "lat": "Ah Gena, Gena ubava",
+       "en": "Ah Gena, Gena the beautiful"
+      },
+      {
+       "cyr": "однесе јунак во гора.",
+       "lat": "odnese junak vo gora.",
+       "en": "the hero carried off to the forest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

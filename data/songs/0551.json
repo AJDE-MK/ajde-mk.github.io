@@ -1,0 +1,114 @@
+{
+ "id": 551,
+ "slug": "meri-tomcho-sto-dram-alva",
+ "title_cyr": "Мери Томчо сто драм алва",
+ "title_latin": "Meri Tomčo sto dram alva",
+ "title_en": "Measure, Tomche, a Hundred Drams of Halva",
+ "pesna_url": "https://pesna.org/song/551",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Шеќерлија' could mean a confectioner or a sweet-lover; I read it as a confectioner/sweet-seller. Tomche is a personal name.",
+ "words_to_learn": [
+  {
+   "mk": "мери",
+   "en": "measure (imperative)"
+  },
+  {
+   "mk": "драм",
+   "en": "dram (old unit of weight)"
+  },
+  {
+   "mk": "алва",
+   "en": "halva (sweet)"
+  },
+  {
+   "mk": "шеќерлија",
+   "en": "sweet-maker or seller; one who loves sweets"
+  },
+  {
+   "mk": "однеси",
+   "en": "take (it) there"
+  },
+  {
+   "mk": "преку река",
+   "en": "across the river"
+  },
+  {
+   "mk": "ако те питат",
+   "en": "if they ask you"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Распеани штипјани",
+  "Томислав Маниќ"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2066"
+  },
+  {
+   "who": "Томислав Маниќ",
+   "url": "https://pesna.org/audio-download/2067"
+  },
+  {
+   "who": "Распеани штипјани",
+   "url": "https://pesna.org/audio-download/2074"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мери Томчо сто драм алва,",
+       "lat": "Meri Tomčo sto dram alva,",
+       "en": "Measure out, Tomche, a hundred drams of halva,"
+      },
+      {
+       "cyr": "сто драм алва Томчо, шеќерлија.",
+       "lat": "sto dram alva Tomčo, šeḱerlija.",
+       "en": "a hundred drams of halva, Tomche, you sweet-seller."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Однеси ја на момите,",
+       "lat": "Odnesi ja na momite,",
+       "en": "Take it to the girls,"
+      },
+      {
+       "cyr": "на момите Томчо, преку река.",
+       "lat": "na momite Tomčo, preku reka.",
+       "en": "to the girls, Tomche, across the river."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако те питат од кого е,",
+       "lat": "Ako te pitat od kogo e,",
+       "en": "If they ask you whose it is,"
+      },
+      {
+       "cyr": "ти да кажеш, Томчо, од мене е.",
+       "lat": "ti da kažeš, Tomčo, od mene e.",
+       "en": "you should say, Tomche, that it is from me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

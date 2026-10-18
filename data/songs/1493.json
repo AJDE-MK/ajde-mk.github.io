@@ -1,0 +1,229 @@
+{
+ "id": 1493,
+ "slug": "jas-bev-mlada-moma-ubava",
+ "title_cyr": "Јас бев млада мома убава",
+ "title_latin": "Jas bev mlada moma ubava",
+ "title_en": "I was a beautiful young girl",
+ "pesna_url": "https://pesna.org/song/1493",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a modern composed folk-style song, but I cannot name an author, so origin unclear. 'сета во солзи полеана' is my reading ('all drenched in tears').",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "искрена",
+   "en": "sincere"
+  },
+  {
+   "mk": "исчезна",
+   "en": "vanished"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "тајна",
+   "en": "secret"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "другарки",
+   "en": "girl friends"
+  },
+  {
+   "mk": "отровна",
+   "en": "poisonous"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/3889"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас бев млада мома убава",
+       "lat": "Jas bev mlada moma ubava",
+       "en": "I was a beautiful young girl,"
+      },
+      {
+       "cyr": "младоста ми пропадна,",
+       "lat": "mladosta mi propadna,",
+       "en": "my youth was lost,"
+      },
+      {
+       "cyr": "љубовта моја искрена",
+       "lat": "ljubovta moja iskrena",
+       "en": "my sincere love"
+      },
+      {
+       "cyr": "со солзи таа исчезна.",
+       "lat": "so solzi taa isčezna.",
+       "en": "vanished with tears."
+      },
+      {
+       "cyr": "Ах љубов, проклета љубов,",
+       "lat": "Ah ljubov, prokleta ljubov,",
+       "en": "Ah love, cursed love,"
+      },
+      {
+       "cyr": "љубовта моја искрена",
+       "lat": "ljubovta moja iskrena",
+       "en": "my sincere love"
+      },
+      {
+       "cyr": "со солзи таа исчезна.",
+       "lat": "so solzi taa isčezna.",
+       "en": "vanished with tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На осумнаесет години",
+       "lat": "Na osumnaeset godini",
+       "en": "At eighteen years"
+      },
+      {
+       "cyr": "тајна љубов започнав,",
+       "lat": "tajna ljubov započnav,",
+       "en": "I began a secret love,"
+      },
+      {
+       "cyr": "од другарки се одделив",
+       "lat": "od drugarki se oddeliv",
+       "en": "I parted from my friends,"
+      },
+      {
+       "cyr": "на срце рана си отворив.",
+       "lat": "na srce rana si otvoriv.",
+       "en": "I opened a wound in my heart."
+      },
+      {
+       "cyr": "Ах љубов, проклета љубов,",
+       "lat": "Ah ljubov, prokleta ljubov,",
+       "en": "Ah love, cursed love,"
+      },
+      {
+       "cyr": "од другарки се одделив",
+       "lat": "od drugarki se oddeliv",
+       "en": "I parted from my friends,"
+      },
+      {
+       "cyr": "на срце рана си отворив.",
+       "lat": "na srce rana si otvoriv.",
+       "en": "I opened a wound in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либето мое ме остави",
+       "lat": "Libeto moe me ostavi",
+       "en": "My beloved left me"
+      },
+      {
+       "cyr": "сета во солзи полеана,",
+       "lat": "seta vo solzi poleana,",
+       "en": "all drenched in tears,"
+      },
+      {
+       "cyr": "друга тој си заљуби",
+       "lat": "druga toj si zaljubi",
+       "en": "he fell in love with another"
+      },
+      {
+       "cyr": "и со неа се ожени.",
+       "lat": "i so nea se oženi.",
+       "en": "and married her."
+      },
+      {
+       "cyr": "Ах љубов, проклета љубов,",
+       "lat": "Ah ljubov, prokleta ljubov,",
+       "en": "Ah love, cursed love,"
+      },
+      {
+       "cyr": "друга тој си заљуби",
+       "lat": "druga toj si zaljubi",
+       "en": "he fell in love with another"
+      },
+      {
+       "cyr": "и со неа се ожени.",
+       "lat": "i so nea se oženi.",
+       "en": "and married her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другарки, верни другарки",
+       "lat": "Drugarki, verni drugarki",
+       "en": "Friends, faithful friends,"
+      },
+      {
+       "cyr": "од мене совет да земите:",
+       "lat": "od mene sovet da zemite:",
+       "en": "take advice from me:"
+      },
+      {
+       "cyr": "љубовта тајна е отровна,",
+       "lat": "ljubovta tajna e otrovna,",
+       "en": "secret love is poison,"
+      },
+      {
+       "cyr": "таа ме мачи до гроба.",
+       "lat": "taa me mači do groba.",
+       "en": "it torments me to the grave."
+      },
+      {
+       "cyr": "Ах љубов, проклета љубов,",
+       "lat": "Ah ljubov, prokleta ljubov,",
+       "en": "Ah love, cursed love,"
+      },
+      {
+       "cyr": "љубовта тајна е отровна,",
+       "lat": "ljubovta tajna e otrovna,",
+       "en": "secret love is poison,"
+      },
+      {
+       "cyr": "таа ме мачи до гроба.",
+       "lat": "taa me mači do groba.",
+       "en": "it torments me to the grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,182 @@
+{
+ "id": 141,
+ "slug": "tugjinata-pusta-da-ostane",
+ "title_cyr": "Туѓината пуста да остане",
+ "title_latin": "Tuǵinata pusta da ostane",
+ "title_en": "May you be damned, oh foreign country",
+ "pesna_url": "https://pesna.org/song/141",
+ "background": "A pechalba song from the other side: the woman who waits. Curse the foreign land that separated us. All the pechalbari came home; only my love did not. She asks the returning men whether they saw him, and waits at the gate day and night. In the third year a letter arrives: don't wait, he has married another.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Paul Mulders)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "2Cool 4You",
+  "Азра",
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Ѓорѓи Андреевски",
+  "Ѓорѓи Желчевски",
+  "Јорданка Куцулова",
+  "Кевсер Селимова",
+  "Сузана Гавазова",
+  "Татијана Стефановска"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/352"
+  },
+  {
+   "who": "Васка Илиева, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/353"
+  },
+  {
+   "who": "Јорданка Куцулова, Ѓорѓи Андреевски",
+   "url": "https://pesna.org/audio-download/354"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/355"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/356"
+  },
+  {
+   "who": "Татијана Стефановска",
+   "url": "https://pesna.org/audio-download/357"
+  },
+  {
+   "who": "2Cool 4You",
+   "url": "https://pesna.org/audio-download/358"
+  },
+  {
+   "who": "Азра",
+   "url": "https://pesna.org/audio-download/359"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Туѓината пуста да остане,",
+       "lat": "Tuǵinata pusta da ostane,",
+       "en": "May you be damned, oh foreign country,",
+       "en_mt": false
+      },
+      {
+       "cyr": "таја од либето ме раздели.",
+       "lat": "taja od libeto me razdeli.",
+       "en": "because you take away my beloved.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Таа од либето ме раздели,",
+       "lat": "Taa od libeto me razdeli,",
+       "en": "You take away my beloved,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што го љубев време три години.",
+       "lat": "što go ljubev vreme tri godini.",
+       "en": "the one I loved three years long.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите печалбари си дојдоја,",
+       "lat": "Site pečalbari si dojdoja,",
+       "en": "All the workers come back home from abroad,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само мојето либе го нема.",
+       "lat": "samo mojeto libe go nema.",
+       "en": "but my beloved is not amongst them.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дење-ноќе на порти го чекам,",
+       "lat": "Denje-noḱe na porti go čekam,",
+       "en": "Day and night I wait for him at the gate;",
+       "en_mt": false
+      },
+      {
+       "cyr": "само плачам и на него мислам.",
+       "lat": "samo plačam i na nego mislam.",
+       "en": "I only can cry and worry about him.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ве прашам, млади печалбари,",
+       "lat": "Ḱe ve prašam, mladi pečalbari,",
+       "en": "Say, can I ask you young workers from abroad,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дали го видовте мојто либе?",
+       "lat": "dali go vidovte mojto libe?",
+       "en": "did you see my beloved?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дали го видовте мојто либе",
+       "lat": "Dali go vidovte mojto libe",
+       "en": "Did you see my beloved,",
+       "en_mt": false
+      },
+      {
+       "cyr": "од печалба дома да си иде?",
+       "lat": "od pečalba doma da si ide?",
+       "en": "whether he returned from his work abroad?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На трета година писмо прати",
+       "lat": "Na treta godina pismo prati",
+       "en": "After three years he sent me a letter",
+       "en_mt": false
+      },
+      {
+       "cyr": "и ми пиши нема да се врати.",
+       "lat": "i mi piši nema da se vrati.",
+       "en": "and tells me that he will not return home.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Не се враќа, друга си заљубил",
+       "lat": "Ne se vraḱa, druga si zaljubil",
+       "en": "He will not return, because he found another love",
+       "en_mt": false
+      },
+      {
+       "cyr": "и за неа тој си се оженил.",
+       "lat": "i za nea toj si se oženil.",
+       "en": "and with her he married already.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

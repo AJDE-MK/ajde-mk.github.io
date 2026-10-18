@@ -1,0 +1,128 @@
+{
+ "id": 882,
+ "slug": "mori-ancho-milojchina",
+ "title_cyr": "Мори Анчо Милојчина",
+ "title_latin": "Mori Ančo Milojčina",
+ "title_en": "Hey, Ancho Milojchina",
+ "pesna_url": "https://pesna.org/song/882",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Илиџе' is my reading of Ilidzha (a spa town near Sarajevo); the line 'te испрати' is read as 'and was sent off', which is a guess about who sends whom.",
+ "words_to_learn": [
+  {
+   "mk": "мори",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "ландон пајтон",
+   "en": "landau carriage (a type of horse carriage)"
+  },
+  {
+   "mk": "испрати",
+   "en": "sent off, saw off"
+  },
+  {
+   "mk": "бања",
+   "en": "spa, thermal bath"
+  },
+  {
+   "mk": "промени",
+   "en": "changed"
+  },
+  {
+   "mk": "те",
+   "en": "and then, so (dialect linking particle)"
+  }
+ ],
+ "performers": [
+  "Мирвет Беловска",
+  "Светлана Радовска",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1920"
+  },
+  {
+   "who": "Светлана Радовска",
+   "url": "https://pesna.org/audio-download/1921"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2352"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори Анчо Милојчина,",
+       "lat": "Mori Ančo Milojčina,",
+       "en": "Hey, Ancho Milojchina,"
+      },
+      {
+       "cyr": "штом те мајка тебе роди,",
+       "lat": "štom te majka tebe rodi,",
+       "en": "as soon as your mother bore you,"
+      },
+      {
+       "cyr": "тебе роди, те промени.",
+       "lat": "tebe rodi, te promeni.",
+       "en": "bore you, you changed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе роди, те промени,",
+       "lat": "Tebe rodi, te promeni,",
+       "en": "Bore you, you changed,"
+      },
+      {
+       "cyr": "па ти фати ландон пајтон.",
+       "lat": "pa ti fati landon pajton.",
+       "en": "then you got a landau phaeton."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ти фати ландон пајтон,",
+       "lat": "Pa ti fati landon pajton,",
+       "en": "Then you got a landau phaeton,"
+      },
+      {
+       "cyr": "те испрати на Илиџе.",
+       "lat": "te isprati na Ilidže.",
+       "en": "and were sent off to Ilidzha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те испрати на Илиџе,",
+       "lat": "Te isprati na Ilidže,",
+       "en": "Sent off to Ilidzha,"
+      },
+      {
+       "cyr": "на Илиџе, нова бања.",
+       "lat": "na Ilidže, nova banja.",
+       "en": "to Ilidzha, the new spa."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

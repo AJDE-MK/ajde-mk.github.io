@@ -1,0 +1,142 @@
+{
+ "id": 434,
+ "slug": "jano-janke-kumanovke",
+ "title_cyr": "Јано, Јанке Кумановке",
+ "title_latin": "Jano, Janke Kumanovke",
+ "title_en": "Jana, little Jana from Kumanovo",
+ "pesna_url": "https://pesna.org/song/434",
+ "background": "A fire-song from Kumanovo. \"You burned me, you set me alight\" with her black eyes and her eyebrows braided like *gajtan* cord. She kissed him but warned him not to go mad over her; he did, and now he is \"a dry tree, a dry maple\". The *их!* whoops between verses are where everyone joins in.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Панче Пешев",
+  "Васка Илиева",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1456"
+  },
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/1750"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3055"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3056"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јано, Јанке Кумановке",
+       "lat": "Jano, Janke Kumanovke",
+       "en": "Jana, little Jana from Kumanovo,"
+      },
+      {
+       "cyr": "запали ме изгоре ме.",
+       "lat": "zapali me izgore me.",
+       "en": "ignite me, burn me."
+      },
+      {
+       "cyr": "Јано, Јанке мори, Кумановке, леле,",
+       "lat": "Jano, Janke mori, Kumanovke, lele,",
+       "en": "Jana, little Jana from Kumanovo,"
+      },
+      {
+       "cyr": "Јано, Јанке мори, ти душманке.",
+       "lat": "Jano, Janke mori, ti dušmanke.",
+       "en": "Jana, little Jana, you enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Направи ме суво дрво мори,",
+       "lat": "Napravi me suvo drvo mori,",
+       "en": "You turn me into a dry tree,"
+      },
+      {
+       "cyr": "суво дрво, јаворово.",
+       "lat": "suvo drvo, javorovo.",
+       "en": "а dry maple tree."
+      },
+      {
+       "cyr": "Јано, Јанке мори, Кумановке, иих,",
+       "lat": "Jano, Janke mori, Kumanovke, iih,",
+       "en": "Jana, little Jana from Kumanovo,"
+      },
+      {
+       "cyr": "Јано, Јанке мори, ти душманке.",
+       "lat": "Jano, Janke mori, ti dušmanke.",
+       "en": "Jana, little Jana, you enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запале ме, изгоре ме мори,",
+       "lat": "Zapale me, izgore me mori,",
+       "en": "Ignite me, burn me"
+      },
+      {
+       "cyr": "со твоите црни очи.",
+       "lat": "so tvoite crni oči.",
+       "en": "with your black eyes."
+      },
+      {
+       "cyr": "Јано, Јанке мори, Кумановке, леле,",
+       "lat": "Jano, Janke mori, Kumanovke, lele,",
+       "en": "Jana, little Jana from Kumanovo,"
+      },
+      {
+       "cyr": "Јано, Јанке мори, ти душманке.",
+       "lat": "Jano, Janke mori, ti dušmanke.",
+       "en": "Jana, little Jana, you enemy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со твоите црни очи, мори,",
+       "lat": "So tvoite crni oči, mori,",
+       "en": "With your black eyes,"
+      },
+      {
+       "cyr": "со твоите гајтан веѓи.",
+       "lat": "so tvoite gajtan veǵi.",
+       "en": "with your eyebrows like ribbons."
+      },
+      {
+       "cyr": "Јано, Јанке мори, Кумановке, иих,",
+       "lat": "Jano, Janke mori, Kumanovke, iih,",
+       "en": "Jana, little Jana from Kumanovo,"
+      },
+      {
+       "cyr": "Јано, Јанке мори, ти душманке.",
+       "lat": "Jano, Janke mori, ti dušmanke.",
+       "en": "Jana, little Jana, you enemy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

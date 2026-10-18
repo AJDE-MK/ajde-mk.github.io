@@ -1,0 +1,238 @@
+{
+ "id": 293,
+ "slug": "so-maki-sum-se-rodila",
+ "title_cyr": "Со маки сум се родила",
+ "title_latin": "So maki sum se rodila",
+ "title_en": "I was born with suffering",
+ "pesna_url": "https://pesna.org/song/293",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александра Поповска",
+  "Ал Фросе",
+  "Ансамбл Билјана",
+  "Антонио Трајковски",
+  "Бабура",
+  "Вања Лазарова",
+  "Василиса",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Даниела Калаџиска",
+  "Диран Тавитјан",
+  "Добри Ставревски",
+  "Драган Даутовски квартет",
+  "Езерки",
+  "Зафир Хаџиманов",
+  "Каролина Гочева",
+  "Маргица Антевска",
+  "Непознат изведувач",
+  "Оркестар на АРМ",
+  "Пепи Бафтировски",
+  "Петар Гигов",
+  "Петранка Костадинова",
+  "Пијано бар",
+  "Тамара Тодевска",
+  "Тоше Проески",
+  "Цветанка Ласкова",
+  "Anastasia",
+  "Ensemble l'Arpeggiata",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1036"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1037"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/1038"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/1039"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/1040"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1041"
+  },
+  {
+   "who": "Маргица Антевска",
+   "url": "https://pesna.org/audio-download/1042"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1043"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/1044"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1045"
+  },
+  {
+   "who": "Тамара Тодевска, Бабура, Ал Фросе",
+   "url": "https://pesna.org/audio-download/1046"
+  },
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/1139"
+  },
+  {
+   "who": "Езерки, Тоше Проески",
+   "url": "https://pesna.org/audio-download/1205"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Каролина Гочева",
+   "url": "https://pesna.org/audio-download/1815"
+  },
+  {
+   "who": "Оркестар на АРМ",
+   "url": "https://pesna.org/audio-download/1848"
+  },
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/1849"
+  },
+  {
+   "who": "Василиса",
+   "url": "https://pesna.org/audio-download/2186"
+  },
+  {
+   "who": "Петар Гигов",
+   "url": "https://pesna.org/audio-download/2330"
+  },
+  {
+   "who": "Ensemble l'Arpeggiata",
+   "url": "https://pesna.org/audio-download/3122"
+  },
+  {
+   "who": "Anastasia, Вања Лазарова",
+   "url": "https://pesna.org/audio-download/3696"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3907"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4294"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Со маки сум се родил јас)",
+       "lat": "(So maki sum se rodil jas)",
+       "en": "(I was born with suffering)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со маки сум се родил јас,",
+       "lat": "So maki sum se rodil jas,",
+       "en": "I was born with suffering,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со жалости јас ќе си умрам.",
+       "lat": "so žalosti jas ḱe si umram.",
+       "en": "with sorrow I'll die.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Маките да ми ги напишете",
+       "lat": "Makite da mi gi napišete",
+       "en": "I want you to write down my sorrows",
+       "en_mt": false
+      },
+      {
+       "cyr": "одозгора на гробот мој.",
+       "lat": "odozgora na grobot moj.",
+       "en": "on top of my grave.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се качам на планина,",
+       "lat": "Ḱe se kačam na planina,",
+       "en": "I'll climb up the mountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќе влезам в' темни пештери.",
+       "lat": "ḱe vlezam v' temni pešteri.",
+       "en": "I'll enter dark caves.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Очите да ми паралдисаат,",
+       "lat": "Očite da mi paraldisaat,",
+       "en": "Let my eyes go blind,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сонцето да не го видам.",
+       "lat": "sonceto da ne go vidam.",
+       "en": "never to see the Sun again.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе слезам долу в' ѓул бавчи,",
+       "lat": "Ḱe slezam dolu v' ǵul bavči,",
+       "en": "I'll go to the rose garden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по тој ми алов катмер каранфил.",
+       "lat": "po toj mi alov katmer karanfil.",
+       "en": "to get that red-layered carnation.",
+       "en_mt": false
+      },
+      {
+       "cyr": "По тој алов катмер каранфил",
+       "lat": "Po toj alov katmer karanfil",
+       "en": "To get that red-layered carnation,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по тој ран, бел босилок.",
+       "lat": "po toj ran, bel bosilok.",
+       "en": "that early white basil.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

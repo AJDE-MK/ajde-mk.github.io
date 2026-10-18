@@ -1,0 +1,224 @@
+{
+ "id": 525,
+ "slug": "para-beri-kiselec",
+ "title_cyr": "Пара бери киселец",
+ "title_latin": "Para beri kiselec",
+ "title_en": "Para Picks Sorrel",
+ "pesna_url": "https://pesna.org/song/525",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Мице ора в' градина' is my reading (Mica is digging in the garden). Para and Mica are names (Mica is likely a male nickname, Para a girl's name).",
+ "words_to_learn": [
+  {
+   "mk": "киселец",
+   "en": "sorrel (sour leafy plant)"
+  },
+  {
+   "mk": "бери",
+   "en": "picks, gathers"
+  },
+  {
+   "mk": "ора",
+   "en": "plows, digs (dialect)"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "севда",
+   "en": "love, longing"
+  },
+  {
+   "mk": "усте",
+   "en": "mouth (dialect form of уста)"
+  },
+  {
+   "mk": "оладам",
+   "en": "I cool down"
+  },
+  {
+   "mk": "тук",
+   "en": "only, just (dialect)"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned up"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Георги Жбантов",
+  "Македонски мерак",
+  "Петар Нечовски",
+  "Сузана Гавазова",
+  "Сузана Спасовска",
+  "Тандеми",
+  "Цветанка Ласкова"
+ ],
+ "audio": [
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/160"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/161"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/162"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/239"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3463"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/3464"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/3465"
+  },
+  {
+   "who": "Георги Жбантов",
+   "url": "https://pesna.org/audio-download/3466"
+  },
+  {
+   "who": "Тандеми",
+   "url": "https://pesna.org/audio-download/3467"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пара бери киселец",
+       "lat": "Para beri kiselec",
+       "en": "Para picks sorrel,"
+      },
+      {
+       "cyr": "Мице ора в' градина.",
+       "lat": "Mice ora v' gradina.",
+       "en": "Mica digs in the garden."
+      },
+      {
+       "cyr": "Паро ле, севдо ле",
+       "lat": "Paro le, sevdo le",
+       "en": "Oh Para, oh love,"
+      },
+      {
+       "cyr": "севдо ле, Паро ле",
+       "lat": "sevdo le, Paro le",
+       "en": "oh love, oh Para,"
+      },
+      {
+       "cyr": "срцево ми го изгоре.",
+       "lat": "srcevo mi go izgore.",
+       "en": "it has burned my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дај ми Паро киселец",
+       "lat": "- Daj mi Paro kiselec",
+       "en": "- Give me sorrel, Para,"
+      },
+      {
+       "cyr": "усте да си оладам.",
+       "lat": "uste da si oladam.",
+       "en": "to cool my mouth."
+      },
+      {
+       "cyr": "Паро ле, севдо ле",
+       "lat": "Paro le, sevdo le",
+       "en": "Oh Para, oh love,"
+      },
+      {
+       "cyr": "севдо ле, Паро ле",
+       "lat": "sevdo le, Paro le",
+       "en": "oh love, oh Para,"
+      },
+      {
+       "cyr": "усте да си оладам.",
+       "lat": "uste da si oladam.",
+       "en": "to cool my mouth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- На ти Мице киселец",
+       "lat": "- Na ti Mice kiselec",
+       "en": "- Here, Mica, sorrel"
+      },
+      {
+       "cyr": "усте да си оладиш.",
+       "lat": "uste da si oladiš.",
+       "en": "to cool your mouth."
+      },
+      {
+       "cyr": "Паро ле, севдо ле",
+       "lat": "Paro le, sevdo le",
+       "en": "Oh Para, oh love,"
+      },
+      {
+       "cyr": "севдо ле, Паро ле",
+       "lat": "sevdo le, Paro le",
+       "en": "oh love, oh Para,"
+      },
+      {
+       "cyr": "усте да си оладиш.",
+       "lat": "uste da si oladiš.",
+       "en": "to cool your mouth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас не сакам киселец",
+       "lat": "- Jas ne sakam kiselec",
+       "en": "- I don't want sorrel,"
+      },
+      {
+       "cyr": "тук ти сакам устето.",
+       "lat": "tuk ti sakam usteto.",
+       "en": "I only want your mouth."
+      },
+      {
+       "cyr": "Паро ле, севдо ле",
+       "lat": "Paro le, sevdo le",
+       "en": "Oh Para, oh love,"
+      },
+      {
+       "cyr": "севдо ле, Паро ле",
+       "lat": "sevdo le, Paro le",
+       "en": "oh love, oh Para,"
+      },
+      {
+       "cyr": "тук ти сакам устето.",
+       "lat": "tuk ti sakam usteto.",
+       "en": "I only want your mouth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

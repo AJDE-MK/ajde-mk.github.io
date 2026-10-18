@@ -1,0 +1,149 @@
+{
+ "id": 134,
+ "slug": "kraj-vardara-visoki-bairi",
+ "title_cyr": "Крај Вардара високи баири",
+ "title_latin": "Kraj Vardara visoki bairi",
+ "title_en": "By the Vardar, High Hills",
+ "pesna_url": "https://pesna.org/song/134",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јули ваби' (line 5) is unclear to me; my reading is 'are gathering/calling together'. 'малихери' is read as Mannlicher rifles. 'Ваја вечер' is dialect for 'this evening'.",
+ "words_to_learn": [
+  {
+   "mk": "баири",
+   "en": "hills"
+  },
+  {
+   "mk": "ливади",
+   "en": "meadows"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, leader of a band"
+  },
+  {
+   "mk": "пушки",
+   "en": "rifles"
+  },
+  {
+   "mk": "газиме",
+   "en": "we will wade across"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear (refrain)"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/96"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Крај Вардара високи баири, леле",
+       "lat": "Kraj Vardara visoki bairi, lele",
+       "en": "By the Vardar, high hills, oh dear,"
+      },
+      {
+       "cyr": "крај Вардара високи баири.",
+       "lat": "kraj Vardara visoki bairi.",
+       "en": "by the Vardar, high hills."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крај баири зелени ливади, леле",
+       "lat": "Kraj bairi zeleni livadi, lele",
+       "en": "By the hills, green meadows, oh dear,"
+      },
+      {
+       "cyr": "крај баири зелени ливади.",
+       "lat": "kraj bairi zeleni livadi.",
+       "en": "by the hills, green meadows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јули ваби млади Македонци, леле",
+       "lat": "Juli vabi mladi Makedonci, lele",
+       "en": "The young Macedonians are gathering, oh dear,"
+      },
+      {
+       "cyr": "в' раце држат пушки малихери.",
+       "lat": "v' race držat puški maliheri.",
+       "en": "in their hands they hold Mannlicher rifles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Напред стои нијниот војвода, леле",
+       "lat": "Napred stoi nijniot vojvoda, lele",
+       "en": "In front stands their voivode, oh dear,"
+      },
+      {
+       "cyr": "војводата тихо им говори.",
+       "lat": "vojvodata tiho im govori.",
+       "en": "the voivode speaks quietly to them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ваја вечер Вардар ќе газиме, леле",
+       "lat": "Vaja večer Vardar ḱe gazime, lele",
+       "en": "Tonight we will cross the Vardar, oh dear,"
+      },
+      {
+       "cyr": "втора вечер Гевгелиско Поле.",
+       "lat": "vtora večer Gevgelisko Pole.",
+       "en": "the second night the Gevgelija plain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трета вечер у Ниџе планина, леле",
+       "lat": "Treta večer u Nidže planina, lele",
+       "en": "The third night into Nidze mountain, oh dear,"
+      },
+      {
+       "cyr": "там' се бијат наши мили браќа.",
+       "lat": "tam' se bijat naši mili braḱa.",
+       "en": "there our dear brothers are fighting."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

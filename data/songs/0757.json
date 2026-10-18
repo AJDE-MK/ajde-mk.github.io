@@ -1,0 +1,182 @@
+{
+ "id": 757,
+ "slug": "daj-mi-nadezh",
+ "title_cyr": "Дај ми надеж",
+ "title_latin": "Daj mi nadež",
+ "title_en": "Give Me Hope",
+ "pesna_url": "https://pesna.org/song/757",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern pop song. The line 'како тебе песна да му пее' is my reading: 'to sing him a song the way you did'.",
+ "words_to_learn": [
+  {
+   "mk": "надеж",
+   "en": "hope"
+  },
+  {
+   "mk": "сила",
+   "en": "strength"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "лечи",
+   "en": "heals"
+  },
+  {
+   "mk": "бакнувам",
+   "en": "I kiss"
+  },
+  {
+   "mk": "милувам",
+   "en": "I caress"
+  },
+  {
+   "mk": "студи",
+   "en": "is cold / grows cold"
+  },
+  {
+   "mk": "патиш",
+   "en": "you suffer"
+  }
+ ],
+ "performers": [
+  "Андријана Јаневска",
+  "Анета Љумаковска",
+  "Молика",
+  "Смилја Митревска"
+ ],
+ "audio": [
+  {
+   "who": "Смилја Митревска",
+   "url": "https://pesna.org/audio-download/1143"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/1144"
+  },
+  {
+   "who": "Андријана Јаневска, Молика",
+   "url": "https://pesna.org/audio-download/3926"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Многу долги ноќи седам сама,",
+       "lat": "Mnogu dolgi noḱi sedam sama,",
+       "en": "Many long nights I sit alone,"
+      },
+      {
+       "cyr": "а на душа лежи една рана.",
+       "lat": "a na duša leži edna rana.",
+       "en": "and on my soul lies a wound."
+      },
+      {
+       "cyr": "Неа ниту време не ја лечи,",
+       "lat": "Nea nitu vreme ne ja leči,",
+       "en": "Not even time heals it,"
+      },
+      {
+       "cyr": "ниту врела солза што ја пече.",
+       "lat": "nitu vrela solza što ja peče.",
+       "en": "nor the hot tear that burns it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми небо надеж, дај ми сила,",
+       "lat": "Daj mi nebo nadež, daj mi sila,",
+       "en": "Give me, heaven, hope, give me strength,"
+      },
+      {
+       "cyr": "пак да бидам она што сум била.",
+       "lat": "pak da bidam ona što sum bila.",
+       "en": "to be again who I once was."
+      },
+      {
+       "cyr": "Да го бакнувам, да го милувам,",
+       "lat": "Da go baknuvam, da go miluvam,",
+       "en": "To kiss him, to caress him,"
+      },
+      {
+       "cyr": "зошто само за него сум жива.",
+       "lat": "zošto samo za nego sum živa.",
+       "en": "because only for him am I alive."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Повторно и пролетта се буди,",
+       "lat": "Povtorno i proletta se budi,",
+       "en": "Spring awakens again,"
+      },
+      {
+       "cyr": "а на мојто срце пак му студи.",
+       "lat": "a na mojto srce pak mu studi.",
+       "en": "but my heart is cold again."
+      },
+      {
+       "cyr": "Нема веќе никој да го згрее,",
+       "lat": "Nema veḱe nikoj da go zgree,",
+       "en": "There is no one left to warm it,"
+      },
+      {
+       "cyr": "како тебе песна да му пее.",
+       "lat": "kako tebe pesna da mu pee.",
+       "en": "to sing to him a song like you."
+      },
+      {
+       "cyr": "Тешко е за љубов кога патиш,",
+       "lat": "Teško e za ljubov koga patiš,",
+       "en": "It is hard when you suffer for love,"
+      },
+      {
+       "cyr": "дал' ме слуша, дали ќе се врати?",
+       "lat": "dal' me sluša, dali ḱe se vrati?",
+       "en": "does he hear me, will he come back?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми небо надеж, дај ми сила,",
+       "lat": "Daj mi nebo nadež, daj mi sila,",
+       "en": "Give me, heaven, hope, give me strength,"
+      },
+      {
+       "cyr": "пак да бидам она што сум била.",
+       "lat": "pak da bidam ona što sum bila.",
+       "en": "to be again who I once was."
+      },
+      {
+       "cyr": "Да го бакнувам, да го милувам,",
+       "lat": "Da go baknuvam, da go miluvam,",
+       "en": "To kiss him, to caress him,"
+      },
+      {
+       "cyr": "зошто само за него сум жива.",
+       "lat": "zošto samo za nego sum živa.",
+       "en": "because only for him am I alive."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

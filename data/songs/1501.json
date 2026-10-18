@@ -1,0 +1,99 @@
+{
+ "id": 1501,
+ "slug": "kate-katerino",
+ "title_cyr": "Кате, Катерино",
+ "title_latin": "Kate, Katerino",
+ "title_en": "Kate, Katerina",
+ "pesna_url": "https://pesna.org/song/1501",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Влатко Миладиноски",
+  "Група Интермецо"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Миладиноски, Група Интермецо",
+   "url": "https://pesna.org/audio-download/3917"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кате, Кате, Кате, Катерино леле,",
+       "lat": "Kate, Kate, Kate, Katerino lele,",
+       "en": "Kate, Kate, Kate, Katerina hey,"
+      },
+      {
+       "cyr": "штом се мажиш Кате да ми кажиш леле.",
+       "lat": "štom se mažiš Kate da mi kažiš lele.",
+       "en": "when you get married Kate, let me know hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не го земај Кате даскалчето леле,",
+       "lat": "Ne go zemaj Kate daskalčeto lele,",
+       "en": "Don't marry the teacher hey,"
+      },
+      {
+       "cyr": "даскалчето Кате куќа нема, леле.",
+       "lat": "daskalčeto Kate kuḱa nema, lele.",
+       "en": "the teacher does not have a house hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе те носи од село на село, леле,",
+       "lat": "Ḱe te nosi od selo na selo, lele,",
+       "en": "He will take you from one village to another hey,"
+      },
+      {
+       "cyr": "ќе те лаат Кате кучињата леле.",
+       "lat": "ḱe te laat Kate kučinjata lele.",
+       "en": "the dogs will bark after you Kate hey."
+      },
+      {
+       "cyr": "Ќе си велат Кате селаните леле,",
+       "lat": "Ḱe si velat Kate selanite lele,",
+       "en": "The villagers will say Kate hey,"
+      },
+      {
+       "cyr": "вампир шета Кате низ селото.",
+       "lat": "vampir šeta Kate niz seloto.",
+       "en": "that a vampire roams around the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кате, Кате, Кате, Катерино леле,",
+       "lat": "Kate, Kate, Kate, Katerino lele,",
+       "en": "Kate, Kate, Kate, Katerina hey,"
+      },
+      {
+       "cyr": "штом се мажиш Кате да ми кажиш леле.",
+       "lat": "štom se mažiš Kate da mi kažiš lele.",
+       "en": "when you get married Kate, let me know hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

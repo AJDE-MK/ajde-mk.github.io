@@ -1,0 +1,156 @@
+{
+ "id": 891,
+ "slug": "zapealo-slavej-pile",
+ "title_cyr": "Запеало славеј пиле",
+ "title_latin": "Zapealo slavej pile",
+ "title_en": "The nightingale bird began to sing",
+ "pesna_url": "https://pesna.org/song/891",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'печалба' refers to the custom of going abroad to earn money. 'нарача' read as 'told, instructed' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "пиле",
+   "en": "bird, chick"
+  },
+  {
+   "mk": "багрем",
+   "en": "acacia"
+  },
+  {
+   "mk": "пенџери",
+   "en": "windows"
+  },
+  {
+   "mk": "нажалено",
+   "en": "grieving, sad"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "печалба",
+   "en": "seasonal work abroad, earning"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Габриела Новевска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1959"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/3505"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Запеало славеј пиле",
+       "lat": "Zapealo slavej pile",
+       "en": "The nightingale bird began to sing"
+      },
+      {
+       "cyr": "на багремот, под пенџери.",
+       "lat": "na bagremot, pod pendžeri.",
+       "en": "on the acacia, under the windows."
+      },
+      {
+       "cyr": "Го разбуди малој моме,",
+       "lat": "Go razbudi maloj mome,",
+       "en": "It woke the young girl,"
+      },
+      {
+       "cyr": "уплакано, нажалено.",
+       "lat": "uplakano, nažaleno.",
+       "en": "tearful, grieving."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара малој моме:",
+       "lat": "Progovara maloj mome:",
+       "en": "The young girl speaks:"
+      },
+      {
+       "cyr": "- Не пеј пиле толку рано,",
+       "lat": "- Ne pej pile tolku rano,",
+       "en": "- Do not sing so early, little bird,"
+      },
+      {
+       "cyr": "саноќ сум си проплакала",
+       "lat": "sanoḱ sum si proplakala",
+       "en": "all night I have been crying"
+      },
+      {
+       "cyr": "и пред зора сум заспала.",
+       "lat": "i pred zora sum zaspala.",
+       "en": "and before dawn I fell asleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три ноќи сум проплакала,",
+       "lat": "Tri noḱi sum proplakala,",
+       "en": "Three nights I have cried,"
+      },
+      {
+       "cyr": "мојто либе испраќала.",
+       "lat": "mojto libe ispraḱala.",
+       "en": "seeing off my sweetheart."
+      },
+      {
+       "cyr": "Тој ми појде на туѓина,",
+       "lat": "Toj mi pojde na tuǵina,",
+       "en": "He went off to a foreign land,"
+      },
+      {
+       "cyr": "на туѓина, на печалба.",
+       "lat": "na tuǵina, na pečalba.",
+       "en": "to a foreign land, to work for money."
+      },
+      {
+       "cyr": "Пред да појде, ми нарача",
+       "lat": "Pred da pojde, mi narača",
+       "en": "Before he left, he told me"
+      },
+      {
+       "cyr": "да го чекам пет години.",
+       "lat": "da go čekam pet godini.",
+       "en": "to wait for him five years."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

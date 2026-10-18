@@ -1,0 +1,393 @@
+{
+ "id": 947,
+ "slug": "denes-nad-makedonija",
+ "title_cyr": "Денес над Македонија",
+ "title_latin": "Denes nad Makedonija",
+ "title_en": "Today over Macedonia",
+ "pesna_url": "https://pesna.org/song/947",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Игор Дурловски",
+  "Македонска филхармонија",
+  "Никола Бадев",
+  "Kazuhiro Kotetsu"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2183"
+  },
+  {
+   "who": "Игор Дурловски",
+   "url": "https://pesna.org/audio-download/3620"
+  },
+  {
+   "who": "Македонска филхармонија",
+   "url": "https://pesna.org/audio-download/3621"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3622"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Химна на Република Македонија)",
+       "lat": "(Himna na Republika Makedonija)",
+       "en": "(Anthem of the Republic of Macedonia)",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Денес над Македонија се раѓа",
+       "lat": "Denes nad Makedonija se raǵa",
+       "en": "Today over Macedonia is born",
+       "en_mt": false
+      },
+      {
+       "cyr": "ново сонце на слободата.",
+       "lat": "novo sonce na slobodata.",
+       "en": "the new sun of liberty.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонците се борат",
+       "lat": "Makedoncite se borat",
+       "en": "Macedonians are fighting",
+       "en_mt": false
+      },
+      {
+       "cyr": "за своите правдини.",
+       "lat": "za svoite pravdini.",
+       "en": "for their own rights.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одново сега знамето се вее",
+       "lat": "Odnovo sega znameto se vee",
+       "en": "Now once again the flag flutters,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Крушевската Република,",
+       "lat": "na Kruševskata Republika,",
+       "en": "(that) of the Krushevo Republic,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Гоце Делчев, Питу Гули",
+       "lat": "na Goce Delčev, Pitu Guli",
+       "en": "of Goce Delchev, Pitu Guli,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Даме Груев, Сандански.",
+       "lat": "Dame Gruev, Sandanski.",
+       "en": "Dame Gruev, Sandanski.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Горите македонски шумно пеат",
+       "lat": "Gorite makedonski šumno peat",
+       "en": "The Macedonian woods resoundly sing",
+       "en_mt": false
+      },
+      {
+       "cyr": "нови песни, нови весници:",
+       "lat": "novi pesni, novi vesnici:",
+       "en": "new songs and news:",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонија слободна,",
+       "lat": "Makedonija slobodna,",
+       "en": "Macedonia liberated",
+       "en_mt": false
+      },
+      {
+       "cyr": "слободно живее!",
+       "lat": "slobodno živee!",
+       "en": "lives in liberty!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Верзија од 1989 до 1991 година)",
+       "lat": "(Verzija od 1989 do 1991 godina)",
+       "en": "(Version from 1989 to 1991)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Денес над Македонија се раѓа",
+       "lat": "Denes nad Makedonija se raǵa",
+       "en": "Today over Macedonia is born",
+       "en_mt": false
+      },
+      {
+       "cyr": "ново сонце на слободата,",
+       "lat": "novo sonce na slobodata,",
+       "en": "the new sun of liberty.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонците се борат",
+       "lat": "Makedoncite se borat",
+       "en": "Macedonians are fighting",
+       "en_mt": false
+      },
+      {
+       "cyr": "за својте правдини.",
+       "lat": "za svojte pravdini.",
+       "en": "for their own rights.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не тажи Македонијо мајко мила",
+       "lat": "Ne taži Makedonijo majko mila",
+       "en": "Do not grieve, Macedonia, dear mother,",
+       "en_mt": true
+      },
+      {
+       "cyr": "крени глава гордо, високо",
+       "lat": "kreni glava gordo, visoko",
+       "en": "lift your head proudly, high,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Македонија слободна",
+       "lat": "Makedonija slobodna",
+       "en": "Macedonia free,",
+       "en_mt": true
+      },
+      {
+       "cyr": "слободна ќе живее.",
+       "lat": "slobodna ḱe živee.",
+       "en": "free it will live.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одново сега знамето се вее",
+       "lat": "Odnovo sega znameto se vee",
+       "en": "Now once again the flag flutters,",
+       "en_mt": false
+      },
+      {
+       "cyr": "над Крушевската Република",
+       "lat": "nad Kruševskata Republika",
+       "en": "(that) of the Krushevo Republic,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Гоце Делчев, Питу Гули",
+       "lat": "na Goce Delčev, Pitu Guli",
+       "en": "of Goce Delchev, Pitu Guli,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Даме Груев, Сандански.",
+       "lat": "Dame Gruev, Sandanski.",
+       "en": "Dame Gruev, Sandanski.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Горите македонски шумно пеат",
+       "lat": "Gorite makedonski šumno peat",
+       "en": "The Macedonian woods resoundly sing",
+       "en_mt": false
+      },
+      {
+       "cyr": "бојни песни, нови весници",
+       "lat": "bojni pesni, novi vesnici",
+       "en": "battle songs, new news:",
+       "en_mt": true
+      },
+      {
+       "cyr": "Македонија слободна",
+       "lat": "Makedonija slobodna",
+       "en": "Macedonia liberated",
+       "en_mt": false
+      },
+      {
+       "cyr": "слободно живее.",
+       "lat": "slobodno živee.",
+       "en": "lives in liberty!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Изворна верзија од 1941 до 1989 година)",
+       "lat": "(Izvorna verzija od 1941 do 1989 godina)",
+       "en": "(Original version from 1941 to 1989)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Денес над Македонија се раѓа,",
+       "lat": "Denes nad Makedonija se raǵa,",
+       "en": "Today over Macedonia is born",
+       "en_mt": false
+      },
+      {
+       "cyr": "ново сонце на слободата.",
+       "lat": "novo sonce na slobodata.",
+       "en": "the new sun of liberty.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Старо младо машко и женско,",
+       "lat": "Staro mlado maško i žensko,",
+       "en": "Old and young, men and women,",
+       "en_mt": true
+      },
+      {
+       "cyr": "на нозе се кренало.",
+       "lat": "na noze se krenalo.",
+       "en": "have risen to their feet.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Горите македонски шумно пеат,",
+       "lat": "Gorite makedonski šumno peat,",
+       "en": "The Macedonian woods resoundly sing",
+       "en_mt": false
+      },
+      {
+       "cyr": "нови песни, нови весници!",
+       "lat": "novi pesni, novi vesnici!",
+       "en": "new songs and news:",
+       "en_mt": false
+      },
+      {
+       "cyr": "Македонците се борат,",
+       "lat": "Makedoncite se borat,",
+       "en": "Macedonians are fighting",
+       "en_mt": false
+      },
+      {
+       "cyr": "за своите правдини.",
+       "lat": "za svoite pravdini.",
+       "en": "for their own rights.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одново сега знамето се вее,",
+       "lat": "Odnovo sega znameto se vee,",
+       "en": "Now once again the flag flutters,",
+       "en_mt": false
+      },
+      {
+       "cyr": "(Од гроб станаа славните ѕидари*)",
+       "lat": "(Od grob stanaa slavnite dzidari*)",
+       "en": "(The glorious builders rose from the grave*)",
+       "en_mt": true
+      },
+      {
+       "cyr": "на Крушовската република.",
+       "lat": "na Krušovskata republika.",
+       "en": "(that) of the Krushevo Republic,",
+       "en_mt": false
+      },
+      {
+       "cyr": "На Гоце Делчев, Питу Гули,",
+       "lat": "Na Goce Delčev, Pitu Guli,",
+       "en": "of Goce Delchev, Pitu Guli,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Карев, Влахов, Сандански.",
+       "lat": "Karev, Vlahov, Sandanski.",
+       "en": "Karev, Vlahov, Sandanski.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи Македонијо мајко мила,",
+       "lat": "Ne plači Makedonijo majko mila,",
+       "en": "Do not cry, Macedonia, dear mother,",
+       "en_mt": true
+      },
+      {
+       "cyr": "крени глава гордо високо,",
+       "lat": "kreni glava gordo visoko,",
+       "en": "lift your head proudly, high,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Македонија слободна,",
+       "lat": "Makedonija slobodna,",
+       "en": "Macedonia free,",
+       "en_mt": true
+      },
+      {
+       "cyr": "слободна ќе живее.",
+       "lat": "slobodna ḱe živee.",
+       "en": "free it will live.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

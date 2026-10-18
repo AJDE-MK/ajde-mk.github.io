@@ -1,0 +1,188 @@
+{
+ "id": 1225,
+ "slug": "bukite-razvivaat-brakja",
+ "title_cyr": "Буките развиваат, браќа",
+ "title_latin": "Bukite razvivaat, braḱa",
+ "title_en": "The Beeches Are Leafing Out, Brothers",
+ "pesna_url": "https://pesna.org/song/1225",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, treated as a traditional/revolutionary folk song. 'Саатот' is the hour/moment; 'дробни' (little, small) is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "буки",
+   "en": "beech trees"
+  },
+  {
+   "mk": "развиваат",
+   "en": "are leafing out, unfurling"
+  },
+  {
+   "mk": "наближува",
+   "en": "is drawing near"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "жалуваат",
+   "en": "they mourn"
+  },
+  {
+   "mk": "небричени",
+   "en": "unshaven"
+  },
+  {
+   "mk": "нечешлани",
+   "en": "uncombed"
+  },
+  {
+   "mk": "овдовици",
+   "en": "widows"
+  },
+  {
+   "mk": "сирачиња",
+   "en": "orphans"
+  }
+ ],
+ "performers": [
+  "Коста Новакис",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/3040"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3041"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Буките развиваат браќа, буките развиваат,",
+       "lat": "Bukite razvivaat braḱa, bukite razvivaat,",
+       "en": "The beeches are leafing out, brothers, the beeches are leafing out,"
+      },
+      {
+       "cyr": "буките развиваат браќа, саатот наближува,",
+       "lat": "bukite razvivaat braḱa, saatot nabližuva,",
+       "en": "the beeches are leafing out, brothers, the hour is drawing near,"
+      },
+      {
+       "cyr": "саатот наближува браќа, за наш'та слобода.",
+       "lat": "saatot nabližuva braḱa, za naš'ta sloboda.",
+       "en": "the hour is drawing near, brothers, for our freedom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашите ни мајки браќа, нашите ни мајки,",
+       "lat": "Našite ni majki braḱa, našite ni majki,",
+       "en": "Our mothers, brothers, our mothers,"
+      },
+      {
+       "cyr": "нашите ни мајки браќа, црни крпи носат,",
+       "lat": "našite ni majki braḱa, crni krpi nosat,",
+       "en": "our mothers, brothers, wear black kerchiefs,"
+      },
+      {
+       "cyr": "црни крпи носат браќа, и за нас жалуваат.",
+       "lat": "crni krpi nosat braḱa, i za nas žaluvaat.",
+       "en": "they wear black kerchiefs, brothers, and mourn for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наши ни татковци браќа, наши ни татковци,",
+       "lat": "Naši ni tatkovci braḱa, naši ni tatkovci,",
+       "en": "Our fathers, brothers, our fathers,"
+      },
+      {
+       "cyr": "наши ни татковци браќа, небричени одат,",
+       "lat": "naši ni tatkovci braḱa, nebričeni odat,",
+       "en": "our fathers, brothers, go unshaven,"
+      },
+      {
+       "cyr": "небричени одат браќа, и за нас жалуваат.",
+       "lat": "nebričeni odat braḱa, i za nas žaluvaat.",
+       "en": "they go unshaven, brothers, and mourn for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашите ни сестри браќа, нашите ни сестри,",
+       "lat": "Našite ni sestri braḱa, našite ni sestri,",
+       "en": "Our sisters, brothers, our sisters,"
+      },
+      {
+       "cyr": "нашите ни сестри браќа, нечешлани одат,",
+       "lat": "našite ni sestri braḱa, nečešlani odat,",
+       "en": "our sisters, brothers, go uncombed,"
+      },
+      {
+       "cyr": "нечешлани одат браќа, и за нас жалуваат.",
+       "lat": "nečešlani odat braḱa, i za nas žaluvaat.",
+       "en": "they go uncombed, brothers, and mourn for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашите ни браќа, браќа, нашите ни браќа,",
+       "lat": "Našite ni braḱa, braḱa, našite ni braḱa,",
+       "en": "Our brothers, brothers, our brothers,"
+      },
+      {
+       "cyr": "нашите ни браќа, браќа, нестрижени одат,",
+       "lat": "našite ni braḱa, braḱa, nestriženi odat,",
+       "en": "our brothers, brothers, go unshorn,"
+      },
+      {
+       "cyr": "нестрижени одат браќа, и за нас жалуваат.",
+       "lat": "nestriženi odat braḱa, i za nas žaluvaat.",
+       "en": "they go unshorn, brothers, and mourn for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашите ни жени браќа, нашите ни жени,",
+       "lat": "Našite ni ženi braḱa, našite ni ženi,",
+       "en": "Our wives, brothers, our wives,"
+      },
+      {
+       "cyr": "нашите ни жени браќа, млади овдовици,",
+       "lat": "našite ni ženi braḱa, mladi ovdovici,",
+       "en": "our wives, brothers, young widows,"
+      },
+      {
+       "cyr": "нашите ни деца браќа, дробни сирачиња.",
+       "lat": "našite ni deca braḱa, drobni siračinja.",
+       "en": "our children, brothers, little orphans."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

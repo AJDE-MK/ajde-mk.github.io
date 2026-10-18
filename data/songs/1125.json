@@ -1,0 +1,213 @@
+{
+ "id": 1125,
+ "slug": "svadba-tikveshka",
+ "title_cyr": "Свадба тиквешка",
+ "title_latin": "Svadba tikveška",
+ "title_en": "Wedding of Tikvesh",
+ "pesna_url": "https://pesna.org/song/1125",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author I can name. Tikvesh is a region of Macedonia known for wine. 'Ај да те моме кандисам' is my reading (the speaker wants to win her over).",
+ "words_to_learn": [
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "пиле шарено",
+   "en": "colourful little bird (endearment)"
+  },
+  {
+   "mk": "алтани",
+   "en": "gold coins"
+  },
+  {
+   "mk": "бисери",
+   "en": "pearls"
+  },
+  {
+   "mk": "кандисам",
+   "en": "persuade, win over"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "ширум",
+   "en": "wide open"
+  }
+ ],
+ "performers": [
+  "Тајфата на Димо Дулот"
+ ],
+ "audio": [
+  {
+   "who": "Тајфата на Димо Дулот",
+   "url": "https://pesna.org/audio-download/2694"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "За тебе лична Невено,",
+       "lat": "Za tebe lična Neveno,",
+       "en": "For you, pretty Nevena,"
+      },
+      {
+       "cyr": "за тебе, пиле шарено,",
+       "lat": "za tebe, pile šareno,",
+       "en": "for you, my colourful bird,"
+      },
+      {
+       "cyr": "за тебе чувам алтани",
+       "lat": "za tebe čuvam altani",
+       "en": "I keep gold coins"
+      },
+      {
+       "cyr": "и бисери.",
+       "lat": "i biseri.",
+       "en": "and pearls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да те моме кандисам,",
+       "lat": "Aj da te mome kandisam,",
+       "en": "Come, girl, agree,"
+      },
+      {
+       "cyr": "двајцата да се земиме,",
+       "lat": "dvajcata da se zemime,",
+       "en": "let the two of us marry,"
+      },
+      {
+       "cyr": "свадба да си направиме",
+       "lat": "svadba da si napravime",
+       "en": "let's make ourselves a wedding,"
+      },
+      {
+       "cyr": "највесела.",
+       "lat": "najvesela.",
+       "en": "the merriest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи ѝ на мајка ти,",
+       "lat": "Kaži ì na majka ti,",
+       "en": "Tell your mother"
+      },
+      {
+       "cyr": "нека ти спреми дарови,",
+       "lat": "neka ti spremi darovi,",
+       "en": "to prepare your gifts,"
+      },
+      {
+       "cyr": "нека си викне роднини",
+       "lat": "neka si vikne rodnini",
+       "en": "to invite relatives"
+      },
+      {
+       "cyr": "и комшии.",
+       "lat": "i komšii.",
+       "en": "and neighbours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи му и на татко ти,",
+       "lat": "Kaži mu i na tatko ti,",
+       "en": "Tell your father too"
+      },
+      {
+       "cyr": "бочвите нека ги спреми",
+       "lat": "bočvite neka gi spremi",
+       "en": "to prepare the barrels"
+      },
+      {
+       "cyr": "со бела љута ракија",
+       "lat": "so bela ljuta rakija",
+       "en": "with white strong rakija"
+      },
+      {
+       "cyr": "и вино црвено.",
+       "lat": "i vino crveno.",
+       "en": "and red wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани си утре порано,",
+       "lat": "Stani si utre porano,",
+       "en": "Get up early tomorrow,"
+      },
+      {
+       "cyr": "отвори ширум портите,",
+       "lat": "otvori širum portite,",
+       "en": "open the gates wide,"
+      },
+      {
+       "cyr": "јас ќе дојдам по тебе",
+       "lat": "jas ḱe dojdam po tebe",
+       "en": "I will come for you"
+      },
+      {
+       "cyr": "со сватови.",
+       "lat": "so svatovi.",
+       "en": "with the wedding guests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рака на мене подај ти",
+       "lat": "Raka na mene podaj ti",
+       "en": "Give me your hand"
+      },
+      {
+       "cyr": "и оро напред поведи,",
+       "lat": "i oro napred povedi,",
+       "en": "and lead the dance forward,"
+      },
+      {
+       "cyr": "нека се вие широко,",
+       "lat": "neka se vie široko,",
+       "en": "let it wind wide,"
+      },
+      {
+       "cyr": "свадба е тиквешка.",
+       "lat": "svadba e tikveška.",
+       "en": "it is a Tikvesh wedding."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

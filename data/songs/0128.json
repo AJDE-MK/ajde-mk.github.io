@@ -1,0 +1,167 @@
+{
+ "id": 128,
+ "slug": "sudbo-moja",
+ "title_cyr": "Судбо моја",
+ "title_latin": "Sudbo moja",
+ "title_en": "My Fate",
+ "pesna_url": "https://pesna.org/song/128",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sevdah-style lament, treated as traditional though I am not certain. 'Субдо' in stanza 3 is a typo for 'судбо'. 'Нема кој да ме превира' is my reading: 'no one to look after / console me'.",
+ "words_to_learn": [
+  {
+   "mk": "судбо",
+   "en": "fate, destiny (vocative)"
+  },
+  {
+   "mk": "проклета",
+   "en": "accursed"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "солзи ронам",
+   "en": "I shed tears"
+  },
+  {
+   "mk": "сирак",
+   "en": "orphan"
+  },
+  {
+   "mk": "родбина",
+   "en": "relatives, kin"
+  },
+  {
+   "mk": "пустиња",
+   "en": "wilderness, desert"
+  },
+  {
+   "mk": "јазе",
+   "en": "I (dialect form of јас)"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/939"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Судбо моја, судбо ти проклета,",
+       "lat": "Sudbo moja, sudbo ti prokleta,",
+       "en": "My fate, you accursed fate,"
+      },
+      {
+       "cyr": "што грев стори, ти што ме запусти?",
+       "lat": "što grev stori, ti što me zapusti?",
+       "en": "what sin did I commit, you who abandoned me?"
+      },
+      {
+       "cyr": "Мојта младост ти ми ја поцрне,",
+       "lat": "Mojta mladost ti mi ja pocrne,",
+       "en": "You blackened my youth for me,"
+      },
+      {
+       "cyr": "либе имав, оно ме остави.",
+       "lat": "libe imav, ono me ostavi.",
+       "en": "I had a sweetheart, and he left me."
+      },
+      {
+       "cyr": "Што бре судбо јазе ти направив,",
+       "lat": "Što bre sudbo jaze ti napraviv,",
+       "en": "What, hey fate, did I do to you,"
+      },
+      {
+       "cyr": "цел век судбо болка ми остави?",
+       "lat": "cel vek sudbo bolka mi ostavi?",
+       "en": "fate, you left me pain for a whole lifetime?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време с' либе се разделив,",
+       "lat": "Dojde vreme s' libe se razdeliv,",
+       "en": "The time came when I parted from my love,"
+      },
+      {
+       "cyr": "солзи ронам и со душа зборам.",
+       "lat": "solzi ronam i so duša zboram.",
+       "en": "I shed tears and speak with my soul."
+      },
+      {
+       "cyr": "Зошто либе мене ме остави,",
+       "lat": "Zošto libe mene me ostavi,",
+       "en": "Why, my love, did you leave me,"
+      },
+      {
+       "cyr": "се љубевме време три години?",
+       "lat": "se ljubevme vreme tri godini?",
+       "en": "we loved each other for three years?"
+      },
+      {
+       "cyr": "Срце болно за тебе изгубив,",
+       "lat": "Srce bolno za tebe izgubiv,",
+       "en": "I lost my aching heart for you,"
+      },
+      {
+       "cyr": "лоша дума јазе не ти реков.",
+       "lat": "loša duma jaze ne ti rekov.",
+       "en": "I never said an evil word to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Субдо моја, судбо ти проклета,",
+       "lat": "Subdo moja, sudbo ti prokleta,",
+       "en": "My fate, you accursed fate,"
+      },
+      {
+       "cyr": "зошто судбо мене ме проколна?",
+       "lat": "zošto sudbo mene me prokolna?",
+       "en": "why, fate, did you curse me?"
+      },
+      {
+       "cyr": "Јас останав сирак без родбина,",
+       "lat": "Jas ostanav sirak bez rodbina,",
+       "en": "I remained an orphan without kin,"
+      },
+      {
+       "cyr": "немам судбо кој да ме превира.",
+       "lat": "nemam sudbo koj da me previra.",
+       "en": "I have no one, fate, to look after me."
+      },
+      {
+       "cyr": "Далеку во пустиња ќе идам,",
+       "lat": "Daleku vo pustinja ḱe idam,",
+       "en": "Far away into the wilderness I will go,"
+      },
+      {
+       "cyr": "кај што судбо сонце не огрева.",
+       "lat": "kaj što sudbo sonce ne ogreva.",
+       "en": "where, fate, the sun does not warm."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

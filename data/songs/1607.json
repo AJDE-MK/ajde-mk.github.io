@@ -1,0 +1,304 @@
+{
+ "id": 1607,
+ "slug": "ja-podaj-mi-mome-tenka-pushka",
+ "title_cyr": "Ја подај ми моме тенка пушка",
+ "title_latin": "Ja podaj mi mome tenka puška",
+ "title_en": "Give me the thin rifle, girl,",
+ "pesna_url": "https://pesna.org/song/1607",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Бајса Арифовска",
+  "Бранко Бишкоски",
+  "Володја Стојанов",
+  "Душко Георгиевски",
+  "Љубе Бишкоски",
+  "Маријана Манолева",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4244"
+  },
+  {
+   "who": "Бранко Бишкоски, Љубе Бишкоски",
+   "url": "https://pesna.org/audio-download/4245"
+  },
+  {
+   "who": "Бајса Арифовска, Душко Георгиевски, Танец",
+   "url": "https://pesna.org/audio-download/4246"
+  },
+  {
+   "who": "Володја Стојанов, Маријана Манолева",
+   "url": "https://pesna.org/audio-download/4247"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ја подај ми моме тенка пушка,",
+       "lat": "- Ja podaj mi mome tenka puška,",
+       "en": "- Give me the thin rifle, girl,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас да заминам.",
+       "lat": "jas da zaminam.",
+       "en": "so I can be on my way.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Да заминам, моме, да поминам,",
+       "lat": "Da zaminam, mome, da pominam,",
+       "en": "Let me leave, girl, let me pass,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' туѓа туѓина.",
+       "lat": "v' tuǵa tuǵina.",
+       "en": "into a foreign land.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ко ќе врвиш, лудо, Вардар река,",
+       "lat": "- Ko ḱe vrviš, ludo, Vardar reka,",
+       "en": "- How will you cross, dear, Vardar River,",
+       "en_mt": false
+      },
+      {
+       "cyr": "матна и крвава?",
+       "lat": "matna i krvava?",
+       "en": "muddy and bloody?",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ќе поминам, моме, ќе заминам",
+       "lat": "- Ḱe pominam, mome, ḱe zaminam",
+       "en": "- I will cross, girl, I will leave",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' каик1 ќе влезам.",
+       "lat": "v' kaik1 ḱe vlezam.",
+       "en": "I will get into a boat.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ко ќе врвеш, лудо, Шар планина,",
+       "lat": "- Ko ḱe vrveš, ludo, Šar planina,",
+       "en": "- How will you cross, dear, Shar Mountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "полна овчари?",
+       "lat": "polna ovčari?",
+       "en": "full of shepherds?",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ќе поминам, моме, ќе заминам,",
+       "lat": "- Ḱe pominam, mome, ḱe zaminam,",
+       "en": "- I will cross, girl, I will leave,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' кавал ќе свирам.",
+       "lat": "v' kaval ḱe sviram.",
+       "en": "I will play the kaval.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ко ќе врвиш, лудо, Караорман2,",
+       "lat": "- Ko ḱe vrviš, ludo, Karaorman2,",
+       "en": "- How will you cross, dear, Karaorman1,",
+       "en_mt": false
+      },
+      {
+       "cyr": "полно ајдуци?",
+       "lat": "polno ajduci?",
+       "en": "full of bandits?",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ќе поминам, моме, ќе заминам,",
+       "lat": "- Ḱe pominam, mome, ḱe zaminam,",
+       "en": "- I will cross, girl, I will leave,",
+       "en_mt": false
+      },
+      {
+       "cyr": "с' пушка ќе фрлам.",
+       "lat": "s' puška ḱe frlam.",
+       "en": "I will throw a rifle.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Песна за Пандил војвода",
+       "lat": "Pesna za Pandil vojvoda",
+       "en": "Song about Pandil the voivode",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дилбер Влашко моме, ја подај ми бердан пушка,",
+       "lat": "- Dilber Vlaško mome, ja podaj mi berdan puška,",
+       "en": "- Dear Vlach girl, hand me the berdan rifle,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да замина моме, да си појдам в Македонија,",
+       "lat": "da zamina mome, da si pojdam v Makedonija,",
+       "en": "so I can leave, girl, and go to Macedonia,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да заминам моме, да помина в Ташмаруништа.",
+       "lat": "da zaminam mome, da pomina v Tašmaruništa.",
+       "en": "so I can leave, girl, and pass through Tashmarunishta.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как' ќе врвиш, Пандил густи гори, полни с' качаци?",
+       "lat": "- Kak' ḱe vrviš, Pandil gusti gori, polni s' kačaci?",
+       "en": "- How will you walk, Pandil, through thick forests full of kachaks?",
+       "en_mt": true
+      },
+      {
+       "cyr": "- Ќе облечам моме, темна руба ноќе ќе одам,",
+       "lat": "- Ḱe oblečam mome, temna ruba noḱe ḱe odam,",
+       "en": "- I will put on dark clothes, girl, I will walk by night,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ќе облечам моме темна гуња, ноќе ќе врвам.",
+       "lat": "ḱe oblečam mome temna gunja, noḱe ḱe vrvam.",
+       "en": "I will put on a dark woolen cloak, girl, I will march by night.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как' ќе врвиш Пандил, Вардар река, матна и крвава?",
+       "lat": "- Kak' ḱe vrviš Pandil, Vardar reka, matna i krvava?",
+       "en": "- How will you cross, Pandil, the Vardar river, muddy and bloody?",
+       "en_mt": true
+      },
+      {
+       "cyr": "- Ќе поминам моме, ќе заминам, в' кајче ќе влезам,",
+       "lat": "- Ḱe pominam mome, ḱe zaminam, v' kajče ḱe vlezam,",
+       "en": "- I will cross, girl, I will leave, I will get into a little boat,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ќе поминам моме, ќе заминам, ноќе ќе веслам.",
+       "lat": "ḱe pominam mome, ḱe zaminam, noḱe ḱe veslam.",
+       "en": "I will cross, girl, I will leave, I will row by night.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как' ќе врвиш Пандил, Шар планина, полна с' овчари?",
+       "lat": "- Kak' ḱe vrviš Pandil, Šar planina, polna s' ovčari?",
+       "en": "- How will you cross, Pandil, Shar Mountain, full of shepherds?",
+       "en_mt": true
+      },
+      {
+       "cyr": "- Ќе поминам моме, ќе заминам, сенки ќе фаќам,",
+       "lat": "- Ḱe pominam mome, ḱe zaminam, senki ḱe faḱam,",
+       "en": "- I will cross, girl, I will leave, I will catch shadows,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ќе поминам моме, ќе заминам, с' кавал ќе свирам.",
+       "lat": "ḱe pominam mome, ḱe zaminam, s' kaval ḱe sviram.",
+       "en": "I will cross, girl, I will leave, I will play the kaval.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Как' ќе врвиш Пандил, Караорман, полна с' аскери?",
+       "lat": "- Kak' ḱe vrviš Pandil, Karaorman, polna s' askeri?",
+       "en": "- How will you cross, Pandil, Karaorman, full of soldiers?",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ќе поминам моме, ќе заминам, чета ќе најдам,",
+       "lat": "Ḱe pominam mome, ḱe zaminam, četa ḱe najdam,",
+       "en": "I will cross, girl, I will leave, I will find a band,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ќе поминам моме, ќе замина, с' пушка ќе пукам.",
+       "lat": "ḱe pominam mome, ḱe zamina, s' puška ḱe pukam.",
+       "en": "I will cross, girl, I will leave, I will fire the rifle.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе поминам мори моме, ќе заминам, борба ќе водам,",
+       "lat": "Ḱe pominam mori mome, ḱe zaminam, borba ḱe vodam,",
+       "en": "I will cross, oh girl, I will leave, I will fight a battle,",
+       "en_mt": true
+      },
+      {
+       "cyr": "за слобода, мори моме, за Македонија.",
+       "lat": "za sloboda, mori mome, za Makedonija.",
+       "en": "for freedom, oh girl, for Macedonia.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,119 @@
+{
+ "id": 99,
+ "slug": "aman-sednala-mi-bre-jana",
+ "title_cyr": "Аман седнала ми бре Јана",
+ "title_latin": "Aman sednala mi bre Jana",
+ "title_en": "Oh, Jana sat down",
+ "pesna_url": "https://pesna.org/song/99",
+ "background": "Jana sits under the shade of an arbour, braiding a wide rush mat while she quarrels with her mother. She asks for the two new jugs so she can go to the cold well, cool her throat and forget her troubles. The water-fetch is an excuse to leave the argument. The *aman* and *lele* sighs between the lines are typical of urban songs.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/937"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Аман седнала ми бре Јана,",
+       "lat": "Aman sednala mi bre Jana,",
+       "en": "Oh, Jana sat down"
+      },
+      {
+       "cyr": "под таја сенка лозница,",
+       "lat": "pod taja senka loznica,",
+       "en": "under that shadow wild wine,"
+      },
+      {
+       "cyr": "леле, таа бела лозница,",
+       "lat": "lele, taa bela loznica,",
+       "en": "oh, that white wild wine"
+      },
+      {
+       "cyr": "аман широк шик плете,",
+       "lat": "aman širok šik plete,",
+       "en": "she was knitting"
+      },
+      {
+       "cyr": "леле со мајка се пречка.",
+       "lat": "lele so majka se prečka.",
+       "en": "and arguing with her mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Аман нел' ми дочу бре Јано,",
+       "lat": "Aman nel' mi doču bre Jano,",
+       "en": "Hey, didn't you hear me, Jana,"
+      },
+      {
+       "cyr": "леле стара бре вештице,",
+       "lat": "lele stara bre veštice,",
+       "en": "oh, you old witch,"
+      },
+      {
+       "cyr": "леле стара, стара старице,",
+       "lat": "lele stara, stara starice,",
+       "en": "oh you old, old woman,"
+      },
+      {
+       "cyr": "леле подај ми бре вештер,",
+       "lat": "lele podaj mi bre vešter,",
+       "en": "hey you witch, give me"
+      },
+      {
+       "cyr": "аман де новите стомни.",
+       "lat": "aman de novite stomni.",
+       "en": "those new pitchers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Аман јас да си отидам",
+       "lat": "Aman jas da si otidam",
+       "en": "Oh, let me go"
+      },
+      {
+       "cyr": "леле на студен кладенец,",
+       "lat": "lele na studen kladenec,",
+       "en": "to the cold spring,"
+      },
+      {
+       "cyr": "аман вода да се напијам,",
+       "lat": "aman voda da se napijam,",
+       "en": "I will drink some water"
+      },
+      {
+       "cyr": "леле грло да oладам,",
+       "lat": "lele grlo da oladam,",
+       "en": "to cool my throat"
+      },
+      {
+       "cyr": "аман јадови да заборавам.",
+       "lat": "aman jadovi da zaboravam.",
+       "en": "and forget my worries."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

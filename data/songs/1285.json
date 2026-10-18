@@ -1,0 +1,235 @@
+{
+ "id": 1285,
+ "slug": "staroto-ognishte",
+ "title_cyr": "Старото огниште",
+ "title_latin": "Staroto ognište",
+ "title_en": "The old hearth",
+ "pesna_url": "https://pesna.org/song/1285",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'севдата ја сретнав' is my reading (met my beloved); 'пуста старост' literally 'empty/wretched old age'.",
+ "words_to_learn": [
+  {
+   "mk": "огниште",
+   "en": "hearth"
+  },
+  {
+   "mk": "севда",
+   "en": "love, longing, sweetheart"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring tap"
+  },
+  {
+   "mk": "шепна",
+   "en": "whispered"
+  },
+  {
+   "mk": "разгори",
+   "en": "rekindle"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows"
+  },
+  {
+   "mk": "пепел",
+   "en": "ash"
+  },
+  {
+   "mk": "старост",
+   "en": "old age"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3249"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Радост в' очи светна,",
+       "lat": "Radost v' oči svetna,",
+       "en": "Joy lit up in my eyes,"
+      },
+      {
+       "cyr": "севдата ја сретнав",
+       "lat": "sevdata ja sretnav",
+       "en": "I met my beloved"
+      },
+      {
+       "cyr": "како полни вода на чешма.",
+       "lat": "kako polni voda na češma.",
+       "en": "as she was filling water at the fountain."
+      },
+      {
+       "cyr": "Мајка болна била,",
+       "lat": "Majka bolna bila,",
+       "en": "My mother was ill,"
+      },
+      {
+       "cyr": "шепна мојта мила,",
+       "lat": "šepna mojta mila,",
+       "en": "my dear whispered,"
+      },
+      {
+       "cyr": "само мојто име",
+       "lat": "samo mojto ime",
+       "en": "she was only mentioning"
+      },
+      {
+       "cyr": "го спомнувала.",
+       "lat": "go spomnuvala.",
+       "en": "my name."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мила мајко разгори",
+       "lat": "Mila majko razgori",
+       "en": "Dear mother, rekindle"
+      },
+      {
+       "cyr": "наше старо огниште,",
+       "lat": "naše staro ognište,",
+       "en": "our old hearth,"
+      },
+      {
+       "cyr": "да се стопи каменот",
+       "lat": "da se stopi kamenot",
+       "en": "let the stone melt"
+      },
+      {
+       "cyr": "во градите.",
+       "lat": "vo gradite.",
+       "en": "in my chest."
+      },
+      {
+       "cyr": "Ајде оро поведи,",
+       "lat": "Ajde oro povedi,",
+       "en": "Come, lead the dance,"
+      },
+      {
+       "cyr": "наше оро македонско,",
+       "lat": "naše oro makedonsko,",
+       "en": "our Macedonian dance,"
+      },
+      {
+       "cyr": "пепел да се сторат",
+       "lat": "pepel da se storat",
+       "en": "let my sorrows"
+      },
+      {
+       "cyr": "мојте јадови.",
+       "lat": "mojte jadovi.",
+       "en": "turn to ash."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка оро води,",
+       "lat": "Majka oro vodi,",
+       "en": "Mother leads the dance,"
+      },
+      {
+       "cyr": "мисли дека сони",
+       "lat": "misli deka soni",
+       "en": "she thinks she is dreaming"
+      },
+      {
+       "cyr": "и на мене тивко зборува:",
+       "lat": "i na mene tivko zboruva:",
+       "en": "and speaks softly to me:"
+      },
+      {
+       "cyr": "- Знаев дека, сине,",
+       "lat": "- Znaev deka, sine,",
+       "en": "- I knew, son,"
+      },
+      {
+       "cyr": "ова сè ќе мине",
+       "lat": "ova sè ḱe mine",
+       "en": "that all this would pass"
+      },
+      {
+       "cyr": "и на пуста старост",
+       "lat": "i na pusta starost",
+       "en": "and that I would rejoice"
+      },
+      {
+       "cyr": "ќе се радувам.",
+       "lat": "ḱe se raduvam.",
+       "en": "in my wretched old age."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мила мајко разгори",
+       "lat": "Mila majko razgori",
+       "en": "Dear mother, rekindle"
+      },
+      {
+       "cyr": "наше старо огниште,",
+       "lat": "naše staro ognište,",
+       "en": "our old hearth,"
+      },
+      {
+       "cyr": "да се стопи каменот",
+       "lat": "da se stopi kamenot",
+       "en": "let the stone melt"
+      },
+      {
+       "cyr": "во градите.",
+       "lat": "vo gradite.",
+       "en": "in my chest."
+      },
+      {
+       "cyr": "Ајде оро поведи,",
+       "lat": "Ajde oro povedi,",
+       "en": "Come, lead the dance,"
+      },
+      {
+       "cyr": "наше оро македонско,",
+       "lat": "naše oro makedonsko,",
+       "en": "our Macedonian dance,"
+      },
+      {
+       "cyr": "пепел да се сторат",
+       "lat": "pepel da se storat",
+       "en": "let my sorrows"
+      },
+      {
+       "cyr": "мојте јадови.",
+       "lat": "mojte jadovi.",
+       "en": "turn to ash."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

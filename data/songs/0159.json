@@ -1,0 +1,172 @@
+{
+ "id": 159,
+ "slug": "konja-vodam-angje",
+ "title_cyr": "Коња водам Анѓе",
+ "title_latin": "Konja vodam Anǵe",
+ "title_en": "I lead the horse, Anđe",
+ "pesna_url": "https://pesna.org/song/159",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Guessed: 'Коњ ми вода' (my reading: I water my horse), and the last stanza 'Ушче да бев... црно око' (my reading: even if I were dark-eyed, I would marry the most beautiful girl of the village). 'Пуста таго' is a refrain I rendered loosely.",
+ "words_to_learn": [
+  {
+   "mk": "коњ",
+   "en": "horse"
+  },
+  {
+   "mk": "напојам",
+   "en": "I water (an animal)"
+  },
+  {
+   "mk": "тропа",
+   "en": "stamps, knocks"
+  },
+  {
+   "mk": "откопа",
+   "en": "dug up"
+  },
+  {
+   "mk": "огледало",
+   "en": "mirror"
+  },
+  {
+   "mk": "се бендисав",
+   "en": "I was pleased (with myself), I liked it"
+  },
+  {
+   "mk": "пуста таго",
+   "en": "my poor sorrow"
+  },
+  {
+   "mk": "ќа",
+   "en": "dialect 'ќе ја': will (her)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Билјан Стојаноски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1308"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1309"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коња водам Анѓе, коња водам,",
+       "lat": "Konja vodam Anǵe, konja vodam,",
+       "en": "I lead the horse, Anđe, I lead the horse,"
+      },
+      {
+       "cyr": "Ангелино моме, да напојам.",
+       "lat": "Angelino mome, da napojam.",
+       "en": "Angelina, girl, to water it,"
+      },
+      {
+       "cyr": "Пуста таго моја, да напојам.",
+       "lat": "Pusta tago moja, da napojam.",
+       "en": "my poor sorrow, to water it."
+      },
+      {
+       "cyr": "Коњ ми вода Анѓе, коњ ми вода,",
+       "lat": "Konj mi voda Anǵe, konj mi voda,",
+       "en": "I give my horse water, Anđe, my horse,"
+      },
+      {
+       "cyr": "Ангелино моме не пиеше,",
+       "lat": "Angelino mome ne pieše,",
+       "en": "Angelina, girl, it did not drink,"
+      },
+      {
+       "cyr": "пуста таго моја, не пиеше.",
+       "lat": "pusta tago moja, ne pieše.",
+       "en": "my poor sorrow, it did not drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коњ ми тропа Анѓе, коњ ми тропа,",
+       "lat": "Konj mi tropa Anǵe, konj mi tropa,",
+       "en": "My horse stamps, Anđe, my horse stamps,"
+      },
+      {
+       "cyr": "Ангелино моме, с' десна нога,",
+       "lat": "Angelino mome, s' desna noga,",
+       "en": "Angelina, girl, with its right foot,"
+      },
+      {
+       "cyr": "пуста таго моја, с' десна нога.",
+       "lat": "pusta tago moja, s' desna noga.",
+       "en": "my poor sorrow, with its right foot."
+      },
+      {
+       "cyr": "Ми откопа Анѓе, мрамор плоча,",
+       "lat": "Mi otkopa Anǵe, mramor ploča,",
+       "en": "It dug up, Anđe, a marble slab,"
+      },
+      {
+       "cyr": "под плочата, Анѓе, огледало,",
+       "lat": "pod pločata, Anǵe, ogledalo,",
+       "en": "under the slab, Anđe, a mirror,"
+      },
+      {
+       "cyr": "пуста таго моја, огледало.",
+       "lat": "pusta tago moja, ogledalo.",
+       "en": "my poor sorrow, a mirror."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се огледав, Анѓе, се огледав,",
+       "lat": "Se ogledav, Anǵe, se ogledav,",
+       "en": "I looked at myself, Anđe, I looked at myself,"
+      },
+      {
+       "cyr": "Ангелино моме, се бендисав,",
+       "lat": "Angelino mome, se bendisav,",
+       "en": "Angelina, girl, I liked what I saw,"
+      },
+      {
+       "cyr": "пуста таго моја, се бендисав.",
+       "lat": "pusta tago moja, se bendisav.",
+       "en": "my poor sorrow, I liked what I saw."
+      },
+      {
+       "cyr": "Ушче да бев Анѓе, црно око,",
+       "lat": "Ušče da bev Anǵe, crno oko,",
+       "en": "Even if I were, Anđe, dark-eyed,"
+      },
+      {
+       "cyr": "ќа го женев Анѓе, најубавото,",
+       "lat": "ḱa go ženev Anǵe, najubavoto,",
+       "en": "I would marry, Anđe, the most beautiful,"
+      },
+      {
+       "cyr": "пуста таго моја, од селото.",
+       "lat": "pusta tago moja, od seloto.",
+       "en": "my poor sorrow, in the village."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

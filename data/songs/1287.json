@@ -1,0 +1,189 @@
+{
+ "id": 1287,
+ "slug": "zhal-za-staroto-ognishte",
+ "title_cyr": "Жал за старото огниште",
+ "title_latin": "Žal za staroto ognište",
+ "title_en": "Longing for the Old Hearth",
+ "pesna_url": "https://pesna.org/song/1287",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a composed emigrant song, but I cannot name an author, so origin unclear. 'Бигор в' душава' is my reading of a figurative stone in the soul.",
+ "words_to_learn": [
+  {
+   "mk": "земјо најмила",
+   "en": "dearest land"
+  },
+  {
+   "mk": "чемерна",
+   "en": "bitter, gloomy"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, exile"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "тиквешко",
+   "en": "of Tikvesh (region)"
+  },
+  {
+   "mk": "бигор",
+   "en": "limestone, stone (here, a heavy weight)"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "неостварена",
+   "en": "unfulfilled"
+  },
+  {
+   "mk": "неиспеана",
+   "en": "unsung"
+  },
+  {
+   "mk": "жаловна",
+   "en": "mournful"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3251"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во мисли те носам земјо најмила,",
+       "lat": "Vo misli te nosam zemjo najmila,",
+       "en": "In my thoughts I carry you, dearest land,"
+      },
+      {
+       "cyr": "во градите болка тешка, чемерна.",
+       "lat": "vo gradite bolka teška, čemerna.",
+       "en": "in my chest a heavy, bitter pain."
+      },
+      {
+       "cyr": "Ноќите се долги овде в' туѓина",
+       "lat": "Noḱite se dolgi ovde v' tuǵina",
+       "en": "The nights are long here in a foreign land"
+      },
+      {
+       "cyr": "без либето мое што го оставив",
+       "lat": "bez libeto moe što go ostaviv",
+       "en": "without my sweetheart whom I left"
+      },
+      {
+       "cyr": "во тиквешко родно, во Македонија.",
+       "lat": "vo tikveško rodno, vo Makedonija.",
+       "en": "in native Tikvesh, in Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туѓино, пуста далечна,",
+       "lat": "Tuǵino, pusta dalečna,",
+       "en": "Foreign land, desolate and distant,"
+      },
+      {
+       "cyr": "туѓино, бигор в' душава,",
+       "lat": "tuǵino, bigor v' dušava,",
+       "en": "foreign land, a stone in this soul,"
+      },
+      {
+       "cyr": "за една младост изгубена,",
+       "lat": "za edna mladost izgubena,",
+       "en": "for a lost youth,"
+      },
+      {
+       "cyr": "за една љубов неостварена",
+       "lat": "za edna ljubov neostvarena",
+       "en": "for an unfulfilled love"
+      },
+      {
+       "cyr": "и една песна неиспеана.",
+       "lat": "i edna pesna neispeana.",
+       "en": "and a song left unsung."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другари верни немој, не пејте,",
+       "lat": "Drugari verni nemoj, ne pejte,",
+       "en": "Faithful friends, please do not sing,"
+      },
+      {
+       "cyr": "либето мое не спомнувајте,",
+       "lat": "libeto moe ne spomnuvajte,",
+       "en": "do not mention my sweetheart,"
+      },
+      {
+       "cyr": "тагата моја е преголема,",
+       "lat": "tagata moja e pregolema,",
+       "en": "my sorrow is too great,"
+      },
+      {
+       "cyr": "песната ваша многу жаловна,",
+       "lat": "pesnata vaša mnogu žalovna,",
+       "en": "your song is too mournful,"
+      },
+      {
+       "cyr": "судбата наша е претешка.",
+       "lat": "sudbata naša e preteška.",
+       "en": "our fate is too hard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туѓино, пуста далечна,",
+       "lat": "Tuǵino, pusta dalečna,",
+       "en": "Foreign land, desolate and distant,"
+      },
+      {
+       "cyr": "туѓино, бигор в' душава,",
+       "lat": "tuǵino, bigor v' dušava,",
+       "en": "foreign land, a stone in this soul,"
+      },
+      {
+       "cyr": "за една младост изгубена,",
+       "lat": "za edna mladost izgubena,",
+       "en": "for a lost youth,"
+      },
+      {
+       "cyr": "за една љубов неостварена",
+       "lat": "za edna ljubov neostvarena",
+       "en": "for an unfulfilled love"
+      },
+      {
+       "cyr": "и една песна неиспеана.",
+       "lat": "i edna pesna neispeana.",
+       "en": "and a song left unsung."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

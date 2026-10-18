@@ -1,0 +1,149 @@
+{
+ "id": 1275,
+ "slug": "vojnik-da-se-bide",
+ "title_cyr": "Војник да се биде",
+ "title_latin": "Vojnik da se bide",
+ "title_en": "To Be a Soldier",
+ "pesna_url": "https://pesna.org/song/1275",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern-style song; origin unclear, no author I can name, so translated in full. 'Горделива' means proud.",
+ "words_to_learn": [
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "армија",
+   "en": "army"
+  },
+  {
+   "mk": "родина",
+   "en": "homeland"
+  },
+  {
+   "mk": "шамија",
+   "en": "headscarf"
+  },
+  {
+   "mk": "испраќаш",
+   "en": "you send off"
+  },
+  {
+   "mk": "чест",
+   "en": "honor"
+  },
+  {
+   "mk": "гордост",
+   "en": "pride"
+  },
+  {
+   "mk": "света должност",
+   "en": "sacred duty"
+  },
+  {
+   "mk": "роднина / род",
+   "en": "kin, family"
+  },
+  {
+   "mk": "настан",
+   "en": "event"
+  }
+ ],
+ "performers": [
+  "Кенан Таировски"
+ ],
+ "audio": [
+  {
+   "who": "Кенан Таировски",
+   "url": "https://pesna.org/audio-download/3209"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Утре војник одам во армијата,",
+       "lat": "Utre vojnik odam vo armijata,",
+       "en": "Tomorrow I go as a soldier into the army,"
+      },
+      {
+       "cyr": "верно да ѝ служам на родината.",
+       "lat": "verno da ì služam na rodinata.",
+       "en": "to serve my homeland faithfully."
+      },
+      {
+       "cyr": "Стави мила мајко бела шамија,",
+       "lat": "Stavi mila majko bela šamija,",
+       "en": "Put on, dear mother, a white headscarf,"
+      },
+      {
+       "cyr": "среќна што испраќаш син во армија.",
+       "lat": "sreḱna što ispraḱaš sin vo armija.",
+       "en": "happy that you are sending a son to the army."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Војник да се биде чест и гордост е,",
+       "lat": "Vojnik da se bide čest i gordost e,",
+       "en": "To be a soldier is an honor and a pride,"
+      },
+      {
+       "cyr": "земја да се брани света должност е.",
+       "lat": "zemja da se brani sveta dolžnost e.",
+       "en": "to defend the land is a sacred duty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кани татко родот и другарите,",
+       "lat": "Kani tatko rodot i drugarite,",
+       "en": "Invite, father, the kin and the friends,"
+      },
+      {
+       "cyr": "овој голем настан да прославиме,",
+       "lat": "ovoj golem nastan da proslavime,",
+       "en": "let us celebrate this great event,"
+      },
+      {
+       "cyr": "дојди испрати ме, ти ангел мој,",
+       "lat": "dojdi isprati me, ti angel moj,",
+       "en": "come and see me off, you, my angel,"
+      },
+      {
+       "cyr": "гоределива биди со војникот твој.",
+       "lat": "goredeliva bidi so vojnikot tvoj.",
+       "en": "be proud of your soldier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Војник да се биде чест и гордост е,",
+       "lat": "Vojnik da se bide čest i gordost e,",
+       "en": "To be a soldier is an honor and a pride,"
+      },
+      {
+       "cyr": "земја да се брани света должност е.",
+       "lat": "zemja da se brani sveta dolžnost e.",
+       "en": "to defend the land is a sacred duty."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

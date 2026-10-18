@@ -1,0 +1,125 @@
+{
+ "id": 1521,
+ "slug": "boj-se-bie-na-pirin-planina",
+ "title_cyr": "Бој се бие на Пирин планина",
+ "title_latin": "Boj se bie na Pirin planina",
+ "title_en": "A battle is fought on Pirin mountain",
+ "pesna_url": "https://pesna.org/song/1521",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style song, origin unclear. 'Го мие' and 'го реди' refer to the head of Stojan (my reading); 'реди' could also mean 'arranges' as in preparing the dead.",
+ "words_to_learn": [
+  {
+   "mk": "бој се бие",
+   "en": "a battle is fought"
+  },
+  {
+   "mk": "три дни и три ноќи",
+   "en": "three days and three nights"
+  },
+  {
+   "mk": "паднаа",
+   "en": "they fell"
+  },
+  {
+   "mk": "илјади",
+   "en": "thousands"
+  },
+  {
+   "mk": "глава",
+   "en": "head"
+  },
+  {
+   "mk": "дочула",
+   "en": "heard (of it)"
+  },
+  {
+   "mk": "мие",
+   "en": "washes"
+  },
+  {
+   "mk": "жално",
+   "en": "sadly, mournfully"
+  },
+  {
+   "mk": "реди",
+   "en": "arranges, lays out"
+  }
+ ],
+ "performers": [
+  "Иринка Бујуклиева"
+ ],
+ "audio": [
+  {
+   "who": "Иринка Бујуклиева",
+   "url": "https://pesna.org/audio-download/3980"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бој се бие на Пирин планина,",
+       "lat": "Boj se bie na Pirin planina,",
+       "en": "A battle is fought on Pirin mountain,"
+      },
+      {
+       "cyr": "та се бијат три дни и три ноќи.",
+       "lat": "ta se bijat tri dni i tri noḱi.",
+       "en": "they fight for three days and three nights."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму паднаа три илјади души,",
+       "lat": "Tamu padnaa tri iljadi duši,",
+       "en": "There three thousand souls fell,"
+      },
+      {
+       "cyr": "најнапреде стојанова глава.",
+       "lat": "najnaprede stojanova glava.",
+       "en": "foremost of all Stojan's head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Та го дочула старата му мајка,",
+       "lat": "Ta go dočula starata mu majka,",
+       "en": "His old mother heard of it,"
+      },
+      {
+       "cyr": "та отиде на река Вардара.",
+       "lat": "ta otide na reka Vardara.",
+       "en": "and went to the river Vardar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ем го мие, ем го мие ли,",
+       "lat": "Em go mie, em go mie li,",
+       "en": "She washes it, she washes it,"
+      },
+      {
+       "cyr": "ем го жално реди, их!",
+       "lat": "em go žalno redi, ih!",
+       "en": "and sadly lays it out, oh!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

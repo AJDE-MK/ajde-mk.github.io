@@ -1,0 +1,140 @@
+{
+ "id": 1557,
+ "slug": "silen-boj-mi-se-zavrza",
+ "title_cyr": "Силен бој ми се заврза",
+ "title_latin": "Silen boj mi se zavrza",
+ "title_en": "A fierce battle broke out",
+ "pesna_url": "https://pesna.org/song/1557",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional/historical song about the 1903 Ilinden uprising at Krushevo (Pitu Guli was a real leader). 'Даскалчето' is a nickname meaning little teacher; Mechkin Kamen is a place name.",
+ "words_to_learn": [
+  {
+   "mk": "бој",
+   "en": "battle"
+  },
+  {
+   "mk": "се заврза",
+   "en": "started, broke out (lit. was tied)"
+  },
+  {
+   "mk": "пушки",
+   "en": "rifles"
+  },
+  {
+   "mk": "бомби",
+   "en": "bombs"
+  },
+  {
+   "mk": "се затемни",
+   "en": "grew dark"
+  },
+  {
+   "mk": "извика се",
+   "en": "cried out"
+  },
+  {
+   "mk": "аскер",
+   "en": "army, soldiers (from Turkish)"
+  },
+  {
+   "mk": "растераш",
+   "en": "you scatter, drive away"
+  },
+  {
+   "mk": "патот",
+   "en": "the road"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/4057"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Силен бој ми се заврза,",
+       "lat": "Silen boj mi se zavrza,",
+       "en": "A fierce battle broke out for me,"
+      },
+      {
+       "cyr": "на Крушево, Мечкин Камен.",
+       "lat": "na Kruševo, Mečkin Kamen.",
+       "en": "at Krushevo, at Mechkin Kamen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ем од пушки, ем од бомби,",
+       "lat": "Em od puški, em od bombi,",
+       "en": "Both from rifles and from bombs,"
+      },
+      {
+       "cyr": "јасно небо се затемни.",
+       "lat": "jasno nebo se zatemni.",
+       "en": "the clear sky grew dark."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извика се Питу Гули",
+       "lat": "Izvika se Pitu Guli",
+       "en": "Pitu Guli cried out"
+      },
+      {
+       "cyr": "на Милана Даскалчето:",
+       "lat": "na Milana Daskalčeto:",
+       "en": "to Milan the Little Teacher:"
+      },
+      {
+       "cyr": "- Ој, Милане, мили брате,",
+       "lat": "- Oj, Milane, mili brate,",
+       "en": "- Oh, Milan, dear brother,"
+      },
+      {
+       "cyr": "ој, Милане мили брате!",
+       "lat": "oj, Milane mili brate!",
+       "en": "oh, Milan, dear brother!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја фрли си тешки бомби,",
+       "lat": "Ja frli si teški bombi,",
+       "en": "Hurl your heavy bombs,"
+      },
+      {
+       "cyr": "малце аскер да растераш,",
+       "lat": "malce asker da rasteraš,",
+       "en": "to scatter the army a little,"
+      },
+      {
+       "cyr": "мене патот да отвориш.",
+       "lat": "mene patot da otvoriš.",
+       "en": "to open the road for me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

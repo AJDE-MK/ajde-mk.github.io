@@ -1,0 +1,236 @@
+{
+ "id": 161,
+ "slug": "kade-ste-makedonchinja",
+ "title_cyr": "Каде сте, Македончиња?",
+ "title_latin": "Kade ste, Makedončinja?",
+ "title_en": "Where are you little Macedonians",
+ "pesna_url": "https://pesna.org/song/161",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: John Pappas)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сарев",
+  "Анета Љумаковска",
+  "Николас Бочварис",
+  "Christos Tsiparis",
+  "Makedoniko meraki",
+  "Peter Pizarcoff",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/1492"
+  },
+  {
+   "who": "Peter Pizarcoff",
+   "url": "https://pesna.org/audio-download/2884"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/2885"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4434"
+  },
+  {
+   "who": "Christos Tsiparis",
+   "url": "https://pesna.org/audio-download/4435"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/4436"
+  },
+  {
+   "who": "Николас Бочварис",
+   "url": "https://pesna.org/audio-download/4443"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Илјада деветсто четириесет и осмата,",
+       "lat": "Iljada devetsto četirieset i osmata,",
+       "en": "One Thousand-Nine-Hundred Forty Eight"
+      },
+      {
+       "cyr": "Егеј наш македонски солзи пролеа.",
+       "lat": "Egej naš makedonski solzi prolea.",
+       "en": "Tears are streaming from our Aegean Macedonian eyes"
+      },
+      {
+       "cyr": "Од гради топли, мајчински,",
+       "lat": "Od gradi topli, majčinski,",
+       "en": "From the mother’s warm bosoms,"
+      },
+      {
+       "cyr": "дечиња се отимаа,",
+       "lat": "dečinja se otimaa,",
+       "en": "children were torn apart"
+      },
+      {
+       "cyr": "по светот се распрскаа,",
+       "lat": "po svetot se rasprskaa,",
+       "en": "Scattered throughout the world,"
+      },
+      {
+       "cyr": "детски игри оставија.",
+       "lat": "detski igri ostavija.",
+       "en": "their childhood games left behind."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде сте, Македончиња,",
+       "lat": "Kade ste, Makedončinja,",
+       "en": "Where are you little Macedonians"
+      },
+      {
+       "cyr": "каде сте, кај отидовте?",
+       "lat": "kade ste, kaj otidovte?",
+       "en": "Where have you gone?"
+      },
+      {
+       "cyr": "Жално плаче мајка егејска,",
+       "lat": "Žalno plače majka egejska,",
+       "en": "Grieving Aegean mother cries"
+      },
+      {
+       "cyr": "за вас плаче Македонија.",
+       "lat": "za vas plače Makedonija.",
+       "en": "For you cries Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далечна е пролетта, четириесет и осмата,",
+       "lat": "Dalečna e proletta, četirieset i osmata,",
+       "en": "The spring of 1948 is long gone"
+      },
+      {
+       "cyr": "далеку е детството, детство минато.",
+       "lat": "daleku e detstvoto, detstvo minato.",
+       "en": "Far is the youth, running away is past"
+      },
+      {
+       "cyr": "Спомен тажен остана,",
+       "lat": "Spomen tažen ostana,",
+       "en": "Glooming memories remain,"
+      },
+      {
+       "cyr": "за родна куќа таткова,",
+       "lat": "za rodna kuḱa tatkova,",
+       "en": "for our father’s homes"
+      },
+      {
+       "cyr": "зборот плаче мајчински:",
+       "lat": "zborot plače majčinski:",
+       "en": "Our mother’s crying words"
+      },
+      {
+       "cyr": "- Мајка не заборавајте.",
+       "lat": "- Majka ne zaboravajte.",
+       "en": "not to be forgotten."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде сте, Македончиња,",
+       "lat": "Kade ste, Makedončinja,",
+       "en": "Where are you little Macedonians"
+      },
+      {
+       "cyr": "каде сте, кај отидовте?",
+       "lat": "kade ste, kaj otidovte?",
+       "en": "Where have you gone?"
+      },
+      {
+       "cyr": "Жално плаче мајка егејска,",
+       "lat": "Žalno plače majka egejska,",
+       "en": "Grieving Aegean mother cries"
+      },
+      {
+       "cyr": "за вас плаче Македонија.",
+       "lat": "za vas plače Makedonija.",
+       "en": "For you cries Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Европа, Канада, Америка, Австралија,",
+       "lat": "Evropa, Kanada, Amerika, Avstralija,",
+       "en": "Europe, Canada, America, Australia"
+      },
+      {
+       "cyr": "глас свој сложно кренаа Македонците.",
+       "lat": "glas svoj složno krenaa Makedoncite.",
+       "en": "Wailing tearful Macedonian voices were raised"
+      },
+      {
+       "cyr": "И ние право имаме,",
+       "lat": "I nie pravo imame,",
+       "en": "And we have the right"
+      },
+      {
+       "cyr": "слободно да живееме,",
+       "lat": "slobodno da živeeme,",
+       "en": "freely to live"
+      },
+      {
+       "cyr": "во земја наша таткова,",
+       "lat": "vo zemja naša tatkova,",
+       "en": "In our fatherland,"
+      },
+      {
+       "cyr": "мила Македонија.",
+       "lat": "mila Makedonija.",
+       "en": "our loving Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде сте, Македончиња,",
+       "lat": "Kade ste, Makedončinja,",
+       "en": "Where are you little Macedonians"
+      },
+      {
+       "cyr": "каде сте, кај отидовте?",
+       "lat": "kade ste, kaj otidovte?",
+       "en": "Where have you gone?"
+      },
+      {
+       "cyr": "Жално плаче мајка егејска,",
+       "lat": "Žalno plače majka egejska,",
+       "en": "Grieving Aegean mother cries"
+      },
+      {
+       "cyr": "за вас плаче Македонија.",
+       "lat": "za vas plače Makedonija.",
+       "en": "For you cries Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

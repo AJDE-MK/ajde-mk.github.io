@@ -1,0 +1,201 @@
+{
+ "id": 376,
+ "slug": "za-krushevskata-republika",
+ "title_cyr": "За Крушевската Република",
+ "title_latin": "Za Kruševskata Republika",
+ "title_en": "For the Krusevo Republic",
+ "pesna_url": "https://pesna.org/song/376",
+ "background": "Listed in your songbook as one of the Ilinden songs to explore (\"For the Kruševo Republic\"). Qwen's draft describes it as a history lesson set to music: it names Nikola Karev as the republic's first president and lists Ilinden leaders such as Damjan Gruev, Pitu Guli and Jane Sandanski (unchecked). Not checked whether the text is traditional or a later composition.",
+ "background_source": "Source of these notes: your 6-song songbook and Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a patriotic song about the 1903 Ilinden uprising and the Krusevo Republic. 'Гора смени лисја' is rendered literally; my reading is that it means the forest passed through many seasons.",
+ "words_to_learn": [
+  {
+   "mk": "крвја",
+   "en": "blood (dialect form)"
+  },
+  {
+   "mk": "натопија",
+   "en": "soaked"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel chieftain"
+  },
+  {
+   "mk": "Илинденци",
+   "en": "Ilinden fighters"
+  },
+  {
+   "mk": "претседател",
+   "en": "president"
+  },
+  {
+   "mk": "завет",
+   "en": "covenant, testament"
+  },
+  {
+   "mk": "загинаа",
+   "en": "they perished"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1086"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/1087"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Многу крвја, многу солзи",
+       "lat": "Mnogu krvja, mnogu solzi",
+       "en": "Much blood, many tears"
+      },
+      {
+       "cyr": "земја натопија",
+       "lat": "zemja natopija",
+       "en": "soaked the land,"
+      },
+      {
+       "cyr": "многу лисја гора смени",
+       "lat": "mnogu lisja gora smeni",
+       "en": "the forest changed many leaves,"
+      },
+      {
+       "cyr": "машка снага испи,",
+       "lat": "maška snaga ispi,",
+       "en": "manly strength drank it in,"
+      },
+      {
+       "cyr": "но по таа борба тешка",
+       "lat": "no po taa borba teška",
+       "en": "but after that hard struggle"
+      },
+      {
+       "cyr": "слобода ни блесна.",
+       "lat": "sloboda ni blesna.",
+       "en": "freedom shone for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во 1903-тата година",
+       "lat": "Vo 1903-tata godina",
+       "en": "In the year 1903"
+      },
+      {
+       "cyr": "се создаде Република",
+       "lat": "se sozdade Republika",
+       "en": "a Republic was created"
+      },
+      {
+       "cyr": "во славно Крушево,",
+       "lat": "vo slavno Kruševo,",
+       "en": "in glorious Krusevo,"
+      },
+      {
+       "cyr": "Македонска република",
+       "lat": "Makedonska republika",
+       "en": "the Macedonian Republic,"
+      },
+      {
+       "cyr": "прва на Балканот.",
+       "lat": "prva na Balkanot.",
+       "en": "the first in the Balkans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Претседател прв ни беше",
+       "lat": "Pretsedatel prv ni beše",
+       "en": "Our first president was"
+      },
+      {
+       "cyr": "тој Никола Карев",
+       "lat": "toj Nikola Karev",
+       "en": "Nikola Karev,"
+      },
+      {
+       "cyr": "со Македонски Војводи",
+       "lat": "so Makedonski Vojvodi",
+       "en": "with the Macedonian voivodes,"
+      },
+      {
+       "cyr": "сите Илинденци,",
+       "lat": "site Ilindenci,",
+       "en": "all the Ilinden fighters,"
+      },
+      {
+       "cyr": "Даме Груев, Питу Гули",
+       "lat": "Dame Gruev, Pitu Guli",
+       "en": "Dame Gruev, Pitu Guli"
+      },
+      {
+       "cyr": "и Јане Сандански.",
+       "lat": "i Jane Sandanski.",
+       "en": "and Jane Sandanski."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За слобода загинаа",
+       "lat": "Za sloboda zaginaa",
+       "en": "For freedom they fell,"
+      },
+      {
+       "cyr": "славните војводи",
+       "lat": "slavnite vojvodi",
+       "en": "the glorious voivodes,"
+      },
+      {
+       "cyr": "на Македонците они",
+       "lat": "na Makedoncite oni",
+       "en": "to the Macedonians"
+      },
+      {
+       "cyr": "завет оставија,",
+       "lat": "zavet ostavija,",
+       "en": "they left a covenant,"
+      },
+      {
+       "cyr": "да се борат за слобода",
+       "lat": "da se borat za sloboda",
+       "en": "to fight for freedom"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

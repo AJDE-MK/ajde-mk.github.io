@@ -1,0 +1,127 @@
+{
+ "id": 1480,
+ "slug": "mago-mago-vaklo-pile",
+ "title_cyr": "Маго, Маго вакло пиле",
+ "title_latin": "Mago, Mago vaklo pile",
+ "title_en": "Mago, Mago, dark-eyed chick",
+ "pesna_url": "https://pesna.org/song/1480",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear; Pehchevo is a town in eastern Macedonia. 'Двајс'/'тријсте' are shortened forms of twenty and three hundred; 'колџии' as night guards is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "вакло",
+   "en": "with dark-ringed eyes (see notes)"
+  },
+  {
+   "mk": "пиле",
+   "en": "chick, little bird (endearment)"
+  },
+  {
+   "mk": "ношно време",
+   "en": "night time"
+  },
+  {
+   "mk": "сокаци",
+   "en": "alleys, streets"
+  },
+  {
+   "mk": "колџии",
+   "en": "night guards, patrolmen (Turkish-origin)"
+  },
+  {
+   "mk": "фанат",
+   "en": "they will catch"
+  },
+  {
+   "mk": "срамат",
+   "en": "they will shame"
+  },
+  {
+   "mk": "наопако",
+   "en": "backwards, behind the back"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3835"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Маго, Маго мари, вакло пиле,",
+       "lat": "Mago, Mago mari, vaklo pile,",
+       "en": "Mago, Mago, hey, dark-eyed chick,"
+      },
+      {
+       "cyr": "не ти реков мари еднаш и два',",
+       "lat": "ne ti rekov mari ednaš i dva',",
+       "en": "did I not tell you, hey, once or twice,"
+      },
+      {
+       "cyr": "еднаш и двајс', мари, тријсте пати.",
+       "lat": "ednaš i dvajs', mari, trijste pati.",
+       "en": "once or twenty, hey, three hundred times."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не излази Маго ношно време,",
+       "lat": "Ne izlazi Mago nošno vreme,",
+       "en": "Do not go out, Mago, at night time,"
+      },
+      {
+       "cyr": "ношно време, Маго, по сокаци,",
+       "lat": "nošno vreme, Mago, po sokaci,",
+       "en": "night time, Mago, in the alleys,"
+      },
+      {
+       "cyr": "по сокаци Маго, низ Пехчево.",
+       "lat": "po sokaci Mago, niz Pehčevo.",
+       "en": "in the alleys, Mago, through Pehchevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе те фанат Маго колџиите,",
+       "lat": "Ḱe te fanat Mago koldžiite,",
+       "en": "The night guards will catch you, Mago,"
+      },
+      {
+       "cyr": "ќе фанат Маго, ќе те срамат.",
+       "lat": "ḱe fanat Mago, ḱe te sramat.",
+       "en": "they will catch you, Mago, they will shame you."
+      },
+      {
+       "cyr": "Ќе ти врзат Маго бели раце,",
+       "lat": "Ḱe ti vrzat Mago beli race,",
+       "en": "They will tie your white hands, Mago,"
+      },
+      {
+       "cyr": "бели раце, Маго, наопако.",
+       "lat": "beli race, Mago, naopako.",
+       "en": "your white hands, Mago, behind your back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,193 @@
+{
+ "id": 858,
+ "slug": "onaa-strana-ogan-gori",
+ "title_cyr": "Онаа страна оган гори",
+ "title_latin": "Onaa strana ogan gori",
+ "title_en": "On that side a fire burns",
+ "pesna_url": "https://pesna.org/song/858",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Christmas-type carol, no author known. Verb endings in -ит are dialect; 'Христовата' I read as an unstated noun, 'Christ's (fire)', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "оган",
+   "en": "fire"
+  },
+  {
+   "mk": "греит",
+   "en": "warms (dialect, standard грее)"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "ветер",
+   "en": "wind"
+  },
+  {
+   "mk": "гаснит",
+   "en": "extinguishes (dialect)"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "рудина",
+   "en": "meadow, clearing"
+  },
+  {
+   "mk": "овчари",
+   "en": "shepherds"
+  },
+  {
+   "mk": "поли",
+   "en": "hems, skirts of a garment"
+  },
+  {
+   "mk": "повиле",
+   "en": "they wrapped (swaddled)"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/1876"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Онаа страна оган гори",
+       "lat": "Onaa strana ogan gori",
+       "en": "On that side a fire burns,"
+      },
+      {
+       "cyr": "сонце греит, небо синит,",
+       "lat": "sonce greit, nebo sinit,",
+       "en": "the sun warms, the sky is blue,"
+      },
+      {
+       "cyr": "роса росит, не го гаснит,",
+       "lat": "rosa rosit, ne go gasnit,",
+       "en": "the dew falls, it does not put it out,"
+      },
+      {
+       "cyr": "ветер веит, не го сеит.",
+       "lat": "veter veit, ne go seit.",
+       "en": "the wind blows, it does not scatter it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми било силен оган,",
+       "lat": "Ne mi bilo silen ogan,",
+       "en": "It was not a mighty fire,"
+      },
+      {
+       "cyr": "тук' ми била Христовата,",
+       "lat": "tuk' mi bila Hristovata,",
+       "en": "but it was Christ's,"
+      },
+      {
+       "cyr": "тук' ми била Христовата,",
+       "lat": "tuk' mi bila Hristovata,",
+       "en": "but it was Christ's,"
+      },
+      {
+       "cyr": "Христовата мила мајка.",
+       "lat": "Hristovata mila majka.",
+       "en": "Christ's dear mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го стасала Христа бога,",
+       "lat": "Go stasala Hrista boga,",
+       "en": "She found Christ the God,"
+      },
+      {
+       "cyr": "го стасала на планина,",
+       "lat": "go stasala na planina,",
+       "en": "she found him on the mountain,"
+      },
+      {
+       "cyr": "го стасала на планина,",
+       "lat": "go stasala na planina,",
+       "en": "she found him on the mountain,"
+      },
+      {
+       "cyr": "на планина, на рудина.",
+       "lat": "na planina, na rudina.",
+       "en": "on the mountain, on the clearing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале овчарите,",
+       "lat": "Se sobrale ovčarite,",
+       "en": "The shepherds gathered,"
+      },
+      {
+       "cyr": "запалиле силен оган,",
+       "lat": "zapalile silen ogan,",
+       "en": "they lit a mighty fire,"
+      },
+      {
+       "cyr": "запалиле силе оган,",
+       "lat": "zapalile sile ogan,",
+       "en": "they lit a mighty fire,"
+      },
+      {
+       "cyr": "да огреат машко дете.",
+       "lat": "da ogreat maško dete.",
+       "en": "to warm the male child."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си исекле долги поли,",
+       "lat": "Si isekle dolgi poli,",
+       "en": "They cut off their long hems,"
+      },
+      {
+       "cyr": "си повиле машко дете,",
+       "lat": "si povile maško dete,",
+       "en": "they wrapped the male child,"
+      },
+      {
+       "cyr": "си повиле машко дете,",
+       "lat": "si povile maško dete,",
+       "en": "they wrapped the male child,"
+      },
+      {
+       "cyr": "огреале Христа бога.",
+       "lat": "ogreale Hrista boga.",
+       "en": "they warmed Christ the God."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

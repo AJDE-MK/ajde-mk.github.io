@@ -1,0 +1,207 @@
+{
+ "id": 231,
+ "slug": "liljano-mome-ubavo",
+ "title_cyr": "Лилјано моме убаво",
+ "title_latin": "Liljano mome ubavo",
+ "title_en": "Beautiful maiden Liljana",
+ "pesna_url": "https://pesna.org/song/231",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'калешо' is a word I am unsure of; 'fine' is my reading. Line 3 of stanza 2 and the 'grandchildren' lines are my reading and somewhat unclear.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "maiden, girl"
+  },
+  {
+   "mk": "убаво",
+   "en": "beautiful"
+  },
+  {
+   "mk": "пиле",
+   "en": "little bird (endearment)"
+  },
+  {
+   "mk": "калешо",
+   "en": "fine, choice (my reading)"
+  },
+  {
+   "mk": "светот ќе гориш",
+   "en": "you will set the world on fire"
+  },
+  {
+   "mk": "оставам",
+   "en": "I leave"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "слугувам",
+   "en": "I serve"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Алексо Димов",
+  "Анета Љумаковска",
+  "Анка Гиева",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Верица Русева",
+  "Даниела Темелковска",
+  "Злата Теодосиевска",
+  "Зоран Џорлев",
+  "Кочо Петровски",
+  "Маестрал",
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Октет Македонија",
+  "Пицикато",
+  "Чардак",
+  "Roel Sluis"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев, Васка Илиева",
+   "url": "https://pesna.org/audio-download/620"
+  },
+  {
+   "who": "Злата Теодосиевска",
+   "url": "https://pesna.org/audio-download/621"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/622"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/623"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/624"
+  },
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/625"
+  },
+  {
+   "who": "Даниела Темелковска",
+   "url": "https://pesna.org/audio-download/626"
+  },
+  {
+   "who": "Маестрал",
+   "url": "https://pesna.org/audio-download/627"
+  },
+  {
+   "who": "Александар Сариевски, Анка Гиева",
+   "url": "https://pesna.org/audio-download/2053"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/2153"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2771"
+  },
+  {
+   "who": "Roel Sluis",
+   "url": "https://pesna.org/audio-download/2772"
+  },
+  {
+   "who": "Верица Русева, Пицикато",
+   "url": "https://pesna.org/audio-download/2773"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2931"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лилјано моме убаво,",
+       "lat": "Liljano mome ubavo,",
+       "en": "Beautiful maiden Liljana,"
+      },
+      {
+       "cyr": "Лилјано пиле калешо,",
+       "lat": "Liljano pile kalešo,",
+       "en": "Liljana, my fine young bird,"
+      },
+      {
+       "cyr": "уште ли мома ќе одиш,",
+       "lat": "ušte li moma ḱe odiš,",
+       "en": "will you still go about as a maiden,"
+      },
+      {
+       "cyr": "уште ли светот ќе гориш?",
+       "lat": "ušte li svetot ḱe goriš?",
+       "en": "will you still set the world on fire?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На стари баби внучиња,",
+       "lat": "Na stari babi vnučinja,",
+       "en": "Grandchildren for old grandmothers,"
+      },
+      {
+       "cyr": "на млади невести момчиња,",
+       "lat": "na mladi nevesti momčinja,",
+       "en": "sons for young brides,"
+      },
+      {
+       "cyr": "жена и деца оставам,",
+       "lat": "žena i deca ostavam,",
+       "en": "I leave wife and children"
+      },
+      {
+       "cyr": "тебе Лилјано да земам.",
+       "lat": "tebe Liljano da zemam.",
+       "en": "to take you, Liljana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој, Лилјано, не чини,",
+       "lat": "Nemoj, Liljano, ne čini,",
+       "en": "Don't, Liljana, don't do it,"
+      },
+      {
+       "cyr": "не оставај рана на срце,",
+       "lat": "ne ostavaj rana na srce,",
+       "en": "don't leave a wound on my heart,"
+      },
+      {
+       "cyr": "цел век јас ќе ти слугувам,",
+       "lat": "cel vek jas ḱe ti sluguvam,",
+       "en": "all my life I will serve you,"
+      },
+      {
+       "cyr": "тебе Лилјано да земам.",
+       "lat": "tebe Liljano da zemam.",
+       "en": "to take you, Liljana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

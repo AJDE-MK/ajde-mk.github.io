@@ -1,0 +1,176 @@
+{
+ "id": 718,
+ "slug": "serenada",
+ "title_cyr": "Серенада",
+ "title_latin": "Serenada",
+ "title_en": "Serenade",
+ "pesna_url": "https://pesna.org/song/718",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Linerva)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гоце Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/609"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тивка ноќ е, сите спијат,",
+       "lat": "Tivka noḱ e, site spijat,",
+       "en": "It is a quiet night, everyone is sleeping,"
+      },
+      {
+       "cyr": "само ние двајцата не,",
+       "lat": "samo nie dvajcata ne,",
+       "en": "Only we two are not."
+      },
+      {
+       "cyr": "јас и мојата гитара",
+       "lat": "jas i mojata gitara",
+       "en": "Me and my guitar,"
+      },
+      {
+       "cyr": "под твоето пенџере.",
+       "lat": "pod tvoeto pendžere.",
+       "en": "Under your window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тивко свирам за да можеш",
+       "lat": "Tivko sviram za da možeš",
+       "en": "I am playing quietly, so that"
+      },
+      {
+       "cyr": "да ме чуеш само ти,",
+       "lat": "da me čueš samo ti,",
+       "en": "Only you can hear me,"
+      },
+      {
+       "cyr": "колку љубам ќе ти кажат",
+       "lat": "kolku ljubam ḱe ti kažat",
+       "en": "My musical chords will tell you,"
+      },
+      {
+       "cyr": "моите звучни акорди.",
+       "lat": "moite zvučni akordi.",
+       "en": "How much I love (you)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако чуеш, мила моја,",
+       "lat": "Ako čueš, mila moja,",
+       "en": "If you can hear, my dear,"
+      },
+      {
+       "cyr": "нека светне пенџере,",
+       "lat": "neka svetne pendžere,",
+       "en": "Let a light shine at the window,"
+      },
+      {
+       "cyr": "јас ќе бидам среќен, мила,",
+       "lat": "jas ḱe bidam sreḱen, mila,",
+       "en": "I will be happy, dear,"
+      },
+      {
+       "cyr": "како да си крај мене.",
+       "lat": "kako da si kraj mene.",
+       "en": "As if you are next to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тивко свирам за да можеш",
+       "lat": "Tivko sviram za da možeš",
+       "en": "I am playing quietly, so that,"
+      },
+      {
+       "cyr": "да ме чуеш само ти,",
+       "lat": "da me čueš samo ti,",
+       "en": "Only you can hear me,"
+      },
+      {
+       "cyr": "колку љубам ќе ти кажат",
+       "lat": "kolku ljubam ḱe ti kažat",
+       "en": "My musical chords will tell you,"
+      },
+      {
+       "cyr": "моите звучни акорди.",
+       "lat": "moite zvučni akordi.",
+       "en": "How much I love (you)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оваа моја серенада",
+       "lat": "Ovaa moja serenada",
+       "en": "This my serenade,"
+      },
+      {
+       "cyr": "тебе ти ја дарувам,",
+       "lat": "tebe ti ja daruvam,",
+       "en": "I give it to you,"
+      },
+      {
+       "cyr": "мирен сон и добра ноќ",
+       "lat": "miren son i dobra noḱ",
+       "en": "A calm dream and a good night,"
+      },
+      {
+       "cyr": "мила ти пожелувам.",
+       "lat": "mila ti poželuvam.",
+       "en": "I wish you, dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тивко свирам за да можеш",
+       "lat": "Tivko sviram za da možeš",
+       "en": "I am playing quietly, so that,"
+      },
+      {
+       "cyr": "да ме чуеш само ти,",
+       "lat": "da me čueš samo ti,",
+       "en": "Only you can hear me,"
+      },
+      {
+       "cyr": "колку љубам ќе ти кажат",
+       "lat": "kolku ljubam ḱe ti kažat",
+       "en": "My musical chords will tell you,"
+      },
+      {
+       "cyr": "моите звучни акорди.",
+       "lat": "moite zvučni akordi.",
+       "en": "How much I love (you)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

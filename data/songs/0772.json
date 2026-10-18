@@ -1,0 +1,163 @@
+{
+ "id": 772,
+ "slug": "shto-ti-tekna-jano-da-pobegnesh",
+ "title_cyr": "Што ти текна, Јано, да побегнеш",
+ "title_latin": "Što ti tekna, Jano, da pobegneš",
+ "title_en": "What Got Into You, Jana, to Run Away",
+ "pesna_url": "https://pesna.org/song/772",
+ "background": "Another version of the cheeky wedding song about a bride who runs away at dawn; see #440 for the story.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лешник' and 'два лешника' are my reading: hazelnut or a man's name/nickname (Leshnik); 'гламно' (head, dialect) and 'мангари' (coins) are guesses. Turla and Vranestica are place names.",
+ "words_to_learn": [
+  {
+   "mk": "текна",
+   "en": "occurred to, got into (one's head)"
+  },
+  {
+   "mk": "побегнеш",
+   "en": "you run away, elope"
+  },
+  {
+   "mk": "натема",
+   "en": "curse, damn"
+  },
+  {
+   "mk": "бож' уби те",
+   "en": "may God strike you"
+  },
+  {
+   "mk": "многу пари",
+   "en": "a lot of money"
+  },
+  {
+   "mk": "мангари",
+   "en": "mangar (small copper coin)"
+  },
+  {
+   "mk": "црна гламно",
+   "en": "black head, poor wretch"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1318"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ти текна, Јано, да побегнеш,",
+       "lat": "Što ti tekna, Jano, da pobegneš,",
+       "en": "What got into you, Jana, to run away,"
+      },
+      {
+       "cyr": "да побегнеш, Јано, преку Турла?",
+       "lat": "da pobegneš, Jano, preku Turla?",
+       "en": "to run away, Jana, across Turla?"
+      },
+      {
+       "cyr": "Оф, оф, Јано, натема те,",
+       "lat": "Of, of, Jano, natema te,",
+       "en": "Oh, oh, Jana, curse you,"
+      },
+      {
+       "cyr": "леле, Јано, бож' уби те,",
+       "lat": "lele, Jano, bož' ubi te,",
+       "en": "oh, Jana, may God strike you,"
+      },
+      {
+       "cyr": "Aјде, Јано, црна гламно,",
+       "lat": "Ajde, Jano, crna glamno,",
+       "en": "come on, Jana, black head,"
+      },
+      {
+       "cyr": "aјде, Јано, црна гламно.",
+       "lat": "ajde, Jano, crna glamno.",
+       "en": "come on, Jana, black head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Преку Турла, Јано, Вранештица,",
+       "lat": "Preku Turla, Jano, Vraneštica,",
+       "en": "Across Turla, Jana, is Vranestica,"
+      },
+      {
+       "cyr": "Вранештица, Јано, два лешника.",
+       "lat": "Vraneštica, Jano, dva lešnika.",
+       "en": "Vranestica, Jana, two Leshniks."
+      },
+      {
+       "cyr": "Оф, оф, Јано, натема те,",
+       "lat": "Of, of, Jano, natema te,",
+       "en": "Oh, oh, Jana, curse you,"
+      },
+      {
+       "cyr": "леле, Јано, бож' уби те,",
+       "lat": "lele, Jano, bož' ubi te,",
+       "en": "oh, Jana, may God strike you,"
+      },
+      {
+       "cyr": "Aјде, Јано, црна гламно,",
+       "lat": "Ajde, Jano, crna glamno,",
+       "en": "come on, Jana, black head,"
+      },
+      {
+       "cyr": "aјде, Јано, црна гламно.",
+       "lat": "ajde, Jano, crna glamno.",
+       "en": "come on, Jana, black head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лешник има, Јано, многу пари,",
+       "lat": "Lešnik ima, Jano, mnogu pari,",
+       "en": "Leshnik has, Jana, a lot of money,"
+      },
+      {
+       "cyr": "многу пари, Јано, три мангари.",
+       "lat": "mnogu pari, Jano, tri mangari.",
+       "en": "a lot of money, Jana, three mangari."
+      },
+      {
+       "cyr": "Оф, оф, Јано, натема те,",
+       "lat": "Of, of, Jano, natema te,",
+       "en": "Oh, oh, Jana, curse you,"
+      },
+      {
+       "cyr": "леле, Јано, бож' уби те,",
+       "lat": "lele, Jano, bož' ubi te,",
+       "en": "oh, Jana, may God strike you,"
+      },
+      {
+       "cyr": "Aјде, Јано, црна гламно,",
+       "lat": "Ajde, Jano, crna glamno,",
+       "en": "come on, Jana, black head,"
+      },
+      {
+       "cyr": "aјде, Јано, црна гламно.",
+       "lat": "ajde, Jano, crna glamno.",
+       "en": "come on, Jana, black head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

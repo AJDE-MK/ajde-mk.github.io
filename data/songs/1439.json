@@ -1,0 +1,112 @@
+{
+ "id": 1439,
+ "slug": "oj-lenko-lenko",
+ "title_cyr": "Ој Ленко, Ленко",
+ "title_latin": "Oj Lenko, Lenko",
+ "title_en": "Oh Lenka, Lenka",
+ "pesna_url": "https://pesna.org/song/1439",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Ленко, Ленко галенко де,",
+       "lat": "Oj Lenko, Lenko galenko de,",
+       "en": "Oh Lenka, Lenka you spoiled maiden,"
+      },
+      {
+       "cyr": "белото лице на тебе",
+       "lat": "beloto lice na tebe",
+       "en": "that white face of yours,"
+      },
+      {
+       "cyr": "фрли го, метни го на мене,",
+       "lat": "frli go, metni go na mene,",
+       "en": "throw it, give it to me,"
+      },
+      {
+       "cyr": "јас да го носам, подносам,",
+       "lat": "jas da go nosam, podnosam,",
+       "en": "so I can wear it for a little while"
+      },
+      {
+       "cyr": "пак ќе ти го донесам.",
+       "lat": "pak ḱe ti go donesam.",
+       "en": "and I will return it to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Ленко, Ленко галенко де,",
+       "lat": "Oj Lenko, Lenko galenko de,",
+       "en": "Oh Lenka, Lenka you spoiled maiden,"
+      },
+      {
+       "cyr": "црните очи на тебе",
+       "lat": "crnite oči na tebe",
+       "en": "those black eyes of yours,"
+      },
+      {
+       "cyr": "фрли ги, метни ги на мене,",
+       "lat": "frli gi, metni gi na mene,",
+       "en": "throw them, give them to me,"
+      },
+      {
+       "cyr": "јас да ги носам, подносам,",
+       "lat": "jas da gi nosam, podnosam,",
+       "en": "so I can wear them for a little while"
+      },
+      {
+       "cyr": "пак ќе ти ги донесам.",
+       "lat": "pak ḱe ti gi donesam.",
+       "en": "and I will return them to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Ленко, Ленко галенко де,",
+       "lat": "Oj Lenko, Lenko galenko de,",
+       "en": "Oh Lenka, Lenka you spoiled maiden,"
+      },
+      {
+       "cyr": "рамната снага на тебе",
+       "lat": "ramnata snaga na tebe",
+       "en": "that gorgeous body of yours,"
+      },
+      {
+       "cyr": "фрли ја, метни ја на мене,",
+       "lat": "frli ja, metni ja na mene,",
+       "en": "throw it, give it to me,"
+      },
+      {
+       "cyr": "јас да ја носам, подносам,",
+       "lat": "jas da ja nosam, podnosam,",
+       "en": "so I can wear it for a little while"
+      },
+      {
+       "cyr": "пак ќе ти ја донесам.",
+       "lat": "pak ḱe ti ja donesam.",
+       "en": "and I will return it to you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

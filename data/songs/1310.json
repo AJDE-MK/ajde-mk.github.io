@@ -1,0 +1,179 @@
+{
+ "id": 1310,
+ "slug": "cela-tajfa-bevme-lino",
+ "title_cyr": "Цела тајфа бевме Лино",
+ "title_latin": "Cela tajfa bevme Lino",
+ "title_en": "We were a whole gang, Lino",
+ "pesna_url": "https://pesna.org/song/1310",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern composed song but I cannot name an author. 'изгор' I read as 'from the forest' (изгора), a guess.",
+ "words_to_learn": [
+  {
+   "mk": "тајфа",
+   "en": "gang, group of friends"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "на ум ни падна",
+   "en": "it occurred to us"
+  },
+  {
+   "mk": "на гости",
+   "en": "visiting"
+  },
+  {
+   "mk": "милни песни",
+   "en": "tender songs"
+  },
+  {
+   "mk": "букет цвеќе",
+   "en": "bouquet of flowers"
+  },
+  {
+   "mk": "залуди",
+   "en": "drove (me) mad"
+  },
+  {
+   "mk": "судбина",
+   "en": "destiny"
+  }
+ ],
+ "performers": [
+  "Кирчо Поп Лазаров"
+ ],
+ "audio": [
+  {
+   "who": "Кирчо Поп Лазаров",
+   "url": "https://pesna.org/audio-download/3316"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цела тајфа бевме Лино,",
+       "lat": "Cela tajfa bevme Lino,",
+       "en": "We were a whole gang, Lino,"
+      },
+      {
+       "cyr": "рујно вино пиевме",
+       "lat": "rujno vino pievme",
+       "en": "we drank ruby wine"
+      },
+      {
+       "cyr": "и на ум ни падна Лино",
+       "lat": "i na um ni padna Lino",
+       "en": "and it came to our minds, Lino,"
+      },
+      {
+       "cyr": "дома да ти дојдеме.",
+       "lat": "doma da ti dojdeme.",
+       "en": "to come to your house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Лино душо, Лино моја судбино,",
+       "lat": "Ej, Lino dušo, Lino moja sudbino,",
+       "en": "Hey, Lino my soul, Lino my destiny,"
+      },
+      {
+       "cyr": "еј, Лино срце, Лино пиле шарено.",
+       "lat": "ej, Lino srce, Lino pile šareno.",
+       "en": "hey, Lino my heart, Lino speckled bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На гости ти бевме, Лино,",
+       "lat": "Na gosti ti bevme, Lino,",
+       "en": "We came to visit you, Lino,"
+      },
+      {
+       "cyr": "милни песни пеевме,",
+       "lat": "milni pesni peevme,",
+       "en": "we sang tender songs,"
+      },
+      {
+       "cyr": "и за тебе изгор Лино,",
+       "lat": "i za tebe izgor Lino,",
+       "en": "and for you, Lino, from the forest,"
+      },
+      {
+       "cyr": "букет цвеќе носевме.",
+       "lat": "buket cveḱe nosevme.",
+       "en": "we brought a bouquet of flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Лино душо, Лино моја судбино,",
+       "lat": "Ej, Lino dušo, Lino moja sudbino,",
+       "en": "Hey, Lino my soul, Lino my destiny,"
+      },
+      {
+       "cyr": "еј, Лино срце, Лино пиле шарено.",
+       "lat": "ej, Lino srce, Lino pile šareno.",
+       "en": "hey, Lino my heart, Lino speckled bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дома нели беше Лино,",
+       "lat": "Doma neli beše Lino,",
+       "en": "Weren't you at home, Lino,"
+      },
+      {
+       "cyr": "та што не ни отвори?",
+       "lat": "ta što ne ni otvori?",
+       "en": "that you did not open to us?"
+      },
+      {
+       "cyr": "Какво срце имаш, Лино,",
+       "lat": "Kakvo srce imaš, Lino,",
+       "en": "What kind of heart do you have, Lino,"
+      },
+      {
+       "cyr": "толку што ме залуди?",
+       "lat": "tolku što me zaludi?",
+       "en": "that you drove me so mad?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Лино душо, Лино моја судбино,",
+       "lat": "Ej, Lino dušo, Lino moja sudbino,",
+       "en": "Hey, Lino my soul, Lino my destiny,"
+      },
+      {
+       "cyr": "еј, Лино срце, Лино пиле шарено.",
+       "lat": "ej, Lino srce, Lino pile šareno.",
+       "en": "hey, Lino my heart, Lino speckled bird."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

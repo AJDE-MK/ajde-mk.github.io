@@ -1,0 +1,109 @@
+{
+ "id": 12,
+ "slug": "veno-pile-veno",
+ "title_cyr": "Вено, пиле, Вено",
+ "title_latin": "Veno, pile, Veno",
+ "title_en": "Vena, little bird, Vena, oh",
+ "pesna_url": "https://pesna.org/song/12",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Дивна Лазарова",
+  "Јанко Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Дивна Лазарова",
+   "url": "https://pesna.org/audio-download/1744"
+  },
+  {
+   "who": "Јанко Узунов",
+   "url": "https://pesna.org/audio-download/1745"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Вено, пиле, Вено, леле,",
+       "lat": "Veno, pile, Veno, lele,",
+       "en": "Vena, little bird, Vena, oh,"
+      },
+      {
+       "cyr": "вечера ли синоќ?",
+       "lat": "večera li sinoḱ?",
+       "en": "did you have supper last night?"
+      },
+      {
+       "cyr": "Не сам ни ручало, леле,",
+       "lat": "Ne sam ni ručalo, lele,",
+       "en": "Neither did I have lunch, oh,"
+      },
+      {
+       "cyr": "а не вечерало.",
+       "lat": "a ne večeralo.",
+       "en": "nor did I have dinner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цел ноќ не сам спало, леле,",
+       "lat": "Cel noḱ ne sam spalo, lele,",
+       "en": "I haven't slept all night, oh"
+      },
+      {
+       "cyr": "сал сам ја војвало.",
+       "lat": "sal sam ja vojvalo.",
+       "en": "I just kept wandering around."
+      },
+      {
+       "cyr": "Од твојте комшии, леле,",
+       "lat": "Od tvojte komšii, lele,",
+       "en": "Because of your neighbours, oh,"
+      },
+      {
+       "cyr": "браќа кавгаџии.",
+       "lat": "braḱa kavgadžii.",
+       "en": "the brothers that are brawlers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На голема чешма, леле,",
+       "lat": "Na golema češma, lele,",
+       "en": "At the big fountain, oh,"
+      },
+      {
+       "cyr": "кавга направиле.",
+       "lat": "kavga napravile.",
+       "en": "they fought,"
+      },
+      {
+       "cyr": "Кавга направиле, леле,",
+       "lat": "Kavga napravile, lele,",
+       "en": "they fought, oh,"
+      },
+      {
+       "cyr": "брата ми тепале.",
+       "lat": "brata mi tepale.",
+       "en": "they beat my brother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

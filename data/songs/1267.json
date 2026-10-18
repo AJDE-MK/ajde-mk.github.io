@@ -1,0 +1,179 @@
+{
+ "id": 1267,
+ "slug": "vojnik-odam",
+ "title_cyr": "Војник одам",
+ "title_latin": "Vojnik odam",
+ "title_en": "I Am Going Off as a Soldier",
+ "pesna_url": "https://pesna.org/song/1267",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (soldier-send-off song, possibly modern folk style), no author I can name.",
+ "words_to_learn": [
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "војска",
+   "en": "army, military service"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "испраќаат",
+   "en": "see off, send off"
+  },
+  {
+   "mk": "другари",
+   "en": "friends, comrades"
+  },
+  {
+   "mk": "среќен",
+   "en": "happy, lucky"
+  },
+  {
+   "mk": "оставам",
+   "en": "I leave"
+  },
+  {
+   "mk": "да ме чекаш",
+   "en": "to wait for me"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "штом",
+   "en": "as soon as"
+  }
+ ],
+ "performers": [
+  "Ројал"
+ ],
+ "audio": [
+  {
+   "who": "Ројал",
+   "url": "https://pesna.org/audio-download/3199"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Војник одам, песни пеам,",
+       "lat": "Vojnik odam, pesni peam,",
+       "en": "I go as a soldier, I sing songs,"
+      },
+      {
+       "cyr": "песни пеам, оро играм,",
+       "lat": "pesni peam, oro igram,",
+       "en": "I sing songs, I dance the oro,"
+      },
+      {
+       "cyr": "војник одам, оф, оф, оф,",
+       "lat": "vojnik odam, of, of, of,",
+       "en": "I go as a soldier, oh, oh, oh,"
+      },
+      {
+       "cyr": "песни пеам девојко,",
+       "lat": "pesni peam devojko,",
+       "en": "I sing songs, girl,"
+      },
+      {
+       "cyr": "војник одам, оф, оф, оф,",
+       "lat": "vojnik odam, of, of, of,",
+       "en": "I go as a soldier, oh, oh, oh,"
+      },
+      {
+       "cyr": "оро играм девојко.",
+       "lat": "oro igram devojko.",
+       "en": "I dance the oro, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка, татко, ме испраќаат,",
+       "lat": "Majka, tatko, me ispraḱaat,",
+       "en": "Mother, father see me off,"
+      },
+      {
+       "cyr": "браќа, сестри и другари:",
+       "lat": "braḱa, sestri i drugari:",
+       "en": "brothers, sisters and friends:"
+      },
+      {
+       "cyr": "- Среќен оди, оф, оф, оф,",
+       "lat": "- Sreḱen odi, of, of, of,",
+       "en": "- Go happy, oh, oh, oh,"
+      },
+      {
+       "cyr": "среќен дома врати се!",
+       "lat": "sreḱen doma vrati se!",
+       "en": "return home happy!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тебе мила те оставам,",
+       "lat": "- Tebe mila te ostavam,",
+       "en": "- I leave you, my dear,"
+      },
+      {
+       "cyr": "те оставам да ме чекаш,",
+       "lat": "te ostavam da me čekaš,",
+       "en": "I leave you to wait for me,"
+      },
+      {
+       "cyr": "да ме чекаш, оф, оф, оф,",
+       "lat": "da me čekaš, of, of, of,",
+       "en": "to wait for me, oh, oh, oh,"
+      },
+      {
+       "cyr": "до година, девојко.",
+       "lat": "do godina, devojko.",
+       "en": "for a year, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом од војска јас се вратам,",
+       "lat": "Štom od vojska jas se vratam,",
+       "en": "As soon as I return from the army,"
+      },
+      {
+       "cyr": "тебе мила ќе те земам,",
+       "lat": "tebe mila ḱe te zemam,",
+       "en": "I will take you, my dear,"
+      },
+      {
+       "cyr": "ќе те земам, оф, оф, оф,",
+       "lat": "ḱe te zemam, of, of, of,",
+       "en": "I will take you, oh, oh, oh,"
+      },
+      {
+       "cyr": "за невеста девојко.",
+       "lat": "za nevesta devojko.",
+       "en": "as my bride, girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

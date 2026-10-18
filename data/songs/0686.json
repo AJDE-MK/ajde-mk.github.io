@@ -1,0 +1,137 @@
+{
+ "id": 686,
+ "slug": "lenche-bolno-lezhi",
+ "title_cyr": "Ленче болно лежи",
+ "title_latin": "Lenče bolno leži",
+ "title_en": "Lenche Lies Sick",
+ "pesna_url": "https://pesna.org/song/686",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Билјана Димова",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Борис Димов",
+  "Васка Илиева",
+  "Виолета Митева",
+  "Иван Узунов",
+  "Сестрите Мавровски",
+  "Штипјани"
+ ],
+ "audio": [
+  {
+   "who": "Штипјани",
+   "url": "https://pesna.org/audio-download/684"
+  },
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/685"
+  },
+  {
+   "who": "Билјана Димова, Борис Димов",
+   "url": "https://pesna.org/audio-download/1515"
+  },
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2832"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3987"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ленче болно лежи",
+       "lat": "Lenče bolno leži",
+       "en": "Lenche lies sick"
+      },
+      {
+       "cyr": "време три години",
+       "lat": "vreme tri godini",
+       "en": "for three years"
+      },
+      {
+       "cyr": "и девет месеци.",
+       "lat": "i devet meseci.",
+       "en": "and nine months."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над глава ѝ стои",
+       "lat": "Nad glava ì stoi",
+       "en": "Above her stands"
+      },
+      {
+       "cyr": "нејна стара мајка",
+       "lat": "nejna stara majka",
+       "en": "her old mother"
+      },
+      {
+       "cyr": "и на Ленче збори:",
+       "lat": "i na Lenče zbori:",
+       "en": "and speaks to Lenche:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани Ленче, стани",
+       "lat": "- Stani Lenče, stani",
+       "en": "- Get up, Lenche, get up"
+      },
+      {
+       "cyr": "стројници ти дошле",
+       "lat": "strojnici ti došle",
+       "en": "the matchmakers have come for you"
+      },
+      {
+       "cyr": "стројници скопјани.",
+       "lat": "strojnici skopjani.",
+       "en": "the matchmakers from Skopje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како дошле мамо",
+       "lat": "- Kako došle mamo",
+       "en": "- As they have come, mother,"
+      },
+      {
+       "cyr": "така да си одат.",
+       "lat": "taka da si odat.",
+       "en": "so let them leave."
+      },
+      {
+       "cyr": "Јас си имам мајко",
+       "lat": "Jas si imam majko",
+       "en": "I already have, mother"
+      },
+      {
+       "cyr": "либе струмичанче.",
+       "lat": "libe strumičanče.",
+       "en": "a love from Strumica."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

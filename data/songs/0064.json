@@ -1,0 +1,166 @@
+{
+ "id": 64,
+ "slug": "chupche-od-onaka",
+ "title_cyr": "Чупче од онака",
+ "title_latin": "Čupče od onaka",
+ "title_en": "Girl of That Kind",
+ "pesna_url": "https://pesna.org/song/64",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Од онака' ('of that kind') is my reading; 'не ме гори' read as 'don't torment me with love'.",
+ "words_to_learn": [
+  {
+   "mk": "чупче",
+   "en": "girl (dialect)"
+  },
+  {
+   "mk": "се врти",
+   "en": "turns around, flirts"
+  },
+  {
+   "mk": "гори",
+   "en": "burn"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, crazy one"
+  },
+  {
+   "mk": "пепел",
+   "en": "ash"
+  },
+  {
+   "mk": "сапун",
+   "en": "soap"
+  },
+  {
+   "mk": "престилки",
+   "en": "aprons"
+  },
+  {
+   "mk": "дулбени",
+   "en": "thin kerchiefs, muslin head cloths"
+  }
+ ],
+ "performers": [
+  "Бапчорки",
+  "ВИС Аманет",
+  "ДМБУЦ Илија Николовски - Луј",
+  "Љубојна",
+  "Ристана Николова",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/653"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/3586"
+  },
+  {
+   "who": "ДМБУЦ Илија Николовски - Луј",
+   "url": "https://pesna.org/audio-download/3587"
+  },
+  {
+   "who": "ВИС Аманет",
+   "url": "https://pesna.org/audio-download/3588"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/3589"
+  },
+  {
+   "who": "Ристана Николова",
+   "url": "https://pesna.org/audio-download/3590"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Чупче од онака,",
+       "lat": "- Čupče od onaka,",
+       "en": "- Girl of that kind,"
+      },
+      {
+       "cyr": "не се врти вака,",
+       "lat": "ne se vrti vaka,",
+       "en": "don't turn around like this,"
+      },
+      {
+       "cyr": "не ме гори мене.",
+       "lat": "ne me gori mene.",
+       "en": "don't burn me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Гори, лудо, гори,",
+       "lat": "- Gori, ludo, gori,",
+       "en": "- Burn, you fool, burn,"
+      },
+      {
+       "cyr": "гори да изгориш,",
+       "lat": "gori da izgoriš,",
+       "en": "burn until you burn up,"
+      },
+      {
+       "cyr": "пепел да се сториш.",
+       "lat": "pepel da se storiš.",
+       "en": "turn into ash."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пепел да се сториш,",
+       "lat": "Pepel da se storiš,",
+       "en": "Turn into ash,"
+      },
+      {
+       "cyr": "сапун да те праве,",
+       "lat": "sapun da te prave,",
+       "en": "let them make soap of you,"
+      },
+      {
+       "cyr": "чупите да пере.",
+       "lat": "čupite da pere.",
+       "en": "to wash the girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чупите да пере,",
+       "lat": "Čupite da pere,",
+       "en": "To wash the girls,"
+      },
+      {
+       "cyr": "белите престилки,",
+       "lat": "belite prestilki,",
+       "en": "the white aprons,"
+      },
+      {
+       "cyr": "белите дулбени.",
+       "lat": "belite dulbeni.",
+       "en": "the white kerchiefs."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

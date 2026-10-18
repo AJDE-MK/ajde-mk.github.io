@@ -1,0 +1,195 @@
+{
+ "id": 869,
+ "slug": "grabile-gu-angelinu",
+ "title_cyr": "Грабиле гу Ангелину",
+ "title_latin": "Grabile gu Angelinu",
+ "title_en": "They Abducted Angelina",
+ "pesna_url": "https://pesna.org/song/869",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional bride-abduction song. 'гу' and 'вадив' are dialect forms; 'Идете си' I read as 'go away'.",
+ "words_to_learn": [
+  {
+   "mk": "грабиле",
+   "en": "they seized / abducted"
+  },
+  {
+   "mk": "ајде џанам",
+   "en": "come on, my dear (refrain)"
+  },
+  {
+   "mk": "собори",
+   "en": "village gathering / fair"
+  },
+  {
+   "mk": "велигденски",
+   "en": "of Easter"
+  },
+  {
+   "mk": "секира",
+   "en": "axe"
+  },
+  {
+   "mk": "вадив",
+   "en": "to get out / rescue (dialect infinitive)"
+  },
+  {
+   "mk": "силом",
+   "en": "by force"
+  },
+  {
+   "mk": "милом",
+   "en": "willingly"
+  },
+  {
+   "mk": "гу",
+   "en": "her (dialect 'го')"
+  }
+ ],
+ "performers": [
+  "Ливада",
+  "Рајна Спасовска",
+  "Царка Тасевска"
+ ],
+ "audio": [
+  {
+   "who": "Рајна Спасовска, Царка Тасевска",
+   "url": "https://pesna.org/audio-download/1902"
+  },
+  {
+   "who": "Ливада",
+   "url": "https://pesna.org/audio-download/2690"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Грабиле гу, ајде џанам, Ангелину,",
+       "lat": "Grabile gu, ajde džanam, Angelinu,",
+       "en": "They abducted her, come on my dear, Angelina,"
+      },
+      {
+       "cyr": "грабиле гу, ајде џанам, од сред село.",
+       "lat": "grabile gu, ajde džanam, od sred selo.",
+       "en": "they abducted her, come on my dear, from the middle of the village."
+      },
+      {
+       "cyr": "Од сред село, ајде џанам, од собори",
+       "lat": "Od sred selo, ajde džanam, od sobori",
+       "en": "From the middle of the village, come on my dear, from the gathering,"
+      },
+      {
+       "cyr": "од собори, ајде џанам, велигденски.",
+       "lat": "od sobori, ajde džanam, veligdenski.",
+       "en": "from the gathering, come on my dear, of Easter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па дочуле, ајде џанам, девет брата,",
+       "lat": "Pa dočule, ajde džanam, devet brata,",
+       "en": "Then they heard, come on my dear, nine brothers,"
+      },
+      {
+       "cyr": "па земале, ајде џанам, секирете.",
+       "lat": "pa zemale, ajde džanam, sekirete.",
+       "en": "then they took, come on my dear, the axes."
+      },
+      {
+       "cyr": "Па отишле, ајде џанам, да гу вадив,",
+       "lat": "Pa otišle, ajde džanam, da gu vadiv,",
+       "en": "Then they went, come on my dear, to get her out,"
+      },
+      {
+       "cyr": "да гу вадив, ајде џанам, Ангелину.",
+       "lat": "da gu vadiv, ajde džanam, Angelinu.",
+       "en": "to get her out, come on my dear, Angelina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па видела, ајде џанам, стара мајка,",
+       "lat": "Pa videla, ajde džanam, stara majka,",
+       "en": "Then she saw, come on my dear, the old mother,"
+      },
+      {
+       "cyr": "па викнала, ајде џанам, по синови:",
+       "lat": "pa viknala, ajde džanam, po sinovi:",
+       "en": "then she called out, come on my dear, to her sons:"
+      },
+      {
+       "cyr": "- Чујете ли, ајде џанам, девет сина,",
+       "lat": "- Čujete li, ajde džanam, devet sina,",
+       "en": "- Do you hear, come on my dear, nine sons,"
+      },
+      {
+       "cyr": "оставете, ајде џанам, секирете.",
+       "lat": "ostavete, ajde džanam, sekirete.",
+       "en": "put down, come on my dear, the axes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја ќе иду, ајде џанам, да гу прашам,",
+       "lat": "Ja ḱe idu, ajde džanam, da gu prašam,",
+       "en": "I will go, come on my dear, to ask her,"
+      },
+      {
+       "cyr": "дал' е силом, ајде џанам, ели милом.",
+       "lat": "dal' e silom, ajde džanam, eli milom.",
+       "en": "whether it is by force, come on my dear, or willingly."
+      },
+      {
+       "cyr": "Па отиде, ајде џанам, стара мајка,",
+       "lat": "Pa otide, ajde džanam, stara majka,",
+       "en": "Then she went, come on my dear, the old mother,"
+      },
+      {
+       "cyr": "па прашуе, ајде џанам, Ангелину.",
+       "lat": "pa prašue, ajde džanam, Angelinu.",
+       "en": "then she asked, come on my dear, Angelina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи, кажи, мила ќерко, Ангелино,",
+       "lat": "- Kaži, kaži, mila ḱerko, Angelino,",
+       "en": "- Tell me, tell me, dear daughter Angelina,"
+      },
+      {
+       "cyr": "дал' си силом, мила ќерко, ели милом?",
+       "lat": "dal' si silom, mila ḱerko, eli milom?",
+       "en": "are you here by force, dear daughter, or willingly?"
+      },
+      {
+       "cyr": "- Идете си, стара мајко, не сам силом,",
+       "lat": "- Idete si, stara majko, ne sam silom,",
+       "en": "- Go away, old mother, it is not by force,"
+      },
+      {
+       "cyr": "јас сам милом, стара мајко, доведена.",
+       "lat": "jas sam milom, stara majko, dovedena.",
+       "en": "it is willingly, old mother, that I was brought."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

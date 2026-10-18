@@ -1,0 +1,213 @@
+{
+ "id": 50,
+ "slug": "ajde-koja-mi-te-lazhe-mile-bre",
+ "title_cyr": "Ајде која ми те лаже, Миле бре",
+ "title_latin": "Ajde koja mi te laže, Mile bre",
+ "title_en": "Come On, Who Is Lying to You, Mile",
+ "pesna_url": "https://pesna.org/song/50",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Која ми те лаже' read as 'who is lying to you' (my reading); 'од одува' in the last stanza is my guess for 'walks'.",
+ "words_to_learn": [
+  {
+   "mk": "лаже",
+   "en": "lies, deceives"
+  },
+  {
+   "mk": "маала",
+   "en": "neighbourhood, quarter"
+  },
+  {
+   "mk": "попова",
+   "en": "the priest's"
+  },
+  {
+   "mk": "најмалата",
+   "en": "the youngest"
+  },
+  {
+   "mk": "најубата",
+   "en": "the most beautiful (najubava)"
+  },
+  {
+   "mk": "еребица",
+   "en": "partridge"
+  },
+  {
+   "mk": "ластовица",
+   "en": "swallow"
+  }
+ ],
+ "performers": [
+  "Злате Милошевски",
+  "Зоран Џорлев",
+  "Македонски мелос",
+  "Николина Кузмановска",
+  "Пирински гриваци"
+ ],
+ "audio": [
+  {
+   "who": "Злате Милошевски, Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1534"
+  },
+  {
+   "who": "Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/1535"
+  },
+  {
+   "who": "Македонски мелос",
+   "url": "https://pesna.org/audio-download/1536"
+  },
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/1537"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде која ми те лаже, Миле бре,",
+       "lat": "Ajde koja mi te laže, Mile bre,",
+       "en": "Come on, who is lying to you, Mile hey,"
+      },
+      {
+       "cyr": "во нашето село, Миле бре,",
+       "lat": "vo našeto selo, Mile bre,",
+       "en": "in our village, Mile hey,"
+      },
+      {
+       "cyr": "во нашето село.",
+       "lat": "vo našeto selo.",
+       "en": "in our village."
+      },
+      {
+       "cyr": "Ајде во нашето село, Миле бре,",
+       "lat": "Ajde vo našeto selo, Mile bre,",
+       "en": "Come on, in our village, Mile hey,"
+      },
+      {
+       "cyr": "во горната маала, Миле бре,",
+       "lat": "vo gornata maala, Mile bre,",
+       "en": "in the upper quarter, Mile hey,"
+      },
+      {
+       "cyr": "во горната маала.",
+       "lat": "vo gornata maala.",
+       "en": "in the upper quarter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде во горната маала, Миле бре,",
+       "lat": "Ajde vo gornata maala, Mile bre,",
+       "en": "Come on, in the upper quarter, Mile hey,"
+      },
+      {
+       "cyr": "поповата куќа, Миле бре,",
+       "lat": "popovata kuḱa, Mile bre,",
+       "en": "the priest's house, Mile hey,"
+      },
+      {
+       "cyr": "поповата куќа.",
+       "lat": "popovata kuḱa.",
+       "en": "the priest's house."
+      },
+      {
+       "cyr": "Ајде поповата куќа, Миле бре,",
+       "lat": "Ajde popovata kuḱa, Mile bre,",
+       "en": "Come on, the priest's house, Mile hey,"
+      },
+      {
+       "cyr": "поповата ќерка, Миле бре,",
+       "lat": "popovata ḱerka, Mile bre,",
+       "en": "the priest's daughter, Mile hey,"
+      },
+      {
+       "cyr": "поповата ќерка.",
+       "lat": "popovata ḱerka.",
+       "en": "the priest's daughter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде поповата ќерка, Миле бре,",
+       "lat": "Ajde popovata ḱerka, Mile bre,",
+       "en": "Come on, the priest's daughter, Mile hey,"
+      },
+      {
+       "cyr": "таја најмалата, Миле бре,",
+       "lat": "taja najmalata, Mile bre,",
+       "en": "that youngest one, Mile hey,"
+      },
+      {
+       "cyr": "таја најмалата.",
+       "lat": "taja najmalata.",
+       "en": "that youngest one."
+      },
+      {
+       "cyr": "Ајде таа најмалата, Миле бре,",
+       "lat": "Ajde taa najmalata, Mile bre,",
+       "en": "Come on, that youngest one, Mile hey,"
+      },
+      {
+       "cyr": "таа најубата, Миле бре,",
+       "lat": "taa najubata, Mile bre,",
+       "en": "the most beautiful one, Mile hey,"
+      },
+      {
+       "cyr": "таа најубата.",
+       "lat": "taa najubata.",
+       "en": "the most beautiful one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде кога од одува, Миле бре,",
+       "lat": "Ajde koga od oduva, Mile bre,",
+       "en": "Come on, when she walks, Mile hey,"
+      },
+      {
+       "cyr": "како еребица, Миле бре,",
+       "lat": "kako erebica, Mile bre,",
+       "en": "like a partridge, Mile hey,"
+      },
+      {
+       "cyr": "како еребица.",
+       "lat": "kako erebica.",
+       "en": "like a partridge."
+      },
+      {
+       "cyr": "Ајде кога збор зборува, Миле бре,",
+       "lat": "Ajde koga zbor zboruva, Mile bre,",
+       "en": "Come on, when she speaks a word, Mile hey,"
+      },
+      {
+       "cyr": "како ластовица, Миле бре,",
+       "lat": "kako lastovica, Mile bre,",
+       "en": "like a swallow, Mile hey,"
+      },
+      {
+       "cyr": "како ластавица.",
+       "lat": "kako lastavica.",
+       "en": "like a swallow."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

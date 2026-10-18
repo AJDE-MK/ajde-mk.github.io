@@ -1,0 +1,226 @@
+{
+ "id": 1030,
+ "slug": "sednal-mi-dzhemo",
+ "title_cyr": "Седнал ми Џемо",
+ "title_latin": "Sednal mi Džemo",
+ "title_en": "Džemo sat himself down",
+ "pesna_url": "https://pesna.org/song/1030",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Македонски народен ансамбл",
+  "Мери Минас Магдалена",
+  "Милан Мико Петровиќ",
+  "Мирвет Беловска",
+  "Орце Стевковски",
+  "Радио студио Скопје",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Мери Минас Магдалена",
+   "url": "https://pesna.org/audio-download/2370"
+  },
+  {
+   "who": "Македонски народен ансамбл",
+   "url": "https://pesna.org/audio-download/2371"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/2372"
+  },
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2945"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2971"
+  },
+  {
+   "who": "Милан Мико Петровиќ",
+   "url": "https://pesna.org/audio-download/3608"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Седнал ми Џемо, слободен Џемо,",
+       "lat": "Sednal mi Džemo, sloboden Džemo,",
+       "en": "Džemo was sitting, resting peacefully"
+      },
+      {
+       "cyr": "во таја нива орница,",
+       "lat": "vo taja niva ornica,",
+       "en": "in the plowed field,"
+      },
+      {
+       "cyr": "во таја нива орница, Џемо,",
+       "lat": "vo taja niva ornica, Džemo,",
+       "en": "in the plowed field,"
+      },
+      {
+       "cyr": "под таја круша летница.",
+       "lat": "pod taja kruša letnica.",
+       "en": "under the lepnica1 pear tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка му дојде на Џемо, аман",
+       "lat": "Majka mu dojde na Džemo, aman",
+       "en": "Džemo's mother came"
+      },
+      {
+       "cyr": "и на Џемо збор му прозбори:",
+       "lat": "i na Džemo zbor mu prozbori:",
+       "en": "and she told Džemo a word:"
+      },
+      {
+       "cyr": "- Не седи Џемо, слободен Џемо,",
+       "lat": "- Ne sedi Džemo, sloboden Džemo,",
+       "en": "“Do not not sit peacefully, Džemo,"
+      },
+      {
+       "cyr": "слободен Џемо, распашан.",
+       "lat": "sloboden Džemo, raspašan.",
+       "en": "don't be so comfortable2."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ни е мирна година Џемо,",
+       "lat": "Ne ni e mirna godina Džemo,",
+       "en": "Тhis is not a peaceful year, Džemo,"
+      },
+      {
+       "cyr": "каури глава кренале,",
+       "lat": "kauri glava krenale,",
+       "en": "The Kauri3 have their head up4,"
+      },
+      {
+       "cyr": "каури глава кренале, Џемо,",
+       "lat": "kauri glava krenale, Džemo,",
+       "en": "the Kauri have their head up,"
+      },
+      {
+       "cyr": "излегол Мицко војвода.",
+       "lat": "izlegol Micko vojvoda.",
+       "en": "Micko vojvoda has come out of hiding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излегол Мицко војвода, џанам,",
+       "lat": "Izlegol Micko vojvoda, džanam,",
+       "en": "Micko vojvoda has come out of hiding"
+      },
+      {
+       "cyr": "со дванаесет другари,",
+       "lat": "so dvanaeset drugari,",
+       "en": "with twelve friends5,"
+      },
+      {
+       "cyr": "излегол Мицко војвода џанам,",
+       "lat": "izlegol Micko vojvoda džanam,",
+       "en": "Micko vojvoda has come out of hiding"
+      },
+      {
+       "cyr": "со дванаесет комити.",
+       "lat": "so dvanaeset komiti.",
+       "en": "with twelve friends.”"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди мајко, будала џанам,",
+       "lat": "- Dejgidi majko, budala džanam,",
+       "en": "“Hey, mother, you fool mother,"
+      },
+      {
+       "cyr": "каурска сабја не сечи,",
+       "lat": "kaurska sabja ne seči,",
+       "en": "the Kauri's saber does not cut,"
+      },
+      {
+       "cyr": "каурска сабја не сечи, мајко,",
+       "lat": "kaurska sabja ne seči, majko,",
+       "en": "the Kauri's saber does not cut, mother,"
+      },
+      {
+       "cyr": "каурска пушка не дупи.",
+       "lat": "kaurska puška ne dupi.",
+       "en": "the Kauri's rifle does not poke.”"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште ни зборот не го дорече,",
+       "lat": "Ušte ni zborot ne go doreče,",
+       "en": "He did not even finish talking,"
+      },
+      {
+       "cyr": "пукна ми пушка од гора,",
+       "lat": "pukna mi puška od gora,",
+       "en": "a rifle fired from the forest,"
+      },
+      {
+       "cyr": "пукна ми пушка од гора џанам,",
+       "lat": "pukna mi puška od gora džanam,",
+       "en": "a rifle fired from the forest"
+      },
+      {
+       "cyr": "Џемо ја ми го ранија.",
+       "lat": "Džemo ja mi go ranija.",
+       "en": "and wounded Džemail."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Џемота ми го ранија џанам,",
+       "lat": "Džemota mi go ranija džanam,",
+       "en": "And it wounded Džemail,"
+      },
+      {
+       "cyr": "в' десната нога колено,",
+       "lat": "v' desnata noga koleno,",
+       "en": "his right leg, the knee,"
+      },
+      {
+       "cyr": "в' десната нога колено џанам,",
+       "lat": "v' desnata noga koleno džanam,",
+       "en": "his right leg, the knee,"
+      },
+      {
+       "cyr": "в' левата страна срцето.",
+       "lat": "v' levata strana srceto.",
+       "en": "his left side, the heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

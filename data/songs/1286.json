@@ -1,0 +1,217 @@
+{
+ "id": 1286,
+ "slug": "zbogum-zemjo-ubavice",
+ "title_cyr": "Збогум земјо убавице",
+ "title_latin": "Zbogum zemjo ubavice",
+ "title_en": "Farewell, Beautiful Land",
+ "pesna_url": "https://pesna.org/song/1286",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Pechalba (labor emigration) song, origin unclear and sounds like a composed song though I cannot name an author. 'стојам простум' (I stand simply) and 'печалбарска рана' (migrant's bread/wound) are my reading; 'рана' can also mean wound.",
+ "words_to_learn": [
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "земја",
+   "en": "land, earth"
+  },
+  {
+   "mk": "убавица",
+   "en": "beautiful one"
+  },
+  {
+   "mk": "бисер",
+   "en": "pearl"
+  },
+  {
+   "mk": "туѓ",
+   "en": "foreign, strange"
+  },
+  {
+   "mk": "јато",
+   "en": "flock"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "печалбар",
+   "en": "migrant worker"
+  },
+  {
+   "mk": "се скамени",
+   "en": "turned to stone"
+  },
+  {
+   "mk": "чаша",
+   "en": "cup"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3250"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "И сонцето ко да темне,",
+       "lat": "I sonceto ko da temne,",
+       "en": "And the sun seems to darken,"
+      },
+      {
+       "cyr": "се скамени лист во гора,",
+       "lat": "se skameni list vo gora,",
+       "en": "the leaf in the forest turned to stone,"
+      },
+      {
+       "cyr": "а јас и ти земјо неми,",
+       "lat": "a jas i ti zemjo nemi,",
+       "en": "and I and you, mute land,"
+      },
+      {
+       "cyr": "само љубовта ни збори.",
+       "lat": "samo ljubovta ni zbori.",
+       "en": "only love speaks to us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум земјо, убавице,",
+       "lat": "Zbogum zemjo, ubavice,",
+       "en": "Farewell, land, beautiful one,"
+      },
+      {
+       "cyr": "мојот бисер за на срце,",
+       "lat": "mojot biser za na srce,",
+       "en": "my pearl for my heart,"
+      },
+      {
+       "cyr": "далеку ме води патот,",
+       "lat": "daleku me vodi patot,",
+       "en": "the road leads me far away,"
+      },
+      {
+       "cyr": "туѓи луѓе, туѓо јато.",
+       "lat": "tuǵi luǵe, tuǵo jato.",
+       "en": "among strangers, a foreign flock."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наведнувам тивко чело,",
+       "lat": "Navednuvam tivko čelo,",
+       "en": "I bow my head quietly,"
+      },
+      {
+       "cyr": "за разделба стојам простум,",
+       "lat": "za razdelba stojam prostum,",
+       "en": "I stand simply at the parting,"
+      },
+      {
+       "cyr": "а ти прекрасна и мила,",
+       "lat": "a ti prekrasna i mila,",
+       "en": "and you, wonderful and dear,"
+      },
+      {
+       "cyr": "ко да чекаш мое „збогум“.",
+       "lat": "ko da čekaš moe „zbogum“.",
+       "en": "seem to wait for my \"farewell\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум земјо, убавице,",
+       "lat": "Zbogum zemjo, ubavice,",
+       "en": "Farewell, land, beautiful one,"
+      },
+      {
+       "cyr": "мојот бисер за на срце,",
+       "lat": "mojot biser za na srce,",
+       "en": "my pearl for my heart,"
+      },
+      {
+       "cyr": "далеку ме води патот,",
+       "lat": "daleku me vodi patot,",
+       "en": "the road leads me far away,"
+      },
+      {
+       "cyr": "туѓи луѓе, туѓо јато.",
+       "lat": "tuǵi luǵe, tuǵo jato.",
+       "en": "among strangers, a foreign flock."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе испијам и јас чаша",
+       "lat": "Ḱe ispijam i jas čaša",
+       "en": "I too will drink a cup,"
+      },
+      {
+       "cyr": "печалбарска рана тешка,",
+       "lat": "pečalbarska rana teška,",
+       "en": "the heavy bread of the migrant worker,"
+      },
+      {
+       "cyr": "дали еднаш се ќе сврши,",
+       "lat": "dali ednaš se ḱe svrši,",
+       "en": "will it all end one day,"
+      },
+      {
+       "cyr": "таа чаша да се скрши.",
+       "lat": "taa čaša da se skrši.",
+       "en": "and that cup be broken."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум земјо, убавице,",
+       "lat": "Zbogum zemjo, ubavice,",
+       "en": "Farewell, land, beautiful one,"
+      },
+      {
+       "cyr": "мојот бисер за на срце,",
+       "lat": "mojot biser za na srce,",
+       "en": "my pearl for my heart,"
+      },
+      {
+       "cyr": "далеку ме води патот,",
+       "lat": "daleku me vodi patot,",
+       "en": "the road leads me far away,"
+      },
+      {
+       "cyr": "туѓи луѓе, туѓо јато.",
+       "lat": "tuǵi luǵe, tuǵo jato.",
+       "en": "among strangers, a foreign flock."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

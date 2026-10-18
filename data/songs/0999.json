@@ -1,0 +1,169 @@
+{
+ "id": 999,
+ "slug": "imal-popot-magarence",
+ "title_cyr": "Имал попот магаренце",
+ "title_latin": "Imal popot magarence",
+ "title_en": "The priest had a little donkey",
+ "pesna_url": "https://pesna.org/song/999",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song, no author known. 'се сопало' is a variant of 'се сопнало'; the 'Hush, priest, do not weep for me' line is literal, the wife is speaking.",
+ "words_to_learn": [
+  {
+   "mk": "поп",
+   "en": "priest"
+  },
+  {
+   "mk": "магаренце",
+   "en": "little donkey"
+  },
+  {
+   "mk": "се сопнало",
+   "en": "it stumbled"
+  },
+  {
+   "mk": "се отепало",
+   "en": "it killed itself, died"
+  },
+  {
+   "mk": "плаче",
+   "en": "weeps"
+  },
+  {
+   "mk": "попаѓа",
+   "en": "priest's wife"
+  },
+  {
+   "mk": "опашка",
+   "en": "tail"
+  },
+  {
+   "mk": "кожа",
+   "en": "hide, skin"
+  },
+  {
+   "mk": "тапанче",
+   "en": "little drum"
+  },
+  {
+   "mk": "соленик",
+   "en": "salt-cellar"
+  }
+ ],
+ "performers": [
+  "Ангелко Спироски"
+ ],
+ "audio": [
+  {
+   "who": "Ангелко Спироски",
+   "url": "https://pesna.org/audio-download/2319"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Имал попот магаренце,",
+       "lat": "Imal popot magarence,",
+       "en": "The priest had a little donkey,"
+      },
+      {
+       "cyr": "имал попот магаренце,",
+       "lat": "imal popot magarence,",
+       "en": "the priest had a little donkey,"
+      },
+      {
+       "cyr": "се сопало, му паднало",
+       "lat": "se sopalo, mu padnalo",
+       "en": "it stumbled, it fell down,"
+      },
+      {
+       "cyr": "му паднало, се отепало.",
+       "lat": "mu padnalo, se otepalo.",
+       "en": "it fell down, it died."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седнал попот да го плачи,",
+       "lat": "Sednal popot da go plači,",
+       "en": "The priest sat down to mourn it,"
+      },
+      {
+       "cyr": "да го плачи, да го тажи.",
+       "lat": "da go plači, da go taži.",
+       "en": "to mourn it, to lament it."
+      },
+      {
+       "cyr": "Оздол' гледа попаѓата",
+       "lat": "Ozdol' gleda popaǵata",
+       "en": "From below the priest's wife looks"
+      },
+      {
+       "cyr": "и на попот што му вели:",
+       "lat": "i na popot što mu veli:",
+       "en": "and says to the priest:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Молчи попе, не ми плачи,",
+       "lat": "- Molči pope, ne mi plači,",
+       "en": "- Hush, priest, do not weep for me,"
+      },
+      {
+       "cyr": "не ми плачи, не ми тажи,",
+       "lat": "ne mi plači, ne mi taži,",
+       "en": "do not weep for me, do not lament,"
+      },
+      {
+       "cyr": "опашката за сукало,",
+       "lat": "opaškata za sukalo,",
+       "en": "the tail for a spindle,"
+      },
+      {
+       "cyr": "а кожата за тапанче.",
+       "lat": "a kožata za tapanče.",
+       "en": "and the hide for a little drum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лево уше за пиперник,",
+       "lat": "Levo uše za pipernik,",
+       "en": "The left ear for a pepper-box,"
+      },
+      {
+       "cyr": "десно уше за соленик.",
+       "lat": "desno uše za solenik.",
+       "en": "the right ear for a salt-cellar."
+      },
+      {
+       "cyr": "Се насмеа попот Ставре,",
+       "lat": "Se nasmea popot Stavre,",
+       "en": "Priest Stavre laughed,"
+      },
+      {
+       "cyr": "ја прегрна Ставреица.",
+       "lat": "ja pregrna Stavreica.",
+       "en": "and hugged Stavreica."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

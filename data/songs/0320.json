@@ -1,0 +1,242 @@
+{
+ "id": 320,
+ "slug": "proviknala-e-draganka",
+ "title_cyr": "Провикнала е Драганка",
+ "title_latin": "Proviknala e Draganka",
+ "title_en": "Dragana Called Out",
+ "pesna_url": "https://pesna.org/song/320",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Third-person forms like 'имија', 'измија', 'фрлија' are old plural past forms; the line 'крваки ризи испраа' is a typo for 'крвави', and 'имија' rendered as 'had', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "провикна",
+   "en": "called out"
+  },
+  {
+   "mk": "врв",
+   "en": "peak, top"
+  },
+  {
+   "mk": "босилок",
+   "en": "basil"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "каршија",
+   "en": "across, opposite"
+  },
+  {
+   "mk": "овчарче",
+   "en": "young shepherd"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "ајдуци",
+   "en": "outlaws, haiduks"
+  },
+  {
+   "mk": "ризи",
+   "en": "shirts"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/468"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/469"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Провикнала е Драганка леле,",
+       "lat": "Proviknala e Draganka lele,",
+       "en": "Dragana called out, oh,"
+      },
+      {
+       "cyr": "провикнала е Драганка",
+       "lat": "proviknala e Draganka",
+       "en": "Dragana called out"
+      },
+      {
+       "cyr": "од врв на Пирин планина леле,",
+       "lat": "od vrv na Pirin planina lele,",
+       "en": "from the top of Pirin mountain, oh,"
+      },
+      {
+       "cyr": "од врв на Пирин планина.",
+       "lat": "od vrv na Pirin planina.",
+       "en": "from the top of Pirin mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Умирам мајко за вода леле,",
+       "lat": "Umiram majko za voda lele,",
+       "en": "I am dying, mother, for water, oh,"
+      },
+      {
+       "cyr": "умирам мајко за вода,",
+       "lat": "umiram majko za voda,",
+       "en": "I am dying, mother, for water,"
+      },
+      {
+       "cyr": "како босилок за роса леле,",
+       "lat": "kako bosilok za rosa lele,",
+       "en": "like basil for dew, oh,"
+      },
+      {
+       "cyr": "како босилек за роса.",
+       "lat": "kako bosilek za rosa.",
+       "en": "like basil for dew."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каршија седит овчарче леле,",
+       "lat": "Karšija sedit ovčarče lele,",
+       "en": "Across from her sat a shepherd boy, oh,"
+      },
+      {
+       "cyr": "каршија седит овчарче",
+       "lat": "karšija sedit ovčarče",
+       "en": "across from her sat a shepherd boy"
+      },
+      {
+       "cyr": "и на Драганка говори леле",
+       "lat": "i na Draganka govori lele",
+       "en": "and spoke to Dragana, oh,"
+      },
+      {
+       "cyr": "и на Драганка говори.",
+       "lat": "i na Draganka govori.",
+       "en": "and spoke to Dragana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Драганке моме убаво леле,",
+       "lat": "Draganke mome ubavo lele,",
+       "en": "Dragana, beautiful girl, oh,"
+      },
+      {
+       "cyr": "Драганке моме убаво,",
+       "lat": "Draganke mome ubavo,",
+       "en": "Dragana, beautiful girl,"
+      },
+      {
+       "cyr": "таа вода не е убава леле,",
+       "lat": "taa voda ne e ubava lele,",
+       "en": "that water is not good, oh,"
+      },
+      {
+       "cyr": "таа вода не е убава.",
+       "lat": "taa voda ne e ubava.",
+       "en": "that water is not good."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти минаа ајдуци леле,",
+       "lat": "Snošti minaa ajduci lele,",
+       "en": "Last night outlaws passed by, oh,"
+      },
+      {
+       "cyr": "сношти минаа ајдуци,",
+       "lat": "snošti minaa ajduci,",
+       "en": "last night outlaws passed by,"
+      },
+      {
+       "cyr": "крвави ризи испраа леле,",
+       "lat": "krvavi rizi ispraa lele,",
+       "en": "they washed bloody shirts, oh,"
+      },
+      {
+       "cyr": "крвави ризи испраа.",
+       "lat": "krvavi rizi ispraa.",
+       "en": "they washed bloody shirts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крвави ризи испраа леле,",
+       "lat": "Krvavi rizi ispraa lele,",
+       "en": "They washed bloody shirts, oh,"
+      },
+      {
+       "cyr": "крваки ризи испраа,",
+       "lat": "krvaki rizi ispraa,",
+       "en": "they washed bloody shirts,"
+      },
+      {
+       "cyr": "оштри ножови имија леле,",
+       "lat": "oštri nožovi imija lele,",
+       "en": "they had sharp knives, oh,"
+      },
+      {
+       "cyr": "оштри ножови измиа.",
+       "lat": "oštri nožovi izmia.",
+       "en": "they washed sharp knives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оштри ножови измија леле,",
+       "lat": "Oštri nožovi izmija lele,",
+       "en": "They washed sharp knives, oh,"
+      },
+      {
+       "cyr": "оштри ножови измија,",
+       "lat": "oštri nožovi izmija,",
+       "en": "they washed sharp knives,"
+      },
+      {
+       "cyr": "три глави внатре фрлија леле,",
+       "lat": "tri glavi vnatre frlija lele,",
+       "en": "they threw three heads inside, oh,"
+      },
+      {
+       "cyr": "три глави внатре фрлија.",
+       "lat": "tri glavi vnatre frlija.",
+       "en": "they threw three heads inside."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,111 @@
+{
+ "id": 48,
+ "slug": "zablealo-rudo-jagne",
+ "title_cyr": "Заблеало рудо јагне",
+ "title_latin": "Zablealo rudo jagne",
+ "title_en": "A fawn bleated",
+ "pesna_url": "https://pesna.org/song/48",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Афион",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/181"
+  },
+  {
+   "who": "Афион",
+   "url": "https://pesna.org/audio-download/595"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Драчевка)",
+       "lat": "(Dračevka)",
+       "en": "(Dračevka)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заблеало, заблејало рудо јагне леле,",
+       "lat": "Zablealo, zablejalo rudo jagne lele,",
+       "en": "A fawn bleated,",
+       "en_mt": false
+      },
+      {
+       "cyr": "среде трло, среде трло Стојаново.",
+       "lat": "srede trlo, srede trlo Stojanovo.",
+       "en": "in the middle of the kraal, Stojan's kraal.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Стојане, ој Стојане млад стопане леле,",
+       "lat": "Oj Stojane, oj Stojane mlad stopane lele,",
+       "en": "Hey Stojan, my young owner,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дури беше, дури беше млад неженет.",
+       "lat": "duri beše, duri beše mlad neženet.",
+       "en": "while you were young and not married.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дури беше, дури беше млад неженет леле,",
+       "lat": "Duri beše, duri beše mlad neženet lele,",
+       "en": "While you were young and not married,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ме пасеше, ме пасеше во горана.",
+       "lat": "me paseše, me paseše vo gorana.",
+       "en": "you grazed me in that forest.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пасев трева, пасев трева детелина леле,",
+       "lat": "Pasev treva, pasev treva detelina lele,",
+       "en": "I grazed grass and clover,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пиев вода, пиев вода од извора.",
+       "lat": "piev voda, piev voda od izvora.",
+       "en": "I drank water from a spring.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

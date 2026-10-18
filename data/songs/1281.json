@@ -1,0 +1,236 @@
+{
+ "id": 1281,
+ "slug": "za-armensko-1903-godina",
+ "title_cyr": "За арменско 1903 година",
+ "title_latin": "Za armensko 1903 godina",
+ "title_en": "About Armensko, 1903",
+ "pesna_url": "https://pesna.org/song/1281",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style historical song about the 1903 events in Armensko (Armenohori, Lerin region); I cannot name an author. Names (Arni Pasha, Kuzo Blachev, Vlahov, Chakalarov, Kocho) are rendered as written, not checked against history.",
+ "words_to_learn": [
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "пороси",
+   "en": "drizzled, rained lightly"
+  },
+  {
+   "mk": "зулум",
+   "en": "tyranny, atrocity"
+  },
+  {
+   "mk": "зулумќар",
+   "en": "tyrant, oppressor"
+  },
+  {
+   "mk": "јаничар",
+   "en": "janissary (Ottoman soldier)"
+  },
+  {
+   "mk": "колат",
+   "en": "they slaughter"
+  },
+  {
+   "mk": "бесат",
+   "en": "they hang"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel chieftain"
+  },
+  {
+   "mk": "борец",
+   "en": "fighter"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/3238"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми пороси, мамо, ситна роса,",
+       "lat": "Mi porosi, mamo, sitna rosa,",
+       "en": "Fine dew drizzled on me, mother,"
+      },
+      {
+       "cyr": "тамо долу, мамо, во леринско,",
+       "lat": "tamo dolu, mamo, vo lerinsko,",
+       "en": "there below, mother, in the Lerin region,"
+      },
+      {
+       "cyr": "дури горе, мамо, во арменско.",
+       "lat": "duri gore, mamo, vo armensko.",
+       "en": "up above, mother, in Armensko."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми била мамо ситна роса,",
+       "lat": "Ne mi bila mamo sitna rosa,",
+       "en": "It wasn't fine dew, mother,"
+      },
+      {
+       "cyr": "тук ми била, мамо, турска војска,",
+       "lat": "tuk mi bila, mamo, turska vojska,",
+       "en": "it was, mother, a Turkish army,"
+      },
+      {
+       "cyr": "јаничари мамо, зулумќари.",
+       "lat": "janičari mamo, zulumḱari.",
+       "en": "janissaries, mother, tyrants."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем зулум мамо направија,",
+       "lat": "Golem zulum mamo napravija,",
+       "en": "They committed great tyranny, mother,"
+      },
+      {
+       "cyr": "многу деца, мамо, ми избија,",
+       "lat": "mnogu deca, mamo, mi izbija,",
+       "en": "they killed many of my children, mother,"
+      },
+      {
+       "cyr": "деведесет и три мирни души.",
+       "lat": "devedeset i tri mirni duši.",
+       "en": "ninety-three peaceful souls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Клети Турци мамо, зулум прават,",
+       "lat": "Kleti Turci mamo, zulum pravat,",
+       "en": "Cursed Turks, mother, commit tyranny,"
+      },
+      {
+       "cyr": "во арменско, мамо, колат, бесат,",
+       "lat": "vo armensko, mamo, kolat, besat,",
+       "en": "in Armensko, mother, they slaughter, they hang,"
+      },
+      {
+       "cyr": "најнапред им беше Арни паша.",
+       "lat": "najnapred im beše Arni paša.",
+       "en": "first of all in front of them was Arni Pasha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жени плачат мамо, пиштат деца,",
+       "lat": "Ženi plačat mamo, pištat deca,",
+       "en": "Women weep, mother, children shriek,"
+      },
+      {
+       "cyr": "крв се лее, мамо, на сите страни,",
+       "lat": "krv se lee, mamo, na site strani,",
+       "en": "blood flows, mother, on every side,"
+      },
+      {
+       "cyr": "крв се лее, мамо, на сите страни.",
+       "lat": "krv se lee, mamo, na site strani.",
+       "en": "blood flows, mother, on every side."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Многу мили мамо, Македонци,",
+       "lat": "Mnogu mili mamo, Makedonci,",
+       "en": "Many dear Macedonians, mother,"
+      },
+      {
+       "cyr": "изгинаа мамо, во арменско,",
+       "lat": "izginaa mamo, vo armensko,",
+       "en": "perished, mother, in Armensko,"
+      },
+      {
+       "cyr": "од клетите Турци, јаничари.",
+       "lat": "od kletite Turci, janičari.",
+       "en": "by the cursed Turks, the janissaries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се собраа, мамо, силни борци,",
+       "lat": "Se sobraa, mamo, silni borci,",
+       "en": "They gathered, mother, strong fighters,"
+      },
+      {
+       "cyr": "силни борци, мамо, арменчани,",
+       "lat": "silni borci, mamo, armenčani,",
+       "en": "strong fighters, mother, men of Armensko,"
+      },
+      {
+       "cyr": "со војвода, мамо, Кузо Блачев.",
+       "lat": "so vojvoda, mamo, Kuzo Blačev.",
+       "en": "with the voivode, mother, Kuzo Blachev."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Славните водачи: Блачев, Влахов,",
+       "lat": "Slavnite vodači: Blačev, Vlahov,",
+       "en": "The famous leaders: Blachev, Vlahov,"
+      },
+      {
+       "cyr": "Чакаларов, мамо, и дедо Кочо,",
+       "lat": "Čakalarov, mamo, i dedo Kočo,",
+       "en": "Chakalarov, mother, and old Kocho,"
+      },
+      {
+       "cyr": "со осум стотини храбри борци,",
+       "lat": "so osum stotini hrabri borci,",
+       "en": "with eight hundred brave fighters,"
+      },
+      {
+       "cyr": "зафатија мамо, силна борба,",
+       "lat": "zafatija mamo, silna borba,",
+       "en": "they began, mother, a fierce battle,"
+      },
+      {
+       "cyr": "натераа Турци да одстапат,",
+       "lat": "nateraa Turci da odstapat,",
+       "en": "they made the Turks retreat,"
+      },
+      {
+       "cyr": "дури долу мамо, до град Солун.",
+       "lat": "duri dolu mamo, do grad Solun.",
+       "en": "all the way down, mother, to the city of Salonika."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,224 @@
+{
+ "id": 182,
+ "slug": "i-tri-godini-stanaa",
+ "title_cyr": "И три години станаа",
+ "title_latin": "I tri godini stanaa",
+ "title_en": "And three years have passed",
+ "pesna_url": "https://pesna.org/song/182",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Verbs ending in -ат/-ит for third person singular (дојдит, напуштат) are dialect forms. This may be a later composed song; I treated it as traditional but am not certain.",
+ "words_to_learn": [
+  {
+   "mk": "болен лежав",
+   "en": "I lay sick"
+  },
+  {
+   "mk": "се решават",
+   "en": "dares, resolves (dialect form)"
+  },
+  {
+   "mk": "прочка",
+   "en": "farewell, forgiveness"
+  },
+  {
+   "mk": "напуштат",
+   "en": "is leaving, abandons (dialect form)"
+  },
+  {
+   "mk": "венец",
+   "en": "wreath"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades, friends"
+  },
+  {
+   "mk": "искрена",
+   "en": "sincere"
+  },
+  {
+   "mk": "заборават",
+   "en": "are forgotten (dialect form)"
+  }
+ ],
+ "performers": [
+  "Група Сарај",
+  "Елегија",
+  "Охридски трубадури",
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1002"
+  },
+  {
+   "who": "Елегија",
+   "url": "https://pesna.org/audio-download/1003"
+  },
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/1220"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3359"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "И три години станаа",
+       "lat": "I tri godini stanaa",
+       "en": "And three years have passed"
+      },
+      {
+       "cyr": "откако болен лежав,",
+       "lat": "otkako bolen ležav,",
+       "en": "since I lay sick,"
+      },
+      {
+       "cyr": "и никој не се решават",
+       "lat": "i nikoj ne se rešavat",
+       "en": "and no one dares"
+      },
+      {
+       "cyr": "кај мене да дојдит.",
+       "lat": "kaj mene da dojdit.",
+       "en": "to come to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само еднаш се реши",
+       "lat": "Samo ednaš se reši",
+       "en": "Only once she resolved,"
+      },
+      {
+       "cyr": "моето верно либе",
+       "lat": "moeto verno libe",
+       "en": "my faithful love,"
+      },
+      {
+       "cyr": "тоа кај мене да дојдит,",
+       "lat": "toa kaj mene da dojdit,",
+       "en": "to come to me,"
+      },
+      {
+       "cyr": "и прочка да земит.",
+       "lat": "i pročka da zemit.",
+       "en": "and take her leave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О, гори не зеленејте",
+       "lat": "O, gori ne zelenejte",
+       "en": "Oh, green forests, do not turn green"
+      },
+      {
+       "cyr": "и птици не пејте,",
+       "lat": "i ptici ne pejte,",
+       "en": "and birds, do not sing,"
+      },
+      {
+       "cyr": "љубовта ме напуштат",
+       "lat": "ljubovta me napuštat",
+       "en": "love is leaving me"
+      },
+      {
+       "cyr": "и скоро ќе умрам.",
+       "lat": "i skoro ḱe umram.",
+       "en": "and soon I will die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И венец направете",
+       "lat": "I venec napravete",
+       "en": "And make a wreath"
+      },
+      {
+       "cyr": "од мајски цвеќиња,",
+       "lat": "od majski cveḱinja,",
+       "en": "of May flowers,"
+      },
+      {
+       "cyr": "дајте го на другарите",
+       "lat": "dajte go na drugarite",
+       "en": "give it to my comrades"
+      },
+      {
+       "cyr": "да ми го донесат.",
+       "lat": "da mi go donesat.",
+       "en": "to bring it to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да можам ангел да станам,",
+       "lat": "Da možam angel da stanam,",
+       "en": "If only I could become an angel,"
+      },
+      {
+       "cyr": "по небо да шетам,",
+       "lat": "po nebo da šetam,",
+       "en": "to wander across the sky,"
+      },
+      {
+       "cyr": "да видам кој ќе те љуби",
+       "lat": "da vidam koj ḱe te ljubi",
+       "en": "to see who will love you"
+      },
+      {
+       "cyr": "и душа да му земам.",
+       "lat": "i duša da mu zemam.",
+       "en": "and take his soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И сè се заборават,",
+       "lat": "I sè se zaboravat,",
+       "en": "And everything is forgotten,"
+      },
+      {
+       "cyr": "и имот и богатство,",
+       "lat": "i imot i bogatstvo,",
+       "en": "both property and wealth,"
+      },
+      {
+       "cyr": "само не се заборават",
+       "lat": "samo ne se zaboravat",
+       "en": "only one thing is not forgotten,"
+      },
+      {
+       "cyr": "љубовта искрена.",
+       "lat": "ljubovta iskrena.",
+       "en": "sincere love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

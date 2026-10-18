@@ -1,0 +1,227 @@
+{
+ "id": 127,
+ "slug": "ohrid-ohrid",
+ "title_cyr": "Охрид, Охрид",
+ "title_latin": "Ohrid, Ohrid",
+ "title_en": "Ohrid, Ohrid",
+ "pesna_url": "https://pesna.org/song/127",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigrant's longing song for Ohrid; origin unclear, no author I can name. 'мила сека вечер' is my reading as 'dear sister, every evening' (it could also be 'dear one, every evening'); 'сон за мене останаа' is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "убав мил",
+   "en": "beautiful and dear"
+  },
+  {
+   "mk": "оставив",
+   "en": "I left"
+  },
+  {
+   "mk": "езеро",
+   "en": "lake"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, exile"
+  },
+  {
+   "mk": "сека",
+   "en": "sister (dialect)"
+  },
+  {
+   "mk": "жално",
+   "en": "sad"
+  },
+  {
+   "mk": "мачно",
+   "en": "painful, hard"
+  },
+  {
+   "mk": "надалеку",
+   "en": "far away"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/814"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Охрид, Охрид, убав мил,",
+       "lat": "Ohrid, Ohrid, ubav mil,",
+       "en": "Ohrid, Ohrid, dear and beautiful,"
+      },
+      {
+       "cyr": "јас со солзи те оставив.",
+       "lat": "jas so solzi te ostaviv.",
+       "en": "I left you with tears."
+      },
+      {
+       "cyr": "Езерото убаво тага",
+       "lat": "Ezeroto ubavo taga",
+       "en": "The beautiful lake left sorrow"
+      },
+      {
+       "cyr": "в'срце ми остави.",
+       "lat": "v'srce mi ostavi.",
+       "en": "in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење, ноќе плачам,",
+       "lat": "Denje, noḱe plačam,",
+       "en": "Day and night I cry,"
+      },
+      {
+       "cyr": "на срцето рана имам,",
+       "lat": "na srceto rana imam,",
+       "en": "I have a wound on my heart,"
+      },
+      {
+       "cyr": "зошто мајко јас отидов",
+       "lat": "zošto majko jas otidov",
+       "en": "because, mother, I went away"
+      },
+      {
+       "cyr": "в' туѓа туѓина.",
+       "lat": "v' tuǵa tuǵina.",
+       "en": "into a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со мојта мила сека вечер",
+       "lat": "So mojta mila seka večer",
+       "en": "With my dear sister every evening"
+      },
+      {
+       "cyr": "шетав по езеро јас.",
+       "lat": "šetav po ezero jas.",
+       "en": "I walked along the lake."
+      },
+      {
+       "cyr": "Устата и очите ѝ",
+       "lat": "Ustata i očite ì",
+       "en": "Her mouth and her eyes"
+      },
+      {
+       "cyr": "сон за мене останаа.",
+       "lat": "son za mene ostanaa.",
+       "en": "remained a dream for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, колку е жално либе,",
+       "lat": "Ah, kolku e žalno libe,",
+       "en": "Ah, how sad it is, sweetheart,"
+      },
+      {
+       "cyr": "Ах, колку е мачно душо,",
+       "lat": "Ah, kolku e mačno dušo,",
+       "en": "Ah, how painful it is, my dear,"
+      },
+      {
+       "cyr": "цел живот да те немам",
+       "lat": "cel život da te nemam",
+       "en": "to not have you my whole life"
+      },
+      {
+       "cyr": "и да умрам в' туѓина.",
+       "lat": "i da umram v' tuǵina.",
+       "en": "and to die in a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Охрид, Охрид, убав мил",
+       "lat": "Ohrid, Ohrid, ubav mil",
+       "en": "Ohrid, Ohrid, dear and beautiful"
+      },
+      {
+       "cyr": "јас со солзи те оставив.",
+       "lat": "jas so solzi te ostaviv.",
+       "en": "I left you with tears."
+      },
+      {
+       "cyr": "Јас отидов надалеку",
+       "lat": "Jas otidov nadaleku",
+       "en": "I went far away"
+      },
+      {
+       "cyr": "и не знам дали ќе те видам јас.",
+       "lat": "i ne znam dali ḱe te vidam jas.",
+       "en": "and I do not know if I will see you."
+      },
+      {
+       "cyr": "Јас отидов надалеку",
+       "lat": "Jas otidov nadaleku",
+       "en": "I went far away"
+      },
+      {
+       "cyr": "и не знам дали ќе се вратам јас.",
+       "lat": "i ne znam dali ḱe se vratam jas.",
+       "en": "and I do not know if I will return."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либето да го видам,",
+       "lat": "Libeto da go vidam,",
+       "en": "To see my sweetheart,"
+      },
+      {
+       "cyr": "секој ден за мене плаче.",
+       "lat": "sekoj den za mene plače.",
+       "en": "every day she cries for me."
+      },
+      {
+       "cyr": "Да се вратам, да ја видам,",
+       "lat": "Da se vratam, da ja vidam,",
+       "en": "To return, to see her,"
+      },
+      {
+       "cyr": "со неа да умрам јас.",
+       "lat": "so nea da umram jas.",
+       "en": "to die with her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

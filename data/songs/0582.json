@@ -1,0 +1,186 @@
+{
+ "id": 582,
+ "slug": "edna-vecher",
+ "title_cyr": "Една вечер",
+ "title_latin": "Edna večer",
+ "title_en": "One Evening",
+ "pesna_url": "https://pesna.org/song/582",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Dialect forms 'че' (that), 'ко' (as/when), 'је' (her) are my reading. 'Без коски и душа' is literally 'without bones and soul'.",
+ "words_to_learn": [
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "сонував",
+   "en": "I dreamed"
+  },
+  {
+   "mk": "пријателка",
+   "en": "female friend"
+  },
+  {
+   "mk": "легло",
+   "en": "bed, resting place"
+  },
+  {
+   "mk": "се исплашив",
+   "en": "I got frightened"
+  },
+  {
+   "mk": "умрената",
+   "en": "the dead one (f.)"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  },
+  {
+   "mk": "споменик",
+   "en": "monument, gravestone"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "закопаш",
+   "en": "you bury"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една вечер сон сонував",
+       "lat": "Edna večer son sonuvav",
+       "en": "One evening I dreamed a dream"
+      },
+      {
+       "cyr": "че една пријателка,",
+       "lat": "če edna prijatelka,",
+       "en": "that a female friend"
+      },
+      {
+       "cyr": "ко светлина ми се јави",
+       "lat": "ko svetlina mi se javi",
+       "en": "appeared to me like a light"
+      },
+      {
+       "cyr": "над моето ми легло.",
+       "lat": "nad moeto mi leglo.",
+       "en": "above my bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко је видов се исплашив,",
+       "lat": "Ko je vidov se isplašiv,",
+       "en": "When I saw her I was frightened,"
+      },
+      {
+       "cyr": "умрената беше жива,",
+       "lat": "umrenata beše živa,",
+       "en": "the dead girl was alive,"
+      },
+      {
+       "cyr": "таа ме праша кај е љубовта",
+       "lat": "taa me praša kaj e ljubovta",
+       "en": "she asked me where the love is"
+      },
+      {
+       "cyr": "која што беше неразделива.",
+       "lat": "koja što beše nerazdeliva.",
+       "en": "that used to be inseparable."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј другару, збори, не плаши се",
+       "lat": "Ej drugaru, zbori, ne plaši se",
+       "en": "Hey friend, speak, do not be afraid"
+      },
+      {
+       "cyr": "јас сум без коски и душа",
+       "lat": "jas sum bez koski i duša",
+       "en": "I am without bones and soul"
+      },
+      {
+       "cyr": "оваа вечер дојдов кај тебе",
+       "lat": "ovaa večer dojdov kaj tebe",
+       "en": "tonight I came to you"
+      },
+      {
+       "cyr": "до два збора да ти кажам јас.",
+       "lat": "do dva zbora da ti kažam jas.",
+       "en": "to tell you a couple of words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над гробот мој, ил' на крстот",
+       "lat": "Nad grobot moj, il' na krstot",
+       "en": "Over my grave, or on the cross"
+      },
+      {
+       "cyr": "ил' на мојот споменик",
+       "lat": "il' na mojot spomenik",
+       "en": "or on my gravestone"
+      },
+      {
+       "cyr": "ко ќе врвиш да внимаваш",
+       "lat": "ko ḱe vrviš da vnimavaš",
+       "en": "when you walk, take care"
+      },
+      {
+       "cyr": "очеквај нешто да најдеш ти.",
+       "lat": "očekvaj nešto da najdeš ti.",
+       "en": "expect to find something."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе го најдеш оној прстен",
+       "lat": "Ḱe go najdeš onoj prsten",
+       "en": "You will find that ring"
+      },
+      {
+       "cyr": "кој што ми го даде ти,",
+       "lat": "koj što mi go dade ti,",
+       "en": "that you gave me,"
+      },
+      {
+       "cyr": "ќе го земеш и закопаш",
+       "lat": "ḱe go zemeš i zakopaš",
+       "en": "you will take it and bury it"
+      },
+      {
+       "cyr": "далеку негде в пусти крај.",
+       "lat": "daleku negde v pusti kraj.",
+       "en": "far away in some desolate place."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

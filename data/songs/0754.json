@@ -1,0 +1,198 @@
+{
+ "id": 754,
+ "slug": "shto-mi-e-lepo-ubavo",
+ "title_cyr": "Што ми е лепо, убаво",
+ "title_latin": "Što mi e lepo, ubavo",
+ "title_en": "How Lovely and Beautiful It Is",
+ "pesna_url": "https://pesna.org/song/754",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Леле' is rendered as 'oh'. 'Мостои' I read as 'bridges' (plural of мост, dialect form); 'ставени' as 'laid out'.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "рудина",
+   "en": "meadow, upland pasture"
+  },
+  {
+   "mk": "софра",
+   "en": "low round dining table"
+  },
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "теши",
+   "en": "comforts"
+  },
+  {
+   "mk": "молчи",
+   "en": "be quiet"
+  },
+  {
+   "mk": "занат",
+   "en": "trade, craft"
+  },
+  {
+   "mk": "грешни души",
+   "en": "sinful souls"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1104"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е лепо, убаво,",
+       "lat": "Što mi e lepo, ubavo,",
+       "en": "How lovely and beautiful it is"
+      },
+      {
+       "cyr": "на високана планина,",
+       "lat": "na visokana planina,",
+       "en": "on the high mountain,"
+      },
+      {
+       "cyr": "на она рамна, леле, рудина.",
+       "lat": "na ona ramna, lele, rudina.",
+       "en": "on that flat, oh, meadow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рајските софри, ставени,",
+       "lat": "Rajskite sofri, staveni,",
+       "en": "The heavenly tables are laid,"
+      },
+      {
+       "cyr": "најгоре Свети Никола,",
+       "lat": "najgore Sveti Nikola,",
+       "en": "highest of all Saint Nicholas,"
+      },
+      {
+       "cyr": "до него Свети, леле, Илија.",
+       "lat": "do nego Sveti, lele, Ilija.",
+       "en": "next to him Saint, oh, Elijah."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меѓу нив сестра Марија,",
+       "lat": "Meǵu niv sestra Marija,",
+       "en": "Among them sister Mary,"
+      },
+      {
+       "cyr": "со Христа бога на раце,",
+       "lat": "so Hrista boga na race,",
+       "en": "with Christ the God in her arms,"
+      },
+      {
+       "cyr": "со златно капче, леле, на глава.",
+       "lat": "so zlatno kapče, lele, na glava.",
+       "en": "with a golden cap, oh, on her head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свиле се до два облака,",
+       "lat": "Svile se do dva oblaka,",
+       "en": "Two clouds gathered together,"
+      },
+      {
+       "cyr": "кренале ми го Ристоса,",
+       "lat": "krenale mi go Ristosa,",
+       "en": "they lifted my Christ up,"
+      },
+      {
+       "cyr": "кренале ми го, леле, в' небеса.",
+       "lat": "krenale mi go, lele, v' nebesa.",
+       "en": "they lifted him up, oh, into the heavens."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седна Марија да плачи,",
+       "lat": "Sedna Marija da plači,",
+       "en": "Mary sat down to weep,"
+      },
+      {
+       "cyr": "Свети Никола је теши,",
+       "lat": "Sveti Nikola je teši,",
+       "en": "Saint Nicholas comforts her,"
+      },
+      {
+       "cyr": "Свети Никола, леле, ѝ вели:",
+       "lat": "Sveti Nikola, lele, ì veli:",
+       "en": "Saint Nicholas, oh, says to her:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Молчи ми сестро Маријо,",
+       "lat": "- Molči mi sestro Marijo,",
+       "en": "- Hush, sister Mary,"
+      },
+      {
+       "cyr": "ние ќе ти го земиме,",
+       "lat": "nie ḱe ti go zemime,",
+       "en": "we will take him for you,"
+      },
+      {
+       "cyr": "на занат ќе го, леле, дадеме.",
+       "lat": "na zanat ḱe go, lele, dademe.",
+       "en": "we will put him, oh, to a trade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На занат ќе го дадеме,",
+       "lat": "Na zanat ḱe go dademe,",
+       "en": "We will put him to a trade,"
+      },
+      {
+       "cyr": "да прави страшни мостои,",
+       "lat": "da pravi strašni mostoi,",
+       "en": "to build fearsome bridges,"
+      },
+      {
+       "cyr": "да врват грешни души, грешници.",
+       "lat": "da vrvat grešni duši, grešnici.",
+       "en": "so that sinful souls, sinners, may cross."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

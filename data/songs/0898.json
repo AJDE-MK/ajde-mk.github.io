@@ -1,0 +1,284 @@
+{
+ "id": 898,
+ "slug": "od-bitola-pojdov",
+ "title_cyr": "Од Битола појдов",
+ "title_latin": "Od Bitola pojdov",
+ "title_en": "I Set Out from Bitola",
+ "pesna_url": "https://pesna.org/song/898",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The refrain 'ѓене бабам', 'кузум' is Turkish-derived (yine = again, kuzum = my lamb/dear); my reading. The '-арка' trade words are my reading as sellers or workers.",
+ "words_to_learn": [
+  {
+   "mk": "појдов",
+   "en": "I set out, I went"
+  },
+  {
+   "mk": "дојдов",
+   "en": "I came"
+  },
+  {
+   "mk": "тутунарка",
+   "en": "female tobacco worker"
+  },
+  {
+   "mk": "грнчарка",
+   "en": "female potter"
+  },
+  {
+   "mk": "брашнарка",
+   "en": "flour seller (f.)"
+  },
+  {
+   "mk": "грашарка",
+   "en": "pea seller (f.)"
+  },
+  {
+   "mk": "насекаде",
+   "en": "everywhere"
+  },
+  {
+   "mk": "Манастир",
+   "en": "old name for Bitola"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Виолета Томовска",
+  "Влатко Миладиноски",
+  "Мирвет Беловска"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1972"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1973"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/1974"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/2054"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2988"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од Битола појдов,",
+       "lat": "Od Bitola pojdov,",
+       "en": "From Bitola I set out,"
+      },
+      {
+       "cyr": "во Прилеп си дојдов,",
+       "lat": "vo Prilep si dojdov,",
+       "en": "to Prilep I came,"
+      },
+      {
+       "cyr": "прилепските моми",
+       "lat": "prilepskite momi",
+       "en": "the Prilep girls"
+      },
+      {
+       "cyr": "сите тутунарки.",
+       "lat": "site tutunarki.",
+       "en": "are all tobacco workers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, ѓене бабам Битола,",
+       "lat": "Bitola, ǵene babam Bitola,",
+       "en": "Bitola, again, my father, Bitola,"
+      },
+      {
+       "cyr": "Манастир, ѓене кузум Манастир.",
+       "lat": "Manastir, ǵene kuzum Manastir.",
+       "en": "Manastir, again, my dear, Manastir."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Прилеп си појдов",
+       "lat": "Od Prilep si pojdov",
+       "en": "From Prilep I set out"
+      },
+      {
+       "cyr": "и во Велес дојдов,",
+       "lat": "i vo Veles dojdov,",
+       "en": "and came to Veles,"
+      },
+      {
+       "cyr": "велешките моми",
+       "lat": "veleškite momi",
+       "en": "the Veles girls"
+      },
+      {
+       "cyr": "сите се грнчарки.",
+       "lat": "site se grnčarki.",
+       "en": "are all potters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, ѓене бабам Битола,",
+       "lat": "Bitola, ǵene babam Bitola,",
+       "en": "Bitola, again, my father, Bitola,"
+      },
+      {
+       "cyr": "Манастир, ѓене кузум Манастир.",
+       "lat": "Manastir, ǵene kuzum Manastir.",
+       "en": "Manastir, again, my dear, Manastir."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Велес си појдов,",
+       "lat": "Od Veles si pojdov,",
+       "en": "From Veles I set out,"
+      },
+      {
+       "cyr": "и во Скопје дојдов,",
+       "lat": "i vo Skopje dojdov,",
+       "en": "and came to Skopje,"
+      },
+      {
+       "cyr": "скопските моми",
+       "lat": "skopskite momi",
+       "en": "the Skopje girls"
+      },
+      {
+       "cyr": "сите се брашнарки.",
+       "lat": "site se brašnarki.",
+       "en": "are all flour sellers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, ѓене бабам Битола,",
+       "lat": "Bitola, ǵene babam Bitola,",
+       "en": "Bitola, again, my father, Bitola,"
+      },
+      {
+       "cyr": "Манастир, ѓене кузум Манастир.",
+       "lat": "Manastir, ǵene kuzum Manastir.",
+       "en": "Manastir, again, my dear, Manastir."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Скопје си појдов,",
+       "lat": "Od Skopje si pojdov,",
+       "en": "From Skopje I set out,"
+      },
+      {
+       "cyr": "во Тетово дојдов,",
+       "lat": "vo Tetovo dojdov,",
+       "en": "I came to Tetovo,"
+      },
+      {
+       "cyr": "тетовските моми",
+       "lat": "tetovskite momi",
+       "en": "the Tetovo girls"
+      },
+      {
+       "cyr": "сите се грашарки.",
+       "lat": "site se grašarki.",
+       "en": "are all pea sellers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, ѓене бабам Битола,",
+       "lat": "Bitola, ǵene babam Bitola,",
+       "en": "Bitola, again, my father, Bitola,"
+      },
+      {
+       "cyr": "Манастир, ѓене кузум Манастир.",
+       "lat": "Manastir, ǵene kuzum Manastir.",
+       "en": "Manastir, again, my dear, Manastir."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Насекаде појдов",
+       "lat": "Nasekade pojdov",
+       "en": "I went everywhere,"
+      },
+      {
+       "cyr": "пак Битола дојдов,",
+       "lat": "pak Bitola dojdov,",
+       "en": "and came back to Bitola,"
+      },
+      {
+       "cyr": "битолските моми",
+       "lat": "bitolskite momi",
+       "en": "the Bitola girls"
+      },
+      {
+       "cyr": "нигде не ги најдов.",
+       "lat": "nigde ne gi najdov.",
+       "en": "I found nowhere."
+      },
+      {
+       "cyr": "Битолските моми",
+       "lat": "Bitolskite momi",
+       "en": "The Bitola girls"
+      },
+      {
+       "cyr": "на цел свет ги нема.",
+       "lat": "na cel svet gi nema.",
+       "en": "have no equal in the whole world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, ѓене бабам Битола,",
+       "lat": "Bitola, ǵene babam Bitola,",
+       "en": "Bitola, again, my father, Bitola,"
+      },
+      {
+       "cyr": "Манастир, ѓене кузум Манастир.",
+       "lat": "Manastir, ǵene kuzum Manastir.",
+       "en": "Manastir, again, my dear, Manastir."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

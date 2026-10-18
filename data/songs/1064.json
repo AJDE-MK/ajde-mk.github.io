@@ -1,0 +1,209 @@
+{
+ "id": 1064,
+ "slug": "jano-le-jano-le",
+ "title_cyr": "Јано ле, Јано ле",
+ "title_latin": "Jano le, Jano le",
+ "title_en": "Jano, Oh Jano",
+ "pesna_url": "https://pesna.org/song/1064",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a newer composed folk-style song, but I cannot name an author. 'Ле' is a vocative filler after names.",
+ "words_to_learn": [
+  {
+   "mk": "севдо",
+   "en": "love, passion (Turkish loan)"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned (you burned me)"
+  },
+  {
+   "mk": "да се женам",
+   "en": "to marry (of a man)"
+  },
+  {
+   "mk": "милувам",
+   "en": "cherish, caress"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "свирачи",
+   "en": "musicians"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  }
+ ],
+ "performers": [
+  "Гоце Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Петрески",
+   "url": "https://pesna.org/audio-download/2460"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јано ле, Јано ле,",
+       "lat": "Jano le, Jano le,",
+       "en": "Jano, oh Jano,"
+      },
+      {
+       "cyr": "севдо моја ле,",
+       "lat": "sevdo moja le,",
+       "en": "my love, oh,"
+      },
+      {
+       "cyr": "Јано ле, Јано ле,",
+       "lat": "Jano le, Jano le,",
+       "en": "Jano, oh Jano,"
+      },
+      {
+       "cyr": "ти ме изгоре.",
+       "lat": "ti me izgore.",
+       "en": "you set me on fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да се женам,",
+       "lat": "Dojde vreme da se ženam,",
+       "en": "The time has come for me to marry,"
+      },
+      {
+       "cyr": "тебе ќе те земам,",
+       "lat": "tebe ḱe te zemam,",
+       "en": "I will take you,"
+      },
+      {
+       "cyr": "само тебе Јано сакам",
+       "lat": "samo tebe Jano sakam",
+       "en": "only you, Jano, I want"
+      },
+      {
+       "cyr": "да те милувам.",
+       "lat": "da te miluvam.",
+       "en": "to cherish you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чекај ме Јано ле,",
+       "lat": "Čekaj me Jano le,",
+       "en": "Wait for me, Jano, oh,"
+      },
+      {
+       "cyr": "вечер ќе дојдам,",
+       "lat": "večer ḱe dojdam,",
+       "en": "I will come in the evening,"
+      },
+      {
+       "cyr": "сватови, свирачи",
+       "lat": "svatovi, svirači",
+       "en": "wedding guests, musicians"
+      },
+      {
+       "cyr": "јас ќе донесам.",
+       "lat": "jas ḱe donesam.",
+       "en": "I will bring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да се женам,",
+       "lat": "Dojde vreme da se ženam,",
+       "en": "The time has come for me to marry,"
+      },
+      {
+       "cyr": "тебе ќе те земам,",
+       "lat": "tebe ḱe te zemam,",
+       "en": "I will take you,"
+      },
+      {
+       "cyr": "само тебе Јано сакам",
+       "lat": "samo tebe Jano sakam",
+       "en": "only you, Jano, I want"
+      },
+      {
+       "cyr": "да те милувам.",
+       "lat": "da te miluvam.",
+       "en": "to cherish you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе правиме Јано ле,",
+       "lat": "Ḱe pravime Jano le,",
+       "en": "We will hold, Jano, oh,"
+      },
+      {
+       "cyr": "свадба голема,",
+       "lat": "svadba golema,",
+       "en": "a big wedding,"
+      },
+      {
+       "cyr": "оро и песна",
+       "lat": "oro i pesna",
+       "en": "dance and song"
+      },
+      {
+       "cyr": "крај да си нема.",
+       "lat": "kraj da si nema.",
+       "en": "without end."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да се женам,",
+       "lat": "Dojde vreme da se ženam,",
+       "en": "The time has come for me to marry,"
+      },
+      {
+       "cyr": "тебе ќе те земам,",
+       "lat": "tebe ḱe te zemam,",
+       "en": "I will take you,"
+      },
+      {
+       "cyr": "само тебе Јано сакам",
+       "lat": "samo tebe Jano sakam",
+       "en": "only you, Jano, I want"
+      },
+      {
+       "cyr": "да те милувам.",
+       "lat": "da te miluvam.",
+       "en": "to cherish you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

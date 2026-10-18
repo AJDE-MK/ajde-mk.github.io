@@ -1,0 +1,360 @@
+{
+ "id": 489,
+ "slug": "trba-trbi-gevgelija",
+ "title_cyr": "Трба трби Гевгелија",
+ "title_latin": "Trba trbi Gevgelija",
+ "title_en": "The Trumpet Sounds in Gevgelija",
+ "pesna_url": "https://pesna.org/song/489",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Place names (Gjavato, Gjur's valley, Bogdansko) are transliterated and not verified. 'три илјади на три мина' is my reading (three thousand against three mines); the meaning is unclear to me.",
+ "words_to_learn": [
+  {
+   "mk": "комита",
+   "en": "rebel fighter, guerrilla (Ottoman-era)"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "давија",
+   "en": "fight, brawl, battle"
+  },
+  {
+   "mk": "спила",
+   "en": "steep high crag, rock"
+  },
+  {
+   "mk": "јузбашија",
+   "en": "captain in the Turkish army"
+  },
+  {
+   "mk": "сабајле",
+   "en": "dawn, early morning"
+  },
+  {
+   "mk": "ранети",
+   "en": "wounded"
+  },
+  {
+   "mk": "предај се",
+   "en": "surrender"
+  },
+  {
+   "mk": "патрон",
+   "en": "cartridge, bullet"
+  },
+  {
+   "mk": "страм",
+   "en": "shame"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Јанко Узунов",
+  "Мартина Костова",
+  "Распеани гевгеличани"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1016"
+  },
+  {
+   "who": "Јанко Узунов",
+   "url": "https://pesna.org/audio-download/1017"
+  },
+  {
+   "who": "Мартина Костова",
+   "url": "https://pesna.org/audio-download/3146"
+  },
+  {
+   "who": "Распеани гевгеличани",
+   "url": "https://pesna.org/audio-download/4100"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Трба трби Гевгелија",
+       "lat": "Trba trbi Gevgelija",
+       "en": "The trumpet sounds in Gevgelija,"
+      },
+      {
+       "cyr": "сите Турци на давија.",
+       "lat": "site Turci na davija.",
+       "en": "all the Turks to the fight."
+      },
+      {
+       "cyr": "Сите Турци на давија",
+       "lat": "Site Turci na davija",
+       "en": "All the Turks to the fight"
+      },
+      {
+       "cyr": "од јунака Леонида.",
+       "lat": "od junaka Leonida.",
+       "en": "against the hero Leonid."
+      },
+      {
+       "cyr": "Цар испратил до три војски",
+       "lat": "Car ispratil do tri vojski",
+       "en": "The emperor sent up to three armies,"
+      },
+      {
+       "cyr": "до три војски, сè тирански.",
+       "lat": "do tri vojski, sè tiranski.",
+       "en": "up to three armies, all tyrannical."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва војска - гевгелиска,",
+       "lat": "Prva vojska - gevgeliska,",
+       "en": "The first army is from Gevgelija,"
+      },
+      {
+       "cyr": "втора војска е дојранска.",
+       "lat": "vtora vojska e dojranska.",
+       "en": "the second army is from Dojran."
+      },
+      {
+       "cyr": "Втора војска е дојранска,",
+       "lat": "Vtora vojska e dojranska,",
+       "en": "The second army is from Dojran,"
+      },
+      {
+       "cyr": "трета војска е Струмичка.",
+       "lat": "treta vojska e Strumička.",
+       "en": "the third army is from Strumica."
+      },
+      {
+       "cyr": "Ќе го бараат Леонида,",
+       "lat": "Ḱe go baraat Leonida,",
+       "en": "They will hunt for Leonid,"
+      },
+      {
+       "cyr": "Леонида, баш комита.",
+       "lat": "Leonida, baš komita.",
+       "en": "Leonid, a true komita (rebel fighter)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го бараа во Богданско,",
+       "lat": "Go baraa vo Bogdansko,",
+       "en": "They searched for him in the Bogdanci area,"
+      },
+      {
+       "cyr": "го најдоа во Ѓавато.",
+       "lat": "go najdoa vo Ǵavato.",
+       "en": "they found him at Gjavato."
+      },
+      {
+       "cyr": "Го најдоа во Ѓавато,",
+       "lat": "Go najdoa vo Ǵavato,",
+       "en": "They found him at Gjavato,"
+      },
+      {
+       "cyr": "во Ѓавато, во Ѓуров дол.",
+       "lat": "vo Ǵavato, vo Ǵurov dol.",
+       "en": "at Gjavato, in Gjur's valley."
+      },
+      {
+       "cyr": "Јунак лежи под спилата,",
+       "lat": "Junak leži pod spilata,",
+       "en": "The hero lies under the crag,"
+      },
+      {
+       "cyr": "срце му е динамита.",
+       "lat": "srce mu e dinamita.",
+       "en": "his heart is dynamite."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срце му е динамита,",
+       "lat": "Srce mu e dinamita,",
+       "en": "His heart is dynamite,"
+      },
+      {
+       "cyr": "в' раце држи револвера.",
+       "lat": "v' race drži revolvera.",
+       "en": "in his hands he holds a revolver."
+      },
+      {
+       "cyr": "Бој започна од сабајле,",
+       "lat": "Boj započna od sabajle,",
+       "en": "The battle began at dawn,"
+      },
+      {
+       "cyr": "од сабајле, дур' до вечер.",
+       "lat": "od sabajle, dur' do večer.",
+       "en": "from dawn until evening."
+      },
+      {
+       "cyr": "Триста души убиени,",
+       "lat": "Trista duši ubieni,",
+       "en": "Three hundred souls killed,"
+      },
+      {
+       "cyr": "а ранети, неброени.",
+       "lat": "a raneti, nebroeni.",
+       "en": "and the wounded, uncounted."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара јузбашија:",
+       "lat": "Progovara juzbašija:",
+       "en": "The captain speaks:"
+      },
+      {
+       "cyr": "- Еј јунаку Леонида,",
+       "lat": "- Ej junaku Leonida,",
+       "en": "- Hey hero Leonid,"
+      },
+      {
+       "cyr": "предај ми се ти на мене",
+       "lat": "predaj mi se ti na mene",
+       "en": "surrender to me"
+      },
+      {
+       "cyr": "да те водам кај Султанот.",
+       "lat": "da te vodam kaj Sultanot.",
+       "en": "and I will take you to the Sultan."
+      },
+      {
+       "cyr": "Тој да види каков јунак,",
+       "lat": "Toj da vidi kakov junak,",
+       "en": "Let him see what a hero you are,"
+      },
+      {
+       "cyr": "ќе ти даде многу пари.",
+       "lat": "ḱe ti dade mnogu pari.",
+       "en": "he will give you a lot of money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одговара Леонида:",
+       "lat": "Odgovara Leonida:",
+       "en": "Leonid answers:"
+      },
+      {
+       "cyr": "- Слушај мене јузбашијо,",
+       "lat": "- Slušaj mene juzbašijo,",
+       "en": "- Listen to me, captain,"
+      },
+      {
+       "cyr": "елај ваму, понаваму,",
+       "lat": "elaj vamu, ponavamu,",
+       "en": "come here, a little closer,"
+      },
+      {
+       "cyr": "да ти кажам два-три збора.",
+       "lat": "da ti kažam dva-tri zbora.",
+       "en": "let me tell you two or three words."
+      },
+      {
+       "cyr": "Да ти кажам два-три збора,",
+       "lat": "Da ti kažam dva-tri zbora,",
+       "en": "Let me tell you two or three words,"
+      },
+      {
+       "cyr": "два-три збора македонски.",
+       "lat": "dva-tri zbora makedonski.",
+       "en": "two or three Macedonian words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем страм е за комита",
+       "lat": "Golem stram e za komita",
+       "en": "It is a great shame for a komita"
+      },
+      {
+       "cyr": "жив да падне в турски раце.",
+       "lat": "živ da padne v turski race.",
+       "en": "to fall alive into Turkish hands."
+      },
+      {
+       "cyr": "Таква правда - турска правда,",
+       "lat": "Takva pravda - turska pravda,",
+       "en": "Such justice, Turkish justice,"
+      },
+      {
+       "cyr": "три илјади на три мина.",
+       "lat": "tri iljadi na tri mina.",
+       "en": "three thousand against three mines."
+      },
+      {
+       "cyr": "Останаа два патрона,",
+       "lat": "Ostanaa dva patrona,",
+       "en": "Two cartridges remained,"
+      },
+      {
+       "cyr": "еден за теб', втори за мен'.",
+       "lat": "eden za teb', vtori za men'.",
+       "en": "one for you, the second for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си извади револвера",
+       "lat": "Si izvadi revolvera",
+       "en": "He pulled out his revolver"
+      },
+      {
+       "cyr": "па го стрела јузбашија.",
+       "lat": "pa go strela juzbašija.",
+       "en": "and shot the captain."
+      },
+      {
+       "cyr": "Па го стрела јузбашија",
+       "lat": "Pa go strela juzbašija",
+       "en": "And shot the captain"
+      },
+      {
+       "cyr": "и на крајот сам се уби.",
+       "lat": "i na krajot sam se ubi.",
+       "en": "and in the end killed himself."
+      },
+      {
+       "cyr": "Живот даде Леонида",
+       "lat": "Život dade Leonida",
+       "en": "Leonid gave his life"
+      },
+      {
+       "cyr": "за Македонија мила.",
+       "lat": "za Makedonija mila.",
+       "en": "for dear Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

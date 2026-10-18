@@ -1,0 +1,148 @@
+{
+ "id": 388,
+ "slug": "tri-pati-pominav",
+ "title_cyr": "Три пати поминав",
+ "title_latin": "Tri pati pominav",
+ "title_en": "Three times I passed by",
+ "pesna_url": "https://pesna.org/song/388",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Likely a town (urban) folk song. The middle stanza's logic (you waiting so I close the shop) is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "поминав",
+   "en": "I passed by"
+  },
+  {
+   "mk": "порти",
+   "en": "gate"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market quarter"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/2645"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три пати поминав,",
+       "lat": "Tri pati pominav,",
+       "en": "Three times I passed by,"
+      },
+      {
+       "cyr": "три пати поминав, мило либе,",
+       "lat": "tri pati pominav, milo libe,",
+       "en": "three times I passed by, dear sweetheart,"
+      },
+      {
+       "cyr": "крај вашите порти.",
+       "lat": "kraj vašite porti.",
+       "en": "past your gate."
+      },
+      {
+       "cyr": "Тебе не те најдов, мило либе,",
+       "lat": "Tebe ne te najdov, milo libe,",
+       "en": "I did not find you, dear sweetheart,"
+      },
+      {
+       "cyr": "на порти да стоиш.",
+       "lat": "na porti da stoiš.",
+       "en": "standing at the gate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На порти да стоиш.",
+       "lat": "Na porti da stoiš.",
+       "en": "Standing at the gate."
+      },
+      {
+       "cyr": "мене да ме чекаш,",
+       "lat": "mene da me čekaš,",
+       "en": "Waiting for me,"
+      },
+      {
+       "cyr": "мене да ме чекаш, мило либе,",
+       "lat": "mene da me čekaš, milo libe,",
+       "en": "waiting for me, dear sweetheart,"
+      },
+      {
+       "cyr": "дуќан да затворам.",
+       "lat": "duḱan da zatvoram.",
+       "en": "so I would close the shop."
+      },
+      {
+       "cyr": "Дуќан да затворам, мило либе,",
+       "lat": "Duḱan da zatvoram, milo libe,",
+       "en": "So I would close the shop, dear sweetheart,"
+      },
+      {
+       "cyr": "в' чаршија да одам.",
+       "lat": "v' čaršija da odam.",
+       "en": "and go to the bazaar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' чаршија да одам,",
+       "lat": "V' čaršija da odam,",
+       "en": "Go to the bazaar,"
+      },
+      {
+       "cyr": "прстен да ти купам,",
+       "lat": "prsten da ti kupam,",
+       "en": "to buy you a ring,"
+      },
+      {
+       "cyr": "тебе да те земам, мило либе,",
+       "lat": "tebe da te zemam, milo libe,",
+       "en": "to take you, dear sweetheart,"
+      },
+      {
+       "cyr": "невеста да ми бидеш.",
+       "lat": "nevesta da mi bideš.",
+       "en": "to be my bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

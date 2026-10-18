@@ -1,0 +1,165 @@
+{
+ "id": 1103,
+ "slug": "a-bre-mome-maloj-mome",
+ "title_cyr": "А бре моме, малој моме",
+ "title_latin": "A bre mome, maloj mome",
+ "title_en": "Hey Girl, Little Girl",
+ "pesna_url": "https://pesna.org/song/1103",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding love song, origin unclear. 'Да се ситат' (line 'for enemies to feast') and 'да испукаат' (burst with envy) are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "оф аман",
+   "en": "oh dear, alas (Turkish-origin lament)"
+  },
+  {
+   "mk": "либе",
+   "en": "darling, sweetheart"
+  },
+  {
+   "mk": "душман",
+   "en": "enemy, ill-wisher"
+  },
+  {
+   "mk": "маало",
+   "en": "neighbourhood"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "тагувам",
+   "en": "I grieve, mourn"
+  },
+  {
+   "mk": "спечалам",
+   "en": "I earn"
+  },
+  {
+   "mk": "млада дадена",
+   "en": "a girl promised in marriage"
+  },
+  {
+   "mk": "оти",
+   "en": "because, for"
+  }
+ ],
+ "performers": [
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/2646"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- А бре моме, малој моме,",
+       "lat": "- A bre mome, maloj mome,",
+       "en": "- Hey girl, little girl,"
+      },
+      {
+       "cyr": "гледај на мене, оф аман,",
+       "lat": "gledaj na mene, of aman,",
+       "en": "look at me, oh dear,"
+      },
+      {
+       "cyr": "да ти видам бело лице, црни очи,",
+       "lat": "da ti vidam belo lice, crni oči,",
+       "en": "so I can see your white face, black eyes,"
+      },
+      {
+       "cyr": "оти време е да бегам да далеку.",
+       "lat": "oti vreme e da begam da daleku.",
+       "en": "for it is time for me to flee far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре лудо, ти бре младо,",
+       "lat": "- A bre ludo, ti bre mlado,",
+       "en": "- Hey fool, you young man,"
+      },
+      {
+       "cyr": "каде ќе одиш, оф аман,",
+       "lat": "kade ḱe odiš, of aman,",
+       "en": "where will you go, oh dear,"
+      },
+      {
+       "cyr": "кому мене ќе оставиш, млада дадена,",
+       "lat": "komu mene ḱe ostaviš, mlada dadena,",
+       "en": "whom will you leave me to, a bride promised to you,"
+      },
+      {
+       "cyr": "душманите да се ситат, јас да тагувам?",
+       "lat": "dušmanite da se sitat, jas da taguvam?",
+       "en": "for enemies to feast, for me to grieve?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ќе одам, мило либе,",
+       "lat": "- Jas ḱe odam, milo libe,",
+       "en": "- I will go, dear love,"
+      },
+      {
+       "cyr": "многу далеку, оф аман,",
+       "lat": "mnogu daleku, of aman,",
+       "en": "very far, oh dear,"
+      },
+      {
+       "cyr": "пари да спечалам, либе, свадба да правам,",
+       "lat": "pari da spečalam, libe, svadba da pravam,",
+       "en": "to earn money, love, to hold a wedding,"
+      },
+      {
+       "cyr": "тебе да те земам, душо, за невеста.",
+       "lat": "tebe da te zemam, dušo, za nevesta.",
+       "en": "to take you, my soul, as my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Сега дојди, мило либе,",
+       "lat": "- Sega dojdi, milo libe,",
+       "en": "- Now come, dear love,"
+      },
+      {
+       "cyr": "да те прегрнам, оф аман,",
+       "lat": "da te pregrnam, of aman,",
+       "en": "let me embrace you, oh dear,"
+      },
+      {
+       "cyr": "за да знае цело маало колку те сакам,",
+       "lat": "za da znae celo maalo kolku te sakam,",
+       "en": "so the whole neighbourhood knows how much I love you,"
+      },
+      {
+       "cyr": "да испукаат душманите и душманките.",
+       "lat": "da ispukaat dušmanite i dušmankite.",
+       "en": "let the enemies, men and women, burst with envy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

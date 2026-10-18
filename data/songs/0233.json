@@ -1,0 +1,144 @@
+{
+ "id": 233,
+ "slug": "kirajdzhiche-jabandzhiche",
+ "title_cyr": "Кирајџиче, јабанџиче",
+ "title_latin": "Kirajdžiče, jabandžiče",
+ "title_en": "Hired-carriage boy, stranger",
+ "pesna_url": "https://pesna.org/song/233",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Кирајџија' rendered 'hired-carriage boy' is my reading (a carter for hire). 'Ручек' and 'ручок' are variant spellings of the same word.",
+ "words_to_learn": [
+  {
+   "mk": "кирајџија",
+   "en": "hired carrier or carter"
+  },
+  {
+   "mk": "јабанџија",
+   "en": "stranger, foreigner (Turkish loan)"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "ручок",
+   "en": "lunch, meal"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "red (ruby) wine"
+  },
+  {
+   "mk": "шеташ",
+   "en": "you wander, stroll"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Вера Филипова",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Кирил Манчевски",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1669"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2212"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2289"
+  },
+  {
+   "who": "Вера Филипова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3015"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/3060"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3921"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кирајџиче, јабанџиче,",
+       "lat": "Kirajdžiče, jabandžiče,",
+       "en": "Hired-carriage boy, stranger,"
+      },
+      {
+       "cyr": "каде одиш, џанам, каде шеташ?",
+       "lat": "kade odiš, džanam, kade šetaš?",
+       "en": "where are you going, dear, where are you wandering?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' го виде, џанам, мојто либе,",
+       "lat": "Dal' go vide, džanam, mojto libe,",
+       "en": "Did you see, dear, my love,"
+      },
+      {
+       "cyr": "мојто либе, џанам, тој Ѓорѓија?",
+       "lat": "mojto libe, džanam, toj Ǵorǵija?",
+       "en": "my love, dear, that Gjorgjija?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас го видов, џанам, во меана,",
+       "lat": "Jas go vidov, džanam, vo meana,",
+       "en": "I saw him, dear, in the tavern,"
+      },
+      {
+       "cyr": "сладок ручок, џанам, си ручаше.",
+       "lat": "sladok ručok, džanam, si ručaše.",
+       "en": "a sweet lunch, dear, he was eating."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сладок ручек си ручаше,",
+       "lat": "Sladok ruček si ručaše,",
+       "en": "He was eating a sweet lunch,"
+      },
+      {
+       "cyr": "рујно вино, џанам, си пиеше.",
+       "lat": "rujno vino, džanam, si pieše.",
+       "en": "drinking red wine, dear."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

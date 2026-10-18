@@ -1,0 +1,135 @@
+{
+ "id": 1240,
+ "slug": "vrba-mi-izniknala",
+ "title_cyr": "Врба ми изникнала",
+ "title_latin": "Vrba mi izniknala",
+ "title_en": "A willow grew",
+ "pesna_url": "https://pesna.org/song/1240",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Воденки",
+  "Габриела Новевска",
+  "Елена Андоновска",
+  "Томче Бојаџиески"
+ ],
+ "audio": [
+  {
+   "who": "Воденки",
+   "url": "https://pesna.org/audio-download/3106"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/3107"
+  },
+  {
+   "who": "Елена Андоновска",
+   "url": "https://pesna.org/audio-download/3239"
+  },
+  {
+   "who": "Томче Бојаџиески",
+   "url": "https://pesna.org/audio-download/4375"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Врба ми изникнала,",
+       "lat": "Vrba mi izniknala,",
+       "en": "A willow tree has sprouted,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во Солунско поле,",
+       "lat": "vo Solunsko pole,",
+       "en": "in the Solun1 Field,",
+       "en_mt": false
+      },
+      {
+       "cyr": "поле широко.",
+       "lat": "pole široko.",
+       "en": "a wide field.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жилите му беа,",
+       "lat": "Žilite mu bea,",
+       "en": "Its veins were,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дури до Воденско.",
+       "lat": "duri do Vodensko.",
+       "en": "stretching as far as Voden2,",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На вршката има,",
+       "lat": "Na vrškata ima,",
+       "en": "On the tip there is,",
+       "en_mt": false
+      },
+      {
+       "cyr": "шарено пиле.",
+       "lat": "šareno pile.",
+       "en": "a colorful chicken,",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пилето ми пее",
+       "lat": "Pileto mi pee",
+       "en": "The chicken sings",
+       "en_mt": false
+      },
+      {
+       "cyr": "многу жаловито,",
+       "lat": "mnogu žalovito,",
+       "en": "a very sad song,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ка ми се сретнале",
+       "lat": "ka mi se sretnale",
+       "en": "when they met,",
+       "en_mt": false
+      },
+      {
+       "cyr": "брат и сестра,",
+       "lat": "brat i sestra,",
+       "en": "brother and sister,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не ми се познале.",
+       "lat": "ne mi se poznale.",
+       "en": "they didn't recognize each other.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

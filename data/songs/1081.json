@@ -1,0 +1,104 @@
+{
+ "id": 1081,
+ "slug": "od-boga-dadeno",
+ "title_cyr": "Од бога дадено",
+ "title_latin": "Od boga dadeno",
+ "title_en": "God-Given",
+ "pesna_url": "https://pesna.org/song/1081",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2530"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Доста се делиме, доста страдаме,",
+       "lat": "Dosta se delime, dosta stradame,",
+       "en": "Enough with the dividing, enough with the suffering,"
+      },
+      {
+       "cyr": "кога за истото сите се бориме.",
+       "lat": "koga za istoto site se borime.",
+       "en": "when we are all fighting for the same thing."
+      },
+      {
+       "cyr": "Кога, кога ќе се обединиме,",
+       "lat": "Koga, koga ḱe se obedinime,",
+       "en": "When, when will we be united,"
+      },
+      {
+       "cyr": "кога ли, кога, ние едно ќе бидиме?",
+       "lat": "koga li, koga, nie edno ḱe bidime?",
+       "en": "when, when, will we be one?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден се мислам, везден се прашувам,",
+       "lat": "Vezden se mislam, vezden se prašuvam,",
+       "en": "All this time I'm thinking, all this time I am asking,"
+      },
+      {
+       "cyr": "умот го губам, јас ќе изгорам.",
+       "lat": "umot go gubam, jas ḱe izgoram.",
+       "en": "I'm losing my mind, I'm burning out."
+      },
+      {
+       "cyr": "Кога, кога ќе се обединиме,",
+       "lat": "Koga, koga ḱe se obedinime,",
+       "en": "When, when will we be united,"
+      },
+      {
+       "cyr": "кога ли, кога, ние едно ќе бидиме?",
+       "lat": "koga li, koga, nie edno ḱe bidime?",
+       "en": "when, when, will we be one?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крвта браќа вода не бидува,",
+       "lat": "Krvta braḱa voda ne biduva,",
+       "en": "Blood is thicker than water, brothers,"
+      },
+      {
+       "cyr": "сите сме ние крв македонска.",
+       "lat": "site sme nie krv makedonska.",
+       "en": "we are all Macedonian blood."
+      },
+      {
+       "cyr": "Кога, кога ќе се обединиме,",
+       "lat": "Koga, koga ḱe se obedinime,",
+       "en": "When, when will we be united,"
+      },
+      {
+       "cyr": "кога ли, кога, ние едно ќе бидиме?",
+       "lat": "koga li, koga, nie edno ḱe bidime?",
+       "en": "when, when, will we be one?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

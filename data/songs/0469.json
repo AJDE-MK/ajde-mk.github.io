@@ -1,0 +1,239 @@
+{
+ "id": 469,
+ "slug": "ajde-vino-pijam",
+ "title_cyr": "Ајде вино пијам",
+ "title_latin": "Ajde vino pijam",
+ "title_en": "Come On, I Drink Wine",
+ "pesna_url": "https://pesna.org/song/469",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'непара го пијам' is my reading as 'I drink it without paying'; 'аџамија' (here 'green, unbroken') is a Turkish-derived word I am not sure of. 'тук' сум јунак' I read as 'here I am a hero', a guess.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on, hey"
+  },
+  {
+   "mk": "леле",
+   "en": "oh (exclamation)"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija, fruit brandy"
+  },
+  {
+   "mk": "мераклија",
+   "en": "someone who loves enjoying life, a pleasure-lover"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse, colt"
+  },
+  {
+   "mk": "кладенец",
+   "en": "spring, well"
+  },
+  {
+   "mk": "порти",
+   "en": "gate (of a yard)"
+  },
+  {
+   "mk": "пусти",
+   "en": "empty, lonely, wretched"
+  },
+  {
+   "mk": "змија",
+   "en": "snake"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave young man"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Васка Илиева",
+  "Зоран Јосифовски",
+  "Круме Спасовски",
+  "Меџит Муслиоски",
+  "Наум Петрески",
+  "Стефче Стојковски",
+  "Филиграни",
+  "A Capella Bogazici",
+  "Brenna Maccrimmon",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/343"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/344"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/345"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/348"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/349"
+  },
+  {
+   "who": "Зоран Јосифовски",
+   "url": "https://pesna.org/audio-download/350"
+  },
+  {
+   "who": "Brenna Maccrimmon",
+   "url": "https://pesna.org/audio-download/351"
+  },
+  {
+   "who": "Ансамбл чалгии на РТС, Филиграни",
+   "url": "https://pesna.org/audio-download/2666"
+  },
+  {
+   "who": "A Capella Bogazici",
+   "url": "https://pesna.org/audio-download/2903"
+  },
+  {
+   "who": "Меџит Муслиоски",
+   "url": "https://pesna.org/audio-download/3732"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде вино пијам, леле вино пијам",
+       "lat": "Ajde vino pijam, lele vino pijam",
+       "en": "Come on, I drink wine, oh, I drink wine,"
+      },
+      {
+       "cyr": "непара го пијам леле, леле, непара го пијам.",
+       "lat": "nepara go pijam lele, lele, nepara go pijam.",
+       "en": "I drink it without paying, oh, oh, I drink it without paying."
+      },
+      {
+       "cyr": "Ајде на ракија леле, на ракија",
+       "lat": "Ajde na rakija lele, na rakija",
+       "en": "Come on, to rakija, oh, to rakija,"
+      },
+      {
+       "cyr": "мошне сум мераклија леле, леле, многу сум мераклија.",
+       "lat": "mošne sum meraklija lele, lele, mnogu sum meraklija.",
+       "en": "I am a great one for good times, oh, oh, very much a lover of good times."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде коња јавам, леле коња јавам",
+       "lat": "Ajde konja javam, lele konja javam",
+       "en": "Come on, I ride a horse, oh, I ride a horse,"
+      },
+      {
+       "cyr": "коњче аџамија, леле, коњче аџамија.",
+       "lat": "konjče adžamija, lele, konjče adžamija.",
+       "en": "a young green colt, oh, a young green colt."
+      },
+      {
+       "cyr": "Море јас го терам, леле јас го терам",
+       "lat": "More jas go teram, lele jas go teram",
+       "en": "Hey, I drive him, oh, I drive him"
+      },
+      {
+       "cyr": "на студен кладенец леле, леле на студен кладенец.",
+       "lat": "na studen kladenec lele, lele na studen kladenec.",
+       "en": "to a cold spring, oh, oh, to a cold spring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде тој ме носи, леле тој ме носи",
+       "lat": "Ajde toj me nosi, lele toj me nosi",
+       "en": "Come on, he carries me, oh, he carries me"
+      },
+      {
+       "cyr": "на момини порти леле, леле на момини порти.",
+       "lat": "na momini porti lele, lele na momini porti.",
+       "en": "to the girl's gate, oh, oh, to the girl's gate."
+      },
+      {
+       "cyr": "Ајде пусти порти, леле пусти порти",
+       "lat": "Ajde pusti porti, lele pusti porti",
+       "en": "Come on, the lonely gate, oh, the lonely gate,"
+      },
+      {
+       "cyr": "тешко затворени леле, леле тешко затворени.",
+       "lat": "teško zatvoreni lele, lele teško zatvoreni.",
+       "en": "hard shut, oh, oh, hard shut."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде не сум пиле, леле не сум пиле,",
+       "lat": "Ajde ne sum pile, lele ne sum pile,",
+       "en": "Come on, I am not a bird, oh, I am not a bird,"
+      },
+      {
+       "cyr": "порти да прелетам леле, леле порти да прелетам,",
+       "lat": "porti da preletam lele, lele porti da preletam,",
+       "en": "to fly over the gate, oh, oh, to fly over the gate,"
+      },
+      {
+       "cyr": "ајде не сум змија леле, не сум змија",
+       "lat": "ajde ne sum zmija lele, ne sum zmija",
+       "en": "come on, I am not a snake, oh, I am not a snake"
+      },
+      {
+       "cyr": "здола да се проврам леле, леле либе да си видам.",
+       "lat": "zdola da se provram lele, lele libe da si vidam.",
+       "en": "to crawl underneath, oh, oh, to see my love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде тук' сум јунак, леле, тук' сум јунак,",
+       "lat": "Ajde tuk' sum junak, lele, tuk' sum junak,",
+       "en": "Come on, here I am a hero, oh, here I am a hero,"
+      },
+      {
+       "cyr": "порти да отворам, леле, леле, порти да отворам.",
+       "lat": "porti da otvoram, lele, lele, porti da otvoram.",
+       "en": "to open the gate, oh, oh, to open the gate."
+      },
+      {
+       "cyr": "Порти да отворам, леле, порти да отворам,",
+       "lat": "Porti da otvoram, lele, porti da otvoram,",
+       "en": "To open the gate, oh, to open the gate,"
+      },
+      {
+       "cyr": "мома да си земам, леле, леле, мома Македонка.",
+       "lat": "moma da si zemam, lele, lele, moma Makedonka.",
+       "en": "to take a girl, oh, oh, a Macedonian girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

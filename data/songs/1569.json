@@ -1,0 +1,161 @@
+{
+ "id": 1569,
+ "slug": "izlegol-selman",
+ "title_cyr": "Излегол Селман",
+ "title_latin": "Izlegol Selman",
+ "title_en": "Selman went out",
+ "pesna_url": "https://pesna.org/song/1569",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'анами' is my reading of Turkish hanım (ladies, plural), not certain. 'црвена' in the last line means red or rosy-cheeked, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (from Turkish)"
+  },
+  {
+   "mk": "каурка",
+   "en": "a non-Muslim (Christian) girl"
+  },
+  {
+   "mk": "каурско",
+   "en": "of the infidels (non-Muslim)"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "alas, shame on you (exclamation)"
+  },
+  {
+   "mk": "будала",
+   "en": "fool"
+  },
+  {
+   "mk": "жнее",
+   "en": "reaps"
+  },
+  {
+   "mk": "копа",
+   "en": "digs, hoes"
+  },
+  {
+   "mk": "карам",
+   "en": "I scold"
+  }
+ ],
+ "performers": [
+  "Круме Спасовски"
+ ],
+ "audio": [
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/4096"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегол Селман, прошетал џанам",
+       "lat": "Izlegol Selman, prošetal džanam",
+       "en": "Selman went out, strolled, my dear,"
+      },
+      {
+       "cyr": "низ едно село море, каурско.",
+       "lat": "niz edno selo more, kaursko.",
+       "en": "through a village, hey, of the infidels."
+      },
+      {
+       "cyr": "Одвел си Селман, одвел си џанам",
+       "lat": "Odvel si Selman, odvel si džanam",
+       "en": "Selman took away, took away, my dear,"
+      },
+      {
+       "cyr": "до девет бели море, анами.",
+       "lat": "do devet beli more, anami.",
+       "en": "up to nine white, hey, ladies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите ги Селман даваше џанам",
+       "lat": "Site gi Selman davaše džanam",
+       "en": "Selman gave them all away, my dear,"
+      },
+      {
+       "cyr": "за една бела море каурка.",
+       "lat": "za edna bela more kaurka.",
+       "en": "for one white, hey, infidel girl."
+      },
+      {
+       "cyr": "Мајка си Селман караше џанам:",
+       "lat": "Majka si Selman karaše džanam:",
+       "en": "Selman's mother scolded him, my dear:"
+      },
+      {
+       "cyr": "- Дејгиди Селман море, будала!",
+       "lat": "- Dejgidi Selman more, budala!",
+       "en": "- Shame on you, Selman, hey, you fool!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди Селман, будала џанам,",
+       "lat": "Dejgidi Selman, budala džanam,",
+       "en": "Shame on you, Selman, you fool, my dear,"
+      },
+      {
+       "cyr": "дека се чуло Селман, видело",
+       "lat": "deka se čulo Selman, videlo",
+       "en": "that it was heard, Selman, and seen,"
+      },
+      {
+       "cyr": "девет анами да даваш Селман",
+       "lat": "devet anami da davaš Selman",
+       "en": "that you give nine ladies, Selman,"
+      },
+      {
+       "cyr": "за една бела море каурка?",
+       "lat": "za edna bela more kaurka?",
+       "en": "for one white, hey, infidel girl?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди мајко, дејгиди џанам",
+       "lat": "- Dejgidi majko, dejgidi džanam",
+       "en": "- Alas, mother, alas, my dear,"
+      },
+      {
+       "cyr": "каурка жнее мајко, ем копа.",
+       "lat": "kaurka žnee majko, em kopa.",
+       "en": "the infidel girl reaps and also digs, mother."
+      },
+      {
+       "cyr": "Каурка жнее, ем копа мајко",
+       "lat": "Kaurka žnee, em kopa majko",
+       "en": "The infidel girl reaps and also digs, mother,"
+      },
+      {
+       "cyr": "и пак је бела, мори црвена.",
+       "lat": "i pak je bela, mori crvena.",
+       "en": "and still she is white, hey, and rosy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

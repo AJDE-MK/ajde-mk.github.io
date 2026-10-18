@@ -1,0 +1,265 @@
+{
+ "id": 536,
+ "slug": "odish-ti",
+ "title_cyr": "Одиш ти",
+ "title_latin": "Odiš ti",
+ "title_en": "You Are Leaving",
+ "pesna_url": "https://pesna.org/song/536",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern pop song but I cannot name an author. 'Цветој', 'зборој', 'дворој' are dialect plural/definite forms (my reading: flowers, words, yard).",
+ "words_to_learn": [
+  {
+   "mk": "ѕвезди",
+   "en": "stars"
+  },
+  {
+   "mk": "плачат",
+   "en": "weep"
+  },
+  {
+   "mk": "лисја",
+   "en": "leaves"
+  },
+  {
+   "mk": "тажни води",
+   "en": "sad waters"
+  },
+  {
+   "mk": "дворој",
+   "en": "yard (dialect form of двор)"
+  },
+  {
+   "mk": "капат",
+   "en": "drip"
+  },
+  {
+   "mk": "надеж",
+   "en": "hope"
+  },
+  {
+   "mk": "тлеат",
+   "en": "smolder"
+  },
+  {
+   "mk": "колнам",
+   "en": "I curse"
+  },
+  {
+   "mk": "пролет",
+   "en": "spring"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2473"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сите песни, сите ѕвезди,",
+       "lat": "Site pesni, site dzvezdi,",
+       "en": "All the songs, all the stars,"
+      },
+      {
+       "cyr": "сите очи плачат ко одиш.",
+       "lat": "site oči plačat ko odiš.",
+       "en": "all the eyes weep as you go."
+      },
+      {
+       "cyr": "Сите цветој, сите лисја,",
+       "lat": "Site cvetoj, site lisja,",
+       "en": "All the flowers, all the leaves,"
+      },
+      {
+       "cyr": "сите реки носат тажни води.",
+       "lat": "site reki nosat tažni vodi.",
+       "en": "all the rivers carry sad waters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, ај,",
+       "lat": "Aj, aj,",
+       "en": "Oh, oh,"
+      },
+      {
+       "cyr": "стојам сама јас во дворој,",
+       "lat": "stojam sama jas vo dvoroj,",
+       "en": "I stand alone in my yard,"
+      },
+      {
+       "cyr": "ај, стојам сама, ај јас во дворој,",
+       "lat": "aj, stojam sama, aj jas vo dvoroj,",
+       "en": "oh, I stand alone, oh in my yard,"
+      },
+      {
+       "cyr": "срце капат твојте зборој.",
+       "lat": "srce kapat tvojte zboroj.",
+       "en": "your words drip into my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одиш ти, одиш ти",
+       "lat": "Odiš ti, odiš ti",
+       "en": "You are leaving, you are leaving"
+      },
+      {
+       "cyr": "и ми оставаш празни дни.",
+       "lat": "i mi ostavaš prazni dni.",
+       "en": "and you leave me empty days."
+      },
+      {
+       "cyr": "Но и ти ќе си сам,",
+       "lat": "No i ti ḱe si sam,",
+       "en": "But you too will be alone,"
+      },
+      {
+       "cyr": "кому соништа јас да дам?",
+       "lat": "komu soništa jas da dam?",
+       "en": "to whom shall I give my dreams?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Малку надеж да ми дадеш,",
+       "lat": "Malku nadež da mi dadeš,",
+       "en": "If you would give me a little hope,"
+      },
+      {
+       "cyr": "за да тлеат в' срце две-три траги,",
+       "lat": "za da tleat v' srce dve-tri tragi,",
+       "en": "so that two or three traces smolder in my heart,"
+      },
+      {
+       "cyr": "како песна, како пролет,",
+       "lat": "kako pesna, kako prolet,",
+       "en": "like a song, like spring,"
+      },
+      {
+       "cyr": "да те чекам преку сите таги.",
+       "lat": "da te čekam preku site tagi.",
+       "en": "I would wait for you through all the sorrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите песни, сите ѕвезди,",
+       "lat": "Site pesni, site dzvezdi,",
+       "en": "All the songs, all the stars,"
+      },
+      {
+       "cyr": "сите очи плачат што те нема,",
+       "lat": "site oči plačat što te nema,",
+       "en": "all the eyes weep because you are gone,"
+      },
+      {
+       "cyr": "што да речам, што да колнам,",
+       "lat": "što da rečam, što da kolnam,",
+       "en": "what can I say, what can I curse,"
+      },
+      {
+       "cyr": "која судба наша што те зема?",
+       "lat": "koja sudba naša što te zema?",
+       "en": "which fate of ours took you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, ај,",
+       "lat": "Aj, aj,",
+       "en": "Oh, oh,"
+      },
+      {
+       "cyr": "стојам сама јас во дворој,",
+       "lat": "stojam sama jas vo dvoroj,",
+       "en": "I stand alone in my yard,"
+      },
+      {
+       "cyr": "ај, стојам сама, ај јас во дворој,",
+       "lat": "aj, stojam sama, aj jas vo dvoroj,",
+       "en": "oh, I stand alone, oh in my yard,"
+      },
+      {
+       "cyr": "срце капат твојте зборој.",
+       "lat": "srce kapat tvojte zboroj.",
+       "en": "your words drip into my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одиш ти, одиш ти",
+       "lat": "Odiš ti, odiš ti",
+       "en": "You are leaving, you are leaving"
+      },
+      {
+       "cyr": "и ми оставаш празни дни.",
+       "lat": "i mi ostavaš prazni dni.",
+       "en": "and you leave me empty days."
+      },
+      {
+       "cyr": "Но и ти ќе си сам,",
+       "lat": "No i ti ḱe si sam,",
+       "en": "But you too will be alone,"
+      },
+      {
+       "cyr": "кому соништа јас да дам?",
+       "lat": "komu soništa jas da dam?",
+       "en": "to whom shall I give my dreams?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Малку надеж да ми дадеш,",
+       "lat": "Malku nadež da mi dadeš,",
+       "en": "If you would give me a little hope,"
+      },
+      {
+       "cyr": "за да тлеат в' срце две-три траги,",
+       "lat": "za da tleat v' srce dve-tri tragi,",
+       "en": "so that two or three traces smolder in my heart,"
+      },
+      {
+       "cyr": "како песна, како пролет,",
+       "lat": "kako pesna, kako prolet,",
+       "en": "like a song, like spring,"
+      },
+      {
+       "cyr": "да те чекам преку сите таги.",
+       "lat": "da te čekam preku site tagi.",
+       "en": "I would wait for you through all the sorrows."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

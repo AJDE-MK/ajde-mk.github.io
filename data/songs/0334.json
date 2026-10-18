@@ -1,0 +1,155 @@
+{
+ "id": 334,
+ "slug": "oro-se-vie-kraj-manastirot",
+ "title_cyr": "Оро се вие крај манастирот",
+ "title_latin": "Oro se vie kraj manastirot",
+ "title_en": "They are dancing by the monastery",
+ "pesna_url": "https://pesna.org/song/334",
+ "background": "A generic dance caller. By the monastery an oro winds: young girls in the first, young men in the second, young brides in the third. The singer keeps asking to go and see who is dancing.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Митева",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Марија Гобовиќ",
+  "Марина Гобовиќ",
+  "Мегдан",
+  "Радостина Панјова",
+  "Уснија Реџепова"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Митева",
+   "url": "https://pesna.org/audio-download/1243"
+  },
+  {
+   "who": "Уснија Реџепова",
+   "url": "https://pesna.org/audio-download/1244"
+  },
+  {
+   "who": "Радостина Панјова",
+   "url": "https://pesna.org/audio-download/1896"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/2391"
+  },
+  {
+   "who": "Марија Гобовиќ, Марина Гобовиќ",
+   "url": "https://pesna.org/audio-download/2392"
+  },
+  {
+   "who": "Мегдан",
+   "url": "https://pesna.org/audio-download/3058"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оро се вие крај манастирот,",
+       "lat": "Oro se vie kraj manastirot,",
+       "en": "They are dancing by the monastery,"
+      },
+      {
+       "cyr": "оро се вие кај манастирот.",
+       "lat": "oro se vie kaj manastirot.",
+       "en": "They are dancing by the monastery."
+      },
+      {
+       "cyr": "Да идам, Гано моме, да видам",
+       "lat": "Da idam, Gano mome, da vidam",
+       "en": "I'm going, my Gana, to see them,"
+      },
+      {
+       "cyr": "да идам, Гано душо, да играм.",
+       "lat": "da idam, Gano dušo, da igram.",
+       "en": "I'm going, Gana dear, to dance with them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првото оро сè млади момчиња,",
+       "lat": "Prvoto oro sè mladi momčinja,",
+       "en": "First in the dance are the boys,"
+      },
+      {
+       "cyr": "првото оро сè млади момчиња.",
+       "lat": "prvoto oro sè mladi momčinja.",
+       "en": "First in the dance are the boys."
+      },
+      {
+       "cyr": "Да идам, Гано моме, да видам,",
+       "lat": "Da idam, Gano mome, da vidam,",
+       "en": "I'm going, my Gana, to see them,"
+      },
+      {
+       "cyr": "да идам, Гано душо, да играм.",
+       "lat": "da idam, Gano dušo, da igram.",
+       "en": "I'm going, Gana dear, to dance with them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другото оро сè млади моми,",
+       "lat": "Drugoto oro sè mladi momi,",
+       "en": "Next in the dance are the girls,"
+      },
+      {
+       "cyr": "другото оро сè млади моми.",
+       "lat": "drugoto oro sè mladi momi.",
+       "en": "Next in the dance are girls."
+      },
+      {
+       "cyr": "Да идам, Гано моме, да видам,",
+       "lat": "Da idam, Gano mome, da vidam,",
+       "en": "I'm going, my Gana, to see them,"
+      },
+      {
+       "cyr": "да идам, Гано душо, да играм.",
+       "lat": "da idam, Gano dušo, da igram.",
+       "en": "I'm going, Gana dear, to dance with them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третото оро сè млади невести,",
+       "lat": "Tretoto oro sè mladi nevesti,",
+       "en": "Third in the dance are the young brides,"
+      },
+      {
+       "cyr": "третото оро сè млади невести.",
+       "lat": "tretoto oro sè mladi nevesti.",
+       "en": "third in the dance are the young brides."
+      },
+      {
+       "cyr": "Да идам, Гано моме, да видам,",
+       "lat": "Da idam, Gano mome, da vidam,",
+       "en": "I'm going, my Gana, to see them,"
+      },
+      {
+       "cyr": "да идам, Гано душо, да играм.",
+       "lat": "da idam, Gano dušo, da igram.",
+       "en": "I'm going, Gana dear, to dance with them."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

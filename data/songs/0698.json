@@ -1,0 +1,194 @@
+{
+ "id": 698,
+ "slug": "kate-lichno-devojche",
+ "title_cyr": "Кате лично девојче",
+ "title_latin": "Kate lično devojče",
+ "title_en": "Kate, pretty girl",
+ "pesna_url": "https://pesna.org/song/698",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Clear text; 'два' in the last line is dialectal 'the two of us' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "лично",
+   "en": "pretty, comely"
+  },
+  {
+   "mk": "девојче",
+   "en": "girl"
+  },
+  {
+   "mk": "да се земеме",
+   "en": "to marry each other"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "свирки",
+   "en": "musicians, pipes"
+  },
+  {
+   "mk": "тапан",
+   "en": "large drum"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "севдах",
+   "en": "passionate love, longing"
+  },
+  {
+   "mk": "барем",
+   "en": "at least"
+  }
+ ],
+ "performers": [
+  "Есма Реџепова"
+ ],
+ "audio": [
+  {
+   "who": "Есма Реџепова",
+   "url": "https://pesna.org/audio-download/850"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кате, лично девојче,",
+       "lat": "Kate, lično devojče,",
+       "en": "Kate, pretty girl,"
+      },
+      {
+       "cyr": "ајде да се земеме,",
+       "lat": "ajde da se zememe,",
+       "en": "come, let us marry,"
+      },
+      {
+       "cyr": "живот да променеме?",
+       "lat": "život da promeneme?",
+       "en": "let us change our lives?"
+      },
+      {
+       "cyr": "Ајде да се земеме,",
+       "lat": "Ajde da se zememe,",
+       "en": "Come, let us marry,"
+      },
+      {
+       "cyr": "свадба да направиме?",
+       "lat": "svadba da napravime?",
+       "en": "let us hold a wedding?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свирки да ни засвират,",
+       "lat": "Svirki da ni zasvirat,",
+       "en": "Let the musicians play for us,"
+      },
+      {
+       "cyr": "тапан да ни зачука,",
+       "lat": "tapan da ni začuka,",
+       "en": "let the drum beat for us,"
+      },
+      {
+       "cyr": "оро да се развие,",
+       "lat": "oro da se razvie,",
+       "en": "let the circle dance start up,"
+      },
+      {
+       "cyr": "вино да се напие.",
+       "lat": "vino da se napie.",
+       "en": "let the wine be drunk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како да се земеме,",
+       "lat": "Kako da se zememe,",
+       "en": "How can we marry,"
+      },
+      {
+       "cyr": "свадба да направиме,",
+       "lat": "svadba da napravime,",
+       "en": "how can we hold a wedding,"
+      },
+      {
+       "cyr": "кога си пари немаме,",
+       "lat": "koga si pari nemame,",
+       "en": "when we have no money,"
+      },
+      {
+       "cyr": "кога си куќа немаме?",
+       "lat": "koga si kuḱa nemame?",
+       "en": "when we have no house?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако пари немаме,",
+       "lat": "Ako pari nemame,",
+       "en": "If we have no money,"
+      },
+      {
+       "cyr": "свадба да направиме,",
+       "lat": "svadba da napravime,",
+       "en": "let us hold a wedding anyway,"
+      },
+      {
+       "cyr": "барем си љубов имаме,",
+       "lat": "barem si ljubov imame,",
+       "en": "at least we have love,"
+      },
+      {
+       "cyr": "барем си севдах имаме.",
+       "lat": "barem si sevdah imame.",
+       "en": "at least we have passion."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пари ќе спечалиме,",
+       "lat": "Pari ḱe spečalime,",
+       "en": "We will earn money,"
+      },
+      {
+       "cyr": "куќа ќе направиме.",
+       "lat": "kuḱa ḱe napravime.",
+       "en": "we will build a house."
+      },
+      {
+       "cyr": "Куќа ќе направиме,",
+       "lat": "Kuḱa ḱe napravime,",
+       "en": "We will build a house,"
+      },
+      {
+       "cyr": "двата ќе се земиме.",
+       "lat": "dvata ḱe se zemime.",
+       "en": "and the two of us will marry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

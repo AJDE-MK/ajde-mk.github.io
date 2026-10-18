@@ -1,0 +1,189 @@
+{
+ "id": 1418,
+ "slug": "sonceto-trepi-razgreva",
+ "title_cyr": "Сонцето трепи, разгрева",
+ "title_latin": "Sonceto trepi, razgreva",
+ "title_en": "The sun trembles, warms",
+ "pesna_url": "https://pesna.org/song/1418",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A partisan/war song; the 'bride' dark and of the earth and the ravens as guests read as an image of death (my reading). Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "трепи",
+   "en": "trembles, flickers"
+  },
+  {
+   "mk": "разгрева",
+   "en": "warms up (rises and warms)"
+  },
+  {
+   "mk": "окопи",
+   "en": "trenches"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "оженивме",
+   "en": "we married off (a man)"
+  },
+  {
+   "mk": "земнена",
+   "en": "earthen, of the earth"
+  },
+  {
+   "mk": "девери",
+   "en": "brothers-in-law (here, escorts of the bride)"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "гарвани",
+   "en": "ravens"
+  }
+ ],
+ "performers": [
+  "Цветан Јошевски"
+ ],
+ "audio": [
+  {
+   "who": "Цветан Јошевски",
+   "url": "https://pesna.org/audio-download/3639"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сонцето трепи, разгрева,",
+       "lat": "Sonceto trepi, razgreva,",
+       "en": "The sun trembles, warms up,"
+      },
+      {
+       "cyr": "Стеван ми лежи во окопи.",
+       "lat": "Stevan mi leži vo okopi.",
+       "en": "My Stevan lies in the trenches."
+      },
+      {
+       "cyr": "Ете ги идат другари",
+       "lat": "Ete gi idat drugari",
+       "en": "Look, his comrades are coming"
+      },
+      {
+       "cyr": "и на Стевана говорат:",
+       "lat": "i na Stevana govorat:",
+       "en": "and they say to Stevan:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ми, стани Стеване,",
+       "lat": "- Stani mi, stani Stevane,",
+       "en": "- Get up, get up, Stevan,"
+      },
+      {
+       "cyr": "да си дома одиме.",
+       "lat": "da si doma odime.",
+       "en": "let us go home."
+      },
+      {
+       "cyr": "Кај наш'те мајки, татковци,",
+       "lat": "Kaj naš'te majki, tatkovci,",
+       "en": "To our mothers, fathers,"
+      },
+      {
+       "cyr": "жени со машки дечиња.",
+       "lat": "ženi so maški dečinja.",
+       "en": "wives with boy children."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајте со здравје другари,",
+       "lat": "- Ajte so zdravje drugari,",
+       "en": "- Go in health, comrades,"
+      },
+      {
+       "cyr": "мајка и татка поздравете.",
+       "lat": "majka i tatka pozdravete.",
+       "en": "greet my mother and father."
+      },
+      {
+       "cyr": "Мајка и татка поздравете:",
+       "lat": "Majka i tatka pozdravete:",
+       "en": "Greet my mother and father:"
+      },
+      {
+       "cyr": "„Стеван го оженивме“.",
+       "lat": "„Stevan go oženivme“.",
+       "en": "'We have married Stevan off'."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стеван го оженивме",
+       "lat": "Stevan go oženivme",
+       "en": "We have married Stevan off"
+      },
+      {
+       "cyr": "за една млада девојка.",
+       "lat": "za edna mlada devojka.",
+       "en": "to a young girl."
+      },
+      {
+       "cyr": "За една млада девојка,",
+       "lat": "Za edna mlada devojka,",
+       "en": "To a young girl,"
+      },
+      {
+       "cyr": "девојка црна, земнена.",
+       "lat": "devojka crna, zemnena.",
+       "en": "a dark girl, earthen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За една млада девојка,",
+       "lat": "Za edna mlada devojka,",
+       "en": "To a young girl,"
+      },
+      {
+       "cyr": "девојка црна, земнена.",
+       "lat": "devojka crna, zemnena.",
+       "en": "a dark girl, earthen."
+      },
+      {
+       "cyr": "Бегови беа девери,",
+       "lat": "Begovi bea deveri,",
+       "en": "Begs were the brothers-in-law,"
+      },
+      {
+       "cyr": "сватови беа гарвани.",
+       "lat": "svatovi bea garvani.",
+       "en": "wedding guests were ravens."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

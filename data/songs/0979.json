@@ -1,0 +1,137 @@
+{
+ "id": 979,
+ "slug": "ajde-site-zapejte-veselo-oro-igrajte",
+ "title_cyr": "Ајде сите запејте, весело оро играјте",
+ "title_latin": "Ajde site zapejte, veselo oro igrajte",
+ "title_en": "Come On, Everyone Sing, Dance a Merry Oro",
+ "pesna_url": "https://pesna.org/song/979",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a newer composed party song, but I cannot name an author. 'Рана душевна' is literally 'wound of the soul'; it may be meant as 'balm' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "одсекогаш",
+   "en": "always"
+  },
+  {
+   "mk": "запејте",
+   "en": "start singing (imperative)"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "играјте",
+   "en": "dance (imperative)"
+  },
+  {
+   "mk": "лошо",
+   "en": "bad, evil"
+  },
+  {
+   "mk": "душевна",
+   "en": "of the soul"
+  },
+  {
+   "mk": "безгрижен",
+   "en": "carefree"
+  },
+  {
+   "mk": "радосен",
+   "en": "joyful"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2283"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Одсекогаш, одсекогаш се вели:",
+       "lat": "Odsekogaš, odsekogaš se veli:",
+       "en": "Always, always it is said:"
+      },
+      {
+       "cyr": "„кој пее, зло не мисли“,",
+       "lat": "„koj pee, zlo ne misli“,",
+       "en": "'he who sings thinks no evil,'"
+      },
+      {
+       "cyr": "лошо на никого, лошо на никого.",
+       "lat": "lošo na nikogo, lošo na nikogo.",
+       "en": "evil to no one, evil to no one."
+      },
+      {
+       "cyr": "Ајде сите запејте, весело оро играјте.",
+       "lat": "Ajde site zapejte, veselo oro igrajte.",
+       "en": "Come on, everyone sing, dance a merry oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одсекогаш, одсекогаш се вели:",
+       "lat": "Odsekogaš, odsekogaš se veli:",
+       "en": "Always, always it is said:"
+      },
+      {
+       "cyr": "„песната е рана душевна“,",
+       "lat": "„pesnata e rana duševna“,",
+       "en": "'song is a wound of the soul' (my reading),"
+      },
+      {
+       "cyr": "на секој и секого, на секој и секого.",
+       "lat": "na sekoj i sekogo, na sekoj i sekogo.",
+       "en": "for each and everyone, for each and everyone."
+      },
+      {
+       "cyr": "Ајде сите запејте, весело оро играјте.",
+       "lat": "Ajde site zapejte, veselo oro igrajte.",
+       "en": "Come on, everyone sing, dance a merry oro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со песна, со песна и оро",
+       "lat": "So pesna, so pesna i oro",
+       "en": "With song, with song and oro"
+      },
+      {
+       "cyr": "животот е убав, безгрижен,",
+       "lat": "životot e ubav, bezgrižen,",
+       "en": "life is beautiful, carefree,"
+      },
+      {
+       "cyr": "многу, многу радосен, многу, многу радосен.",
+       "lat": "mnogu, mnogu radosen, mnogu, mnogu radosen.",
+       "en": "very, very joyful, very, very joyful."
+      },
+      {
+       "cyr": "Ајде сите запејте, весело оро играјте.",
+       "lat": "Ajde site zapejte, veselo oro igrajte.",
+       "en": "Come on, everyone sing, dance a merry oro."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

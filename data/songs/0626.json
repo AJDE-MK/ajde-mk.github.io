@@ -1,0 +1,138 @@
+{
+ "id": 626,
+ "slug": "ah-mori-majko",
+ "title_cyr": "Ах мори мајко",
+ "title_latin": "Ah mori majko",
+ "title_en": "Ah, Hey Mother",
+ "pesna_url": "https://pesna.org/song/626",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лика, прилика' is rendered as 'match, likeness' (my reading: a suitable husband). 'Лудо младо' is read as 'young fool', a term of address for a young man, as my reading; 'навадиш' as 'pull up' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "мажиш",
+   "en": "you marry off"
+  },
+  {
+   "mk": "разбој",
+   "en": "loom"
+  },
+  {
+   "mk": "платно",
+   "en": "linen, cloth"
+  },
+  {
+   "mk": "метла",
+   "en": "broom"
+  },
+  {
+   "mk": "дворја",
+   "en": "courtyards"
+  },
+  {
+   "mk": "зумбул",
+   "en": "hyacinth"
+  },
+  {
+   "mk": "дорија",
+   "en": "bay (horse colour)"
+  },
+  {
+   "mk": "лично",
+   "en": "pretty, handsome"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/948"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори мајко, што не ме мажиш,",
+       "lat": "Ah mori majko, što ne me mažiš,",
+       "en": "Ah, hey mother, why do you not marry me off,"
+      },
+      {
+       "cyr": "што ми не бараш лика, прилика?",
+       "lat": "što mi ne baraš lika, prilika?",
+       "en": "why do you not look for a match, a likeness?"
+      },
+      {
+       "cyr": "Уште ли ќе седам на разбојот",
+       "lat": "Ušte li ḱe sedam na razbojot",
+       "en": "Will I still sit at the loom,"
+      },
+      {
+       "cyr": "уште ли ќе белам бело платно?",
+       "lat": "ušte li ḱe belam belo platno?",
+       "en": "will I still bleach white linen?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Марике, ќерко, не се будали,",
+       "lat": "Marike, ḱerko, ne se budali,",
+       "en": "Marike, daughter, do not be foolish,"
+      },
+      {
+       "cyr": "ја земи си ја метлата,",
+       "lat": "ja zemi si ja metlata,",
+       "en": "take up the broom,"
+      },
+      {
+       "cyr": "па измети рамни дворја",
+       "lat": "pa izmeti ramni dvorja",
+       "en": "then sweep the level courtyards"
+      },
+      {
+       "cyr": "и навади зумбул цвеќе!",
+       "lat": "i navadi zumbul cveḱe!",
+       "en": "and pull up hyacinth flowers!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде лудо младо,",
+       "lat": "Ozdola ide ludo mlado,",
+       "en": "From below comes a young fool,"
+      },
+      {
+       "cyr": "лудо младо с' коњ дорија,",
+       "lat": "ludo mlado s' konj dorija,",
+       "en": "a young fool on a bay horse,"
+      },
+      {
+       "cyr": "ќе ти рече: - „Добро утро,",
+       "lat": "ḱe ti reče: - „Dobro utro,",
+       "en": "he will say to you: - 'Good morning,"
+      },
+      {
+       "cyr": "добро утро, лично Маре“.",
+       "lat": "dobro utro, lično Mare“.",
+       "en": "good morning, pretty Mare.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

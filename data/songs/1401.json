@@ -1,0 +1,111 @@
+{
+ "id": 1401,
+ "slug": "eleno-bajrak-devojko",
+ "title_cyr": "Елено бајрак девојко",
+ "title_latin": "Eleno bajrak devojko",
+ "title_en": "Elena, flag pole carrier",
+ "pesna_url": "https://pesna.org/song/1401",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Елено бајрак девојко,",
+       "lat": "Eleno bajrak devojko,",
+       "en": "Elena, flag pole carrier,"
+      },
+      {
+       "cyr": "не качи перо високо,",
+       "lat": "ne kači pero visoko,",
+       "en": "don’t raise your feather too high,"
+      },
+      {
+       "cyr": "не држи сенка голема,",
+       "lat": "ne drži senka golema,",
+       "en": "don’t cast your long shadow,"
+      },
+      {
+       "cyr": "до Солун сенка ми држиш.",
+       "lat": "do Solun senka mi držiš.",
+       "en": "your shadow reaches that faraway city of Solun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На солунските овчари,",
+       "lat": "Na solunskite ovčari,",
+       "en": "Over Solun’s shepherds,"
+      },
+      {
+       "cyr": "овчари јагне печеа,",
+       "lat": "ovčari jagne pečea,",
+       "en": "the shepherds are roasting a lamb,"
+      },
+      {
+       "cyr": "со шарен кавал свиреја,",
+       "lat": "so šaren kaval svireja,",
+       "en": "playing on their fine flutes,"
+      },
+      {
+       "cyr": "Елена песма пееа.",
+       "lat": "Elena pesma peea.",
+       "en": "singing a song for Elena."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Елено лепо девојко,",
+       "lat": "Eleno lepo devojko,",
+       "en": "Elena, beautiful maiden,"
+      },
+      {
+       "cyr": "што сенка долга си имаш,",
+       "lat": "što senka dolga si imaš,",
+       "en": "what a long shadow you cast,"
+      },
+      {
+       "cyr": "сенката овде достигвит,",
+       "lat": "senkata ovde dostigvit,",
+       "en": "the shadow reaches all the way here,"
+      },
+      {
+       "cyr": "под сенка да си играме.",
+       "lat": "pod senka da si igrame.",
+       "en": "under the shadow the shepherds danced."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Елена бајрак девојко,",
+       "lat": "Elena bajrak devojko,",
+       "en": "Elena, flag-pole maiden,"
+      },
+      {
+       "cyr": "весели све да бидиме.",
+       "lat": "veseli sve da bidime.",
+       "en": "let’s all be merry and happy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

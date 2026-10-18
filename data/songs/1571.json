@@ -1,0 +1,188 @@
+{
+ "id": 1571,
+ "slug": "sa-ja-grabile-moma-katerina",
+ "title_cyr": "Са ја грабиле мома Катерина",
+ "title_latin": "Sa ja grabile moma Katerina",
+ "title_en": "They seized the maiden Katerina",
+ "pesna_url": "https://pesna.org/song/1571",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad. Dialect forms (са, у нејно, как') are Southern/Western. Tar and oil were used to disguise her; 'мангусар' I translate as rascal/vagabond, fairly sure.",
+ "words_to_learn": [
+  {
+   "mk": "грабиле",
+   "en": "seized, abducted"
+  },
+  {
+   "mk": "мангусари",
+   "en": "rascals, vagabonds"
+  },
+  {
+   "mk": "намачкале",
+   "en": "smeared"
+  },
+  {
+   "mk": "зејтин",
+   "en": "oil"
+  },
+  {
+   "mk": "катран",
+   "en": "tar"
+  },
+  {
+   "mk": "просија",
+   "en": "begging"
+  },
+  {
+   "mk": "дарувај",
+   "en": "give (alms)"
+  },
+  {
+   "mk": "пресно брашно",
+   "en": "fresh flour"
+  },
+  {
+   "mk": "ѓупка",
+   "en": "derogatory word for a Roma woman"
+  },
+  {
+   "mk": "тук'",
+   "en": "but (dialect)"
+  }
+ ],
+ "performers": [
+  "Перо Христов",
+  "Трајче Каралиоски"
+ ],
+ "audio": [
+  {
+   "who": "Перо Христов",
+   "url": "https://pesna.org/audio-download/4098"
+  },
+  {
+   "who": "Трајче Каралиоски",
+   "url": "https://pesna.org/audio-download/4099"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Са ја грабиле мома Катерина,",
+       "lat": "Sa ja grabile moma Katerina,",
+       "en": "They seized the maiden Katerina,"
+      },
+      {
+       "cyr": "са ја грабиле мангусарите",
+       "lat": "sa ja grabile mangusarite",
+       "en": "they seized her, the rascals,"
+      },
+      {
+       "cyr": "па са ја однеле во нивно село.",
+       "lat": "pa sa ja odnele vo nivno selo.",
+       "en": "and carried her off to their village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Са ја намачкале мома Катерина",
+       "lat": "Sa ja namačkale moma Katerina",
+       "en": "They smeared the maiden Katerina,"
+      },
+      {
+       "cyr": "са ја намачкале зејтин и катран",
+       "lat": "sa ja namačkale zejtin i katran",
+       "en": "they smeared her with oil and tar"
+      },
+      {
+       "cyr": "па са ја пратиле на просија.",
+       "lat": "pa sa ja pratile na prosija.",
+       "en": "and sent her out to beg."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Право си ојде мома Катерина,",
+       "lat": "Pravo si ojde moma Katerina,",
+       "en": "Straight went the maiden Katerina,"
+      },
+      {
+       "cyr": "право си ојде у нејно село.",
+       "lat": "pravo si ojde u nejno selo.",
+       "en": "straight she went to her own village."
+      },
+      {
+       "cyr": "У нејно село, мома Катерина,",
+       "lat": "U nejno selo, moma Katerina,",
+       "en": "To her village, maiden Katerina,"
+      },
+      {
+       "cyr": "у нејно село и нејна мајка.",
+       "lat": "u nejno selo i nejna majka.",
+       "en": "to her village and to her mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дарувај ме мајко, ти мила мајко,",
+       "lat": "- Daruvaj me majko, ti mila majko,",
+       "en": "- Give me something, mother, dear mother,"
+      },
+      {
+       "cyr": "дарувај ме мајко пресно брашно.",
+       "lat": "daruvaj me majko presno brašno.",
+       "en": "give me, mother, some fresh flour."
+      },
+      {
+       "cyr": "- Мани се од тука, ти црна ѓупко,",
+       "lat": "- Mani se od tuka, ti crna ǵupko,",
+       "en": "- Get away from here, you black gypsy woman,"
+      },
+      {
+       "cyr": "мавни се од тука, мангусарко.",
+       "lat": "mavni se od tuka, mangusarko.",
+       "en": "begone from here, you vagabond woman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не сум мангусарка, ти мила мајко,",
+       "lat": "- Ne sum mangusarka, ti mila majko,",
+       "en": "- I am not a vagabond, dear mother,"
+      },
+      {
+       "cyr": "не сум мангусарка, тук' сам ти ќерка.",
+       "lat": "ne sum mangusarka, tuk' sam ti ḱerka.",
+       "en": "I am not a vagabond, but your daughter."
+      },
+      {
+       "cyr": "- Как' се прегрнале мајка и ќерка,",
+       "lat": "- Kak' se pregrnale majka i ḱerka,",
+       "en": "- How mother and daughter embraced,"
+      },
+      {
+       "cyr": "как' се прегрнале и душа дале.",
+       "lat": "kak' se pregrnale i duša dale.",
+       "en": "how they embraced and gave up their souls."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

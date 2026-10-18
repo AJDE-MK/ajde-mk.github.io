@@ -1,0 +1,93 @@
+{
+ "id": 1618,
+ "slug": "teknuva-le-ti-ludo",
+ "title_cyr": "Текнува ле ти лудо",
+ "title_latin": "Teknuva le ti ludo",
+ "title_en": "Do you know, you rascal",
+ "pesna_url": "https://pesna.org/song/1618",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Драгица Мавровска"
+ ],
+ "audio": [
+  {
+   "who": "Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4304"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Текнува ле ти лудо, текнува",
+       "lat": "- Teknuva le ti ludo, teknuva",
+       "en": "- Do you know, you rascal"
+      },
+      {
+       "cyr": "та зашто ти често мори доодам?",
+       "lat": "ta zašto ti često mori doodam?",
+       "en": "why do I come to you so often?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Текнува ми ле лудо, текнува,",
+       "lat": "- Teknuva mi le ludo, teknuva,",
+       "en": "- I know, you rascal, I know,"
+      },
+      {
+       "cyr": "ама сум си малој мори, малечко.",
+       "lat": "ama sum si maloj mori, malečko.",
+       "en": "but I am just a little girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако си малој мори, малечко,",
+       "lat": "- Ako si maloj mori, malečko,",
+       "en": "- If you are \"just a little girl\","
+      },
+      {
+       "cyr": "та што ќе ти алтан1 мори на чело,",
+       "lat": "ta što ḱe ti altan1 mori na čelo,",
+       "en": "then why do you have a gold coin on your forehead,"
+      },
+      {
+       "cyr": "на бело грло мори ѓерданче?",
+       "lat": "na belo grlo mori ǵerdanče?",
+       "en": "and a necklace on your white neck?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На рамна снага мори фустанче,",
+       "lat": "Na ramna snaga mori fustanče,",
+       "en": "On your slender body you wear a dress,"
+      },
+      {
+       "cyr": "на тенка половина доламче2.",
+       "lat": "na tenka polovina dolamče2.",
+       "en": "over your thin belly, a felt dress."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

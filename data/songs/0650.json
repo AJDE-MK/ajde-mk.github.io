@@ -1,0 +1,200 @@
+{
+ "id": 650,
+ "slug": "dremka-mi-se-dremi",
+ "title_cyr": "Дремка ми се дреми",
+ "title_latin": "Dremka mi se dremi",
+ "title_en": "I am sleepy",
+ "pesna_url": "https://pesna.org/song/650",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алексо Димов",
+  "Костадин Гугов",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/414"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/415"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/416"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/2152"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/3108"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/3151"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/4207"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Дремка ми се дреме мила мамо,",
+       "lat": "- Dremka mi se dreme mila mamo,",
+       "en": "- I am sleepy, mother dear",
+       "en_mt": false
+      },
+      {
+       "cyr": "на црниве очи.",
+       "lat": "na crnive oči.",
+       "en": "my black eyes are tired.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, дремка ми се дреме мила мамо,",
+       "lat": "Aj, dremka mi se dreme mila mamo,",
+       "en": "- I am sleepy, mother dear",
+       "en_mt": false
+      },
+      {
+       "cyr": "на црниве очи.",
+       "lat": "na crnive oči.",
+       "en": "my black eyes are tired.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако ти се дреме мили сине,",
+       "lat": "- Ako ti se dreme mili sine,",
+       "en": "- If you are sleepy, dear son,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вечерај, па легни.",
+       "lat": "večeraj, pa legni.",
+       "en": "have a dinner and go to bed.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, ако ти се дреме мили сине,",
+       "lat": "Aj, ako ti se dreme mili sine,",
+       "en": "- If you are sleepy, dear son,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вечерај, па легни.",
+       "lat": "večeraj, pa legni.",
+       "en": "have a dinner and go to bed.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде и да легнам мила мамо,",
+       "lat": "- Ajde i da legnam mila mamo,",
+       "en": "- Oh, even if I lie down, my dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сон не ме фаќа.",
+       "lat": "son ne me faḱa.",
+       "en": "dreams don't catch me.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, сон не ме фаќа мила мамо,",
+       "lat": "Aj, son ne me faḱa mila mamo,",
+       "en": "Oh, dreams don't catch me, my dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за мојто комшиче.",
+       "lat": "za mojto komšiče.",
+       "en": "for my neighbor.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Иди ја посакај мила мамо,",
+       "lat": "Idi ja posakaj mila mamo,",
+       "en": "Go and ask for her hand, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дал' ќе ти ја дадат.",
+       "lat": "dal' ḱe ti ja dadat.",
+       "en": "see if they give her to you.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, иди ја посакај мила мамо,",
+       "lat": "Aj, idi ja posakaj mila mamo,",
+       "en": "Go and ask for her hand, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дал' ќе ти ја дадат.",
+       "lat": "dal' ḱe ti ja dadat.",
+       "en": "see if they give her to you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ти ја дадат мила мамо,",
+       "lat": "Ako ti ja dadat mila mamo,",
+       "en": "If they give her to you, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на пајтон ја качи.",
+       "lat": "na pajton ja kači.",
+       "en": "bring her over on a carriage.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ај, ако не ја дадат мила мамо,",
+       "lat": "Aj, ako ne ja dadat mila mamo,",
+       "en": "Oh, if they don't give her to you, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "постој, погледај ја.",
+       "lat": "postoj, pogledaj ja.",
+       "en": "stay for a while, look at her.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

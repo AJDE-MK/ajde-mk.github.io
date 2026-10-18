@@ -1,0 +1,267 @@
+{
+ "id": 1506,
+ "slug": "elaj-riste-elaj",
+ "title_cyr": "Елај Ристе, елај",
+ "title_latin": "Elaj Riste, elaj",
+ "title_en": "Come, Riste, come",
+ "pesna_url": "https://pesna.org/song/1506",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Two versions of a courting song; 'јас кај тебе Ристе на душа' in version one is my reading (roughly 'with you, at heart'). Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "елај",
+   "en": "come (dialect imperative)"
+  },
+  {
+   "mk": "у назе",
+   "en": "to our place (dialect)"
+  },
+  {
+   "mk": "раздава за душа",
+   "en": "gives alms for the soul of the dead"
+  },
+  {
+   "mk": "пенџер",
+   "en": "window"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "севдо",
+   "en": "love, beloved"
+  },
+  {
+   "mk": "душман",
+   "en": "enemy, ill-wisher"
+  },
+  {
+   "mk": "круша",
+   "en": "pear tree"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "горно село",
+   "en": "upper village"
+  }
+ ],
+ "performers": [
+  "Бапчорки",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Марија Димкова"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/3933"
+  },
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/3934"
+  },
+  {
+   "who": "Марија Димкова",
+   "url": "https://pesna.org/audio-download/3935"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3936"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Елај Ристе, елај у назе,",
+       "lat": "- Elaj Riste, elaj u naze,",
+       "en": "- Come, Riste, come to our place,"
+      },
+      {
+       "cyr": "мајка ми ќе оди на цркви.",
+       "lat": "majka mi ḱe odi na crkvi.",
+       "en": "my mother will go to church."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму ќе раздава за душа,",
+       "lat": "Tamu ḱe razdava za duša,",
+       "en": "There she will give alms for the soul,"
+      },
+      {
+       "cyr": "јас кај тебе Ристе на душа.",
+       "lat": "jas kaj tebe Riste na duša.",
+       "en": "and I, Riste, will be with you, at heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Елај, ела Ристе до вечер,",
+       "lat": "Elaj, ela Riste do večer,",
+       "en": "Come, come, Riste, by evening,"
+      },
+      {
+       "cyr": "ќе те чекам Ристе под пенџер.",
+       "lat": "ḱe te čekam Riste pod pendžer.",
+       "en": "I will wait for you, Riste, under the window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ми ќе оди на гости,",
+       "lat": "Majka mi ḱe odi na gosti,",
+       "en": "My mother will go visiting,"
+      },
+      {
+       "cyr": "јас со тебе Ристе крај порти.",
+       "lat": "jas so tebe Riste kraj porti.",
+       "en": "I will be with you, Riste, by the gate."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Елај Ристе, елај у назе,",
+       "lat": "- Elaj Riste, elaj u naze,",
+       "en": "- Come, Riste, come to our place,"
+      },
+      {
+       "cyr": "јелај Ристе, јелај ју назе.",
+       "lat": "jelaj Riste, jelaj ju naze.",
+       "en": "come, Riste, come to our place."
+      },
+      {
+       "cyr": "- Нејќам Доно, нејќам, не идам,",
+       "lat": "- Nejḱam Dono, nejḱam, ne idam,",
+       "en": "- I don't want to, Dona, I won't come,"
+      },
+      {
+       "cyr": "нејќам севдо нејќам, не идам, не идам.",
+       "lat": "nejḱam sevdo nejḱam, ne idam, ne idam.",
+       "en": "I don't want to, love, I won't come, I won't come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ти е дома, Донке ле,",
+       "lat": "Majka ti e doma, Donke le,",
+       "en": "Your mother is at home, Donka, oh,"
+      },
+      {
+       "cyr": "мајка ти е дома, севдо ле.",
+       "lat": "majka ti e doma, sevdo le.",
+       "en": "your mother is at home, love, oh."
+      },
+      {
+       "cyr": "- Мајка ми отиде на црква,",
+       "lat": "- Majka mi otide na crkva,",
+       "en": "- My mother went to church,"
+      },
+      {
+       "cyr": "мајка ми отиде на црква, на црква.",
+       "lat": "majka mi otide na crkva, na crkva.",
+       "en": "my mother went to church, to church."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да раздава, Ристе, за душа,",
+       "lat": "Da razdava, Riste, za duša,",
+       "en": "To give alms, Riste, for the soul,"
+      },
+      {
+       "cyr": "да раздава, Ристе, за душа, за душа,",
+       "lat": "da razdava, Riste, za duša, za duša,",
+       "en": "to give alms, Riste, for the soul, for the soul,"
+      },
+      {
+       "cyr": "ние со тебе Ристе под круша, под круша.",
+       "lat": "nie so tebe Riste pod kruša, pod kruša.",
+       "en": "and you and I, Riste, under the pear tree, under the pear tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко ми отиде в' планина,",
+       "lat": "Tatko mi otide v' planina,",
+       "en": "My father went to the mountain,"
+      },
+      {
+       "cyr": "татко ми отиде в' планина, в' планина,",
+       "lat": "tatko mi otide v' planina, v' planina,",
+       "en": "my father went to the mountain, to the mountain,"
+      },
+      {
+       "cyr": "ние со тебе Ристе в' градина,",
+       "lat": "nie so tebe Riste v' gradina,",
+       "en": "and you and I, Riste, in the garden,"
+      },
+      {
+       "cyr": "ние со тебе Ристе в' градина, в' градина.",
+       "lat": "nie so tebe Riste v' gradina, v' gradina.",
+       "en": "and you and I, Riste, in the garden, in the garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе разберат горно селаните,",
+       "lat": "- Ḱe razberat gorno selanite,",
+       "en": "- The upper villagers will find out,"
+      },
+      {
+       "cyr": "ќе се смеат севдо душманите, душманите.",
+       "lat": "ḱe se smeat sevdo dušmanite, dušmanite.",
+       "en": "the enemies will laugh, love, the enemies."
+      },
+      {
+       "cyr": "- Кога ќе разберат селаните,",
+       "lat": "- Koga ḱe razberat selanite,",
+       "en": "- When the villagers find out,"
+      },
+      {
+       "cyr": "ние ќе смениме прстените, прстените.",
+       "lat": "nie ḱe smenime prstenite, prstenite.",
+       "en": "we will exchange rings, the rings."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

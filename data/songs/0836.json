@@ -1,0 +1,128 @@
+{
+ "id": 836,
+ "slug": "kiten-mi-kiten-devere",
+ "title_cyr": "Китен ми, китен девере",
+ "title_latin": "Kiten mi, kiten devere",
+ "title_en": "Adorned dever",
+ "pesna_url": "https://pesna.org/song/836",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1780"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Китен ми, китен девере,",
+       "lat": "Kiten mi, kiten devere,",
+       "en": "Adorned dever*,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој ми те така накити,",
+       "lat": "koj mi te taka nakiti,",
+       "en": "who has adorned you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "та ми те тука испрати,",
+       "lat": "ta mi te tuka isprati,",
+       "en": "and sent you here",
+       "en_mt": false
+      },
+      {
+       "cyr": "во наше село, по мома?",
+       "lat": "vo naše selo, po moma?",
+       "en": "to the girls in our village?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Сестра ме така накити,",
+       "lat": "- Sestra me taka nakiti,",
+       "en": "- My sister adorned me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка ме тука испрати,",
+       "lat": "majka me tuka isprati,",
+       "en": "my mother sent me here,",
+       "en_mt": false
+      },
+      {
+       "cyr": "девер да бидам на мома,",
+       "lat": "dever da bidam na moma,",
+       "en": "to be a dever to a bride",
+       "en_mt": false
+      },
+      {
+       "cyr": "за мојто братче помало.",
+       "lat": "za mojto bratče pomalo.",
+       "en": "for my little brother.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бегај од тука, девере,",
+       "lat": "Begaj od tuka, devere,",
+       "en": "- Run from here, dever,",
+       "en_mt": false
+      },
+      {
+       "cyr": "девере, Башино селски,",
+       "lat": "devere, Bašino selski,",
+       "en": "dever from Bashino village,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нашите моми убави",
+       "lat": "našite momi ubavi",
+       "en": "our beautiful girls",
+       "en_mt": false
+      },
+      {
+       "cyr": "не љубат момци туѓинци,",
+       "lat": "ne ljubat momci tuǵinci,",
+       "en": "won't love foreign boys,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тук' љубат млади ергени",
+       "lat": "tuk' ljubat mladi ergeni",
+       "en": "they love young lads",
+       "en_mt": false
+      },
+      {
+       "cyr": "од наше село големо.",
+       "lat": "od naše selo golemo.",
+       "en": "from our own big village.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

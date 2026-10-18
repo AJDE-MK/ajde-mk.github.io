@@ -1,0 +1,195 @@
+{
+ "id": 1094,
+ "slug": "stojane-makedonski-vojvodo",
+ "title_cyr": "Стојане, македонски војводо",
+ "title_latin": "Stojane, makedonski vojvodo",
+ "title_en": "Stojan, Macedonian voivode",
+ "pesna_url": "https://pesna.org/song/1094",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional revolutionary (komita) song. 'Чифте пиштоле' as 'double-barreled pistols' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "като",
+   "en": "when (dialect, = кога)"
+  },
+  {
+   "mk": "ќе ј'умреш",
+   "en": "you will die (dialect, = ќе умреш)"
+  },
+  {
+   "mk": "носи",
+   "en": "carries"
+  },
+  {
+   "mk": "тенка пушка",
+   "en": "slender rifle"
+  },
+  {
+   "mk": "чифте пиштоле",
+   "en": "pair of pistols"
+  },
+  {
+   "mk": "острата сабја",
+   "en": "the sharp sabre"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel band leader"
+  },
+  {
+   "mk": "браќа",
+   "en": "brothers"
+  }
+ ],
+ "performers": [
+  "Марија Луковска - Чибариќ",
+  "Трајче Веселинов"
+ ],
+ "audio": [
+  {
+   "who": "Марија Луковска - Чибариќ, Трајче Веселинов",
+   "url": "https://pesna.org/audio-download/2611"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Като ќе ј'умреш кој ќе ти носи,",
+       "lat": "- Kato ḱe j'umreš koj ḱe ti nosi,",
+       "en": "- When you die, who will carry,"
+      },
+      {
+       "cyr": "кој ќе ти носи тенката пушка,",
+       "lat": "koj ḱe ti nosi tenkata puška,",
+       "en": "who will carry your slender rifle,"
+      },
+      {
+       "cyr": "Стојане, македонски војводо,",
+       "lat": "Stojane, makedonski vojvodo,",
+       "en": "Stojan, Macedonian voivode,"
+      },
+      {
+       "cyr": "Стојане, македонски војводо?",
+       "lat": "Stojane, makedonski vojvodo?",
+       "en": "Stojan, Macedonian voivode?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нека ја носи брат ми Никола,",
+       "lat": "- Neka ja nosi brat mi Nikola,",
+       "en": "- Let my brother Nikola carry it,"
+      },
+      {
+       "cyr": "за мене, мили браќа за мене,",
+       "lat": "za mene, mili braḱa za mene,",
+       "en": "for me, dear brothers, for me,"
+      },
+      {
+       "cyr": "за мене, мили браќа за мене.",
+       "lat": "za mene, mili braḱa za mene.",
+       "en": "for me, dear brothers, for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Като ќе ј'умреш кој ќе ти носи,",
+       "lat": "- Kato ḱe j'umreš koj ḱe ti nosi,",
+       "en": "- When you die, who will carry,"
+      },
+      {
+       "cyr": "кој ќе ти носи чифте пиштоле,",
+       "lat": "koj ḱe ti nosi čifte pištole,",
+       "en": "who will carry your double-barreled pistols,"
+      },
+      {
+       "cyr": "Стојане, македонски војводо,",
+       "lat": "Stojane, makedonski vojvodo,",
+       "en": "Stojan, Macedonian voivode,"
+      },
+      {
+       "cyr": "Стојане, македонски војводо?",
+       "lat": "Stojane, makedonski vojvodo?",
+       "en": "Stojan, Macedonian voivode?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нека ги носи Гоце ми Делчев,",
+       "lat": "- Neka gi nosi Goce mi Delčev,",
+       "en": "- Let Goce Delchev carry them,"
+      },
+      {
+       "cyr": "за него, мили браќа за него,",
+       "lat": "za nego, mili braḱa za nego,",
+       "en": "for him, dear brothers, for him,"
+      },
+      {
+       "cyr": "за него, мили браќа за него.",
+       "lat": "za nego, mili braḱa za nego.",
+       "en": "for him, dear brothers, for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Като ќе ј'умреш кој ќе ти носи,",
+       "lat": "- Kato ḱe j'umreš koj ḱe ti nosi,",
+       "en": "- When you die, who will carry,"
+      },
+      {
+       "cyr": "кој ќе ти носи острата сабја,",
+       "lat": "koj ḱe ti nosi ostrata sabja,",
+       "en": "who will carry your sharp sabre,"
+      },
+      {
+       "cyr": "Стојане, македонски војводо,",
+       "lat": "Stojane, makedonski vojvodo,",
+       "en": "Stojan, Macedonian voivode,"
+      },
+      {
+       "cyr": "Стојане, македонски војводо?",
+       "lat": "Stojane, makedonski vojvodo?",
+       "en": "Stojan, Macedonian voivode?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нека ја носи Јане Сандански,",
+       "lat": "- Neka ja nosi Jane Sandanski,",
+       "en": "- Let Jane Sandanski carry it,"
+      },
+      {
+       "cyr": "за него, мили браќа за него,",
+       "lat": "za nego, mili braḱa za nego,",
+       "en": "for him, dear brothers, for him,"
+      },
+      {
+       "cyr": "за него, мили браќа за сите.",
+       "lat": "za nego, mili braḱa za site.",
+       "en": "for him, dear brothers, for all."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

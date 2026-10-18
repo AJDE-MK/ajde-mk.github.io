@@ -1,0 +1,185 @@
+{
+ "id": 892,
+ "slug": "ajde-ne-ti-lichi-dafino-mome",
+ "title_cyr": "Ајде не ти личи Дафино моме",
+ "title_latin": "Ajde ne ti liči Dafino mome",
+ "title_en": "It does not suit you, Dafina, girl",
+ "pesna_url": "https://pesna.org/song/892",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). 'каурка' is a dialect word I am unsure of; my reading is a peasant woman (possibly from 'gavur', non-Muslim). 'налани' read as wooden clogs.",
+ "words_to_learn": [
+  {
+   "mk": "личи",
+   "en": "suits, becomes (someone)"
+  },
+  {
+   "mk": "каурка",
+   "en": "peasant woman, villager (my reading)"
+  },
+  {
+   "mk": "жетва",
+   "en": "harvest"
+  },
+  {
+   "mk": "жешко",
+   "en": "hot, scorching"
+  },
+  {
+   "mk": "боса",
+   "en": "barefoot"
+  },
+  {
+   "mk": "налани",
+   "en": "wooden clogs"
+  },
+  {
+   "mk": "анама",
+   "en": "lady (Turkish hanim)"
+  },
+  {
+   "mk": "сарај",
+   "en": "palace"
+  },
+  {
+   "mk": "нижиш",
+   "en": "you string (beads)"
+  },
+  {
+   "mk": "жолтици",
+   "en": "gold coins"
+  }
+ ],
+ "performers": [
+  "Александра Поповска",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Драган Даутовски квартет",
+  "Стојан Андонов"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1960"
+  },
+  {
+   "who": "Стојан Андонов",
+   "url": "https://pesna.org/audio-download/2647"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3516"
+  },
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/3807"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде не ти личи, Дафино моме",
+       "lat": "- Ajde ne ti liči, Dafino mome",
+       "en": "- Come on, it does not suit you, Dafina, girl"
+      },
+      {
+       "cyr": "каурка да бидиш,",
+       "lat": "kaurka da bidiš,",
+       "en": "to be a peasant woman,"
+      },
+      {
+       "cyr": "ај, каурка ти да бидеш, 'Финој моме,",
+       "lat": "aj, kaurka ti da bideš, 'Finoj mome,",
+       "en": "hey, for you to be a peasant woman, Dafina girl,"
+      },
+      {
+       "cyr": "на жетва да одиш.",
+       "lat": "na žetva da odiš.",
+       "en": "and go to the harvest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај на жетва д' одиш, Дафиној моме,",
+       "lat": "Aj na žetva d' odiš, Dafinoj mome,",
+       "en": "Hey, to go to the harvest, Dafina girl,"
+      },
+      {
+       "cyr": "по жешкото сонце.",
+       "lat": "po žeškoto sonce.",
+       "en": "in the scorching sun."
+      },
+      {
+       "cyr": "Ај, по жешко сонце, Дафиној моме,",
+       "lat": "Aj, po žeško sonce, Dafinoj mome,",
+       "en": "Hey, in the scorching sun, Dafina girl,"
+      },
+      {
+       "cyr": "боса, на налани.",
+       "lat": "bosa, na nalani.",
+       "en": "barefoot, in wooden clogs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај тебе ти личи, Дафиној моме,",
+       "lat": "Aj tebe ti liči, Dafinoj mome,",
+       "en": "Hey, it suits you, Dafina girl,"
+      },
+      {
+       "cyr": "анама да бидиш.",
+       "lat": "anama da bidiš.",
+       "en": "to be a lady,"
+      },
+      {
+       "cyr": "Ај, анама ти да бидеш, 'Финој моме,",
+       "lat": "Aj, anama ti da bideš, 'Finoj mome,",
+       "en": "hey, for you to be a lady, Dafina girl,"
+      },
+      {
+       "cyr": "на сарај да седиш.",
+       "lat": "na saraj da sediš.",
+       "en": "and sit in the palace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, на сарај ти да седиш, 'Финој моме,",
+       "lat": "Aj, na saraj ti da sediš, 'Finoj mome,",
+       "en": "Hey, for you to sit in the palace, Dafina girl,"
+      },
+      {
+       "cyr": "бисер ти да нижиш.",
+       "lat": "biser ti da nižiš.",
+       "en": "and string pearls,"
+      },
+      {
+       "cyr": "Ај, бисери ти да нижеш, 'Финој моме,",
+       "lat": "Aj, biseri ti da nižeš, 'Finoj mome,",
+       "en": "hey, for you to string pearls, Dafina girl,"
+      },
+      {
+       "cyr": "жолтици да броиш.",
+       "lat": "žoltici da broiš.",
+       "en": "and count gold coins."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

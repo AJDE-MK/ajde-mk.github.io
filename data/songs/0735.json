@@ -1,0 +1,220 @@
+{
+ "id": 735,
+ "slug": "iznikna-mi-badem-drvo",
+ "title_cyr": "Изникна ми бадем дрво",
+ "title_latin": "Iznikna mi badem drvo",
+ "title_en": "An Almond Tree Grew Up for Me",
+ "pesna_url": "https://pesna.org/song/735",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Аман' is rendered as 'oh mercy', an exclamation. 'Руба' is read as clothes/garments (my reading; it can also mean property or goods).",
+ "words_to_learn": [
+  {
+   "mk": "бадем",
+   "en": "almond"
+  },
+  {
+   "mk": "дрво",
+   "en": "tree"
+  },
+  {
+   "mk": "тенко",
+   "en": "slender, thin"
+  },
+  {
+   "mk": "високо",
+   "en": "tall, high"
+  },
+  {
+   "mk": "се грлат",
+   "en": "they embrace"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes, garments"
+  },
+  {
+   "mk": "најмило",
+   "en": "dearest"
+  },
+  {
+   "mk": "љубовта",
+   "en": "love (the love)"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Лили Цветкова",
+  "Татиана Сарбинска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/960"
+  },
+  {
+   "who": "Татиана Сарбинска",
+   "url": "https://pesna.org/audio-download/3437"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/3438"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/3439"
+  },
+  {
+   "who": "Лили Цветкова",
+   "url": "https://pesna.org/audio-download/3440"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, изникна ми бадем дрво,",
+       "lat": "Aj, iznikna mi badem drvo,",
+       "en": "Oh, an almond tree grew up for me,"
+      },
+      {
+       "cyr": "тенко, високо,",
+       "lat": "tenko, visoko,",
+       "en": "slender, tall,"
+      },
+      {
+       "cyr": "ај изникна ми бадем дрво,",
+       "lat": "aj iznikna mi badem drvo,",
+       "en": "oh, an almond tree grew up for me,"
+      },
+      {
+       "cyr": "тенко, високо, тенко, високо.",
+       "lat": "tenko, visoko, tenko, visoko.",
+       "en": "slender, tall, slender, tall."
+      },
+      {
+       "cyr": "Ај изникна ми бадем дрво,",
+       "lat": "Aj iznikna mi badem drvo,",
+       "en": "Oh, an almond tree grew up for me,"
+      },
+      {
+       "cyr": "тенко, високо, тенко, високо.",
+       "lat": "tenko, visoko, tenko, visoko.",
+       "en": "slender, tall, slender, tall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај и под дрво, младо момче,",
+       "lat": "Aj i pod drvo, mlado momče,",
+       "en": "Oh, and under the tree, a young lad"
+      },
+      {
+       "cyr": "со девојченце,",
+       "lat": "so devojčence,",
+       "en": "with a little girl,"
+      },
+      {
+       "cyr": "ај и под дрво, младо момче,",
+       "lat": "aj i pod drvo, mlado momče,",
+       "en": "oh, and under the tree, a young lad"
+      },
+      {
+       "cyr": "со девојченце, со девојченце.",
+       "lat": "so devojčence, so devojčence.",
+       "en": "with a little girl, with a little girl."
+      },
+      {
+       "cyr": "Ај, ем се љубат, ем се грлат,",
+       "lat": "Aj, em se ljubat, em se grlat,",
+       "en": "Oh, they both kiss and embrace,"
+      },
+      {
+       "cyr": "ем си зборуваат, ем си зборуваат.",
+       "lat": "em si zboruvaat, em si zboruvaat.",
+       "en": "and they talk together, and they talk together."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Ај, кажи мила, кажи душо,",
+       "lat": "- „Aj, kaži mila, kaži dušo,",
+       "en": "- 'Oh, tell me, dear, tell me, my soul,"
+      },
+      {
+       "cyr": "што е најпрво,",
+       "lat": "što e najprvo,",
+       "en": "what is the first thing,"
+      },
+      {
+       "cyr": "ај, кажи мила, кажи душо,",
+       "lat": "aj, kaži mila, kaži dušo,",
+       "en": "oh, tell me, dear, tell me, my soul,"
+      },
+      {
+       "cyr": "што е најмило, аман на светот?",
+       "lat": "što e najmilo, aman na svetot?",
+       "en": "what is dearest, oh mercy, in the world?"
+      },
+      {
+       "cyr": "Ај, дали пари, или руба,",
+       "lat": "Aj, dali pari, ili ruba,",
+       "en": "Oh, is it money, or clothes,"
+      },
+      {
+       "cyr": "ил' па љубовта, ил' па љубовта“?",
+       "lat": "il' pa ljubovta, il' pa ljubovta“?",
+       "en": "or else love, or else love?'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Ај, ниту пари, ниту руба,",
+       "lat": "- „Aj, nitu pari, nitu ruba,",
+       "en": "- 'Oh, neither money nor clothes,"
+      },
+      {
+       "cyr": "само љубовта,",
+       "lat": "samo ljubovta,",
+       "en": "only love,"
+      },
+      {
+       "cyr": "ај, ниту пари, ниту руба,",
+       "lat": "aj, nitu pari, nitu ruba,",
+       "en": "oh, neither money nor clothes,"
+      },
+      {
+       "cyr": "само љубовта, само љубовта.",
+       "lat": "samo ljubovta, samo ljubovta.",
+       "en": "only love, only love."
+      },
+      {
+       "cyr": "Ај, ниту пари, ниту руба,",
+       "lat": "Aj, nitu pari, nitu ruba,",
+       "en": "Oh, neither money nor clothes,"
+      },
+      {
+       "cyr": "само љубовта, само љубовта“.",
+       "lat": "samo ljubovta, samo ljubovta“.",
+       "en": "only love, only love.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

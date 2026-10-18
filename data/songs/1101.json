@@ -1,0 +1,137 @@
+{
+ "id": 1101,
+ "slug": "nad-pirina-jasno-sonce",
+ "title_cyr": "Над Пирина јасно сонце",
+ "title_latin": "Nad Pirina jasno sonce",
+ "title_en": "Above Pirin",
+ "pesna_url": "https://pesna.org/song/1101",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Видим'' is 'видиме' (we see) with elided ending; 'ајде' style forms are dialect, 'проговарат' and 'играт' are dialect third person plural.",
+ "words_to_learn": [
+  {
+   "mk": "јасно сонце",
+   "en": "bright sun"
+  },
+  {
+   "mk": "огрејало",
+   "en": "has shone"
+  },
+  {
+   "mk": "верна чета",
+   "en": "faithful band (of fighters)"
+  },
+  {
+   "mk": "јунаци",
+   "en": "heroes, brave men"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, leader"
+  },
+  {
+   "mk": "заведи",
+   "en": "lead (us) into"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "проговарат",
+   "en": "they speak (dialect form)"
+  }
+ ],
+ "performers": [
+  "Извор"
+ ],
+ "audio": [
+  {
+   "who": "Извор",
+   "url": "https://pesna.org/audio-download/2642"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Над Пирина, над Пирина, еј,",
+       "lat": "Nad Pirina, nad Pirina, ej,",
+       "en": "Above Pirin, above Pirin, hey,"
+      },
+      {
+       "cyr": "јасно сонце огрејало,",
+       "lat": "jasno sonce ogrejalo,",
+       "en": "the bright sun has shone,"
+      },
+      {
+       "cyr": "во гората млади Стојан е",
+       "lat": "vo gorata mladi Stojan e",
+       "en": "in the forest is young Stojan"
+      },
+      {
+       "cyr": "со неговата верна чета.",
+       "lat": "so negovata verna četa.",
+       "en": "with his faithful band."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јунаци му проговарат:",
+       "lat": "Junaci mu progovarat:",
+       "en": "The heroes say to him:"
+      },
+      {
+       "cyr": "- Еј, Стојане, наш војводо,",
+       "lat": "- Ej, Stojane, naš vojvodo,",
+       "en": "- Hey, Stojan, our voivode,"
+      },
+      {
+       "cyr": "заведи нè во селото, еј,",
+       "lat": "zavedi nè vo seloto, ej,",
+       "en": "lead us into the village, hey,"
+      },
+      {
+       "cyr": "во селото, убавото.",
+       "lat": "vo seloto, ubavoto.",
+       "en": "into the village, the beautiful one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се видим' с' малки моми, еј,",
+       "lat": "Da se vidim' s' malki momi, ej,",
+       "en": "Let us see the young girls, hey,"
+      },
+      {
+       "cyr": "с' малки моми, на орото,",
+       "lat": "s' malki momi, na oroto,",
+       "en": "the young girls, at the dance,"
+      },
+      {
+       "cyr": "над Пирина, над Пирина, еј,",
+       "lat": "nad Pirina, nad Pirina, ej,",
+       "en": "above Pirin, above Pirin, hey,"
+      },
+      {
+       "cyr": "јасно сонце огрејало.",
+       "lat": "jasno sonce ogrejalo.",
+       "en": "the bright sun has shone."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

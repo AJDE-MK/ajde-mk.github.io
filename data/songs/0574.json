@@ -1,0 +1,227 @@
+{
+ "id": 574,
+ "slug": "gledaj-me-gledaj-libe",
+ "title_cyr": "Гледај ме, гледај либе",
+ "title_latin": "Gledaj me, gledaj libe",
+ "title_en": "Look at Me, Look, Beloved",
+ "pesna_url": "https://pesna.org/song/574",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Partisan-era song. 'ќ' одам' is a contracted 'ќе одам'; 'ѕверој фашисти' read as 'beastly fascists', my reading. Славеј Планина and Караорман are place names as written.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "beloved, sweetheart"
+  },
+  {
+   "mk": "верно",
+   "en": "faithful"
+  },
+  {
+   "mk": "нагледај ми се",
+   "en": "look your fill of me"
+  },
+  {
+   "mk": "заминвам",
+   "en": "I leave, I depart"
+  },
+  {
+   "mk": "партизан",
+   "en": "partisan"
+  },
+  {
+   "mk": "славна",
+   "en": "glorious"
+  },
+  {
+   "mk": "опљачкале",
+   "en": "they plundered"
+  },
+  {
+   "mk": "ѕверој",
+   "en": "beasts (dialect plural)"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Елена Велевска",
+  "Октет Македонија",
+  "Славна Дебарца",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Славна Дебарца",
+   "url": "https://pesna.org/audio-download/403"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/404"
+  },
+  {
+   "who": "Елена Велевска, Чардак",
+   "url": "https://pesna.org/audio-download/2768"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/3704"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Гледај ме, гледај либе",
+       "lat": "Gledaj me, gledaj libe",
+       "en": "Look at me, look, beloved,"
+      },
+      {
+       "cyr": "гледај ме, гледај, ах верно либе",
+       "lat": "gledaj me, gledaj, ah verno libe",
+       "en": "look at me, look, oh faithful beloved,"
+      },
+      {
+       "cyr": "нагледај ми се.",
+       "lat": "nagledaj mi se.",
+       "en": "look your fill of me."
+      },
+      {
+       "cyr": "Денес сум тука либе",
+       "lat": "Denes sum tuka libe",
+       "en": "Today I am here, beloved,"
+      },
+      {
+       "cyr": "денес сум тука",
+       "lat": "denes sum tuka",
+       "en": "today I am here,"
+      },
+      {
+       "cyr": "денес сум тука ах, верно либе",
+       "lat": "denes sum tuka ah, verno libe",
+       "en": "today I am here, oh faithful beloved,"
+      },
+      {
+       "cyr": "утре заминвам.",
+       "lat": "utre zaminvam.",
+       "en": "tomorrow I leave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Партизан ќ' одам либе",
+       "lat": "Partizan ḱ' odam libe",
+       "en": "I will go as a partisan, beloved,"
+      },
+      {
+       "cyr": "Партизан ќ' одам",
+       "lat": "Partizan ḱ' odam",
+       "en": "I will go as a partisan,"
+      },
+      {
+       "cyr": "Партизан ќе одам ах, мило либе",
+       "lat": "Partizan ḱe odam ah, milo libe",
+       "en": "I will go as a partisan, oh dear beloved,"
+      },
+      {
+       "cyr": "Славеј Планина.",
+       "lat": "Slavej Planina.",
+       "en": "to Slavej Planina."
+      },
+      {
+       "cyr": "Славеј Планина, либе",
+       "lat": "Slavej Planina, libe",
+       "en": "To Slavej Planina, beloved,"
+      },
+      {
+       "cyr": "Славеј Планина",
+       "lat": "Slavej Planina",
+       "en": "to Slavej Planina,"
+      },
+      {
+       "cyr": "Славеј Планина ах, мило либе",
+       "lat": "Slavej Planina ah, milo libe",
+       "en": "to Slavej Planina, oh dear beloved,"
+      },
+      {
+       "cyr": "во Караорман.",
+       "lat": "vo Karaorman.",
+       "en": "to Karaorman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од там' ќе гледам либе",
+       "lat": "Od tam' ḱe gledam libe",
+       "en": "From there I will look, beloved,"
+      },
+      {
+       "cyr": "Од там' ќе гледам",
+       "lat": "Od tam' ḱe gledam",
+       "en": "from there I will look,"
+      },
+      {
+       "cyr": "Од там' се гледа ах, верно либе",
+       "lat": "Od tam' se gleda ah, verno libe",
+       "en": "from there one sees, oh faithful beloved,"
+      },
+      {
+       "cyr": "славна Дебарца.",
+       "lat": "slavna Debarca.",
+       "en": "glorious Debarca,"
+      },
+      {
+       "cyr": "Славна Дебарца, либе",
+       "lat": "Slavna Debarca, libe",
+       "en": "glorious Debarca, beloved,"
+      },
+      {
+       "cyr": "славна Дебарца ах, верно либе",
+       "lat": "slavna Debarca ah, verno libe",
+       "en": "glorious Debarca, oh faithful beloved,"
+      },
+      {
+       "cyr": "сè изгорена.",
+       "lat": "sè izgorena.",
+       "en": "all burned."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја изгореле либе",
+       "lat": "Ja izgorele libe",
+       "en": "They burned it, beloved,"
+      },
+      {
+       "cyr": "ја опљачкале",
+       "lat": "ja opljačkale",
+       "en": "they plundered it,"
+      },
+      {
+       "cyr": "ја изгореле ах, верно либе",
+       "lat": "ja izgorele ah, verno libe",
+       "en": "they burned it, oh faithful beloved,"
+      },
+      {
+       "cyr": "ѕверој фашисти.",
+       "lat": "dzveroj fašisti.",
+       "en": "the beastly fascists."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

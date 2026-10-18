@@ -1,0 +1,135 @@
+{
+ "id": 1023,
+ "slug": "vrzale-go-marka-crveni-remenje",
+ "title_cyr": "Врзале го Марка црвени ремење",
+ "title_latin": "Vrzale go Marka crveni remenje",
+ "title_en": "They Bound Marko with Red Straps",
+ "pesna_url": "https://pesna.org/song/1023",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, tied to Easter customs in Struška Malesija per the source note. 'Мили вили' is my reading as a double endearment ('dear, good'); 'калдрми' I rendered as cobblestones.",
+ "words_to_learn": [
+  {
+   "mk": "врзале",
+   "en": "they bound"
+  },
+  {
+   "mk": "ремења",
+   "en": "straps, leather belts"
+  },
+  {
+   "mk": "милно",
+   "en": "tenderly, pitifully"
+  },
+  {
+   "mk": "се молеше",
+   "en": "was begging"
+  },
+  {
+   "mk": "пуштете",
+   "en": "release (plural)"
+  },
+  {
+   "mk": "плугој",
+   "en": "plough (dialect)"
+  },
+  {
+   "mk": "волој",
+   "en": "oxen (dialect)"
+  },
+  {
+   "mk": "чапраз",
+   "en": "ornamental belt buckle"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Врзале го Марка црвени ремење,",
+       "lat": "Vrzale go Marka crveni remenje,",
+       "en": "They bound Marko with red straps,"
+      },
+      {
+       "cyr": "по Марка одеше марковиот татко",
+       "lat": "po Marka odeše markoviot tatko",
+       "en": "Marko's father went after Marko"
+      },
+      {
+       "cyr": "и милно се молеше: - Мили вили Турци,",
+       "lat": "i milno se moleše: - Mili vili Turci,",
+       "en": "and tenderly begged: - Dear, good Turks,"
+      },
+      {
+       "cyr": "пуштете го Марка, за него давам",
+       "lat": "puštete go Marka, za nego davam",
+       "en": "release Marko, for him I give"
+      },
+      {
+       "cyr": "плугој сосе волој.",
+       "lat": "plugoj sose voloj.",
+       "en": "a plough together with the oxen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По Марка одеше неговата мајка,",
+       "lat": "Po Marka odeše negovata majka,",
+       "en": "Marko's mother went after Marko,"
+      },
+      {
+       "cyr": "по Марка одеше и милно се молеше:",
+       "lat": "po Marka odeše i milno se moleše:",
+       "en": "she went after Marko and tenderly begged:"
+      },
+      {
+       "cyr": "- Мили вили Турци, пуштете го Марка,",
+       "lat": "- Mili vili Turci, puštete go Marka,",
+       "en": "- Dear, good Turks, release Marko,"
+      },
+      {
+       "cyr": "за Марка давам стребрени калдрми.",
+       "lat": "za Marka davam strebreni kaldrmi.",
+       "en": "for Marko I give silver cobblestones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По Марка одеше марковата сестра,",
+       "lat": "Po Marka odeše markovata sestra,",
+       "en": "Marko's sister went after Marko,"
+      },
+      {
+       "cyr": "по Марка одеше, милно се молеше:",
+       "lat": "po Marka odeše, milno se moleše:",
+       "en": "she went after Marko, tenderly begged:"
+      },
+      {
+       "cyr": "- Мили вили Турци, пуштете го Марка,",
+       "lat": "- Mili vili Turci, puštete go Marka,",
+       "en": "- Dear, good Turks, release Marko,"
+      },
+      {
+       "cyr": "за Марка давам ковани чапрази.",
+       "lat": "za Marka davam kovani čaprazi.",
+       "en": "for Marko I give forged belt buckles."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

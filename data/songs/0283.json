@@ -1,0 +1,136 @@
+{
+ "id": 283,
+ "slug": "tatkovino-jugoslavijo",
+ "title_cyr": "Татковино Југославијо",
+ "title_latin": "Tatkovino Jugoslavijo",
+ "title_en": "Homeland Yugoslavia",
+ "pesna_url": "https://pesna.org/song/283",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Славка Младеновска",
+  "Mikawasshoi"
+ ],
+ "audio": [
+  {
+   "who": "Славка Младеновска",
+   "url": "https://pesna.org/audio-download/1067"
+  },
+  {
+   "who": "Mikawasshoi",
+   "url": "https://pesna.org/audio-download/2774"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "До небо ќе полетам, о доме мој",
+       "lat": "Do nebo ḱe poletam, o dome moj",
+       "en": "I will fly to the sky, oh my home,"
+      },
+      {
+       "cyr": "кога и да застанам",
+       "lat": "koga i da zastanam",
+       "en": "whenever I stand"
+      },
+      {
+       "cyr": "на прагот твој.",
+       "lat": "na pragot tvoj.",
+       "en": "on your doorstep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татковино, Југославијо",
+       "lat": "Tatkovino, Jugoslavijo",
+       "en": "Homeland, Yugoslavia,"
+      },
+      {
+       "cyr": "о, бескрајна убавино.",
+       "lat": "o, beskrajna ubavino.",
+       "en": "oh, endless beauty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Огниште ќе разгорам да падне жар",
+       "lat": "Ognište ḱe razgoram da padne žar",
+       "en": "I will turn on the fireplace until some coal drops,"
+      },
+      {
+       "cyr": "живот ќе ни изгасне",
+       "lat": "život ḱe ni izgasne",
+       "en": "our life will extinguish"
+      },
+      {
+       "cyr": "без таков дар.",
+       "lat": "bez takov dar.",
+       "en": "without such a gift."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татковино, Југославијо",
+       "lat": "Tatkovino, Jugoslavijo",
+       "en": "Homeland, Yugoslavia,"
+      },
+      {
+       "cyr": "о, бескрајна убавино.",
+       "lat": "o, beskrajna ubavino.",
+       "en": "oh, endless beauty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дождој да се истурат, ветер да пеј,",
+       "lat": "Doždoj da se isturat, veter da pej,",
+       "en": "Let the rain pour, let the wind sing,"
+      },
+      {
+       "cyr": "водата од извори",
+       "lat": "vodata od izvori",
+       "en": "let spring water"
+      },
+      {
+       "cyr": "в' срце да се леј.",
+       "lat": "v' srce da se lej.",
+       "en": "pour into the heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татковино, Југославијо",
+       "lat": "Tatkovino, Jugoslavijo",
+       "en": "Homeland, Yugoslavia,"
+      },
+      {
+       "cyr": "о, бескрајна убавино.",
+       "lat": "o, beskrajna ubavino.",
+       "en": "oh, endless beauty."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

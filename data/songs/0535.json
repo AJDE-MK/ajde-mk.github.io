@@ -1,0 +1,141 @@
+{
+ "id": 535,
+ "slug": "odam-odam-majchice",
+ "title_cyr": "Одам, одам мајчице",
+ "title_latin": "Odam, odam majčice",
+ "title_en": "I Go, I Go, Dear Mother",
+ "pesna_url": "https://pesna.org/song/535",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A young woman leaving home for a foreign land; origin unclear, I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "зраци",
+   "en": "rays"
+  },
+  {
+   "mk": "разбуди",
+   "en": "wake up (imperative)"
+  },
+  {
+   "mk": "далечен",
+   "en": "distant"
+  },
+  {
+   "mk": "прегратка",
+   "en": "embrace, hug"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "сама",
+   "en": "alone"
+  },
+  {
+   "mk": "среќа",
+   "en": "happiness, luck"
+  },
+  {
+   "mk": "судбина",
+   "en": "fate"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2881"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Штом ќе блеснат први зраци,",
+       "lat": "Štom ḱe blesnat prvi zraci,",
+       "en": "As soon as the first rays flash,"
+      },
+      {
+       "cyr": "мајко разбуди ме, моја,",
+       "lat": "majko razbudi me, moja,",
+       "en": "mother, wake me, my own,"
+      },
+      {
+       "cyr": "пат ме чека далечен,",
+       "lat": "pat me čeka dalečen,",
+       "en": "a distant road awaits me,"
+      },
+      {
+       "cyr": "прегратка дај ми сега твоја.",
+       "lat": "pregratka daj mi sega tvoja.",
+       "en": "give me your embrace now."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одам, одам мила мајчице,",
+       "lat": "Odam, odam mila majčice,",
+       "en": "I go, I go, dear mother,"
+      },
+      {
+       "cyr": "в' туѓина одам, ќе бидам сама.",
+       "lat": "v' tuǵina odam, ḱe bidam sama.",
+       "en": "I go to a foreign land, I will be alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Барам малку среќа јас,",
+       "lat": "Baram malku sreḱa jas,",
+       "en": "I am looking for a little happiness,"
+      },
+      {
+       "cyr": "судбата што ќе ми даде,",
+       "lat": "sudbata što ḱe mi dade,",
+       "en": "that fate will give me,"
+      },
+      {
+       "cyr": "што ли ме чека не знам ни сама",
+       "lat": "što li me čeka ne znam ni sama",
+       "en": "what awaits me I do not know myself,"
+      },
+      {
+       "cyr": "дал' ќе се вратам јас дома?",
+       "lat": "dal' ḱe se vratam jas doma?",
+       "en": "will I come back home?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одам, одам мила мајчице,",
+       "lat": "Odam, odam mila majčice,",
+       "en": "I go, I go, dear mother,"
+      },
+      {
+       "cyr": "в' туѓина одам, ќе бидам сама.",
+       "lat": "v' tuǵina odam, ḱe bidam sama.",
+       "en": "I go to a foreign land, I will be alone."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

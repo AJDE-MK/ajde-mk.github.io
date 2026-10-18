@@ -1,0 +1,172 @@
+{
+ "id": 914,
+ "slug": "promenila-mi-se-pandura-devojka",
+ "title_cyr": "Променила ми се Пандура девојка",
+ "title_latin": "Promenila mi se Pandura devojka",
+ "title_en": "Pandura the girl has changed",
+ "pesna_url": "https://pesna.org/song/914",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The meaning of 'променила се' (changed, possibly her mood or status) and 'Пандура' as a name are my reading. 'Во 'изба' is read as 'in the cellar'.",
+ "words_to_learn": [
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  },
+  {
+   "mk": "Ѓурѓовден",
+   "en": "St George's Day (6 May)"
+  },
+  {
+   "mk": "меанче",
+   "en": "little inn, tavern"
+  },
+  {
+   "mk": "чардак",
+   "en": "veranda, covered porch"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong brandy"
+  },
+  {
+   "mk": "шуревци",
+   "en": "brothers-in-law (wife's brothers)"
+  },
+  {
+   "mk": "вујчеви",
+   "en": "maternal uncles"
+  }
+ ],
+ "performers": [
+  "Анета Наковска",
+  "Вања Најденова",
+  "Васка Илиева",
+  "Елена Андоновска",
+  "Нелина",
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2025"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2026"
+  },
+  {
+   "who": "Анета Наковска",
+   "url": "https://pesna.org/audio-download/2027"
+  },
+  {
+   "who": "Вања Најденова",
+   "url": "https://pesna.org/audio-download/3304"
+  },
+  {
+   "who": "Елена Андоновска",
+   "url": "https://pesna.org/audio-download/3836"
+  },
+  {
+   "who": "Нелина",
+   "url": "https://pesna.org/audio-download/3837"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Променила ми се, мамо, Пандура девојка,",
+       "lat": "Promenila mi se, mamo, Pandura devojka,",
+       "en": "Pandura the girl has changed, mother,"
+      },
+      {
+       "cyr": "лани на Велигден, мила мамо,",
+       "lat": "lani na Veligden, mila mamo,",
+       "en": "last year at Easter, dear mother,"
+      },
+      {
+       "cyr": "сега на Ѓурѓовден.",
+       "lat": "sega na Ǵurǵovden.",
+       "en": "now at St George's Day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пусто останало, мамо, новото меанче,",
+       "lat": "- Pusto ostanalo, mamo, novoto meanče,",
+       "en": "- May it stay deserted, mother, the new inn,"
+      },
+      {
+       "cyr": "што го направија, мила мамо,",
+       "lat": "što go napravija, mila mamo,",
+       "en": "which they built, dear mother,"
+      },
+      {
+       "cyr": "спроти наш'та куќа.",
+       "lat": "sproti naš'ta kuḱa.",
+       "en": "opposite our house."
+      },
+      {
+       "cyr": "Спроти нашта куќа, мила мамо,",
+       "lat": "Sproti našta kuḱa, mila mamo,",
+       "en": "Opposite our house, dear mother,"
+      },
+      {
+       "cyr": "спроти наши чардак.",
+       "lat": "sproti naši čardak.",
+       "en": "opposite our veranda."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не можам, мамо, на чардак д' излезам,",
+       "lat": "Da ne možam, mamo, na čardak d' izlezam,",
+       "en": "So that I cannot, mother, go out onto the veranda,"
+      },
+      {
+       "cyr": "во двор да прошетам, мила мамо, во 'изба да влезам",
+       "lat": "vo dvor da prošetam, mila mamo, vo 'izba da vlezam",
+       "en": "walk in the yard, dear mother, go into the cellar"
+      },
+      {
+       "cyr": "вино да наточам, мила мамо, и лута ракија.",
+       "lat": "vino da natočam, mila mamo, i luta rakija.",
+       "en": "to pour wine, dear mother, and strong brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вино да наточам, мамо, и лута ракија,",
+       "lat": "Vino da natočam, mamo, i luta rakija,",
+       "en": "To pour wine, mother, and strong brandy,"
+      },
+      {
+       "cyr": "гости да пречекам, мила мамо, твојте мили браќа,",
+       "lat": "gosti da prečekam, mila mamo, tvojte mili braḱa,",
+       "en": "to welcome guests, dear mother, your dear brothers,"
+      },
+      {
+       "cyr": "патем и шуревци, мила мамо, мои мили вујчеви.",
+       "lat": "patem i šurevci, mila mamo, moi mili vujčevi.",
+       "en": "and also brothers-in-law, dear mother, my dear uncles."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

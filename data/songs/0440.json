@@ -1,0 +1,137 @@
+{
+ "id": 440,
+ "slug": "ajde-shto-ti-tekna-shto-pobegna",
+ "title_cyr": "Ајде што ти текна што побегна",
+ "title_latin": "Ajde što ti tekna što pobegna",
+ "title_en": "Come On, What Came Over You That You Ran Away",
+ "pesna_url": "https://pesna.org/song/440",
+ "background": "A cheeky wedding song. A young bride runs away from her marital home before dawn, and everyone guesses why: the house is fine, the father-in-law is a tame lamb, the mother-in-law is a hot snake. The real reason, the last verse says, is the young husband himself. It is played at weddings amid howls of laughter. A second version of the song is under #772.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Непропеани' I read as 'not yet crowed' (of roosters). No other guessed lines.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on"
+  },
+  {
+   "mk": "текна",
+   "en": "occurred to you, came over you"
+  },
+  {
+   "mk": "сабајле",
+   "en": "in the morning"
+  },
+  {
+   "mk": "бендиса",
+   "en": "liked, approved of (Turkish-origin)"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law (husband's father)"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law (husband's mother)"
+  },
+  {
+   "mk": "кротко",
+   "en": "gentle, meek"
+  },
+  {
+   "mk": "љута змија",
+   "en": "fierce snake"
+  }
+ ],
+ "performers": [
+  "Прилепски еснафи"
+ ],
+ "audio": [
+  {
+   "who": "Прилепски еснафи",
+   "url": "https://pesna.org/audio-download/1416"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде што ти текна што побегна",
+       "lat": "Ajde što ti tekna što pobegna",
+       "en": "Come on, what came over you that you ran away"
+      },
+      {
+       "cyr": "на сабајле во зорите?",
+       "lat": "na sabajle vo zorite?",
+       "en": "in the early morning at dawn?"
+      },
+      {
+       "cyr": "Ајде на сабајле во зорите",
+       "lat": "Ajde na sabajle vo zorite",
+       "en": "Come on, in the early morning at dawn,"
+      },
+      {
+       "cyr": "уште петли непропеани.",
+       "lat": "ušte petli nepropeani.",
+       "en": "when the roosters had not yet crowed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде дали куќа не бендиса,",
+       "lat": "Ajde dali kuḱa ne bendisa,",
+       "en": "Come on, did you not like the house,"
+      },
+      {
+       "cyr": "или свекор, ил' свекрва?",
+       "lat": "ili svekor, il' svekrva?",
+       "en": "or the father-in-law, or the mother-in-law?"
+      },
+      {
+       "cyr": "Ајде дали куќа не бендиса,",
+       "lat": "Ajde dali kuḱa ne bendisa,",
+       "en": "Come on, did you not like the house,"
+      },
+      {
+       "cyr": "или свекор, ил' свекрва?",
+       "lat": "ili svekor, il' svekrva?",
+       "en": "or the father-in-law, or the mother-in-law?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде куќата е мошне арна,",
+       "lat": "Ajde kuḱata e mošne arna,",
+       "en": "Come on, the house is very good,"
+      },
+      {
+       "cyr": "свекорот е кротко јагне.",
+       "lat": "svekorot e krotko jagne.",
+       "en": "the father-in-law is a gentle lamb."
+      },
+      {
+       "cyr": "Ајде свекорот е кротко јагне,",
+       "lat": "Ajde svekorot e krotko jagne,",
+       "en": "Come on, the father-in-law is a gentle lamb,"
+      },
+      {
+       "cyr": "а свекрва љута змија.",
+       "lat": "a svekrva ljuta zmija.",
+       "en": "but the mother-in-law is a fierce snake."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

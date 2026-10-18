@@ -1,0 +1,172 @@
+{
+ "id": 774,
+ "slug": "v-apsana-me-klade",
+ "title_cyr": "В' апсана ме кладе",
+ "title_latin": "V' apsana me klade",
+ "title_en": "They put me in prison",
+ "pesna_url": "https://pesna.org/song/774",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Dialect and rare words: 'ока' is an old unit of weight (about 1.2 kg), 'драм' a small old unit; 'По тро да си клаваш' is my reading (roughly 'you need not put on make-up'), 'тнонка' is my reading of 'тенка' (slim).",
+ "words_to_learn": [
+  {
+   "mk": "апсана",
+   "en": "prison"
+  },
+  {
+   "mk": "гајле",
+   "en": "worry, care"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "dear young man (lit. foolish young)"
+  },
+  {
+   "mk": "јаска",
+   "en": "I (dialect form of јас)"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "gift, present"
+  },
+  {
+   "mk": "белило",
+   "en": "white face powder"
+  },
+  {
+   "mk": "црвенило",
+   "en": "red rouge"
+  },
+  {
+   "mk": "тнонка",
+   "en": "slim (dialect, my reading)"
+  }
+ ],
+ "performers": [
+  "Воденки",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1330"
+  },
+  {
+   "who": "Воденки",
+   "url": "https://pesna.org/audio-download/1333"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- В апсана ме кладе дванајсе години,",
+       "lat": "- V apsana me klade dvanajse godini,",
+       "en": "- They put me in prison for twelve years,"
+      },
+      {
+       "cyr": "дванајсе години и девет месеци,",
+       "lat": "dvanajse godini i devet meseci,",
+       "en": "twelve years and nine months,"
+      },
+      {
+       "cyr": "и девет месеци.",
+       "lat": "i devet meseci.",
+       "en": "and nine months."
+      },
+      {
+       "cyr": "- Море лудо младо, гајле да не бериш,",
+       "lat": "- More ludo mlado, gajle da ne beriš,",
+       "en": "- Hey, foolish youth, don't take on any worry,"
+      },
+      {
+       "cyr": "гајле да не бериш, јаска ќе те чекам,",
+       "lat": "gajle da ne beriš, jaska ḱe te čekam,",
+       "en": "don't take on any worry, I will wait for you,"
+      },
+      {
+       "cyr": "јаска ќе те чекам.",
+       "lat": "jaska ḱe te čekam.",
+       "en": "I will wait for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јаска ќе те чекам дванајсе години,",
+       "lat": "- Jaska ḱe te čekam dvanajse godini,",
+       "en": "- I will wait for you twelve years,"
+      },
+      {
+       "cyr": "дванајсе години и девет месеци,",
+       "lat": "dvanajse godini i devet meseci,",
+       "en": "twelve years and nine months,"
+      },
+      {
+       "cyr": "и девет месеци.",
+       "lat": "i devet meseci.",
+       "en": "and nine months."
+      },
+      {
+       "cyr": "- Мори моме мала, аку да си верна,",
+       "lat": "- Mori mome mala, aku da si verna,",
+       "en": "- Hey, young girl, if you are faithful,"
+      },
+      {
+       "cyr": "аку да си верна бакшиш ќе ти купам,",
+       "lat": "aku da si verna bakšiš ḱe ti kupam,",
+       "en": "if you are faithful I will buy you a gift,"
+      },
+      {
+       "cyr": "бакшиш ќе ти купам.",
+       "lat": "bakšiš ḱe ti kupam.",
+       "en": "I will buy you a gift."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Бакшиш ќе ти купам сто драмој белило,",
+       "lat": "- Bakšiš ḱe ti kupam sto dramoj belilo,",
+       "en": "- I will buy you a gift, a hundred drams of white face powder,"
+      },
+      {
+       "cyr": "сто драмој белило, ока црвенило,",
+       "lat": "sto dramoj belilo, oka crvenilo,",
+       "en": "a hundred drams of white face powder, an ocka of red rouge,"
+      },
+      {
+       "cyr": "ока црвенило.",
+       "lat": "oka crvenilo.",
+       "en": "an ocka of red rouge."
+      },
+      {
+       "cyr": "По тро да си клаваш, сама си убава,",
+       "lat": "Po tro da si klavaš, sama si ubava,",
+       "en": "You need no paint, you are beautiful by yourself,"
+      },
+      {
+       "cyr": "бела и црвена, малку црноока,",
+       "lat": "bela i crvena, malku crnooka,",
+       "en": "white and red, a little dark-eyed,"
+      },
+      {
+       "cyr": "тнонка ем висока.",
+       "lat": "tnonka em visoka.",
+       "en": "slim and tall."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

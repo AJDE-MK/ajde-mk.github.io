@@ -1,0 +1,242 @@
+{
+ "id": 1403,
+ "slug": "more-lezhe-gjuro-v-zandani",
+ "title_cyr": "Море леже Ѓуро в зандани",
+ "title_latin": "More leže Ǵuro v zandani",
+ "title_en": "Gjuro lies in the dungeon",
+ "pesna_url": "https://pesna.org/song/1403",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Ѓуро is a male name (Gjuro, from Gjorgji/George). 'прсти крши' is a gesture of grief; 'to feed' with broken fingers is rendered literally and may mean he feeds the bird crumbs from his hands, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "зандани",
+   "en": "dungeon, prison"
+  },
+  {
+   "mk": "темни",
+   "en": "dark"
+  },
+  {
+   "mk": "никој",
+   "en": "no one"
+  },
+  {
+   "mk": "покрај",
+   "en": "beside"
+  },
+  {
+   "mk": "пиле",
+   "en": "young bird, chick"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "крши прсти",
+   "en": "breaks his fingers (wrings his hands)"
+  },
+  {
+   "mk": "роним солзи",
+   "en": "I shed tears"
+  },
+  {
+   "mk": "напои",
+   "en": "to give to drink"
+  },
+  {
+   "mk": "пуштам",
+   "en": "I let go, release"
+  }
+ ],
+ "performers": [
+  "Славка Чрчева",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Славка Чрчева, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/3591"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море леже Ѓуро леле,",
+       "lat": "More leže Ǵuro lele,",
+       "en": "Hey, Gjuro lies, oh,"
+      },
+      {
+       "cyr": "леже Ѓуро,",
+       "lat": "leže Ǵuro,",
+       "en": "Gjuro lies"
+      },
+      {
+       "cyr": "во темни зандани,",
+       "lat": "vo temni zandani,",
+       "en": "in a dark dungeon,"
+      },
+      {
+       "cyr": "во темни зандани.",
+       "lat": "vo temni zandani.",
+       "en": "in a dark dungeon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море никој нема леле,",
+       "lat": "More nikoj nema lele,",
+       "en": "Hey, no one is there, oh,"
+      },
+      {
+       "cyr": "никој нема,",
+       "lat": "nikoj nema,",
+       "en": "no one is there,"
+      },
+      {
+       "cyr": "никој покрај Ѓуро,",
+       "lat": "nikoj pokraj Ǵuro,",
+       "en": "no one beside Gjuro,"
+      },
+      {
+       "cyr": "никој покрај Ѓуро.",
+       "lat": "nikoj pokraj Ǵuro.",
+       "en": "no one beside Gjuro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море само едно леле,",
+       "lat": "More samo edno lele,",
+       "en": "Hey, only one, oh,"
+      },
+      {
+       "cyr": "само едно,",
+       "lat": "samo edno,",
+       "en": "only one,"
+      },
+      {
+       "cyr": "пиле соколово,",
+       "lat": "pile sokolovo,",
+       "en": "a young falcon,"
+      },
+      {
+       "cyr": "пиле соколово.",
+       "lat": "pile sokolovo.",
+       "en": "a young falcon."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море прсти крши Ѓуро,",
+       "lat": "More prsti krši Ǵuro,",
+       "en": "Hey, Gjuro breaks his fingers,"
+      },
+      {
+       "cyr": "прсти крши,",
+       "lat": "prsti krši,",
+       "en": "breaks his fingers,"
+      },
+      {
+       "cyr": "пиле да нарани,",
+       "lat": "pile da narani,",
+       "en": "to feed the little bird,"
+      },
+      {
+       "cyr": "пиле да нарани.",
+       "lat": "pile da narani.",
+       "en": "to feed the little bird."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море солзи рони Ѓуро,",
+       "lat": "More solzi roni Ǵuro,",
+       "en": "Hey, Gjuro sheds tears,"
+      },
+      {
+       "cyr": "солзи рони,",
+       "lat": "solzi roni,",
+       "en": "sheds tears,"
+      },
+      {
+       "cyr": "пиле да напои,",
+       "lat": "pile da napoi,",
+       "en": "to give the little bird a drink,"
+      },
+      {
+       "cyr": "пиле да напои.",
+       "lat": "pile da napoi.",
+       "en": "to give the little bird a drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море дали знаеш пиле,",
+       "lat": "- More dali znaeš pile,",
+       "en": "- Hey, do you know, little bird,"
+      },
+      {
+       "cyr": "дали знаеш,",
+       "lat": "dali znaeš,",
+       "en": "do you know,"
+      },
+      {
+       "cyr": "јас зашто те ранам,",
+       "lat": "jas zašto te ranam,",
+       "en": "why I feed you,"
+      },
+      {
+       "cyr": "јас зашто те појам?",
+       "lat": "jas zašto te pojam?",
+       "en": "why I give you drink?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ќе те пуштам пиле,",
+       "lat": "More ḱe te puštam pile,",
+       "en": "Hey, I will let you go, little bird,"
+      },
+      {
+       "cyr": "ќе те пуштам,",
+       "lat": "ḱe te puštam,",
+       "en": "I will let you go,"
+      },
+      {
+       "cyr": "до мојот ми тате",
+       "lat": "do mojot mi tate",
+       "en": "to my father"
+      },
+      {
+       "cyr": "и мојата мајка.",
+       "lat": "i mojata majka.",
+       "en": "and my mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

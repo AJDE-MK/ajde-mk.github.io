@@ -1,0 +1,154 @@
+{
+ "id": 1652,
+ "slug": "ja-sum-se-napromenila",
+ "title_cyr": "Ја сум се напроменила",
+ "title_latin": "Ja sum se napromenila",
+ "title_en": "I'm all dressed up",
+ "pesna_url": "https://pesna.org/song/1652",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Коло",
+  "Вебија Смаили",
+  "Виданка Георгиева"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/4444"
+  },
+  {
+   "who": "Вебија Смаили",
+   "url": "https://pesna.org/audio-download/4445"
+  },
+  {
+   "who": "Ансамбл Коло",
+   "url": "https://pesna.org/audio-download/4446"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ја сум се напроменила,",
+       "lat": "Ja sum se napromenila,",
+       "en": "I'm all dressed up,"
+      },
+      {
+       "cyr": "па нема кој да ме гледа.",
+       "lat": "pa nema koj da me gleda.",
+       "en": "but there's no one to look at me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудо ми аскер отишло,",
+       "lat": "Ludo mi asker otišlo,",
+       "en": "My love went to be a soldier,"
+      },
+      {
+       "cyr": "с' каплара се наљутило.",
+       "lat": "s' kaplara se naljutilo.",
+       "en": "and made his corporal angry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "С' каплара се наљутило,",
+       "lat": "S' kaplara se naljutilo,",
+       "en": "He made his corporal angry,"
+      },
+      {
+       "cyr": "капетан не ми го пушта.",
+       "lat": "kapetan ne mi go pušta.",
+       "en": "the captain won't let him go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Капетан не ми го пушта",
+       "lat": "Kapetan ne mi go pušta",
+       "en": "The captain won't let him come"
+      },
+      {
+       "cyr": "да дојде да ме рашета.",
+       "lat": "da dojde da me rašeta.",
+       "en": "and take me for a walk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да дојде да ме расшета",
+       "lat": "Da dojde da me rasšeta",
+       "en": "To come and take me for a walk"
+      },
+      {
+       "cyr": "низ тија беле купине.",
+       "lat": "niz tija bele kupine.",
+       "en": "through those white blackberries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Низ тија беле купине,",
+       "lat": "Niz tija bele kupine,",
+       "en": "Through those white blackberries,"
+      },
+      {
+       "cyr": "на таа царева чешма.",
+       "lat": "na taa careva češma.",
+       "en": "to that royal fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На таја царева чешма,",
+       "lat": "Na taja careva češma,",
+       "en": "To that royal fountain,"
+      },
+      {
+       "cyr": "да јадем леб и сирење.",
+       "lat": "da jadem leb i sirenje.",
+       "en": "to eat bread and cheese."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да јадем леб и сирење,",
+       "lat": "Da jadem leb i sirenje,",
+       "en": "To eat bread and cheese,"
+      },
+      {
+       "cyr": "да пием вода студена.",
+       "lat": "da piem voda studena.",
+       "en": "to drink cold water."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

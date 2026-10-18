@@ -1,0 +1,176 @@
+{
+ "id": 1491,
+ "slug": "meani-pusti-meani",
+ "title_cyr": "Меани, пусти меани",
+ "title_latin": "Meani, pusti meani",
+ "title_en": "Taverns, desolate taverns",
+ "pesna_url": "https://pesna.org/song/1491",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a modern kafana (tavern) song; origin unclear, I cannot name an author. 'ликој' in 'ликој гледам' is my reading: 'a face/likeness'.",
+ "words_to_learn": [
+  {
+   "mk": "меани",
+   "en": "taverns (pl. of меана)"
+  },
+  {
+   "mk": "пусти",
+   "en": "desolate, ruined, wretched"
+  },
+  {
+   "mk": "бекрија",
+   "en": "drunkard, carouser (Turkish origin)"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong brandy"
+  },
+  {
+   "mk": "побратим",
+   "en": "sworn brother"
+  },
+  {
+   "mk": "либе",
+   "en": "beloved"
+  },
+  {
+   "mk": "запустивте",
+   "en": "you ruined/laid waste (to me)"
+  },
+  {
+   "mk": "навираат",
+   "en": "well up"
+  },
+  {
+   "mk": "зацрнивте",
+   "en": "you blackened"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/3881"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум пусти бекрија,",
+       "lat": "Jas sum pusti bekrija,",
+       "en": "I am a desolate drunkard,"
+      },
+      {
+       "cyr": "пијам лута ракија,",
+       "lat": "pijam luta rakija,",
+       "en": "I drink strong brandy,"
+      },
+      {
+       "cyr": "ајде, изгоре срце рането",
+       "lat": "ajde, izgore srce raneto",
+       "en": "come on, my wounded heart burned,"
+      },
+      {
+       "cyr": "од болките мачна душа е,",
+       "lat": "od bolkite mačna duša e,",
+       "en": "from the pains the soul is tormented,"
+      },
+      {
+       "cyr": "за либето на верен побратим.",
+       "lat": "za libeto na veren pobratim.",
+       "en": "for the beloved of a faithful sworn brother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меани, црнила, меани проклети,",
+       "lat": "Meani, crnila, meani prokleti,",
+       "en": "Taverns, blackness, accursed taverns,"
+      },
+      {
+       "cyr": "што ме мене запустивте.",
+       "lat": "što me mene zapustivte.",
+       "en": "you who have ruined me."
+      },
+      {
+       "cyr": "Меани, црнила, меани проклети,",
+       "lat": "Meani, crnila, meani prokleti,",
+       "en": "Taverns, blackness, accursed taverns,"
+      },
+      {
+       "cyr": "што ми живот зацрнивте.",
+       "lat": "što mi život zacrnivte.",
+       "en": "you who have blackened my life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љубов моја несреќна,",
+       "lat": "Ljubov moja nesreḱna,",
+       "en": "My unhappy love,"
+      },
+      {
+       "cyr": "ќе е в' срце оставена,",
+       "lat": "ḱe e v' srce ostavena,",
+       "en": "it will stay left in my heart,"
+      },
+      {
+       "cyr": "ај, в' очи солзи навираат",
+       "lat": "aj, v' oči solzi naviraat",
+       "en": "oh, tears well up in my eyes"
+      },
+      {
+       "cyr": "и пред очи ликој гледам јас,",
+       "lat": "i pred oči likoj gledam jas,",
+       "en": "and I see a face before my eyes,"
+      },
+      {
+       "cyr": "а срцево ќе пукне по тебе.",
+       "lat": "a srcevo ḱe pukne po tebe.",
+       "en": "and this heart will burst for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меани, црнила, меани проклети,",
+       "lat": "Meani, crnila, meani prokleti,",
+       "en": "Taverns, blackness, accursed taverns,"
+      },
+      {
+       "cyr": "што ме мене запустивте.",
+       "lat": "što me mene zapustivte.",
+       "en": "you who have ruined me."
+      },
+      {
+       "cyr": "Меани, црнила, меани проклети,",
+       "lat": "Meani, crnila, meani prokleti,",
+       "en": "Taverns, blackness, accursed taverns,"
+      },
+      {
+       "cyr": "што ми живот зацрнивте.",
+       "lat": "što mi život zacrnivte.",
+       "en": "you who have blackened my life."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

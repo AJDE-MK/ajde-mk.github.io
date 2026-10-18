@@ -1,0 +1,158 @@
+{
+ "id": 72,
+ "slug": "chereshna-se-od-koren-korneshe",
+ "title_cyr": "Черешна се од корен корнеше",
+ "title_latin": "Čerešna se od koren korneše",
+ "title_en": "The Cherry Tree Was Pulled Up by the Root",
+ "pesna_url": "https://pesna.org/song/72",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'проштевај' can mean both forgive and farewell; I rendered it as 'farewell' (my reading). 'ни' in the last line is rendered 'our'.",
+ "words_to_learn": [
+  {
+   "mk": "черешна",
+   "en": "cherry tree"
+  },
+  {
+   "mk": "корен",
+   "en": "root"
+  },
+  {
+   "mk": "корнеше",
+   "en": "was pulled out"
+  },
+  {
+   "mk": "делеше",
+   "en": "was separating, parting"
+  },
+  {
+   "mk": "проштевај",
+   "en": "farewell, forgive me (parting word)"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law (husband's mother)"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law (husband's father)"
+  },
+  {
+   "mk": "јатрва",
+   "en": "wife of husband's brother"
+  },
+  {
+   "mk": "деверче",
+   "en": "little brother-in-law (husband's brother)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Група Билјана",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Нада Макеларска",
+  "Петранка Костадинова",
+  "Радио студио Скопје",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1122"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/1123"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1124"
+  },
+  {
+   "who": "Александар Сариевски, Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2255"
+  },
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2975"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Черешна се од корен корнеше,",
+       "lat": "Čerešna se od koren korneše,",
+       "en": "The cherry tree was pulled up by the root,"
+      },
+      {
+       "cyr": "мома се од мајка делеше.",
+       "lat": "moma se od majka deleše.",
+       "en": "the girl was parting from her mother."
+      },
+      {
+       "cyr": "Проштевај мајко, проштевај,",
+       "lat": "Proštevaj majko, proštevaj,",
+       "en": "Farewell, mother, farewell,"
+      },
+      {
+       "cyr": "проштевајте мили роднини.",
+       "lat": "proštevajte mili rodnini.",
+       "en": "farewell, dear relatives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Досега сум мајка слушала,",
+       "lat": "Dosega sum majka slušala,",
+       "en": "Until now I have listened to my mother,"
+      },
+      {
+       "cyr": "отсега ќе слушам свекрва.",
+       "lat": "otsega ḱe slušam svekrva.",
+       "en": "from now on I will listen to my mother-in-law."
+      },
+      {
+       "cyr": "Отсега ќе слушам свекрва,",
+       "lat": "Otsega ḱe slušam svekrva,",
+       "en": "From now on I will listen to my mother-in-law,"
+      },
+      {
+       "cyr": "свекрва, свекор, јатрва.",
+       "lat": "svekrva, svekor, jatrva.",
+       "en": "mother-in-law, father-in-law, sister-in-law."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свекрва, свекор, јатрва,",
+       "lat": "Svekrva, svekor, jatrva,",
+       "en": "Mother-in-law, father-in-law, sister-in-law,"
+      },
+      {
+       "cyr": "и најмалото ни деверче.",
+       "lat": "i najmaloto ni deverče.",
+       "en": "and even our youngest little brother-in-law."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

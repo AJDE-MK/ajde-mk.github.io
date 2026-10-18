@@ -1,0 +1,157 @@
+{
+ "id": 345,
+ "slug": "neli-ti-rekov-mome-donke",
+ "title_cyr": "Нели ти реков моме Донке",
+ "title_latin": "Neli ti rekov mome Donke",
+ "title_en": "Didn't I tell you, girl Donka",
+ "pesna_url": "https://pesna.org/song/345",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'сè со тија ... пусти пари' rendered 'it is all about that wretched money' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "нели",
+   "en": "didn't I (tag: 'right?')"
+  },
+  {
+   "mk": "думав",
+   "en": "I said (dialect)"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "лажат",
+   "en": "they lie"
+  },
+  {
+   "mk": "мамат",
+   "en": "they deceive"
+  },
+  {
+   "mk": "пусти",
+   "en": "wretched, damned"
+  },
+  {
+   "mk": "мајтапчии",
+   "en": "jokers, teasers"
+  },
+  {
+   "mk": "ветат",
+   "en": "they promise"
+  }
+ ],
+ "performers": [
+  "Ани Малинкова",
+  "Блага Видец",
+  "Виолета Томовска",
+  "Зоран Џорлев",
+  "Цветанка Ласкова"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев, Ани Малинкова",
+   "url": "https://pesna.org/audio-download/139"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1338"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1339"
+  },
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/3093"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3903"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков моме Донке,",
+       "lat": "Neli ti rekov mome Donke,",
+       "en": "Didn't I tell you, girl Donka,"
+      },
+      {
+       "cyr": "нели ти думав,",
+       "lat": "neli ti dumav,",
+       "en": "didn't I say,"
+      },
+      {
+       "cyr": "да не љубиш моме Донке",
+       "lat": "da ne ljubiš mome Donke",
+       "en": "not to love, girl Donka,"
+      },
+      {
+       "cyr": "битолски ергени?",
+       "lat": "bitolski ergeni?",
+       "en": "the Bitola bachelors?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Они те лажат моме Донке,",
+       "lat": "Oni te lažat mome Donke,",
+       "en": "They lie to you, girl Donka,"
+      },
+      {
+       "cyr": "они те мамат,",
+       "lat": "oni te mamat,",
+       "en": "they deceive you,"
+      },
+      {
+       "cyr": "сè со тија моме Донке",
+       "lat": "sè so tija mome Donke",
+       "en": "it is all about, girl Donka,"
+      },
+      {
+       "cyr": "тие пусти пари.",
+       "lat": "tie pusti pari.",
+       "en": "that wretched money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битолски ергени Донке,",
+       "lat": "Bitolski ergeni Donke,",
+       "en": "The Bitola bachelors, Donka,"
+      },
+      {
+       "cyr": "сè се мајтапчии,",
+       "lat": "sè se majtapčii,",
+       "en": "are all jokers,"
+      },
+      {
+       "cyr": "ќе ти ветат моме Донке,",
+       "lat": "ḱe ti vetat mome Donke,",
+       "en": "they will promise you, girl Donka,"
+      },
+      {
+       "cyr": "нема да те земат.",
+       "lat": "nema da te zemat.",
+       "en": "but they will not marry you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,209 @@
+{
+ "id": 531,
+ "slug": "pesna-vi-peam-makedonci",
+ "title_cyr": "Песна ви пеам Македонци",
+ "title_latin": "Pesna vi peam Makedonci",
+ "title_en": "I Sing You a Song, Macedonians",
+ "pesna_url": "https://pesna.org/song/531",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'клетва' is literally 'curse' but here reads as a solemn charge from the mother; 'Gotse' is my reading of Гоце (possibly Gotse Delchev, not stated).",
+ "words_to_learn": [
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "клетва",
+   "en": "curse, oath"
+  },
+  {
+   "mk": "бори се",
+   "en": "fight, struggle"
+  },
+  {
+   "mk": "тирански",
+   "en": "tyrannically"
+  },
+  {
+   "mk": "мачена",
+   "en": "tortured"
+  },
+  {
+   "mk": "исековте",
+   "en": "you cut off"
+  },
+  {
+   "mk": "внука",
+   "en": "granddaughter/grandchild"
+  },
+  {
+   "mk": "нашински",
+   "en": "in our own way"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1133"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Песна ви пеам Македонци",
+       "lat": "Pesna vi peam Makedonci",
+       "en": "I sing you a song, Macedonians,"
+      },
+      {
+       "cyr": "со зборој нашински.",
+       "lat": "so zboroj našinski.",
+       "en": "in our own words."
+      },
+      {
+       "cyr": "Песна за егејско чедо",
+       "lat": "Pesna za egejsko čedo",
+       "en": "A song for the Aegean child"
+      },
+      {
+       "cyr": "на Македонија.",
+       "lat": "na Makedonija.",
+       "en": "of Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Македонка мајка ме роди",
+       "lat": "Makedonka majka me rodi",
+       "en": "A Macedonian mother bore me,"
+      },
+      {
+       "cyr": "клетва ми остави:",
+       "lat": "kletva mi ostavi:",
+       "en": "left me a curse:"
+      },
+      {
+       "cyr": "- Расти и бори се чедо",
+       "lat": "- Rasti i bori se čedo",
+       "en": "- Grow and fight, child,"
+      },
+      {
+       "cyr": "за Македонија!",
+       "lat": "za Makedonija!",
+       "en": "for Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Родена сум во Кукуш,",
+       "lat": "Rodena sum vo Kukuš,",
+       "en": "I was born in Kukush,"
+      },
+      {
+       "cyr": "тирански мачена,",
+       "lat": "tiranski mačena,",
+       "en": "tortured by tyrants,"
+      },
+      {
+       "cyr": "нога и рака исековте,",
+       "lat": "noga i raka isekovte,",
+       "en": "you cut off my leg and arm,"
+      },
+      {
+       "cyr": "очи извадовте.",
+       "lat": "oči izvadovte.",
+       "en": "you took out my eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Македонка мајка ме роди",
+       "lat": "Makedonka majka me rodi",
+       "en": "A Macedonian mother bore me,"
+      },
+      {
+       "cyr": "клетва ми остави:",
+       "lat": "kletva mi ostavi:",
+       "en": "left me a curse:"
+      },
+      {
+       "cyr": "- Расти и бори се чедо",
+       "lat": "- Rasti i bori se čedo",
+       "en": "- Grow and fight, child,"
+      },
+      {
+       "cyr": "за Македонија!",
+       "lat": "za Makedonija!",
+       "en": "for Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Името лично македонско",
+       "lat": "Imeto lično makedonsko",
+       "en": "My personal Macedonian name"
+      },
+      {
+       "cyr": "не си го менувам,",
+       "lat": "ne si go menuvam,",
+       "en": "I do not change,"
+      },
+      {
+       "cyr": "внука сум јас на Гоце,",
+       "lat": "vnuka sum jas na Goce,",
+       "en": "I am a grandchild of Gotse,"
+      },
+      {
+       "cyr": "кукушанецот.",
+       "lat": "kukušanecot.",
+       "en": "the man from Kukush."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Македонка мајка ме роди",
+       "lat": "Makedonka majka me rodi",
+       "en": "A Macedonian mother bore me,"
+      },
+      {
+       "cyr": "клетва ми остави:",
+       "lat": "kletva mi ostavi:",
+       "en": "left me a curse:"
+      },
+      {
+       "cyr": "- Расти и бори се чедо",
+       "lat": "- Rasti i bori se čedo",
+       "en": "- Grow and fight, child,"
+      },
+      {
+       "cyr": "за Македонија!",
+       "lat": "za Makedonija!",
+       "en": "for Macedonia!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

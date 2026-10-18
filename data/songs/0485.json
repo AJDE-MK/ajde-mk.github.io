@@ -1,0 +1,229 @@
+{
+ "id": 485,
+ "slug": "krushevo-aber-pristigna",
+ "title_cyr": "Крушево абер пристигна",
+ "title_latin": "Kruševo aber pristigna",
+ "title_en": "News Reached Krushevo",
+ "pesna_url": "https://pesna.org/song/485",
+ "background": "A call goes out for families to send their grown sons to fight at Smilevo. Stojan has no sons, only his daughter Todorka. She asks her father for a Berdan rifle (*berdanka*, a Russian-made rifle common among the rebels) and a saber, joins the *komiti*, and fights for three years without anyone realizing she is a girl. See the Ilinden background in the guide *History, places and customs*.",
+ "background_source": "Source of these notes: your 6-song songbook.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Пренгија' as a type of sword is my reading. 'Лична' as 'handsome' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, word"
+  },
+  {
+   "mk": "комити",
+   "en": "komiti, rebel fighters (komita = one rebel)"
+  },
+  {
+   "mk": "синои / синови",
+   "en": "sons (dialect plural / standard plural)"
+  },
+  {
+   "mk": "славно",
+   "en": "famous, glorious"
+  },
+  {
+   "mk": "пушка берданка",
+   "en": "Berdan rifle"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre, sword"
+  },
+  {
+   "mk": "нарами",
+   "en": "shouldered, slung over the shoulder"
+  },
+  {
+   "mk": "запаша",
+   "en": "girded on, put on at the waist"
+  },
+  {
+   "mk": "лична",
+   "en": "handsome, comely"
+  },
+  {
+   "mk": "познал",
+   "en": "recognized"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Македонски мерак",
+  "Наум Петрески",
+  "Стојне Николова",
+  "Next Time"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/74"
+  },
+  {
+   "who": "Стојне Николова",
+   "url": "https://pesna.org/audio-download/3272"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/3273"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/3274"
+  },
+  {
+   "who": "Next Time",
+   "url": "https://pesna.org/audio-download/3765"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Крушево абер пристигна",
+       "lat": "Kruševo aber pristigna",
+       "en": "News reached Krushevo"
+      },
+      {
+       "cyr": "кој има синој големи,",
+       "lat": "koj ima sinoj golemi,",
+       "en": "that whoever has grown sons"
+      },
+      {
+       "cyr": "комити да ги испрати",
+       "lat": "komiti da gi isprati",
+       "en": "should send them as komiti (rebel fighters)"
+      },
+      {
+       "cyr": "во тоа славно Смилево.",
+       "lat": "vo toa slavno Smilevo.",
+       "en": "to that famous Smilevo."
+      },
+      {
+       "cyr": "Комити да ги испрати",
+       "lat": "Komiti da gi isprati",
+       "en": "Should send them as komiti"
+      },
+      {
+       "cyr": "во тоа славно Смилево.",
+       "lat": "vo toa slavno Smilevo.",
+       "en": "to that famous Smilevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан си немал синои,",
+       "lat": "Stojan si nemal sinoi,",
+       "en": "Stojan had no sons,"
+      },
+      {
+       "cyr": "Стојан си немал синови,",
+       "lat": "Stojan si nemal sinovi,",
+       "en": "Stojan had no sons,"
+      },
+      {
+       "cyr": "само си ја имал Тодорка,",
+       "lat": "samo si ja imal Todorka,",
+       "en": "he only had Todorka,"
+      },
+      {
+       "cyr": "Тодорка една на мајка.",
+       "lat": "Todorka edna na majka.",
+       "en": "Todorka, her mother's only one."
+      },
+      {
+       "cyr": "Тодорка една на мајка,",
+       "lat": "Todorka edna na majka,",
+       "en": "Todorka, her mother's only one,"
+      },
+      {
+       "cyr": "Тодорка една на татко.",
+       "lat": "Todorka edna na tatko.",
+       "en": "Todorka, her father's only one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тодорка на татко велеше:",
+       "lat": "Todorka na tatko veleše:",
+       "en": "Todorka said to her father:"
+      },
+      {
+       "cyr": "- Купи ми пушка берданка",
+       "lat": "- Kupi mi puška berdanka",
+       "en": "- Buy me a Berdan rifle"
+      },
+      {
+       "cyr": "и една сабја пренгија",
+       "lat": "i edna sabja prengija",
+       "en": "and a prengija sword,"
+      },
+      {
+       "cyr": "јас комита татко ќе одам.",
+       "lat": "jas komita tatko ḱe odam.",
+       "en": "I will go as a komita, father."
+      },
+      {
+       "cyr": "Јас комита татко ќе одам",
+       "lat": "Jas komita tatko ḱe odam",
+       "en": "I will go as a komita, father,"
+      },
+      {
+       "cyr": "во тоа славно Смилево.",
+       "lat": "vo toa slavno Smilevo.",
+       "en": "to that famous Smilevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А што беше лична Тодорка",
+       "lat": "A što beše lična Todorka",
+       "en": "And the handsome Todorka"
+      },
+      {
+       "cyr": "нарами пушка на рамо",
+       "lat": "narami puška na ramo",
+       "en": "shouldered the rifle on her shoulder,"
+      },
+      {
+       "cyr": "запаша сабја пренгија",
+       "lat": "zapaša sabja prengija",
+       "en": "girded on the prengija sword,"
+      },
+      {
+       "cyr": "три години комита шетала.",
+       "lat": "tri godini komita šetala.",
+       "en": "for three years she roamed as a komita."
+      },
+      {
+       "cyr": "Никој Тодорка не познал",
+       "lat": "Nikoj Todorka ne poznal",
+       "en": "Nobody recognized Todorka,"
+      },
+      {
+       "cyr": "дека е Тодорка девојка.",
+       "lat": "deka e Todorka devojka.",
+       "en": "that Todorka was a girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,88 @@
+{
+ "id": 1234,
+ "slug": "dali-znaesh-pomnish-li",
+ "title_cyr": "Дали знаеш помниш ли",
+ "title_latin": "Dali znaeš pomniš li",
+ "title_en": "Do you remember",
+ "pesna_url": "https://pesna.org/song/1234",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Wouter Swets)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Chalgia Wouter Swets"
+ ],
+ "audio": [
+  {
+   "who": "Chalgia Wouter Swets",
+   "url": "https://pesna.org/audio-download/3083"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дали знаеш помниш ли, аман аман",
+       "lat": "Dali znaeš pomniš li, aman aman",
+       "en": "Do you remember"
+      },
+      {
+       "cyr": "Кога бевме малечки, аман?",
+       "lat": "Koga bevme malečki, aman?",
+       "en": "when we were young?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во ѓул бавче седевме, аман аман",
+       "lat": "Vo ǵul bavče sedevme, aman aman",
+       "en": "We sat in the rose garden"
+      },
+      {
+       "cyr": "Под ѓул црвен трендафил, аман.",
+       "lat": "Pod ǵul crven trendafil, aman.",
+       "en": "under a rosebush."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трендафил ни капеше, аман аман",
+       "lat": "Trendafil ni kapeše, aman aman",
+       "en": "The rosebush dripped"
+      },
+      {
+       "cyr": "На нас двата паѓаше, аман.",
+       "lat": "Na nas dvata paǵaše, aman.",
+       "en": "on the both of us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние двата беревме, аман аман",
+       "lat": "Nie dvata berevme, aman aman",
+       "en": "We caught the drops and"
+      },
+      {
+       "cyr": "Лицето си мазевме, аман.",
+       "lat": "Liceto si mazevme, aman.",
+       "en": "rubbed our faces with them."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

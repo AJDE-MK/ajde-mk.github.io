@@ -1,0 +1,213 @@
+{
+ "id": 253,
+ "slug": "zhivote-moj",
+ "title_cyr": "Животе мој",
+ "title_latin": "Živote moj",
+ "title_en": "My Life",
+ "pesna_url": "https://pesna.org/song/253",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The text switches between 'without him' and 'without her' in the original; I kept both.",
+ "words_to_learn": [
+  {
+   "mk": "среќна",
+   "en": "happy"
+  },
+  {
+   "mk": "несреќа",
+   "en": "misfortune"
+  },
+  {
+   "mk": "запусти",
+   "en": "abandoned, neglected"
+  },
+  {
+   "mk": "зацрни",
+   "en": "blackened, darkened"
+  },
+  {
+   "mk": "осамен",
+   "en": "lonely"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "врба",
+   "en": "willow"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/824"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3610"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Среќна љубов имавме",
+       "lat": "Sreḱna ljubov imavme",
+       "en": "We had a happy love,"
+      },
+      {
+       "cyr": "живот, песни сакавме",
+       "lat": "život, pesni sakavme",
+       "en": "we wanted life, songs,"
+      },
+      {
+       "cyr": "но за наша несреќа",
+       "lat": "no za naša nesreḱa",
+       "en": "but to our misfortune"
+      },
+      {
+       "cyr": "останав јас без неа.",
+       "lat": "ostanav jas bez nea.",
+       "en": "I was left without her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Животе мој, животе ти",
+       "lat": "Živote moj, živote ti",
+       "en": "My life, you life,"
+      },
+      {
+       "cyr": "зошто ме мене запусти?",
+       "lat": "zošto me mene zapusti?",
+       "en": "why did you abandon me?"
+      },
+      {
+       "cyr": "Животе мој, животе ти",
+       "lat": "Živote moj, živote ti",
+       "en": "My life, you life,"
+      },
+      {
+       "cyr": "зошто ме мене зацрни?",
+       "lat": "zošto me mene zacrni?",
+       "en": "why did you darken me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега скитам осамен",
+       "lat": "Sega skitam osamen",
+       "en": "Now I wander lonely,"
+      },
+      {
+       "cyr": "пеам песна од срце",
+       "lat": "peam pesna od srce",
+       "en": "I sing a song from the heart,"
+      },
+      {
+       "cyr": "чувам тајни спомени",
+       "lat": "čuvam tajni spomeni",
+       "en": "I keep secret memories"
+      },
+      {
+       "cyr": "на далечни времиња.",
+       "lat": "na dalečni vreminja.",
+       "en": "of distant times."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Животе мој, животе ти",
+       "lat": "Živote moj, živote ti",
+       "en": "My life, you life,"
+      },
+      {
+       "cyr": "зошто ме мене запусти?",
+       "lat": "zošto me mene zapusti?",
+       "en": "why did you abandon me?"
+      },
+      {
+       "cyr": "Животе мој, животе ти",
+       "lat": "Živote moj, živote ti",
+       "en": "My life, you life,"
+      },
+      {
+       "cyr": "зошто ме мене зацрни?",
+       "lat": "zošto me mene zacrni?",
+       "en": "why did you darken me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојот живот без него",
+       "lat": "Mojot život bez nego",
+       "en": "My life without him"
+      },
+      {
+       "cyr": "како славеј без песна",
+       "lat": "kako slavej bez pesna",
+       "en": "is like a nightingale without a song,"
+      },
+      {
+       "cyr": "мојот живот без неа",
+       "lat": "mojot život bez nea",
+       "en": "my life without her"
+      },
+      {
+       "cyr": "тажна врба без корен.",
+       "lat": "tažna vrba bez koren.",
+       "en": "is a sad willow without roots."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Животе мој, животе ти",
+       "lat": "Živote moj, živote ti",
+       "en": "My life, you life,"
+      },
+      {
+       "cyr": "зошто ме мене запусти?",
+       "lat": "zošto me mene zapusti?",
+       "en": "why did you abandon me?"
+      },
+      {
+       "cyr": "Животе мој, животе ти",
+       "lat": "Živote moj, živote ti",
+       "en": "My life, you life,"
+      },
+      {
+       "cyr": "зошто ме мене зацрни?",
+       "lat": "zošto me mene zacrni?",
+       "en": "why did you darken me?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,345 @@
+{
+ "id": 1341,
+ "slug": "kraj-seloto-mamo",
+ "title_cyr": "Крај селото мамо",
+ "title_latin": "Kraj seloto mamo",
+ "title_en": "By the Village, Mother",
+ "pesna_url": "https://pesna.org/song/1341",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style repetitive song; the structure repeats the line pattern, so the English follows it. Origin unclear, no author I can name.",
+ "words_to_learn": [
+  {
+   "mk": "крај селото",
+   "en": "at the edge of the village, by the village"
+  },
+  {
+   "mk": "мила мамо",
+   "en": "dear mother"
+  },
+  {
+   "mk": "лично",
+   "en": "handsome, good-looking"
+  },
+  {
+   "mk": "кондурџиче",
+   "en": "little shoemaker"
+  },
+  {
+   "mk": "кондурки",
+   "en": "shoes"
+  },
+  {
+   "mk": "мајсторче",
+   "en": "young craftsman"
+  },
+  {
+   "mk": "фустанче",
+   "en": "little dress"
+  },
+  {
+   "mk": "крои",
+   "en": "cuts out, tailors"
+  },
+  {
+   "mk": "сал",
+   "en": "only (dialect of само)"
+  },
+  {
+   "mk": "помилува",
+   "en": "caress, stroke"
+  }
+ ],
+ "performers": [
+  "Сестрите Мавровски"
+ ],
+ "audio": [
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/3455"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Крај селото мила мамо",
+       "lat": "Kraj seloto mila mamo",
+       "en": "By the village, dear mother"
+      },
+      {
+       "cyr": "Крај селото мамо",
+       "lat": "Kraj seloto mamo",
+       "en": "By the village, mother"
+      },
+      {
+       "cyr": "Лично кондурџиче мамо",
+       "lat": "Lično kondurdžiče mamo",
+       "en": "A handsome shoemaker, mother"
+      },
+      {
+       "cyr": "Лично кондурџиче",
+       "lat": "Lično kondurdžiče",
+       "en": "A handsome shoemaker"
+      },
+      {
+       "cyr": "Крај селото мила мамо",
+       "lat": "Kraj seloto mila mamo",
+       "en": "By the village, dear mother"
+      },
+      {
+       "cyr": "Лично кондурџиче.",
+       "lat": "Lično kondurdžiče.",
+       "en": "A handsome shoemaker."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кондурки ми прави мамо",
+       "lat": "Kondurki mi pravi mamo",
+       "en": "He makes me shoes, mother"
+      },
+      {
+       "cyr": "Кондурки ми прави",
+       "lat": "Kondurki mi pravi",
+       "en": "He makes me shoes"
+      },
+      {
+       "cyr": "Ништо не ми сака мамо",
+       "lat": "Ništo ne mi saka mamo",
+       "en": "He wants nothing from me, mother"
+      },
+      {
+       "cyr": "Ништо не ми сака",
+       "lat": "Ništo ne mi saka",
+       "en": "He wants nothing from me"
+      },
+      {
+       "cyr": "Кондурки ми прави мамо",
+       "lat": "Kondurki mi pravi mamo",
+       "en": "He makes me shoes, mother"
+      },
+      {
+       "cyr": "Ништо не ми сака.",
+       "lat": "Ništo ne mi saka.",
+       "en": "He wants nothing from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сал едно ми сака мамо",
+       "lat": "Sal edno mi saka mamo",
+       "en": "Only one thing he wants, mother"
+      },
+      {
+       "cyr": "Сал едно ми сака",
+       "lat": "Sal edno mi saka",
+       "en": "Only one thing he wants"
+      },
+      {
+       "cyr": "Да ме помилува мамо",
+       "lat": "Da me pomiluva mamo",
+       "en": "To caress me, mother"
+      },
+      {
+       "cyr": "Да ме помилува",
+       "lat": "Da me pomiluva",
+       "en": "To caress me"
+      },
+      {
+       "cyr": "Сал едно ми сака мамо",
+       "lat": "Sal edno mi saka mamo",
+       "en": "Only one thing he wants, mother"
+      },
+      {
+       "cyr": "Да ме помилува.",
+       "lat": "Da me pomiluva.",
+       "en": "To caress me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ме помилува мамо",
+       "lat": "Da me pomiluva mamo",
+       "en": "To caress me, mother"
+      },
+      {
+       "cyr": "Да ме помилува",
+       "lat": "Da me pomiluva",
+       "en": "To caress me"
+      },
+      {
+       "cyr": "И ме поцелува мамо",
+       "lat": "I me poceluva mamo",
+       "en": "And kiss me, mother"
+      },
+      {
+       "cyr": "И ме поцелува",
+       "lat": "I me poceluva",
+       "en": "And kiss me"
+      },
+      {
+       "cyr": "Да ме помилува мамо",
+       "lat": "Da me pomiluva mamo",
+       "en": "To caress me, mother"
+      },
+      {
+       "cyr": "И ме поцелува.",
+       "lat": "I me poceluva.",
+       "en": "And kiss me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крај селото мила мамо",
+       "lat": "Kraj seloto mila mamo",
+       "en": "By the village, dear mother"
+      },
+      {
+       "cyr": "Крај селото мамо",
+       "lat": "Kraj seloto mamo",
+       "en": "By the village, mother"
+      },
+      {
+       "cyr": "Убаво мајсторче мамо",
+       "lat": "Ubavo majstorče mamo",
+       "en": "A handsome craftsman, mother"
+      },
+      {
+       "cyr": "Убаво мајсторче",
+       "lat": "Ubavo majstorče",
+       "en": "A handsome craftsman"
+      },
+      {
+       "cyr": "Крај селото мила мамо",
+       "lat": "Kraj seloto mila mamo",
+       "en": "By the village, dear mother"
+      },
+      {
+       "cyr": "Убаво мајсторче.",
+       "lat": "Ubavo majstorče.",
+       "en": "A handsome craftsman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фустанче ми крои мамо",
+       "lat": "Fustanče mi kroi mamo",
+       "en": "He cuts me a dress, mother"
+      },
+      {
+       "cyr": "Фустанче ми крои",
+       "lat": "Fustanče mi kroi",
+       "en": "He cuts me a dress"
+      },
+      {
+       "cyr": "Ништо не ми сака мамо",
+       "lat": "Ništo ne mi saka mamo",
+       "en": "He wants nothing from me, mother"
+      },
+      {
+       "cyr": "Ништо не ми сака",
+       "lat": "Ništo ne mi saka",
+       "en": "He wants nothing from me"
+      },
+      {
+       "cyr": "Фустанче ми крои мамо",
+       "lat": "Fustanče mi kroi mamo",
+       "en": "He cuts me a dress, mother"
+      },
+      {
+       "cyr": "Ништо не ми сака.",
+       "lat": "Ništo ne mi saka.",
+       "en": "He wants nothing from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сал едно ми сака мамо",
+       "lat": "Sal edno mi saka mamo",
+       "en": "Only one thing he wants, mother"
+      },
+      {
+       "cyr": "Сал едно ми сака",
+       "lat": "Sal edno mi saka",
+       "en": "Only one thing he wants"
+      },
+      {
+       "cyr": "Да ме помилува мамо",
+       "lat": "Da me pomiluva mamo",
+       "en": "To caress me, mother"
+      },
+      {
+       "cyr": "Да ме помилува",
+       "lat": "Da me pomiluva",
+       "en": "To caress me"
+      },
+      {
+       "cyr": "Сал едно ми сака мамо",
+       "lat": "Sal edno mi saka mamo",
+       "en": "Only one thing he wants, mother"
+      },
+      {
+       "cyr": "Да ме помилува.",
+       "lat": "Da me pomiluva.",
+       "en": "To caress me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ме помилува мамо",
+       "lat": "Da me pomiluva mamo",
+       "en": "To caress me, mother"
+      },
+      {
+       "cyr": "Да ме помилува",
+       "lat": "Da me pomiluva",
+       "en": "To caress me"
+      },
+      {
+       "cyr": "И ме поцелува мамо",
+       "lat": "I me poceluva mamo",
+       "en": "And kiss me, mother"
+      },
+      {
+       "cyr": "И ме поцелува",
+       "lat": "I me poceluva",
+       "en": "And kiss me"
+      },
+      {
+       "cyr": "Да ме помилува мамо",
+       "lat": "Da me pomiluva mamo",
+       "en": "To caress me, mother"
+      },
+      {
+       "cyr": "И ме поцелува.",
+       "lat": "I me poceluva.",
+       "en": "And kiss me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

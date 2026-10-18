@@ -1,0 +1,493 @@
+{
+ "id": 450,
+ "slug": "1762-leto",
+ "title_cyr": "1762 лето",
+ "title_latin": "1762 leto",
+ "title_en": "Year 1762",
+ "pesna_url": "https://pesna.org/song/450",
+ "background": "A rare historical ballad. An envoy arrives in Ohrid from Constantinople and summons Patriarch Arsenij, so that the Ohrid Archbishopric can be abolished. The aged patriarch gives his flock a farewell and a warning. The song gives the year as 1762; Qwen notes that historians date the abolition of the Ohrid Archbishopric to 1767.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Венко Пашовски",
+  "Мизар",
+  "Митко Колјушевски",
+  "Наум Бурназ",
+  "Сашо Гигов - Гиш"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/24"
+  },
+  {
+   "who": "Наум Бурназ",
+   "url": "https://pesna.org/audio-download/25"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/26"
+  },
+  {
+   "who": "Мизар",
+   "url": "https://pesna.org/audio-download/27"
+  },
+  {
+   "who": "Мизар",
+   "url": "https://pesna.org/audio-download/28"
+  },
+  {
+   "who": "Мизар",
+   "url": "https://pesna.org/audio-download/1250"
+  },
+  {
+   "who": "Венко Пашовски, Митко Колјушевски",
+   "url": "https://pesna.org/audio-download/3270"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Илјада и седимстотин'",
+       "lat": "Iljada i sedimstotin'",
+       "en": "One thousand seven hundred"
+      },
+      {
+       "cyr": "шесдесет и второ лето",
+       "lat": "šesdeset i vtoro leto",
+       "en": "sixty second summer"
+      },
+      {
+       "cyr": "в Охрида од Цариграда дошел Салаор.",
+       "lat": "v Ohrida od Carigrada došel Salaor.",
+       "en": "to Ohrid, from Constantinople, came Salaor."
+      },
+      {
+       "cyr": "Еј! Дошел Салаор.",
+       "lat": "Ej! Došel Salaor.",
+       "en": "Hey! Came Salaor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се претставил пред Арсења",
+       "lat": "Se pretstavil pred Arsenja",
+       "en": "He presented himself to Arsenie,"
+      },
+      {
+       "cyr": "наша патрика честнаго",
+       "lat": "naša patrika čestnago",
+       "en": "our honorable patriarch,"
+      },
+      {
+       "cyr": "и му рек'л слово горко, слово жалостно.",
+       "lat": "i mu rek'l slovo gorko, slovo žalostno.",
+       "en": "and he told him bitter, sad words."
+      },
+      {
+       "cyr": "Еј! Слово жалосно.",
+       "lat": "Ej! Slovo žalosno.",
+       "en": "Hey! Sad words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Царска волја е да тргнеш",
+       "lat": "Carska volja e da trgneš",
+       "en": "It is Emperor's will for you to go"
+      },
+      {
+       "cyr": "денеска за Цариграда",
+       "lat": "deneska za Carigrada",
+       "en": "to Constantinople today,"
+      },
+      {
+       "cyr": "на тебе од врли Грци, голем поплак е.",
+       "lat": "na tebe od vrli Grci, golem poplak e.",
+       "en": "the evil Greeks complain a lot about you."
+      },
+      {
+       "cyr": "Еј! Голем поплак е.",
+       "lat": "Ej! Golem poplak e.",
+       "en": "Hey! Complain a lot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Собрал патрик свое стадо",
+       "lat": "Sobral patrik svoe stado",
+       "en": "The patriarch gathered his flock,"
+      },
+      {
+       "cyr": "в црква свјатиј Климентова",
+       "lat": "v crkva svjatij Klimentova",
+       "en": "in the St. Clement's church,"
+      },
+      {
+       "cyr": "благослов им дал последен, р'це заплетил.",
+       "lat": "blagoslov im dal posleden, r'ce zapletil.",
+       "en": "he gave them his last blessing, with praying hands."
+      },
+      {
+       "cyr": "Еј! Р'це заплетил.",
+       "lat": "Ej! R'ce zapletil.",
+       "en": "Hey! Praying hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Д'лго време липал старец",
+       "lat": "D'lgo vreme lipal starec",
+       "en": "The old man cried long,"
+      },
+      {
+       "cyr": "в молчење в'сенародно",
+       "lat": "v molčenje v'senarodno",
+       "en": "while the crowd was silent,"
+      },
+      {
+       "cyr": "и по бела брада ронел с'лзи горешти.",
+       "lat": "i po bela brada ronel s'lzi gorešti.",
+       "en": "on his white beard fell burning tears."
+      },
+      {
+       "cyr": "Еј! С'лзи горешти.",
+       "lat": "Ej! S'lzi gorešti.",
+       "en": "Hey! Burning tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слушајте ме мили чеда",
+       "lat": "Slušajte me mili čeda",
+       "en": "Hear me, dear children,"
+      },
+      {
+       "cyr": "јас ќе идам в Цариграда",
+       "lat": "jas ḱe idam v Carigrada",
+       "en": "I will do to Constantinople,"
+      },
+      {
+       "cyr": "на мене од врли Грци голем поплак е.",
+       "lat": "na mene od vrli Grci golem poplak e.",
+       "en": "the evil Greeks complain a lot about me."
+      },
+      {
+       "cyr": "Еј! Голем поплак е.",
+       "lat": "Ej! Golem poplak e.",
+       "en": "Hey! Complain a lot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Грцкиј патрик ќе ни строши",
+       "lat": "Grckij patrik ḱe ni stroši",
+       "en": "The Greek patriarch will crumb"
+      },
+      {
+       "cyr": "славна Охридска Столица",
+       "lat": "slavna Ohridska Stolica",
+       "en": "our glorious Ohrid Chair,"
+      },
+      {
+       "cyr": "и мене до смрт ќе држи в заточение",
+       "lat": "i mene do smrt ḱe drži v zatočenie",
+       "en": "and will keep me locked until death."
+      },
+      {
+       "cyr": "Еј! В заточение.",
+       "lat": "Ej! V zatočenie.",
+       "en": "Hey! Locked until death."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе прати владици Грци",
+       "lat": "Ḱe prati vladici Grci",
+       "en": "He will send Greek bishops,"
+      },
+      {
+       "cyr": "лицем светци срцем в'лци",
+       "lat": "licem svetci srcem v'lci",
+       "en": "with faces like saints and hearts like wolves,"
+      },
+      {
+       "cyr": "ќе ве дават, ќе ве стрижат, ќе м'лзат до крв.",
+       "lat": "ḱe ve davat, ḱe ve strižat, ḱe m'lzat do krv.",
+       "en": "they'll strangle and shave you and milk your blood."
+      },
+      {
+       "cyr": "Еј! Ќе молзат до крв.",
+       "lat": "Ej! Ḱe molzat do krv.",
+       "en": "Hey! Milk your blood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меѓу народа ќе сејат",
+       "lat": "Meǵu naroda ḱe sejat",
+       "en": "Among the people they'll plant"
+      },
+      {
+       "cyr": "несогласје и раздори,",
+       "lat": "nesoglasje i razdori,",
+       "en": "disagreements and discords,"
+      },
+      {
+       "cyr": "да се мразат син со татка и со брата брат.",
+       "lat": "da se mrazat sin so tatka i so brata brat.",
+       "en": "a son will hate his father, and a brother his brother."
+      },
+      {
+       "cyr": "Еј! И со брата брат.",
+       "lat": "Ej! I so brata brat.",
+       "en": "Hey! A brother his brother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ќе викнете до Бога",
+       "lat": "I ḱe viknete do Boga",
+       "en": "And you will cry to God"
+      },
+      {
+       "cyr": "и крило не ќе најдете,",
+       "lat": "i krilo ne ḱe najdete,",
+       "en": "but you won't find a wing,"
+      },
+      {
+       "cyr": "смирени ќе наведете глави доземи.",
+       "lat": "smireni ḱe navedete glavi dozemi.",
+       "en": "so you will keep your heads down to the ground."
+      },
+      {
+       "cyr": "Еј! Глави до земи.",
+       "lat": "Ej! Glavi do zemi.",
+       "en": "Hey! Heads down to the ground."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ми бидете сираци,",
+       "lat": "Ḱe mi bidete siraci,",
+       "en": "You will be orphans,"
+      },
+      {
+       "cyr": "така било написано.",
+       "lat": "taka bilo napisano.",
+       "en": "for that was written."
+      },
+      {
+       "cyr": "Елате ми да ве гушнам за последен п'т.",
+       "lat": "Elate mi da ve gušnam za posleden p't.",
+       "en": "Come to me, I want to hug you for the last time."
+      },
+      {
+       "cyr": "Еј! За последен пат.",
+       "lat": "Ej! Za posleden pat.",
+       "en": "Hey! For the last time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ч'рна т'га поразила",
+       "lat": "Č'rna t'ga porazila",
+       "en": "A black sorrow overwhelmed"
+      },
+      {
+       "cyr": "старо, младо, м'жи, жени,",
+       "lat": "staro, mlado, m'ži, ženi,",
+       "en": "old, young, men and women,"
+      },
+      {
+       "cyr": "Вси со р'це заплетени с'лзи проливат.",
+       "lat": "Vsi so r'ce zapleteni s'lzi prolivat.",
+       "en": "everyone is with praying hands, shed tears."
+      },
+      {
+       "cyr": "Еј! Солзи поливат.",
+       "lat": "Ej! Solzi polivat.",
+       "en": "Hey! Shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој ги гушка, тие тажни",
+       "lat": "Toj gi guška, tie tažni",
+       "en": "He hugs them, they are sad,"
+      },
+      {
+       "cyr": "му целуват десна р'ка",
+       "lat": "mu celuvat desna r'ka",
+       "en": "they kiss his right hand,"
+      },
+      {
+       "cyr": "и од р'ка как' од извор с'лзи се лејат.",
+       "lat": "i od r'ka kak' od izvor s'lzi se lejat.",
+       "en": "and from the hand, like from a spring, tears flow."
+      },
+      {
+       "cyr": "Еј! Солзи се лејат.",
+       "lat": "Ej! Solzi se lejat.",
+       "en": "Hey! Tears flow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вјахнал Патрик брза коња",
+       "lat": "Vjahnal Patrik brza konja",
+       "en": "The patriarch rode his fast horse,"
+      },
+      {
+       "cyr": "и неволно уп'тил се.",
+       "lat": "i nevolno up'til se.",
+       "en": "and started his journey."
+      },
+      {
+       "cyr": "Тога грмкиј плач народен небо процепил.",
+       "lat": "Toga grmkij plač naroden nebo procepil.",
+       "en": "Then a thundering cry from the people split the sky in half."
+      },
+      {
+       "cyr": "Еј! Небо процепил.",
+       "lat": "Ej! Nebo procepil.",
+       "en": "Hey! Split the sky in half."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Умилил се чесниј Патрик,",
+       "lat": "Umilil se česnij Patrik,",
+       "en": "The honorable patriarch stopped,"
+      },
+      {
+       "cyr": "свалил шапка навезана,",
+       "lat": "svalil šapka navezana,",
+       "en": "took off his embroidered hat,"
+      },
+      {
+       "cyr": "погледал на сино небо, љуто прок'лнал.",
+       "lat": "pogledal na sino nebo, ljuto prok'lnal.",
+       "en": "looked at the blue sky, and cursed with anger."
+      },
+      {
+       "cyr": "Еј! Љуто проколнал:",
+       "lat": "Ej! Ljuto prokolnal:",
+       "en": "Hey! Cursed with anger."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "„Ох! послушај, милиј Боже!",
+       "lat": "„Oh! poslušaj, milij Bože!",
+       "en": "\"Oh, hear me, dear God!"
+      },
+      {
+       "cyr": "Аир никогаш да немаат",
+       "lat": "Air nikogaš da nemaat",
+       "en": "May never find peace,"
+      },
+      {
+       "cyr": "Стамче беј и Бујар Лигдо, Пејко челеби!",
+       "lat": "Stamče bej i Bujar Ligdo, Pejko čelebi!",
+       "en": "Stamche Bey and Bujar Ligdo, Peyko Chelebi\"!"
+      },
+      {
+       "cyr": "Еј! Пејко челеби.",
+       "lat": "Ej! Pejko čelebi.",
+       "en": "Hey! Peyko Chelebi."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милостивиј Бог послушал",
+       "lat": "Milostivij Bog poslušal",
+       "en": "The merciful God heard"
+      },
+      {
+       "cyr": "патричка горешта клетва,",
+       "lat": "patrička gorešta kletva,",
+       "en": "patriarch's bitter curse,"
+      },
+      {
+       "cyr": "слава нивна, семе нивно погубил со шум.",
+       "lat": "slava nivna, seme nivno pogubil so šum.",
+       "en": "and their honor, their seed, he executed with thunder."
+      },
+      {
+       "cyr": "Еј! Погубил со шум.",
+       "lat": "Ej! Pogubil so šum.",
+       "en": "Hey! He executed with thunder."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И сега во куќи нивни",
+       "lat": "I sega vo kuḱi nivni",
+       "en": "And even now in their houses"
+      },
+      {
+       "cyr": "ткае пајак пајажина",
+       "lat": "tkae pajak pajažina",
+       "en": "the spider builds his web,"
+      },
+      {
+       "cyr": "и во пусти стреи нивни хукаат утови.",
+       "lat": "i vo pusti strei nivni hukaat utovi.",
+       "en": "and on the empty rooftops owls a hoot."
+      },
+      {
+       "cyr": "Еј! Хукаат утови.",
+       "lat": "Ej! Hukaat utovi.",
+       "en": "Hey! Owls a hoot."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

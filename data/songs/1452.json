@@ -1,0 +1,222 @@
+{
+ "id": 1452,
+ "slug": "drim-teche-srede-struga",
+ "title_cyr": "Дрим тече среде Струга",
+ "title_latin": "Drim teče srede Struga",
+ "title_en": "The Drim flows through the middle of Struga",
+ "pesna_url": "https://pesna.org/song/1452",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Reads like a modern composed song about Struga, but I cannot name an author, so origin unclear. 'Чинам како' translated as 'I felt as if' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "езеро",
+   "en": "lake"
+  },
+  {
+   "mk": "росна",
+   "en": "dewy"
+  },
+  {
+   "mk": "цветна",
+   "en": "flowering"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "мостови",
+   "en": "bridges"
+  },
+  {
+   "mk": "убавина",
+   "en": "beauty"
+  },
+  {
+   "mk": "кај да",
+   "en": "wherever"
+  },
+  {
+   "mk": "шеташ",
+   "en": "you stroll"
+  },
+  {
+   "mk": "душава",
+   "en": "my soul (with definite article, dialect)"
+  },
+  {
+   "mk": "вторпат",
+   "en": "a second time"
+  }
+ ],
+ "performers": [
+  "Група Зарина",
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/3713"
+  },
+  {
+   "who": "Група Зарина",
+   "url": "https://pesna.org/audio-download/3714"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Знам еден град на езеро",
+       "lat": "Znam eden grad na ezero",
+       "en": "I know a city on a lake"
+      },
+      {
+       "cyr": "како росна цветна градина,",
+       "lat": "kako rosna cvetna gradina,",
+       "en": "like a dewy flowering garden,"
+      },
+      {
+       "cyr": "град на браќа Миладиновци,",
+       "lat": "grad na braḱa Miladinovci,",
+       "en": "city of the Miladinov brothers,"
+      },
+      {
+       "cyr": "град на мостови, песни и убавина.",
+       "lat": "grad na mostovi, pesni i ubavina.",
+       "en": "city of bridges, songs and beauty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дрим тече среде Струга,",
+       "lat": "Drim teče srede Struga,",
+       "en": "The Drim flows through the middle of Struga,"
+      },
+      {
+       "cyr": "како Струга нема друга,",
+       "lat": "kako Struga nema druga,",
+       "en": "there is no other like Struga,"
+      },
+      {
+       "cyr": "кај да одиш, кај да шеташ,",
+       "lat": "kaj da odiš, kaj da šetaš,",
+       "en": "wherever you go, wherever you stroll,"
+      },
+      {
+       "cyr": "тука пак ќе се вратиш.",
+       "lat": "tuka pak ḱe se vratiš.",
+       "en": "you will return here again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во Струга јас не живеам,",
+       "lat": "Vo Struga jas ne živeam,",
+       "en": "I do not live in Struga,"
+      },
+      {
+       "cyr": "но ја носам вечно во душава,",
+       "lat": "no ja nosam večno vo dušava,",
+       "en": "but I carry it forever in my soul,"
+      },
+      {
+       "cyr": "кога прв пат се заљубив,",
+       "lat": "koga prv pat se zaljubiv,",
+       "en": "when I first fell in love,"
+      },
+      {
+       "cyr": "чинам како вторпат да се родив.",
+       "lat": "činam kako vtorpat da se rodiv.",
+       "en": "I felt as if I were born a second time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дрим тече среде Струга,",
+       "lat": "Drim teče srede Struga,",
+       "en": "The Drim flows through the middle of Struga,"
+      },
+      {
+       "cyr": "како Струга нема друга,",
+       "lat": "kako Struga nema druga,",
+       "en": "there is no other like Struga,"
+      },
+      {
+       "cyr": "кај да одиш, кај да шеташ,",
+       "lat": "kaj da odiš, kaj da šetaš,",
+       "en": "wherever you go, wherever you stroll,"
+      },
+      {
+       "cyr": "тука пак ќе се вратиш.",
+       "lat": "tuka pak ḱe se vratiš.",
+       "en": "you will return here again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Знам еден град на езеро",
+       "lat": "Znam eden grad na ezero",
+       "en": "I know a city on a lake"
+      },
+      {
+       "cyr": "како росна цветна градина,",
+       "lat": "kako rosna cvetna gradina,",
+       "en": "like a dewy flowering garden,"
+      },
+      {
+       "cyr": "град на браќа Миладиновци,",
+       "lat": "grad na braḱa Miladinovci,",
+       "en": "city of the Miladinov brothers,"
+      },
+      {
+       "cyr": "град на мостови, песни и убавина.",
+       "lat": "grad na mostovi, pesni i ubavina.",
+       "en": "city of bridges, songs and beauty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дрим тече среде Струга,",
+       "lat": "Drim teče srede Struga,",
+       "en": "The Drim flows through the middle of Struga,"
+      },
+      {
+       "cyr": "како Струга нема друга,",
+       "lat": "kako Struga nema druga,",
+       "en": "there is no other like Struga,"
+      },
+      {
+       "cyr": "кај да одиш, кај да шеташ,",
+       "lat": "kaj da odiš, kaj da šetaš,",
+       "en": "wherever you go, wherever you stroll,"
+      },
+      {
+       "cyr": "тука пак ќе се вратиш.",
+       "lat": "tuka pak ḱe se vratiš.",
+       "en": "you will return here again."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

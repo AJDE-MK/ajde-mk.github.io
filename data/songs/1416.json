@@ -1,0 +1,175 @@
+{
+ "id": 1416,
+ "slug": "dali-ti-pamtish-sevde-bre",
+ "title_cyr": "Дали ти памтиш, Севде бре",
+ "title_latin": "Dali ti pamtiš, Sevde bre",
+ "title_en": "Do you remember, Sevda",
+ "pesna_url": "https://pesna.org/song/1416",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Probably a gurbet (working abroad) song; origin unclear, I cannot name an author. 'ќердосам' is my reading ('to be happy/make a life'); 'ни пари сакам, ни пустам' is my reading ('neither money nor sending').",
+ "words_to_learn": [
+  {
+   "mk": "памтиш",
+   "en": "you remember"
+  },
+  {
+   "mk": "заминвам",
+   "en": "I am leaving"
+  },
+  {
+   "mk": "дробни",
+   "en": "tiny, fine"
+  },
+  {
+   "mk": "роним",
+   "en": "I shed"
+  },
+  {
+   "mk": "танки прсти",
+   "en": "slender fingers"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, abroad"
+  },
+  {
+   "mk": "пуштам",
+   "en": "I send"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "ќердосам",
+   "en": "to enjoy oneself, be happy (my reading)"
+  }
+ ],
+ "performers": [
+  "Цветан Јошевски"
+ ],
+ "audio": [
+  {
+   "who": "Цветан Јошевски",
+   "url": "https://pesna.org/audio-download/3637"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Дали ти памтиш, Севде бре,",
+       "lat": "- Dali ti pamtiš, Sevde bre,",
+       "en": "- Do you remember, Sevda, hey,"
+      },
+      {
+       "cyr": "кога ти реков заминвам?",
+       "lat": "koga ti rekov zaminvam?",
+       "en": "when I told you I am leaving?"
+      },
+      {
+       "cyr": "Тогаш ти почна, Севде бре,",
+       "lat": "Togaš ti počna, Sevde bre,",
+       "en": "Then you began, Sevda, hey,"
+      },
+      {
+       "cyr": "дробни си солзи да рониш.",
+       "lat": "drobni si solzi da roniš.",
+       "en": "to shed tiny tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште зборот недоречен,",
+       "lat": "Ušte zborot nedorečen,",
+       "en": "The word was not yet finished,"
+      },
+      {
+       "cyr": "каде ќе одам, Севде бре.",
+       "lat": "kade ḱe odam, Sevde bre.",
+       "en": "where I will go, Sevda, hey."
+      },
+      {
+       "cyr": "Тогаш ти почна, Севде бре,",
+       "lat": "Togaš ti počna, Sevde bre,",
+       "en": "Then you began, Sevda, hey,"
+      },
+      {
+       "cyr": "танки си прсти да кршиш.",
+       "lat": "tanki si prsti da kršiš.",
+       "en": "to wring your slender fingers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Здрав, жив да бидам, Севде бре,",
+       "lat": "Zdrav, živ da bidam, Sevde bre,",
+       "en": "May I be healthy and alive, Sevda, hey,"
+      },
+      {
+       "cyr": "кога ќе стигнам в' туѓина,",
+       "lat": "koga ḱe stignam v' tuǵina,",
+       "en": "when I arrive in a foreign land,"
+      },
+      {
+       "cyr": "јас ќе ти пуштам пари бре,",
+       "lat": "jas ḱe ti puštam pari bre,",
+       "en": "I will send you money, hey,"
+      },
+      {
+       "cyr": "пари, шарени фустан.",
+       "lat": "pari, šareni fustan.",
+       "en": "money, a colourful dress."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога го писмо јас добив,",
+       "lat": "- Koga go pismo jas dobiv,",
+       "en": "- When I got the letter,"
+      },
+      {
+       "cyr": "ни пари сакам, лудо бре,",
+       "lat": "ni pari sakam, ludo bre,",
+       "en": "I do not want money, lad, hey,"
+      },
+      {
+       "cyr": "ни пари сакам, ни пустам,",
+       "lat": "ni pari sakam, ni pustam,",
+       "en": "I want neither money nor sending,"
+      },
+      {
+       "cyr": "само те тебе јас сакам.",
+       "lat": "samo te tebe jas sakam.",
+       "en": "I want only you."
+      },
+      {
+       "cyr": "Само те тебе јас сакам,",
+       "lat": "Samo te tebe jas sakam,",
+       "en": "I want only you,"
+      },
+      {
+       "cyr": "со тебе да се ќердосам.",
+       "lat": "so tebe da se ḱerdosam.",
+       "en": "to have a good time with you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

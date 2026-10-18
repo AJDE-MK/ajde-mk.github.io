@@ -1,0 +1,185 @@
+{
+ "id": 706,
+ "slug": "of-of-aman",
+ "title_cyr": "Оф, оф, аман",
+ "title_latin": "Of, of, aman",
+ "title_en": "Oh, Oh, Aman",
+ "pesna_url": "https://pesna.org/song/706",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. Line 3 'станаа војник кај служев' is my reading ('years have passed since I served as a soldier'); 'кај' is dialect for 'where/when'.",
+ "words_to_learn": [
+  {
+   "mk": "аман",
+   "en": "alas (Turkish-origin exclamation)"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, troubles"
+  },
+  {
+   "mk": "затвор",
+   "en": "prison"
+  },
+  {
+   "mk": "карцер",
+   "en": "punishment cell"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "стражари",
+   "en": "guards"
+  },
+  {
+   "mk": "шмајзер",
+   "en": "submachine gun (Schmeisser)"
+  },
+  {
+   "mk": "робијаш",
+   "en": "convict"
+  }
+ ],
+ "performers": [
+  "Бисер"
+ ],
+ "audio": [
+  {
+   "who": "Бисер",
+   "url": "https://pesna.org/audio-download/90"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оф, оф, аман, од големите јадови.",
+       "lat": "Of, of, aman, od golemite jadovi.",
+       "en": "Oh, oh, aman, because of the great sorrows."
+      },
+      {
+       "cyr": "Оф, оф, аман, од карцери и затвори.",
+       "lat": "Of, of, aman, od karceri i zatvori.",
+       "en": "Oh, oh, aman, because of cells and prisons."
+      },
+      {
+       "cyr": "Три години станаа војник кај служев,",
+       "lat": "Tri godini stanaa vojnik kaj služev,",
+       "en": "Three years have passed since I served as a soldier,"
+      },
+      {
+       "cyr": "а сега во затвор да лежам.",
+       "lat": "a sega vo zatvor da ležam.",
+       "en": "and now I lie in prison."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми е жал, што сме млади осудени.",
+       "lat": "Ne mi e žal, što sme mladi osudeni.",
+       "en": "I am not sorry that we are young and sentenced."
+      },
+      {
+       "cyr": "Не ми е жал што сме млади затворени,",
+       "lat": "Ne mi e žal što sme mladi zatvoreni,",
+       "en": "I am not sorry that we are young and imprisoned,"
+      },
+      {
+       "cyr": "туку ми е жал што се исполни",
+       "lat": "tuku mi e žal što se ispolni",
+       "en": "but I am sorry that it came true,"
+      },
+      {
+       "cyr": "желбата на наш'те душмани.",
+       "lat": "želbata na naš'te dušmani.",
+       "en": "the wish of our enemies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далеку е мојот мили роден крај,",
+       "lat": "Daleku e mojot mili roden kraj,",
+       "en": "Far away is my dear native land,"
+      },
+      {
+       "cyr": "далеку е, преку албанските гори,",
+       "lat": "daleku e, preku albanskite gori,",
+       "en": "far, across the Albanian mountains,"
+      },
+      {
+       "cyr": "пред нас стојат стражари со шмајзери,",
+       "lat": "pred nas stojat stražari so šmajzeri,",
+       "en": "in front of us stand guards with submachine guns,"
+      },
+      {
+       "cyr": "ние страдаме од душмани.",
+       "lat": "nie stradame od dušmani.",
+       "en": "we suffer from enemies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ох, да знае мој'та мајка кај се возам,",
+       "lat": "Oh, da znae moj'ta majka kaj se vozam,",
+       "en": "Oh, if only my mother knew where I am riding,"
+      },
+      {
+       "cyr": "Ох, да знае параходот каде броди,",
+       "lat": "Oh, da znae parahodot kade brodi,",
+       "en": "oh, if only she knew where the steamship sails,"
+      },
+      {
+       "cyr": "и моторот како жално си брчи,",
+       "lat": "i motorot kako žalno si brči,",
+       "en": "and how sadly the engine hums,"
+      },
+      {
+       "cyr": "тешко му е, робијаши вози.",
+       "lat": "teško mu e, robijaši vozi.",
+       "en": "it is hard for it, it carries convicts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум Илче и со здравје да си одиш,",
+       "lat": "Zbogum Ilče i so zdravje da si odiš,",
+       "en": "Farewell Ilche, and go in good health,"
+      },
+      {
+       "cyr": "збогум Илче, немој да ме заборавиш,",
+       "lat": "zbogum Ilče, nemoj da me zaboraviš,",
+       "en": "farewell Ilche, do not forget me,"
+      },
+      {
+       "cyr": "поздрави ги наш'те браќа и сестри,",
+       "lat": "pozdravi gi naš'te braḱa i sestri,",
+       "en": "greet our brothers and sisters,"
+      },
+      {
+       "cyr": "само немој нашите душмани.",
+       "lat": "samo nemoj našite dušmani.",
+       "en": "but not our enemies."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

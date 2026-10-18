@@ -1,0 +1,96 @@
+{
+ "id": 151,
+ "slug": "narochuva-belo-mende-porochuva",
+ "title_cyr": "Нарочува бело Менде, порочува",
+ "title_latin": "Naročuva belo Mende, poročuva",
+ "title_en": "White Mende sends a note",
+ "pesna_url": "https://pesna.org/song/151",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Бански старчета",
+  "Методија Столески",
+  "Никола Тодоров",
+  "Перун"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1593"
+  },
+  {
+   "who": "Бански старчета, Перун",
+   "url": "https://pesna.org/audio-download/3291"
+  },
+  {
+   "who": "Методија Столески",
+   "url": "https://pesna.org/audio-download/4015"
+  },
+  {
+   "who": "Никола Тодоров",
+   "url": "https://pesna.org/audio-download/4016"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нарочува бело Менде, порочува:",
+       "lat": "Naročuva belo Mende, poročuva:",
+       "en": "White Mende sends a note:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Како знојеш, аџи Павле да си дојеш.",
+       "lat": "- Kako znoješ, adži Pavle da si doješ.",
+       "en": "- \"As soon as you can, pilgrim Pavle, come back\".",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си доеш, аџи Павле пред Петровден,",
+       "lat": "Da si doeš, adži Pavle pred Petrovden,",
+       "en": "Come back, pilgrim Pavle, before Petrovden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пред Петровден, аџи Павле, две недели.",
+       "lat": "pred Petrovden, adži Pavle, dve nedeli.",
+       "en": "before Petrovden, pilgrim Pavle, two weeks before.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не доеш, аџи Павле, пред Петровден,",
+       "lat": "Ako ne doeš, adži Pavle, pred Petrovden,",
+       "en": "If you don't come, pilgrim Pavle, before Petrovden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ќа го најеш бело Менде оможено.",
+       "lat": "ḱa go naješ belo Mende omoženo.",
+       "en": "you will find white Mende married.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

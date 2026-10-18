@@ -1,0 +1,180 @@
+{
+ "id": 43,
+ "slug": "aber-dojde-od-pribilci",
+ "title_cyr": "Абер доjде од Прибилци",
+ "title_latin": "Aber dojde od Pribilci",
+ "title_en": "News came from Pribilci",
+ "pesna_url": "https://pesna.org/song/43",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Heavy Ottoman-era vocabulary and place names (Pribilci, Sapotnica, Debojon); 'мансери', 'мудур', 'муќе' and 'мулвет' are guesses (my reading). The text uses 'j' for Cyrillic 'ј' in places.",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, word (Turkish-origin)"
+  },
+  {
+   "mk": "мудур",
+   "en": "district official (my reading)"
+  },
+  {
+   "mk": "муќе",
+   "en": "muezzin (my reading)"
+  },
+  {
+   "mk": "ефендија",
+   "en": "effendi, sir (title)"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, leader"
+  },
+  {
+   "mk": "мулвет",
+   "en": "leave, permission (Turkish-origin, my reading)"
+  },
+  {
+   "mk": "дур' да појдам",
+   "en": "until I go"
+  },
+  {
+   "mk": "број/нумер",
+   "en": "number, size"
+  }
+ ],
+ "performers": [
+  "Демирхисарски бисери"
+ ],
+ "audio": [
+  {
+   "who": "Демирхисарски бисери",
+   "url": "https://pesna.org/audio-download/15"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Абер доjде во Прибилци)",
+       "lat": "(Aber dojde vo Pribilci)",
+       "en": "(News came to Pribilci)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абер доjде од Прибилци,",
+       "lat": "Aber dojde od Pribilci,",
+       "en": "News came from Pribilci,"
+      },
+      {
+       "cyr": "од Прибилци каj мудурот.",
+       "lat": "od Pribilci kaj mudurot.",
+       "en": "from Pribilci, from the mudur's place."
+      },
+      {
+       "cyr": "Абер доjде од Jордана",
+       "lat": "Aber dojde od Jordana",
+       "en": "News came from the Jordan,"
+      },
+      {
+       "cyr": "за муќета Сулеjманот.",
+       "lat": "za muḱeta Sulejmanot.",
+       "en": "for the muezzin Sulejman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абре муќе ефендијо,",
+       "lat": "Abre muḱe efendijo,",
+       "en": "Hey, muezzin effendi,"
+      },
+      {
+       "cyr": "да ми купиш два мансера,",
+       "lat": "da mi kupiš dva mansera,",
+       "en": "buy me two mansers,"
+      },
+      {
+       "cyr": "да ми купиш два мансера,",
+       "lat": "da mi kupiš dva mansera,",
+       "en": "buy me two mansers,"
+      },
+      {
+       "cyr": "два мансера един нумер.",
+       "lat": "dva mansera edin numer.",
+       "en": "two mansers, one size."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Испрати ги Сапотница,",
+       "lat": "Isprati gi Sapotnica,",
+       "en": "Send them to Sapotnica,"
+      },
+      {
+       "cyr": "Сапотница каj Велета.",
+       "lat": "Sapotnica kaj Veleta.",
+       "en": "Sapotnica, to Veli's."
+      },
+      {
+       "cyr": "Сапотница каj Велета,",
+       "lat": "Sapotnica kaj Veleta,",
+       "en": "Sapotnica, to Veli's,"
+      },
+      {
+       "cyr": "каj Велета Абедина.",
+       "lat": "kaj Veleta Abedina.",
+       "en": "to Veli Abedin's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре Jордан бре Пиперка,",
+       "lat": "A bre Jordan bre Piperka,",
+       "en": "Hey Jordan, hey Piperka,"
+      },
+      {
+       "cyr": "абре Jордан млад Воjводо.",
+       "lat": "abre Jordan mlad Vojvodo.",
+       "en": "hey Jordan, young voivode."
+      },
+      {
+       "cyr": "Даj ми мулвет седум дена,",
+       "lat": "Daj mi mulvet sedum dena,",
+       "en": "Give me leave for seven days,"
+      },
+      {
+       "cyr": "дур' да поjдам во Битола.",
+       "lat": "dur' da pojdam vo Bitola.",
+       "en": "until I go to Bitola."
+      },
+      {
+       "cyr": "Дур' да поjдам во Битола,",
+       "lat": "Dur' da pojdam vo Bitola,",
+       "en": "Until I go to Bitola,"
+      },
+      {
+       "cyr": "во Битола, во Дебоjон.",
+       "lat": "vo Bitola, vo Debojon.",
+       "en": "to Bitola, to Debojon."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

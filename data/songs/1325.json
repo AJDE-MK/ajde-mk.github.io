@@ -1,0 +1,175 @@
+{
+ "id": 1325,
+ "slug": "sobrale-mi-se-nabrale-nashite-lichni-ergeni",
+ "title_cyr": "Собрале ми се набрале нашите лични ергени",
+ "title_latin": "Sobrale mi se nabrale našite lični ergeni",
+ "title_en": "The Handsome Bachelors Gathered",
+ "pesna_url": "https://pesna.org/song/1325",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Пусти ми биле ергени' is my reading ('the bachelors were left empty/forlorn'); 'нф' in the text is a typo for 'оф'.",
+ "words_to_learn": [
+  {
+   "mk": "ерген",
+   "en": "bachelor"
+  },
+  {
+   "mk": "личен",
+   "en": "handsome, good-looking"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "лажат",
+   "en": "they deceive/charm (my reading)"
+  },
+  {
+   "mk": "оро фатија",
+   "en": "took up the dance"
+  },
+  {
+   "mk": "се пуштија",
+   "en": "let go (of the dance), my reading"
+  },
+  {
+   "mk": "застрамија",
+   "en": "grew afraid/shy"
+  },
+  {
+   "mk": "думаше",
+   "en": "was saying (dialect)"
+  },
+  {
+   "mk": "бендисам",
+   "en": "I take a liking to, choose"
+  },
+  {
+   "mk": "гиздава",
+   "en": "adorned, smartly dressed"
+  }
+ ],
+ "performers": [
+  "МФГ Огражденска четворка"
+ ],
+ "audio": [
+  {
+   "who": "МФГ Огражденска четворка",
+   "url": "https://pesna.org/audio-download/3373"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Собрале ми се набрале",
+       "lat": "Sobrale mi se nabrale",
+       "en": "They gathered together,"
+      },
+      {
+       "cyr": "нашите лични ергени,",
+       "lat": "našite lični ergeni,",
+       "en": "our handsome bachelors,"
+      },
+      {
+       "cyr": "оф, леле мале ле,",
+       "lat": "of, lele male le,",
+       "en": "oh, dear mother,"
+      },
+      {
+       "cyr": "на орото да одат,",
+       "lat": "na oroto da odat,",
+       "en": "to go to the dance,"
+      },
+      {
+       "cyr": "оф, леле мале ле,",
+       "lat": "of, lele male le,",
+       "en": "oh, dear mother,"
+      },
+      {
+       "cyr": "убави моми да лажат.",
+       "lat": "ubavi momi da lažat.",
+       "en": "to charm beautiful girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ергени оро фатија,",
+       "lat": "Ergeni oro fatija,",
+       "en": "The bachelors took up the dance,"
+      },
+      {
+       "cyr": "момите ми се пуштија,",
+       "lat": "momite mi se puštija,",
+       "en": "the girls let go,"
+      },
+      {
+       "cyr": "оф, леле мале ле,",
+       "lat": "of, lele male le,",
+       "en": "oh, dear mother,"
+      },
+      {
+       "cyr": "пусти ми биле ергени,",
+       "lat": "pusti mi bile ergeni,",
+       "en": "the bachelors were left empty,"
+      },
+      {
+       "cyr": "оф, леле мале ле,",
+       "lat": "of, lele male le,",
+       "en": "oh, dear mother,"
+      },
+      {
+       "cyr": "застрамија момите.",
+       "lat": "zastramija momite.",
+       "en": "the girls grew shy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ерген на моми думаше:",
+       "lat": "Ergen na momi dumaše:",
+       "en": "A bachelor spoke to the girls:"
+      },
+      {
+       "cyr": "- Елате моми на оро,",
+       "lat": "- Elate momi na oro,",
+       "en": "- Come, girls, to the dance,"
+      },
+      {
+       "cyr": "оф, леле мале ле,",
+       "lat": "of, lele male le,",
+       "en": "oh, dear mother,"
+      },
+      {
+       "cyr": "невеста да си бендисам,",
+       "lat": "nevesta da si bendisam,",
+       "en": "that I may choose a bride,"
+      },
+      {
+       "cyr": "нф, леле мале ле,",
+       "lat": "nf, lele male le,",
+       "en": "oh, dear mother,"
+      },
+      {
+       "cyr": "убава мома гиздава.",
+       "lat": "ubava moma gizdava.",
+       "en": "a beautiful, adorned girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

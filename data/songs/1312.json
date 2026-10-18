@@ -1,0 +1,169 @@
+{
+ "id": 1312,
+ "slug": "dojdi-ljubi-me",
+ "title_cyr": "Дојди љуби ме",
+ "title_latin": "Dojdi ljubi me",
+ "title_en": "Come and Kiss Me",
+ "pesna_url": "https://pesna.org/song/1312",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; no author I can name. 'сал мојво срце не ќе прегори' is my reading (the heart will not burn out).",
+ "words_to_learn": [
+  {
+   "mk": "саноќ",
+   "en": "all night long"
+  },
+  {
+   "mk": "милуваш",
+   "en": "you caress"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "пусти",
+   "en": "empty, deserted"
+  },
+  {
+   "mk": "до зори",
+   "en": "until dawn"
+  },
+  {
+   "mk": "усни",
+   "en": "lips"
+  },
+  {
+   "mk": "неточено",
+   "en": "not yet poured"
+  },
+  {
+   "mk": "рујно",
+   "en": "ruby red"
+  },
+  {
+   "mk": "врие",
+   "en": "ferments, boils"
+  },
+  {
+   "mk": "бргу",
+   "en": "quickly"
+  }
+ ],
+ "performers": [
+  "Захаринка Милосављевиќ"
+ ],
+ "audio": [
+  {
+   "who": "Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/3318"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ чекам да се вратиш,",
+       "lat": "Sanoḱ čekam da se vratiš,",
+       "en": "All night I wait for you to return,"
+      },
+      {
+       "cyr": "да ме љубиш, да ме милуваш,",
+       "lat": "da me ljubiš, da me miluvaš,",
+       "en": "to kiss me, to caress me,"
+      },
+      {
+       "cyr": "а ти седиш в' пусти меани,",
+       "lat": "a ti sediš v' pusti meani,",
+       "en": "and you sit in empty taverns,"
+      },
+      {
+       "cyr": "полниш чаши, пиеш до зори.",
+       "lat": "polniš čaši, pieš do zori.",
+       "en": "fill glasses, drink until dawn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди мило, дојди љуби ме,",
+       "lat": "Dojdi milo, dojdi ljubi me,",
+       "en": "Come, dear, come and kiss me,"
+      },
+      {
+       "cyr": "ноќва мине, бргу ќе помине,",
+       "lat": "noḱva mine, brgu ḱe pomine,",
+       "en": "this night will pass, it will pass quickly,"
+      },
+      {
+       "cyr": "усниве мои се вино неточено,",
+       "lat": "usnive moi se vino netočeno,",
+       "en": "these lips of mine are unpoured wine,"
+      },
+      {
+       "cyr": "вино што врие, што ќе те опие.",
+       "lat": "vino što vrie, što ḱe te opie.",
+       "en": "wine that ferments, that will make you drunk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Остај друштво и меани,",
+       "lat": "Ostaj društvo i meani,",
+       "en": "Leave the company and the taverns,"
+      },
+      {
+       "cyr": "полни чаши рујно вино,",
+       "lat": "polni čaši rujno vino,",
+       "en": "fill glasses with ruby wine,"
+      },
+      {
+       "cyr": "вино врие и ќе преврие,",
+       "lat": "vino vrie i ḱe prevrie,",
+       "en": "the wine ferments and will finish fermenting,"
+      },
+      {
+       "cyr": "сал мојво срце не ќе прегори.",
+       "lat": "sal mojvo srce ne ḱe pregori.",
+       "en": "only this heart of mine will not burn out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди мило, дојди љуби ме,",
+       "lat": "Dojdi milo, dojdi ljubi me,",
+       "en": "Come, dear, come and kiss me,"
+      },
+      {
+       "cyr": "ноќва мине, бргу ќе помине,",
+       "lat": "noḱva mine, brgu ḱe pomine,",
+       "en": "this night will pass, it will pass quickly,"
+      },
+      {
+       "cyr": "усниве мои се вино неточено,",
+       "lat": "usnive moi se vino netočeno,",
+       "en": "these lips of mine are unpoured wine,"
+      },
+      {
+       "cyr": "вино што врие, што ќе те опие.",
+       "lat": "vino što vrie, što ḱe te opie.",
+       "en": "wine that ferments, that will make you drunk."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

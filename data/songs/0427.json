@@ -1,0 +1,175 @@
+{
+ "id": 427,
+ "slug": "ne-plachi-milo-libe-ne-zhali-parahodot",
+ "title_cyr": "Не плачи мило либе, не жали (Параходот)",
+ "title_latin": "Ne plači milo libe, ne žali (Parahodot)",
+ "title_en": "Don’t cry, my love, don’t be sad (The steam boat)",
+ "pesna_url": "https://pesna.org/song/427",
+ "background": "The goodbye at the dock (also known as *The Steamer*). The steamship has arrived; give me your hand, don't cry, I will come back. Her eyes are wet but her mouth is smiling. Take a white handkerchief and wipe your dark eyes.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Тарабунов",
+  "Андријана Јаневска",
+  "Виданка Георгиева",
+  "Горјан Стојановски",
+  "Гоце Касаповски",
+  "Елена Петреска",
+  "Зоран Џорлев",
+  "Меморија",
+  "Мишко Крстевски",
+  "Наум Петрески",
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Силви бенд",
+  "Тоше Проески",
+  "Цане Куртовиќ",
+  "Balkan Jazz Collective"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/445"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/446"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/447"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/448"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/449"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/450"
+  },
+  {
+   "who": "Меморија",
+   "url": "https://pesna.org/audio-download/451"
+  },
+  {
+   "who": "Balkan Jazz Collective",
+   "url": "https://pesna.org/audio-download/452"
+  },
+  {
+   "who": "Зоран Џорлев, Силви бенд",
+   "url": "https://pesna.org/audio-download/453"
+  },
+  {
+   "who": "Зоран Џорлев, Александар Тарабунов",
+   "url": "https://pesna.org/audio-download/454"
+  },
+  {
+   "who": "Зоран Џорлев, Андријана Јаневска",
+   "url": "https://pesna.org/audio-download/455"
+  },
+  {
+   "who": "Зоран Џорлев, Цане Куртовиќ",
+   "url": "https://pesna.org/audio-download/456"
+  },
+  {
+   "who": "Зоран Џорлев, Елена Петреска",
+   "url": "https://pesna.org/audio-download/457"
+  },
+  {
+   "who": "Зоран Џорлев, Гоце Касаповски",
+   "url": "https://pesna.org/audio-download/458"
+  },
+  {
+   "who": "Зоран Џорлев, Горјан Стојановски",
+   "url": "https://pesna.org/audio-download/459"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Параходот ми пристигна",
+       "lat": "Parahodot mi pristigna",
+       "en": "My steam boat is coming in,"
+      },
+      {
+       "cyr": "збогум либе подај рака",
+       "lat": "zbogum libe podaj raka",
+       "en": "give me your hand to say good-bye."
+      },
+      {
+       "cyr": "не плачи мило либе, не жалај",
+       "lat": "ne plači milo libe, ne žalaj",
+       "en": "Don’t cry, my love, don’t be sad,"
+      },
+      {
+       "cyr": "јас пак ќе се вратам.",
+       "lat": "jas pak ḱe se vratam.",
+       "en": "I shall come back again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очите ти насолзени,",
+       "lat": "Očite ti nasolzeni,",
+       "en": "Your eyes full of tears,"
+      },
+      {
+       "cyr": "устето ти насмејано",
+       "lat": "usteto ti nasmejano",
+       "en": "although your lips are smiling."
+      },
+      {
+       "cyr": "не плачи мило либе, не жалај",
+       "lat": "ne plači milo libe, ne žalaj",
+       "en": "Don’t cry, my love, don’t be sad,"
+      },
+      {
+       "cyr": "јас пак ќе се вратам.",
+       "lat": "jas pak ḱe se vratam.",
+       "en": "I shall come back again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја земи си бело крпче,",
+       "lat": "Ja zemi si belo krpče,",
+       "en": "Take a white handkerchief,"
+      },
+      {
+       "cyr": "избриши си црни очи",
+       "lat": "izbriši si crni oči",
+       "en": "wipe your black eyes."
+      },
+      {
+       "cyr": "не плачи мило либе, не жалај",
+       "lat": "ne plači milo libe, ne žalaj",
+       "en": "Don’t cry, my love, don’t be sad,"
+      },
+      {
+       "cyr": "јас пак ќе се вратам.",
+       "lat": "jas pak ḱe se vratam.",
+       "en": "I shall come back again."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

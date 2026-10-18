@@ -1,0 +1,277 @@
+{
+ "id": 365,
+ "slug": "mi-izlegla-evda-niz-charshija",
+ "title_cyr": "Ми излегла Евда низ чаршија",
+ "title_latin": "Mi izlegla Evda niz čaršija",
+ "title_en": "Evda Went Out Through the Bazaar",
+ "pesna_url": "https://pesna.org/song/365",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Голај бива' is rendered 'it is easy' and 'џанам аџамија' as 'my dear rascal' (aџамија = novice or rogue), both my reading. 'Ми заличи' is rendered 'you suit'.",
+ "words_to_learn": [
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market quarter"
+  },
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "срмен елек",
+   "en": "silver-thread embroidered vest"
+  },
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  },
+  {
+   "mk": "шуќур",
+   "en": "thanks (be to God), Turkish loan"
+  },
+  {
+   "mk": "дуќанче",
+   "en": "little shop"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "ламбиче",
+   "en": "little oil lamp"
+  },
+  {
+   "mk": "кроење",
+   "en": "cutting (cloth)"
+  },
+  {
+   "mk": "мера",
+   "en": "measure, measurement"
+  }
+ ],
+ "performers": [
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/691"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми излегла Евда низ чаршија,",
+       "lat": "Mi izlegla Evda niz čaršija,",
+       "en": "Evda went out through the bazaar,"
+      },
+      {
+       "cyr": "низ чаршија Евда низ град Струга,",
+       "lat": "niz čaršija Evda niz grad Struga,",
+       "en": "through the bazaar, Evda, through the town of Struga,"
+      },
+      {
+       "cyr": "да ми бара баш терзија,",
+       "lat": "da mi bara baš terzija,",
+       "en": "to look for a tailor,"
+      },
+      {
+       "cyr": "да ѝ сошие ајде срмен елек,",
+       "lat": "da ì sošie ajde srmen elek,",
+       "en": "to have him sew her, come on, a silver-embroidered vest,"
+      },
+      {
+       "cyr": "да ѝ сошие срмен елек,",
+       "lat": "da ì sošie srmen elek,",
+       "en": "to have him sew her a silver-embroidered vest,"
+      },
+      {
+       "cyr": "срмен елек Евда за Велигден.",
+       "lat": "srmen elek Evda za Veligden.",
+       "en": "a silver-embroidered vest, Evda, for Easter."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Добровечер Миле млад терзија",
+       "lat": "Dobrovečer Mile mlad terzija",
+       "en": "Good evening, Mile, young tailor,"
+      },
+      {
+       "cyr": "дали имаш многу за шиење?",
+       "lat": "dali imaš mnogu za šienje?",
+       "en": "do you have a lot of sewing?"
+      },
+      {
+       "cyr": "Кажи пиле што ми сакаш",
+       "lat": "Kaži pile što mi sakaš",
+       "en": "Tell me, my dear, what you want,"
+      },
+      {
+       "cyr": "и да имам тебе не те враќам,",
+       "lat": "i da imam tebe ne te vraḱam,",
+       "en": "and even if I had, I would not turn you away,"
+      },
+      {
+       "cyr": "шуќур Господ ми те донесе,",
+       "lat": "šuḱur Gospod mi te donese,",
+       "en": "thank God, the Lord brought you to me,"
+      },
+      {
+       "cyr": "ми заличи Евде дуќанчето.",
+       "lat": "mi zaliči Evde duḱančeto.",
+       "en": "Evda, you suit my little shop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе шијам Миле срмен елек",
+       "lat": "Jas ḱe šijam Mile srmen elek",
+       "en": "I will sew, Mile, a silver-embroidered vest,"
+      },
+      {
+       "cyr": "направи ја Миле ти сметката,",
+       "lat": "napravi ja Mile ti smetkata,",
+       "en": "Mile, make up the bill,"
+      },
+      {
+       "cyr": "колку пари ќе ми бараш",
+       "lat": "kolku pari ḱe mi baraš",
+       "en": "how much money will you ask of me"
+      },
+      {
+       "cyr": "да ѝ кажам Миле на мајка ми?",
+       "lat": "da ì kažam Mile na majka mi?",
+       "en": "so I can tell my mother, Mile?"
+      },
+      {
+       "cyr": "Колку пари ќе ми бараш",
+       "lat": "Kolku pari ḱe mi baraš",
+       "en": "How much money will you ask of me"
+      },
+      {
+       "cyr": "да ѝ кажам Миле на мајка ми?",
+       "lat": "da ì kažam Mile na majka mi?",
+       "en": "so I can tell my mother, Mile?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За сметката Евде голај бива",
+       "lat": "Za smetkata Evde golaj biva",
+       "en": "For the bill, Evda, it is easy,"
+      },
+      {
+       "cyr": "лесно ќе се Евде погодиме,",
+       "lat": "lesno ḱe se Evde pogodime,",
+       "en": "we will agree easily, Evda,"
+      },
+      {
+       "cyr": "за кроење милување,",
+       "lat": "za kroenje miluvanje,",
+       "en": "for the cutting, caresses,"
+      },
+      {
+       "cyr": "за шиење, Евде, бакнување.",
+       "lat": "za šienje, Evde, baknuvanje.",
+       "en": "for the sewing, Evda, kisses."
+      },
+      {
+       "cyr": "За кроење милување,",
+       "lat": "Za kroenje miluvanje,",
+       "en": "For the cutting, caresses,"
+      },
+      {
+       "cyr": "за шиење Евде бакнување.",
+       "lat": "za šienje Evde baknuvanje.",
+       "en": "for the sewing, Evda, kisses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затвори го Евде пенџерето",
+       "lat": "Zatvori go Evde pendžereto",
+       "en": "Close the window, Evda,"
+      },
+      {
+       "cyr": "да запалам Евде ламбичето,",
+       "lat": "da zapalam Evde lambičeto,",
+       "en": "so I can light the little lamp,"
+      },
+      {
+       "cyr": "да се гледа за мерење",
+       "lat": "da se gleda za merenje",
+       "en": "so that it can be seen for the measuring,"
+      },
+      {
+       "cyr": "мера Евде пиле да ти земам.",
+       "lat": "mera Evde pile da ti zemam.",
+       "en": "I will take your measure, Evda, my dear."
+      },
+      {
+       "cyr": "Да се гледа за мерење",
+       "lat": "Da se gleda za merenje",
+       "en": "So that it can be seen for the measuring,"
+      },
+      {
+       "cyr": "мера Евде пиле да ти земам.",
+       "lat": "mera Evde pile da ti zemam.",
+       "en": "I will take your measure, Evda, my dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ти Миле џанам аџамија,",
+       "lat": "Ej, ti Mile džanam adžamija,",
+       "en": "Hey, you Mile, my dear rascal,"
+      },
+      {
+       "cyr": "земај мера море ти од око,",
+       "lat": "zemaj mera more ti od oko,",
+       "en": "take the measure, hey, by eye,"
+      },
+      {
+       "cyr": "белки ќе е поубаво",
+       "lat": "belki ḱe e poubavo",
+       "en": "perhaps it will be nicer"
+      },
+      {
+       "cyr": "и за мене Миле и за тебе.",
+       "lat": "i za mene Mile i za tebe.",
+       "en": "for me, Mile, and for you."
+      },
+      {
+       "cyr": "Белки ќе е поубаво",
+       "lat": "Belki ḱe e poubavo",
+       "en": "Perhaps it will be nicer"
+      },
+      {
+       "cyr": "и за мене Миле и за тебе.",
+       "lat": "i za mene Mile i za tebe.",
+       "en": "for me, Mile, and for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,121 @@
+{
+ "id": 701,
+ "slug": "legnalo-mome-zaspalo",
+ "title_cyr": "Легнало моме, заспало",
+ "title_latin": "Legnalo mome, zaspalo",
+ "title_en": "The girl lay down and fell asleep",
+ "pesna_url": "https://pesna.org/song/701",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The first line is repeated in the source; I kept the repetition. 'Направиве' is read as 'we will make' (dialect form).",
+ "words_to_learn": [
+  {
+   "mk": "легнало",
+   "en": "lay down"
+  },
+  {
+   "mk": "заспало",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "дрво високо",
+   "en": "tall tree"
+  },
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "либето",
+   "en": "the sweetheart"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "земиме",
+   "en": "we marry"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Легнало моме заспало",
+       "lat": "Legnalo mome zaspalo",
+       "en": "The girl lay down and fell asleep"
+      },
+      {
+       "cyr": "Легнало моме заспало",
+       "lat": "Legnalo mome zaspalo",
+       "en": "The girl lay down and fell asleep"
+      },
+      {
+       "cyr": "под едно дрво високо.",
+       "lat": "pod edno drvo visoko.",
+       "en": "under a tall tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Легнало моме заспало",
+       "lat": "Legnalo mome zaspalo",
+       "en": "The girl lay down and fell asleep"
+      },
+      {
+       "cyr": "и сладок сон сонувало.",
+       "lat": "i sladok son sonuvalo.",
+       "en": "and dreamed a sweet dream."
+      },
+      {
+       "cyr": "Оздола иде либето",
+       "lat": "Ozdola ide libeto",
+       "en": "From below comes her sweetheart"
+      },
+      {
+       "cyr": "и на момето зборува.",
+       "lat": "i na mometo zboruva.",
+       "en": "and speaks to the girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да те водам до село",
+       "lat": "Aj da te vodam do selo",
+       "en": "Come, let me take you to the village"
+      },
+      {
+       "cyr": "свадба да си направиве.",
+       "lat": "svadba da si napravive.",
+       "en": "and we will hold a wedding."
+      },
+      {
+       "cyr": "Свадба да си направиме",
+       "lat": "Svadba da si napravime",
+       "en": "We will hold a wedding"
+      },
+      {
+       "cyr": "и двајца да се земиме.",
+       "lat": "i dvajca da se zemime.",
+       "en": "and the two of us will marry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

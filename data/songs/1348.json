@@ -1,0 +1,161 @@
+{
+ "id": 1348,
+ "slug": "sednala-ratka-da-tkae",
+ "title_cyr": "Седнала Ратка да ткае",
+ "title_latin": "Sednala Ratka da tkae",
+ "title_en": "Ratka sat down to weave",
+ "pesna_url": "https://pesna.org/song/1348",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; origin unclear. 'Брдо' here is the loom's reed, as the source note explains; the herbs are probably for making a dye or tool (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "ткае",
+   "en": "weave"
+  },
+  {
+   "mk": "разбојче",
+   "en": "little loom"
+  },
+  {
+   "mk": "брдо",
+   "en": "reed (comb part of a loom)"
+  },
+  {
+   "mk": "искршила",
+   "en": "broke"
+  },
+  {
+   "mk": "комшиско",
+   "en": "the neighbour's"
+  },
+  {
+   "mk": "дочуло",
+   "en": "heard"
+  },
+  {
+   "mk": "тревчиња",
+   "en": "little herbs"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3518"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Седнала Ратка да ткае",
+       "lat": "Sednala Ratka da tkae",
+       "en": "Ratka sat down to weave"
+      },
+      {
+       "cyr": "на комшиското разбојче.",
+       "lat": "na komšiskoto razbojče.",
+       "en": "on the neighbour's little loom."
+      },
+      {
+       "cyr": "Само што ми Ратка седнала",
+       "lat": "Samo što mi Ratka sednala",
+       "en": "Ratka had only just sat down"
+      },
+      {
+       "cyr": "брдото го искршила.",
+       "lat": "brdoto go iskršila.",
+       "en": "when she broke the reed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викнала Ратка да плаче:",
+       "lat": "Viknala Ratka da plače:",
+       "en": "Ratka began to cry:"
+      },
+      {
+       "cyr": "- Оф леле боже, до бога!",
+       "lat": "- Of lele bože, do boga!",
+       "en": "- Oh woe, God, oh God!"
+      },
+      {
+       "cyr": "Мене ми се скрши брдото,",
+       "lat": "Mene mi se skrši brdoto,",
+       "en": "My reed has broken,"
+      },
+      {
+       "cyr": "брдото беше комшиско.",
+       "lat": "brdoto beše komšisko.",
+       "en": "the reed was the neighbour's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја дочуло момче кратовче",
+       "lat": "Ja dočulo momče kratovče",
+       "en": "A lad from Kratovo heard her"
+      },
+      {
+       "cyr": "и на Ратка вели, говори:",
+       "lat": "i na Ratka veli, govori:",
+       "en": "and said to Ratka, speaking:"
+      },
+      {
+       "cyr": "- Не плачи Ратке, не жали,",
+       "lat": "- Ne plači Ratke, ne žali,",
+       "en": "- Do not cry, Ratka, do not grieve,"
+      },
+      {
+       "cyr": "јас ќе ти брдо направам.",
+       "lat": "jas ḱe ti brdo napravam.",
+       "en": "I will make you a reed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе си одам в' планина",
+       "lat": "Jas ḱe si odam v' planina",
+       "en": "I will go to the mountain"
+      },
+      {
+       "cyr": "да си наберам тревчиња.",
+       "lat": "da si naberam trevčinja.",
+       "en": "to gather little herbs."
+      },
+      {
+       "cyr": "Брдото ќе ти направам",
+       "lat": "Brdoto ḱe ti napravam",
+       "en": "I will make you the reed"
+      },
+      {
+       "cyr": "и ќе те земам за невеста.",
+       "lat": "i ḱe te zemam za nevesta.",
+       "en": "and I will take you as my bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

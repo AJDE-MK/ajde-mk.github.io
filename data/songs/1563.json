@@ -1,0 +1,257 @@
+{
+ "id": 1563,
+ "slug": "turchin-niz-gora-vrveshe",
+ "title_cyr": "Турчин низ гора врвеше",
+ "title_latin": "Turčin niz gora vrveše",
+ "title_en": "A Turk marched through the forest",
+ "pesna_url": "https://pesna.org/song/1563",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad of captivity under Ottoman rule. The first line in brackets is an alternate opening line, translated as given. 'Мирјанчо' is the baby's name (diminutive).",
+ "words_to_learn": [
+  {
+   "mk": "аскер",
+   "en": "army, soldiers"
+  },
+  {
+   "mk": "робинки",
+   "en": "female captives, slave girls"
+  },
+  {
+   "mk": "невеста",
+   "en": "young bride"
+  },
+  {
+   "mk": "детето",
+   "en": "the child"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "нани",
+   "en": "lullaby word (hush)"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "залула",
+   "en": "rock to sleep"
+  },
+  {
+   "mk": "ропство",
+   "en": "slavery"
+  }
+ ],
+ "performers": [
+  "Јорданка Смилевска"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/4087"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Аскер низ гора врвеше)",
+       "lat": "(Asker niz gora vrveše)",
+       "en": "(Soldiers marched through the forest)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турчин низ гора врвеше",
+       "lat": "Turčin niz gora vrveše",
+       "en": "A Turk marched through the forest"
+      },
+      {
+       "cyr": "моми робинки тераше,",
+       "lat": "momi robinki teraše,",
+       "en": "driving captive girls,"
+      },
+      {
+       "cyr": "напред ми оди Тодорка,",
+       "lat": "napred mi odi Todorka,",
+       "en": "in front goes Todorka,"
+      },
+      {
+       "cyr": "Тодорка млада невеста,",
+       "lat": "Todorka mlada nevesta,",
+       "en": "Todorka, a young bride,"
+      },
+      {
+       "cyr": "Тодорка млада невеста,",
+       "lat": "Todorka mlada nevesta,",
+       "en": "Todorka, a young bride,"
+      },
+      {
+       "cyr": "со машко дете на раце.",
+       "lat": "so maško dete na race.",
+       "en": "with a baby boy in her arms."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турчин на Тода ѝ вели:",
+       "lat": "Turčin na Toda ì veli:",
+       "en": "The Turk says to Toda:"
+      },
+      {
+       "cyr": "- Тодорке млада невесто,",
+       "lat": "- Todorke mlada nevesto,",
+       "en": "- Todorka, young bride,"
+      },
+      {
+       "cyr": "ја остај си го детето.",
+       "lat": "ja ostaj si go deteto.",
+       "en": "leave the child behind."
+      },
+      {
+       "cyr": "Ја остај си го детето",
+       "lat": "Ja ostaj si go deteto",
+       "en": "Leave the child behind"
+      },
+      {
+       "cyr": "кај таа чешма студена",
+       "lat": "kaj taa češma studena",
+       "en": "by that cold fountain,"
+      },
+      {
+       "cyr": "кај тие мермер камења.",
+       "lat": "kaj tie mermer kamenja.",
+       "en": "by those marble stones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тода си турчин послуша",
+       "lat": "Toda si turčin posluša",
+       "en": "Toda obeyed the Turk,"
+      },
+      {
+       "cyr": "си го остави детето",
+       "lat": "si go ostavi deteto",
+       "en": "she left the child"
+      },
+      {
+       "cyr": "кај таа чешма студена",
+       "lat": "kaj taa češma studena",
+       "en": "by that cold fountain,"
+      },
+      {
+       "cyr": "кај тие мермер камења.",
+       "lat": "kaj tie mermer kamenja.",
+       "en": "by those marble stones."
+      },
+      {
+       "cyr": "Тодорка млада невеста",
+       "lat": "Todorka mlada nevesta",
+       "en": "Todorka, the young bride,"
+      },
+      {
+       "cyr": "лепа му песна запеа:",
+       "lat": "lepa mu pesna zapea:",
+       "en": "sang him a lovely song:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нани ми, нани, Мирјанчо",
+       "lat": "Nani mi, nani, Mirjančo",
+       "en": "Hush, hush, my Mirjancho,"
+      },
+      {
+       "cyr": "големо да ми пораснеш!",
+       "lat": "golemo da mi porasneš!",
+       "en": "grow up big for me!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе роса зароси",
+       "lat": "Koga ḱe rosa zarosi",
+       "en": "When the dew falls,"
+      },
+      {
+       "cyr": "Мирјанчо да го искапе,",
+       "lat": "Mirjančo da go iskape,",
+       "en": "let Mirjancho be bathed,"
+      },
+      {
+       "cyr": "кога ќе стадо заблее",
+       "lat": "koga ḱe stado zablee",
+       "en": "when the flock bleats,"
+      },
+      {
+       "cyr": "Мирјанчо да го надои,",
+       "lat": "Mirjančo da go nadoi,",
+       "en": "let Mirjancho be fed,"
+      },
+      {
+       "cyr": "кога ќе ветер завее",
+       "lat": "koga ḱe veter zavee",
+       "en": "when the wind blows,"
+      },
+      {
+       "cyr": "Мирјанчо да го залула.",
+       "lat": "Mirjančo da go zalula.",
+       "en": "let Mirjancho be rocked."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мирјанчо да го залула,",
+       "lat": "Mirjančo da go zalula,",
+       "en": "Let Mirjancho be rocked,"
+      },
+      {
+       "cyr": "големо да ми порасне,",
+       "lat": "golemo da mi porasne,",
+       "en": "let him grow up big for me,"
+      },
+      {
+       "cyr": "на крала кралство да земе",
+       "lat": "na krala kralstvo da zeme",
+       "en": "let him take a kingdom from a king,"
+      },
+      {
+       "cyr": "на цара царство да земе",
+       "lat": "na cara carstvo da zeme",
+       "en": "let him take an empire from an emperor,"
+      },
+      {
+       "cyr": "мене од ропство да извади.",
+       "lat": "mene od ropstvo da izvadi.",
+       "en": "let him free me from slavery."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,132 @@
+{
+ "id": 547,
+ "slug": "devojche-belo-crveno",
+ "title_cyr": "Девојче бело, црвено",
+ "title_latin": "Devojče belo, crveno",
+ "title_en": "Girl white, red",
+ "pesna_url": "https://pesna.org/song/547",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Индекси",
+  "Марјан Коцев",
+  "Мелодија бенд",
+  "Спасе Матлиоски",
+  "Форум",
+  "Art Plaza",
+  "Medium Band"
+ ],
+ "audio": [
+  {
+   "who": "Марјан Коцев",
+   "url": "https://pesna.org/audio-download/1991"
+  },
+  {
+   "who": "Индекси",
+   "url": "https://pesna.org/audio-download/1992"
+  },
+  {
+   "who": "Спасе Матлиоски",
+   "url": "https://pesna.org/audio-download/1993"
+  },
+  {
+   "who": "Art Plaza",
+   "url": "https://pesna.org/audio-download/1994"
+  },
+  {
+   "who": "Medium Band",
+   "url": "https://pesna.org/audio-download/1995"
+  },
+  {
+   "who": "Форум",
+   "url": "https://pesna.org/audio-download/1996"
+  },
+  {
+   "who": "Мелодија бенд",
+   "url": "https://pesna.org/audio-download/2230"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Девојче бело, црвено",
+       "lat": "- Devojče belo, crveno",
+       "en": "Girl, white, red,"
+      },
+      {
+       "cyr": "не оди рано на вода.",
+       "lat": "ne odi rano na voda.",
+       "en": "don't go early for water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не оди рано на вода,",
+       "lat": "Ne odi rano na voda,",
+       "en": "Don't go early for water,"
+      },
+      {
+       "cyr": "водата ти е далеку.",
+       "lat": "vodata ti e daleku.",
+       "en": "your water is far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Водата ти е далеку,",
+       "lat": "Vodata ti e daleku,",
+       "en": "Your water is far away,"
+      },
+      {
+       "cyr": "бунарот - преку Вардарот.",
+       "lat": "bunarot - preku Vardarot.",
+       "en": "the well – across the Vardar."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе легнеш, ќе си заспиеш,",
+       "lat": "Ḱe legneš, ḱe si zaspieš,",
+       "en": "You will lie down, you will sleep,"
+      },
+      {
+       "cyr": "нема кој да те разбуди.",
+       "lat": "nema koj da te razbudi.",
+       "en": "there is no one to wake you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас имам братче вардарче,",
+       "lat": "- Jas imam bratče vardarče,",
+       "en": "I have a little brother, of the Vardar,"
+      },
+      {
+       "cyr": "ќе дојде, ќе ме разбуди.",
+       "lat": "ḱe dojde, ḱe me razbudi.",
+       "en": "he will come, he will wake me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

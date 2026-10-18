@@ -1,0 +1,174 @@
+{
+ "id": 1551,
+ "slug": "ne-se-krie-merak-makedonski",
+ "title_cyr": "Не се крие мерак македонски",
+ "title_latin": "Ne se krie merak makedonski",
+ "title_en": "Macedonian Merak Cannot Be Hidden",
+ "pesna_url": "https://pesna.org/song/1551",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a modern composition but I cannot name an author. 'Висушки' is a guess (my reading: weeping willows, or dried-up things). 'Несонети' (unmown) is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "deep longing, passion, relish (Turkish loan)"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace of coins or beads"
+  },
+  {
+   "mk": "искинати",
+   "en": "torn, snapped"
+  },
+  {
+   "mk": "искрено",
+   "en": "sincerely"
+  },
+  {
+   "mk": "прозборам",
+   "en": "I will speak out"
+  },
+  {
+   "mk": "пробива",
+   "en": "breaks through"
+  },
+  {
+   "mk": "ливада",
+   "en": "meadow"
+  },
+  {
+   "mk": "класови",
+   "en": "ears of grain"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "висушки",
+   "en": "weeping willows (my reading)"
+  }
+ ],
+ "performers": [
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/4040"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, години поминати,",
+       "lat": "Ej, godini pominati,",
+       "en": "Hey, years gone by,"
+      },
+      {
+       "cyr": "еј, ѓердани искинати.",
+       "lat": "ej, ǵerdani iskinati.",
+       "en": "hey, necklaces torn."
+      },
+      {
+       "cyr": "Еден ден, еден миг",
+       "lat": "Eden den, eden mig",
+       "en": "One day, one moment,"
+      },
+      {
+       "cyr": "срце ќе отворам,",
+       "lat": "srce ḱe otvoram,",
+       "en": "I will open my heart,"
+      },
+      {
+       "cyr": "еј, искрено ќе прозборам.",
+       "lat": "ej, iskreno ḱe prozboram.",
+       "en": "hey, I will speak sincerely."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се крие мерак македонски,",
+       "lat": "Ne se krie merak makedonski,",
+       "en": "Macedonian merak is not hidden,"
+      },
+      {
+       "cyr": "в' гради пробива,",
+       "lat": "v' gradi probiva,",
+       "en": "it breaks through in the chest,"
+      },
+      {
+       "cyr": "ниту вино, ниту ракија",
+       "lat": "nitu vino, nitu rakija",
+       "en": "neither wine nor brandy"
+      },
+      {
+       "cyr": "го заспива.",
+       "lat": "go zaspiva.",
+       "en": "puts it to sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, ливади несонети,",
+       "lat": "Ej, livadi nesoneti,",
+       "en": "Hey, meadows unmown,"
+      },
+      {
+       "cyr": "еј, класови изронети.",
+       "lat": "ej, klasovi izroneti.",
+       "en": "hey, ears of grain shed."
+      },
+      {
+       "cyr": "Спомени далечни душа ќе изгорат,",
+       "lat": "Spomeni dalečni duša ḱe izgorat,",
+       "en": "Distant memories will burn the soul,"
+      },
+      {
+       "cyr": "еј, висушки што говорат.",
+       "lat": "ej, visuški što govorat.",
+       "en": "hey, weeping willows that speak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се крие мерак македонски,",
+       "lat": "Ne se krie merak makedonski,",
+       "en": "Macedonian merak is not hidden,"
+      },
+      {
+       "cyr": "в' гради пробива,",
+       "lat": "v' gradi probiva,",
+       "en": "it breaks through in the chest,"
+      },
+      {
+       "cyr": "ниту вино, ниту ракија",
+       "lat": "nitu vino, nitu rakija",
+       "en": "neither wine nor brandy"
+      },
+      {
+       "cyr": "го заспива.",
+       "lat": "go zaspiva.",
+       "en": "puts it to sleep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

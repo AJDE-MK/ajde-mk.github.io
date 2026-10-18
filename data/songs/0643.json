@@ -1,0 +1,194 @@
+{
+ "id": 643,
+ "slug": "ej-todore",
+ "title_cyr": "Еј Тодоре",
+ "title_latin": "Ej Todore",
+ "title_en": "Hey Todore",
+ "pesna_url": "https://pesna.org/song/643",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Калеш' is my reading as 'young man / lad'; the exact sense may differ regionally.",
+ "words_to_learn": [
+  {
+   "mk": "калеш",
+   "en": "young man, lad (Turkish-origin word, 'kalesh')"
+  },
+  {
+   "mk": "дилбер",
+   "en": "handsome, beloved"
+  },
+  {
+   "mk": "оган да те изгоре",
+   "en": "may fire burn you (mild affectionate curse)"
+  },
+  {
+   "mk": "креваш јадове",
+   "en": "you raise (stir up) sorrows"
+  },
+  {
+   "mk": "разболе",
+   "en": "made ill"
+  },
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  },
+  {
+   "mk": "криеш",
+   "en": "you hide"
+  },
+  {
+   "mk": "љубиш",
+   "en": "you love"
+  }
+ ],
+ "performers": [
+  "Маријана и Росана"
+ ],
+ "audio": [
+  {
+   "who": "Маријана и Росана",
+   "url": "https://pesna.org/audio-download/903"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј Тодоре, калеш Тодоре,",
+       "lat": "Ej Todore, kaleš Todore,",
+       "en": "Hey Todore, young Todore,"
+      },
+      {
+       "cyr": "каде одиш дилбере,",
+       "lat": "kade odiš dilbere,",
+       "en": "where are you going, handsome,"
+      },
+      {
+       "cyr": "оган да те изгоре?",
+       "lat": "ogan da te izgore?",
+       "en": "may fire burn you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј Тодоре, калеш Тодоре",
+       "lat": "Ej Todore, kaleš Todore",
+       "en": "Hey Todore, young Todore,"
+      },
+      {
+       "cyr": "што ми креваш јадове?",
+       "lat": "što mi krevaš jadove?",
+       "en": "why do you stir up my sorrows?"
+      },
+      {
+       "cyr": "Еј Тодоре, дилбер Тодоре",
+       "lat": "Ej Todore, dilber Todore",
+       "en": "Hey Todore, handsome Todore,"
+      },
+      {
+       "cyr": "ајде кажи сега сé.",
+       "lat": "ajde kaži sega sé.",
+       "en": "come on, tell me everything now."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј Тодоре, калеш Тодоре",
+       "lat": "Ej Todore, kaleš Todore",
+       "en": "Hey Todore, young Todore,"
+      },
+      {
+       "cyr": "ти ме море разболе,",
+       "lat": "ti me more razbole,",
+       "en": "you made me ill, my dear,"
+      },
+      {
+       "cyr": "саноќ мислам на тебе.",
+       "lat": "sanoḱ mislam na tebe.",
+       "en": "all night I think of you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј Тодоре, калеш Тодоре",
+       "lat": "Ej Todore, kaleš Todore",
+       "en": "Hey Todore, young Todore,"
+      },
+      {
+       "cyr": "што ми креваш јадове?",
+       "lat": "što mi krevaš jadove?",
+       "en": "why do you stir up my sorrows?"
+      },
+      {
+       "cyr": "Еј Тодоре, дилбер Тодоре",
+       "lat": "Ej Todore, dilber Todore",
+       "en": "Hey Todore, handsome Todore,"
+      },
+      {
+       "cyr": "ајде кажи сега сé.",
+       "lat": "ajde kaži sega sé.",
+       "en": "come on, tell me everything now."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј Тодоре, калеш Тодоре",
+       "lat": "Ej Todore, kaleš Todore",
+       "en": "Hey Todore, young Todore,"
+      },
+      {
+       "cyr": "зошто криеш од мене",
+       "lat": "zošto krieš od mene",
+       "en": "why do you hide from me"
+      },
+      {
+       "cyr": "љубиш друга или не?",
+       "lat": "ljubiš druga ili ne?",
+       "en": "whether you love another or not?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј Тодоре, калеш Тодоре",
+       "lat": "Ej Todore, kaleš Todore",
+       "en": "Hey Todore, young Todore,"
+      },
+      {
+       "cyr": "што ми креваш јадове?",
+       "lat": "što mi krevaš jadove?",
+       "en": "why do you stir up my sorrows?"
+      },
+      {
+       "cyr": "Еј Тодоре, дилбер Тодоре",
+       "lat": "Ej Todore, dilber Todore",
+       "en": "Hey Todore, handsome Todore,"
+      },
+      {
+       "cyr": "ајде кажи сега сé.",
+       "lat": "ajde kaži sega sé.",
+       "en": "come on, tell me everything now."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

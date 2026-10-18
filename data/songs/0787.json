@@ -1,0 +1,217 @@
+{
+ "id": 787,
+ "slug": "sobrale-mi-se",
+ "title_cyr": "Собрале ми се",
+ "title_latin": "Sobrale mi se",
+ "title_en": "They Gathered",
+ "pesna_url": "https://pesna.org/song/787",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional revolutionary song about Gotse Delchev and the IMRO period, no author known. 'Дејгиди' I read as an encouraging exclamation ('onward'); 'блазе ле' I read as an endearment; both are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "собрале",
+   "en": "they gathered"
+  },
+  {
+   "mk": "брдо",
+   "en": "hill"
+  },
+  {
+   "mk": "поле",
+   "en": "field, plain"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel chieftain"
+  },
+  {
+   "mk": "дружина",
+   "en": "company, band of comrades"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas, rebel fighters"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "onward (dialect exclamation, from ајде/дејгиди)"
+  },
+  {
+   "mk": "бомба",
+   "en": "bomb"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "блазе",
+   "en": "blessed one, dear one (my reading)"
+  }
+ ],
+ "performers": [
+  "Костурчанки"
+ ],
+ "audio": [
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/1472"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Собрале ми се, набрале, леле",
+       "lat": "Sobrale mi se, nabrale, lele",
+       "en": "They gathered, they assembled, oh dear,"
+      },
+      {
+       "cyr": "на тоа брдо високо.",
+       "lat": "na toa brdo visoko.",
+       "en": "on that high hill."
+      },
+      {
+       "cyr": "На тоа брдо високо, леле,",
+       "lat": "Na toa brdo visoko, lele,",
+       "en": "On that high hill, oh dear,"
+      },
+      {
+       "cyr": "во Серско поле широко.",
+       "lat": "vo Sersko pole široko.",
+       "en": "in the wide Serres plain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој Гоце Делчев војвода, леле,",
+       "lat": "Toj Goce Delčev vojvoda, lele,",
+       "en": "That Gotse Delchev, the voivode, oh dear,"
+      },
+      {
+       "cyr": "со неговата дружина.",
+       "lat": "so negovata družina.",
+       "en": "with his company."
+      },
+      {
+       "cyr": "Дејгиди Делчев, војвода, леле,",
+       "lat": "Dejgidi Delčev, vojvoda, lele,",
+       "en": "Onward, Delchev, voivode, oh dear,"
+      },
+      {
+       "cyr": "дејгиди силна Македонијо.",
+       "lat": "dejgidi silna Makedonijo.",
+       "en": "onward, mighty Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ни умираш блазе ле, леле,",
+       "lat": "Ti ni umiraš blaze le, lele,",
+       "en": "You are dying, dear one, oh dear,"
+      },
+      {
+       "cyr": "на кој оставаш твојта дружина?",
+       "lat": "na koj ostavaš tvojta družina?",
+       "en": "to whom do you leave your company?"
+      },
+      {
+       "cyr": "На кој оставаш твојта дружина, леле,",
+       "lat": "Na koj ostavaš tvojta družina, lele,",
+       "en": "To whom do you leave your company, oh dear,"
+      },
+      {
+       "cyr": "дружина млади комити.",
+       "lat": "družina mladi komiti.",
+       "en": "the company of young rebels?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас те оставам, верна дружно, леле,",
+       "lat": "Jas te ostavam, verna družno, lele,",
+       "en": "I leave you, faithful company, oh dear,"
+      },
+      {
+       "cyr": "на војводата Јане Сандански.",
+       "lat": "na vojvodata Jane Sandanski.",
+       "en": "to the voivode Jane Sandanski."
+      },
+      {
+       "cyr": "Дејгиди Делчев војвода, леле,",
+       "lat": "Dejgidi Delčev vojvoda, lele,",
+       "en": "Onward, Delchev, voivode, oh dear,"
+      },
+      {
+       "cyr": "дејгиди силна Македонијо.",
+       "lat": "dejgidi silna Makedonijo.",
+       "en": "onward, mighty Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва бомба фрли Јане Сандански, леле",
+       "lat": "Prva bomba frli Jane Sandanski, lele",
+       "en": "The first bomb was thrown by Jane Sandanski, oh dear,"
+      },
+      {
+       "cyr": "втора бомба фрли Тодор Паница.",
+       "lat": "vtora bomba frli Todor Panica.",
+       "en": "the second bomb was thrown by Todor Panica."
+      },
+      {
+       "cyr": "Гледајте врагот, верна дружино,",
+       "lat": "Gledajte vragot, verna družino,",
+       "en": "Watch the enemy, faithful company,"
+      },
+      {
+       "cyr": "стрелајте право на душманите.",
+       "lat": "strelajte pravo na dušmanite.",
+       "en": "shoot straight at the foes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди Делчев војвода, леле,",
+       "lat": "Dejgidi Delčev vojvoda, lele,",
+       "en": "Onward, Delchev, voivode, oh dear,"
+      },
+      {
+       "cyr": "дејгиди силна Македонијо.",
+       "lat": "dejgidi silna Makedonijo.",
+       "en": "onward, mighty Macedonia."
+      },
+      {
+       "cyr": "Дејгиди Делчев војвода, леле,",
+       "lat": "Dejgidi Delčev vojvoda, lele,",
+       "en": "Onward, Delchev, voivode, oh dear,"
+      },
+      {
+       "cyr": "дејгиди силна Македонијо.",
+       "lat": "dejgidi silna Makedonijo.",
+       "en": "onward, mighty Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

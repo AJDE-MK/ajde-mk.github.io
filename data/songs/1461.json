@@ -1,0 +1,259 @@
+{
+ "id": 1461,
+ "slug": "aj-da-ojme-jano",
+ "title_cyr": "Ај да ојме Јано",
+ "title_latin": "Aj da ojme Jano",
+ "title_en": "Come On, Let's Go, Jana",
+ "pesna_url": "https://pesna.org/song/1461",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Ај да ојме' as 'let's go' and 'Горниот Порој' as a place name are my reading; 'пуста Јано' could be affectionate rather than negative.",
+ "words_to_learn": [
+  {
+   "mk": "ај да ојме",
+   "en": "come on, let's go (dialect)"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar quarter"
+  },
+  {
+   "mk": "шамија",
+   "en": "headscarf"
+  },
+  {
+   "mk": "антерија",
+   "en": "long robe-like garment"
+  },
+  {
+   "mk": "прилега",
+   "en": "it suits, it fits"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "oh my / well well (exclamation)"
+  },
+  {
+   "mk": "пуста",
+   "en": "wretched / poor (affectionate)"
+  }
+ ],
+ "performers": [
+  "Влатко Миладиноски",
+  "Јанко Неделчев"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/3745"
+  },
+  {
+   "who": "Јанко Неделчев",
+   "url": "https://pesna.org/audio-download/4267"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај да ојме Јано, ај да ојме,",
+       "lat": "Aj da ojme Jano, aj da ojme,",
+       "en": "Come on, let's go, Jana, come on, let's go,"
+      },
+      {
+       "cyr": "ај да ојме Јано Горниот Порој,",
+       "lat": "aj da ojme Jano Gorniot Poroj,",
+       "en": "come on, let's go, Jana, to Gorni Poroj,"
+      },
+      {
+       "cyr": "ај да ојме Јано, Горниот Порој.",
+       "lat": "aj da ojme Jano, Gorniot Poroj.",
+       "en": "come on, let's go, Jana, to Gorni Poroj."
+      },
+      {
+       "cyr": "Горниот Порој, Јано, Горниот Порој,",
+       "lat": "Gorniot Poroj, Jano, Gorniot Poroj,",
+       "en": "Gorni Poroj, Jana, Gorni Poroj,"
+      },
+      {
+       "cyr": "Горниот Порој, Јано, чаршијата,",
+       "lat": "Gorniot Poroj, Jano, čaršijata,",
+       "en": "Gorni Poroj, Jana, to the market,"
+      },
+      {
+       "cyr": "Горниот Порој, Јано, чаршијата.",
+       "lat": "Gorniot Poroj, Jano, čaršijata.",
+       "en": "Gorni Poroj, Jana, to the market."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деј гиди Јано мори, бела Јано,",
+       "lat": "Dej gidi Jano mori, bela Jano,",
+       "en": "Oh my, Jana, hey, fair Jana,"
+      },
+      {
+       "cyr": "деј гиди Јано мори, бела Јано.",
+       "lat": "dej gidi Jano mori, bela Jano.",
+       "en": "oh my, Jana, hey, fair Jana."
+      },
+      {
+       "cyr": "Оф, Јано, Јано, Јано,",
+       "lat": "Of, Jano, Jano, Jano,",
+       "en": "Of, Jana, Jana, Jana,"
+      },
+      {
+       "cyr": "дејгиди бела Јано,",
+       "lat": "dejgidi bela Jano,",
+       "en": "oh my, fair Jana,"
+      },
+      {
+       "cyr": "Јано, Јано мори, пуста Јано.",
+       "lat": "Jano, Jano mori, pusta Jano.",
+       "en": "Jana, Jana, hey, wretched Jana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' ќе ти купам, Јано, там' ќе ти купам,",
+       "lat": "Tam' ḱe ti kupam, Jano, tam' ḱe ti kupam,",
+       "en": "There I will buy you, Jana, there I will buy you,"
+      },
+      {
+       "cyr": "там' ќе ти купам Јано, шам-шамија,",
+       "lat": "tam' ḱe ti kupam Jano, šam-šamija,",
+       "en": "there I will buy you, Jana, a headscarf,"
+      },
+      {
+       "cyr": "шам-шамија, Јано, антерија.",
+       "lat": "šam-šamija, Jano, anterija.",
+       "en": "a headscarf, Jana, an anterija robe."
+      },
+      {
+       "cyr": "Ти да ја носиш, Јано, ти да ја носиш,",
+       "lat": "Ti da ja nosiš, Jano, ti da ja nosiš,",
+       "en": "You wear it, Jana, you wear it,"
+      },
+      {
+       "cyr": "ти да ја носиш, Јано, јас да те гледам,",
+       "lat": "ti da ja nosiš, Jano, jas da te gledam,",
+       "en": "you wear it, Jana, and I will look at you,"
+      },
+      {
+       "cyr": "ти да ја носиш, Јано, јас да те гледам.",
+       "lat": "ti da ja nosiš, Jano, jas da te gledam.",
+       "en": "you wear it, Jana, and I will look at you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деј гиди Јано мори, бела Јано,",
+       "lat": "Dej gidi Jano mori, bela Jano,",
+       "en": "Oh my, Jana, hey, fair Jana,"
+      },
+      {
+       "cyr": "деј гиди Јано мори, бела Јано.",
+       "lat": "dej gidi Jano mori, bela Jano.",
+       "en": "oh my, Jana, hey, fair Jana."
+      },
+      {
+       "cyr": "Оф, Јано, Јано, Јано,",
+       "lat": "Of, Jano, Jano, Jano,",
+       "en": "Of, Jana, Jana, Jana,"
+      },
+      {
+       "cyr": "дејгиди бела Јано,",
+       "lat": "dejgidi bela Jano,",
+       "en": "oh my, fair Jana,"
+      },
+      {
+       "cyr": "Јано, Јано мори, пуста Јано.",
+       "lat": "Jano, Jano mori, pusta Jano.",
+       "en": "Jana, Jana, hey, wretched Jana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас да те гледам, Јано, јас да те гледам,",
+       "lat": "Jas da te gledam, Jano, jas da te gledam,",
+       "en": "So I can look at you, Jana, so I can look at you,"
+      },
+      {
+       "cyr": "јас да те гледам, Јано, дал' ти прилега,",
+       "lat": "jas da te gledam, Jano, dal' ti prilega,",
+       "en": "so I can look at you, Jana, whether it suits you,"
+      },
+      {
+       "cyr": "јас да те гледам, Јано, дал' ти прилега.",
+       "lat": "jas da te gledam, Jano, dal' ti prilega.",
+       "en": "so I can look at you, Jana, whether it suits you."
+      },
+      {
+       "cyr": "Да си пукнат, Јано, да си пукнат,",
+       "lat": "Da si puknat, Jano, da si puknat,",
+       "en": "May they burst, Jana, may they burst,"
+      },
+      {
+       "cyr": "да си пукнат, Јано, душманите,",
+       "lat": "da si puknat, Jano, dušmanite,",
+       "en": "may they burst, Jana, the enemies,"
+      },
+      {
+       "cyr": "и моите, Јано, и твоите.",
+       "lat": "i moite, Jano, i tvoite.",
+       "en": "both mine, Jana, and yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Деј гиди Јано мори, бела Јано,",
+       "lat": "Dej gidi Jano mori, bela Jano,",
+       "en": "Oh my, Jana, hey, fair Jana,"
+      },
+      {
+       "cyr": "деј гиди Јано мори, бела Јано.",
+       "lat": "dej gidi Jano mori, bela Jano.",
+       "en": "oh my, Jana, hey, fair Jana."
+      },
+      {
+       "cyr": "Оф, Јано, Јано, Јано,",
+       "lat": "Of, Jano, Jano, Jano,",
+       "en": "Of, Jana, Jana, Jana,"
+      },
+      {
+       "cyr": "дејгиди бела Јано,",
+       "lat": "dejgidi bela Jano,",
+       "en": "oh my, fair Jana,"
+      },
+      {
+       "cyr": "Јано, Јано мори, пуста Јано.",
+       "lat": "Jano, Jano mori, pusta Jano.",
+       "en": "Jana, Jana, hey, wretched Jana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,176 @@
+{
+ "id": 1598,
+ "slug": "trgnala-rumena-za-voda-studena",
+ "title_cyr": "Тргнала Румена за вода студена",
+ "title_latin": "Trgnala Rumena za voda studena",
+ "title_en": "Rumena Set Out for Cold Water",
+ "pesna_url": "https://pesna.org/song/1598",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; folk style but I cannot name an author. 'Руме' is a vocative of Rumena. 'Лудо младо' rendered as 'mad young lad' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "тргнала",
+   "en": "set out"
+  },
+  {
+   "mk": "студена",
+   "en": "cold"
+  },
+  {
+   "mk": "сретна",
+   "en": "met"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "mad young lad, wild youth"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  },
+  {
+   "mk": "набереш",
+   "en": "you will pick"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "пошарени",
+   "en": "more colorful"
+  },
+  {
+   "mk": "целувка",
+   "en": "kiss"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски",
+  "Јанка Рупкина",
+  "Непознат изведувач",
+  "Теодосиј Спасов"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/4168"
+  },
+  {
+   "who": "Јанка Рупкина, Теодосиј Спасов",
+   "url": "https://pesna.org/audio-download/4169"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4182"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргнала Румена за вода студена, леле,",
+       "lat": "Trgnala Rumena za voda studena, lele,",
+       "en": "Rumena set out for cold water, oh dear,"
+      },
+      {
+       "cyr": "тргнала Румена за вода студена.",
+       "lat": "trgnala Rumena za voda studena.",
+       "en": "Rumena set out for cold water."
+      },
+      {
+       "cyr": "На пат ја сретна едно лудо младо, леле,",
+       "lat": "Na pat ja sretna edno ludo mlado, lele,",
+       "en": "On the road she met a mad young lad, oh dear,"
+      },
+      {
+       "cyr": "и на Румена тихо ѝ говори.",
+       "lat": "i na Rumena tiho ì govori.",
+       "en": "and he speaks softly to Rumena."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи Румено што да ти направам, леле,",
+       "lat": "- Kaži Rumeno što da ti napravam, lele,",
+       "en": "- Tell me, Rumena, what shall I do for you, oh dear,"
+      },
+      {
+       "cyr": "кажи Румено, што да ти чинам?",
+       "lat": "kaži Rumeno, što da ti činam?",
+       "en": "tell me, Rumena, what shall I do?"
+      },
+      {
+       "cyr": "Цвеќе да ти земам, друго ќе набереш, леле,",
+       "lat": "Cveḱe da ti zemam, drugo ḱe nabereš, lele,",
+       "en": "If I take your flowers, you will pick others, oh dear,"
+      },
+      {
+       "cyr": "ем поубаво, ем помирисно.",
+       "lat": "em poubavo, em pomirisno.",
+       "en": "better ones, and more fragrant."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стомни да ти скршам, други ќе си купиш, леле,",
+       "lat": "Stomni da ti skršam, drugi ḱe si kupiš, lele,",
+       "en": "If I break your jug, you will buy others, oh dear,"
+      },
+      {
+       "cyr": "стомни да ти скршам, други ќе си купиш.",
+       "lat": "stomni da ti skršam, drugi ḱe si kupiš.",
+       "en": "if I break your jug, you will buy others."
+      },
+      {
+       "cyr": "Ем поубави, ем пошарени, леле,",
+       "lat": "Em poubavi, em pošareni, lele,",
+       "en": "Better ones, and more colorful, oh dear,"
+      },
+      {
+       "cyr": "ем поубави, ем пошарени.",
+       "lat": "em poubavi, em pošareni.",
+       "en": "better ones, and more colorful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Најдобро е Руме јас да те целувам, леле,",
+       "lat": "Najdobro e Rume jas da te celuvam, lele,",
+       "en": "Best of all is, Rume, that I kiss you, oh dear,"
+      },
+      {
+       "cyr": "најдобро е Руме јас да те целунам.",
+       "lat": "najdobro e Rume jas da te celunam.",
+       "en": "best of all is, Rume, that I kiss you."
+      },
+      {
+       "cyr": "Целувка со пари не купува, леле,",
+       "lat": "Celuvka so pari ne kupuva, lele,",
+       "en": "A kiss cannot be bought with money, oh dear,"
+      },
+      {
+       "cyr": "целувка со пари не купува.",
+       "lat": "celuvka so pari ne kupuva.",
+       "en": "a kiss cannot be bought with money."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

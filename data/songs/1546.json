@@ -1,0 +1,182 @@
+{
+ "id": 1546,
+ "slug": "kako-kandisa-majko",
+ "title_cyr": "Како кандиса мајко",
+ "title_latin": "Kako kandisa majko",
+ "title_en": "How Could You, Mother",
+ "pesna_url": "https://pesna.org/song/1546",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional bride-lament. 'Кандиса' is my reading ('bring yourself to'); 'Канинци' per the notes relates to the village Kanino near Bitola. 'Лика-прилика' in my reading means he is not a match for me.",
+ "words_to_learn": [
+  {
+   "mk": "кандиса",
+   "en": "persuaded yourself, brought yourself to (my reading)"
+  },
+  {
+   "mk": "да ме дадеш",
+   "en": "to give me (in marriage)"
+  },
+  {
+   "mk": "бргу",
+   "en": "quickly (dialect)"
+  },
+  {
+   "mk": "далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "лика-прилика",
+   "en": "a good match, one's likeness"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "севда",
+   "en": "love, passion (Turkish loan)"
+  },
+  {
+   "mk": "Канинци",
+   "en": "Kanino-area village (per notes, near Bitola)"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгии на РТС, Филиграни",
+   "url": "https://pesna.org/audio-download/4035"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Како кандиса ле мајко,",
+       "lat": "Kako kandisa le majko,",
+       "en": "How could you, oh mother,"
+      },
+      {
+       "cyr": "како кандиса",
+       "lat": "kako kandisa",
+       "en": "how could you"
+      },
+      {
+       "cyr": "ај да ме дадеш, мила ле мајко,",
+       "lat": "aj da me dadeš, mila le majko,",
+       "en": "bring yourself to give me away, dear oh mother,"
+      },
+      {
+       "cyr": "толку бргу, мајко ле,",
+       "lat": "tolku brgu, majko le,",
+       "en": "so quickly, mother, oh,"
+      },
+      {
+       "cyr": "толку бргу?",
+       "lat": "tolku brgu?",
+       "en": "so quickly?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Толку бргу, мајко,",
+       "lat": "Tolku brgu, majko,",
+       "en": "So quickly, mother,"
+      },
+      {
+       "cyr": "на далеку,",
+       "lat": "na daleku,",
+       "en": "to far away,"
+      },
+      {
+       "cyr": "ај на далеку, мила ле мајко,",
+       "lat": "aj na daleku, mila le majko,",
+       "en": "to far away, dear oh mother,"
+      },
+      {
+       "cyr": "у Канинци, мајко ле,",
+       "lat": "u Kaninci, majko le,",
+       "en": "to Kanintsi, mother, oh,"
+      },
+      {
+       "cyr": "за Димчета.",
+       "lat": "za Dimčeta.",
+       "en": "to Dimche."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој не ми е, мајко,",
+       "lat": "Toj ne mi e, majko,",
+       "en": "He is not for me, mother,"
+      },
+      {
+       "cyr": "тој не ми е,",
+       "lat": "toj ne mi e,",
+       "en": "he is not for me,"
+      },
+      {
+       "cyr": "ај тој не ми е, мила ле мајко,",
+       "lat": "aj toj ne mi e, mila le majko,",
+       "en": "he is not for me, dear oh mother,"
+      },
+      {
+       "cyr": "лика-прилика, мајко ле,",
+       "lat": "lika-prilika, majko le,",
+       "en": "my likeness, mother, oh,"
+      },
+      {
+       "cyr": "лика-прилика.",
+       "lat": "lika-prilika.",
+       "en": "my likeness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас го сакам мајко",
+       "lat": "Jas go sakam majko",
+       "en": "I love, mother,"
+      },
+      {
+       "cyr": "тој Ѓорѓија,",
+       "lat": "toj Ǵorǵija,",
+       "en": "that Gjorgjija,"
+      },
+      {
+       "cyr": "ај тој Ѓорѓија, мила ле мајко,",
+       "lat": "aj toj Ǵorǵija, mila le majko,",
+       "en": "that Gjorgjija, dear oh mother,"
+      },
+      {
+       "cyr": "прво либе, мајко ле,",
+       "lat": "prvo libe, majko le,",
+       "en": "my first love, mother, oh,"
+      },
+      {
+       "cyr": "прва севда.",
+       "lat": "prva sevda.",
+       "en": "my first passion."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

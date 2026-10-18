@@ -1,0 +1,155 @@
+{
+ "id": 689,
+ "slug": "koj-shto-me-chue-da-peam",
+ "title_cyr": "Кој што ме чуе да пеам",
+ "title_latin": "Koj što me čue da peam",
+ "title_en": "Whoever hears me sing",
+ "pesna_url": "https://pesna.org/song/689",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анастасиа Митровска",
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Зоран Џорлев",
+  "Игор Митковски",
+  "Ламбе Алабаковски",
+  "Петранка Костадинова",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/679"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/680"
+  },
+  {
+   "who": "Ламбе Алабаковски",
+   "url": "https://pesna.org/audio-download/681"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/682"
+  },
+  {
+   "who": "Зоран Џорлев, Игор Митковски",
+   "url": "https://pesna.org/audio-download/683"
+  },
+  {
+   "who": "Анастасиа Митровска, Чардак",
+   "url": "https://pesna.org/audio-download/4234"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе ме чуе да пеам,",
+       "lat": "Koj ḱe me čue da peam,",
+       "en": "Whoever hears me sing,"
+      },
+      {
+       "cyr": "тој мисли тага јас немам.",
+       "lat": "toj misli taga jas nemam.",
+       "en": "he'll think I don't have a sorrow."
+      },
+      {
+       "cyr": "Јазе си пеам, веселам",
+       "lat": "Jaze si peam, veselam",
+       "en": "But I just sing and rejoice,"
+      },
+      {
+       "cyr": "тагите да ми поминат.",
+       "lat": "tagite da mi pominat.",
+       "en": "so that my sorrows go away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде либето",
+       "lat": "Ozdola ide libeto",
+       "en": "There is my love coming"
+      },
+      {
+       "cyr": "со двајца верни другари,",
+       "lat": "so dvajca verni drugari,",
+       "en": "with two of his friends,"
+      },
+      {
+       "cyr": "либето ми беше трендафил,",
+       "lat": "libeto mi beše trendafil,",
+       "en": "my love is a rose,"
+      },
+      {
+       "cyr": "другари беа гранчиња.",
+       "lat": "drugari bea grančinja.",
+       "en": "his friends are branches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јазе на либе му зборувам:",
+       "lat": "Jaze na libe mu zboruvam:",
+       "en": "I say to my love:"
+      },
+      {
+       "cyr": "- Дојди ми либе до вечер,",
+       "lat": "- Dojdi mi libe do večer,",
+       "en": "- Come to me, love, this night,"
+      },
+      {
+       "cyr": "дојди ми либе до вечер,",
+       "lat": "dojdi mi libe do večer,",
+       "en": "come to me tonight,"
+      },
+      {
+       "cyr": "јас ќе те чекам под пенџер.",
+       "lat": "jas ḱe te čekam pod pendžer.",
+       "en": "I'll wait for you to come below my window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либе ми вели зборува:",
+       "lat": "Libe mi veli zboruva:",
+       "en": "My love says to me:"
+      },
+      {
+       "cyr": "- Не можам либе да дојдам,",
+       "lat": "- Ne možam libe da dojdam,",
+       "en": "- I can't come, love,"
+      },
+      {
+       "cyr": "не можам либе да дојдам,",
+       "lat": "ne možam libe da dojdam,",
+       "en": "I can not come,"
+      },
+      {
+       "cyr": "јас си заљубив друго либе.",
+       "lat": "jas si zaljubiv drugo libe.",
+       "en": "for I am in love with someone else."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,209 @@
+{
+ "id": 1278,
+ "slug": "sekoj-saka-moma-ubava",
+ "title_cyr": "Секој сака мома убава",
+ "title_latin": "Sekoj saka moma ubava",
+ "title_en": "Everyone wants a pretty girl",
+ "pesna_url": "https://pesna.org/song/1278",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern humorous song. 'дал' те остави' means 'did she leave you'.",
+ "words_to_learn": [
+  {
+   "mk": "чичо",
+   "en": "uncle (friendly address to an older man)"
+  },
+  {
+   "mk": "замислен",
+   "en": "lost in thought"
+  },
+  {
+   "mk": "маката",
+   "en": "the trouble, the torment"
+  },
+  {
+   "mk": "заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "баба",
+   "en": "old woman, grandmother"
+  },
+  {
+   "mk": "грбава",
+   "en": "hunchbacked"
+  },
+  {
+   "mk": "лумпуваш",
+   "en": "you carouse, revel"
+  },
+  {
+   "mk": "избрка",
+   "en": "drove out"
+  }
+ ],
+ "performers": [
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/3231"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- А бре чичо, остарен,",
+       "lat": "- A bre čičo, ostaren,",
+       "en": "- Hey uncle, you've grown old,"
+      },
+      {
+       "cyr": "што си толку замислен?",
+       "lat": "što si tolku zamislen?",
+       "en": "why are you so lost in thought?"
+      },
+      {
+       "cyr": "Баба дал' те остави,",
+       "lat": "Baba dal' te ostavi,",
+       "en": "Did your old woman leave you,"
+      },
+      {
+       "cyr": "или те заборави?",
+       "lat": "ili te zaboravi?",
+       "en": "or forget you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Чујте ме, бре ергени,",
+       "lat": "- Čujte me, bre ergeni,",
+       "en": "- Listen to me, bachelors,"
+      },
+      {
+       "cyr": "да ви кажам маката:",
+       "lat": "da vi kažam makata:",
+       "en": "let me tell you my trouble:"
+      },
+      {
+       "cyr": "момиче си заљубив,",
+       "lat": "momiče si zaljubiv,",
+       "en": "I fell in love with a young girl,"
+      },
+      {
+       "cyr": "не ја сакам бабата!",
+       "lat": "ne ja sakam babata!",
+       "en": "I don't want the old woman!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секој сака мома убава,",
+       "lat": "Sekoj saka moma ubava,",
+       "en": "Everyone wants a pretty girl,"
+      },
+      {
+       "cyr": "никој нејќе баба грбава,",
+       "lat": "nikoj nejḱe baba grbava,",
+       "en": "nobody wants a hunchbacked old woman,"
+      },
+      {
+       "cyr": "момите се за ергените,",
+       "lat": "momite se za ergenite,",
+       "en": "girls are for bachelors,"
+      },
+      {
+       "cyr": "бабите се за дедовците.",
+       "lat": "babite se za dedovcite.",
+       "en": "old women are for old men."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре чичо, остарен,",
+       "lat": "- A bre čičo, ostaren,",
+       "en": "- Hey uncle, you've grown old,"
+      },
+      {
+       "cyr": "што си толку замислен?",
+       "lat": "što si tolku zamislen?",
+       "en": "why are you so lost in thought?"
+      },
+      {
+       "cyr": "Саноќ седиш, лумпуваш,",
+       "lat": "Sanoḱ sediš, lumpuvaš,",
+       "en": "All night you sit, carousing,"
+      },
+      {
+       "cyr": "дома не заминуваш.",
+       "lat": "doma ne zaminuvaš.",
+       "en": "you don't go home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Момето ме остави,",
+       "lat": "- Mometo me ostavi,",
+       "en": "- The girl left me,"
+      },
+      {
+       "cyr": "ми ги зеде парите,",
+       "lat": "mi gi zede parite,",
+       "en": "she took my money,"
+      },
+      {
+       "cyr": "бабата ме избрка,",
+       "lat": "babata me izbrka,",
+       "en": "the old woman drove me out,"
+      },
+      {
+       "cyr": "сам ќе бидам до века.",
+       "lat": "sam ḱe bidam do veka.",
+       "en": "I will be alone for ever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секој сака мома убава,",
+       "lat": "Sekoj saka moma ubava,",
+       "en": "Everyone wants a pretty girl,"
+      },
+      {
+       "cyr": "никој нејќе баба грбава,",
+       "lat": "nikoj nejḱe baba grbava,",
+       "en": "nobody wants a hunchbacked old woman,"
+      },
+      {
+       "cyr": "момите се за ергените,",
+       "lat": "momite se za ergenite,",
+       "en": "girls are for bachelors,"
+      },
+      {
+       "cyr": "бабите се за дедовците.",
+       "lat": "babite se za dedovcite.",
+       "en": "old women are for old men."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

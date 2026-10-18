@@ -1,0 +1,150 @@
+{
+ "id": 107,
+ "slug": "mamo-mori",
+ "title_cyr": "Мамо мори",
+ "title_latin": "Mamo mori",
+ "title_en": "Mother, Hey",
+ "pesna_url": "https://pesna.org/song/107",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Се посврши' is read as 'died'; the last stanza is unclear to me and the translation of it is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мори",
+   "en": "hey, oh (interjection)"
+  },
+  {
+   "mk": "се набрале",
+   "en": "have gathered"
+  },
+  {
+   "mk": "кумови",
+   "en": "godparents / wedding sponsors"
+  },
+  {
+   "mk": "се посврши",
+   "en": "passed away (dialect, my reading)"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "лежам",
+   "en": "I lie"
+  },
+  {
+   "mk": "девојка",
+   "en": "girl"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мамо мори стара,",
+       "lat": "Mamo mori stara,",
+       "en": "Mother, dear old one,"
+      },
+      {
+       "cyr": "луѓе се набрале.",
+       "lat": "luǵe se nabrale.",
+       "en": "people have gathered."
+      },
+      {
+       "cyr": "Зашто се набрале, мамо,",
+       "lat": "Zašto se nabrale, mamo,",
+       "en": "Why have they gathered, mother,"
+      },
+      {
+       "cyr": "зошто се собрале.",
+       "lat": "zošto se sobrale.",
+       "en": "why have they come together."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре сине, Стојане,",
+       "lat": "A bre sine, Stojane,",
+       "en": "Hey, son Stojan,"
+      },
+      {
+       "cyr": "мама ќе ти каже.",
+       "lat": "mama ḱe ti kaže.",
+       "en": "mother will tell you."
+      },
+      {
+       "cyr": "Стојна се посврши, сине,",
+       "lat": "Stojna se posvrši, sine,",
+       "en": "Stojna has passed away, son,"
+      },
+      {
+       "cyr": "во мили кумове.",
+       "lat": "vo mili kumove.",
+       "en": "among her dear godparents."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мамо мори стара,",
+       "lat": "Mamo mori stara,",
+       "en": "Mother, dear old one,"
+      },
+      {
+       "cyr": "јас болен си лежам,",
+       "lat": "jas bolen si ležam,",
+       "en": "I lie here sick,"
+      },
+      {
+       "cyr": "девет ми години, мамо,",
+       "lat": "devet mi godini, mamo,",
+       "en": "nine years, mother,"
+      },
+      {
+       "cyr": "за Стојна девојка.",
+       "lat": "za Stojna devojka.",
+       "en": "for the girl Stojna."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А бре сине, Стојане,",
+       "lat": "A bre sine, Stojane,",
+       "en": "Hey, son Stojan,"
+      },
+      {
+       "cyr": "мама ќе ја земе.",
+       "lat": "mama ḱe ja zeme.",
+       "en": "mother will take her."
+      },
+      {
+       "cyr": "Мама ќе ја земе, чедо,",
+       "lat": "Mama ḱe ja zeme, čedo,",
+       "en": "Mother will take her, child,"
+      },
+      {
+       "cyr": "сине од венчање.",
+       "lat": "sine od venčanje.",
+       "en": "son, from the wedding."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

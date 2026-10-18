@@ -1,0 +1,174 @@
+{
+ "id": 691,
+ "slug": "koga-si-trgnav-vo-tugjina",
+ "title_cyr": "Кога си тргнав во туѓина",
+ "title_latin": "Koga si trgnav vo tuǵina",
+ "title_en": "When I Set Off Into a Foreign Land",
+ "pesna_url": "https://pesna.org/song/691",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Галабе' is a dialect endearment I am unsure of, rendered as 'my dear'. 'Да падни' (may it fall) is my reading of the curse-like wish.",
+ "words_to_learn": [
+  {
+   "mk": "туѓина",
+   "en": "foreign land, abroad"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "проронав",
+   "en": "I shed"
+  },
+  {
+   "mk": "откажуваш",
+   "en": "you renounce, give up"
+  },
+  {
+   "mk": "верна",
+   "en": "faithful"
+  },
+  {
+   "mk": "дума",
+   "en": "word"
+  },
+  {
+   "mk": "чаир",
+   "en": "meadow, pasture"
+  },
+  {
+   "mk": "пламни",
+   "en": "may it blaze"
+  },
+  {
+   "mk": "галабе",
+   "en": "my dear (endearment, unsure of exact sense)"
+  }
+ ],
+ "performers": [
+  "Билјана Петковиќ",
+  "Блага Видец",
+  "Васка Илиева",
+  "Весна Димиќ",
+  "Виолета Томовска",
+  "Дуле и Цаки",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Кирил Манчевски",
+  "Чеда Марковиќ"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/852"
+  },
+  {
+   "who": "Дуле и Цаки",
+   "url": "https://pesna.org/audio-download/853"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/854"
+  },
+  {
+   "who": "Билјана Петковиќ, Весна Димиќ",
+   "url": "https://pesna.org/audio-download/969"
+  },
+  {
+   "who": "Блага Видец, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3053"
+  },
+  {
+   "who": "Чеда Марковиќ",
+   "url": "https://pesna.org/audio-download/3512"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога си тргнав в' туѓина",
+       "lat": "Koga si trgnav v' tuǵina",
+       "en": "When I set off into a foreign land,"
+      },
+      {
+       "cyr": "Дафино либе, Дафино,",
+       "lat": "Dafino libe, Dafino,",
+       "en": "Dafina, my love, Dafina,"
+      },
+      {
+       "cyr": "крај твојте порти поминав, мој галабе",
+       "lat": "kraj tvojte porti pominav, moj galabe",
+       "en": "I passed by your gate, my dear,"
+      },
+      {
+       "cyr": "и солзи проронав.",
+       "lat": "i solzi proronav.",
+       "en": "and shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Откажуваш ли либе, откажуваш",
+       "lat": "Otkažuvaš li libe, otkažuvaš",
+       "en": "Are you renouncing, love, are you renouncing"
+      },
+      {
+       "cyr": "од твојта верна си љубов,",
+       "lat": "od tvojta verna si ljubov,",
+       "en": "your faithful love,"
+      },
+      {
+       "cyr": "думите да си ги приспомниш, мој галабе",
+       "lat": "dumite da si gi prispomniš, moj galabe",
+       "en": "will you remember the words, my dear,"
+      },
+      {
+       "cyr": "назад да се вратиш?",
+       "lat": "nazad da se vratiš?",
+       "en": "and come back?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вашиот чаир да пламни",
+       "lat": "Vašiot čair da plamni",
+       "en": "May your meadow burst into flame"
+      },
+      {
+       "cyr": "и вашата куќа да изгори",
+       "lat": "i vašata kuḱa da izgori",
+       "en": "and your house burn down"
+      },
+      {
+       "cyr": "и твојто ангелско лице, мој галабе",
+       "lat": "i tvojto angelsko lice, moj galabe",
+       "en": "and your angelic face, my dear,"
+      },
+      {
+       "cyr": "во мојве раце да падни.",
+       "lat": "vo mojve race da padni.",
+       "en": "fall into these hands of mine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

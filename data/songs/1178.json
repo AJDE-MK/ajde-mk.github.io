@@ -1,0 +1,149 @@
+{
+ "id": 1178,
+ "slug": "chelnik-pejo",
+ "title_cyr": "Челник Пејо",
+ "title_latin": "Čelnik Pejo",
+ "title_en": "Headman Peyo",
+ "pesna_url": "https://pesna.org/song/1178",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Абер стори' is my reading 'sent word' (Turkish haber); 'му врзаа' dialectal 'they bound his...'. 'Горски змија' is as written, likely 'змии'.",
+ "words_to_learn": [
+  {
+   "mk": "челник",
+   "en": "headman, shepherd chief"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "чува",
+   "en": "tends, guards"
+  },
+  {
+   "mk": "арамија",
+   "en": "bandit, outlaw"
+  },
+  {
+   "mk": "горски змии",
+   "en": "mountain snakes"
+  },
+  {
+   "mk": "абер стори",
+   "en": "sent word, gave news"
+  },
+  {
+   "mk": "чета",
+   "en": "band, company"
+  },
+  {
+   "mk": "врзаа",
+   "en": "they tied"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "растурено",
+   "en": "scattered"
+  }
+ ],
+ "performers": [
+  "Елена Мукаетова"
+ ],
+ "audio": [
+  {
+   "who": "Елена Мукаетова",
+   "url": "https://pesna.org/audio-download/2866"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Челник Пејо, леле, овци чува,",
+       "lat": "Čelnik Pejo, lele, ovci čuva,",
+       "en": "Headman Peyo, alas, tends the sheep,"
+      },
+      {
+       "cyr": "овци чува, леле, на планина.",
+       "lat": "ovci čuva, lele, na planina.",
+       "en": "tends the sheep, alas, on the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го догледа, леле, арамија,",
+       "lat": "Go dogleda, lele, aramija,",
+       "en": "The bandits spotted him, alas,"
+      },
+      {
+       "cyr": "арамија, леле, горски змија.",
+       "lat": "aramija, lele, gorski zmija.",
+       "en": "the bandits, alas, mountain snakes."
+      },
+      {
+       "cyr": "Абер стори, леле, арамија,",
+       "lat": "Aber stori, lele, aramija,",
+       "en": "The bandits, alas, sent word,"
+      },
+      {
+       "cyr": "на четето, леле, горски змии.",
+       "lat": "na četeto, lele, gorski zmii.",
+       "en": "to their band, alas, mountain snakes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го фатија, леле, челник Пејо,",
+       "lat": "Go fatija, lele, čelnik Pejo,",
+       "en": "They caught him, alas, headman Peyo,"
+      },
+      {
+       "cyr": "му врзаа, леле, двете раце.",
+       "lat": "mu vrzaa, lele, dvete race.",
+       "en": "they tied, alas, both his hands."
+      },
+      {
+       "cyr": "Челник Пејо им се жално моли:",
+       "lat": "Čelnik Pejo im se žalno moli:",
+       "en": "Headman Peyo pleads sadly with them:"
+      },
+      {
+       "cyr": "- Пуштете ми барем една рака.",
+       "lat": "- Puštete mi barem edna raka.",
+       "en": "- Release at least one hand for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да соберам, леле, мојто стадо,",
+       "lat": "Da soberam, lele, mojto stado,",
+       "en": "So I can gather, alas, my flock,"
+      },
+      {
+       "cyr": "стадо ми е, леле, растурено.",
+       "lat": "stado mi e, lele, rastureno.",
+       "en": "my flock is, alas, scattered."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

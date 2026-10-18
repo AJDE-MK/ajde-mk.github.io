@@ -1,0 +1,179 @@
+{
+ "id": 746,
+ "slug": "edna-gitara",
+ "title_cyr": "Една гитара",
+ "title_latin": "Edna gitara",
+ "title_en": "One Guitar",
+ "pesna_url": "https://pesna.org/song/746",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern song but I cannot name an author.",
+ "words_to_learn": [
+  {
+   "mk": "разбуди",
+   "en": "woke (me) up"
+  },
+  {
+   "mk": "сладок сон",
+   "en": "sweet dream"
+  },
+  {
+   "mk": "целивав",
+   "en": "I was kissing"
+  },
+  {
+   "mk": "неверни",
+   "en": "unfaithful"
+  },
+  {
+   "mk": "тагувам",
+   "en": "I grieve"
+  },
+  {
+   "mk": "се веселам",
+   "en": "to make merry"
+  },
+  {
+   "mk": "неспани",
+   "en": "sleepless"
+  },
+  {
+   "mk": "остави",
+   "en": "left"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1074"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една гитара ме разбуди,",
+       "lat": "Edna gitara me razbudi,",
+       "en": "A guitar woke me up,"
+      },
+      {
+       "cyr": "ме разбуди од сладок сон,",
+       "lat": "me razbudi od sladok son,",
+       "en": "woke me from a sweet dream,"
+      },
+      {
+       "cyr": "јас убав сон си сонував,",
+       "lat": "jas ubav son si sonuvav,",
+       "en": "I was dreaming a beautiful dream,"
+      },
+      {
+       "cyr": "неа ја целивав.",
+       "lat": "nea ja celivav.",
+       "en": "I was kissing her in it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свири гитаро, свири ми ти,",
+       "lat": "Sviri gitaro, sviri mi ti,",
+       "en": "Play, guitar, play for me,"
+      },
+      {
+       "cyr": "за тие очи, очи неверни.",
+       "lat": "za tie oči, oči neverni.",
+       "en": "for those eyes, those unfaithful eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Денови минуваат, јас тагувам,",
+       "lat": "Denovi minuvaat, jas taguvam,",
+       "en": "The days pass, I grieve,"
+      },
+      {
+       "cyr": "неа ја нема пак,",
+       "lat": "nea ja nema pak,",
+       "en": "she is gone again,"
+      },
+      {
+       "cyr": "со кого моја мила гитаро",
+       "lat": "so kogo moja mila gitaro",
+       "en": "with whom, my dear guitar,"
+      },
+      {
+       "cyr": "јас да се веселам?",
+       "lat": "jas da se veselam?",
+       "en": "am I to make merry?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свири гитаро, свири ми ти,",
+       "lat": "Sviri gitaro, sviri mi ti,",
+       "en": "Play, guitar, play for me,"
+      },
+      {
+       "cyr": "за тие очи, очи неверни.",
+       "lat": "za tie oči, oči neverni.",
+       "en": "for those eyes, those unfaithful eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душава моја ти кажува",
+       "lat": "Dušava moja ti kažuva",
+       "en": "This soul of mine tells you"
+      },
+      {
+       "cyr": "за сите ноќи неспани,",
+       "lat": "za site noḱi nespani,",
+       "en": "of all the sleepless nights,"
+      },
+      {
+       "cyr": "си ојде и не се врати",
+       "lat": "si ojde i ne se vrati",
+       "en": "she came and did not come back,"
+      },
+      {
+       "cyr": "мене со тага остави.",
+       "lat": "mene so taga ostavi.",
+       "en": "she left me with sorrow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свири гитаро, свири ми ти,",
+       "lat": "Sviri gitaro, sviri mi ti,",
+       "en": "Play, guitar, play for me,"
+      },
+      {
+       "cyr": "за тие очи, очи неверни.",
+       "lat": "za tie oči, oči neverni.",
+       "en": "for those eyes, those unfaithful eyes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,190 @@
+{
+ "id": 429,
+ "slug": "ne-kazhuvaj-libe-dobra-nokj",
+ "title_cyr": "Не кажувај либе добра ноќ",
+ "title_latin": "Ne kažuvaj libe dobra noḱ",
+ "title_en": "Do Not Say Goodnight, Sweetheart",
+ "pesna_url": "https://pesna.org/song/429",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: estrada-like feel, no author I can name. 'користи драги ти мене' is my reading ('make use of me, dear').",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "добра ноќ",
+   "en": "goodnight"
+  },
+  {
+   "mk": "најзгодно",
+   "en": "most suitable, best"
+  },
+  {
+   "mk": "прекрасна",
+   "en": "wonderful"
+  },
+  {
+   "mk": "милувај",
+   "en": "caress"
+  },
+  {
+   "mk": "бакнувај",
+   "en": "kiss"
+  },
+  {
+   "mk": "волшебна",
+   "en": "magical"
+  },
+  {
+   "mk": "мамиш",
+   "en": "you deceive"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Ѓорѓи Желчевски",
+  "Зоран Џорлев",
+  "Кевсер Селимова",
+  "Нина Бадриќ",
+  "Петранка Костадинова",
+  "Софија Здравковска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/565"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/566"
+  },
+  {
+   "who": "Софија Здравковска",
+   "url": "https://pesna.org/audio-download/567"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/568"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/569"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Нина Бадриќ",
+   "url": "https://pesna.org/audio-download/1803"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не кажувај либе добра ноќ",
+       "lat": "Ne kažuvaj libe dobra noḱ",
+       "en": "Do not say goodnight, sweetheart,"
+      },
+      {
+       "cyr": "не оди дома рано ти,",
+       "lat": "ne odi doma rano ti,",
+       "en": "do not go home early,"
+      },
+      {
+       "cyr": "најзгодно време е во ноќта,",
+       "lat": "najzgodno vreme e vo noḱta,",
+       "en": "the best time is in the night,"
+      },
+      {
+       "cyr": "прекрасна е оваа ноќ за нас.",
+       "lat": "prekrasna e ovaa noḱ za nas.",
+       "en": "this night is wonderful for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите спијат, а ние сме сами,",
+       "lat": "Site spijat, a nie sme sami,",
+       "en": "Everyone sleeps and we are alone,"
+      },
+      {
+       "cyr": "користи драги ти мене,",
+       "lat": "koristi dragi ti mene,",
+       "en": "use me, dear,"
+      },
+      {
+       "cyr": "милувај, бакнувај бескрајно,",
+       "lat": "miluvaj, baknuvaj beskrajno,",
+       "en": "caress, kiss without end,"
+      },
+      {
+       "cyr": "волшебна е ноќ за љубење.",
+       "lat": "volšebna e noḱ za ljubenje.",
+       "en": "the night is magical for kissing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас знам дека друга љубиш ти,",
+       "lat": "Jas znam deka druga ljubiš ti,",
+       "en": "I know that you love another,"
+      },
+      {
+       "cyr": "јас знам дека друга мамиш ти,",
+       "lat": "jas znam deka druga mamiš ti,",
+       "en": "I know that you deceive another,"
+      },
+      {
+       "cyr": "срцево мое е за тебе",
+       "lat": "srcevo moe e za tebe",
+       "en": "this heart of mine is for you"
+      },
+      {
+       "cyr": "и не би го дала јас за друг.",
+       "lat": "i ne bi go dala jas za drug.",
+       "en": "and I would not give it to anyone else."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За мене пролет не развива,",
+       "lat": "Za mene prolet ne razviva,",
+       "en": "For me spring does not unfold,"
+      },
+      {
+       "cyr": "за мене цвеќе не цути,",
+       "lat": "za mene cveḱe ne cuti,",
+       "en": "for me flowers do not bloom,"
+      },
+      {
+       "cyr": "за мене ти си прва љубов",
+       "lat": "za mene ti si prva ljubov",
+       "en": "for me you are the first love"
+      },
+      {
+       "cyr": "и последна ќе ми бидеш ти.",
+       "lat": "i posledna ḱe mi bideš ti.",
+       "en": "and you will be my last."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

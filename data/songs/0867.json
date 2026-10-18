@@ -1,0 +1,166 @@
+{
+ "id": 867,
+ "slug": "chuva-majka-do-dve-luti-kjerki",
+ "title_cyr": "Чува мајка до две лути ќерки",
+ "title_latin": "Čuva majka do dve luti ḱerki",
+ "title_en": "A mother raised two fierce daughters",
+ "pesna_url": "https://pesna.org/song/867",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional curse song. 'Чува мајка' is my reading as 'a mother raised'; 'Што ми биле' line is rendered literally as 'What were they'.",
+ "words_to_learn": [
+  {
+   "mk": "лути",
+   "en": "fierce, bitter"
+  },
+  {
+   "mk": "т'нко преле",
+   "en": "they spun thinly"
+  },
+  {
+   "mk": "се колнат",
+   "en": "they curse each other"
+  },
+  {
+   "mk": "рода",
+   "en": "kin, offspring"
+  },
+  {
+   "mk": "ги ожениш",
+   "en": "you marry them off"
+  },
+  {
+   "mk": "снаи",
+   "en": "daughters-in-law"
+  },
+  {
+   "mk": "удовици",
+   "en": "widows"
+  },
+  {
+   "mk": "кукавици",
+   "en": "cuckoos (also wretched women)"
+  }
+ ],
+ "performers": [
+  "Трио Кучковки"
+ ],
+ "audio": [
+  {
+   "who": "Трио Кучковки",
+   "url": "https://pesna.org/audio-download/1899"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Чува мајка до две лути ќерки,",
+       "lat": "Čuva majka do dve luti ḱerki,",
+       "en": "A mother raised two fierce daughters,"
+      },
+      {
+       "cyr": "т'нко преле, па се луто колнат:",
+       "lat": "t'nko prele, pa se luto kolnat:",
+       "en": "they spun thread thin and cursed each other bitterly:"
+      },
+      {
+       "cyr": "- Ој ти сестро, помала сестрице,",
+       "lat": "- Oj ti sestro, pomala sestrice,",
+       "en": "- Oh you, sister, younger sister,"
+      },
+      {
+       "cyr": "ти од срце рода да си немаш.",
+       "lat": "ti od srce roda da si nemaš.",
+       "en": "may you have no kin from your heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ти сестро, постара сестрице,",
+       "lat": "- Oj ti sestro, postara sestrice,",
+       "en": "- Oh you, elder sister,"
+      },
+      {
+       "cyr": "ти од срце рода да си имаш.",
+       "lat": "ti od srce roda da si imaš.",
+       "en": "may you have kin from your heart."
+      },
+      {
+       "cyr": "Да си имаш девет мили сина,",
+       "lat": "Da si imaš devet mili sina,",
+       "en": "May you have nine dear sons,"
+      },
+      {
+       "cyr": "да си имаш, да си ги ожениш.",
+       "lat": "da si imaš, da si gi oženiš.",
+       "en": "may you have them and marry them off."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ред да дојде војска да ги пратиш,",
+       "lat": "Red da dojde vojska da gi pratiš,",
+       "en": "When the time comes, send them to the army,"
+      },
+      {
+       "cyr": "па да пукне пушка одненада.",
+       "lat": "pa da pukne puška odnenada.",
+       "en": "and let a gun suddenly go off."
+      },
+      {
+       "cyr": "Да ти удри девет мили сина,",
+       "lat": "Da ti udri devet mili sina,",
+       "en": "May it strike your nine dear sons,"
+      },
+      {
+       "cyr": "да ти удри, да ти ги отепа.",
+       "lat": "da ti udri, da ti gi otepa.",
+       "en": "may it strike, may it kill them for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да остави девет мили снаи,",
+       "lat": "Da ostavi devet mili snai,",
+       "en": "May it leave nine dear daughters-in-law,"
+      },
+      {
+       "cyr": "девет снаи, девет удовици.",
+       "lat": "devet snai, devet udovici.",
+       "en": "nine daughters-in-law, nine widows."
+      },
+      {
+       "cyr": "Што ми биле девет мили снаи,",
+       "lat": "Što mi bile devet mili snai,",
+       "en": "What were they, nine dear daughters-in-law,"
+      },
+      {
+       "cyr": "девет снаи, девет удовици,",
+       "lat": "devet snai, devet udovici,",
+       "en": "nine daughters-in-law, nine widows,"
+      },
+      {
+       "cyr": "удовици, црни кукавици.",
+       "lat": "udovici, crni kukavici.",
+       "en": "widows, black cuckoos."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

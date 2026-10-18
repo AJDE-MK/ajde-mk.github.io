@@ -1,0 +1,121 @@
+{
+ "id": 258,
+ "slug": "zamolil-stojan-majka-si",
+ "title_cyr": "Замолил Стојан мајка си",
+ "title_latin": "Zamolil Stojan majka si",
+ "title_en": "Stojan begged his mother",
+ "pesna_url": "https://pesna.org/song/258",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дејгиди' is a refrain I am not sure of; treated as an interjection. The last stanza reads as the mother's answer ('green' meaning young and inexperienced), my reading.",
+ "words_to_learn": [
+  {
+   "mk": "замолил",
+   "en": "begged, asked"
+  },
+  {
+   "mk": "жени ме",
+   "en": "marry me off (of a man: get me a wife)"
+  },
+  {
+   "mk": "врши ме",
+   "en": "hurry me, press me"
+  },
+  {
+   "mk": "дејгиди",
+   "en": "refrain interjection (hey there)"
+  },
+  {
+   "mk": "тргнало",
+   "en": "has set out, drawn"
+  },
+  {
+   "mk": "умирам",
+   "en": "I am dying"
+  },
+  {
+   "mk": "загинвам",
+   "en": "I perish"
+  },
+  {
+   "mk": "зелен",
+   "en": "green (young, unripe)"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Желчевски"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/396"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Замолил Стојан мајка си, дејгиди",
+       "lat": "Zamolil Stojan majka si, dejgidi",
+       "en": "Stojan begged his mother, dejgidi,"
+      },
+      {
+       "cyr": "жени ме мамо, врши ме, дејгиди.",
+       "lat": "ženi me mamo, vrši me, dejgidi.",
+       "en": "marry me off, mother, hurry me, dejgidi."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жени ме мајко, врши ме, дејгиди,",
+       "lat": "Ženi me majko, vrši me, dejgidi,",
+       "en": "Marry me off, mother, hurry me, dejgidi,"
+      },
+      {
+       "cyr": "за таа Тинка од село, дејгиди.",
+       "lat": "za taa Tinka od selo, dejgidi.",
+       "en": "to that Tinka from the village, dejgidi."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене ме срце тргнало по неа",
+       "lat": "Mene me srce trgnalo po nea",
+       "en": "My heart has set out after her,"
+      },
+      {
+       "cyr": "умирам мајко загинвам за неа.",
+       "lat": "umiram majko zaginvam za nea.",
+       "en": "I am dying, mother, perishing for her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе те Тинка не сака, дејгиди",
+       "lat": "Tebe te Tinka ne saka, dejgidi",
+       "en": "Tinka does not want you, dejgidi,"
+      },
+      {
+       "cyr": "зошто си Стојан млад, зелен, дејгиди.",
+       "lat": "zošto si Stojan mlad, zelen, dejgidi.",
+       "en": "because you are Stojan, young, green, dejgidi."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,213 @@
+{
+ "id": 1329,
+ "slug": "tako-ti-boga-devojko",
+ "title_cyr": "Тако ти Бога, девојко",
+ "title_latin": "Tako ti Boga, devojko",
+ "title_en": "By God, girl",
+ "pesna_url": "https://pesna.org/song/1329",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, per the note the first recorded Macedonian folk song (Kostur, 16th century); archaic Kostur dialect. 'зарви ме' and 'дарви ме' are my reading ('embrace me', 'grant it to me') and 'станви' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "девојко",
+   "en": "girl (address form)"
+  },
+  {
+   "mk": "друшко",
+   "en": "friend, companion (address form)"
+  },
+  {
+   "mk": "целивање",
+   "en": "kiss, kissing"
+  },
+  {
+   "mk": "паригорие",
+   "en": "comfort, consolation (from Greek)"
+  },
+  {
+   "mk": "овоштие",
+   "en": "fruit"
+  },
+  {
+   "mk": "серденце",
+   "en": "little heart, darling"
+  },
+  {
+   "mk": "скривом",
+   "en": "in secret"
+  },
+  {
+   "mk": "поврага",
+   "en": "damn it (mild curse)"
+  },
+  {
+   "mk": "вишнего Бога",
+   "en": "the Most High God"
+  }
+ ],
+ "performers": [
+  "Ненад Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Ненад Стојановски",
+   "url": "https://pesna.org/audio-download/3405"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тако ти Бога, девојко,",
+       "lat": "Tako ti Boga, devojko,",
+       "en": "By God, girl,"
+      },
+      {
+       "cyr": "как те зовет на име?",
+       "lat": "kak te zovet na ime?",
+       "en": "what do they call you by name?"
+      },
+      {
+       "cyr": "О, друшко, ле, жиф ти очи,",
+       "lat": "O, druško, le, žif ti oči,",
+       "en": "Oh, friend, oh, may your eyes live,"
+      },
+      {
+       "cyr": "ходи овамо зарви ме,",
+       "lat": "hodi ovamo zarvi me,",
+       "en": "come here, embrace me,"
+      },
+      {
+       "cyr": "Твојто ти целивање,",
+       "lat": "Tvojto ti celivanje,",
+       "en": "Your kiss,"
+      },
+      {
+       "cyr": "ти се молам дарви ме.",
+       "lat": "ti se molam darvi me.",
+       "en": "I beg you, grant it to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што си лепа, што си, ле, бела,",
+       "lat": "Što si lepa, što si, le, bela,",
+       "en": "How beautiful you are, how white, oh,"
+      },
+      {
+       "cyr": "Што си бела, што те љубам девојко!",
+       "lat": "Što si bela, što te ljubam devojko!",
+       "en": "How white you are, how I love you, girl!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ела мое паригорие,",
+       "lat": "Ela moe parigorie,",
+       "en": "Come, my comfort,"
+      },
+      {
+       "cyr": "да те целивам во устата,",
+       "lat": "da te celivam vo ustata,",
+       "en": "so that I may kiss you on the mouth,"
+      },
+      {
+       "cyr": "Како овоштие ме мирисет,",
+       "lat": "Kako ovoštie me miriset,",
+       "en": "You smell to me like the fruit"
+      },
+      {
+       "cyr": "Штото роди крушата,",
+       "lat": "Štoto rodi krušata,",
+       "en": "that the pear tree bore,"
+      },
+      {
+       "cyr": "Тако ти вишнего Бога,",
+       "lat": "Tako ti višnego Boga,",
+       "en": "By the Most High God,"
+      },
+      {
+       "cyr": "Не ми везми душата.",
+       "lat": "Ne mi vezmi dušata.",
+       "en": "Do not take my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што си лепа, што си ле бела,",
+       "lat": "Što si lepa, što si le bela,",
+       "en": "How beautiful you are, how white, oh,"
+      },
+      {
+       "cyr": "Што си бела, што те љубам девојко!",
+       "lat": "Što si bela, što te ljubam devojko!",
+       "en": "How white you are, how I love you, girl!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До кога серденце моја,",
+       "lat": "Do koga serdence moja,",
+       "en": "How long, my little heart,"
+      },
+      {
+       "cyr": "Скривом да се љубиме,",
+       "lat": "Skrivom da se ljubime,",
+       "en": "shall we kiss in secret,"
+      },
+      {
+       "cyr": "Со страхови преголеми,",
+       "lat": "So strahovi pregolemi,",
+       "en": "With enormous fears,"
+      },
+      {
+       "cyr": "Денови да се губиме,",
+       "lat": "Denovi da se gubime,",
+       "en": "wasting our days,"
+      },
+      {
+       "cyr": "Ела, станви, поврага, ходи,",
+       "lat": "Ela, stanvi, povraga, hodi,",
+       "en": "Come, get up, damn it, come,"
+      },
+      {
+       "cyr": "Да се вземиме.",
+       "lat": "Da se vzemime.",
+       "en": "let us take each other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што си лепа, што си ле бела,",
+       "lat": "Što si lepa, što si le bela,",
+       "en": "How beautiful you are, how white, oh,"
+      },
+      {
+       "cyr": "Што си бела, што те љубам девојко!",
+       "lat": "Što si bela, što te ljubam devojko!",
+       "en": "How white you are, how I love you, girl!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

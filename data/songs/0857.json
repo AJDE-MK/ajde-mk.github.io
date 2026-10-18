@@ -1,0 +1,139 @@
+{
+ "id": 857,
+ "slug": "dotekla-voda-studena",
+ "title_cyr": "Дотекла вода студена",
+ "title_latin": "Dotekla voda studena",
+ "title_en": "Cold water came flowing",
+ "pesna_url": "https://pesna.org/song/857",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Магија сторила' is a birth-time charm so that suitors will circle the girl; 'нашата' shortened as 'наш'та'. Mostly clear, no major guesses.",
+ "words_to_learn": [
+  {
+   "mk": "дотекла",
+   "en": "came flowing, flowed up"
+  },
+  {
+   "mk": "роди се",
+   "en": "was born"
+  },
+  {
+   "mk": "магија",
+   "en": "magic, spell"
+  },
+  {
+   "mk": "пиле",
+   "en": "chick"
+  },
+  {
+   "mk": "огин",
+   "en": "fire (dialect)"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors, young unmarried men"
+  },
+  {
+   "mk": "леле оф аман",
+   "en": "oh woe, oh mercy (exclamation)"
+  }
+ ],
+ "performers": [
+  "Александар Арабаџиев",
+  "Анастасиа Митровска",
+  "Анка Гиева",
+  "Зоран Џорлев",
+  "Конак",
+  "Томе Каракепелиев"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1873"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1874"
+  },
+  {
+   "who": "Конак",
+   "url": "https://pesna.org/audio-download/1875"
+  },
+  {
+   "who": "Александар Арабаџиев, Томе Каракепелиев",
+   "url": "https://pesna.org/audio-download/3081"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4395"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дотекла вода студена, леле оф аман,",
+       "lat": "Dotekla voda studena, lele of aman,",
+       "en": "Cold water came flowing, oh woe, oh mercy,"
+      },
+      {
+       "cyr": "роди се Јана убава, леле оф аман,",
+       "lat": "rodi se Jana ubava, lele of aman,",
+       "en": "beautiful Jana was born, oh woe, oh mercy,"
+      },
+      {
+       "cyr": "роди се Јана убава.",
+       "lat": "rodi se Jana ubava.",
+       "en": "beautiful Jana was born."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога се Јана родила, леле оф аман,",
+       "lat": "Koga se Jana rodila, lele of aman,",
+       "en": "When Jana was born, oh woe, oh mercy,"
+      },
+      {
+       "cyr": "мајка ѝ магија сторила, леле оф аман,",
+       "lat": "majka ì magija storila, lele of aman,",
+       "en": "her mother did a magic spell, oh woe, oh mercy,"
+      },
+      {
+       "cyr": "живо пиле в' огин фрлила.",
+       "lat": "živo pile v' ogin frlila.",
+       "en": "she threw a live chick into the fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како што се врти пилето, леле оф аман,",
+       "lat": "Kako što se vrti pileto, lele of aman,",
+       "en": "As the chick turns, oh woe, oh mercy,"
+      },
+      {
+       "cyr": "така да се вртат ергени, леле оф аман,",
+       "lat": "taka da se vrtat ergeni, lele of aman,",
+       "en": "so may the bachelors turn, oh woe, oh mercy,"
+      },
+      {
+       "cyr": "по наш'та Јана убава.",
+       "lat": "po naš'ta Jana ubava.",
+       "en": "around our beautiful Jana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

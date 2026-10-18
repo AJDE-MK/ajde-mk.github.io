@@ -1,0 +1,139 @@
+{
+ "id": 236,
+ "slug": "kade-si-trgnala-kito",
+ "title_cyr": "Каде си тргнала Кито",
+ "title_latin": "Kade si trgnala Kito",
+ "title_en": "Where are you going, Kita",
+ "pesna_url": "https://pesna.org/song/236",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Амајлија",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1698"
+  },
+  {
+   "who": "Амајлија",
+   "url": "https://pesna.org/audio-download/1699"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1728"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде си тргнала Кито,",
+       "lat": "Kade si trgnala Kito,",
+       "en": "Where are you going, Kita,"
+      },
+      {
+       "cyr": "боса на жетва?",
+       "lat": "bosa na žetva?",
+       "en": "barefooted to harvesting?"
+      },
+      {
+       "cyr": "Кито ле, први мераку,",
+       "lat": "Kito le, prvi meraku,",
+       "en": "Kita hey, my first love,"
+      },
+      {
+       "cyr": "Кито ле, прва изгоро.",
+       "lat": "Kito le, prva izgoro.",
+       "en": "Kita hey, my first heartbreak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Боса на жетва, Кито,",
+       "lat": "Bosa na žetva, Kito,",
+       "en": "Barefooted to harvesting, Kita,"
+      },
+      {
+       "cyr": "со срп на рамо.",
+       "lat": "so srp na ramo.",
+       "en": "with a scythe on your shoulder."
+      },
+      {
+       "cyr": "Кито ле, први мераку,",
+       "lat": "Kito le, prvi meraku,",
+       "en": "Kita hey, my first love,"
+      },
+      {
+       "cyr": "Кито ле, прва изгоро.",
+       "lat": "Kito le, prva izgoro.",
+       "en": "Kita hey, my first heartbreak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со срп на рамо, Кито,",
+       "lat": "So srp na ramo, Kito,",
+       "en": "With a scythe on your shoulder, Kita,"
+      },
+      {
+       "cyr": "дете на раце.",
+       "lat": "dete na race.",
+       "en": "with a child in your hands."
+      },
+      {
+       "cyr": "Кито ле, први мераку,",
+       "lat": "Kito le, prvi meraku,",
+       "en": "Kita hey, my first love,"
+      },
+      {
+       "cyr": "Кито ле, прва изгоро.",
+       "lat": "Kito le, prva izgoro.",
+       "en": "Kita hey, my first heartbreak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Остави си српот, Кито,",
+       "lat": "Ostavi si srpot, Kito,",
+       "en": "Leave the scythe, Kita,"
+      },
+      {
+       "cyr": "дојди при мене.",
+       "lat": "dojdi pri mene.",
+       "en": "and come to me."
+      },
+      {
+       "cyr": "Кито ле, први мераку,",
+       "lat": "Kito le, prvi meraku,",
+       "en": "Kita hey, my first love,"
+      },
+      {
+       "cyr": "Кито ле, прва изгоро.",
+       "lat": "Kito le, prva izgoro.",
+       "en": "Kita hey, my first heartbreak."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

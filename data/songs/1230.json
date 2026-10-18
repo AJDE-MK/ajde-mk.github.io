@@ -1,0 +1,219 @@
+{
+ "id": 1230,
+ "slug": "dali-chekash-stara-majchice",
+ "title_cyr": "Дали чекаш стара мајчице",
+ "title_latin": "Dali čekaš stara majčice",
+ "title_en": "Are You Waiting, Old Mother",
+ "pesna_url": "https://pesna.org/song/1230",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Камен да сум студен, тебе ќе те спомнам' is my reading: even if I were a cold stone I would still remember you.",
+ "words_to_learn": [
+  {
+   "mk": "чекаш",
+   "en": "you wait"
+  },
+  {
+   "mk": "мајчице",
+   "en": "dear little mother"
+  },
+  {
+   "mk": "писмо",
+   "en": "letter"
+  },
+  {
+   "mk": "далечен",
+   "en": "distant"
+  },
+  {
+   "mk": "прошка",
+   "en": "forgiveness"
+  },
+  {
+   "mk": "страдална",
+   "en": "suffering"
+  },
+  {
+   "mk": "прегрнам",
+   "en": "I embrace"
+  },
+  {
+   "mk": "до века",
+   "en": "forever"
+  }
+ ],
+ "performers": [
+  "Гоце Арнаудов"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/3073"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дали чекаш стара мајчице",
+       "lat": "Dali čekaš stara majčice",
+       "en": "Are you waiting, old mother,"
+      },
+      {
+       "cyr": "писмо да ти напишам, да ти испратам?",
+       "lat": "pismo da ti napišam, da ti ispratam?",
+       "en": "for me to write you a letter, to send it to you?"
+      },
+      {
+       "cyr": "Дали чекаш стара мајчице",
+       "lat": "Dali čekaš stara majčice",
+       "en": "Are you waiting, old mother,"
+      },
+      {
+       "cyr": "глас од синот далечен, незаборавен?",
+       "lat": "glas od sinot dalečen, nezaboraven?",
+       "en": "for a word from your distant, unforgotten son?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Памти ме по добро,",
+       "lat": "Pamti me po dobro,",
+       "en": "Remember me kindly,"
+      },
+      {
+       "cyr": "ти мајко стара, душо страдална.",
+       "lat": "ti majko stara, dušo stradalna.",
+       "en": "you old mother, suffering soul."
+      },
+      {
+       "cyr": "Камен да сум студен, тебе",
+       "lat": "Kamen da sum studen, tebe",
+       "en": "Even if I were a cold stone, I"
+      },
+      {
+       "cyr": "ќе те спомнам, прошка да ти побарам.",
+       "lat": "ḱe te spomnam, proška da ti pobaram.",
+       "en": "will remember you, to ask your forgiveness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Порти да ми отвориш, мајко,",
+       "lat": "Porti da mi otvoriš, majko,",
+       "en": "Open the gates for me, mother,"
+      },
+      {
+       "cyr": "оган да ми запалиш, стара.",
+       "lat": "ogan da mi zapališ, stara.",
+       "en": "light a fire for me, old one."
+      },
+      {
+       "cyr": "Кога ќе се вратам,",
+       "lat": "Koga ḱe se vratam,",
+       "en": "When I return,"
+      },
+      {
+       "cyr": "сонце да ми грее душа,",
+       "lat": "sonce da mi gree duša,",
+       "en": "let the sun warm my soul,"
+      },
+      {
+       "cyr": "тебе да те прегрнам.",
+       "lat": "tebe da te pregrnam.",
+       "en": "let me embrace you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали чекаш стара мајчице",
+       "lat": "Dali čekaš stara majčice",
+       "en": "Are you waiting, old mother,"
+      },
+      {
+       "cyr": "дома да ти долетам, макар ден ил' два?",
+       "lat": "doma da ti doletam, makar den il' dva?",
+       "en": "for me to fly home to you, even for a day or two?"
+      },
+      {
+       "cyr": "Дали чекаш стара мајчице",
+       "lat": "Dali čekaš stara majčice",
+       "en": "Are you waiting, old mother,"
+      },
+      {
+       "cyr": "до тебе да останам, леле до века?",
+       "lat": "do tebe da ostanam, lele do veka?",
+       "en": "for me to stay with you, oh, forever?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Памти ме по добро,",
+       "lat": "Pamti me po dobro,",
+       "en": "Remember me kindly,"
+      },
+      {
+       "cyr": "ти мајко стара, душо страдална.",
+       "lat": "ti majko stara, dušo stradalna.",
+       "en": "you old mother, suffering soul."
+      },
+      {
+       "cyr": "Камен да сум студен, тебе",
+       "lat": "Kamen da sum studen, tebe",
+       "en": "Even if I were a cold stone, I"
+      },
+      {
+       "cyr": "ќе те спомнам, прошка да ти побарам.",
+       "lat": "ḱe te spomnam, proška da ti pobaram.",
+       "en": "will remember you, to ask your forgiveness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Порти да ми отвориш, мајко,",
+       "lat": "Porti da mi otvoriš, majko,",
+       "en": "Open the gates for me, mother,"
+      },
+      {
+       "cyr": "оган да ми запалиш, стара.",
+       "lat": "ogan da mi zapališ, stara.",
+       "en": "light a fire for me, old one."
+      },
+      {
+       "cyr": "Кога ќе се вратам,",
+       "lat": "Koga ḱe se vratam,",
+       "en": "When I return,"
+      },
+      {
+       "cyr": "сонце да ми грее душа,",
+       "lat": "sonce da mi gree duša,",
+       "en": "let the sun warm my soul,"
+      },
+      {
+       "cyr": "тебе да те прегрнам.",
+       "lat": "tebe da te pregrnam.",
+       "en": "let me embrace you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

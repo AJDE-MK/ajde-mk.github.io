@@ -1,0 +1,124 @@
+{
+ "id": 1022,
+ "slug": "kinisala-kalja-za-rajna-koshara",
+ "title_cyr": "Кинисала Каља за Рајна Кошара",
+ "title_latin": "Kinisala Kalja za Rajna Košara",
+ "title_en": "Kalja set out for Rajna Koshara",
+ "pesna_url": "https://pesna.org/song/1022",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Easter custom song from Struga Malesija. 'Рајна Кошара' as a place and 'е кажиш' (= ѝ кажи, 'tell her') are my reading; the voice heard seems to be someone in the water, relaying a message to his mother.",
+ "words_to_learn": [
+  {
+   "mk": "кинисала",
+   "en": "set out"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "одеешти",
+   "en": "while going (dialect participle)"
+  },
+  {
+   "mk": "заслушала",
+   "en": "heard, caught the sound of"
+  },
+  {
+   "mk": "братучедо",
+   "en": "cousin (vocative)"
+  },
+  {
+   "mk": "кажиш",
+   "en": "you tell"
+  },
+  {
+   "mk": "џубе",
+   "en": "long sleeveless outer garment"
+  },
+  {
+   "mk": "наопаку",
+   "en": "inside out, the wrong way round"
+  },
+  {
+   "mk": "тераат",
+   "en": "they force / drive (dialect)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисала Каља за Рајна Кошара,",
+       "lat": "Kinisala Kalja za Rajna Košara,",
+       "en": "Kalja set out for Rajna Koshara,"
+      },
+      {
+       "cyr": "за Рајна Кошара, брату за вечера.",
+       "lat": "za Rajna Košara, bratu za večera.",
+       "en": "for Rajna Koshara, for her brother's supper."
+      },
+      {
+       "cyr": "Одеешти Каља нешто заслушала:",
+       "lat": "Odeešti Kalja nešto zaslušala:",
+       "en": "Walking along, Kalja heard something:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И ти, Каљо, братучедо мори,",
+       "lat": "- I ti, Kaljo, bratučedo mori,",
+       "en": "- And you, Kalja, cousin, hey,"
+      },
+      {
+       "cyr": "да е кажиш на мајка ми",
+       "lat": "da e kažiš na majka mi",
+       "en": "tell my mother"
+      },
+      {
+       "cyr": "да не носи џубе наопаку,",
+       "lat": "da ne nosi džube naopaku,",
+       "en": "not to wear her coat inside out,"
+      },
+      {
+       "cyr": "ме тераат наопаку да одам.",
+       "lat": "me teraat naopaku da odam.",
+       "en": "they are making me walk the wrong way round."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да е кажиш на мајка ми,",
+       "lat": "Da e kažiš na majka mi,",
+       "en": "Tell my mother"
+      },
+      {
+       "cyr": "да не плачи,",
+       "lat": "da ne plači,",
+       "en": "not to cry,"
+      },
+      {
+       "cyr": "ме тераат во вода да стојам.",
+       "lat": "me teraat vo voda da stojam.",
+       "en": "they are making me stand in the water."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

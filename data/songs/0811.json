@@ -1,0 +1,250 @@
+{
+ "id": 811,
+ "slug": "petro-le-pile-shareno",
+ "title_cyr": "Петро ле, пиле шарено",
+ "title_latin": "Petro le, pile šareno",
+ "title_en": "Petra, colorful bird",
+ "pesna_url": "https://pesna.org/song/811",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Зоран Џорлев",
+  "Магдалена Морарова",
+  "Милица Кузмановска",
+  "Милован Секулоски",
+  "Мишко Крстевски",
+  "Пепи Димоска",
+  "Распеани велешани",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1592"
+  },
+  {
+   "who": "Магдалена Морарова",
+   "url": "https://pesna.org/audio-download/1678"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/2142"
+  },
+  {
+   "who": "Зоран Џорлев, Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/2143"
+  },
+  {
+   "who": "Зоран Џорлев, Милица Кузмановска",
+   "url": "https://pesna.org/audio-download/2144"
+  },
+  {
+   "who": "Милован Секулоски",
+   "url": "https://pesna.org/audio-download/2145"
+  },
+  {
+   "who": "Пепи Димоска",
+   "url": "https://pesna.org/audio-download/2146"
+  },
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4116"
+  },
+  {
+   "who": "Магдалена Морарова",
+   "url": "https://pesna.org/audio-download/4421"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Петруно, пиле шарено)",
+       "lat": "(Petruno, pile šareno)",
+       "en": "(Petruna, colorful bird)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Петро ле, пиле шарено,",
+       "lat": "- Petro le, pile šareno,",
+       "en": "- Petra, colorful bird,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Петро ле пиле галено,",
+       "lat": "Petro le pile galeno,",
+       "en": "Petra, pet bird,",
+       "en_mt": false
+      },
+      {
+       "cyr": "а што си толку убава,",
+       "lat": "a što si tolku ubava,",
+       "en": "How is it you are so beautiful?",
+       "en_mt": false
+      },
+      {
+       "cyr": "а што си толку убава?",
+       "lat": "a što si tolku ubava?",
+       "en": "How is it you are so beautiful?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' си од бога паднала,",
+       "lat": "Dal' si od boga padnala,",
+       "en": "Did you fall from God,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дал' си од бога паднала,",
+       "lat": "dal' si od boga padnala,",
+       "en": "Did you fall from God,",
+       "en_mt": false
+      },
+      {
+       "cyr": "или у бавча никнала,",
+       "lat": "ili u bavča niknala,",
+       "en": "or did you spring from a garden?",
+       "en_mt": false
+      },
+      {
+       "cyr": "или у бавча никнала?",
+       "lat": "ili u bavča niknala?",
+       "en": "or did you spring from a garden?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дејгиди лудо, бре младо,",
+       "lat": "- Dejgidi ludo, bre mlado,",
+       "en": "- Don't be silly, boy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нит' сум од бога паднала,",
+       "lat": "nit' sum od boga padnala,",
+       "en": "I didn't fall from God,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ниту од бавча никнала,",
+       "lat": "nitu od bavča niknala,",
+       "en": "nor did I spring from the garden.",
+       "en_mt": false
+      },
+      {
+       "cyr": "ниту од бавча никнала.",
+       "lat": "nitu od bavča niknala.",
+       "en": "nor did I spring from the garden.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И мене мајка родила,",
+       "lat": "I mene majka rodila,",
+       "en": "My mother bore me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и мене мајка родила,",
+       "lat": "i mene majka rodila,",
+       "en": "My mother bore me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и мене како и тебе,",
+       "lat": "i mene kako i tebe,",
+       "en": "just as yours did you.",
+       "en_mt": false
+      },
+      {
+       "cyr": "и мене како и тебе.",
+       "lat": "i mene kako i tebe.",
+       "en": "just as yours did you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ме мајка родила,",
+       "lat": "Koga me majka rodila,",
+       "en": "When my mother bore me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кога ме мајка родила,",
+       "lat": "koga me majka rodila,",
+       "en": "When my mother bore me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со пресно млеко доила,",
+       "lat": "so presno mleko doila,",
+       "en": "she nursed me with fresh milk,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со рујно вино поила.",
+       "lat": "so rujno vino poila.",
+       "en": "she washed me with red wine.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Затој сам бела, црвена,",
+       "lat": "Zatoj sam bela, crvena,",
+       "en": "That's why I'm fair and red,",
+       "en_mt": false
+      },
+      {
+       "cyr": "затој сам бела, црвена,",
+       "lat": "zatoj sam bela, crvena,",
+       "en": "That's why I'm fair and red,",
+       "en_mt": false
+      },
+      {
+       "cyr": "затој с'м т'нка, висока,",
+       "lat": "zatoj s'm t'nka, visoka,",
+       "en": "that's why I'm slender and tall.",
+       "en_mt": false
+      },
+      {
+       "cyr": "затој с'м тенка, висока.",
+       "lat": "zatoj s'm tenka, visoka.",
+       "en": "that's why I'm slender and tall.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

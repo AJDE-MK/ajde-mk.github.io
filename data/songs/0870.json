@@ -1,0 +1,158 @@
+{
+ "id": 870,
+ "slug": "lele-s-nce-lele-glava",
+ "title_cyr": "Леле с'нце, леле глава",
+ "title_latin": "Lele s'nce, lele glava",
+ "title_en": "Oh Sun, Oh Head",
+ "pesna_url": "https://pesna.org/song/870",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Ју пазува' and 'на лудото што помина' are my reading (the sweetheart/the one who passed on), uncertain; 'пазува' I take as 'guards/watches', 'пазува' could also mean 'carries in the bosom'.",
+ "words_to_learn": [
+  {
+   "mk": "леле",
+   "en": "oh, alas"
+  },
+  {
+   "mk": "с'нце",
+   "en": "sun (dialect)"
+  },
+  {
+   "mk": "т'нка",
+   "en": "thin, slender (dialect)"
+  },
+  {
+   "mk": "половина",
+   "en": "half"
+  },
+  {
+   "mk": "змија",
+   "en": "snake"
+  },
+  {
+   "mk": "љута",
+   "en": "fierce, angry"
+  },
+  {
+   "mk": "пенџер",
+   "en": "window"
+  },
+  {
+   "mk": "сокак",
+   "en": "street"
+  },
+  {
+   "mk": "беќарштина",
+   "en": "bachelor life"
+  }
+ ],
+ "performers": [
+  "Трио Гавровски"
+ ],
+ "audio": [
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/1903"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Леле с'нце, мори, леле глава,",
+       "lat": "Lele s'nce, mori, lele glava,",
+       "en": "Oh sun, hey, oh head,"
+      },
+      {
+       "cyr": "леле т'нка, мори, половина.",
+       "lat": "lele t'nka, mori, polovina.",
+       "en": "oh slender, hey, half."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле т'нка, мори, половина,",
+       "lat": "Lele t'nka, mori, polovina,",
+       "en": "Oh slender, hey, half,"
+      },
+      {
+       "cyr": "на лудото, мори, што помина.",
+       "lat": "na ludoto, mori, što pomina.",
+       "en": "for the foolish one, hey, who has passed away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На лудото, мори, што помина,",
+       "lat": "Na ludoto, mori, što pomina,",
+       "en": "For the foolish one, hey, who has passed away,"
+      },
+      {
+       "cyr": "ју пазува, мори, љута змија.",
+       "lat": "ju pazuva, mori, ljuta zmija.",
+       "en": "a fierce snake, hey, is watching her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ју пазува, мори, љута змија,",
+       "lat": "Ju pazuva, mori, ljuta zmija,",
+       "en": "A fierce snake, hey, is watching her,"
+      },
+      {
+       "cyr": "елај моме, мори, извади ја.",
+       "lat": "elaj mome, mori, izvadi ja.",
+       "en": "please, girl, hey, take it out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја на пенџер, мори, ти на сокак,",
+       "lat": "Ja na pendžer, mori, ti na sokak,",
+       "en": "I at the window, hey, you on the street,"
+      },
+      {
+       "cyr": "ил' да дојдеш, мори, ил' да дојдам.",
+       "lat": "il' da dojdeš, mori, il' da dojdam.",
+       "en": "either you come, hey, or I come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ил' да дојдеш, мори, ил' да дојдам,",
+       "lat": "Il' da dojdeš, mori, il' da dojdam,",
+       "en": "Either you come, hey, or I come,"
+      },
+      {
+       "cyr": "не се трпи, мори, ова пуста,",
+       "lat": "ne se trpi, mori, ova pusta,",
+       "en": "this cannot be borne, hey, this poor,"
+      },
+      {
+       "cyr": "ова пуста, мори, беќарштина.",
+       "lat": "ova pusta, mori, beḱarština.",
+       "en": "this poor, hey, bachelor life."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

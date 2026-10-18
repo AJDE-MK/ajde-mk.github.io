@@ -1,0 +1,126 @@
+{
+ "id": 697,
+ "slug": "kazhi-kazhi-donke",
+ "title_cyr": "Кажи кажи Донке",
+ "title_latin": "Kaži kaži Donke",
+ "title_en": "Tell Me, Donka",
+ "pesna_url": "https://pesna.org/song/697",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Several Turkish-origin epithets (ѓулчин, ѓузел, џилфе) are translated from my reading and are uncertain; 'круша шербетлија' as 'juicy pear' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "аман",
+   "en": "oh mercy / alas (Turkish exclamation)"
+  },
+  {
+   "mk": "ѓулчин",
+   "en": "rose-like (Turkish loan, my reading)"
+  },
+  {
+   "mk": "ѓузел",
+   "en": "lovely, beautiful (Turkish loan)"
+  },
+  {
+   "mk": "џилфе",
+   "en": "sweet-natured, charming (my reading)"
+  },
+  {
+   "mk": "лична",
+   "en": "beautiful, handsome"
+  },
+  {
+   "mk": "леблебија",
+   "en": "roasted chickpeas"
+  },
+  {
+   "mk": "мезе",
+   "en": "snack served with drinks"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija, fruit brandy"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/856"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, кажи, Донке што да ти донесам,",
+       "lat": "Kaži, kaži, Donke što da ti donesam,",
+       "en": "Tell me, tell me, Donka, what shall I bring you,"
+      },
+      {
+       "cyr": "оф аман, аман мори ѓулчин Донке?,",
+       "lat": "of aman, aman mori ǵulčin Donke?,",
+       "en": "oh mercy, mercy, hey rose-like Donka?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шеќерна кутија, грозје, леблебија,",
+       "lat": "Šeḱerna kutija, grozje, leblebija,",
+       "en": "A sugar box, grapes, roasted chickpeas,"
+      },
+      {
+       "cyr": "оф аман, аман, мори ѓузел Донке?",
+       "lat": "of aman, aman, mori ǵuzel Donke?",
+       "en": "oh mercy, mercy, hey lovely Donka?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Круша шербетлија, мезе за ракија,",
+       "lat": "Kruša šerbetlija, meze za rakija,",
+       "en": "A juicy pear, a snack for the rakija,"
+      },
+      {
+       "cyr": "оф аман, аман мори џилфе Донке?",
+       "lat": "of aman, aman mori džilfe Donke?",
+       "en": "oh mercy, mercy, hey sweet-natured Donka?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ништо не ти сакам, сал тебе те чекам,",
+       "lat": "Ništo ne ti sakam, sal tebe te čekam,",
+       "en": "I want nothing from you, I only wait for you,"
+      },
+      {
+       "cyr": "сал тебе те чекам дома да ми дојдеш,",
+       "lat": "sal tebe te čekam doma da mi dojdeš,",
+       "en": "I only wait for you to come to my home,"
+      },
+      {
+       "cyr": "оф аман, аман мори лична Донке.",
+       "lat": "of aman, aman mori lična Donke.",
+       "en": "oh mercy, mercy, hey beautiful Donka."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

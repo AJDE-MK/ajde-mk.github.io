@@ -1,0 +1,147 @@
+{
+ "id": 1482,
+ "slug": "bulbul-pee",
+ "title_cyr": "Булбул пее",
+ "title_latin": "Bulbul pee",
+ "title_en": "The nightingale sings",
+ "pesna_url": "https://pesna.org/song/1482",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ќе разбудиш' lacks an object so 'you will wake up' is my reading and 'ношно рано' is rendered 'early in the night' (also my reading). Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "булбул",
+   "en": "nightingale"
+  },
+  {
+   "mk": "пее",
+   "en": "sings"
+  },
+  {
+   "mk": "аман",
+   "en": "oh dear, alas (Turkish-origin exclamation)"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb (endearment)"
+  },
+  {
+   "mk": "даскалица",
+   "en": "schoolteacher (female)"
+  },
+  {
+   "mk": "млада",
+   "en": "young"
+  },
+  {
+   "mk": "ношно",
+   "en": "at night"
+  },
+  {
+   "mk": "ќе разбудиш",
+   "en": "you will wake (someone) up"
+  },
+  {
+   "mk": "господаре",
+   "en": "sir, master (vocative)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Гоце Делчев",
+  "Делчево",
+  "Ансамбл Малешевска китка"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3845"
+  },
+  {
+   "who": "Ансамбл Гоце Делчев, Делчево",
+   "url": "https://pesna.org/audio-download/3846"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Булбул пее, аман аман,",
+       "lat": "Bulbul pee, aman aman,",
+       "en": "The nightingale sings, oh dear, oh dear,"
+      },
+      {
+       "cyr": "булбул пее,",
+       "lat": "bulbul pee,",
+       "en": "the nightingale sings,"
+      },
+      {
+       "cyr": "оф Јано јагне, даскалице млада,",
+       "lat": "of Jano jagne, daskalice mlada,",
+       "en": "oh Jana, my lamb, young schoolteacher,"
+      },
+      {
+       "cyr": "ношно рано.",
+       "lat": "nošno rano.",
+       "en": "early in the night."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не пее булбул, аман аман,",
+       "lat": "Ne pee bulbul, aman aman,",
+       "en": "It is not the nightingale singing, oh dear, oh dear,"
+      },
+      {
+       "cyr": "не пее булбул,",
+       "lat": "ne pee bulbul,",
+       "en": "it is not the nightingale singing,"
+      },
+      {
+       "cyr": "оф Јано јагне, даскалице млада,",
+       "lat": "of Jano jagne, daskalice mlada,",
+       "en": "oh Jana, my lamb, young schoolteacher,"
+      },
+      {
+       "cyr": "ношно рано.",
+       "lat": "nošno rano.",
+       "en": "early in the night."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе разбудиш, аман аман,",
+       "lat": "Ḱe razbudiš, aman aman,",
+       "en": "You will wake up, oh dear, oh dear,"
+      },
+      {
+       "cyr": "ќе разбудиш,",
+       "lat": "ḱe razbudiš,",
+       "en": "you will wake up,"
+      },
+      {
+       "cyr": "оф Јано јагне, даскалице млада,",
+       "lat": "of Jano jagne, daskalice mlada,",
+       "en": "oh Jana, my lamb, young schoolteacher,"
+      },
+      {
+       "cyr": "господаре.",
+       "lat": "gospodare.",
+       "en": "sir."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

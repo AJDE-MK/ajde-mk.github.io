@@ -1,0 +1,158 @@
+{
+ "id": 637,
+ "slug": "grozdano-mome-ubavo",
+ "title_cyr": "Гроздано моме убаво",
+ "title_latin": "Grozdano mome ubavo",
+ "title_en": "Beautiful girl Grozdana",
+ "pesna_url": "https://pesna.org/song/637",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style love song, origin unclear (Grozdana is a girl's name, from грозд, grape). 'мермерна' (marble) describes her figure.",
+ "words_to_learn": [
+  {
+   "mk": "грозд",
+   "en": "grape cluster"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor"
+  },
+  {
+   "mk": "пијан",
+   "en": "drunk"
+  },
+  {
+   "mk": "слеп",
+   "en": "blind"
+  },
+  {
+   "mk": "целивам",
+   "en": "I kiss"
+  },
+  {
+   "mk": "снага",
+   "en": "figure, body"
+  },
+  {
+   "mk": "пастрмка",
+   "en": "trout"
+  },
+  {
+   "mk": "прегрнам",
+   "en": "I embrace"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Гроздано моме убаво",
+       "lat": "Grozdano mome ubavo",
+       "en": "Beautiful girl Grozdana"
+      },
+      {
+       "cyr": "најубав грозд во лозјето",
+       "lat": "najubav grozd vo lozjeto",
+       "en": "the most beautiful grape in the vineyard"
+      },
+      {
+       "cyr": "кој ми те ерген погледнал",
+       "lat": "koj mi te ergen poglednal",
+       "en": "any bachelor who has looked at you"
+      },
+      {
+       "cyr": "пијан си оди до гроба. [х2]",
+       "lat": "pijan si odi do groba. [h2]",
+       "en": "goes drunk to his grave. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твоите очи Гроздано",
+       "lat": "Tvoite oči Grozdano",
+       "en": "Your eyes, Grozdana"
+      },
+      {
+       "cyr": "две црни зрна гроздови",
+       "lat": "dve crni zrna grozdovi",
+       "en": "two black grape berries"
+      },
+      {
+       "cyr": "дај ми ги да ги погледнам",
+       "lat": "daj mi gi da gi poglednam",
+       "en": "give them to me to look at"
+      },
+      {
+       "cyr": "слеп јас да одам до гроба. [х2]",
+       "lat": "slep jas da odam do groba. [h2]",
+       "en": "let me go blind to my grave. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојата уста Гроздано",
+       "lat": "Tvojata usta Grozdano",
+       "en": "Your mouth, Grozdana"
+      },
+      {
+       "cyr": "ко медно вино црвено",
+       "lat": "ko medno vino crveno",
+       "en": "like red honey-sweet wine"
+      },
+      {
+       "cyr": "дај ми ја да ја целивам",
+       "lat": "daj mi ja da ja celivam",
+       "en": "give it to me to kiss"
+      },
+      {
+       "cyr": "нем јас да одам до гроба. [х2]",
+       "lat": "nem jas da odam do groba. [h2]",
+       "en": "let me go mute to my grave. [x2]"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојта снага мермерна",
+       "lat": "Tvojta snaga mermerna",
+       "en": "Your figure of marble"
+      },
+      {
+       "cyr": "пастрмка риба Охридска",
+       "lat": "pastrmka riba Ohridska",
+       "en": "a trout, fish of Ohrid"
+      },
+      {
+       "cyr": "дај ми ја да ја прегрнам",
+       "lat": "daj mi ja da ja pregrnam",
+       "en": "give it to me to embrace"
+      },
+      {
+       "cyr": "сакат да одам до гроба. [х2]",
+       "lat": "sakat da odam do groba. [h2]",
+       "en": "let me go crippled to my grave. [x2]"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

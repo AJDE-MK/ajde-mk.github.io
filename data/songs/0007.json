@@ -1,0 +1,128 @@
+{
+ "id": 7,
+ "slug": "v-selo-se-cheshma-gradeshe",
+ "title_cyr": "В село се чешма градеше",
+ "title_latin": "V selo se češma gradeše",
+ "title_en": "In the village a fountain was being built",
+ "pesna_url": "https://pesna.org/song/7",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/395"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "В село се чешма градеше,",
+       "lat": "V selo se češma gradeše,",
+       "en": "In the village a fountain was being built,"
+      },
+      {
+       "cyr": "голем се џумбуш правеше.",
+       "lat": "golem se džumbuš praveše.",
+       "en": "and there was a bedlam."
+      },
+      {
+       "cyr": "Лиду, лиду лиду, ли ду ду,",
+       "lat": "Lidu, lidu lidu, li du du,",
+       "en": "Hey, ho, hey, ho,"
+      },
+      {
+       "cyr": "голем се џумбуш правеше.",
+       "lat": "golem se džumbuš praveše.",
+       "en": "there was a bedlam."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В село се чешма градеше,",
+       "lat": "V selo se češma gradeše,",
+       "en": "In the village a fountain was being built,"
+      },
+      {
+       "cyr": "на крај село до јаворот.",
+       "lat": "na kraj selo do javorot.",
+       "en": "at the end of the village, near the maple."
+      },
+      {
+       "cyr": "Лиду, лиду лиду, ли ду ду,",
+       "lat": "Lidu, lidu lidu, li du du,",
+       "en": "Hey, ho, hey, ho,"
+      },
+      {
+       "cyr": "на крај село до јаворот.",
+       "lat": "na kraj selo do javorot.",
+       "en": "at the end of the village, near the maple."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каков им беше мајсторот,",
+       "lat": "Kakov im beše majstorot,",
+       "en": "What kind of a builder did they had"
+      },
+      {
+       "cyr": "чешмата што ја направи?",
+       "lat": "češmata što ja napravi?",
+       "en": "that built their fountain?"
+      },
+      {
+       "cyr": "Лиду, лиду лиду, ли ду ду,",
+       "lat": "Lidu, lidu lidu, li du du,",
+       "en": "Hey, ho, hey, ho,"
+      },
+      {
+       "cyr": "чешмата што ја направи.",
+       "lat": "češmata što ja napravi.",
+       "en": "that built their fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чешмата што ја направи,",
+       "lat": "Češmata što ja napravi,",
+       "en": "The fountain that he built,"
+      },
+      {
+       "cyr": "како ѝ тури чепурот.",
+       "lat": "kako ì turi čepurot.",
+       "en": "he didn't put the nozzle well."
+      },
+      {
+       "cyr": "Лиду, лиду лиду, ли ду ду,",
+       "lat": "Lidu, lidu lidu, li du du,",
+       "en": "Hey, ho, hey, ho,"
+      },
+      {
+       "cyr": "како ѝ тури чепурот.",
+       "lat": "kako ì turi čepurot.",
+       "en": "he didn't put the nozzle well."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

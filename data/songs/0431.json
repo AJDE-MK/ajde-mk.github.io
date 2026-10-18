@@ -1,0 +1,198 @@
+{
+ "id": 431,
+ "slug": "marie-mlada-nevesto",
+ "title_cyr": "Марие млада невесто",
+ "title_latin": "Marie mlada nevesto",
+ "title_en": "Marie, Young Bride",
+ "pesna_url": "https://pesna.org/song/431",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'анама' is my reading ('my lady', from Turkish hanim); I am not sure of it. 'сека недела Велигден' is rendered 'every Sunday is Easter' (недела = Sunday or week).",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young daughter-in-law"
+  },
+  {
+   "mk": "се потурчи",
+   "en": "to convert to Islam, become a Turk"
+  },
+  {
+   "mk": "чардак",
+   "en": "balcony, raised porch"
+  },
+  {
+   "mk": "жолтици",
+   "en": "gold coins"
+  },
+  {
+   "mk": "нижиш",
+   "en": "you string (beads)"
+  },
+  {
+   "mk": "грло",
+   "en": "throat, neck"
+  },
+  {
+   "mk": "џамија",
+   "en": "mosque"
+  },
+  {
+   "mk": "пуста",
+   "en": "desolate, accursed"
+  },
+  {
+   "mk": "вера",
+   "en": "faith, religion"
+  },
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Ансамбл ресенчани",
+  "Зоран Џорлев",
+  "Танец",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/545"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/546"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/547"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/548"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/3746"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Марие млада невесто",
+       "lat": "Marie mlada nevesto",
+       "en": "Marie, young bride,"
+      },
+      {
+       "cyr": "елај се Маре потурчи,",
+       "lat": "elaj se Mare poturči,",
+       "en": "come, Mara, convert to Islam,"
+      },
+      {
+       "cyr": "ела анама да бидеш.",
+       "lat": "ela anama da bideš.",
+       "en": "come and be my lady."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На висок чардак да седиш",
+       "lat": "Na visok čardak da sediš",
+       "en": "You will sit on a high balcony,"
+      },
+      {
+       "cyr": "жолти жолтици да нижиш",
+       "lat": "žolti žoltici da nižiš",
+       "en": "stringing yellow gold coins"
+      },
+      {
+       "cyr": "на бело грло да носиш.",
+       "lat": "na belo grlo da nosiš.",
+       "en": "to wear on your white throat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Подарок ќе ти подарам",
+       "lat": "Podarok ḱe ti podaram",
+       "en": "I will give you a gift:"
+      },
+      {
+       "cyr": "Едрене Султан Сељим џамија,",
+       "lat": "Edrene Sultan Seljim džamija,",
+       "en": "the Sultan Selim Mosque in Edirne,"
+      },
+      {
+       "cyr": "Цариград Света Софија.",
+       "lat": "Carigrad Sveta Sofija.",
+       "en": "the Hagia Sophia in Constantinople."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пуста ти била Сељим џамија,",
+       "lat": "Pusta ti bila Seljim džamija,",
+       "en": "May your Selim Mosque be desolate,"
+      },
+      {
+       "cyr": "пуста ти била Света Софија,",
+       "lat": "pusta ti bila Sveta Sofija,",
+       "en": "may your Hagia Sophia be desolate,"
+      },
+      {
+       "cyr": "јас си ја сакам верата.",
+       "lat": "jas si ja sakam verata.",
+       "en": "I love my faith."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас си ја сакам верата,",
+       "lat": "Jas si ja sakam verata,",
+       "en": "I love my faith,"
+      },
+      {
+       "cyr": "нашата вера убава,",
+       "lat": "našata vera ubava,",
+       "en": "our beautiful faith,"
+      },
+      {
+       "cyr": "сека недела Велигден.",
+       "lat": "seka nedela Veligden.",
+       "en": "every Sunday is Easter."
+      },
+      {
+       "cyr": "Нашата вера рисјанска,",
+       "lat": "Našata vera risjanska,",
+       "en": "Our Christian faith,"
+      },
+      {
+       "cyr": "сека недела Велигден.",
+       "lat": "seka nedela Veligden.",
+       "en": "every Sunday is Easter."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

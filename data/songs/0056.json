@@ -1,0 +1,176 @@
+{
+ "id": 56,
+ "slug": "izlezi-stara-majko",
+ "title_cyr": "Излези, стара мајко",
+ "title_latin": "Izlezi, stara majko",
+ "title_en": "Come Out, Old Mother",
+ "pesna_url": "https://pesna.org/song/56",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Малихера' is read as the Mannlicher rifle (my reading). I judged this a traditional komita song; it is not certain.",
+ "words_to_learn": [
+  {
+   "mk": "излези",
+   "en": "come out"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "комита",
+   "en": "rebel fighter, irregular"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "куршуми",
+   "en": "bullets"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски",
+  "Октет пријатели",
+  "Октет Стерна",
+  "Macedonian Women's Choir of Melbourne",
+  "Słowianki"
+ ],
+ "audio": [
+  {
+   "who": "Октет пријатели",
+   "url": "https://pesna.org/audio-download/743"
+  },
+  {
+   "who": "Słowianki",
+   "url": "https://pesna.org/audio-download/744"
+  },
+  {
+   "who": "Macedonian Women's Choir of Melbourne",
+   "url": "https://pesna.org/audio-download/745"
+  },
+  {
+   "who": "Октет Стерна",
+   "url": "https://pesna.org/audio-download/746"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2935"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ја излези, стара мајко,",
+       "lat": "Ja izlezi, stara majko,",
+       "en": "Come on out, old mother,"
+      },
+      {
+       "cyr": "надвор до портата,",
+       "lat": "nadvor do portata,",
+       "en": "outside to the gate,"
+      },
+      {
+       "cyr": "па да чуеш, стара мајко,",
+       "lat": "pa da čueš, stara majko,",
+       "en": "and hear, old mother,"
+      },
+      {
+       "cyr": "што песна се пее.",
+       "lat": "što pesna se pee.",
+       "en": "what song is being sung."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го чуеш, стара мајко,",
+       "lat": "Da go čueš, stara majko,",
+       "en": "Hear him, old mother,"
+      },
+      {
+       "cyr": "твојот син комита,",
+       "lat": "tvojot sin komita,",
+       "en": "your son the rebel,"
+      },
+      {
+       "cyr": "песна пее, стара мајко,",
+       "lat": "pesna pee, stara majko,",
+       "en": "he sings a song, old mother,"
+      },
+      {
+       "cyr": "в' планина ќе оди.",
+       "lat": "v' planina ḱe odi.",
+       "en": "he will go into the mountains."
+      },
+      {
+       "cyr": "Песна пее, стара мајко,",
+       "lat": "Pesna pee, stara majko,",
+       "en": "He sings a song, old mother,"
+      },
+      {
+       "cyr": "песна за слобода.",
+       "lat": "pesna za sloboda.",
+       "en": "a song of freedom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум мајко, збогум жено,",
+       "lat": "Zbogum majko, zbogum ženo,",
+       "en": "Farewell, mother, farewell, wife,"
+      },
+      {
+       "cyr": "збогум мили деца.",
+       "lat": "zbogum mili deca.",
+       "en": "farewell, dear children."
+      },
+      {
+       "cyr": "Мојта жена, стара мајко,",
+       "lat": "Mojta žena, stara majko,",
+       "en": "My wife, old mother,"
+      },
+      {
+       "cyr": "пушка малихера.",
+       "lat": "puška malihera.",
+       "en": "is the Mannlicher rifle."
+      },
+      {
+       "cyr": "Мојте деца, стара мајко,",
+       "lat": "Mojte deca, stara majko,",
+       "en": "My children, old mother,"
+      },
+      {
+       "cyr": "дребните куршуми.",
+       "lat": "drebnite kuršumi.",
+       "en": "are the small bullets."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

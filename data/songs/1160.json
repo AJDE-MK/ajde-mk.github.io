@@ -1,0 +1,166 @@
+{
+ "id": 1160,
+ "slug": "snoshti-te-mare-mori-sonuvav",
+ "title_cyr": "Сношти те Маре мори сонував",
+ "title_latin": "Snošti te Mare mori sonuvav",
+ "title_en": "Last Night I Dreamed of You, Mare",
+ "pesna_url": "https://pesna.org/song/1160",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The refrain 'поербап испадна Маре од мене' is hard; my reading is 'the skilled one fell out of me' (sarcastic, as if she dropped from his heart), so it is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "сонував",
+   "en": "I dreamed"
+  },
+  {
+   "mk": "милував",
+   "en": "caressed, fondled"
+  },
+  {
+   "mk": "чифлик",
+   "en": "estate, farm"
+  },
+  {
+   "mk": "продадам",
+   "en": "I will sell"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "ашколсун",
+   "en": "bravo, shame on you (Turkish 'aşk olsun')"
+  },
+  {
+   "mk": "аферин",
+   "en": "well done (Turkish)"
+  }
+ ],
+ "performers": [
+  "Група Кода",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/2812"
+  },
+  {
+   "who": "Група Кода",
+   "url": "https://pesna.org/audio-download/2813"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти те Маре мори сонував,",
+       "lat": "Snošti te Mare mori sonuvav,",
+       "en": "Last night I dreamed of you, Mare, hey,"
+      },
+      {
+       "cyr": "на сон те, Маре мори, милував.",
+       "lat": "na son te, Mare mori, miluvav.",
+       "en": "in the dream, Mare, hey, I caressed you."
+      },
+      {
+       "cyr": "Ашколсун Маре, аферин,",
+       "lat": "Aškolsun Mare, aferin,",
+       "en": "Well done, Mare, bravo,"
+      },
+      {
+       "cyr": "поербап испадна Маре од мене.",
+       "lat": "poerbap ispadna Mare od mene.",
+       "en": "the skilled one, Mare, fell out of me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чифликот, Маре мори, ќе продадам,",
+       "lat": "Čiflikot, Mare mori, ḱe prodadam,",
+       "en": "I will sell the estate, Mare, hey,"
+      },
+      {
+       "cyr": "само тебе, Маре мори, да земам.",
+       "lat": "samo tebe, Mare mori, da zemam.",
+       "en": "only to take you, Mare, hey."
+      },
+      {
+       "cyr": "Ашколсун Маре, аферин,",
+       "lat": "Aškolsun Mare, aferin,",
+       "en": "Well done, Mare, bravo,"
+      },
+      {
+       "cyr": "поербап испадна Маре од мене.",
+       "lat": "poerbap ispadna Mare od mene.",
+       "en": "the skilled one, Mare, fell out of me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти те, Маре мори, сонував,",
+       "lat": "Snošti te, Mare mori, sonuvav,",
+       "en": "Last night I dreamed of you, Mare, hey,"
+      },
+      {
+       "cyr": "на сон те, Маре мори, милував.",
+       "lat": "na son te, Mare mori, miluvav.",
+       "en": "in the dream, Mare, hey, I caressed you."
+      },
+      {
+       "cyr": "Ашколсун Маре, аферин,",
+       "lat": "Aškolsun Mare, aferin,",
+       "en": "Well done, Mare, bravo,"
+      },
+      {
+       "cyr": "поербап испадна Маре од мене.",
+       "lat": "poerbap ispadna Mare od mene.",
+       "en": "the skilled one, Mare, fell out of me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти те, Маре мори, сонував,",
+       "lat": "Snošti te, Mare mori, sonuvav,",
+       "en": "Last night I dreamed of you, Mare, hey,"
+      },
+      {
+       "cyr": "невеста да бидеш Маре за мене.",
+       "lat": "nevesta da bideš Mare za mene.",
+       "en": "to have you be a bride, Mare, for me."
+      },
+      {
+       "cyr": "Ашколсун Маре, аферин,",
+       "lat": "Aškolsun Mare, aferin,",
+       "en": "Well done, Mare, bravo,"
+      },
+      {
+       "cyr": "поербап испадна Маре од мене.",
+       "lat": "poerbap ispadna Mare od mene.",
+       "en": "the skilled one, Mare, fell out of me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,126 @@
+{
+ "id": 1060,
+ "slug": "kinisalo-grche-jabandzhiche",
+ "title_cyr": "Кинисало Грче јабанџиче",
+ "title_latin": "Kinisalo Grče jabandžiče",
+ "title_en": "The Greek stranger set out",
+ "pesna_url": "https://pesna.org/song/1060",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style song; origin unclear. 'од кого' I render as 'because of whom'. 'тук'' is 'туку' (but/rather).",
+ "words_to_learn": [
+  {
+   "mk": "кинисало",
+   "en": "set out"
+  },
+  {
+   "mk": "Грче",
+   "en": "Greek (little Greek, diminutive)"
+  },
+  {
+   "mk": "јабанџиче",
+   "en": "stranger, foreigner"
+  },
+  {
+   "mk": "панаѓур",
+   "en": "fair, market"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "стара баба",
+   "en": "old woman"
+  },
+  {
+   "mk": "чума",
+   "en": "plague"
+  },
+  {
+   "mk": "испустено",
+   "en": "abandoned, emptied"
+  }
+ ],
+ "performers": [
+  "Гога Зафировски"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2445"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисало Грче јабанџиче,",
+       "lat": "Kinisalo Grče jabandžiče,",
+       "en": "The Greek stranger set out,"
+      },
+      {
+       "cyr": "ќе ми оди в' Скопје на панаѓур.",
+       "lat": "ḱe mi odi v' Skopje na panaǵur.",
+       "en": "he is going to Skopje to the fair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пат најде една бела чешма,",
+       "lat": "Na pat najde edna bela češma,",
+       "en": "On the road he found a white fountain,"
+      },
+      {
+       "cyr": "на чешмата една стара баба.",
+       "lat": "na češmata edna stara baba.",
+       "en": "at the fountain an old woman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе те прашам, мори стара бабо,",
+       "lat": "- Ḱe te prašam, mori stara babo,",
+       "en": "- I will ask you, hey old woman,"
+      },
+      {
+       "cyr": "ќе те прашам, право да ми кажеш:",
+       "lat": "ḱe te prašam, pravo da mi kažeš:",
+       "en": "I will ask you, tell me straight:"
+      },
+      {
+       "cyr": "од кого е Скопје испустено?",
+       "lat": "od kogo e Skopje ispusteno?",
+       "en": "because of whom has Skopje been abandoned?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не сум баба, тук' сум црна чума,",
+       "lat": "- Ne sum baba, tuk' sum crna čuma,",
+       "en": "- I am not an old woman, I am the black plague,"
+      },
+      {
+       "cyr": "од мене е Скопје испустено.",
+       "lat": "od mene e Skopje ispusteno.",
+       "en": "it is because of me that Skopje has been abandoned."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

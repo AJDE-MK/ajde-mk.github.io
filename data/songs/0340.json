@@ -1,0 +1,170 @@
+{
+ "id": 340,
+ "slug": "oj-ovcharche",
+ "title_cyr": "Ој овчарче",
+ "title_latin": "Oj ovčarče",
+ "title_en": "Hey, young shepherd",
+ "pesna_url": "https://pesna.org/song/340",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'стодрам' (a hundred drams, i.e. a heavy tassel) and 'половина облизниле' are my reading; 'облизниле' is a dialect word I am unsure of.",
+ "words_to_learn": [
+  {
+   "mk": "овчарче",
+   "en": "young shepherd"
+  },
+  {
+   "mk": "чобанче",
+   "en": "little herdsman"
+  },
+  {
+   "mk": "развеселен",
+   "en": "merry, cheerful"
+  },
+  {
+   "mk": "фесче",
+   "en": "little fez"
+  },
+  {
+   "mk": "писќуљ",
+   "en": "tassel"
+  },
+  {
+   "mk": "стопан",
+   "en": "master, owner"
+  },
+  {
+   "mk": "објагниле",
+   "en": "have lambed"
+  },
+  {
+   "mk": "породила",
+   "en": "has given birth"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Влатко Стефановски",
+  "Гога Зафировски",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Маргица Антевска",
+  "Радио студио Скопје",
+  "Сашо Митев"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1288"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1289"
+  },
+  {
+   "who": "Маргица Антевска",
+   "url": "https://pesna.org/audio-download/1290"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/1291"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/1292"
+  },
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2447"
+  },
+  {
+   "who": "Александар Сариевски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3408"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој овчарче, бре чобанче,",
+       "lat": "- Oj ovčarče, bre čobanče,",
+       "en": "- Hey young shepherd, hey little herdsman,"
+      },
+      {
+       "cyr": "што си толку развеселен?",
+       "lat": "što si tolku razveselen?",
+       "en": "why are you so merry?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Фино фесче на страната",
+       "lat": "Fino fesče na stranata",
+       "en": "A fine fez tilted to the side,"
+      },
+      {
+       "cyr": "стодрам писќуљ над окото.",
+       "lat": "stodram pisḱulj nad okoto.",
+       "en": "a hundred-dram tassel over the eye."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Стојане, мој стопане,",
+       "lat": "- Oj Stojane, moj stopane,",
+       "en": "- Hey Stojan, my master,"
+      },
+      {
+       "cyr": "как' да не сум развеселен?",
+       "lat": "kak' da ne sum razveselen?",
+       "en": "how could I not be merry?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овци ми се објагниле,",
+       "lat": "Ovci mi se objagnile,",
+       "en": "My ewes have lambed,"
+      },
+      {
+       "cyr": "половина облизниле.",
+       "lat": "polovina obliznile.",
+       "en": "half have licked (their lambs)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жена ми се породила,",
+       "lat": "Žena mi se porodila,",
+       "en": "My wife has given birth,"
+      },
+      {
+       "cyr": "ми родила машко дете.",
+       "lat": "mi rodila maško dete.",
+       "en": "she bore a male child."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

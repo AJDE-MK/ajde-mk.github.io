@@ -1,0 +1,142 @@
+{
+ "id": 958,
+ "slug": "ilija-kje-odi-v-tugjina",
+ "title_cyr": "Илија ќе оди в' туѓина",
+ "title_latin": "Ilija ḱe odi v' tuǵina",
+ "title_en": "Ilija will go abroad",
+ "pesna_url": "https://pesna.org/song/958",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The first line in parentheses is a refrain title copied as given; 'кече кроеше' as 'cut out a felt cloak' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "туѓина",
+   "en": "foreign land, abroad"
+  },
+  {
+   "mk": "фидан",
+   "en": "sapling, slender young person"
+  },
+  {
+   "mk": "бојлија",
+   "en": "tall, well-built person"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes"
+  },
+  {
+   "mk": "кече",
+   "en": "felt (cloak)"
+  },
+  {
+   "mk": "стрина",
+   "en": "aunt (wife of father's brother)"
+  },
+  {
+   "mk": "пита",
+   "en": "pie"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2215"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Илија, фидан бојлија)",
+       "lat": "(Ilija, fidan bojlija)",
+       "en": "(Ilija, slender tall lad)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Илија ќе оди в' туѓина,",
+       "lat": "Ilija ḱe odi v' tuǵina,",
+       "en": "Ilija will go abroad,"
+      },
+      {
+       "cyr": "туѓина, града Стамбола.",
+       "lat": "tuǵina, grada Stambola.",
+       "en": "abroad, to the city of Istanbul."
+      },
+      {
+       "cyr": "Илија, фидан бојлија,",
+       "lat": "Ilija, fidan bojlija,",
+       "en": "Ilija, slender tall lad,"
+      },
+      {
+       "cyr": "Илија еден на мама.",
+       "lat": "Ilija eden na mama.",
+       "en": "Ilija, his mother's only one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка му руба вадеше,",
+       "lat": "Majka mu ruba vadeše,",
+       "en": "His mother took out his clothes,"
+      },
+      {
+       "cyr": "татко му коња спремаше.",
+       "lat": "tatko mu konja spremaše.",
+       "en": "his father readied the horse."
+      },
+      {
+       "cyr": "Илија, фидан бојлија,",
+       "lat": "Ilija, fidan bojlija,",
+       "en": "Ilija, slender tall lad,"
+      },
+      {
+       "cyr": "Илија еден на мама.",
+       "lat": "Ilija eden na mama.",
+       "en": "Ilija, his mother's only one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сестра му кече кроеше,",
+       "lat": "Sestra mu keče kroeše,",
+       "en": "His sister cut out a felt cloak,"
+      },
+      {
+       "cyr": "стрина му пита месеше.",
+       "lat": "strina mu pita meseše.",
+       "en": "his aunt kneaded a pie."
+      },
+      {
+       "cyr": "Илија, фидан бојлија,",
+       "lat": "Ilija, fidan bojlija,",
+       "en": "Ilija, slender tall lad,"
+      },
+      {
+       "cyr": "Илија еден на мама.",
+       "lat": "Ilija eden na mama.",
+       "en": "Ilija, his mother's only one."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

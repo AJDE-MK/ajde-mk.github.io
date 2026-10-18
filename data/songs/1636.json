@@ -1,0 +1,104 @@
+{
+ "id": 1636,
+ "slug": "ranet-mi-lezhi-mlad-stojan",
+ "title_cyr": "Ранет ми лежи млад Стојан",
+ "title_latin": "Ranet mi leži mlad Stojan",
+ "title_en": "Young Stoyan lies wounded",
+ "pesna_url": "https://pesna.org/song/1636",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Томче Бојаџиески"
+ ],
+ "audio": [
+  {
+   "who": "Томче Бојаџиески",
+   "url": "https://pesna.org/audio-download/4377"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ранет ми лежи млад Стојан,",
+       "lat": "Ranet mi leži mlad Stojan,",
+       "en": "Young Stoyan lies wounded,"
+      },
+      {
+       "cyr": "млад Стојан, млад војвода,",
+       "lat": "mlad Stojan, mlad vojvoda,",
+       "en": "young Stoyan, young voyvoda,"
+      },
+      {
+       "cyr": "низ таја гора зелена,",
+       "lat": "niz taja gora zelena,",
+       "en": "through that green mountain,"
+      },
+      {
+       "cyr": "низ таа Пирин планина.",
+       "lat": "niz taa Pirin planina.",
+       "en": "through that Pirin mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немало никој никаде",
+       "lat": "Nemalo nikoj nikade",
+       "en": "There was no one anywhere"
+      },
+      {
+       "cyr": "водица да му подаде,",
+       "lat": "vodica da mu podade,",
+       "en": "to give him water,"
+      },
+      {
+       "cyr": "водица даму подаде,",
+       "lat": "vodica damu podade,",
+       "en": "to give him some water,"
+      },
+      {
+       "cyr": "сенка да му напрaви.",
+       "lat": "senka da mu napravi.",
+       "en": "to make him a shadow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голема гора думаше:",
+       "lat": "Golema gora dumaše:",
+       "en": "A great mountain was saying:"
+      },
+      {
+       "cyr": "- Капете лисја, капете,",
+       "lat": "- Kapete lisja, kapete,",
+       "en": "- Drop leaves, drop,"
+      },
+      {
+       "cyr": "капете лисја, капете,",
+       "lat": "kapete lisja, kapete,",
+       "en": "drop leaves, drop,"
+      },
+      {
+       "cyr": "покријте ми гробот студен.",
+       "lat": "pokrijte mi grobot studen.",
+       "en": "cover my cold grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

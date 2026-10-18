@@ -1,0 +1,189 @@
+{
+ "id": 1188,
+ "slug": "ajde-pukna-pushka",
+ "title_cyr": "Ајде пукна пушка",
+ "title_latin": "Ajde pukna puška",
+ "title_en": "Come On, a Gun Went Off",
+ "pesna_url": "https://pesna.org/song/1188",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Чикма одаја' is a guess, left as 'chikma room' (my reading: some kind of room or hall). Song honours the Kavadarci komita Lazo Ridov-Asijata; no composer known to me, so treated as folk.",
+ "words_to_learn": [
+  {
+   "mk": "пушка",
+   "en": "gun, rifle"
+  },
+  {
+   "mk": "пукна",
+   "en": "went off, cracked"
+  },
+  {
+   "mk": "одаја",
+   "en": "room"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "викна, писна",
+   "en": "cried out, shrieked"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  },
+  {
+   "mk": "преврзе",
+   "en": "bandages"
+  },
+  {
+   "mk": "крпи",
+   "en": "rags, cloths"
+  },
+  {
+   "mk": "крвца",
+   "en": "blood (diminutive)"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2916"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде пукна пушка",
+       "lat": "Ajde pukna puška",
+       "en": "Come on, a gun went off"
+      },
+      {
+       "cyr": "во чикма одаја,",
+       "lat": "vo čikma odaja,",
+       "en": "in the chikma room,"
+      },
+      {
+       "cyr": "ајде пукна пушка",
+       "lat": "ajde pukna puška",
+       "en": "come on, a gun went off"
+      },
+      {
+       "cyr": "во чикма одаја.",
+       "lat": "vo čikma odaja.",
+       "en": "in the chikma room."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, го удари",
+       "lat": "Ajde, go udari",
+       "en": "Come on, it struck"
+      },
+      {
+       "cyr": "најдобриот јунак,",
+       "lat": "najdobriot junak,",
+       "en": "the best hero,"
+      },
+      {
+       "cyr": "ајде го удари,",
+       "lat": "ajde go udari,",
+       "en": "come on, it struck him,"
+      },
+      {
+       "cyr": "Лазо Асијата.",
+       "lat": "Lazo Asijata.",
+       "en": "Lazo Asijata."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде викна, писна,",
+       "lat": "Ajde vikna, pisna,",
+       "en": "Come on, he cried out, he shrieked,"
+      },
+      {
+       "cyr": "најдобриот јунак,",
+       "lat": "najdobriot junak,",
+       "en": "the best hero,"
+      },
+      {
+       "cyr": "ајде викна, писна",
+       "lat": "ajde vikna, pisna",
+       "en": "come on, he cried out, he shrieked,"
+      },
+      {
+       "cyr": "Лазо Асијата.",
+       "lat": "Lazo Asijata.",
+       "en": "Lazo Asijata."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде немам мајка",
+       "lat": "- Ajde nemam majka",
+       "en": "- Come on, I have no mother"
+      },
+      {
+       "cyr": "рани да преврзе,",
+       "lat": "rani da prevrze,",
+       "en": "to bandage my wounds,"
+      },
+      {
+       "cyr": "ајде немам сестри",
+       "lat": "ajde nemam sestri",
+       "en": "come on, I have no sisters"
+      },
+      {
+       "cyr": "крпи да исперат.",
+       "lat": "krpi da isperat.",
+       "en": "to wash my rags."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде јас си имам",
+       "lat": "Ajde jas si imam",
+       "en": "Come on, I have"
+      },
+      {
+       "cyr": "до два мили браќа,",
+       "lat": "do dva mili braḱa,",
+       "en": "about two dear brothers,"
+      },
+      {
+       "cyr": "они ќе си вратат",
+       "lat": "oni ḱe si vratat",
+       "en": "they will give back"
+      },
+      {
+       "cyr": "братовата крвца.",
+       "lat": "bratovata krvca.",
+       "en": "their brother's blood."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

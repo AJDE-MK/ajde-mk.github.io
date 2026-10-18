@@ -1,0 +1,149 @@
+{
+ "id": 1601,
+ "slug": "bogorodice-devo-raduj-se",
+ "title_cyr": "Богородице Дево, радуј се",
+ "title_latin": "Bogorodice Devo, raduj se",
+ "title_en": "Rejoice, Virgin Theotokos",
+ "pesna_url": "https://pesna.org/song/1601",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Orthodox church hymn (the Angelic Salutation), traditional liturgical text. The first block is Church Slavonic/Russian-style, the second its Macedonian rendering, so the two English blocks are nearly identical.",
+ "words_to_learn": [
+  {
+   "mk": "Богородице",
+   "en": "Theotokos, Mother of God (vocative)"
+  },
+  {
+   "mk": "Дево",
+   "en": "Virgin (vocative)"
+  },
+  {
+   "mk": "радуј се",
+   "en": "rejoice"
+  },
+  {
+   "mk": "благодатна",
+   "en": "full of grace"
+  },
+  {
+   "mk": "Господ",
+   "en": "the Lord"
+  },
+  {
+   "mk": "благословена",
+   "en": "blessed (feminine)"
+  },
+  {
+   "mk": "плодот",
+   "en": "the fruit"
+  },
+  {
+   "mk": "утроба",
+   "en": "womb"
+  },
+  {
+   "mk": "Спасител",
+   "en": "Saviour"
+  },
+  {
+   "mk": "душите",
+   "en": "the souls"
+  }
+ ],
+ "performers": [
+  "Бистришките баби"
+ ],
+ "audio": [
+  {
+   "who": "Бистришките баби",
+   "url": "https://pesna.org/audio-download/4183"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оригинално писмо:",
+       "lat": "Originalno pismo:",
+       "en": "Original text:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Богородице Дево, радуйся,",
+       "lat": "Bogorodice Devo, raduйsя,",
+       "en": "Virgin Theotokos, rejoice,"
+      },
+      {
+       "cyr": "благодатная Марие, Господь с Тобою,",
+       "lat": "blagodatnaя Marie, Gospodь s Toboю,",
+       "en": "Mary full of grace, the Lord is with you,"
+      },
+      {
+       "cyr": "благословенна Ты в женах",
+       "lat": "blagoslovenna Tы v ženah",
+       "en": "blessed are you among women"
+      },
+      {
+       "cyr": "и благословен плод чрева Твоего,",
+       "lat": "i blagosloven plod čreva Tvoego,",
+       "en": "and blessed is the fruit of your womb,"
+      },
+      {
+       "cyr": "яко Спаса родила еси душ наших.",
+       "lat": "яko Spasa rodila esi duš naših.",
+       "en": "for you bore the Saviour of our souls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Превод на македонски:",
+       "lat": "Prevod na makedonski:",
+       "en": "Translation into Macedonian:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Богородице Дево, радуј се,",
+       "lat": "Bogorodice Devo, raduj se,",
+       "en": "Virgin Theotokos, rejoice,"
+      },
+      {
+       "cyr": "благодатна Марија, Господ е со Тебе,",
+       "lat": "blagodatna Marija, Gospod e so Tebe,",
+       "en": "Mary full of grace, the Lord is with You,"
+      },
+      {
+       "cyr": "благословена си Ти меѓу жените",
+       "lat": "blagoslovena si Ti meǵu ženite",
+       "en": "blessed are You among women"
+      },
+      {
+       "cyr": "и благословен е плодот на Твојата утроба,",
+       "lat": "i blagosloven e plodot na Tvojata utroba,",
+       "en": "and blessed is the fruit of Your womb,"
+      },
+      {
+       "cyr": "зашто Го роди Спасителот на душите наши.",
+       "lat": "zašto Go rodi Spasitelot na dušite naši.",
+       "en": "for You bore the Saviour of our souls."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

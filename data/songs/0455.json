@@ -1,0 +1,162 @@
+{
+ "id": 455,
+ "slug": "sleglo-mome-vo-gradina",
+ "title_cyr": "Слегло моме во градина",
+ "title_latin": "Sleglo mome vo gradina",
+ "title_en": "A Girl Went Down Into the Garden",
+ "pesna_url": "https://pesna.org/song/455",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Армаса' (gets engaged), 'нек се врши' and 'ќердоса' (enjoy himself) are my reading of dialect words and uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "слегло",
+   "en": "went down"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flower(s)"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young lad (lit. 'crazy young')"
+  },
+  {
+   "mk": "овена",
+   "en": "wilted"
+  },
+  {
+   "mk": "калуѓерка",
+   "en": "nun"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Бапчорки"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/2505"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3664"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Слегло моме во градина",
+       "lat": "Sleglo mome vo gradina",
+       "en": "A girl went down into the garden"
+      },
+      {
+       "cyr": "цвеќе да бере,",
+       "lat": "cveḱe da bere,",
+       "en": "to pick flowers,"
+      },
+      {
+       "cyr": "кај што брала, там' заспалa,",
+       "lat": "kaj što brala, tam' zaspala,",
+       "en": "where she picked, there she fell asleep,"
+      },
+      {
+       "cyr": "меѓу цвеќето.",
+       "lat": "meǵu cveḱeto.",
+       "en": "among the flowers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминува лудо младо",
+       "lat": "Pominuva ludo mlado",
+       "en": "A young lad passes by"
+      },
+      {
+       "cyr": "крај градинчето:",
+       "lat": "kraj gradinčeto:",
+       "en": "along the little garden:"
+      },
+      {
+       "cyr": "- Стани, стани малој моме",
+       "lat": "- Stani, stani maloj mome",
+       "en": "- Get up, get up, little girl,"
+      },
+      {
+       "cyr": "цвеќе ти овена.",
+       "lat": "cveḱe ti ovena.",
+       "en": "your flowers have wilted."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако вене, нек' се суши",
+       "lat": "- Ako vene, nek' se suši",
+       "en": "- If they wilt, let them dry,"
+      },
+      {
+       "cyr": "друго ќе зберам.",
+       "lat": "drugo ḱe zberam.",
+       "en": "I will gather others."
+      },
+      {
+       "cyr": "- Стани, стани малој моме",
+       "lat": "- Stani, stani maloj mome",
+       "en": "- Get up, get up, little girl,"
+      },
+      {
+       "cyr": "момче се армаса.",
+       "lat": "momče se armasa.",
+       "en": "the lad is getting engaged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нек' се врши, нек' се жени",
+       "lat": "- Nek' se vrši, nek' se ženi",
+       "en": "- Let him be done with it, let him marry,"
+      },
+      {
+       "cyr": "нек' се ќердоса,",
+       "lat": "nek' se ḱerdosa,",
+       "en": "let him enjoy himself,"
+      },
+      {
+       "cyr": "јас ќе одам в' манастира",
+       "lat": "jas ḱe odam v' manastira",
+       "en": "I will go to the monastery"
+      },
+      {
+       "cyr": "за калуѓерка.",
+       "lat": "za kaluǵerka.",
+       "en": "to become a nun."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

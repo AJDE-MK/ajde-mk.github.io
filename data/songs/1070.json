@@ -1,0 +1,122 @@
+{
+ "id": 1070,
+ "slug": "malechko-ubo-lazare",
+ "title_cyr": "Малечко убо Лазаре",
+ "title_latin": "Malečko ubo Lazare",
+ "title_en": "Little boy Lazar",
+ "pesna_url": "https://pesna.org/song/1070",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Lazarica song, sung to children at the Lazarica custom (Lazar's Saturday). Dialect forms данж, догледат, поклонит (third person without -ат/-т ending), my reading.",
+ "words_to_learn": [
+  {
+   "mk": "малечко",
+   "en": "little (child)"
+  },
+  {
+   "mk": "убо",
+   "en": "poor lad, little one (dialect)"
+  },
+  {
+   "mk": "диван",
+   "en": "hall, sitting room"
+  },
+  {
+   "mk": "јаболко",
+   "en": "apple"
+  },
+  {
+   "mk": "цар",
+   "en": "emperor, tsar"
+  },
+  {
+   "mk": "царство",
+   "en": "kingdom"
+  },
+  {
+   "mk": "здогледа",
+   "en": "to catch sight of"
+  },
+  {
+   "mk": "данж",
+   "en": "some day (dialect)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Малечко убоо, о Лазаре!",
+       "lat": "Malečko uboo, o Lazare!",
+       "en": "Little boy, oh Lazar!"
+      },
+      {
+       "cyr": "На диван ми седеше,",
+       "lat": "Na divan mi sedeše,",
+       "en": "He sat in the hall,"
+      },
+      {
+       "cyr": "со јаболко играше,",
+       "lat": "so jabolko igraše,",
+       "en": "played with an apple,"
+      },
+      {
+       "cyr": "мајка ле му викаше:",
+       "lat": "majka le mu vikaše:",
+       "en": "his mother said to him:"
+      },
+      {
+       "cyr": "„Малечкоо убоо!",
+       "lat": "„Malečkoo uboo!",
+       "en": "\"Little boy!"
+      },
+      {
+       "cyr": "Доста седе на диван,",
+       "lat": "Dosta sede na divan,",
+       "en": "Enough sitting in the hall,"
+      },
+      {
+       "cyr": "доста играш с јаболко.",
+       "lat": "dosta igraš s jabolko.",
+       "en": "enough playing with an apple."
+      },
+      {
+       "cyr": "данж те царот догледат,",
+       "lat": "danž te carot dogledat,",
+       "en": "Some day the emperor will notice you,"
+      },
+      {
+       "cyr": "данж ти царство поклонит!“",
+       "lat": "danž ti carstvo poklonit!“",
+       "en": "some day he will give you a kingdom!\""
+      },
+      {
+       "cyr": "Уште речта не рече,",
+       "lat": "Ušte rečta ne reče,",
+       "en": "She had not yet finished the word,"
+      },
+      {
+       "cyr": "ми го царот здогледа",
+       "lat": "mi go carot zdogleda",
+       "en": "when the emperor saw him"
+      },
+      {
+       "cyr": "и му царство поклони.",
+       "lat": "i mu carstvo pokloni.",
+       "en": "and gave him a kingdom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

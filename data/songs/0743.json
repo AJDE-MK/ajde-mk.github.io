@@ -1,0 +1,138 @@
+{
+ "id": 743,
+ "slug": "zheni-se-rado",
+ "title_cyr": "Жени се Радо",
+ "title_latin": "Ženi se Rado",
+ "title_en": "Get married, Rado",
+ "pesna_url": "https://pesna.org/song/743",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ванчо Тарабунов",
+  "Горан Симевски",
+  "Пет плус"
+ ],
+ "audio": [
+  {
+   "who": "Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/1055"
+  },
+  {
+   "who": "Горан Симевски",
+   "url": "https://pesna.org/audio-download/1056"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1057"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жени се Радо, мори,",
+       "lat": "Ženi se Rado, mori,",
+       "en": "Get married, Rado"
+      },
+      {
+       "cyr": "до дек' си млада,",
+       "lat": "do dek' si mlada,",
+       "en": "as long as you are young,"
+      },
+      {
+       "cyr": "до дек' си млада Радо,",
+       "lat": "do dek' si mlada Rado,",
+       "en": "as long as you are young,"
+      },
+      {
+       "cyr": "млада и убава.",
+       "lat": "mlada i ubava.",
+       "en": "young and beautiful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жени се Радо, мори,",
+       "lat": "Ženi se Rado, mori,",
+       "en": "Get married, Rado,"
+      },
+      {
+       "cyr": "до дек' си млада,",
+       "lat": "do dek' si mlada,",
+       "en": "as long as you are young,"
+      },
+      {
+       "cyr": "до дек' те сакаат, Радо,",
+       "lat": "do dek' te sakaat, Rado,",
+       "en": "as long as they love you, Rado,"
+      },
+      {
+       "cyr": "сите ергени.",
+       "lat": "site ergeni.",
+       "en": "all these bachelors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко ти има, Радо,",
+       "lat": "Tatko ti ima, Rado,",
+       "en": "Your father has, Rado,"
+      },
+      {
+       "cyr": "голема нива,",
+       "lat": "golema niva,",
+       "en": "a big field,"
+      },
+      {
+       "cyr": "нивата дава, Радо,",
+       "lat": "nivata dava, Rado,",
+       "en": "he is selling the field, Rado,"
+      },
+      {
+       "cyr": "тебе не те дава.",
+       "lat": "tebe ne te dava.",
+       "en": "but he is not giving you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе дојде време, Радо,",
+       "lat": "Ḱe dojde vreme, Rado,",
+       "en": "The time will come, Rado,"
+      },
+      {
+       "cyr": "да молиш мене,",
+       "lat": "da moliš mene,",
+       "en": "that you beg me,"
+      },
+      {
+       "cyr": "ќе викаш: - „Можам“,",
+       "lat": "ḱe vikaš: - „Možam“,",
+       "en": "you will say: - \"I will\","
+      },
+      {
+       "cyr": "а јас не ќе можам.",
+       "lat": "a jas ne ḱe možam.",
+       "en": "but I will not."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

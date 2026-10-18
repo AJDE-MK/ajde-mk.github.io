@@ -1,0 +1,105 @@
+{
+ "id": 1131,
+ "slug": "zazhni-jano",
+ "title_cyr": "Зажни Јано",
+ "title_latin": "Zažni Jano",
+ "title_en": "Reap, Jana",
+ "pesna_url": "https://pesna.org/song/1131",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional harvest song, no author known. Diminutive plurals (момчиња, ергенчиња) are affectionate.",
+ "words_to_learn": [
+  {
+   "mk": "зажни",
+   "en": "start reaping"
+  },
+  {
+   "mk": "дај да пееме",
+   "en": "let us sing"
+  },
+  {
+   "mk": "девојки",
+   "en": "girls"
+  },
+  {
+   "mk": "момчиња",
+   "en": "boys"
+  },
+  {
+   "mk": "ергенчиња",
+   "en": "little bachelors, young unmarried men"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (filler)"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2722"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зажни Јано мори,",
+       "lat": "Zažni Jano mori,",
+       "en": "Reap, Jana, hey,"
+      },
+      {
+       "cyr": "дај да пееме,",
+       "lat": "daj da peeme,",
+       "en": "let us sing,"
+      },
+      {
+       "cyr": "дај да пееме Јано,",
+       "lat": "daj da peeme Jano,",
+       "en": "let us sing, Jana,"
+      },
+      {
+       "cyr": "две девојки.",
+       "lat": "dve devojki.",
+       "en": "two girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две девојки Јано,",
+       "lat": "Dve devojki Jano,",
+       "en": "Two girls, Jana,"
+      },
+      {
+       "cyr": "две момчиња,",
+       "lat": "dve momčinja,",
+       "en": "two boys,"
+      },
+      {
+       "cyr": "две момчиња Јано,",
+       "lat": "dve momčinja Jano,",
+       "en": "two boys, Jana,"
+      },
+      {
+       "cyr": "ергенчиња.",
+       "lat": "ergenčinja.",
+       "en": "two bachelors."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

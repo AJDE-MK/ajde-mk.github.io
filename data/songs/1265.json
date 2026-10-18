@@ -1,0 +1,147 @@
+{
+ "id": 1265,
+ "slug": "vojnik-zaminuvam",
+ "title_cyr": "Војник заминувам",
+ "title_latin": "Vojnik zaminuvam",
+ "title_en": "I Leave as a Soldier",
+ "pesna_url": "https://pesna.org/song/1265",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; probably a modern patriotic song but I cannot name an author. The two speakers are the son (first verse) and the parents (second verse).",
+ "words_to_learn": [
+  {
+   "mk": "благословете",
+   "en": "bless (plural command)"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "заминувам",
+   "en": "I am leaving"
+  },
+  {
+   "mk": "бранам",
+   "en": "I defend"
+  },
+  {
+   "mk": "фаланги",
+   "en": "phalanxes"
+  },
+  {
+   "mk": "бајрак",
+   "en": "banner, flag"
+  },
+  {
+   "mk": "алов",
+   "en": "bright red"
+  },
+  {
+   "mk": "се виори",
+   "en": "flutters, waves"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/3197"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Мајко, татко, благословете,",
+       "lat": "- Majko, tatko, blagoslovete,",
+       "en": "- Mother, father, bless me,"
+      },
+      {
+       "cyr": "војник заминувам",
+       "lat": "vojnik zaminuvam",
+       "en": "I am leaving as a soldier"
+      },
+      {
+       "cyr": "да бранам земја македонска.",
+       "lat": "da branam zemja makedonska.",
+       "en": "to defend the Macedonian land."
+      },
+      {
+       "cyr": "Светот знае, помни,",
+       "lat": "Svetot znae, pomni,",
+       "en": "The world knows, remembers,"
+      },
+      {
+       "cyr": "силни фаланги,",
+       "lat": "silni falangi,",
+       "en": "mighty phalanxes,"
+      },
+      {
+       "cyr": "златно сонце пак ни сјае,",
+       "lat": "zlatno sonce pak ni sjae,",
+       "en": "the golden sun shines on us again,"
+      },
+      {
+       "cyr": "нè огрејува.",
+       "lat": "nè ogrejuva.",
+       "en": "it warms us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Алов бајрак гордо, лично,",
+       "lat": "- Alov bajrak gordo, lično,",
+       "en": "- The red banner proudly, handsomely,"
+      },
+      {
+       "cyr": "нек се виори.",
+       "lat": "nek se viori.",
+       "en": "let it flutter."
+      },
+      {
+       "cyr": "Благословен биди, сине,",
+       "lat": "Blagosloven bidi, sine,",
+       "en": "Be blessed, son,"
+      },
+      {
+       "cyr": "за век запомни:",
+       "lat": "za vek zapomni:",
+       "en": "remember for ever:"
+      },
+      {
+       "cyr": "да браниш земја од душмани,",
+       "lat": "da braniš zemja od dušmani,",
+       "en": "to defend the land from enemies,"
+      },
+      {
+       "cyr": "наша мила горда земја,",
+       "lat": "naša mila gorda zemja,",
+       "en": "our dear proud land,"
+      },
+      {
+       "cyr": "Македонија.",
+       "lat": "Makedonija.",
+       "en": "Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

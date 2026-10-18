@@ -1,0 +1,167 @@
+{
+ "id": 237,
+ "slug": "jano-mori-jano-lele-sevdalino",
+ "title_cyr": "Јано мори, Јано леле, севдалино",
+ "title_latin": "Jano mori, Jano lele, sevdalino",
+ "title_en": "Jana, Jana, my dearest",
+ "pesna_url": "https://pesna.org/song/237",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Азра",
+  "Амира Медуњанин",
+  "Анета Љумаковска",
+  "Билја Крстиќ",
+  "Бојан Стојков",
+  "Болеробенд",
+  "Влатко Стефановски",
+  "Емилија Ѓореска",
+  "Кирил Манчевски",
+  "Сузана Спасовска",
+  "Томче Бојаџиески",
+  "Тоше Проески"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/156"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/157"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/158"
+  },
+  {
+   "who": "Бојан Стојков",
+   "url": "https://pesna.org/audio-download/225"
+  },
+  {
+   "who": "Азра",
+   "url": "https://pesna.org/audio-download/226"
+  },
+  {
+   "who": "Билја Крстиќ",
+   "url": "https://pesna.org/audio-download/227"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/228"
+  },
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/229"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/230"
+  },
+  {
+   "who": "Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/1634"
+  },
+  {
+   "who": "Емилија Ѓореска",
+   "url": "https://pesna.org/audio-download/2055"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2453"
+  },
+  {
+   "who": "Томче Бојаџиески",
+   "url": "https://pesna.org/audio-download/4363"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Јано мори, Јано леле, севдалино,",
+       "lat": "- Jano mori, Jano lele, sevdalino,",
+       "en": "- Jana, Jana, my dearest,"
+      },
+      {
+       "cyr": "моја росна, Јано мори, детелино.",
+       "lat": "moja rosna, Jano mori, detelino.",
+       "en": "my clover blossom covered with dewdrops,"
+      },
+      {
+       "cyr": "Ај, моја росна, Јано мори, детелино.",
+       "lat": "Aj, moja rosna, Jano mori, detelino.",
+       "en": "oh, my clover blossom covered with dewdrops."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминуваш, Јано мори, заминуваш,",
+       "lat": "Pominuvaš, Jano mori, zaminuvaš,",
+       "en": "You pass by, Jana, and leave,"
+      },
+      {
+       "cyr": "нит' ми збориш, Јано мори, нит' се смееш.",
+       "lat": "nit' mi zboriš, Jano mori, nit' se smeeš.",
+       "en": "you neither talk to me, nor give me a smile,"
+      },
+      {
+       "cyr": "Ај, нит' ми збориш, Јано мори, нит' се смееш.",
+       "lat": "Aj, nit' mi zboriš, Jano mori, nit' se smeeš.",
+       "en": "oh, you neither talk me, nor give me a smile."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те прашает, Јано мори, мајсторине,",
+       "lat": "Te prašaet, Jano mori, majstorine,",
+       "en": "The artisans ask you, dear Jana,"
+      },
+      {
+       "cyr": "шо им готвиш, Јано мори, за вечера.",
+       "lat": "šo im gotviš, Jano mori, za večera.",
+       "en": "what you will prepare them for dinner,"
+      },
+      {
+       "cyr": "Ај, што им готвиш, Јано мори, за вечера.",
+       "lat": "Aj, što im gotviš, Jano mori, za večera.",
+       "en": "oh, what you will prepare them for dinner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кад баница бегу море, ил' кокошка,",
+       "lat": "- Kad banica begu more, il' kokoška,",
+       "en": "- A bread and cheese pie, master, or a chicken,"
+      },
+      {
+       "cyr": "оваа вечер, бегу море, рудо јагне.",
+       "lat": "ovaa večer, begu more, rudo jagne.",
+       "en": "this evening, master, a tender lamb,"
+      },
+      {
+       "cyr": "Ај, од две мајки, бегу море, задоено.",
+       "lat": "Aj, od dve majki, begu more, zadoeno.",
+       "en": "ah, breast-fed, master, by two mothers."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

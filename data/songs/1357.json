@@ -1,0 +1,120 @@
+{
+ "id": 1357,
+ "slug": "do-tri-sestri",
+ "title_cyr": "До три сестри",
+ "title_latin": "Do tri sestri",
+ "title_en": "Three sisters",
+ "pesna_url": "https://pesna.org/song/1357",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "До три сестри лозје садат,",
+       "lat": "Do tri sestri lozje sadat,",
+       "en": "Three sisters are planting a vineyard,"
+      },
+      {
+       "cyr": "постарата изговори:",
+       "lat": "postarata izgovori:",
+       "en": "the elder one spoke:"
+      },
+      {
+       "cyr": "- Варај сестро ти помала.",
+       "lat": "- Varaj sestro ti pomala.",
+       "en": "- Hear me, you younger sister."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кому лозје си садиме,",
+       "lat": "Komu lozje si sadime,",
+       "en": "For whom are we planting a vineyard,"
+      },
+      {
+       "cyr": "ние брате си немаме.",
+       "lat": "nie brate si nemame.",
+       "en": "we have no brothers."
+      },
+      {
+       "cyr": "Варај сестро ти помала.",
+       "lat": "Varaj sestro ti pomala.",
+       "en": "Hear me, you younger sister."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До три сестри лозје садат,",
+       "lat": "Do tri sestri lozje sadat,",
+       "en": "Three sisters are planting a vineyard,"
+      },
+      {
+       "cyr": "помладата говореше:",
+       "lat": "pomladata govoreše:",
+       "en": "the younger one spoke:"
+      },
+      {
+       "cyr": "- Варај сестро ти постара.",
+       "lat": "- Varaj sestro ti postara.",
+       "en": "- Hear me, you elder sister."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако брата си немаме,",
+       "lat": "Ako brata si nemame,",
+       "en": "Even though we have no brother,"
+      },
+      {
+       "cyr": "мајка ми е уште млада.",
+       "lat": "majka mi e ušte mlada.",
+       "en": "our mother is still young."
+      },
+      {
+       "cyr": "Варај сестро ти постара.",
+       "lat": "Varaj sestro ti postara.",
+       "en": "Hear me, you elder sister."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Белки ќе ни брата стигнит,",
+       "lat": "Belki ḱe ni brata stignit,",
+       "en": "Maybe a brother will arrive."
+      },
+      {
+       "cyr": "нему лозје си садиме.",
+       "lat": "nemu lozje si sadime.",
+       "en": "For him we are planting a vineyard."
+      },
+      {
+       "cyr": "Варај сестро ти постара.",
+       "lat": "Varaj sestro ti postara.",
+       "en": "Hear me, you elder sister."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,213 @@
+{
+ "id": 1239,
+ "slug": "kaul-se-fatile-momche-i-devojche",
+ "title_cyr": "Каул се фатиле момче и девојче",
+ "title_latin": "Kaul se fatile momče i devojče",
+ "title_en": "A Boy and a Girl Made a Bet",
+ "pesna_url": "https://pesna.org/song/1239",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'таксала' I read as 'ordered/arranged for herself'; the last line 'стани да не станиш' is idiomatic, my reading is a playful curse.",
+ "words_to_learn": [
+  {
+   "mk": "каул",
+   "en": "bet, wager, agreement"
+  },
+  {
+   "mk": "залог",
+   "en": "pledge, stake"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "фурлини",
+   "en": "gold coins / jewelry elements"
+  },
+  {
+   "mk": "таксал",
+   "en": "ordered, commissioned (my reading)"
+  },
+  {
+   "mk": "кутија",
+   "en": "box"
+  },
+  {
+   "mk": "аман",
+   "en": "oh, alas (Turkish-derived)"
+  },
+  {
+   "mk": "се превраќа",
+   "en": "tosses and turns"
+  }
+ ],
+ "performers": [
+  "Ансамбл Македонија",
+  "Љубојна",
+  "Мегленки"
+ ],
+ "audio": [
+  {
+   "who": "Мегленки",
+   "url": "https://pesna.org/audio-download/3101"
+  },
+  {
+   "who": "Ансамбл Македонија",
+   "url": "https://pesna.org/audio-download/3102"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/3103"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Залог ми фатиле момче и девојче,",
+       "lat": "Zalog mi fatile momče i devojče,",
+       "en": "A boy and a girl took a pledge with me,"
+      },
+      {
+       "cyr": "каул се фатиле момче ем дивојче,",
+       "lat": "kaul se fatile momče em divojče,",
+       "en": "a boy and a girl made a wager,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "момче и девојче.",
+       "lat": "momče i devojče.",
+       "en": "a boy and a girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заедно да спијат, да не се борават,",
+       "lat": "Zaedno da spijat, da ne se boravat,",
+       "en": "To sleep together, not to touch each other,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "да не се борават.",
+       "lat": "da ne se boravat.",
+       "en": "not to touch each other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мома си таксала ѓердан со фурлини,",
+       "lat": "Moma si taksala ǵerdan so furlini,",
+       "en": "The girl ordered herself a necklace with gold coins,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "ѓердан со фурлини.",
+       "lat": "ǵerdan so furlini.",
+       "en": "a necklace with gold coins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момче си таксало едно брзо коњче,",
+       "lat": "Momče si taksalo edno brzo konjče,",
+       "en": "The boy ordered himself a fast little horse,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "едно брзо коњче.",
+       "lat": "edno brzo konjče.",
+       "en": "a fast little horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си легнала мома, змија во кутија,",
+       "lat": "Si legnala moma, zmija vo kutija,",
+       "en": "The girl lay down, a snake in a box,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "змија во кутија.",
+       "lat": "zmija vo kutija.",
+       "en": "a snake in a box."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Саноќ се превраќа, сон не ми ја фаќа,",
+       "lat": "Sanoḱ se prevraḱa, son ne mi ja faḱa,",
+       "en": "All night she tosses, sleep does not take her,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "сон не ми ја фаќа.",
+       "lat": "son ne mi ja faḱa.",
+       "en": "sleep does not take her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, стани лудо, стани да не станиш,",
+       "lat": "- Stani, stani ludo, stani da ne staniš,",
+       "en": "- Get up, get up, foolish one, may you not get up,"
+      },
+      {
+       "cyr": "оф, аман, аман, де, аман аман,",
+       "lat": "of, aman, aman, de, aman aman,",
+       "en": "oh, aman, aman, come on, aman aman,"
+      },
+      {
+       "cyr": "стани да не станиш.",
+       "lat": "stani da ne staniš.",
+       "en": "get up, may you not get up."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

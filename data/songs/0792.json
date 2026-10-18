@@ -1,0 +1,165 @@
+{
+ "id": 792,
+ "slug": "nevesta-idi-od-voda",
+ "title_cyr": "Невеста иди од вода",
+ "title_latin": "Nevesta idi od voda",
+ "title_en": "The Bride Comes from the Well",
+ "pesna_url": "https://pesna.org/song/792",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'Годину да му направам' I read as holding the one-year memorial for him; 'Иван Планина' is Ivan Mountain, as written. Standard-sounding Macedonian.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "војниче",
+   "en": "soldier (vocative)"
+  },
+  {
+   "mk": "војска",
+   "en": "army"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "да се напијам",
+   "en": "to drink"
+  },
+  {
+   "mk": "разладам",
+   "en": "to cool down"
+  },
+  {
+   "mk": "убито",
+   "en": "killed"
+  },
+  {
+   "mk": "година",
+   "en": "year; here, the year-memorial for the dead"
+  },
+  {
+   "mk": "коски",
+   "en": "bones"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1498"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Невеста иди од вода,",
+       "lat": "Nevesta idi od voda,",
+       "en": "The bride comes from the water,"
+      },
+      {
+       "cyr": "војниче иди од војска.",
+       "lat": "vojniče idi od vojska.",
+       "en": "the soldier comes from the army."
+      },
+      {
+       "cyr": "- Невесто, црвен трендафил,",
+       "lat": "- Nevesto, crven trendafil,",
+       "en": "- Bride, red rose,"
+      },
+      {
+       "cyr": "дај вода да се напијам.",
+       "lat": "daj voda da se napijam.",
+       "en": "give me water to drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај вода да се напијам,",
+       "lat": "Daj voda da se napijam,",
+       "en": "Give me water to drink,"
+      },
+      {
+       "cyr": "срцево да си разладам.",
+       "lat": "srcevo da si razladam.",
+       "en": "to cool my heart."
+      },
+      {
+       "cyr": "Срцево да си разладам,",
+       "lat": "Srcevo da si razladam,",
+       "en": "To cool my heart,"
+      },
+      {
+       "cyr": "устето да си натопам.",
+       "lat": "usteto da si natopam.",
+       "en": "to wet my mouth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Устето да си натопам,",
+       "lat": "Usteto da si natopam,",
+       "en": "To wet my mouth,"
+      },
+      {
+       "cyr": "до две-три думи да кажам.",
+       "lat": "do dve-tri dumi da kažam.",
+       "en": "to say two or three words."
+      },
+      {
+       "cyr": "- Момчето ти е убито",
+       "lat": "- Momčeto ti e ubito",
+       "en": "- Your lad has been killed"
+      },
+      {
+       "cyr": "горе на Иван Планина.",
+       "lat": "gore na Ivan Planina.",
+       "en": "up on Ivan Mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Војниче, младо војниче,",
+       "lat": "- Vojniče, mlado vojniče,",
+       "en": "- Soldier, young soldier,"
+      },
+      {
+       "cyr": "ај да ме таму однесеш?",
+       "lat": "aj da me tamu odneseš?",
+       "en": "come, will you take me there?"
+      },
+      {
+       "cyr": "Година да му направам,",
+       "lat": "Godina da mu napravam,",
+       "en": "To hold a memorial for him,"
+      },
+      {
+       "cyr": "коските да му ги соберам.",
+       "lat": "koskite da mu gi soberam.",
+       "en": "to gather his bones."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

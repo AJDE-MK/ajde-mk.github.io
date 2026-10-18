@@ -1,0 +1,210 @@
+{
+ "id": 1201,
+ "slug": "na-kogo-e-crna-zhenata",
+ "title_cyr": "На кого е црна жената",
+ "title_latin": "Na kogo e crna ženata",
+ "title_en": "He who has a dark wife",
+ "pesna_url": "https://pesna.org/song/1201",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Васка Илиева",
+  "Мирвет Беловска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2954"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2955"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/2956"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На кого е црна жената, леле,",
+       "lat": "Na kogo e crna ženata, lele,",
+       "en": "He who has a dark wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кого е црна жената,",
+       "lat": "na kogo e crna ženata,",
+       "en": "He who has a dark wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му пекмез не требе, леле,",
+       "lat": "nemu mu pekmez ne trebe, lele,",
+       "en": "has no need for cinnamon.",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му пекмез не требе.",
+       "lat": "nemu mu pekmez ne trebe.",
+       "en": "has no need for cinnamon.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого е бела жената, леле,",
+       "lat": "Na kogo e bela ženata, lele,",
+       "en": "He who has a fair wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кого е бела жената,",
+       "lat": "na kogo e bela ženata,",
+       "en": "He who has a fair wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му симит не требе, леле,",
+       "lat": "nemu mu simit ne trebe, lele,",
+       "en": "has no need for sugar.",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му симит не требе.",
+       "lat": "nemu mu simit ne trebe.",
+       "en": "has no need for sugar.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого е дебела жената, леле,",
+       "lat": "Na kogo e debela ženata, lele,",
+       "en": "He who has a fat wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кого е дебела жената,",
+       "lat": "na kogo e debela ženata,",
+       "en": "He who has a fat wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му јорган не требе, леле,",
+       "lat": "nemu mu jorgan ne trebe, lele,",
+       "en": "has no need for a quilt.",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му јорган не требе.",
+       "lat": "nemu mu jorgan ne trebe.",
+       "en": "has no need for a quilt.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого е висока жената,",
+       "lat": "Na kogo e visoka ženata,",
+       "en": "He who has a tall wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кого е висока жената,",
+       "lat": "na kogo e visoka ženata,",
+       "en": "He who has a tall wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му скала не требе, леле,",
+       "lat": "nemu mu skala ne trebe, lele,",
+       "en": "has no need for a ladder.",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му скала не требе.",
+       "lat": "nemu mu skala ne trebe.",
+       "en": "has no need for a ladder.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого е убава жената, леле,",
+       "lat": "Na kogo e ubava ženata, lele,",
+       "en": "He who has a beautiful wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кого е убава жената,",
+       "lat": "na kogo e ubava ženata,",
+       "en": "He who has a beautiful wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му гости не требе, леле,",
+       "lat": "nemu mu gosti ne trebe, lele,",
+       "en": "has no need for company.",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му гости не требе.",
+       "lat": "nemu mu gosti ne trebe.",
+       "en": "has no need for company.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого е грозна жената, леле,",
+       "lat": "Na kogo e grozna ženata, lele,",
+       "en": "And he who has an ugly wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "на кого е грозна жената,",
+       "lat": "na kogo e grozna ženata,",
+       "en": "And he who has an ugly wife",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му е мирна главата, леле,",
+       "lat": "nemu mu e mirna glavata, lele,",
+       "en": "- his mind is at ease.",
+       "en_mt": false
+      },
+      {
+       "cyr": "нему му е мирна главата.",
+       "lat": "nemu mu e mirna glavata.",
+       "en": "- his mind is at ease.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

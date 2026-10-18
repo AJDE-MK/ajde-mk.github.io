@@ -1,0 +1,98 @@
+{
+ "id": 799,
+ "slug": "dve-mi-drushki",
+ "title_cyr": "Две ми друшки",
+ "title_latin": "Dve mi druški",
+ "title_en": "Two friends",
+ "pesna_url": "https://pesna.org/song/799",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1517"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Лазаренки)",
+       "lat": "(Lazarenki)",
+       "en": "(Lazarenki)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две ми моми, две ми друшки",
+       "lat": "Dve mi momi, dve mi druški",
+       "en": "Two girls, two friends,",
+       "en_mt": false
+      },
+      {
+       "cyr": "другувале, живувале,",
+       "lat": "druguvale, živuvale,",
+       "en": "they were friends, lived together,",
+       "en_mt": false
+      },
+      {
+       "cyr": "н' една софра1 вечерале,",
+       "lat": "n' edna sofra1 večerale,",
+       "en": "they dined at one table,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' еден покров двете спале.",
+       "lat": "v' eden pokrov dvete spale.",
+       "en": "they slept under one roof.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се двете дојгориле,",
+       "lat": "Pa se dvete dojgorile,",
+       "en": "So the two of them had an agreement,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да се едно, на две мајки:",
+       "lat": "da se edno, na dve majki:",
+       "en": "to be one, from two mothers:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Да нè дадат в' едно село,",
+       "lat": "- Da nè dadat v' edno selo,",
+       "en": "- We want to be married in one village,",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' едно село, в' една куќа.",
+       "lat": "v' edno selo, v' edna kuḱa.",
+       "en": "in one village, in one house.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

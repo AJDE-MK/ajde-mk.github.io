@@ -1,0 +1,147 @@
+{
+ "id": 348,
+ "slug": "ne-se-beli-mare-mori-ne-se-crvi",
+ "title_cyr": "Не се бели Маре мори не се црви",
+ "title_latin": "Ne se beli Mare mori ne se crvi",
+ "title_en": "Don’t powder your face, Mare, don’t put on rouge",
+ "pesna_url": "https://pesna.org/song/348",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Влатко Вучков",
+  "Зоран Георгиев",
+  "Зоран Џорлев",
+  "Наум Петрески",
+  "Никола Бадев",
+  "Танец",
+  "Słowianki"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/808"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/809"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/810"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/811"
+  },
+  {
+   "who": "Зоран Џорлев, Влатко Вучков",
+   "url": "https://pesna.org/audio-download/812"
+  },
+  {
+   "who": "Słowianki",
+   "url": "https://pesna.org/audio-download/2274"
+  },
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/3972"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не се бели, Маре мори, не се црви,",
+       "lat": "Ne se beli, Mare mori, ne se crvi,",
+       "en": "Don’t powder your face, Mare, don’t put on rouge,"
+      },
+      {
+       "cyr": "не се, толку Маре, дотерувај.",
+       "lat": "ne se, tolku Mare, doteruvaj.",
+       "en": "Don’t, Mare, don’t dress up so much."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми се смеат, Маре мори, ергените,",
+       "lat": "Mi se smeat, Mare mori, ergenite,",
+       "en": "The bachelors laugh at me, Mare,"
+      },
+      {
+       "cyr": "ергените, Маре, еснафите.",
+       "lat": "ergenite, Mare, esnafite.",
+       "en": "The bachelors, Mare, the craftsmen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кого си го, Маре мори, погледнала,",
+       "lat": "Kogo si go, Mare mori, poglednala,",
+       "en": "Whom have you looked at, Mare,"
+      },
+      {
+       "cyr": "секому си, Маре, болест дала.",
+       "lat": "sekomu si, Mare, bolest dala.",
+       "en": "You’ve given everyone a sickness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кому два дни, Маре мори, кому три дни,",
+       "lat": "Komu dva dni, Mare mori, komu tri dni,",
+       "en": "To some for two days, Mare, to some for three days,"
+      },
+      {
+       "cyr": "а на мене Маре три години.",
+       "lat": "a na mene Mare tri godini.",
+       "en": "But to me, Mare, for three years."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ме стори, Маре мори, суво дрво,",
+       "lat": "Ti me stori, Mare mori, suvo drvo,",
+       "en": "You’ve made me, Mare, a dry tree,"
+      },
+      {
+       "cyr": "суво дрво, Маре, јаворово.",
+       "lat": "suvo drvo, Mare, javorovo.",
+       "en": "A dry tree, Mare, a maple tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земи оган, Маре мори, запали ме,",
+       "lat": "Zemi ogan, Mare mori, zapali me,",
+       "en": "Take kindling, Mare, and light me up,"
+      },
+      {
+       "cyr": "запали ме, Маре, изгори ме.",
+       "lat": "zapali me, Mare, izgori me.",
+       "en": "Set me on fire, Mare, and burn me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

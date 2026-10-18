@@ -1,0 +1,121 @@
+{
+ "id": 790,
+ "slug": "ne-pij-nedo-rujno-vino",
+ "title_cyr": "Не пиј Недо рујно вино",
+ "title_latin": "Ne pij Nedo rujno vino",
+ "title_en": "Do not drink red wine, Neda",
+ "pesna_url": "https://pesna.org/song/790",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'тук'' is a dialect word I read as 'but/instead'.",
+ "words_to_learn": [
+  {
+   "mk": "рујно вино",
+   "en": "red wine (ruddy, bright)"
+  },
+  {
+   "mk": "боле",
+   "en": "aches, hurts"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, troubles"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor, carefree young man"
+  },
+  {
+   "mk": "сакаше",
+   "en": "he loved"
+  },
+  {
+   "mk": "зеде",
+   "en": "he took (as wife), married"
+  },
+  {
+   "mk": "тенка",
+   "en": "slim, slender"
+  },
+  {
+   "mk": "тук'",
+   "en": "but, instead (dialect, my reading)"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1495"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не пиј Недо, леле, рујно вино,",
+       "lat": "Ne pij Nedo, lele, rujno vino,",
+       "en": "Do not drink, Neda, alas, red wine,"
+      },
+      {
+       "cyr": "ајде од виното, Недо, глава боле.",
+       "lat": "ajde od vinoto, Nedo, glava bole.",
+       "en": "come on, from wine, Neda, the head aches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ме боле, мале, од виното,",
+       "lat": "Ne me bole, male, od vinoto,",
+       "en": "It does not ache, mother, from wine,"
+      },
+      {
+       "cyr": "ајде, тук' ме боле, мале, од јадове.",
+       "lat": "ajde, tuk' me bole, male, od jadove.",
+       "en": "come on, it aches, mother, from sorrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од јадове, мале, Стојенове,",
+       "lat": "Od jadove, male, Stojenove,",
+       "en": "From sorrows, mother, over Stojan,"
+      },
+      {
+       "cyr": "ајде, Стојан беќар, мале, ме сакаше.",
+       "lat": "ajde, Stojan beḱar, male, me sakaše.",
+       "en": "come on, Stojan the bachelor, mother, loved me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме сакаше, мале, не ме зеде,",
+       "lat": "Me sakaše, male, ne me zede,",
+       "en": "He loved me, mother, he did not marry me,"
+      },
+      {
+       "cyr": "ајде, тук' ја зеде, мале, тенка Стојна.",
+       "lat": "ajde, tuk' ja zede, male, tenka Stojna.",
+       "en": "come on, instead he married, mother, slim Stojna."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

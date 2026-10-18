@@ -1,0 +1,81 @@
+{
+ "id": 1420,
+ "slug": "ajde-stojno-rusa-stojno",
+ "title_cyr": "Ајде Стојно, руса Стојно",
+ "title_latin": "Ajde Stojno, rusa Stojno",
+ "title_en": "Come on Stojna, you blondie Stojna",
+ "pesna_url": "https://pesna.org/song/1420",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде Стојно, руса ле Стојно,",
+       "lat": "Ajde Stojno, rusa le Stojno,",
+       "en": "Come on Stojna, you blondie Stojna,"
+      },
+      {
+       "cyr": "тргај оро покрај мене.",
+       "lat": "trgaj oro pokraj mene.",
+       "en": "bring the dance closer to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти турам чаша ле вино,",
+       "lat": "Da ti turam čaša le vino,",
+       "en": "So I can pour you a cup of wine,"
+      },
+      {
+       "cyr": "во чашата, злати прстен.",
+       "lat": "vo čašata, zlati prsten.",
+       "en": "in the glass, a gold ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го носиш на ден Велигден,",
+       "lat": "Da go nosiš na den Veligden,",
+       "en": "To wear it on Easter day,"
+      },
+      {
+       "cyr": "по велигден ќе те земам.",
+       "lat": "po veligden ḱe te zemam.",
+       "en": "after Easter I will marry you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По велигден на празниците,",
+       "lat": "Po veligden na praznicite,",
+       "en": "On the holidays after Easter,"
+      },
+      {
+       "cyr": "да не губам делниците.",
+       "lat": "da ne gubam delnicite.",
+       "en": "so I don’t miss out on the working days."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

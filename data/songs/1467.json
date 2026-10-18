@@ -1,0 +1,170 @@
+{
+ "id": 1467,
+ "slug": "da-ti-kupam-meka-mahmudija",
+ "title_cyr": "Да ти купам мека махмудија",
+ "title_latin": "Da ti kupam meka mahmudija",
+ "title_en": "Let Me Buy You a Soft Mahmudiye",
+ "pesna_url": "https://pesna.org/song/1467",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'јандл моме' is rendered 'burnt girl' following the source note (probably 'lovesick' or 'sad'); that is my reading, not certain.",
+ "words_to_learn": [
+  {
+   "mk": "махмудија",
+   "en": "mahmudiye, old Ottoman gold coin (worn as ornament)"
+  },
+  {
+   "mk": "мека",
+   "en": "soft"
+  },
+  {
+   "mk": "узун",
+   "en": "tall, long (Turkish)"
+  },
+  {
+   "mk": "јандл",
+   "en": "burnt (Turkish yandı, my reading)"
+  },
+  {
+   "mk": "прилега",
+   "en": "suits, fits"
+  },
+  {
+   "mk": "чело",
+   "en": "forehead"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "пукаја",
+   "en": "may they burst"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Љупчо Дуцевски"
+ ],
+ "audio": [
+  {
+   "who": "Љупчо Дуцевски",
+   "url": "https://pesna.org/audio-download/3787"
+  },
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3788"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Да ти купам мека махмудија",
+       "lat": "Da ti kupam meka mahmudija",
+       "en": "Let me buy you a soft mahmudiye"
+      },
+      {
+       "cyr": "ајде узун Достано, јандл моме.",
+       "lat": "ajde uzun Dostano, jandl mome.",
+       "en": "come on, tall Dostana, burnt girl."
+      },
+      {
+       "cyr": "Да ти купам мека махмудија,",
+       "lat": "Da ti kupam meka mahmudija,",
+       "en": "Let me buy you a soft mahmudiye,"
+      },
+      {
+       "cyr": "леле што ти прилега.",
+       "lat": "lele što ti prilega.",
+       "en": "alas, how it suits you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ја носиш на белото чело,",
+       "lat": "Da ja nosiš na beloto čelo,",
+       "en": "To wear it on your white forehead,"
+      },
+      {
+       "cyr": "ајде узун Достано, јандл моме.",
+       "lat": "ajde uzun Dostano, jandl mome.",
+       "en": "come on, tall Dostana, burnt girl."
+      },
+      {
+       "cyr": "Да ја носиш на белото чело,",
+       "lat": "Da ja nosiš na beloto čelo,",
+       "en": "To wear it on your white forehead,"
+      },
+      {
+       "cyr": "леле што ти прилега.",
+       "lat": "lele što ti prilega.",
+       "en": "alas, how it suits you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да пукаја леле душманите,",
+       "lat": "Da pukaja lele dušmanite,",
+       "en": "May the enemies burst, alas,"
+      },
+      {
+       "cyr": "ајде узун Достано, јандл моме.",
+       "lat": "ajde uzun Dostano, jandl mome.",
+       "en": "come on, tall Dostana, burnt girl."
+      },
+      {
+       "cyr": "Да пукаја леле душманите,",
+       "lat": "Da pukaja lele dušmanite,",
+       "en": "May the enemies burst, alas,"
+      },
+      {
+       "cyr": "леле што ти прилега.",
+       "lat": "lele što ti prilega.",
+       "en": "alas, how it suits you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И моите леле и твоите",
+       "lat": "I moite lele i tvoite",
+       "en": "Both mine, alas, and yours,"
+      },
+      {
+       "cyr": "ајде узун Достано, јандл моме.",
+       "lat": "ajde uzun Dostano, jandl mome.",
+       "en": "come on, tall Dostana, burnt girl."
+      },
+      {
+       "cyr": "А највеќе леле комшиите,",
+       "lat": "A najveḱe lele komšiite,",
+       "en": "And most of all, alas, the neighbours,"
+      },
+      {
+       "cyr": "леле што ти прилега.",
+       "lat": "lele što ti prilega.",
+       "en": "alas, how it suits you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,165 @@
+{
+ "id": 1526,
+ "slug": "ljubev-edno-ludo-mlado",
+ "title_cyr": "Љубев едно лудо младо",
+ "title_latin": "Ljubev edno ludo mlado",
+ "title_en": "I loved a young lad",
+ "pesna_url": "https://pesna.org/song/1526",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern or semi-composed song but I cannot name an author. 'пасој да менвиш' is my reading (something like 'change the burial cloth/passport?'); 'посврши' is my reading of 'married off'. Several dialect forms (најдвевме, кажвавме).",
+ "words_to_learn": [
+  {
+   "mk": "љубев",
+   "en": "I loved (dialect form of љубев/љубев)"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young lad"
+  },
+  {
+   "mk": "непосвршено",
+   "en": "not yet married off/settled"
+  },
+  {
+   "mk": "посврши",
+   "en": "married off, settled"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "полудевам",
+   "en": "I go mad"
+  },
+  {
+   "mk": "неверна",
+   "en": "unfaithful"
+  },
+  {
+   "mk": "кажвавме",
+   "en": "we used to tell (dialect)"
+  },
+  {
+   "mk": "роним",
+   "en": "I shed"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/3995"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Љубев едно лудо младо",
+       "lat": "Ljubev edno ludo mlado",
+       "en": "I loved a young lad"
+      },
+      {
+       "cyr": "дури беше непосвршено,",
+       "lat": "duri beše neposvršeno,",
+       "en": "while he was not yet married,"
+      },
+      {
+       "cyr": "с' него живеав, на него мислев,",
+       "lat": "s' nego živeav, na nego mislev,",
+       "en": "I lived with him, thought of him,"
+      },
+      {
+       "cyr": "за него животот си издадов.",
+       "lat": "za nego životot si izdadov.",
+       "en": "for him I gave my life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклета да е мајка ти, лудо,",
+       "lat": "Prokleta da e majka ti, ludo,",
+       "en": "Cursed be your mother, lad,"
+      },
+      {
+       "cyr": "што те посврши за друго либе!",
+       "lat": "što te posvrši za drugo libe!",
+       "en": "who married you off to another love!"
+      },
+      {
+       "cyr": "Јас да те љубам, да полудевам,",
+       "lat": "Jas da te ljubam, da poludevam,",
+       "en": "I love you, I go mad,"
+      },
+      {
+       "cyr": "кој сум - што сум, да не знам каде сум.",
+       "lat": "koj sum - što sum, da ne znam kade sum.",
+       "en": "who I am, what I am, I do not know where I am."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашата љубов е неверна",
+       "lat": "Našata ljubov e neverna",
+       "en": "Our love is unfaithful"
+      },
+      {
+       "cyr": "и со време да је паметиш,",
+       "lat": "i so vreme da je pametiš,",
+       "en": "and may you remember it in time,"
+      },
+      {
+       "cyr": "кај се најдвевме и си кажвавме",
+       "lat": "kaj se najdvevme i si kažvavme",
+       "en": "where we met and told each other"
+      },
+      {
+       "cyr": "од срце болки што си имавме.",
+       "lat": "od srce bolki što si imavme.",
+       "en": "the pains of the heart that we had."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти се молам лудо младо,",
+       "lat": "Ti se molam ludo mlado,",
+       "en": "I beg you, young lad,"
+      },
+      {
+       "cyr": "ко ќе умрам ти да ми дојдиш",
+       "lat": "ko ḱe umram ti da mi dojdiš",
+       "en": "when I die, you come to me,"
+      },
+      {
+       "cyr": "солзи да рониш, пасој да менвиш",
+       "lat": "solzi da roniš, pasoj da menviš",
+       "en": "shed tears, change the grave cloth(?),"
+      },
+      {
+       "cyr": "заради љубов што си имавме.",
+       "lat": "zaradi ljubov što si imavme.",
+       "en": "for the love that we had."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

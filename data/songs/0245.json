@@ -1,0 +1,176 @@
+{
+ "id": 245,
+ "slug": "bog-da-go-ubie-mamo",
+ "title_cyr": "Бог да го убие мамо",
+ "title_latin": "Bog da go ubie mamo",
+ "title_en": "May God Strike Him, Mother",
+ "pesna_url": "https://pesna.org/song/245",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A girl wishes ill on the tailor-neighbour for cutting her garment tight, then asks to be given to him; this reading of the humour is mine. 'Џамаданче' is a dialect garment word I am not sure of.",
+ "words_to_learn": [
+  {
+   "mk": "комшија",
+   "en": "neighbour"
+  },
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "скрои",
+   "en": "cut (cloth), tailored"
+  },
+  {
+   "mk": "елече",
+   "en": "little vest"
+  },
+  {
+   "mk": "џамаданче",
+   "en": "little jacket or bodice (dialect)"
+  },
+  {
+   "mk": "тенка половина",
+   "en": "slender waist"
+  },
+  {
+   "mk": "поарно",
+   "en": "better"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy (Turkish-origin exclamation)"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски",
+  "Нада Макеларска"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/2259"
+  },
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2260"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го убие мамо, бог да го убие,",
+       "lat": "Bog da go ubie mamo, bog da go ubie,",
+       "en": "May God strike him, mother, may God strike him,"
+      },
+      {
+       "cyr": "комшичето мамо, терзичето, леле,",
+       "lat": "komšičeto mamo, terzičeto, lele,",
+       "en": "the little neighbour, mother, the little tailor, oh,"
+      },
+      {
+       "cyr": "комшичето, мамо, терзичето.",
+       "lat": "komšičeto, mamo, terzičeto.",
+       "en": "the little neighbour, mother, the little tailor."
+      },
+      {
+       "cyr": "Тесно ми го скрои мамо, тесно ми го скрои,",
+       "lat": "Tesno mi go skroi mamo, tesno mi go skroi,",
+       "en": "He cut it tight for me, mother, he cut it tight for me,"
+      },
+      {
+       "cyr": "елечето мамо, џамаданчето, ајде,",
+       "lat": "elečeto mamo, džamadančeto, ajde,",
+       "en": "the little vest, mother, the little jacket, come on,"
+      },
+      {
+       "cyr": "елечето мамо, џамаданчето.",
+       "lat": "elečeto mamo, džamadančeto.",
+       "en": "the little vest, mother, the little jacket."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, аман, оф, љубов,",
+       "lat": "Of, aman, of, ljubov,",
+       "en": "Oh, mercy, oh, love,"
+      },
+      {
+       "cyr": "оф, тенка половина, за комшичето, леле,",
+       "lat": "of, tenka polovina, za komšičeto, lele,",
+       "en": "oh, slender waist, for the little neighbour, oh,"
+      },
+      {
+       "cyr": "оф, тенка половина за комшичето.",
+       "lat": "of, tenka polovina za komšičeto.",
+       "en": "oh, slender waist, for the little neighbour."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тесно ми го скрои мамо, поарно ми стои,",
+       "lat": "Tesno mi go skroi mamo, poarno mi stoi,",
+       "en": "He cut it tight for me, mother, it suits me better,"
+      },
+      {
+       "cyr": "елечето мамо, џамаданчето, леле,",
+       "lat": "elečeto mamo, džamadančeto, lele,",
+       "en": "the little vest, mother, the little jacket, oh,"
+      },
+      {
+       "cyr": "елечето мамо, џамаданчето.",
+       "lat": "elečeto mamo, džamadančeto.",
+       "en": "the little vest, mother, the little jacket."
+      },
+      {
+       "cyr": "Дај ме мори мила мамо, дај ме мила мамо,",
+       "lat": "Daj me mori mila mamo, daj me mila mamo,",
+       "en": "Give me away, hey dear mother, give me, dear mother,"
+      },
+      {
+       "cyr": "за комшичето мамо, за терзичето, леле,",
+       "lat": "za komšičeto mamo, za terzičeto, lele,",
+       "en": "to the little neighbour, mother, to the little tailor, oh,"
+      },
+      {
+       "cyr": "за комшичето мамо, за терзичето.",
+       "lat": "za komšičeto mamo, za terzičeto.",
+       "en": "to the little neighbour, mother, to the little tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, аман, оф, љубов,",
+       "lat": "Of, aman, of, ljubov,",
+       "en": "Oh, mercy, oh, love,"
+      },
+      {
+       "cyr": "оф, тенка половина, за комшичето, леле,",
+       "lat": "of, tenka polovina, za komšičeto, lele,",
+       "en": "oh, slender waist, for the little neighbour, oh,"
+      },
+      {
+       "cyr": "оф, тенка половина, за комшичето.",
+       "lat": "of, tenka polovina, za komšičeto.",
+       "en": "oh, slender waist, for the little neighbour."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

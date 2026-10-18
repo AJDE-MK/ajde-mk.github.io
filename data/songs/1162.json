@@ -1,0 +1,137 @@
+{
+ "id": 1162,
+ "slug": "aj-shto-ogan-gori-vo-planina",
+ "title_cyr": "Ај што оган гори во планина",
+ "title_latin": "Aj što ogan gori vo planina",
+ "title_en": "Hey, a fire burns in the mountain",
+ "pesna_url": "https://pesna.org/song/1162",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Partisan (WWII) song, apparently traditional or folk-style; no author known to me. 'Мi викна' is rendered as 'called out to me' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "оган",
+   "en": "fire"
+  },
+  {
+   "mk": "корија",
+   "en": "woods, grove"
+  },
+  {
+   "mk": "пушки",
+   "en": "guns, rifles"
+  },
+  {
+   "mk": "грмат",
+   "en": "thunder"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "партизани",
+   "en": "partisans"
+  },
+  {
+   "mk": "клети",
+   "en": "damned, cursed"
+  },
+  {
+   "mk": "гробнина",
+   "en": "grave, burial place"
+  }
+ ],
+ "performers": [
+  "Костадинка Палазова"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/2822"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај што оган гори во планина,",
+       "lat": "Aj što ogan gori vo planina,",
+       "en": "Hey, a fire burns in the mountain,"
+      },
+      {
+       "cyr": "ајде во планина, сред корија.",
+       "lat": "ajde vo planina, sred korija.",
+       "en": "hey, in the mountain, in the middle of the woods."
+      },
+      {
+       "cyr": "Ај што пушки грмат, бомби трештат,",
+       "lat": "Aj što puški grmat, bombi treštat,",
+       "en": "Hey, guns thunder, bombs crash,"
+      },
+      {
+       "cyr": "ајде цела земја ја потресуваат.",
+       "lat": "ajde cela zemja ja potresuvaat.",
+       "en": "hey, they shake the whole land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде нека знаат душманите,",
+       "lat": "Ajde neka znaat dušmanite,",
+       "en": "Hey, let the enemies know,"
+      },
+      {
+       "cyr": "таму борба водат партизаните,",
+       "lat": "tamu borba vodat partizanite,",
+       "en": "the partisans are fighting there,"
+      },
+      {
+       "cyr": "смела борба водат, не се жалат,",
+       "lat": "smela borba vodat, ne se žalat,",
+       "en": "they fight boldly, they do not complain,"
+      },
+      {
+       "cyr": "на фашисти клети не се предаваат.",
+       "lat": "na fašisti kleti ne se predavaat.",
+       "en": "they do not surrender to the damned fascists."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми викна смело партизанка:",
+       "lat": "Mi vikna smelo partizanka:",
+       "en": "A partisan woman called out to me boldly:"
+      },
+      {
+       "cyr": "- Бегајте дома, клети фашисти!",
+       "lat": "- Begajte doma, kleti fašisti!",
+       "en": "- Run home, damned fascists!"
+      },
+      {
+       "cyr": "Овде е земја Македонија,",
+       "lat": "Ovde e zemja Makedonija,",
+       "en": "Here is the land of Macedonia,"
+      },
+      {
+       "cyr": "за вас фашисти црна гробнина.",
+       "lat": "za vas fašisti crna grobnina.",
+       "en": "for you fascists a black grave."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

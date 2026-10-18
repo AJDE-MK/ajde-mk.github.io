@@ -1,0 +1,142 @@
+{
+ "id": 291,
+ "slug": "stani-zapali-tinke-borina",
+ "title_cyr": "Стани запали Тинке борина",
+ "title_latin": "Stani zapali Tinke borina",
+ "title_en": "Get Up, Tinka, Light the Pine Torch",
+ "pesna_url": "https://pesna.org/song/291",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The lines 'да не ти грешам коланот' and 'мојот се ѓердан, лудо, познава' are my reading (mistake the belt, you know my whole necklace); 'не ти влезам' is guessed as 'enter your house'.",
+ "words_to_learn": [
+  {
+   "mk": "стани",
+   "en": "get up"
+  },
+  {
+   "mk": "запали",
+   "en": "light, set on fire"
+  },
+  {
+   "mk": "борина",
+   "en": "pine splinter used as a torch"
+  },
+  {
+   "mk": "темнина",
+   "en": "darkness"
+  },
+  {
+   "mk": "елек",
+   "en": "vest"
+  },
+  {
+   "mk": "појас",
+   "en": "sash, belt"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace of coins"
+  },
+  {
+   "mk": "камче",
+   "en": "little pebble"
+  },
+  {
+   "mk": "сребро",
+   "en": "silver"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1799"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стани запали Тинке борина,",
+       "lat": "Stani zapali Tinke borina,",
+       "en": "Get up, Tinka, light the pine torch,"
+      },
+      {
+       "cyr": "да не ти влезам Тинке в' темнина.",
+       "lat": "da ne ti vlezam Tinke v' temnina.",
+       "en": "so that I do not enter you, Tinka, in the dark."
+      },
+      {
+       "cyr": "Јас ќе си земам, Тинке, елекот,",
+       "lat": "Jas ḱe si zemam, Tinke, elekot,",
+       "en": "I will take my vest, Tinka,"
+      },
+      {
+       "cyr": "да не ти грешам Тинке коланот.",
+       "lat": "da ne ti grešam Tinke kolanot.",
+       "en": "so that I do not mistake, Tinka, the belt."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе си земам, Тинке, појасот,",
+       "lat": "Jas ḱe si zemam, Tinke, pojasot,",
+       "en": "I will take my sash, Tinka,"
+      },
+      {
+       "cyr": "да не ти грешам Тинке ѓерданот.",
+       "lat": "da ne ti grešam Tinke ǵerdanot.",
+       "en": "so that I do not mistake, Tinka, the necklace."
+      },
+      {
+       "cyr": "- Влези си, лудо море, земи си",
+       "lat": "- Vlezi si, ludo more, zemi si",
+       "en": "- Come in, hey silly one, take"
+      },
+      {
+       "cyr": "мојот се ѓердан, лудо, познава.",
+       "lat": "mojot se ǵerdan, ludo, poznava.",
+       "en": "my whole necklace, silly one, you know."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Колку камчиња, лудо, по земи,",
+       "lat": "Kolku kamčinja, ludo, po zemi,",
+       "en": "As many pebbles, silly one, as lie on the ground,"
+      },
+      {
+       "cyr": "толку е сребро лудо на него.",
+       "lat": "tolku e srebro ludo na nego.",
+       "en": "that much silver, silly one, is on it."
+      },
+      {
+       "cyr": "Стани запали Тинке борина,",
+       "lat": "Stani zapali Tinke borina,",
+       "en": "Get up, Tinka, light the pine torch,"
+      },
+      {
+       "cyr": "да не ти влезам в' темнина.",
+       "lat": "da ne ti vlezam v' temnina.",
+       "en": "so that I do not enter you in the dark."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

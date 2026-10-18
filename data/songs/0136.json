@@ -1,0 +1,172 @@
+{
+ "id": 136,
+ "slug": "blaze-tebe-mitro",
+ "title_cyr": "Блазе тебе Митро",
+ "title_latin": "Blaze tebe Mitro",
+ "title_en": "Lucky You, Mitro",
+ "pesna_url": "https://pesna.org/song/136",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Сè жолти жолтици' is my reading as 'all yellow gold coins'.",
+ "words_to_learn": [
+  {
+   "mk": "блазе тебе",
+   "en": "lucky you, blessed are you"
+  },
+  {
+   "mk": "меана",
+   "en": "inn, tavern"
+  },
+  {
+   "mk": "точи",
+   "en": "pour (drink)"
+  },
+  {
+   "mk": "ракија",
+   "en": "brandy"
+  },
+  {
+   "mk": "скапо",
+   "en": "dearly, expensively"
+  },
+  {
+   "mk": "жолтица",
+   "en": "gold coin"
+  },
+  {
+   "mk": "гуша",
+   "en": "neck, throat"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски",
+  "Зоран Џорлев",
+  "МРТВ",
+  "Никола Бадев",
+  "Сашо Гигов - Гиш"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/703"
+  },
+  {
+   "who": "МРТВ",
+   "url": "https://pesna.org/audio-download/704"
+  },
+  {
+   "who": "Зоран Џорлев, Војо Стојановски",
+   "url": "https://pesna.org/audio-download/705"
+  },
+  {
+   "who": "Зоран Џорлев, Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/706"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Блазе тебе мори Митро",
+       "lat": "Blaze tebe mori Mitro",
+       "en": "Lucky you, hey Mitro,"
+      },
+      {
+       "cyr": "што татко си имаш,",
+       "lat": "što tatko si imaš,",
+       "en": "that you have a father,"
+      },
+      {
+       "cyr": "ајде, што татко си имаш.",
+       "lat": "ajde, što tatko si imaš.",
+       "en": "come on, that you have a father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ти е направил Митро,",
+       "lat": "Što ti e napravil Mitro,",
+       "en": "What he has built for you, Mitro,"
+      },
+      {
+       "cyr": "сред село меана,",
+       "lat": "sred selo meana,",
+       "en": "in the middle of the village, an inn,"
+      },
+      {
+       "cyr": "ајде, сред село меана.",
+       "lat": "ajde, sred selo meana.",
+       "en": "come on, in the middle of the village, an inn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Точи, точи мори Митро",
+       "lat": "Toči, toči mori Mitro",
+       "en": "Pour, pour, hey Mitro,"
+      },
+      {
+       "cyr": "вино, ем ракија,",
+       "lat": "vino, em rakija,",
+       "en": "wine and also brandy,"
+      },
+      {
+       "cyr": "ајде, вино ем ракија.",
+       "lat": "ajde, vino em rakija.",
+       "en": "come on, wine and also brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе се вратам Митро,",
+       "lat": "Koga ḱe se vratam Mitro,",
+       "en": "When I come back, Mitro,"
+      },
+      {
+       "cyr": "скапо ќе ти платам,",
+       "lat": "skapo ḱe ti platam,",
+       "en": "I will pay you dearly,"
+      },
+      {
+       "cyr": "ајде, скапо ќе ти платам.",
+       "lat": "ajde, skapo ḱe ti platam.",
+       "en": "come on, I will pay you dearly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сè жолти жолтици Митро,",
+       "lat": "Sè žolti žoltici Mitro,",
+       "en": "All yellow gold coins, Mitro,"
+      },
+      {
+       "cyr": "на гуша да носиш,",
+       "lat": "na guša da nosiš,",
+       "en": "for you to wear on your neck,"
+      },
+      {
+       "cyr": "ајде, на гуша да носиш.",
+       "lat": "ajde, na guša da nosiš.",
+       "en": "come on, to wear on your neck."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

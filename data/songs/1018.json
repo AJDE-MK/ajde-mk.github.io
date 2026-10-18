@@ -1,0 +1,192 @@
+{
+ "id": 1018,
+ "slug": "edna-zhelba-imam",
+ "title_cyr": "Една желба имам",
+ "title_latin": "Edna želba imam",
+ "title_en": "I Have One Wish",
+ "pesna_url": "https://pesna.org/song/1018",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a gurbet / homecoming song.",
+ "words_to_learn": [
+  {
+   "mk": "желба",
+   "en": "wish, desire"
+  },
+  {
+   "mk": "родна куќа",
+   "en": "birth home"
+  },
+  {
+   "mk": "двор",
+   "en": "yard"
+  },
+  {
+   "mk": "проодив",
+   "en": "I started to walk"
+  },
+  {
+   "mk": "пенџер",
+   "en": "window (Turkish loan)"
+  },
+  {
+   "mk": "срушени",
+   "en": "smashed, demolished"
+  },
+  {
+   "mk": "пропаднала",
+   "en": "has fallen to ruin"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  }
+ ],
+ "performers": [
+  "Алтернатор",
+  "Аце Петковски",
+  "Васко Коминовски"
+ ],
+ "audio": [
+  {
+   "who": "Васко Коминовски",
+   "url": "https://pesna.org/audio-download/2354"
+  },
+  {
+   "who": "Алтернатор",
+   "url": "https://pesna.org/audio-download/2355"
+  },
+  {
+   "who": "Аце Петковски",
+   "url": "https://pesna.org/audio-download/2496"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една желба имам,",
+       "lat": "Edna želba imam,",
+       "en": "I have one wish,"
+      },
+      {
+       "cyr": "стари крај да идам,",
+       "lat": "stari kraj da idam,",
+       "en": "to go to the old homeland,"
+      },
+      {
+       "cyr": "родна куќа да видам.",
+       "lat": "rodna kuḱa da vidam.",
+       "en": "to see my birth house."
+      },
+      {
+       "cyr": "Низ двор да се шетам,",
+       "lat": "Niz dvor da se šetam,",
+       "en": "To stroll through the yard,"
+      },
+      {
+       "cyr": "таму да се сетам",
+       "lat": "tamu da se setam",
+       "en": "to remember there"
+      },
+      {
+       "cyr": "кај се родив и проодив.",
+       "lat": "kaj se rodiv i proodiv.",
+       "en": "where I was born and took my first steps."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дедо, баба имав,",
+       "lat": "Dedo, baba imav,",
+       "en": "I had a grandfather and grandmother,"
+      },
+      {
+       "cyr": "од нив писма примав,",
+       "lat": "od niv pisma primav,",
+       "en": "I received letters from them,"
+      },
+      {
+       "cyr": "не знам дали се живи,",
+       "lat": "ne znam dali se živi,",
+       "en": "I do not know if they are alive,"
+      },
+      {
+       "cyr": "дали некој има",
+       "lat": "dali nekoj ima",
+       "en": "if anyone is there"
+      },
+      {
+       "cyr": "мене да пречека,",
+       "lat": "mene da prečeka,",
+       "en": "to meet me,"
+      },
+      {
+       "cyr": "порти да ми отвори?",
+       "lat": "porti da mi otvori?",
+       "en": "to open the gates for me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога таму појдов,",
+       "lat": "Koga tamu pojdov,",
+       "en": "When I went there,"
+      },
+      {
+       "cyr": "друга слика видов,",
+       "lat": "druga slika vidov,",
+       "en": "I saw a different picture,"
+      },
+      {
+       "cyr": "дедо, баба не видов.",
+       "lat": "dedo, baba ne vidov.",
+       "en": "I did not see grandfather or grandmother."
+      },
+      {
+       "cyr": "Порти заклучени,",
+       "lat": "Porti zaklučeni,",
+       "en": "The gates locked,"
+      },
+      {
+       "cyr": "пенџери срушени,",
+       "lat": "pendžeri srušeni,",
+       "en": "the windows broken,"
+      },
+      {
+       "cyr": "куќата пропаднала.",
+       "lat": "kuḱata propadnala.",
+       "en": "the house fallen to ruin."
+      },
+      {
+       "cyr": "Спомени се нижат,",
+       "lat": "Spomeni se nižat,",
+       "en": "Memories line up,"
+      },
+      {
+       "cyr": "очи солзи течат,",
+       "lat": "oči solzi tečat,",
+       "en": "tears flow from my eyes,"
+      },
+      {
+       "cyr": "солзи што не се лечат.",
+       "lat": "solzi što ne se lečat.",
+       "en": "tears that cannot be healed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

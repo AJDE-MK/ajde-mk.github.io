@@ -1,0 +1,134 @@
+{
+ "id": 1096,
+ "slug": "gore-slavej-doshle-borci-mladi",
+ "title_cyr": "Горе Славеј дошле борци млади",
+ "title_latin": "Gore Slavej došle borci mladi",
+ "title_en": "Up at Slavej, Young Fighters Have Come",
+ "pesna_url": "https://pesna.org/song/1096",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a partisan or 1944 liberation song but I cannot name an author. Slavej is a mountain in western Macedonia; Debarca is a region. 'Крилна' I took as 'winged' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "борци",
+   "en": "fighters"
+  },
+  {
+   "mk": "јуначки",
+   "en": "heroic"
+  },
+  {
+   "mk": "нарамиле",
+   "en": "shouldered"
+  },
+  {
+   "mk": "пушки",
+   "en": "rifles"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag"
+  },
+  {
+   "mk": "аловито",
+   "en": "scarlet"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "карпа",
+   "en": "rock, crag"
+  }
+ ],
+ "performers": [
+  "Октет Астибо",
+  "Трајче Веселинов"
+ ],
+ "audio": [
+  {
+   "who": "Октет Астибо, Трајче Веселинов",
+   "url": "https://pesna.org/audio-download/2618"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Горе Славеј дошле борци млади,",
+       "lat": "Gore Slavej došle borci mladi,",
+       "en": "Up at Slavej young fighters have come,"
+      },
+      {
+       "cyr": "ечи песна од јуначки гради,",
+       "lat": "eči pesna od junački gradi,",
+       "en": "a song echoes from heroic chests,"
+      },
+      {
+       "cyr": "нарамиле пушки на рамена,",
+       "lat": "naramile puški na ramena,",
+       "en": "they shouldered rifles on their shoulders,"
+      },
+      {
+       "cyr": "развеале знаме аловито.",
+       "lat": "razveale zname alovito.",
+       "en": "they unfurled the scarlet banner."
+      },
+      {
+       "cyr": "Развеале срце игровито,",
+       "lat": "Razveale srce igrovito,",
+       "en": "They unfurled a playful heart,"
+      },
+      {
+       "cyr": "рашириле оро шировито.",
+       "lat": "raširile oro širovito.",
+       "en": "they spread a wide dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Надалеку гласој се слушаат,",
+       "lat": "Nadaleku glasoj se slušaat,",
+       "en": "Far away voices are heard,"
+      },
+      {
+       "cyr": "ти Дебарцо прва с' ослободи,",
+       "lat": "ti Debarco prva s' oslobodi,",
+       "en": "you, Debarca, were the first to free yourself,"
+      },
+      {
+       "cyr": "ти Дебарцо прва с' ослободи",
+       "lat": "ti Debarco prva s' oslobodi",
+       "en": "you, Debarca, were the first to free yourself"
+      },
+      {
+       "cyr": "и во тебе држава се роди.",
+       "lat": "i vo tebe država se rodi.",
+       "en": "and in you a state was born."
+      },
+      {
+       "cyr": "Беше мала та постана силна,",
+       "lat": "Beše mala ta postana silna,",
+       "en": "It was small and became strong,"
+      },
+      {
+       "cyr": "како карпа над карпите крилна.",
+       "lat": "kako karpa nad karpite krilna.",
+       "en": "like a rock above the rocks, winged."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

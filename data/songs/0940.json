@@ -1,0 +1,113 @@
+{
+ "id": 940,
+ "slug": "nevesta-zhito-trebeshe",
+ "title_cyr": "Невеста жито требеше",
+ "title_latin": "Nevesta žito trebeše",
+ "title_en": "A bride was cleaning grain",
+ "pesna_url": "https://pesna.org/song/940",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Баклава"
+ ],
+ "audio": [
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/2168"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Невеста жито требеше,",
+       "lat": "Nevesta žito trebeše,",
+       "en": "A bride was cleaning grain,"
+      },
+      {
+       "cyr": "девет гулаби ранеше",
+       "lat": "devet gulabi raneše",
+       "en": "feeding nine doves"
+      },
+      {
+       "cyr": "и верно им се молеше:",
+       "lat": "i verno im se moleše:",
+       "en": "and was asking them:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Галаби браќа да ми сте,",
+       "lat": "- Galabi braḱa da mi ste,",
+       "en": "- Doves, my brothers,"
+      },
+      {
+       "cyr": "вија високо литате,",
+       "lat": "vija visoko litate,",
+       "en": "you are flying high,"
+      },
+      {
+       "cyr": "вија далеко пулите.",
+       "lat": "vija daleko pulite.",
+       "en": "you can see far."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не видовте момчето,",
+       "lat": "Da ne vidovte momčeto,",
+       "en": "Did you see my husband,"
+      },
+      {
+       "cyr": "момчето ми е на аскер?",
+       "lat": "momčeto mi e na asker?",
+       "en": "my husband is a soldier?"
+      },
+      {
+       "cyr": "- О мој калеша невесто,",
+       "lat": "- O moj kaleša nevesto,",
+       "en": "- Hey, darkish bride,"
+      },
+      {
+       "cyr": "момчето ти го видоме.",
+       "lat": "momčeto ti go vidome.",
+       "en": "we saw your husband."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таткови дворја седеше,",
+       "lat": "Tatkovi dvorja sedeše,",
+       "en": "He was in his father's yard,"
+      },
+      {
+       "cyr": "коната си ја ружаше,",
+       "lat": "konata si ja ružaše,",
+       "en": "preparing his horse,"
+      },
+      {
+       "cyr": "мисла за дома имаше.",
+       "lat": "misla za doma imaše.",
+       "en": "thinking of his home."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

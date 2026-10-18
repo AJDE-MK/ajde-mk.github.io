@@ -1,0 +1,114 @@
+{
+ "id": 1258,
+ "slug": "ja-pratile-panda",
+ "title_cyr": "Ја пратиле Панда",
+ "title_latin": "Ja pratile Panda",
+ "title_en": "They Sent Panda Off",
+ "pesna_url": "https://pesna.org/song/1258",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding children's or work song. Panda is a girl's name; 'Пандо' is the vocative. Meaning of 'црешна' as cherry tree is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ја пратиле",
+   "en": "they sent her"
+  },
+  {
+   "mk": "афион",
+   "en": "opium poppy"
+  },
+  {
+   "mk": "вишна",
+   "en": "sour cherry"
+  },
+  {
+   "mk": "црешна",
+   "en": "cherry tree"
+  },
+  {
+   "mk": "се качила",
+   "en": "she climbed up"
+  },
+  {
+   "mk": "таму",
+   "en": "there"
+  }
+ ],
+ "performers": [
+  "Гога Зафировски"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/3178"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ја пратиле Панда, ја пратиле,",
+       "lat": "Ja pratile Panda, ja pratile,",
+       "en": "They sent Panda off, they sent her,"
+      },
+      {
+       "cyr": "ја пратиле Панда, ја пратиле",
+       "lat": "ja pratile Panda, ja pratile",
+       "en": "they sent Panda off, they sent her"
+      },
+      {
+       "cyr": "на афион.",
+       "lat": "na afion.",
+       "en": "to the opium poppy field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму има Пандо, таму има,",
+       "lat": "Tamu ima Pando, tamu ima,",
+       "en": "There is, Pando, there is,"
+      },
+      {
+       "cyr": "таму има Пандо, таму има",
+       "lat": "tamu ima Pando, tamu ima",
+       "en": "there is, Pando, there is"
+      },
+      {
+       "cyr": "вишна, црешна.",
+       "lat": "višna, crešna.",
+       "en": "a sour cherry, a cherry tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се качила Панда, се качила,",
+       "lat": "Se kačila Panda, se kačila,",
+       "en": "Panda climbed up, she climbed,"
+      },
+      {
+       "cyr": "се качила Панда, се качила",
+       "lat": "se kačila Panda, se kačila",
+       "en": "Panda climbed up, she climbed"
+      },
+      {
+       "cyr": "на вишната.",
+       "lat": "na višnata.",
+       "en": "onto the sour cherry tree."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

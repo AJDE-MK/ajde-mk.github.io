@@ -1,0 +1,127 @@
+{
+ "id": 181,
+ "slug": "idi-ja-mamo-posakaj",
+ "title_cyr": "Иди ја мамо посакај",
+ "title_latin": "Idi ja mamo posakaj",
+ "title_en": "Go and ask for her, mother",
+ "pesna_url": "https://pesna.org/song/181",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, southwestern/Aegean-type dialect (-т endings like 'имат', 'давет'). 'ако је неја' and 'плевната ќе му' are my reading; 'му' (his) left out of the English as unclear.",
+ "words_to_learn": [
+  {
+   "mk": "посакај",
+   "en": "ask for (a bride), request"
+  },
+  {
+   "mk": "комшивка",
+   "en": "female neighbor"
+  },
+  {
+   "mk": "не давет",
+   "en": "they do not give (dialect, they-form)"
+  },
+  {
+   "mk": "имат",
+   "en": "has (dialect form of има)"
+  },
+  {
+   "mk": "снаа",
+   "en": "sister-in-law, daughter-in-law"
+  },
+  {
+   "mk": "вдовица",
+   "en": "widow"
+  },
+  {
+   "mk": "плевна",
+   "en": "barn, hayloft"
+  },
+  {
+   "mk": "запалам",
+   "en": "I will set on fire"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2276"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Иди ја мамо посакај,",
+       "lat": "Idi ja mamo posakaj,",
+       "en": "Go and ask for her, mother,"
+      },
+      {
+       "cyr": "Марија, наша мамо комшивка.",
+       "lat": "Marija, naša mamo komšivka.",
+       "en": "Marija, our neighbor, mother."
+      },
+      {
+       "cyr": "Ако је неја не давет,",
+       "lat": "Ako je neja ne davet,",
+       "en": "If they do not give her to you,"
+      },
+      {
+       "cyr": "таа имат сестра, мамо, помала.",
+       "lat": "taa imat sestra, mamo, pomala.",
+       "en": "she has a younger sister, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако и неа не давет,",
+       "lat": "Ako i nea ne davet,",
+       "en": "If they do not give her either,"
+      },
+      {
+       "cyr": "таа имат снаа, мамо, вдовица.",
+       "lat": "taa imat snaa, mamo, vdovica.",
+       "en": "she has a sister-in-law, mother, a widow."
+      },
+      {
+       "cyr": "Ако и неја не е давет,",
+       "lat": "Ako i neja ne e davet,",
+       "en": "If they do not give her either,"
+      },
+      {
+       "cyr": "плевната ќе му, мамо, запалам.",
+       "lat": "plevnata ḱe mu, mamo, zapalam.",
+       "en": "I will set the barn on fire, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да горит, мамо, да горит,",
+       "lat": "Da gorit, mamo, da gorit,",
+       "en": "Let it burn, mother, let it burn,"
+      },
+      {
+       "cyr": "како што срце горит по неа.",
+       "lat": "kako što srce gorit po nea.",
+       "en": "as my heart burns for her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

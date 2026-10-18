@@ -1,0 +1,131 @@
+{
+ "id": 546,
+ "slug": "more-dojde-vreme",
+ "title_cyr": "Море дојде време",
+ "title_latin": "More dojde vreme",
+ "title_en": "Hey, the time has come",
+ "pesna_url": "https://pesna.org/song/546",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song, origin unclear (no author I can name). Gorna Dzhumaya is the old name of Blagoevgrad in Bulgaria.",
+ "words_to_learn": [
+  {
+   "mk": "време",
+   "en": "time"
+  },
+  {
+   "mk": "разделам",
+   "en": "I part, separate"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades (male)"
+  },
+  {
+   "mk": "другарки",
+   "en": "comrades (female)"
+  },
+  {
+   "mk": "партизани",
+   "en": "partisans"
+  },
+  {
+   "mk": "мачат",
+   "en": "torture"
+  },
+  {
+   "mk": "к'смет",
+   "en": "luck, fate (Turkish loan)"
+  },
+  {
+   "mk": "маки",
+   "en": "sufferings"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3548"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3556"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море дојде време да си одам",
+       "lat": "More dojde vreme da si odam",
+       "en": "Hey, the time has come for me to go"
+      },
+      {
+       "cyr": "да си одам, да се разделам",
+       "lat": "da si odam, da se razdelam",
+       "en": "to go, to part"
+      },
+      {
+       "cyr": "од другари и другарки",
+       "lat": "od drugari i drugarki",
+       "en": "from comrades, male and female,"
+      },
+      {
+       "cyr": "партизани, партизани.",
+       "lat": "partizani, partizani.",
+       "en": "partisans, partisans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ќе ме носат Горна Џумаја",
+       "lat": "More ḱe me nosat Gorna Džumaja",
+       "en": "Hey, they will take me to Gorna Dzhumaya"
+      },
+      {
+       "cyr": "да ме мачат тираните,",
+       "lat": "da me mačat tiranite,",
+       "en": "where the tyrants will torture me,"
+      },
+      {
+       "cyr": "тираните, фашистите.",
+       "lat": "tiranite, fašistite.",
+       "en": "the tyrants, the fascists."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако имам к'смет жив да се вратам,",
+       "lat": "Ako imam k'smet živ da se vratam,",
+       "en": "If I have the luck to return alive,"
+      },
+      {
+       "cyr": "да раскажам мојве маки",
+       "lat": "da raskažam mojve maki",
+       "en": "I will tell about my sufferings"
+      },
+      {
+       "cyr": "на другари и другарки.",
+       "lat": "na drugari i drugarki.",
+       "en": "to comrades, male and female."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,176 @@
+{
+ "id": 1209,
+ "slug": "zorata-se-zazori",
+ "title_cyr": "Зората се зазори",
+ "title_latin": "Zorata se zazori",
+ "title_en": "Dawn has broken",
+ "pesna_url": "https://pesna.org/song/1209",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style outlaw song. 'Свират' as 'sounding the alarm' and 'нè сардиса' as 'has surprised us' are my reading (сардиса is dialect, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "зората",
+   "en": "dawn"
+  },
+  {
+   "mk": "се зазори",
+   "en": "day broke"
+  },
+  {
+   "mk": "изгрева",
+   "en": "rises (of the sun)"
+  },
+  {
+   "mk": "караули",
+   "en": "watchmen, sentries"
+  },
+  {
+   "mk": "дигни се",
+   "en": "get up"
+  },
+  {
+   "mk": "потера",
+   "en": "posse, pursuing force"
+  },
+  {
+   "mk": "малешевска",
+   "en": "from Maleshevo (region)"
+  },
+  {
+   "mk": "запукаа",
+   "en": "cracked, went off (shots)"
+  }
+ ],
+ "performers": [
+  "Војо Стојановски",
+  "Мирвет Беловска",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2973"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/2974"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зората се зазори,",
+       "lat": "Zorata se zazori,",
+       "en": "Dawn has broken,"
+      },
+      {
+       "cyr": "ај зората се зазори,",
+       "lat": "aj zorata se zazori,",
+       "en": "hey, dawn has broken,"
+      },
+      {
+       "cyr": "с'лнцето ми изгрева.",
+       "lat": "s'lnceto mi izgreva.",
+       "en": "my sun is rising."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "С'лнцето ми изгрева,",
+       "lat": "S'lnceto mi izgreva,",
+       "en": "My sun is rising,"
+      },
+      {
+       "cyr": "ај с'лнцето ми изгрева,",
+       "lat": "aj s'lnceto mi izgreva,",
+       "en": "hey, my sun is rising,"
+      },
+      {
+       "cyr": "караурите свират.",
+       "lat": "karaurite svirat.",
+       "en": "the watchmen are sounding the alarm."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Караурите свират,",
+       "lat": "Karaurite svirat,",
+       "en": "The watchmen are sounding the alarm,"
+      },
+      {
+       "cyr": "ај караурите свират,",
+       "lat": "aj karaurite svirat,",
+       "en": "hey, the watchmen are sounding the alarm,"
+      },
+      {
+       "cyr": "дигни се, бре Максиме.",
+       "lat": "digni se, bre Maksime.",
+       "en": "get up, hey Maksim."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дигни се, бре Максиме,",
+       "lat": "Digni se, bre Maksime,",
+       "en": "Get up, hey Maksim,"
+      },
+      {
+       "cyr": "ај дигни се, бре Максиме,",
+       "lat": "aj digni se, bre Maksime,",
+       "en": "hey, get up, hey Maksim,"
+      },
+      {
+       "cyr": "потера нè сардиса,",
+       "lat": "potera nè sardisa,",
+       "en": "a posse has surprised us,"
+      },
+      {
+       "cyr": "ај потера нè сардиса,",
+       "lat": "aj potera nè sardisa,",
+       "en": "hey, a posse has surprised us,"
+      },
+      {
+       "cyr": "потера малешевска.",
+       "lat": "potera maleševska.",
+       "en": "a posse from Maleshevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пушките запукаа,",
+       "lat": "Puškite zapukaa,",
+       "en": "The guns cracked,"
+      },
+      {
+       "cyr": "ај пушките запукаа,",
+       "lat": "aj puškite zapukaa,",
+       "en": "hey, the guns cracked,"
+      },
+      {
+       "cyr": "Максима го убија.",
+       "lat": "Maksima go ubija.",
+       "en": "they killed Maksim."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

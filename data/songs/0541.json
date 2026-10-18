@@ -1,0 +1,138 @@
+{
+ "id": 541,
+ "slug": "od-bitola-do-vevchani",
+ "title_cyr": "Од Битола до Вевчани",
+ "title_latin": "Od Bitola do Vevčani",
+ "title_en": "From Bitola to Vevchani",
+ "pesna_url": "https://pesna.org/song/541",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група АС",
+  "Непознат изведувач",
+  "Николина Кузмановска"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/2029"
+  },
+  {
+   "who": "Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/2030"
+  },
+  {
+   "who": "Група АС",
+   "url": "https://pesna.org/audio-download/2031"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2032"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од Битола до Вевчани сè сардисано,",
+       "lat": "Od Bitola do Vevčani sè sardisano,",
+       "en": "From Bitola to Vevchani, everything was encircled"
+      },
+      {
+       "cyr": "ура, ура, Ставре војвода!",
+       "lat": "ura, ura, Stavre vojvoda!",
+       "en": "Hurrah, hurrah, Stavre the Vojvoda!"
+      },
+      {
+       "cyr": "Го сардисаа млад Ставре у Шекутко'и.",
+       "lat": "Go sardisaa mlad Stavre u Šekutko'i.",
+       "en": "Young Stavre was encircled in Shekutko's"
+      },
+      {
+       "cyr": "ура, ура, Ставре војвода!",
+       "lat": "ura, ura, Stavre vojvoda!",
+       "en": "Hurrah, hurrah Stavre the Vojvoda!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ставре имат машко срце, не се предават,",
+       "lat": "Stavre imat maško srce, ne se predavat,",
+       "en": "Stavre has a manly heart, he is not surrendering"
+      },
+      {
+       "cyr": "ура, ура, Ставре војвода!",
+       "lat": "ura, ura, Stavre vojvoda!",
+       "en": "Hurrah, hurrah, Stavre the Vojvoda!"
+      },
+      {
+       "cyr": "Ставре има бердан пушка, не се предава,",
+       "lat": "Stavre ima berdan puška, ne se predava,",
+       "en": "Stavre has a Berdan rifle, he is not surrendering"
+      },
+      {
+       "cyr": "ура, ура, Ставре војвода!",
+       "lat": "ura, ura, Stavre vojvoda!",
+       "en": "Hurrah, hurrah Stavre the Vojvoda!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва бомба што ми фрли в' конопиштата,",
+       "lat": "Prva bomba što mi frli v' konopištata,",
+       "en": "The first bomb he threw hit the hemp field"
+      },
+      {
+       "cyr": "ура, ура, Ставре војвода!",
+       "lat": "ura, ura, Stavre vojvoda!",
+       "en": "Hurrah, hurrah, Stavre the Vojvoda"
+      },
+      {
+       "cyr": "Па ми удри десет души од аскерот,",
+       "lat": "Pa mi udri deset duši od askerot,",
+       "en": "Then he hit ten soldiers"
+      },
+      {
+       "cyr": "ура, ура, Ставре војвода!",
+       "lat": "ura, ura, Stavre vojvoda!",
+       "en": "Hurrah, hurrah, Stavre the Vojvoda!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сврти пушка под брадата, Ставре војвода,",
+       "lat": "Svrti puška pod bradata, Stavre vojvoda,",
+       "en": "He turned his rifle to his chest, Stavre the Vojvoda"
+      },
+      {
+       "cyr": "ура, ура, сам се убива.",
+       "lat": "ura, ura, sam se ubiva.",
+       "en": "Hurrah, hurrah he killed himself"
+      },
+      {
+       "cyr": "Ура, ура, за Македонија!",
+       "lat": "Ura, ura, za Makedonija!",
+       "en": "Hurrah, hurrah, for Macedonia!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

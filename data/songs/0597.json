@@ -1,0 +1,206 @@
+{
+ "id": 597,
+ "slug": "crnej-goro-crnej-sestro",
+ "title_cyr": "Црнеј горо, црнеј сестро",
+ "title_latin": "Crnej goro, crnej sestro",
+ "title_en": "Grow Dark, Forest, Grow Dark, Sister",
+ "pesna_url": "https://pesna.org/song/597",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Мене мајка ме посврши' (married me off / sent me away) and the subject of 'дење оди' are my reading and uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "црнеј",
+   "en": "grow dark, mourn"
+  },
+  {
+   "mk": "горо",
+   "en": "forest (vocative)"
+  },
+  {
+   "mk": "лисја",
+   "en": "leaves"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "друм",
+   "en": "road, highway"
+  },
+  {
+   "mk": "рамна",
+   "en": "even, straight"
+  }
+ ],
+ "performers": [
+  "Белинда Ристевска",
+  "Група Кода"
+ ],
+ "audio": [
+  {
+   "who": "Белинда Ристевска, Група Кода",
+   "url": "https://pesna.org/audio-download/2235"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Црнеј горо, црнеј сестро,",
+       "lat": "Crnej goro, crnej sestro,",
+       "en": "Grow dark, forest, grow dark, sister,"
+      },
+      {
+       "cyr": "двајца да црнејме,",
+       "lat": "dvajca da crnejme,",
+       "en": "let the two of us grow dark,"
+      },
+      {
+       "cyr": "ти за твојте лисја, горо",
+       "lat": "ti za tvojte lisja, goro",
+       "en": "you for your leaves, forest,"
+      },
+      {
+       "cyr": "јас за мојта младост.",
+       "lat": "jas za mojta mladost.",
+       "en": "I for my youth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте лисја, горо сестро",
+       "lat": "Tvojte lisja, goro sestro",
+       "en": "Your leaves, forest sister,"
+      },
+      {
+       "cyr": "пак ќе ти се вратат",
+       "lat": "pak ḱe ti se vratat",
+       "en": "will come back to you again,"
+      },
+      {
+       "cyr": "мојта младост, горо сестро,",
+       "lat": "mojta mladost, goro sestro,",
+       "en": "my youth, forest sister,"
+      },
+      {
+       "cyr": "нема да се врати.",
+       "lat": "nema da se vrati.",
+       "en": "will not come back."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене мајка ме посврши",
+       "lat": "Mene majka me posvrši",
+       "en": "My mother married me off"
+      },
+      {
+       "cyr": "преку три планини,",
+       "lat": "preku tri planini,",
+       "en": "across three mountains,"
+      },
+      {
+       "cyr": "што не сакав, горо сестро,",
+       "lat": "što ne sakav, goro sestro,",
+       "en": "to the one I did not want, forest sister,"
+      },
+      {
+       "cyr": "на пат да го сретнам.",
+       "lat": "na pat da go sretnam.",
+       "en": "to meet on the road."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дење оди, горо сестро,",
+       "lat": "Denje odi, goro sestro,",
+       "en": "By day he goes, forest sister,"
+      },
+      {
+       "cyr": "по твојата шума,",
+       "lat": "po tvojata šuma,",
+       "en": "through your woods,"
+      },
+      {
+       "cyr": "ноќе оди, горо сестро,",
+       "lat": "noḱe odi, goro sestro,",
+       "en": "by night he goes, forest sister,"
+      },
+      {
+       "cyr": "по бели друмови.",
+       "lat": "po beli drumovi.",
+       "en": "along the white roads."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти ми донесе, горо",
+       "lat": "Snošti mi donese, goro",
+       "en": "Last night, forest, I was brought"
+      },
+      {
+       "cyr": "братовата рака,",
+       "lat": "bratovata raka,",
+       "en": "my brother's hand,"
+      },
+      {
+       "cyr": "јас ја познав, горо сестро,",
+       "lat": "jas ja poznav, goro sestro,",
+       "en": "I recognized it, forest sister,"
+      },
+      {
+       "cyr": "по златниот прстен.",
+       "lat": "po zlatniot prsten.",
+       "en": "by the golden ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црнеј горо, црнеј сестро",
+       "lat": "Crnej goro, crnej sestro",
+       "en": "Grow dark, forest, grow dark, sister,"
+      },
+      {
+       "cyr": "двајца да црнејме,",
+       "lat": "dvajca da crnejme,",
+       "en": "let the two of us grow dark,"
+      },
+      {
+       "cyr": "ти за твојте, лисја горо,",
+       "lat": "ti za tvojte, lisja goro,",
+       "en": "you for your leaves, forest,"
+      },
+      {
+       "cyr": "јас за мојта младост.",
+       "lat": "jas za mojta mladost.",
+       "en": "I for my youth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

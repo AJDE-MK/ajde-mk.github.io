@@ -1,0 +1,186 @@
+{
+ "id": 490,
+ "slug": "slusham-kaj-shumat-shumite",
+ "title_cyr": "Слушам кај шумат шумите",
+ "title_latin": "Slušam kaj šumat šumite",
+ "title_en": "I hear the forests rustling",
+ "pesna_url": "https://pesna.org/song/490",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Ансамбл Перун",
+  "Дарио Панковски",
+  "Македонски мерак",
+  "Орце Стевковски",
+  "Охридски трубадури",
+  "Танец",
+  "Next Time"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/720"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/721"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/722"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/723"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1545"
+  },
+  {
+   "who": "Дарио Панковски",
+   "url": "https://pesna.org/audio-download/2384"
+  },
+  {
+   "who": "Next Time",
+   "url": "https://pesna.org/audio-download/2816"
+  },
+  {
+   "who": "Ансамбл Перун",
+   "url": "https://pesna.org/audio-download/4130"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Слушам кај шумат шумите, буките",
+       "lat": "Slušam kaj šumat šumite, bukite",
+       "en": "I hear the forests rustling, the beeches,"
+      },
+      {
+       "cyr": "Слушам кај шумат буките,",
+       "lat": "Slušam kaj šumat bukite,",
+       "en": "I hear the beeches rustling,"
+      },
+      {
+       "cyr": "плачат за војводата, капиданот.",
+       "lat": "plačat za vojvodata, kapidanot.",
+       "en": "they are crying for the duke, the captain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другари верни другари Македонци,",
+       "lat": "Drugari verni drugari Makedonci,",
+       "en": "- Worthy friends, Macedonian friends,"
+      },
+      {
+       "cyr": "кога низ село врвите, врвите,",
+       "lat": "koga niz selo vrvite, vrvite,",
+       "en": "when you pass through my village,"
+      },
+      {
+       "cyr": "кога низ село врвите",
+       "lat": "koga niz selo vrvite",
+       "en": "when you pass through the village,"
+      },
+      {
+       "cyr": "со коњи да не тропате, не тропате.",
+       "lat": "so konji da ne tropate, ne tropate.",
+       "en": "don't rumble with the horses, don't rumble."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со коњи да не тропате, тропате,",
+       "lat": "So konji da ne tropate, tropate,",
+       "en": "Don't rumble with the horses,"
+      },
+      {
+       "cyr": "со коњи да не тропате,",
+       "lat": "so konji da ne tropate,",
+       "en": "with the horses don't you rumble,"
+      },
+      {
+       "cyr": "со пушки да не фрлате, не фрлате.",
+       "lat": "so puški da ne frlate, ne frlate.",
+       "en": "don't shoot with the rifles, don't shoot them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не ве чуе мајка ми, старата,",
+       "lat": "Da ne ve čue majka mi, starata,",
+       "en": "So my old mother doesn't hear you,"
+      },
+      {
+       "cyr": "да не ве чуе мајка ми,",
+       "lat": "da ne ve čue majka mi,",
+       "en": "so my mother doesn't notice you,"
+      },
+      {
+       "cyr": "ќе ве праша за мене, аман за мене.",
+       "lat": "ḱe ve praša za mene, aman za mene.",
+       "en": "she'll ask you about me, oh about me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде е син ми Костадин, Костадин?",
+       "lat": "Kade e sin mi Kostadin, Kostadin?",
+       "en": "- Where is my son Kostadin, Kostadin?"
+      },
+      {
+       "cyr": "Каде је син ми Костадин,",
+       "lat": "Kade je sin mi Kostadin,",
+       "en": "Where is my son Kostadin,"
+      },
+      {
+       "cyr": "Костадин војводата, капитанот?",
+       "lat": "Kostadin vojvodata, kapitanot?",
+       "en": "Kostadin the duke, the captain?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Син ти се мајко ожени, ожени",
+       "lat": "Sin ti se majko oženi, oženi",
+       "en": "- Your son, mother, has been married, married."
+      },
+      {
+       "cyr": "син ти се мајко ожена",
+       "lat": "sin ti se majko ožena",
+       "en": "Your son, mother, has been married"
+      },
+      {
+       "cyr": "за една Македонка поробена.",
+       "lat": "za edna Makedonka porobena.",
+       "en": "to an enslaved Macedonian."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

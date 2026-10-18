@@ -1,0 +1,646 @@
+{
+ "id": 722,
+ "slug": "imala-majka-devet-sina",
+ "title_cyr": "Имала мајка девет сина",
+ "title_latin": "Imala majka devet sina",
+ "title_en": "A mother had nine sons",
+ "pesna_url": "https://pesna.org/song/722",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Зоран Џорлев",
+  "Зора Василевска",
+  "Молика"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/699"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/700"
+  },
+  {
+   "who": "Зоран Џорлев, Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/701"
+  },
+  {
+   "who": "Зора Василевска",
+   "url": "https://pesna.org/audio-download/702"
+  },
+  {
+   "who": "Молика",
+   "url": "https://pesna.org/audio-download/3544"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ѓорѓи грозничав)",
+       "lat": "(Ǵorǵi grozničav)",
+       "en": "(Gorgi the ugly)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имала мајка, имала,",
+       "lat": "Imala majka, imala,",
+       "en": "A mother had,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до девет сина убави,",
+       "lat": "do devet sina ubavi,",
+       "en": "she had nine sons,",
+       "en_mt": false
+      },
+      {
+       "cyr": "десетти грозен Ѓорѓија,",
+       "lat": "desetti grozen Ǵorǵija,",
+       "en": "the tenth was ugly Gorgi,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ѓоргија беше болничав.",
+       "lat": "Ǵorgija beše bolničav.",
+       "en": "Gorgi was ailing.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка на Ѓорѓи говори:",
+       "lat": "Majka na Ǵorǵi govori:",
+       "en": "Mother said to Gorgi:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Мани се Ѓорѓи од куќа,",
+       "lat": "- Mani se Ǵorǵi od kuḱa,",
+       "en": "- Go away, Gorgi, out of this house,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да не ми грдиш дворои,",
+       "lat": "da ne mi grdiš dvoroi,",
+       "en": "that you don't spoil the yard,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да не ми ругаш синои,",
+       "lat": "da ne mi rugaš sinoi,",
+       "en": "that you don't disgrace my sons",
+       "en_mt": false
+      },
+      {
+       "cyr": "и високите сараи.",
+       "lat": "i visokite sarai.",
+       "en": "and the beautiful manor.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѓорѓија мајка молеше,",
+       "lat": "Ǵorǵija majka moleše,",
+       "en": "Gorgi pledged his mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дробни си солзи ронеше:",
+       "lat": "drobni si solzi roneše:",
+       "en": "his tears running down:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Оф леле, стара мајчице,",
+       "lat": "- Of lele, stara majčice,",
+       "en": "- Oh, old dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не ли сум уште малечко?",
+       "lat": "ne li sum ušte malečko?",
+       "en": "am I not still too small?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусти патишта ќе згрешам,",
+       "lat": "Pusti patišta ḱe zgrešam,",
+       "en": "I will roam about on lonely paths,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во гора ќе се изгубам,",
+       "lat": "vo gora ḱe se izgubam,",
+       "en": "I'll get lost in the woods,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ѕверои ќе ме изедат,",
+       "lat": "dzveroi ḱe me izedat,",
+       "en": "the wild beasts will eat me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без тебе мале ќе бидам.",
+       "lat": "bez tebe male ḱe bidam.",
+       "en": "without you, mother, what can I do?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка на Ѓорѓи говори:",
+       "lat": "Majka na Ǵorǵi govori:",
+       "en": "The mother spoke to Gorgi:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Мани се грозно глупаво,",
+       "lat": "- Mani se grozno glupavo,",
+       "en": "- Be off, you ugly fool,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мани се веќе од куќа,",
+       "lat": "mani se veḱe od kuḱa,",
+       "en": "get out of the house.",
+       "en_mt": false
+      },
+      {
+       "cyr": "више те мајка не сака.",
+       "lat": "više te majka ne saka.",
+       "en": "Realize that mother doesn't want you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Виде, не виде, Ѓорѓија,",
+       "lat": "Vide, ne vide, Ǵorǵija,",
+       "en": "Gorgi understood,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дека го мајка не сака,",
+       "lat": "deka go majka ne saka,",
+       "en": "that his mother didn't want him any more,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пак мајка си ја замоли:",
+       "lat": "pak majka si ja zamoli:",
+       "en": "but he begged his mother:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Дај ми ги мале пљачките,",
+       "lat": "- Daj mi gi male pljačkite,",
+       "en": "- Give me, mother, the clothes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "крпено и некрпено,",
+       "lat": "krpeno i nekrpeno,",
+       "en": "mended or unmended,",
+       "en_mt": false
+      },
+      {
+       "cyr": "татко ми што ми ги кроил,",
+       "lat": "tatko mi što mi gi kroil,",
+       "en": "which father has tailored for me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за убав ден и Велигден.",
+       "lat": "za ubav den i Veligden.",
+       "en": "for the holidays and Easter.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка му пљачки исфрли,",
+       "lat": "Majka mu pljački isfrli,",
+       "en": "The mother threw his clothes after him.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ѓорѓи од куќа излезе,",
+       "lat": "Ǵorǵi od kuḱa izleze,",
+       "en": "Gorgi left the house.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кога ми Ѓорѓи излезе,",
+       "lat": "Koga mi Ǵorǵi izleze,",
+       "en": "When he left it,",
+       "en_mt": false
+      },
+      {
+       "cyr": "луто си мајка проколна:",
+       "lat": "luto si majka prokolna:",
+       "en": "he cursed his mother bitterly:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Оф леле стара мајчице,",
+       "lat": "- Of lele stara majčice,",
+       "en": "- Oh, old dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кога од двори ќе излезам,",
+       "lat": "koga od dvori ḱe izlezam,",
+       "en": "as now I leave the yard,",
+       "en_mt": false
+      },
+      {
+       "cyr": "црната чума да влезе,",
+       "lat": "crnata čuma da vleze,",
+       "en": "the black plague shall come,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сараи да ти побута,",
+       "lat": "sarai da ti pobuta,",
+       "en": "it shall rock the manor,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дворои да ти запусти,",
+       "lat": "dvoroi da ti zapusti,",
+       "en": "it shall devastate the yard",
+       "en_mt": false
+      },
+      {
+       "cyr": "синои да ти потепа,",
+       "lat": "sinoi da ti potepa,",
+       "en": "and drown your sons.",
+       "en_mt": false
+      },
+      {
+       "cyr": "сама ти мајче да останеш",
+       "lat": "sama ti majče da ostaneš",
+       "en": "Alone you shall remain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и за Ѓорѓија да кукаш!",
+       "lat": "i za Ǵorǵija da kukaš!",
+       "en": "lamenting for Gorgi.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шетал си Ѓорѓи по гори,",
+       "lat": "Šetal si Ǵorǵi po gori,",
+       "en": "Gorgi roamed through the woods,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по гори и по планини,",
+       "lat": "po gori i po planini,",
+       "en": "through the woods and the mountains.",
+       "en_mt": false
+      },
+      {
+       "cyr": "слегнал си долу селата,",
+       "lat": "slegnal si dolu selata,",
+       "en": "He went down into the villages",
+       "en_mt": false
+      },
+      {
+       "cyr": "ценил се Ѓорѓи овчарче.",
+       "lat": "cenil se Ǵorǵi ovčarče.",
+       "en": "and offered himself as sheperd boy.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слугувал девет години,",
+       "lat": "Sluguval devet godini,",
+       "en": "He served nine years,",
+       "en_mt": false
+      },
+      {
+       "cyr": "печалил Ѓорѓи печалил,",
+       "lat": "pečalil Ǵorǵi pečalil,",
+       "en": "and Gorgi earned a lot.",
+       "en_mt": false
+      },
+      {
+       "cyr": "до триста овци, јаганца,",
+       "lat": "do trista ovci, jaganca,",
+       "en": "More than threehundred sheep with lambs,",
+       "en_mt": false
+      },
+      {
+       "cyr": "станал ми голем чорбаџи.",
+       "lat": "stanal mi golem čorbadži.",
+       "en": "he became a real landlord.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еднаш се Ѓорѓи нажалил,",
+       "lat": "Ednaš se Ǵorǵi nažalil,",
+       "en": "One day Gorgi felt grieve",
+       "en_mt": false
+      },
+      {
+       "cyr": "за своја стара мајчица,",
+       "lat": "za svoja stara majčica,",
+       "en": "for his old mother",
+       "en_mt": false
+      },
+      {
+       "cyr": "за девет браќа убави,",
+       "lat": "za devet braḱa ubavi,",
+       "en": "and his nine beautiful brothers",
+       "en_mt": false
+      },
+      {
+       "cyr": "и високите сараи.",
+       "lat": "i visokite sarai.",
+       "en": "and the luxurious manor.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Собрал си Ѓорѓи овците,",
+       "lat": "Sobral si Ǵorǵi ovcite,",
+       "en": "Gorgi gathered his sheep,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кинисал Ѓорѓи, пристигнал.",
+       "lat": "kinisal Ǵorǵi, pristignal.",
+       "en": "Gorgi started and he arrived.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кога ми дома пристигнал,",
+       "lat": "Koga mi doma pristignal,",
+       "en": "When he arrived at home,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка пред порти седеше,",
+       "lat": "majka pred porti sedeše,",
+       "en": "his mother sat at the gates",
+       "en_mt": false
+      },
+      {
+       "cyr": "и за Ѓорѓија кукаше.",
+       "lat": "i za Ǵorǵija kukaše.",
+       "en": "and cried for Gorgi.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѓорги на мајка говори:",
+       "lat": "Ǵorgi na majka govori:",
+       "en": "Gorgi spoke to his mother:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Оф леле стара мајчице,",
+       "lat": "- Of lele stara majčice,",
+       "en": "- Oh, dear old mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "имаш ли конак за мене,",
+       "lat": "imaš li konak za mene,",
+       "en": "do you have a dwelling for me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ноќеска да си преноќам,",
+       "lat": "noḱeska da si prenoḱam,",
+       "en": "so I can spend this night here,",
+       "en_mt": false
+      },
+      {
+       "cyr": "па утре ќе си заминам.",
+       "lat": "pa utre ḱe si zaminam.",
+       "en": "until I go further tomorrow?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мајка го Ѓорѓи не позна,",
+       "lat": "Majka go Ǵorǵi ne pozna,",
+       "en": "The mother didn't recognize Gorgi",
+       "en_mt": false
+      },
+      {
+       "cyr": "и на Ѓорѓија говори:",
+       "lat": "i na Ǵorǵija govori:",
+       "en": "and said to Gorgi:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Оф леле синко делија,",
+       "lat": "- Of lele sinko delija,",
+       "en": "- Oh, you young horseman,",
+       "en_mt": false
+      },
+      {
+       "cyr": "имав конаци високи,",
+       "lat": "imav konaci visoki,",
+       "en": "I had a lot of rooms,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и дворои широки,",
+       "lat": "i dvoroi široki,",
+       "en": "and vast yards",
+       "en_mt": false
+      },
+      {
+       "cyr": "и девет сина убави,",
+       "lat": "i devet sina ubavi,",
+       "en": "and nine beautiful sons,",
+       "en_mt": false
+      },
+      {
+       "cyr": "десетти беше Ѓорѓија,",
+       "lat": "desetti beše Ǵorǵija,",
+       "en": "the tenth was Gorgi,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ѓорѓи ми беше болничав.",
+       "lat": "Ǵorǵi mi beše bolničav.",
+       "en": "Gorgi was ailing.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јас си на Бога погрешив,",
+       "lat": "Jas si na Boga pogrešiv,",
+       "en": "I sinned in the face of God,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ѓоргија си го испадив.",
+       "lat": "Ǵorgija si go ispadiv.",
+       "en": "I drew Gorgi out of the house.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кога ми Ѓорѓи излезе,",
+       "lat": "Koga mi Ǵorǵi izleze,",
+       "en": "When Gorgi left,",
+       "en_mt": false
+      },
+      {
+       "cyr": "луто ме мене проколна,",
+       "lat": "luto me mene prokolna,",
+       "en": "he cursed me bitterly.",
+       "en_mt": false
+      },
+      {
+       "cyr": "како ме Ѓорѓи проколна,",
+       "lat": "kako me Ǵorǵi prokolna,",
+       "en": "As Gorgi cursed me,",
+       "en_mt": true
+      },
+      {
+       "cyr": "пуста ме клетва достаса.",
+       "lat": "pusta me kletva dostasa.",
+       "en": "the empty curse caught up with me.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Каде е сега Ѓорѓија,",
+       "lat": "Kade e sega Ǵorǵija,",
+       "en": "Where is Gorgi now,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да си го мајка прегрне,",
+       "lat": "da si go majka pregrne,",
+       "en": "so he could hug his mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајкини гревои да прости,",
+       "lat": "majkini grevoi da prosti,",
+       "en": "have mercy with her sins,",
+       "en_mt": false
+      },
+      {
+       "cyr": "белки ќе мајка да пукне?",
+       "lat": "belki ḱe majka da pukne?",
+       "en": "so that she could die with remorse?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѓорѓи на мајка говори:",
+       "lat": "Ǵorǵi na majka govori:",
+       "en": "Gorgi said to his mother:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Јас сум ти мајко Ѓорѓија,",
+       "lat": "- Jas sum ti majko Ǵorǵija,",
+       "en": "- I am, mother, your Gorgi,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ѓорѓија мајко, најгрозен,",
+       "lat": "Ǵorǵija majko, najgrozen,",
+       "en": "the most ugly,",
+       "en_mt": false
+      },
+      {
+       "cyr": "најгрозен мајко, болничав!",
+       "lat": "najgrozen majko, bolničav!",
+       "en": "most ugly, mother, and ailing.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогаш го мајка прегрна,",
+       "lat": "Togaš go majka pregrna,",
+       "en": "Then he hugged his mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дробни си солзи пророна,",
+       "lat": "drobni si solzi prorona,",
+       "en": "his tears running down,",
+       "en_mt": false
+      },
+      {
+       "cyr": "прегрна мајка, целувна,",
+       "lat": "pregrna majka, celuvna,",
+       "en": "hugged her, kissed her,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и пукна мајка, од жалост.",
+       "lat": "i pukna majka, od žalost.",
+       "en": "and his mother died with remorse.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

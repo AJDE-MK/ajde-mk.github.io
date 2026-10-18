@@ -1,0 +1,172 @@
+{
+ "id": 1468,
+ "slug": "kade-kje-idesh-elenko-dado",
+ "title_cyr": "Каде ќе идеш, Еленко дадо",
+ "title_latin": "Kade ḱe ideš, Elenko dado",
+ "title_en": "Where will you go, big sister Elenko",
+ "pesna_url": "https://pesna.org/song/1468",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Шума ќе берам' is my reading: 'gather forest' most likely means gathering mulberry leaves for silkworms. 'саи' is a guessed garment word.",
+ "words_to_learn": [
+  {
+   "mk": "дадо",
+   "en": "big sister (affectionate address)"
+  },
+  {
+   "mk": "терзиче",
+   "en": "little tailor (from Turkish terzi)"
+  },
+  {
+   "mk": "шума",
+   "en": "forest (here probably mulberry foliage, my reading)"
+  },
+  {
+   "mk": "буби",
+   "en": "silkworms"
+  },
+  {
+   "mk": "свила",
+   "en": "silk"
+  },
+  {
+   "mk": "точа",
+   "en": "I spin/wind"
+  },
+  {
+   "mk": "саи",
+   "en": "a kind of coat/outer garment (my reading)"
+  },
+  {
+   "mk": "шиеш",
+   "en": "you sew"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Борис Грковски",
+  "Петранка Костадинова",
+  "Распеани каменичани"
+ ],
+ "audio": [
+  {
+   "who": "Борис Грковски, Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3789"
+  },
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3790"
+  },
+  {
+   "who": "Распеани каменичани",
+   "url": "https://pesna.org/audio-download/3791"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде ќе идеш, Еленко дадо,",
+       "lat": "Kade ḱe ideš, Elenko dado,",
+       "en": "Where will you go, big sister Elenko,"
+      },
+      {
+       "cyr": "каде ќе идеш, Еленко дадо?",
+       "lat": "kade ḱe ideš, Elenko dado?",
+       "en": "where will you go, big sister Elenko?"
+      },
+      {
+       "cyr": "На доле ќ' идам терзиче младо",
+       "lat": "Na dole ḱ' idam terziče mlado",
+       "en": "I will go down, young tailor,"
+      },
+      {
+       "cyr": "шума ќе берам терзиче младо.",
+       "lat": "šuma ḱe beram terziče mlado.",
+       "en": "I will gather leaves/forest, young tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ќе ти шума, Еленко дадо,",
+       "lat": "Što ḱe ti šuma, Elenko dado,",
+       "en": "What do you want the forest for, big sister Elenko,"
+      },
+      {
+       "cyr": "што ќе ти шума, Еленко дадо?",
+       "lat": "što ḱe ti šuma, Elenko dado?",
+       "en": "what do you want the forest for, big sister Elenko?"
+      },
+      {
+       "cyr": "буби ќе рана, терзиче младо",
+       "lat": "bubi ḱe rana, terziče mlado",
+       "en": "I will feed silkworms, young tailor,"
+      },
+      {
+       "cyr": "свила ќе точа, терзиче младо.",
+       "lat": "svila ḱe toča, terziče mlado.",
+       "en": "I will spin silk, young tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ќе ти свила, Еленко дадо,",
+       "lat": "Što ḱe ti svila, Elenko dado,",
+       "en": "What do you want the silk for, big sister Elenko,"
+      },
+      {
+       "cyr": "што ќе ти свила, Еленко дадо?",
+       "lat": "što ḱe ti svila, Elenko dado?",
+       "en": "what do you want the silk for, big sister Elenko?"
+      },
+      {
+       "cyr": "Саи ќе права, терзиче младо,",
+       "lat": "Sai ḱe prava, terziče mlado,",
+       "en": "I will make coats, young tailor,"
+      },
+      {
+       "cyr": "ти ќе 'и шиеш, терзиче младо.",
+       "lat": "ti ḱe 'i šieš, terziče mlado.",
+       "en": "you will sew them, young tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе 'и носи, Еленко дадо",
+       "lat": "Koj ḱe 'i nosi, Elenko dado",
+       "en": "Who will wear them, big sister Elenko,"
+      },
+      {
+       "cyr": "Кој ќе 'и носи, Еленко дадо?",
+       "lat": "Koj ḱe 'i nosi, Elenko dado?",
+       "en": "who will wear them, big sister Elenko?"
+      },
+      {
+       "cyr": "Јac ќе 'и носа, терзиче младо,",
+       "lat": "Jac ḱe 'i nosa, terziče mlado,",
+       "en": "I will wear them, young tailor,"
+      },
+      {
+       "cyr": "ти ќе ме гледаш, терзиче младо.",
+       "lat": "ti ḱe me gledaš, terziče mlado.",
+       "en": "you will watch me, young tailor."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

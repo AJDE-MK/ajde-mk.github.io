@@ -1,0 +1,179 @@
+{
+ "id": 1553,
+ "slug": "oj-satesko-reko-silna",
+ "title_cyr": "Ој Сатеско, реко силна",
+ "title_latin": "Oj Satesko, reko silna",
+ "title_en": "O Satesko, mighty river",
+ "pesna_url": "https://pesna.org/song/1553",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: reads like a modern or partisan-era song, no author named. Guessed: 'градна' (broad-chested), 'мрилна' (unknown word, I rendered it 'grey?'), and 'Ботун тресе' (my reading: at Botun the ground shook).",
+ "words_to_learn": [
+  {
+   "mk": "река",
+   "en": "river"
+  },
+  {
+   "mk": "Дебарца",
+   "en": "Debarca (region near Ohrid)"
+  },
+  {
+   "mk": "милна",
+   "en": "dear, sweet"
+  },
+  {
+   "mk": "бистра",
+   "en": "clear (of water)"
+  },
+  {
+   "mk": "храбар",
+   "en": "brave"
+  },
+  {
+   "mk": "борци",
+   "en": "fighters"
+  },
+  {
+   "mk": "одред",
+   "en": "detachment (military unit)"
+  },
+  {
+   "mk": "победа",
+   "en": "victory"
+  },
+  {
+   "mk": "знамиња",
+   "en": "banners, flags"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Октет Куманово"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/4045"
+  },
+  {
+   "who": "Октет Куманово",
+   "url": "https://pesna.org/audio-download/4046"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4047"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Сатеско, реко силна",
+       "lat": "Oj Satesko, reko silna",
+       "en": "O Satesko, mighty river,"
+      },
+      {
+       "cyr": "на Дебарца мома милна,",
+       "lat": "na Debarca moma milna,",
+       "en": "dear girl of Debarca,"
+      },
+      {
+       "cyr": "твојта снага ширна и градна",
+       "lat": "tvojta snaga širna i gradna",
+       "en": "your strength wide and broad-chested,"
+      },
+      {
+       "cyr": "чиста бистра, водо ладна.",
+       "lat": "čista bistra, vodo ladna.",
+       "en": "clear, bright, cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В бојот беше силна и храбра",
+       "lat": "V bojot beše silna i hrabra",
+       "en": "In battle you were strong and brave,"
+      },
+      {
+       "cyr": "мостовита, мрилна и ширна.",
+       "lat": "mostovita, mrilna i širna.",
+       "en": "bridged, grey?, and wide."
+      },
+      {
+       "cyr": "твојте борци, ведри и силни",
+       "lat": "tvojte borci, vedri i silni",
+       "en": "Your fighters, bright and strong,"
+      },
+      {
+       "cyr": "те бранеја с' гради силни.",
+       "lat": "te braneja s' gradi silni.",
+       "en": "defended you with strong chests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одред Славеј храбар и жаден",
+       "lat": "Odred Slavej hrabar i žaden",
+       "en": "The Slavej detachment, brave and eager,"
+      },
+      {
+       "cyr": "со командантот Коста славен,",
+       "lat": "so komandantot Kosta slaven,",
+       "en": "with the glorious commander Kosta,"
+      },
+      {
+       "cyr": "Ботун тресе бој се водел",
+       "lat": "Botun trese boj se vodel",
+       "en": "at Botun the ground shook, a battle was fought"
+      },
+      {
+       "cyr": "и победа славна донел.",
+       "lat": "i pobeda slavna donel.",
+       "en": "and brought a glorious victory."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој Сатеско, реко силна",
+       "lat": "Oj Satesko, reko silna",
+       "en": "O Satesko, mighty river,"
+      },
+      {
+       "cyr": "на Дебарца мома милна",
+       "lat": "na Debarca moma milna",
+       "en": "dear girl of Debarca,"
+      },
+      {
+       "cyr": "под тебе се знамиња вејат",
+       "lat": "pod tebe se znaminja vejat",
+       "en": "banners wave over you,"
+      },
+      {
+       "cyr": "за слобода пејат.",
+       "lat": "za sloboda pejat.",
+       "en": "they sing of freedom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

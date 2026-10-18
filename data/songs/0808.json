@@ -1,0 +1,116 @@
+{
+ "id": 808,
+ "slug": "chapkan-dimcho",
+ "title_cyr": "Чапкан Димчо",
+ "title_latin": "Čapkan Dimčo",
+ "title_en": "Flirtatious Dimcho",
+ "pesna_url": "https://pesna.org/song/808",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1588"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ме изгоре, ме запусти,",
+       "lat": "Me izgore, me zapusti,",
+       "en": "You burned me, you destroyed me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "море чапкан Димчо.",
+       "lat": "more čapkan Dimčo.",
+       "en": "you, flirtatious Dimcho.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дејгиди чапкан Димчо,",
+       "lat": "Dejgidi čapkan Dimčo,",
+       "en": "Hey flirtatious Dimcho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "моја прва севдо.",
+       "lat": "moja prva sevdo.",
+       "en": "my first love.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како зеде чучук Митра,",
+       "lat": "Kako zede čučuk Mitra,",
+       "en": "When you married Mitra,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мене ме заб'рави.",
+       "lat": "mene me zab'ravi.",
+       "en": "you forgot about me.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дејгиди чапкан Димчо,",
+       "lat": "Dejgidi čapkan Dimčo,",
+       "en": "Hey flirtatious Dimcho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "моја прва севдо.",
+       "lat": "moja prva sevdo.",
+       "en": "my first love.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ме направи суво дрво,",
+       "lat": "Me napravi suvo drvo,",
+       "en": "You turned me into a dry wood,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дрво јаворово.",
+       "lat": "drvo javorovo.",
+       "en": "a maple wood.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дејгиди чапкан Димчо,",
+       "lat": "Dejgidi čapkan Dimčo,",
+       "en": "Hey flirtatious Dimcho,",
+       "en_mt": false
+      },
+      {
+       "cyr": "моја прва севдо.",
+       "lat": "moja prva sevdo.",
+       "en": "my first love.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

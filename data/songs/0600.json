@@ -1,0 +1,146 @@
+{
+ "id": 600,
+ "slug": "bor-sadila-moma-evgenija",
+ "title_cyr": "Бор садила мома Евгенија",
+ "title_latin": "Bor sadila moma Evgenija",
+ "title_en": "Evgenija is planting a pine",
+ "pesna_url": "https://pesna.org/song/600",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Група Сарај",
+  "Емилија Ѓореска",
+  "Сузана Спасовска",
+  "Тоше Проески"
+ ],
+ "audio": [
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/142"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1747"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/2266"
+  },
+  {
+   "who": "Емилија Ѓореска",
+   "url": "https://pesna.org/audio-download/2510"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3358"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бор садила мома Евгенија,",
+       "lat": "Bor sadila moma Evgenija,",
+       "en": "Evgenija is planting a pine,"
+      },
+      {
+       "cyr": "бор садила, ем бога молила:",
+       "lat": "bor sadila, em boga molila:",
+       "en": "she is planting and asking god:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дај ми боже бор да ми порасне,",
+       "lat": "- Daj mi bože bor da mi porasne,",
+       "en": "- \"God, please make my pine grow"
+      },
+      {
+       "cyr": "да се качам на борови ветки.",
+       "lat": "da se kačam na borovi vetki.",
+       "en": "so that I can climb on its branches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си видам сред море гемија,",
+       "lat": "Da si vidam sred more gemija,",
+       "en": "I want to see a ship in the middle of the sea,"
+      },
+      {
+       "cyr": "во гемија, окован делија.",
+       "lat": "vo gemija, okovan delija.",
+       "en": "and in the ship, a hero in manacles\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Раце му се в' синџир заклучени,",
+       "lat": "Race mu se v' sindžir zaklučeni,",
+       "en": "His hands are locked in chain,"
+      },
+      {
+       "cyr": "нозе му се в' букагии стегнати.",
+       "lat": "noze mu se v' bukagii stegnati.",
+       "en": "his legs are pressed in cuffs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На рамена два сиви сокола.",
+       "lat": "Na ramena dva sivi sokola.",
+       "en": "On his shoulders there are two falcons."
+      },
+      {
+       "cyr": "Го опита мома Евгенија",
+       "lat": "Go opita moma Evgenija",
+       "en": "The girl Evgenija asks him"
+      },
+      {
+       "cyr": "со ш' ги рани два сива сокола.",
+       "lat": "so š' gi rani dva siva sokola.",
+       "en": "how does he feed the pair of falcons."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одговори окован делија:",
+       "lat": "Odgovori okovan delija:",
+       "en": "The cuffed hero answers:"
+      },
+      {
+       "cyr": "- Парче сечам, соколи ги ранам,",
+       "lat": "- Parče sečam, sokoli gi ranam,",
+       "en": "- \"I cut a piece of me to feed the falcons,"
+      },
+      {
+       "cyr": "солзи ронам, вода ги напивам.",
+       "lat": "solzi ronam, voda gi napivam.",
+       "en": "I shed tears and give them to drink\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

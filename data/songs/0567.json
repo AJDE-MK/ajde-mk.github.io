@@ -1,0 +1,326 @@
+{
+ "id": 567,
+ "slug": "jovano-jovanke",
+ "title_cyr": "Јовано, Јованке",
+ "title_latin": "Jovano, Jovanke",
+ "title_en": "Jovano, Jovanke",
+ "pesna_url": "https://pesna.org/song/567",
+ "background": "Two young lovers are kept apart by the girl's disapproving parents. She bleaches linen on the banks of the Vardar, the river that runs through the middle of Macedonia. It is sung across the Balkans, in North Macedonia, Bulgaria, Greek Macedonia and former Yugoslavia, and is probably the most-covered Macedonian song. *Mori* and *dušo* are endearments, roughly \"hey girl\" and \"my soul\". The song is short and plain, which is much of its power.",
+ "background_source": "Source of these notes: your 6-song songbook, with notes from Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Азра",
+  "Александар Сариевски",
+  "Атанаска Димитрова",
+  "Билја Крстиќ",
+  "Благој Ламњов",
+  "Васка Илиева",
+  "Влатко Стефановски",
+  "Володја Стојанов",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Горан Бреговиќ",
+  "Даниела Калаџиска",
+  "Димитар Коларов",
+  "Диран Тавитјан",
+  "Драгица Николова",
+  "Ѓорѓи Желчевски",
+  "Жељко Бебек",
+  "Илија Луков",
+  "Кевсер Селимова",
+  "Коста Наумовски",
+  "КУД Иван Горан Коваќиќ",
+  "Ламбе Алабаковски",
+  "Леб и сол",
+  "Ливада",
+  "Македонска филхармонија",
+  "Наракорд",
+  "Наум Петрески",
+  "Непознат изведувач",
+  "Пијано бар",
+  "Радио студио Скопје",
+  "Сенка Валетаниќ",
+  "Тоше Проески",
+  "Чудно дрво",
+  "Balkan ethno band",
+  "Çiğdem Taştan",
+  "Dikanda",
+  "Drugi nachin",
+  "Esther and Abi Ofarim",
+  "Ethnotrip",
+  "Gothart",
+  "Kroke",
+  "Macedonian choir Sofia",
+  "Mitan Project",
+  "Nigel Kennedy",
+  "Perpetuum Jazzile",
+  "Silvia",
+  "Słowianki",
+  "Suna"
+ ],
+ "audio": [
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/197"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/198"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/199"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/200"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/201"
+  },
+  {
+   "who": "Ламбе Алабаковски",
+   "url": "https://pesna.org/audio-download/202"
+  },
+  {
+   "who": "Азра",
+   "url": "https://pesna.org/audio-download/203"
+  },
+  {
+   "who": "Леб и сол",
+   "url": "https://pesna.org/audio-download/204"
+  },
+  {
+   "who": "Коста Наумовски",
+   "url": "https://pesna.org/audio-download/205"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/206"
+  },
+  {
+   "who": "Наракорд",
+   "url": "https://pesna.org/audio-download/773"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Жељко Бебек",
+   "url": "https://pesna.org/audio-download/888"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1287"
+  },
+  {
+   "who": "Володја Стојанов",
+   "url": "https://pesna.org/audio-download/1510"
+  },
+  {
+   "who": "Илија Луков",
+   "url": "https://pesna.org/audio-download/1511"
+  },
+  {
+   "who": "Esther and Abi Ofarim",
+   "url": "https://pesna.org/audio-download/1618"
+  },
+  {
+   "who": "Macedonian choir Sofia",
+   "url": "https://pesna.org/audio-download/1663"
+  },
+  {
+   "who": "Македонска филхармонија",
+   "url": "https://pesna.org/audio-download/1847"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1951"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2075"
+  },
+  {
+   "who": "Горан Бреговиќ",
+   "url": "https://pesna.org/audio-download/2163"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2164"
+  },
+  {
+   "who": "Perpetuum Jazzile",
+   "url": "https://pesna.org/audio-download/2187"
+  },
+  {
+   "who": "Kroke, Nigel Kennedy",
+   "url": "https://pesna.org/audio-download/2191"
+  },
+  {
+   "who": "Suna",
+   "url": "https://pesna.org/audio-download/2193"
+  },
+  {
+   "who": "Słowianki",
+   "url": "https://pesna.org/audio-download/2272"
+  },
+  {
+   "who": "Dikanda",
+   "url": "https://pesna.org/audio-download/2321"
+  },
+  {
+   "who": "Gothart",
+   "url": "https://pesna.org/audio-download/2486"
+  },
+  {
+   "who": "Билја Крстиќ",
+   "url": "https://pesna.org/audio-download/2627"
+  },
+  {
+   "who": "Ethnotrip",
+   "url": "https://pesna.org/audio-download/2628"
+  },
+  {
+   "who": "Balkan ethno band",
+   "url": "https://pesna.org/audio-download/2629"
+  },
+  {
+   "who": "Чудно дрво",
+   "url": "https://pesna.org/audio-download/2630"
+  },
+  {
+   "who": "Ливада",
+   "url": "https://pesna.org/audio-download/2691"
+  },
+  {
+   "who": "Çiğdem Taştan",
+   "url": "https://pesna.org/audio-download/2761"
+  },
+  {
+   "who": "Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2905"
+  },
+  {
+   "who": "Атанаска Димитрова, Димитар Коларов",
+   "url": "https://pesna.org/audio-download/3271"
+  },
+  {
+   "who": "Drugi nachin",
+   "url": "https://pesna.org/audio-download/3292"
+  },
+  {
+   "who": "Благој Ламњов",
+   "url": "https://pesna.org/audio-download/3366"
+  },
+  {
+   "who": "КУД Иван Горан Коваќиќ, Сенка Валетаниќ",
+   "url": "https://pesna.org/audio-download/3451"
+  },
+  {
+   "who": "Silvia",
+   "url": "https://pesna.org/audio-download/3681"
+  },
+  {
+   "who": "Александар Сариевски, Драгица Николова",
+   "url": "https://pesna.org/audio-download/3852"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јовано, Јованке",
+       "lat": "Jovano, Jovanke",
+       "en": "Jovano, Jovanke"
+      },
+      {
+       "cyr": "крај Вардарот седиш, мори",
+       "lat": "kraj Vardarot sediš, mori",
+       "en": "you are sitting by the River Vardar,"
+      },
+      {
+       "cyr": "бело платно белиш",
+       "lat": "belo platno beliš",
+       "en": "washing the white linens"
+      },
+      {
+       "cyr": "бело платно белиш, душо",
+       "lat": "belo platno beliš, dušo",
+       "en": "washing the white linens, dear"
+      },
+      {
+       "cyr": "сè нагоре гледаш.",
+       "lat": "sè nagore gledaš.",
+       "en": "and looking up all the time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јовано, Јованке",
+       "lat": "Jovano, Jovanke",
+       "en": "Jovano, Jovanke"
+      },
+      {
+       "cyr": "јас те тебе чекам, мори",
+       "lat": "jas te tebe čekam, mori",
+       "en": "I am waiting for you"
+      },
+      {
+       "cyr": "дома да ми дојдеш",
+       "lat": "doma da mi dojdeš",
+       "en": "to come to my home"
+      },
+      {
+       "cyr": "а ти не доаѓаш, душо",
+       "lat": "a ti ne doaǵaš, dušo",
+       "en": "but you are not coming, dear"
+      },
+      {
+       "cyr": "срце мое Јовано.",
+       "lat": "srce moe Jovano.",
+       "en": "my heart, Jovano."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јовано, Јованке",
+       "lat": "Jovano, Jovanke",
+       "en": "Jovano, Jovanke"
+      },
+      {
+       "cyr": "твојата мајка, мори",
+       "lat": "tvojata majka, mori",
+       "en": "your mother"
+      },
+      {
+       "cyr": "тебе не те пушта",
+       "lat": "tebe ne te pušta",
+       "en": "is not letting you"
+      },
+      {
+       "cyr": "кај мене да дојдиш, душо",
+       "lat": "kaj mene da dojdiš, dušo",
+       "en": "to come to me, dear"
+      },
+      {
+       "cyr": "срце мое Јовано.",
+       "lat": "srce moe Jovano.",
+       "en": "my heart, Jovano."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

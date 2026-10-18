@@ -1,0 +1,147 @@
+{
+ "id": 623,
+ "slug": "ajde-bolno-lezhi-mojto-libe",
+ "title_cyr": "Ајде болно лежи мојто либе",
+ "title_latin": "Ajde bolno leži mojto libe",
+ "title_en": "My dear lies sick",
+ "pesna_url": "https://pesna.org/song/623",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Пет плус",
+  "Тајфата на Шуле"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/839"
+  },
+  {
+   "who": "Тајфата на Шуле",
+   "url": "https://pesna.org/audio-download/916"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1062"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3663"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде болно лежи мојто либе",
+       "lat": "Ajde bolno leži mojto libe",
+       "en": "My dear lies sick,"
+      },
+      {
+       "cyr": "болно лежи на постела",
+       "lat": "bolno leži na postela",
+       "en": "sick it lies on the bed,"
+      },
+      {
+       "cyr": "болно лежи мојто либе",
+       "lat": "bolno leži mojto libe",
+       "en": "sick it lies, my dear"
+      },
+      {
+       "cyr": "болно лежи на постела.",
+       "lat": "bolno leži na postela.",
+       "en": "sick it lies on the bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде нит' умират, нит' стануват",
+       "lat": "Ajde nit' umirat, nit' stanuvat",
+       "en": "Oh, neither it dies, nor it gets well,"
+      },
+      {
+       "cyr": "ниту богу душа дават",
+       "lat": "nitu bogu duša davat",
+       "en": "nor it gives her soul to God,"
+      },
+      {
+       "cyr": "нит' умират, нит' стануват",
+       "lat": "nit' umirat, nit' stanuvat",
+       "en": "neither it dies, nor it stands,"
+      },
+      {
+       "cyr": "ниту богу душа дават.",
+       "lat": "nitu bogu duša davat.",
+       "en": "nor it gives her soul to God."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ниту мене изим дават",
+       "lat": "Ajde nitu mene izim davat",
+       "en": "And it also does not allow me"
+      },
+      {
+       "cyr": "да заљубам друго либе",
+       "lat": "da zaljubam drugo libe",
+       "en": "to love another dear,"
+      },
+      {
+       "cyr": "да заљубам друго либе",
+       "lat": "da zaljubam drugo libe",
+       "en": "to love another darling,"
+      },
+      {
+       "cyr": "друго либе поубаво.",
+       "lat": "drugo libe poubavo.",
+       "en": "some more beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде стани, стани верно либе",
+       "lat": "Ajde stani, stani verno libe",
+       "en": "- Come on, get up, get up my dear,"
+      },
+      {
+       "cyr": "стани, стани да не станиш",
+       "lat": "stani, stani da ne staniš",
+       "en": "get up, stand up, why don't you,"
+      },
+      {
+       "cyr": "ќе одиме во Битола",
+       "lat": "ḱe odime vo Bitola",
+       "en": "we will go to Bitola,"
+      },
+      {
+       "cyr": "ќе пиеме пресна бира",
+       "lat": "ḱe pieme presna bira",
+       "en": "we will drink cold beer,"
+      },
+      {
+       "cyr": "таму свирки ќе ни свират.",
+       "lat": "tamu svirki ḱe ni svirat.",
+       "en": "and the band will play for us."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

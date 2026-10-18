@@ -1,0 +1,143 @@
+{
+ "id": 294,
+ "slug": "snoshti-sakav-da-ti-dojdam",
+ "title_cyr": "Сношти сакав да ти дојдам",
+ "title_latin": "Snošti sakav da ti dojdam",
+ "title_en": "Last night I wanted to visit you",
+ "pesna_url": "https://pesna.org/song/294",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Аки Рахимовски",
+  "Влатко Лозаноски",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Група Сарај",
+  "Диран Тавитјан",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Петар Нечовски",
+  "Сузана Спасовска",
+  "Цветанка Ласкова",
+  "Nama Orchestra"
+ ],
+ "audio": [
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/611"
+  },
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/614"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/801"
+  },
+  {
+   "who": "Аки Рахимовски, Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан",
+   "url": "https://pesna.org/audio-download/893"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2036"
+  },
+  {
+   "who": "Nama Orchestra",
+   "url": "https://pesna.org/audio-download/2860"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3718"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3902"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Сношти сакав да ти дојдам",
+       "lat": "- Snošti sakav da ti dojdam",
+       "en": "- Last night I wanted to visit you,"
+      },
+      {
+       "cyr": "на таа слатка вечера,",
+       "lat": "na taa slatka večera,",
+       "en": "to eat that sweet dinner,"
+      },
+      {
+       "cyr": "на тоа вино црвено,",
+       "lat": "na toa vino crveno,",
+       "en": "to drink that red wine,"
+      },
+      {
+       "cyr": "а бре будало.",
+       "lat": "a bre budalo.",
+       "en": "oh, you fool."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лошо време ме зафати,",
+       "lat": "Lošo vreme me zafati,",
+       "en": "But bad weather stopped me,"
+      },
+      {
+       "cyr": "ситна роса зароси,",
+       "lat": "sitna rosa zarosi,",
+       "en": "a drizzle started to fall,"
+      },
+      {
+       "cyr": "силен ветер задува,",
+       "lat": "silen veter zaduva,",
+       "en": "a wind started to blow,"
+      },
+      {
+       "cyr": "затоа не дојдов.",
+       "lat": "zatoa ne dojdov.",
+       "en": "that's why I didn't come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Каков јунак ти ќе бидеш",
+       "lat": "- Kakov junak ti ḱe bideš",
+       "en": "- What kind of a hero are you,"
+      },
+      {
+       "cyr": "од роса да се уплашиш,",
+       "lat": "od rosa da se uplašiš,",
+       "en": "being scared of a drizzle,"
+      },
+      {
+       "cyr": "кај мене да не дојдеш,",
+       "lat": "kaj mene da ne dojdeš,",
+       "en": "not coming to me,"
+      },
+      {
+       "cyr": "а бре, лудо бре?",
+       "lat": "a bre, ludo bre?",
+       "en": "hey, you fool?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

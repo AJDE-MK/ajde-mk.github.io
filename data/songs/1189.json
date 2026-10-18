@@ -1,0 +1,150 @@
+{
+ "id": 1189,
+ "slug": "si-zaljubiv-edno-mome",
+ "title_cyr": "Си заљубив едно моме",
+ "title_latin": "Si zaljubiv edno mome",
+ "title_en": "I Fell in Love with a Girl",
+ "pesna_url": "https://pesna.org/song/1189",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Ах, лудо младо бре' is my reading: 'ah, foolish young one, hey'; 'си заљубив' uses the reflexive си for emphasis.",
+ "words_to_learn": [
+  {
+   "mk": "заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "убаво",
+   "en": "beautiful"
+  },
+  {
+   "mk": "бегаме",
+   "en": "let us flee"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "либе",
+   "en": "love, sweetheart"
+  },
+  {
+   "mk": "клета",
+   "en": "wretched, cursed"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2919"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си заљубив едно моме,",
+       "lat": "Si zaljubiv edno mome,",
+       "en": "I fell in love with a girl,"
+      },
+      {
+       "cyr": "моме убаво,",
+       "lat": "mome ubavo,",
+       "en": "a beautiful girl,"
+      },
+      {
+       "cyr": "ах, моме убаво,",
+       "lat": "ah, mome ubavo,",
+       "en": "ah, a beautiful girl,"
+      },
+      {
+       "cyr": "ах, моме убаво.",
+       "lat": "ah, mome ubavo.",
+       "en": "ah, a beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде моме да бегаме",
+       "lat": "- Ajde mome da begame",
+       "en": "- Come on, girl, let us run away"
+      },
+      {
+       "cyr": "в' гора зелена,",
+       "lat": "v' gora zelena,",
+       "en": "into the green forest,"
+      },
+      {
+       "cyr": "ах, в' гора зелена,",
+       "lat": "ah, v' gora zelena,",
+       "en": "ah, into the green forest,"
+      },
+      {
+       "cyr": "ах, Бистра Планина.",
+       "lat": "ah, Bistra Planina.",
+       "en": "ah, Bistra Mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Немој либе, не ме кани",
+       "lat": "- Nemoj libe, ne me kani",
+       "en": "- Do not, love, do not invite me"
+      },
+      {
+       "cyr": "в' гора зелена,",
+       "lat": "v' gora zelena,",
+       "en": "into the green forest,"
+      },
+      {
+       "cyr": "јас си имам клета мајка,",
+       "lat": "jas si imam kleta majka,",
+       "en": "I have a wretched mother,"
+      },
+      {
+       "cyr": "клета, проклета.",
+       "lat": "kleta, prokleta.",
+       "en": "wretched, cursed."
+      },
+      {
+       "cyr": "Ах, проклета мајка,",
+       "lat": "Ah, prokleta majka,",
+       "en": "Ah, cursed mother,"
+      },
+      {
+       "cyr": "ах, лудо младо бре.",
+       "lat": "ah, ludo mlado bre.",
+       "en": "ah, foolish and young, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

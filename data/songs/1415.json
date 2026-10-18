@@ -1,0 +1,138 @@
+{
+ "id": 1415,
+ "slug": "sardisal-asker-delcheva-cheta",
+ "title_cyr": "Сардисал аскер делчева чета",
+ "title_latin": "Sardisal asker delčeva četa",
+ "title_en": "The army encircled Delchev's company",
+ "pesna_url": "https://pesna.org/song/1415",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Јонче Христовски",
+  "Kazuhiro Kotetsu",
+  "Peter Pizarcoff"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3634"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3635"
+  },
+  {
+   "who": "Peter Pizarcoff",
+   "url": "https://pesna.org/audio-download/3678"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сардисал аскер делчева чета,",
+       "lat": "Sardisal asker delčeva četa,",
+       "en": "The army encircled Delchev's company"
+      },
+      {
+       "cyr": "во македонско село Баница,",
+       "lat": "vo makedonsko selo Banica,",
+       "en": "in the Macedonian village Banica,"
+      },
+      {
+       "cyr": "јунак до јунак, цела чета падна,",
+       "lat": "junak do junak, cela četa padna,",
+       "en": "hero after hero, the entire company fell,"
+      },
+      {
+       "cyr": "црн облак покри Македонија.",
+       "lat": "crn oblak pokri Makedonija.",
+       "en": "black cloud covered Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гоце Делчев тешко ранет лежи,",
+       "lat": "Goce Delčev teško ranet leži,",
+       "en": "Goce Delchev lies gravely wounded,"
+      },
+      {
+       "cyr": "појќе од рани ропство му тежи.",
+       "lat": "pojḱe od rani ropstvo mu teži.",
+       "en": "slavery weighs more on him than his wounds."
+      },
+      {
+       "cyr": "- Умирам, не жалам - јунакот вели,",
+       "lat": "- Umiram, ne žalam - junakot veli,",
+       "en": "- I am dying, I am not sorry - the hero speaks,"
+      },
+      {
+       "cyr": "од Македонија ни смрт не ме дели.",
+       "lat": "od Makedonija ni smrt ne me deli.",
+       "en": "even my death will not separate me from Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вечно ќе жалат сите Македонци",
+       "lat": "Večno ḱe žalat site Makedonci",
+       "en": "All Macedonians will forever grieve"
+      },
+      {
+       "cyr": "за славен јунак Делчев војвода,",
+       "lat": "za slaven junak Delčev vojvoda,",
+       "en": "for the famous hero, Delchev voivoda,"
+      },
+      {
+       "cyr": "срце и душа даде без да жали,",
+       "lat": "srce i duša dade bez da žali,",
+       "en": "he gave his heart and soul without regrets,"
+      },
+      {
+       "cyr": "мајка Македонија вечно ќе го гали.",
+       "lat": "majka Makedonija večno ḱe go gali.",
+       "en": "mother Macedonia will forever treasure him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гоце Делчев рано загина,",
+       "lat": "Goce Delčev rano zagina,",
+       "en": "Goce Delchev died so young,"
+      },
+      {
+       "cyr": "гордост на цела Македонија.",
+       "lat": "gordost na cela Makedonija.",
+       "en": "pride of all Macedonia."
+      },
+      {
+       "cyr": "Машко и женско македонско",
+       "lat": "Maško i žensko makedonsko",
+       "en": "Men and women Macedonians"
+      },
+      {
+       "cyr": "вечно ќе се бори против тиранство.",
+       "lat": "večno ḱe se bori protiv tiranstvo.",
+       "en": "will forever fight tyranny."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,125 @@
+{
+ "id": 1544,
+ "slug": "zaspalo-devojche",
+ "title_cyr": "Заспало девојче",
+ "title_latin": "Zaspalo devojče",
+ "title_en": "A young girl fell asleep",
+ "pesna_url": "https://pesna.org/song/1544",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Гоце Делчев",
+  "Делчево",
+  "КУД Мирче Ацев",
+  "Пирински гриваци",
+  "Танец",
+  "Татиана Сарбинска"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4029"
+  },
+  {
+   "who": "КУД Мирче Ацев",
+   "url": "https://pesna.org/audio-download/4030"
+  },
+  {
+   "who": "Ансамбл Гоце Делчев, Делчево",
+   "url": "https://pesna.org/audio-download/4031"
+  },
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/4032"
+  },
+  {
+   "who": "Татиана Сарбинска",
+   "url": "https://pesna.org/audio-download/4033"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заспало девојче, ле, близу до беќарче, леле,",
+       "lat": "Zaspalo devojče, le, blizu do beḱarče, lele,",
+       "en": "А young girl fell asleep*, hey, not far was an unmarried man,"
+      },
+      {
+       "cyr": "близу до беќарче.",
+       "lat": "blizu do beḱarče.",
+       "en": "hey, not far was an unmarried man."
+      },
+      {
+       "cyr": "Беќарче го гледа, ле, па го тиом буди, леле,",
+       "lat": "Beḱarče go gleda, le, pa go tiom budi, lele,",
+       "en": "The young man watched her, hey, and he gently woke her up,"
+      },
+      {
+       "cyr": "па го тиом буди.",
+       "lat": "pa go tiom budi.",
+       "en": "hey, and he gently woke her up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја стани девојче, ле, да се наджнееме, леле,",
+       "lat": "Ja stani devojče, le, da se nadžneeme, lele,",
+       "en": "Get up girl! Let's see who finishes sowing the field first, hey,"
+      },
+      {
+       "cyr": "да се наджнееме.",
+       "lat": "da se nadžneeme.",
+       "en": "who finishes sowing the field first."
+      },
+      {
+       "cyr": "Да се наджнееме, ле, да се наттрчиме, леле,",
+       "lat": "Da se nadžneeme, le, da se nattrčime, lele,",
+       "en": "Let's see who finishes sowing the field first, hey,"
+      },
+      {
+       "cyr": "да се наттрчиме.",
+       "lat": "da se nattrčime.",
+       "en": "let's see who can outrun the other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој прв ќе наджнее, ле, тој прв да се жени, леле,",
+       "lat": "Koj prv ḱe nadžnee, le, toj prv da se ženi, lele,",
+       "en": "Who ever finishes sowing first, hey, will get married first, hey,"
+      },
+      {
+       "cyr": "тој прв да се жени.",
+       "lat": "toj prv da se ženi.",
+       "en": "will get married first."
+      },
+      {
+       "cyr": "Кој прв ќе наттрчи, ле, тебе да те земе, леле,",
+       "lat": "Koj prv ḱe nattrči, le, tebe da te zeme, lele,",
+       "en": "Who ever outruns the other, hey, marries you, hey,"
+      },
+      {
+       "cyr": "тебе да да те земе.",
+       "lat": "tebe da da te zeme.",
+       "en": "marries you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

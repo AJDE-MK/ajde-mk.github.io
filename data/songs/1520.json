@@ -1,0 +1,142 @@
+{
+ "id": 1520,
+ "slug": "mlada-nevesta-pod-vrba-sedi",
+ "title_cyr": "Млада невеста под врба седи",
+ "title_latin": "Mlada nevesta pod vrba sedi",
+ "title_en": "A young bride sits under a willow",
+ "pesna_url": "https://pesna.org/song/1520",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last line 'назад не греби' is my reading ('will not come back', literally 'not rake/row back'). 'ка ја што' = 'as I do' (dialect). Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "врба",
+   "en": "willow"
+  },
+  {
+   "mk": "либе",
+   "en": "beloved, sweetheart"
+  },
+  {
+   "mk": "жали",
+   "en": "mourns, grieves"
+  },
+  {
+   "mk": "навела",
+   "en": "bent down"
+  },
+  {
+   "mk": "грани",
+   "en": "branches"
+  },
+  {
+   "mk": "лисја",
+   "en": "leaves"
+  },
+  {
+   "mk": "пролет",
+   "en": "spring"
+  }
+ ],
+ "performers": [
+  "Габриела Новевска",
+  "Елена Андоновска"
+ ],
+ "audio": [
+  {
+   "who": "Елена Андоновска",
+   "url": "https://pesna.org/audio-download/3977"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/3978"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Млада невеста под врба седи,",
+       "lat": "Mlada nevesta pod vrba sedi,",
+       "en": "A young bride sits under a willow,"
+      },
+      {
+       "cyr": "плачи и жали за прво либе,",
+       "lat": "plači i žali za prvo libe,",
+       "en": "she weeps and mourns for her first love,"
+      },
+      {
+       "cyr": "плачи и жали за прво либе",
+       "lat": "plači i žali za prvo libe",
+       "en": "she weeps and mourns for her first love"
+      },
+      {
+       "cyr": "и на врбата жално говори.",
+       "lat": "i na vrbata žalno govori.",
+       "en": "and speaks sadly to the willow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Врбо ле, врбо густа, зелена,",
+       "lat": "- Vrbo le, vrbo gusta, zelena,",
+       "en": "- Oh willow, thick and green willow,"
+      },
+      {
+       "cyr": "шо си навела грани надолу,",
+       "lat": "šo si navela grani nadolu,",
+       "en": "why have you bent your branches down,"
+      },
+      {
+       "cyr": "што си навела грани надолу,",
+       "lat": "što si navela grani nadolu,",
+       "en": "why have you bent your branches down,"
+      },
+      {
+       "cyr": "навела си и кај мојта глава.",
+       "lat": "navela si i kaj mojta glava.",
+       "en": "you bent them down even by my head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали си жалиш за твојте лисја,",
+       "lat": "Dali si žališ za tvojte lisja,",
+       "en": "Do you grieve for your leaves"
+      },
+      {
+       "cyr": "ка ја што жалам за прво либе?",
+       "lat": "ka ja što žalam za prvo libe?",
+       "en": "as I grieve for my first love?"
+      },
+      {
+       "cyr": "Пролет ќе дојде пак ќе развиеш,",
+       "lat": "Prolet ḱe dojde pak ḱe razvieš,",
+       "en": "In spring you will bloom again,"
+      },
+      {
+       "cyr": "а мојто либе назад не греби.",
+       "lat": "a mojto libe nazad ne grebi.",
+       "en": "but my love will not come back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

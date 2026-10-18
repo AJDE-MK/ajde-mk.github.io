@@ -1,0 +1,134 @@
+{
+ "id": 641,
+ "slug": "ergenlak-e-mamo-pashalak",
+ "title_cyr": "Ергенлак е мамо пашалак",
+ "title_latin": "Ergenlak e mamo pašalak",
+ "title_en": "Bachelorhood, Mother, Is Being a Pasha",
+ "pesna_url": "https://pesna.org/song/641",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Line 1 'наодев' is odd; my reading is 'I found (good things)'. 'кочански' meaning 'like corn cobs' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ергенлак",
+   "en": "bachelorhood"
+  },
+  {
+   "mk": "пашалак",
+   "en": "the status of a pasha (grand life)"
+  },
+  {
+   "mk": "моминство",
+   "en": "girlhood, being unmarried (of a girl)"
+  },
+  {
+   "mk": "везирство",
+   "en": "the status of a vizier"
+  },
+  {
+   "mk": "заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "кочански",
+   "en": "of a corn cob (pale, white)"
+  },
+  {
+   "mk": "си одев",
+   "en": "I went about (dialect past form)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/1725"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ерген си одев мамо наодев,",
+       "lat": "Ergen si odev mamo naodev,",
+       "en": "I went about as a bachelor, mother, and found,"
+      },
+      {
+       "cyr": "убави моми мамо заљубив,",
+       "lat": "ubavi momi mamo zaljubiv,",
+       "en": "I fell in love with pretty girls, mother,"
+      },
+      {
+       "cyr": "ергенлак е, мамо, пашалак,",
+       "lat": "ergenlak e, mamo, pašalak,",
+       "en": "bachelorhood, mother, is being a pasha,"
+      },
+      {
+       "cyr": "моминство е, мамо, везирство.",
+       "lat": "mominstvo e, mamo, vezirstvo.",
+       "en": "girlhood, mother, is being a vizier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убави моми мамо заљубив,",
+       "lat": "Ubavi momi mamo zaljubiv,",
+       "en": "I fell in love with pretty girls, mother,"
+      },
+      {
+       "cyr": "сè лични бели мамо кочански,",
+       "lat": "sè lični beli mamo kočanski,",
+       "en": "all of them looked like white corn cobs, mother,"
+      },
+      {
+       "cyr": "ергенлак е мамо пашалак,",
+       "lat": "ergenlak e mamo pašalak,",
+       "en": "bachelorhood, mother, is being a pasha,"
+      },
+      {
+       "cyr": "моминство е мамо везирство.",
+       "lat": "mominstvo e mamo vezirstvo.",
+       "en": "girlhood, mother, is being a vizier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од сите мамо моми што љубев,",
+       "lat": "Od site mamo momi što ljubev,",
+       "en": "Of all the girls, mother, that I loved,"
+      },
+      {
+       "cyr": "само ми беше една на срце,",
+       "lat": "samo mi beše edna na srce,",
+       "en": "only one was on my heart,"
+      },
+      {
+       "cyr": "ергенлак е мамо пашалак,",
+       "lat": "ergenlak e mamo pašalak,",
+       "en": "bachelorhood, mother, is being a pasha,"
+      },
+      {
+       "cyr": "моминството е мамо везирство.",
+       "lat": "mominstvoto e mamo vezirstvo.",
+       "en": "girlhood, mother, is being a vizier."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,127 @@
+{
+ "id": 226,
+ "slug": "mila-majko-shto-me-rodi-tolku-siromav",
+ "title_cyr": "Мила мајко што ме роди толку сиромав",
+ "title_latin": "Mila majko što me rodi tolku siromav",
+ "title_en": "Dear mother why did you give birth to me so poor",
+ "pesna_url": "https://pesna.org/song/226",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: John Pappas)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Томовска",
+  "Драган Вучиќ",
+  "Зоран Георгиев",
+  "Зоран Марковски",
+  "Мухарем Сербезовски",
+  "Перо Христов"
+ ],
+ "audio": [
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/1370"
+  },
+  {
+   "who": "Зоран Георгиев",
+   "url": "https://pesna.org/audio-download/1371"
+  },
+  {
+   "who": "Перо Христов",
+   "url": "https://pesna.org/audio-download/1405"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/2483"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2484"
+  },
+  {
+   "who": "Мухарем Сербезовски",
+   "url": "https://pesna.org/audio-download/2485"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Леле мајко што ме роди толку сиромав?",
+       "lat": "Lele majko što me rodi tolku siromav?",
+       "en": "Dear mother why did you give birth to me so poor?"
+      },
+      {
+       "cyr": "Сиромав, сиромав, пусти останав.",
+       "lat": "Siromav, siromav, pusti ostanav.",
+       "en": "Poor, poor, so damn poor (I have become wasted)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Куќа имам, жена немам, леле сиромав.",
+       "lat": "Kuḱa imam, žena nemam, lele siromav.",
+       "en": "I have a house, but I have no wife."
+      },
+      {
+       "cyr": "Сиромав, сиромав, пусти останав.",
+       "lat": "Siromav, siromav, pusti ostanav.",
+       "en": "Poor, poor, so damn poor (I have become wasted)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кревет имам, јорган немам, леле сиромав.",
+       "lat": "Krevet imam, jorgan nemam, lele siromav.",
+       "en": "I have a bed, but I have no blanket."
+      },
+      {
+       "cyr": "Сиромав, сиромав, пусти останав.",
+       "lat": "Siromav, siromav, pusti ostanav.",
+       "en": "Poor, poor, so damn poor (I have become wasted)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќумбе имам, дрва немам, леле сиромав.",
+       "lat": "Ḱumbe imam, drva nemam, lele siromav.",
+       "en": "I have a stove, but I have no wood (to burn in the stove)."
+      },
+      {
+       "cyr": "Сиромав, сиромав, пусти останав.",
+       "lat": "Siromav, siromav, pusti ostanav.",
+       "en": "Poor, poor, so damn poor (I have become wasted)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќесе имам, пари немам, леле сиромав.",
+       "lat": "Ḱese imam, pari nemam, lele siromav.",
+       "en": "I have a wallet, but I have no money."
+      },
+      {
+       "cyr": "Сиромав, сиромав, пусти останав.",
+       "lat": "Siromav, siromav, pusti ostanav.",
+       "en": "Poor, poor, so damn poor (I have become wasted)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

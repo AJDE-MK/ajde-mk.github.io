@@ -1,0 +1,177 @@
+{
+ "id": 625,
+ "slug": "ah-mori-maro-devojche",
+ "title_cyr": "Ах мори Маро, девојче",
+ "title_latin": "Ah mori Maro, devojče",
+ "title_en": "Ah, Hey Mara, Girl",
+ "pesna_url": "https://pesna.org/song/625",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лудо' for the mother is my reading as 'foolish' (affectionate or scolding). 'Не ме даваат' could mean 'will not let me go' or 'will not give me in marriage'. 'Маре земиме' is my reading as 'take each other'.",
+ "words_to_learn": [
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "шетам",
+   "en": "I stroll, wander"
+  },
+  {
+   "mk": "горе, доле",
+   "en": "up, down"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "клети",
+   "en": "cursed"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "не ме даваат",
+   "en": "they do not let me go / do not give me away"
+  },
+  {
+   "mk": "земиме",
+   "en": "let us take (each other), marry"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1274"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1415"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори Маро, девојче",
+       "lat": "Ah mori Maro, devojče",
+       "en": "Ah, hey Mara, girl,"
+      },
+      {
+       "cyr": "излези до порта,",
+       "lat": "izlezi do porta,",
+       "en": "come out to the gate,"
+      },
+      {
+       "cyr": "јас само шетам горе, доле",
+       "lat": "jas samo šetam gore, dole",
+       "en": "I am only wandering up and down"
+      },
+      {
+       "cyr": "за да те видам.",
+       "lat": "za da te vidam.",
+       "en": "to see you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам либе, не можам",
+       "lat": "Ne možam libe, ne možam",
+       "en": "I cannot, love, I cannot"
+      },
+      {
+       "cyr": "јас да излезам,",
+       "lat": "jas da izlezam,",
+       "en": "come out,"
+      },
+      {
+       "cyr": "мајка ми лудо, татко ми,",
+       "lat": "majka mi ludo, tatko mi,",
+       "en": "my mother, foolish, and my father,"
+      },
+      {
+       "cyr": "клети душмани,",
+       "lat": "kleti dušmani,",
+       "en": "cursed enemies,"
+      },
+      {
+       "cyr": "мајка ми лудо, татко ми,",
+       "lat": "majka mi ludo, tatko mi,",
+       "en": "my mother, foolish, and my father,"
+      },
+      {
+       "cyr": "не ме даваат.",
+       "lat": "ne me davaat.",
+       "en": "do not let me go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори Маро, Мариче,",
+       "lat": "Ah mori Maro, Mariče,",
+       "en": "Ah, hey Mara, Marica,"
+      },
+      {
+       "cyr": "излези до порта,",
+       "lat": "izlezi do porta,",
+       "en": "come out to the gate,"
+      },
+      {
+       "cyr": "ај да се ние двајцата",
+       "lat": "aj da se nie dvajcata",
+       "en": "come, let us two"
+      },
+      {
+       "cyr": "Маре земиме.",
+       "lat": "Mare zemime.",
+       "en": "take each other, Mara."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај да се ние двајцата",
+       "lat": "Aj da se nie dvajcata",
+       "en": "Come, let us two"
+      },
+      {
+       "cyr": "либе земиме,",
+       "lat": "libe zemime,",
+       "en": "take each other, love,"
+      },
+      {
+       "cyr": "заедно ние двајцата,",
+       "lat": "zaedno nie dvajcata,",
+       "en": "together, the two of us,"
+      },
+      {
+       "cyr": "живот да живејме.",
+       "lat": "život da živejme.",
+       "en": "live a life."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

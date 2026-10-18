@@ -1,0 +1,289 @@
+{
+ "id": 1469,
+ "slug": "milice-moja-milice",
+ "title_cyr": "Милице, моја Милице",
+ "title_latin": "Milice, moja Milice",
+ "title_en": "Milica, My Milica",
+ "pesna_url": "https://pesna.org/song/1469",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern composed song, but I cannot name an author). 'за мене вистински патиш' is my reading ('you travel a true path for me').",
+ "words_to_learn": [
+  {
+   "mk": "брег",
+   "en": "shore"
+  },
+  {
+   "mk": "сведоци",
+   "en": "witnesses"
+  },
+  {
+   "mk": "далги",
+   "en": "waves"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "ветуваше",
+   "en": "was promising"
+  },
+  {
+   "mk": "езерска",
+   "en": "of the lake"
+  },
+  {
+   "mk": "зајдисонце",
+   "en": "sunset"
+  },
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "судбина",
+   "en": "fate"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/3795"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Те чекам мила и пеам,",
+       "lat": "Te čekam mila i peam,",
+       "en": "I wait for you, dear, and sing,"
+      },
+      {
+       "cyr": "на брегот цел ден пеам,",
+       "lat": "na bregot cel den peam,",
+       "en": "on the shore all day I sing,"
+      },
+      {
+       "cyr": "сведоци се далгите",
+       "lat": "svedoci se dalgite",
+       "en": "the waves are witnesses"
+      },
+      {
+       "cyr": "и солзите.",
+       "lat": "i solzite.",
+       "en": "and the tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми рече пак ќе се вратиш,",
+       "lat": "Mi reče pak ḱe se vratiš,",
+       "en": "You told me you would come back again,"
+      },
+      {
+       "cyr": "за мене вистински патиш,",
+       "lat": "za mene vistinski patiš,",
+       "en": "for me a true path,"
+      },
+      {
+       "cyr": "на разделба плачеше",
+       "lat": "na razdelba plačeše",
+       "en": "at parting you cried"
+      },
+      {
+       "cyr": "и ми ветуваше.",
+       "lat": "i mi vetuvaše.",
+       "en": "and promised me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милице, моја Милице,",
+       "lat": "Milice, moja Milice,",
+       "en": "Milica, my Milica,"
+      },
+      {
+       "cyr": "не рони солзи по лице.",
+       "lat": "ne roni solzi po lice.",
+       "en": "do not shed tears down your face."
+      },
+      {
+       "cyr": "Езерска ти убавице,",
+       "lat": "Ezerska ti ubavice,",
+       "en": "Beauty of the lake,"
+      },
+      {
+       "cyr": "врати се на зајдисонце.",
+       "lat": "vrati se na zajdisonce.",
+       "en": "come back at sunset."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А сега збогум ти велам,",
+       "lat": "A sega zbogum ti velam,",
+       "en": "And now I say farewell to you,"
+      },
+      {
+       "cyr": "со тебе судбина делам,",
+       "lat": "so tebe sudbina delam,",
+       "en": "I share my fate with you,"
+      },
+      {
+       "cyr": "сведоци се далгите",
+       "lat": "svedoci se dalgite",
+       "en": "the waves are witnesses"
+      },
+      {
+       "cyr": "и солзите.",
+       "lat": "i solzite.",
+       "en": "and the tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми рече пак ќе се вратиш,",
+       "lat": "Mi reče pak ḱe se vratiš,",
+       "en": "You told me you would come back again,"
+      },
+      {
+       "cyr": "за мене вистински патиш.",
+       "lat": "za mene vistinski patiš.",
+       "en": "for me a true path."
+      },
+      {
+       "cyr": "Не дојде Милице",
+       "lat": "Ne dojde Milice",
+       "en": "She did not come, Milica,"
+      },
+      {
+       "cyr": "на зајдисонце.",
+       "lat": "na zajdisonce.",
+       "en": "at sunset."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милице, моја Милице,",
+       "lat": "Milice, moja Milice,",
+       "en": "Milica, my Milica,"
+      },
+      {
+       "cyr": "не рони солзи по лице.",
+       "lat": "ne roni solzi po lice.",
+       "en": "do not shed tears down your face."
+      },
+      {
+       "cyr": "Езерска ти убавице,",
+       "lat": "Ezerska ti ubavice,",
+       "en": "Beauty of the lake,"
+      },
+      {
+       "cyr": "врати се на зајдисонце.",
+       "lat": "vrati se na zajdisonce.",
+       "en": "come back at sunset."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти знаеш мила те љубам,",
+       "lat": "Ti znaeš mila te ljubam,",
+       "en": "You know, dear, I love you,"
+      },
+      {
+       "cyr": "без тебе колку ќе губам",
+       "lat": "bez tebe kolku ḱe gubam",
+       "en": "how much I will lose without you,"
+      },
+      {
+       "cyr": "сведоци се далгите",
+       "lat": "svedoci se dalgite",
+       "en": "the waves are witnesses"
+      },
+      {
+       "cyr": "и солзите.",
+       "lat": "i solzite.",
+       "en": "and the tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми рече пак ќе се вратиш,",
+       "lat": "Mi reče pak ḱe se vratiš,",
+       "en": "You told me you would come back again,"
+      },
+      {
+       "cyr": "за мене вистински патиш.",
+       "lat": "za mene vistinski patiš.",
+       "en": "for me a true path."
+      },
+      {
+       "cyr": "Не дојде Милице",
+       "lat": "Ne dojde Milice",
+       "en": "She did not come, Milica,"
+      },
+      {
+       "cyr": "на зајдисонце.",
+       "lat": "na zajdisonce.",
+       "en": "at sunset."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милице, моја Милице,",
+       "lat": "Milice, moja Milice,",
+       "en": "Milica, my Milica,"
+      },
+      {
+       "cyr": "не рони солзи по лице.",
+       "lat": "ne roni solzi po lice.",
+       "en": "do not shed tears down your face."
+      },
+      {
+       "cyr": "Езерска ти убавице,",
+       "lat": "Ezerska ti ubavice,",
+       "en": "Beauty of the lake,"
+      },
+      {
+       "cyr": "врати се на зајдисонце.",
+       "lat": "vrati se na zajdisonce.",
+       "en": "come back at sunset."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

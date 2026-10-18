@@ -1,0 +1,704 @@
+{
+ "id": 1111,
+ "slug": "neshto-kje-te-pitam-babo",
+ "title_cyr": "Нешто ќе те питам, бабо",
+ "title_latin": "Nešto ḱe te pitam, babo",
+ "title_en": "I will ask you something, granny",
+ "pesna_url": "https://pesna.org/song/1111",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Академци",
+  "Ансамбл Радио Благоевград",
+  "Антонио Трајковски",
+  "Миле Кузмановски",
+  "Непознат изведувач",
+  "Сирма",
+  "Next Time"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2661"
+  },
+  {
+   "who": "Академци",
+   "url": "https://pesna.org/audio-download/2662"
+  },
+  {
+   "who": "Миле Кузмановски",
+   "url": "https://pesna.org/audio-download/3128"
+  },
+  {
+   "who": "Next Time",
+   "url": "https://pesna.org/audio-download/3129"
+  },
+  {
+   "who": "Сирма",
+   "url": "https://pesna.org/audio-download/3597"
+  },
+  {
+   "who": "Ансамбл Радио Благоевград",
+   "url": "https://pesna.org/audio-download/4026"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4293"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Нешто ќе те питам, бабо,",
+       "lat": "- Nešto ḱe te pitam, babo,",
+       "en": "- I will ask you something, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "право да ми кажеш,",
+       "lat": "pravo da mi kažeš,",
+       "en": "tell me the truth,",
+       "en_mt": false
+      },
+      {
+       "cyr": "право да ми кажеш, бабо,",
+       "lat": "pravo da mi kažeš, babo,",
+       "en": "tell me the truth, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "без да ме излажеш.",
+       "lat": "bez da me izlažeš.",
+       "en": "without lying to me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кои војводи беа, бабо,",
+       "lat": "Koi vojvodi bea, babo,",
+       "en": "Which vojvodi were here, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "у вас на вечера?",
+       "lat": "u vas na večera?",
+       "en": "by you, last night?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дали Гоце Делчев, бабо,",
+       "lat": "Dali Goce Delčev, babo,",
+       "en": "Was it Goce Delchev, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "или Даме Груев?",
+       "lat": "ili Dame Gruev?",
+       "en": "or Dame Gruev?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ка ме питаш, а бре аго,",
+       "lat": "- Ka me pitaš, a bre ago,",
+       "en": "- When you ask me, oh aga,",
+       "en_mt": false
+      },
+      {
+       "cyr": "право ќе ти кажам,",
+       "lat": "pravo ḱe ti kažam,",
+       "en": "I will tell you the truth.",
+       "en_mt": false
+      },
+      {
+       "cyr": "право ќе ти кажам, аго,",
+       "lat": "pravo ḱe ti kažam, ago,",
+       "en": "I will tell you the truth, aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "без да те излажам.",
+       "lat": "bez da te izlažam.",
+       "en": "without lying to you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ниту Гоце Делчев, аго,",
+       "lat": "Nitu Goce Delčev, ago,",
+       "en": "It was neither Goce Delcev, aga,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ниту Даме Груев,",
+       "lat": "nitu Dame Gruev,",
+       "en": "neither Dame Gruev.",
+       "en_mt": false
+      },
+      {
+       "cyr": "тук' ми беше, а бре аго,",
+       "lat": "tuk' mi beše, a bre ago,",
+       "en": "It was instead, oh aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тодор Александров,",
+       "lat": "Todor Aleksandrov,",
+       "en": "Todor Aleksandrov.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Тодор Александров, аго,",
+       "lat": "Todor Aleksandrov, ago,",
+       "en": "Todor Aleksandrov, aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "с' неговата чета.",
+       "lat": "s' negovata četa.",
+       "en": "with his unit.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тука вечераа, аго,",
+       "lat": "Tuka večeraa, ago,",
+       "en": "Here they ate dinner, aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "и си заминаа,",
+       "lat": "i si zaminaa,",
+       "en": "and they left.",
+       "en_mt": false
+      },
+      {
+       "cyr": "и си заминаа, аго,",
+       "lat": "i si zaminaa, ago,",
+       "en": "And they left, aga,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за Пирин планина.",
+       "lat": "za Pirin planina.",
+       "en": "for the Pirin Mountain.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Знамето им беше, аго,",
+       "lat": "Znameto im beše, ago,",
+       "en": "Their flag, aga,",
+       "en_mt": false
+      },
+      {
+       "cyr": "црно и црвено,",
+       "lat": "crno i crveno,",
+       "en": "was black and red",
+       "en_mt": false
+      },
+      {
+       "cyr": "и на знаме пише, аго,",
+       "lat": "i na zname piše, ago,",
+       "en": "and on the flag it was written, aga:",
+       "en_mt": false
+      },
+      {
+       "cyr": "„Смрт или слобода“,",
+       "lat": "„Smrt ili sloboda“,",
+       "en": "\"Death or liberty\",",
+       "en_mt": false
+      },
+      {
+       "cyr": "смрт или слобода, аго,",
+       "lat": "smrt ili sloboda, ago,",
+       "en": "death or liberty, aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Црни затвореници од Мариово",
+       "lat": "Crni zatvorenici od Mariovo",
+       "en": "Black prisoners from Mariovo",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нешто ќе те питам, бабо,",
+       "lat": "- Nešto ḱe te pitam, babo,",
+       "en": "- I will ask you something, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нешто ќе те питам,",
+       "lat": "nešto ḱe te pitam,",
+       "en": "I will ask you something,",
+       "en_mt": true
+      },
+      {
+       "cyr": "право да ми кажеш, бабо,",
+       "lat": "pravo da mi kažeš, babo,",
+       "en": "tell me the truth, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "немој да ме лажеш!",
+       "lat": "nemoj da me lažeš!",
+       "en": "don't lie to me!",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кои војводи беа, бабо,",
+       "lat": "Koi vojvodi bea, babo,",
+       "en": "Which vojvodi were here, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "у вас на вечера?",
+       "lat": "u vas na večera?",
+       "en": "by you, last night?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Да ли дедо Кољо, бабо,",
+       "lat": "Da li dedo Koljo, babo,",
+       "en": "Was it old man Koljo, granny,",
+       "en_mt": true
+      },
+      {
+       "cyr": "да ли Толе паша?",
+       "lat": "da li Tole paša?",
+       "en": "or Tole Pasha?",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако ли ме питаш, аго,",
+       "lat": "- Ako li me pitaš, ago,",
+       "en": "- If you ask me, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ако ли ме питаш,",
+       "lat": "ako li me pitaš,",
+       "en": "if you ask me,",
+       "en_mt": true
+      },
+      {
+       "cyr": "право ќе ти кажам, аго,",
+       "lat": "pravo ḱe ti kažam, ago,",
+       "en": "I will tell you the truth, aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "нема да те лажам.",
+       "lat": "nema da te lažam.",
+       "en": "I will not lie to you.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни војводи беа, аго,",
+       "lat": "Ni vojvodi bea, ago,",
+       "en": "They were not vojvodi, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ни комити беа.",
+       "lat": "ni komiti bea.",
+       "en": "they were not komiti.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Тија ми ти беа, аго,",
+       "lat": "Tija mi ti bea, ago,",
+       "en": "Those were, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "црни затворници.",
+       "lat": "crni zatvornici.",
+       "en": "black prisoners.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црни затворници, аго,",
+       "lat": "Crni zatvornici, ago,",
+       "en": "Black prisoners, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "црни затворници,",
+       "lat": "crni zatvornici,",
+       "en": "black prisoners,",
+       "en_mt": true
+      },
+      {
+       "cyr": "триес' и два мина, аго,",
+       "lat": "tries' i dva mina, ago,",
+       "en": "thirty-two passed by, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "црни затворници.",
+       "lat": "crni zatvornici.",
+       "en": "black prisoners.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Војвода му беа, аго,",
+       "lat": "Vojvoda mu bea, ago,",
+       "en": "Their vojvoda was, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Коло Каранцула.",
+       "lat": "Kolo Karancula.",
+       "en": "Kolo Karancula.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Напред му тргаше, аго,",
+       "lat": "Napred mu trgaše, ago,",
+       "en": "At the front went, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Петко од Маково.",
+       "lat": "Petko od Makovo.",
+       "en": "Petko from Makovo.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ручек нарачаме, аго,",
+       "lat": "Ruček naračame, ago,",
+       "en": "We order lunch, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ајде, нарачаме,",
+       "lat": "ajde, naračame,",
+       "en": "come on, we order,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ручек нарачаме, аго,",
+       "lat": "ruček naračame, ago,",
+       "en": "we order lunch, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "село Градешница.",
+       "lat": "selo Gradešnica.",
+       "en": "the village of Gradeshnica.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, потегнаме, аго,",
+       "lat": "Ajde, potegname, ago,",
+       "en": "Come on, we set off, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ајде, потегнаме,",
+       "lat": "ajde, potegname,",
+       "en": "come on, we set off,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ајде, затегнаме, аго,",
+       "lat": "ajde, zategname, ago,",
+       "en": "come on, we press on, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "право за Прибилци.",
+       "lat": "pravo za Pribilci.",
+       "en": "straight to Pribilci.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 3",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе те прашам, бабо мори",
+       "lat": "- Ḱe te prašam, babo mori",
+       "en": "- I will ask you, granny, hey,",
+       "en_mt": true
+      },
+      {
+       "cyr": "право да ми кажеш,",
+       "lat": "pravo da mi kažeš,",
+       "en": "tell me the truth,",
+       "en_mt": false
+      },
+      {
+       "cyr": "право да ми кажеш, бабо,",
+       "lat": "pravo da mi kažeš, babo,",
+       "en": "tell me the truth, granny,",
+       "en_mt": false
+      },
+      {
+       "cyr": "немој да ме лажеш:",
+       "lat": "nemoj da me lažeš:",
+       "en": "don't lie to me:",
+       "en_mt": true
+      },
+      {
+       "cyr": "кој војводи беа, бабо,",
+       "lat": "koj vojvodi bea, babo,",
+       "en": "which vojvodi were there, granny,",
+       "en_mt": true
+      },
+      {
+       "cyr": "кој комити беа?",
+       "lat": "koj komiti bea?",
+       "en": "which komiti were there?",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дал ме питаш, аго море,",
+       "lat": "- Dal me pitaš, ago more,",
+       "en": "- If you ask me, aga, hey,",
+       "en_mt": true
+      },
+      {
+       "cyr": "право ќе ти кажам",
+       "lat": "pravo ḱe ti kažam",
+       "en": "I will tell you the truth",
+       "en_mt": true
+      },
+      {
+       "cyr": "право ќе ти кажам, аго,",
+       "lat": "pravo ḱe ti kažam, ago,",
+       "en": "I will tell you the truth, aga",
+       "en_mt": false
+      },
+      {
+       "cyr": "нема да те лажам.",
+       "lat": "nema da te lažam.",
+       "en": "I will not lie to you.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ни војводи беа, аго",
+       "lat": "Ni vojvodi bea, ago",
+       "en": "They were not vojvodi, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ни комити беа,",
+       "lat": "ni komiti bea,",
+       "en": "they were not komiti,",
+       "en_mt": true
+      },
+      {
+       "cyr": "туку ми се, аго море",
+       "lat": "tuku mi se, ago more",
+       "en": "but they are, aga, hey,",
+       "en_mt": true
+      },
+      {
+       "cyr": "пусти апсанџии аго,",
+       "lat": "pusti apsandžii ago,",
+       "en": "wretched prisoners, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "од пуста Битола.",
+       "lat": "od pusta Bitola.",
+       "en": "from wretched Bitola.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој напреде што беше, аго",
+       "lat": "Toj naprede što beše, ago",
+       "en": "The one who was at the front, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ничо Каранџулов,",
+       "lat": "Ničo Karandžulov,",
+       "en": "Nicho Karandzulov,",
+       "en_mt": true
+      },
+      {
+       "cyr": "и по него аго, море",
+       "lat": "i po nego ago, more",
+       "en": "and after him, aga, hey,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Димко Миновото,",
+       "lat": "Dimko Minovoto,",
+       "en": "Dimko, Mino's son,",
+       "en_mt": true
+      },
+      {
+       "cyr": "и по него беше, аго,",
+       "lat": "i po nego beše, ago,",
+       "en": "and after him was, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Даме Аџикочо,",
+       "lat": "Dame Adžikočo,",
+       "en": "Dame Adzikocho,",
+       "en_mt": true
+      },
+      {
+       "cyr": "и по него беше, аго,",
+       "lat": "i po nego beše, ago,",
+       "en": "and after him was, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Петре Маковчето.",
+       "lat": "Petre Makovčeto.",
+       "en": "Petre the Makovo lad.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леб јадеа, аго море,",
+       "lat": "Leb jadea, ago more,",
+       "en": "They were eating bread, aga, hey,",
+       "en_mt": true
+      },
+      {
+       "cyr": "писмо му пристигна",
+       "lat": "pismo mu pristigna",
+       "en": "a letter reached him",
+       "en_mt": true
+      },
+      {
+       "cyr": "од нивен началник.",
+       "lat": "od niven načalnik.",
+       "en": "from their chief.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму да одаја аго,",
+       "lat": "Tamu da odaja ago,",
+       "en": "To go there, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "пушки да земаја, аго,",
+       "lat": "puški da zemaja, ago,",
+       "en": "to take rifles, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "пушки да земаја, аго,",
+       "lat": "puški da zemaja, ago,",
+       "en": "to take rifles, aga,",
+       "en_mt": true
+      },
+      {
+       "cyr": "пушки манлихерки.",
+       "lat": "puški manliherki.",
+       "en": "Mannlicher rifles.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

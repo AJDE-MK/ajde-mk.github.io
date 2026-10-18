@@ -1,0 +1,236 @@
+{
+ "id": 583,
+ "slug": "edna-moma-s-majka-e",
+ "title_cyr": "Една мома с' мајка е",
+ "title_latin": "Edna moma s' majka e",
+ "title_en": "A Girl With Her Mother",
+ "pesna_url": "https://pesna.org/song/583",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Капела' is rendered 'hats' (my reading, plural/collective). 'Грабнала' could also mean 'taken'; the sense of getting goods free is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, young unmarried woman"
+  },
+  {
+   "mk": "грабнала",
+   "en": "grabbed, snatched up"
+  },
+  {
+   "mk": "чорапи",
+   "en": "stockings, socks"
+  },
+  {
+   "mk": "без пари",
+   "en": "without money, for free"
+  },
+  {
+   "mk": "блазе",
+   "en": "blessed, lucky"
+  },
+  {
+   "mk": "ашколсун",
+   "en": "well done, bravo (Turkish loan)"
+  },
+  {
+   "mk": "капела",
+   "en": "hat"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Елена Велевска",
+  "Иво Барбутски",
+  "Јана Добрева",
+  "Мирко Митревски",
+  "Рајко Кирилов",
+  "Цветанка Ласкова",
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/1389"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/1390"
+  },
+  {
+   "who": "Јана Добрева",
+   "url": "https://pesna.org/audio-download/1391"
+  },
+  {
+   "who": "Иво Барбутски",
+   "url": "https://pesna.org/audio-download/1392"
+  },
+  {
+   "who": "Рајко Кирилов",
+   "url": "https://pesna.org/audio-download/1393"
+  },
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/3893"
+  },
+  {
+   "who": "Елена Велевска, Чардак",
+   "url": "https://pesna.org/audio-download/3894"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една мома с' мајка е,",
+       "lat": "Edna moma s' majka e,",
+       "en": "A girl is with her mother,"
+      },
+      {
+       "cyr": "грабнала е чорапи, чорапи без пари.",
+       "lat": "grabnala e čorapi, čorapi bez pari.",
+       "en": "she has snatched up stockings, stockings without money."
+      },
+      {
+       "cyr": "Една мома с' мајка е",
+       "lat": "Edna moma s' majka e",
+       "en": "A girl is with her mother,"
+      },
+      {
+       "cyr": "грабнала је чорапи, чорапи без пари.",
+       "lat": "grabnala je čorapi, čorapi bez pari.",
+       "en": "she has snatched up stockings, stockings without money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Блазе си на таа мома,",
+       "lat": "Blaze si na taa moma,",
+       "en": "Blessed is that girl"
+      },
+      {
+       "cyr": "што ми носи чорапи, чорапи без пари.",
+       "lat": "što mi nosi čorapi, čorapi bez pari.",
+       "en": "who brings me stockings, stockings without money."
+      },
+      {
+       "cyr": "Ашколсун на таа мома",
+       "lat": "Aškolsun na taa moma",
+       "en": "Well done to that girl"
+      },
+      {
+       "cyr": "што ми носи чорапи, чорапи без пари.",
+       "lat": "što mi nosi čorapi, čorapi bez pari.",
+       "en": "who brings me stockings, stockings without money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една мома с' мајка е,",
+       "lat": "Edna moma s' majka e,",
+       "en": "A girl is with her mother,"
+      },
+      {
+       "cyr": "грабнала е сандали, сандали без пари.",
+       "lat": "grabnala e sandali, sandali bez pari.",
+       "en": "she has snatched up sandals, sandals without money."
+      },
+      {
+       "cyr": "Една мома с' мајка е",
+       "lat": "Edna moma s' majka e",
+       "en": "A girl is with her mother,"
+      },
+      {
+       "cyr": "грабнала је сандали, сандали без пари.",
+       "lat": "grabnala je sandali, sandali bez pari.",
+       "en": "she has snatched up sandals, sandals without money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Блазе си на таа мома,",
+       "lat": "Blaze si na taa moma,",
+       "en": "Blessed is that girl"
+      },
+      {
+       "cyr": "што ми носи сандали, сандали без пари.",
+       "lat": "što mi nosi sandali, sandali bez pari.",
+       "en": "who brings me sandals, sandals without money."
+      },
+      {
+       "cyr": "Ашколсун на таа мома",
+       "lat": "Aškolsun na taa moma",
+       "en": "Well done to that girl"
+      },
+      {
+       "cyr": "што ми носи сандали, сандали без пари.",
+       "lat": "što mi nosi sandali, sandali bez pari.",
+       "en": "who brings me sandals, sandals without money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една мома с' мајка е,",
+       "lat": "Edna moma s' majka e,",
+       "en": "A girl is with her mother,"
+      },
+      {
+       "cyr": "грабнала је капела, капела без пари.",
+       "lat": "grabnala je kapela, kapela bez pari.",
+       "en": "she has snatched up hats, hats without money."
+      },
+      {
+       "cyr": "Една мома с' мајка е",
+       "lat": "Edna moma s' majka e",
+       "en": "A girl is with her mother,"
+      },
+      {
+       "cyr": "грабнала је капела, капела без пари.",
+       "lat": "grabnala je kapela, kapela bez pari.",
+       "en": "she has snatched up hats, hats without money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Блазе си на таа мома,",
+       "lat": "Blaze si na taa moma,",
+       "en": "Blessed is that girl"
+      },
+      {
+       "cyr": "што ми носи капела, капела без пари.",
+       "lat": "što mi nosi kapela, kapela bez pari.",
+       "en": "who brings me hats, hats without money."
+      },
+      {
+       "cyr": "Ашколсун на таа мома",
+       "lat": "Aškolsun na taa moma",
+       "en": "Well done to that girl"
+      },
+      {
+       "cyr": "што ми носи капела, капела без пари.",
+       "lat": "što mi nosi kapela, kapela bez pari.",
+       "en": "who brings me hats, hats without money."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

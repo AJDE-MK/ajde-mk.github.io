@@ -1,0 +1,139 @@
+{
+ "id": 1612,
+ "slug": "prashaj-gi-svirachite",
+ "title_cyr": "Прашај ги свирачите",
+ "title_latin": "Prašaj gi sviračite",
+ "title_en": "Ask the musicians",
+ "pesna_url": "https://pesna.org/song/1612",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: sounds like a modern humorous kafana song, no author named.",
+ "words_to_learn": [
+  {
+   "mk": "парите",
+   "en": "the money"
+  },
+  {
+   "mk": "свирачите",
+   "en": "the musicians"
+  },
+  {
+   "mk": "мана",
+   "en": "flaw, weakness"
+  },
+  {
+   "mk": "лумпувам",
+   "en": "carouse, live it up"
+  },
+  {
+   "mk": "трошам",
+   "en": "spend"
+  },
+  {
+   "mk": "сабајле",
+   "en": "in the morning (dialect)"
+  },
+  {
+   "mk": "гајле",
+   "en": "worry, trouble (from Turkish)"
+  },
+  {
+   "mk": "чепка",
+   "en": "pokes, rummages"
+  },
+  {
+   "mk": "џепови",
+   "en": "pockets"
+  }
+ ],
+ "performers": [
+  "Туше"
+ ],
+ "audio": [
+  {
+   "who": "Туше",
+   "url": "https://pesna.org/audio-download/4269"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Немој да ме прашуваш каде ми се парите,",
+       "lat": "Nemoj da me prašuvaš kade mi se parite,",
+       "en": "Don't ask me where my money is,"
+      },
+      {
+       "cyr": "ако и ти не знаеш, прашај ги свирачите.",
+       "lat": "ako i ti ne znaeš, prašaj gi sviračite.",
+       "en": "if you don't know either, ask the musicians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом ќе слушнам музика, мана имам голема,",
+       "lat": "Štom ḱe slušnam muzika, mana imam golema,",
+       "en": "As soon as I hear music, I have a great weakness,"
+      },
+      {
+       "cyr": "пеам, пијам, лумпувам, трошам пара последна.",
+       "lat": "peam, pijam, lumpuvam, trošam para posledna.",
+       "en": "I sing, drink, carouse, spend my last coin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој да ме прашуваш каде ми се парите,",
+       "lat": "Nemoj da me prašuvaš kade mi se parite,",
+       "en": "Don't ask me where my money is,"
+      },
+      {
+       "cyr": "ако и ти не знаеш, прашај ги свирачите.",
+       "lat": "ako i ti ne znaeš, prašaj gi sviračite.",
+       "en": "if you don't know either, ask the musicians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште пијан од сабајле, жена ми си има гајле,",
+       "lat": "Ušte pijan od sabajle, žena mi si ima gajle,",
+       "en": "Still drunk since morning, my wife has her worries,"
+      },
+      {
+       "cyr": "по џепови чепка, бара, да си најде нешто пара.",
+       "lat": "po džepovi čepka, bara, da si najde nešto para.",
+       "en": "she pokes through pockets, searches, to find some money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој да ме прашуваш каде ми се парите,",
+       "lat": "Nemoj da me prašuvaš kade mi se parite,",
+       "en": "Don't ask me where my money is,"
+      },
+      {
+       "cyr": "ако и ти не знаеш, прашај ги свирачите.",
+       "lat": "ako i ti ne znaeš, prašaj gi sviračite.",
+       "en": "if you don't know either, ask the musicians."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

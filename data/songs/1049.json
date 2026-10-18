@@ -1,0 +1,162 @@
+{
+ "id": 1049,
+ "slug": "koj-ti-go-turi-zheno",
+ "title_cyr": "Кој ти го тури, жено",
+ "title_latin": "Koj ti go turi, ženo",
+ "title_en": "Who Gave It to You, Wife",
+ "pesna_url": "https://pesna.org/song/1049",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (humorous husband and wife dialogue, no author I can name). 'го тури името' I read as 'gave the name'.",
+ "words_to_learn": [
+  {
+   "mk": "тури",
+   "en": "puts, gives (here: gave a name)"
+  },
+  {
+   "mk": "кум",
+   "en": "godfather, best man"
+  },
+  {
+   "mk": "мерак",
+   "en": "passion, desire, longing"
+  },
+  {
+   "mk": "тесна",
+   "en": "tight, narrow"
+  },
+  {
+   "mk": "чевла",
+   "en": "shoe"
+  },
+  {
+   "mk": "капче",
+   "en": "little hat, cap"
+  },
+  {
+   "mk": "фризура",
+   "en": "hairdo"
+  },
+  {
+   "mk": "дебел",
+   "en": "thick, fat"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2395"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кој ти го тури, жено, кој ти го тури,",
+       "lat": "Koj ti go turi, ženo, koj ti go turi,",
+       "en": "Who gave you, wife, who gave you,"
+      },
+      {
+       "cyr": "кој ти го тури жено, името твое?",
+       "lat": "koj ti go turi ženo, imeto tvoe?",
+       "en": "who gave you, wife, your name?"
+      },
+      {
+       "cyr": "- Кумот ми го тури, мажу, кумот ми го тури,",
+       "lat": "- Kumot mi go turi, mažu, kumot mi go turi,",
+       "en": "- My godfather gave it to me, husband, my godfather gave it to me,"
+      },
+      {
+       "cyr": "кумот ми го тури мажу, името мое.",
+       "lat": "kumot mi go turi mažu, imeto moe.",
+       "en": "my godfather gave it to me, husband, my name."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем ти беше, мажу, голем ти беше,",
+       "lat": "Golem ti beše, mažu, golem ti beše,",
+       "en": "Great it was, husband, great it was,"
+      },
+      {
+       "cyr": "голем ти беше мажу, меракот по мене.",
+       "lat": "golem ti beše mažu, merakot po mene.",
+       "en": "great it was, husband, the passion for me."
+      },
+      {
+       "cyr": "- Мала ти беше, жено, мала ти беше,",
+       "lat": "- Mala ti beše, ženo, mala ti beše,",
+       "en": "- Small it was, wife, small it was,"
+      },
+      {
+       "cyr": "мала ти беше жено, љубовта твоја.",
+       "lat": "mala ti beše ženo, ljubovta tvoja.",
+       "en": "small it was, wife, your love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дебел ти беше, мажу, дебел ти беше,",
+       "lat": "Debel ti beše, mažu, debel ti beše,",
+       "en": "Thick it was, husband, thick it was,"
+      },
+      {
+       "cyr": "дебел ти беше мажу, зимскиот капут.",
+       "lat": "debel ti beše mažu, zimskiot kaput.",
+       "en": "thick it was, husband, the winter coat."
+      },
+      {
+       "cyr": "- Тесна ти беше, жено, тесна ти беше,",
+       "lat": "- Tesna ti beše, ženo, tesna ti beše,",
+       "en": "- Tight it was, wife, tight it was,"
+      },
+      {
+       "cyr": "тесна ти беше жено, десната чевла.",
+       "lat": "tesna ti beše ženo, desnata čevla.",
+       "en": "tight it was, wife, the right shoe."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не си го ставај, жено, не си го ставај,",
+       "lat": "Ne si go stavaj, ženo, ne si go stavaj,",
+       "en": "Don't put it on, wife, don't put it on,"
+      },
+      {
+       "cyr": "не си го ставај жено, капчето на глава!",
+       "lat": "ne si go stavaj ženo, kapčeto na glava!",
+       "en": "don't put it on, wife, the little hat on your head!"
+      },
+      {
+       "cyr": "- Не ми ја фаќај, мажу, не ми ја фаќај,",
+       "lat": "- Ne mi ja faḱaj, mažu, ne mi ja faḱaj,",
+       "en": "- Don't touch it, husband, don't touch it,"
+      },
+      {
+       "cyr": "не ми ја фаќај мажу, новата фризура.",
+       "lat": "ne mi ja faḱaj mažu, novata frizura.",
+       "en": "don't touch it, husband, my new hairdo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

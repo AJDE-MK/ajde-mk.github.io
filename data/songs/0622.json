@@ -1,0 +1,127 @@
+{
+ "id": 622,
+ "slug": "ajde-bostan-sadat-mamo",
+ "title_cyr": "Ајде бостан садат мамо",
+ "title_latin": "Ajde bostan sadat mamo",
+ "title_en": "Come On, Three Girls Plant a Melon Field",
+ "pesna_url": "https://pesna.org/song/622",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ајде' is rendered as 'come on' as an opening filler; 'ноќе им го крадат' is read as 'by night it is stolen from them' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on"
+  },
+  {
+   "mk": "бостан",
+   "en": "melon/watermelon field"
+  },
+  {
+   "mk": "садат",
+   "en": "they plant (dialect)"
+  },
+  {
+   "mk": "крадат",
+   "en": "they steal"
+  },
+  {
+   "mk": "фатија",
+   "en": "they caught (dialect)"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young lad"
+  },
+  {
+   "mk": "да го заколиме",
+   "en": "let us slaughter him"
+  },
+  {
+   "mk": "да го обесиме",
+   "en": "let us hang him"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3063"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде бостан садат мамо",
+       "lat": "Ajde bostan sadat mamo",
+       "en": "Come on, mother, three beautiful girls"
+      },
+      {
+       "cyr": "три девојки убави,",
+       "lat": "tri devojki ubavi,",
+       "en": "plant a melon field,"
+      },
+      {
+       "cyr": "дење садат, ноќе им го крадат.",
+       "lat": "denje sadat, noḱe im go kradat.",
+       "en": "by day they plant, by night it is stolen from them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ми фатија мамо",
+       "lat": "Ajde mi fatija mamo",
+       "en": "Come on, mother, they caught"
+      },
+      {
+       "cyr": "едно лудо младо.",
+       "lat": "edno ludo mlado.",
+       "en": "a young lad."
+      },
+      {
+       "cyr": "Прва вели: - „да го заколиме“,",
+       "lat": "Prva veli: - „da go zakolime“,",
+       "en": "The first says: - \"let us slaughter him\","
+      },
+      {
+       "cyr": "втора вели: - „да го обесиме“.",
+       "lat": "vtora veli: - „da go obesime“.",
+       "en": "the second says: - \"let us hang him\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде втора вели мамо:",
+       "lat": "Ajde vtora veli mamo:",
+       "en": "Come on, the second says, mother:"
+      },
+      {
+       "cyr": "- „да го обесиме“,",
+       "lat": "- „da go obesime“,",
+       "en": "- \"let us hang him\","
+      },
+      {
+       "cyr": "трета вели: - „дајте ми го мене“.",
+       "lat": "treta veli: - „dajte mi go mene“.",
+       "en": "the third says: - \"give him to me\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

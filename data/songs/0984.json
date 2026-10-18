@@ -1,0 +1,141 @@
+{
+ "id": 984,
+ "slug": "stojane-luda-delijo",
+ "title_cyr": "Стојане, луда делијо",
+ "title_latin": "Stojane, luda delijo",
+ "title_en": "Stojan, Mad Hero",
+ "pesna_url": "https://pesna.org/song/984",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Накачи гора зелена' and the last two lines (who throws, who takes) are my reading, the subjects are ambiguous. Traditional, origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "делија",
+   "en": "hero, dashing young man"
+  },
+  {
+   "mk": "луда",
+   "en": "mad, wild (vocative, affectionate)"
+  },
+  {
+   "mk": "накачи",
+   "en": "climb up"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "танец",
+   "en": "dance"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned (me up)"
+  },
+  {
+   "mk": "разболе",
+   "en": "made ill"
+  },
+  {
+   "mk": "китки",
+   "en": "bouquets, flowers"
+  },
+  {
+   "mk": "прстен",
+   "en": "ring"
+  }
+ ],
+ "performers": [
+  "Пеце Атанасовски"
+ ],
+ "audio": [
+  {
+   "who": "Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/2296"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојане, луда делијо,",
+       "lat": "Stojane, luda delijo,",
+       "en": "Stojan, mad hero,"
+      },
+      {
+       "cyr": "накачи гора зелена,",
+       "lat": "nakači gora zelena,",
+       "en": "climb the green mountain,"
+      },
+      {
+       "cyr": "у гора село малечко,",
+       "lat": "u gora selo malečko,",
+       "en": "in the mountain there is a little village,"
+      },
+      {
+       "cyr": "у село оро големо.",
+       "lat": "u selo oro golemo.",
+       "en": "in the village a big dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таа што играше на танец",
+       "lat": "Taa što igraše na tanec",
+       "en": "The one who danced in the dance"
+      },
+      {
+       "cyr": "убава е, и не толку,",
+       "lat": "ubava e, i ne tolku,",
+       "en": "is beautiful, though not so very,"
+      },
+      {
+       "cyr": "таа што играше до неја,",
+       "lat": "taa što igraše do neja,",
+       "en": "the one who danced next to her,"
+      },
+      {
+       "cyr": "она ме мене изгоре.",
+       "lat": "ona me mene izgore.",
+       "en": "she is the one who burned me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Она ме мене разболе,",
+       "lat": "Ona me mene razbole,",
+       "en": "She made me ill,"
+      },
+      {
+       "cyr": "срцето ми го попари,",
+       "lat": "srceto mi go popari,",
+       "en": "she scalded my heart,"
+      },
+      {
+       "cyr": "фрли му китки прибере,",
+       "lat": "frli mu kitki pribere,",
+       "en": "she threw him a bouquet, he gathered it,"
+      },
+      {
+       "cyr": "фрли му прстен не зема.",
+       "lat": "frli mu prsten ne zema.",
+       "en": "she threw him a ring, he did not take it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

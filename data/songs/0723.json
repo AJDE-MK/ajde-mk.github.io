@@ -1,0 +1,180 @@
+{
+ "id": 723,
+ "slug": "kje-odam-stara-majko",
+ "title_cyr": "Ќе одам стара мајко",
+ "title_latin": "Ḱe odam stara majko",
+ "title_en": "I will go, old mother",
+ "pesna_url": "https://pesna.org/song/723",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Октет Македонија",
+  "Macedonian Women's Choir of Melbourne"
+ ],
+ "audio": [
+  {
+   "who": "Macedonian Women's Choir of Melbourne",
+   "url": "https://pesna.org/audio-download/747"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/3551"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/3988"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе одам, ќе одам, стара мајко, ќе одам,",
+       "lat": "- Ḱe odam, ḱe odam, stara majko, ḱe odam,",
+       "en": "- I will go, I will go, old mother, I will go,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во таја пуста мајко планина,",
+       "lat": "vo taja pusta majko planina,",
+       "en": "to that damned, mother, mountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во таја пуста мајко корија.",
+       "lat": "vo taja pusta majko korija.",
+       "en": "into that damned, mother, forest.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не оди, сине море, не оди,",
+       "lat": "- Ne odi, sine more, ne odi,",
+       "en": "- Do not go, my son, do not go,",
+       "en_mt": false
+      },
+      {
+       "cyr": "лошо те сине мајка сонила,",
+       "lat": "lošo te sine majka sonila,",
+       "en": "mother had a bad dream about you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "лошо те сине мајка сонила.",
+       "lat": "lošo te sine majka sonila.",
+       "en": "mother had a bad dream about you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кавалот шарен сине, свиреше,",
+       "lat": "Kavalot šaren sine, svireše,",
+       "en": "The colorful flute, my son, was playing,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и тебе матна вода носеше,",
+       "lat": "i tebe matna voda noseše,",
+       "en": "and muddy water was carrying you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка те жално сине плачеше.",
+       "lat": "majka te žalno sine plačeše.",
+       "en": "mother was crying, my son, in grief for you.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе одам, стара мајко, ќе одам,",
+       "lat": "- Ḱe odam, stara majko, ḱe odam,",
+       "en": "- I will go, old mother, I will go,",
+       "en_mt": true
+      },
+      {
+       "cyr": "во таа пуста, мајко, планина.",
+       "lat": "vo taa pusta, majko, planina.",
+       "en": "to that damned, mother, mountain.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе одам, стара мајко, партизан,",
+       "lat": "Ḱe odam, stara majko, partizan,",
+       "en": "I will go, old mother, as a partisan,",
+       "en_mt": true
+      },
+      {
+       "cyr": "во таа, стара мајко, планина.",
+       "lat": "vo taa, stara majko, planina.",
+       "en": "to that, old mother, mountain.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе одам, стара мајко, партизан,",
+       "lat": "Ḱe odam, stara majko, partizan,",
+       "en": "I will go, old mother, as a partisan,",
+       "en_mt": true
+      },
+      {
+       "cyr": "там' ми се, стара мајко, другарите.",
+       "lat": "tam' mi se, stara majko, drugarite.",
+       "en": "there are my comrades, old mother.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Другарите, стара мајко, партизаните,",
+       "lat": "Drugarite, stara majko, partizanite,",
+       "en": "The comrades, old mother, the partisans,",
+       "en_mt": true
+      },
+      {
+       "cyr": "другарките, стара мајко, партизанките.",
+       "lat": "drugarkite, stara majko, partizankite.",
+       "en": "the female comrades, old mother, the female partisans.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

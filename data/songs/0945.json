@@ -1,0 +1,233 @@
+{
+ "id": 945,
+ "slug": "kade-se-chulo-videlo",
+ "title_cyr": "Каде се чуло, видело",
+ "title_latin": "Kade se čulo, videlo",
+ "title_en": "Where Was It Ever Heard or Seen",
+ "pesna_url": "https://pesna.org/song/945",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'к'носани' is my reading of 'кина-носани' (hennaed nails), and 'набелено' as whitened/made up with cosmetics; both are guesses. 'јамди аман' is a refrain exclamation, rendered as left-in-transliteration.",
+ "words_to_learn": [
+  {
+   "mk": "владика",
+   "en": "bishop"
+  },
+  {
+   "mk": "потурчен",
+   "en": "converted to Islam, 'turned Turk'"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar district"
+  },
+  {
+   "mk": "бербер",
+   "en": "barber"
+  },
+  {
+   "mk": "оџа",
+   "en": "hodja, Muslim cleric"
+  },
+  {
+   "mk": "џамија",
+   "en": "mosque"
+  },
+  {
+   "mk": "делија",
+   "en": "brave fellow, hero"
+  },
+  {
+   "mk": "јамди аман",
+   "en": "refrain exclamation of distress (Turkish-origin, 'oh mercy')"
+  }
+ ],
+ "performers": [
+  "Прилепски еснафи"
+ ],
+ "audio": [
+  {
+   "who": "Прилепски еснафи",
+   "url": "https://pesna.org/audio-download/2180"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде се чуло видело,",
+       "lat": "Kade se čulo videlo,",
+       "en": "Where was it ever heard or seen,"
+      },
+      {
+       "cyr": "владика турчин да стани,",
+       "lat": "vladika turčin da stani,",
+       "en": "that a bishop should turn Turk,"
+      },
+      {
+       "cyr": "владика турчин да стани, јамди аман,",
+       "lat": "vladika turčin da stani, jamdi aman,",
+       "en": "that a bishop should turn Turk, yamdi aman,"
+      },
+      {
+       "cyr": "за едно лице набелено.",
+       "lat": "za edno lice nabeleno.",
+       "en": "for one whitened (painted) face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За едно лице набелено",
+       "lat": "Za edno lice nabeleno",
+       "en": "For one whitened face"
+      },
+      {
+       "cyr": "и едни нокти к'носани,",
+       "lat": "i edni nokti k'nosani,",
+       "en": "and for a set of hennaed nails,"
+      },
+      {
+       "cyr": "за едно лице набелено, јамди аман,",
+       "lat": "za edno lice nabeleno, jamdi aman,",
+       "en": "for one whitened face, yamdi aman,"
+      },
+      {
+       "cyr": "и едни нокти к'носани.",
+       "lat": "i edni nokti k'nosani.",
+       "en": "and for a set of hennaed nails."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите ми одат чаршија,",
+       "lat": "Site mi odat čaršija,",
+       "en": "Everyone goes to the market,"
+      },
+      {
+       "cyr": "владика оди на бербер,",
+       "lat": "vladika odi na berber,",
+       "en": "the bishop goes to the barber,"
+      },
+      {
+       "cyr": "владика оди на бербер, јамди аман,",
+       "lat": "vladika odi na berber, jamdi aman,",
+       "en": "the bishop goes to the barber, yamdi aman,"
+      },
+      {
+       "cyr": "брадата да му избричат.",
+       "lat": "bradata da mu izbričat.",
+       "en": "to have his beard shaved off."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога му брада бричеа,",
+       "lat": "Koga mu brada bričea,",
+       "en": "When they were shaving his beard,"
+      },
+      {
+       "cyr": "деведесет очи гледаа,",
+       "lat": "devedeset oči gledaa,",
+       "en": "ninety eyes were watching,"
+      },
+      {
+       "cyr": "деведесет очи гледаа, јамди аман,",
+       "lat": "devedeset oči gledaa, jamdi aman,",
+       "en": "ninety eyes were watching, yamdi aman,"
+      },
+      {
+       "cyr": "сто и педесет кандила светеа.",
+       "lat": "sto i pedeset kandila svetea.",
+       "en": "a hundred and fifty candles were shining."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите ми одат на црква,",
+       "lat": "Site mi odat na crkva,",
+       "en": "Everyone goes to church,"
+      },
+      {
+       "cyr": "владика оди в џамија,",
+       "lat": "vladika odi v džamija,",
+       "en": "the bishop goes to the mosque,"
+      },
+      {
+       "cyr": "владика оди в џамија, јамди аман,",
+       "lat": "vladika odi v džamija, jamdi aman,",
+       "en": "the bishop goes to the mosque, yamdi aman,"
+      },
+      {
+       "cyr": "да си ја мени верата.",
+       "lat": "da si ja meni verata.",
+       "en": "to change his faith."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога му вера менуваа,",
+       "lat": "Koga mu vera menuvaa,",
+       "en": "When they were changing his faith,"
+      },
+      {
+       "cyr": "сто и педесет оџи пееа,",
+       "lat": "sto i pedeset odži peea,",
+       "en": "a hundred and fifty hodjas were singing,"
+      },
+      {
+       "cyr": "сто и педесет оџи пееа, јамди аман,",
+       "lat": "sto i pedeset odži peea, jamdi aman,",
+       "en": "a hundred and fifty hodjas were singing, yamdi aman,"
+      },
+      {
+       "cyr": "деведесет кандила гореа.",
+       "lat": "devedeset kandila gorea.",
+       "en": "ninety candles were burning."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убаво име му дадоа,",
+       "lat": "Ubavo ime mu dadoa,",
+       "en": "They gave him a fine name,"
+      },
+      {
+       "cyr": "Асан делија потурчен,",
+       "lat": "Asan delija poturčen,",
+       "en": "Asan the brave, turned Turk,"
+      },
+      {
+       "cyr": "Асан делија потурчен, јамди аман,",
+       "lat": "Asan delija poturčen, jamdi aman,",
+       "en": "Asan the brave, turned Turk, yamdi aman,"
+      },
+      {
+       "cyr": "што си ја мени верата.",
+       "lat": "što si ja meni verata.",
+       "en": "who is changing his faith."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

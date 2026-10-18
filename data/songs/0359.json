@@ -1,0 +1,224 @@
+{
+ "id": 359,
+ "slug": "mome-sedi-na-pendzhere",
+ "title_cyr": "Моме седи на пенџере",
+ "title_latin": "Mome sedi na pendžere",
+ "title_en": "A Girl Sits at the Window",
+ "pesna_url": "https://pesna.org/song/359",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The first line in parentheses is an alternate opening line, translated as given. 'Сараф' means banker/money-changer per the source note; the lad's reply plays on it ('a banker of girls'), which is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "момче",
+   "en": "lad, young man"
+  },
+  {
+   "mk": "подранило",
+   "en": "(have) come early"
+  },
+  {
+   "mk": "сараф",
+   "en": "money-changer, banker"
+  },
+  {
+   "mk": "парите",
+   "en": "the money"
+  },
+  {
+   "mk": "аман",
+   "en": "oh mercy (exclamation)"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "кратовчанки",
+   "en": "women/girls from Kratovo"
+  }
+ ],
+ "performers": [
+  "Група Јана",
+  "Деспина",
+  "Марина Пухариќ",
+  "Прва севда",
+  "Распеани кратовчани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани кратовчани",
+   "url": "https://pesna.org/audio-download/2182"
+  },
+  {
+   "who": "Деспина",
+   "url": "https://pesna.org/audio-download/2463"
+  },
+  {
+   "who": "Марина Пухариќ",
+   "url": "https://pesna.org/audio-download/2464"
+  },
+  {
+   "who": "Прва севда",
+   "url": "https://pesna.org/audio-download/2465"
+  },
+  {
+   "who": "Група Јана",
+   "url": "https://pesna.org/audio-download/2466"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Кате седи на пенџере)",
+       "lat": "(Kate sedi na pendžere)",
+       "en": "(Kate sits at the window)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моме седи на пенџере",
+       "lat": "Mome sedi na pendžere",
+       "en": "A girl sits at the window,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "а момчето стои џанам",
+       "lat": "a momčeto stoi džanam",
+       "en": "and the lad stands, my dear,"
+      },
+      {
+       "cyr": "под пенџере.",
+       "lat": "pod pendžere.",
+       "en": "under the window."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Добро утро малој моме",
+       "lat": "- Dobro utro maloj mome",
+       "en": "- Good morning, little girl,"
+      },
+      {
+       "cyr": "аман, аман.",
+       "lat": "aman, aman.",
+       "en": "aman, aman."
+      },
+      {
+       "cyr": "- Дал бог добро, аман, аман",
+       "lat": "- Dal bog dobro, aman, aman",
+       "en": "- God give you good, aman, aman,"
+      },
+      {
+       "cyr": "младо момче.",
+       "lat": "mlado momče.",
+       "en": "young lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што си толку подранило",
+       "lat": "Što si tolku podranilo",
+       "en": "Why have you come so early,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "подранило, аман, аман",
+       "lat": "podranilo, aman, aman",
+       "en": "come early, aman, aman,"
+      },
+      {
+       "cyr": "под пенџере?",
+       "lat": "pod pendžere?",
+       "en": "under the window?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' си сараф на парите",
+       "lat": "Dal' si saraf na parite",
+       "en": "Are you a money-changer of money,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "ил' си сараф, аман, аман,",
+       "lat": "il' si saraf, aman, aman,",
+       "en": "or are you a changer, aman, aman,"
+      },
+      {
+       "cyr": "на момите?",
+       "lat": "na momite?",
+       "en": "of girls?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не сум сараф на парите,",
+       "lat": "- Ne sum saraf na parite,",
+       "en": "- I am not a money-changer of money,"
+      },
+      {
+       "cyr": "аман, аман.",
+       "lat": "aman, aman.",
+       "en": "aman, aman."
+      },
+      {
+       "cyr": "Тук' сум сараф, аман, аман,",
+       "lat": "Tuk' sum saraf, aman, aman,",
+       "en": "But I am a changer, aman, aman,"
+      },
+      {
+       "cyr": "на момите.",
+       "lat": "na momite.",
+       "en": "of girls."
+      },
+      {
+       "cyr": "На момите, аман, аман,",
+       "lat": "Na momite, aman, aman,",
+       "en": "Of girls, aman, aman,"
+      },
+      {
+       "cyr": "кратовчанки.",
+       "lat": "kratovčanki.",
+       "en": "from Kratovo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

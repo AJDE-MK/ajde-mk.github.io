@@ -1,0 +1,193 @@
+{
+ "id": 1196,
+ "slug": "devojchence-kje-ti-kupam",
+ "title_cyr": "Девојченце, ќе ти купам",
+ "title_latin": "Devojčence, ḱe ti kupam",
+ "title_en": "Little girl, I will buy you",
+ "pesna_url": "https://pesna.org/song/1196",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Дуњата цреша не бива' is a proverb-like image (quince cannot turn into cherry); my reading is that it means she will not be changed by gifts.",
+ "words_to_learn": [
+  {
+   "mk": "девојченце",
+   "en": "little girl"
+  },
+  {
+   "mk": "ќе ти купам",
+   "en": "I will buy you"
+  },
+  {
+   "mk": "ф'стан",
+   "en": "dress (фустан)"
+  },
+  {
+   "mk": "нејќум",
+   "en": "I don't want (dialect)"
+  },
+  {
+   "mk": "дуња",
+   "en": "quince"
+  },
+  {
+   "mk": "цреша",
+   "en": "cherry"
+  },
+  {
+   "mk": "тате",
+   "en": "dad"
+  },
+  {
+   "mk": "к'смет",
+   "en": "fate, luck (Turkish loan)"
+  },
+  {
+   "mk": "чевли",
+   "en": "shoes"
+  },
+  {
+   "mk": "момче",
+   "en": "lad, boy"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2934"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Девојченце, ќе ти купам ф'стан.",
+       "lat": "- Devojčence, ḱe ti kupam f'stan.",
+       "en": "- Little girl, I will buy you a dress."
+      },
+      {
+       "cyr": "- Нејќум, бре тате нејќум,",
+       "lat": "- Nejḱum, bre tate nejḱum,",
+       "en": "- I don't want it, hey dad, I don't want it,"
+      },
+      {
+       "cyr": "дуњата цреша не бива,",
+       "lat": "dunjata creša ne biva,",
+       "en": "a quince does not become a cherry,"
+      },
+      {
+       "cyr": "тате бре, тате,",
+       "lat": "tate bre, tate,",
+       "en": "dad, hey, dad,"
+      },
+      {
+       "cyr": "ти не ми го знаеш к'сметот.",
+       "lat": "ti ne mi go znaeš k'smetot.",
+       "en": "you don't know my fate."
+      },
+      {
+       "cyr": "- Дуњата цреша ќе биде,",
+       "lat": "- Dunjata creša ḱe bide,",
+       "en": "- The quince will become a cherry,"
+      },
+      {
+       "cyr": "ќерко ле, ќерко,",
+       "lat": "ḱerko le, ḱerko,",
+       "en": "daughter, hey, daughter,"
+      },
+      {
+       "cyr": "јас ќе ти го најдам к'сметот.",
+       "lat": "jas ḱe ti go najdam k'smetot.",
+       "en": "I will find your fate for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девојченце, ќе ти купам чевли.",
+       "lat": "- Devojčence, ḱe ti kupam čevli.",
+       "en": "- Little girl, I will buy you shoes."
+      },
+      {
+       "cyr": "- Нејќум, бре тате нејќум,",
+       "lat": "- Nejḱum, bre tate nejḱum,",
+       "en": "- I don't want it, hey dad, I don't want it,"
+      },
+      {
+       "cyr": "дуњата цреша не бива,",
+       "lat": "dunjata creša ne biva,",
+       "en": "a quince does not become a cherry,"
+      },
+      {
+       "cyr": "тате бре, тате,",
+       "lat": "tate bre, tate,",
+       "en": "dad, hey, dad,"
+      },
+      {
+       "cyr": "ти не ми го знаеш к'сметот.",
+       "lat": "ti ne mi go znaeš k'smetot.",
+       "en": "you don't know my fate."
+      },
+      {
+       "cyr": "- Дуњата цреша ќе биде,",
+       "lat": "- Dunjata creša ḱe bide,",
+       "en": "- The quince will become a cherry,"
+      },
+      {
+       "cyr": "ќерко ле, ќерко,",
+       "lat": "ḱerko le, ḱerko,",
+       "en": "daughter, hey, daughter,"
+      },
+      {
+       "cyr": "јас ќе ти го најдам к'сметот.",
+       "lat": "jas ḱe ti go najdam k'smetot.",
+       "en": "I will find your fate for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девојченце, ќе ти купам момче.",
+       "lat": "- Devojčence, ḱe ti kupam momče.",
+       "en": "- Little girl, I will buy you a lad."
+      },
+      {
+       "cyr": "- Сакам, бре тате, сакам,",
+       "lat": "- Sakam, bre tate, sakam,",
+       "en": "- I want it, hey dad, I want it,"
+      },
+      {
+       "cyr": "дуњата цреша ќе биде,",
+       "lat": "dunjata creša ḱe bide,",
+       "en": "the quince will become a cherry,"
+      },
+      {
+       "cyr": "тате бре, тате,",
+       "lat": "tate bre, tate,",
+       "en": "dad, hey, dad,"
+      },
+      {
+       "cyr": "сега ми го најде к'сметот.",
+       "lat": "sega mi go najde k'smetot.",
+       "en": "now you have found my fate."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

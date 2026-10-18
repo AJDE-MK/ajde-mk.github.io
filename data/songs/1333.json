@@ -1,0 +1,145 @@
+{
+ "id": 1333,
+ "slug": "izlegu-da-se-rashetam",
+ "title_cyr": "Излегу да се рашетам",
+ "title_latin": "Izlegu da se rašetam",
+ "title_en": "I Went Out for a Walk",
+ "pesna_url": "https://pesna.org/song/1333",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, dialect forms. 'Ѓемој' I read as bridle (Turkish gem); 'лепото приќе' and 'д'лги чорапи на раци' are unclear, my reading only.",
+ "words_to_learn": [
+  {
+   "mk": "излегу",
+   "en": "I went out (dialect)"
+  },
+  {
+   "mk": "рашетам",
+   "en": "I take a walk"
+  },
+  {
+   "mk": "поле",
+   "en": "field"
+  },
+  {
+   "mk": "широко",
+   "en": "wide"
+  },
+  {
+   "mk": "си виду",
+   "en": "I saw (dialect)"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "седло",
+   "en": "saddle"
+  },
+  {
+   "mk": "давај ме",
+   "en": "give me (in marriage)"
+  },
+  {
+   "mk": "бегам",
+   "en": "I run away"
+  },
+  {
+   "mk": "чорапи",
+   "en": "socks, stockings"
+  }
+ ],
+ "performers": [
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3424"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегу да се рашетам",
+       "lat": "Izlegu da se rašetam",
+       "en": "I went out to take a walk"
+      },
+      {
+       "cyr": "во това поле широко,",
+       "lat": "vo tova pole široko,",
+       "en": "in this wide field,"
+      },
+      {
+       "cyr": "поминав село Дреново",
+       "lat": "pominav selo Drenovo",
+       "en": "I passed the village of Drenovo"
+      },
+      {
+       "cyr": "си виду момче дреновче.",
+       "lat": "si vidu momče drenovče.",
+       "en": "and saw a boy from Drenovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си виду момче дреновче",
+       "lat": "Si vidu momče drenovče",
+       "en": "I saw the boy from Drenovo"
+      },
+      {
+       "cyr": "на сиво коњче јаваше,",
+       "lat": "na sivo konjče javaše,",
+       "en": "riding a gray horse,"
+      },
+      {
+       "cyr": "на сино седло седеше,",
+       "lat": "na sino sedlo sedeše,",
+       "en": "sitting on a blue saddle,"
+      },
+      {
+       "cyr": "сребрен ми ѓемој држеше.",
+       "lat": "srebren mi ǵemoj držeše.",
+       "en": "holding a silver bridle (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Давај ме мајко за него",
+       "lat": "Davaj me majko za nego",
+       "en": "Give me, mother, to him"
+      },
+      {
+       "cyr": "оти ќе бегам по него,",
+       "lat": "oti ḱe begam po nego,",
+       "en": "because I will run away after him,"
+      },
+      {
+       "cyr": "лепото приќе на глава,",
+       "lat": "lepoto priḱe na glava,",
+       "en": "the beautiful veil onto my head,"
+      },
+      {
+       "cyr": "д'лги чорапи на раци.",
+       "lat": "d'lgi čorapi na raci.",
+       "en": "long socks on my hands (my reading)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

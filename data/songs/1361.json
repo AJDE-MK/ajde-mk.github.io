@@ -1,0 +1,178 @@
+{
+ "id": 1361,
+ "slug": "junak-sviri-na-tambura",
+ "title_cyr": "Јунак свири на тамбура",
+ "title_latin": "Junak sviri na tambura",
+ "title_en": "A Hero Plays the Tambura",
+ "pesna_url": "https://pesna.org/song/1361",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional transformation-motif song. Who speaks the first stanza is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "јунак",
+   "en": "hero, brave young man"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura (plucked string instrument)"
+  },
+  {
+   "mk": "тенки гласови",
+   "en": "thin/high voices (strings)"
+  },
+  {
+   "mk": "лудо-младо",
+   "en": "foolish youth (endearing)"
+  },
+  {
+   "mk": "мож'",
+   "en": "can (short for можеш)"
+  },
+  {
+   "mk": "длабока",
+   "en": "deep"
+  },
+  {
+   "mk": "мрена",
+   "en": "barbel (a river fish)"
+  },
+  {
+   "mk": "шума",
+   "en": "forest"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre"
+  },
+  {
+   "mk": "се сторам",
+   "en": "I turn myself into"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова",
+  "Славка Петровска"
+ ],
+ "audio": [
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/3530"
+  },
+  {
+   "who": "Славка Петровска",
+   "url": "https://pesna.org/audio-download/4068"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јунак свири на тамбура,",
+       "lat": "Junak sviri na tambura,",
+       "en": "A hero plays the tambura,"
+      },
+      {
+       "cyr": "на тенки гласови.",
+       "lat": "na tenki glasovi.",
+       "en": "in thin voices."
+      },
+      {
+       "cyr": "Стој, почекај, лудо-младо,",
+       "lat": "Stoj, počekaj, ludo-mlado,",
+       "en": "Stop, wait, foolish youth,"
+      },
+      {
+       "cyr": "со тебе ќе дојдам.",
+       "lat": "so tebe ḱe dojdam.",
+       "en": "I will come with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај врати се лудо-младо,",
+       "lat": "- Aj vrati se ludo-mlado,",
+       "en": "- Come back, foolish youth,"
+      },
+      {
+       "cyr": "не мож' да поминеш,",
+       "lat": "ne mož' da pomineš,",
+       "en": "you cannot pass,"
+      },
+      {
+       "cyr": "на пат има длабока река,",
+       "lat": "na pat ima dlaboka reka,",
+       "en": "on the road there is a deep river,"
+      },
+      {
+       "cyr": "не мож' да поминеш.",
+       "lat": "ne mož' da pomineš.",
+       "en": "you cannot pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе се сторам мрена риба",
+       "lat": "- Ḱe se storam mrena riba",
+       "en": "- I will turn into a barbel fish"
+      },
+      {
+       "cyr": "и ќе си поминам!",
+       "lat": "i ḱe si pominam!",
+       "en": "and I will pass!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај врати се лудо-младо,",
+       "lat": "- Aj vrati se ludo-mlado,",
+       "en": "- Come back, foolish youth,"
+      },
+      {
+       "cyr": "не мож' да поминеш,",
+       "lat": "ne mož' da pomineš,",
+       "en": "you cannot pass,"
+      },
+      {
+       "cyr": "на пат има густа шума,",
+       "lat": "na pat ima gusta šuma,",
+       "en": "on the road there is a thick forest,"
+      },
+      {
+       "cyr": "не мож' да поминеш.",
+       "lat": "ne mož' da pomineš.",
+       "en": "you cannot pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе се сторам остра сабја",
+       "lat": "- Ḱe se storam ostra sabja",
+       "en": "- I will turn into a sharp sabre"
+      },
+      {
+       "cyr": "и ќе си поминам!",
+       "lat": "i ḱe si pominam!",
+       "en": "and I will pass!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,154 @@
+{
+ "id": 1053,
+ "slug": "julija",
+ "title_cyr": "Јулија",
+ "title_latin": "Julija",
+ "title_en": "Julija",
+ "pesna_url": "https://pesna.org/song/1053",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). 'Моско' I read as a name or abductor's nickname, my guess; endings -еја/-аја are dialect past forms.",
+ "words_to_learn": [
+  {
+   "mk": "пленал",
+   "en": "took captive"
+  },
+  {
+   "mk": "џанам",
+   "en": "dear, darling (Turkish canim)"
+  },
+  {
+   "mk": "грабнаја",
+   "en": "they seized"
+  },
+  {
+   "mk": "анами",
+   "en": "ladies (Turkish hanim)"
+  },
+  {
+   "mk": "коси корнеја",
+   "en": "they tore their hair"
+  },
+  {
+   "mk": "бегови",
+   "en": "beys, nobles"
+  },
+  {
+   "mk": "солзи ронеја",
+   "en": "they shed tears"
+  },
+  {
+   "mk": "чифлик",
+   "en": "estate, farm"
+  },
+  {
+   "mk": "продајме",
+   "en": "let us sell"
+  },
+  {
+   "mk": "враќаме",
+   "en": "we give back, return"
+  }
+ ],
+ "performers": [
+  "Персиди"
+ ],
+ "audio": [
+  {
+   "who": "Персиди",
+   "url": "https://pesna.org/audio-download/2400"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Го пленал Моско,",
+       "lat": "Go plenal Mosko,",
+       "en": "Mosko took her captive,"
+      },
+      {
+       "cyr": "го пленал џанам,",
+       "lat": "go plenal džanam,",
+       "en": "took her captive, dear,"
+      },
+      {
+       "cyr": "нашата сестра Јулија.",
+       "lat": "našata sestra Julija.",
+       "en": "our sister Julija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога Јулија грабнаја џанам,",
+       "lat": "Koga Julija grabnaja džanam,",
+       "en": "When they seized Julija, dear,"
+      },
+      {
+       "cyr": "анами коси корнеја,",
+       "lat": "anami kosi korneja,",
+       "en": "the ladies tore their hair,"
+      },
+      {
+       "cyr": "бегови солзи ронеја.",
+       "lat": "begovi solzi roneja.",
+       "en": "the beys shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Што стори Јуле,",
+       "lat": "- Što stori Jule,",
+       "en": "- What did you do, Jule,"
+      },
+      {
+       "cyr": "што стори, џанам,",
+       "lat": "što stori, džanam,",
+       "en": "what did you do, dear,"
+      },
+      {
+       "cyr": "срцето ми го изгоре?",
+       "lat": "srceto mi go izgore?",
+       "en": "you burned my heart!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чифликот ќе го продајме џанам,",
+       "lat": "Čiflikot ḱe go prodajme džanam,",
+       "en": "We will sell the estate, dear,"
+      },
+      {
+       "cyr": "Јулија ќе ја грабиме.",
+       "lat": "Julija ḱe ja grabime.",
+       "en": "we will take Julija back."
+      },
+      {
+       "cyr": "- Чифлици да си продајте џанам,",
+       "lat": "- Čiflici da si prodajte džanam,",
+       "en": "- Sell your estates, dear,"
+      },
+      {
+       "cyr": "Јулија не ја враќаме.",
+       "lat": "Julija ne ja vraḱame.",
+       "en": "we are not giving Julija back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

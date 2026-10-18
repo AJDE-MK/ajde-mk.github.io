@@ -1,0 +1,111 @@
+{
+ "id": 786,
+ "slug": "ogreala-mesechina-shekjerna",
+ "title_cyr": "Огреала месечина шеќерна",
+ "title_latin": "Ogreala mesečina šeḱerna",
+ "title_en": "A sugar Moon rose",
+ "pesna_url": "https://pesna.org/song/786",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Илинден",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1460"
+  },
+  {
+   "who": "Ансамбл Илинден",
+   "url": "https://pesna.org/audio-download/1461"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Огреала месечина вечерна)",
+       "lat": "(Ogreala mesečina večerna)",
+       "en": "(An evening moon rose)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Огреала месечина шеќерна.",
+       "lat": "Ogreala mesečina šeḱerna.",
+       "en": "A sugar Moon rose.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Алено, галено, блага е, душо, медена.",
+       "lat": "Aleno, galeno, blaga e, dušo, medena.",
+       "en": "Dear, it is sweet, like honey.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми била месечина шеќерна.",
+       "lat": "Ne mi bila mesečina šeḱerna.",
+       "en": "It wasn't a sugar Moon.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Алено, галено, блага е, душо, медена.",
+       "lat": "Aleno, galeno, blaga e, dušo, medena.",
+       "en": "Dear, it is sweet, like honey.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тук' ми било малој моме убаво.",
+       "lat": "Tuk' mi bilo maloj mome ubavo.",
+       "en": "It was a little beautiful girl.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Алено, галено, блага е, душо, медена.",
+       "lat": "Aleno, galeno, blaga e, dušo, medena.",
+       "en": "Dear, it is sweet, like honey.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поранило за водица студена.",
+       "lat": "Poranilo za vodica studena.",
+       "en": "She rose early to fetch cold water.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Алено, галено, блага е, душо, медена.",
+       "lat": "Aleno, galeno, blaga e, dušo, medena.",
+       "en": "Dear, it is sweet, like honey.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,185 @@
+{
+ "id": 1574,
+ "slug": "se-posvrshi-serbez-mara",
+ "title_cyr": "Се посврши сербез Мара",
+ "title_latin": "Se posvrši serbez Mara",
+ "title_en": "Careless Mara Adzhieva was settled",
+ "pesna_url": "https://pesna.org/song/1574",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style song; origin otherwise unclear. 'сербез' meaning is my reading; 'џумер' I could not identify with confidence, so I left it as '...'. 'ја посврши' is rendered 'settled it' (the match).",
+ "words_to_learn": [
+  {
+   "mk": "сербез",
+   "en": "carefree, bold, lively"
+  },
+  {
+   "mk": "такса",
+   "en": "promise, betroth"
+  },
+  {
+   "mk": "аир",
+   "en": "good fortune, blessing"
+  },
+  {
+   "mk": "колне",
+   "en": "curses"
+  },
+  {
+   "mk": "пијаница",
+   "en": "drunkard"
+  },
+  {
+   "mk": "комарџија",
+   "en": "gambler"
+  },
+  {
+   "mk": "мераклија",
+   "en": "a lover of (here: of women)"
+  },
+  {
+   "mk": "песнарија",
+   "en": "singer, song-maker"
+  },
+  {
+   "mk": "избегам",
+   "en": "I run away, elope"
+  }
+ ],
+ "performers": [
+  "КУД Керамичар Велес"
+ ],
+ "audio": [
+  {
+   "who": "КУД Керамичар Велес",
+   "url": "https://pesna.org/audio-download/4107"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се посврши, џанам, се посврши",
+       "lat": "Se posvrši, džanam, se posvrši",
+       "en": "It was settled, my dear, it was settled,"
+      },
+      {
+       "cyr": "сербез Мара Аџиова.",
+       "lat": "serbez Mara Adžiova.",
+       "en": "careless Mara, Adzhi's daughter."
+      },
+      {
+       "cyr": "Ја посврши нејзин татко,",
+       "lat": "Ja posvrši nejzin tatko,",
+       "en": "Her father settled it,"
+      },
+      {
+       "cyr": "ја посврши, не ја праша",
+       "lat": "ja posvrši, ne ja praša",
+       "en": "he settled it, he did not ask her"
+      },
+      {
+       "cyr": "дали она, џанам, ќе го сака.",
+       "lat": "dali ona, džanam, ḱe go saka.",
+       "en": "whether she, my dear, would love him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цел ден оди Мара, цел ден плаче,",
+       "lat": "Cel den odi Mara, cel den plače,",
+       "en": "All day Mara walks, all day she weeps,"
+      },
+      {
+       "cyr": "прсти крши, луто колне:",
+       "lat": "prsti krši, luto kolne:",
+       "en": "she wrings her fingers, bitterly curses:"
+      },
+      {
+       "cyr": "- Аир татко да не видиш",
+       "lat": "- Air tatko da ne vidiš",
+       "en": "- Father, may you see no good"
+      },
+      {
+       "cyr": "што ме такса, не ме праша",
+       "lat": "što me taksa, ne me praša",
+       "en": "for promising me, for not asking me"
+      },
+      {
+       "cyr": "дали сакам него да го љубам!",
+       "lat": "dali sakam nego da go ljubam!",
+       "en": "whether I want to love him!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немаше ли татко, немаше ли,",
+       "lat": "Nemaše li tatko, nemaše li,",
+       "en": "Didn't you have, father, didn't you have"
+      },
+      {
+       "cyr": "друго момче поубаво,",
+       "lat": "drugo momče poubavo,",
+       "en": "another, better-looking boy,"
+      },
+      {
+       "cyr": "та ме такса на Димета,",
+       "lat": "ta me taksa na Dimeta,",
+       "en": "that you promised me to Dime,"
+      },
+      {
+       "cyr": "пијаница, комарџија",
+       "lat": "pijanica, komardžija",
+       "en": "a drunkard, a gambler,"
+      },
+      {
+       "cyr": "и на жени, џанам, мераклија?",
+       "lat": "i na ženi, džanam, meraklija?",
+       "en": "and a chaser of women, my dear?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас го љубам, џанам, млад Ѓорѓија,",
+       "lat": "Jas go ljubam, džanam, mlad Ǵorǵija,",
+       "en": "I love, my dear, young Gjorgija,"
+      },
+      {
+       "cyr": "он је џумер, песнарија*.",
+       "lat": "on je džumer, pesnarija*.",
+       "en": "he is a ..., a singer of songs."
+      },
+      {
+       "cyr": "А по ноќи ќе избегам,",
+       "lat": "A po noḱi ḱe izbegam,",
+       "en": "And by night I will run away,"
+      },
+      {
+       "cyr": "на Ѓорѓија ќе го земам",
+       "lat": "na Ǵorǵija ḱe go zemam",
+       "en": "I will take Gjorgija"
+      },
+      {
+       "cyr": "и со него век ќе провекувам.",
+       "lat": "i so nego vek ḱe provekuvam.",
+       "en": "and live out my life with him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

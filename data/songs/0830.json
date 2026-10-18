@@ -1,0 +1,109 @@
+{
+ "id": 830,
+ "slug": "koj-ti-gi-dade-tie-crni-ochi",
+ "title_cyr": "Кој ти ги даде тие црни очи",
+ "title_latin": "Koj ti gi dade tie crni oči",
+ "title_en": "Who gave you those black eyes",
+ "pesna_url": "https://pesna.org/song/830",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1766"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/1767"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кој ти ги даде ле, тие црни очи?",
+       "lat": "- Koj ti gi dade le, tie crni oči?",
+       "en": "- Who gave you those black eyes?"
+      },
+      {
+       "cyr": "Дај ми ги, прва севдо, за мене.",
+       "lat": "Daj mi gi, prva sevdo, za mene.",
+       "en": "Give them to me, my first love."
+      },
+      {
+       "cyr": "- Тие црни очи, лудо, мајка ми ги даде,",
+       "lat": "- Tie crni oči, ludo, majka mi gi dade,",
+       "en": "- Those black eyes, crazy lad, my mother gave to me,"
+      },
+      {
+       "cyr": "трни се, лудо младо, севда голема.",
+       "lat": "trni se, ludo mlado, sevda golema.",
+       "en": "get away from here, crazy lad, my big love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кој ти ги даде, бре, тие гајтан веѓи?",
+       "lat": "- Koj ti gi dade, bre, tie gajtan veǵi?",
+       "en": "- Who gave you those black eyebrows?"
+      },
+      {
+       "cyr": "Дај ми ги, прва севдо, за мене.",
+       "lat": "Daj mi gi, prva sevdo, za mene.",
+       "en": "Give them to me, my first love."
+      },
+      {
+       "cyr": "- Тие гајтан веѓи, лудо, мајка ми ги даде,",
+       "lat": "- Tie gajtan veǵi, ludo, majka mi gi dade,",
+       "en": "- Those black eyebrows, crazy lad, my mother gave to me,"
+      },
+      {
+       "cyr": "тргни се, лудо младо, севда голема.",
+       "lat": "trgni se, ludo mlado, sevda golema.",
+       "en": "get away from here, crazy lad, my big love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кој ти ја даде, ле, таја рамна снага?",
+       "lat": "- Koj ti ja dade, le, taja ramna snaga?",
+       "en": "- Who gave you that tall body?"
+      },
+      {
+       "cyr": "Дај ми ја, лудо младо, севда голема.",
+       "lat": "Daj mi ja, ludo mlado, sevda golema.",
+       "en": "Give them to me, my first love."
+      },
+      {
+       "cyr": "- Таја рамна снага, лудо, мајка ми ја даде,",
+       "lat": "- Taja ramna snaga, ludo, majka mi ja dade,",
+       "en": "- That tall body, crazy lad, my mother gave to me,"
+      },
+      {
+       "cyr": "тргни се, лудо младо, севда голема.",
+       "lat": "trgni se, ludo mlado, sevda golema.",
+       "en": "get away from here, crazy lad, my big love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

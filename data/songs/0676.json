@@ -1,0 +1,163 @@
+{
+ "id": 676,
+ "slug": "mamo-koj-chuka-na-porti",
+ "title_cyr": "Мамо кој чука на порти",
+ "title_latin": "Mamo koj čuka na porti",
+ "title_en": "Mother, who is knocking on the gate?",
+ "pesna_url": "https://pesna.org/song/676",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Гоце Арнаудов",
+  "Ѓорѓи Желчевски",
+  "Илија Луков",
+  "Кевсер Селимова",
+  "Цветанка Ласкова"
+ ],
+ "audio": [
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/862"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/863"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/864"
+  },
+  {
+   "who": "Илија Луков",
+   "url": "https://pesna.org/audio-download/865"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/2489"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/2490"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Мамо кој чука на порти?",
+       "lat": "- Mamo koj čuka na porti?",
+       "en": "Mother, who is knocking on the gate?"
+      },
+      {
+       "cyr": "- Чука, тропа, мила ќерко,",
+       "lat": "- Čuka, tropa, mila ḱerko,",
+       "en": "- Hitting, knocking, dear daughter,"
+      },
+      {
+       "cyr": "твојто прво либе.",
+       "lat": "tvojto prvo libe.",
+       "en": "your first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мамо дал да му отворам?",
+       "lat": "- Mamo dal da mu otvoram?",
+       "en": "Mother, should I open?"
+      },
+      {
+       "cyr": "- Немој ќерко, немој душо,",
+       "lat": "- Nemoj ḱerko, nemoj dušo,",
+       "en": "- Don't, daughter, don't, my soul,"
+      },
+      {
+       "cyr": "вечера немаме.",
+       "lat": "večera nemame.",
+       "en": "we don't have a dinner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мамо, за него вечера,",
+       "lat": "- Mamo, za nego večera,",
+       "en": "Mother, a dinner for him,"
+      },
+      {
+       "cyr": "мамо, за него вечера,",
+       "lat": "mamo, za nego večera,",
+       "en": "mother, a dinner for him,"
+      },
+      {
+       "cyr": "за него вечера, мамо",
+       "lat": "za nego večera, mamo",
+       "en": "for him a dinner, mother,"
+      },
+      {
+       "cyr": "мојте слатки думи.",
+       "lat": "mojte slatki dumi.",
+       "en": "my sweet words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мамо дал да му отворам?",
+       "lat": "Mamo dal da mu otvoram?",
+       "en": "Mother, should I open?"
+      },
+      {
+       "cyr": "- Немој ќерко, немој душо,",
+       "lat": "- Nemoj ḱerko, nemoj dušo,",
+       "en": "- Do not, daughter, do not, my soul,"
+      },
+      {
+       "cyr": "постела немаме.",
+       "lat": "postela nemame.",
+       "en": "we don't have a bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мамо, за него постела,",
+       "lat": "- Mamo, za nego postela,",
+       "en": "Mother, for him a bed,"
+      },
+      {
+       "cyr": "мамо, за него постела,",
+       "lat": "mamo, za nego postela,",
+       "en": "mother, for him a bed,"
+      },
+      {
+       "cyr": "за него постела, мамо",
+       "lat": "za nego postela, mamo",
+       "en": "for him a bed, mother,"
+      },
+      {
+       "cyr": "мојта рамна снага.",
+       "lat": "mojta ramna snaga.",
+       "en": "my tall body."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

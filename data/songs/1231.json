@@ -1,0 +1,139 @@
+{
+ "id": 1231,
+ "slug": "mori-dej-neveno-neven-dusho",
+ "title_cyr": "Мори деј Невено, невен душо",
+ "title_latin": "Mori dej Neveno, neven dušo",
+ "title_en": "Hey Neveno, My Marigold Soul",
+ "pesna_url": "https://pesna.org/song/1231",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect and unclear lines: 'Ило да се сторат', 'зобаме' (literally 'peck/eat') and 'без борина' (literally 'without pine forest') are my reading and uncertain. 'Дун, дум дуру дум' is a vocable refrain.",
+ "words_to_learn": [
+  {
+   "mk": "невен",
+   "en": "marigold (also a name root)"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul (vocative)"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "замешаме",
+   "en": "mix up, swap"
+  },
+  {
+   "mk": "гројзе",
+   "en": "grapes"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight"
+  },
+  {
+   "mk": "темнина",
+   "en": "darkness"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/3075"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3946"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори деј Невено, невен душо,",
+       "lat": "Mori dej Neveno, neven dušo,",
+       "en": "Hey now, Neveno, my marigold soul,"
+      },
+      {
+       "cyr": "невен да се твојте очи.",
+       "lat": "neven da se tvojte oči.",
+       "en": "may your eyes be marigold."
+      },
+      {
+       "cyr": "Или твојте очи, како мојте,",
+       "lat": "Ili tvojte oči, kako mojte,",
+       "en": "Or may your eyes be like mine,"
+      },
+      {
+       "cyr": "дун, дум дуру дум, како мојте.",
+       "lat": "dun, dum duru dum, kako mojte.",
+       "en": "dun, dum duru dum, like mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ние да ги замешаме,",
+       "lat": "Ajde nie da gi zamešame,",
+       "en": "Come on, let us mix them up,"
+      },
+      {
+       "cyr": "јазе твојте, ти зеј мојте.",
+       "lat": "jaze tvojte, ti zej mojte.",
+       "en": "I take yours, you take mine."
+      },
+      {
+       "cyr": "Ило да се сторат црно гројзе,",
+       "lat": "Ilo da se storat crno grojze,",
+       "en": "May they turn into black grapes,"
+      },
+      {
+       "cyr": "дун, дум дуру дум, црно гројзе.",
+       "lat": "dun, dum duru dum, crno grojze.",
+       "en": "dun, dum duru dum, black grapes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ние двајца да зобаме",
+       "lat": "Ajde nie dvajca da zobame",
+       "en": "Come on, let the two of us feast"
+      },
+      {
+       "cyr": "во темнина, без борина.",
+       "lat": "vo temnina, bez borina.",
+       "en": "in the dark, without a pine forest."
+      },
+      {
+       "cyr": "Или на јасната месечина,",
+       "lat": "Ili na jasnata mesečina,",
+       "en": "Or in the bright moonlight,"
+      },
+      {
+       "cyr": "дун, дум дуру дум, месечина.",
+       "lat": "dun, dum duru dum, mesečina.",
+       "en": "dun, dum duru dum, moonlight."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

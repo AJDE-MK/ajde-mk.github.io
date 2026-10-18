@@ -1,0 +1,201 @@
+{
+ "id": 563,
+ "slug": "kaljo-kalino-devojche",
+ "title_cyr": "Каљо, Калино девојче",
+ "title_latin": "Kaljo, Kalino devojče",
+ "title_en": "Kalja, Little Girl Kalina",
+ "pesna_url": "https://pesna.org/song/563",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Виши' is my reading as an imperative 'look up' (raise your eyes). The 'one fool' may be an affectionate 'lover' (лудо) rather than insulting, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "виши",
+   "en": "look up, raise (your eyes)"
+  },
+  {
+   "mk": "арнаути",
+   "en": "Arnauts (Albanians, old term)"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija, fruit brandy"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "red wine"
+  },
+  {
+   "mk": "намигнува",
+   "en": "winks"
+  },
+  {
+   "mk": "бегаме",
+   "en": "we run away, elope"
+  },
+  {
+   "mk": "арно",
+   "en": "good, fine"
+  },
+  {
+   "mk": "жетва",
+   "en": "harvest (grain)"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight, moon"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Љупка Рондова",
+  "Нино Величковски",
+  "Октет Астибо",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Октет Астибо",
+   "url": "https://pesna.org/audio-download/1399"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1400"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/1401"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/1402"
+  },
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/1403"
+  },
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/1404"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каљо, Калино девојче",
+       "lat": "Kaljo, Kalino devojče",
+       "en": "Kalja, little girl Kalina,"
+      },
+      {
+       "cyr": "виши, виши црни очи.",
+       "lat": "viši, viši crni oči.",
+       "en": "look up, look up with your black eyes."
+      },
+      {
+       "cyr": "Виши, виши, на високо,",
+       "lat": "Viši, viši, na visoko,",
+       "en": "Look up, look up high,"
+      },
+      {
+       "cyr": "на високо, на широко.",
+       "lat": "na visoko, na široko.",
+       "en": "high and wide."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај што Турци кафе пијат,",
+       "lat": "Kaj što Turci kafe pijat,",
+       "en": "Where the Turks drink coffee,"
+      },
+      {
+       "cyr": "арнаути баш ракија.",
+       "lat": "arnauti baš rakija.",
+       "en": "the Arnauts drink rakija."
+      },
+      {
+       "cyr": "Арнаути баш ракија,",
+       "lat": "Arnauti baš rakija,",
+       "en": "The Arnauts drink rakija,"
+      },
+      {
+       "cyr": "а ергени рујно вино.",
+       "lat": "a ergeni rujno vino.",
+       "en": "and the bachelors red wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно лудо, лудо младо",
+       "lat": "Edno ludo, ludo mlado",
+       "en": "One fool, a young fool,"
+      },
+      {
+       "cyr": "ниту јаде, ниту пие.",
+       "lat": "nitu jade, nitu pie.",
+       "en": "neither eats nor drinks."
+      },
+      {
+       "cyr": "Само Каља погледнува",
+       "lat": "Samo Kalja poglednuva",
+       "en": "He only looks at Kalja,"
+      },
+      {
+       "cyr": "со око ѝ намигнува.",
+       "lat": "so oko ì namignuva.",
+       "en": "he winks at her with his eye."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде Каљо да бегаме",
+       "lat": "- Ajde Kaljo da begame",
+       "en": "- Come, Kalja, let us run away"
+      },
+      {
+       "cyr": "в наше село, арно село.",
+       "lat": "v naše selo, arno selo.",
+       "en": "to our village, a good village."
+      },
+      {
+       "cyr": "Од две страни сонце грее,",
+       "lat": "Od dve strani sonce gree,",
+       "en": "From two sides the sun shines,"
+      },
+      {
+       "cyr": "а од трета месечина.",
+       "lat": "a od treta mesečina.",
+       "en": "and from the third the moon."
+      },
+      {
+       "cyr": "Два пати се жетва жнее,",
+       "lat": "Dva pati se žetva žnee,",
+       "en": "Twice a harvest is reaped,"
+      },
+      {
+       "cyr": "три пати се лозје бере.",
+       "lat": "tri pati se lozje bere.",
+       "en": "three times the grapes are picked."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

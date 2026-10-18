@@ -1,0 +1,142 @@
+{
+ "id": 350,
+ "slug": "ne-pribiraj-mila-mamo-strojnici",
+ "title_cyr": "Не прибирај мила мамо стројници",
+ "title_latin": "Ne pribiraj mila mamo strojnici",
+ "title_en": "Don't make ready for the matchmakers, dear mother",
+ "pesna_url": "https://pesna.org/song/350",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'стројници' is a dialect word I am unsure of; my reading is people who arrange or organise the wedding or match. 'терзивче' (tailor's lad) is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мила мамо",
+   "en": "dear mother"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "комшивче",
+   "en": "neighbour's child"
+  },
+  {
+   "mk": "лично",
+   "en": "handsome, comely"
+  },
+  {
+   "mk": "лудо",
+   "en": "wild, rash (endearing)"
+  },
+  {
+   "mk": "терзивче",
+   "en": "young tailor, tailor's apprentice"
+  },
+  {
+   "mk": "боса",
+   "en": "barefoot"
+  },
+  {
+   "mk": "ле",
+   "en": "oh (filler)"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1692"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не прибирај мила мамо стројници",
+       "lat": "Ne pribiraj mila mamo strojnici",
+       "en": "Don't make ready for the arrangers, dear mother"
+      },
+      {
+       "cyr": "ах, ах мила мамо ле,",
+       "lat": "ah, ah mila mamo le,",
+       "en": "ah, ah, dear mother"
+      },
+      {
+       "cyr": "јас си имам мила мамо",
+       "lat": "jas si imam mila mamo",
+       "en": "I have, dear mother,"
+      },
+      {
+       "cyr": "либе комшивче.",
+       "lat": "libe komšivče.",
+       "en": "a sweetheart, a neighbour's child."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Комшивче ле мила мамо, комшивче",
+       "lat": "Komšivče le mila mamo, komšivče",
+       "en": "A neighbour's child, dear mother, a neighbour's child"
+      },
+      {
+       "cyr": "ај, ај мила мајко ле",
+       "lat": "aj, aj mila majko le",
+       "en": "oh, oh, dear mother"
+      },
+      {
+       "cyr": "едно лично лудо младо",
+       "lat": "edno lično ludo mlado",
+       "en": "a handsome, wild, young"
+      },
+      {
+       "cyr": "терзивче.",
+       "lat": "terzivče.",
+       "en": "tailor's lad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не дели ме, мила мамо, од него",
+       "lat": "Ne deli me, mila mamo, od nego",
+       "en": "Don't part me, dear mother, from him"
+      },
+      {
+       "cyr": "ах, ах мила мајко ле",
+       "lat": "ah, ah mila majko le",
+       "en": "ah, ah, dear mother"
+      },
+      {
+       "cyr": "боса ќе бегам мамо по него.",
+       "lat": "bosa ḱe begam mamo po nego.",
+       "en": "barefoot I will run, mother, after him."
+      },
+      {
+       "cyr": "А, а мила мајко ле",
+       "lat": "A, a mila majko le",
+       "en": "Oh, oh, dear mother"
+      },
+      {
+       "cyr": "живот ќе дадам, мамо, за него.",
+       "lat": "život ḱe dadam, mamo, za nego.",
+       "en": "I will give my life, mother, for him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

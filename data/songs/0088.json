@@ -1,0 +1,165 @@
+{
+ "id": 88,
+ "slug": "shto-kje-pravime-chinime",
+ "title_cyr": "Што ќе правиме, чиниме",
+ "title_latin": "Što ḱe pravime, činime",
+ "title_en": "What shall we do, what shall we make",
+ "pesna_url": "https://pesna.org/song/88",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'вој мерак ш'о го имаме' and 'до два изгора' are my reading (the second perhaps 'two words burned like two coals'); 'ногу' is dialect for 'многу' (much).",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "longing, desire, passion"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "добро вечер",
+   "en": "good evening"
+  },
+  {
+   "mk": "јуначе",
+   "en": "hero, brave lad (address)"
+  },
+  {
+   "mk": "изгора",
+   "en": "burned"
+  },
+  {
+   "mk": "лудо",
+   "en": "foolish, wild"
+  },
+  {
+   "mk": "свршено",
+   "en": "engaged"
+  },
+  {
+   "mk": "порусо",
+   "en": "blond, fair-haired"
+  },
+  {
+   "mk": "полично",
+   "en": "more handsome"
+  }
+ ],
+ "performers": [
+  "Фана Шомова"
+ ],
+ "audio": [
+  {
+   "who": "Фана Шомова",
+   "url": "https://pesna.org/audio-download/3111"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ќе правиме, чиниме,",
+       "lat": "Što ḱe pravime, činime,",
+       "en": "What shall we do, what shall we make,"
+      },
+      {
+       "cyr": "со вој мерак ш'о го имаме,",
+       "lat": "so voj merak š'o go imame,",
+       "en": "with this longing that we have,"
+      },
+      {
+       "cyr": "ниту јадиме, пиеме,",
+       "lat": "nitu jadime, pieme,",
+       "en": "we neither eat nor drink,"
+      },
+      {
+       "cyr": "ниту слободно спиеме.",
+       "lat": "nitu slobodno spieme.",
+       "en": "nor do we sleep in peace."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти помина покрај вас,",
+       "lat": "Snošti pomina pokraj vas,",
+       "en": "Last night I passed by your house,"
+      },
+      {
+       "cyr": "тамо ти ја најдо мајка ти.",
+       "lat": "tamo ti ja najdo majka ti.",
+       "en": "there I found your mother."
+      },
+      {
+       "cyr": "- Добро вечер, стара бабо.",
+       "lat": "- Dobro večer, stara babo.",
+       "en": "- Good evening, old granny."
+      },
+      {
+       "cyr": "- Дал ти Бог добро, јуначе.",
+       "lat": "- Dal ti Bog dobro, junače.",
+       "en": "- God give you good, hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А што ми рече два збора,",
+       "lat": "A što mi reče dva zbora,",
+       "en": "And what she said to me, two words,"
+      },
+      {
+       "cyr": "два збора, до два изгора.",
+       "lat": "dva zbora, do dva izgora.",
+       "en": "two words, burned me like two coals."
+      },
+      {
+       "cyr": "- Деј, море лудо и младо,",
+       "lat": "- Dej, more ludo i mlado,",
+       "en": "- Hey, you foolish young man,"
+      },
+      {
+       "cyr": "не си го губи времето.",
+       "lat": "ne si go gubi vremeto.",
+       "en": "do not waste your time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момето ми е свршено,",
+       "lat": "Mometo mi e svršeno,",
+       "en": "The girl is engaged,"
+      },
+      {
+       "cyr": "за друго лудо, порусо,",
+       "lat": "za drugo ludo, poruso,",
+       "en": "to another young man, a blond one,"
+      },
+      {
+       "cyr": "за друго лудо, порусо,",
+       "lat": "za drugo ludo, poruso,",
+       "en": "to another young man, a blond one,"
+      },
+      {
+       "cyr": "од тебе ногу, ногу полично.",
+       "lat": "od tebe nogu, nogu polično.",
+       "en": "much more handsome than you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

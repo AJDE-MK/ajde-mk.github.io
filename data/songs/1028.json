@@ -1,0 +1,104 @@
+{
+ "id": 1028,
+ "slug": "ne-sedi-rasim-raspashan",
+ "title_cyr": "Не седи Расим распашан",
+ "title_latin": "Ne sedi Rasim raspašan",
+ "title_en": "Don’t sit around, reckless Rasim",
+ "pesna_url": "https://pesna.org/song/1028",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2368"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не седи Расим распашан,",
+       "lat": "- Ne sedi Rasim raspašan,",
+       "en": "- Don’t sit around, reckless Rasim,"
+      },
+      {
+       "cyr": "Расим распашан, уште слободен.",
+       "lat": "Rasim raspašan, ušte sloboden.",
+       "en": "reckless Rasim, still unmarried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не седи софра ставена,",
+       "lat": "Ne sedi sofra stavena,",
+       "en": "Don’t sit at the laid table,"
+      },
+      {
+       "cyr": "Расим, на софра шише ракија.",
+       "lat": "Rasim, na sofra šiše rakija.",
+       "en": "on the table a bottle of Rakija."
+      },
+      {
+       "cyr": "Сестра ти ти ја грабиле,",
+       "lat": "Sestra ti ti ja grabile,",
+       "en": "Your sister was robbed from you,"
+      },
+      {
+       "cyr": "Расим, далеку ти ја однеле,",
+       "lat": "Rasim, daleku ti ja odnele,",
+       "en": "she was taken far away,"
+      },
+      {
+       "cyr": "Расим, лично ѝ име туриле.",
+       "lat": "Rasim, lično ì ime turile.",
+       "en": "her name was changed to a pretty name."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лично ѝ име туриле,",
+       "lat": "Lično ì ime turile,",
+       "en": "Her name was changed to a pretty name"
+      },
+      {
+       "cyr": "Расим, лично ѝ име Маријче.",
+       "lat": "Rasim, lično ì ime Marijče.",
+       "en": "Rasim, her name is Mariche."
+      },
+      {
+       "cyr": "- Ах, мори мајко, мајчице,",
+       "lat": "- Ah, mori majko, majčice,",
+       "en": "- O mother, dear mother,"
+      },
+      {
+       "cyr": "мајко, чифликот ќе го продадам,",
+       "lat": "majko, čiflikot ḱe go prodadam,",
+       "en": "I will sell my estate,"
+      },
+      {
+       "cyr": "мајко, сестра ми ќе ја откупам.",
+       "lat": "majko, sestra mi ḱe ja otkupam.",
+       "en": "to buy her back."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

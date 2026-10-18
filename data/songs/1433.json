@@ -1,0 +1,121 @@
+{
+ "id": 1433,
+ "slug": "more-stojno-belo-stojno",
+ "title_cyr": "Море Стојно, бело Стојно",
+ "title_latin": "More Stojno, belo Stojno",
+ "title_en": "Hey Stojna, beautiful Stojna",
+ "pesna_url": "https://pesna.org/song/1433",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Момче мајка љуто колнит,",
+       "lat": "Momče majka ljuto kolnit,",
+       "en": "A mother angrily curses her son,"
+      },
+      {
+       "cyr": "момче је се милно молит:",
+       "lat": "momče je se milno molit:",
+       "en": "the boy sweetly begs her:"
+      },
+      {
+       "cyr": "- Немој мајко, не колни ме",
+       "lat": "- Nemoj majko, ne kolni me",
+       "en": "- Mother, don’t curse me,"
+      },
+      {
+       "cyr": "оти сум си млад спаија.",
+       "lat": "oti sum si mlad spaija.",
+       "en": "because I’m a young cavalryman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седумдесет села шетам,",
+       "lat": "Sedumdeset sela šetam,",
+       "en": "I’ve wandered through seventy villages,"
+      },
+      {
+       "cyr": "осумдесет моми љубам,",
+       "lat": "osumdeset momi ljubam,",
+       "en": "I’ve loved eighty girls,"
+      },
+      {
+       "cyr": "деведесет киски носам,",
+       "lat": "devedeset kiski nosam,",
+       "en": "I wear ninety bouquets,"
+      },
+      {
+       "cyr": "сите киски повенале.",
+       "lat": "site kiski povenale.",
+       "en": "all the bouquets have withered."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Емен една ми останал,",
+       "lat": "Emen edna mi ostanal,",
+       "en": "Only one remained,"
+      },
+      {
+       "cyr": "за сите си жалба немам,",
+       "lat": "za site si žalba nemam,",
+       "en": "for the others I feel no sadness,"
+      },
+      {
+       "cyr": "сè за таја руса Стојна.",
+       "lat": "sè za taja rusa Stojna.",
+       "en": "only for that blonde Stojna."
+      },
+      {
+       "cyr": "Море Стојно, бело Стојно!",
+       "lat": "More Stojno, belo Stojno!",
+       "en": "Hey Stojna, beautiful Stojna!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога одит, ветер веит,",
+       "lat": "Koga odit, veter veit,",
+       "en": "When she walks, the wind blows,"
+      },
+      {
+       "cyr": "кога стојит, сонце греит,",
+       "lat": "koga stojit, sonce greit,",
+       "en": "when she stands, the sun shines,"
+      },
+      {
+       "cyr": "кога зборвит, бисер броит.",
+       "lat": "koga zborvit, biser broit.",
+       "en": "when she speaks, you count pearls."
+      },
+      {
+       "cyr": "Море Стојно, бело Стојно!",
+       "lat": "More Stojno, belo Stojno!",
+       "en": "Hey Stojna, beautiful Stojna!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

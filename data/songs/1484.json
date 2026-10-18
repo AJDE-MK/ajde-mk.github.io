@@ -1,0 +1,209 @@
+{
+ "id": 1484,
+ "slug": "dimko-delija",
+ "title_cyr": "Димко делија",
+ "title_latin": "Dimko delija",
+ "title_en": "Dimko the Hero",
+ "pesna_url": "https://pesna.org/song/1484",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect past forms in -ја (играја, пољуљаја). The refrain 'бај бири дипли билбил џанум' is a Turkish-flavoured refrain, my reading: roughly 'oh dear nightingale'. 'Стан' rendered 'camp' and 'perо рестато' are guesses. Origin unclear, folk.",
+ "words_to_learn": [
+  {
+   "mk": "делија",
+   "en": "hero, dashing young man"
+  },
+  {
+   "mk": "коња играја",
+   "en": "he made the horse prance (dialect past)"
+  },
+  {
+   "mk": "девојка",
+   "en": "girl"
+  },
+  {
+   "mk": "перо рестато",
+   "en": "crested/ornamented feather (my reading)"
+  },
+  {
+   "mk": "спазили",
+   "en": "they noticed"
+  },
+  {
+   "mk": "карајте",
+   "en": "scold"
+  },
+  {
+   "mk": "муки",
+   "en": "torment, torture"
+  },
+  {
+   "mk": "кошара",
+   "en": "cage, pen"
+  },
+  {
+   "mk": "постеља",
+   "en": "bed"
+  },
+  {
+   "mk": "џанум",
+   "en": "my dear (Turkish-origin 'canim')"
+  }
+ ],
+ "performers": [
+  "Ансамбл Панче Пешев"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3858"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Димко делија коња играја",
+       "lat": "- Dimko delija konja igraja",
+       "en": "- Dimko the hero made his horse dance,"
+      },
+      {
+       "cyr": "коња играја, стан пољуљаја.",
+       "lat": "konja igraja, stan poljuljaja.",
+       "en": "made his horse dance, shook the camp."
+      },
+      {
+       "cyr": "- Стојна девојка два танца води,",
+       "lat": "- Stojna devojka dva tanca vodi,",
+       "en": "- The girl Stojna leads two dances,"
+      },
+      {
+       "cyr": "два танца води, три песме поје.",
+       "lat": "dva tanca vodi, tri pesme poje.",
+       "en": "leads two dances, sings three songs."
+      },
+      {
+       "cyr": "- Бај бири дипли билбил џанум, три песме поје,",
+       "lat": "- Baj biri dipli bilbil džanum, tri pesme poje,",
+       "en": "- Baj biri dipli bulbul dzanum, sings three songs,"
+      },
+      {
+       "cyr": "бај бири дипли билбил џанум, три песме поје.",
+       "lat": "baj biri dipli bilbil džanum, tri pesme poje.",
+       "en": "baj biri dipli bulbul dzanum, sings three songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На главу носи перо рестато,",
+       "lat": "Na glavu nosi pero restato,",
+       "en": "On his head he wears a crested feather,"
+      },
+      {
+       "cyr": "пушти се Димко, Димко делија.",
+       "lat": "pušti se Dimko, Dimko delija.",
+       "en": "Dimko rushes in, Dimko the hero."
+      },
+      {
+       "cyr": "- Па уземаја перо рестато,",
+       "lat": "- Pa uzemaja pero restato,",
+       "en": "- And he took the crested feather,"
+      },
+      {
+       "cyr": "спазили са га Стојнини браќа.",
+       "lat": "spazili sa ga Stojnini braḱa.",
+       "en": "Stojna's brothers spotted him."
+      },
+      {
+       "cyr": "- Бај бири дипли билбил џанум, Стојнини браќа,",
+       "lat": "- Baj biri dipli bilbil džanum, Stojnini braḱa,",
+       "en": "- Baj biri dipli bulbul dzanum, Stojna's brothers,"
+      },
+      {
+       "cyr": "бај бири дипли билбил џанум, Стојнини браќа.",
+       "lat": "baj biri dipli bilbil džanum, Stojnini braḱa.",
+       "en": "baj biri dipli bulbul dzanum, Stojna's brothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па са фатиле Димка делију,",
+       "lat": "Pa sa fatile Dimka deliju,",
+       "en": "And they seized Dimko the hero,"
+      },
+      {
+       "cyr": "извика Стојна колко што могла.",
+       "lat": "izvika Stojna kolko što mogla.",
+       "en": "Stojna cried out as loud as she could."
+      },
+      {
+       "cyr": "- Слушајте мене два мили браќа,",
+       "lat": "- Slušajte mene dva mili braḱa,",
+       "en": "- Listen to me, my two dear brothers,"
+      },
+      {
+       "cyr": "ни га тепајте, ни га карајте.",
+       "lat": "ni ga tepajte, ni ga karajte.",
+       "en": "do not beat him, do not scold him."
+      },
+      {
+       "cyr": "- Бај бири дипли билбил џанум, ни га карајте,",
+       "lat": "- Baj biri dipli bilbil džanum, ni ga karajte,",
+       "en": "- Baj biri dipli bulbul dzanum, do not scold him,"
+      },
+      {
+       "cyr": "бај бири дипли билбил џанум, ни га карајте.",
+       "lat": "baj biri dipli bilbil džanum, ni ga karajte.",
+       "en": "baj biri dipli bulbul dzanum, do not scold him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само га дајте у моје руке,",
+       "lat": "Samo ga dajte u moje ruke,",
+       "en": "Just give him into my hands,"
+      },
+      {
+       "cyr": "ја ќе га ставу на вечне муке.",
+       "lat": "ja ḱe ga stavu na večne muke.",
+       "en": "I will put him to everlasting torment."
+      },
+      {
+       "cyr": "- На вечне муке, ладна кошара,",
+       "lat": "- Na večne muke, ladna košara,",
+       "en": "- To everlasting torment, a cold cage,"
+      },
+      {
+       "cyr": "ладна кошара, мека постеља.",
+       "lat": "ladna košara, meka postelja.",
+       "en": "a cold cage, a soft bed."
+      },
+      {
+       "cyr": "- Бај бири дипли билбил џанум, мека постеља,",
+       "lat": "- Baj biri dipli bilbil džanum, meka postelja,",
+       "en": "- Baj biri dipli bulbul dzanum, a soft bed,"
+      },
+      {
+       "cyr": "бај бири дипли билбил џанум, мека постеља.",
+       "lat": "baj biri dipli bilbil džanum, meka postelja.",
+       "en": "baj biri dipli bulbul dzanum, a soft bed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,239 @@
+{
+ "id": 973,
+ "slug": "egejki-majki",
+ "title_cyr": "Егејки мајки",
+ "title_latin": "Egejki majki",
+ "title_en": "Aegean Mothers",
+ "pesna_url": "https://pesna.org/song/973",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (patriotic song about Aegean Macedonia, no author I can name). 'нашински' I read as 'in our own way, our own'; 'Елини' means Hellenes (Greeks).",
+ "words_to_learn": [
+  {
+   "mk": "душа",
+   "en": "soul"
+  },
+  {
+   "mk": "крв",
+   "en": "blood"
+  },
+  {
+   "mk": "корени",
+   "en": "roots"
+  },
+  {
+   "mk": "признајте",
+   "en": "admit, acknowledge (plural)"
+  },
+  {
+   "mk": "задоија",
+   "en": "nursed, breastfed"
+  },
+  {
+   "mk": "клетва",
+   "en": "curse, oath"
+  },
+  {
+   "mk": "проколнале",
+   "en": "cursed"
+  },
+  {
+   "mk": "газиме",
+   "en": "we trample"
+  }
+ ],
+ "performers": [
+  "Анета Наковска",
+  "Бисер Торонто",
+  "Васил Чамов",
+  "Децата од Буф",
+  "Ta Aidonia"
+ ],
+ "audio": [
+  {
+   "who": "Ta Aidonia",
+   "url": "https://pesna.org/audio-download/2252"
+  },
+  {
+   "who": "Бисер Торонто",
+   "url": "https://pesna.org/audio-download/2617"
+  },
+  {
+   "who": "Децата од Буф",
+   "url": "https://pesna.org/audio-download/2865"
+  },
+  {
+   "who": "Васил Чамов",
+   "url": "https://pesna.org/audio-download/2886"
+  },
+  {
+   "who": "Анета Наковска",
+   "url": "https://pesna.org/audio-download/3584"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Душа за ништо не се продава",
+       "lat": "Duša za ništo ne se prodava",
+       "en": "A soul is not sold for anything,"
+      },
+      {
+       "cyr": "крвта со вода не се менува.",
+       "lat": "krvta so voda ne se menuva.",
+       "en": "blood is not exchanged for water."
+      },
+      {
+       "cyr": "Господ ни дарил долги корени,",
+       "lat": "Gospod ni daril dolgi koreni,",
+       "en": "The Lord gave us long roots,"
+      },
+      {
+       "cyr": "признајте еднаш: не сме Елини",
+       "lat": "priznajte ednaš: ne sme Elini",
+       "en": "admit once: we are not Hellenes,"
+      },
+      {
+       "cyr": "признајте еднаш: сме Македонци.",
+       "lat": "priznajte ednaš: sme Makedonci.",
+       "en": "admit once: we are Macedonians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Егејки мајки нè родија,",
+       "lat": "Egejki majki nè rodija,",
+       "en": "Aegean mothers bore us,"
+      },
+      {
+       "cyr": "тие со Егеј нè задоија.",
+       "lat": "tie so Egej nè zadoija.",
+       "en": "they nursed us with the Aegean."
+      },
+      {
+       "cyr": "Мајчинска клетва ни оставија,",
+       "lat": "Majčinska kletva ni ostavija,",
+       "en": "They left us a mother's curse,"
+      },
+      {
+       "cyr": "клетва за нашата Македонија.",
+       "lat": "kletva za našata Makedonija.",
+       "en": "a curse for our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие што тешки маки тргале,",
+       "lat": "Tie što teški maki trgale,",
+       "en": "Those who endured heavy hardships"
+      },
+      {
+       "cyr": "својата судба ја проколнале.",
+       "lat": "svojata sudba ja prokolnale.",
+       "en": "cursed their own fate."
+      },
+      {
+       "cyr": "Само што пеат песни нашински,",
+       "lat": "Samo što peat pesni našinski,",
+       "en": "They only sing songs of our own,"
+      },
+      {
+       "cyr": "само што мислат на македонски.",
+       "lat": "samo što mislat na makedonski.",
+       "en": "they only think in Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Егејки мајки нè родија,",
+       "lat": "Egejki majki nè rodija,",
+       "en": "Aegean mothers bore us,"
+      },
+      {
+       "cyr": "тие со Егеј нè задоија.",
+       "lat": "tie so Egej nè zadoija.",
+       "en": "they nursed us with the Aegean."
+      },
+      {
+       "cyr": "Мајчинска клетва ни оставија,",
+       "lat": "Majčinska kletva ni ostavija,",
+       "en": "They left us a mother's curse,"
+      },
+      {
+       "cyr": "клетва за нашата Македонија.",
+       "lat": "kletva za našata Makedonija.",
+       "en": "a curse for our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зошто пред Бога да се мразиме,",
+       "lat": "Zošto pred Boga da se mrazime,",
+       "en": "Why hate each other before God,"
+      },
+      {
+       "cyr": "верата иста да ја газиме?",
+       "lat": "verata ista da ja gazime?",
+       "en": "trample the same faith?"
+      },
+      {
+       "cyr": "Пред него зошто да сме душмани,",
+       "lat": "Pred nego zošto da sme dušmani,",
+       "en": "Why be enemies before him,"
+      },
+      {
+       "cyr": "признајте еднаш: не сме Елини,",
+       "lat": "priznajte ednaš: ne sme Elini,",
+       "en": "admit once: we are not Hellenes,"
+      },
+      {
+       "cyr": "признајте еднаш сме Македонци.",
+       "lat": "priznajte ednaš sme Makedonci.",
+       "en": "admit once: we are Macedonians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Егејки мајки нè родија,",
+       "lat": "Egejki majki nè rodija,",
+       "en": "Aegean mothers bore us,"
+      },
+      {
+       "cyr": "тие со Егеј нè задоија.",
+       "lat": "tie so Egej nè zadoija.",
+       "en": "they nursed us with the Aegean."
+      },
+      {
+       "cyr": "Мајчинска клетва ни оставија,",
+       "lat": "Majčinska kletva ni ostavija,",
+       "en": "They left us a mother's curse,"
+      },
+      {
+       "cyr": "клетва за нашата Македонија.",
+       "lat": "kletva za našata Makedonija.",
+       "en": "a curse for our Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

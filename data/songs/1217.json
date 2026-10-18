@@ -1,0 +1,164 @@
+{
+ "id": 1217,
+ "slug": "zachukale-dajrinjata",
+ "title_cyr": "Зачукале дајрињата",
+ "title_latin": "Začukale dajrinjata",
+ "title_en": "They Struck Up the Tambourines",
+ "pesna_url": "https://pesna.org/song/1217",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding dance song; origin unclear. 'Throw your moustaches' as payment is a joke line, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "дајриња",
+   "en": "tambourine (frame drum)"
+  },
+  {
+   "mk": "аман",
+   "en": "oh, alas (Turkish-origin interjection)"
+  },
+  {
+   "mk": "кемане",
+   "en": "kemane, bowed fiddle"
+  },
+  {
+   "mk": "дукатлии",
+   "en": "wearing gold coins (necklace)"
+  },
+  {
+   "mk": "невести",
+   "en": "young brides"
+  },
+  {
+   "mk": "шалварести",
+   "en": "in shalvari (baggy trousers)"
+  },
+  {
+   "mk": "мустаќлии",
+   "en": "moustached"
+  },
+  {
+   "mk": "фрлајте",
+   "en": "throw (plural command)"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  }
+ ],
+ "performers": [
+  "Мирвет Беловска",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Мирвет Беловска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3004"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зачукале дајрињата,",
+       "lat": "Začukale dajrinjata,",
+       "en": "They struck up the tambourines,"
+      },
+      {
+       "cyr": "дајрињата, аман кеманињата.",
+       "lat": "dajrinjata, aman kemaninjata.",
+       "en": "the tambourines, oh, the violins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прво оро, сè девојки,",
+       "lat": "Prvo oro, sè devojki,",
+       "en": "First dance, all girls,"
+      },
+      {
+       "cyr": "сè девојки, аман дукатлии.",
+       "lat": "sè devojki, aman dukatlii.",
+       "en": "all girls, oh, with gold coins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Второ оро, сè невести,",
+       "lat": "Vtoro oro, sè nevesti,",
+       "en": "Second dance, all young brides,"
+      },
+      {
+       "cyr": "сè невести, аман шалварести.",
+       "lat": "sè nevesti, aman šalvaresti.",
+       "en": "all young brides, oh, in baggy trousers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трето оро, сè момчиња,",
+       "lat": "Treto oro, sè momčinja,",
+       "en": "Third dance, all lads,"
+      },
+      {
+       "cyr": "сè момчиња, аман мустаќлии.",
+       "lat": "sè momčinja, aman mustaḱlii.",
+       "en": "all lads, oh, with moustaches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј, девојки, дукатлии,",
+       "lat": "- Ej, devojki, dukatlii,",
+       "en": "- Hey, girls with gold coins,"
+      },
+      {
+       "cyr": "фрлајте ги, аман дукатите,",
+       "lat": "frlajte gi, aman dukatite,",
+       "en": "throw them down, oh, your coins,"
+      },
+      {
+       "cyr": "да платеме, аман, дајрињата.",
+       "lat": "da plateme, aman, dajrinjata.",
+       "en": "so we can pay, oh, for the tambourines."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј, момчиња, мустаќлии,",
+       "lat": "- Ej, momčinja, mustaḱlii,",
+       "en": "- Hey, lads with moustaches,"
+      },
+      {
+       "cyr": "фрлајте ги, аман мустаќите,",
+       "lat": "frlajte gi, aman mustaḱite,",
+       "en": "throw them down, oh, your moustaches,"
+      },
+      {
+       "cyr": "да платеме, аман, дајрињата.",
+       "lat": "da plateme, aman, dajrinjata.",
+       "en": "so we can pay, oh, for the tambourines."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

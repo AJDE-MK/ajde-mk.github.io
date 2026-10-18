@@ -1,0 +1,154 @@
+{
+ "id": 34,
+ "slug": "gjurgjovo-leto-prokleto",
+ "title_cyr": "Ѓурѓово лето проклето",
+ "title_latin": "Ǵurǵovo leto prokleto",
+ "title_en": "Cursed St. George's summer",
+ "pesna_url": "https://pesna.org/song/34",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. Line 7 ('Нит' Ѓурѓа моја, нит' цвеќе...') is my reading, the sense is unclear to me; 'нарани' rendered as 'feed' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "Ѓурѓово лето",
+   "en": "St. George's summer (Gjurgjovden season)"
+  },
+  {
+   "mk": "проклето",
+   "en": "cursed"
+  },
+  {
+   "mk": "цвекје",
+   "en": "flowers"
+  },
+  {
+   "mk": "скут",
+   "en": "lap, apron-fold"
+  },
+  {
+   "mk": "бачило",
+   "en": "sheep dairy, summer sheepfold"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "не смеам",
+   "en": "I don't dare"
+  },
+  {
+   "mk": "заљуби",
+   "en": "make fall in love"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ѓурѓово лето проклето леле",
+       "lat": "Ǵurǵovo leto prokleto lele",
+       "en": "St. George's summer is cursed, oh dear,"
+      },
+      {
+       "cyr": "Ѓурѓица цвекје мори береше.",
+       "lat": "Ǵurǵica cvekje mori bereše.",
+       "en": "Gjurgjica was picking flowers, hey."
+      },
+      {
+       "cyr": "Ѓурѓица цвекје береше, леле,",
+       "lat": "Ǵurǵica cvekje bereše, lele,",
+       "en": "Gjurgjica was picking flowers, oh dear,"
+      },
+      {
+       "cyr": "мајкини скутои ги китеше.",
+       "lat": "majkini skutoi gi kiteše.",
+       "en": "she decorated her mother's apron with them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајкини скутои китеше, леле,",
+       "lat": "Majkini skutoi kiteše, lele,",
+       "en": "She decorated her mother's apron, oh dear,"
+      },
+      {
+       "cyr": "мајка ги од скут, мори, фрлаше.",
+       "lat": "majka gi od skut, mori, frlaše.",
+       "en": "her mother threw them out of her lap, hey."
+      },
+      {
+       "cyr": "Нит' Ѓурѓа моја, нит' цвеќе, леле,",
+       "lat": "Nit' Ǵurǵa moja, nit' cveḱe, lele,",
+       "en": "Neither my Gjurga, nor flowers, oh dear,"
+      },
+      {
+       "cyr": "кога си мајка, мори, не слуша.",
+       "lat": "koga si majka, mori, ne sluša.",
+       "en": "when you are a mother, hey, she doesn't listen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѓурѓице, бела божице, леле,",
+       "lat": "Ǵurǵice, bela božice, lele,",
+       "en": "Gjurgjica, white goddess, oh dear,"
+      },
+      {
+       "cyr": "отиди горе на бачило.",
+       "lat": "otidi gore na bačilo.",
+       "en": "go up to the sheep dairy."
+      },
+      {
+       "cyr": "Отиди горе на бачило, Ѓурѓо,",
+       "lat": "Otidi gore na bačilo, Ǵurǵo,",
+       "en": "Go up to the sheep dairy, Gjurgja,"
+      },
+      {
+       "cyr": "нарани бели, мори јаганца.",
+       "lat": "narani beli, mori jaganca.",
+       "en": "feed the white lambs, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не смеам, мајко, да одам, леле,",
+       "lat": "Ne smeam, majko, da odam, lele,",
+       "en": "I dare not go, mother, oh dear,"
+      },
+      {
+       "cyr": "таму е Петре, мори, овчарот.",
+       "lat": "tamu e Petre, mori, ovčarot.",
+       "en": "Petre the shepherd is there."
+      },
+      {
+       "cyr": "Таму е Петре овчарот, мамо,",
+       "lat": "Tamu e Petre ovčarot, mamo,",
+       "en": "Petre the shepherd is there, mama,"
+      },
+      {
+       "cyr": "он мене ќе ме, мори, заљуби.",
+       "lat": "on mene ḱe me, mori, zaljubi.",
+       "en": "he will make me fall in love with him, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

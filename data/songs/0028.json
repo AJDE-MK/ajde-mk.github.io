@@ -1,0 +1,166 @@
+{
+ "id": 28,
+ "slug": "na-vrata-stoi-dos",
+ "title_cyr": "На врата стои дос",
+ "title_latin": "Na vrata stoi dos",
+ "title_en": "He Stands at the Gate, Dos",
+ "pesna_url": "https://pesna.org/song/28",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дос' is a refrain I could not identify; I left it as 'dos'. Lines 'Горно маалки' and the last stanza are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "лудо",
+   "en": "foolish one (teasing)"
+  },
+  {
+   "mk": "младо",
+   "en": "young"
+  },
+  {
+   "mk": "паре",
+   "en": "money"
+  },
+  {
+   "mk": "тера",
+   "en": "he rides, drives"
+  },
+  {
+   "mk": "лаже",
+   "en": "to lie to, trick"
+  },
+  {
+   "mk": "маалки",
+   "en": "of the neighbourhood (dialect)"
+  },
+  {
+   "mk": "фалбаџики",
+   "en": "boasters (dialect form)"
+  },
+  {
+   "mk": "чорбаџике",
+   "en": "rich men, notables (dialect form)"
+  }
+ ],
+ "performers": [
+  "Магдалена Морарова",
+  "Пеачка група Тоше Проески - Качарево"
+ ],
+ "audio": [
+  {
+   "who": "Пеачка група Тоше Проески - Качарево",
+   "url": "https://pesna.org/audio-download/2596"
+  },
+  {
+   "who": "Магдалена Морарова",
+   "url": "https://pesna.org/audio-download/2597"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На врата стои дос, на врата стои,",
+       "lat": "Na vrata stoi dos, na vrata stoi,",
+       "en": "He stands at the gate, dos, he stands at the gate,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      },
+      {
+       "cyr": "Паре си брои дос, паре си брои,",
+       "lat": "Pare si broi dos, pare si broi,",
+       "en": "He counts his money, dos, he counts his money,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коња да купи дос, коња да купи,",
+       "lat": "Konja da kupi dos, konja da kupi,",
+       "en": "To buy a horse, dos, to buy a horse,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      },
+      {
+       "cyr": "Таму да тера дос, таму га тера,",
+       "lat": "Tamu da tera dos, tamu ga tera,",
+       "en": "To ride it there, dos, he rides it there,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми да лаже дос, моми да лаже,",
+       "lat": "Momi da laže dos, momi da laže,",
+       "en": "To trick girls, dos, to trick girls,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      },
+      {
+       "cyr": "Горно маалки дос, горно маалки,",
+       "lat": "Gorno maalki dos, gorno maalki,",
+       "en": "In the upper neighbourhood, dos, in the upper neighbourhood,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Све фалбаџики дос, све фалбаџики,",
+       "lat": "Sve falbadžiki dos, sve falbadžiki,",
+       "en": "All boasters, dos, all boasters,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      },
+      {
+       "cyr": "Све чорбаџике дос, све љубовџике,",
+       "lat": "Sve čorbadžike dos, sve ljubovdžike,",
+       "en": "All rich men's sons, dos, all lovers,"
+      },
+      {
+       "cyr": "ти лудо Ѓуре дос, ти си лудо младо.",
+       "lat": "ti ludo Ǵure dos, ti si ludo mlado.",
+       "en": "you foolish Gjure, dos, you are foolish and young."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

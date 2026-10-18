@@ -1,0 +1,204 @@
+{
+ "id": 95,
+ "slug": "bog-da-bie-mojta-majka-makjea",
+ "title_cyr": "Бог да бие мојта мајка маќеа",
+ "title_latin": "Bog da bie mojta majka maḱea",
+ "title_en": "May God Strike My Stepmother",
+ "pesna_url": "https://pesna.org/song/95",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ерменско' (Armenian village) is taken literally; the verb forms ме зедова, ме пратива are dialect and I read them as 'they took me, they sent me'.",
+ "words_to_learn": [
+  {
+   "mk": "маќеа",
+   "en": "stepmother"
+  },
+  {
+   "mk": "срам",
+   "en": "shame"
+  },
+  {
+   "mk": "арам",
+   "en": "sin, forbidden thing"
+  },
+  {
+   "mk": "жетва",
+   "en": "harvest"
+  },
+  {
+   "mk": "торба",
+   "en": "bag"
+  },
+  {
+   "mk": "лебец",
+   "en": "bread (dialect, diminutive)"
+  },
+  {
+   "mk": "навечер",
+   "en": "in the evening"
+  },
+  {
+   "mk": "зајдува",
+   "en": "sets (of the sun)"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Васка Илиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/84"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/85"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие мојта мајка маќеа.",
+       "lat": "Bog da bie mojta majka maḱea.",
+       "en": "May God strike my stepmother."
+      },
+      {
+       "cyr": "Срам да ѝ е, арам да ѝ е,",
+       "lat": "Sram da ì e, aram da ì e,",
+       "en": "Shame on her, a sin on her,"
+      },
+      {
+       "cyr": "на мојта мајка маќеја.",
+       "lat": "na mojta majka maḱeja.",
+       "en": "on my stepmother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ме даде пусто село ерменско.",
+       "lat": "Što me dade pusto selo ermensko.",
+       "en": "Who gave me to a desolate Armenian village."
+      },
+      {
+       "cyr": "Срам да ѝ е, арам да ѝ е,",
+       "lat": "Sram da ì e, aram da ì e,",
+       "en": "Shame on her, a sin on her,"
+      },
+      {
+       "cyr": "пусто село ерменско.",
+       "lat": "pusto selo ermensko.",
+       "en": "the desolate Armenian village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во сабота навечер ме зедова.",
+       "lat": "Vo sabota navečer me zedova.",
+       "en": "On Saturday evening they took me."
+      },
+      {
+       "cyr": "Срам да ѝ е, арам да ѝ е,",
+       "lat": "Sram da ì e, aram da ì e,",
+       "en": "Shame on her, a sin on her,"
+      },
+      {
+       "cyr": "навечер ме зедова.",
+       "lat": "navečer me zedova.",
+       "en": "they took me in the evening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В понеделник на жетва ме пратива.",
+       "lat": "V ponedelnik na žetva me prativa.",
+       "en": "On Monday they sent me to the harvest."
+      },
+      {
+       "cyr": "Срам да ѝ е, арам да ѝ е,",
+       "lat": "Sram da ì e, aram da ì e,",
+       "en": "Shame on her, a sin on her,"
+      },
+      {
+       "cyr": "на жетва ме пратива.",
+       "lat": "na žetva me prativa.",
+       "en": "they sent me to the harvest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми дадова празна торба без лебец.",
+       "lat": "Mi dadova prazna torba bez lebec.",
+       "en": "They gave me an empty bag without bread."
+      },
+      {
+       "cyr": "Срам да ѝ е, арам да ѝ е,",
+       "lat": "Sram da ì e, aram da ì e,",
+       "en": "Shame on her, a sin on her,"
+      },
+      {
+       "cyr": "празна торба без лебец.",
+       "lat": "prazna torba bez lebec.",
+       "en": "an empty bag without bread."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се наведнав кога сонце изгрева",
+       "lat": "Se navednav koga sonce izgreva",
+       "en": "I bent down when the sun rose,"
+      },
+      {
+       "cyr": "срам да ѝ е, арам да ѝ е",
+       "lat": "sram da ì e, aram da ì e",
+       "en": "shame on her, a sin on her,"
+      },
+      {
+       "cyr": "кога Сонцето изгрева.",
+       "lat": "koga Sonceto izgreva.",
+       "en": "when the sun rose."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се исправив кога сонце зајдува",
+       "lat": "Se ispraviv koga sonce zajduva",
+       "en": "I straightened up when the sun set,"
+      },
+      {
+       "cyr": "срам да ѝ е, арам да ѝ е",
+       "lat": "sram da ì e, aram da ì e",
+       "en": "shame on her, a sin on her,"
+      },
+      {
+       "cyr": "на мој'та мајка маќеа.",
+       "lat": "na moj'ta majka maḱea.",
+       "en": "on my stepmother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

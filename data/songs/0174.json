@@ -1,0 +1,189 @@
+{
+ "id": 174,
+ "slug": "poziv-dojde-vojnik-da-odam",
+ "title_cyr": "Позив дојде војник да одам",
+ "title_latin": "Poziv dojde vojnik da odam",
+ "title_en": "The call-up came, I must go as a soldier",
+ "pesna_url": "https://pesna.org/song/174",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional soldier's farewell song, origin unclear. 'је' in 'је реков' is dialect for 'ѝ' (to her), my reading; 'Ленче бре' is an address to a name (Lenche).",
+ "words_to_learn": [
+  {
+   "mk": "позив",
+   "en": "call-up, summons"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "рода",
+   "en": "relatives, kin"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window (Turkish loan)"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "молчи",
+   "en": "be quiet, hush"
+  },
+  {
+   "mk": "бргу",
+   "en": "soon"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1469"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Позив дојде и за мене",
+       "lat": "Poziv dojde i za mene",
+       "en": "The call-up came for me too"
+      },
+      {
+       "cyr": "позив дојде и за мене, Ленче бре",
+       "lat": "poziv dojde i za mene, Lenče bre",
+       "en": "the call-up came for me too, Lenche hey"
+      },
+      {
+       "cyr": "и јас војник да одам.",
+       "lat": "i jas vojnik da odam.",
+       "en": "and I must go as a soldier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сета рода покрај мене,",
+       "lat": "Seta roda pokraj mene,",
+       "en": "All my relatives around me,"
+      },
+      {
+       "cyr": "сета рода покрај мене, Ленче бре",
+       "lat": "seta roda pokraj mene, Lenče bre",
+       "en": "all my relatives around me, Lenche hey"
+      },
+      {
+       "cyr": "со радост ме испраќа.",
+       "lat": "so radost me ispraḱa.",
+       "en": "see me off with joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само мојто верно либе",
+       "lat": "Samo mojto verno libe",
+       "en": "Only my faithful sweetheart"
+      },
+      {
+       "cyr": "само мојто верно либе, Ленче бре",
+       "lat": "samo mojto verno libe, Lenče bre",
+       "en": "only my faithful sweetheart, Lenche hey"
+      },
+      {
+       "cyr": "покрај мене не беше.",
+       "lat": "pokraj mene ne beše.",
+       "en": "was not beside me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пенеџере си стоеше",
+       "lat": "Na penedžere si stoeše",
+       "en": "She stood at the window"
+      },
+      {
+       "cyr": "на пенџере си стоеше, Ленче бре",
+       "lat": "na pendžere si stoeše, Lenče bre",
+       "en": "she stood at the window, Lenche hey"
+      },
+      {
+       "cyr": "дробни солзи ронеше.",
+       "lat": "drobni solzi roneše.",
+       "en": "shedding small tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас је реков и нареков",
+       "lat": "Jas je rekov i narekov",
+       "en": "I said to her and told her"
+      },
+      {
+       "cyr": "јас је реков и нареков, Ленче бре:",
+       "lat": "jas je rekov i narekov, Lenče bre:",
+       "en": "I said to her and told her, Lenche hey:"
+      },
+      {
+       "cyr": "- „Молчи либе, не плачи“.",
+       "lat": "- „Molči libe, ne plači“.",
+       "en": "- \"Hush, sweetheart, do not cry\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Молчи либе, дај не плачи",
+       "lat": "Molči libe, daj ne plači",
+       "en": "Hush, sweetheart, please do not cry"
+      },
+      {
+       "cyr": "молчи либе, ај не плачи, Ленче бре",
+       "lat": "molči libe, aj ne plači, Lenče bre",
+       "en": "hush, sweetheart, come on, do not cry, Lenche hey"
+      },
+      {
+       "cyr": "бргу ќе се видиме.",
+       "lat": "brgu ḱe se vidime.",
+       "en": "we will see each other soon."
+      },
+      {
+       "cyr": "Бргу ќе се ај видиме, Ленче бре",
+       "lat": "Brgu ḱe se aj vidime, Lenče bre",
+       "en": "We will soon, oh, see each other, Lenche hey"
+      },
+      {
+       "cyr": "љубов ќе продолжиме.",
+       "lat": "ljubov ḱe prodolžime.",
+       "en": "we will continue our love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

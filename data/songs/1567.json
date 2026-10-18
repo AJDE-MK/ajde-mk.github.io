@@ -1,0 +1,157 @@
+{
+ "id": 1567,
+ "slug": "dve-solzi-mi-kapnaa",
+ "title_cyr": "Две солзи ми капнаа",
+ "title_latin": "Dve solzi mi kapnaa",
+ "title_en": "Two Tears Fell From Me",
+ "pesna_url": "https://pesna.org/song/1567",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern pop-style song; origin unclear, no author I can name, so translated in full.",
+ "words_to_learn": [
+  {
+   "mk": "збогувавме",
+   "en": "we said goodbye"
+  },
+  {
+   "mk": "до видување",
+   "en": "goodbye, see you"
+  },
+  {
+   "mk": "остави",
+   "en": "left, abandoned"
+  },
+  {
+   "mk": "сам",
+   "en": "alone"
+  },
+  {
+   "mk": "солза",
+   "en": "tear"
+  },
+  {
+   "mk": "капнаа",
+   "en": "dripped, fell"
+  },
+  {
+   "mk": "љубов моја",
+   "en": "my love"
+  },
+  {
+   "mk": "пристигнав",
+   "en": "I arrived"
+  },
+  {
+   "mk": "се надевам",
+   "en": "I hope"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  }
+ ],
+ "performers": [
+  "Опус"
+ ],
+ "audio": [
+  {
+   "who": "Опус",
+   "url": "https://pesna.org/audio-download/4094"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Беше летна вечер кога се збогувавме,",
+       "lat": "Beše letna večer koga se zboguvavme,",
+       "en": "It was a summer evening when we said goodbye,"
+      },
+      {
+       "cyr": "ти ми рече до видување и ме остави сам.",
+       "lat": "ti mi reče do viduvanje i me ostavi sam.",
+       "en": "you said see you and left me alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две солзи ми капнаа љубов моја,",
+       "lat": "Dve solzi mi kapnaa ljubov moja,",
+       "en": "Two tears fell from me, my love,"
+      },
+      {
+       "cyr": "кога ми рече до видување и ме остави сам.",
+       "lat": "koga mi reče do viduvanje i me ostavi sam.",
+       "en": "when you said see you and left me alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега право пристигнав, а тебе те немаше.",
+       "lat": "Sega pravo pristignav, a tebe te nemaše.",
+       "en": "Now I arrived straight away, but you were not there."
+      },
+      {
+       "cyr": "Долго време јас те чекав, ти кај мене не дојде.",
+       "lat": "Dolgo vreme jas te čekav, ti kaj mene ne dojde.",
+       "en": "For a long time I waited for you, you did not come to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две солзи ми капнаа љубов моја,",
+       "lat": "Dve solzi mi kapnaa ljubov moja,",
+       "en": "Two tears fell from me, my love,"
+      },
+      {
+       "cyr": "кога ми рече до видување и ме остави сам.",
+       "lat": "koga mi reče do viduvanje i me ostavi sam.",
+       "en": "when you said see you and left me alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас со болка живеам, можеби и умирам,",
+       "lat": "Jas so bolka živeam, možebi i umiram,",
+       "en": "I live with pain, maybe I am even dying,"
+      },
+      {
+       "cyr": "но јас сè уште те чекам и ти се надевам.",
+       "lat": "no jas sè ušte te čekam i ti se nadevam.",
+       "en": "but I still wait for you and hope for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две солзи ми капнаа љубов моја,",
+       "lat": "Dve solzi mi kapnaa ljubov moja,",
+       "en": "Two tears fell from me, my love,"
+      },
+      {
+       "cyr": "кога ми рече до видување и ме остави сам.",
+       "lat": "koga mi reče do viduvanje i me ostavi sam.",
+       "en": "when you said see you and left me alone."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

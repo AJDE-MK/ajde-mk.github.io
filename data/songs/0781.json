@@ -1,0 +1,149 @@
+{
+ "id": 781,
+ "slug": "snoshti-si-minav-mamo",
+ "title_cyr": "Сношти си минав, мамо",
+ "title_latin": "Snošti si minav, mamo",
+ "title_en": "Last Night I Passed By, Mother",
+ "pesna_url": "https://pesna.org/song/781",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'Ваѓаше' I read as 'hatched, brought out' (dialect), my reading; 'учам те' is 'I instruct you'.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "наминав",
+   "en": "I came upon, I passed by"
+  },
+  {
+   "mk": "кладенец",
+   "en": "spring, well"
+  },
+  {
+   "mk": "бистар",
+   "en": "clear"
+  },
+  {
+   "mk": "студен",
+   "en": "cold"
+  },
+  {
+   "mk": "намерив",
+   "en": "I came across"
+  },
+  {
+   "mk": "малечко",
+   "en": "tiny, very little"
+  },
+  {
+   "mk": "карам те",
+   "en": "I scold you"
+  },
+  {
+   "mk": "славејче",
+   "en": "little nightingale"
+  },
+  {
+   "mk": "пилци",
+   "en": "chicks"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1423"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти си минав, мамо, наминав,",
+       "lat": "Snošti si minav, mamo, naminav,",
+       "en": "Last night I passed by, mother, I came upon,"
+      },
+      {
+       "cyr": "крај бистар, мила мамо, кладенец,",
+       "lat": "kraj bistar, mila mamo, kladenec,",
+       "en": "beside a clear, dear mother, spring,"
+      },
+      {
+       "cyr": "крај бистар, студен, мамо, кладенец.",
+       "lat": "kraj bistar, studen, mamo, kladenec.",
+       "en": "beside a clear, cold, mother, spring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму си, мила мамо, намерив,",
+       "lat": "Tamu si, mila mamo, nameriv,",
+       "en": "There, dear mother, I met"
+      },
+      {
+       "cyr": "девојче едно мало, малечко,",
+       "lat": "devojče edno malo, malečko,",
+       "en": "a little girl, tiny,"
+      },
+      {
+       "cyr": "девојче младо, мамо, убаво.",
+       "lat": "devojče mlado, mamo, ubavo.",
+       "en": "a young girl, mother, beautiful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Учам те, мили сине, карам те,",
+       "lat": "- Učam te, mili sine, karam te,",
+       "en": "- I teach you, dear son, I scold you,"
+      },
+      {
+       "cyr": "момето ти е сине, малечко,",
+       "lat": "mometo ti e sine, malečko,",
+       "en": "your girl, son, is tiny,"
+      },
+      {
+       "cyr": "не можи куќа, сине, да гледа.",
+       "lat": "ne moži kuḱa, sine, da gleda.",
+       "en": "she cannot, son, look after a house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Славејче, пиле мало, малечко,",
+       "lat": "- Slavejče, pile malo, malečko,",
+       "en": "- Nightingale, little bird, tiny,"
+      },
+      {
+       "cyr": "само си гнездо, мамо, правеше,",
+       "lat": "samo si gnezdo, mamo, praveše,",
+       "en": "only makes her nest, mother,"
+      },
+      {
+       "cyr": "само си пилци, мамо, ваѓаше.",
+       "lat": "samo si pilci, mamo, vaǵaše.",
+       "en": "only hatches her chicks, mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

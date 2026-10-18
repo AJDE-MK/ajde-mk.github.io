@@ -1,0 +1,189 @@
+{
+ "id": 183,
+ "slug": "detence-malo",
+ "title_cyr": "Детенце мало",
+ "title_latin": "Detence malo",
+ "title_en": "Little Child",
+ "pesna_url": "https://pesna.org/song/183",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Contrasts a carefree child with the hardship of servants and prisoners in Ottoman times; origin unclear, I cannot name an author. 'јаска' (probably 'јас', I), 'ливаѓе' (meadows) and 'Прости ми' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "детенце",
+   "en": "little child"
+  },
+  {
+   "mk": "бистар",
+   "en": "clear, bright"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, troubles"
+  },
+  {
+   "mk": "насмевка",
+   "en": "smile"
+  },
+  {
+   "mk": "слуга",
+   "en": "servant"
+  },
+  {
+   "mk": "чорбаџија",
+   "en": "wealthy Ottoman-era notable"
+  },
+  {
+   "mk": "темница",
+   "en": "dungeon"
+  },
+  {
+   "mk": "измамник",
+   "en": "deceiver, cheat"
+  },
+  {
+   "mk": "херои",
+   "en": "heroes"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/3070"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Детенце мало, с' погледот бистар,",
+       "lat": "Detence malo, s' pogledot bistar,",
+       "en": "Little child, with a clear gaze,"
+      },
+      {
+       "cyr": "без грижи и без јадови.",
+       "lat": "bez griži i bez jadovi.",
+       "en": "without cares and without sorrows."
+      },
+      {
+       "cyr": "На тебе има насмевка блага,",
+       "lat": "Na tebe ima nasmevka blaga,",
+       "en": "A gentle smile is on you,"
+      },
+      {
+       "cyr": "сè ти се чини весело.",
+       "lat": "sè ti se čini veselo.",
+       "en": "everything seems cheerful to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Весело мило мајкино чедо,",
+       "lat": "Veselo milo majkino čedo,",
+       "en": "Cheerful, dear child of your mother,"
+      },
+      {
+       "cyr": "само со песни заспиваш.",
+       "lat": "samo so pesni zaspivaš.",
+       "en": "you fall asleep only to songs."
+      },
+      {
+       "cyr": "Во себе имаш безгрижен живот,",
+       "lat": "Vo sebe imaš bezgrižen život,",
+       "en": "You have a carefree life in you,"
+      },
+      {
+       "cyr": "а ништо дете не разбираш.",
+       "lat": "a ništo dete ne razbiraš.",
+       "en": "and you, child, understand nothing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младоста свети в' лицето твое,",
+       "lat": "Mladosta sveti v' liceto tvoe,",
+       "en": "Youth shines in your face,"
+      },
+      {
+       "cyr": "усните в' осмех ти играат.",
+       "lat": "usnite v' osmeh ti igraat.",
+       "en": "smiles play on your lips."
+      },
+      {
+       "cyr": "Уште си мало, невино мало,",
+       "lat": "Ušte si malo, nevino malo,",
+       "en": "You are still small, innocent and small,"
+      },
+      {
+       "cyr": "си гледаш мајка, го гледаш небото.",
+       "lat": "si gledaš majka, go gledaš neboto.",
+       "en": "you look at your mother, you look at the sky."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јаска слуга, измачен, беден",
+       "lat": "A jaska sluga, izmačen, beden",
+       "en": "But I, a servant, tormented, poor,"
+      },
+      {
+       "cyr": "в' планини, в' поле, ливаѓе.",
+       "lat": "v' planini, v' pole, livaǵe.",
+       "en": "in the mountains, in the field, in the meadows."
+      },
+      {
+       "cyr": "В' палати, в' сараи и кај чорбаџии,",
+       "lat": "V' palati, v' sarai i kaj čorbadžii,",
+       "en": "In palaces, in mansions and with the chorbadjis,"
+      },
+      {
+       "cyr": "нем слуга на измамници.",
+       "lat": "nem sluga na izmamnici.",
+       "en": "a mute servant of deceivers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прости ми, темницо, лажна и мрачна,",
+       "lat": "Prosti mi, temnico, lažna i mračna,",
+       "en": "Forgive me, dungeon, false and dark,"
+      },
+      {
+       "cyr": "во тебе гнијат херои.",
+       "lat": "vo tebe gnijat heroi.",
+       "en": "in you heroes rot."
+      },
+      {
+       "cyr": "Тука болести страшни добиваат,",
+       "lat": "Tuka bolesti strašni dobivaat,",
+       "en": "Here terrible diseases are caught,"
+      },
+      {
+       "cyr": "сè млади јунаци, Македонци.",
+       "lat": "sè mladi junaci, Makedonci.",
+       "en": "all of them young heroes, Macedonians."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

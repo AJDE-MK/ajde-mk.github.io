@@ -1,0 +1,172 @@
+{
+ "id": 966,
+ "slug": "sednal-osman-da-plachi",
+ "title_cyr": "Седнал Осман да плачи",
+ "title_latin": "Sednal Osman da plači",
+ "title_en": "Osman sat down to weep",
+ "pesna_url": "https://pesna.org/song/966",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Balkan Wars era song (Kumanovo, Lozengrad/Kirklareli, Janina fell in 1912-13); the Ottoman Osman is comforted, then told the lands are lost. 'Анче' and 'анамо' are words I am unsure of (Turkish ana, 'mother/dear'?); 'little dear' and 'my dear' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "седнал",
+   "en": "sat down"
+  },
+  {
+   "mk": "плачи",
+   "en": "to weep"
+  },
+  {
+   "mk": "сабота",
+   "en": "Saturday"
+  },
+  {
+   "mk": "навечер",
+   "en": "in the evening"
+  },
+  {
+   "mk": "колено",
+   "en": "knee"
+  },
+  {
+   "mk": "слушај",
+   "en": "listen"
+  },
+  {
+   "mk": "плаши се",
+   "en": "be afraid"
+  },
+  {
+   "mk": "страв",
+   "en": "fear"
+  },
+  {
+   "mk": "ќути",
+   "en": "be quiet"
+  },
+  {
+   "mk": "дошле",
+   "en": "have come"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Седнал Осман да плачи",
+       "lat": "Sednal Osman da plači",
+       "en": "Osman sat down to weep"
+      },
+      {
+       "cyr": "во сабота навечер",
+       "lat": "vo sabota navečer",
+       "en": "on Saturday evening,"
+      },
+      {
+       "cyr": "и анчето до него,",
+       "lat": "i ančeto do nego,",
+       "en": "and his little dear beside him"
+      },
+      {
+       "cyr": "на колено му седеше.",
+       "lat": "na koleno mu sedeše.",
+       "en": "sat on his knee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, на колено му седеше",
+       "lat": "Aj, na koleno mu sedeše",
+       "en": "Oh, she sat on his knee"
+      },
+      {
+       "cyr": "и на Османа думаше:",
+       "lat": "i na Osmana dumaše:",
+       "en": "and spoke to Osman:"
+      },
+      {
+       "cyr": "- Ај слушај, слушај Османе,",
+       "lat": "- Aj slušaj, slušaj Osmane,",
+       "en": "- Oh listen, listen, Osman,"
+      },
+      {
+       "cyr": "од Србија не плаши се.",
+       "lat": "od Srbija ne plaši se.",
+       "en": "do not be afraid of Serbia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од Србија не плаши се,",
+       "lat": "Od Srbija ne plaši se,",
+       "en": "Do not be afraid of Serbia,"
+      },
+      {
+       "cyr": "Б'лгарија не бој се.",
+       "lat": "B'lgarija ne boj se.",
+       "en": "Bulgaria, do not fear."
+      },
+      {
+       "cyr": "Од Б'лгарија не бој се,",
+       "lat": "Od B'lgarija ne boj se,",
+       "en": "Do not fear Bulgaria,"
+      },
+      {
+       "cyr": "од Грција страв немај.",
+       "lat": "od Grcija strav nemaj.",
+       "en": "have no fear of Greece."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај ќути, ќути анамо,",
+       "lat": "- Aj ḱuti, ḱuti anamo,",
+       "en": "- Oh hush, hush, my dear,"
+      },
+      {
+       "cyr": "Србин е Куманово.",
+       "lat": "Srbin e Kumanovo.",
+       "en": "Kumanovo is Serbian."
+      },
+      {
+       "cyr": "Србин е Куманово,",
+       "lat": "Srbin e Kumanovo,",
+       "en": "Kumanovo is Serbian,"
+      },
+      {
+       "cyr": "Б'лгарин e Лозенград.",
+       "lat": "B'lgarin e Lozengrad.",
+       "en": "Lozengrad is Bulgarian."
+      },
+      {
+       "cyr": "Б'лгарин е Лозенград,",
+       "lat": "B'lgarin e Lozengrad,",
+       "en": "Lozengrad is Bulgarian,"
+      },
+      {
+       "cyr": "Грци дошле Јанина.",
+       "lat": "Grci došle Janina.",
+       "en": "the Greeks have come to Janina."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

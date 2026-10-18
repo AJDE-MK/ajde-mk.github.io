@@ -1,0 +1,171 @@
+{
+ "id": 171,
+ "slug": "rascveti-verna-ljubov-vo-narodot",
+ "title_cyr": "Расцвети верна љубов во народот",
+ "title_latin": "Rascveti verna ljubov vo narodot",
+ "title_en": "True Love Blossomed Among the People",
+ "pesna_url": "https://pesna.org/song/171",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Patriotic call to arms against the Ottomans; origin unclear, I cannot name an author. Forms like 'чует' (hear) and 'станите' are dialect or loose, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "поробени",
+   "en": "enslaved, subjugated"
+  },
+  {
+   "mk": "распламти",
+   "en": "flared up"
+  },
+  {
+   "mk": "јуначки",
+   "en": "heroic"
+  },
+  {
+   "mk": "ремен",
+   "en": "belt"
+  },
+  {
+   "mk": "сабја",
+   "en": "saber"
+  },
+  {
+   "mk": "татковина",
+   "en": "homeland"
+  },
+  {
+   "mk": "оружје",
+   "en": "weapons, arms"
+  },
+  {
+   "mk": "тиран",
+   "en": "tyrant"
+  },
+  {
+   "mk": "неверни",
+   "en": "faithless, unbelieving"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1101"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Расцвети верна љубов во народот,",
+       "lat": "Rascveti verna ljubov vo narodot,",
+       "en": "True love has blossomed among the people,"
+      },
+      {
+       "cyr": "засвети силно в' срца поробени.",
+       "lat": "zasveti silno v' srca porobeni.",
+       "en": "it has lit up strongly in enslaved hearts."
+      },
+      {
+       "cyr": "Со силен пламен распламти,",
+       "lat": "So silen plamen rasplamti,",
+       "en": "With a strong flame it has flared,"
+      },
+      {
+       "cyr": "со голем оган разгори,",
+       "lat": "so golem ogan razgori,",
+       "en": "with a great fire it has blazed,"
+      },
+      {
+       "cyr": "до срца млади и јуначки,",
+       "lat": "do srca mladi i junački,",
+       "en": "to young and heroic hearts,"
+      },
+      {
+       "cyr": "да тргнат во гората.",
+       "lat": "da trgnat vo gorata.",
+       "en": "to set out for the forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На ремен танки сабји запашите,",
+       "lat": "Na remen tanki sabji zapašite,",
+       "en": "Buckle thin sabers on your belts,"
+      },
+      {
+       "cyr": "за татковина своја да станите.",
+       "lat": "za tatkovina svoja da stanite.",
+       "en": "rise up for your homeland."
+      },
+      {
+       "cyr": "Да викниме со глас голем,",
+       "lat": "Da viknime so glas golem,",
+       "en": "Let us cry out with a loud voice,"
+      },
+      {
+       "cyr": "да чует Балкан поробен,",
+       "lat": "da čuet Balkan poroben,",
+       "en": "so that the enslaved Balkans may hear,"
+      },
+      {
+       "cyr": "големо, мало, станувајте,",
+       "lat": "golemo, malo, stanuvajte,",
+       "en": "young and old, rise up,"
+      },
+      {
+       "cyr": "оружје земајте.",
+       "lat": "oružje zemajte.",
+       "en": "take up arms."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За наша мила, славна татковина,",
+       "lat": "Za naša mila, slavna tatkovina,",
+       "en": "For our dear, glorious homeland,"
+      },
+      {
+       "cyr": "за наша мила, слободна држава.",
+       "lat": "za naša mila, slobodna država.",
+       "en": "for our dear, free country."
+      },
+      {
+       "cyr": "И крвта да си пролејме,",
+       "lat": "I krvta da si prolejme,",
+       "en": "Even if we spill our blood,"
+      },
+      {
+       "cyr": "за слободно да живеиме,",
+       "lat": "za slobodno da živeime,",
+       "en": "so that we may live in freedom,"
+      },
+      {
+       "cyr": "од тие неверни тирани,",
+       "lat": "od tie neverni tirani,",
+       "en": "from those faithless tyrants,"
+      },
+      {
+       "cyr": "Турци отоманци.",
+       "lat": "Turci otomanci.",
+       "en": "the Ottoman Turks."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

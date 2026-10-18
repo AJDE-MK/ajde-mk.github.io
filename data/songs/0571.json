@@ -1,0 +1,166 @@
+{
+ "id": 571,
+ "slug": "izlegov-da-se-proshetam",
+ "title_cyr": "Излегов да се прошетам",
+ "title_latin": "Izlegov da se prošetam",
+ "title_en": "I Went Out for a Walk",
+ "pesna_url": "https://pesna.org/song/571",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дембел чаршија' taken as a place name (market street in Bitola). 'Пукнала, треснала' is a curse, rendered in my reading as 'may you burst, may you crack'.",
+ "words_to_learn": [
+  {
+   "mk": "прошетам",
+   "en": "to take a walk"
+  },
+  {
+   "mk": "сокак",
+   "en": "alley, lane"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar"
+  },
+  {
+   "mk": "чардак",
+   "en": "upper-floor porch, balcony"
+  },
+  {
+   "mk": "чешел",
+   "en": "comb"
+  },
+  {
+   "mk": "руси",
+   "en": "golden, blond"
+  },
+  {
+   "mk": "колнеше",
+   "en": "was cursing"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor, carefree young man"
+  },
+  {
+   "mk": "мезе",
+   "en": "snack served with drink"
+  }
+ ],
+ "performers": [
+  "Магнолија",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Магнолија",
+   "url": "https://pesna.org/audio-download/2060"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2063"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегов да се прошетам",
+       "lat": "Izlegov da se prošetam",
+       "en": "I went out for a walk"
+      },
+      {
+       "cyr": "низ таа града Битола,",
+       "lat": "niz taa grada Bitola,",
+       "en": "through that town of Bitola,"
+      },
+      {
+       "cyr": "низ тие тесни сокаци,",
+       "lat": "niz tie tesni sokaci,",
+       "en": "through those narrow alleys,"
+      },
+      {
+       "cyr": "по таа Дембел чаршија.",
+       "lat": "po taa Dembel čaršija.",
+       "en": "through that Dembel market."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дафина, мома убава,",
+       "lat": "Dafina, moma ubava,",
+       "en": "Dafina, a beautiful girl,"
+      },
+      {
+       "cyr": "на висок чардак седеше,",
+       "lat": "na visok čardak sedeše,",
+       "en": "sat on a high balcony,"
+      },
+      {
+       "cyr": "во раце чешел држеше,",
+       "lat": "vo race češel držeše,",
+       "en": "in her hands she held a comb,"
+      },
+      {
+       "cyr": "руси си коси чешлаше,",
+       "lat": "rusi si kosi češlaše,",
+       "en": "she combed her golden hair,"
+      },
+      {
+       "cyr": "руси си коси чешлаше,",
+       "lat": "rusi si kosi češlaše,",
+       "en": "she combed her golden hair,"
+      },
+      {
+       "cyr": "луто си мајка колнеше:",
+       "lat": "luto si majka kolneše:",
+       "en": "bitterly she cursed her mother:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пукнала, мајко, треснала,",
+       "lat": "- Puknala, majko, tresnala,",
+       "en": "- May you burst, mother, may you crack,"
+      },
+      {
+       "cyr": "зошто ме роди убава,",
+       "lat": "zošto me rodi ubava,",
+       "en": "why did you bear me beautiful,"
+      },
+      {
+       "cyr": "не можам д' одам в' чаршија,",
+       "lat": "ne možam d' odam v' čaršija,",
+       "en": "I cannot go to the market,"
+      },
+      {
+       "cyr": "по тие пусти беќари,",
+       "lat": "po tie pusti beḱari,",
+       "en": "among those wretched bachelors,"
+      },
+      {
+       "cyr": "лута ракија пиеа,",
+       "lat": "luta rakija piea,",
+       "en": "they drink strong rakija,"
+      },
+      {
+       "cyr": "мене за мезе бараа.",
+       "lat": "mene za meze baraa.",
+       "en": "and look for me as a snack."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

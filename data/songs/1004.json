@@ -1,0 +1,281 @@
+{
+ "id": 1004,
+ "slug": "slavej-pesna-zapejalo",
+ "title_cyr": "Славеј песна запејало",
+ "title_latin": "Slavej pesna zapejalo",
+ "title_en": "The Nightingale Began a Song",
+ "pesna_url": "https://pesna.org/song/1004",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad of twins separated and unknowingly married; 'ми' is a filler in many lines. 'Лута змија' (fierce snake, i.e. a very fussy child) and 'се дење - ноќе сè да плаче' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "нарачува",
+   "en": "warns, instructs"
+  },
+  {
+   "mk": "попленат",
+   "en": "will plunder"
+  },
+  {
+   "mk": "потурчи",
+   "en": "to convert to Islam/make Turk"
+  },
+  {
+   "mk": "јаничари",
+   "en": "janissaries"
+  },
+  {
+   "mk": "близнак",
+   "en": "twin"
+  },
+  {
+   "mk": "измеќарка",
+   "en": "nursemaid, servant woman"
+  },
+  {
+   "mk": "кукавица",
+   "en": "cuckoo"
+  },
+  {
+   "mk": "бендиса",
+   "en": "to like, to please"
+  },
+  {
+   "mk": "домаќин",
+   "en": "master of the house"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2336"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Славеј песна запејало, песна пее, нарачува:",
+       "lat": "Slavej pesna zapejalo, pesna pee, naračuva:",
+       "en": "The nightingale began a song, he sings a song, he warns:"
+      },
+      {
+       "cyr": "- Ја, бегајте стари, млади, Турци земја ќе попленат.",
+       "lat": "- Ja, begajte stari, mladi, Turci zemja ḱe poplenat.",
+       "en": "- Flee, old and young, the Turks will plunder the land."
+      },
+      {
+       "cyr": "Што е старо - ќе загубат, што е младо - ќе потурчат,",
+       "lat": "Što e staro - ḱe zagubat, što e mlado - ḱe poturčat,",
+       "en": "What is old they will destroy, what is young they will turn Turk,"
+      },
+      {
+       "cyr": "мали деца ќе одведат в' турска земја да ги турчат.",
+       "lat": "mali deca ḱe odvedat v' turska zemja da gi turčat.",
+       "en": "small children they will lead off to the Turkish land to turn them Turk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште славеј не допеја, пристигнале јаничари,",
+       "lat": "Ušte slavej ne dopeja, pristignale janičari,",
+       "en": "The nightingale had not yet finished when the janissaries arrived,"
+      },
+      {
+       "cyr": "наша земја попленија, старците ги загубија.",
+       "lat": "naša zemja poplenija, starcite gi zagubija.",
+       "en": "they plundered our land, they killed the old ones."
+      },
+      {
+       "cyr": "Младите ги потурчија, децата ги одведоја,",
+       "lat": "Mladite gi poturčija, decata gi odvedoja,",
+       "en": "They turned the young ones Turk, they led the children away,"
+      },
+      {
+       "cyr": "ми зедоја два близнака, брат и сестра, Јане и Јанка.",
+       "lat": "mi zedoja dva bliznaka, brat i sestra, Jane i Janka.",
+       "en": "they took two twins, a brother and sister, Jane and Janka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јанета го одведоја кај што сонце ми огрева,",
+       "lat": "Janeta go odvedoja kaj što sonce mi ogreva,",
+       "en": "They led Jane away to where the sun rises,"
+      },
+      {
+       "cyr": "Јанка ми ја однесоа кај што сонце ми зајдува.",
+       "lat": "Janka mi ja odnesoa kaj što sonce mi zajduva.",
+       "en": "they carried Janka off to where the sun sets."
+      },
+      {
+       "cyr": "Нивна мајка солзи рони, солзи рони, коси корне,",
+       "lat": "Nivna majka solzi roni, solzi roni, kosi korne,",
+       "en": "Their mother sheds tears, sheds tears, tears out her hair,"
+      },
+      {
+       "cyr": "си остана да си кука како црна кукавица.",
+       "lat": "si ostana da si kuka kako crna kukavica.",
+       "en": "she stayed behind to lament like a black cuckoo."
+      },
+      {
+       "cyr": "Ми раснаа два близнака, настанаја за женење,",
+       "lat": "Mi rasnaa dva bliznaka, nastanaja za ženenje,",
+       "en": "The two twins grew up, the time came for marrying,"
+      },
+      {
+       "cyr": "Јане појде да се жени, нигде мома не бендиса,",
+       "lat": "Jane pojde da se ženi, nigde moma ne bendisa,",
+       "en": "Jane set out to marry, nowhere did a girl please him,"
+      },
+      {
+       "cyr": "кај што сонце ми заоѓа, па ја виде лична Јана",
+       "lat": "kaj što sonce mi zaoǵa, pa ja vide lična Jana",
+       "en": "where the sun sets, there he saw lovely Jana,"
+      },
+      {
+       "cyr": "Јана грее како сонце.",
+       "lat": "Jana gree kako sonce.",
+       "en": "Jana shines like the sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јане сестра не си познал, си ја зеде за невеста,",
+       "lat": "Jane sestra ne si poznal, si ja zede za nevesta,",
+       "en": "Jane did not recognize his sister, he took her as his bride,"
+      },
+      {
+       "cyr": "постигнаја машко дете, машко дете, лута змија,",
+       "lat": "postignaja maško dete, maško dete, luta zmija,",
+       "en": "they had a male child, a male child, a fierce snake,"
+      },
+      {
+       "cyr": "дење - ноќе сè да плаче. Проговара лична Јана:",
+       "lat": "denje - noḱe sè da plače. Progovara lična Jana:",
+       "en": "day and night he cries nonstop. Lovely Jana speaks:"
+      },
+      {
+       "cyr": "- Ејди Јане, домаќине, иди Јане на нов пазар.",
+       "lat": "- Ejdi Jane, domaḱine, idi Jane na nov pazar.",
+       "en": "- Come, Jane, master of the house, go, Jane, to the new market."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Иди Јане на нов пазар, да си купиш измеќарка,",
+       "lat": "Idi Jane na nov pazar, da si kupiš izmeḱarka,",
+       "en": "Go, Jane, to the new market, to buy a nursemaid,"
+      },
+      {
+       "cyr": "да го лула машко дете, да го лула, да го бања.",
+       "lat": "da go lula maško dete, da go lula, da go banja.",
+       "en": "to rock the male child, to rock him, to bathe him."
+      },
+      {
+       "cyr": "Јане ојде на нов пазар, па си купи измеќарка,",
+       "lat": "Jane ojde na nov pazar, pa si kupi izmeḱarka,",
+       "en": "Jane went to the new market and bought a nursemaid,"
+      },
+      {
+       "cyr": "не ми била измеќарка, туку била нивна мајка.",
+       "lat": "ne mi bila izmeḱarka, tuku bila nivna majka.",
+       "en": "the nursemaid was none other than their mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка Јане го познала, па отиде да му лула,",
+       "lat": "Majka Jane go poznala, pa otide da mu lula,",
+       "en": "The mother recognized Jane, and went to rock for him,"
+      },
+      {
+       "cyr": "да му лула машко дете, машко дете, нејно внуче.",
+       "lat": "da mu lula maško dete, maško dete, nejno vnuče.",
+       "en": "to rock his male child, male child, her own grandchild."
+      },
+      {
+       "cyr": "Па избања машко дете и го лула и си пее:",
+       "lat": "Pa izbanja maško dete i go lula i si pee:",
+       "en": "She bathed the male child and rocked him and sang:"
+      },
+      {
+       "cyr": "- Нани, нани, мило внуче, од моите два близнака.",
+       "lat": "- Nani, nani, milo vnuče, od moite dva bliznaka.",
+       "en": "- Sleep, sleep, dear grandchild, of my two twins."
+      },
+      {
+       "cyr": "Јана платно ми ткаеше, па заслуша измеќарка",
+       "lat": "Jana platno mi tkaeše, pa zasluša izmeḱarka",
+       "en": "Jana was weaving cloth and listened to the nursemaid,"
+      },
+      {
+       "cyr": "каква песна она пее, па му кажа на Јанета:",
+       "lat": "kakva pesna ona pee, pa mu kaža na Janeta:",
+       "en": "what song she was singing, and told Jane:"
+      },
+      {
+       "cyr": "- Ејди Јане, домаќине, слушај Јане измеќарка,",
+       "lat": "- Ejdi Jane, domaḱine, slušaj Jane izmeḱarka,",
+       "en": "- Come, Jane, master of the house, listen, Jane, to the nursemaid,"
+      },
+      {
+       "cyr": "каква песна она пее, песна пее, солзи лее.",
+       "lat": "kakva pesna ona pee, pesna pee, solzi lee.",
+       "en": "what song she is singing, she sings a song, she sheds tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога Јане ми ја дочул, ја распраша стара мајка,",
+       "lat": "Koga Jane mi ja dočul, ja raspraša stara majka,",
+       "en": "When Jane heard her, he questioned the old mother,"
+      },
+      {
+       "cyr": "стара мајка му кажала: - Јане сине, Јано ќерко,",
+       "lat": "stara majka mu kažala: - Jane sine, Jano ḱerko,",
+       "en": "the old mother told him: - Jane my son, Jana my daughter,"
+      },
+      {
+       "cyr": "јас сум, Јане, ваша мајка! Тогаш ми се прегрнале,",
+       "lat": "jas sum, Jane, vaša majka! Togaš mi se pregrnale,",
+       "en": "I am, Jane, your mother! Then they embraced,"
+      },
+      {
+       "cyr": "дробни солзи пролеале и среќно си живејале.",
+       "lat": "drobni solzi proleale i sreḱno si živejale.",
+       "en": "shed fine tears and lived happily."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

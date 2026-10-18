@@ -1,0 +1,138 @@
+{
+ "id": 856,
+ "slug": "kirjana-vino-prodava",
+ "title_cyr": "Кирјана вино продава",
+ "title_latin": "Kirjana vino prodava",
+ "title_en": "Kirjana sells wine",
+ "pesna_url": "https://pesna.org/song/856",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Петранка Костадинова",
+  "Сузана Спасовска",
+  "Фаворити"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1870"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1871"
+  },
+  {
+   "who": "Фаворити",
+   "url": "https://pesna.org/audio-download/1872"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кирјана вино продава",
+       "lat": "Kirjana vino prodava",
+       "en": "Kirjana sells wine,"
+      },
+      {
+       "cyr": "на кирајџии, море, не дава.",
+       "lat": "na kirajdžii, more, ne dava.",
+       "en": "she doesn't give it to the tenants."
+      },
+      {
+       "cyr": "На кирајџии не дава, леле",
+       "lat": "Na kirajdžii ne dava, lele",
+       "en": "To the tenants she doesn't give,"
+      },
+      {
+       "cyr": "на Стојан вино, море, продава.",
+       "lat": "na Stojan vino, more, prodava.",
+       "en": "to Stojan she sells wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кара го, уче мајка му:",
+       "lat": "Kara go, uče majka mu:",
+       "en": "His mother teaches and advises him:"
+      },
+      {
+       "cyr": "- Не оди Стојан, Кирјана,",
+       "lat": "- Ne odi Stojan, Kirjana,",
+       "en": "- Don't go Stojan to Kirjana,"
+      },
+      {
+       "cyr": "Кирјана ќе те прелаже, леле,",
+       "lat": "Kirjana ḱe te prelaže, lele,",
+       "en": "she will trick you"
+      },
+      {
+       "cyr": "ќе ти ја земе, леле, стоката.",
+       "lat": "ḱe ti ja zeme, lele, stokata.",
+       "en": "and take your belongings away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах, мори, мајко ти стара,",
+       "lat": "- Ah, mori, majko ti stara,",
+       "en": "- Oh dear, my old mother,"
+      },
+      {
+       "cyr": "стоката чини, леле, стотина.",
+       "lat": "stokata čini, lele, stotina.",
+       "en": "my belongings are worth a hundred,"
+      },
+      {
+       "cyr": "Стоката чини стотина, леле,",
+       "lat": "Stokata čini stotina, lele,",
+       "en": "my belongings are worth a hundred,"
+      },
+      {
+       "cyr": "сама Кирјана, леле, илјада.",
+       "lat": "sama Kirjana, lele, iljada.",
+       "en": "Kirjana herself is worth a thousand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очите ѝ се два града,",
+       "lat": "Očite ì se dva grada,",
+       "en": "Her eyes are two towns,"
+      },
+      {
+       "cyr": "веѓите ѝ се, мајко, чаршија.",
+       "lat": "veǵite ì se, majko, čaršija.",
+       "en": "her eyebrows are, mother, a street."
+      },
+      {
+       "cyr": "Лицето ѝ е белина, леле,",
+       "lat": "Liceto ì e belina, lele,",
+       "en": "Her face is whiteness,"
+      },
+      {
+       "cyr": "косата ѝ е, мајко, коприна.",
+       "lat": "kosata ì e, majko, koprina.",
+       "en": "her hair, mother, is silk."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

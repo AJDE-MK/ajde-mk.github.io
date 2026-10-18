@@ -1,0 +1,209 @@
+{
+ "id": 414,
+ "slug": "tiho-mirka-si-zaspala",
+ "title_cyr": "Тихо Мирка си заспала",
+ "title_latin": "Tiho Mirka si zaspala",
+ "title_en": "Quietly Mirka Fell Asleep",
+ "pesna_url": "https://pesna.org/song/414",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Partisan-era song about Mirka Ginova (Second World War). 'Почепските планини' is a place name I read as the Pocep mountains; Воден is the town of Edessa, Greece (Voden).",
+ "words_to_learn": [
+  {
+   "mk": "тихо",
+   "en": "quietly"
+  },
+  {
+   "mk": "заспала",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "планини",
+   "en": "mountains"
+  },
+  {
+   "mk": "ливади",
+   "en": "meadows"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band, company"
+  },
+  {
+   "mk": "зорa",
+   "en": "dawn"
+  },
+  {
+   "mk": "заградија",
+   "en": "they surrounded"
+  },
+  {
+   "mk": "мачија",
+   "en": "they tortured"
+  },
+  {
+   "mk": "жива",
+   "en": "alive"
+  }
+ ],
+ "performers": [
+  "Бапчорки",
+  "Воденки",
+  "Марија Димкова",
+  "Мартина Костова",
+  "Наум Бурназ",
+  "Николас Бочварис",
+  "Тајфата на Димо Дулот",
+  "Chrysodaktyloi"
+ ],
+ "audio": [
+  {
+   "who": "Николас Бочварис",
+   "url": "https://pesna.org/audio-download/140"
+  },
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/2802"
+  },
+  {
+   "who": "Воденки",
+   "url": "https://pesna.org/audio-download/2803"
+  },
+  {
+   "who": "Тајфата на Димо Дулот",
+   "url": "https://pesna.org/audio-download/2804"
+  },
+  {
+   "who": "Наум Бурназ",
+   "url": "https://pesna.org/audio-download/2805"
+  },
+  {
+   "who": "Марија Димкова",
+   "url": "https://pesna.org/audio-download/2806"
+  },
+  {
+   "who": "Мартина Костова",
+   "url": "https://pesna.org/audio-download/2807"
+  },
+  {
+   "who": "Chrysodaktyloi",
+   "url": "https://pesna.org/audio-download/2808"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Песна за Мирка Гинова)",
+       "lat": "(Pesna za Mirka Ginova)",
+       "en": "(Song about Mirka Ginova)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тихо Мирка си заспала",
+       "lat": "Tiho Mirka si zaspala",
+       "en": "Quietly Mirka fell asleep"
+      },
+      {
+       "cyr": "во Почепските планини,",
+       "lat": "vo Počepskite planini,",
+       "en": "in the Pocep mountains,"
+      },
+      {
+       "cyr": "во Почепските планини,",
+       "lat": "vo Počepskite planini,",
+       "en": "in the Pocep mountains,"
+      },
+      {
+       "cyr": "таму долу во ливади.",
+       "lat": "tamu dolu vo livadi.",
+       "en": "there below in the meadows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Насред ноќи пристигнале,",
+       "lat": "Nasred noḱi pristignale,",
+       "en": "In the middle of the night there arrived"
+      },
+      {
+       "cyr": "втора чета комесари,",
+       "lat": "vtora četa komesari,",
+       "en": "a second company of commissars,"
+      },
+      {
+       "cyr": "гласот Мирка им го слушна,",
+       "lat": "glasot Mirka im go slušna,",
+       "en": "Mirka heard their voice,"
+      },
+      {
+       "cyr": "одма Мирка се разбуди.",
+       "lat": "odma Mirka se razbudi.",
+       "en": "at once Mirka woke up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во зората пристигнале",
+       "lat": "Vo zorata pristignale",
+       "en": "At dawn there arrived"
+      },
+      {
+       "cyr": "клети шпиони фашисти,",
+       "lat": "kleti špioni fašisti,",
+       "en": "cursed fascist spies,"
+      },
+      {
+       "cyr": "местото го заградија,",
+       "lat": "mestoto go zagradija,",
+       "en": "they surrounded the place,"
+      },
+      {
+       "cyr": "жива Мирка фатија.",
+       "lat": "živa Mirka fatija.",
+       "en": "they caught Mirka alive."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жива Мирка ја фатија,",
+       "lat": "Živa Mirka ja fatija,",
+       "en": "They caught Mirka alive,"
+      },
+      {
+       "cyr": "во град Воден ја носија,",
+       "lat": "vo grad Voden ja nosija,",
+       "en": "they carried her to the town of Voden,"
+      },
+      {
+       "cyr": "тешко Мирка ја мачија,",
+       "lat": "teško Mirka ja mačija,",
+       "en": "they tortured Mirka badly,"
+      },
+      {
+       "cyr": "жива во гроб ставија.",
+       "lat": "živa vo grob stavija.",
+       "en": "they put her in the grave alive."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

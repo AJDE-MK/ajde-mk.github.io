@@ -1,0 +1,135 @@
+{
+ "id": 644,
+ "slug": "ej-ti-marie-selvie",
+ "title_cyr": "Еј ти Марие, селвие",
+ "title_latin": "Ej ti Marie, selvie",
+ "title_en": "Hey you, Marie, selvie",
+ "pesna_url": "https://pesna.org/song/644",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'селвие' is unknown to me, left untranslated and probably a dialect word or a name/epithet. Not sure about it.",
+ "words_to_learn": [
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  },
+  {
+   "mk": "печено",
+   "en": "roasted"
+  },
+  {
+   "mk": "варено",
+   "en": "boiled"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "одајче",
+   "en": "little room"
+  },
+  {
+   "mk": "тремови",
+   "en": "porches, verandas"
+  },
+  {
+   "mk": "леле",
+   "en": "oh (exclamation)"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (address filler)"
+  }
+ ],
+ "performers": [
+  "Љупка Рондова"
+ ],
+ "audio": [
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/1566"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј ти Марие, селвие,",
+       "lat": "Ej ti Marie, selvie,",
+       "en": "Hey you, Marie, selvie,"
+      },
+      {
+       "cyr": "дал' имаш слатка, леле, вечера?",
+       "lat": "dal' imaš slatka, lele, večera?",
+       "en": "do you have a sweet, oh, supper?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам бре лудо как' немам,",
+       "lat": "Imam bre ludo kak' nemam,",
+       "en": "I have, hey dear, how could I not,"
+      },
+      {
+       "cyr": "за тебе јагне, леле, печено,",
+       "lat": "za tebe jagne, lele, pečeno,",
+       "en": "for you a roast lamb, oh,"
+      },
+      {
+       "cyr": "а за сватови, море, варено.",
+       "lat": "a za svatovi, more, vareno.",
+       "en": "and for the wedding guests, hey, boiled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј ти Марие, селвие,",
+       "lat": "Ej ti Marie, selvie,",
+       "en": "Hey you, Marie, selvie,"
+      },
+      {
+       "cyr": "дал' имаш место, леле, за спање?",
+       "lat": "dal' imaš mesto, lele, za spanje?",
+       "en": "do you have a place, oh, to sleep?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам бре, лудо, как' немам,",
+       "lat": "Imam bre, ludo, kak' nemam,",
+       "en": "I have, hey dear, how could I not,"
+      },
+      {
+       "cyr": "за тебе башка, леле, одајче,",
+       "lat": "za tebe baška, lele, odajče,",
+       "en": "for you a separate, oh, little room,"
+      },
+      {
+       "cyr": "а за сватови, море, тремови.",
+       "lat": "a za svatovi, more, tremovi.",
+       "en": "and for the wedding guests, hey, porches."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

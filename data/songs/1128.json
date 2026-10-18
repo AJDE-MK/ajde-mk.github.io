@@ -1,0 +1,222 @@
+{
+ "id": 1128,
+ "slug": "oj-ti-momche-ohrigjanche",
+ "title_cyr": "Ој ти момче охриѓанче",
+ "title_latin": "Oj ti momče ohriǵanče",
+ "title_en": "Hey you Ohrid lad",
+ "pesna_url": "https://pesna.org/song/1128",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Амира Медуњанин",
+  "Анастасија Петреска",
+  "Виолета Томовска",
+  "Влатко Стефановски",
+  "Габриела Новевска",
+  "Група Сарај",
+  "Ева Гордон",
+  "Елегија",
+  "Емилија Ѓореска",
+  "Кирил Манчевски",
+  "Кочо Петровски",
+  "Мирослав Тадиќ",
+  "Наум Петрески",
+  "Ресинка Тасева",
+  "Теодосиј Спасов",
+  "Чардак",
+  "Brenna Maccrimmon",
+  "Kazuhiro Kotetsu",
+  "Yvette Holzwarth"
+ ],
+ "audio": [
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/2703"
+  },
+  {
+   "who": "Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2704"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2705"
+  },
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2706"
+  },
+  {
+   "who": "Ресинка Тасева",
+   "url": "https://pesna.org/audio-download/2707"
+  },
+  {
+   "who": "Влатко Стефановски, Мирослав Тадиќ, Теодосиј Спасов",
+   "url": "https://pesna.org/audio-download/2708"
+  },
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/2709"
+  },
+  {
+   "who": "Емилија Ѓореска",
+   "url": "https://pesna.org/audio-download/2710"
+  },
+  {
+   "who": "Анастасија Петреска, Наум Петрески",
+   "url": "https://pesna.org/audio-download/2711"
+  },
+  {
+   "who": "Ева Гордон",
+   "url": "https://pesna.org/audio-download/2712"
+  },
+  {
+   "who": "Елегија",
+   "url": "https://pesna.org/audio-download/2713"
+  },
+  {
+   "who": "Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/2714"
+  },
+  {
+   "who": "Brenna Maccrimmon",
+   "url": "https://pesna.org/audio-download/2715"
+  },
+  {
+   "who": "Yvette Holzwarth, Мирослав Тадиќ",
+   "url": "https://pesna.org/audio-download/3504"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3545"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3626"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ти момче охриѓанче,",
+       "lat": "- Oj ti momče ohriǵanče,",
+       "en": "- Hey you Ohrid lad,"
+      },
+      {
+       "cyr": "што си толку замислено,",
+       "lat": "što si tolku zamisleno,",
+       "en": "why are you so absent-minded,"
+      },
+      {
+       "cyr": "крај езеро везден шеташ,",
+       "lat": "kraj ezero vezden šetaš,",
+       "en": "walking all the time near the lake,"
+      },
+      {
+       "cyr": "кажи дали некој чекаш,",
+       "lat": "kaži dali nekoj čekaš,",
+       "en": "tell me, are you waiting for someone,"
+      },
+      {
+       "cyr": "или срце некој ти открадна,",
+       "lat": "ili srce nekoj ti otkradna,",
+       "en": "or did someone steal your heart,"
+      },
+      {
+       "cyr": "тешко да го заборавиш?",
+       "lat": "teško da go zaboraviš?",
+       "en": "which is hard to forget?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ме прашај, моме младо,",
+       "lat": "- Ne me prašaj, mome mlado,",
+       "en": "- Don't ask me, young lady,"
+      },
+      {
+       "cyr": "мачно ми е да ти кажам,",
+       "lat": "mačno mi e da ti kažam,",
+       "en": "it is hard for me to tell you,"
+      },
+      {
+       "cyr": "јас си љубев моме лично,",
+       "lat": "jas si ljubev mome lično,",
+       "en": "but I loved a pretty lady,"
+      },
+      {
+       "cyr": "туѓинче од друго место,",
+       "lat": "tuǵinče od drugo mesto,",
+       "en": "she lived in another place,"
+      },
+      {
+       "cyr": "љубов си дадовме, среќни бевме,",
+       "lat": "ljubov si dadovme, sreḱni bevme,",
+       "en": "we loved each other and were happy"
+      },
+      {
+       "cyr": "само едно, едно лето.",
+       "lat": "samo edno, edno leto.",
+       "en": "just one, one summer."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време, си замина,",
+       "lat": "Dojde vreme, si zamina,",
+       "en": "The time came, she left,"
+      },
+      {
+       "cyr": "крај водите ме остави,",
+       "lat": "kraj vodite me ostavi,",
+       "en": "she left me near these waters,"
+      },
+      {
+       "cyr": "да ме мачат спомените,",
+       "lat": "da me mačat spomenite,",
+       "en": "my memories torment me,"
+      },
+      {
+       "cyr": "в' срце трејат, не се бришат.",
+       "lat": "v' srce trejat, ne se brišat.",
+       "en": "they can't be erased from my heart."
+      },
+      {
+       "cyr": "Само дојди момче, врати ми се,",
+       "lat": "Samo dojdi momče, vrati mi se,",
+       "en": "Just come dear, come back to me,"
+      },
+      {
+       "cyr": "чекам, чекам крај езеро,",
+       "lat": "čekam, čekam kraj ezero,",
+       "en": "I am waiting, waiting by the lake,"
+      },
+      {
+       "cyr": "само дојди либе, врати ми се,",
+       "lat": "samo dojdi libe, vrati mi se,",
+       "en": "just come my love, come back to me,"
+      },
+      {
+       "cyr": "чекам, чекам крај езеро.",
+       "lat": "čekam, čekam kraj ezero.",
+       "en": "I am waiting, waiting by the lake."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

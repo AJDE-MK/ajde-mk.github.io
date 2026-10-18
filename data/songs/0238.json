@@ -1,0 +1,239 @@
+{
+ "id": 238,
+ "slug": "jas-te-prativ-na-voda-kalino",
+ "title_cyr": "Јас те пратив на вода Калино",
+ "title_latin": "Jas te prativ na voda Kalino",
+ "title_en": "I Sent You to the Water, Kalina",
+ "pesna_url": "https://pesna.org/song/238",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да мрси' is rendered 'to tousle', my reading of caressing the hair. Speaker changes between mother and daughter by stanza.",
+ "words_to_learn": [
+  {
+   "mk": "пратив",
+   "en": "I sent"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, young unmarried man"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "пусто да остане",
+   "en": "may it be left desolate (a curse-like phrase)"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "руси коси",
+   "en": "blond hair"
+  },
+  {
+   "mk": "мрси",
+   "en": "tousles, ruffles (here: caresses hair)"
+  },
+  {
+   "mk": "нива",
+   "en": "field"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Ансамбл Лоле",
+  "Велко Трпчевски",
+  "Јованка Житарова",
+  "Октет Кавадарци",
+  "Петранка Костадинова",
+  "Quartet Syrinx"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1234"
+  },
+  {
+   "who": "Александар Сариевски, Велко Трпчевски",
+   "url": "https://pesna.org/audio-download/1235"
+  },
+  {
+   "who": "Октет Кавадарци",
+   "url": "https://pesna.org/audio-download/1236"
+  },
+  {
+   "who": "Јованка Житарова",
+   "url": "https://pesna.org/audio-download/1237"
+  },
+  {
+   "who": "Quartet Syrinx",
+   "url": "https://pesna.org/audio-download/1238"
+  },
+  {
+   "who": "Ансамбл Лоле",
+   "url": "https://pesna.org/audio-download/4204"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас те пратив на вода Калино,",
+       "lat": "Jas te prativ na voda Kalino,",
+       "en": "I sent you to the water, Kalina,"
+      },
+      {
+       "cyr": "јас те пратив на вода Калино.",
+       "lat": "jas te prativ na voda Kalino.",
+       "en": "I sent you to the water, Kalina."
+      },
+      {
+       "cyr": "Ти на вода одиш, бело лице миеш,",
+       "lat": "Ti na voda odiš, belo lice mieš,",
+       "en": "You go to the water, you wash your white face,"
+      },
+      {
+       "cyr": "по ергени гледаш, мори Калино.",
+       "lat": "po ergeni gledaš, mori Kalino.",
+       "en": "you look at the bachelors, hey Kalina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусто да остане, мамо, лицето,",
+       "lat": "Pusto da ostane, mamo, liceto,",
+       "en": "May my face be left desolate, mother,"
+      },
+      {
+       "cyr": "пусто да остане мамо, лицето.",
+       "lat": "pusto da ostane mamo, liceto.",
+       "en": "may my face be left desolate, mother."
+      },
+      {
+       "cyr": "Кога нема, нема, либе да го љуби,",
+       "lat": "Koga nema, nema, libe da go ljubi,",
+       "en": "When there is no sweetheart to kiss it,"
+      },
+      {
+       "cyr": "тебе не те слушам, мори мајко, ле.",
+       "lat": "tebe ne te slušam, mori majko, le.",
+       "en": "I do not listen to you, hey mother, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас те пратив на нива Калино,",
+       "lat": "Jas te prativ na niva Kalino,",
+       "en": "I sent you to the field, Kalina,"
+      },
+      {
+       "cyr": "јас те пратив на нива Калино.",
+       "lat": "jas te prativ na niva Kalino.",
+       "en": "I sent you to the field, Kalina."
+      },
+      {
+       "cyr": "Ти на нива одиш, руси коси чешлаш,",
+       "lat": "Ti na niva odiš, rusi kosi češlaš,",
+       "en": "You go to the field, you comb your blond hair,"
+      },
+      {
+       "cyr": "по ергени гледаш, мори Калино.",
+       "lat": "po ergeni gledaš, mori Kalino.",
+       "en": "you look at the bachelors, hey Kalina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пуста да остане мамо, косата,",
+       "lat": "Pusta da ostane mamo, kosata,",
+       "en": "May my hair be left desolate, mother,"
+      },
+      {
+       "cyr": "пуста да остане мамо, косата.",
+       "lat": "pusta da ostane mamo, kosata.",
+       "en": "may my hair be left desolate, mother."
+      },
+      {
+       "cyr": "Кога нема неа, либе да ја мрси,",
+       "lat": "Koga nema nea, libe da ja mrsi,",
+       "en": "When there is no sweetheart to tousle it,"
+      },
+      {
+       "cyr": "тебе не те слушам, мори мајко, ле.",
+       "lat": "tebe ne te slušam, mori majko, le.",
+       "en": "I do not listen to you, hey mother, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас те пратив на лозје Калино,",
+       "lat": "Jas te prativ na lozje Kalino,",
+       "en": "I sent you to the vineyard, Kalina,"
+      },
+      {
+       "cyr": "јас те пратив на лозје Калино.",
+       "lat": "jas te prativ na lozje Kalino.",
+       "en": "I sent you to the vineyard, Kalina."
+      },
+      {
+       "cyr": "Ти на лозје одиш, бело грозје береш,",
+       "lat": "Ti na lozje odiš, belo grozje bereš,",
+       "en": "You go to the vineyard, you pick white grapes,"
+      },
+      {
+       "cyr": "на ергени даваш, мори Калино.",
+       "lat": "na ergeni davaš, mori Kalino.",
+       "en": "you give them to the bachelors, hey Kalina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусто да остане мамо, грозјето,",
+       "lat": "Pusto da ostane mamo, grozjeto,",
+       "en": "May the grapes be left desolate, mother,"
+      },
+      {
+       "cyr": "пусто да остане мамо, грозјето.",
+       "lat": "pusto da ostane mamo, grozjeto.",
+       "en": "may the grapes be left desolate, mother."
+      },
+      {
+       "cyr": "Кога нема, нема, либе да го јаде,",
+       "lat": "Koga nema, nema, libe da go jade,",
+       "en": "When there is no sweetheart to eat them,"
+      },
+      {
+       "cyr": "тебе не те слушам, мори мајко, ле.",
+       "lat": "tebe ne te slušam, mori majko, le.",
+       "en": "I do not listen to you, hey mother, oh."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

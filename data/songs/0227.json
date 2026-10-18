@@ -1,0 +1,206 @@
+{
+ "id": 227,
+ "slug": "mariche-le-lichno-devojche",
+ "title_cyr": "Мариче ле, лично, девојче",
+ "title_latin": "Mariče le, lično, devojče",
+ "title_en": "Marica, oh, lovely girl",
+ "pesna_url": "https://pesna.org/song/227",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The song is a dialogue between the boy and the girl. 'Загин'вам' is my reading of a dialect form.",
+ "words_to_learn": [
+  {
+   "mk": "лично",
+   "en": "lovely, comely"
+  },
+  {
+   "mk": "девојче",
+   "en": "girl"
+  },
+  {
+   "mk": "загин'вам",
+   "en": "I perish (dialect form)"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy / alas (Turkish-origin interjection)"
+  },
+  {
+   "mk": "сирак",
+   "en": "orphan"
+  },
+  {
+   "mk": "сиромав",
+   "en": "poor"
+  },
+  {
+   "mk": "будало",
+   "en": "silly one, fool"
+  },
+  {
+   "mk": "векувам",
+   "en": "I live (all my days)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Димитар Андоновски",
+  "Драгица Николова",
+  "Никола Бадев",
+  "Петар Нечовски"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/1717"
+  },
+  {
+   "who": "Васка Илиева, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1718"
+  },
+  {
+   "who": "Драгица Николова, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1719"
+  },
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/1734"
+  },
+  {
+   "who": "Димитар Андоновски",
+   "url": "https://pesna.org/audio-download/2723"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2911"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Мариче ле, лично, девојче,",
+       "lat": "- Mariče le, lično, devojče,",
+       "en": "- Marica, oh, lovely girl,"
+      },
+      {
+       "cyr": "умирам загин'вам за тебе,",
+       "lat": "umiram zagin'vam za tebe,",
+       "en": "I am dying, perishing for you,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман,",
+       "lat": "of, aman, aman, aman,",
+       "en": "oh, aman, aman, aman,"
+      },
+      {
+       "cyr": "животот го давам за тебе,",
+       "lat": "životot go davam za tebe,",
+       "en": "I give my life for you,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ојди прашај ја ле, мајка ти,",
+       "lat": "Ojdi prašaj ja le, majka ti,",
+       "en": "Go, ask your mother, oh,"
+      },
+      {
+       "cyr": "дали ќе те даде за мене,",
+       "lat": "dali ḱe te dade za mene,",
+       "en": "whether she will give you to me,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман,",
+       "lat": "of, aman, aman, aman,",
+       "en": "oh, aman, aman, aman,"
+      },
+      {
+       "cyr": "за мене бре сирак, сиромав,",
+       "lat": "za mene bre sirak, siromav,",
+       "en": "to me, a poor orphan, a pauper,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- А бре лудо, а бре будало,",
+       "lat": "- A bre ludo, a bre budalo,",
+       "en": "- Hey fool, hey silly one,"
+      },
+      {
+       "cyr": "јас си немам никој од рода,",
+       "lat": "jas si nemam nikoj od roda,",
+       "en": "I have nobody of my kin,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман,",
+       "lat": "of, aman, aman, aman,",
+       "en": "oh, aman, aman, aman,"
+      },
+      {
+       "cyr": "сираче сум без мајка и татко,",
+       "lat": "sirače sum bez majka i tatko,",
+       "en": "I am an orphan without mother and father,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако сакаш ти да ме земиш,",
+       "lat": "Ako sakaš ti da me zemiš,",
+       "en": "If you want to take me,"
+      },
+      {
+       "cyr": "јас кај тебе сама ќе дојдам,",
+       "lat": "jas kaj tebe sama ḱe dojdam,",
+       "en": "I will come to you by myself,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман,",
+       "lat": "of, aman, aman, aman,",
+       "en": "oh, aman, aman, aman,"
+      },
+      {
+       "cyr": "и со тебе век ќе векувам,",
+       "lat": "i so tebe vek ḱe vekuvam,",
+       "en": "and with you I will live all my life,"
+      },
+      {
+       "cyr": "оф, аман, аман, аман.",
+       "lat": "of, aman, aman, aman.",
+       "en": "oh, aman, aman, aman."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,118 @@
+{
+ "id": 1664,
+ "slug": "ej-mori-gjurgje",
+ "title_cyr": "Еј мори Ѓурѓе",
+ "title_latin": "Ej mori Ǵurǵe",
+ "title_en": "Oh, dear Gjurgja",
+ "pesna_url": "https://pesna.org/song/1664",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4471"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде си тргнала, еј мори Ѓурѓе,",
+       "lat": "Kade si trgnala, ej mori Ǵurǵe,",
+       "en": "Where have you gone, oh dear Gjurgja,"
+      },
+      {
+       "cyr": "каде ќе одиш,",
+       "lat": "kade ḱe odiš,",
+       "en": "where are you going,"
+      },
+      {
+       "cyr": "поглед фрли, дај застани,",
+       "lat": "pogled frli, daj zastani,",
+       "en": "take a look, stop for a second,"
+      },
+      {
+       "cyr": "барем прозбори.",
+       "lat": "barem prozbori.",
+       "en": "at least speak to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мерак, мерак да ми помине,",
+       "lat": "Merak, merak da mi pomine,",
+       "en": "Desire, my desire may pass,"
+      },
+      {
+       "cyr": "како тебе, лична Ѓурѓе,",
+       "lat": "kako tebe, lična Ǵurǵe,",
+       "en": "like you, my dear Gjurgja,"
+      },
+      {
+       "cyr": "око не виде.",
+       "lat": "oko ne vide.",
+       "en": "the eye has not seen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како сонце грееше, еј мори Ѓурѓе,",
+       "lat": "Kako sonce greeše, ej mori Ǵurǵe,",
+       "en": "You shine like the sun, oh dear Gjurgja,"
+      },
+      {
+       "cyr": "кога ќе се насмееш,",
+       "lat": "koga ḱe se nasmeeš,",
+       "en": "when you smile,"
+      },
+      {
+       "cyr": "поглед фрли, дај застани,",
+       "lat": "pogled frli, daj zastani,",
+       "en": "take a look, stop for a second,"
+      },
+      {
+       "cyr": "барем прозбори.",
+       "lat": "barem prozbori.",
+       "en": "at least speak to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мерак, мерак да ми помине,",
+       "lat": "Merak, merak da mi pomine,",
+       "en": "Desire, my desire may pass,"
+      },
+      {
+       "cyr": "како тебе, лична Ѓурѓе,",
+       "lat": "kako tebe, lična Ǵurǵe,",
+       "en": "like you, my dear Gjurgja,"
+      },
+      {
+       "cyr": "око не виде.",
+       "lat": "oko ne vide.",
+       "en": "the eye has not seen."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

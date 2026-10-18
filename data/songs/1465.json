@@ -1,0 +1,217 @@
+{
+ "id": 1465,
+ "slug": "od-tebe-kosa-mi-pobele",
+ "title_cyr": "Од тебе коса ми побеле",
+ "title_latin": "Od tebe kosa mi pobele",
+ "title_en": "Because of You My Hair Turned White",
+ "pesna_url": "https://pesna.org/song/1465",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Што мајка беше' is read as 'what kind of mother was she' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "глава",
+   "en": "head"
+  },
+  {
+   "mk": "боли",
+   "en": "aches"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "старост",
+   "en": "old age"
+  },
+  {
+   "mk": "коса",
+   "en": "hair"
+  },
+  {
+   "mk": "побеле",
+   "en": "turned white"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "запусти",
+   "en": "made deserted"
+  },
+  {
+   "mk": "ѕвер",
+   "en": "beast"
+  },
+  {
+   "mk": "огин",
+   "en": "fire (dialect)"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3771"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од тебе, од тебе",
+       "lat": "Od tebe, od tebe",
+       "en": "Because of you, because of you"
+      },
+      {
+       "cyr": "главата ме боли,",
+       "lat": "glavata me boli,",
+       "en": "my head aches,"
+      },
+      {
+       "cyr": "душата ми гори.",
+       "lat": "dušata mi gori.",
+       "en": "my soul burns."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младост ми помина,",
+       "lat": "Mladost mi pomina,",
+       "en": "My youth has passed,"
+      },
+      {
+       "cyr": "старост ми доаѓа",
+       "lat": "starost mi doaǵa",
+       "en": "old age is coming,"
+      },
+      {
+       "cyr": "од тебе коса ми побеле.",
+       "lat": "od tebe kosa mi pobele.",
+       "en": "because of you my hair turned white."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти душа немаш,",
+       "lat": "Ti duša nemaš,",
+       "en": "You have no soul,"
+      },
+      {
+       "cyr": "ти срце немаш,",
+       "lat": "ti srce nemaš,",
+       "en": "you have no heart,"
+      },
+      {
+       "cyr": "порти ми затвораш.",
+       "lat": "porti mi zatvoraš.",
+       "en": "you shut the gates on me."
+      },
+      {
+       "cyr": "Ти душа немаш,",
+       "lat": "Ti duša nemaš,",
+       "en": "You have no soul,"
+      },
+      {
+       "cyr": "ти срце немаш,",
+       "lat": "ti srce nemaš,",
+       "en": "you have no heart,"
+      },
+      {
+       "cyr": "куќа ми запусти.",
+       "lat": "kuḱa mi zapusti.",
+       "en": "you left my house deserted."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младост ми помина,",
+       "lat": "Mladost mi pomina,",
+       "en": "My youth has passed,"
+      },
+      {
+       "cyr": "старост ми доаѓа",
+       "lat": "starost mi doaǵa",
+       "en": "old age is coming,"
+      },
+      {
+       "cyr": "од тебе коса ми побеле.",
+       "lat": "od tebe kosa mi pobele.",
+       "en": "because of you my hair turned white."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што мајка беше,",
+       "lat": "Što majka beše,",
+       "en": "What kind of mother was she,"
+      },
+      {
+       "cyr": "што ѕвер те роди,",
+       "lat": "što dzver te rodi,",
+       "en": "what beast bore you,"
+      },
+      {
+       "cyr": "огин да те изгори.",
+       "lat": "ogin da te izgori.",
+       "en": "may fire burn you."
+      },
+      {
+       "cyr": "Што мајка беше,",
+       "lat": "Što majka beše,",
+       "en": "What kind of mother was she,"
+      },
+      {
+       "cyr": "што ѕвер те роди,",
+       "lat": "što dzver te rodi,",
+       "en": "what beast bore you,"
+      },
+      {
+       "cyr": "огин да ја изгори.",
+       "lat": "ogin da ja izgori.",
+       "en": "may fire burn her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младост ми помина,",
+       "lat": "Mladost mi pomina,",
+       "en": "My youth has passed,"
+      },
+      {
+       "cyr": "старост ми доаѓа",
+       "lat": "starost mi doaǵa",
+       "en": "old age is coming,"
+      },
+      {
+       "cyr": "од тебе коса ми побеле.",
+       "lat": "od tebe kosa mi pobele.",
+       "en": "because of you my hair turned white."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

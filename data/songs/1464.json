@@ -1,0 +1,161 @@
+{
+ "id": 1464,
+ "slug": "timin-aga-ide-od-dabilja",
+ "title_cyr": "Тимин ага иде од Дабиља",
+ "title_latin": "Timin aga ide od Dabilja",
+ "title_en": "Timin Aga comes from Dabilja",
+ "pesna_url": "https://pesna.org/song/1464",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dabilja is a place name. 'Правo си тегле' is my reading ('is heading straight'); it is dialect. Each line is sung twice. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "ага",
+   "en": "aga, landlord/lord (Ottoman title)"
+  },
+  {
+   "mk": "чифлик",
+   "en": "estate, farm held by an aga"
+  },
+  {
+   "mk": "чифлиганите",
+   "en": "the estate peasants/tenants"
+  },
+  {
+   "mk": "станале на нозе",
+   "en": "stood up (lit. 'stood on feet')"
+  },
+  {
+   "mk": "се разлути",
+   "en": "got angry"
+  },
+  {
+   "mk": "љуто",
+   "en": "fiercely, bitterly"
+  },
+  {
+   "mk": "сечам",
+   "en": "I cut, chop"
+  },
+  {
+   "mk": "тегле",
+   "en": "heads for, pulls toward (my reading)"
+  }
+ ],
+ "performers": [
+  "Распеани струмичани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани струмичани",
+   "url": "https://pesna.org/audio-download/3769"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тимин ага иде од Дабиља,",
+       "lat": "Timin aga ide od Dabilja,",
+       "en": "Timin Aga comes from Dabilja,"
+      },
+      {
+       "cyr": "Тимин ага иде од Дабиља.",
+       "lat": "Timin aga ide od Dabilja.",
+       "en": "Timin Aga comes from Dabilja."
+      },
+      {
+       "cyr": "Право си тегле за чифлико,",
+       "lat": "Pravo si tegle za čifliko,",
+       "en": "He is heading straight for the estate,"
+      },
+      {
+       "cyr": "право си тегле за чифлико.",
+       "lat": "pravo si tegle za čifliko.",
+       "en": "he is heading straight for the estate."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога го виделе чифлиганите,",
+       "lat": "Koga go videle čifliganite,",
+       "en": "When the estate peasants saw him,"
+      },
+      {
+       "cyr": "кога го виделе чифлиганите.",
+       "lat": "koga go videle čifliganite.",
+       "en": "when the estate peasants saw him,"
+      },
+      {
+       "cyr": "Сите на нозе му станале,",
+       "lat": "Site na noze mu stanale,",
+       "en": "they all stood up for him,"
+      },
+      {
+       "cyr": "сите на нозе му станале.",
+       "lat": "site na noze mu stanale.",
+       "en": "they all stood up for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само Џафер ага не му стана,",
+       "lat": "Samo Džafer aga ne mu stana,",
+       "en": "Only Dzhafer Aga did not stand up,"
+      },
+      {
+       "cyr": "само Џафер ага не му стана.",
+       "lat": "samo Džafer aga ne mu stana.",
+       "en": "only Dzhafer Aga did not stand up."
+      },
+      {
+       "cyr": "Па му се љуто разлути,",
+       "lat": "Pa mu se ljuto razluti,",
+       "en": "So he grew fiercely angry at him,"
+      },
+      {
+       "cyr": "па му се љуто разлути.",
+       "lat": "pa mu se ljuto razluti.",
+       "en": "so he grew fiercely angry at him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе ми дојдеш на лето в полето,",
+       "lat": "Koga ḱe mi dojdeš na leto v poleto,",
+       "en": "When you come to me in summer in the field,"
+      },
+      {
+       "cyr": "кога ќе ми дојдеш на лето в полето.",
+       "lat": "koga ḱe mi dojdeš na leto v poleto.",
+       "en": "when you come to me in summer in the field."
+      },
+      {
+       "cyr": "Јас ќе ти ја сечам твојата глава,",
+       "lat": "Jas ḱe ti ja sečam tvojata glava,",
+       "en": "I will cut off your head,"
+      },
+      {
+       "cyr": "јас ќе ти ја сечам твојата глава.",
+       "lat": "jas ḱe ti ja sečam tvojata glava.",
+       "en": "I will cut off your head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

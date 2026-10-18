@@ -1,0 +1,230 @@
+{
+ "id": 666,
+ "slug": "dali-znaesh-mila-majko",
+ "title_cyr": "Дали знаеш мила мајко",
+ "title_latin": "Dali znaeš mila majko",
+ "title_en": "Do You Know, Dear Mother",
+ "pesna_url": "https://pesna.org/song/666",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, reads like a 20th-century composed song but I cannot name an author. 'проклета да си од либето' is my reading: 'cursed be you for the sweetheart (who parted us)'.",
+ "words_to_learn": [
+  {
+   "mk": "несреќна",
+   "en": "unhappy, unfortunate"
+  },
+  {
+   "mk": "сама",
+   "en": "alone"
+  },
+  {
+   "mk": "не смеам",
+   "en": "I do not dare"
+  },
+  {
+   "mk": "проклета",
+   "en": "cursed"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "раздели",
+   "en": "separated"
+  },
+  {
+   "mk": "в' гради",
+   "en": "in the chest"
+  },
+  {
+   "mk": "мраз",
+   "en": "frost"
+  },
+  {
+   "mk": "тајна љубов",
+   "en": "secret love"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  }
+ ],
+ "performers": [
+  "Ристо Пулевски",
+  "Peter Gabriel"
+ ],
+ "audio": [
+  {
+   "who": "Ристо Пулевски",
+   "url": "https://pesna.org/audio-download/116"
+  },
+  {
+   "who": "Peter Gabriel",
+   "url": "https://pesna.org/audio-download/1668"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дали знаеш мила мајко",
+       "lat": "Dali znaeš mila majko",
+       "en": "Do you know, dear mother,"
+      },
+      {
+       "cyr": "што сум несреќна",
+       "lat": "što sum nesreḱna",
+       "en": "how unhappy I am,"
+      },
+      {
+       "cyr": "стално дома сама седам",
+       "lat": "stalno doma sama sedam",
+       "en": "I always sit at home alone,"
+      },
+      {
+       "cyr": "надвор не смеам.",
+       "lat": "nadvor ne smeam.",
+       "en": "I do not dare go outside."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј мила мајко проклета да си",
+       "lat": "Ej mila majko prokleta da si",
+       "en": "Hey dear mother, may you be cursed"
+      },
+      {
+       "cyr": "Еј од либето што ме раздели.",
+       "lat": "Ej od libeto što me razdeli.",
+       "en": "Hey, for the sweetheart who parted me from him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од либето што ме раздели",
+       "lat": "Od libeto što me razdeli",
+       "en": "For the sweetheart who parted me from him"
+      },
+      {
+       "cyr": "без да сакам јас",
+       "lat": "bez da sakam jas",
+       "en": "against my will,"
+      },
+      {
+       "cyr": "в' гради болка ми остави",
+       "lat": "v' gradi bolka mi ostavi",
+       "en": "he left pain in my chest"
+      },
+      {
+       "cyr": "на срце мраз.",
+       "lat": "na srce mraz.",
+       "en": "and frost on my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј мила мајко проклета да си",
+       "lat": "Ej mila majko prokleta da si",
+       "en": "Hey dear mother, may you be cursed"
+      },
+      {
+       "cyr": "Еј од либето што ме раздели.",
+       "lat": "Ej od libeto što me razdeli.",
+       "en": "Hey, for the sweetheart who parted me from him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали пак тој ќе се врати",
+       "lat": "Dali pak toj ḱe se vrati",
+       "en": "Will he come back again"
+      },
+      {
+       "cyr": "јас да го чекам",
+       "lat": "jas da go čekam",
+       "en": "so that I can wait for him,"
+      },
+      {
+       "cyr": "до две думи јас да му кажам",
+       "lat": "do dve dumi jas da mu kažam",
+       "en": "so I can tell him two words,"
+      },
+      {
+       "cyr": "дека ќе умрам.",
+       "lat": "deka ḱe umram.",
+       "en": "that I will die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј мила мајко проклета да си",
+       "lat": "Ej mila majko prokleta da si",
+       "en": "Hey dear mother, may you be cursed"
+      },
+      {
+       "cyr": "Еј од либето што ме раздели.",
+       "lat": "Ej od libeto što me razdeli.",
+       "en": "Hey, for the sweetheart who parted me from him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две години тајна љубов",
+       "lat": "Dve godini tajna ljubov",
+       "en": "Two years of secret love,"
+      },
+      {
+       "cyr": "нека секој знај",
+       "lat": "neka sekoj znaj",
+       "en": "let everyone know,"
+      },
+      {
+       "cyr": "таа мене ќе ме мачи",
+       "lat": "taa mene ḱe me mači",
+       "en": "it will torment me"
+      },
+      {
+       "cyr": "дури до гроба.",
+       "lat": "duri do groba.",
+       "en": "all the way to the grave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј мила мајко проклета да си",
+       "lat": "Ej mila majko prokleta da si",
+       "en": "Hey dear mother, may you be cursed"
+      },
+      {
+       "cyr": "Еј од либето што ме раздели.",
+       "lat": "Ej od libeto što me razdeli.",
+       "en": "Hey, for the sweetheart who parted me from him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

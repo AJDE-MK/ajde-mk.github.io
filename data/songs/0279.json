@@ -1,0 +1,262 @@
+{
+ "id": 279,
+ "slug": "tinka-idi-od-bitola",
+ "title_cyr": "Тинка иди од Битола",
+ "title_latin": "Tinka idi od Bitola",
+ "title_en": "Tinka Comes from Bitola",
+ "pesna_url": "https://pesna.org/song/279",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Ressen and Jankovec are places near Lake Prespa. The last two lines are my reading of the dialect 'сакам' as 'I love you'.",
+ "words_to_learn": [
+  {
+   "mk": "работа",
+   "en": "work"
+  },
+  {
+   "mk": "елај",
+   "en": "come (dialect imperative)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "запри",
+   "en": "stop"
+  },
+  {
+   "mk": "гушкам",
+   "en": "I hug"
+  },
+  {
+   "mk": "терам",
+   "en": "I drive, ride"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1965"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тинка иди од Битола,",
+       "lat": "Tinka idi od Bitola,",
+       "en": "Tinka is coming from Bitola,"
+      },
+      {
+       "cyr": "Јонче иди од работа.",
+       "lat": "Jonče idi od rabota.",
+       "en": "Jonche is coming from work."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море бре, море Јонче.",
+       "lat": "- More bre, more Jonče.",
+       "en": "- Hey there, hey Jonche."
+      },
+      {
+       "cyr": "- Леле бре, леле Тинке.",
+       "lat": "- Lele bre, lele Tinke.",
+       "en": "- Oh dear, oh Tinka."
+      },
+      {
+       "cyr": "Јонче иди од работа.",
+       "lat": "Jonče idi od rabota.",
+       "en": "Jonche is coming from work."
+      },
+      {
+       "cyr": "- Ајде Тинке, елај ти либе ле",
+       "lat": "- Ajde Tinke, elaj ti libe le",
+       "en": "- Come, Tinka, come, my love,"
+      },
+      {
+       "cyr": "да те земам за невеста.",
+       "lat": "da te zemam za nevesta.",
+       "en": "let me take you as my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се сретиле меѓу Ресен,",
+       "lat": "Se sretile meǵu Resen,",
+       "en": "They met between Resen,"
+      },
+      {
+       "cyr": "меѓу Ресен и Јанковец.",
+       "lat": "meǵu Resen i Jankovec.",
+       "en": "between Resen and Jankovec."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море бре, море Јонче.",
+       "lat": "- More bre, more Jonče.",
+       "en": "- Hey there, hey Jonche."
+      },
+      {
+       "cyr": "- Леле бре, леле Тинке.",
+       "lat": "- Lele bre, lele Tinke.",
+       "en": "- Oh dear, oh Tinka."
+      },
+      {
+       "cyr": "Меѓу Ресен и Јанковец.",
+       "lat": "Meǵu Resen i Jankovec.",
+       "en": "Between Resen and Jankovec."
+      },
+      {
+       "cyr": "- Ајде Тинке, елај ти либе ле",
+       "lat": "- Ajde Tinke, elaj ti libe le",
+       "en": "- Come, Tinka, come, my love,"
+      },
+      {
+       "cyr": "да те земам за невеста.",
+       "lat": "da te zemam za nevesta.",
+       "en": "let me take you as my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тинка му вели на Јончета:",
+       "lat": "Tinka mu veli na Jončeta:",
+       "en": "Tinka says to Jonche:"
+      },
+      {
+       "cyr": "- Запри го Јонче твојто коњче.",
+       "lat": "- Zapri go Jonče tvojto konjče.",
+       "en": "- Stop your little horse, Jonche."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море бре, море Јонче.",
+       "lat": "- More bre, more Jonče.",
+       "en": "- Hey there, hey Jonche."
+      },
+      {
+       "cyr": "- Леле бре, леле Тинке.",
+       "lat": "- Lele bre, lele Tinke.",
+       "en": "- Oh dear, oh Tinka."
+      },
+      {
+       "cyr": "Запри го Јонче твојто коњче.",
+       "lat": "Zapri go Jonče tvojto konjče.",
+       "en": "Stop your little horse, Jonche."
+      },
+      {
+       "cyr": "- Ајде Тинке, елај ти либе ле",
+       "lat": "- Ajde Tinke, elaj ti libe le",
+       "en": "- Come, Tinka, come, my love,"
+      },
+      {
+       "cyr": "да те земам за невеста.",
+       "lat": "da te zemam za nevesta.",
+       "en": "let me take you as my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде Тинке, ајде душо,",
+       "lat": "- Ajde Tinke, ajde dušo,",
+       "en": "- Come, Tinka, come, my soul,"
+      },
+      {
+       "cyr": "со едната рака ќе го терам.",
+       "lat": "so ednata raka ḱe go teram.",
+       "en": "with one hand I will drive it."
+      },
+      {
+       "cyr": "Со едната рака ќе го терам",
+       "lat": "So ednata raka ḱe go teram",
+       "en": "With one hand I will drive it,"
+      },
+      {
+       "cyr": "со другата ќе те гушкам.",
+       "lat": "so drugata ḱe te guškam.",
+       "en": "with the other I will hug you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море бре, море Јонче.",
+       "lat": "- More bre, more Jonče.",
+       "en": "- Hey there, hey Jonche."
+      },
+      {
+       "cyr": "- Леле бре, леле Тинке.",
+       "lat": "- Lele bre, lele Tinke.",
+       "en": "- Oh dear, oh Tinka."
+      },
+      {
+       "cyr": "Со другата ќе те гушкам",
+       "lat": "So drugata ḱe te guškam",
+       "en": "With the other I will hug you."
+      },
+      {
+       "cyr": "- Ајде Тинке, елај ти либе ле",
+       "lat": "- Ajde Tinke, elaj ti libe le",
+       "en": "- Come, Tinka, come, my love,"
+      },
+      {
+       "cyr": "да те земам за невеста.",
+       "lat": "da te zemam za nevesta.",
+       "en": "let me take you as my bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сакам Јонче, сакам бре либе ле",
+       "lat": "Sakam Jonče, sakam bre libe le",
+       "en": "I love you, Jonche, I love you, my love,"
+      },
+      {
+       "cyr": "да ти бидам јас невеста.",
+       "lat": "da ti bidam jas nevesta.",
+       "en": "let me be your bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

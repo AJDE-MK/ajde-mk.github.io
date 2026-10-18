@@ -1,0 +1,194 @@
+{
+ "id": 683,
+ "slug": "lichna-valandovchanka",
+ "title_cyr": "Лична валандовчанка",
+ "title_latin": "Lična valandovčanka",
+ "title_en": "The Lovely Girl from Valandovo",
+ "pesna_url": "https://pesna.org/song/683",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (no author I can name). 'калеша' is a guess, left untranslated; 'Дојрански' I read as 'of Dojran'; 'љуби ги разделбите' ('love the partings') is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "бистри",
+   "en": "clear, bright"
+  },
+  {
+   "mk": "калинка",
+   "en": "guelder rose berry (red)"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty, handsome"
+  },
+  {
+   "mk": "заколна",
+   "en": "swore"
+  },
+  {
+   "mk": "рујно",
+   "en": "ruddy, deep red"
+  },
+  {
+   "mk": "утеха",
+   "en": "comfort"
+  }
+ ],
+ "performers": [
+  "Кирчо Поп Лазаров"
+ ],
+ "audio": [
+  {
+   "who": "Кирчо Поп Лазаров",
+   "url": "https://pesna.org/audio-download/861"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Една мома калеша,",
+       "lat": "Edna moma kaleša,",
+       "en": "One girl, a kaleša,"
+      },
+      {
+       "cyr": "што ја сретнав в' младоста,",
+       "lat": "što ja sretnav v' mladosta,",
+       "en": "whom I met in my youth,"
+      },
+      {
+       "cyr": "уште не ме остава,",
+       "lat": "ušte ne me ostava,",
+       "en": "still does not leave me,"
+      },
+      {
+       "cyr": "да ја сетам радоста.",
+       "lat": "da ja setam radosta.",
+       "en": "so that I recall the joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очи бистри, Дојрански",
+       "lat": "Oči bistri, Dojranski",
+       "en": "Bright eyes, Dojran-like,"
+      },
+      {
+       "cyr": "уста, зрела калинка,",
+       "lat": "usta, zrela kalinka,",
+       "en": "lips like a ripe guelder rose,"
+      },
+      {
+       "cyr": "лична Валандовчанка.",
+       "lat": "lična Valandovčanka.",
+       "en": "lovely Valandovo girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ја љубев искрено,",
+       "lat": "Jas ja ljubev iskreno,",
+       "en": "I loved her sincerely,"
+      },
+      {
+       "cyr": "таа ми се заколна,",
+       "lat": "taa mi se zakolna,",
+       "en": "she swore to me"
+      },
+      {
+       "cyr": "дека друг не ќе сака,",
+       "lat": "deka drug ne ḱe saka,",
+       "en": "that she would love no other,"
+      },
+      {
+       "cyr": "само мене до века.",
+       "lat": "samo mene do veka.",
+       "en": "only me forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очи бистри, Дојрански",
+       "lat": "Oči bistri, Dojranski",
+       "en": "Bright eyes, Dojran-like,"
+      },
+      {
+       "cyr": "уста, зрела калинка,",
+       "lat": "usta, zrela kalinka,",
+       "en": "lips like a ripe guelder rose,"
+      },
+      {
+       "cyr": "лична Валандовчанка.",
+       "lat": "lična Valandovčanka.",
+       "en": "lovely Valandovo girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јужен ветер в' косите,",
+       "lat": "Južen veter v' kosite,",
+       "en": "A southern wind in her hair,"
+      },
+      {
+       "cyr": "рујно вино од желбите,",
+       "lat": "rujno vino od želbite,",
+       "en": "ruddy wine of desires,"
+      },
+      {
+       "cyr": "утеха ми остави,",
+       "lat": "uteha mi ostavi,",
+       "en": "she left me comfort,"
+      },
+      {
+       "cyr": "љуби ги разделбите.",
+       "lat": "ljubi gi razdelbite.",
+       "en": "love the partings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очи бистри, Дојрански",
+       "lat": "Oči bistri, Dojranski",
+       "en": "Bright eyes, Dojran-like,"
+      },
+      {
+       "cyr": "уста, зрела калинка,",
+       "lat": "usta, zrela kalinka,",
+       "en": "lips like a ripe guelder rose,"
+      },
+      {
+       "cyr": "лична Валандовчанка.",
+       "lat": "lična Valandovčanka.",
+       "en": "lovely Valandovo girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

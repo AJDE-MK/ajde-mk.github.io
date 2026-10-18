@@ -1,0 +1,224 @@
+{
+ "id": 976,
+ "slug": "mlada-chorbadzhijke",
+ "title_cyr": "Млада чорбаџијке",
+ "title_latin": "Mlada čorbadžijke",
+ "title_en": "Young mistress",
+ "pesna_url": "https://pesna.org/song/976",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'вишни ливади' translated as 'high meadows' (my reading, could be a place name or 'upper meadows'). Dialogue between a servant and his employer's young wife; traditional.",
+ "words_to_learn": [
+  {
+   "mk": "чорбаџијка",
+   "en": "wife of a wealthy man / mistress"
+  },
+  {
+   "mk": "измеќар",
+   "en": "servant, hired hand"
+  },
+  {
+   "mk": "измеќарка",
+   "en": "maidservant"
+  },
+  {
+   "mk": "спадни",
+   "en": "come down"
+  },
+  {
+   "mk": "памтиш",
+   "en": "you remember"
+  },
+  {
+   "mk": "слуговало",
+   "en": "served as a servant (neuter form, dialect)"
+  },
+  {
+   "mk": "годам се",
+   "en": "I get engaged"
+  },
+  {
+   "mk": "нејќум",
+   "en": "I do not want (dialect)"
+  },
+  {
+   "mk": "искам",
+   "en": "I want (dialect)"
+  }
+ ],
+ "performers": [
+  "Balkan Sevdah"
+ ],
+ "audio": [
+  {
+   "who": "Balkan Sevdah",
+   "url": "https://pesna.org/audio-download/2263"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Спадни, спадни, млада чорбаџијке мори,",
+       "lat": "- Spadni, spadni, mlada čorbadžijke mori,",
+       "en": "- Come down, come down, young mistress, hey,"
+      },
+      {
+       "cyr": "од вишни ливади, млада чорбаџијке мори,",
+       "lat": "od višni livadi, mlada čorbadžijke mori,",
+       "en": "from the high meadows, young mistress, hey,"
+      },
+      {
+       "cyr": "од вишни ливади.",
+       "lat": "od višni livadi.",
+       "en": "from the high meadows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали памтиш, млада чорбаџијке, ле мори,",
+       "lat": "Dali pamtiš, mlada čorbadžijke, le mori,",
+       "en": "Do you remember, young mistress, hey,"
+      },
+      {
+       "cyr": "што сам слуговало, млада чорбаџијке, ле мори,",
+       "lat": "što sam slugovalo, mlada čorbadžijke, le mori,",
+       "en": "how I served as your hired man, young mistress, hey,"
+      },
+      {
+       "cyr": "до девет години?",
+       "lat": "do devet godini?",
+       "en": "for nine years?"
+      },
+      {
+       "cyr": "Мајка ми е, млада чорбаџијке, ле мори,",
+       "lat": "Majka mi e, mlada čorbadžijke, le mori,",
+       "en": "My mother, young mistress, hey,"
+      },
+      {
+       "cyr": "мома намерила, млада чорбаџијке, ле мори,",
+       "lat": "moma namerila, mlada čorbadžijke, le mori,",
+       "en": "has found a girl, young mistress, hey,"
+      },
+      {
+       "cyr": "ќе идам да се годам.",
+       "lat": "ḱe idam da se godam.",
+       "en": "I am going to get engaged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас се качив, младо измеќарче, ле мори,",
+       "lat": "- Jas se kačiv, mlado izmeḱarče, le mori,",
+       "en": "- I climbed, young servant, hey,"
+      },
+      {
+       "cyr": "на вишни ливади, младо измеќарче, ле мори,",
+       "lat": "na višni livadi, mlado izmeḱarče, le mori,",
+       "en": "onto the high meadows, young servant, hey,"
+      },
+      {
+       "cyr": "на вишни ливади.",
+       "lat": "na višni livadi.",
+       "en": "onto the high meadows."
+      },
+      {
+       "cyr": "Јас си имам, младо измеќарче, ле мори,",
+       "lat": "Jas si imam, mlado izmeḱarče, le mori,",
+       "en": "I have, young servant, hey,"
+      },
+      {
+       "cyr": "девет измеќарки, која сакаш, ајде ле мори,",
+       "lat": "devet izmeḱarki, koja sakaš, ajde le mori,",
+       "en": "nine maidservants, whichever you want, come on, hey,"
+      },
+      {
+       "cyr": "неа ќе ти годам.",
+       "lat": "nea ḱe ti godam.",
+       "en": "I will betroth her to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ти нејќум, млада чорбаџијке ле мори,",
+       "lat": "- Jas ti nejḱum, mlada čorbadžijke le mori,",
+       "en": "- I do not want, young mistress, hey,"
+      },
+      {
+       "cyr": "твојте измеќарки, млада чорбаџијке ле мори,",
+       "lat": "tvojte izmeḱarki, mlada čorbadžijke le mori,",
+       "en": "your maidservants, young mistress, hey,"
+      },
+      {
+       "cyr": "твојте измеќарки.",
+       "lat": "tvojte izmeḱarki.",
+       "en": "your maidservants."
+      },
+      {
+       "cyr": "Јас си искам, млада чорбаџијке ле мори,",
+       "lat": "Jas si iskam, mlada čorbadžijke le mori,",
+       "en": "I want, young mistress, hey,"
+      },
+      {
+       "cyr": "тебе да си земам, млада чорбаџијке ле мори,",
+       "lat": "tebe da si zemam, mlada čorbadžijke le mori,",
+       "en": "to take you, young mistress, hey,"
+      },
+      {
+       "cyr": "тебе да си земам.",
+       "lat": "tebe da si zemam.",
+       "en": "to take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ти нејќум, млада чорбаџијке, ле мори,",
+       "lat": "Jas ti nejḱum, mlada čorbadžijke, le mori,",
+       "en": "I do not want, young mistress, hey,"
+      },
+      {
+       "cyr": "твојте измеќарки, млада чорбаџијке, ле мори,",
+       "lat": "tvojte izmeḱarki, mlada čorbadžijke, le mori,",
+       "en": "your maidservants, young mistress, hey,"
+      },
+      {
+       "cyr": "твојте измеќарки.",
+       "lat": "tvojte izmeḱarki.",
+       "en": "your maidservants."
+      },
+      {
+       "cyr": "Јас си искам, млада чорбаџијке, ле мори,",
+       "lat": "Jas si iskam, mlada čorbadžijke, le mori,",
+       "en": "I want, young mistress, hey,"
+      },
+      {
+       "cyr": "тебе да си земам, млада чорбаџијке, ле мори,",
+       "lat": "tebe da si zemam, mlada čorbadžijke, le mori,",
+       "en": "to take you, young mistress, hey,"
+      },
+      {
+       "cyr": "тебе да си земам.",
+       "lat": "tebe da si zemam.",
+       "en": "to take you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

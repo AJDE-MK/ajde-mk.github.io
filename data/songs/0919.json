@@ -1,0 +1,190 @@
+{
+ "id": 919,
+ "slug": "edna-komitska",
+ "title_cyr": "Една комитска",
+ "title_latin": "Edna komitska",
+ "title_en": "A Komita Song",
+ "pesna_url": "https://pesna.org/song/919",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: 'after 100 years' suggests a modern patriotic song, but no author can be named. Delchev, Karev and Sandanski are names of historical Macedonian revolutionaries.",
+ "words_to_learn": [
+  {
+   "mk": "комити",
+   "en": "komitas, irregular rebel fighters"
+  },
+  {
+   "mk": "душманите",
+   "en": "the enemies"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "земја",
+   "en": "land, earth"
+  },
+  {
+   "mk": "гази",
+   "en": "tramples, treads on"
+  },
+  {
+   "mk": "клетва",
+   "en": "oath, curse"
+  },
+  {
+   "mk": "срце гори",
+   "en": "heart burns"
+  },
+  {
+   "mk": "крв",
+   "en": "blood"
+  }
+ ],
+ "performers": [
+  "Смилја Андоновска",
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Смилја Андоновска",
+   "url": "https://pesna.org/audio-download/2051"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2052"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале комитите",
+       "lat": "Se sobrale komitite",
+       "en": "The komitas have gathered"
+      },
+      {
+       "cyr": "ќе ги бркаат душманите:",
+       "lat": "ḱe gi brkaat dušmanite:",
+       "en": "they will chase away the enemies:"
+      },
+      {
+       "cyr": "- Кажи, кажи чедо мое мило,",
+       "lat": "- Kaži, kaži čedo moe milo,",
+       "en": "- Tell me, tell me, my dear child,"
+      },
+      {
+       "cyr": "дал' ја сакаш Македонија?",
+       "lat": "dal' ja sakaš Makedonija?",
+       "en": "do you love Macedonia?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах, живот давам, земја не оставам",
+       "lat": "- Ah, život davam, zemja ne ostavam",
+       "en": "- Ah, I give my life, I do not give up the land"
+      },
+      {
+       "cyr": "да ја гази куче душманско.",
+       "lat": "da ja gazi kuče dušmansko.",
+       "en": "for the enemy dog to trample."
+      },
+      {
+       "cyr": "Наш'та крв е стара македонска,",
+       "lat": "Naš'ta krv e stara makedonska,",
+       "en": "Our blood is old Macedonian,"
+      },
+      {
+       "cyr": "Гоце Делчев, Карев, Сандански.",
+       "lat": "Goce Delčev, Karev, Sandanski.",
+       "en": "Goce Delchev, Karev, Sandanski."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Среде Скопје, град Македонски,",
+       "lat": "Srede Skopje, grad Makedonski,",
+       "en": "In the middle of Skopje, a Macedonian city,"
+      },
+      {
+       "cyr": "пак се прочу по 100 години -",
+       "lat": "pak se proču po 100 godini -",
+       "en": "it became famous again after 100 years -"
+      },
+      {
+       "cyr": "тука има уште комити,",
+       "lat": "tuka ima ušte komiti,",
+       "en": "there are still komitas here,"
+      },
+      {
+       "cyr": "клетва даваат, срце им гори.",
+       "lat": "kletva davaat, srce im gori.",
+       "en": "they swear an oath, their hearts burn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах, живот давам, земја не оставам",
+       "lat": "- Ah, život davam, zemja ne ostavam",
+       "en": "- Ah, I give my life, I do not give up the land"
+      },
+      {
+       "cyr": "да ја гази куче душманско.",
+       "lat": "da ja gazi kuče dušmansko.",
+       "en": "for the enemy dog to trample."
+      },
+      {
+       "cyr": "Наш'та крв е стара македонска,",
+       "lat": "Naš'ta krv e stara makedonska,",
+       "en": "Our blood is old Macedonian,"
+      },
+      {
+       "cyr": "Гоце Делчев, Карев, Сандански.",
+       "lat": "Goce Delčev, Karev, Sandanski.",
+       "en": "Goce Delchev, Karev, Sandanski."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ах, живот давам, земја не оставам",
+       "lat": "- Ah, život davam, zemja ne ostavam",
+       "en": "- Ah, I give my life, I do not give up the land"
+      },
+      {
+       "cyr": "да ја гази куче душманско.",
+       "lat": "da ja gazi kuče dušmansko.",
+       "en": "for the enemy dog to trample."
+      },
+      {
+       "cyr": "Наш'та крв е стара македонска,",
+       "lat": "Naš'ta krv e stara makedonska,",
+       "en": "Our blood is old Macedonian,"
+      },
+      {
+       "cyr": "Александар Македонски.",
+       "lat": "Aleksandar Makedonski.",
+       "en": "Alexander of Macedon."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

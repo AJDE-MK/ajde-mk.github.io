@@ -1,0 +1,200 @@
+{
+ "id": 1046,
+ "slug": "pesna-za-gjorgji-sugare",
+ "title_cyr": "Песна за Ѓорѓи Сугаре",
+ "title_latin": "Pesna za Ǵorǵi Sugare",
+ "title_en": "Song of Gjorgji Sugare",
+ "pesna_url": "https://pesna.org/song/1046",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'сè одбор јунаци' rendered 'all chosen heroes' is my reading. The song is about the Mariovo voivode Gjorgji Sugarev; whether it is old folklore or a later composition I cannot tell, so I treated it as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "плач",
+   "en": "weeping, lament"
+  },
+  {
+   "mk": "куртулиш",
+   "en": "you free/rescue (Turkish loan)"
+  },
+  {
+   "mk": "аскер",
+   "en": "soldier (Turkish loan)"
+  },
+  {
+   "mk": "јаничар",
+   "en": "janissary"
+  },
+  {
+   "mk": "четa",
+   "en": "armed band"
+  },
+  {
+   "mk": "комит",
+   "en": "komit, rebel fighter"
+  },
+  {
+   "mk": "шпиун",
+   "en": "spy"
+  },
+  {
+   "mk": "предаде",
+   "en": "betrayed, handed over"
+  },
+  {
+   "mk": "наган",
+   "en": "revolver"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/2382"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде пак се слуша од Мариово",
+       "lat": "Ajde pak se sluša od Mariovo",
+       "en": "Come on, once again is heard from Mariovo"
+      },
+      {
+       "cyr": "плач од народот:",
+       "lat": "plač od narodot:",
+       "en": "the weeping of the people:"
+      },
+      {
+       "cyr": "- Каде си Ѓорѓи сега да дојдеш,",
+       "lat": "- Kade si Ǵorǵi sega da dojdeš,",
+       "en": "- Where are you, Gjorgji, come now,"
+      },
+      {
+       "cyr": "да нè куртулиш од тие турски,",
+       "lat": "da nè kurtuliš od tie turski,",
+       "en": "and free us from those Turks,"
+      },
+      {
+       "cyr": "турски аскери, од јаничари?",
+       "lat": "turski askeri, od janičari?",
+       "en": "the Turkish soldiers, the janissaries?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ми извикна Ѓорѓи Сугаре,",
+       "lat": "Ajde mi izvikna Ǵorǵi Sugare,",
+       "en": "Come on, Gjorgji Sugare cried out,"
+      },
+      {
+       "cyr": "ем одговори:",
+       "lat": "em odgovori:",
+       "en": "and answered:"
+      },
+      {
+       "cyr": "- Сега за скоро јас ќе пристигнам,",
+       "lat": "- Sega za skoro jas ḱe pristignam,",
+       "en": "- Very soon now I will arrive,"
+      },
+      {
+       "cyr": "да ве куртулам,",
+       "lat": "da ve kurtulam,",
+       "en": "to free you,"
+      },
+      {
+       "cyr": "со мојта чета верни комити,",
+       "lat": "so mojta četa verni komiti,",
+       "en": "with my band of faithful komits,"
+      },
+      {
+       "cyr": "сè одбор јунаци!",
+       "lat": "sè odbor junaci!",
+       "en": "all chosen heroes!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај бог да го бие клетиот шпиун",
+       "lat": "Aj bog da go bie kletiot špiun",
+       "en": "Oh, may God strike the cursed spy"
+      },
+      {
+       "cyr": "Петре Лигушот,",
+       "lat": "Petre Ligušot,",
+       "en": "Petre Ligush,"
+      },
+      {
+       "cyr": "што го предаде славниот војвода",
+       "lat": "što go predade slavniot vojvoda",
+       "en": "who betrayed the glorious voivode"
+      },
+      {
+       "cyr": "Ѓорѓи Сугарев.",
+       "lat": "Ǵorǵi Sugarev.",
+       "en": "Gjorgji Sugarev."
+      },
+      {
+       "cyr": "Бојот започна над Паралово,",
+       "lat": "Bojot započna nad Paralovo,",
+       "en": "The battle began above Paralovo,"
+      },
+      {
+       "cyr": "кај манастирот.",
+       "lat": "kaj manastirot.",
+       "en": "by the monastery."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ми изгина целата дружина",
+       "lat": "Ajde mi izgina celata družina",
+       "en": "Come on, the whole company perished"
+      },
+      {
+       "cyr": "в' борба нерамна,",
+       "lat": "v' borba neramna,",
+       "en": "in the uneven battle,"
+      },
+      {
+       "cyr": "тогај извади наган револвер",
+       "lat": "togaj izvadi nagan revolver",
+       "en": "then he drew his revolver,"
+      },
+      {
+       "cyr": "Ѓорѓи Сугаре,",
+       "lat": "Ǵorǵi Sugare,",
+       "en": "Gjorgji Sugare,"
+      },
+      {
+       "cyr": "самиот крвта си ја пролеа,",
+       "lat": "samiot krvta si ja prolea,",
+       "en": "himself he shed his blood"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

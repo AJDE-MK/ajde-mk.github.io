@@ -1,0 +1,213 @@
+{
+ "id": 1157,
+ "slug": "mirka-na-ginovi",
+ "title_cyr": "Мирка на Гинови",
+ "title_latin": "Mirka na Ginovi",
+ "title_en": "Mirka Ginova",
+ "pesna_url": "https://pesna.org/song/1157",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Song in honour of Mirka Ginova (1916-1946), per the source note. 'Почепската корија' is a place name I could not verify; 'руба ѝ запалија' may mean something more specific than burning clothes (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "ослепе",
+   "en": "went blind"
+  },
+  {
+   "mk": "чудо",
+   "en": "wonder, marvel (here: dreadful sight)"
+  },
+  {
+   "mk": "мачат",
+   "en": "they torment"
+  },
+  {
+   "mk": "зандана",
+   "en": "dungeon"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes, garments"
+  },
+  {
+   "mk": "тажен",
+   "en": "sad, sorrowful"
+  },
+  {
+   "mk": "гулабица",
+   "en": "little dove"
+  },
+  {
+   "mk": "маченица",
+   "en": "martyr, tormented one"
+  },
+  {
+   "mk": "ветер",
+   "en": "wind"
+  }
+ ],
+ "performers": [
+  "Мице Димитров"
+ ],
+ "audio": [
+  {
+   "who": "Мице Димитров",
+   "url": "https://pesna.org/audio-download/2801"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мили боже, дал' ослепе,",
+       "lat": "Mili bože, dal' oslepe,",
+       "en": "Dear God, did you go blind,"
+      },
+      {
+       "cyr": "тоа чудо да не видеш,",
+       "lat": "toa čudo da ne videš,",
+       "en": "that you do not see this wonder,"
+      },
+      {
+       "cyr": "как' ја мачат таа жена,",
+       "lat": "kak' ja mačat taa žena,",
+       "en": "how they torment that woman,"
+      },
+      {
+       "cyr": "как' ѝ вадат нежна душа?",
+       "lat": "kak' ì vadat nežna duša?",
+       "en": "how they pull out her tender soul?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мирка, мајко, на Гинови,",
+       "lat": "Mirka, majko, na Ginovi,",
+       "en": "Mirka, mother, of the Ginovs,"
+      },
+      {
+       "cyr": "роса в' темна зандана,",
+       "lat": "rosa v' temna zandana,",
+       "en": "dew in a dark dungeon,"
+      },
+      {
+       "cyr": "рано очи ѝ затворија,",
+       "lat": "rano oči ì zatvorija,",
+       "en": "they closed her eyes early,"
+      },
+      {
+       "cyr": "руба, мајко, ѝ запалија.",
+       "lat": "ruba, majko, ì zapalija.",
+       "en": "they burned her clothes, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Низ планини тажен одам,",
+       "lat": "Niz planini tažen odam,",
+       "en": "Through the mountains I walk sorrowful,"
+      },
+      {
+       "cyr": "в' далечини песна слушам,",
+       "lat": "v' dalečini pesna slušam,",
+       "en": "from afar I hear a song,"
+      },
+      {
+       "cyr": "темно пиле жално пее,",
+       "lat": "temno pile žalno pee,",
+       "en": "a dark bird sings mournfully"
+      },
+      {
+       "cyr": "низ Почепската корија.",
+       "lat": "niz Počepskata korija.",
+       "en": "through the Pocepsko ravine (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мирка, мајко на Гинови,",
+       "lat": "Mirka, majko na Ginovi,",
+       "en": "Mirka, mother of the Ginovs,"
+      },
+      {
+       "cyr": "роса в' темна зандана,",
+       "lat": "rosa v' temna zandana,",
+       "en": "dew in a dark dungeon,"
+      },
+      {
+       "cyr": "рано очи ѝ затворија,",
+       "lat": "rano oči ì zatvorija,",
+       "en": "they closed her eyes early,"
+      },
+      {
+       "cyr": "руба, мајко, ѝ запалија.",
+       "lat": "ruba, majko, ì zapalija.",
+       "en": "they burned her clothes, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тивок ветер провејува,",
+       "lat": "Tivok veter provejuva,",
+       "en": "A quiet wind blows through,"
+      },
+      {
+       "cyr": "за маките раскажува,",
+       "lat": "za makite raskažuva,",
+       "en": "it tells of the torments,"
+      },
+      {
+       "cyr": "црна земја маченица",
+       "lat": "crna zemja mačenica",
+       "en": "the black earth, the martyr,"
+      },
+      {
+       "cyr": "ми покрива гулабица.",
+       "lat": "mi pokriva gulabica.",
+       "en": "is covering my little dove."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мирка, мајко на Гинови,",
+       "lat": "Mirka, majko na Ginovi,",
+       "en": "Mirka, mother of the Ginovs,"
+      },
+      {
+       "cyr": "роса в' темна зандана,",
+       "lat": "rosa v' temna zandana,",
+       "en": "dew in a dark dungeon,"
+      },
+      {
+       "cyr": "рано очи ѝ затворија,",
+       "lat": "rano oči ì zatvorija,",
+       "en": "they closed her eyes early,"
+      },
+      {
+       "cyr": "руба, мајко, ѝ запалија.",
+       "lat": "ruba, majko, ì zapalija.",
+       "en": "they burned her clothes, mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

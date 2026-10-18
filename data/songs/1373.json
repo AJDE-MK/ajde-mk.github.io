@@ -1,0 +1,162 @@
+{
+ "id": 1373,
+ "slug": "shto-ubavo-nosat-partizanite",
+ "title_cyr": "Што убаво носат партизаните",
+ "title_latin": "Što ubavo nosat partizanite",
+ "title_en": "How Handsomely the Partisans Dress",
+ "pesna_url": "https://pesna.org/song/1373",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song, no author named, so translated. 'убај' is read as 'lovely, handsome' (my reading); 'балисти' refers to the Albanian nationalist Balli Kombetar.",
+ "words_to_learn": [
+  {
+   "mk": "носат",
+   "en": "they wear, carry"
+  },
+  {
+   "mk": "партизани",
+   "en": "partisans"
+  },
+  {
+   "mk": "капче",
+   "en": "little cap"
+  },
+  {
+   "mk": "да се борат",
+   "en": "to fight"
+  },
+  {
+   "mk": "шмајзер",
+   "en": "Schmeisser submachine gun"
+  },
+  {
+   "mk": "шума",
+   "en": "forest"
+  },
+  {
+   "mk": "водач",
+   "en": "leader"
+  },
+  {
+   "mk": "наредба",
+   "en": "order, command"
+  },
+  {
+   "mk": "соборат",
+   "en": "(they) bring down, demolish"
+  },
+  {
+   "mk": "мост",
+   "en": "bridge"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3554"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што убаво носат партизаните",
+       "lat": "Što ubavo nosat partizanite",
+       "en": "How handsomely the partisans dress"
+      },
+      {
+       "cyr": "што убаво носат, мале, партизаните.",
+       "lat": "što ubavo nosat, male, partizanite.",
+       "en": "how handsomely they dress, mother, the partisans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На главата носат убај капчиња",
+       "lat": "Na glavata nosat ubaj kapčinja",
+       "en": "On their heads they wear lovely little caps"
+      },
+      {
+       "cyr": "на капчиња пише, мале, ај, да се борат.",
+       "lat": "na kapčinja piše, male, aj, da se borat.",
+       "en": "on the caps it says, mother, oh, to fight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се борат, мале, со фашистите",
+       "lat": "Da se borat, male, so fašistite",
+       "en": "To fight, mother, against the fascists"
+      },
+      {
+       "cyr": "со фашисти, мила мале, ај, со балисти.",
+       "lat": "so fašisti, mila male, aj, so balisti.",
+       "en": "against the fascists, dear mother, oh, against the Balists."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На рамо си носат шмајзерите",
+       "lat": "Na ramo si nosat šmajzerite",
+       "en": "On their shoulders they carry Schmeissers"
+      },
+      {
+       "cyr": "па си отидоа, мале, ај, по шумите.",
+       "lat": "pa si otidoa, male, aj, po šumite.",
+       "en": "and so they went off, mother, oh, into the forests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Водач им беше, мале, маршал Тито",
+       "lat": "Vodač im beše, male, maršal Tito",
+       "en": "Their leader was, mother, Marshal Tito"
+      },
+      {
+       "cyr": "водач им беше, мале, ај, маршал Тито.",
+       "lat": "vodač im beše, male, aj, maršal Tito.",
+       "en": "their leader was, mother, oh, Marshal Tito."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Он ги даваше, мале, наредбите",
+       "lat": "On gi davaše, male, naredbite",
+       "en": "He gave, mother, the orders"
+      },
+      {
+       "cyr": "да соборат, мила мале, ај, возовите",
+       "lat": "da soborat, mila male, aj, vozovite",
+       "en": "to blow up, dear mother, oh, the trains"
+      },
+      {
+       "cyr": "да соборат, мила мале, ај, мостовите.",
+       "lat": "da soborat, mila male, aj, mostovite.",
+       "en": "to blow up, dear mother, oh, the bridges."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

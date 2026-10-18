@@ -1,0 +1,130 @@
+{
+ "id": 9,
+ "slug": "ajde-leno-da-ojme",
+ "title_cyr": "Ајде Лено да ојме",
+ "title_latin": "Ajde Leno da ojme",
+ "title_en": "Come Lena, let's go",
+ "pesna_url": "https://pesna.org/song/9",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Елена Димитриевска",
+  "Марица Зилковска",
+  "Перса Николова"
+ ],
+ "audio": [
+  {
+   "who": "Елена Димитриевска, Марица Зилковска, Перса Николова",
+   "url": "https://pesna.org/audio-download/1279"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде Лено д' ојме",
+       "lat": "Ajde Leno d' ojme",
+       "en": "Come Lena, let's go"
+      },
+      {
+       "cyr": "долу на сред село,",
+       "lat": "dolu na sred selo,",
+       "en": "down, to the center of the village,"
+      },
+      {
+       "cyr": "долу на сред село,",
+       "lat": "dolu na sred selo,",
+       "en": "down, to the center of the village,"
+      },
+      {
+       "cyr": "собор се собрало.",
+       "lat": "sobor se sobralo.",
+       "en": "there is a gathering."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму се собрале",
+       "lat": "Tamu se sobrale",
+       "en": "There have gathered"
+      },
+      {
+       "cyr": "и стари и млади,",
+       "lat": "i stari i mladi,",
+       "en": "old and young,"
+      },
+      {
+       "cyr": "оро заиграле,",
+       "lat": "oro zaigrale,",
+       "en": "they dance oro,"
+      },
+      {
+       "cyr": "песни запеале.",
+       "lat": "pesni zapeale.",
+       "en": "they sing songs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Среде во орото,",
+       "lat": "Srede vo oroto,",
+       "en": "In the middle of the oro,"
+      },
+      {
+       "cyr": "нашето овчарче,",
+       "lat": "našeto ovčarče,",
+       "en": "there is our shepherd,"
+      },
+      {
+       "cyr": "како е надувало,",
+       "lat": "kako e naduvalo,",
+       "en": "he is blowing"
+      },
+      {
+       "cyr": "таја пуста гајда.",
+       "lat": "taja pusta gajda.",
+       "en": "his damn gajda (bagpipe)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите девојчиња",
+       "lat": "Site devojčinja",
+       "en": "All the girls"
+      },
+      {
+       "cyr": "играат и пеат,",
+       "lat": "igraat i peat,",
+       "en": "are dancing and singing,"
+      },
+      {
+       "cyr": "убавата Цена",
+       "lat": "ubavata Cena",
+       "en": "the pretty Cena"
+      },
+      {
+       "cyr": "ни игра, ни пее.",
+       "lat": "ni igra, ni pee.",
+       "en": "neighter dances, nor sings."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

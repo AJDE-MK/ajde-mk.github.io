@@ -1,0 +1,217 @@
+{
+ "id": 415,
+ "slug": "prsten-mi-padna-nesho",
+ "title_cyr": "Прстен ми падна Нешо",
+ "title_latin": "Prsten mi padna Nešo",
+ "title_en": "My ring fell, Nesho",
+ "pesna_url": "https://pesna.org/song/415",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Нешо' and 'лудо' are address words; I render 'лудо' as 'my dear' (my reading), though it literally means 'crazy/young lad'. 'Таксај му таксај... што ќе му таксаш' is my reading of a bargaining line.",
+ "words_to_learn": [
+  {
+   "mk": "прстен",
+   "en": "ring"
+  },
+  {
+   "mk": "отаде",
+   "en": "on the other side of"
+  },
+  {
+   "mk": "песочина",
+   "en": "sand, sandy ground"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "лудо",
+   "en": "dear, lad (lit. 'crazy one', endearment in folk songs)"
+  },
+  {
+   "mk": "таксај",
+   "en": "bargain, set a price"
+  },
+  {
+   "mk": "бело лице",
+   "en": "white face (fair complexion)"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "slender, straight figure"
+  }
+ ],
+ "performers": [
+  "Кале",
+  "Македонски мерак",
+  "Танец",
+  "Цане Николовски",
+  "Selyani Macedonian Folklore Group"
+ ],
+ "audio": [
+  {
+   "who": "Кале",
+   "url": "https://pesna.org/audio-download/20"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/2216"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/2217"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2969"
+  },
+  {
+   "who": "Selyani Macedonian Folklore Group",
+   "url": "https://pesna.org/audio-download/3421"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Прстен ми падна Нешо",
+       "lat": "Prsten mi padna Nešo",
+       "en": "My ring fell, Nesho,"
+      },
+      {
+       "cyr": "прстен ми падна,",
+       "lat": "prsten mi padna,",
+       "en": "my ring fell,"
+      },
+      {
+       "cyr": "прстен ми падна Нешо",
+       "lat": "prsten mi padna Nešo",
+       "en": "my ring fell, Nesho,"
+      },
+      {
+       "cyr": "отаде река.",
+       "lat": "otade reka.",
+       "en": "across the river."
+      },
+      {
+       "cyr": "Отаде река Нешо",
+       "lat": "Otade reka Nešo",
+       "en": "Across the river, Nesho,"
+      },
+      {
+       "cyr": "отаде река,",
+       "lat": "otade reka,",
+       "en": "across the river,"
+      },
+      {
+       "cyr": "Отаде река Нешо",
+       "lat": "Otade reka Nešo",
+       "en": "Across the river, Nesho,"
+      },
+      {
+       "cyr": "во песочина.",
+       "lat": "vo pesočina.",
+       "en": "into the sand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овчар го најде лудо",
+       "lat": "Ovčar go najde ludo",
+       "en": "A shepherd found it, my dear,"
+      },
+      {
+       "cyr": "овчар го најде,",
+       "lat": "ovčar go najde,",
+       "en": "a shepherd found it,"
+      },
+      {
+       "cyr": "овчар го најде лудо",
+       "lat": "ovčar go najde ludo",
+       "en": "a shepherd found it, my dear,"
+      },
+      {
+       "cyr": "па не го дава.",
+       "lat": "pa ne go dava.",
+       "en": "and won't give it back."
+      },
+      {
+       "cyr": "Таксај му таксај Нешо",
+       "lat": "Taksaj mu taksaj Nešo",
+       "en": "Bargain with him, bargain, Nesho,"
+      },
+      {
+       "cyr": "таксај му таксај,",
+       "lat": "taksaj mu taksaj,",
+       "en": "bargain with him, bargain,"
+      },
+      {
+       "cyr": "таксај му таксај Нешо",
+       "lat": "taksaj mu taksaj Nešo",
+       "en": "bargain with him, bargain, Nesho,"
+      },
+      {
+       "cyr": "што ќе му таксаш.",
+       "lat": "što ḱe mu taksaš.",
+       "en": "what will you bargain for."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Овчар ми бара лудо",
+       "lat": "Ovčar mi bara ludo",
+       "en": "The shepherd asks me, my dear,"
+      },
+      {
+       "cyr": "овчар ми бара,",
+       "lat": "ovčar mi bara,",
+       "en": "the shepherd asks me,"
+      },
+      {
+       "cyr": "овчар ми бара лудо",
+       "lat": "ovčar mi bara ludo",
+       "en": "the shepherd asks me, my dear,"
+      },
+      {
+       "cyr": "белото лице.",
+       "lat": "beloto lice.",
+       "en": "for my white face."
+      },
+      {
+       "cyr": "Белото лице лудо",
+       "lat": "Beloto lice ludo",
+       "en": "My white face, my dear,"
+      },
+      {
+       "cyr": "белото лице,",
+       "lat": "beloto lice,",
+       "en": "my white face,"
+      },
+      {
+       "cyr": "белото лице лудо",
+       "lat": "beloto lice ludo",
+       "en": "my white face, my dear,"
+      },
+      {
+       "cyr": "рамната снага.",
+       "lat": "ramnata snaga.",
+       "en": "my slender figure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

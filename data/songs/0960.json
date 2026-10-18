@@ -1,0 +1,123 @@
+{
+ "id": 960,
+ "slug": "gukni-mi-gukni-gugutko",
+ "title_cyr": "Гукни ми, гукни гугутко",
+ "title_latin": "Gukni mi, gukni gugutko",
+ "title_en": "Coo for Me, Coo, Little Dove",
+ "pesna_url": "https://pesna.org/song/960",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional bride's song, as far as I can tell. 'Сум било' (I was) is a dialect/narrative form; 'ц'втеше/цавтеше' = bloomed.",
+ "words_to_learn": [
+  {
+   "mk": "гугутка",
+   "en": "turtle dove"
+  },
+  {
+   "mk": "гуга",
+   "en": "coos"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "двор",
+   "en": "yard, courtyard"
+  },
+  {
+   "mk": "руса коса",
+   "en": "fair/blond hair"
+  },
+  {
+   "mk": "цавтеше",
+   "en": "was blooming (dialect)"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear (lament)"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2221"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, гугутка гуга у гори,",
+       "lat": "Ej, gugutka guga u gori,",
+       "en": "Hey, a dove coos in the forest,"
+      },
+      {
+       "cyr": "невеста шета по двори.",
+       "lat": "nevesta šeta po dvori.",
+       "en": "a bride walks through the yards."
+      },
+      {
+       "cyr": "Еј, гукни ми, гукни гугутко,",
+       "lat": "Ej, gukni mi, gukni gugutko,",
+       "en": "Hey, coo for me, coo, little dove,"
+      },
+      {
+       "cyr": "и јас сум така гугало.",
+       "lat": "i jas sum taka gugalo.",
+       "en": "I too cooed like that."
+      },
+      {
+       "cyr": "И јас сам така гугало, леле,",
+       "lat": "I jas sam taka gugalo, lele,",
+       "en": "I too cooed like that, oh dear,"
+      },
+      {
+       "cyr": "кога сум било при мама.",
+       "lat": "koga sum bilo pri mama.",
+       "en": "when I was at my mother's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, кога ме мама миеше, леле,",
+       "lat": "Ej, koga me mama mieše, lele,",
+       "en": "Hey, when mother washed me, oh dear,"
+      },
+      {
+       "cyr": "бело ми лице ц'втеше.",
+       "lat": "belo mi lice c'vteše.",
+       "en": "my white face bloomed."
+      },
+      {
+       "cyr": "Бело ми лице цавтеше, леле",
+       "lat": "Belo mi lice cavteše, lele",
+       "en": "My white face bloomed, oh dear,"
+      },
+      {
+       "cyr": "руса ми коса растеше.",
+       "lat": "rusa mi kosa rasteše.",
+       "en": "my fair hair grew."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

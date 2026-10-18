@@ -1,0 +1,165 @@
+{
+ "id": 1628,
+ "slug": "ako-e-grev",
+ "title_cyr": "Ако е грев",
+ "title_latin": "Ako e grev",
+ "title_en": "If it is a sin",
+ "pesna_url": "https://pesna.org/song/1628",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; sounds like a modern composed song but I cannot name an author. The third-stanza refrain line 'пратил јас' is a variant of the earlier 'прати ја' and I translated it as written ('I sent').",
+ "words_to_learn": [
+  {
+   "mk": "опива",
+   "en": "makes drunk, intoxicates"
+  },
+  {
+   "mk": "маѓепса",
+   "en": "bewitched"
+  },
+  {
+   "mk": "усни",
+   "en": "lips"
+  },
+  {
+   "mk": "медени",
+   "en": "honeyed"
+  },
+  {
+   "mk": "бадеми",
+   "en": "almonds"
+  },
+  {
+   "mk": "грев",
+   "en": "sin"
+  },
+  {
+   "mk": "пекол",
+   "en": "hell"
+  },
+  {
+   "mk": "сонувам",
+   "en": "I dream of"
+  },
+  {
+   "mk": "полуди",
+   "en": "will drive mad"
+  }
+ ],
+ "performers": [
+  "Битолски тамбураши"
+ ],
+ "audio": [
+  {
+   "who": "Битолски тамбураши",
+   "url": "https://pesna.org/audio-download/4334"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Како вино што ме опива,",
+       "lat": "Kako vino što me opiva,",
+       "en": "Like wine that makes me drunk,"
+      },
+      {
+       "cyr": "така ти ме маѓепса.",
+       "lat": "taka ti me maǵepsa.",
+       "en": "so you have bewitched me."
+      },
+      {
+       "cyr": "Со твоите усни слатки, медени,",
+       "lat": "So tvoite usni slatki, medeni,",
+       "en": "With your sweet, honeyed lips,"
+      },
+      {
+       "cyr": "и тие очи како бадеми.",
+       "lat": "i tie oči kako bademi.",
+       "en": "and those eyes like almonds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е грев што те љубам јас,",
+       "lat": "Ako e grev što te ljubam jas,",
+       "en": "If it is a sin that I love you,"
+      },
+      {
+       "cyr": "душата моја во пекол прати ја.",
+       "lat": "dušata moja vo pekol prati ja.",
+       "en": "send my soul to hell."
+      },
+      {
+       "cyr": "Ако е грев што те сонувам,",
+       "lat": "Ako e grev što te sonuvam,",
+       "en": "If it is a sin that I dream of you,"
+      },
+      {
+       "cyr": "бар уште ноќва дај да заспијам.",
+       "lat": "bar ušte noḱva daj da zaspijam.",
+       "en": "let me sleep at least tonight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како птица, сина небесна,",
+       "lat": "Kako ptica, sina nebesna,",
+       "en": "Like a bird, sky blue,"
+      },
+      {
+       "cyr": "ти кај мене долета.",
+       "lat": "ti kaj mene doleta.",
+       "en": "you flew to me."
+      },
+      {
+       "cyr": "Душа ми стопли, срце изгори,",
+       "lat": "Duša mi stopli, srce izgori,",
+       "en": "You warmed my soul, burned my heart,"
+      },
+      {
+       "cyr": "твојот поглед ќе ме полуди.",
+       "lat": "tvojot pogled ḱe me poludi.",
+       "en": "your gaze will drive me mad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е грев што те љубам јас,",
+       "lat": "Ako e grev što te ljubam jas,",
+       "en": "If it is a sin that I love you,"
+      },
+      {
+       "cyr": "душата моја во пекол пратил јас.",
+       "lat": "dušata moja vo pekol pratil jas.",
+       "en": "I sent my soul to hell."
+      },
+      {
+       "cyr": "Ако е грев што те сонувам,",
+       "lat": "Ako e grev što te sonuvam,",
+       "en": "If it is a sin that I dream of you,"
+      },
+      {
+       "cyr": "бар уште ноќва дај да заспијам.",
+       "lat": "bar ušte noḱva daj da zaspijam.",
+       "en": "let me sleep at least tonight."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

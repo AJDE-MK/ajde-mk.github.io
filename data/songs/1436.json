@@ -1,0 +1,137 @@
+{
+ "id": 1436,
+ "slug": "zbogum-rumelija",
+ "title_cyr": "Збогум Румелија",
+ "title_latin": "Zbogum Rumelija",
+ "title_en": "Farewell, Rumelia",
+ "pesna_url": "https://pesna.org/song/1436",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; Rumelia is a Turkism for the Ottoman Balkan lands. 'Везден' is my reading as 'embroidered one' (an endearment for a woman in embroidered dress); the title does not appear in the text.",
+ "words_to_learn": [
+  {
+   "mk": "огреа",
+   "en": "shone, rose (sun)"
+  },
+  {
+   "mk": "заигра",
+   "en": "began to dance"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear (Turkish, 'my soul')"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul (vocative)"
+  },
+  {
+   "mk": "љубам",
+   "en": "I love"
+  },
+  {
+   "mk": "везден",
+   "en": "embroidered"
+  },
+  {
+   "mk": "греиш",
+   "en": "you warm"
+  },
+  {
+   "mk": "да се земиме",
+   "en": "to marry each other"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3658"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кога јас тебе те видов,",
+       "lat": "Koga jas tebe te vidov,",
+       "en": "When I saw you,"
+      },
+      {
+       "cyr": "сонце огреа,",
+       "lat": "sonce ogrea,",
+       "en": "the sun shone,"
+      },
+      {
+       "cyr": "сонце ми огреа, џанам,",
+       "lat": "sonce mi ogrea, džanam,",
+       "en": "the sun shone on me, my dear,"
+      },
+      {
+       "cyr": "душа заигра.",
+       "lat": "duša zaigra.",
+       "en": "my soul began to dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Играј ти со мојто срце,",
+       "lat": "Igraj ti so mojto srce,",
+       "en": "Play with my heart,"
+      },
+      {
+       "cyr": "душо најмила,",
+       "lat": "dušo najmila,",
+       "en": "my dearest soul,"
+      },
+      {
+       "cyr": "само тебе јас те љубам,",
+       "lat": "samo tebe jas te ljubam,",
+       "en": "only you do I love,"
+      },
+      {
+       "cyr": "без тебе не можам.",
+       "lat": "bez tebe ne možam.",
+       "en": "I cannot live without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден до мене да седиш,",
+       "lat": "Vezden do mene da sediš,",
+       "en": "Embroidered one, sit next to me,"
+      },
+      {
+       "cyr": "срце да ми греиш,",
+       "lat": "srce da mi greiš,",
+       "en": "warm my heart,"
+      },
+      {
+       "cyr": "јас те љубам, ти ме љубиш,",
+       "lat": "jas te ljubam, ti me ljubiš,",
+       "en": "I love you, you love me,"
+      },
+      {
+       "cyr": "да се земиме.",
+       "lat": "da se zemime.",
+       "en": "let us marry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

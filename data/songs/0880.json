@@ -1,0 +1,191 @@
+{
+ "id": 880,
+ "slug": "dzhan-dzhiger-magdo",
+ "title_cyr": "Џан џигер Магдо",
+ "title_latin": "Džan džiger Magdo",
+ "title_en": "Dear Heart Magda",
+ "pesna_url": "https://pesna.org/song/880",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known. 'Џан џигер' is a Turkish endearment; 'дафино' per the source note likely means olive-green; 'ча пукнем' I read as 'I will burst (from longing)', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "срмен",
+   "en": "embroidered with gold or silver thread"
+  },
+  {
+   "mk": "јелек",
+   "en": "vest, waistcoat"
+  },
+  {
+   "mk": "џан",
+   "en": "soul, life (Turkish)"
+  },
+  {
+   "mk": "џигер",
+   "en": "liver, beloved (Turkish endearment)"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul, darling"
+  },
+  {
+   "mk": "пеше",
+   "en": "front panel of a folk costume"
+  },
+  {
+   "mk": "лудо",
+   "en": "foolish one (affectionate)"
+  },
+  {
+   "mk": "пукнем",
+   "en": "I burst, I crack"
+  }
+ ],
+ "performers": [
+  "Ибуш Ибраимоски",
+  "КУД Алкалоид",
+  "Момчило Басара",
+  "Октет Македонија",
+  "Серенада",
+  "Сирма"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1917"
+  },
+  {
+   "who": "Момчило Басара",
+   "url": "https://pesna.org/audio-download/3024"
+  },
+  {
+   "who": "Октет Македонија, Сирма",
+   "url": "https://pesna.org/audio-download/3025"
+  },
+  {
+   "who": "Ибуш Ибраимоски",
+   "url": "https://pesna.org/audio-download/3026"
+  },
+  {
+   "who": "КУД Алкалоид",
+   "url": "https://pesna.org/audio-download/3260"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ајде ќе ти купим срмени јелек)",
+       "lat": "(Ajde ḱe ti kupim srmeni jelek)",
+       "en": "(Come, I will buy you an embroidered vest)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде ќе ти купим срмени јелек,",
+       "lat": "- Ajde ḱe ti kupim srmeni jelek,",
+       "en": "- Come, I will buy you an embroidered vest,"
+      },
+      {
+       "cyr": "за тебе, Магдо, за тебе душо.",
+       "lat": "za tebe, Magdo, za tebe dušo.",
+       "en": "for you, Magda, for you, my soul."
+      },
+      {
+       "cyr": "За тебе, џан џигер Магдо,",
+       "lat": "Za tebe, džan džiger Magdo,",
+       "en": "For you, dear heart Magda,"
+      },
+      {
+       "cyr": "мори за тебе.",
+       "lat": "mori za tebe.",
+       "en": "hey, for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај што ќе ми мене срмени јелек,",
+       "lat": "- Aj što ḱe mi mene srmeni jelek,",
+       "en": "- Oh, what do I need an embroidered vest for,"
+      },
+      {
+       "cyr": "без тебе лудо, без тебе младо?",
+       "lat": "bez tebe ludo, bez tebe mlado?",
+       "en": "without you, foolish one, without you, young one?"
+      },
+      {
+       "cyr": "Без тебе, ча пукнем, лудо младо,",
+       "lat": "Bez tebe, ča puknem, ludo mlado,",
+       "en": "Without you, I will burst, foolish young one,"
+      },
+      {
+       "cyr": "без тебе.",
+       "lat": "bez tebe.",
+       "en": "without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде ќе ти купим дафино пеше",
+       "lat": "- Ajde ḱe ti kupim dafino peše",
+       "en": "- Come, I will buy you an olive-colored apron front"
+      },
+      {
+       "cyr": "за тебе, Магдо, за тебе душо.",
+       "lat": "za tebe, Magdo, za tebe dušo.",
+       "en": "for you, Magda, for you, my soul."
+      },
+      {
+       "cyr": "За тебе, џан џигер Магдо,",
+       "lat": "Za tebe, džan džiger Magdo,",
+       "en": "For you, dear heart Magda,"
+      },
+      {
+       "cyr": "мори за тебе.",
+       "lat": "mori za tebe.",
+       "en": "hey, for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај што ќе ми мене дафино пеше",
+       "lat": "- Aj što ḱe mi mene dafino peše",
+       "en": "- Oh, what do I need an olive-colored apron front for"
+      },
+      {
+       "cyr": "без тебе лудо, без тебе младо?",
+       "lat": "bez tebe ludo, bez tebe mlado?",
+       "en": "without you, foolish one, without you, young one?"
+      },
+      {
+       "cyr": "Без тебе, ча пукнем, лудо младо,",
+       "lat": "Bez tebe, ča puknem, ludo mlado,",
+       "en": "Without you, I will burst, foolish young one,"
+      },
+      {
+       "cyr": "без тебе.",
+       "lat": "bez tebe.",
+       "en": "without you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

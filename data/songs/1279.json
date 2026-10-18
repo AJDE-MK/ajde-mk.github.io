@@ -1,0 +1,148 @@
+{
+ "id": 1279,
+ "slug": "vie-se-oro-makedonsko",
+ "title_cyr": "Вие се оро македонско",
+ "title_latin": "Vie se oro makedonsko",
+ "title_en": "The Macedonian Dance Whirls",
+ "pesna_url": "https://pesna.org/song/1279",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a modern patriotic song; origin unclear, no author I can name.",
+ "words_to_learn": [
+  {
+   "mk": "вие се",
+   "en": "twists, whirls (of a dance)"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "собор",
+   "en": "gathering, fair"
+  },
+  {
+   "mk": "крај",
+   "en": "beside, by"
+  },
+  {
+   "mk": "собрал",
+   "en": "gathered"
+  },
+  {
+   "mk": "прегрнати",
+   "en": "embraced"
+  },
+  {
+   "mk": "развеселат",
+   "en": "make merry"
+  },
+  {
+   "mk": "сонце",
+   "en": "sun"
+  }
+ ],
+ "performers": [
+  "Ансамбл Ѓорѓи Димчевски",
+  "Група Лина",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/3233"
+  },
+  {
+   "who": "Група Лина",
+   "url": "https://pesna.org/audio-download/3234"
+  },
+  {
+   "who": "Ансамбл Ѓорѓи Димчевски",
+   "url": "https://pesna.org/audio-download/3235"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Вие се, вие оро македонско,",
+       "lat": "Vie se, vie oro makedonsko,",
+       "en": "It whirls, the Macedonian dance whirls,"
+      },
+      {
+       "cyr": "голем собор ми се собрал крај Вардарот.",
+       "lat": "golem sobor mi se sobral kraj Vardarot.",
+       "en": "a great gathering has assembled by the Vardar."
+      },
+      {
+       "cyr": "Оро и песна, сонце и љубов,",
+       "lat": "Oro i pesna, sonce i ljubov,",
+       "en": "Dance and song, sun and love,"
+      },
+      {
+       "cyr": "тоа е наша Македонија.",
+       "lat": "toa e naša Makedonija.",
+       "en": "that is our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сиот народ се насобрал македонски,",
+       "lat": "Siot narod se nasobral makedonski,",
+       "en": "All the Macedonian people have gathered,"
+      },
+      {
+       "cyr": "прегрнати братски да се развеселат.",
+       "lat": "pregrnati bratski da se razveselat.",
+       "en": "embraced like brothers to make merry."
+      },
+      {
+       "cyr": "Оро и песна, сонце и љубов,",
+       "lat": "Oro i pesna, sonce i ljubov,",
+       "en": "Dance and song, sun and love,"
+      },
+      {
+       "cyr": "тоа е наша Македонија.",
+       "lat": "toa e naša Makedonija.",
+       "en": "that is our Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали гледаш, мило Скопје, дали слушаш",
+       "lat": "Dali gledaš, milo Skopje, dali slušaš",
+       "en": "Do you see, dear Skopje, do you hear"
+      },
+      {
+       "cyr": "како македонска песна се пее?",
+       "lat": "kako makedonska pesna se pee?",
+       "en": "how a Macedonian song is sung?"
+      },
+      {
+       "cyr": "Оро и песна, сонце и љубов,",
+       "lat": "Oro i pesna, sonce i ljubov,",
+       "en": "Dance and song, sun and love,"
+      },
+      {
+       "cyr": "тоа е наша Македонија.",
+       "lat": "toa e naša Makedonija.",
+       "en": "that is our Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

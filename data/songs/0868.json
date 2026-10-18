@@ -1,0 +1,132 @@
+{
+ "id": 868,
+ "slug": "uspala-se-moma-sirma",
+ "title_cyr": "Успала се мома Сирма",
+ "title_latin": "Uspala se moma Sirma",
+ "title_en": "Sirma fell asleep",
+ "pesna_url": "https://pesna.org/song/868",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The note says the start seems to be missing. 'зашто Турчин да ќердоса' is my reading: 'rather than let a Turk have his way / enjoy (me)'; 'ќердоса' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "кочија",
+   "en": "carriage, coach"
+  },
+  {
+   "mk": "кочиџија",
+   "en": "coachman"
+  },
+  {
+   "mk": "побратим",
+   "en": "sworn brother, blood brother"
+  },
+  {
+   "mk": "запри",
+   "en": "stop (imperative)"
+  },
+  {
+   "mk": "измијам",
+   "en": "I wash"
+  },
+  {
+   "mk": "се фрли",
+   "en": "throw yourself"
+  },
+  {
+   "mk": "едите",
+   "en": "eat (imperative, dialect)"
+  },
+  {
+   "mk": "Турчин",
+   "en": "a Turk"
+  }
+ ],
+ "performers": [
+  "Трио Кучковки"
+ ],
+ "audio": [
+  {
+   "who": "Трио Кучковки",
+   "url": "https://pesna.org/audio-download/1900"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми ја качил, мори, у кочија",
+       "lat": "Mi ja kačil, mori, u kočija",
+       "en": "He put her, hey, into a carriage,"
+      },
+      {
+       "cyr": "нигде Сирма, мори, не сетила,",
+       "lat": "nigde Sirma, mori, ne setila,",
+       "en": "nowhere did Sirma, hey, notice,"
+      },
+      {
+       "cyr": "осетила Сирма кај Дунава.",
+       "lat": "osetila Sirma kaj Dunava.",
+       "en": "Sirma noticed at the Danube."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кочиџија, море, брат да си ми,",
+       "lat": "- Kočidžija, more, brat da si mi,",
+       "en": "- Coachman, hey, be my brother,"
+      },
+      {
+       "cyr": "брат да си ми, море, и побратим,",
+       "lat": "brat da si mi, more, i pobratim,",
+       "en": "be my brother, hey, and sworn brother,"
+      },
+      {
+       "cyr": "ти запри ја, море, кочијата,",
+       "lat": "ti zapri ja, more, kočijata,",
+       "en": "stop, hey, the carriage,"
+      },
+      {
+       "cyr": "да измијам, море, бело лице.",
+       "lat": "da izmijam, more, belo lice.",
+       "en": "so that I may wash, hey, my white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми изми, Сирма бело лице,",
+       "lat": "Ne mi izmi, Sirma belo lice,",
+       "en": "Don't wash your white face, Sirma,"
+      },
+      {
+       "cyr": "тук' се фрли, Сирма, во Дунава.",
+       "lat": "tuk' se frli, Sirma, vo Dunava.",
+       "en": "just throw yourself, Sirma, into the Danube."
+      },
+      {
+       "cyr": "- Едите ме, мори, бели рибе,",
+       "lat": "- Edite me, mori, beli ribe,",
+       "en": "- Eat me, hey, white fish,"
+      },
+      {
+       "cyr": "зашто Турчин, море, да ќердоса.",
+       "lat": "zašto Turčin, more, da ḱerdosa.",
+       "en": "rather than that a Turk should have his pleasure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

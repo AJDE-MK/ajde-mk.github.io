@@ -1,0 +1,136 @@
+{
+ "id": 255,
+ "slug": "zemaj-mi-go-mili-tate-ona-devojche",
+ "title_cyr": "Земај ми го мили тате она девојче",
+ "title_latin": "Zemaj mi go mili tate ona devojče",
+ "title_en": "Take for me, dear father, that girl",
+ "pesna_url": "https://pesna.org/song/255",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Миразличе' is my reading (a girl who brings a dowry); 'их' is an interjection. 'Тук'' is dialectal and my reading.",
+ "words_to_learn": [
+  {
+   "mk": "земај",
+   "en": "take (as a wife), marry"
+  },
+  {
+   "mk": "охриѓанче",
+   "en": "girl from Ohrid"
+  },
+  {
+   "mk": "битолчанче",
+   "en": "girl from Bitola"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I don't want (dialect)"
+  },
+  {
+   "mk": "миразличе",
+   "en": "girl with a dowry (my reading)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "тук'",
+   "en": "only, but (dialect, my reading)"
+  }
+ ],
+ "performers": [
+  "Александар Сарев"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/2079"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Земај ми го, мили тате, она девојче,",
+       "lat": "- Zemaj mi go, mili tate, ona devojče,",
+       "en": "- Take her for me, dear father, that girl,"
+      },
+      {
+       "cyr": "она девојче, охриѓанче.",
+       "lat": "ona devojče, ohriǵanče.",
+       "en": "that girl, the Ohrid girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ти нејќам, мили синко, она девојче,",
+       "lat": "- Jas ti nejḱam, mili sinko, ona devojče,",
+       "en": "- I don't want her for you, dear son, that girl,"
+      },
+      {
+       "cyr": "она девојче охриѓанче.",
+       "lat": "ona devojče ohriǵanče.",
+       "en": "that girl, the Ohrid girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе ти земам, синко, битолчанче,",
+       "lat": "Jas ḱe ti zemam, sinko, bitolčanče,",
+       "en": "I will take for you, son, a girl from Bitola,"
+      },
+      {
+       "cyr": "битолчанче, их девојче.",
+       "lat": "bitolčanče, ih devojče.",
+       "en": "a girl from Bitola, oh girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битолчанче, синко, лично девојче,",
+       "lat": "Bitolčanče, sinko, lično devojče,",
+       "en": "A girl from Bitola, son, a fair girl,"
+      },
+      {
+       "cyr": "лично девојче, миразличе.",
+       "lat": "lično devojče, mirazliče.",
+       "en": "a fair girl, with a dowry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас си неќам, мили тате, битолчанче,",
+       "lat": "- Jas si neḱam, mili tate, bitolčanče,",
+       "en": "- I don't want her, dear father, the Bitola girl,"
+      },
+      {
+       "cyr": "битолчанче, миразличе,",
+       "lat": "bitolčanče, mirazliče,",
+       "en": "the Bitola girl with a dowry,"
+      },
+      {
+       "cyr": "тук' си сакам првото либе.",
+       "lat": "tuk' si sakam prvoto libe.",
+       "en": "I want only my first sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

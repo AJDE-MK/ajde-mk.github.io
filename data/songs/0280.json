@@ -1,0 +1,262 @@
+{
+ "id": 280,
+ "slug": "ti-si-biljana-najubava",
+ "title_cyr": "Ти си Биљана најубава",
+ "title_latin": "Ti si Biljana najubava",
+ "title_en": "You Are Biljana, the Most Beautiful",
+ "pesna_url": "https://pesna.org/song/280",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Love song to Biljana (Bile is her pet name); origin unclear, I cannot name an author. The line 'врвој Биле Пелистерски' is my reading ('over', i.e. like the heights of Pelister).",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on, hey"
+  },
+  {
+   "mk": "најубава",
+   "en": "most beautiful"
+  },
+  {
+   "mk": "јоргован",
+   "en": "lilac"
+  },
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "очи небесни",
+   "en": "heavenly (sky blue) eyes"
+  },
+  {
+   "mk": "езеро",
+   "en": "lake"
+  },
+  {
+   "mk": "извор",
+   "en": "spring, source"
+  },
+  {
+   "mk": "накитена",
+   "en": "adorned, decked out"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul, darling"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2747"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ти си, ти си најубава,",
+       "lat": "Ajde ti si, ti si najubava,",
+       "en": "Come on, you are, you are the most beautiful,"
+      },
+      {
+       "cyr": "ти си Биле најмилата,",
+       "lat": "ti si Bile najmilata,",
+       "en": "you are Bile, the dearest,"
+      },
+      {
+       "cyr": "ајде ти си, ти си, бел јоргован",
+       "lat": "ajde ti si, ti si, bel jorgovan",
+       "en": "come on, you are, you are a white lilac,"
+      },
+      {
+       "cyr": "ти си Биле мојот ми сон.",
+       "lat": "ti si Bile mojot mi son.",
+       "en": "you are Bile, my dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убава Биљана",
+       "lat": "Ubava Biljana",
+       "en": "Beautiful Biljana,"
+      },
+      {
+       "cyr": "ти си Биле мојот сон",
+       "lat": "ti si Bile mojot son",
+       "en": "you are Bile, my dream,"
+      },
+      {
+       "cyr": "малечка Биљана",
+       "lat": "malečka Biljana",
+       "en": "little Biljana,"
+      },
+      {
+       "cyr": "ти си душо мојот сон.",
+       "lat": "ti si dušo mojot son.",
+       "en": "you are, my darling, my dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде твојте очи небесни",
+       "lat": "Ajde tvojte oči nebesni",
+       "en": "Come on, your eyes are heavenly,"
+      },
+      {
+       "cyr": "врвој Биле Пелистерски",
+       "lat": "vrvoj Bile Pelisterski",
+       "en": "over my Bile of Pelister,"
+      },
+      {
+       "cyr": "ајде твојте очи најбистри,",
+       "lat": "ajde tvojte oči najbistri,",
+       "en": "come on, your eyes are the clearest,"
+      },
+      {
+       "cyr": "што се капат во езеро.",
+       "lat": "što se kapat vo ezero.",
+       "en": "they bathe in the lake."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убава Биљана",
+       "lat": "Ubava Biljana",
+       "en": "Beautiful Biljana,"
+      },
+      {
+       "cyr": "ти си Биле мојот сон",
+       "lat": "ti si Bile mojot son",
+       "en": "you are Bile, my dream,"
+      },
+      {
+       "cyr": "малечка Биљана",
+       "lat": "malečka Biljana",
+       "en": "little Biljana,"
+      },
+      {
+       "cyr": "ти си душо мојот сон.",
+       "lat": "ti si dušo mojot son.",
+       "en": "you are, my darling, my dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде твојто лице најнежно",
+       "lat": "Ajde tvojto lice najnežno",
+       "en": "Come on, your face is the most tender,"
+      },
+      {
+       "cyr": "цвеќе Биле во градина,",
+       "lat": "cveḱe Bile vo gradina,",
+       "en": "a flower, Bile, in the garden,"
+      },
+      {
+       "cyr": "ајде твојто усте најнежно,",
+       "lat": "ajde tvojto uste najnežno,",
+       "en": "come on, your mouth is the most tender,"
+      },
+      {
+       "cyr": "извор Биле од планина.",
+       "lat": "izvor Bile od planina.",
+       "en": "a spring, Bile, from the mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убава Биљана",
+       "lat": "Ubava Biljana",
+       "en": "Beautiful Biljana,"
+      },
+      {
+       "cyr": "ти си Биле мојот сон",
+       "lat": "ti si Bile mojot son",
+       "en": "you are Bile, my dream,"
+      },
+      {
+       "cyr": "малечка Биљана",
+       "lat": "malečka Biljana",
+       "en": "little Biljana,"
+      },
+      {
+       "cyr": "ти си душо мојот сон.",
+       "lat": "ti si dušo mojot son.",
+       "en": "you are, my darling, my dream."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ти си, ти си најубава",
+       "lat": "Ajde ti si, ti si najubava",
+       "en": "Come on, you are, you are the most beautiful,"
+      },
+      {
+       "cyr": "ти си Биле најсакана,",
+       "lat": "ti si Bile najsakana,",
+       "en": "you are Bile, the most beloved,"
+      },
+      {
+       "cyr": "ајде ти си, ајде ти си нежна песна",
+       "lat": "ajde ti si, ajde ti si nežna pesna",
+       "en": "come on, you are, come on, you are a gentle song,"
+      },
+      {
+       "cyr": "ти си Биле накитена.",
+       "lat": "ti si Bile nakitena.",
+       "en": "you are Bile, adorned."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убава Биљана",
+       "lat": "Ubava Biljana",
+       "en": "Beautiful Biljana,"
+      },
+      {
+       "cyr": "ти си Биле мојот сон",
+       "lat": "ti si Bile mojot son",
+       "en": "you are Bile, my dream,"
+      },
+      {
+       "cyr": "малечка Биљана",
+       "lat": "malečka Biljana",
+       "en": "little Biljana,"
+      },
+      {
+       "cyr": "ти си душо мојот сон.",
+       "lat": "ti si dušo mojot son.",
+       "en": "you are, my darling, my dream."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

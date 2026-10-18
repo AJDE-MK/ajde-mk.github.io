@@ -1,0 +1,162 @@
+{
+ "id": 566,
+ "slug": "kade-se-chulo-mamo-videlo",
+ "title_cyr": "Каде се чуло, мамо, видело",
+ "title_latin": "Kade se čulo, mamo, videlo",
+ "title_en": "Is this ever heard of, mother",
+ "pesna_url": "https://pesna.org/song/566",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Адријана Алачки",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1084"
+  },
+  {
+   "who": "Адријана Алачки",
+   "url": "https://pesna.org/audio-download/1085"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде се чуло мамо, видело",
+       "lat": "Kade se čulo mamo, videlo",
+       "en": "Is this ever heard of, mother"
+      },
+      {
+       "cyr": "мома в зандани мамо да лежит",
+       "lat": "moma v zandani mamo da ležit",
+       "en": "a girl to be imprisoned"
+      },
+      {
+       "cyr": "за таткови си мамо борџови?",
+       "lat": "za tatkovi si mamo bordžovi?",
+       "en": "for her father's debts?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет години мома лежала,",
+       "lat": "Devet godini moma ležala,",
+       "en": "For nine years the girl was in prison,"
+      },
+      {
+       "cyr": "никој ми мома, мамо, не барал,",
+       "lat": "nikoj mi moma, mamo, ne baral,",
+       "en": "nobody asked for the girl, mother,"
+      },
+      {
+       "cyr": "никој ми мома, мамо, не видел.",
+       "lat": "nikoj mi moma, mamo, ne videl.",
+       "en": "nobdy saw the girl, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На мајка книга моме пратила:",
+       "lat": "Na majka kniga mome pratila:",
+       "en": "The girl sent a letter to her mother:"
+      },
+      {
+       "cyr": "- Мајче ле мила моја мајчице,",
+       "lat": "- Majče le mila moja majčice,",
+       "en": "- My dear mother,"
+      },
+      {
+       "cyr": "ај продај си мила мамо чифликот.",
+       "lat": "aj prodaj si mila mamo čiflikot.",
+       "en": "please sell our farm and land."
+      },
+      {
+       "cyr": "На бегот пари мајко однеси,",
+       "lat": "Na begot pari majko odnesi,",
+       "en": "Give all the money to the bey,"
+      },
+      {
+       "cyr": "од зандани да ме мајко куртулиш.",
+       "lat": "od zandani da me majko kurtuliš.",
+       "en": "and save me from imprisonment."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќерче ле мила моја, ќерче ле,",
+       "lat": "Ḱerče le mila moja, ḱerče le,",
+       "en": "My dear daughter,"
+      },
+      {
+       "cyr": "бегот си пари ќерко не сакат,",
+       "lat": "begot si pari ḱerko ne sakat,",
+       "en": "the bey does not want money,"
+      },
+      {
+       "cyr": "туку ти го сакат ќерко лицето,",
+       "lat": "tuku ti go sakat ḱerko liceto,",
+       "en": "he wants your face, daughter,"
+      },
+      {
+       "cyr": "белото лице ќерко, убаво",
+       "lat": "beloto lice ḱerko, ubavo",
+       "en": "your beautiful white face"
+      },
+      {
+       "cyr": "и твојата рамна снага висока.",
+       "lat": "i tvojata ramna snaga visoka.",
+       "en": "and your beautiful tall body."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајче ле, мила моја мајчице,",
+       "lat": "Majče le, mila moja majčice,",
+       "en": "My dear mother,"
+      },
+      {
+       "cyr": "девет години мајко си лежав",
+       "lat": "devet godini majko si ležav",
+       "en": "for nine years I stayed in prison,"
+      },
+      {
+       "cyr": "и уште девет, мајко, да лежам,",
+       "lat": "i ušte devet, majko, da ležam,",
+       "en": "and even if I stay for nine more,"
+      },
+      {
+       "cyr": "и уште девет, мајко, да лежам,",
+       "lat": "i ušte devet, majko, da ležam,",
+       "en": "and even if I stay for nine more,"
+      },
+      {
+       "cyr": "на Турчин лице мајко не давам.",
+       "lat": "na Turčin lice majko ne davam.",
+       "en": "I am not giving my face to this Turk."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

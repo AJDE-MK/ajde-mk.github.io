@@ -1,0 +1,167 @@
+{
+ "id": 530,
+ "slug": "roden-roden-kraj",
+ "title_cyr": "Роден, роден крај",
+ "title_latin": "Roden, roden kraj",
+ "title_en": "Native, Native Land",
+ "pesna_url": "https://pesna.org/song/530",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Кај што цути само мај' is rendered literally as 'where only May blooms'.",
+ "words_to_learn": [
+  {
+   "mk": "помина",
+   "en": "passed by"
+  },
+  {
+   "mk": "либе",
+   "en": "darling, beloved"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "тагува",
+   "en": "grieves, sorrows"
+  },
+  {
+   "mk": "цути",
+   "en": "blooms"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native land"
+  },
+  {
+   "mk": "браќата",
+   "en": "the brothers"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Група Македонија",
+  "Ребус"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/2068"
+  },
+  {
+   "who": "Ребус",
+   "url": "https://pesna.org/audio-download/2069"
+  },
+  {
+   "who": "Група Македонија",
+   "url": "https://pesna.org/audio-download/2070"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Помина ти крај мене,",
+       "lat": "Pomina ti kraj mene,",
+       "en": "You passed by me,"
+      },
+      {
+       "cyr": "а ми рече два збора:",
+       "lat": "a mi reče dva zbora:",
+       "en": "and said two words to me:"
+      },
+      {
+       "cyr": "- Либе одам в' туѓина,",
+       "lat": "- Libe odam v' tuǵina,",
+       "en": "- Darling, I am going to a foreign land,"
+      },
+      {
+       "cyr": "срцево ми тагува.",
+       "lat": "srcevo mi taguva.",
+       "en": "my heart is sorrowing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Роден, роден крај,",
+       "lat": "Roden, roden kraj,",
+       "en": "Native, native land,"
+      },
+      {
+       "cyr": "ти си како рај",
+       "lat": "ti si kako raj",
+       "en": "you are like paradise,"
+      },
+      {
+       "cyr": "живот мој си ти,",
+       "lat": "život moj si ti,",
+       "en": "you are my life,"
+      },
+      {
+       "cyr": "за тебе пеам јас.",
+       "lat": "za tebe peam jas.",
+       "en": "I sing for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се вратам в' роден крај,",
+       "lat": "Ḱe se vratam v' roden kraj,",
+       "en": "I will return to my native land,"
+      },
+      {
+       "cyr": "кај што цути само мај,",
+       "lat": "kaj što cuti samo maj,",
+       "en": "where only May blooms,"
+      },
+      {
+       "cyr": "да ги видам браќата,",
+       "lat": "da gi vidam braḱata,",
+       "en": "to see my brothers,"
+      },
+      {
+       "cyr": "како градат мајко рај.",
+       "lat": "kako gradat majko raj.",
+       "en": "how they build paradise, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Роден, роден крај,",
+       "lat": "Roden, roden kraj,",
+       "en": "Native, native land,"
+      },
+      {
+       "cyr": "ти си како рај",
+       "lat": "ti si kako raj",
+       "en": "you are like paradise,"
+      },
+      {
+       "cyr": "живот мој си ти,",
+       "lat": "život moj si ti,",
+       "en": "you are my life,"
+      },
+      {
+       "cyr": "за тебе пеам јас.",
+       "lat": "za tebe peam jas.",
+       "en": "I sing for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

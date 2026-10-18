@@ -1,0 +1,243 @@
+{
+ "id": 302,
+ "slug": "s-kamenichki-frlat-mamo",
+ "title_cyr": "С' каменички фрлат мамо",
+ "title_latin": "S' kamenički frlat mamo",
+ "title_en": "They Throw Little Stones, Mother",
+ "pesna_url": "https://pesna.org/song/302",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Stanza 2 line 1 'Дал' да одам' I render as a question (my reading); 'намаме' in the last stanza is taken as a typo for 'немаме'.",
+ "words_to_learn": [
+  {
+   "mk": "ќерамиди",
+   "en": "roof tiles"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "постела",
+   "en": "bed, bedding"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "slender, straight figure"
+  },
+  {
+   "mk": "думи",
+   "en": "words"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (interjection)"
+  },
+  {
+   "mk": "немој",
+   "en": "don't"
+  }
+ ],
+ "performers": [
+  "Ансамбл Београд",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Виолета Грамбозова",
+  "Кочо Петровски",
+  "КУД Билјана",
+  "Сојуз на слепите на Македонија",
+  "Никола Бадев",
+  "Петранка Костадинова",
+  "Татјана Лазаревска"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1447"
+  },
+  {
+   "who": "Виолета Грамбозова",
+   "url": "https://pesna.org/audio-download/1448"
+  },
+  {
+   "who": "Татјана Лазаревска",
+   "url": "https://pesna.org/audio-download/2605"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2924"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3496"
+  },
+  {
+   "who": "Ансамбл Београд",
+   "url": "https://pesna.org/audio-download/3497"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3498"
+  },
+  {
+   "who": "КУД Билјана, Сојуз на слепите на Македонија",
+   "url": "https://pesna.org/audio-download/3499"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "С' каменички фрлат мамо",
+       "lat": "S' kamenički frlat mamo",
+       "en": "They throw little stones, mother"
+      },
+      {
+       "cyr": "на нашите ќер'миди",
+       "lat": "na našite ḱer'midi",
+       "en": "at our roof tiles,"
+      },
+      {
+       "cyr": "оф мори мајко, мајко мори",
+       "lat": "of mori majko, majko mori",
+       "en": "oh, hey mother, mother hey,"
+      },
+      {
+       "cyr": "на нашите ќерамиди.",
+       "lat": "na našite ḱeramidi.",
+       "en": "at our roof tiles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' да одам мила мајко",
+       "lat": "Dal' da odam mila majko",
+       "en": "Should I go, dear mother,"
+      },
+      {
+       "cyr": "јас да му отворам",
+       "lat": "jas da mu otvoram",
+       "en": "to open the door for him,"
+      },
+      {
+       "cyr": "оф мори мајко, мајко мори",
+       "lat": "of mori majko, majko mori",
+       "en": "oh, hey mother, mother hey,"
+      },
+      {
+       "cyr": "мојто прво либе?",
+       "lat": "mojto prvo libe?",
+       "en": "my first love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој ќерко, немој душо",
+       "lat": "Nemoj ḱerko, nemoj dušo",
+       "en": "Don't, daughter, don't, my dear,"
+      },
+      {
+       "cyr": "вечера немаме,",
+       "lat": "večera nemame,",
+       "en": "we have no supper,"
+      },
+      {
+       "cyr": "оф мори ќерко, ќерко мори",
+       "lat": "of mori ḱerko, ḱerko mori",
+       "en": "oh, hey daughter, daughter hey,"
+      },
+      {
+       "cyr": "вечера немаме.",
+       "lat": "večera nemame.",
+       "en": "we have no supper."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вечера ќе бидат, мајко",
+       "lat": "Večera ḱe bidat, majko",
+       "en": "My sweet words, mother,"
+      },
+      {
+       "cyr": "мојте слатки думи,",
+       "lat": "mojte slatki dumi,",
+       "en": "will be the supper,"
+      },
+      {
+       "cyr": "оф мори мајко, мајко мори",
+       "lat": "of mori majko, majko mori",
+       "en": "oh, hey mother, mother hey,"
+      },
+      {
+       "cyr": "моите слатки думи.",
+       "lat": "moite slatki dumi.",
+       "en": "my sweet words."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој ќерко, немој душо",
+       "lat": "Nemoj ḱerko, nemoj dušo",
+       "en": "Don't, daughter, don't, my dear,"
+      },
+      {
+       "cyr": "постела немаме,",
+       "lat": "postela nemame,",
+       "en": "we have no bed,"
+      },
+      {
+       "cyr": "оф мори ќерко, ќерко мори",
+       "lat": "of mori ḱerko, ḱerko mori",
+       "en": "oh, hey daughter, daughter hey,"
+      },
+      {
+       "cyr": "постела намаме.",
+       "lat": "postela namame.",
+       "en": "we have no bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Постела ќе биде, мајко",
+       "lat": "Postela ḱe bide, majko",
+       "en": "My slender figure, mother,"
+      },
+      {
+       "cyr": "мојта рамна снага,",
+       "lat": "mojta ramna snaga,",
+       "en": "will be the bed,"
+      },
+      {
+       "cyr": "оф мори, мајко, мајко мори",
+       "lat": "of mori, majko, majko mori",
+       "en": "oh, hey, mother, mother hey,"
+      },
+      {
+       "cyr": "мојта рамна снага.",
+       "lat": "mojta ramna snaga.",
+       "en": "my slender figure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

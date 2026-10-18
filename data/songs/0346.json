@@ -1,0 +1,128 @@
+{
+ "id": 346,
+ "slug": "nedaleku-od-voden-grada",
+ "title_cyr": "Недалеку од Воден града",
+ "title_latin": "Nedaleku od Voden grada",
+ "title_en": "Near by the city of Voden",
+ "pesna_url": "https://pesna.org/song/346",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/710"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Недалеку од Воден града,",
+       "lat": "Nedaleku od Voden grada,",
+       "en": "Near by the city of Voden"
+      },
+      {
+       "cyr": "на североисточна страна,",
+       "lat": "na severoistočna strana,",
+       "en": "on the northeastern side"
+      },
+      {
+       "cyr": "дружина е поседнала",
+       "lat": "družina e posednala",
+       "en": "a company has been settled"
+      },
+      {
+       "cyr": "на зелена рудина.",
+       "lat": "na zelena rudina.",
+       "en": "on a green crest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред дружина е ставено",
+       "lat": "Pred družina e staveno",
+       "en": "In front of the company is served"
+      },
+      {
+       "cyr": "рудо јагне печено,",
+       "lat": "rudo jagne pečeno,",
+       "en": "a roasted young lamb."
+      },
+      {
+       "cyr": "чаша вино наполнета",
+       "lat": "čaša vino napolneta",
+       "en": "A glass full of wine"
+      },
+      {
+       "cyr": "на трева је клаена.",
+       "lat": "na treva je klaena.",
+       "en": "is placed on the grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секој пијат и се радвит,",
+       "lat": "Sekoj pijat i se radvit,",
+       "en": "Everybody is drinking and is happy"
+      },
+      {
+       "cyr": "едно срце благословлјат,",
+       "lat": "edno srce blagoslovljat,",
+       "en": "and is blessing one heart."
+      },
+      {
+       "cyr": "за дружина се напиват",
+       "lat": "za družina se napivat",
+       "en": "For the company is drinking"
+      },
+      {
+       "cyr": "слобода посакуват.",
+       "lat": "sloboda posakuvat.",
+       "en": "and is wishing freedom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите дружно да се збијме,",
+       "lat": "Site družno da se zbijme,",
+       "en": "Let's gather jointly"
+      },
+      {
+       "cyr": "Битола да се најме,",
+       "lat": "Bitola da se najme,",
+       "en": "and meet in Bitola."
+      },
+      {
+       "cyr": "в' Цариграда да тргниме,",
+       "lat": "v' Carigrada da trgnime,",
+       "en": "Let's go to Carigrad"
+      },
+      {
+       "cyr": "Македонија ослободиме.",
+       "lat": "Makedonija oslobodime.",
+       "en": "to set free Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

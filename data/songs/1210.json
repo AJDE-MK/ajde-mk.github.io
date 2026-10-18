@@ -1,0 +1,190 @@
+{
+ "id": 1210,
+ "slug": "naracha-mitra-poracha",
+ "title_cyr": "Нарача Митра порача",
+ "title_latin": "Narača Mitra porača",
+ "title_en": "Mitra sent word",
+ "pesna_url": "https://pesna.org/song/1210",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Казна је мајка' I read as 'she says that mother (should come)', and 'ј'од бунар' as 'from the well' (my reading). Poselje is the village name as sung.",
+ "words_to_learn": [
+  {
+   "mk": "нарача",
+   "en": "to order, send word"
+  },
+  {
+   "mk": "порача",
+   "en": "to send a message"
+  },
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "казна",
+   "en": "(she) says, tells (my reading)"
+  },
+  {
+   "mk": "бунар",
+   "en": "well"
+  },
+  {
+   "mk": "ваѓам",
+   "en": "I draw (water)"
+  },
+  {
+   "mk": "коноп",
+   "en": "hemp"
+  },
+  {
+   "mk": "кошула",
+   "en": "shirt"
+  },
+  {
+   "mk": "пере",
+   "en": "washes, cleans"
+  }
+ ],
+ "performers": [
+  "Олга Сичан",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Олга Сичан, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2980"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нарача Митра мори, порача леле,",
+       "lat": "Narača Mitra mori, porača lele,",
+       "en": "Mitra sent word, hey, sent word, oh,"
+      },
+      {
+       "cyr": "по Идриз Ага, мори, терзија,",
+       "lat": "po Idriz Aga, mori, terzija,",
+       "en": "for Idriz Aga, hey, the tailor,"
+      },
+      {
+       "cyr": "нарача Митра, порача леле,",
+       "lat": "narača Mitra, porača lele,",
+       "en": "Mitra sent word, sent word, oh,"
+      },
+      {
+       "cyr": "по Идриз Ага море терзија.",
+       "lat": "po Idriz Aga more terzija.",
+       "en": "for Idriz Aga, hey, the tailor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Казна је мајка мори да дојде, леле",
+       "lat": "Kazna je majka mori da dojde, lele",
+       "en": "She says that mother should come, oh,"
+      },
+      {
+       "cyr": "брата ми да го мори донесе,",
+       "lat": "brata mi da go mori donese,",
+       "en": "should bring my brother, hey,"
+      },
+      {
+       "cyr": "брата ми да го донесе, леле,",
+       "lat": "brata mi da go donese, lele,",
+       "en": "should bring my brother, oh,"
+      },
+      {
+       "cyr": "татко ми жив да мори не дојде.",
+       "lat": "tatko mi živ da mori ne dojde.",
+       "en": "my father, alive, hey, should not come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Татко ми жив да, мори, не дојде, леле,",
+       "lat": "Tatko mi živ da, mori, ne dojde, lele,",
+       "en": "My father, alive, hey, should not come, oh,"
+      },
+      {
+       "cyr": "зашто ме даде мори далеку,",
+       "lat": "zašto me dade mori daleku,",
+       "en": "because he gave me, hey, far away,"
+      },
+      {
+       "cyr": "зашто ме даде далекој, леле,",
+       "lat": "zašto me dade dalekoj, lele,",
+       "en": "because he gave me far away, oh,"
+      },
+      {
+       "cyr": "тој пусто село, мори, Поселје.",
+       "lat": "toj pusto selo, mori, Poselje.",
+       "en": "to that wretched village, hey, Poselje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јо пустој село, мори, Поселје, леле",
+       "lat": "Jo pustoj selo, mori, Poselje, lele",
+       "en": "In that wretched village, hey, Poselje, oh,"
+      },
+      {
+       "cyr": "ј'од бунар води мори да ваѓам,",
+       "lat": "j'od bunar vodi mori da vaǵam,",
+       "en": "I draw water, hey, from the well,"
+      },
+      {
+       "cyr": "од бунар вода да ваѓам,",
+       "lat": "od bunar voda da vaǵam,",
+       "en": "I draw water from the well,"
+      },
+      {
+       "cyr": "коноп кошула, мори да перам.",
+       "lat": "konop košula, mori da peram.",
+       "en": "I wash hemp shirts, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коноп кошула, мори, да перам леле,",
+       "lat": "Konop košula, mori, da peram lele,",
+       "en": "I wash hemp shirts, hey, oh,"
+      },
+      {
+       "cyr": "пустиот сапун, мори, не пере,",
+       "lat": "pustiot sapun, mori, ne pere,",
+       "en": "the wretched soap, hey, does not clean,"
+      },
+      {
+       "cyr": "пустиот сапун не пере, леле,",
+       "lat": "pustiot sapun ne pere, lele,",
+       "en": "the wretched soap does not clean, oh,"
+      },
+      {
+       "cyr": "пустата вода, мори, не бели.",
+       "lat": "pustata voda, mori, ne beli.",
+       "en": "the wretched water, hey, does not whiten."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

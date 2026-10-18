@@ -1,0 +1,165 @@
+{
+ "id": 1282,
+ "slug": "te-sretnav-libe-presretnav",
+ "title_cyr": "Те сретнав либе, пресретнав",
+ "title_latin": "Te sretnav libe, presretnav",
+ "title_en": "I met you, love, I ran into you",
+ "pesna_url": "https://pesna.org/song/1282",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'грутка ми в' срце застана' I read as 'a lump stopped in my heart'; the last line 'за љубов се загинува' I read as 'for love one dies'.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "пресретнав",
+   "en": "I came upon, I met"
+  },
+  {
+   "mk": "сокаче",
+   "en": "little alley, lane"
+  },
+  {
+   "mk": "запрашав",
+   "en": "I asked"
+  },
+  {
+   "mk": "очиве",
+   "en": "these eyes"
+  },
+  {
+   "mk": "устето",
+   "en": "the lips/mouth"
+  },
+  {
+   "mk": "грутка",
+   "en": "lump"
+  },
+  {
+   "mk": "ветуваше",
+   "en": "was promising"
+  },
+  {
+   "mk": "се загинува",
+   "en": "one perishes"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3243"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Те сретнав либе, пресретнав,",
+       "lat": "Te sretnav libe, presretnav,",
+       "en": "I met you, love, I ran into you,"
+      },
+      {
+       "cyr": "во тоа тесно сокаче,",
+       "lat": "vo toa tesno sokače,",
+       "en": "in that narrow little alley,"
+      },
+      {
+       "cyr": "таму те либе запрашав:",
+       "lat": "tamu te libe zaprašav:",
+       "en": "there I asked you, love:"
+      },
+      {
+       "cyr": "- Од кај почнува љубовта?",
+       "lat": "- Od kaj počnuva ljubovta?",
+       "en": "- Where does love begin?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Љубовта, либе, почнува",
+       "lat": "- Ljubovta, libe, počnuva",
+       "en": "- Love, dear, begins"
+      },
+      {
+       "cyr": "најпрвин од очиве,",
+       "lat": "najprvin od očive,",
+       "en": "first with the eyes,"
+      },
+      {
+       "cyr": "второ е од устето,",
+       "lat": "vtoro e od usteto,",
+       "en": "second with the lips,"
+      },
+      {
+       "cyr": "а трето е од срцето.",
+       "lat": "a treto e od srceto.",
+       "en": "and third with the heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те сретнав либе, пресретнав,",
+       "lat": "Te sretnav libe, presretnav,",
+       "en": "I met you, love, I ran into you,"
+      },
+      {
+       "cyr": "грутка ми в' срце застана,",
+       "lat": "grutka mi v' srce zastana,",
+       "en": "a lump stopped in my heart,"
+      },
+      {
+       "cyr": "тогаш те либе видов јас,",
+       "lat": "togaš te libe vidov jas,",
+       "en": "then I saw you, love,"
+      },
+      {
+       "cyr": "со друго либе стоеше.",
+       "lat": "so drugo libe stoeše.",
+       "en": "you were standing with another love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти беше што ветуваше,",
+       "lat": "Ti beše što vetuvaše,",
+       "en": "It was you who promised,"
+      },
+      {
+       "cyr": "што мене ми зборуваше:",
+       "lat": "što mene mi zboruvaše:",
+       "en": "who told me:"
+      },
+      {
+       "cyr": "- Од љубов не се умира,",
+       "lat": "- Od ljubov ne se umira,",
+       "en": "- No one dies of love,"
+      },
+      {
+       "cyr": "за љубов се загинува.",
+       "lat": "za ljubov se zaginuva.",
+       "en": "one is lost for love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

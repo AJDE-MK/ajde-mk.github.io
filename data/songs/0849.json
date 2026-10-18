@@ -1,0 +1,105 @@
+{
+ "id": 849,
+ "slug": "shto-ne-spiesh-lichno-libe",
+ "title_cyr": "Што не спиеш, лично либе",
+ "title_latin": "Što ne spieš, lično libe",
+ "title_en": "Why aren't you sleeping, pretty love",
+ "pesna_url": "https://pesna.org/song/849",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1832"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Што не спиеш, лично либе цел' ноќ крај мене,",
+       "lat": "- Što ne spieš, lično libe cel' noḱ kraj mene,",
+       "en": "- Why aren't you sleeping, pretty love, whole night next to me,"
+      },
+      {
+       "cyr": "дали постела ти, либе, тврда под тебе?",
+       "lat": "dali postela ti, libe, tvrda pod tebe?",
+       "en": "is the bed, love, too hard for you?"
+      },
+      {
+       "cyr": "Во една постела, либе, двајца лежиме,",
+       "lat": "Vo edna postela, libe, dvajca ležime,",
+       "en": "In one bed, love, we both sleep,"
+      },
+      {
+       "cyr": "едно друго еднаш, либе, не целиваме.",
+       "lat": "edno drugo ednaš, libe, ne celivame.",
+       "en": "each other, not even once, love, we kiss."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Постела ми мека, либе, како душава,",
+       "lat": "- Postela mi meka, libe, kako dušava,",
+       "en": "- My bed is soft, love, like my soul,"
+      },
+      {
+       "cyr": "мојве гради притиснале, камен бигорски.",
+       "lat": "mojve gradi pritisnale, kamen bigorski.",
+       "en": "my chest is pressed with a limestone."
+      },
+      {
+       "cyr": "Во една постела, либе, двајца лежиме,",
+       "lat": "Vo edna postela, libe, dvajca ležime,",
+       "en": "In one bed, love, we both sleep,"
+      },
+      {
+       "cyr": "едно друго еднаш, либе, не целиваме.",
+       "lat": "edno drugo ednaš, libe, ne celivame.",
+       "en": "each other, not even once, love, we kiss."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите ми се смеат, либе, на мојта љубов,",
+       "lat": "Site mi se smeat, libe, na mojta ljubov,",
+       "en": "Everyone laughs at me, love, at my love,"
+      },
+      {
+       "cyr": "тебе јас те љубам, либе, друга љубиш ти.",
+       "lat": "tebe jas te ljubam, libe, druga ljubiš ti.",
+       "en": "I am in love with you, love, but you love someone else."
+      },
+      {
+       "cyr": "Во една постела, либе, двајца лежиме,",
+       "lat": "Vo edna postela, libe, dvajca ležime,",
+       "en": "In one bed, love, we both sleep,"
+      },
+      {
+       "cyr": "едно друго еднаш, либе, не целиваме.",
+       "lat": "edno drugo ednaš, libe, ne celivame.",
+       "en": "each other, not even once, love, we kiss."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,171 @@
+{
+ "id": 938,
+ "slug": "moma-sedi-na-chardakot",
+ "title_cyr": "Мома седи на чардакот",
+ "title_latin": "Moma sedi na čardakot",
+ "title_en": "A Girl Sits on the Balcony",
+ "pesna_url": "https://pesna.org/song/938",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лудо' read as a term for a foolish young man (my reading). The final saying (catch a partridge but not know how to eat it) is rendered literally and read as a taunt.",
+ "words_to_learn": [
+  {
+   "mk": "чардак",
+   "en": "upper-floor porch, balcony"
+  },
+  {
+   "mk": "одер",
+   "en": "wooden bench or sleeping platform"
+  },
+  {
+   "mk": "гнило",
+   "en": "rotten"
+  },
+  {
+   "mk": "лудо",
+   "en": "fool, silly lad (here: foolish youth)"
+  },
+  {
+   "mk": "братучеди",
+   "en": "cousins"
+  },
+  {
+   "mk": "рака",
+   "en": "hand"
+  },
+  {
+   "mk": "се излага",
+   "en": "disgraces himself"
+  },
+  {
+   "mk": "јаребица",
+   "en": "partridge"
+  }
+ ],
+ "performers": [
+  "Елена Андоновска",
+  "Емил Ристосков",
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2157"
+  },
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/2158"
+  },
+  {
+   "who": "Елена Андоновска",
+   "url": "https://pesna.org/audio-download/3218"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мома седи на чардакот,",
+       "lat": "Moma sedi na čardakot,",
+       "en": "A girl sits on the balcony,"
+      },
+      {
+       "cyr": "на чардакот, на одерот.",
+       "lat": "na čardakot, na oderot.",
+       "en": "on the balcony, on the bench."
+      },
+      {
+       "cyr": "Пусто дрво, гнило било,",
+       "lat": "Pusto drvo, gnilo bilo,",
+       "en": "The wretched wood was rotten,"
+      },
+      {
+       "cyr": "падна чардак на земја.",
+       "lat": "padna čardak na zemja.",
+       "en": "the balcony fell to the ground."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Скрил се лудо зад вратата,",
+       "lat": "Skril se ludo zad vratata,",
+       "en": "A fool hid behind the door,"
+      },
+      {
+       "cyr": "фатил мома за раката.",
+       "lat": "fatil moma za rakata.",
+       "en": "he grabbed the girl by the hand."
+      },
+      {
+       "cyr": "Мома вели, ем говори:",
+       "lat": "Moma veli, em govori:",
+       "en": "The girl speaks and says:"
+      },
+      {
+       "cyr": "- Пушти ме лудо, пушти ме!",
+       "lat": "- Pušti me ludo, pušti me!",
+       "en": "- Let me go, fool, let me go!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние сме си близу рода,",
+       "lat": "Nie sme si blizu roda,",
+       "en": "We are close relatives,"
+      },
+      {
+       "cyr": "први, втори братучеди.",
+       "lat": "prvi, vtori bratučedi.",
+       "en": "first, second cousins."
+      },
+      {
+       "cyr": "Се излага лудо младо,",
+       "lat": "Se izlaga ludo mlado,",
+       "en": "The young fool disgraces himself,"
+      },
+      {
+       "cyr": "па ја пушти момата.",
+       "lat": "pa ja pušti momata.",
+       "en": "and lets the girl go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бега мома од он' место,",
+       "lat": "Bega moma od on' mesto,",
+       "en": "The girl runs from that place,"
+      },
+      {
+       "cyr": "се обрна и вели:",
+       "lat": "se obrna i veli:",
+       "en": "she turned around and says:"
+      },
+      {
+       "cyr": "- Фати лудо јаребица,",
+       "lat": "- Fati ludo jarebica,",
+       "en": "- Catch a partridge, fool,"
+      },
+      {
+       "cyr": "па не знае да јаде.",
+       "lat": "pa ne znae da jade.",
+       "en": "then you will not know how to eat it."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

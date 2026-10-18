@@ -1,0 +1,136 @@
+{
+ "id": 220,
+ "slug": "nemoj-me-mila-mamo-luto-da-kolnesh",
+ "title_cyr": "Немој ме, мила мамо, луто да колнеш",
+ "title_latin": "Nemoj me, mila mamo, luto da kolneš",
+ "title_en": "Don't curse me bitterly, dear mother",
+ "pesna_url": "https://pesna.org/song/220",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Колниш' in line 1 is a dialect form of 'колнеш'. 'Благино село' read as 'Blaga's village'. The last stanza is a violent threat; translated literally.",
+ "words_to_learn": [
+  {
+   "mk": "спаивче / спаија",
+   "en": "spahi (Ottoman cavalryman/landholder)"
+  },
+  {
+   "mk": "колнеш",
+   "en": "you curse"
+  },
+  {
+   "mk": "спремај",
+   "en": "get ready, prepare"
+  },
+  {
+   "mk": "брзото коњче",
+   "en": "the swift little horse"
+  },
+  {
+   "mk": "болна легнала",
+   "en": "has fallen ill"
+  },
+  {
+   "mk": "без пари",
+   "en": "without money, for free"
+  },
+  {
+   "mk": "свршена",
+   "en": "engaged, betrothed"
+  },
+  {
+   "mk": "касапче",
+   "en": "young butcher"
+  }
+ ],
+ "performers": [
+  "Никола Бадев",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1584"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1585"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Немој ме, мила мамо, луто да колниш,",
+       "lat": "Nemoj me, mila mamo, luto da kolniš,",
+       "en": "Don't, dear mother, curse me bitterly,"
+      },
+      {
+       "cyr": "дека сум станал, мамо, младо спаивче.",
+       "lat": "deka sum stanal, mamo, mlado spaivče.",
+       "en": "for I have become, mother, a young spahi."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, спремај ми го, мамо, брзото коњче,",
+       "lat": "Aj, spremaj mi go, mamo, brzoto konjče,",
+       "en": "Hey, get ready for me, mother, the swift horse,"
+      },
+      {
+       "cyr": "јас ќе си одам, мамо, благино село.",
+       "lat": "jas ḱe si odam, mamo, blagino selo.",
+       "en": "I will go, mother, to Blaga's village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е Блага, мамо, болна легнала,",
+       "lat": "Ako e Blaga, mamo, bolna legnala,",
+       "en": "If Blaga, mother, has fallen ill,"
+      },
+      {
+       "cyr": "јас ќе ѝ бидам, мамо, младо докторче",
+       "lat": "jas ḱe ì bidam, mamo, mlado doktorče",
+       "en": "I will be, mother, a young doctor"
+      },
+      {
+       "cyr": "и ќе ја лечам мамо, без пари.",
+       "lat": "i ḱe ja lečam mamo, bez pari.",
+       "en": "and I will treat her, mother, without pay."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е Блага, мамо, за друг свршена,",
+       "lat": "Ako e Blaga, mamo, za drug svršena,",
+       "en": "If Blaga, mother, is promised to another,"
+      },
+      {
+       "cyr": "јас ќе се сторам мамо, младо касапче,",
+       "lat": "jas ḱe se storam mamo, mlado kasapče,",
+       "en": "I will turn myself, mother, into a young butcher,"
+      },
+      {
+       "cyr": "и ќе ја сечам, мамо, парче по парче.",
+       "lat": "i ḱe ja sečam, mamo, parče po parče.",
+       "en": "and I will cut her up, mother, piece by piece."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

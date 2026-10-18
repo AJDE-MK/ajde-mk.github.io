@@ -1,0 +1,175 @@
+{
+ "id": 244,
+ "slug": "viena-loza-viena",
+ "title_cyr": "Виена лоза, виена",
+ "title_latin": "Viena loza, viena",
+ "title_en": "A Twining Vine",
+ "pesna_url": "https://pesna.org/song/244",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Виена' and 'армасана' are my readings (dialect words, not certain). The second stanza line 1 was written as one line 'Тук' ми е мома армасана' and I rendered it as a statement.",
+ "words_to_learn": [
+  {
+   "mk": "лоза",
+   "en": "vine"
+  },
+  {
+   "mk": "виена",
+   "en": "twining, twisted (my reading)"
+  },
+  {
+   "mk": "мома",
+   "en": "young girl, maiden"
+  },
+  {
+   "mk": "армасана",
+   "en": "well-grown, tall (my reading, dialect)"
+  },
+  {
+   "mk": "невенчана",
+   "en": "unmarried, unwed"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "сватови",
+   "en": "wedding guests"
+  },
+  {
+   "mk": "пречекуваме",
+   "en": "we receive, welcome"
+  },
+  {
+   "mk": "убаво",
+   "en": "handsome, beautiful"
+  }
+ ],
+ "performers": [
+  "Бапчорки",
+  "Влатко Миладиноски",
+  "Chryses Notes",
+  "Makedoniko meraki",
+  "Ot izvora",
+  "Topika Akousmata",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/1770"
+  },
+  {
+   "who": "Влатко Миладиноски",
+   "url": "https://pesna.org/audio-download/3602"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/3603"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/3604"
+  },
+  {
+   "who": "Chryses Notes",
+   "url": "https://pesna.org/audio-download/3605"
+  },
+  {
+   "who": "Ot izvora",
+   "url": "https://pesna.org/audio-download/3606"
+  },
+  {
+   "who": "Topika Akousmata",
+   "url": "https://pesna.org/audio-download/4078"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Виена лоза, виена,",
+       "lat": "Viena loza, viena,",
+       "en": "Twining vine, twining,"
+      },
+      {
+       "cyr": "виена лоза, виена,",
+       "lat": "viena loza, viena,",
+       "en": "twining vine, twining,"
+      },
+      {
+       "cyr": "не ми е лоза виена,",
+       "lat": "ne mi e loza viena,",
+       "en": "it is not a twining vine for me,"
+      },
+      {
+       "cyr": "не ми е лоза виена.",
+       "lat": "ne mi e loza viena.",
+       "en": "it is not a twining vine for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тук' ми е мома армасана,",
+       "lat": "Tuk' mi e moma armasana,",
+       "en": "Here is a well-grown girl,"
+      },
+      {
+       "cyr": "армасана, невенчана.",
+       "lat": "armasana, nevenčana.",
+       "en": "well-grown, unwed."
+      },
+      {
+       "cyr": "Недела свадба ќе правиме,",
+       "lat": "Nedela svadba ḱe pravime,",
+       "en": "On Sunday we will hold the wedding,"
+      },
+      {
+       "cyr": "сватови ќе пречекуваме.",
+       "lat": "svatovi ḱe prečekuvame.",
+       "en": "we will receive the wedding guests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сватови ќе пречекуваме,",
+       "lat": "Svatovi ḱe prečekuvame,",
+       "en": "We will receive the wedding guests"
+      },
+      {
+       "cyr": "од това село Тресино.",
+       "lat": "od tova selo Tresino.",
+       "en": "from this village of Tresino."
+      },
+      {
+       "cyr": "Од това село Тресино,",
+       "lat": "Od tova selo Tresino,",
+       "en": "From this village of Tresino,"
+      },
+      {
+       "cyr": "за младо момче убаво.",
+       "lat": "za mlado momče ubavo.",
+       "en": "for a handsome young lad."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

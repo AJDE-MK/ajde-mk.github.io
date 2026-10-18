@@ -1,0 +1,189 @@
+{
+ "id": 308,
+ "slug": "sevdalino-maloj-mome",
+ "title_cyr": "Севдалино, малој моме",
+ "title_latin": "Sevdalino, maloj mome",
+ "title_en": "Sevdalina, Little Girl",
+ "pesna_url": "https://pesna.org/song/308",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дорија' as bay horse and 'ме севдисало' are my readings; the lira and kara grosh are old Ottoman-era currency words.",
+ "words_to_learn": [
+  {
+   "mk": "севда",
+   "en": "love, passionate longing"
+  },
+  {
+   "mk": "малој моме",
+   "en": "little girl (dialect vocative)"
+  },
+  {
+   "mk": "сама",
+   "en": "alone"
+  },
+  {
+   "mk": "ме севдисало",
+   "en": "you made me pine (my reading)"
+  },
+  {
+   "mk": "пари",
+   "en": "money"
+  },
+  {
+   "mk": "кара грош",
+   "en": "black piastre (old coin, my reading)"
+  },
+  {
+   "mk": "жолти лири",
+   "en": "yellow (gold) lira"
+  },
+  {
+   "mk": "дорија",
+   "en": "bay horse (my reading)"
+  },
+  {
+   "mk": "пеш",
+   "en": "on foot"
+  },
+  {
+   "mk": "лајат",
+   "en": "they bark"
+  }
+ ],
+ "performers": [
+  "Борче Крстески",
+  "Димитар Талазов",
+  "Драган Вучиќ",
+  "Македонски мерак",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/1465"
+  },
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/1466"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1467"
+  },
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/1468"
+  },
+  {
+   "who": "Димитар Талазов",
+   "url": "https://pesna.org/audio-download/3171"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Севдалино, малој моме, Севде",
+       "lat": "Sevdalino, maloj mome, Sevde",
+       "en": "Sevdalina, little girl, Sevda,"
+      },
+      {
+       "cyr": "севдалино малој моме,",
+       "lat": "sevdalino maloj mome,",
+       "en": "Sevdalina, little girl,"
+      },
+      {
+       "cyr": "дома ли си сама ли си,",
+       "lat": "doma li si sama li si,",
+       "en": "are you home, are you alone,"
+      },
+      {
+       "cyr": "ах, што си ме севдисало.",
+       "lat": "ah, što si me sevdisalo.",
+       "en": "oh, how you have made me pine for love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите пари ми ги зеде, Севде",
+       "lat": "Site pari mi gi zede, Sevde",
+       "en": "You took all my money, Sevda,"
+      },
+      {
+       "cyr": "сите пари ми ги зеде,",
+       "lat": "site pari mi gi zede,",
+       "en": "you took all my money,"
+      },
+      {
+       "cyr": "500 кара гроша,",
+       "lat": "500 kara groša,",
+       "en": "500 black piastres,"
+      },
+      {
+       "cyr": "ем илјада жолти лири.",
+       "lat": "em iljada žolti liri.",
+       "en": "and a thousand yellow lira."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми малку од парите, Севде,",
+       "lat": "Daj mi malku od parite, Sevde,",
+       "en": "Give me a little of the money, Sevda,"
+      },
+      {
+       "cyr": "дај ми малку од парите,",
+       "lat": "daj mi malku od parite,",
+       "en": "give me a little of the money,"
+      },
+      {
+       "cyr": "да си купам коњ дорија",
+       "lat": "da si kupam konj dorija",
+       "en": "so I can buy a bay horse"
+      },
+      {
+       "cyr": "да не одам пеш во село.",
+       "lat": "da ne odam peš vo selo.",
+       "en": "so I do not walk on foot to the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не одам пеш во село, Севде,",
+       "lat": "Da ne odam peš vo selo, Sevde,",
+       "en": "So I do not walk on foot to the village, Sevda,"
+      },
+      {
+       "cyr": "да не одам пеш во село,",
+       "lat": "da ne odam peš vo selo,",
+       "en": "so I do not walk on foot to the village,"
+      },
+      {
+       "cyr": "кучињата да не ме лајат,",
+       "lat": "kučinjata da ne me lajat,",
+       "en": "so the dogs do not bark at me,"
+      },
+      {
+       "cyr": "а момите да не ми се смејат.",
+       "lat": "a momite da ne mi se smejat.",
+       "en": "and the girls do not laugh at me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

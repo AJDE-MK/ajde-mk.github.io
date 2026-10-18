@@ -1,0 +1,258 @@
+{
+ "id": 420,
+ "slug": "biljana-platno-beleshe",
+ "title_cyr": "Билјана платно белеше",
+ "title_latin": "Biljana platno beleše",
+ "title_en": "Biljana was washing canvas",
+ "pesna_url": "https://pesna.org/song/420",
+ "background": "Set at the springs of Lake Ohrid. Biljana is bleaching linen for her dowry when a caravan of wine merchants passes. She falls for the young man leading it, only to learn he is getting married that Sunday. Versions appear in folk-song collections from 1860 and 1861, and the motif of a girl and passing merchants runs from Ohrid to the Black Sea. Belograd is the old Slavic name for Berat in Albania. The last verse is a playful curse: may the river carry him to her, may a snake bite him with her teeth.",
+ "background_source": "Source of these notes: your 6-song songbook.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "Блага Петреска",
+  "Гога Зафировски",
+  "Гоце Делчев Ансамбл - Софија",
+  "Група Билјана",
+  "Даниела Калаџиска",
+  "Добри Ставревски",
+  "Есма Реџепова",
+  "Илија Луков",
+  "Костадин Гугов",
+  "Мијат Мијатовиќ",
+  "Наум Петрески",
+  "Никола Бадев",
+  "Охридски трубадури",
+  "Пијано бар",
+  "Радио студио Скопје",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/63"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/64"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/65"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/66"
+  },
+  {
+   "who": "Блага Петреска, Добри Ставревски",
+   "url": "https://pesna.org/audio-download/67"
+  },
+  {
+   "who": "Есма Реџепова, Гога Зафировски",
+   "url": "https://pesna.org/audio-download/68"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/69"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/70"
+  },
+  {
+   "who": "Мијат Мијатовиќ",
+   "url": "https://pesna.org/audio-download/2041"
+  },
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2976"
+  },
+  {
+   "who": "Гоце Делчев Ансамбл - Софија",
+   "url": "https://pesna.org/audio-download/3105"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/3351"
+  },
+  {
+   "who": "Илија Луков",
+   "url": "https://pesna.org/audio-download/3352"
+  },
+  {
+   "who": "Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3399"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3777"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Билјана платно белеше",
+       "lat": "Biljana platno beleše",
+       "en": "Biljana was washing canvas"
+      },
+      {
+       "cyr": "на охридските извори.",
+       "lat": "na ohridskite izvori.",
+       "en": "at the Ohrid springs."
+      },
+      {
+       "cyr": "Оздола идат винари,",
+       "lat": "Ozdola idat vinari,",
+       "en": "From down there winemakers were coming,"
+      },
+      {
+       "cyr": "винари белограѓани.",
+       "lat": "vinari belograǵani.",
+       "en": "winemakers from Belograd."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Винари бeлограѓани,",
+       "lat": "- Vinari belograǵani,",
+       "en": "- Winemakers from Belograd,"
+      },
+      {
+       "cyr": "кротко терајте карванот,",
+       "lat": "krotko terajte karvanot,",
+       "en": "slowly move with your caravan,"
+      },
+      {
+       "cyr": "да не ми платно згазите,",
+       "lat": "da ne mi platno zgazite,",
+       "en": "so that you don't step on my canvas,"
+      },
+      {
+       "cyr": "платното ми е даровно.",
+       "lat": "platnoto mi e darovno.",
+       "en": "my canvas is to be given as present."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Билјано моме убаво,",
+       "lat": "- Biljano mome ubavo,",
+       "en": "- Biljana, beautiful girl,"
+      },
+      {
+       "cyr": "ако ти платно згазиме,",
+       "lat": "ako ti platno zgazime,",
+       "en": "if we step on your canvas"
+      },
+      {
+       "cyr": "со вино ќе го платиме,",
+       "lat": "so vino ḱe go platime,",
+       "en": "we will pay for it with wine"
+      },
+      {
+       "cyr": "ем бела лута ракија.",
+       "lat": "em bela luta rakija.",
+       "en": "and white brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ви сакам виното,",
+       "lat": "- Ne vi sakam vinoto,",
+       "en": "- I don't wan't your wine,"
+      },
+      {
+       "cyr": "тук' ви го сакам момчето,",
+       "lat": "tuk' vi go sakam momčeto,",
+       "en": "I wan't your boy"
+      },
+      {
+       "cyr": "што напред води карванот",
+       "lat": "što napred vodi karvanot",
+       "en": "that leads the caravan"
+      },
+      {
+       "cyr": "што фесче носит над око.",
+       "lat": "što fesče nosit nad oko.",
+       "en": "wearing a fez above his eye."
+      },
+      {
+       "cyr": "Што фесче носит над око",
+       "lat": "Što fesče nosit nad oko",
+       "en": "Wearing a fez above his eye"
+      },
+      {
+       "cyr": "и мене гледат под око.",
+       "lat": "i mene gledat pod oko.",
+       "en": "and looking at me below his eye."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Билјано, моме убаво,",
+       "lat": "- Biljano, mome ubavo,",
+       "en": "- Biljana, beautiful girl,"
+      },
+      {
+       "cyr": "момчето ни е свршено.",
+       "lat": "momčeto ni e svršeno.",
+       "en": "our boy is engaged to be married."
+      },
+      {
+       "cyr": "За него вино носиме,",
+       "lat": "Za nego vino nosime,",
+       "en": "The wine that we are transporting is for him,"
+      },
+      {
+       "cyr": "в' недела ќе го жениме.",
+       "lat": "v' nedela ḱe go ženime.",
+       "en": "he will get married this Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да би го вода однела",
+       "lat": "- Da bi go voda odnela",
+       "en": "- May a river take him"
+      },
+      {
+       "cyr": "и мене ми го донела,",
+       "lat": "i mene mi go donela,",
+       "en": "and bring him to me,"
+      },
+      {
+       "cyr": "да би го змија к'снала",
+       "lat": "da bi go zmija k'snala",
+       "en": "may a snake bite him"
+      },
+      {
+       "cyr": "со мојве дробни запчиња.",
+       "lat": "so mojve drobni zapčinja.",
+       "en": "with my teeth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

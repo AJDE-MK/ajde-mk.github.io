@@ -1,0 +1,149 @@
+{
+ "id": 1632,
+ "slug": "izlegu-da-se-mamo-rasheta",
+ "title_cyr": "Излегу да се, мамо, рашета",
+ "title_latin": "Izlegu da se, mamo, rašeta",
+ "title_en": "I went out, mother, for a walk",
+ "pesna_url": "https://pesna.org/song/1632",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Билјана",
+  "ВИС Аманет",
+  "Габриела Новевска",
+  "Исмаил Лумановски",
+  "Костурчанки",
+  "Љубојна"
+ ],
+ "audio": [
+  {
+   "who": "Исмаил Лумановски, Љубојна",
+   "url": "https://pesna.org/audio-download/4358"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/4359"
+  },
+  {
+   "who": "ВИС Аманет",
+   "url": "https://pesna.org/audio-download/4360"
+  },
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/4361"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/4362"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегу да се, мамо, рашета,",
+       "lat": "Izlegu da se, mamo, rašeta,",
+       "en": "I went out, mother, for a walk,"
+      },
+      {
+       "cyr": "излегу да се, мамо, рашета",
+       "lat": "izlegu da se, mamo, rašeta",
+       "en": "I went out, mother, for a walk,"
+      },
+      {
+       "cyr": "по Д'мбенските мамо, ливади,",
+       "lat": "po D'mbenskite mamo, livadi,",
+       "en": "along the D'mbeni1 meadows, mother,"
+      },
+      {
+       "cyr": "крај Косинските, мамо, извори.",
+       "lat": "kraj Kosinskite, mamo, izvori.",
+       "en": "by the Kosinec2 springs, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму си најду мамо, либето,",
+       "lat": "Tamu si najdu mamo, libeto,",
+       "en": "There I found, mother, my love,"
+      },
+      {
+       "cyr": "таму си најду мамо, либето,",
+       "lat": "tamu si najdu mamo, libeto,",
+       "en": "there I found, mother, my love,"
+      },
+      {
+       "cyr": "со друго либе, мамо, зборваше,",
+       "lat": "so drugo libe, mamo, zborvaše,",
+       "en": "with another lover, mother, she was speaking,"
+      },
+      {
+       "cyr": "моите зборови, мамо, кажваше.",
+       "lat": "moite zborovi, mamo, kažvaše.",
+       "en": "my words, mother, she was saying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И мене тешко, мамо, ми дојде,",
+       "lat": "I mene teško, mamo, mi dojde,",
+       "en": "So I felt, mother, very bad,"
+      },
+      {
+       "cyr": "и мене тешко, мамо, ми дојде,",
+       "lat": "i mene teško, mamo, mi dojde,",
+       "en": "and I felt, mother, very sad,"
+      },
+      {
+       "cyr": "и јас го луто, мамо, зак'лнав,",
+       "lat": "i jas go luto, mamo, zak'lnav,",
+       "en": "so I cursed him, mother, bitterly,"
+      },
+      {
+       "cyr": "и јас го љуто, мамо, заколнав.",
+       "lat": "i jas go ljuto, mamo, zakolnav.",
+       "en": "and I cursed him, mother, bitterly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девет години, либе, да лежиш,",
+       "lat": "- Devet godini, libe, da ležiš,",
+       "en": "- Nine years, love, may you lie down,"
+      },
+      {
+       "cyr": "девет години, либе, да лежиш,",
+       "lat": "devet godini, libe, da ležiš,",
+       "en": "nine years, love, may you lie down,"
+      },
+      {
+       "cyr": "девет постели либе, да смениш,",
+       "lat": "devet posteli libe, da smeniš,",
+       "en": "nine beds, love, may you change,"
+      },
+      {
+       "cyr": "девет перници либе, да фрлиш!",
+       "lat": "devet pernici libe, da frliš!",
+       "en": "nine pillows, love, may you throw away!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

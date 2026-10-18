@@ -1,0 +1,171 @@
+{
+ "id": 782,
+ "slug": "razvivaj-goro-zelena",
+ "title_cyr": "Развивај горо зелена",
+ "title_latin": "Razvivaj goro zelena",
+ "title_en": "Spread out, green forest",
+ "pesna_url": "https://pesna.org/song/782",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'лигушот' rendered 'scoundrel' as my reading. 'Еди Куле' is Yedi Kule, the Salonika fortress. 'Развивај' as 'spread out' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "развивај",
+   "en": "unfold, spread out"
+  },
+  {
+   "mk": "горо",
+   "en": "forest (address)"
+  },
+  {
+   "mk": "затвореници",
+   "en": "prisoners"
+  },
+  {
+   "mk": "кодош",
+   "en": "informer, traitor"
+  },
+  {
+   "mk": "лигуш",
+   "en": "scoundrel, sneak"
+  },
+  {
+   "mk": "вали-паша",
+   "en": "governor (Ottoman)"
+  },
+  {
+   "mk": "башка",
+   "en": "apart, separately"
+  },
+  {
+   "mk": "јаска",
+   "en": "I (dialect)"
+  },
+  {
+   "mk": "комитет",
+   "en": "revolutionary committee"
+  }
+ ],
+ "performers": [
+  "Анастасиа Митровска",
+  "Ансамбл Билјана",
+  "Ансамбл чалгија",
+  "Ваташка чалгија",
+  "Јован Јовчески"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/1436"
+  },
+  {
+   "who": "Ваташка чалгија",
+   "url": "https://pesna.org/audio-download/1438"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1440"
+  },
+  {
+   "who": "Јован Јовчески",
+   "url": "https://pesna.org/audio-download/1442"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4231"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Развивај горо, горо зелена,",
+       "lat": "Razvivaj goro, goro zelena,",
+       "en": "Spread out, forest, green forest,"
+      },
+      {
+       "cyr": "направи шума, шума голема.",
+       "lat": "napravi šuma, šuma golema.",
+       "en": "make a wood, a great wood."
+      },
+      {
+       "cyr": "По тем' ќе поминат затворениците,",
+       "lat": "Po tem' ḱe pominat zatvorenicite,",
+       "en": "Through it the prisoners will pass,"
+      },
+      {
+       "cyr": "затворениците, Македонците.",
+       "lat": "zatvorenicite, Makedoncite.",
+       "en": "the prisoners, the Macedonians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Напред ми трга Петруш лигушот,",
+       "lat": "Napred mi trga Petruš ligušot,",
+       "en": "In front sets off Petrush the scoundrel,"
+      },
+      {
+       "cyr": "Петруш кодошот од Гени-маале.",
+       "lat": "Petruš kodošot od Geni-maale.",
+       "en": "Petrush the informer from Geni-maale."
+      },
+      {
+       "cyr": "Право ми тргаат за град Солуна,",
+       "lat": "Pravo mi trgaat za grad Soluna,",
+       "en": "Straight they set off for the city of Salonika,"
+      },
+      {
+       "cyr": "за да ги затворат во Еди Куле.",
+       "lat": "za da gi zatvorat vo Edi Kule.",
+       "en": "to lock them in Yedi Kule."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде што ми пошол Петруш кодошот,",
+       "lat": "Ajde što mi pošol Petruš kodošot,",
+       "en": "Come, what did Petrush the informer set off for,"
+      },
+      {
+       "cyr": "ајде што ми пошол на вали-паша:",
+       "lat": "ajde što mi pošol na vali-paša:",
+       "en": "come, he set off to the governor pasha:"
+      },
+      {
+       "cyr": "- Јаска ќе те молам, башка да бидам,",
+       "lat": "- Jaska ḱe te molam, baška da bidam,",
+       "en": "- I will beg you, let me be apart,"
+      },
+      {
+       "cyr": "пуштај ме мене за град Битола,",
+       "lat": "puštaj me mene za grad Bitola,",
+       "en": "let me go to the city of Bitola,"
+      },
+      {
+       "cyr": "јаска ќе ти кажам сите работи,",
+       "lat": "jaska ḱe ti kažam site raboti,",
+       "en": "I will tell you everything,"
+      },
+      {
+       "cyr": "сите работи во комитетот.",
+       "lat": "site raboti vo komitetot.",
+       "en": "everything about the committee."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

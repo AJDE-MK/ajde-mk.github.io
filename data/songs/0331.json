@@ -1,0 +1,158 @@
+{
+ "id": 331,
+ "slug": "pelin-mi-se-poljuljava",
+ "title_cyr": "Пелин ми се пољуљава",
+ "title_latin": "Pelin mi se poljuljava",
+ "title_en": "The Wormwood Sways",
+ "pesna_url": "https://pesna.org/song/331",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да пукнат ... нека треснат' is my reading as 'burst with envy'; 'не ми е ништо гајле' as 'I don't care at all'.",
+ "words_to_learn": [
+  {
+   "mk": "пелин",
+   "en": "wormwood"
+  },
+  {
+   "mk": "пољуљава",
+   "en": "sways"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "китка",
+   "en": "bouquet, posy"
+  },
+  {
+   "mk": "чуждинец",
+   "en": "stranger, outsider"
+  },
+  {
+   "mk": "тукашните",
+   "en": "the local ones (dialect)"
+  },
+  {
+   "mk": "пукнат",
+   "en": "burst (here, of envy or spite)"
+  },
+  {
+   "mk": "гајле",
+   "en": "worry, care"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Лихнидос"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/470"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/471"
+  },
+  {
+   "who": "Лихнидос",
+   "url": "https://pesna.org/audio-download/472"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пелин ми се пољуљава",
+       "lat": "Pelin mi se poljuljava",
+       "en": "The wormwood sways for me"
+      },
+      {
+       "cyr": "пољуљава, заљуљава.",
+       "lat": "poljuljava, zaljuljava.",
+       "en": "it sways, it rocks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали ми го ветер вее",
+       "lat": "Dali mi go veter vee",
+       "en": "Is it the wind blowing it"
+      },
+      {
+       "cyr": "или ми го роса роси?",
+       "lat": "ili mi go rosa rosi?",
+       "en": "or the dew wetting it?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сама Рада под пелина,",
+       "lat": "Sama Rada pod pelina,",
+       "en": "Rada is alone under the wormwood,"
+      },
+      {
+       "cyr": "пелин крши, китки кити.",
+       "lat": "pelin krši, kitki kiti.",
+       "en": "she breaks wormwood, she makes bouquets."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ги дава на момците,",
+       "lat": "Da gi dava na momcite,",
+       "en": "To give them to the lads,"
+      },
+      {
+       "cyr": "на момците, чуждинците.",
+       "lat": "na momcite, čuždincite.",
+       "en": "to the lads, the outsiders."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За да пукнат тукашните,",
+       "lat": "Za da puknat tukašnite,",
+       "en": "So that the local ones burst,"
+      },
+      {
+       "cyr": "тукашните, охридските.",
+       "lat": "tukašnite, ohridskite.",
+       "en": "the local ones, the Ohrid ones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако пукнат, нека треснат,",
+       "lat": "Ako puknat, neka tresnat,",
+       "en": "If they burst, let them burst,"
+      },
+      {
+       "cyr": "мене не ми е ништо гајле.",
+       "lat": "mene ne mi e ništo gajle.",
+       "en": "I don't care a bit."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

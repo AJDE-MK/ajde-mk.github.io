@@ -1,0 +1,146 @@
+{
+ "id": 444,
+ "slug": "ajde-milke-da-begame",
+ "title_cyr": "Ајде Милке да бегаме",
+ "title_latin": "Ajde Milke da begame",
+ "title_en": "Come on, Milka, Let's Run Away",
+ "pesna_url": "https://pesna.org/song/444",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Малешево is a region in eastern Macedonia. 'Милкано' is a vocative of Milka.",
+ "words_to_learn": [
+  {
+   "mk": "ајде",
+   "en": "come on, let's"
+  },
+  {
+   "mk": "бегаме",
+   "en": "we run away, elope"
+  },
+  {
+   "mk": "мори",
+   "en": "hey (interjection)"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "убаво",
+   "en": "beautiful"
+  },
+  {
+   "mk": "жетва",
+   "en": "harvest (of grain)"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight"
+  }
+ ],
+ "performers": [
+  "Наум Бурназ"
+ ],
+ "audio": [
+  {
+   "who": "Наум Бурназ",
+   "url": "https://pesna.org/audio-download/1258"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде Милке да бегаме",
+       "lat": "Ajde Milke da begame",
+       "en": "Come on, Milka, let's run away"
+      },
+      {
+       "cyr": "в' наше село Малешево.",
+       "lat": "v' naše selo Maleševo.",
+       "en": "to our village Malesevo."
+      },
+      {
+       "cyr": "Милкано, мори моме убаво.",
+       "lat": "Milkano, mori mome ubavo.",
+       "en": "Milkano, hey beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В наше село Малешево",
+       "lat": "V naše selo Maleševo",
+       "en": "In our village Malesevo"
+      },
+      {
+       "cyr": "од три страни сонце грее.",
+       "lat": "od tri strani sonce gree.",
+       "en": "the sun shines from three sides."
+      },
+      {
+       "cyr": "Милкано мори моме убаво.",
+       "lat": "Milkano mori mome ubavo.",
+       "en": "Milkano, hey beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од три страни сонце грее,",
+       "lat": "Od tri strani sonce gree,",
+       "en": "From three sides the sun shines,"
+      },
+      {
+       "cyr": "од четврта, месечина.",
+       "lat": "od četvrta, mesečina.",
+       "en": "from the fourth, the moonlight."
+      },
+      {
+       "cyr": "Милкано мори моме убаво.",
+       "lat": "Milkano mori mome ubavo.",
+       "en": "Milkano, hey beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В наше село Малешево,",
+       "lat": "V naše selo Maleševo,",
+       "en": "In our village Malesevo,"
+      },
+      {
+       "cyr": "два пати се жетва жнее,",
+       "lat": "dva pati se žetva žnee,",
+       "en": "twice a harvest is reaped,"
+      },
+      {
+       "cyr": "три пати се лозје бере.",
+       "lat": "tri pati se lozje bere.",
+       "en": "three times the vineyard is picked."
+      },
+      {
+       "cyr": "Милкано мори моме убаво.",
+       "lat": "Milkano mori mome ubavo.",
+       "en": "Milkano, hey beautiful girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

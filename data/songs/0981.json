@@ -1,0 +1,200 @@
+{
+ "id": 981,
+ "slug": "izlegol-neven-pejo",
+ "title_cyr": "Излегол невен Пејо",
+ "title_latin": "Izlegol neven Pejo",
+ "title_en": "Young Pejo went out",
+ "pesna_url": "https://pesna.org/song/981",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect with verb forms like 'ми го паслo', 'му утепале'. 'Везден' (embroidered) is my reading, perhaps 'everywhere/all day'; 'сардисале' and 'посилеле' are guesses.",
+ "words_to_learn": [
+  {
+   "mk": "невен",
+   "en": "marigold; here an epithet for a lad (my reading)"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval, shepherd's flute"
+  },
+  {
+   "mk": "трло",
+   "en": "sheep fold"
+  },
+  {
+   "mk": "колиба",
+   "en": "hut, shepherd's cabin"
+  },
+  {
+   "mk": "арамии",
+   "en": "bandits, outlaws"
+  },
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "потера",
+   "en": "chase, pursuit"
+  },
+  {
+   "mk": "сардисале",
+   "en": "wrecked, fell upon (my reading)"
+  }
+ ],
+ "performers": [
+  "Белегзија",
+  "Васка Илиева",
+  "Перса Николова",
+  "Сашо Митев",
+  "Танец",
+  "Трио Меџидија"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2285"
+  },
+  {
+   "who": "Белегзија",
+   "url": "https://pesna.org/audio-download/2286"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2287"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/2288"
+  },
+  {
+   "who": "Перса Николова",
+   "url": "https://pesna.org/audio-download/3479"
+  },
+  {
+   "who": "Трио Меџидија",
+   "url": "https://pesna.org/audio-download/3480"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегол невен Пејо по Шар Планина,",
+       "lat": "Izlegol neven Pejo po Šar Planina,",
+       "en": "Young Pejo went out onto Shar Mountain,"
+      },
+      {
+       "cyr": "да ми стадо паслo Пејо, на кавал ми свири.",
+       "lat": "da mi stado paslo Pejo, na kaval mi sviri.",
+       "en": "to graze the flock, Pejo, playing the shepherd's flute for me."
+      },
+      {
+       "cyr": "Везден ми го паслo Пејо, ем до полноќум.",
+       "lat": "Vezden mi go paslo Pejo, em do polnoḱum.",
+       "en": "Embroidered, he grazed it, Pejo, even until midnight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, од полноќум, џанам, стадо ми дотерал,",
+       "lat": "Ej, od polnoḱum, džanam, stado mi doteral,",
+       "en": "Hey, from midnight, dear, he drove the flock home for me,"
+      },
+      {
+       "cyr": "ми го затворил џанам во ново трло.",
+       "lat": "mi go zatvoril džanam vo novo trlo.",
+       "en": "he shut it, dear, in the new fold."
+      },
+      {
+       "cyr": "Пејо ми улегол, џанам, в' нова колиба.",
+       "lat": "Pejo mi ulegol, džanam, v' nova koliba.",
+       "en": "Pejo went in, dear, into the new hut."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Пејо седнало, џанам, малку да вечера,",
+       "lat": "Ej, Pejo sednalo, džanam, malku da večera,",
+       "en": "Hey, Pejo sat down, dear, to have a little supper,"
+      },
+      {
+       "cyr": "ми вечерало, џанам, кучиња му лајат.",
+       "lat": "mi večeralo, džanam, kučinja mu lajat.",
+       "en": "he was having supper, dear, the dogs bark at him."
+      },
+      {
+       "cyr": "Пејо истрчало, џанам, потера дало.",
+       "lat": "Pejo istrčalo, džanam, potera dalo.",
+       "en": "Pejo ran out, dear, and gave chase."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, проклети биле, џанам, клети арамии,",
+       "lat": "Ej, prokleti bile, džanam, kleti aramii,",
+       "en": "Hey, cursed be they, dear, the wicked bandits,"
+      },
+      {
+       "cyr": "што ми посилеле они по Шар Планина,",
+       "lat": "što mi posilele oni po Šar Planina,",
+       "en": "who descended on them, over Shar Mountain,"
+      },
+      {
+       "cyr": "што му утепале они верни кучиња",
+       "lat": "što mu utepale oni verni kučinja",
+       "en": "who killed his faithful dogs"
+      },
+      {
+       "cyr": "и му сардисале они трло ем колиба.",
+       "lat": "i mu sardisale oni trlo em koliba.",
+       "en": "and wrecked his fold and hut."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Му сардисале они трло ем колиба,",
+       "lat": "Mu sardisale oni trlo em koliba,",
+       "en": "They wrecked his fold and hut,"
+      },
+      {
+       "cyr": "ми го фанале они млад невен Пејо,",
+       "lat": "mi go fanale oni mlad neven Pejo,",
+       "en": "they seized young Pejo,"
+      },
+      {
+       "cyr": "и му врзале они раце наопако,",
+       "lat": "i mu vrzale oni race naopako,",
+       "en": "and tied his hands behind his back,"
+      },
+      {
+       "cyr": "му потерале они белото му стадо,",
+       "lat": "mu poterale oni beloto mu stado,",
+       "en": "and drove off his white flock,"
+      },
+      {
+       "cyr": "стадо не ми оди џанам без невен Пејо.",
+       "lat": "stado ne mi odi džanam bez neven Pejo.",
+       "en": "the flock does not walk without young Pejo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

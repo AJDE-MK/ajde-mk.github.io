@@ -1,0 +1,122 @@
+{
+ "id": 1586,
+ "slug": "brale-se-brale-svatovi",
+ "title_cyr": "Брале се, брале сватови",
+ "title_latin": "Brale se, brale svatovi",
+ "title_en": "The wedding guests gathered, gathered",
+ "pesna_url": "https://pesna.org/song/1586",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional wedding song. The last line 'лика, прилика' is my reading: a stock phrase for good looks.",
+ "words_to_learn": [
+  {
+   "mk": "сватови",
+   "en": "wedding guests (the groom's party)"
+  },
+  {
+   "mk": "дворови",
+   "en": "yards, courtyards"
+  },
+  {
+   "mk": "чардаци",
+   "en": "balconies, covered porches"
+  },
+  {
+   "mk": "врани коњи",
+   "en": "black horses"
+  },
+  {
+   "mk": "јавнале",
+   "en": "rode (on horseback)"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "лична",
+   "en": "handsome, pretty"
+  },
+  {
+   "mk": "лика, прилика",
+   "en": "looks, appearance"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4131"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Брале се, брале сватови,",
+       "lat": "Brale se, brale svatovi,",
+       "en": "The wedding guests gathered, gathered,"
+      },
+      {
+       "cyr": "во стојанови дворови,",
+       "lat": "vo stojanovi dvorovi,",
+       "en": "in Stojan's yard,"
+      },
+      {
+       "cyr": "под стојанови чардаци.",
+       "lat": "pod stojanovi čardaci.",
+       "en": "under Stojan's balconies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Врани ми коњи јавнале,",
+       "lat": "Vrani mi konji javnale,",
+       "en": "They rode black horses,"
+      },
+      {
+       "cyr": "на рамо пушки метнале,",
+       "lat": "na ramo puški metnale,",
+       "en": "slung rifles on their shoulders,"
+      },
+      {
+       "cyr": "во раце шише ракија.",
+       "lat": "vo race šiše rakija.",
+       "en": "in their hands a bottle of rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Невеста да ми донесат,",
+       "lat": "Nevesta da mi donesat,",
+       "en": "To bring me a bride,"
+      },
+      {
+       "cyr": "невеста лична, убава,",
+       "lat": "nevesta lična, ubava,",
+       "en": "a bride fair and beautiful,"
+      },
+      {
+       "cyr": "за Стојан лика, прилика.",
+       "lat": "za Stojan lika, prilika.",
+       "en": "for Stojan, a fine face and figure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

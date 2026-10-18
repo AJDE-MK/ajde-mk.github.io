@@ -1,0 +1,154 @@
+{
+ "id": 773,
+ "slug": "pesna-za-marko-lerinski",
+ "title_cyr": "Песна за Марко Лерински",
+ "title_latin": "Pesna za Marko Lerinski",
+ "title_en": "Song of Marko Lerinski",
+ "pesna_url": "https://pesna.org/song/773",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Сардисаа' is rendered 'surrounded', my reading (dialect). Western Macedonian dialect forms such as 'предадоо', 'шо', 'това'.",
+ "words_to_learn": [
+  {
+   "mk": "војвода",
+   "en": "voivode, leader of a guerrilla band"
+  },
+  {
+   "mk": "света недела",
+   "en": "holy Sunday"
+  },
+  {
+   "mk": "шпион",
+   "en": "spy, informer"
+  },
+  {
+   "mk": "предадоо",
+   "en": "they betrayed (dialect)"
+  },
+  {
+   "mk": "табор",
+   "en": "camp, troop"
+  },
+  {
+   "mk": "проклети биле",
+   "en": "cursed be"
+  },
+  {
+   "mk": "битка",
+   "en": "battle"
+  },
+  {
+   "mk": "загина",
+   "en": "he fell, he died"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Елена Јордакиева"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1322"
+  },
+  {
+   "who": "Елена Јордакиева",
+   "url": "https://pesna.org/audio-download/1323"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Денеска петок, сабота,",
+       "lat": "Deneska petok, sabota,",
+       "en": "Today is Friday, Saturday,"
+      },
+      {
+       "cyr": "утре е света недела.",
+       "lat": "utre e sveta nedela.",
+       "en": "tomorrow is holy Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Марко војвода пристигна",
+       "lat": "Marko vojvoda pristigna",
+       "en": "Voivode Marko arrived"
+      },
+      {
+       "cyr": "во това село Панделе.",
+       "lat": "vo tova selo Pandele.",
+       "en": "in this village of Pandele."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклети биле шпиони,",
+       "lat": "Prokleti bile špioni,",
+       "en": "Cursed be the spies,"
+      },
+      {
+       "cyr": "Марка војвода предадоо.",
+       "lat": "Marka vojvoda predadoo.",
+       "en": "they betrayed Voivode Marko."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Надојдоо турски табори,",
+       "lat": "Nadojdoo turski tabori,",
+       "en": "Turkish camps came,"
+      },
+      {
+       "cyr": "Марка војвода сардисаа.",
+       "lat": "Marka vojvoda sardisaa.",
+       "en": "they surrounded Voivode Marko."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зафати битка голема,",
+       "lat": "Zafati bitka golema,",
+       "en": "A great battle broke out,"
+      },
+      {
+       "cyr": "Марко војвода загина.",
+       "lat": "Marko vojvoda zagina.",
+       "en": "Voivode Marko fell."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проклети биле шпиони,",
+       "lat": "Prokleti bile špioni,",
+       "en": "Cursed be the spies"
+      },
+      {
+       "cyr": "Марко шо го предадоо.",
+       "lat": "Marko šo go predadoo.",
+       "en": "who betrayed Marko."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

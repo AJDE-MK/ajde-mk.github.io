@@ -1,0 +1,200 @@
+{
+ "id": 362,
+ "slug": "mirjano-mome-mirjano",
+ "title_cyr": "Мирјано моме Мирјано",
+ "title_latin": "Mirjano mome Mirjano",
+ "title_en": "Mirjana, Maiden Mirjana",
+ "pesna_url": "https://pesna.org/song/362",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Колку ти чини ... толку ми чини грлото' is my reading: the girl says her throat (her life or voice) is worth as much as his estate. Name 'Ѓорѓија' kept as 'Gjorgija'.",
+ "words_to_learn": [
+  {
+   "mk": "чифлик",
+   "en": "estate, large farm (Ottoman-era)"
+  },
+  {
+   "mk": "аман",
+   "en": "oh my (cry of lament or entreaty, Turkish loan)"
+  },
+  {
+   "mk": "продадам",
+   "en": "I will sell"
+  },
+  {
+   "mk": "нива",
+   "en": "field"
+  },
+  {
+   "mk": "веѓи",
+   "en": "eyebrows"
+  },
+  {
+   "mk": "грло",
+   "en": "throat"
+  },
+  {
+   "mk": "земам",
+   "en": "to take (here: to marry)"
+  },
+  {
+   "mk": "чини",
+   "en": "is worth, costs"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Кирил Манчевски",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1720"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/1735"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2918"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мирјано, моме, Мирјано,",
+       "lat": "Mirjano, mome, Mirjano,",
+       "en": "Mirjana, maiden, Mirjana,"
+      },
+      {
+       "cyr": "слушај што ти вели Ѓорѓија.",
+       "lat": "slušaj što ti veli Ǵorǵija.",
+       "en": "listen to what Gjorgija tells you."
+      },
+      {
+       "cyr": "Аман, аман,",
+       "lat": "Aman, aman,",
+       "en": "Aman, aman,"
+      },
+      {
+       "cyr": "слушај што вели Ѓорѓија:",
+       "lat": "slušaj što veli Ǵorǵija:",
+       "en": "listen to what Gjorgija tells you:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Чифликот ќе си продадам,",
+       "lat": "- „Čiflikot ḱe si prodadam,",
+       "en": "- \"I will sell my estate"
+      },
+      {
+       "cyr": "тебе Мирјано да земам.",
+       "lat": "tebe Mirjano da zemam.",
+       "en": "to take you, Mirjana."
+      },
+      {
+       "cyr": "Аман, аман,",
+       "lat": "Aman, aman,",
+       "en": "Aman, aman,"
+      },
+      {
+       "cyr": "тебе Мирјано да земам“.",
+       "lat": "tebe Mirjano da zemam“.",
+       "en": "to take you, Mirjana.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Колку ти чини чифликот,",
+       "lat": "- „Kolku ti čini čiflikot,",
+       "en": "- \"What your estate is worth,"
+      },
+      {
+       "cyr": "толку ми чини грлото.",
+       "lat": "tolku mi čini grloto.",
+       "en": "that is what my throat is worth to me."
+      },
+      {
+       "cyr": "Аман, аман,",
+       "lat": "Aman, aman,",
+       "en": "Aman, aman,"
+      },
+      {
+       "cyr": "толку ми чини грлото“.",
+       "lat": "tolku mi čini grloto“.",
+       "en": "that is what my throat is worth to me.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Нивите ќе си продадам,",
+       "lat": "- „Nivite ḱe si prodadam,",
+       "en": "- \"I will sell my fields"
+      },
+      {
+       "cyr": "тебе Мирјано да земам.",
+       "lat": "tebe Mirjano da zemam.",
+       "en": "to take you, Mirjana."
+      },
+      {
+       "cyr": "Аман, аман,",
+       "lat": "Aman, aman,",
+       "en": "Aman, aman,"
+      },
+      {
+       "cyr": "тебе Мирјано да земам“.",
+       "lat": "tebe Mirjano da zemam“.",
+       "en": "to take you, Mirjana.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Колку ти чинат нивите,",
+       "lat": "- „Kolku ti činat nivite,",
+       "en": "- \"What your fields are worth,"
+      },
+      {
+       "cyr": "толку ми чинат веѓите.",
+       "lat": "tolku mi činat veǵite.",
+       "en": "that is what my eyebrows are worth to me."
+      },
+      {
+       "cyr": "Аман, аман,",
+       "lat": "Aman, aman,",
+       "en": "Aman, aman,"
+      },
+      {
+       "cyr": "толку ми чинат веѓите“.",
+       "lat": "tolku mi činat veǵite“.",
+       "en": "that is what my eyebrows are worth to me.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

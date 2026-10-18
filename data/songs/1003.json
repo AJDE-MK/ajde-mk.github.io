@@ -1,0 +1,190 @@
+{
+ "id": 1003,
+ "slug": "site-momchinja-dojdoja",
+ "title_cyr": "Сите момчиња дојдоја",
+ "title_latin": "Site momčinja dojdoja",
+ "title_en": "All the lads have come",
+ "pesna_url": "https://pesna.org/song/1003",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'топ' here means a bolt of cloth, not a cannon. 'пуст да остане' is my reading: 'let it remain unwanted'.",
+ "words_to_learn": [
+  {
+   "mk": "аман",
+   "en": "oh dear (plaintive refrain, Turkish origin)"
+  },
+  {
+   "mk": "дојдоја",
+   "en": "they came"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "gift, tip"
+  },
+  {
+   "mk": "пратило",
+   "en": "has sent"
+  },
+  {
+   "mk": "свила коприна",
+   "en": "silk"
+  },
+  {
+   "mk": "дукати",
+   "en": "gold coins, ducats"
+  },
+  {
+   "mk": "пуст",
+   "en": "empty, worthless, unwanted"
+  },
+  {
+   "mk": "жали",
+   "en": "grieve"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Надка Валчанова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2335"
+  },
+  {
+   "who": "Надка Валчанова",
+   "url": "https://pesna.org/audio-download/2867"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сите момчиња дојдоја, аман, аман,",
+       "lat": "Site momčinja dojdoja, aman, aman,",
+       "en": "All the lads have come, aman, aman,"
+      },
+      {
+       "cyr": "сите момчиња дојдоја,",
+       "lat": "site momčinja dojdoja,",
+       "en": "all the lads have come,"
+      },
+      {
+       "cyr": "Симкино момче не дојде,",
+       "lat": "Simkino momče ne dojde,",
+       "en": "Simka's lad did not come,"
+      },
+      {
+       "cyr": "Симкино момче не дојде.",
+       "lat": "Simkino momče ne dojde.",
+       "en": "Simka's lad did not come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викнала Симка да плаче, аман, аман,",
+       "lat": "Viknala Simka da plače, aman, aman,",
+       "en": "Simka began to cry, aman, aman,"
+      },
+      {
+       "cyr": "викнала Симка да плаче:",
+       "lat": "viknala Simka da plače:",
+       "en": "Simka began to cry:"
+      },
+      {
+       "cyr": "- Оф леле, боже, до бога,",
+       "lat": "- Of lele, bože, do boga,",
+       "en": "- Oh woe, God, oh God,"
+      },
+      {
+       "cyr": "оф леле боже, до бога!",
+       "lat": "of lele bože, do boga!",
+       "en": "oh woe, God, oh God!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не плачи Симке, не жали, аман, аман,",
+       "lat": "- Ne plači Simke, ne žali, aman, aman,",
+       "en": "- Don't cry, Simka, don't grieve, aman, aman,"
+      },
+      {
+       "cyr": "не плачи Симке, не жали,",
+       "lat": "ne plači Simke, ne žali,",
+       "en": "don't cry, Simka, don't grieve,"
+      },
+      {
+       "cyr": "ако ти момче не дошло,",
+       "lat": "ako ti momče ne došlo,",
+       "en": "if your lad did not come,"
+      },
+      {
+       "cyr": "голем ти бакшиш пратило.",
+       "lat": "golem ti bakšiš pratilo.",
+       "en": "he sent you a big gift."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем ти бакшиш пратило, аман, аман,",
+       "lat": "Golem ti bakšiš pratilo, aman, aman,",
+       "en": "He sent you a big gift, aman, aman,"
+      },
+      {
+       "cyr": "голем ти бакшиш пратило,",
+       "lat": "golem ti bakšiš pratilo,",
+       "en": "he sent you a big gift,"
+      },
+      {
+       "cyr": "три топа свила коприна,",
+       "lat": "tri topa svila koprina,",
+       "en": "three bolts of silk,"
+      },
+      {
+       "cyr": "три низи жолти дукати.",
+       "lat": "tri nizi žolti dukati.",
+       "en": "three strings of yellow gold coins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пуст да остане бакшишот, аман, аман,",
+       "lat": "- Pust da ostane bakšišot, aman, aman,",
+       "en": "- Let the gift stay unwanted, aman, aman,"
+      },
+      {
+       "cyr": "пуст да остане бакшишот,",
+       "lat": "pust da ostane bakšišot,",
+       "en": "let the gift stay unwanted,"
+      },
+      {
+       "cyr": "кога ми момче не дојде,",
+       "lat": "koga mi momče ne dojde,",
+       "en": "when my lad did not come,"
+      },
+      {
+       "cyr": "кога ми момче не дојде!",
+       "lat": "koga mi momče ne dojde!",
+       "en": "when my lad did not come!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

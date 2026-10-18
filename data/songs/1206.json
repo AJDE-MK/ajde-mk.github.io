@@ -1,0 +1,134 @@
+{
+ "id": 1206,
+ "slug": "neli-si-pusto-svrshenica",
+ "title_cyr": "Нели си пусто свршеница",
+ "title_latin": "Neli si pusto svršenica",
+ "title_en": "Aren't You, Wretched Fiancee",
+ "pesna_url": "https://pesna.org/song/1206",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Нели' read as 'aren't you'; 'ексик да ти е живота' (Turkish eksik) is my reading as a curse. Rajne Makniево likely means Rajne son/daughter of Makni.",
+ "words_to_learn": [
+  {
+   "mk": "свршеница",
+   "en": "fiancee"
+  },
+  {
+   "mk": "пусто",
+   "en": "wretched, damned"
+  },
+  {
+   "mk": "пенџере",
+   "en": "window"
+  },
+  {
+   "mk": "ишарет",
+   "en": "signal, sign"
+  },
+  {
+   "mk": "ексик",
+   "en": "lacking, missing"
+  },
+  {
+   "mk": "жив да не бидеш",
+   "en": "may you not live (curse)"
+  },
+  {
+   "mk": "се сакавме",
+   "en": "we loved each other"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2965"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Нели си пусто свршеница,",
+       "lat": "- Neli si pusto svršenica,",
+       "en": "- Aren't you, wretched fiancee,"
+      },
+      {
+       "cyr": "зошто на пенџере стоеше?",
+       "lat": "zošto na pendžere stoeše?",
+       "en": "why did you stand at the window?"
+      },
+      {
+       "cyr": "Ој Рајне, Рајне Макниево,",
+       "lat": "Oj Rajne, Rajne Maknievo,",
+       "en": "Oh Rajne, Rajne of Makni,"
+      },
+      {
+       "cyr": "ексик да ти е, Рајне, живота.",
+       "lat": "eksik da ti e, Rajne, života.",
+       "en": "may your life be lacking, Rajne."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зошто на пенџере седеше,",
+       "lat": "Zošto na pendžere sedeše,",
+       "en": "Why did you sit at the window,"
+      },
+      {
+       "cyr": "зошто ишарет ми даваше?",
+       "lat": "zošto išaret mi davaše?",
+       "en": "why did you give me signals?"
+      },
+      {
+       "cyr": "Ој Рајне, Рајне Макниево,",
+       "lat": "Oj Rajne, Rajne Maknievo,",
+       "en": "Oh Rajne, Rajne of Makni,"
+      },
+      {
+       "cyr": "ексик да ти е, Рајне, живота.",
+       "lat": "eksik da ti e, Rajne, života.",
+       "en": "may your life be lacking, Rajne."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Три години Заре се сакавме,",
+       "lat": "- Tri godini Zare se sakavme,",
+       "en": "- Three years, Zare, we loved each other,"
+      },
+      {
+       "cyr": "а па зашто не се зедовме?",
+       "lat": "a pa zašto ne se zedovme?",
+       "en": "but why did we not marry?"
+      },
+      {
+       "cyr": "Ој Заре, Заре, жив да не бидеш,",
+       "lat": "Oj Zare, Zare, živ da ne bideš,",
+       "en": "Oh Zare, Zare, may you not live,"
+      },
+      {
+       "cyr": "ти тоа што ми го направи.",
+       "lat": "ti toa što mi go napravi.",
+       "en": "for what you did to me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

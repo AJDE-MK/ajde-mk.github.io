@@ -1,0 +1,306 @@
+{
+ "id": 1309,
+ "slug": "pomolila-boga-maca",
+ "title_cyr": "Помолила бога Маца",
+ "title_latin": "Pomolila boga Maca",
+ "title_en": "Maca prayed to God",
+ "pesna_url": "https://pesna.org/song/1309",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Билјан Стојаноски",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Елена Андоновска",
+  "Непознат изведувач",
+  "Chrysoula Papadopoulou",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/3315"
+  },
+  {
+   "who": "Chrysoula Papadopoulou",
+   "url": "https://pesna.org/audio-download/3460"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3461"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/3786"
+  },
+  {
+   "who": "Елена Андоновска",
+   "url": "https://pesna.org/audio-download/4163"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/4427"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ветер да подујне",
+       "lat": "Veter da podujne",
+       "en": "Let the wind blow",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Помолила бога Маца, помолила бога,",
+       "lat": "Pomolila boga Maca, pomolila boga,",
+       "en": "Maca prayed to God, prayed to God:",
+       "en_mt": false
+      },
+      {
+       "cyr": "есен да ми дојде мамо, роса да зароси,",
+       "lat": "esen da mi dojde mamo, rosa da zarosi,",
+       "en": "Let autumn come, mother, let dew sprinkle,",
+       "en_mt": false
+      },
+      {
+       "cyr": "роса да зароси мамо, ветер да подувне.",
+       "lat": "rosa da zarosi mamo, veter da poduvne.",
+       "en": "let dew sprinkle, mother, let the wind blow,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ветер да подувне мамо, гранки да искрши,",
+       "lat": "Veter da poduvne mamo, granki da iskrši,",
+       "en": "let the wind blow, mother, to break the branches.",
+       "en_mt": false
+      },
+      {
+       "cyr": "гранки да искрши мамо, Вардар да препиши,",
+       "lat": "granki da iskrši mamo, Vardar da prepiši,",
+       "en": "To break the branches, mother, so that Vardar can transfer them,",
+       "en_mt": false
+      },
+      {
+       "cyr": "гранки да искрши мамо, Вардар да препиши.",
+       "lat": "granki da iskrši mamo, Vardar da prepiši.",
+       "en": "to break the branches, mother, so that Vardar can transfer them.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во Вардарот има мамо шарено сандаче,",
+       "lat": "Vo Vardarot ima mamo šareno sandače,",
+       "en": "In Vardar there is, mother, a colourful casket,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во сандаче има мамо, рака од јунака,",
+       "lat": "vo sandače ima mamo, raka od junaka,",
+       "en": "inside the casket there is, mother, a hero's hand,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на раката, мила мамо, бурма позлатена.",
+       "lat": "na rakata, mila mamo, burma pozlatena.",
+       "en": "on the hand, dear mother, a gilded wedding ring.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На бурмата пишуваше име Димитрија,",
+       "lat": "Na burmata pišuvaše ime Dimitrija,",
+       "en": "On the ring it reads the name \"Dimitrija\",",
+       "en_mt": false
+      },
+      {
+       "cyr": "име Димитрија мамо, јунак македонски,",
+       "lat": "ime Dimitrija mamo, junak makedonski,",
+       "en": "the name Dimitrija, mother, a Macedonian hero,",
+       "en_mt": false
+      },
+      {
+       "cyr": "име Димитрија мамо, јунак македонски.",
+       "lat": "ime Dimitrija mamo, junak makedonski.",
+       "en": "the name Dimitrija, mother, a Macedonian hero.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Моли се, помоли, мајко,",
+       "lat": "Moli se, pomoli, majko,",
+       "en": "Pray and beg, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "моли се помоли.",
+       "lat": "moli se pomoli.",
+       "en": "pray and beg.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ветер да подујне, мајко мори,",
+       "lat": "Veter da podujne, majko mori,",
+       "en": "So that the wind blows, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "магли да расече.",
+       "lat": "magli da raseče.",
+       "en": "to cut through the fogs.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Магли да расече, мајко,",
+       "lat": "Magli da raseče, majko,",
+       "en": "To cut through the fogs, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "магли да расече.",
+       "lat": "magli da raseče.",
+       "en": "to cut through the fogs.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сонце да огрее, мајко мори,",
+       "lat": "Sonce da ogree, majko mori,",
+       "en": "So that the sun shines again, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "реки да пресече.",
+       "lat": "reki da preseče.",
+       "en": "to stop the rivers.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Реки да пресече, мајко,",
+       "lat": "Reki da preseče, majko,",
+       "en": "To stop the rivers, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "реки да пресече.",
+       "lat": "reki da preseče.",
+       "en": "to stop the rivers.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Момци да префрлат, мајко мори,",
+       "lat": "Momci da prefrlat, majko mori,",
+       "en": "So that the lads can cross over, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "момци Македонци.",
+       "lat": "momci Makedonci.",
+       "en": "the Macedonians.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момци Македонци, мајко,",
+       "lat": "Momci Makedonci, majko,",
+       "en": "The Macedonian lads, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "момци Македонци,",
+       "lat": "momci Makedonci,",
+       "en": "the Macedonian lads,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè со бели коњи, мајко мори,",
+       "lat": "sè so beli konji, majko mori,",
+       "en": "Travelling with white horses, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сè со жолти узди.",
+       "lat": "sè so žolti uzdi.",
+       "en": "with yellow bridles.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На рамото носат, мајко,",
+       "lat": "Na ramoto nosat, majko,",
+       "en": "Carrying on their shoulders, mother",
+       "en_mt": false
+      },
+      {
+       "cyr": "на рамото носат.",
+       "lat": "na ramoto nosat.",
+       "en": "carrying on their shoulders.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На рамото носат, мајко мори,",
+       "lat": "Na ramoto nosat, majko mori,",
+       "en": "Carrying on their shoulders, dear mother",
+       "en_mt": false
+      },
+      {
+       "cyr": "пушки манлихери.",
+       "lat": "puški manliheri.",
+       "en": "Mannlicher riffles.",
+       "en_mt": false
+      },
+      {
+       "cyr": "На појасот носат, мајко мори,",
+       "lat": "Na pojasot nosat, majko mori,",
+       "en": "On their belt, dear mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тенките калачки.",
+       "lat": "tenkite kalački.",
+       "en": "thin sabres.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

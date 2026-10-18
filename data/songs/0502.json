@@ -1,0 +1,105 @@
+{
+ "id": 502,
+ "slug": "zapej-pesna-makedonko",
+ "title_cyr": "Запеј песна Македонко",
+ "title_latin": "Zapej pesna Makedonko",
+ "title_en": "Sing a song, Macedonian girl",
+ "pesna_url": "https://pesna.org/song/502",
+ "background": "A modern patriotic song, a kind of letter home. Macedonian girl, sing and send greetings far away to brothers and sisters on three sides, from Ohrid to Pirin to Thessaloniki, separated for many years by borders.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1509"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Запеј песна Македонко,",
+       "lat": "Zapej pesna Makedonko,",
+       "en": "Sing a song, Macedonian girl"
+      },
+      {
+       "cyr": "ти испрати голем поздрав надалеку.",
+       "lat": "ti isprati golem pozdrav nadaleku.",
+       "en": "you send great greetings afar."
+      },
+      {
+       "cyr": "Поздрави браќа, сестри на три страни",
+       "lat": "Pozdravi braḱa, sestri na tri strani",
+       "en": "Send greetings to brothers, sisters to three sides"
+      },
+      {
+       "cyr": "од Охрид, до Пирин, дур' до Солуна.",
+       "lat": "od Ohrid, do Pirin, dur' do Soluna.",
+       "en": "from Ohrid to Pirin, on to Salonica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојта песна Македонко,",
+       "lat": "Tvojta pesna Makedonko,",
+       "en": "Your song, Macedonian girl"
+      },
+      {
+       "cyr": "ќе расплаче многу срца разделени,",
+       "lat": "ḱe rasplače mnogu srca razdeleni,",
+       "en": "brings tears to many broken hearts,"
+      },
+      {
+       "cyr": "невидени браќа, сестри многу години",
+       "lat": "nevideni braḱa, sestri mnogu godini",
+       "en": "brothers and sisters, unseen for many years"
+      },
+      {
+       "cyr": "со тие граници разделени.",
+       "lat": "so tie granici razdeleni.",
+       "en": "kept apart by borders."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запеј песна Македонко,",
+       "lat": "Zapej pesna Makedonko,",
+       "en": "Sing a song, Macedonian girl,"
+      },
+      {
+       "cyr": "да се зберат браќа, сестри Македонци,",
+       "lat": "da se zberat braḱa, sestri Makedonci,",
+       "en": "to gather brothers, sisters, Macedonians,"
+      },
+      {
+       "cyr": "сите ние да запејме, да се чуе",
+       "lat": "site nie da zapejme, da se čue",
+       "en": "we all sing, to hear"
+      },
+      {
+       "cyr": "од Охрид до Пирин, дур до Солуна.",
+       "lat": "od Ohrid do Pirin, dur do Soluna.",
+       "en": "from Ohrid to Pirin, on to Salonica."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

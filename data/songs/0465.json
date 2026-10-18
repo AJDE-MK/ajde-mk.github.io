@@ -1,0 +1,205 @@
+{
+ "id": 465,
+ "slug": "ino-mome-veselino",
+ "title_cyr": "Ино моме веселино",
+ "title_latin": "Ino mome veselino",
+ "title_en": "Ino, Cheerful Girl",
+ "pesna_url": "https://pesna.org/song/465",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern song but I cannot name an author. 'Ино' is probably a girl's name or form of address (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, lass"
+  },
+  {
+   "mk": "веселино",
+   "en": "cheerful one"
+  },
+  {
+   "mk": "разгоре",
+   "en": "set aflame"
+  },
+  {
+   "mk": "накити",
+   "en": "adorned"
+  },
+  {
+   "mk": "свене",
+   "en": "wilts"
+  },
+  {
+   "mk": "лутам",
+   "en": "I wander"
+  },
+  {
+   "mk": "наточи",
+   "en": "pour"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, troubles"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/1231"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ино моме веселино,",
+       "lat": "Ino mome veselino,",
+       "en": "Ino, cheerful girl,"
+      },
+      {
+       "cyr": "ме разгоре како вино,",
+       "lat": "me razgore kako vino,",
+       "en": "you set me aflame like wine,"
+      },
+      {
+       "cyr": "ме накити ти со цвеќе,",
+       "lat": "me nakiti ti so cveḱe,",
+       "en": "you adorned me with flowers"
+      },
+      {
+       "cyr": "што нема, нема да свене веќе.",
+       "lat": "što nema, nema da svene veḱe.",
+       "en": "that will never, never wither again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ино моме, веселино,",
+       "lat": "Ino mome, veselino,",
+       "en": "Ino, cheerful girl,"
+      },
+      {
+       "cyr": "ми отвори небо сино,",
+       "lat": "mi otvori nebo sino,",
+       "en": "open the blue sky for me,"
+      },
+      {
+       "cyr": "кај што лутам како облак,",
+       "lat": "kaj što lutam kako oblak,",
+       "en": "where I wander like a cloud"
+      },
+      {
+       "cyr": "по твојата снага топла.",
+       "lat": "po tvojata snaga topla.",
+       "en": "after your warm body."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ино моме веселино,",
+       "lat": "Ino mome veselino,",
+       "en": "Ino, cheerful girl,"
+      },
+      {
+       "cyr": "наточи ми чаша вино,",
+       "lat": "natoči mi čaša vino,",
+       "en": "pour me a glass of wine,"
+      },
+      {
+       "cyr": "подари ми небо сино,",
+       "lat": "podari mi nebo sino,",
+       "en": "give me the blue sky,"
+      },
+      {
+       "cyr": "да те пијам, да испијам,",
+       "lat": "da te pijam, da ispijam,",
+       "en": "so I may drink you, drink you up,"
+      },
+      {
+       "cyr": "подари ми небо сино,",
+       "lat": "podari mi nebo sino,",
+       "en": "give me the blue sky,"
+      },
+      {
+       "cyr": "јадови свои јас да скријам.",
+       "lat": "jadovi svoi jas da skrijam.",
+       "en": "so I may hide my sorrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ино моме веселино,",
+       "lat": "Ino mome veselino,",
+       "en": "Ino, cheerful girl,"
+      },
+      {
+       "cyr": "ми отвори небо сино,",
+       "lat": "mi otvori nebo sino,",
+       "en": "open the blue sky for me,"
+      },
+      {
+       "cyr": "кај што лутам како облак,",
+       "lat": "kaj što lutam kako oblak,",
+       "en": "where I wander like a cloud"
+      },
+      {
+       "cyr": "по твојата снага топла.",
+       "lat": "po tvojata snaga topla.",
+       "en": "after your warm body."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ино моме, веселино,",
+       "lat": "Ino mome, veselino,",
+       "en": "Ino, cheerful girl,"
+      },
+      {
+       "cyr": "наточи ми чаша вино,",
+       "lat": "natoči mi čaša vino,",
+       "en": "pour me a glass of wine,"
+      },
+      {
+       "cyr": "подари ми небо сино,",
+       "lat": "podari mi nebo sino,",
+       "en": "give me the blue sky,"
+      },
+      {
+       "cyr": "да те пијам да испијам,",
+       "lat": "da te pijam da ispijam,",
+       "en": "so I may drink you, drink you up,"
+      },
+      {
+       "cyr": "подари ми небо сино,",
+       "lat": "podari mi nebo sino,",
+       "en": "give me the blue sky,"
+      },
+      {
+       "cyr": "јадови свои јас да скријам.",
+       "lat": "jadovi svoi jas da skrijam.",
+       "en": "so I may hide my sorrows."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

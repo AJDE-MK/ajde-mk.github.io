@@ -1,0 +1,152 @@
+{
+ "id": 902,
+ "slug": "stojan-si-stado-paseshe",
+ "title_cyr": "Стојан си стадо пасеше",
+ "title_latin": "Stojan si stado paseše",
+ "title_en": "Stojan was grazing his flock",
+ "pesna_url": "https://pesna.org/song/902",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The last line 'а либе ќе ми заљуби' is my reading (probably 'and will take my love' or make her fall for him); the speaker of the second stanza is unclear.",
+ "words_to_learn": [
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (shepherd's flute)"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "паша",
+   "en": "pasha (Ottoman official)"
+  },
+  {
+   "mk": "потурчи",
+   "en": "convert to Islam, make a Turk of"
+  },
+  {
+   "mk": "заколе",
+   "en": "will slaughter"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "закани",
+   "en": "threatened"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Емил Ристосков"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1980"
+  },
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/2267"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојан си стадо пасеше",
+       "lat": "Stojan si stado paseše",
+       "en": "Stojan was grazing his flock"
+      },
+      {
+       "cyr": "горе на Пирин Планина.",
+       "lat": "gore na Pirin Planina.",
+       "en": "up on Pirin mountain."
+      },
+      {
+       "cyr": "Меден си кавал свиреше,",
+       "lat": "Meden si kaval svireše,",
+       "en": "He played his honeyed kaval,"
+      },
+      {
+       "cyr": "свиреше, уз кавал збореше.",
+       "lat": "svireše, uz kaval zboreše.",
+       "en": "played, and spoke through the kaval."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стојане, море, овчаре,",
+       "lat": "- Stojane, more, ovčare,",
+       "en": "- Stojan, hey, shepherd,"
+      },
+      {
+       "cyr": "девет години си овчар,",
+       "lat": "devet godini si ovčar,",
+       "en": "nine years you have been a shepherd,"
+      },
+      {
+       "cyr": "никому беда не стори,",
+       "lat": "nikomu beda ne stori,",
+       "en": "you did no harm to anyone,"
+      },
+      {
+       "cyr": "но вчера беда направи.",
+       "lat": "no včera beda napravi.",
+       "en": "but yesterday you did harm."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На паша јагне не даде,",
+       "lat": "Na paša jagne ne dade,",
+       "en": "You did not give the pasha a lamb,"
+      },
+      {
+       "cyr": "а паша ми се закани:",
+       "lat": "a paša mi se zakani:",
+       "en": "and the pasha threatened me:"
+      },
+      {
+       "cyr": "мајка ми ќе ја заколе,",
+       "lat": "majka mi ḱe ja zakole,",
+       "en": "he will slaughter my mother,"
+      },
+      {
+       "cyr": "татко ми ќе го погуби,",
+       "lat": "tatko mi ḱe go pogubi,",
+       "en": "he will destroy my father,"
+      },
+      {
+       "cyr": "сестра ми ќе ја потурчи,",
+       "lat": "sestra mi ḱe ja poturči,",
+       "en": "he will turn my sister into a Turk,"
+      },
+      {
+       "cyr": "а либе ќе ми заљуби.",
+       "lat": "a libe ḱe mi zaljubi.",
+       "en": "and he will make my sweetheart fall in love with him."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,167 @@
+{
+ "id": 305,
+ "slug": "sirak-se-stojan-razbolel",
+ "title_cyr": "Сирак се Стојан разболел",
+ "title_latin": "Sirak se Stojan razbolel",
+ "title_en": "Poor Stojan fell ill",
+ "pesna_url": "https://pesna.org/song/305",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'К'враче' as 'little shirt' is my reading. 'Сиромав' is rendered 'poor fellow'.",
+ "words_to_learn": [
+  {
+   "mk": "сирак",
+   "en": "orphan, poor fellow"
+  },
+  {
+   "mk": "разболел",
+   "en": "fell ill"
+  },
+  {
+   "mk": "комшиче",
+   "en": "little neighbour girl"
+  },
+  {
+   "mk": "алово",
+   "en": "bright red"
+  },
+  {
+   "mk": "к'враче",
+   "en": "little shirt (dialect, my reading)"
+  },
+  {
+   "mk": "шамивче",
+   "en": "little kerchief"
+  },
+  {
+   "mk": "посакај",
+   "en": "ask for (a bride), request"
+  }
+ ],
+ "performers": [
+  "Октет Куманово",
+  "Струне",
+  "Шиткарски"
+ ],
+ "audio": [
+  {
+   "who": "Октет Куманово",
+   "url": "https://pesna.org/audio-download/2120"
+  },
+  {
+   "who": "Струне",
+   "url": "https://pesna.org/audio-download/2121"
+  },
+  {
+   "who": "Шиткарски",
+   "url": "https://pesna.org/audio-download/2122"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сирак се Стојан разболел",
+       "lat": "Sirak se Stojan razbolel",
+       "en": "Orphan Stojan fell ill"
+      },
+      {
+       "cyr": "заради наш'то комшиче.",
+       "lat": "zaradi naš'to komšiče.",
+       "en": "because of our little neighbour girl."
+      },
+      {
+       "cyr": "Еј, хај, сиромав,",
+       "lat": "Ej, haj, siromav,",
+       "en": "Hey, hay, poor fellow,"
+      },
+      {
+       "cyr": "името му е Мариче.",
+       "lat": "imeto mu e Mariče.",
+       "en": "her name is Marice."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Името му е Мариче",
+       "lat": "Imeto mu e Mariče",
+       "en": "Her name is Marice,"
+      },
+      {
+       "cyr": "со аловото к'враче.",
+       "lat": "so alovoto k'vrače.",
+       "en": "with the bright red little shirt."
+      },
+      {
+       "cyr": "Еј, хај, сиромав,",
+       "lat": "Ej, haj, siromav,",
+       "en": "Hey, hay, poor fellow,"
+      },
+      {
+       "cyr": "со свиленото шамивче.",
+       "lat": "so svilenoto šamivče.",
+       "en": "with the silk little kerchief."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со аловото к'враче",
+       "lat": "So alovoto k'vrače",
+       "en": "With the bright red little shirt"
+      },
+      {
+       "cyr": "и со белото блузиче.",
+       "lat": "i so beloto bluziče.",
+       "en": "and the white little blouse."
+      },
+      {
+       "cyr": "Еј, хај, сиромав",
+       "lat": "Ej, haj, siromav",
+       "en": "Hey, hay, poor fellow,"
+      },
+      {
+       "cyr": "и со белото блузиче.",
+       "lat": "i so beloto bluziče.",
+       "en": "and the white little blouse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Иди ја мамо посакај,",
+       "lat": "Idi ja mamo posakaj,",
+       "en": "Go, mother, ask for her,"
+      },
+      {
+       "cyr": "за неа да се оженам.",
+       "lat": "za nea da se oženam.",
+       "en": "so I can marry her."
+      },
+      {
+       "cyr": "Еј, хај, сиромав",
+       "lat": "Ej, haj, siromav",
+       "en": "Hey, hay, poor fellow,"
+      },
+      {
+       "cyr": "за неа да се оженам.",
+       "lat": "za nea da se oženam.",
+       "en": "so I can marry her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

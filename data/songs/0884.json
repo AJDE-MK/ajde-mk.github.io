@@ -1,0 +1,179 @@
+{
+ "id": 884,
+ "slug": "sakam-da-si-samo-moja",
+ "title_cyr": "Сакам да си само моја",
+ "title_latin": "Sakam da si samo moja",
+ "title_en": "I Want You to Be Only Mine",
+ "pesna_url": "https://pesna.org/song/884",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author I can name. 'Деј гиди' is my reading as an exclamation of affection.",
+ "words_to_learn": [
+  {
+   "mk": "пиле шарено",
+   "en": "colourful little bird (endearment)"
+  },
+  {
+   "mk": "севда",
+   "en": "love, passion, longing"
+  },
+  {
+   "mk": "опиват",
+   "en": "they intoxicate (dialect form)"
+  },
+  {
+   "mk": "знајш",
+   "en": "you know (dialect, ending in -ш)"
+  },
+  {
+   "mk": "вита снага",
+   "en": "slender figure"
+  },
+  {
+   "mk": "руси коси",
+   "en": "fair (blond) hair"
+  },
+  {
+   "mk": "детелина",
+   "en": "clover"
+  },
+  {
+   "mk": "деј гиди",
+   "en": "oh my (exclamation)"
+  }
+ ],
+ "performers": [
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1925"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сакам да си само моја, Анѓелино",
+       "lat": "Sakam da si samo moja, Anǵelino",
+       "en": "I want you to be only mine, Angelina,"
+      },
+      {
+       "cyr": "само тебе јас те љубам, пиле шарено,",
+       "lat": "samo tebe jas te ljubam, pile šareno,",
+       "en": "only you do I love, my colourful bird,"
+      },
+      {
+       "cyr": "твојте црни очи, черешови,",
+       "lat": "tvojte crni oči, čerešovi,",
+       "en": "your black eyes, cherry-dark,"
+      },
+      {
+       "cyr": "не знајш ти к'о ме опиват, севдо голема.",
+       "lat": "ne znajš ti k'o me opivat, sevdo golema.",
+       "en": "you don't know how they intoxicate me, great love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Анѓе мори Анѓо, Анѓелино,",
+       "lat": "Anǵe mori Anǵo, Anǵelino,",
+       "en": "Ange, hey Ango, Angelina,"
+      },
+      {
+       "cyr": "деј гиди моја росна детелино.",
+       "lat": "dej gidi moja rosna detelino.",
+       "en": "oh my dear, my dewy clover."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сакам да си само моја, Анѓелино",
+       "lat": "Sakam da si samo moja, Anǵelino",
+       "en": "I want you to be only mine, Angelina,"
+      },
+      {
+       "cyr": "само тебе јас те љубам, пиле шарено,",
+       "lat": "samo tebe jas te ljubam, pile šareno,",
+       "en": "only you do I love, my colourful bird,"
+      },
+      {
+       "cyr": "твојте руси коси, Анѓелино,",
+       "lat": "tvojte rusi kosi, Anǵelino,",
+       "en": "your fair hair, Angelina,"
+      },
+      {
+       "cyr": "сакам да се само мои, севдо голема.",
+       "lat": "sakam da se samo moi, sevdo golema.",
+       "en": "I want it to be only mine, great love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Анѓе мори Анѓо, Анѓелино,",
+       "lat": "Anǵe mori Anǵo, Anǵelino,",
+       "en": "Ange, hey Ango, Angelina,"
+      },
+      {
+       "cyr": "деј гиди моја росна детелино.",
+       "lat": "dej gidi moja rosna detelino.",
+       "en": "oh my dear, my dewy clover."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сакам да си само моја, Анѓелино",
+       "lat": "Sakam da si samo moja, Anǵelino",
+       "en": "I want you to be only mine, Angelina,"
+      },
+      {
+       "cyr": "само тебе јас те љубам, пиле шарено,",
+       "lat": "samo tebe jas te ljubam, pile šareno,",
+       "en": "only you do I love, my colourful bird,"
+      },
+      {
+       "cyr": "твојта вита снага, Анѓелино,",
+       "lat": "tvojta vita snaga, Anǵelino,",
+       "en": "your slender figure, Angelina,"
+      },
+      {
+       "cyr": "сакам да е само моја, севдо голема.",
+       "lat": "sakam da e samo moja, sevdo golema.",
+       "en": "I want it to be only mine, great love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Анѓе мори Анѓо, Анѓелино,",
+       "lat": "Anǵe mori Anǵo, Anǵelino,",
+       "en": "Ange, hey Ango, Angelina,"
+      },
+      {
+       "cyr": "деј гиди моја росна детелино.",
+       "lat": "dej gidi moja rosna detelino.",
+       "en": "oh my dear, my dewy clover."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

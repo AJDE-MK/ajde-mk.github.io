@@ -1,0 +1,169 @@
+{
+ "id": 1266,
+ "slug": "vojnik-zaminuvam",
+ "title_cyr": "Војник заминувам",
+ "title_latin": "Vojnik zaminuvam",
+ "title_en": "I Leave as a Soldier",
+ "pesna_url": "https://pesna.org/song/1266",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (modern-sounding soldier send-off song), no author I can name. 'Како цвеќе си ме гледала' I read as 'you looked after me like a flower'.",
+ "words_to_learn": [
+  {
+   "mk": "благослови",
+   "en": "bless (imperative)"
+  },
+  {
+   "mk": "радост",
+   "en": "joy"
+  },
+  {
+   "mk": "гордо",
+   "en": "proudly"
+  },
+  {
+   "mk": "заминувам",
+   "en": "I am leaving, setting off"
+  },
+  {
+   "mk": "запеј",
+   "en": "start singing"
+  },
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "дочека",
+   "en": "lived to see, waited for"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "прегрнеме",
+   "en": "we embrace"
+  },
+  {
+   "mk": "свирачи",
+   "en": "musicians, players"
+  }
+ ],
+ "performers": [
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3198"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мила моја мајко, благослови ме,",
+       "lat": "Mila moja majko, blagoslovi me,",
+       "en": "My dear mother, bless me,"
+      },
+      {
+       "cyr": "со радост гордо ти испрати ме,",
+       "lat": "so radost gordo ti isprati me,",
+       "en": "send me off proudly with joy,"
+      },
+      {
+       "cyr": "еве денес војник јас заминувам,",
+       "lat": "eve denes vojnik jas zaminuvam,",
+       "en": "today I am leaving as a soldier,"
+      },
+      {
+       "cyr": "запеј песна мајко, оро поведи.",
+       "lat": "zapej pesna majko, oro povedi.",
+       "en": "start a song, mother, lead the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како цвеќе си ме гледала,",
+       "lat": "Kako cveḱe si me gledala,",
+       "en": "You watched me like a flower,"
+      },
+      {
+       "cyr": "војник да одам ти дочека,",
+       "lat": "vojnik da odam ti dočeka,",
+       "en": "and lived to see me go as a soldier,"
+      },
+      {
+       "cyr": "тешка песна пеат моите другари,",
+       "lat": "teška pesna peat moite drugari,",
+       "en": "my friends sing a heavy song,"
+      },
+      {
+       "cyr": "биди силна, мајко, скриј ги солзите.",
+       "lat": "bidi silna, majko, skrij gi solzite.",
+       "en": "be strong, mother, hide your tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде мајко да се прегрнеме",
+       "lat": "Ajde majko da se pregrneme",
+       "en": "Come, mother, let us embrace"
+      },
+      {
+       "cyr": "и со песна да се разделиме,",
+       "lat": "i so pesna da se razdelime,",
+       "en": "and part with a song,"
+      },
+      {
+       "cyr": "ајде сите полни чаши кренете,",
+       "lat": "ajde site polni čaši krenete,",
+       "en": "come, everyone, raise full glasses,"
+      },
+      {
+       "cyr": "нека ечи песна од свирачите.",
+       "lat": "neka eči pesna od sviračite.",
+       "en": "let the song ring out from the musicians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како цвеќе си ме гледала,",
+       "lat": "Kako cveḱe si me gledala,",
+       "en": "You watched me like a flower,"
+      },
+      {
+       "cyr": "војник да одам ти дочека,",
+       "lat": "vojnik da odam ti dočeka,",
+       "en": "and lived to see me go as a soldier,"
+      },
+      {
+       "cyr": "тешка песна пеат моите другари,",
+       "lat": "teška pesna peat moite drugari,",
+       "en": "my friends sing a heavy song,"
+      },
+      {
+       "cyr": "биди силна, мајко, скриј ги солзите.",
+       "lat": "bidi silna, majko, skrij gi solzite.",
+       "en": "be strong, mother, hide your tears."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

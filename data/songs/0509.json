@@ -1,0 +1,130 @@
+{
+ "id": 509,
+ "slug": "trgnalo-mi-ludo-mlado",
+ "title_cyr": "Тргнало ми лудо младо",
+ "title_latin": "Trgnalo mi ludo mlado",
+ "title_en": "A young man is about to go",
+ "pesna_url": "https://pesna.org/song/509",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алтернатор",
+  "Виолета Томовска",
+  "Даниела Темелковска",
+  "Елена Велевска",
+  "Јорданка Смилевска",
+  "Кирил Манчевски",
+  "Љубен и Весела Божкови"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/946"
+  },
+  {
+   "who": "Кирил Манчевски, Виолета Томовска",
+   "url": "https://pesna.org/audio-download/947"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/1645"
+  },
+  {
+   "who": "Алтернатор",
+   "url": "https://pesna.org/audio-download/1646"
+  },
+  {
+   "who": "Даниела Темелковска",
+   "url": "https://pesna.org/audio-download/1647"
+  },
+  {
+   "who": "Љубен и Весела Божкови",
+   "url": "https://pesna.org/audio-download/1648"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргнало ми лудо младо",
+       "lat": "Trgnalo mi ludo mlado",
+       "en": "A young man is about to go"
+      },
+      {
+       "cyr": "за солунски пазар",
+       "lat": "za solunski pazar",
+       "en": "to the market in Solun"
+      },
+      {
+       "cyr": "и на моме проговара",
+       "lat": "i na mome progovara",
+       "en": "so he asks his girlfriend"
+      },
+      {
+       "cyr": "рачај, порачувај.",
+       "lat": "račaj, poračuvaj.",
+       "en": "to make an order."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рачај порачувај моме",
+       "lat": "Račaj poračuvaj mome",
+       "en": "Tell me girl, order,"
+      },
+      {
+       "cyr": "што да ти донесам",
+       "lat": "što da ti donesam",
+       "en": "what do you want me to bring to you,"
+      },
+      {
+       "cyr": "срмено елече моме",
+       "lat": "srmeno eleče mome",
+       "en": "a silver bodice, girl,"
+      },
+      {
+       "cyr": "или ѓерданче.",
+       "lat": "ili ǵerdanče.",
+       "en": "or a necklace?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Купи лудо, купи младо",
+       "lat": "Kupi ludo, kupi mlado",
+       "en": "Buy dear, buy honey,"
+      },
+      {
+       "cyr": "што ти срце сака",
+       "lat": "što ti srce saka",
+       "en": "whatever your heart wants"
+      },
+      {
+       "cyr": "што ти срце сака лудо",
+       "lat": "što ti srce saka ludo",
+       "en": "whatever your heart wants, dear,"
+      },
+      {
+       "cyr": "што го нема тука.",
+       "lat": "što go nema tuka.",
+       "en": "as long as we don't have it here."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

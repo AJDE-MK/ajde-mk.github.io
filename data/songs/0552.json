@@ -1,0 +1,185 @@
+{
+ "id": 552,
+ "slug": "mazh-mi-e-general",
+ "title_cyr": "Маж ми е генерал",
+ "title_latin": "Maž mi e general",
+ "title_en": "My Husband Is a General",
+ "pesna_url": "https://pesna.org/song/552",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (looks like a modern composed song, no author I can name). The last verse about 'that battle' is my reading as the girl hoping the officer survives a war.",
+ "words_to_learn": [
+  {
+   "mk": "маж",
+   "en": "husband"
+  },
+  {
+   "mk": "подгрбен",
+   "en": "hunched"
+  },
+  {
+   "mk": "незгоден",
+   "en": "unsuitable, unfit"
+  },
+  {
+   "mk": "достојна",
+   "en": "worthy"
+  },
+  {
+   "mk": "бал",
+   "en": "ball, dance"
+  },
+  {
+   "mk": "офицер",
+   "en": "officer"
+  },
+  {
+   "mk": "раскош",
+   "en": "luxury"
+  },
+  {
+   "mk": "целувка",
+   "en": "kiss"
+  }
+ ],
+ "performers": [
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/1879"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Маж ми е генерал",
+       "lat": "Maž mi e general",
+       "en": "My husband is a general,"
+      },
+      {
+       "cyr": "шеесет годишен, стар,",
+       "lat": "šeeset godišen, star,",
+       "en": "sixty years old, old,"
+      },
+      {
+       "cyr": "стар и подгрбен е тој,",
+       "lat": "star i podgrben e toj,",
+       "en": "old and hunched is he,"
+      },
+      {
+       "cyr": "незгоден за љубов.",
+       "lat": "nezgoden za ljubov.",
+       "en": "unfit for love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас сум млада мома,",
+       "lat": "A jas sum mlada moma,",
+       "en": "And I am a young girl,"
+      },
+      {
+       "cyr": "шеснајст годишна сум,",
+       "lat": "šesnajst godišna sum,",
+       "en": "I am sixteen years old,"
+      },
+      {
+       "cyr": "во светот на младоста,",
+       "lat": "vo svetot na mladosta,",
+       "en": "in the world of youth,"
+      },
+      {
+       "cyr": "достојна за љубов.",
+       "lat": "dostojna za ljubov.",
+       "en": "worthy of love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во Струга на балот,",
+       "lat": "Vo Struga na balot,",
+       "en": "In Struga at the ball,"
+      },
+      {
+       "cyr": "јас ќе се заљубам",
+       "lat": "jas ḱe se zaljubam",
+       "en": "I will fall in love"
+      },
+      {
+       "cyr": "во еден млад офицер,",
+       "lat": "vo eden mlad oficer,",
+       "en": "with a young officer,"
+      },
+      {
+       "cyr": "достоен кавалер.",
+       "lat": "dostoen kavaler.",
+       "en": "a worthy gentleman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И с' него целата ноќ",
+       "lat": "I s' nego celata noḱ",
+       "en": "And with him all night"
+      },
+      {
+       "cyr": "ќе спијам во раскош,",
+       "lat": "ḱe spijam vo raskoš,",
+       "en": "I will sleep in luxury,"
+      },
+      {
+       "cyr": "тој ќе ми дари цвеќа",
+       "lat": "toj ḱe mi dari cveḱa",
+       "en": "he will give me flowers"
+      },
+      {
+       "cyr": "и прва целувка.",
+       "lat": "i prva celuvka.",
+       "en": "and a first kiss."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О боже, мили боже,",
+       "lat": "O bože, mili bože,",
+       "en": "Oh God, dear God,"
+      },
+      {
+       "cyr": "дал' ќе сврши тој бој,",
+       "lat": "dal' ḱe svrši toj boj,",
+       "en": "will that battle end,"
+      },
+      {
+       "cyr": "да ми се врати тој",
+       "lat": "da mi se vrati toj",
+       "en": "so that he returns to me"
+      },
+      {
+       "cyr": "и вечно да е мој?",
+       "lat": "i večno da e moj?",
+       "en": "and is mine forever?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

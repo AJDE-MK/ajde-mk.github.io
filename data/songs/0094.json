@@ -1,0 +1,126 @@
+{
+ "id": 94,
+ "slug": "zhalajte-go-brakja-toleta-vojvoda",
+ "title_cyr": "Жалајте го браќа Толета војвода",
+ "title_latin": "Žalajte go braḱa Toleta vojvoda",
+ "title_en": "Mourn him, brothers, Voivode Tole",
+ "pesna_url": "https://pesna.org/song/94",
+ "background": "A lament for the voivoda Tole, who died for his people and for freedom. Qwen links him to the Kruševo region and the Ilinden generation; I have not checked who he is.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Commemorative song about a voivode named Tole; I do not know if it is anonymous or composed, so it is treated as folk-style.",
+ "words_to_learn": [
+  {
+   "mk": "жалајте",
+   "en": "mourn, grieve (imperative plural)"
+  },
+  {
+   "mk": "браќа",
+   "en": "brothers"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel chieftain"
+  },
+  {
+   "mk": "народ",
+   "en": "people, nation"
+  },
+  {
+   "mk": "загина",
+   "en": "died, perished"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "оти",
+   "en": "because, for"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Жалајте го браќа",
+       "lat": "Žalajte go braḱa",
+       "en": "Mourn him, brothers,"
+      },
+      {
+       "cyr": "Толета војвода.",
+       "lat": "Toleta vojvoda.",
+       "en": "Voivode Tole."
+      },
+      {
+       "cyr": "Толе војвода",
+       "lat": "Tole vojvoda",
+       "en": "Voivode Tole"
+      },
+      {
+       "cyr": "за народ загина.",
+       "lat": "za narod zagina.",
+       "en": "died for the people."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жалајте го браќа",
+       "lat": "Žalajte go braḱa",
+       "en": "Mourn him, brothers,"
+      },
+      {
+       "cyr": "Толета војвода,",
+       "lat": "Toleta vojvoda,",
+       "en": "Voivode Tole,"
+      },
+      {
+       "cyr": "оти Толе падна",
+       "lat": "oti Tole padna",
+       "en": "for Tole fell"
+      },
+      {
+       "cyr": "за наш'та слобода.",
+       "lat": "za naš'ta sloboda.",
+       "en": "for our freedom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Толе војвода",
+       "lat": "Tole vojvoda",
+       "en": "Voivode Tole"
+      },
+      {
+       "cyr": "за народ загина,",
+       "lat": "za narod zagina,",
+       "en": "died for the people,"
+      },
+      {
+       "cyr": "за наш'та слобода,",
+       "lat": "za naš'ta sloboda,",
+       "en": "for our freedom,"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

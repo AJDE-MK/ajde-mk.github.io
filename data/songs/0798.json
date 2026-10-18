@@ -1,0 +1,113 @@
+{
+ "id": 798,
+ "slug": "pole-shiroko",
+ "title_cyr": "Поле широко",
+ "title_latin": "Pole široko",
+ "title_en": "Wide field",
+ "pesna_url": "https://pesna.org/song/798",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец",
+  "Balkan Sevdah"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1508"
+  },
+  {
+   "who": "Balkan Sevdah",
+   "url": "https://pesna.org/audio-download/2248"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Пирин планино)",
+       "lat": "(Pirin planino)",
+       "en": "(Pirin Mountain)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поле широко,",
+       "lat": "Pole široko,",
+       "en": "Wide field,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој ќе по тебе да се шета,",
+       "lat": "koj ḱe po tebe da se šeta,",
+       "en": "who will walk over you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "като го нема Делчев Војвода?",
+       "lat": "kato go nema Delčev Vojvoda?",
+       "en": "now that Delchev vojvoda is gone?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пирин Планино,",
+       "lat": "Pirin Planino,",
+       "en": "Pirin Mountain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој ќе по тебе чета да води,",
+       "lat": "koj ḱe po tebe četa da vodi,",
+       "en": "who will lead his platoon over you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "като го нема Делчев Војвода?",
+       "lat": "kato go nema Delčev Vojvoda?",
+       "en": "now that Delchev vojvoda is gone?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми јубави,",
+       "lat": "Momi jubavi,",
+       "en": "Young girls,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој ќе ве вази од враг пази,",
+       "lat": "koj ḱe ve vazi od vrag pazi,",
+       "en": "who will protect you from the devil,",
+       "en_mt": false
+      },
+      {
+       "cyr": "като го нема Делчев Војвода?",
+       "lat": "kato go nema Delčev Vojvoda?",
+       "en": "now that Delchev vojvoda is gone?",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

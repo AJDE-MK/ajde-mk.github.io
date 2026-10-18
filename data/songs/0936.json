@@ -1,0 +1,128 @@
+{
+ "id": 936,
+ "slug": "kazhi-angjo-mori",
+ "title_cyr": "Кажи Анѓо мори",
+ "title_latin": "Kaži Anǵo mori",
+ "title_en": "Tell me, Angja, hey",
+ "pesna_url": "https://pesna.org/song/936",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, Ottoman-era setting. 'Бегу' in line 4 I read as an address to the bey, my reading; 'дружина' probably means a haiduk band.",
+ "words_to_learn": [
+  {
+   "mk": "кажи",
+   "en": "tell"
+  },
+  {
+   "mk": "душо",
+   "en": "dear, my soul"
+  },
+  {
+   "mk": "момче",
+   "en": "boy, lad"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "лаже",
+   "en": "lies"
+  },
+  {
+   "mk": "бег",
+   "en": "bey (Ottoman lord)"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company (of outlaws)"
+  }
+ ],
+ "performers": [
+  "Вера Филипова",
+  "Зоран Џорлев",
+  "Радио студио Скопје",
+  "Софија Коцевска"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев, Софија Коцевска",
+   "url": "https://pesna.org/audio-download/2147"
+  },
+  {
+   "who": "Вера Филипова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2978"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи Анѓо мори, кажи душо,",
+       "lat": "- Kaži Anǵo mori, kaži dušo,",
+       "en": "- Tell me, Angja, hey, tell me, dear,"
+      },
+      {
+       "cyr": "каде ти е Анѓо мори, твоето момче.",
+       "lat": "kade ti e Anǵo mori, tvoeto momče.",
+       "en": "where is your boy, Angja, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мојто момче, бегу, моето момче",
+       "lat": "- Mojto momče, begu, moeto momče",
+       "en": "- My boy, bey, my boy"
+      },
+      {
+       "cyr": "не е дома, бегу море, е в' туѓина.",
+       "lat": "ne e doma, begu more, e v' tuǵina.",
+       "en": "is not at home, bey, hey, he is in a foreign land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лажи, Анѓо мори, лажи душо,",
+       "lat": "- Laži, Anǵo mori, laži dušo,",
+       "en": "- You lie, Angja, hey, you lie, dear,"
+      },
+      {
+       "cyr": "само бегот Анѓо мори, не се лаже.",
+       "lat": "samo begot Anǵo mori, ne se laže.",
+       "en": "but the bey, Angja, hey, is not lied to."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојто момче Анѓо, твоето момче",
+       "lat": "Tvojto momče Anǵo, tvoeto momče",
+       "en": "Your boy, Angja, your boy"
+      },
+      {
+       "cyr": "е в' планина, Анѓо мори, со дружина.",
+       "lat": "e v' planina, Anǵo mori, so družina.",
+       "en": "is in the mountains, Angja, hey, with a band."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

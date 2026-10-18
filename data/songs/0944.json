@@ -1,0 +1,225 @@
+{
+ "id": 944,
+ "slug": "mitra-niz-dvori-shetashe",
+ "title_cyr": "Митра низ двори шеташе",
+ "title_latin": "Mitra niz dvori šetaše",
+ "title_en": "Mitra was walking through the yards",
+ "pesna_url": "https://pesna.org/song/944",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. The agha stanzas are a curse with a double sense ('let my agha come' reads ironic); 'рамна си снага кршеше' as bending her slim waist is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "двори",
+   "en": "yards, courtyards"
+  },
+  {
+   "mk": "шета",
+   "en": "walks around"
+  },
+  {
+   "mk": "снага",
+   "en": "figure, waist"
+  },
+  {
+   "mk": "ага",
+   "en": "agha, Ottoman landlord"
+  },
+  {
+   "mk": "колне",
+   "en": "curses"
+  },
+  {
+   "mk": "рало",
+   "en": "plow"
+  },
+  {
+   "mk": "волче",
+   "en": "little ox"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow, grief"
+  },
+  {
+   "mk": "магија",
+   "en": "magic, spell"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  }
+ ],
+ "performers": [
+  "Верица Русева",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/2175"
+  },
+  {
+   "who": "Верица Русева",
+   "url": "https://pesna.org/audio-download/2176"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Митра низ двори шеташе,",
+       "lat": "Mitra niz dvori šetaše,",
+       "en": "Mitra was walking through the yards,"
+      },
+      {
+       "cyr": "рамна си снага кршеше",
+       "lat": "ramna si snaga kršeše",
+       "en": "bending her slim waist"
+      },
+      {
+       "cyr": "и луто ага колнеше:",
+       "lat": "i luto aga kolneše:",
+       "en": "and fiercely cursing the agha:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде да ми дојде агата,",
+       "lat": "- Ajde da mi dojde agata,",
+       "en": "- Let my agha come,"
+      },
+      {
+       "cyr": "да ми помине тагата.",
+       "lat": "da mi pomine tagata.",
+       "en": "let my sorrow pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Митра низ двори шеташе,",
+       "lat": "Mitra niz dvori šetaše,",
+       "en": "Mitra was walking through the yards,"
+      },
+      {
+       "cyr": "рамна си снага кршеше",
+       "lat": "ramna si snaga kršeše",
+       "en": "bending her slim waist"
+      },
+      {
+       "cyr": "и луто ага колнеше:",
+       "lat": "i luto aga kolneše:",
+       "en": "and fiercely cursing the agha:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај да му се скрши ралото,",
+       "lat": "- Aj da mu se skrši raloto,",
+       "en": "- May his plow break,"
+      },
+      {
+       "cyr": "ајде да ми дојде агата,",
+       "lat": "ajde da mi dojde agata,",
+       "en": "let my agha come,"
+      },
+      {
+       "cyr": "да ми помине тагата.",
+       "lat": "da mi pomine tagata.",
+       "en": "let my sorrow pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Митра низ двори шеташе,",
+       "lat": "Mitra niz dvori šetaše,",
+       "en": "Mitra was walking through the yards,"
+      },
+      {
+       "cyr": "рамна си снага кршеше",
+       "lat": "ramna si snaga kršeše",
+       "en": "bending her slim waist"
+      },
+      {
+       "cyr": "и луто ага колнеше:",
+       "lat": "i luto aga kolneše:",
+       "en": "and fiercely cursing the agha:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај да му пукне волчето,",
+       "lat": "- Aj da mu pukne volčeto,",
+       "en": "- May his little ox burst,"
+      },
+      {
+       "cyr": "ајде да ми дојде агата,",
+       "lat": "ajde da mi dojde agata,",
+       "en": "let my agha come,"
+      },
+      {
+       "cyr": "да ми помине тагата.",
+       "lat": "da mi pomine tagata.",
+       "en": "let my sorrow pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога се Јана родила,",
+       "lat": "Koga se Jana rodila,",
+       "en": "When Jana was born,"
+      },
+      {
+       "cyr": "мајка ѝ магија сторила,",
+       "lat": "majka ì magija storila,",
+       "en": "her mother worked a spell,"
+      },
+      {
+       "cyr": "живо пиле в' оган фрлила.",
+       "lat": "živo pile v' ogan frlila.",
+       "en": "she threw a live bird into the fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Како што се врти пилето,",
+       "lat": "- Kako što se vrti pileto,",
+       "en": "- As the bird turns,"
+      },
+      {
+       "cyr": "така да се вртат ергени",
+       "lat": "taka da se vrtat ergeni",
+       "en": "so may the bachelors turn"
+      },
+      {
+       "cyr": "по наш'та Јана убава.",
+       "lat": "po naš'ta Jana ubava.",
+       "en": "around our beautiful Jana."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

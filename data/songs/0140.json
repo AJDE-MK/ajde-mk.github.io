@@ -1,0 +1,154 @@
+{
+ "id": 140,
+ "slug": "zatreperi-kozjak-planina",
+ "title_cyr": "Затрепери Козјак планина",
+ "title_latin": "Zatreperi Kozjak planina",
+ "title_en": "Mount Kozjak Began to Tremble",
+ "pesna_url": "https://pesna.org/song/140",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дувло' is a dialect word I am unsure of; 'shop' is my reading (maybe 'hovel/den'). 'Проваѓа' rendered 'passes through' is my reading. 'Затрепери' in the title is the perfective 'began to tremble'.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel chieftain"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band"
+  },
+  {
+   "mk": "комит",
+   "en": "komit, rebel fighter (komitadji)"
+  },
+  {
+   "mk": "предај се",
+   "en": "surrender"
+  },
+  {
+   "mk": "заробимо",
+   "en": "we take prisoner"
+  },
+  {
+   "mk": "љута",
+   "en": "fierce, fiery"
+  },
+  {
+   "mk": "дувло",
+   "en": "(my reading) shop, hollow or lair"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Трепери Козјак планина,",
+       "lat": "Treperi Kozjak planina,",
+       "en": "Mount Kozjak trembles,"
+      },
+      {
+       "cyr": "Крсто војвода проваѓа,",
+       "lat": "Krsto vojvoda provaǵa,",
+       "en": "Voivode Krsto passes through,"
+      },
+      {
+       "cyr": "по њега чета комитска,",
+       "lat": "po njega četa komitska,",
+       "en": "after him a komit band,"
+      },
+      {
+       "cyr": "комитска, баш Македонска.",
+       "lat": "komitska, baš Makedonska.",
+       "en": "a komit band, truly Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара Крсто војвода:",
+       "lat": "Progovara Krsto vojvoda:",
+       "en": "Voivode Krsto speaks:"
+      },
+      {
+       "cyr": "- „Тамо е село Довезен,",
+       "lat": "- „Tamo e selo Dovezen,",
+       "en": "- \"Over there is the village of Dovezen,"
+      },
+      {
+       "cyr": "тамо е Јован Довезенски,",
+       "lat": "tamo e Jovan Dovezenski,",
+       "en": "over there is Jovan Dovezenski,"
+      },
+      {
+       "cyr": "тамо са српски четници.",
+       "lat": "tamo sa srpski četnici.",
+       "en": "over there are the Serbian chetniks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Искачај Јован Довезенски,",
+       "lat": "Iskačaj Jovan Dovezenski,",
+       "en": "Come out, Jovan Dovezenski,"
+      },
+      {
+       "cyr": "предај се куче четничко.",
+       "lat": "predaj se kuče četničko.",
+       "en": "surrender, you chetnik dog."
+      },
+      {
+       "cyr": "Дувло ќе ти изгоримо,",
+       "lat": "Duvlo ḱe ti izgorimo,",
+       "en": "We will burn down your shop,"
+      },
+      {
+       "cyr": "чета ќе ти заробимо“.",
+       "lat": "četa ḱe ti zarobimo“.",
+       "en": "we will take your band prisoner.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запукаа пушки комитски,",
+       "lat": "Zapukaa puški komitski,",
+       "en": "The komit rifles started firing,"
+      },
+      {
+       "cyr": "љута се битка зададе.",
+       "lat": "ljuta se bitka zadade.",
+       "en": "a fierce battle began."
+      },
+      {
+       "cyr": "Љута се битка зададе,",
+       "lat": "Ljuta se bitka zadade,",
+       "en": "A fierce battle began,"
+      },
+      {
+       "cyr": "српска се чета предаде.",
+       "lat": "srpska se četa predade.",
+       "en": "the Serbian band surrendered."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

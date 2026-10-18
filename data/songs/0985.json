@@ -1,0 +1,152 @@
+{
+ "id": 985,
+ "slug": "oj-javore-ti-javore",
+ "title_cyr": "Ој јаворе, ти јаворе",
+ "title_latin": "Oj javore, ti javore",
+ "title_en": "Oh maple tree, you maple tree",
+ "pesna_url": "https://pesna.org/song/985",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Баклава",
+  "Викторија Чочороска",
+  "Костурчанки",
+  "Љубомир Тасев",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/2297"
+  },
+  {
+   "who": "Костурчанки",
+   "url": "https://pesna.org/audio-download/2298"
+  },
+  {
+   "who": "Љубомир Тасев",
+   "url": "https://pesna.org/audio-download/2299"
+  },
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/2300"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/2301"
+  },
+  {
+   "who": "Викторија Чочороска",
+   "url": "https://pesna.org/audio-download/3150"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој јаворе, ти јаворе,",
+       "lat": "Oj javore, ti javore,",
+       "en": "Oh maple tree, you maple tree,"
+      },
+      {
+       "cyr": "ој јаворе, ти јаворе.",
+       "lat": "oj javore, ti javore.",
+       "en": "oh maple tree, you maple tree."
+      },
+      {
+       "cyr": "Ој јаворе, ти јаворе,",
+       "lat": "Oj javore, ti javore,",
+       "en": "Oh maple tree, you maple tree,"
+      },
+      {
+       "cyr": "највисоко дрво ти си.",
+       "lat": "najvisoko drvo ti si.",
+       "en": "you are the tallest tree of all."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рашири си твојте гранки,",
+       "lat": "Raširi si tvojte granki,",
+       "en": "Spread your branches,"
+      },
+      {
+       "cyr": "рашири си твојте гранки.",
+       "lat": "raširi si tvojte granki.",
+       "en": "spread your branches."
+      },
+      {
+       "cyr": "Рашири си твојте гранки,",
+       "lat": "Raširi si tvojte granki,",
+       "en": "Spread your branches,"
+      },
+      {
+       "cyr": "од небето до земјата.",
+       "lat": "od nebeto do zemjata.",
+       "en": "from the sky to the Earth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си седнам под јаворот,",
+       "lat": "Da si sednam pod javorot,",
+       "en": "So that I can sit down under the maple tree,"
+      },
+      {
+       "cyr": "сладок ручок да си ручам.",
+       "lat": "sladok ručok da si ručam.",
+       "en": "and eat my sweet lunch."
+      },
+      {
+       "cyr": "Сладок ручок да си ручам,",
+       "lat": "Sladok ručok da si ručam,",
+       "en": "Eat my sweet lunch,"
+      },
+      {
+       "cyr": "рујно вино да си пијам.",
+       "lat": "rujno vino da si pijam.",
+       "en": "and drink my red vine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рујно вино да си пијам,",
+       "lat": "Rujno vino da si pijam,",
+       "en": "So that I drink my red vine,"
+      },
+      {
+       "cyr": "малој моме да си љубам.",
+       "lat": "maloj mome da si ljubam.",
+       "en": "and love my little girl."
+      },
+      {
+       "cyr": "Малој моме да си љубам,",
+       "lat": "Maloj mome da si ljubam,",
+       "en": "Love my little girl,"
+      },
+      {
+       "cyr": "како душа што ми сака.",
+       "lat": "kako duša što mi saka.",
+       "en": "to my heart's content."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,197 @@
+{
+ "id": 1346,
+ "slug": "dushke-le-moja-ubava",
+ "title_cyr": "Душке ле моја убава",
+ "title_latin": "Duške le moja ubava",
+ "title_en": "Dushke, my beautiful soul",
+ "pesna_url": "https://pesna.org/song/1346",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Душке' is a pet form of the name Душка, also pun-like with 'душа' (soul). 'убост' in line 2 is my reading as 'beauty' (from убав). Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "душа",
+   "en": "soul, darling"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "снага",
+   "en": "strength, figure"
+  },
+  {
+   "mk": "елај",
+   "en": "come (dialect imperative)"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "инат",
+   "en": "spite"
+  },
+  {
+   "mk": "задева",
+   "en": "teases, provokes"
+  },
+  {
+   "mk": "гори",
+   "en": "burns"
+  },
+  {
+   "mk": "боли",
+   "en": "aches, hurts"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3514"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Душке ле, душо моја убава",
+       "lat": "Duške le, dušo moja ubava",
+       "en": "Dushke, oh, my beautiful soul,"
+      },
+      {
+       "cyr": "што е ова убост на тебе?",
+       "lat": "što e ova ubost na tebe?",
+       "en": "what is this beauty upon you?"
+      },
+      {
+       "cyr": "Што кршиш снага, Душке, во одење,",
+       "lat": "Što kršiš snaga, Duške, vo odenje,",
+       "en": "Why do you break your strength, Dushke, in walking,"
+      },
+      {
+       "cyr": "елај ми Душке до мене.",
+       "lat": "elaj mi Duške do mene.",
+       "en": "come to me, Dushke, come next to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душке ле, душо моја,",
+       "lat": "Duške le, dušo moja,",
+       "en": "Dushke, oh, my soul,"
+      },
+      {
+       "cyr": "душава ми ја изгоре.",
+       "lat": "dušava mi ja izgore.",
+       "en": "you burned my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душке ле, душо моја убава,",
+       "lat": "Duške le, dušo moja ubava,",
+       "en": "Dushke, oh, my beautiful soul,"
+      },
+      {
+       "cyr": "сношти те видов на оро.",
+       "lat": "snošti te vidov na oro.",
+       "en": "last night I saw you at the dance."
+      },
+      {
+       "cyr": "Со мојот другар, Душке, играше,",
+       "lat": "So mojot drugar, Duške, igraše,",
+       "en": "With my comrade, Dushke, you danced,"
+      },
+      {
+       "cyr": "мене ми инат правеше.",
+       "lat": "mene mi inat praveše.",
+       "en": "you did it to spite me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душке ле, душо моја,",
+       "lat": "Duške le, dušo moja,",
+       "en": "Dushke, oh, my soul,"
+      },
+      {
+       "cyr": "душава ми ја изгоре.",
+       "lat": "dušava mi ja izgore.",
+       "en": "you burned my soul."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душке ле, душо моја убава,",
+       "lat": "Duške le, dušo moja ubava,",
+       "en": "Dushke, oh, my beautiful soul,"
+      },
+      {
+       "cyr": "не ме задевај, не гори.",
+       "lat": "ne me zadevaj, ne gori.",
+       "en": "don't tease me, don't burn me."
+      },
+      {
+       "cyr": "Ај Душке појди за мене,",
+       "lat": "Aj Duške pojdi za mene,",
+       "en": "Oh Dushke, come with me,"
+      },
+      {
+       "cyr": "душа ме боли за тебе.",
+       "lat": "duša me boli za tebe.",
+       "en": "my soul aches for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душке ле, душо моја,",
+       "lat": "Duške le, dušo moja,",
+       "en": "Dushke, oh, my soul,"
+      },
+      {
+       "cyr": "душава ми ја изгоре.",
+       "lat": "dušava mi ja izgore.",
+       "en": "you burned my soul."
+      },
+      {
+       "cyr": "Душке ле, душо моја,",
+       "lat": "Duške le, dušo moja,",
+       "en": "Dushke, oh, my soul,"
+      },
+      {
+       "cyr": "душа ме боли за тебе.",
+       "lat": "duša me boli za tebe.",
+       "en": "my soul aches for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

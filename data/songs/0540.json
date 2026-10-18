@@ -1,0 +1,223 @@
+{
+ "id": 540,
+ "slug": "od-umot-se-poizgubiv",
+ "title_cyr": "Од умот се поизгубив",
+ "title_latin": "Od umot se poizgubiv",
+ "title_en": "I Lost My Mind Over a Pretty Girl",
+ "pesna_url": "https://pesna.org/song/540",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect forms such as 'речит', 'заш/зш' (why), 'страмев' are Ohrid-area speech; 'з' едно' I read as 'with/over one', and 'милувал' as courting rather than literal caressing, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "од умот се изгубив",
+   "en": "I lost my mind (over)"
+  },
+  {
+   "mk": "лично",
+   "en": "pretty, handsome, comely"
+  },
+  {
+   "mk": "девојче",
+   "en": "young girl"
+  },
+  {
+   "mk": "милував",
+   "en": "caressed, courted"
+  },
+  {
+   "mk": "се страмев / срамев",
+   "en": "I was ashamed, I was shy"
+  },
+  {
+   "mk": "скришем",
+   "en": "secretly"
+  },
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "дал бог добро",
+   "en": "God give you good (greeting reply)"
+  },
+  {
+   "mk": "посвршено",
+   "en": "engaged"
+  },
+  {
+   "mk": "охриѓанче",
+   "en": "young man from Ohrid"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Ансамбл чалгија",
+  "Борче Крстески",
+  "Грозда Стоева",
+  "Група Сарај",
+  "Македонски мерак",
+  "Марјан Коцев",
+  "Наум Петрески",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/587"
+  },
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/588"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/589"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/590"
+  },
+  {
+   "who": "Борче Крстески, Грозда Стоева",
+   "url": "https://pesna.org/audio-download/591"
+  },
+  {
+   "who": "Марјан Коцев",
+   "url": "https://pesna.org/audio-download/2389"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3741"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/3991"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Од умот се поизгубив з' едно лично девојче,",
+       "lat": "- Od umot se poizgubiv z' edno lično devojče,",
+       "en": "- I lost my mind over one pretty girl,"
+      },
+      {
+       "cyr": "пет години го милував,",
+       "lat": "pet godini go miluvav,",
+       "en": "five years I courted her,"
+      },
+      {
+       "cyr": "па се страмев, па се срамев да ѝ речам.",
+       "lat": "pa se stramev, pa se sramev da ì rečam.",
+       "en": "but I was shy, I was ashamed to tell her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оди мајко проговори, скришем, скришем да ѝ речиш,",
+       "lat": "Odi majko progovori, skrišem, skrišem da ì rečiš,",
+       "en": "Go, mother, speak to her, secretly, secretly tell her,"
+      },
+      {
+       "cyr": "оди мајко проговори,",
+       "lat": "odi majko progovori,",
+       "en": "go, mother, speak to her,"
+      },
+      {
+       "cyr": "скришем, скришем, скришем, скришем да ѝ речиш.",
+       "lat": "skrišem, skrišem, skrišem, skrišem da ì rečiš.",
+       "en": "secretly, secretly, secretly, secretly tell her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Збогум синко, мили синко, јас ќе одам да ѝ речам.",
+       "lat": "- Zbogum sinko, mili sinko, jas ḱe odam da ì rečam.",
+       "en": "- Farewell, son, dear son, I will go to tell her."
+      },
+      {
+       "cyr": "Добро јутро мила ќерко.",
+       "lat": "Dobro jutro mila ḱerko.",
+       "en": "Good morning, dear daughter."
+      },
+      {
+       "cyr": "- Дал бог добро, дал бог добро стара мајко.",
+       "lat": "- Dal bog dobro, dal bog dobro stara majko.",
+       "en": "- God give you good, God give you good, old mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Син ми ќерко те милувал па се срамел да ти речит,",
+       "lat": "- Sin mi ḱerko te miluval pa se sramel da ti rečit,",
+       "en": "- My son, daughter, was courting you but was shy to tell you,"
+      },
+      {
+       "cyr": "син ми ќерко те милувал,",
+       "lat": "sin mi ḱerko te miluval,",
+       "en": "my son, daughter, was courting you,"
+      },
+      {
+       "cyr": "па се срамел, па се страмел да ти речит.",
+       "lat": "pa se sramel, pa se stramel da ti rečit.",
+       "en": "but he was shy, he was ashamed to tell you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога син ти ме милувал, заш не казал од порано?",
+       "lat": "- Koga sin ti me miluval, zaš ne kazal od porano?",
+       "en": "- When your son was courting me, why didn't he say so earlier?"
+      },
+      {
+       "cyr": "Кога син ти ме милувал,",
+       "lat": "Koga sin ti me miluval,",
+       "en": "When your son was courting me,"
+      },
+      {
+       "cyr": "з'ш не кажал, з'ш не кажал од порано?",
+       "lat": "z'š ne kažal, z'š ne kažal od porano?",
+       "en": "why didn't he say, why didn't he say so earlier?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега си сум посвршено з' едно лично ергенче,",
+       "lat": "Sega si sum posvršeno z' edno lično ergenče,",
+       "en": "Now I am engaged to a pretty young man,"
+      },
+      {
+       "cyr": "сега си сум посвршено,",
+       "lat": "sega si sum posvršeno,",
+       "en": "now I am engaged,"
+      },
+      {
+       "cyr": "за едно лично, з'едно лично охриѓанче.",
+       "lat": "za edno lično, z'edno lično ohriǵanče.",
+       "en": "to a pretty, a pretty young man from Ohrid."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

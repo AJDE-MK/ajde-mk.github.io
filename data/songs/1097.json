@@ -1,0 +1,167 @@
+{
+ "id": 1097,
+ "slug": "oj-dzvezdo-dzvezdo",
+ "title_cyr": "Ој ѕвездо, ѕвездо",
+ "title_latin": "Oj dzvezdo, dzvezdo",
+ "title_en": "Oh star, star",
+ "pesna_url": "https://pesna.org/song/1097",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Ајде ме прашаш' is my reading: 'you ask me'. 'Св. Илија' is St. Elijah.",
+ "words_to_learn": [
+  {
+   "mk": "ѕвезда",
+   "en": "star"
+  },
+  {
+   "mk": "Денице",
+   "en": "Morning Star"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "гемија",
+   "en": "ship"
+  },
+  {
+   "mk": "бабо",
+   "en": "granny, old woman (vocative)"
+  },
+  {
+   "mk": "таксај",
+   "en": "make a vow (Turkish loan)"
+  },
+  {
+   "mk": "разниша",
+   "en": "stir, sway"
+  },
+  {
+   "mk": "тргне",
+   "en": "sets off"
+  }
+ ],
+ "performers": [
+  "Маргица Антевска"
+ ],
+ "audio": [
+  {
+   "who": "Маргица Антевска",
+   "url": "https://pesna.org/audio-download/2619"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ѕвездо, ѕвездо,",
+       "lat": "- Oj dzvezdo, dzvezdo,",
+       "en": "- Oh star, star,"
+      },
+      {
+       "cyr": "ѕвездо Денице,",
+       "lat": "dzvezdo Denice,",
+       "en": "star Morning Star,"
+      },
+      {
+       "cyr": "на високо стоиш ѕвездо,",
+       "lat": "na visoko stoiš dzvezdo,",
+       "en": "you stand high, star,"
+      },
+      {
+       "cyr": "на далеку гледаш.",
+       "lat": "na daleku gledaš.",
+       "en": "you look far."
+      },
+      {
+       "cyr": "Ај дали го виде, ѕвездо,",
+       "lat": "Aj dali go vide, dzvezdo,",
+       "en": "Have you seen, star,"
+      },
+      {
+       "cyr": "мојто мило чедо?",
+       "lat": "mojto milo čedo?",
+       "en": "my dear child?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде ме прашаш, бабо,",
+       "lat": "- Ajde me prašaš, babo,",
+       "en": "- Come, you ask me, granny,"
+      },
+      {
+       "cyr": "право ќе ти кажам:",
+       "lat": "pravo ḱe ti kažam:",
+       "en": "I'll tell you straight:"
+      },
+      {
+       "cyr": "твојто мило чедо, бабо,",
+       "lat": "tvojto milo čedo, babo,",
+       "en": "your dear child, granny,"
+      },
+      {
+       "cyr": "во една гемија.",
+       "lat": "vo edna gemija.",
+       "en": "is on a ship."
+      },
+      {
+       "cyr": "Во една гемија,",
+       "lat": "Vo edna gemija,",
+       "en": "On a ship,"
+      },
+      {
+       "cyr": "во длабоко море.",
+       "lat": "vo dlaboko more.",
+       "en": "in the deep sea."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таксај што ќе таксаш, бабо,",
+       "lat": "Taksaj što ḱe taksaš, babo,",
+       "en": "Make a vow, whatever you vow, granny,"
+      },
+      {
+       "cyr": "на Св. Илија,",
+       "lat": "na Sv. Ilija,",
+       "en": "to St. Elijah,"
+      },
+      {
+       "cyr": "море да разниша, бабо,",
+       "lat": "more da razniša, babo,",
+       "en": "that the sea may stir, granny,"
+      },
+      {
+       "cyr": "гемија да тргне.",
+       "lat": "gemija da trgne.",
+       "en": "that the ship may set off."
+      },
+      {
+       "cyr": "Гемија да тргне, бабо,",
+       "lat": "Gemija da trgne, babo,",
+       "en": "That the ship may set off, granny,"
+      },
+      {
+       "cyr": "син ти да си дојде.",
+       "lat": "sin ti da si dojde.",
+       "en": "so your son may come home."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

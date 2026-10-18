@@ -1,0 +1,170 @@
+{
+ "id": 1498,
+ "slug": "konja-kovit-mlad-junache",
+ "title_cyr": "Коња ковит млад јуначе",
+ "title_latin": "Konja kovit mlad junače",
+ "title_en": "A young hero shoes his horse",
+ "pesna_url": "https://pesna.org/song/1498",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Лудо' in folk songs is a tender word for a young lover, so I rendered it 'my dear'.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "јуначе",
+   "en": "young hero, brave lad"
+  },
+  {
+   "mk": "ковит",
+   "en": "is shoeing (a horse)"
+  },
+  {
+   "mk": "земај",
+   "en": "take (imperative)"
+  },
+  {
+   "mk": "вилает",
+   "en": "homeland, province (Turkish-origin)"
+  },
+  {
+   "mk": "лудо",
+   "en": "dear, lad (here an endearment, not 'crazy')"
+  },
+  {
+   "mk": "сторам",
+   "en": "I will turn into, I will become"
+  },
+  {
+   "mk": "остра сабја",
+   "en": "sharp sabre"
+  },
+  {
+   "mk": "густа гора",
+   "en": "thick forest"
+  }
+ ],
+ "performers": [
+  "Јорданка Смилевска",
+  "Распеани дебарчани"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/3912"
+  },
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3913"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коња ковит џанам млад јуначе,",
+       "lat": "Konja kovit džanam mlad junače,",
+       "en": "A young hero, dear, is shoeing his horse,"
+      },
+      {
+       "cyr": "мома му вели, мома му вели.",
+       "lat": "moma mu veli, moma mu veli.",
+       "en": "the girl speaks to him, the girl speaks to him."
+      },
+      {
+       "cyr": "Ем му вели, џанам, ем го моли:",
+       "lat": "Em mu veli, džanam, em go moli:",
+       "en": "She speaks to him, dear, and begs him:"
+      },
+      {
+       "cyr": "- Земај ти мене, земај и мене.",
+       "lat": "- Zemaj ti mene, zemaj i mene.",
+       "en": "- Take me, take me too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земај мене џанам млад јуначе,",
+       "lat": "Zemaj mene džanam mlad junače,",
+       "en": "Take me, dear young hero,"
+      },
+      {
+       "cyr": "на твој вилает, на твој вилает.",
+       "lat": "na tvoj vilaet, na tvoj vilaet.",
+       "en": "to your homeland, to your homeland."
+      },
+      {
+       "cyr": "- Мој вилает, моме е далеку,",
+       "lat": "- Moj vilaet, mome e daleku,",
+       "en": "- My homeland, girl, is far away,"
+      },
+      {
+       "cyr": "не мож' да дојдеш, не мож' да дојдеш.",
+       "lat": "ne mož' da dojdeš, ne mož' da dojdeš.",
+       "en": "you cannot come, you cannot come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред нас има моме Црно Море,",
+       "lat": "Pred nas ima mome Crno More,",
+       "en": "Before us lies the Black Sea, girl,"
+      },
+      {
+       "cyr": "не мож' да пројдеш, не мож' да пројдеш.",
+       "lat": "ne mož' da projdeš, ne mož' da projdeš.",
+       "en": "you cannot cross, you cannot cross."
+      },
+      {
+       "cyr": "- Ќе се сторам, лудо, морска риба,",
+       "lat": "- Ḱe se storam, ludo, morska riba,",
+       "en": "- I will turn into a sea fish, my dear,"
+      },
+      {
+       "cyr": "со теб' ќе дојдам, со теб' ќе дојдам.",
+       "lat": "so teb' ḱe dojdam, so teb' ḱe dojdam.",
+       "en": "I will come with you, I will come with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пред нас има моме густа гора,",
+       "lat": "- Pred nas ima mome gusta gora,",
+       "en": "- Before us lies a thick forest, girl,"
+      },
+      {
+       "cyr": "не мож' да пројдеш, не мож' да пројдеш.",
+       "lat": "ne mož' da projdeš, ne mož' da projdeš.",
+       "en": "you cannot pass, you cannot pass."
+      },
+      {
+       "cyr": "- Ќе се сторам, лудо, остра сабја,",
+       "lat": "- Ḱe se storam, ludo, ostra sabja,",
+       "en": "- I will turn into a sharp sabre, my dear,"
+      },
+      {
+       "cyr": "гора ќе сечам, гора ќе сечам.",
+       "lat": "gora ḱe sečam, gora ḱe sečam.",
+       "en": "I will cut the forest, I will cut the forest."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,119 @@
+{
+ "id": 1519,
+ "slug": "ja-izlezi-stara-majko",
+ "title_cyr": "Ја излези стара мајко",
+ "title_latin": "Ja izlezi stara majko",
+ "title_en": "Come Out, Old Mother",
+ "pesna_url": "https://pesna.org/song/1519",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a revolutionary-themed song with no author I can name. 'Ја излези' is read as an imperative with the filler 'ја' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "излези",
+   "en": "come out"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "чуеш",
+   "en": "you hear"
+  },
+  {
+   "mk": "комита",
+   "en": "comitadji, guerrilla fighter"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "стара мајко",
+   "en": "old mother (vocative)"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле"
+ ],
+ "audio": [
+  {
+   "who": "Благој Петров - Караѓуле",
+   "url": "https://pesna.org/audio-download/3974"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ја излези стара мајко",
+       "lat": "Ja izlezi stara majko",
+       "en": "Come out, old mother,"
+      },
+      {
+       "cyr": "надвор на портата,",
+       "lat": "nadvor na portata,",
+       "en": "outside to the gate,"
+      },
+      {
+       "cyr": "па да чуеш стара мајко",
+       "lat": "pa da čueš stara majko",
+       "en": "and hear, old mother,"
+      },
+      {
+       "cyr": "што песна се пее.",
+       "lat": "što pesna se pee.",
+       "en": "what song is being sung."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да го видиш, стара мајко,",
+       "lat": "Da go vidiš, stara majko,",
+       "en": "See, old mother,"
+      },
+      {
+       "cyr": "твојот син комита.",
+       "lat": "tvojot sin komita.",
+       "en": "your son the comitadji."
+      },
+      {
+       "cyr": "Песна пее, стара мајко,",
+       "lat": "Pesna pee, stara majko,",
+       "en": "He sings a song, old mother,"
+      },
+      {
+       "cyr": "в' планина ќе оди.",
+       "lat": "v' planina ḱe odi.",
+       "en": "he will go up the mountain."
+      },
+      {
+       "cyr": "Песна пее, стара мајко,",
+       "lat": "Pesna pee, stara majko,",
+       "en": "He sings a song, old mother,"
+      },
+      {
+       "cyr": "песна за слобода.",
+       "lat": "pesna za sloboda.",
+       "en": "a song of freedom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

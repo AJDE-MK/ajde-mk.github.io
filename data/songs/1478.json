@@ -1,0 +1,128 @@
+{
+ "id": 1478,
+ "slug": "milo-jane-milo-dobro",
+ "title_cyr": "Мило Јане, мило добро",
+ "title_latin": "Milo Jane, milo dobro",
+ "title_en": "Dear Jana, dear and good",
+ "pesna_url": "https://pesna.org/song/1478",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Малешевска китка"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3823"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Отка' с'нце зајде, појде ле,",
+       "lat": "Otka' s'nce zajde, pojde le,",
+       "en": "Since the Sun set down, since it went,"
+      },
+      {
+       "cyr": "Месечина зара даде.",
+       "lat": "Mesečina zara dade.",
+       "en": "the Moon went ahead."
+      },
+      {
+       "cyr": "Месечина зара даде, ле,",
+       "lat": "Mesečina zara dade, le,",
+       "en": "The Moon went ahead,"
+      },
+      {
+       "cyr": "зара даде и огреа.",
+       "lat": "zara dade i ogrea.",
+       "en": "went ahead and rose."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде Јано, ајде шчерко ле,",
+       "lat": "- Ajde Jano, ajde ščerko le,",
+       "en": "- Come on Jana, come on my daughter,"
+      },
+      {
+       "cyr": "башча ти си вода тера.",
+       "lat": "bašča ti si voda tera.",
+       "en": "your father is asking for water."
+      },
+      {
+       "cyr": "- Ој ле мале, стара мале ле,",
+       "lat": "- Oj le male, stara male le,",
+       "en": "- Oh, my mother, old mother,"
+      },
+      {
+       "cyr": "пусти да закалат коње.",
+       "lat": "pusti da zakalat konje.",
+       "en": "I let the horses muddy the water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Заминаја, поминаја ле,",
+       "lat": "Zaminaja, pominaja le,",
+       "en": "They came and went through,"
+      },
+      {
+       "cyr": "разматија кладенците.",
+       "lat": "razmatija kladencite.",
+       "en": "they muddied the water springs."
+      },
+      {
+       "cyr": "Па 'и чеках да се вират, ле,",
+       "lat": "Pa 'i čekah da se virat, le,",
+       "en": "So I had to wait for them to clear,"
+      },
+      {
+       "cyr": "да се вират, да се бистрат.",
+       "lat": "da se virat, da se bistrat.",
+       "en": "to clear, until the water was clear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лажи Јано кој ќе лажеш ле,",
+       "lat": "- Laži Jano koj ḱe lažeš le,",
+       "en": "- You can lie whomever you want,"
+      },
+      {
+       "cyr": "маќа не мо'ш да излажеш.",
+       "lat": "maḱa ne mo'š da izlažeš.",
+       "en": "but you can't lie to your mother."
+      },
+      {
+       "cyr": "И маќа е мома била, ле,",
+       "lat": "I maḱa e moma bila, le,",
+       "en": "Your mom was also"
+      },
+      {
+       "cyr": "момувала, радувала.",
+       "lat": "momuvala, raduvala.",
+       "en": "a young girl once."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

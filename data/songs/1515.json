@@ -1,0 +1,185 @@
+{
+ "id": 1515,
+ "slug": "sitna-mi-rosa-zarosi",
+ "title_cyr": "Ситна ми роса зароси",
+ "title_latin": "Sitna mi rosa zarosi",
+ "title_en": "Fine dew has settled",
+ "pesna_url": "https://pesna.org/song/1515",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (partisan or revolutionary folk-style). Selechka Planina is a mountain in the Prespa/Kozhuf area (my understanding, unsure).",
+ "words_to_learn": [
+  {
+   "mk": "ситна роса",
+   "en": "fine dew"
+  },
+  {
+   "mk": "падна",
+   "en": "fell"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave young man"
+  },
+  {
+   "mk": "прободен",
+   "en": "pierced"
+  },
+  {
+   "mk": "лута рана",
+   "en": "fierce wound"
+  },
+  {
+   "mk": "овчарче",
+   "en": "shepherd boy"
+  },
+  {
+   "mk": "абер",
+   "en": "news, word"
+  },
+  {
+   "mk": "роднини",
+   "en": "relatives"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  }
+ ],
+ "performers": [
+  "Милениум бенд",
+  "Михаела Манчева",
+  "МФГ Десилица",
+  "Опус",
+  "Стојан Харизанов"
+ ],
+ "audio": [
+  {
+   "who": "Опус",
+   "url": "https://pesna.org/audio-download/3961"
+  },
+  {
+   "who": "Стојан Харизанов",
+   "url": "https://pesna.org/audio-download/3962"
+  },
+  {
+   "who": "Милениум бенд",
+   "url": "https://pesna.org/audio-download/3963"
+  },
+  {
+   "who": "МФГ Десилица",
+   "url": "https://pesna.org/audio-download/3964"
+  },
+  {
+   "who": "Михаела Манчева",
+   "url": "https://pesna.org/audio-download/3965"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ситна ми роса зароси",
+       "lat": "Sitna mi rosa zarosi",
+       "en": "Fine dew has settled"
+      },
+      {
+       "cyr": "горе Селечка Планина",
+       "lat": "gore Selečka Planina",
+       "en": "up on Selechka Mountain,"
+      },
+      {
+       "cyr": "падна ми јунак прободен",
+       "lat": "padna mi junak proboden",
+       "en": "a hero has fallen, pierced"
+      },
+      {
+       "cyr": "со лута рана на срце.",
+       "lat": "so luta rana na srce.",
+       "en": "with a fierce wound to the heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Роса му рана миеше",
+       "lat": "Rosa mu rana mieše",
+       "en": "The dew washes his wound,"
+      },
+      {
+       "cyr": "лице му тага криеше.",
+       "lat": "lice mu taga krieše.",
+       "en": "sorrow hides his face."
+      },
+      {
+       "cyr": "Над него стои овчарче,",
+       "lat": "Nad nego stoi ovčarče,",
+       "en": "A shepherd boy stands over him,"
+      },
+      {
+       "cyr": "овчарче, младо чобанче.",
+       "lat": "ovčarče, mlado čobanče.",
+       "en": "a young little shepherd."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јунак му вели, говори:",
+       "lat": "Junak mu veli, govori:",
+       "en": "The hero says to him, speaks:"
+      },
+      {
+       "cyr": "- Овчарче, младо чобанче,",
+       "lat": "- Ovčarče, mlado čobanče,",
+       "en": "- Shepherd boy, young little shepherd,"
+      },
+      {
+       "cyr": "ај слези долу во село",
+       "lat": "aj slezi dolu vo selo",
+       "en": "come down to the village"
+      },
+      {
+       "cyr": "абер на мајка да носиш.",
+       "lat": "aber na majka da nosiš.",
+       "en": "and carry word to my mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Роднини да ми покани",
+       "lat": "Rodnini da mi pokani",
+       "en": "Let her invite my relatives"
+      },
+      {
+       "cyr": "дарови за свадба да спремат,",
+       "lat": "darovi za svadba da spremat,",
+       "en": "to prepare gifts for the wedding,"
+      },
+      {
+       "cyr": "оти се младо оженив",
+       "lat": "oti se mlado oženiv",
+       "en": "for I have married young"
+      },
+      {
+       "cyr": "за земја Македонија.",
+       "lat": "za zemja Makedonija.",
+       "en": "to the land of Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

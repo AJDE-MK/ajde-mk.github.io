@@ -1,0 +1,141 @@
+{
+ "id": 248,
+ "slug": "ajde-mori-stojno-le",
+ "title_cyr": "Ајде мори Стојно ле",
+ "title_latin": "Ajde mori Stojno le",
+ "title_en": "Come on, Hey Stojna",
+ "pesna_url": "https://pesna.org/song/248",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Heavily dialectal and garbled text; 'урва мој воѓеало' (I render 'ox-cart overturned') is a guess, and 'мој' is a filler particle I mostly dropped. 'се фати ... волите' as 'got stuck' is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "вино",
+   "en": "wine"
+  },
+  {
+   "mk": "мирисаш",
+   "en": "you smell"
+  },
+  {
+   "mk": "жими",
+   "en": "I swear by (dialect)"
+  },
+  {
+   "mk": "сношчи",
+   "en": "last night (dialect)"
+  },
+  {
+   "mk": "бочка",
+   "en": "barrel"
+  },
+  {
+   "mk": "волови",
+   "en": "oxen"
+  },
+  {
+   "mk": "се истури",
+   "en": "spilled out"
+  },
+  {
+   "mk": "лудо",
+   "en": "young lad"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1260"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде мори Стојно ле, мој стоко ле,",
+       "lat": "Ajde mori Stojno le, moj stoko le,",
+       "en": "Come on, hey Stojna, my dear, my darling,"
+      },
+      {
+       "cyr": "ти виното мори не го пиеш,",
+       "lat": "ti vinoto mori ne go pieš,",
+       "en": "you do not drink the wine, hey,"
+      },
+      {
+       "cyr": "ај мори виновина мој ми мирисаш.",
+       "lat": "aj mori vinovina moj mi mirisaš.",
+       "en": "come on, hey, you smell of wine to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не лудо, жими мој братето,",
+       "lat": "Ne ludo, žimi moj brateto,",
+       "en": "No, young one, I swear by my brother,"
+      },
+      {
+       "cyr": "ајде мори сношчи урва мој воѓеало,",
+       "lat": "ajde mori snošči urva moj voǵealo,",
+       "en": "come on, hey, last night my ox-cart overturned,"
+      },
+      {
+       "cyr": "помина покрај мој бочката.",
+       "lat": "pomina pokraj moj bočkata.",
+       "en": "it passed by the barrel."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде мор ми се фати,",
+       "lat": "Ajde mor mi se fati,",
+       "en": "Come on, hey, it got stuck,"
+      },
+      {
+       "cyr": "ми се фатие мој волите,",
+       "lat": "mi se fatie moj volite,",
+       "en": "my oxen got stuck,"
+      },
+      {
+       "cyr": "ми се истури мој виното.",
+       "lat": "mi se isturi moj vinoto.",
+       "en": "and my wine spilled out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде мој затова,",
+       "lat": "Ajde moj zatova,",
+       "en": "Come on, that is why,"
+      },
+      {
+       "cyr": "лудо ле мори, мој младо ле,",
+       "lat": "ludo le mori, moj mlado le,",
+       "en": "young one, hey, young lad,"
+      },
+      {
+       "cyr": "виновина мој ти мирисаш.",
+       "lat": "vinovina moj ti mirisaš.",
+       "en": "you smell of wine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

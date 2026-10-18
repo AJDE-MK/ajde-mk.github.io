@@ -1,0 +1,132 @@
+{
+ "id": 1481,
+ "slug": "bolna-legnala-milka-mamina",
+ "title_cyr": "Болна легнала Милка мамина",
+ "title_latin": "Bolna legnala Milka mamina",
+ "title_en": "Mother's Milka lay down ill",
+ "pesna_url": "https://pesna.org/song/1481",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Милка мамина' literally 'Mama's Milka' (her mother's darling). Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "болна",
+   "en": "ill, sick"
+  },
+  {
+   "mk": "легнала",
+   "en": "lay down"
+  },
+  {
+   "mk": "умре",
+   "en": "will die"
+  },
+  {
+   "mk": "друшки",
+   "en": "girl friends"
+  },
+  {
+   "mk": "рано ранили",
+   "en": "rose early (lit. 'early-rose')"
+  },
+  {
+   "mk": "двори",
+   "en": "yard, courtyard"
+  },
+  {
+   "mk": "измели",
+   "en": "swept"
+  },
+  {
+   "mk": "тихо",
+   "en": "quietly"
+  }
+ ],
+ "performers": [
+  "Ансамбл Гоце Делчев",
+  "Делчево",
+  "Ансамбл Малешевска китка",
+  "Тајфата на Гошо"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3842"
+  },
+  {
+   "who": "Ансамбл Гоце Делчев, Делчево",
+   "url": "https://pesna.org/audio-download/3843"
+  },
+  {
+   "who": "Тајфата на Гошо",
+   "url": "https://pesna.org/audio-download/3844"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болна легнала Милка мамина,",
+       "lat": "Bolna legnala Milka mamina,",
+       "en": "Mother's Milka lay down ill,"
+      },
+      {
+       "cyr": "болна легнала, болна ќе умре.",
+       "lat": "bolna legnala, bolna ḱe umre.",
+       "en": "lay down ill, ill she will die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милкини друшки рано ранили,",
+       "lat": "Milkini druški rano ranili,",
+       "en": "Milka's friends rose early,"
+      },
+      {
+       "cyr": "рано ранили, двори измели.",
+       "lat": "rano ranili, dvori izmeli.",
+       "en": "rose early, swept the yards."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милкини друшки рано ранили,",
+       "lat": "Milkini druški rano ranili,",
+       "en": "Milka's friends rose early,"
+      },
+      {
+       "cyr": "рано ранили, вода донели.",
+       "lat": "rano ranili, voda doneli.",
+       "en": "rose early, brought water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Милкина мајка во двори чека,",
+       "lat": "Milkina majka vo dvori čeka,",
+       "en": "Milka's mother waits in the yard,"
+      },
+      {
+       "cyr": "во двори шета и тихо плаче.",
+       "lat": "vo dvori šeta i tiho plače.",
+       "en": "walks in the yard and quietly weeps."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

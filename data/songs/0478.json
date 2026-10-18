@@ -1,0 +1,114 @@
+{
+ "id": 478,
+ "slug": "aj-zajdi-zajdi-jasno-sonce",
+ "title_cyr": "Ај зајди зајди јасно сонце",
+ "title_latin": "Aj zajdi zajdi jasno sonce",
+ "title_en": "Oh sun, brilliant sun, go down",
+ "pesna_url": "https://pesna.org/song/478",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/993"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Жетварска песна)",
+       "lat": "(Žetvarska pesna)",
+       "en": "(Reaping song)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај зајди зајди море јасно сонце,",
+       "lat": "Aj zajdi zajdi more jasno sonce,",
+       "en": "Oh sun, brilliant sun, go down,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мене ми здодеја ова пуста жетва.",
+       "lat": "mene mi zdodeja ova pusta žetva.",
+       "en": "this damned harvesting tortures me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Над глава ми стојат до три спахии",
+       "lat": "Nad glava mi stojat do tri spahii",
+       "en": "and in front of me there are three overseers,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и они ми велат ајде бргу жнејте.",
+       "lat": "i oni mi velat ajde brgu žnejte.",
+       "en": "and tell me to work faster.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први ни вели ајде бргу жнејте,",
+       "lat": "Prvi ni veli ajde brgu žnejte,",
+       "en": "The first says, we should cut faster,",
+       "en_mt": false
+      },
+      {
+       "cyr": "а втори ми вели ниско да жнејме,",
+       "lat": "a vtori mi veli nisko da žnejme,",
+       "en": "the second, we should cut lower,",
+       "en_mt": false
+      },
+      {
+       "cyr": "а трети ми вели класја збирајте.",
+       "lat": "a treti mi veli klasja zbirajte.",
+       "en": "the third that we should glean.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А мене ми плаче моето машко дете.",
+       "lat": "A mene mi plače moeto maško dete.",
+       "en": "But my little boy is weeping,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јас не можам д' идам да го превијам,",
+       "lat": "Jas ne možam d' idam da go previjam,",
+       "en": "and I can’t go to change his diapers,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да не го превијам, да не го најадам.",
+       "lat": "da ne go previjam, da ne go najadam.",
+       "en": "can’t change his diapers, and can’t feed him.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

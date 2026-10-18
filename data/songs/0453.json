@@ -1,0 +1,185 @@
+{
+ "id": 453,
+ "slug": "te-sakam-pesno-makedonska",
+ "title_cyr": "Те сакам песно македонска",
+ "title_latin": "Te sakam pesno makedonska",
+ "title_en": "I Love You, Macedonian Song",
+ "pesna_url": "https://pesna.org/song/453",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern ode to song; origin unclear, no author I can name. 'песно' is the vocative of 'песна'.",
+ "words_to_learn": [
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "песна",
+   "en": "song"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "радост",
+   "en": "joy"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flower"
+  },
+  {
+   "mk": "ѕвезда",
+   "en": "star"
+  },
+  {
+   "mk": "знај",
+   "en": "know (that)"
+  }
+ ],
+ "performers": [
+  "Јанко Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Јанко Узунов",
+   "url": "https://pesna.org/audio-download/2112"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Љубов ми си ти, младост ми си ти,",
+       "lat": "Ljubov mi si ti, mladost mi si ti,",
+       "en": "You are my love, you are my youth,"
+      },
+      {
+       "cyr": "песно убава,",
+       "lat": "pesno ubava,",
+       "en": "beautiful song,"
+      },
+      {
+       "cyr": "јас без тебе знај не можам.",
+       "lat": "jas bez tebe znaj ne možam.",
+       "en": "I cannot live without you, know that."
+      },
+      {
+       "cyr": "Радост ми си ти, тага ми си ти,",
+       "lat": "Radost mi si ti, taga mi si ti,",
+       "en": "You are my joy, you are my sorrow,"
+      },
+      {
+       "cyr": "песно убава,",
+       "lat": "pesno ubava,",
+       "en": "beautiful song,"
+      },
+      {
+       "cyr": "што и да си, ти моја си.",
+       "lat": "što i da si, ti moja si.",
+       "en": "whatever you are, you are mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те сакам, песно македонска, македонска,",
+       "lat": "Te sakam, pesno makedonska, makedonska,",
+       "en": "I love you, Macedonian song, Macedonian,"
+      },
+      {
+       "cyr": "љубов моја си, песно македонска.",
+       "lat": "ljubov moja si, pesno makedonska.",
+       "en": "you are my love, Macedonian song."
+      },
+      {
+       "cyr": "Те сакам, песно македонска, македонска,",
+       "lat": "Te sakam, pesno makedonska, makedonska,",
+       "en": "I love you, Macedonian song, Macedonian,"
+      },
+      {
+       "cyr": "младост моја си, песно македонска.",
+       "lat": "mladost moja si, pesno makedonska.",
+       "en": "you are my youth, Macedonian song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љубов ми си ти, младост ми си ти,",
+       "lat": "Ljubov mi si ti, mladost mi si ti,",
+       "en": "You are my love, you are my youth,"
+      },
+      {
+       "cyr": "песно убава,",
+       "lat": "pesno ubava,",
+       "en": "beautiful song,"
+      },
+      {
+       "cyr": "јас без тебе знај не можам.",
+       "lat": "jas bez tebe znaj ne možam.",
+       "en": "I cannot live without you, know that."
+      },
+      {
+       "cyr": "Цвеќе ми си ти, ѕвезда ми си ти,",
+       "lat": "Cveḱe mi si ti, dzvezda mi si ti,",
+       "en": "You are my flower, you are my star,"
+      },
+      {
+       "cyr": "песно убава",
+       "lat": "pesno ubava",
+       "en": "beautiful song,"
+      },
+      {
+       "cyr": "што и да си, ти моја си.",
+       "lat": "što i da si, ti moja si.",
+       "en": "whatever you are, you are mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Те сакам, песно македонска, македонска,",
+       "lat": "Te sakam, pesno makedonska, makedonska,",
+       "en": "I love you, Macedonian song, Macedonian,"
+      },
+      {
+       "cyr": "љубов моја си, песно македонска.",
+       "lat": "ljubov moja si, pesno makedonska.",
+       "en": "you are my love, Macedonian song."
+      },
+      {
+       "cyr": "Те сакам, песно македонска, македонска,",
+       "lat": "Te sakam, pesno makedonska, makedonska,",
+       "en": "I love you, Macedonian song, Macedonian,"
+      },
+      {
+       "cyr": "младост моја си, песно македонска.",
+       "lat": "mladost moja si, pesno makedonska.",
+       "en": "you are my youth, Macedonian song."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

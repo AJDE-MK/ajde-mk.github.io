@@ -1,0 +1,195 @@
+{
+ "id": 903,
+ "slug": "zumbaj-zumbaj",
+ "title_cyr": "Зумбај, зумбај",
+ "title_latin": "Zumbaj, zumbaj",
+ "title_en": "Zumbaj, Zumbaj",
+ "pesna_url": "https://pesna.org/song/903",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Humorous song, 'zumbaj' is a refrain I leave untranslated. 'У петак си преседесмо' (sat it out) and 'кума прати' (sends off the godfather) are my reading; the lyrics mix Serbian-style forms (Leskovac, Nis).",
+ "words_to_learn": [
+  {
+   "mk": "замеса",
+   "en": "to knead (dough)"
+  },
+  {
+   "mk": "бања",
+   "en": "bath, spa"
+  },
+  {
+   "mk": "кум",
+   "en": "godfather, best man"
+  },
+  {
+   "mk": "снашка / сна",
+   "en": "bride, daughter-in-law"
+  },
+  {
+   "mk": "свекр",
+   "en": "father-in-law"
+  },
+  {
+   "mk": "мераклија",
+   "en": "bon vivant, someone who enjoys life's pleasures"
+  },
+  {
+   "mk": "се чуди",
+   "en": "to wonder, be amazed"
+  },
+  {
+   "mk": "одма",
+   "en": "right away"
+  }
+ ],
+ "performers": [
+  "Наско Џорлев"
+ ],
+ "audio": [
+  {
+   "who": "Наско Џорлев",
+   "url": "https://pesna.org/audio-download/1985"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "У четвртак замесисмо, зумбај, зумбај,",
+       "lat": "U četvrtak zamesismo, zumbaj, zumbaj,",
+       "en": "On Thursday we kneaded the dough, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "у петак си преседесмо, зумбај, зумбај,",
+       "lat": "u petak si presedesmo, zumbaj, zumbaj,",
+       "en": "on Friday we sat it out, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "у суботу бања беше, зумбај, зумбај.",
+       "lat": "u subotu banja beše, zumbaj, zumbaj.",
+       "en": "on Saturday there was a bath, zumbaj, zumbaj."
+      },
+      {
+       "cyr": "(Ех, ама бања беше бе!)",
+       "lat": "(Eh, ama banja beše be!)",
+       "en": "(Oh, but there was a bath, hey!)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "У недељу, свадба беше, зумбај, зумбај,",
+       "lat": "U nedelju, svadba beše, zumbaj, zumbaj,",
+       "en": "On Sunday there was a wedding, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "в' понеделник кума прати, зумбај, зумбај,",
+       "lat": "v' ponedelnik kuma prati, zumbaj, zumbaj,",
+       "en": "on Monday the godfather was sent off, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "у 'торник се дете роди, зумбај, зумбај.",
+       "lat": "u 'tornik se dete rodi, zumbaj, zumbaj.",
+       "en": "on Tuesday the child was born, zumbaj, zumbaj."
+      },
+      {
+       "cyr": "(Алал ти вера, бре снашке!)",
+       "lat": "(Alal ti vera, bre snaške!)",
+       "en": "(Bless your faith, bride!)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стаде свекр да се чуди, зумбај, зумбај.",
+       "lat": "Stade svekr da se čudi, zumbaj, zumbaj.",
+       "en": "The father-in-law began to wonder, zumbaj, zumbaj."
+      },
+      {
+       "cyr": "- Јао, снао, што уради, зумбај, зумбај.",
+       "lat": "- Jao, snao, što uradi, zumbaj, zumbaj.",
+       "en": "- Oh, daughter-in-law, what have you done, zumbaj, zumbaj."
+      },
+      {
+       "cyr": "- Не чуди се, мили свекре,",
+       "lat": "- Ne čudi se, mili svekre,",
+       "en": "- Don't wonder, dear father-in-law,"
+      },
+      {
+       "cyr": "што се роди, што се роди,",
+       "lat": "što se rodi, što se rodi,",
+       "en": "that it was born, that it was born,"
+      },
+      {
+       "cyr": "него одма што не оди, зумбај, зумбај.",
+       "lat": "nego odma što ne odi, zumbaj, zumbaj.",
+       "en": "but that it doesn't walk right away, zumbaj, zumbaj."
+      },
+      {
+       "cyr": "(Е, зетко, ама невесту ли си избраја!)",
+       "lat": "(E, zetko, ama nevestu li si izbraja!)",
+       "en": "(Well, son-in-law, what a bride you picked!)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дете има десет татка, зумбај, зумбај,",
+       "lat": "Dete ima deset tatka, zumbaj, zumbaj,",
+       "en": "The child has ten fathers, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "три трговца из Лесковца, зумбај, зумбај,",
+       "lat": "tri trgovca iz Leskovca, zumbaj, zumbaj,",
+       "en": "three merchants from Leskovac, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "три нишлије, мераклије, зумбај, зумбај.",
+       "lat": "tri nišlije, meraklije, zumbaj, zumbaj.",
+       "en": "three men from Nis, lovers of a good time, zumbaj, zumbaj."
+      },
+      {
+       "cyr": "(Мераклија, ама како, а?)",
+       "lat": "(Meraklija, ama kako, a?)",
+       "en": "(A lover of a good time, but how, eh?)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три морнара из Мостара, зумбај, зумбај,",
+       "lat": "Tri mornara iz Mostara, zumbaj, zumbaj,",
+       "en": "Three sailors from Mostar, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "и десетти младожења, зумбај, зумбај,",
+       "lat": "i desetti mladoženja, zumbaj, zumbaj,",
+       "en": "and the tenth, the bridegroom, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "Не е чудо што се роди, зумбај, зумбај,",
+       "lat": "Ne e čudo što se rodi, zumbaj, zumbaj,",
+       "en": "It's no wonder that it was born, zumbaj, zumbaj,"
+      },
+      {
+       "cyr": "него одма што не оди, зумбај, зумбај.",
+       "lat": "nego odma što ne odi, zumbaj, zumbaj.",
+       "en": "but that it doesn't walk right away, zumbaj, zumbaj."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

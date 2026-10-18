@@ -1,0 +1,199 @@
+{
+ "id": 1272,
+ "slug": "libeto-vojnik-mi-otide",
+ "title_cyr": "Либето војник ми отиде",
+ "title_latin": "Libeto vojnik mi otide",
+ "title_en": "My Love Went Off as a Soldier",
+ "pesna_url": "https://pesna.org/song/1272",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The last verse is spoken by the soldier; 'јас ќе умрам тебе' (literally 'I will die to you') is read as 'I will die for you', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "остана",
+   "en": "I was left"
+  },
+  {
+   "mk": "жално",
+   "en": "mournfully, sadly"
+  },
+  {
+   "mk": "врати се",
+   "en": "come back"
+  },
+  {
+   "mk": "дојди ми",
+   "en": "come to me"
+  },
+  {
+   "mk": "оставаш",
+   "en": "you leave"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "мајчица",
+   "en": "dear mother"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3205"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3206"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Либето војник ми отиде,",
+       "lat": "Libeto vojnik mi otide,",
+       "en": "My love went off as a soldier,"
+      },
+      {
+       "cyr": "останав сама без него,",
+       "lat": "ostanav sama bez nego,",
+       "en": "I was left alone without him,"
+      },
+      {
+       "cyr": "ах, леле без него,",
+       "lat": "ah, lele bez nego,",
+       "en": "ah, alas, without him,"
+      },
+      {
+       "cyr": "леле сама без него.",
+       "lat": "lele sama bez nego.",
+       "en": "alas, alone without him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас си гледам и зборувам,",
+       "lat": "A jas si gledam i zboruvam,",
+       "en": "And I look and speak,"
+      },
+      {
+       "cyr": "гледам и плачам, жално му зборувам:",
+       "lat": "gledam i plačam, žalno mu zboruvam:",
+       "en": "I look and cry, I speak to him mournfully:"
+      },
+      {
+       "cyr": "- Ах, Ване врати се,",
+       "lat": "- Ah, Vane vrati se,",
+       "en": "- Ah, Vane, come back,"
+      },
+      {
+       "cyr": "не можам мило либе без тебе,",
+       "lat": "ne možam milo libe bez tebe,",
+       "en": "I cannot, dear love, without you,"
+      },
+      {
+       "cyr": "ах, Ване дојди ми,",
+       "lat": "ah, Vane dojdi mi,",
+       "en": "ah, Vane, come to me,"
+      },
+      {
+       "cyr": "не можам мило либе без тебе.",
+       "lat": "ne možam milo libe bez tebe.",
+       "en": "I cannot, dear love, without you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого ти ме оставаш,",
+       "lat": "Na kogo ti me ostavaš,",
+       "en": "Whom are you leaving me with,"
+      },
+      {
+       "cyr": "со солзи, солзи на мојте очи,",
+       "lat": "so solzi, solzi na mojte oči,",
+       "en": "with tears, tears in my eyes,"
+      },
+      {
+       "cyr": "ах, Ване врати се,",
+       "lat": "ah, Vane vrati se,",
+       "en": "ah, Vane, come back,"
+      },
+      {
+       "cyr": "не можам мило либе без тебе,",
+       "lat": "ne možam milo libe bez tebe,",
+       "en": "I cannot, dear love, without you,"
+      },
+      {
+       "cyr": "ах, Ване дојди ми,",
+       "lat": "ah, Vane dojdi mi,",
+       "en": "ah, Vane, come to me,"
+      },
+      {
+       "cyr": "јас ќе умрам тебе.",
+       "lat": "jas ḱe umram tebe.",
+       "en": "I will die for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Остани либе, остани,",
+       "lat": "- Ostani libe, ostani,",
+       "en": "- Stay, love, stay,"
+      },
+      {
+       "cyr": "при мојта мила стара мајчица,",
+       "lat": "pri mojta mila stara majčica,",
+       "en": "with my dear old mother,"
+      },
+      {
+       "cyr": "ах, леле либе ле,",
+       "lat": "ah, lele libe le,",
+       "en": "ah, alas, love,"
+      },
+      {
+       "cyr": "јас ќе дојдам, либе ле,",
+       "lat": "jas ḱe dojdam, libe le,",
+       "en": "I will come, love,"
+      },
+      {
+       "cyr": "ах, леле либе ле",
+       "lat": "ah, lele libe le",
+       "en": "ah, alas, love,"
+      },
+      {
+       "cyr": "и јас не можам без тебе.",
+       "lat": "i jas ne možam bez tebe.",
+       "en": "and I cannot do without you either."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

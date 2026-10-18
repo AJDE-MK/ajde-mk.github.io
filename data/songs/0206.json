@@ -1,0 +1,215 @@
+{
+ "id": 206,
+ "slug": "sokol-mi-leta-visoko",
+ "title_cyr": "Сокол ми лета високо",
+ "title_latin": "Sokol mi leta visoko",
+ "title_en": "My falcon flies high",
+ "pesna_url": "https://pesna.org/song/206",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Македонија",
+  "Бапчорки",
+  "ВИС Аманет",
+  "Драги Спасовски",
+  "Јордан Митев",
+  "Стефче Стојковски",
+  "Dikanda",
+  "Goddess of Arno",
+  "Lauren Brody",
+  "Percival",
+  "Suna",
+  "Szelindek"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/1421"
+  },
+  {
+   "who": "Suna",
+   "url": "https://pesna.org/audio-download/2192"
+  },
+  {
+   "who": "Dikanda",
+   "url": "https://pesna.org/audio-download/3022"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/3023"
+  },
+  {
+   "who": "Lauren Brody, Драги Спасовски, Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/3506"
+  },
+  {
+   "who": "Percival",
+   "url": "https://pesna.org/audio-download/3507"
+  },
+  {
+   "who": "ВИС Аманет",
+   "url": "https://pesna.org/audio-download/3508"
+  },
+  {
+   "who": "Szelindek",
+   "url": "https://pesna.org/audio-download/3509"
+  },
+  {
+   "who": "Ансамбл Македонија",
+   "url": "https://pesna.org/audio-download/3510"
+  },
+  {
+   "who": "Goddess of Arno",
+   "url": "https://pesna.org/audio-download/3511"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сокол ми лета високо,",
+       "lat": "Sokol mi leta visoko,",
+       "en": "My falcon flies high"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "сокол ми лета високо.",
+       "lat": "sokol mi leta visoko.",
+       "en": "my falcon flies high"
+      },
+      {
+       "cyr": "Над таја града Кукуша,",
+       "lat": "Nad taja grada Kukuša,",
+       "en": "to Kukush town,"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "над таја града Кукуша.",
+       "lat": "nad taja grada Kukuša.",
+       "en": "to Kukush town."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над делчевите дворови,",
+       "lat": "Nad delčevite dvorovi,",
+       "en": "Over the Delchev family’s yard,"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "над делчевите дворови.",
+       "lat": "nad delčevite dvorovi.",
+       "en": "over the Delchev family’s yard,"
+      },
+      {
+       "cyr": "Делчево либе убаво,",
+       "lat": "Delčevo libe ubavo,",
+       "en": "and Delchev’s pretty beloved,"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "делчево либе убаво.",
+       "lat": "delčevo libe ubavo.",
+       "en": "and Delchev’s pretty beloved."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рамни дворови метеше,",
+       "lat": "Ramni dvorovi meteše,",
+       "en": "She is sweeping the vast yard,"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "рамни доворови метеше.",
+       "lat": "ramni dovorovi meteše.",
+       "en": "she is sweeping the vast yard,"
+      },
+      {
+       "cyr": "И дробни солзи ронеше,",
+       "lat": "I drobni solzi roneše,",
+       "en": "and sheding small tears"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "и дробни солзи ронеше.",
+       "lat": "i drobni solzi roneše.",
+       "en": "and sheding small tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дека је Гоце загинал,",
+       "lat": "Deka je Goce zaginal,",
+       "en": "Because Gotse has died,"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl,"
+      },
+      {
+       "cyr": "дека е Гоце загинал.",
+       "lat": "deka e Goce zaginal.",
+       "en": "because Gotse has died,"
+      },
+      {
+       "cyr": "Во тоа село Баница,",
+       "lat": "Vo toa selo Banica,",
+       "en": "in the village of Banitsa,"
+      },
+      {
+       "cyr": "мори девојко,",
+       "lat": "mori devojko,",
+       "en": "oh girl"
+      },
+      {
+       "cyr": "за жална Македонија.",
+       "lat": "za žalna Makedonija.",
+       "en": "for sad Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

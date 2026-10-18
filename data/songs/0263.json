@@ -1,0 +1,208 @@
+{
+ "id": 263,
+ "slug": "za-baba-eftimica",
+ "title_cyr": "За баба Ефтимица",
+ "title_latin": "Za baba Eftimica",
+ "title_en": "For grandma Eftimica",
+ "pesna_url": "https://pesna.org/song/263",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл ресенчани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/2799"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бибил во кафез во одајчето",
+       "lat": "Bibil vo kafez vo odajčeto",
+       "en": "The nightingale in the cage, in the room,",
+       "en_mt": false
+      },
+      {
+       "cyr": "жалосно пее, жалосна песна:",
+       "lat": "žalosno pee, žalosna pesna:",
+       "en": "Mournfully sings a sad song:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ај стани, стани бабо Ефтимице",
+       "lat": "- Aj stani, stani babo Eftimice",
+       "en": "- Hey, get up, get up, old Eftimica,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да го испратиш син ти Стојана,",
+       "lat": "da go ispratiš sin ti Stojana,",
+       "en": "To get your son, Stojan, into gurbet*",
+       "en_mt": false
+      },
+      {
+       "cyr": "на гурбет ќе оди туѓа туѓина.",
+       "lat": "na gurbet ḱe odi tuǵa tuǵina.",
+       "en": "Into gurbet, in those damn foreign lands!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На гурбет ќе оди туѓа туѓина",
+       "lat": "Na gurbet ḱe odi tuǵa tuǵina",
+       "en": "He will go into gurbet, into foreign countries,",
+       "en_mt": false
+      },
+      {
+       "cyr": "туѓа туѓина, пуста Америка,",
+       "lat": "tuǵa tuǵina, pusta Amerika,",
+       "en": "Foreign countries, most of all America,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пари да спечали, назад да се врати",
+       "lat": "pari da spečali, nazad da se vrati",
+       "en": "He will earn some money, and then will go back,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка да прегрни, свадба да направи.",
+       "lat": "majka da pregrni, svadba da napravi.",
+       "en": "He will hug his mother and organize a wedding.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно време стана баба Ефтимица",
+       "lat": "Edno vreme stana baba Eftimica",
+       "en": "One day Eftimica woke up,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да го испрати син ѝ Стојана",
+       "lat": "da go isprati sin ì Stojana",
+       "en": "to get her son Stojan into gurbet.",
+       "en_mt": false
+      },
+      {
+       "cyr": "неговото либе дробни солзи рони,",
+       "lat": "negovoto libe drobni solzi roni,",
+       "en": "His sweetheart is in tears,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дробни солзи рони и му се моли:",
+       "lat": "drobni solzi roni i mu se moli:",
+       "en": "mourning and begging him:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Немој, не оди туѓа туѓина",
+       "lat": "- Nemoj, ne odi tuǵa tuǵina",
+       "en": "- No, Stojan, don't listen to your mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "туѓа туѓина, пуста Америка.",
+       "lat": "tuǵa tuǵina, pusta Amerika.",
+       "en": "don't go to damn America!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не мина време, време три години,",
+       "lat": "Ne mina vreme, vreme tri godini,",
+       "en": "Three years have passed,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на баба Ефтимица писмо ѝ стигна.",
+       "lat": "na baba Eftimica pismo ì stigna.",
+       "en": "And poor old Eftimica already gets a letter.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Во писмото пиши: - Не жали мајко,",
+       "lat": "Vo pismoto piši: - Ne žali majko,",
+       "en": "In the letter Stojan wrote: - Don't mourn, dear mother.",
+       "en_mt": false
+      },
+      {
+       "cyr": "не жали мајко, не плачи либе",
+       "lat": "ne žali majko, ne plači libe",
+       "en": "Don't mourn, dear mother, don't cry, dear sweetheart,",
+       "en_mt": false
+      },
+      {
+       "cyr": "не плачи либе, пари не спечалив",
+       "lat": "ne plači libe, pari ne spečaliv",
+       "en": "I have not earned any money,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пари не спечалив, младост си оставив.",
+       "lat": "pari ne spečaliv, mladost si ostaviv.",
+       "en": "and I've left my youth behind!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Баба Ефтимица луто проколнала:",
+       "lat": "Baba Eftimica luto prokolnala:",
+       "en": "Eftimica cursed and swore:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Пуста останала туѓа туѓина",
+       "lat": "- Pusta ostanala tuǵa tuǵina",
+       "en": "Desolate be, you damn foreign land!",
+       "en_mt": false
+      },
+      {
+       "cyr": "пуста останала клета Америка,",
+       "lat": "pusta ostanala kleta Amerika,",
+       "en": "Desolate be, you damn America!",
+       "en_mt": false
+      },
+      {
+       "cyr": "зошто ми го зеде мојто прво чедо",
+       "lat": "zošto mi go zede mojto prvo čedo",
+       "en": "You took my only child,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мојто прво чедо, син ми Стојана.",
+       "lat": "mojto prvo čedo, sin mi Stojana.",
+       "en": "my son Stojan.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

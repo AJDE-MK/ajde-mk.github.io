@@ -1,0 +1,113 @@
+{
+ "id": 314,
+ "slug": "sal-si-odam-sal-si-pitam",
+ "title_cyr": "Сал си одам, сал си питам",
+ "title_latin": "Sal si odam, sal si pitam",
+ "title_en": "I just walk, I just ask",
+ "pesna_url": "https://pesna.org/song/314",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/184"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сал си одам, сал си питам,",
+       "lat": "Sal si odam, sal si pitam,",
+       "en": "I just walk, I just ask,"
+      },
+      {
+       "cyr": "дека седи Грозда мома,",
+       "lat": "deka sedi Grozda moma,",
+       "en": "Where lives the girl Grozda."
+      },
+      {
+       "cyr": "Грозда мома битолчанка.",
+       "lat": "Grozda moma bitolčanka.",
+       "en": "Grozda, girl from Bitola."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Она седи ош' погоре",
+       "lat": "Ona sedi oš' pogore",
+       "en": "She lives a little further up,"
+      },
+      {
+       "cyr": "ош' погоре, Горно Маало.",
+       "lat": "oš' pogore, Gorno Maalo.",
+       "en": "a little further up, Gorno Maalo."
+      },
+      {
+       "cyr": "Нејна порта бележита,",
+       "lat": "Nejna porta beležita,",
+       "en": "Her door stands up,"
+      },
+      {
+       "cyr": "до портата бела чешма.",
+       "lat": "do portata bela češma.",
+       "en": "next to it there's a white well."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До портата дафин дрво.",
+       "lat": "Do portata dafin drvo.",
+       "en": "Next to the door there's a Dafin tree,"
+      },
+      {
+       "cyr": "На дрвото славеј пиле,",
+       "lat": "Na drvoto slavej pile,",
+       "en": "On the tree a nightingale,"
+      },
+      {
+       "cyr": "славеј пиле само пее.",
+       "lat": "slavej pile samo pee.",
+       "en": "and the nightingale keeps singing:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што се сака не се зема,",
+       "lat": "Što se saka ne se zema,",
+       "en": "- \"Those who love each other don't get married,"
+      },
+      {
+       "cyr": "што се не'ќе ќе се земи,",
+       "lat": "što se ne'ḱe ḱe se zemi,",
+       "en": "those who don't, they get married."
+      },
+      {
+       "cyr": "ќе се земи, фајде нема.",
+       "lat": "ḱe se zemi, fajde nema.",
+       "en": "They get married but are unlucky\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

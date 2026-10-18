@@ -1,0 +1,144 @@
+{
+ "id": 67,
+ "slug": "maro-marike-fidan-bojlike",
+ "title_cyr": "Маро, Марике, фидан бојлике",
+ "title_latin": "Maro, Marike, fidan bojlike",
+ "title_en": "Maro, Marika, slender figure",
+ "pesna_url": "https://pesna.org/song/67",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'сè си апнува' is my reading (everything gets hooked/captivated); 'апнува' is a dialect word I am unsure about. 'Костурски' refers to Kostur (Kastoria).",
+ "words_to_learn": [
+  {
+   "mk": "фидан бојлике",
+   "en": "slender figure (lit. sapling-height)"
+  },
+  {
+   "mk": "гиди",
+   "en": "oh my / hey (exclamation)"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear (exclamation)"
+  },
+  {
+   "mk": "цреши",
+   "en": "cherries"
+  },
+  {
+   "mk": "мават",
+   "en": "they throw / wave (dialect, from мафта)"
+  },
+  {
+   "mk": "дрво",
+   "en": "wood / tree"
+  },
+  {
+   "mk": "камење",
+   "en": "stones"
+  },
+  {
+   "mk": "сенка",
+   "en": "shade"
+  },
+  {
+   "mk": "пладнува",
+   "en": "rests at noon"
+  }
+ ],
+ "performers": [
+  "Никола Бадев",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/711"
+  },
+  {
+   "who": "Никола Бадев, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3406"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Маро, Марике, гиди, фидан бојлике,",
+       "lat": "Maro, Marike, gidi, fidan bojlike,",
+       "en": "Maro, Marika, oh my, slender figure,"
+      },
+      {
+       "cyr": "фидан бојлике, гиди, Маро, Маринке.",
+       "lat": "fidan bojlike, gidi, Maro, Marinke.",
+       "en": "slender figure, oh my, Maro, Marinka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Марини очи, леле, Костурски цреши,",
+       "lat": "Marini oči, lele, Kosturski creši,",
+       "en": "Mara's eyes, oh dear, Kostur cherries,"
+      },
+      {
+       "cyr": "кој поминува, леле, сè си апнува.",
+       "lat": "koj pominuva, lele, sè si apnuva.",
+       "en": "whoever passes, oh dear, gets everything hooked."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас поминав, леле, а јас заминав,",
+       "lat": "A jas pominav, lele, a jas zaminav,",
+       "en": "And I passed by, oh dear, and I went away,"
+      },
+      {
+       "cyr": "по мене мават, леле, с' дрво, с' камење.",
+       "lat": "po mene mavat, lele, s' drvo, s' kamenje.",
+       "en": "they throw at me, oh dear, all wood, all stones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Марина коса леле, дебела сенка,",
+       "lat": "Marina kosa lele, debela senka,",
+       "en": "Mara's hair, oh dear, thick shade,"
+      },
+      {
+       "cyr": "кој поминува, леле, сè си пладнува.",
+       "lat": "koj pominuva, lele, sè si pladnuva.",
+       "en": "whoever passes, oh dear, takes his noon rest there."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас поминав, леле, а јас заминав,",
+       "lat": "A jas pominav, lele, a jas zaminav,",
+       "en": "And I passed by, oh dear, and I went away,"
+      },
+      {
+       "cyr": "по мене мават, леле, с' дрво, с' камење.",
+       "lat": "po mene mavat, lele, s' drvo, s' kamenje.",
+       "en": "they throw at me, oh dear, all wood, all stones."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

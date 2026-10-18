@@ -1,0 +1,139 @@
+{
+ "id": 956,
+ "slug": "mome-stoe-vo-livadi",
+ "title_cyr": "Моме стое во ливади",
+ "title_latin": "Mome stoe vo livadi",
+ "title_en": "A girl stands in the meadows",
+ "pesna_url": "https://pesna.org/song/956",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Вања Лазарова",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Елена Трајчева",
+  "Махмут Музафер",
+  "Наум Петрески",
+  "Танец",
+  "Kaal",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2204"
+  },
+  {
+   "who": "Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2205"
+  },
+  {
+   "who": "Махмут Музафер",
+   "url": "https://pesna.org/audio-download/2206"
+  },
+  {
+   "who": "Synthesis, Наум Петрески",
+   "url": "https://pesna.org/audio-download/2207"
+  },
+  {
+   "who": "Елена Трајчева, Танец",
+   "url": "https://pesna.org/audio-download/2208"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2209"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/2210"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/2211"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2225"
+  },
+  {
+   "who": "Kaal",
+   "url": "https://pesna.org/audio-download/2584"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Моме стое, џанам, моме стое,",
+       "lat": "Mome stoe, džanam, mome stoe,",
+       "en": "A girl stands, dear, a girl stands,"
+      },
+      {
+       "cyr": "моме стое, џанам, јуф ливади, јуф ливади.",
+       "lat": "mome stoe, džanam, juf livadi, juf livadi.",
+       "en": "a girl stands, dear, in the meadows, in the meadows."
+      },
+      {
+       "cyr": "Дек' што стое, моме, дек' што стое,",
+       "lat": "Dek' što stoe, mome, dek' što stoe,",
+       "en": "Where she stands, girl, where she stands,"
+      },
+      {
+       "cyr": "дек' што стое, моме, сонце грее, сонце грее.",
+       "lat": "dek' što stoe, mome, sonce gree, sonce gree.",
+       "en": "where she stands, girl, the Sun shines, the Sun shines."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' раце држи, моме, в' раце држи,",
+       "lat": "V' race drži, mome, v' race drži,",
+       "en": "In her hands she holds, girl, in her hands she holds,"
+      },
+      {
+       "cyr": "в' раце држи, моме, огледало, огледало.",
+       "lat": "v' race drži, mome, ogledalo, ogledalo.",
+       "en": "in her hands she holds, girl, a mirror, a mirror."
+      },
+      {
+       "cyr": "С' огледује, моме, с' огледује,",
+       "lat": "S' ogleduje, mome, s' ogleduje,",
+       "en": "She is looking at herself, girl, she is looking at herself,"
+      },
+      {
+       "cyr": "с' огледује, моме, и зборује, и зборује.",
+       "lat": "s' ogleduje, mome, i zboruje, i zboruje.",
+       "en": "she is looking at herself, girl, and says, and says."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дал ме личе, Боже, дал ме личе,",
+       "lat": "- Dal me liče, Bože, dal me liče,",
+       "en": "- Am I pretty enough, God, am I pretty enough,"
+      },
+      {
+       "cyr": "дал ме личе, Боже, за невеста јуф недела.",
+       "lat": "dal me liče, Bože, za nevesta juf nedela.",
+       "en": "am I pretty enough, God, for a bride on Sunday."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

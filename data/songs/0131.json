@@ -1,0 +1,167 @@
+{
+ "id": 131,
+ "slug": "pesna-za-skopje",
+ "title_cyr": "Песна за Скопје",
+ "title_latin": "Pesna za Skopje",
+ "title_en": "Song for Skopje",
+ "pesna_url": "https://pesna.org/song/131",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it refers to the 1963 Skopje earthquake. 'Шееситрета' is my reading of 'the twenty-sixth' (26 July 1963); that word is garbled in the source.",
+ "words_to_learn": [
+  {
+   "mk": "Сонце",
+   "en": "Sun"
+  },
+  {
+   "mk": "громови",
+   "en": "thunders"
+  },
+  {
+   "mk": "пискот",
+   "en": "screaming, shriek"
+  },
+  {
+   "mk": "страв",
+   "en": "fear"
+  },
+  {
+   "mk": "прав",
+   "en": "dust"
+  },
+  {
+   "mk": "урнатини",
+   "en": "ruins"
+  },
+  {
+   "mk": "жалој",
+   "en": "mourning"
+  },
+  {
+   "mk": "рипна",
+   "en": "leapt up"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев, Васка Илиева",
+   "url": "https://pesna.org/audio-download/33"
+  },
+  {
+   "who": "Никола Бадев, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/277"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Додек' Сонце Земјата ќе грее",
+       "lat": "Dodek' Sonce Zemjata ḱe gree",
+       "en": "As long as the Sun warms the Earth,"
+      },
+      {
+       "cyr": "ќе се помни шееситрета,",
+       "lat": "ḱe se pomni šeesitreta,",
+       "en": "the 'twenty-sixth' will be remembered,"
+      },
+      {
+       "cyr": "кога Вардар крвав ми протекол",
+       "lat": "koga Vardar krvav mi protekol",
+       "en": "when the Vardar flowed bloody for me"
+      },
+      {
+       "cyr": "и жал пронел по целиот свет.",
+       "lat": "i žal pronel po celiot svet.",
+       "en": "and carried sorrow across the whole world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од земјата громови згрмеа,",
+       "lat": "Od zemjata gromovi zgrmea,",
+       "en": "From the earth thunder rumbled,"
+      },
+      {
+       "cyr": "стана пискот, трескање и страв.",
+       "lat": "stana piskot, treskanje i strav.",
+       "en": "there was screaming, crashing and fear."
+      },
+      {
+       "cyr": "Со илјади години ѕидано",
+       "lat": "So iljadi godini dzidano",
+       "en": "Built over thousands of years,"
+      },
+      {
+       "cyr": "мило Скопје се стори во прав.",
+       "lat": "milo Skopje se stori vo prav.",
+       "en": "dear Skopje turned to dust."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми заплака сиот ле ми народ",
+       "lat": "Mi zaplaka siot le mi narod",
+       "en": "My whole people began to weep,"
+      },
+      {
+       "cyr": "од болки им душите плачат.",
+       "lat": "od bolki im dušite plačat.",
+       "en": "their souls cry from pain."
+      },
+      {
+       "cyr": "Сонцето се зад облаци скрило,",
+       "lat": "Sonceto se zad oblaci skrilo,",
+       "en": "The sun hid behind the clouds,"
+      },
+      {
+       "cyr": "да не гледа жални настани.",
+       "lat": "da ne gleda žalni nastani.",
+       "en": "so as not to see the sad events."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај рипна сиот ле ми народ,",
+       "lat": "Togaj ripna siot le mi narod,",
+       "en": "Then my whole people leapt up,"
+      },
+      {
+       "cyr": "грмна песна, младост прозбори.",
+       "lat": "grmna pesna, mladost prozbori.",
+       "en": "a song thundered, youth spoke out."
+      },
+      {
+       "cyr": "Над урнатини палати да дига,",
+       "lat": "Nad urnatini palati da diga,",
+       "en": "Over the ruins to raise palaces,"
+      },
+      {
+       "cyr": "место жалој, живот да гори.",
+       "lat": "mesto žaloj, život da gori.",
+       "en": "in place of mourning, for life to burn."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

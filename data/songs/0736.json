@@ -1,0 +1,131 @@
+{
+ "id": 736,
+ "slug": "mnogu-merak-imam-babo",
+ "title_cyr": "Многу мерак имам бабо",
+ "title_latin": "Mnogu merak imam babo",
+ "title_en": "I like a lot, grandma",
+ "pesna_url": "https://pesna.org/song/736",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анета Љумаковска",
+  "Виданка Георгиева",
+  "Сашо Митев",
+  "Славе Велјановски"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/977"
+  },
+  {
+   "who": "Анета Љумаковска",
+   "url": "https://pesna.org/audio-download/978"
+  },
+  {
+   "who": "Славе Велјановски",
+   "url": "https://pesna.org/audio-download/979"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/980"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Многу мерак имам бабо,",
+       "lat": "Mnogu merak imam babo,",
+       "en": "I like a lot, grandma,"
+      },
+      {
+       "cyr": "по твоето моме.",
+       "lat": "po tvoeto mome.",
+       "en": "your girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи стара ле бабо,",
+       "lat": "Kaži stara le babo,",
+       "en": "Tell me, old grandma,"
+      },
+      {
+       "cyr": "дал' ќе ми го дадиш?",
+       "lat": "dal' ḱe mi go dadiš?",
+       "en": "will you give it to me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чекај, чекај, јабанџиче",
+       "lat": "Čekaj, čekaj, jabandžiče",
+       "en": "Wait, wait stranger,"
+      },
+      {
+       "cyr": "Велигден да пројде.",
+       "lat": "Veligden da projde.",
+       "en": "Easter to pass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Велигден да пројде, синко",
+       "lat": "Veligden da projde, sinko",
+       "en": "Easter to pass, my son,"
+      },
+      {
+       "cyr": "гости да пречека.",
+       "lat": "gosti da prečeka.",
+       "en": "she will tend our guests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогаш дојди јабанџиче",
+       "lat": "Togaš dojdi jabandžiče",
+       "en": "Then you come, stranger,"
+      },
+      {
+       "cyr": "дојди, погледај ја.",
+       "lat": "dojdi, pogledaj ja.",
+       "en": "come, look at her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, погледај ја, синко,",
+       "lat": "Dojdi, pogledaj ja, sinko,",
+       "en": "Come, look at her, my son,"
+      },
+      {
+       "cyr": "дојди, земи ја.",
+       "lat": "dojdi, zemi ja.",
+       "en": "come, and take her."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

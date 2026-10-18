@@ -1,0 +1,155 @@
+{
+ "id": 962,
+ "slug": "na-gosti-ti-dojdov-kito",
+ "title_cyr": "На гости ти дојдов, Кито",
+ "title_latin": "Na gosti ti dojdov, Kito",
+ "title_en": "I came to visit you, Kita",
+ "pesna_url": "https://pesna.org/song/962",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional love song. 'Вечера ти најдов' I read as 'I found only supper (not you)', my reading; Кита is a girl's name and also 'bouquet'.",
+ "words_to_learn": [
+  {
+   "mk": "на гости",
+   "en": "on a visit"
+  },
+  {
+   "mk": "најдов",
+   "en": "I found"
+  },
+  {
+   "mk": "китка",
+   "en": "bouquet, sprig"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "каранфил",
+   "en": "carnation"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "легнав",
+   "en": "I lay down"
+  },
+  {
+   "mk": "сон",
+   "en": "sleep, dream"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова",
+  "Драги Митев",
+  "Елена Стевковска"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2223"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2224"
+  },
+  {
+   "who": "Елена Стевковска",
+   "url": "https://pesna.org/audio-download/3379"
+  },
+  {
+   "who": "Драги Митев",
+   "url": "https://pesna.org/audio-download/3380"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На гости ти дојдов, Кито моме,",
+       "lat": "Na gosti ti dojdov, Kito mome,",
+       "en": "I came to visit you, girl Kita,"
+      },
+      {
+       "cyr": "тебе не те најдов, Кито моме,",
+       "lat": "tebe ne te najdov, Kito mome,",
+       "en": "I did not find you, girl Kita,"
+      },
+      {
+       "cyr": "китка од градина.",
+       "lat": "kitka od gradina.",
+       "en": "sprig from the garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вечера ти најдов, Кито моме,",
+       "lat": "Večera ti najdov, Kito mome,",
+       "en": "I found only supper, girl Kita,"
+      },
+      {
+       "cyr": "тебе не те најдов, Кито моме,",
+       "lat": "tebe ne te najdov, Kito mome,",
+       "en": "I did not find you, girl Kita,"
+      },
+      {
+       "cyr": "китка од каранфил.",
+       "lat": "kitka od karanfil.",
+       "en": "sprig of carnation."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Седнав да вечерам, Кито моме,",
+       "lat": "Sednav da večeram, Kito mome,",
+       "en": "I sat down to have supper, girl Kita,"
+      },
+      {
+       "cyr": "вечера не слатка, Кито моме,",
+       "lat": "večera ne slatka, Kito mome,",
+       "en": "the supper was not sweet, girl Kita,"
+      },
+      {
+       "cyr": "китка од градина.",
+       "lat": "kitka od gradina.",
+       "en": "sprig from the garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Легнав да поспијам, Кито моме,",
+       "lat": "Legnav da pospijam, Kito mome,",
+       "en": "I lay down to sleep, girl Kita,"
+      },
+      {
+       "cyr": "сон не ми доаѓа, Кито моме,",
+       "lat": "son ne mi doaǵa, Kito mome,",
+       "en": "sleep does not come to me, girl Kita,"
+      },
+      {
+       "cyr": "китка од каранфил.",
+       "lat": "kitka od karanfil.",
+       "en": "sprig of carnation."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

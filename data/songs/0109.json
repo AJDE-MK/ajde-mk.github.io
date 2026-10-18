@@ -1,0 +1,170 @@
+{
+ "id": 109,
+ "slug": "shto-mi-e-merak-poljak-da-bidam",
+ "title_cyr": "Што ми е мерак полјак да бидам",
+ "title_latin": "Što mi e merak poljak da bidam",
+ "title_en": "I have a desire to be a field guard",
+ "pesna_url": "https://pesna.org/song/109",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ацо Андонов",
+  "Болеробенд",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Климе Нанчов",
+  "Мери Минас Магдалена",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/360"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/361"
+  },
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/362"
+  },
+  {
+   "who": "Мери Минас Магдалена",
+   "url": "https://pesna.org/audio-download/1841"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3928"
+  },
+  {
+   "who": "Климе Нанчов",
+   "url": "https://pesna.org/audio-download/4041"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е мерак полјак да бидам,",
+       "lat": "Što mi e merak poljak da bidam,",
+       "en": "I have a desire1 to be a field guard2",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори Божано,",
+       "lat": "mori Božano,",
+       "en": "My dear Bozhano3,",
+       "en_mt": false
+      },
+      {
+       "cyr": "полјак да бидам на ваш'та нива,",
+       "lat": "poljak da bidam na vaš'ta niva,",
+       "en": "To be a field guard in your fields,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори девојко.",
+       "lat": "mori devojko.",
+       "en": "Dear one (young girl).",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На ваш'та нива, нива голема,",
+       "lat": "Na vaš'ta niva, niva golema,",
+       "en": "In your fields, in your vast fields,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори Божано,",
+       "lat": "mori Božano,",
+       "en": "My dear Bozhano,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти да ја жнееш, јас да те гледам,",
+       "lat": "ti da ja žneeš, jas da te gledam,",
+       "en": "You to cut (harvest), me to watch you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори девојко.",
+       "lat": "mori devojko.",
+       "en": "Dear one (young girl).",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ми е мерак полјак да бидам,",
+       "lat": "Što mi e merak poljak da bidam,",
+       "en": "I have a desire to be a field guard,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори Божано,",
+       "lat": "mori Božano,",
+       "en": "My dear Bozhano,",
+       "en_mt": false
+      },
+      {
+       "cyr": "полјак да бидам на ваш'то лозје,",
+       "lat": "poljak da bidam na vaš'to lozje,",
+       "en": "To be a field guard in your grape fields,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори девојко.",
+       "lat": "mori devojko.",
+       "en": "Dear one (young girl).",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На ваш'то лозје, на бело грозје,",
+       "lat": "Na vaš'to lozje, na belo grozje,",
+       "en": "In your grape fields, your white grapes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори Божано,",
+       "lat": "mori Božano,",
+       "en": "My dear Bozhano,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти да го береш, јас да те гледам,",
+       "lat": "ti da go bereš, jas da te gledam,",
+       "en": "You to gather, me to watch you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори девојко.",
+       "lat": "mori devojko.",
+       "en": "Dear one (young girl).",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

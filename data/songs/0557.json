@@ -1,0 +1,127 @@
+{
+ "id": 557,
+ "slug": "kuchinjata-laat-pazardzhii-idat",
+ "title_cyr": "Кучињата лаат, пазарџии идат",
+ "title_latin": "Kučinjata laat, pazardžii idat",
+ "title_en": "The dogs bark, merchants are coming",
+ "pesna_url": "https://pesna.org/song/557",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'с'јодам' is my reading as 'so I can go (away)'; 'калеш Димчо' read as a carriage-boy or driver (uncertain); 'прикрши' read as 'you will break/bend' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "лаат",
+   "en": "they bark"
+  },
+  {
+   "mk": "пазарџии",
+   "en": "merchants, market traders"
+  },
+  {
+   "mk": "пуштај ме",
+   "en": "let me go"
+  },
+  {
+   "mk": "калеш",
+   "en": "carriage, driver of a carriage (my reading)"
+  },
+  {
+   "mk": "петли",
+   "en": "roosters"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "лажовни",
+   "en": "lying, deceitful"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/1516"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кучињата лаат, пазарџии идат",
+       "lat": "Kučinjata laat, pazardžii idat",
+       "en": "The dogs bark, merchants are coming"
+      },
+      {
+       "cyr": "пуштај ме, бела Митро да с'јодам.",
+       "lat": "puštaj me, bela Mitro da s'jodam.",
+       "en": "let me go, white Mitra, so I can leave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие кучиња од вечер лајат,",
+       "lat": "Tie kučinja od večer lajat,",
+       "en": "Those dogs have barked since evening,"
+      },
+      {
+       "cyr": "приседи калеш Димчо до мене",
+       "lat": "prisedi kaleš Dimčo do mene",
+       "en": "sit down beside me, carriage-boy Dimcho"
+      },
+      {
+       "cyr": "прикрши рамна снага Митрина.",
+       "lat": "prikrši ramna snaga Mitrina.",
+       "en": "you will break Mitra's slender waist."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Петлите пеат, зора се зори",
+       "lat": "Petlite peat, zora se zori",
+       "en": "The roosters crow, dawn is breaking"
+      },
+      {
+       "cyr": "пуштај ме бела Митро да с'јодам.",
+       "lat": "puštaj me bela Mitro da s'jodam.",
+       "en": "let me go, white Mitra, so I can leave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тие се петли, петли лажовни,",
+       "lat": "Tie se petli, petli lažovni,",
+       "en": "Those roosters are lying roosters,"
+      },
+      {
+       "cyr": "приседи калеш Димчо до мене,",
+       "lat": "prisedi kaleš Dimčo do mene,",
+       "en": "sit down beside me, carriage-boy Dimcho,"
+      },
+      {
+       "cyr": "прикрши рамна снага Митрина.",
+       "lat": "prikrši ramna snaga Mitrina.",
+       "en": "you will break Mitra's slender waist."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

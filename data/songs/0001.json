@@ -1,0 +1,168 @@
+{
+ "id": 1,
+ "slug": "urva-fanka",
+ "title_cyr": "Урва Фанка",
+ "title_latin": "Urva Fanka",
+ "title_en": "Fanka Picks",
+ "pesna_url": "https://pesna.org/song/1",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Пендолира' is a word I do not know (possibly a coin or fee); left untranslated. 'Лисечина' as 'leafy' and 'таксај ... што ќе таксаш' as 'whatever it will be' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "урва",
+   "en": "picks, plucks (dialect)"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "падарче",
+   "en": "little field guard"
+  },
+  {
+   "mk": "таксај",
+   "en": "pay the fine or tax"
+  },
+  {
+   "mk": "тук'",
+   "en": "only, just (dialect)"
+  },
+  {
+   "mk": "бело лице",
+   "en": "white face, fair complexion"
+  },
+  {
+   "mk": "црни очи",
+   "en": "black (dark) eyes"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Бапчорки",
+  "Драги Спасовски",
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/22"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/1451"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/2047"
+  },
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3246"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Урва Фанка, урва Фанка по полето,",
+       "lat": "Urva Fanka, urva Fanka po poleto,",
+       "en": "Fanka picks, Fanka picks in the field,"
+      },
+      {
+       "cyr": "урва Фанка, ој леле, по полето,",
+       "lat": "urva Fanka, oj lele, po poleto,",
+       "en": "Fanka picks, oh dear, in the field,"
+      },
+      {
+       "cyr": "да собери, да собери црно грозје,",
+       "lat": "da soberi, da soberi crno grozje,",
+       "en": "to gather, to gather black grapes,"
+      },
+      {
+       "cyr": "да собере, оф леле, црно грозје,",
+       "lat": "da sobere, of lele, crno grozje,",
+       "en": "to gather, oh dear, black grapes,"
+      },
+      {
+       "cyr": "црно грозје, црно грозје лисечина,",
+       "lat": "crno grozje, crno grozje lisečina,",
+       "en": "black grapes, black grapes, leafy ones,"
+      },
+      {
+       "cyr": "црно грозје, ој леле, лисечина.",
+       "lat": "crno grozje, oj lele, lisečina.",
+       "en": "black grapes, oh dear, leafy ones."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми ја фати, ми ја фати падарчето,",
+       "lat": "Mi ja fati, mi ja fati padarčeto,",
+       "en": "The field guard caught her, caught her,"
+      },
+      {
+       "cyr": "ми ја фати, ој леле, падарчето:",
+       "lat": "mi ja fati, oj lele, padarčeto:",
+       "en": "caught her, oh dear, the field guard:"
+      },
+      {
+       "cyr": "- Таксај Фанке, таксај Фанке што ќе таксаш,",
+       "lat": "- Taksaj Fanke, taksaj Fanke što ḱe taksaš,",
+       "en": "- Pay the fine, Fanka, pay the fine, whatever it will be,"
+      },
+      {
+       "cyr": "таксај Фанке, ој леле, што ќе таксаш.",
+       "lat": "taksaj Fanke, oj lele, što ḱe taksaš.",
+       "en": "pay the fine, Fanka, oh dear, whatever it will be."
+      },
+      {
+       "cyr": "- Таксана е, таксана е пендолира,",
+       "lat": "- Taksana e, taksana e pendolira,",
+       "en": "- It is paid, it is paid, the pendolira,"
+      },
+      {
+       "cyr": "таксана е, ој леле, пендолира.",
+       "lat": "taksana e, oj lele, pendolira.",
+       "en": "it is paid, oh dear, the pendolira."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не ти сакам, не ти сакам пендолира,",
+       "lat": "- Ne ti sakam, ne ti sakam pendolira,",
+       "en": "- I don't want your pendolira,"
+      },
+      {
+       "cyr": "не ти сакам, ој леле, пендолира,",
+       "lat": "ne ti sakam, oj lele, pendolira,",
+       "en": "I don't want it, oh dear, the pendolira,"
+      },
+      {
+       "cyr": "тук' ти сакам, тук' ти сакам бело лице,",
+       "lat": "tuk' ti sakam, tuk' ti sakam belo lice,",
+       "en": "I only want you, I only want your white face,"
+      },
+      {
+       "cyr": "тук' ти сакам, ој леле, црни очи!",
+       "lat": "tuk' ti sakam, oj lele, crni oči!",
+       "en": "I only want you, oh dear, your black eyes!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,133 @@
+{
+ "id": 139,
+ "slug": "slegov-dolu-vo-vizbata",
+ "title_cyr": "Слегов долу во визбата",
+ "title_latin": "Slegov dolu vo vizbata",
+ "title_en": "I went down into the cellar",
+ "pesna_url": "https://pesna.org/song/139",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Чепчето' rendered as 'spigot' is my reading (a plug or tap on the barrel); it could also mean a small cap. Bawdy-humorous wedding style.",
+ "words_to_learn": [
+  {
+   "mk": "слегов",
+   "en": "I went down"
+  },
+  {
+   "mk": "визба",
+   "en": "cellar"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, daughter-in-law"
+  },
+  {
+   "mk": "бочва",
+   "en": "barrel"
+  },
+  {
+   "mk": "чепче",
+   "en": "spigot, small stopper (my reading)"
+  },
+  {
+   "mk": "капне",
+   "en": "drips"
+  },
+  {
+   "mk": "устата",
+   "en": "mouth"
+  }
+ ],
+ "performers": [
+  "Борис Ангелковски",
+  "Група Сарај",
+  "Ивица Стојановски",
+  "Никола Бадев",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/728"
+  },
+  {
+   "who": "Ивица Стојановски",
+   "url": "https://pesna.org/audio-download/729"
+  },
+  {
+   "who": "Борис Ангелковски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3002"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3719"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Слегов долу во визбата,",
+       "lat": "Slegov dolu vo vizbata,",
+       "en": "I went down into the cellar,"
+      },
+      {
+       "cyr": "там' си најдов невестата.",
+       "lat": "tam' si najdov nevestata.",
+       "en": "there I found the bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' си најдов невестата,",
+       "lat": "Tam' si najdov nevestata,",
+       "en": "There I found the bride,"
+      },
+      {
+       "cyr": "со главата под бочвата.",
+       "lat": "so glavata pod bočvata.",
+       "en": "with her head under the barrel."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со главата под бочвата,",
+       "lat": "So glavata pod bočvata,",
+       "en": "With her head under the barrel,"
+      },
+      {
+       "cyr": "а устето под чепчето.",
+       "lat": "a usteto pod čepčeto.",
+       "en": "and her mouth under the spigot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ќе капне на земјата,",
+       "lat": "Što ḱe kapne na zemjata,",
+       "en": "What drips onto the ground,"
+      },
+      {
+       "cyr": "нека капне во устата.",
+       "lat": "neka kapne vo ustata.",
+       "en": "let it drip into her mouth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

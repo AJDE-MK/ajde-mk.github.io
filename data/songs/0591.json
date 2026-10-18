@@ -1,0 +1,167 @@
+{
+ "id": 591,
+ "slug": "bilbil-pee-vo-planina",
+ "title_cyr": "Билбил пее во планина",
+ "title_latin": "Bilbil pee vo planina",
+ "title_en": "A nightingale sings in the mountain",
+ "pesna_url": "https://pesna.org/song/591",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Грозда Стоева",
+  "Грозда Стојановска",
+  "Девана Ѓорѓиевска",
+  "Елена Петрушевска",
+  "Зарина Првасевда",
+  "Зуица Лазова",
+  "Јованка Житарова",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1331"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1332"
+  },
+  {
+   "who": "Елена Петрушевска",
+   "url": "https://pesna.org/audio-download/1385"
+  },
+  {
+   "who": "Девана Ѓорѓиевска",
+   "url": "https://pesna.org/audio-download/1386"
+  },
+  {
+   "who": "Јованка Житарова",
+   "url": "https://pesna.org/audio-download/1387"
+  },
+  {
+   "who": "Грозда Стоева",
+   "url": "https://pesna.org/audio-download/1422"
+  },
+  {
+   "who": "Грозда Стојановска",
+   "url": "https://pesna.org/audio-download/2599"
+  },
+  {
+   "who": "Зуица Лазова",
+   "url": "https://pesna.org/audio-download/2600"
+  },
+  {
+   "who": "Зарина Првасевда",
+   "url": "https://pesna.org/audio-download/3456"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Билбил пее во планина,",
+       "lat": "Bilbil pee vo planina,",
+       "en": "A nightingale sings in the mountain,"
+      },
+      {
+       "cyr": "моме седи во градина.",
+       "lat": "mome sedi vo gradina.",
+       "en": "a girl sits in a garden."
+      },
+      {
+       "cyr": "Билбил моме наговара:",
+       "lat": "Bilbil mome nagovara:",
+       "en": "The nightingale says to the girl:"
+      },
+      {
+       "cyr": "- Ајде моме да пееме.",
+       "lat": "- Ajde mome da peeme.",
+       "en": "- Let us sing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако мене ти натпееш",
+       "lat": "Ako mene ti natpeeš",
+       "en": "If you sing better than me,"
+      },
+      {
+       "cyr": "ќе ти дадам планината.",
+       "lat": "ḱe ti dadam planinata.",
+       "en": "I'll give you the mountain."
+      },
+      {
+       "cyr": "Ќе ти дадам планината,",
+       "lat": "Ḱe ti dadam planinata,",
+       "en": "I'll give you the mountain,"
+      },
+      {
+       "cyr": "со сè гранки, со сè буки.",
+       "lat": "so sè granki, so sè buki.",
+       "en": "including the branches, including the beeches."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако тебе јас натпеам",
+       "lat": "Ako tebe jas natpeam",
+       "en": "If I sing better than you,"
+      },
+      {
+       "cyr": "ќе ти земам градината.",
+       "lat": "ḱe ti zemam gradinata.",
+       "en": "I'll take the garden."
+      },
+      {
+       "cyr": "Ќе ти земам градината,",
+       "lat": "Ḱe ti zemam gradinata,",
+       "en": "I'll take the garden,"
+      },
+      {
+       "cyr": "со сè цвеќе, со сè тебе.",
+       "lat": "so sè cveḱe, so sè tebe.",
+       "en": "including the flowers, including you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Билбил моме натпеало,",
+       "lat": "Bilbil mome natpealo,",
+       "en": "The nightingale sang better than the girl,"
+      },
+      {
+       "cyr": "му ја зеде градината.",
+       "lat": "mu ja zede gradinata.",
+       "en": "he has taken the garden."
+      },
+      {
+       "cyr": "Му ја зеде градината,",
+       "lat": "Mu ja zede gradinata,",
+       "en": "He has taken the garden,"
+      },
+      {
+       "cyr": "со сè цвеќе, со сè моме.",
+       "lat": "so sè cveḱe, so sè mome.",
+       "en": "including the flowers, including the girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

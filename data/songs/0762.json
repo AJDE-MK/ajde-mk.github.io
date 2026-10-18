@@ -1,0 +1,128 @@
+{
+ "id": 762,
+ "slug": "otidov-v-selo-dolneni",
+ "title_cyr": "Отидов в село Долнени",
+ "title_latin": "Otidov v selo Dolneni",
+ "title_en": "I went to the village of Dolneni",
+ "pesna_url": "https://pesna.org/song/762",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/1302"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Отидов в село Долнени, де,",
+       "lat": "Otidov v selo Dolneni, de,",
+       "en": "I went to the village of Dolneni"
+      },
+      {
+       "cyr": "там најдов сено косено, де,",
+       "lat": "tam najdov seno koseno, de,",
+       "en": "there I found some mowed hay,"
+      },
+      {
+       "cyr": "там најдов сено косено, де,",
+       "lat": "tam najdov seno koseno, de,",
+       "en": "there I found some mowed hay,"
+      },
+      {
+       "cyr": "и на сено велам, говорам, де.",
+       "lat": "i na seno velam, govoram, de.",
+       "en": "and I say to the hay."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сено велам, говорам, де,",
+       "lat": "Na seno velam, govoram, de,",
+       "en": "And I say to the hay:"
+      },
+      {
+       "cyr": "вени се сено косено, де,",
+       "lat": "veni se seno koseno, de,",
+       "en": "- You should dry, mowed hay,"
+      },
+      {
+       "cyr": "вени се сено косено, де,",
+       "lat": "veni se seno koseno, de,",
+       "en": "you should dry, mowed hay,"
+      },
+      {
+       "cyr": "како што се вене млад јунак, де.",
+       "lat": "kako što se vene mlad junak, de.",
+       "en": "like a young hero dries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како што се вене млад јунак, де,",
+       "lat": "Kako što se vene mlad junak, de,",
+       "en": "Like a young hero dries"
+      },
+      {
+       "cyr": "за девојче селанче, де,",
+       "lat": "za devojče selanče, de,",
+       "en": "for a girl from the village,"
+      },
+      {
+       "cyr": "за девојче селанче, де,",
+       "lat": "za devojče selanče, de,",
+       "en": "for a girl from the village,"
+      },
+      {
+       "cyr": "со везено коланче, де.",
+       "lat": "so vezeno kolanče, de.",
+       "en": "with an embroidered belt."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море, што ќе биде селанче, де,",
+       "lat": "More, što ḱe bide selanče, de,",
+       "en": "She should not be a girl from the village,"
+      },
+      {
+       "cyr": "нека биде граѓанче, де,",
+       "lat": "neka bide graǵanče, de,",
+       "en": "she should be a girl from the city,"
+      },
+      {
+       "cyr": "нека биде граѓанче, де,",
+       "lat": "neka bide graǵanče, de,",
+       "en": "she should be a girl from the city"
+      },
+      {
+       "cyr": "со шарено фустанче, де.",
+       "lat": "so šareno fustanče, de.",
+       "en": "with a colorful dress."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

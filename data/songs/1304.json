@@ -1,0 +1,243 @@
+{
+ "id": 1304,
+ "slug": "taga-za-roden-kraj",
+ "title_cyr": "Тага за роден крај",
+ "title_latin": "Taga za roden kraj",
+ "title_en": "Longing for the Homeland",
+ "pesna_url": "https://pesna.org/song/1304",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Emigrant song about Ohrid and Struga; origin unclear. 'Неможам' is written as one word (should be 'не можам').",
+ "words_to_learn": [
+  {
+   "mk": "крилја",
+   "en": "wings"
+  },
+  {
+   "mk": "летнам",
+   "en": "(that) I fly"
+  },
+  {
+   "mk": "стигнам",
+   "en": "(that) I arrive"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native land"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "зазори",
+   "en": "dawns"
+  },
+  {
+   "mk": "езеро",
+   "en": "lake"
+  },
+  {
+   "mk": "мразеви",
+   "en": "frosts"
+  },
+  {
+   "mk": "тлее",
+   "en": "smoulders"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3306"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Орлови крилја да имам,",
+       "lat": "Orlovi krilja da imam,",
+       "en": "If only I had eagle's wings,"
+      },
+      {
+       "cyr": "до наши места да летнам,",
+       "lat": "do naši mesta da letnam,",
+       "en": "to fly to our places,"
+      },
+      {
+       "cyr": "до роден крај мој да стигнам,",
+       "lat": "do roden kraj moj da stignam,",
+       "en": "to reach my native land,"
+      },
+      {
+       "cyr": "Охрид и Струга да видам.",
+       "lat": "Ohrid i Struga da vidam.",
+       "en": "to see Ohrid and Struga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дајте ми крила браќа да летнам,",
+       "lat": "Dajte mi krila braḱa da letnam,",
+       "en": "Give me wings, brothers, to fly,"
+      },
+      {
+       "cyr": "до моја земја да стигнам,",
+       "lat": "do moja zemja da stignam,",
+       "en": "to reach my land,"
+      },
+      {
+       "cyr": "песни и свирки да чујам,",
+       "lat": "pesni i svirki da čujam,",
+       "en": "to hear songs and music,"
+      },
+      {
+       "cyr": "и тамо браќа да умрам,",
+       "lat": "i tamo braḱa da umram,",
+       "en": "and there, brothers, to die,"
+      },
+      {
+       "cyr": "песни и свирки да чујам,",
+       "lat": "pesni i svirki da čujam,",
+       "en": "to hear songs and music,"
+      },
+      {
+       "cyr": "и тамо браќа да умрам.",
+       "lat": "i tamo braḱa da umram.",
+       "en": "and there, brothers, to die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму зора да ме зазори,",
+       "lat": "Tamu zora da me zazori,",
+       "en": "There may the dawn break over me,"
+      },
+      {
+       "cyr": "таму сонце да ме огрее,",
+       "lat": "tamu sonce da me ogree,",
+       "en": "there may the sun warm me,"
+      },
+      {
+       "cyr": "езеро наше да видам,",
+       "lat": "ezero naše da vidam,",
+       "en": "to see our lake,"
+      },
+      {
+       "cyr": "во Струга моја да стигнам.",
+       "lat": "vo Struga moja da stignam.",
+       "en": "to reach my Struga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дајте ми крила браќа да летнам,",
+       "lat": "Dajte mi krila braḱa da letnam,",
+       "en": "Give me wings, brothers, to fly,"
+      },
+      {
+       "cyr": "до моја земја да стигнам,",
+       "lat": "do moja zemja da stignam,",
+       "en": "to reach my land,"
+      },
+      {
+       "cyr": "песни и свирки да чујам,",
+       "lat": "pesni i svirki da čujam,",
+       "en": "to hear songs and music,"
+      },
+      {
+       "cyr": "и тамо браќа да умрам,",
+       "lat": "i tamo braḱa da umram,",
+       "en": "and there, brothers, to die,"
+      },
+      {
+       "cyr": "песни и свирки да чујам,",
+       "lat": "pesni i svirki da čujam,",
+       "en": "to hear songs and music,"
+      },
+      {
+       "cyr": "и тамо браќа да умрам.",
+       "lat": "i tamo braḱa da umram.",
+       "en": "and there, brothers, to die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Неможам овде да гледам,",
+       "lat": "Nemožam ovde da gledam,",
+       "en": "I cannot look at this place,"
+      },
+      {
+       "cyr": "студени зими, мразеви,",
+       "lat": "studeni zimi, mrazevi,",
+       "en": "the cold winters, the frosts,"
+      },
+      {
+       "cyr": "овде ме сонце не грее,",
+       "lat": "ovde me sonce ne gree,",
+       "en": "here the sun does not warm me,"
+      },
+      {
+       "cyr": "за Струга душа ми тлее.",
+       "lat": "za Struga duša mi tlee.",
+       "en": "my soul smoulders for Struga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дајте ми крила браќа да летнам,",
+       "lat": "Dajte mi krila braḱa da letnam,",
+       "en": "Give me wings, brothers, to fly,"
+      },
+      {
+       "cyr": "до моја земја да стигнам,",
+       "lat": "do moja zemja da stignam,",
+       "en": "to reach my land,"
+      },
+      {
+       "cyr": "песни и свирки да чујам,",
+       "lat": "pesni i svirki da čujam,",
+       "en": "to hear songs and music,"
+      },
+      {
+       "cyr": "и тамо браќа да умрам,",
+       "lat": "i tamo braḱa da umram,",
+       "en": "and there, brothers, to die,"
+      },
+      {
+       "cyr": "песни и свирки да чујам,",
+       "lat": "pesni i svirki da čujam,",
+       "en": "to hear songs and music,"
+      },
+      {
+       "cyr": "и тамо браќа да умрам.",
+       "lat": "i tamo braḱa da umram.",
+       "en": "and there, brothers, to die."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

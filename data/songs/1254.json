@@ -1,0 +1,179 @@
+{
+ "id": 1254,
+ "slug": "karanfilke-mome",
+ "title_cyr": "Каранфилке моме",
+ "title_latin": "Karanfilke mome",
+ "title_en": "Carnation Girl",
+ "pesna_url": "https://pesna.org/song/1254",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Пишам' could mean paint or write, and 'бегај, Каранфиле' as the girl's name or a nickname is my reading; the last stanza's speaker is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "каранфил",
+   "en": "carnation"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flower"
+  },
+  {
+   "mk": "шарено",
+   "en": "colourful"
+  },
+  {
+   "mk": "пишам",
+   "en": "I paint/draw (or write)"
+  },
+  {
+   "mk": "лудо",
+   "en": "foolish one (affectionate)"
+  },
+  {
+   "mk": "јабанџија",
+   "en": "stranger, outsider"
+  },
+  {
+   "mk": "бекрија",
+   "en": "carefree drinker/rake (my reading)"
+  },
+  {
+   "mk": "беќарче",
+   "en": "young bachelor"
+  },
+  {
+   "mk": "ајде",
+   "en": "come on"
+  }
+ ],
+ "performers": [
+  "Добри Ставревски"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/3167"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Каранфилке, филке моме,",
+       "lat": "- Karanfilke, filke mome,",
+       "en": "- Carnation, carnation girl,"
+      },
+      {
+       "cyr": "убаво цвеќе шарено,",
+       "lat": "ubavo cveḱe šareno,",
+       "en": "beautiful colourful flower,"
+      },
+      {
+       "cyr": "јас ќе си умрам за тебе,",
+       "lat": "jas ḱe si umram za tebe,",
+       "en": "I will die for you,"
+      },
+      {
+       "cyr": "за тебе, моме убаво.",
+       "lat": "za tebe, mome ubavo.",
+       "en": "for you, beautiful girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе ти го пишам, моме,",
+       "lat": "Jas ḱe ti go pišam, mome,",
+       "en": "I will paint for you, girl,"
+      },
+      {
+       "cyr": "белото ти лице",
+       "lat": "beloto ti lice",
+       "en": "your white face"
+      },
+      {
+       "cyr": "и црните очи,",
+       "lat": "i crnite oči,",
+       "en": "and your black eyes,"
+      },
+      {
+       "cyr": "белото ти лице",
+       "lat": "beloto ti lice",
+       "en": "your white face"
+      },
+      {
+       "cyr": "и црните очи.",
+       "lat": "i crnite oči.",
+       "en": "and your black eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пишувај, не пиши, лудо,",
+       "lat": "- Pišuvaj, ne piši, ludo,",
+       "en": "- Paint, or do not paint, foolish one,"
+      },
+      {
+       "cyr": "мене ме мама, лудо,",
+       "lat": "mene me mama, ludo,",
+       "en": "my mother, fool,"
+      },
+      {
+       "cyr": "на јабанџивче не дава,",
+       "lat": "na jabandživče ne dava,",
+       "en": "does not give me to a stranger,"
+      },
+      {
+       "cyr": "мене ме мама не дава,",
+       "lat": "mene me mama ne dava,",
+       "en": "my mother does not give me,"
+      },
+      {
+       "cyr": "на јабанџивче не дава.",
+       "lat": "na jabandživče ne dava.",
+       "en": "does not give me to a stranger."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде бегај, Каранфиле,",
+       "lat": "- Ajde begaj, Karanfile,",
+       "en": "- Come on, run away, Karanfil,"
+      },
+      {
+       "cyr": "по мене, ле, јабанџивче,",
+       "lat": "po mene, le, jabandživče,",
+       "en": "after me, oh, stranger,"
+      },
+      {
+       "cyr": "по мене младо бекривче,",
+       "lat": "po mene mlado bekrivče,",
+       "en": "after me, young carefree lad,"
+      },
+      {
+       "cyr": "бекривче, младо беќарче.",
+       "lat": "bekrivče, mlado beḱarče.",
+       "en": "carefree lad, young bachelor."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

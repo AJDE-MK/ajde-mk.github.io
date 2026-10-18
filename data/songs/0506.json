@@ -1,0 +1,182 @@
+{
+ "id": 506,
+ "slug": "vatasha",
+ "title_cyr": "Ваташа",
+ "title_latin": "Vataša",
+ "title_en": "Vataša",
+ "pesna_url": "https://pesna.org/song/506",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: reads as a 20th-century anti-fascist song but I cannot name an author. 'носат роса' (line 3) is my reading as 'carried, dewy'; 'Мокришко' is presumably a place name.",
+ "words_to_learn": [
+  {
+   "mk": "заплакало",
+   "en": "began to weep"
+  },
+  {
+   "mk": "младинци",
+   "en": "young men"
+  },
+  {
+   "mk": "долови",
+   "en": "valleys"
+  },
+  {
+   "mk": "крвници",
+   "en": "bloodthirsty killers"
+  },
+  {
+   "mk": "џелати",
+   "en": "executioners"
+  },
+  {
+   "mk": "митралез",
+   "en": "machine gun"
+  },
+  {
+   "mk": "поган",
+   "en": "filthy, vile"
+  },
+  {
+   "mk": "семе",
+   "en": "seed, offspring"
+  }
+ ],
+ "performers": [
+  "Андријана Јаневска",
+  "Зоран Џорлев",
+  "Игор Џамбазов",
+  "Катерина Ѓорѓиева",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/81"
+  },
+  {
+   "who": "Зоран Џорлев, Катерина Ѓорѓиева",
+   "url": "https://pesna.org/audio-download/1596"
+  },
+  {
+   "who": "Андријана Јаневска, Игор Џамбазов",
+   "url": "https://pesna.org/audio-download/3909"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ми заплакало селото Ваташа)",
+       "lat": "(Mi zaplakalo seloto Vataša)",
+       "en": "(The village of Vataša began to weep)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми заплакало селото, селото Ваташа,",
+       "lat": "Mi zaplakalo seloto, seloto Vataša,",
+       "en": "The village began to weep, the village of Vataša,"
+      },
+      {
+       "cyr": "ми заплакало селото, селото Ваташа,",
+       "lat": "mi zaplakalo seloto, seloto Vataša,",
+       "en": "the village began to weep, the village of Vataša,"
+      },
+      {
+       "cyr": "тринаесет роса младинци носат",
+       "lat": "trinaeset rosa mladinci nosat",
+       "en": "thirteen young men are carried, dewy,"
+      },
+      {
+       "cyr": "Мокришко горе, в долови.",
+       "lat": "Mokriško gore, v dolovi.",
+       "en": "through the Mokrishko woods, into the valleys."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Целото село станало, станало на нога,",
+       "lat": "Celoto selo stanalo, stanalo na noga,",
+       "en": "The whole village stood up, stood on its feet,"
+      },
+      {
+       "cyr": "целото село станало, станало на нога:",
+       "lat": "celoto selo stanalo, stanalo na noga:",
+       "en": "the whole village stood up, stood on its feet:"
+      },
+      {
+       "cyr": "- Дајте ги ваму нашите деца,",
+       "lat": "- Dajte gi vamu našite deca,",
+       "en": "- Give our children here to us,"
+      },
+      {
+       "cyr": "еј, вие клети крвници!",
+       "lat": "ej, vie kleti krvnici!",
+       "en": "hey, you cursed bloodthirsty ones!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Џелати клети не слушаат, не слушаат народот,",
+       "lat": "Dželati kleti ne slušaat, ne slušaat narodot,",
+       "en": "The cursed executioners do not listen, do not listen to the people,"
+      },
+      {
+       "cyr": "џелати клети не слушаат, не слушаат народот,",
+       "lat": "dželati kleti ne slušaat, ne slušaat narodot,",
+       "en": "the cursed executioners do not listen, do not listen to the people,"
+      },
+      {
+       "cyr": "митралез поган фрлија оган",
+       "lat": "mitralez pogan frlija ogan",
+       "en": "the filthy machine gun spat fire"
+      },
+      {
+       "cyr": "в' градите машки младински.",
+       "lat": "v' gradite maški mladinski.",
+       "en": "into the young men's chests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај се народ подигна, подигна илјадно,",
+       "lat": "Togaj se narod podigna, podigna iljadno,",
+       "en": "Then the people rose up, rose up in their thousands,"
+      },
+      {
+       "cyr": "тогај се народ подигна, подигна илјадно,",
+       "lat": "togaj se narod podigna, podigna iljadno,",
+       "en": "then the people rose up, rose up in their thousands,"
+      },
+      {
+       "cyr": "и тргна смело да запре семе",
+       "lat": "i trgna smelo da zapre seme",
+       "en": "and boldly set out to stop the cursed fascist"
+      },
+      {
+       "cyr": "фашисто-клето за навек.",
+       "lat": "fašisto-kleto za navek.",
+       "en": "seed for ever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,177 @@
+{
+ "id": 1008,
+ "slug": "tamu-dolu-bitola",
+ "title_cyr": "Таму долу Битола",
+ "title_latin": "Tamu dolu Bitola",
+ "title_en": "Down There in Bitola",
+ "pesna_url": "https://pesna.org/song/1008",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Folk-style ballad; origin unclear, I cannot name an author. The second stanza's 'ете ти го сега него' is my reading as 'here is him now, in my place'. It is the dead daughter who speaks in the second stanza.",
+ "words_to_learn": [
+  {
+   "mk": "Драгор",
+   "en": "the Dragor river in Bitola"
+  },
+  {
+   "mk": "пиленце",
+   "en": "little chick (endearment)"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "дарови",
+   "en": "gifts"
+  },
+  {
+   "mk": "венчило",
+   "en": "wedding"
+  },
+  {
+   "mk": "омажи",
+   "en": "married off (a daughter)"
+  },
+  {
+   "mk": "ноженце",
+   "en": "little knife"
+  },
+  {
+   "mk": "Пелистер",
+   "en": "Pelister mountain"
+  },
+  {
+   "mk": "дробни солзи",
+   "en": "small, fine tears"
+  }
+ ],
+ "performers": [
+  "Ванчо Дојранлиев",
+  "Васка Илиева",
+  "Зорица Стојанова",
+  "Јорданка Смилевска",
+  "Костадин Гугов",
+  "Непознат изведувач",
+  "Петранка Костадинова",
+  "Сузана Гавазова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2340"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3085"
+  },
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/3086"
+  },
+  {
+   "who": "Зорица Стојанова, Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/3087"
+  },
+  {
+   "who": "Ванчо Дојранлиев",
+   "url": "https://pesna.org/audio-download/3113"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4102"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/4142"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Таму долу Битола, кај што Драгор тече,",
+       "lat": "Tamu dolu Bitola, kaj što Dragor teče,",
+       "en": "Down there in Bitola, where the Dragor flows,"
+      },
+      {
+       "cyr": "мајка жали и плаче, од утро до вечер.",
+       "lat": "majka žali i plače, od utro do večer.",
+       "en": "a mother grieves and weeps from morning till evening."
+      },
+      {
+       "cyr": "- Дигни ми се пиленце, стани чедо мило,",
+       "lat": "- Digni mi se pilence, stani čedo milo,",
+       "en": "- Rise up for me, little chick, get up, dear child,"
+      },
+      {
+       "cyr": "дарови ми те чекаат и прво венчило.",
+       "lat": "darovi mi te čekaat i prvo venčilo.",
+       "en": "gifts are waiting for you and the first wedding crown."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ти ме мајко омажи, мене не ме праша,",
+       "lat": "- Ti me majko omaži, mene ne me praša,",
+       "en": "- You married me off, mother, you did not ask me,"
+      },
+      {
+       "cyr": "ете ти го, сакај го него место мене.",
+       "lat": "ete ti go, sakaj go nego mesto mene.",
+       "en": "here, love him instead of me."
+      },
+      {
+       "cyr": "Јас не сум го сакала, па сум се убила,",
+       "lat": "Jas ne sum go sakala, pa sum se ubila,",
+       "en": "I did not love him, so I killed myself,"
+      },
+      {
+       "cyr": "ништо мајко на светот не бива со сила.",
+       "lat": "ništo majko na svetot ne biva so sila.",
+       "en": "nothing in the world, mother, is done by force."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ме мајко омажи, мене не ме праша,",
+       "lat": "Ti me majko omaži, mene ne me praša,",
+       "en": "You married me off, mother, you did not ask me,"
+      },
+      {
+       "cyr": "ете ти го сега него место мене.",
+       "lat": "ete ti go sega nego mesto mene.",
+       "en": "here is him now instead of me."
+      },
+      {
+       "cyr": "Мајка зеде ноженце, во срце го забоде,",
+       "lat": "Majka zede nožence, vo srce go zabode,",
+       "en": "The mother took a little knife, plunged it into her heart,"
+      },
+      {
+       "cyr": "Пелистер се расплака, дробни солзи пролеја,",
+       "lat": "Pelister se rasplaka, drobni solzi proleja,",
+       "en": "Pelister wept, shed small tears,"
+      },
+      {
+       "cyr": "Битола се расплака, дробни солзи пролеа.",
+       "lat": "Bitola se rasplaka, drobni solzi prolea.",
+       "en": "Bitola wept, shed small tears."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

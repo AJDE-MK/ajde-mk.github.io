@@ -1,0 +1,240 @@
+{
+ "id": 466,
+ "slug": "ej-sevdalino-ej-maloj-mome",
+ "title_cyr": "Еј севдалино, еј малој моме",
+ "title_latin": "Ej sevdalino, ej maloj mome",
+ "title_en": "Hey, My Love, Hey Tavern-Keeper",
+ "pesna_url": "https://pesna.org/song/466",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Line 'со тебе да се ќердосам' is my reading (ќердосам = enjoy myself); the stanza 3 line 'со мерак сакам, со тебе душо' is also loosely rendered.",
+ "words_to_learn": [
+  {
+   "mk": "севда / севдалино",
+   "en": "love, passionate longing (from Turkish); darling"
+  },
+  {
+   "mk": "меанџика",
+   "en": "tavern-keeper (меана = tavern)"
+  },
+  {
+   "mk": "ракија",
+   "en": "fruit brandy"
+  },
+  {
+   "mk": "мерак",
+   "en": "pleasure, zest, longing"
+  },
+  {
+   "mk": "снага",
+   "en": "figure, build of the body"
+  },
+  {
+   "mk": "елај",
+   "en": "come here (dialect)"
+  },
+  {
+   "mk": "приседи",
+   "en": "sit down for a while"
+  },
+  {
+   "mk": "милувам",
+   "en": "to caress"
+  },
+  {
+   "mk": "нејќеш",
+   "en": "you do not want (dialect)"
+  },
+  {
+   "mk": "ќердосам",
+   "en": "to enjoy oneself, have a good time (from Turkish)"
+  }
+ ],
+ "performers": [
+  "Маестрал"
+ ],
+ "audio": [
+  {
+   "who": "Маестрал",
+   "url": "https://pesna.org/audio-download/3046"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј севдалино, еј меанџике,",
+       "lat": "Ej sevdalino, ej meandžike,",
+       "en": "Hey, my love, hey tavern-keeper,"
+      },
+      {
+       "cyr": "отвори ладна меана,",
+       "lat": "otvori ladna meana,",
+       "en": "open the cold tavern,"
+      },
+      {
+       "cyr": "ти да ме служиш,",
+       "lat": "ti da me služiš,",
+       "en": "you to serve me,"
+      },
+      {
+       "cyr": "ти да ме служиш,",
+       "lat": "ti da me služiš,",
+       "en": "you to serve me,"
+      },
+      {
+       "cyr": "бела љута ракија.",
+       "lat": "bela ljuta rakija.",
+       "en": "white, strong rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдо ле, оган душата ми гори,",
+       "lat": "Sevdo le, ogan dušata mi gori,",
+       "en": "Oh love, fire burns my soul"
+      },
+      {
+       "cyr": "по твојта снага убава.",
+       "lat": "po tvojta snaga ubava.",
+       "en": "for your beautiful figure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј севдалино, еј меанџике,",
+       "lat": "Ej sevdalino, ej meandžike,",
+       "en": "Hey, my love, hey tavern-keeper,"
+      },
+      {
+       "cyr": "елај до мене приседи,",
+       "lat": "elaj do mene prisedi,",
+       "en": "come sit down beside me,"
+      },
+      {
+       "cyr": "ај ко да пијам,",
+       "lat": "aj ko da pijam,",
+       "en": "come, so I can drink,"
+      },
+      {
+       "cyr": "ај ко да пијам,",
+       "lat": "aj ko da pijam,",
+       "en": "come, so I can drink,"
+      },
+      {
+       "cyr": "сакам да те милувам.",
+       "lat": "sakam da te miluvam.",
+       "en": "I want to caress you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдо ле, оган душата ми гори,",
+       "lat": "Sevdo le, ogan dušata mi gori,",
+       "en": "Oh love, fire burns my soul"
+      },
+      {
+       "cyr": "по твојта снага убава.",
+       "lat": "po tvojta snaga ubava.",
+       "en": "for your beautiful figure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј севдалино, еј меанџике,",
+       "lat": "Ej sevdalino, ej meandžike,",
+       "en": "Hey, my love, hey tavern-keeper,"
+      },
+      {
+       "cyr": "дали ќе дојдеш со мене,",
+       "lat": "dali ḱe dojdeš so mene,",
+       "en": "will you come with me,"
+      },
+      {
+       "cyr": "со мерак сакам, со тебе душо,",
+       "lat": "so merak sakam, so tebe dušo,",
+       "en": "I want it gladly, with you, my soul,"
+      },
+      {
+       "cyr": "со тебе да се ќердосам.",
+       "lat": "so tebe da se ḱerdosam.",
+       "en": "to enjoy myself with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдо ле, оган душата ми гори,",
+       "lat": "Sevdo le, ogan dušata mi gori,",
+       "en": "Oh love, fire burns my soul"
+      },
+      {
+       "cyr": "по твојта снага убава.",
+       "lat": "po tvojta snaga ubava.",
+       "en": "for your beautiful figure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј севдалино, еј меанџике,",
+       "lat": "Ej sevdalino, ej meandžike,",
+       "en": "Hey, my love, hey tavern-keeper,"
+      },
+      {
+       "cyr": "дали ме сакаш кажи ми,",
+       "lat": "dali me sakaš kaži mi,",
+       "en": "tell me if you love me,"
+      },
+      {
+       "cyr": "ако ме нејќеш,",
+       "lat": "ako me nejḱeš,",
+       "en": "if you don't want me,"
+      },
+      {
+       "cyr": "ако ме нејќеш,",
+       "lat": "ako me nejḱeš,",
+       "en": "if you don't want me,"
+      },
+      {
+       "cyr": "дај ми уште ракија.",
+       "lat": "daj mi ušte rakija.",
+       "en": "give me more rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Севдо ле, оган душата ми гори,",
+       "lat": "Sevdo le, ogan dušata mi gori,",
+       "en": "Oh love, fire burns my soul"
+      },
+      {
+       "cyr": "по твојта снага убава.",
+       "lat": "po tvojta snaga ubava.",
+       "en": "for your beautiful figure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

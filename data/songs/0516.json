@@ -1,0 +1,236 @@
+{
+ "id": 516,
+ "slug": "se-navali-shar-planina",
+ "title_cyr": "Се навали Шар Планина",
+ "title_latin": "Se navali Šar Planina",
+ "title_en": "Shar Mountain inclined",
+ "pesna_url": "https://pesna.org/song/516",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Виданка Георгиева",
+  "Марас",
+  "Петранка Костадинова",
+  "Стефче Стојковски",
+  "Танец",
+  "Трио Мајовци"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/187"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/188"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/189"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/191"
+  },
+  {
+   "who": "Марас",
+   "url": "https://pesna.org/audio-download/192"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/726"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/727"
+  },
+  {
+   "who": "Трио Мајовци",
+   "url": "https://pesna.org/audio-download/4052"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/4053"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Распукала Шар Планина)",
+       "lat": "(Raspukala Šar Planina)",
+       "en": "(Shar Mountain cracked open)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се навали, се навали Шар Планина, ајде",
+       "lat": "Se navali, se navali Šar Planina, ajde",
+       "en": "Shar Mountain inclined, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "се навали, се навали, Шар Планина.",
+       "lat": "se navali, se navali, Šar Planina.",
+       "en": "Shar Mountain inclined.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми потисна, ми потфати три овчари, ајде",
+       "lat": "Mi potisna, mi potfati tri ovčari, ajde",
+       "en": "She pressed, she caught three shepherds",
+       "en_mt": false
+      },
+      {
+       "cyr": "три овчара, три овчара, три чобана.",
+       "lat": "tri ovčara, tri ovčara, tri čobana.",
+       "en": "three shepherds, three shepherds.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први овчар, први овчар ѝ се моли, ајде",
+       "lat": "Prvi ovčar, prvi ovčar ì se moli, ajde",
+       "en": "The first shepherd, the first shepherd prays,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пушти мене, ај пушти ме, Шар Планино.",
+       "lat": "pušti mene, aj pušti me, Šar Planino.",
+       "en": "please let me go, let me go Shar Mountain.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам жена, имам жена што ме жали, ајде",
+       "lat": "Imam žena, imam žena što me žali, ajde",
+       "en": "I have wife, I have a wife, she'll mourn me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "имам жена, имам жена, ќе ме жали.",
+       "lat": "imam žena, imam žena, ḱe me žali.",
+       "en": "my wife will mourn me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втори овчар, втори овчар ѝ се моли, ајде",
+       "lat": "Vtori ovčar, vtori ovčar ì se moli, ajde",
+       "en": "The second shepherd, the second shepherd prays,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пушти мене, пушти мене, Шар Планино.",
+       "lat": "pušti mene, pušti mene, Šar Planino.",
+       "en": "please let me go, let me go Shar Mountain.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам сестра, имам сестра, ќе ме жали, ајде",
+       "lat": "Imam sestra, imam sestra, ḱe me žali, ajde",
+       "en": "I have sister, I have a sister, she'll mourn me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "имам сестра, имам сестра, ќе ме жали.",
+       "lat": "imam sestra, imam sestra, ḱe me žali.",
+       "en": "my sister will mourn me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трети овчар, трети овчар ѝ се моли, ајде",
+       "lat": "Treti ovčar, treti ovčar ì se moli, ajde",
+       "en": "The third shepherd, the third shepherd prays,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пушти мене, пушти мене, Шар Планино.",
+       "lat": "pušti mene, pušti mene, Šar Planino.",
+       "en": "please let me go, let me go Shar Mountain.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам мајка, имам мајка, ќе ме жали, ајде",
+       "lat": "Imam majka, imam majka, ḱe me žali, ajde",
+       "en": "I have mother, I have a mother, she'll mourn me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "имам мајка, ќе ме жали.",
+       "lat": "imam majka, ḱe me žali.",
+       "en": "my mother will mourn me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жена жали, жена жали шест недели, ајде",
+       "lat": "Žena žali, žena žali šest nedeli, ajde",
+       "en": "A wife mourns, a wife mourns six weeks,",
+       "en_mt": false
+      },
+      {
+       "cyr": "сестра жали, сестра жали до година,",
+       "lat": "sestra žali, sestra žali do godina,",
+       "en": "a sister mourns, a sister mourns up to one year.",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка жали, мајка жали дур' довека, ајде",
+       "lat": "majka žali, majka žali dur' doveka, ajde",
+       "en": "A mother mourns, a mother mourns 'till the end of time,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мајка жали, мајка жали дури до гроба.",
+       "lat": "majka žali, majka žali duri do groba.",
+       "en": "A mother mourns, a mother mourns until she dies.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

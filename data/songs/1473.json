@@ -1,0 +1,193 @@
+{
+ "id": 1473,
+ "slug": "zableala-kalesh-ovca",
+ "title_cyr": "Заблеала калеш овца",
+ "title_latin": "Zableala kaleš ovca",
+ "title_en": "The Gentle Ewe Began to Bleat",
+ "pesna_url": "https://pesna.org/song/1473",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional St George's Day song (lambs are slaughtered for the feast). 'Калеш' is a guess of mine: I read it as 'tame/gentle', but the exact meaning is uncertain. Last line 'сè моето јагне колат' is my reading: they keep slaughtering my lamb.",
+ "words_to_learn": [
+  {
+   "mk": "заблеала",
+   "en": "began to bleat"
+  },
+  {
+   "mk": "калеш",
+   "en": "tame, gentle (my reading; possibly 'invited/special')"
+  },
+  {
+   "mk": "овца",
+   "en": "ewe, sheep"
+  },
+  {
+   "mk": "дење ноќе",
+   "en": "day and night"
+  },
+  {
+   "mk": "Ѓурѓовден",
+   "en": "St George's Day (6 May)"
+  },
+  {
+   "mk": "се досишта",
+   "en": "thought of, realised (dialect of се досети)"
+  },
+  {
+   "mk": "досети се",
+   "en": "guessed, thought of it"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  },
+  {
+   "mk": "колат",
+   "en": "they slaughter"
+  },
+  {
+   "mk": "ле",
+   "en": "filler interjection (oh)"
+  }
+ ],
+ "performers": [
+  "Александра Поповска"
+ ],
+ "audio": [
+  {
+   "who": "Александра Поповска",
+   "url": "https://pesna.org/audio-download/3812"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заблеала калеш овца, ле",
+       "lat": "Zableala kaleš ovca, le",
+       "en": "The tame ewe began to bleat, oh"
+      },
+      {
+       "cyr": "заблејала калеш овца.",
+       "lat": "zablejala kaleš ovca.",
+       "en": "the tame ewe began to bleat."
+      },
+      {
+       "cyr": "Блее, блее, дење ноќе,",
+       "lat": "Blee, blee, denje noḱe,",
+       "en": "She bleats, she bleats, day and night,"
+      },
+      {
+       "cyr": "дење ноќе на Ѓурѓовден.",
+       "lat": "denje noḱe na Ǵurǵovden.",
+       "en": "day and night on St George's Day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Никој ми се не досишта, ле",
+       "lat": "Nikoj mi se ne dosišta, le",
+       "en": "No one thought of it, oh"
+      },
+      {
+       "cyr": "никој ми се не досишта",
+       "lat": "nikoj mi se ne dosišta",
+       "en": "no one thought of it"
+      },
+      {
+       "cyr": "да попита калеш овца, ле",
+       "lat": "da popita kaleš ovca, le",
+       "en": "to ask the tame ewe, oh"
+      },
+      {
+       "cyr": "зашто блеје на Ѓурѓовден.",
+       "lat": "zašto bleje na Ǵurǵovden.",
+       "en": "why she bleats on St George's Day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Досети се мома Стојна, ле",
+       "lat": "Doseti se moma Stojna, le",
+       "en": "The girl Stojna thought of it, oh"
+      },
+      {
+       "cyr": "досети се мома Стојна,",
+       "lat": "doseti se moma Stojna,",
+       "en": "the girl Stojna thought of it,"
+      },
+      {
+       "cyr": "та попита калеш овца, ле",
+       "lat": "ta popita kaleš ovca, le",
+       "en": "and asked the tame ewe, oh"
+      },
+      {
+       "cyr": "зашто блее на Ѓурѓовден.",
+       "lat": "zašto blee na Ǵurǵovden.",
+       "en": "why she bleats on St George's Day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ле овцо, калеш овцо, ле",
+       "lat": "- Oj le ovco, kaleš ovco, le",
+       "en": "- Oh ewe, tame ewe, oh"
+      },
+      {
+       "cyr": "ој ле овцо, калеш овцо",
+       "lat": "oj le ovco, kaleš ovco",
+       "en": "oh ewe, tame ewe,"
+      },
+      {
+       "cyr": "зашто плачеш дење ноќе, ле",
+       "lat": "zašto plačeš denje noḱe, le",
+       "en": "why do you cry day and night, oh"
+      },
+      {
+       "cyr": "дење ноќе на Ѓурѓовден?",
+       "lat": "denje noḱe na Ǵurǵovden?",
+       "en": "day and night on St George's Day?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој ле Стојно, моме Стојно, ле,",
+       "lat": "Oj le Stojno, mome Stojno, le,",
+       "en": "Oh Stojna, girl Stojna, oh,"
+      },
+      {
+       "cyr": "ој ле Стојно, моме Стојно,",
+       "lat": "oj le Stojno, mome Stojno,",
+       "en": "oh Stojna, girl Stojna,"
+      },
+      {
+       "cyr": "сега стана три години, ле",
+       "lat": "sega stana tri godini, le",
+       "en": "it has now been three years, oh"
+      },
+      {
+       "cyr": "сè моето јагне колат.",
+       "lat": "sè moeto jagne kolat.",
+       "en": "that they slaughter my lamb every time."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,167 @@
+{
+ "id": 462,
+ "slug": "maloj-mome-cvekje-bralo",
+ "title_cyr": "Малој моме цвеќе брало",
+ "title_latin": "Maloj mome cveḱe bralo",
+ "title_en": "A young girl was picking flowers",
+ "pesna_url": "https://pesna.org/song/462",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Либето ти се посврши' rendered 'your sweetheart has been finished off' (my reading, possibly 'has died or run out'). 'нек' се врши' rendered 'let him be finished' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "малој моме",
+   "en": "young girl (dialect: мала моме)"
+  },
+  {
+   "mk": "цвеќе",
+   "en": "flowers"
+  },
+  {
+   "mk": "брало",
+   "en": "was picking"
+  },
+  {
+   "mk": "заспало",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "оздол'",
+   "en": "from below"
+  },
+  {
+   "mk": "овена",
+   "en": "wilted"
+  },
+  {
+   "mk": "се суши",
+   "en": "dries out"
+  },
+  {
+   "mk": "заљубам",
+   "en": "I will fall in love with"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Љупка Рондова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2086"
+  },
+  {
+   "who": "Љупка Рондова",
+   "url": "https://pesna.org/audio-download/2087"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Малој моме цвеќе брало,",
+       "lat": "Maloj mome cveḱe bralo,",
+       "en": "A young girl was picking flowers,"
+      },
+      {
+       "cyr": "кај што брало, там' заспало.",
+       "lat": "kaj što bralo, tam' zaspalo.",
+       "en": "where she picked, there she fell asleep."
+      },
+      {
+       "cyr": "Кај што брало, брало, там' заспало,",
+       "lat": "Kaj što bralo, bralo, tam' zaspalo,",
+       "en": "Where she picked, picked, there she fell asleep,"
+      },
+      {
+       "cyr": "негде в' гора зелена.",
+       "lat": "negde v' gora zelena.",
+       "en": "somewhere in a green forest."
+      },
+      {
+       "cyr": "Оздол' иде лудо, младо",
+       "lat": "Ozdol' ide ludo, mlado",
+       "en": "From below comes a young fellow"
+      },
+      {
+       "cyr": "и на моме говори:",
+       "lat": "i na mome govori:",
+       "en": "and speaks to the girl:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, стани малој моме,",
+       "lat": "- Stani, stani maloj mome,",
+       "en": "- 'Get up, get up, young girl,"
+      },
+      {
+       "cyr": "стани, стани, стани малој моме,",
+       "lat": "stani, stani, stani maloj mome,",
+       "en": "get up, get up, get up, young girl,"
+      },
+      {
+       "cyr": "цвеќето ти овена.",
+       "lat": "cveḱeto ti ovena.",
+       "en": "your flowers have wilted.'"
+      },
+      {
+       "cyr": "- Нека вене, вене, нек' се суши",
+       "lat": "- Neka vene, vene, nek' se suši",
+       "en": "- 'Let them wilt, wilt, let them dry,"
+      },
+      {
+       "cyr": "друго ќе си наберам.",
+       "lat": "drugo ḱe si naberam.",
+       "en": "I will pick others.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, стани малој моме,",
+       "lat": "- Stani, stani maloj mome,",
+       "en": "- 'Get up, get up, young girl,"
+      },
+      {
+       "cyr": "стани, стани, стани малој моме,",
+       "lat": "stani, stani, stani maloj mome,",
+       "en": "get up, get up, get up, young girl,"
+      },
+      {
+       "cyr": "либето ти се посврши.",
+       "lat": "libeto ti se posvrši.",
+       "en": "your sweetheart has been finished off.'"
+      },
+      {
+       "cyr": "- Нек' се врши, врши, нек' се жени,",
+       "lat": "- Nek' se vrši, vrši, nek' se ženi,",
+       "en": "- 'Let him be finished, finished, let him marry,"
+      },
+      {
+       "cyr": "друго ќе си заљубам.",
+       "lat": "drugo ḱe si zaljubam.",
+       "en": "I will fall in love with another.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

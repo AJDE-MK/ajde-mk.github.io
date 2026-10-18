@@ -1,0 +1,153 @@
+{
+ "id": 73,
+ "slug": "son-sonila-ordanica",
+ "title_cyr": "Сон сонила Орданица",
+ "title_latin": "Son sonila Ordanica",
+ "title_en": "Ordanica had a dream",
+ "pesna_url": "https://pesna.org/song/73",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Злате Антевски",
+  "Петар Нечовски",
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/125"
+  },
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/126"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/127"
+  },
+  {
+   "who": "Злате Антевски",
+   "url": "https://pesna.org/audio-download/128"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сон сонила, леле Орданица,",
+       "lat": "Son sonila, lele Ordanica,",
+       "en": "Ordanica1 had a dream"
+      },
+      {
+       "cyr": "од Ордана Пиперката.",
+       "lat": "od Ordana Piperkata.",
+       "en": "about Jordan Piperka2."
+      },
+      {
+       "cyr": "На полноќ се она разбудила,",
+       "lat": "Na polnoḱ se ona razbudila,",
+       "en": "She woke him up at midnight,"
+      },
+      {
+       "cyr": "Ордан за рака го гибнала.",
+       "lat": "Ordan za raka go gibnala.",
+       "en": "and grabbed him by the hand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани Ордан море, да би не станал,",
+       "lat": "- Stani Ordan more, da bi ne stanal,",
+       "en": "- Stand up, Jordan, why didn't you stand up?"
+      },
+      {
+       "cyr": "лош сон сум ти сонувала!",
+       "lat": "loš son sum ti sonuvala!",
+       "en": "I have a bad dream about you!"
+      },
+      {
+       "cyr": "Да не одиш, Ордан, село Вевчани,",
+       "lat": "Da ne odiš, Ordan, selo Vevčani,",
+       "en": "Don't go into Vevchani3,"
+      },
+      {
+       "cyr": "оти е село сардисано.",
+       "lat": "oti e selo sardisano.",
+       "en": "because the village is besieged."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не плаши се, мори, Орданице,",
+       "lat": "- Ne plaši se, mori, Ordanice,",
+       "en": "- Don't be scared, Ordanica,"
+      },
+      {
+       "cyr": "ја подај ми остра сабја,",
+       "lat": "ja podaj mi ostra sabja,",
+       "en": "give me a sharp sword,"
+      },
+      {
+       "cyr": "и подај ми пушка берданка.",
+       "lat": "i podaj mi puška berdanka.",
+       "en": "and my Berdan rifle."
+      },
+      {
+       "cyr": "Да излезам мори пред четата,",
+       "lat": "Da izlezam mori pred četata,",
+       "en": "Let me lead my troops"
+      },
+      {
+       "cyr": "па да видам мори Орданице,",
+       "lat": "pa da vidam mori Ordanice,",
+       "en": "to go there Ordanica"
+      },
+      {
+       "cyr": "кој го село сардисало.",
+       "lat": "koj go selo sardisalo.",
+       "en": "and see who besieged the village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога виде Ордан, што ќе види,",
+       "lat": "Koga vide Ordan, što ḱe vidi,",
+       "en": "When Jordan saw, to his surprise,"
+      },
+      {
+       "cyr": "цело село море, садисано,",
+       "lat": "celo selo more, sadisano,",
+       "en": "the entire village besieged,"
+      },
+      {
+       "cyr": "знак ми даде со пушката,",
+       "lat": "znak mi dade so puškata,",
+       "en": "he gave his troops a sign by waiving his rifle"
+      },
+      {
+       "cyr": "аскер писна до Господа.",
+       "lat": "asker pisna do Gospoda.",
+       "en": "and the asker4 cried to God."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

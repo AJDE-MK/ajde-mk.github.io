@@ -1,0 +1,140 @@
+{
+ "id": 1211,
+ "slug": "zete-mili-zete",
+ "title_cyr": "Зете, мили зете",
+ "title_latin": "Zete, mili zete",
+ "title_en": "Son-in-law, Dear Son-in-law",
+ "pesna_url": "https://pesna.org/song/1211",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Reads as a wedding blessing sung to the groom about the bride. 'Блага да ти биде' is my reading (may she be gentle/blessed to you).",
+ "words_to_learn": [
+  {
+   "mk": "зете",
+   "en": "son-in-law, bridegroom"
+  },
+  {
+   "mk": "мили",
+   "en": "dear"
+  },
+  {
+   "mk": "чуваш",
+   "en": "you keep, look after"
+  },
+  {
+   "mk": "шеќер",
+   "en": "sugar"
+  },
+  {
+   "mk": "раниш",
+   "en": "you feed"
+  },
+  {
+   "mk": "блага",
+   "en": "blessed, gentle (my reading)"
+  },
+  {
+   "mk": "млеко",
+   "en": "milk"
+  },
+  {
+   "mk": "симит",
+   "en": "sesame bread ring"
+  },
+  {
+   "mk": "мека",
+   "en": "soft"
+  }
+ ],
+ "performers": [
+  "Група Билјана",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2984"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зете, мили зете,",
+       "lat": "Zete, mili zete,",
+       "en": "Son-in-law, dear son-in-law,"
+      },
+      {
+       "cyr": "Ленка да ми чуваш.",
+       "lat": "Lenka da mi čuvaš.",
+       "en": "you must look after Lenka for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шеќер да ја раниш,",
+       "lat": "Šeḱer da ja raniš,",
+       "en": "Feed her sugar,"
+      },
+      {
+       "cyr": "блага да ти биде.",
+       "lat": "blaga da ti bide.",
+       "en": "may she be blessed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Млеко да ја поиш,",
+       "lat": "Mleko da ja poiš,",
+       "en": "Give her milk to drink,"
+      },
+      {
+       "cyr": "бела да ти биде.",
+       "lat": "bela da ti bide.",
+       "en": "may she be fair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Симит да ја раниш,",
+       "lat": "Simit da ja raniš,",
+       "en": "Feed her simit (bread ring),"
+      },
+      {
+       "cyr": "мека да ти биде.",
+       "lat": "meka da ti bide.",
+       "en": "may she be soft."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зете, мили зете,",
+       "lat": "Zete, mili zete,",
+       "en": "Son-in-law, dear son-in-law,"
+      },
+      {
+       "cyr": "Ленка да ми чуваш.",
+       "lat": "Lenka da mi čuvaš.",
+       "en": "you must look after Lenka for me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

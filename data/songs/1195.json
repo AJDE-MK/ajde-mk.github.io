@@ -1,0 +1,308 @@
+{
+ "id": 1195,
+ "slug": "vasilka-stoi-na-porti",
+ "title_cyr": "Василка стои на порти",
+ "title_latin": "Vasilka stoi na porti",
+ "title_en": "Vasilka stands at the gate",
+ "pesna_url": "https://pesna.org/song/1195",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'бела коконо' is my reading as 'white lady' (fair young woman); the last stanza is a short back-and-forth between the two lovers.",
+ "words_to_learn": [
+  {
+   "mk": "порта",
+   "en": "gate, front gate"
+  },
+  {
+   "mk": "коконa",
+   "en": "lady, young woman of standing (from Greek)"
+  },
+  {
+   "mk": "лично моме",
+   "en": "fair, handsome girl"
+  },
+  {
+   "mk": "бекрија",
+   "en": "carouser, tavern-goer"
+  },
+  {
+   "mk": "пијаница",
+   "en": "drunkard"
+  },
+  {
+   "mk": "умирам за",
+   "en": "I am dying for (someone)"
+  },
+  {
+   "mk": "изгорев",
+   "en": "I burned up"
+  },
+  {
+   "mk": "земиме",
+   "en": "we marry, we take each other"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear (filler)"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2932"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2933"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Василка стои на порти,",
+       "lat": "Vasilka stoi na porti,",
+       "en": "Vasilka stands at the gate,"
+      },
+      {
+       "cyr": "Јонче ми врви крај порти џанам,",
+       "lat": "Jonče mi vrvi kraj porti džanam,",
+       "en": "Jonche walks by the gate, my dear,"
+      },
+      {
+       "cyr": "Јонче ми врви крај порти.",
+       "lat": "Jonče mi vrvi kraj porti.",
+       "en": "Jonche walks by the gate."
+      },
+      {
+       "cyr": "- Василке, бела коконо,",
+       "lat": "- Vasilke, bela kokono,",
+       "en": "- Vasilka, white lady,"
+      },
+      {
+       "cyr": "иди ја прашај мајка ти џанам,",
+       "lat": "idi ja prašaj majka ti džanam,",
+       "en": "go and ask your mother, my dear,"
+      },
+      {
+       "cyr": "мајка ти Васке, татко ти.",
+       "lat": "majka ti Vaske, tatko ti.",
+       "en": "your mother, Vaska, and your father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Васке, мори лично моме,",
+       "lat": "Vaske, mori lično mome,",
+       "en": "Vaska, hey fair girl,"
+      },
+      {
+       "cyr": "Васке, умирам за тебе,",
+       "lat": "Vaske, umiram za tebe,",
+       "en": "Vaska, I am dying for you,"
+      },
+      {
+       "cyr": "Васке, мори лично моме,",
+       "lat": "Vaske, mori lično mome,",
+       "en": "Vaska, hey fair girl,"
+      },
+      {
+       "cyr": "Васке, изгорев за тебе.",
+       "lat": "Vaske, izgorev za tebe.",
+       "en": "Vaska, I am burning up for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Појди ја прашај мајка ти,",
+       "lat": "Pojdi ja prašaj majka ti,",
+       "en": "Go and ask your mother,"
+      },
+      {
+       "cyr": "мајка ти, Васке, татко ти џанам,",
+       "lat": "majka ti, Vaske, tatko ti džanam,",
+       "en": "your mother, Vaska, and your father, my dear,"
+      },
+      {
+       "cyr": "мајка ти Васке, татко ти.",
+       "lat": "majka ti Vaske, tatko ti.",
+       "en": "your mother, Vaska, and your father."
+      },
+      {
+       "cyr": "Дал' ќе те даде за мене,",
+       "lat": "Dal' ḱe te dade za mene,",
+       "en": "Whether she will give you to me,"
+      },
+      {
+       "cyr": "за мене, Јонче бекрија џанам,",
+       "lat": "za mene, Jonče bekrija džanam,",
+       "en": "to me, Jonche the carouser, my dear,"
+      },
+      {
+       "cyr": "за мене Јонче бекрија.",
+       "lat": "za mene Jonče bekrija.",
+       "en": "to me, Jonche the carouser."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Васке, мори лично моме,",
+       "lat": "Vaske, mori lično mome,",
+       "en": "Vaska, hey fair girl,"
+      },
+      {
+       "cyr": "Васке, умирам за тебе,",
+       "lat": "Vaske, umiram za tebe,",
+       "en": "Vaska, I am dying for you,"
+      },
+      {
+       "cyr": "Васке, мори лично моме,",
+       "lat": "Vaske, mori lično mome,",
+       "en": "Vaska, hey fair girl,"
+      },
+      {
+       "cyr": "Васке, изгорев за тебе.",
+       "lat": "Vaske, izgorev za tebe.",
+       "en": "Vaska, I am burning up for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мама на тате велеше,",
+       "lat": "- Mama na tate veleše,",
+       "en": "- Mother was telling father,"
+      },
+      {
+       "cyr": "не ќе ме дава за тебе џанам,",
+       "lat": "ne ḱe me dava za tebe džanam,",
+       "en": "she will not give me to you, my dear,"
+      },
+      {
+       "cyr": "за тебе, Јонче бекрија.",
+       "lat": "za tebe, Jonče bekrija.",
+       "en": "to you, Jonche the carouser."
+      },
+      {
+       "cyr": "Оти си голем бекрија,",
+       "lat": "Oti si golem bekrija,",
+       "en": "Because you are a great carouser,"
+      },
+      {
+       "cyr": "бекрија, ем пијаница џанам,",
+       "lat": "bekrija, em pijanica džanam,",
+       "en": "a carouser and a drunkard, my dear,"
+      },
+      {
+       "cyr": "бекрија, ем пијаница.",
+       "lat": "bekrija, em pijanica.",
+       "en": "a carouser and a drunkard."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јонче, море лично момче,",
+       "lat": "Jonče, more lično momče,",
+       "en": "Jonche, hey fair lad,"
+      },
+      {
+       "cyr": "Јонче, умирам за тебе,",
+       "lat": "Jonče, umiram za tebe,",
+       "en": "Jonche, I am dying for you,"
+      },
+      {
+       "cyr": "Јонче море лично момче,",
+       "lat": "Jonče more lično momče,",
+       "en": "Jonche, hey fair lad,"
+      },
+      {
+       "cyr": "Јонче изгорев за тебе.",
+       "lat": "Jonče izgorev za tebe.",
+       "en": "Jonche, I am burning up for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Василке моме убаво,",
+       "lat": "- Vasilke mome ubavo,",
+       "en": "- Vasilka, pretty girl,"
+      },
+      {
+       "cyr": "не си ја слушај мајка ти џанам,",
+       "lat": "ne si ja slušaj majka ti džanam,",
+       "en": "do not listen to your mother, my dear,"
+      },
+      {
+       "cyr": "мајка ти Васке, татко ти,",
+       "lat": "majka ti Vaske, tatko ti,",
+       "en": "your mother, Vaska, and your father,"
+      },
+      {
+       "cyr": "кога се ние сакаме,",
+       "lat": "koga se nie sakame,",
+       "en": "since we love each other,"
+      },
+      {
+       "cyr": "ај да се двајца земиме џанам,",
+       "lat": "aj da se dvajca zemime džanam,",
+       "en": "come on, let the two of us marry, my dear,"
+      },
+      {
+       "cyr": "ај да се двајца земиме.",
+       "lat": "aj da se dvajca zemime.",
+       "en": "come on, let the two of us marry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Васке, мори лично моме,",
+       "lat": "Vaske, mori lično mome,",
+       "en": "Vaska, hey fair girl,"
+      },
+      {
+       "cyr": "Васке, умирам за тебе,",
+       "lat": "Vaske, umiram za tebe,",
+       "en": "Vaska, I am dying for you,"
+      },
+      {
+       "cyr": "- Јонче, море лично момче,",
+       "lat": "- Jonče, more lično momče,",
+       "en": "- Jonche, hey fair lad,"
+      },
+      {
+       "cyr": "Јонче, изгорев за тебе.",
+       "lat": "Jonče, izgorev za tebe.",
+       "en": "Jonche, I am burning up for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

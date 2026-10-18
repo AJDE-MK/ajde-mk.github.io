@@ -1,0 +1,137 @@
+{
+ "id": 105,
+ "slug": "kalino-kjerko-kalino",
+ "title_cyr": "Калино ќерко, Калино",
+ "title_latin": "Kalino ḱerko, Kalino",
+ "title_en": "Daughter Kalina, Kalina",
+ "pesna_url": "https://pesna.org/song/105",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да потенка повена' is my reading as 'grown thin and pale'; 'не прашвај' is dialect for 'do not ask'.",
+ "words_to_learn": [
+  {
+   "mk": "ќерко",
+   "en": "daughter"
+  },
+  {
+   "mk": "дадов те",
+   "en": "I gave you (in marriage)"
+  },
+  {
+   "mk": "тенка",
+   "en": "slender"
+  },
+  {
+   "mk": "висока",
+   "en": "tall"
+  },
+  {
+   "mk": "болест",
+   "en": "illness"
+  },
+  {
+   "mk": "повена",
+   "en": "wilted, pale (my reading)"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, yearning"
+  },
+  {
+   "mk": "мале",
+   "en": "mother (vocative)"
+  }
+ ],
+ "performers": [
+  "Милко Златков"
+ ],
+ "audio": [
+  {
+   "who": "Милко Златков",
+   "url": "https://pesna.org/audio-download/3578"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Калино ќерко, Калино,",
+       "lat": "Kalino ḱerko, Kalino,",
+       "en": "Daughter Kalina, Kalina,"
+      },
+      {
+       "cyr": "дадов те бела, црвена,",
+       "lat": "dadov te bela, crvena,",
+       "en": "I gave you away fair and rosy,"
+      },
+      {
+       "cyr": "дадов те бела, црвена,",
+       "lat": "dadov te bela, crvena,",
+       "en": "I gave you away fair and rosy,"
+      },
+      {
+       "cyr": "дадов те тенка, висока.",
+       "lat": "dadov te tenka, visoka.",
+       "en": "I gave you away slender and tall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што болест ми те налегна,",
+       "lat": "Što bolest mi te nalegna,",
+       "en": "What illness has befallen you,"
+      },
+      {
+       "cyr": "та ми потенка повена,",
+       "lat": "ta mi potenka povena,",
+       "en": "that you have grown thin and pale for me,"
+      },
+      {
+       "cyr": "што болес ми те налегна,",
+       "lat": "što boles mi te nalegna,",
+       "en": "what illness has befallen you,"
+      },
+      {
+       "cyr": "та ми потенка повена?",
+       "lat": "ta mi potenka povena?",
+       "en": "that you have grown thin and pale for me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не прашвај мале, не прашувај,",
+       "lat": "Ne prašvaj male, ne prašuvaj,",
+       "en": "Do not ask, mother, do not ask,"
+      },
+      {
+       "cyr": "не сум од болест легнала.",
+       "lat": "ne sum od bolest legnala.",
+       "en": "I have not taken to bed from illness."
+      },
+      {
+       "cyr": "Не сум од болест легнала,",
+       "lat": "Ne sum od bolest legnala,",
+       "en": "I have not taken to bed from illness,"
+      },
+      {
+       "cyr": "тук' се од мерак разболев.",
+       "lat": "tuk' se od merak razbolev.",
+       "en": "but I have fallen ill from longing."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

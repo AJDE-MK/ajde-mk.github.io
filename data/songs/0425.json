@@ -1,0 +1,209 @@
+{
+ "id": 425,
+ "slug": "snoshti-minav-pokraj-vazi",
+ "title_cyr": "Сношти минав покрај вази",
+ "title_latin": "Snošti minav pokraj vazi",
+ "title_en": "Last Night I Passed by Your Place",
+ "pesna_url": "https://pesna.org/song/425",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Рудото' as 'ruddy' and 'була' as 'married woman' are my reading. 'Сос' мен'' is dialect for 'with me'; 'вази' is a dialect form, meaning unsure.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "покрај вази",
+   "en": "past your place (dialect 'вази' = by you)"
+  },
+  {
+   "mk": "растрепери",
+   "en": "began to tremble"
+  },
+  {
+   "mk": "ронам",
+   "en": "I shed (tears)"
+  },
+  {
+   "mk": "руси коси",
+   "en": "blond hair"
+  },
+  {
+   "mk": "скала",
+   "en": "ladder"
+  },
+  {
+   "mk": "грло",
+   "en": "throat"
+  },
+  {
+   "mk": "мамиш",
+   "en": "you deceive"
+  },
+  {
+   "mk": "подигруваш",
+   "en": "you tease, mock"
+  },
+  {
+   "mk": "Гркиња",
+   "en": "Greek woman"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Борче Наумоски",
+  "Виданка Георгиева",
+  "Гоце Николовски",
+  "Добри Ставревски",
+  "Јордан Митев",
+  "Калиопи",
+  "Наум Петрески",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/601"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/602"
+  },
+  {
+   "who": "Борче Наумоски",
+   "url": "https://pesna.org/audio-download/603"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/605"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/606"
+  },
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/607"
+  },
+  {
+   "who": "Калиопи",
+   "url": "https://pesna.org/audio-download/608"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/2424"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/3062"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти минав покрај вази,",
+       "lat": "Snošti minav pokraj vazi,",
+       "en": "Last night I passed by yours,"
+      },
+      {
+       "cyr": "тебе моме не те најдов,",
+       "lat": "tebe mome ne te najdov,",
+       "en": "I did not find you, girl,"
+      },
+      {
+       "cyr": "срце ми се растрепери,",
+       "lat": "srce mi se rastreperi,",
+       "en": "my heart began to tremble,"
+      },
+      {
+       "cyr": "почнав солзи да ронам.",
+       "lat": "počnav solzi da ronam.",
+       "en": "I began to shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сечи моме руси коси,",
+       "lat": "Seči mome rusi kosi,",
+       "en": "Cut your blond hair, girl,"
+      },
+      {
+       "cyr": "прави скала да се качам,",
+       "lat": "pravi skala da se kačam,",
+       "en": "make a ladder for me to climb,"
+      },
+      {
+       "cyr": "да ти видам бело лице,",
+       "lat": "da ti vidam belo lice,",
+       "en": "to see your white face,"
+      },
+      {
+       "cyr": "ем рудото ти грло.",
+       "lat": "em rudoto ti grlo.",
+       "en": "and your ruddy throat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи моме вистината,",
+       "lat": "Kaži mome vistinata,",
+       "en": "Tell the truth, girl,"
+      },
+      {
+       "cyr": "љубиш ли ме, мамиш ли ме,",
+       "lat": "ljubiš li me, mamiš li me,",
+       "en": "do you love me, or are you deceiving me,"
+      },
+      {
+       "cyr": "ил сос' мен' се подигруваш,",
+       "lat": "il sos' men' se podigruvaš,",
+       "en": "or are you just teasing me,"
+      },
+      {
+       "cyr": "да ти мине времето.",
+       "lat": "da ti mine vremeto.",
+       "en": "to pass your time?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах да можам да разберам,",
+       "lat": "Ah da možam da razberam,",
+       "en": "Ah, if only I could find out,"
+      },
+      {
+       "cyr": "була ли си, ил' Гркиња?",
+       "lat": "bula li si, il' Grkinja?",
+       "en": "are you a married woman, or a Greek?"
+      },
+      {
+       "cyr": "Ил' си моме Македонка,",
+       "lat": "Il' si mome Makedonka,",
+       "en": "Or are you a Macedonian girl,"
+      },
+      {
+       "cyr": "што си толку убава?",
+       "lat": "što si tolku ubava?",
+       "en": "that you are so beautiful?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

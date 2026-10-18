@@ -1,0 +1,133 @@
+{
+ "id": 160,
+ "slug": "kazhi-epso-dimusheva",
+ "title_cyr": "Кажи Епсо Димушева",
+ "title_latin": "Kaži Epso Dimuševa",
+ "title_en": "Tell me, Epsa Dimuseva",
+ "pesna_url": "https://pesna.org/song/160",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Непознат изведувач",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1602"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1603"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1604"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1605"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи Епсо Димушева,",
+       "lat": "- Kaži Epso Dimuševa,",
+       "en": "- Tell me, Epsa Dimuseva,"
+      },
+      {
+       "cyr": "кај те тебе посвршија?",
+       "lat": "kaj te tebe posvršija?",
+       "en": "where were you engaged to be married?"
+      },
+      {
+       "cyr": "- Ме свршија посвршија,",
+       "lat": "- Me svršija posvršija,",
+       "en": "- I was engaged to be married"
+      },
+      {
+       "cyr": "у Ѓигота за Душана.",
+       "lat": "u Ǵigota za Dušana.",
+       "en": "in Gjigota, for Dushan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи, млад Мато Кузманов,",
+       "lat": "Ne plači, mlad Mato Kuzmanov,",
+       "en": "Don't cry, young Mato Kuzmanov,"
+      },
+      {
+       "cyr": "не плачи, не ме изгори.",
+       "lat": "ne plači, ne me izgori.",
+       "en": "don't cry, don't burn me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кажи Епсо Димушева,",
+       "lat": "- Kaži Epso Dimuševa,",
+       "en": "- Tell me, Epsa Dimuseva,"
+      },
+      {
+       "cyr": "кој ти беше стројникот?",
+       "lat": "koj ti beše strojnikot?",
+       "en": "who was your fiancé?"
+      },
+      {
+       "cyr": "- Стројник беше, ми беше",
+       "lat": "- Strojnik beše, mi beše",
+       "en": "- My fiancé was"
+      },
+      {
+       "cyr": "млади Љубе стојкојчин.",
+       "lat": "mladi Ljube stojkojčin.",
+       "en": "the young Ljube, son of Stojko."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи, млад Мато Кузманов,",
+       "lat": "Ne plači, mlad Mato Kuzmanov,",
+       "en": "Don't cry, young Mato Kuzmanov,"
+      },
+      {
+       "cyr": "не плачи, не ме изгори.",
+       "lat": "ne plači, ne me izgori.",
+       "en": "don't cry, don't burn me."
+      },
+      {
+       "cyr": "Не плачи, млад Мато Кузманов,",
+       "lat": "Ne plači, mlad Mato Kuzmanov,",
+       "en": "Don't cry, young Mato Kuzmanov,"
+      },
+      {
+       "cyr": "срцево ми го изгоре.",
+       "lat": "srcevo mi go izgore.",
+       "en": "you burned my heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

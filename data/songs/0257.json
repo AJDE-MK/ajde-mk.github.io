@@ -1,0 +1,141 @@
+{
+ "id": 257,
+ "slug": "zapeala-ljuba-od-gradina",
+ "title_cyr": "Запеала Љуба од градина",
+ "title_latin": "Zapeala Ljuba od gradina",
+ "title_en": "Ljuba Began to Sing in the Garden",
+ "pesna_url": "https://pesna.org/song/257",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ко ќе иди' is read as 'when he/she comes', and the snake's wish as 'let me bite', my reading. 'отворено' (open) is rendered as 'unattended'.",
+ "words_to_learn": [
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (shepherd's flute)"
+  },
+  {
+   "mk": "змија",
+   "en": "snake"
+  },
+  {
+   "mk": "трева",
+   "en": "grass"
+  },
+  {
+   "mk": "каснам",
+   "en": "I bite"
+  },
+  {
+   "mk": "рака",
+   "en": "hand, arm"
+  },
+  {
+   "mk": "нога",
+   "en": "foot, leg"
+  }
+ ],
+ "performers": [
+  "Гога Зафировски"
+ ],
+ "audio": [
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/1452"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Запеала Љуба од градина",
+       "lat": "Zapeala Ljuba od gradina",
+       "en": "Ljuba began to sing from the garden"
+      },
+      {
+       "cyr": "да ја чуе Науме во планина.",
+       "lat": "da ja čue Naume vo planina.",
+       "en": "so that Naum on the mountain would hear her."
+      },
+      {
+       "cyr": "Кога дочу Науме во планина,",
+       "lat": "Koga doču Naume vo planina,",
+       "en": "When Naum heard her on the mountain,"
+      },
+      {
+       "cyr": "си остави стадо отворено.",
+       "lat": "si ostavi stado otvoreno.",
+       "en": "he left the flock unattended."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До стадото шарено кавалче,",
+       "lat": "Do stadoto šareno kavalče,",
+       "en": "Beside the flock, a colorful flute,"
+      },
+      {
+       "cyr": "од кавалче змија проговори:",
+       "lat": "od kavalče zmija progovori:",
+       "en": "from the flute a snake spoke:"
+      },
+      {
+       "cyr": "- Расти, расти ти трево зелена,",
+       "lat": "- Rasti, rasti ti trevo zelena,",
+       "en": "- Grow, grow, green grass,"
+      },
+      {
+       "cyr": "расти, расти, ти трево зелена.",
+       "lat": "rasti, rasti, ti trevo zelena.",
+       "en": "grow, grow, green grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко ќе иди Науме од планина,",
+       "lat": "Ko ḱe idi Naume od planina,",
+       "en": "When Naum comes down from the mountain,"
+      },
+      {
+       "cyr": "да го каснам Науме за раката.",
+       "lat": "da go kasnam Naume za rakata.",
+       "en": "let me bite Naum on the hand."
+      },
+      {
+       "cyr": "Ко ќе иди Љуба од градина,",
+       "lat": "Ko ḱe idi Ljuba od gradina,",
+       "en": "When Ljuba comes from the garden,"
+      },
+      {
+       "cyr": "да ја каснам Љуба за ногата.",
+       "lat": "da ja kasnam Ljuba za nogata.",
+       "en": "let me bite Ljuba on the foot."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

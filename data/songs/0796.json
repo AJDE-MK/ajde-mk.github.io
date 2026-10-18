@@ -1,0 +1,166 @@
+{
+ "id": 796,
+ "slug": "otishlo-e-malo-mome",
+ "title_cyr": "Отишло е мало моме",
+ "title_latin": "Otišlo e malo mome",
+ "title_en": "A little girl has gone",
+ "pesna_url": "https://pesna.org/song/796",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; no author known (origin unclear). 'лудо младо' is a stock folk phrase for a spirited young man, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, young woman"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring with a spout"
+  },
+  {
+   "mk": "налее",
+   "en": "to fill (with water)"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "dashing young lad (lit. mad young)"
+  },
+  {
+   "mk": "ѕевгар",
+   "en": "pair (of oxen) under a yoke"
+  },
+  {
+   "mk": "напои",
+   "en": "to water (animals)"
+  },
+  {
+   "mk": "волови",
+   "en": "oxen"
+  },
+  {
+   "mk": "порачувај",
+   "en": "send word, order, request"
+  }
+ ],
+ "performers": [
+  "Мирко Митревски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1506"
+  },
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/2438"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Отишло е мало моме",
+       "lat": "Otišlo e malo mome",
+       "en": "A little girl has gone"
+      },
+      {
+       "cyr": "на белата чешма,",
+       "lat": "na belata češma,",
+       "en": "to the white fountain,"
+      },
+      {
+       "cyr": "лице да измие,",
+       "lat": "lice da izmie,",
+       "en": "to wash her face,"
+      },
+      {
+       "cyr": "вода да налее.",
+       "lat": "voda da nalee.",
+       "en": "to fill her water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Наидело лудо младо",
+       "lat": "Naidelo ludo mlado",
+       "en": "A dashing young lad came along"
+      },
+      {
+       "cyr": "ѕевгар да напои,",
+       "lat": "dzevgar da napoi,",
+       "en": "to water his pair of oxen,"
+      },
+      {
+       "cyr": "ѕевгар да напои,",
+       "lat": "dzevgar da napoi,",
+       "en": "to water his pair of oxen,"
+      },
+      {
+       "cyr": "ѕевгар ми волови.",
+       "lat": "dzevgar mi volovi.",
+       "en": "my pair of oxen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Чекај, чекај, малој моме,",
+       "lat": "- Čekaj, čekaj, maloj mome,",
+       "en": "- Wait, wait, little girl,"
+      },
+      {
+       "cyr": "ѕевгар да напојам,",
+       "lat": "dzevgar da napojam,",
+       "en": "let me water the oxen,"
+      },
+      {
+       "cyr": "оти јас ќе одам",
+       "lat": "oti jas ḱe odam",
+       "en": "for I am going"
+      },
+      {
+       "cyr": "многу надалеку.",
+       "lat": "mnogu nadaleku.",
+       "en": "very far away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оти јас ќе одам, моме,",
+       "lat": "Oti jas ḱe odam, mome,",
+       "en": "For I am going, girl,"
+      },
+      {
+       "cyr": "во Солуна града,",
+       "lat": "vo Soluna grada,",
+       "en": "to the city of Salonica,"
+      },
+      {
+       "cyr": "рачај, порачувај,",
+       "lat": "račaj, poračuvaj,",
+       "en": "send word, tell me,"
+      },
+      {
+       "cyr": "што да ти донесам.",
+       "lat": "što da ti donesam.",
+       "en": "what I should bring you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

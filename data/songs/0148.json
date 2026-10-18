@@ -1,0 +1,219 @@
+{
+ "id": 148,
+ "slug": "prilepskite-ergeni",
+ "title_cyr": "Прилепските ергени",
+ "title_latin": "Prilepskite ergeni",
+ "title_en": "The Bachelors of Prilep",
+ "pesna_url": "https://pesna.org/song/148",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The line 'како солца да те макнам' is a guess (my reading: something like 'I would carry you off like the sun', 'макнам' is unclear). 'Пусти' is rendered as 'wretched' in the sense of 'damned'.",
+ "words_to_learn": [
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "моми",
+   "en": "girls"
+  },
+  {
+   "mk": "свирнат",
+   "en": "they whistle"
+  },
+  {
+   "mk": "намигнат",
+   "en": "they wink"
+  },
+  {
+   "mk": "дедо",
+   "en": "grandpa, old man"
+  },
+  {
+   "mk": "баба",
+   "en": "granny, old woman"
+  },
+  {
+   "mk": "образ",
+   "en": "cheek"
+  },
+  {
+   "mk": "будало",
+   "en": "fool"
+  },
+  {
+   "mk": "мерак",
+   "en": "desire, craving, zest"
+  },
+  {
+   "mk": "кутра",
+   "en": "poor (wretched)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1649"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Прилепските ергени",
+       "lat": "Prilepskite ergeni",
+       "en": "The bachelors of Prilep,"
+      },
+      {
+       "cyr": "каде одат и пејат,",
+       "lat": "kade odat i pejat,",
+       "en": "wherever they go, they sing,"
+      },
+      {
+       "cyr": "по момите гледаат,",
+       "lat": "po momite gledaat,",
+       "en": "they look at the girls,"
+      },
+      {
+       "cyr": "да ги видат, ќе свирнат.",
+       "lat": "da gi vidat, ḱe svirnat.",
+       "en": "when they see them, they whistle."
+      },
+      {
+       "cyr": "И со око ќе намигнат:",
+       "lat": "I so oko ḱe namignat:",
+       "en": "And they wink with an eye:"
+      },
+      {
+       "cyr": "- „Леле, леле што се убави“.",
+       "lat": "- „Lele, lele što se ubavi“.",
+       "en": "- 'Oh my, oh my, how beautiful they are.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стар бел дедо прислушнал,",
+       "lat": "Star bel dedo prislušnal,",
+       "en": "An old white-haired grandpa overheard,"
+      },
+      {
+       "cyr": "бела коса исчешлал",
+       "lat": "bela kosa isčešlal",
+       "en": "combed his white hair"
+      },
+      {
+       "cyr": "и на баба ѝ вели:",
+       "lat": "i na baba ì veli:",
+       "en": "and said to his old wife:"
+      },
+      {
+       "cyr": "- „Дај мори бабо да те бакнам јас,",
+       "lat": "- „Daj mori babo da te baknam jas,",
+       "en": "- 'Come on, hey granny, let me kiss you,"
+      },
+      {
+       "cyr": "и за образ да те штипнам,",
+       "lat": "i za obraz da te štipnam,",
+       "en": "and pinch you on the cheek,"
+      },
+      {
+       "cyr": "леле, леле што си убава“.",
+       "lat": "lele, lele što si ubava“.",
+       "en": "oh my, oh my, how beautiful you are.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кутра баба не гледа",
+       "lat": "Kutra baba ne gleda",
+       "en": "Poor granny does not see"
+      },
+      {
+       "cyr": "и на дедо му вели:",
+       "lat": "i na dedo mu veli:",
+       "en": "and says to grandpa:"
+      },
+      {
+       "cyr": "- „Де бре старо, будало,",
+       "lat": "- „De bre staro, budalo,",
+       "en": "- 'Come on, you old fool,"
+      },
+      {
+       "cyr": "пусти памет ти излегол,",
+       "lat": "pusti pamet ti izlegol,",
+       "en": "you have lost your wretched mind,"
+      },
+      {
+       "cyr": "пусти ѓавол ти навлегол,",
+       "lat": "pusti ǵavol ti navlegol,",
+       "en": "a wretched devil has gotten into you,"
+      },
+      {
+       "cyr": "леле, леле старо, будало“.",
+       "lat": "lele, lele staro, budalo“.",
+       "en": "oh my, oh my, you old fool.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Пусти ѓавол ми излегол,",
+       "lat": "- „Pusti ǵavol mi izlegol,",
+       "en": "- 'A wretched devil has come out of me,"
+      },
+      {
+       "cyr": "пусти мерак ми навлегол,",
+       "lat": "pusti merak mi navlegol,",
+       "en": "a wretched desire has come into me,"
+      },
+      {
+       "cyr": "бабо мори за тебе,",
+       "lat": "babo mori za tebe,",
+       "en": "granny, hey, for you,"
+      },
+      {
+       "cyr": "дај мори бабо да те бакнам јас,",
+       "lat": "daj mori babo da te baknam jas,",
+       "en": "come on, hey granny, let me kiss you,"
+      },
+      {
+       "cyr": "и со рака да те штипнам,",
+       "lat": "i so raka da te štipnam,",
+       "en": "and pinch you with my hand,"
+      },
+      {
+       "cyr": "леле, леле што си убава,",
+       "lat": "lele, lele što si ubava,",
+       "en": "oh my, oh my, how beautiful you are,"
+      },
+      {
+       "cyr": "како солца да те макнам,",
+       "lat": "kako solca da te maknam,",
+       "en": "I would take you off like (my) sun,"
+      },
+      {
+       "cyr": "леле, леле што си убава“.",
+       "lat": "lele, lele što si ubava“.",
+       "en": "oh my, oh my, how beautiful you are.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

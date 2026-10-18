@@ -1,0 +1,169 @@
+{
+ "id": 249,
+ "slug": "aber-dojde-donke",
+ "title_cyr": "Абер дојде Донке",
+ "title_latin": "Aber dojde Donke",
+ "title_en": "News Came, Donka",
+ "pesna_url": "https://pesna.org/song/249",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'рудо јагне' is my reading ('ruddy lamb'); the exact meaning of 'рудо' is uncertain. 'куси јачмен' is rendered as 'short barley' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, message (Turkish loan)"
+  },
+  {
+   "mk": "кула",
+   "en": "tower, fortified house"
+  },
+  {
+   "mk": "ага",
+   "en": "aga, landlord (Ottoman-era)"
+  },
+  {
+   "mk": "аргат",
+   "en": "farmhand, hired labourer"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, unmarried young man"
+  },
+  {
+   "mk": "девојка",
+   "en": "girl"
+  },
+  {
+   "mk": "жнее",
+   "en": "reaps, harvests"
+  },
+  {
+   "mk": "јачмен",
+   "en": "barley"
+  },
+  {
+   "mk": "оцет",
+   "en": "vinegar"
+  },
+  {
+   "mk": "лук",
+   "en": "garlic (or onion)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Борис Ангелковски",
+  "Виданка Георгиева",
+  "Кирил Манчевски",
+  "Леб и сол"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/16"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/17"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/18"
+  },
+  {
+   "who": "Леб и сол",
+   "url": "https://pesna.org/audio-download/19"
+  },
+  {
+   "who": "Борис Ангелковски",
+   "url": "https://pesna.org/audio-download/2123"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абер дојде Донке, абер дојде.",
+       "lat": "Aber dojde Donke, aber dojde.",
+       "en": "News came, Donka, news came."
+      },
+      {
+       "cyr": "Абер дојде Донке од кулата,",
+       "lat": "Aber dojde Donke od kulata,",
+       "en": "News came, Donka, from the tower,"
+      },
+      {
+       "cyr": "од кулата Донке од агата.",
+       "lat": "od kulata Donke od agata.",
+       "en": "from the tower, Donka, from the aga."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ги збереш Донке аргатите.",
+       "lat": "Da gi zbereš Donke argatite.",
+       "en": "To gather the farmhands, Donka."
+      },
+      {
+       "cyr": "Аргатите Донке невестите,",
+       "lat": "Argatite Donke nevestite,",
+       "en": "The farmhands, Donka, the brides,"
+      },
+      {
+       "cyr": "ергените Донке, девојките.",
+       "lat": "ergenite Donke, devojkite.",
+       "en": "the bachelors, Donka, the girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе жнееме Донке, ќе жнееме.",
+       "lat": "Ḱe žneeme Donke, ḱe žneeme.",
+       "en": "We will reap, Donka, we will reap."
+      },
+      {
+       "cyr": "Ќе жнееме Донке куси јачмен,",
+       "lat": "Ḱe žneeme Donke kusi jačmen,",
+       "en": "We will reap short barley, Donka,"
+      },
+      {
+       "cyr": "куси јачмен Донке до колена.",
+       "lat": "kusi jačmen Donke do kolena.",
+       "en": "short barley, Donka, up to the knee."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти ќе јадеш Донке, рудо јагне.",
+       "lat": "Ti ḱe jadeš Donke, rudo jagne.",
+       "en": "You will eat, Donka, ruddy lamb"
+      },
+      {
+       "cyr": "Со агата Донке, на кулата,",
+       "lat": "So agata Donke, na kulata,",
+       "en": "with the aga, Donka, in the tower,"
+      },
+      {
+       "cyr": "аргати ќе јадат лук и оцет.",
+       "lat": "argati ḱe jadat luk i ocet.",
+       "en": "the farmhands will eat garlic and vinegar."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

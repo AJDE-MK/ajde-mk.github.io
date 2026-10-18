@@ -1,0 +1,157 @@
+{
+ "id": 906,
+ "slug": "mariche-crno-kosiche",
+ "title_cyr": "Мариче, црно косиче",
+ "title_latin": "Mariče, crno kosiče",
+ "title_en": "Marica, black-haired girl",
+ "pesna_url": "https://pesna.org/song/906",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'в' дејко ти' I read as 'in your father' (dialect word, unsure); the last line 'калеш Ѓорѓија' is my reading only, possibly 'you invite/call Gjorgjija'.",
+ "words_to_learn": [
+  {
+   "mk": "црно косиче",
+   "en": "black-haired one (affectionate)"
+  },
+  {
+   "mk": "жар",
+   "en": "embers, glowing coals"
+  },
+  {
+   "mk": "пепел",
+   "en": "ash"
+  },
+  {
+   "mk": "комшија",
+   "en": "neighbor"
+  },
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "добар ден",
+   "en": "good day (greeting)"
+  },
+  {
+   "mk": "ќа",
+   "en": "will (dialect future particle)"
+  }
+ ],
+ "performers": [
+  "Емил Ристосков"
+ ],
+ "audio": [
+  {
+   "who": "Емил Ристосков",
+   "url": "https://pesna.org/audio-download/1988"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мариче, црно косиче,",
+       "lat": "Mariče, crno kosiče,",
+       "en": "Marica, black-haired girl,"
+      },
+      {
+       "cyr": "црно е срце в' мајка ти,",
+       "lat": "crno e srce v' majka ti,",
+       "en": "black is the heart in your mother,"
+      },
+      {
+       "cyr": "црно е срце в' мајка ти,",
+       "lat": "crno e srce v' majka ti,",
+       "en": "black is the heart in your mother,"
+      },
+      {
+       "cyr": "а жар и пепел в' дејко, ти.",
+       "lat": "a žar i pepel v' dejko, ti.",
+       "en": "and embers and ash in your father."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што не те даде за мене,",
+       "lat": "Što ne te dade za mene,",
+       "en": "Why did she not give you to me,"
+      },
+      {
+       "cyr": "туку те даде до мене,",
+       "lat": "tuku te dade do mene,",
+       "en": "but gave you to the one next to me,"
+      },
+      {
+       "cyr": "туку те даде до мене,",
+       "lat": "tuku te dade do mene,",
+       "en": "but gave you to the one next to me,"
+      },
+      {
+       "cyr": "до мене, за мој комшија.",
+       "lat": "do mene, za moj komšija.",
+       "en": "next to me, to my neighbor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мариче, црно косиче,",
+       "lat": "Mariče, crno kosiče,",
+       "en": "Marica, black-haired girl,"
+      },
+      {
+       "cyr": "кога ќа одиш за вода,",
+       "lat": "koga ḱa odiš za voda,",
+       "en": "when you go for water,"
+      },
+      {
+       "cyr": "кога ќа одиш за вода,",
+       "lat": "koga ḱa odiš za voda,",
+       "en": "when you go for water,"
+      },
+      {
+       "cyr": "пред дуќан да ми поминеш.",
+       "lat": "pred duḱan da mi pomineš.",
+       "en": "pass by my shop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред дуќан да ми поминеш,",
+       "lat": "Pred duḱan da mi pomineš,",
+       "en": "Pass by my shop,"
+      },
+      {
+       "cyr": "добар ден ти да ми речиш,",
+       "lat": "dobar den ti da mi rečiš,",
+       "en": "say good day to me,"
+      },
+      {
+       "cyr": "добар ден ти да ми речиш,",
+       "lat": "dobar den ti da mi rečiš,",
+       "en": "say good day to me,"
+      },
+      {
+       "cyr": "добар ден, калеш Ѓорѓија.",
+       "lat": "dobar den, kaleš Ǵorǵija.",
+       "en": "good day, you invite Gjorgjija."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,181 @@
+{
+ "id": 1156,
+ "slug": "pismo-dojde-od-soluna-grada",
+ "title_cyr": "Писмо дојде од Солуна града",
+ "title_latin": "Pismo dojde od Soluna grada",
+ "title_en": "A Letter Came from the City of Thessaloniki",
+ "pesna_url": "https://pesna.org/song/1156",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect forms: јазе, ју, је. 'Ју писмото пише' is my reading: 'the letter writes'. The song is a dialogue between the son (Simo) and his mother.",
+ "words_to_learn": [
+  {
+   "mk": "писмо",
+   "en": "letter"
+  },
+  {
+   "mk": "кум",
+   "en": "best man, godfather (ritual sponsor)"
+  },
+  {
+   "mk": "кумство",
+   "en": "the bond/office of a kum"
+  },
+  {
+   "mk": "рода",
+   "en": "kinship, family tie"
+  },
+  {
+   "mk": "најголема",
+   "en": "greatest"
+  },
+  {
+   "mk": "јазе",
+   "en": "I (dialect form of јас)"
+  },
+  {
+   "mk": "је",
+   "en": "is (dialect form of е)"
+  }
+ ],
+ "performers": [
+  "Браќа Стојанови"
+ ],
+ "audio": [
+  {
+   "who": "Браќа Стојанови",
+   "url": "https://pesna.org/audio-download/2800"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Писмо дојде,",
+       "lat": "- Pismo dojde,",
+       "en": "- A letter came,"
+      },
+      {
+       "cyr": "стара мајко море, од Солуна града",
+       "lat": "stara majko more, od Soluna grada",
+       "en": "old mother, oh, from the city of Thessaloniki,"
+      },
+      {
+       "cyr": "жална мајко море, од Солуна града,",
+       "lat": "žalna majko more, od Soluna grada,",
+       "en": "sorrowful mother, oh, from the city of Thessaloniki,"
+      },
+      {
+       "cyr": "стара мајко море, од Солуна града.",
+       "lat": "stara majko more, od Soluna grada.",
+       "en": "old mother, oh, from the city of Thessaloniki."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ју писмото пише,",
+       "lat": "Ju pismoto piše,",
+       "en": "The letter writes,"
+      },
+      {
+       "cyr": "мајко море, јазе кум да идам,",
+       "lat": "majko more, jaze kum da idam,",
+       "en": "mother, oh, that I should go as best man,"
+      },
+      {
+       "cyr": "жална мајко море, јазе кум да идам,",
+       "lat": "žalna majko more, jaze kum da idam,",
+       "en": "sorrowful mother, oh, that I should go as best man,"
+      },
+      {
+       "cyr": "стара мајко море, јазе кум да идам.",
+       "lat": "stara majko more, jaze kum da idam.",
+       "en": "old mother, oh, that I should go as best man."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дал' да идам,",
+       "lat": "Dal' da idam,",
+       "en": "Should I go,"
+      },
+      {
+       "cyr": "стара мајко море, или да не идам",
+       "lat": "stara majko more, ili da ne idam",
+       "en": "old mother, oh, or should I not go,"
+      },
+      {
+       "cyr": "жална мајко море, или да не идам,",
+       "lat": "žalna majko more, ili da ne idam,",
+       "en": "sorrowful mother, oh, or should I not go,"
+      },
+      {
+       "cyr": "стара мајко море, или да не идам?",
+       "lat": "stara majko more, ili da ne idam?",
+       "en": "old mother, oh, or should I not go?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Иди, иди,",
+       "lat": "- Idi, idi,",
+       "en": "- Go, go,"
+      },
+      {
+       "cyr": "мили Симо море, зашто да не идеш,",
+       "lat": "mili Simo more, zašto da ne ideš,",
+       "en": "dear Simo, oh, why should you not go,"
+      },
+      {
+       "cyr": "мили Симо море, зашто да не идеш,",
+       "lat": "mili Simo more, zašto da ne ideš,",
+       "en": "dear Simo, oh, why should you not go,"
+      },
+      {
+       "cyr": "мили Симо море, зашто да не идеш?",
+       "lat": "mili Simo more, zašto da ne ideš?",
+       "en": "dear Simo, oh, why should you not go?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кумството је,",
+       "lat": "Kumstvoto je,",
+       "en": "Being a best man (kumstvo) is,"
+      },
+      {
+       "cyr": "мили Симо море, најголема рода,",
+       "lat": "mili Simo more, najgolema roda,",
+       "en": "dear Simo, oh, the greatest kinship,"
+      },
+      {
+       "cyr": "мили Симо море, најголема рода,",
+       "lat": "mili Simo more, najgolema roda,",
+       "en": "dear Simo, oh, the greatest kinship,"
+      },
+      {
+       "cyr": "мили Симо море, најголема рода.",
+       "lat": "mili Simo more, najgolema roda.",
+       "en": "dear Simo, oh, the greatest kinship."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

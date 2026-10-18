@@ -1,0 +1,199 @@
+{
+ "id": 988,
+ "slug": "obloga-se-fakjat-momche-i-devojche",
+ "title_cyr": "Облога се фаќат момче и девојче",
+ "title_latin": "Obloga se faḱat momče i devojče",
+ "title_en": "A boy and a girl make a bet",
+ "pesna_url": "https://pesna.org/song/988",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'таксало' rendered as 'boasted' is my reading; 'живо не станало' is an idiomatic curse rendered literally, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "облога",
+   "en": "bet, wager"
+  },
+  {
+   "mk": "се фаќат",
+   "en": "they make (a bet)"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "таксало",
+   "en": "boasted, counted up (dialect)"
+  },
+  {
+   "mk": "рудо јагне",
+   "en": "ruddy lamb"
+  },
+  {
+   "mk": "мрена",
+   "en": "barbel (fish)"
+  },
+  {
+   "mk": "се преврќа",
+   "en": "tosses and turns"
+  },
+  {
+   "mk": "лудо",
+   "en": "dear one, fool (endearment)"
+  }
+ ],
+ "performers": [
+  "Блага Петреска",
+  "Васка Илиева",
+  "КУД Тиквеш"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2304"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2305"
+  },
+  {
+   "who": "КУД Тиквеш",
+   "url": "https://pesna.org/audio-download/2306"
+  },
+  {
+   "who": "Блага Петреска",
+   "url": "https://pesna.org/audio-download/3104"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Облога се фаќат момче и девојче",
+       "lat": "Obloga se faḱat momče i devojče",
+       "en": "A boy and a girl make a bet"
+      },
+      {
+       "cyr": "заедно да спијат, на една постела.",
+       "lat": "zaedno da spijat, na edna postela.",
+       "en": "to sleep together, on one bed."
+      },
+      {
+       "cyr": "Заедно да спијат, да се не задеваат,",
+       "lat": "Zaedno da spijat, da se ne zadevaat,",
+       "en": "To sleep together, not to tease each other,"
+      },
+      {
+       "cyr": "заедно да спијат, да се не задеваат.",
+       "lat": "zaedno da spijat, da se ne zadevaat.",
+       "en": "to sleep together, not to tease each other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момчето таксало неговото лозје,",
+       "lat": "Momčeto taksalo negovoto lozje,",
+       "en": "The boy boasted of his vineyard,"
+      },
+      {
+       "cyr": "неговото лозје, неговото стадо.",
+       "lat": "negovoto lozje, negovoto stado.",
+       "en": "his vineyard, his flock."
+      },
+      {
+       "cyr": "А моме таксало нејно бело лице,",
+       "lat": "A mome taksalo nejno belo lice,",
+       "en": "And the girl boasted of her white face,"
+      },
+      {
+       "cyr": "нејно бело лице, нејна рамна снага.",
+       "lat": "nejno belo lice, nejna ramna snaga.",
+       "en": "her white face, her slender figure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момчето легнало, одма ми заспало,",
+       "lat": "Momčeto legnalo, odma mi zaspalo,",
+       "en": "The boy lay down, fell asleep at once,"
+      },
+      {
+       "cyr": "момчето легнало, одма ми заспало.",
+       "lat": "momčeto legnalo, odma mi zaspalo.",
+       "en": "the boy lay down, fell asleep at once."
+      },
+      {
+       "cyr": "Одма ми заспало, како рудо јагне,",
+       "lat": "Odma mi zaspalo, kako rudo jagne,",
+       "en": "He fell asleep at once, like a ruddy lamb,"
+      },
+      {
+       "cyr": "одма ми заспало, како рудо јагне.",
+       "lat": "odma mi zaspalo, kako rudo jagne.",
+       "en": "he fell asleep at once, like a ruddy lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девојче легнало, сон не ми ја фаќа,",
+       "lat": "Devojče legnalo, son ne mi ja faḱa,",
+       "en": "The girl lay down, sleep does not catch her,"
+      },
+      {
+       "cyr": "девојче легнало, сон не ми ја фаќа.",
+       "lat": "devojče legnalo, son ne mi ja faḱa.",
+       "en": "the girl lay down, sleep does not catch her."
+      },
+      {
+       "cyr": "Само се преврќа како мрена риба,",
+       "lat": "Samo se prevrḱa kako mrena riba,",
+       "en": "She only tosses and turns like a barbel fish,"
+      },
+      {
+       "cyr": "само се преврќа, како мрена риба.",
+       "lat": "samo se prevrḱa, kako mrena riba.",
+       "en": "she only tosses and turns, like a barbel fish."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани лудо, стани, живо не станало,",
+       "lat": "- Stani ludo, stani, živo ne stanalo,",
+       "en": "- Get up, fool, get up, may no living soul get up,"
+      },
+      {
+       "cyr": "стани лудо, стани, живо не станало.",
+       "lat": "stani ludo, stani, živo ne stanalo.",
+       "en": "get up, fool, get up, may no living soul get up."
+      },
+      {
+       "cyr": "Облога е твоја, и јас сум ти твоја,",
+       "lat": "Obloga e tvoja, i jas sum ti tvoja,",
+       "en": "The bet is yours, and I am yours too,"
+      },
+      {
+       "cyr": "облога е твоја и јас сум ти твоја.",
+       "lat": "obloga e tvoja i jas sum ti tvoja.",
+       "en": "the bet is yours and I am yours too."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,158 @@
+{
+ "id": 714,
+ "slug": "golema-svadba-vo-selo",
+ "title_cyr": "Голема свадба во село",
+ "title_latin": "Golema svadba vo selo",
+ "title_en": "A big wedding in the village",
+ "pesna_url": "https://pesna.org/song/714",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Група Билјана",
+  "Петранка Костадинова",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/522"
+  },
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2968"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Голема свадба во село, леле,",
+       "lat": "Golema svadba vo selo, lele,",
+       "en": "A big wedding in the village,"
+      },
+      {
+       "cyr": "голема свадба во село.",
+       "lat": "golema svadba vo selo.",
+       "en": "a big wedding in the village."
+      },
+      {
+       "cyr": "Женил се Петре војвода, леле,",
+       "lat": "Ženil se Petre vojvoda, lele,",
+       "en": "Peter vojvoda was getting married,"
+      },
+      {
+       "cyr": "женил се Петре војвода.",
+       "lat": "ženil se Petre vojvoda.",
+       "en": "Peter vojvoda was getting married."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поканил до девет сестри, леле,",
+       "lat": "Pokanil do devet sestri, lele,",
+       "en": "He invited his nine sisters,"
+      },
+      {
+       "cyr": "поканил до девет сестри.",
+       "lat": "pokanil do devet sestri.",
+       "en": "he invited his nine sisters."
+      },
+      {
+       "cyr": "Десетта сестра не канил, леле,",
+       "lat": "Desetta sestra ne kanil, lele,",
+       "en": "He didn't invite his tenth sister,"
+      },
+      {
+       "cyr": "десетта сестра не канил.",
+       "lat": "desetta sestra ne kanil.",
+       "en": "he didn't invite his tenth sister."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сам Петре дојде по неа, леле,",
+       "lat": "Sam Petre dojde po nea, lele,",
+       "en": "He went to invite her personally,"
+      },
+      {
+       "cyr": "сам Петре дојде по неа.",
+       "lat": "sam Petre dojde po nea.",
+       "en": "he went to invite her personally."
+      },
+      {
+       "cyr": "- Ај, дојди сестро на свадба, леле,",
+       "lat": "- Aj, dojdi sestro na svadba, lele,",
+       "en": "Come, sister, come to my wedding,"
+      },
+      {
+       "cyr": "ај, дојди сестро на свадба.",
+       "lat": "aj, dojdi sestro na svadba.",
+       "en": "come, sister, come to my wedding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не можам брату да дојдам, леле,",
+       "lat": "- Ne možam bratu da dojdam, lele,",
+       "en": "I can not come, my brother,"
+      },
+      {
+       "cyr": "не можам брату да дојдам.",
+       "lat": "ne možam bratu da dojdam.",
+       "en": "I can not come, my brother."
+      },
+      {
+       "cyr": "Тешка ми куќа на глава, леле,",
+       "lat": "Teška mi kuḱa na glava, lele,",
+       "en": "I have a household to worry about,"
+      },
+      {
+       "cyr": "тешка ми куќа на глава.",
+       "lat": "teška mi kuḱa na glava.",
+       "en": "I have a household to worry about."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Машко ми дете на раце, леле,",
+       "lat": "Maško mi dete na race, lele,",
+       "en": "I have a baby boy in my hands,"
+      },
+      {
+       "cyr": "машко ми дете на раце.",
+       "lat": "maško mi dete na race.",
+       "en": "I have a baby boy in my hands."
+      },
+      {
+       "cyr": "А друго лежи на срце, леле,",
+       "lat": "A drugo leži na srce, lele,",
+       "en": "And another one is in my heart,"
+      },
+      {
+       "cyr": "а друго лежи на срце.",
+       "lat": "a drugo leži na srce.",
+       "en": "and another one is in my heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

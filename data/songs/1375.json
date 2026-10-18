@@ -1,0 +1,145 @@
+{
+ "id": 1375,
+ "slug": "stanalo-ludo-rano-v-nedela",
+ "title_cyr": "Станало лудо рано в' недела",
+ "title_latin": "Stanalo ludo rano v' nedela",
+ "title_en": "A young man rose early on Sunday",
+ "pesna_url": "https://pesna.org/song/1375",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan song, no author named. 'лудо' in line 1 is my reading as 'young man' (literally 'crazy/young one'). Karaorman is a mountain and Debarca a region near Ohrid.",
+ "words_to_learn": [
+  {
+   "mk": "рано",
+   "en": "early"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "пушки грмеа",
+   "en": "rifles thundered"
+  },
+  {
+   "mk": "пламен",
+   "en": "flame"
+  },
+  {
+   "mk": "тажеа",
+   "en": "lamented, mourned"
+  },
+  {
+   "mk": "проклети",
+   "en": "cursed"
+  },
+  {
+   "mk": "запалија",
+   "en": "they set on fire"
+  },
+  {
+   "mk": "борци",
+   "en": "fighters"
+  },
+  {
+   "mk": "да изгинеме",
+   "en": "to fall (die)"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3557"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Станало лудо рано в' недела,",
+       "lat": "Stanalo ludo rano v' nedela,",
+       "en": "A young man rose early on Sunday,"
+      },
+      {
+       "cyr": "партизан д' оди в' гора зелена.",
+       "lat": "partizan d' odi v' gora zelena.",
+       "en": "a partisan goes to the green forest."
+      },
+      {
+       "cyr": "Штом се искачи горе над село,",
+       "lat": "Štom se iskači gore nad selo,",
+       "en": "As soon as he climbed up above the village,"
+      },
+      {
+       "cyr": "во Караорман пушки грмеа.",
+       "lat": "vo Karaorman puški grmea.",
+       "en": "in Karaorman rifles thundered."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цела Дебарца в' пламен се крена,",
+       "lat": "Cela Debarca v' plamen se krena,",
+       "en": "Whole Debarca rose up in flame,"
+      },
+      {
+       "cyr": "мајки тажеа, деца плачеа.",
+       "lat": "majki tažea, deca plačea.",
+       "en": "mothers lamented, children cried."
+      },
+      {
+       "cyr": "Проклети беа тие фашисти,",
+       "lat": "Prokleti bea tie fašisti,",
+       "en": "Cursed were those fascists,"
+      },
+      {
+       "cyr": "го запалија целото село.",
+       "lat": "go zapalija celoto selo.",
+       "en": "they burned down the whole village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Целото село, село Сливово,",
+       "lat": "Celoto selo, selo Slivovo,",
+       "en": "The whole village, the village of Slivovo,"
+      },
+      {
+       "cyr": "многу борци на глас викнаа:",
+       "lat": "mnogu borci na glas viknaa:",
+       "en": "many fighters shouted aloud:"
+      },
+      {
+       "cyr": "- Ајдете браќа да се бориме,",
+       "lat": "- Ajdete braḱa da se borime,",
+       "en": "- Come on, brothers, let us fight,"
+      },
+      {
+       "cyr": "сите д' изгинеме, не се жалиме!",
+       "lat": "site d' izgineme, ne se žalime!",
+       "en": "let us all fall, we do not regret it!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

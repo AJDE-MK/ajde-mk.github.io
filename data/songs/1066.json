@@ -1,0 +1,161 @@
+{
+ "id": 1066,
+ "slug": "tugjina-pusta-dalechina",
+ "title_cyr": "Туѓина пуста далечина",
+ "title_latin": "Tuǵina pusta dalečina",
+ "title_en": "Foreign Land, Bleak Distance",
+ "pesna_url": "https://pesna.org/song/1066",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. A gurbet (working abroad) farewell song; 'в' туѓина' is a contracted 'во'.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "кошула",
+   "en": "shirt"
+  },
+  {
+   "mk": "солза",
+   "en": "tear"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, exile"
+  },
+  {
+   "mk": "пуста",
+   "en": "bleak, desolate"
+  },
+  {
+   "mk": "дробни дечиња",
+   "en": "little children"
+  },
+  {
+   "mk": "скут",
+   "en": "lap"
+  },
+  {
+   "mk": "гушни ме",
+   "en": "hug me"
+  }
+ ],
+ "performers": [
+  "Ѓоко Јовиќ"
+ ],
+ "audio": [
+  {
+   "who": "Ѓоко Јовиќ",
+   "url": "https://pesna.org/audio-download/2477"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Спремај ми либе кошула бела,",
+       "lat": "Spremaj mi libe košula bela,",
+       "en": "Get ready for me, love, a white shirt,"
+      },
+      {
+       "cyr": "сокри од око ти солза врела.",
+       "lat": "sokri od oko ti solza vrela.",
+       "en": "hide the hot tear from your eye."
+      },
+      {
+       "cyr": "На пат ќе одам утре во зори,",
+       "lat": "Na pat ḱe odam utre vo zori,",
+       "en": "I will set out tomorrow at dawn,"
+      },
+      {
+       "cyr": "в' туѓина пуста со другари мои.",
+       "lat": "v' tuǵina pusta so drugari moi.",
+       "en": "to a bleak foreign land with my comrades."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туѓина, пуста далечина,",
+       "lat": "Tuǵina, pusta dalečina,",
+       "en": "Foreign land, bleak distance,"
+      },
+      {
+       "cyr": "одам рано пред месечина.",
+       "lat": "odam rano pred mesečina.",
+       "en": "I leave early before the moon."
+      },
+      {
+       "cyr": "Оставам дробни дечиња мои,",
+       "lat": "Ostavam drobni dečinja moi,",
+       "en": "I leave my little children,"
+      },
+      {
+       "cyr": "чувај ги мила, ко очите свои.",
+       "lat": "čuvaj gi mila, ko očite svoi.",
+       "en": "guard them, dear, like your own eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во скут ми седат дечиња мали,",
+       "lat": "Vo skut mi sedat dečinja mali,",
+       "en": "In my lap sit little children,"
+      },
+      {
+       "cyr": "мојата рака нежно ги гали.",
+       "lat": "mojata raka nežno gi gali.",
+       "en": "my hand gently strokes them."
+      },
+      {
+       "cyr": "Како да појдам, срце се кине,",
+       "lat": "Kako da pojdam, srce se kine,",
+       "en": "How can I go, my heart is tearing,"
+      },
+      {
+       "cyr": "гушни ме ќерко, гушни ме сине.",
+       "lat": "gušni me ḱerko, gušni me sine.",
+       "en": "hug me, daughter, hug me, son."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Туѓина, пуста далечина,",
+       "lat": "Tuǵina, pusta dalečina,",
+       "en": "Foreign land, bleak distance,"
+      },
+      {
+       "cyr": "одам рано пред месечина.",
+       "lat": "odam rano pred mesečina.",
+       "en": "I leave early before the moon."
+      },
+      {
+       "cyr": "Оставам дробни дечиња мои,",
+       "lat": "Ostavam drobni dečinja moi,",
+       "en": "I leave my little children,"
+      },
+      {
+       "cyr": "чувај ги мила, ко очите свои.",
+       "lat": "čuvaj gi mila, ko očite svoi.",
+       "en": "guard them, dear, like your own eyes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,133 @@
+{
+ "id": 1655,
+ "slug": "dojdi-leno-na-perniche-belo",
+ "title_cyr": "Дојди Лено на перниче бело",
+ "title_latin": "Dojdi Leno na perniče belo",
+ "title_en": "Come Lena on a white pillow",
+ "pesna_url": "https://pesna.org/song/1655",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Драган Мијалковски",
+  "Јордан Митев"
+ ],
+ "audio": [
+  {
+   "who": "Драган Мијалковски",
+   "url": "https://pesna.org/audio-download/4458"
+  },
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/4459"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Зимата дојде, снегот снежи,",
+       "lat": "Zimata dojde, snegot sneži,",
+       "en": "Winter has come, the snow is falling,"
+      },
+      {
+       "cyr": "в' постела ладна не се лежи.",
+       "lat": "v' postela ladna ne se leži.",
+       "en": "you can't lie in a cold bed."
+      },
+      {
+       "cyr": "Дојди ми Лено, кој ќе ме згрее,",
+       "lat": "Dojdi mi Leno, koj ḱe me zgree,",
+       "en": "Come to me Leno, who will warm me,"
+      },
+      {
+       "cyr": "без тебе ноќва пуста ќе е.",
+       "lat": "bez tebe noḱva pusta ḱe e.",
+       "en": "without you this night will be damned."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди Лено на перниче бело",
+       "lat": "Dojdi Leno na perniče belo",
+       "en": "Come to me Leno on a white pillow"
+      },
+      {
+       "cyr": "да ме грее топло тело,",
+       "lat": "da me gree toplo telo,",
+       "en": "so that your warm body can warm me,"
+      },
+      {
+       "cyr": "да те греат раце нежни",
+       "lat": "da te great race nežni",
+       "en": "so that gentle hands can warm you"
+      },
+      {
+       "cyr": "в' долги ноќи зимски, снежни.",
+       "lat": "v' dolgi noḱi zimski, snežni.",
+       "en": "on long winter, snowy nights."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Покривка бела, денот се гаси,",
+       "lat": "Pokrivka bela, denot se gasi,",
+       "en": "White blanket, the day is fading,"
+      },
+      {
+       "cyr": "дојди ми Лено, од студ ме спаси.",
+       "lat": "dojdi mi Leno, od stud me spasi.",
+       "en": "come to me Leno, save me from the cold."
+      },
+      {
+       "cyr": "Твоите усни пламени, врели",
+       "lat": "Tvoite usni plameni, vreli",
+       "en": "Your lips are flames, warm"
+      },
+      {
+       "cyr": "в' срце да стопат снегулки бели.",
+       "lat": "v' srce da stopat snegulki beli.",
+       "en": "may they melt the white snowflakes in my heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди Лено на перниче бело",
+       "lat": "Dojdi Leno na perniče belo",
+       "en": "Come to me Leno on a white pillow"
+      },
+      {
+       "cyr": "да ме грее топло тело,",
+       "lat": "da me gree toplo telo,",
+       "en": "so that a warm body can warm me,"
+      },
+      {
+       "cyr": "да те греат раце нежни",
+       "lat": "da te great race nežni",
+       "en": "so that gentle hands can warm you"
+      },
+      {
+       "cyr": "в' долги ноќи зимски, снежни.",
+       "lat": "v' dolgi noḱi zimski, snežni.",
+       "en": "on long winter, snowy nights."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

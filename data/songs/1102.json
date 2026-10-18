@@ -1,0 +1,90 @@
+{
+ "id": 1102,
+ "slug": "pesno-moja",
+ "title_cyr": "Песно моја",
+ "title_latin": "Pesno moja",
+ "title_en": "My song",
+ "pesna_url": "https://pesna.org/song/1102",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Влатко Лозаноски"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2644"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Песно моја, моја светлино,",
+       "lat": "Pesno moja, moja svetlino,",
+       "en": "My song, my light,"
+      },
+      {
+       "cyr": "вишно небо, моја планино,",
+       "lat": "višno nebo, moja planino,",
+       "en": "sky high, my mountain,"
+      },
+      {
+       "cyr": "бистра водо, рајска долино,",
+       "lat": "bistra vodo, rajska dolino,",
+       "en": "clear water, paradise valley,"
+      },
+      {
+       "cyr": "сестро моја, моја родино.",
+       "lat": "sestro moja, moja rodino.",
+       "en": "my sister, my homeland."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Песно моја, судбо моја мила,",
+       "lat": "Pesno moja, sudbo moja mila,",
+       "en": "My song, my dear faith,"
+      },
+      {
+       "cyr": "ти ме крепиш, ти ми даваш сила,",
+       "lat": "ti me krepiš, ti mi davaš sila,",
+       "en": "you support me, you give me strength,"
+      },
+      {
+       "cyr": "ти ме роди, ти ме водиш,",
+       "lat": "ti me rodi, ti me vodiš,",
+       "en": "you made me, you guide me,"
+      },
+      {
+       "cyr": "среќо небесна,",
+       "lat": "sreḱo nebesna,",
+       "en": "heavenly happiness,"
+      },
+      {
+       "cyr": "како сонце да си вечна,",
+       "lat": "kako sonce da si večna,",
+       "en": "may you be as eternal as the sun,"
+      },
+      {
+       "cyr": "песно најмила.",
+       "lat": "pesno najmila.",
+       "en": "dearest song."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

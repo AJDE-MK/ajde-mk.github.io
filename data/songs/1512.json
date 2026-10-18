@@ -1,0 +1,121 @@
+{
+ "id": 1512,
+ "slug": "dojdi-mi-naco-na-gosti",
+ "title_cyr": "Дојди ми Нацо на гости",
+ "title_latin": "Dojdi mi Naco na gosti",
+ "title_en": "Come Visit Me, Nacho",
+ "pesna_url": "https://pesna.org/song/1512",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Скути' is read here as 'lap' (my reading; the source notes also mention an apron sense). Last line 'my sweetheart has come to an end' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "дојди",
+   "en": "come (imperative)"
+  },
+  {
+   "mk": "на гости",
+   "en": "as a guest, visiting"
+  },
+  {
+   "mk": "скут",
+   "en": "lap; apron front"
+  },
+  {
+   "mk": "преспијам",
+   "en": "sleep over, sleep a while"
+  },
+  {
+   "mk": "дерт",
+   "en": "trouble, grief (Turkish loan)"
+  },
+  {
+   "mk": "искажам",
+   "en": "tell out, pour out"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "посврши",
+   "en": "came to an end"
+  }
+ ],
+ "performers": [
+  "Блага Видец"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/3954"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дојди ми Нацо, дојди ми,",
+       "lat": "Dojdi mi Naco, dojdi mi,",
+       "en": "Come, Nacho, come to me,"
+      },
+      {
+       "cyr": "дојди ми Нацо на гости.",
+       "lat": "dojdi mi Naco na gosti.",
+       "en": "come to me, Nacho, as a guest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На скути Нацо, на скути,",
+       "lat": "Na skuti Naco, na skuti,",
+       "en": "On your lap, Nacho, on your lap,"
+      },
+      {
+       "cyr": "на скути да ти преспијам.",
+       "lat": "na skuti da ti prespijam.",
+       "en": "on your lap let me sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дертои Нацо, дертои,",
+       "lat": "Dertoi Naco, dertoi,",
+       "en": "My troubles, Nacho, my troubles,"
+      },
+      {
+       "cyr": "дертои да ти искажам.",
+       "lat": "dertoi da ti iskažam.",
+       "en": "let me tell you my troubles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либето Нацо, либето,",
+       "lat": "Libeto Naco, libeto,",
+       "en": "My sweetheart, Nacho, my sweetheart,"
+      },
+      {
+       "cyr": "либето ми се посврши.",
+       "lat": "libeto mi se posvrši.",
+       "en": "my sweetheart has come to an end."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

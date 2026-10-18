@@ -1,0 +1,147 @@
+{
+ "id": 803,
+ "slug": "star-bel-dedo-ovci-pase",
+ "title_cyr": "Стар бел дедо овци пасе",
+ "title_latin": "Star bel dedo ovci pase",
+ "title_en": "Old White Grandfather Grazes Sheep",
+ "pesna_url": "https://pesna.org/song/803",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (patriotic song, no author I can name). Gotse and Jane are, in my reading, Goce Delchev and Jane Sandanski; 'нашиот цар пирински' (our Pirin tsar) is probably Sandanski.",
+ "words_to_learn": [
+  {
+   "mk": "дедо",
+   "en": "grandfather, old man"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "кротко",
+   "en": "calmly, gently"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (end-blown shepherd's flute)"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel leader"
+  },
+  {
+   "mk": "знаме",
+   "en": "banner, flag"
+  },
+  {
+   "mk": "детелина",
+   "en": "clover"
+  }
+ ],
+ "performers": [
+  "Македонска филхармонија",
+  "Ристе Велков",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1546"
+  },
+  {
+   "who": "Македонска филхармонија",
+   "url": "https://pesna.org/audio-download/1547"
+  },
+  {
+   "who": "Ристе Велков",
+   "url": "https://pesna.org/audio-download/2749"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стар бел дедо овци пасе",
+       "lat": "Star bel dedo ovci pase",
+       "en": "Old white grandfather grazes sheep"
+      },
+      {
+       "cyr": "горе на Пирина.",
+       "lat": "gore na Pirina.",
+       "en": "up on Pirin."
+      },
+      {
+       "cyr": "Стадото му кротко пасе",
+       "lat": "Stadoto mu krotko pase",
+       "en": "His flock grazes calmly"
+      },
+      {
+       "cyr": "трева детелина.",
+       "lat": "treva detelina.",
+       "en": "on clover grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стари дедо с' кавал свири",
+       "lat": "Stari dedo s' kaval sviri",
+       "en": "Old grandfather plays the kaval"
+      },
+      {
+       "cyr": "свири и нарежда:",
+       "lat": "sviri i narežda:",
+       "en": "plays and laments:"
+      },
+      {
+       "cyr": "- Де е Гоце, де е Јане,",
+       "lat": "- De e Goce, de e Jane,",
+       "en": "- Where is Gotse, where is Jane,"
+      },
+      {
+       "cyr": "нашите војводи?",
+       "lat": "našite vojvodi?",
+       "en": "our voivodes?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Де е Гоце, де е Јане",
+       "lat": "De e Goce, de e Jane",
+       "en": "Where is Gotse, where is Jane,"
+      },
+      {
+       "cyr": "нашиот цар пирински?",
+       "lat": "našiot car pirinski?",
+       "en": "our Pirin tsar?"
+      },
+      {
+       "cyr": "Знамето ни да развеат",
+       "lat": "Znameto ni da razveat",
+       "en": "May they raise our banner"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

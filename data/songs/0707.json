@@ -1,0 +1,220 @@
+{
+ "id": 707,
+ "slug": "bolna-padnala-rodna-falkova",
+ "title_cyr": "Болна паднала Родна Фалкова",
+ "title_latin": "Bolna padnala Rodna Falkova",
+ "title_en": "Sick has fallen Rodna Falkova",
+ "pesna_url": "https://pesna.org/song/707",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Стројници' read as matchmakers/suitors' envoys (my reading, dialect). 'Кога не ми се' rendered 'When I am not (willing)' is my reading and uncertain; the stanza may be Rodna's reply.",
+ "words_to_learn": [
+  {
+   "mk": "болна",
+   "en": "sick (fem.)"
+  },
+  {
+   "mk": "паднала",
+   "en": "has fallen"
+  },
+  {
+   "mk": "над глава",
+   "en": "above the head"
+  },
+  {
+   "mk": "стројници",
+   "en": "matchmakers, wedding envoys (dialect)"
+  },
+  {
+   "mk": "дојдоа",
+   "en": "they came"
+  },
+  {
+   "mk": "скопјани",
+   "en": "people from Skopje"
+  },
+  {
+   "mk": "свилен",
+   "en": "silk"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  }
+ ],
+ "performers": [
+  "Зоран Џорлев",
+  "Марија Луковска - Чибариќ",
+  "Петранка Костадинова",
+  "Трио Гранде"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев, Трио Гранде",
+   "url": "https://pesna.org/audio-download/91"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/463"
+  },
+  {
+   "who": "Марија Луковска - Чибариќ",
+   "url": "https://pesna.org/audio-download/3677"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болна паднала",
+       "lat": "Bolna padnala",
+       "en": "Sick has fallen"
+      },
+      {
+       "cyr": "Родна Фалкова.",
+       "lat": "Rodna Falkova.",
+       "en": "Rodna Falkova."
+      },
+      {
+       "cyr": "Болна паднала",
+       "lat": "Bolna padnala",
+       "en": "Sick has fallen"
+      },
+      {
+       "cyr": "Родна Фалкова.",
+       "lat": "Rodna Falkova.",
+       "en": "Rodna Falkova."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над глава ѝ седи",
+       "lat": "Nad glava ì sedi",
+       "en": "Above her head sits"
+      },
+      {
+       "cyr": "нејзина стара мајка.",
+       "lat": "nejzina stara majka.",
+       "en": "her old mother."
+      },
+      {
+       "cyr": "Над глава ѝ седи",
+       "lat": "Nad glava ì sedi",
+       "en": "Above her head sits"
+      },
+      {
+       "cyr": "нејзина стара мајка.",
+       "lat": "nejzina stara majka.",
+       "en": "her old mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани ми Родне",
+       "lat": "- Stani mi Rodne",
+       "en": "- Get up, my Rodna,"
+      },
+      {
+       "cyr": "стројници дојдоја.",
+       "lat": "strojnici dojdoja.",
+       "en": "the matchmakers have come."
+      },
+      {
+       "cyr": "- Стани ми Родне",
+       "lat": "- Stani mi Rodne",
+       "en": "- Get up, my Rodna,"
+      },
+      {
+       "cyr": "стројници дојдоа.",
+       "lat": "strojnici dojdoa.",
+       "en": "the matchmakers have come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стројници дојдоа",
+       "lat": "Strojnici dojdoa",
+       "en": "The matchmakers came,"
+      },
+      {
+       "cyr": "стројници скопјани.",
+       "lat": "strojnici skopjani.",
+       "en": "matchmakers from Skopje."
+      },
+      {
+       "cyr": "Стројници дојдоа",
+       "lat": "Strojnici dojdoa",
+       "en": "The matchmakers came,"
+      },
+      {
+       "cyr": "стројници скопјани.",
+       "lat": "strojnici skopjani.",
+       "en": "matchmakers from Skopje."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога не ми се",
+       "lat": "Koga ne mi se",
+       "en": "When I am not (willing)"
+      },
+      {
+       "cyr": "од Пешо Грозданов.",
+       "lat": "od Pešo Grozdanov.",
+       "en": "for Pesho Grozdanov."
+      },
+      {
+       "cyr": "Од Пешо Грозданов",
+       "lat": "Od Pešo Grozdanov",
+       "en": "For Pesho Grozdanov"
+      },
+      {
+       "cyr": "од Кавадарци.",
+       "lat": "od Kavadarci.",
+       "en": "from Kavadarci."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пешо ми купил",
+       "lat": "Pešo mi kupil",
+       "en": "Pesho bought me"
+      },
+      {
+       "cyr": "свилен фустан.",
+       "lat": "svilen fustan.",
+       "en": "a silk dress."
+      },
+      {
+       "cyr": "И тој ми рече",
+       "lat": "I toj mi reče",
+       "en": "And he told me"
+      },
+      {
+       "cyr": "долго ќе те сакам.",
+       "lat": "dolgo ḱe te sakam.",
+       "en": "I will love you long."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

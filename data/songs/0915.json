@@ -1,0 +1,328 @@
+{
+ "id": 915,
+ "slug": "stojne-le-stojne-nevesto",
+ "title_cyr": "Стојне ле, Стојне невесто",
+ "title_latin": "Stojne le, Stojne nevesto",
+ "title_en": "Stojna, oh, the young bride",
+ "pesna_url": "https://pesna.org/song/915",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Злате Антевски",
+  "Пепи Димоска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2033"
+  },
+  {
+   "who": "Злате Антевски",
+   "url": "https://pesna.org/audio-download/2136"
+  },
+  {
+   "who": "Пепи Димоска",
+   "url": "https://pesna.org/audio-download/2137"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојне ле, Стојне невесто",
+       "lat": "Stojne le, Stojne nevesto",
+       "en": "Stojna, oh, the young bride,"
+      },
+      {
+       "cyr": "саноќ е Стојна седела,",
+       "lat": "sanoḱ e Stojna sedela,",
+       "en": "at night Stojna sat,"
+      },
+      {
+       "cyr": "Стојана ми го чекала",
+       "lat": "Stojana mi go čekala",
+       "en": "she waited for Stojan"
+      },
+      {
+       "cyr": "од таја пуста меана.",
+       "lat": "od taja pusta meana.",
+       "en": "to come home from that damned pub."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сва ноќ е Стојна седела,",
+       "lat": "Sva noḱ e Stojna sedela,",
+       "en": "The whole night Stojna sat,"
+      },
+      {
+       "cyr": "до први петли, до втори,",
+       "lat": "do prvi petli, do vtori,",
+       "en": "until the first and second cock’s crie."
+      },
+      {
+       "cyr": "девет вретена напрела,",
+       "lat": "devet vretena naprela,",
+       "en": "She spun nine spindles,"
+      },
+      {
+       "cyr": "кола дрва изгорела:",
+       "lat": "kola drva izgorela:",
+       "en": "and burnt a waggon load of wood:"
+      },
+      {
+       "cyr": "- Уште го нема Стојана",
+       "lat": "- Ušte go nema Stojana",
+       "en": "- Stojan has still not come home"
+      },
+      {
+       "cyr": "од таа пуста меана.",
+       "lat": "od taa pusta meana.",
+       "en": "from that damned pub."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај ѝ вели свекрва:",
+       "lat": "Togaj ì veli svekrva:",
+       "en": "Then the mother-in-law came up:"
+      },
+      {
+       "cyr": "- Стојне ле, Стојне невесто,",
+       "lat": "- Stojne le, Stojne nevesto,",
+       "en": "- Stojna, oh, young bride,"
+      },
+      {
+       "cyr": "легни си Стојно, преспи си,",
+       "lat": "legni si Stojno, prespi si,",
+       "en": "lie down and sleep."
+      },
+      {
+       "cyr": "кога ќе дојде млад Стојан,",
+       "lat": "koga ḱe dojde mlad Stojan,",
+       "en": "When young Stojan comes back,"
+      },
+      {
+       "cyr": "јас ќе те Стојно разбудам,",
+       "lat": "jas ḱe te Stojno razbudam,",
+       "en": "I’ll wake you up,"
+      },
+      {
+       "cyr": "портата да му отвориш.",
+       "lat": "portata da mu otvoriš.",
+       "en": "so you can open the door to him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само што ми Стојна легнала",
+       "lat": "Samo što mi Stojna legnala",
+       "en": "But when Stojna had lied down,"
+      },
+      {
+       "cyr": "ете го Стојан кај иде,",
+       "lat": "ete go Stojan kaj ide,",
+       "en": "Stojan came,"
+      },
+      {
+       "cyr": "чука ми Стојан на порти,",
+       "lat": "čuka mi Stojan na porti,",
+       "en": "Stojan knocked at the door,"
+      },
+      {
+       "cyr": "нема ја Стојна да стане,",
+       "lat": "nema ja Stojna da stane,",
+       "en": "but Stojna did not come"
+      },
+      {
+       "cyr": "портата да му отвори,",
+       "lat": "portata da mu otvori,",
+       "en": "to open the door to him,"
+      },
+      {
+       "cyr": "Стојана да го пречека.",
+       "lat": "Stojana da go prečeka.",
+       "en": "to await him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да ја бие свекрва",
+       "lat": "Bog da ja bie svekrva",
+       "en": "May God punish the mother-in-law,"
+      },
+      {
+       "cyr": "што истрча порти отвори,",
+       "lat": "što istrča porti otvori,",
+       "en": "as she opened the door"
+      },
+      {
+       "cyr": "на Стојана му говори:",
+       "lat": "na Stojana mu govori:",
+       "en": "and spoke to Stojan:"
+      },
+      {
+       "cyr": "- Стојане сине, Стојане,",
+       "lat": "- Stojane sine, Stojane,",
+       "en": "- Stojan, my son Stojan,"
+      },
+      {
+       "cyr": "легнала Стојна, заспала,",
+       "lat": "legnala Stojna, zaspala,",
+       "en": "Stojna has gone to bed and is asleep,"
+      },
+      {
+       "cyr": "не може порти д' отвори.",
+       "lat": "ne može porti d' otvori.",
+       "en": "she cannot open the door to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојане сине, Стојане,",
+       "lat": "Stojane sine, Stojane,",
+       "en": "Stojan, my son Stojan,"
+      },
+      {
+       "cyr": "сва ноќ е Стојна седела,",
+       "lat": "sva noḱ e Stojna sedela,",
+       "en": "all night she was sitting here,"
+      },
+      {
+       "cyr": "сва ноќ е она играла",
+       "lat": "sva noḱ e ona igrala",
+       "en": "all night she was dancing,"
+      },
+      {
+       "cyr": "со твојте девет чирака.",
+       "lat": "so tvojte devet čiraka.",
+       "en": "with your nine apprentices."
+      },
+      {
+       "cyr": "Сега си она легнала,",
+       "lat": "Sega si ona legnala,",
+       "en": "Now she has gone to bed,"
+      },
+      {
+       "cyr": "легнала, тешко заспала.",
+       "lat": "legnala, teško zaspala.",
+       "en": "gone to bed and is fast asleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Луто се Стојан налути,",
+       "lat": "Luto se Stojan naluti,",
+       "en": "Stojan got very angry,"
+      },
+      {
+       "cyr": "па извади ноже од појас,",
+       "lat": "pa izvadi nože od pojas,",
+       "en": "took out his knife"
+      },
+      {
+       "cyr": "убоде Стојна невеста,",
+       "lat": "ubode Stojna nevesta,",
+       "en": "and stabbed his bride Stojna"
+      },
+      {
+       "cyr": "убоде среде срцето.",
+       "lat": "ubode srede srceto.",
+       "en": "stabbed her right into her heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ја виде свекрва",
+       "lat": "Koga ja vide svekrva",
+       "en": "When the mother-in-law saw this,"
+      },
+      {
+       "cyr": "на Стојан вели, говори:",
+       "lat": "na Stojan veli, govori:",
+       "en": "she exclaimed to her son:"
+      },
+      {
+       "cyr": "- Што стори сине, што стори,",
+       "lat": "- Što stori sine, što stori,",
+       "en": "- What did you do, son, what did you do?"
+      },
+      {
+       "cyr": "мајка се сине нашали,",
+       "lat": "majka se sine našali,",
+       "en": "Your mother just made a joke."
+      },
+      {
+       "cyr": "сва ноќ е Стојна седела",
+       "lat": "sva noḱ e Stojna sedela",
+       "en": "Stojna sat he whole night"
+      },
+      {
+       "cyr": "и тебе ми те чекала.",
+       "lat": "i tebe mi te čekala.",
+       "en": "and waited for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ја дочу мајка му,",
+       "lat": "Koga ja doču majka mu,",
+       "en": "When he heard his mother,"
+      },
+      {
+       "cyr": "извади Стојан ноженце,",
+       "lat": "izvadi Stojan nožence,",
+       "en": "Stojan took out his knife,"
+      },
+      {
+       "cyr": "самиот ми се прободе",
+       "lat": "samiot mi se probode",
+       "en": "stabbed it into his own body"
+      },
+      {
+       "cyr": "и на мајка му говори:",
+       "lat": "i na majka mu govori:",
+       "en": "and said to his mother:"
+      },
+      {
+       "cyr": "- Наиграј се мајко, напеј се,",
+       "lat": "- Naigraj se majko, napej se,",
+       "en": "- Dance all you want, sing all you want,"
+      },
+      {
+       "cyr": "без сина, мајко, без снаа.",
+       "lat": "bez sina, majko, bez snaa.",
+       "en": "without a son and without a daughter-in law."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

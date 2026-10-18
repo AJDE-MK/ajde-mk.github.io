@@ -1,0 +1,224 @@
+{
+ "id": 71,
+ "slug": "oj-devojche-devojche",
+ "title_cyr": "Ој девојче, девојче",
+ "title_latin": "Oj devojče, devojče",
+ "title_en": "Oh young girl, young girl",
+ "pesna_url": "https://pesna.org/song/71",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алексо Димов",
+  "Антонио Трајковски",
+  "Баклава",
+  "Виолета Томовска",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Жељко Јоксимовиќ",
+  "Зоран Џорлев",
+  "Ирена Спасовска",
+  "Мишко Крстевски",
+  "Тоше Проески",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/231"
+  },
+  {
+   "who": "Зоран Џорлев, Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/232"
+  },
+  {
+   "who": "Тоше Проески, Synthesis",
+   "url": "https://pesna.org/audio-download/233"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/234"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/235"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/236"
+  },
+  {
+   "who": "Тоше Проески, Synthesis",
+   "url": "https://pesna.org/audio-download/1355"
+  },
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/1356"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Жељко Јоксимовиќ",
+   "url": "https://pesna.org/audio-download/1802"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4313"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој девојче, девојче,",
+       "lat": "Oj devojče, devojče,",
+       "en": "Oh young girl, young girl,"
+      },
+      {
+       "cyr": "ти тетовско јаболче.",
+       "lat": "ti tetovsko jabolče.",
+       "en": "you apple from Tetovo."
+      },
+      {
+       "cyr": "Покажи белото лице,",
+       "lat": "Pokaži beloto lice,",
+       "en": "Show me your white face"
+      },
+      {
+       "cyr": "сакам да го видам јас.",
+       "lat": "sakam da go vidam jas.",
+       "en": "I want to see it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море момче, бре будало,",
+       "lat": "More momče, bre budalo,",
+       "en": "Hey boy, you fool,"
+      },
+      {
+       "cyr": "убаво јабанџиче.",
+       "lat": "ubavo jabandžiče.",
+       "en": "beautiful foreigner."
+      },
+      {
+       "cyr": "На фурна бело симитче",
+       "lat": "Na furna belo simitče",
+       "en": "A white simitche1 in the bakery,"
+      },
+      {
+       "cyr": "зарем не си видел ти?",
+       "lat": "zarem ne si videl ti?",
+       "en": "haven't you seen it?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој девојче, девојче,",
+       "lat": "Oj devojče, devojče,",
+       "en": "Oh young girl, young girl"
+      },
+      {
+       "cyr": "ти тетовско јаболче.",
+       "lat": "ti tetovsko jabolče.",
+       "en": "you apple from Tetovo."
+      },
+      {
+       "cyr": "Покажи црните очи,",
+       "lat": "Pokaži crnite oči,",
+       "en": "Show me your black eyes,"
+      },
+      {
+       "cyr": "сакам да ги видам јас.",
+       "lat": "sakam da gi vidam jas.",
+       "en": "I want to see them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море момче, бре будало,",
+       "lat": "More momče, bre budalo,",
+       "en": "Hey boy, you fool,"
+      },
+      {
+       "cyr": "убаво јабанџиче.",
+       "lat": "ubavo jabandžiče.",
+       "en": "beautiful foreigner."
+      },
+      {
+       "cyr": "В' чаршија црните веѓи",
+       "lat": "V' čaršija crnite veǵi",
+       "en": "In the bazaar, the black eyebrows"
+      },
+      {
+       "cyr": "зарем не си видел ти?",
+       "lat": "zarem ne si videl ti?",
+       "en": "haven't you seen them?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој девојче, девојче,",
+       "lat": "Oj devojče, devojče,",
+       "en": "Oh young girl, young girl"
+      },
+      {
+       "cyr": "ти тетовско јаболче.",
+       "lat": "ti tetovsko jabolče.",
+       "en": "you apple from Tetovo."
+      },
+      {
+       "cyr": "Покажи т'нката снага,",
+       "lat": "Pokaži t'nkata snaga,",
+       "en": "Show me your thin body,"
+      },
+      {
+       "cyr": "сакам да ја видам јас.",
+       "lat": "sakam da ja vidam jas.",
+       "en": "I want to see it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море момче, бре будало,",
+       "lat": "More momče, bre budalo,",
+       "en": "Hey boy, you fool,"
+      },
+      {
+       "cyr": "убаво јабанџиче.",
+       "lat": "ubavo jabandžiče.",
+       "en": "beautiful foreigner."
+      },
+      {
+       "cyr": "В' градина т'нка топола",
+       "lat": "V' gradina t'nka topola",
+       "en": "There is a poplar tree in the garden"
+      },
+      {
+       "cyr": "зарем не си видел ти?",
+       "lat": "zarem ne si videl ti?",
+       "en": "haven't you seen it?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

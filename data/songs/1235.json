@@ -1,0 +1,166 @@
+{
+ "id": 1235,
+ "slug": "odi-dzvezdo",
+ "title_cyr": "Оди ѕвездо",
+ "title_latin": "Odi dzvezdo",
+ "title_en": "Go, Star",
+ "pesna_url": "https://pesna.org/song/1235",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern song. 'Срцево ме стега' is my reading: 'my heart squeezes me'; the last stanza line 'ѝ го дадов' is read as 'gave it to her'.",
+ "words_to_learn": [
+  {
+   "mk": "ѕвезда",
+   "en": "star"
+  },
+  {
+   "mk": "сенка",
+   "en": "shadow"
+  },
+  {
+   "mk": "згасни",
+   "en": "fade out, go out"
+  },
+  {
+   "mk": "скриј се",
+   "en": "hide (yourself)"
+  },
+  {
+   "mk": "темнеј",
+   "en": "grow dark"
+  },
+  {
+   "mk": "блазе тебе",
+   "en": "lucky you, happy you"
+  },
+  {
+   "mk": "стега",
+   "en": "squeezes, tightens"
+  },
+  {
+   "mk": "бегам",
+   "en": "I run away"
+  }
+ ],
+ "performers": [
+  "Антонио Трајковски",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/3084"
+  },
+  {
+   "who": "Антонио Трајковски",
+   "url": "https://pesna.org/audio-download/4299"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Оди ѕвездо, ах.",
+       "lat": "Odi dzvezdo, ah.",
+       "en": "Go, star, ah."
+      },
+      {
+       "cyr": "Оди ѕвездо, сенко моја, оди негде згасни,",
+       "lat": "Odi dzvezdo, senko moja, odi negde zgasni,",
+       "en": "Go, star, my shadow, go and fade out somewhere,"
+      },
+      {
+       "cyr": "скриј се негде ѕвездо моја, оди таму заспи.",
+       "lat": "skrij se negde dzvezdo moja, odi tamu zaspi.",
+       "en": "hide somewhere, my star, go and sleep there."
+      },
+      {
+       "cyr": "Оди ѕвездо, сенко моја, оди негде згасни,",
+       "lat": "Odi dzvezdo, senko moja, odi negde zgasni,",
+       "en": "Go, star, my shadow, go and fade out somewhere,"
+      },
+      {
+       "cyr": "скриј се негде, ѕвездо моја, оди таму заспи.",
+       "lat": "skrij se negde, dzvezdo moja, odi tamu zaspi.",
+       "en": "hide somewhere, my star, go and sleep there."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Темнеј таму, ах.",
+       "lat": "Temnej tamu, ah.",
+       "en": "Grow dark there, ah."
+      },
+      {
+       "cyr": "Темнеј таму ѕвездо моја, срцево ме стега,",
+       "lat": "Temnej tamu dzvezdo moja, srcevo me stega,",
+       "en": "Grow dark there, my star, my heart is tight,"
+      },
+      {
+       "cyr": "темни зимо, ладна зимо, нема кај да бегам.",
+       "lat": "temni zimo, ladna zimo, nema kaj da begam.",
+       "en": "grow dark, winter, cold winter, there is nowhere for me to run."
+      },
+      {
+       "cyr": "Темнеј таму ѕвездо моја, срцево ме стега,",
+       "lat": "Temnej tamu dzvezdo moja, srcevo me stega,",
+       "en": "Grow dark there, my star, my heart is tight,"
+      },
+      {
+       "cyr": "темни зимо, ладна зимо, нема кај да бегам.",
+       "lat": "temni zimo, ladna zimo, nema kaj da begam.",
+       "en": "grow dark, winter, cold winter, there is nowhere for me to run."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Блазе тебе, ах.",
+       "lat": "Blaze tebe, ah.",
+       "en": "Happy you, ah."
+      },
+      {
+       "cyr": "Блазе тебе ѕвездо моја, ти си имаш небо,",
+       "lat": "Blaze tebe dzvezdo moja, ti si imaš nebo,",
+       "en": "Happy you, my star, you have your sky,"
+      },
+      {
+       "cyr": "блазе тебе зимо ладна, си го имаш снегот.",
+       "lat": "blaze tebe zimo ladna, si go imaš snegot.",
+       "en": "happy you, cold winter, you have your snow."
+      },
+      {
+       "cyr": "А пак мене, ѕвездо моја, што ќе ми е живот?",
+       "lat": "A pak mene, dzvezdo moja, što ḱe mi e život?",
+       "en": "But as for me, my star, what is life to me?"
+      },
+      {
+       "cyr": "И тој што го имав, ѕвездо, ѝ го дадов сиот.",
+       "lat": "I toj što go imav, dzvezdo, ì go dadov siot.",
+       "en": "And the one I had, star, I gave it all to her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Блазе тебе, звездо.",
+       "lat": "Blaze tebe, zvezdo.",
+       "en": "Happy you, star."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

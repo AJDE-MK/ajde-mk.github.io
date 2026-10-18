@@ -1,0 +1,359 @@
+{
+ "id": 1115,
+ "slug": "oj-jankula-mili-sinko",
+ "title_cyr": "Ој Јанкула мили синко",
+ "title_latin": "Oj Jankula mili sinko",
+ "title_en": "Oh Jankula, Dear Son",
+ "pesna_url": "https://pesna.org/song/1115",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The mother's first speech is my reading (she reproaches Jankula's hospitality). 'Мутавче' (a woven kerchief/rough cloth) and 'угу' (I read as 'only') are guesses, as is 'со капина опашана'.",
+ "words_to_learn": [
+  {
+   "mk": "посестрима",
+   "en": "sworn sister"
+  },
+  {
+   "mk": "побратими",
+   "en": "sworn brothers, blood-brothers"
+  },
+  {
+   "mk": "калуѓер",
+   "en": "monk"
+  },
+  {
+   "mk": "кукавица",
+   "en": "cuckoo"
+  },
+  {
+   "mk": "кале",
+   "en": "fortress, castle wall"
+  },
+  {
+   "mk": "тополи",
+   "en": "poplars"
+  },
+  {
+   "mk": "чешми",
+   "en": "fountains"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "red wine"
+  },
+  {
+   "mk": "разурнато",
+   "en": "ruined, destroyed"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Јанкула мили синко,",
+       "lat": "- Oj Jankula mili sinko,",
+       "en": "- Oh Jankula, dear son,"
+      },
+      {
+       "cyr": "малце куќа подрасипа",
+       "lat": "malce kuḱa podrasipa",
+       "en": "the house was ruined a little"
+      },
+      {
+       "cyr": "од пиење, од јадење",
+       "lat": "od pienje, od jadenje",
+       "en": "by drinking, by eating"
+      },
+      {
+       "cyr": "и од госје дочеквање,",
+       "lat": "i od gosje dočekvanje,",
+       "en": "and by receiving guests,"
+      },
+      {
+       "cyr": "сека вечер побратими,",
+       "lat": "seka večer pobratimi,",
+       "en": "every evening blood-brothers,"
+      },
+      {
+       "cyr": "а наутро посестрими.",
+       "lat": "a nautro posestrimi.",
+       "en": "and in the morning blood-sisters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Криво падна на Јанкула",
+       "lat": "Krivo padna na Jankula",
+       "en": "It went wrong for Jankula"
+      },
+      {
+       "cyr": "и ми летна планината,",
+       "lat": "i mi letna planinata,",
+       "en": "and he flew to the mountain,"
+      },
+      {
+       "cyr": "там' го нашол манастирот,",
+       "lat": "tam' go našol manastirot,",
+       "en": "there he found a monastery,"
+      },
+      {
+       "cyr": "ми се сторил калуѓера.",
+       "lat": "mi se storil kaluǵera.",
+       "en": "and became a monk."
+      },
+      {
+       "cyr": "Три години црн калуѓер",
+       "lat": "Tri godini crn kaluǵer",
+       "en": "Three years a black monk,"
+      },
+      {
+       "cyr": "жива душа не видело,",
+       "lat": "živa duša ne videlo,",
+       "en": "he saw no living soul,"
+      },
+      {
+       "cyr": "угу една кукавица.",
+       "lat": "ugu edna kukavica.",
+       "en": "only one cuckoo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кукавице, мила сестро,",
+       "lat": "- Kukavice, mila sestro,",
+       "en": "- Cuckoo, dear sister,"
+      },
+      {
+       "cyr": "ќе те ватам посестрима,",
+       "lat": "ḱe te vatam posestrima,",
+       "en": "I will take you as a blood-sister,"
+      },
+      {
+       "cyr": "ќе те пуштам мојто село,",
+       "lat": "ḱe te puštam mojto selo,",
+       "en": "I will send you to my village,"
+      },
+      {
+       "cyr": "мојто село, мојта куќа.",
+       "lat": "mojto selo, mojta kuḱa.",
+       "en": "my village, my house."
+      },
+      {
+       "cyr": "- Ој Јанкула, мило брате,",
+       "lat": "- Oj Jankula, milo brate,",
+       "en": "- Oh Jankula, dear brother,"
+      },
+      {
+       "cyr": "јас ти незнам твојто село,",
+       "lat": "jas ti neznam tvojto selo,",
+       "en": "I do not know your village,"
+      },
+      {
+       "cyr": "твојто село, твојта куќа!",
+       "lat": "tvojto selo, tvojta kuḱa!",
+       "en": "your village, your house!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кукавице, мила сестро,",
+       "lat": "- Kukavice, mila sestro,",
+       "en": "- Cuckoo, dear sister,"
+      },
+      {
+       "cyr": "мојта куќа бележита,",
+       "lat": "mojta kuḱa beležita,",
+       "en": "my house is well marked,"
+      },
+      {
+       "cyr": "со кале е заградена,",
+       "lat": "so kale e zagradena,",
+       "en": "it is enclosed with a fortress wall,"
+      },
+      {
+       "cyr": "во калето три тополи,",
+       "lat": "vo kaleto tri topoli,",
+       "en": "in the fortress three poplars,"
+      },
+      {
+       "cyr": "а три чешми под тополи.",
+       "lat": "a tri češmi pod topoli.",
+       "en": "and three fountains under the poplars."
+      },
+      {
+       "cyr": "Прва тече студна вода,",
+       "lat": "Prva teče studna voda,",
+       "en": "The first runs cold water,"
+      },
+      {
+       "cyr": "друга тече баш ракија,",
+       "lat": "druga teče baš rakija,",
+       "en": "the second runs real brandy,"
+      },
+      {
+       "cyr": "трета тече рујно вино.",
+       "lat": "treta teče rujno vino.",
+       "en": "the third runs red wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ми летна кукавица,",
+       "lat": "I mi letna kukavica,",
+       "en": "And the cuckoo flew,"
+      },
+      {
+       "cyr": "и ми пошла во селото,",
+       "lat": "i mi pošla vo seloto,",
+       "en": "and set off to the village,"
+      },
+      {
+       "cyr": "во селото кај куќата,",
+       "lat": "vo seloto kaj kuḱata,",
+       "en": "to the village, to the house,"
+      },
+      {
+       "cyr": "ми застана на калето.",
+       "lat": "mi zastana na kaleto.",
+       "en": "she stopped on the fortress wall."
+      },
+      {
+       "cyr": "Кале било разурнато,",
+       "lat": "Kale bilo razurnato,",
+       "en": "The fortress was in ruins,"
+      },
+      {
+       "cyr": "тополите исушени,",
+       "lat": "topolite isušeni,",
+       "en": "the poplars withered,"
+      },
+      {
+       "cyr": "а чешмите пресекнати.",
+       "lat": "a češmite preseknati.",
+       "en": "and the fountains dried up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кукавица три дни кука,",
+       "lat": "Kukavica tri dni kuka,",
+       "en": "The cuckoo called three days,"
+      },
+      {
+       "cyr": "три дни кука и три ноќи,",
+       "lat": "tri dni kuka i tri noḱi,",
+       "en": "called three days and three nights,"
+      },
+      {
+       "cyr": "жива душа не испадна.",
+       "lat": "živa duša ne ispadna.",
+       "en": "no living soul came out."
+      },
+      {
+       "cyr": "Ми испадна една баба",
+       "lat": "Mi ispadna edna baba",
+       "en": "An old woman came out"
+      },
+      {
+       "cyr": "со мутавче преврзана,",
+       "lat": "so mutavče prevrzana,",
+       "en": "with a kerchief tied on,"
+      },
+      {
+       "cyr": "со капина опашана.",
+       "lat": "so kapina opašana.",
+       "en": "wrapped in brambles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ми летна кукавица",
+       "lat": "I mi letna kukavica",
+       "en": "And the cuckoo flew"
+      },
+      {
+       "cyr": "и ми пошла планината:",
+       "lat": "i mi pošla planinata:",
+       "en": "and set off to the mountain:"
+      },
+      {
+       "cyr": "- Ој Јанкула мило брате,",
+       "lat": "- Oj Jankula milo brate,",
+       "en": "- Oh Jankula, dear brother,"
+      },
+      {
+       "cyr": "кале ти се разурнало,",
+       "lat": "kale ti se razurnalo,",
+       "en": "your fortress is in ruins,"
+      },
+      {
+       "cyr": "тополите с' исушиле,",
+       "lat": "topolite s' isušile,",
+       "en": "the poplars have withered,"
+      },
+      {
+       "cyr": "а чешмите пресекнале.",
+       "lat": "a češmite preseknale.",
+       "en": "and the fountains have dried up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас си кукав до три дена",
+       "lat": "Jas si kukav do tri dena",
+       "en": "I called for three days,"
+      },
+      {
+       "cyr": "до три дена и три ноќи,",
+       "lat": "do tri dena i tri noḱi,",
+       "en": "for three days and three nights,"
+      },
+      {
+       "cyr": "жива душа не испадна.",
+       "lat": "živa duša ne ispadna.",
+       "en": "no living soul came out."
+      },
+      {
+       "cyr": "Mи испадна една баба",
+       "lat": "Mi ispadna edna baba",
+       "en": "An old woman came out"
+      },
+      {
+       "cyr": "со мутавче преврзана,",
+       "lat": "so mutavče prevrzana,",
+       "en": "with a kerchief tied on,"
+      },
+      {
+       "cyr": "со капина опашана!",
+       "lat": "so kapina opašana!",
+       "en": "wrapped in brambles!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

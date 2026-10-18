@@ -1,0 +1,200 @@
+{
+ "id": 629,
+ "slug": "kade-si-trgnalo-abre-baj-postole",
+ "title_cyr": "Каде си тргнало абре бај Постоле",
+ "title_latin": "Kade si trgnalo abre baj Postole",
+ "title_en": "Where Have You Set Off To, Hey Uncle Postol",
+ "pesna_url": "https://pesna.org/song/629",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Note says it commemorates voivoda Apostol Petkov of Enidze Vardar. 'Постоле' is the vocative of Postol, short for Apostol. 'први шпиони' translated as 'first-rate spies' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "абре",
+   "en": "hey (interjection, Turkish-origin)"
+  },
+  {
+   "mk": "бај",
+   "en": "uncle, respectful address for an older man"
+  },
+  {
+   "mk": "пусија",
+   "en": "ambush"
+  },
+  {
+   "mk": "аман",
+   "en": "alas, oh mercy (Turkish-origin)"
+  },
+  {
+   "mk": "клети",
+   "en": "cursed, damned"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "шпиони",
+   "en": "spies"
+  },
+  {
+   "mk": "фатат",
+   "en": "(they) catch"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Непознат изведувач",
+  "Николас Бочварис",
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/917"
+  },
+  {
+   "who": "Николас Бочварис",
+   "url": "https://pesna.org/audio-download/919"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/920"
+  },
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/2664"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде си тргнало, абре бај Постоле",
+       "lat": "Kade si trgnalo, abre baj Postole",
+       "en": "Where have you set off to, hey uncle Postol,"
+      },
+      {
+       "cyr": "каде си тргнало по ноќно време,",
+       "lat": "kade si trgnalo po noḱno vreme,",
+       "en": "where have you set off to in the night time,"
+      },
+      {
+       "cyr": "аман, аман, аман по ноќно време",
+       "lat": "aman, aman, aman po noḱno vreme",
+       "en": "aman, aman, aman, in the night time,"
+      },
+      {
+       "cyr": "аман, аман, аман по месечина.",
+       "lat": "aman, aman, aman po mesečina.",
+       "en": "aman, aman, aman, by the moonlight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пат ми те чекаат абре бај Постоле",
+       "lat": "Na pat mi te čekaat abre baj Postole",
+       "en": "On the road they are waiting for you, hey uncle Postol,"
+      },
+      {
+       "cyr": "на пат ми те чекаат до три пусии,",
+       "lat": "na pat mi te čekaat do tri pusii,",
+       "en": "on the road they are waiting for you, at three ambushes,"
+      },
+      {
+       "cyr": "аман, аман, аман до три пусии,",
+       "lat": "aman, aman, aman do tri pusii,",
+       "en": "aman, aman, aman, at three ambushes,"
+      },
+      {
+       "cyr": "аман, аман, аман до три пусии.",
+       "lat": "aman, aman, aman do tri pusii.",
+       "en": "aman, aman, aman, at three ambushes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првата пусија абре бај Постоле",
+       "lat": "Prvata pusija abre baj Postole",
+       "en": "The first ambush, hey uncle Postol,"
+      },
+      {
+       "cyr": "прва пусија турски черкези,",
+       "lat": "prva pusija turski čerkezi,",
+       "en": "the first ambush is Turkish Circassians,"
+      },
+      {
+       "cyr": "аман, аман, аман турски черкези,",
+       "lat": "aman, aman, aman turski čerkezi,",
+       "en": "aman, aman, aman, Turkish Circassians,"
+      },
+      {
+       "cyr": "аман, аман, аман турски черкези.",
+       "lat": "aman, aman, aman turski čerkezi.",
+       "en": "aman, aman, aman, Turkish Circassians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втората пусија абре бај Постоле",
+       "lat": "Vtorata pusija abre baj Postole",
+       "en": "The second ambush, hey uncle Postol,"
+      },
+      {
+       "cyr": "втора пусија клети душмани,",
+       "lat": "vtora pusija kleti dušmani,",
+       "en": "the second ambush is cursed enemies,"
+      },
+      {
+       "cyr": "аман, аман, аман клети душмани,",
+       "lat": "aman, aman, aman kleti dušmani,",
+       "en": "aman, aman, aman, cursed enemies,"
+      },
+      {
+       "cyr": "аман, аман, аман клети душмани.",
+       "lat": "aman, aman, aman kleti dušmani.",
+       "en": "aman, aman, aman, cursed enemies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Третата пусија абре бај Постоле",
+       "lat": "Tretata pusija abre baj Postole",
+       "en": "The third ambush, hey uncle Postol,"
+      },
+      {
+       "cyr": "трета пусија први шпиони,",
+       "lat": "treta pusija prvi špioni,",
+       "en": "the third ambush is first-rate spies,"
+      },
+      {
+       "cyr": "на пат ми те чекаат тебе да те фатат,",
+       "lat": "na pat mi te čekaat tebe da te fatat,",
+       "en": "on the road they are waiting for you, to catch you,"
+      },
+      {
+       "cyr": "аман, аман, аман тебе да те фатат.",
+       "lat": "aman, aman, aman tebe da te fatat.",
+       "en": "aman, aman, aman, to catch you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

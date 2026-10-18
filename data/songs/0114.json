@@ -1,0 +1,89 @@
+{
+ "id": 114,
+ "slug": "gjul-trendafil",
+ "title_cyr": "Ѓул трендафил",
+ "title_latin": "Ǵul trendafil",
+ "title_en": "Rose",
+ "pesna_url": "https://pesna.org/song/114",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ацо Андонов"
+ ],
+ "audio": [
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/1594"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ѓул трендафил у башче вило, развило.",
+       "lat": "Ǵul trendafil u bašče vilo, razvilo.",
+       "en": "A rose in the garden started to grow."
+      },
+      {
+       "cyr": "Дошло моме, аман, аман, да го бере, оф аман,",
+       "lat": "Došlo mome, aman, aman, da go bere, of aman,",
+       "en": "A girl came, oh, to pick it, oh,"
+      },
+      {
+       "cyr": "дошло моме, аман, аман, да го бере.",
+       "lat": "došlo mome, aman, aman, da go bere.",
+       "en": "a girl came to pick it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај што брало там' заспало, се успало.",
+       "lat": "Kaj što bralo tam' zaspalo, se uspalo.",
+       "en": "While she was picking, she fell asleep."
+      },
+      {
+       "cyr": "Дошло момче дилберче да го буди, оф аман,",
+       "lat": "Došlo momče dilberče da go budi, of aman,",
+       "en": "A dear boy came to wake her up, oh,"
+      },
+      {
+       "cyr": "дошло момче дилберче да го буди.",
+       "lat": "došlo momče dilberče da go budi.",
+       "en": "a dear boy came to wake her up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани, стани малој моме, лично моме.",
+       "lat": "Stani, stani maloj mome, lično mome.",
+       "en": "Get up, get up little girl, pretty girl."
+      },
+      {
+       "cyr": "Либето ти се посврши, ем ожени, оф аман,",
+       "lat": "Libeto ti se posvrši, em oženi, of aman,",
+       "en": "Your love is engaged and married, oh,"
+      },
+      {
+       "cyr": "либето ти се посврши, ем ожени.",
+       "lat": "libeto ti se posvrši, em oženi.",
+       "en": "your love is engaged and married."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

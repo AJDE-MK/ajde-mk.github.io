@@ -1,0 +1,130 @@
+{
+ "id": 847,
+ "slug": "legnala-dana",
+ "title_cyr": "Легнала Дана",
+ "title_latin": "Legnala Dana",
+ "title_en": "Dana lay down",
+ "pesna_url": "https://pesna.org/song/847",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Елена Трајчева",
+  "Костадинка Палазова",
+  "Марина Пухариќ",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/1830"
+  },
+  {
+   "who": "Елена Трајчева",
+   "url": "https://pesna.org/audio-download/2534"
+  },
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2541"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2542"
+  },
+  {
+   "who": "Марина Пухариќ",
+   "url": "https://pesna.org/audio-download/3232"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Легнала Дана, заспала, леле Боже,",
+       "lat": "Legnala Dana, zaspala, lele Bože,",
+       "en": "Dana lay down and fell asleep, God,"
+      },
+      {
+       "cyr": "во чичовата ледина,",
+       "lat": "vo čičovata ledina,",
+       "en": "in the uncle's garden,"
+      },
+      {
+       "cyr": "под едно дрво маслина.",
+       "lat": "pod edno drvo maslina.",
+       "en": "under an olive tree."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дувна ми ветар од море, леле Боже,",
+       "lat": "Duvna mi vetar od more, lele Bože,",
+       "en": "A wind blowing from the sea, God,"
+      },
+      {
+       "cyr": "ми скрши грана маслина,",
+       "lat": "mi skrši grana maslina,",
+       "en": "broke an olive branch,"
+      },
+      {
+       "cyr": "удри ја Дана по чело.",
+       "lat": "udri ja Dana po čelo.",
+       "en": "hit Dana on the forehead."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викнала Дана да плаче, леле Боже:",
+       "lat": "Viknala Dana da plače, lele Bože:",
+       "en": "Dana began to cry, God"
+      },
+      {
+       "cyr": "- Оф леле Боже, добога,",
+       "lat": "- Of lele Bože, doboga,",
+       "en": "- Oh, lele, God, God,"
+      },
+      {
+       "cyr": "как' ќе си одам до дома?",
+       "lat": "kak' ḱe si odam do doma?",
+       "en": "how can I go home?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ка ќе си одам до дома, леле Боже,",
+       "lat": "Ka ḱe si odam do doma, lele Bože,",
+       "en": "When I go home, God,"
+      },
+      {
+       "cyr": "как' ќе и кажам на мама?",
+       "lat": "kak' ḱe i kažam na mama?",
+       "en": "how can I tell my mother?"
+      },
+      {
+       "cyr": "Мама ќе каже на тате.",
+       "lat": "Mama ḱe kaže na tate.",
+       "en": "Mother will tell father."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

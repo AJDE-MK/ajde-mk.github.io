@@ -1,0 +1,251 @@
+{
+ "id": 580,
+ "slug": "ej-more-devojche",
+ "title_cyr": "Еј море девојче",
+ "title_latin": "Ej more devojče",
+ "title_en": "Hey, Dear Girl",
+ "pesna_url": "https://pesna.org/song/580",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern-sounding love song; origin unclear, I cannot name an author. Line 'да ја љубам јас бре моме' (her/ја) is as written, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "девојче",
+   "en": "little girl, girl"
+  },
+  {
+   "mk": "ергенче",
+   "en": "young bachelor"
+  },
+  {
+   "mk": "моме",
+   "en": "girl (vocative)"
+  },
+  {
+   "mk": "момче",
+   "en": "boy, lad"
+  },
+  {
+   "mk": "лудувам",
+   "en": "I am going mad (for)"
+  },
+  {
+   "mk": "бакнежи",
+   "en": "kisses"
+  },
+  {
+   "mk": "медена",
+   "en": "honeyed"
+  },
+  {
+   "mk": "подарувам",
+   "en": "I give as a gift"
+  },
+  {
+   "mk": "не ме оставај",
+   "en": "do not leave me"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј море девојче лично, убаво",
+       "lat": "Ej more devojče lično, ubavo",
+       "en": "Hey dear girl, pretty, beautiful,"
+      },
+      {
+       "cyr": "очите твои секој миг",
+       "lat": "očite tvoi sekoj mig",
+       "en": "your eyes every moment"
+      },
+      {
+       "cyr": "со љубов ме гледаат",
+       "lat": "so ljubov me gledaat",
+       "en": "look at me with love,"
+      },
+      {
+       "cyr": "да се само мој,",
+       "lat": "da se samo moj,",
+       "en": "be only mine,"
+      },
+      {
+       "cyr": "да им се радувам",
+       "lat": "da im se raduvam",
+       "en": "so that I may enjoy them,"
+      },
+      {
+       "cyr": "да ги љубам јас од срце",
+       "lat": "da gi ljubam jas od srce",
+       "en": "so that I may kiss them from the heart,"
+      },
+      {
+       "cyr": "не ме оставај.",
+       "lat": "ne me ostavaj.",
+       "en": "do not leave me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј девојче мое",
+       "lat": "Ej devojče moe",
+       "en": "Hey my girl,"
+      },
+      {
+       "cyr": "ах ергенче мило.",
+       "lat": "ah ergenče milo.",
+       "en": "oh dear bachelor."
+      },
+      {
+       "cyr": "За тебе моме лудувам, моме лудувам",
+       "lat": "Za tebe mome luduvam, mome luduvam",
+       "en": "I am mad for you, girl, I am mad,"
+      },
+      {
+       "cyr": "за тебе момче живеам, ти си живот мој.",
+       "lat": "za tebe momče živeam, ti si život moj.",
+       "en": "I live for you, boy, you are my life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море девојче мило, убаво",
+       "lat": "Ej more devojče milo, ubavo",
+       "en": "Hey dear girl, sweet, beautiful,"
+      },
+      {
+       "cyr": "твојата уста медена",
+       "lat": "tvojata usta medena",
+       "en": "your honeyed mouth"
+      },
+      {
+       "cyr": "со љубов ме бакнува",
+       "lat": "so ljubov me baknuva",
+       "en": "kisses me with love,"
+      },
+      {
+       "cyr": "топли бакнежи",
+       "lat": "topli bakneži",
+       "en": "warm kisses"
+      },
+      {
+       "cyr": "од срце ми даруваш",
+       "lat": "od srce mi daruvaš",
+       "en": "you give me from the heart,"
+      },
+      {
+       "cyr": "да ја љубам јас бре моме",
+       "lat": "da ja ljubam jas bre mome",
+       "en": "so that I may love her, hey girl,"
+      },
+      {
+       "cyr": "не ме оставај.",
+       "lat": "ne me ostavaj.",
+       "en": "do not leave me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј девојче мое",
+       "lat": "Ej devojče moe",
+       "en": "Hey my girl,"
+      },
+      {
+       "cyr": "ах ергенче мило.",
+       "lat": "ah ergenče milo.",
+       "en": "oh dear bachelor."
+      },
+      {
+       "cyr": "За тебе моме лудувам, моме лудувам",
+       "lat": "Za tebe mome luduvam, mome luduvam",
+       "en": "I am mad for you, girl, I am mad,"
+      },
+      {
+       "cyr": "за тебе момче живеам, ти си живот мој.",
+       "lat": "za tebe momče živeam, ti si život moj.",
+       "en": "I live for you, boy, you are my life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море ергенче мило, убаво",
+       "lat": "Ej more ergenče milo, ubavo",
+       "en": "Hey dear bachelor, sweet, beautiful,"
+      },
+      {
+       "cyr": "моево срце мило момче",
+       "lat": "moevo srce milo momče",
+       "en": "this heart of mine, dear boy,"
+      },
+      {
+       "cyr": "ти го подарувам јас",
+       "lat": "ti go podaruvam jas",
+       "en": "I give to you,"
+      },
+      {
+       "cyr": "да си само мој",
+       "lat": "da si samo moj",
+       "en": "so that you are only mine,"
+      },
+      {
+       "cyr": "да ти се радувам",
+       "lat": "da ti se raduvam",
+       "en": "so that I may enjoy you,"
+      },
+      {
+       "cyr": "да те љубам младо момче",
+       "lat": "da te ljubam mlado momče",
+       "en": "so that I may love you, young boy,"
+      },
+      {
+       "cyr": "ти си живот мој.",
+       "lat": "ti si život moj.",
+       "en": "you are my life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј девојче мое",
+       "lat": "Ej devojče moe",
+       "en": "Hey my girl,"
+      },
+      {
+       "cyr": "ах ергенче мило.",
+       "lat": "ah ergenče milo.",
+       "en": "oh dear bachelor."
+      },
+      {
+       "cyr": "За тебе моме лудувам, моме лудувам",
+       "lat": "Za tebe mome luduvam, mome luduvam",
+       "en": "I am mad for you, girl, I am mad,"
+      },
+      {
+       "cyr": "за тебе момче живеам, ти си живот мој.",
+       "lat": "za tebe momče živeam, ti si život moj.",
+       "en": "I live for you, boy, you are my life."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

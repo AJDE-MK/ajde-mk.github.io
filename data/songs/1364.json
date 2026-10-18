@@ -1,0 +1,213 @@
+{
+ "id": 1364,
+ "slug": "jas-sum-edno-mlado-bakaldzhiche",
+ "title_cyr": "Јас сум едно младо бакалџиче",
+ "title_latin": "Jas sum edno mlado bakaldžiče",
+ "title_en": "I am a young grocer",
+ "pesna_url": "https://pesna.org/song/1364",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Old urban song; 'аман' is a Turkish-origin cry, left as is. 'Мерак фрлам' I render 'throw my longing' (my reading); the third-person 'зеде, даде' in verse two is as sung.",
+ "words_to_learn": [
+  {
+   "mk": "бакалџија",
+   "en": "grocer"
+  },
+  {
+   "mk": "лешници",
+   "en": "hazelnuts"
+  },
+  {
+   "mk": "бадеми",
+   "en": "almonds"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "чалгија",
+   "en": "musician (of a small town band)"
+  },
+  {
+   "mk": "бакшиш",
+   "en": "tip"
+  },
+  {
+   "mk": "ока",
+   "en": "old unit of weight (about 1.3 kg)"
+  },
+  {
+   "mk": "мезе",
+   "en": "snack, appetiser"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, old town"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, desire"
+  },
+  {
+   "mk": "ишарет",
+   "en": "sign, signal"
+  }
+ ],
+ "performers": [
+  "Охридска чалгија",
+  "Трио Гранде",
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/3534"
+  },
+  {
+   "who": "Охридска чалгија",
+   "url": "https://pesna.org/audio-download/3535"
+  },
+  {
+   "who": "Трио Гранде",
+   "url": "https://pesna.org/audio-download/3536"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум едно младо бакалџиче,",
+       "lat": "Jas sum edno mlado bakaldžiče,",
+       "en": "I am a young grocer,"
+      },
+      {
+       "cyr": "бадеми, лешници продавам, аман!",
+       "lat": "bademi, lešnici prodavam, aman!",
+       "en": "I sell almonds and hazelnuts, aman!"
+      },
+      {
+       "cyr": "Бадеми, лешници продавам,",
+       "lat": "Bademi, lešnici prodavam,",
+       "en": "I sell almonds and hazelnuts,"
+      },
+      {
+       "cyr": "парите ги земам во меана одам,",
+       "lat": "parite gi zemam vo meana odam,",
+       "en": "I take the money and go to the tavern,"
+      },
+      {
+       "cyr": "на чалгии бакшиш оставам, аман!",
+       "lat": "na čalgii bakšiš ostavam, aman!",
+       "en": "I leave a tip for the musicians, aman!"
+      },
+      {
+       "cyr": "На чалгии бакшиш оставам.",
+       "lat": "Na čalgii bakšiš ostavam.",
+       "en": "I leave a tip for the musicians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една ока лешник, три кила бадем,",
+       "lat": "Edna oka lešnik, tri kila badem,",
+       "en": "One oka of hazelnuts, three kilos of almonds,"
+      },
+      {
+       "cyr": "парите ги зеде, в' меана ги даде.",
+       "lat": "parite gi zede, v' meana gi dade.",
+       "en": "he took the money, he gave it away in the tavern."
+      },
+      {
+       "cyr": "Молчи мори Наде, направи мезе,",
+       "lat": "Molči mori Nade, napravi meze,",
+       "en": "Be quiet, hey Nada, make the snacks,"
+      },
+      {
+       "cyr": "донеси вино, ракија, аман!",
+       "lat": "donesi vino, rakija, aman!",
+       "en": "bring wine, brandy, aman!"
+      },
+      {
+       "cyr": "Нека пие цела чаршија.",
+       "lat": "Neka pie cela čaršija.",
+       "en": "Let the whole market drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум едно лудо бакалџиче,",
+       "lat": "Jas sum edno ludo bakaldžiče,",
+       "en": "I am a crazy grocer,"
+      },
+      {
+       "cyr": "пијам вино, љута ракија, аман!",
+       "lat": "pijam vino, ljuta rakija, aman!",
+       "en": "I drink wine, strong brandy, aman!"
+      },
+      {
+       "cyr": "Пијам вино, лута ракија,",
+       "lat": "Pijam vino, luta rakija,",
+       "en": "I drink wine, strong brandy,"
+      },
+      {
+       "cyr": "на убави моми мерак кога фрлам,",
+       "lat": "na ubavi momi merak koga frlam,",
+       "en": "I throw my longing at pretty girls,"
+      },
+      {
+       "cyr": "ишарет со око им давам, аман!",
+       "lat": "išaret so oko im davam, aman!",
+       "en": "I give them a sign with my eye, aman!"
+      },
+      {
+       "cyr": "Вака така живот живеам.",
+       "lat": "Vaka taka život živeam.",
+       "en": "This is how I live my life."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една ока лешник, три кила бадем,",
+       "lat": "Edna oka lešnik, tri kila badem,",
+       "en": "One oka of hazelnuts, three kilos of almonds,"
+      },
+      {
+       "cyr": "парите ги зеде, в' меана ги даде.",
+       "lat": "parite gi zede, v' meana gi dade.",
+       "en": "he took the money, he gave it away in the tavern."
+      },
+      {
+       "cyr": "Молчи мори Наде, направи мезе,",
+       "lat": "Molči mori Nade, napravi meze,",
+       "en": "Be quiet, hey Nada, make the snacks,"
+      },
+      {
+       "cyr": "донеси вино, ракија, аман!",
+       "lat": "donesi vino, rakija, aman!",
+       "en": "bring wine, brandy, aman!"
+      },
+      {
+       "cyr": "Нека пие цела чаршија.",
+       "lat": "Neka pie cela čaršija.",
+       "en": "Let the whole market drink."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

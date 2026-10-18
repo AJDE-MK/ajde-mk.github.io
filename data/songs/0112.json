@@ -1,0 +1,146 @@
+{
+ "id": 112,
+ "slug": "nani-nani-dimche",
+ "title_cyr": "Нани, нани Димче",
+ "title_latin": "Nani, nani Dimče",
+ "title_en": "Lullaby, Lullaby, Dimche",
+ "pesna_url": "https://pesna.org/song/112",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'јод морето' is read as 'од морето' (from the sea), my reading. Солуна града is Thessaloniki.",
+ "words_to_learn": [
+  {
+   "mk": "нани",
+   "en": "lullaby, to sleep (baby talk)"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  },
+  {
+   "mk": "пелени",
+   "en": "swaddling clothes"
+  },
+  {
+   "mk": "лула",
+   "en": "to rock"
+  },
+  {
+   "mk": "порасне",
+   "en": "grows up"
+  },
+  {
+   "mk": "ожениме",
+   "en": "we marry off (a man)"
+  },
+  {
+   "mk": "дуни",
+   "en": "blow (imperative)"
+  },
+  {
+   "mk": "ветре",
+   "en": "wind (vocative)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2789"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нани, нани Димче,",
+       "lat": "Nani, nani Dimče,",
+       "en": "Sleep, sleep, little Dimche,"
+      },
+      {
+       "cyr": "у шарена лулка,",
+       "lat": "u šarena lulka,",
+       "en": "in a colorful cradle,"
+      },
+      {
+       "cyr": "у бели пелени.",
+       "lat": "u beli peleni.",
+       "en": "in white swaddling clothes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Димче ќе ми нани,",
+       "lat": "Dimče ḱe mi nani,",
+       "en": "Little Dimche will sleep for me,"
+      },
+      {
+       "cyr": "мама ќе го лула,",
+       "lat": "mama ḱe go lula,",
+       "en": "mother will rock him,"
+      },
+      {
+       "cyr": "голем да порасне.",
+       "lat": "golem da porasne.",
+       "en": "to grow up big."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Голем да порасне,",
+       "lat": "Golem da porasne,",
+       "en": "To grow up big,"
+      },
+      {
+       "cyr": "да го ожениме,",
+       "lat": "da go oženime,",
+       "en": "so that we may marry him,"
+      },
+      {
+       "cyr": "од Солуна града.",
+       "lat": "od Soluna grada.",
+       "en": "to a girl from the city of Thessaloniki."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дуни, дуни ветре,",
+       "lat": "Duni, duni vetre,",
+       "en": "Blow, blow, wind,"
+      },
+      {
+       "cyr": "тивко јод морето,",
+       "lat": "tivko jod moreto,",
+       "en": "softly from the sea,"
+      },
+      {
+       "cyr": "Димче да успиеш,",
+       "lat": "Dimče da uspieš,",
+       "en": "so that Dimche falls asleep,"
+      },
+      {
+       "cyr": "голем да порасне.",
+       "lat": "golem da porasne.",
+       "en": "so that he grows up big."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

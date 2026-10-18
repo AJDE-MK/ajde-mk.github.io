@@ -1,0 +1,189 @@
+{
+ "id": 39,
+ "slug": "gjorushice-crno-oko",
+ "title_cyr": "Ѓорушице, црно око",
+ "title_latin": "Ǵorušice, crno oko",
+ "title_en": "Gjorusica, Dark Eyes",
+ "pesna_url": "https://pesna.org/song/39",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Силвин' (Kocho) is my reading as 'handsome/tall'; 'вити порти' read as ornamented or twisted gates. Both are guesses.",
+ "words_to_learn": [
+  {
+   "mk": "црно око",
+   "en": "dark eyes"
+  },
+  {
+   "mk": "промени се",
+   "en": "change (your clothes)"
+  },
+  {
+   "mk": "накити се",
+   "en": "adorn yourself, dress up"
+  },
+  {
+   "mk": "ќуше",
+   "en": "corner, nook"
+  },
+  {
+   "mk": "добро вечер",
+   "en": "good evening"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "постела",
+   "en": "bed, bedding"
+  },
+  {
+   "mk": "послале",
+   "en": "spread, made (the bed)"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "шимшир",
+   "en": "boxwood"
+  }
+ ],
+ "performers": [
+  "Извор",
+  "Калдрма",
+  "Љубојна",
+  "Мара Ѓорѓевиќ",
+  "Мирвет Беловска",
+  "Николина Стојановска",
+  "Трио Гавровски",
+  "Chalgia Moisey Petrovich",
+  "Chalgia Sound System"
+ ],
+ "audio": [
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/1145"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/1146"
+  },
+  {
+   "who": "Калдрма",
+   "url": "https://pesna.org/audio-download/1147"
+  },
+  {
+   "who": "Мара Ѓорѓевиќ",
+   "url": "https://pesna.org/audio-download/2575"
+  },
+  {
+   "who": "Извор",
+   "url": "https://pesna.org/audio-download/2576"
+  },
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/2577"
+  },
+  {
+   "who": "Николина Стојановска",
+   "url": "https://pesna.org/audio-download/2578"
+  },
+  {
+   "who": "Chalgia Moisey Petrovich",
+   "url": "https://pesna.org/audio-download/2579"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/2580"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, Ѓорушице, црно око,",
+       "lat": "Aj, Ǵorušice, crno oko,",
+       "en": "Oh, Gjorusica, dark eyes,"
+      },
+      {
+       "cyr": "ај, промени се, накити се.",
+       "lat": "aj, promeni se, nakiti se.",
+       "en": "oh, change your clothes, dress up,"
+      },
+      {
+       "cyr": "Ај, па излези на ќушето.",
+       "lat": "Aj, pa izlezi na ḱušeto.",
+       "en": "oh, then come out onto the corner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај там' ќе пројде силвин Кочо,",
+       "lat": "Aj tam' ḱe projde silvin Kočo,",
+       "en": "Oh, there handsome Kocho will pass by,"
+      },
+      {
+       "cyr": "ај ќе ти рече добро вечер.",
+       "lat": "aj ḱe ti reče dobro večer.",
+       "en": "oh, he will say good evening to you."
+      },
+      {
+       "cyr": "Ај, ти му речи дојди вечер.",
+       "lat": "Aj, ti mu reči dojdi večer.",
+       "en": "Oh, you tell him: come this evening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, дојди вечер пред вечера,",
+       "lat": "Aj, dojdi večer pred večera,",
+       "en": "Oh, come in the evening, before supper,"
+      },
+      {
+       "cyr": "ај, дури не сме вечерале.",
+       "lat": "aj, duri ne sme večerale.",
+       "en": "oh, while we have not yet eaten supper."
+      },
+      {
+       "cyr": "Ај дур' постела не сме послале.",
+       "lat": "Aj dur' postela ne sme poslale.",
+       "en": "Oh, while we have not yet made the bed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, дур' постела не сме послале,",
+       "lat": "Aj, dur' postela ne sme poslale,",
+       "en": "Oh, while we have not yet made the bed,"
+      },
+      {
+       "cyr": "ај, вити порти затвориле.",
+       "lat": "aj, viti porti zatvorile.",
+       "en": "oh, they have closed the vine-covered gates."
+      },
+      {
+       "cyr": "Ај, шимшир порти затвориле.",
+       "lat": "Aj, šimšir porti zatvorile.",
+       "en": "Oh, they have closed the boxwood gates."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

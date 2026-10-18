@@ -1,0 +1,106 @@
+{
+ "id": 1123,
+ "slug": "jano-janovice-kade-ti-e-jane",
+ "title_cyr": "Јано Јановице, каде ти е Јане?",
+ "title_latin": "Jano Janovice, kade ti e Jane?",
+ "title_en": "Jana, Jane's bride, where is your Jane?",
+ "pesna_url": "https://pesna.org/song/1123",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Коста Новакис",
+  "Mousikorama",
+  "Savina Yannatou"
+ ],
+ "audio": [
+  {
+   "who": "Savina Yannatou",
+   "url": "https://pesna.org/audio-download/2686"
+  },
+  {
+   "who": "Коста Новакис",
+   "url": "https://pesna.org/audio-download/2687"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2688"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Јано Јановице, каде ти е Јане?",
+       "lat": "- Jano Janovice, kade ti e Jane?",
+       "en": "- Jana, Jane's bride, where is your Jane?,",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Јане ми отиде на крај Јанина.",
+       "lat": "- Jane mi otide na kraj Janina.",
+       "en": "- My Jane went to the Janina* region.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На крај Јанина, мостои да прае,",
+       "lat": "Na kraj Janina, mostoi da prae,",
+       "en": "To the far side of Janina, to build bridges,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мостои да прае, камили да врват.",
+       "lat": "mostoi da prae, kamili da vrvat.",
+       "en": "to build bridges for camels to cross.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Камили да врват, товар товарени,",
+       "lat": "Kamili da vrvat, tovar tovareni,",
+       "en": "Camels to crossing it, loaded with goods,",
+       "en_mt": false
+      },
+      {
+       "cyr": "товар товарени, меанџи каранфил.",
+       "lat": "tovar tovareni, meandži karanfil.",
+       "en": "loaded with goods and carnations for taverns.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меанџи каранфил, чупи да го носат,",
+       "lat": "Meandži karanfil, čupi da go nosat,",
+       "en": "Carnations for taverns, which the girls will carry,",
+       "en_mt": false
+      },
+      {
+       "cyr": "чупи да го носат, цели по појаси.",
+       "lat": "čupi da go nosat, celi po pojasi.",
+       "en": "the girls will carry them, decorated at their waists.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

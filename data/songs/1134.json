@@ -1,0 +1,186 @@
+{
+ "id": 1134,
+ "slug": "temna-e-magla-padnala",
+ "title_cyr": "Темна е магла паднала",
+ "title_latin": "Temna e magla padnala",
+ "title_en": "A Dark Fog Has Fallen",
+ "pesna_url": "https://pesna.org/song/1134",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, Pirin region. 'Јаница' I read as a young woman (could be a name or 'lamb'); 'пат збркала' is my reading as 'lost the way'.",
+ "words_to_learn": [
+  {
+   "mk": "магла",
+   "en": "fog"
+  },
+  {
+   "mk": "падна",
+   "en": "fell"
+  },
+  {
+   "mk": "јаница",
+   "en": "young woman / lamb-like girl (my reading)"
+  },
+  {
+   "mk": "збркала",
+   "en": "lost, confused (the way)"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "чобан",
+   "en": "herdsman"
+  },
+  {
+   "mk": "елајте",
+   "en": "come on, please (Turkish-derived)"
+  },
+  {
+   "mk": "гиздава",
+   "en": "adorned, pretty"
+  }
+ ],
+ "performers": [
+  "Володја Стојанов",
+  "Маријана Манолева",
+  "Непознат изведувач",
+  "Makedoniko meraki",
+  "Rithmos Melodia"
+ ],
+ "audio": [
+  {
+   "who": "Володја Стојанов",
+   "url": "https://pesna.org/audio-download/2735"
+  },
+  {
+   "who": "Маријана Манолева",
+   "url": "https://pesna.org/audio-download/2736"
+  },
+  {
+   "who": "Rithmos Melodia",
+   "url": "https://pesna.org/audio-download/2737"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4352"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/4353"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Темна е магла паднала,",
+       "lat": "Temna e magla padnala,",
+       "en": "A dark fog has fallen,"
+      },
+      {
+       "cyr": "темна е магла паднала,",
+       "lat": "temna e magla padnala,",
+       "en": "a dark fog has fallen,"
+      },
+      {
+       "cyr": "низ таа гора зелена,",
+       "lat": "niz taa gora zelena,",
+       "en": "through that green forest,"
+      },
+      {
+       "cyr": "низ таа Пирин планина.",
+       "lat": "niz taa Pirin planina.",
+       "en": "through that Pirin mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јаница в' гора тргнала,",
+       "lat": "Janica v' gora trgnala,",
+       "en": "A young woman set out into the forest,"
+      },
+      {
+       "cyr": "тргнала, пат збркала,",
+       "lat": "trgnala, pat zbrkala,",
+       "en": "set out, lost her way,"
+      },
+      {
+       "cyr": "низ таа гора зелена,",
+       "lat": "niz taa gora zelena,",
+       "en": "through that green forest,"
+      },
+      {
+       "cyr": "низ таа Пирин планина.",
+       "lat": "niz taa Pirin planina.",
+       "en": "through that Pirin mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оддолу идат овчари,",
+       "lat": "Oddolu idat ovčari,",
+       "en": "From below come shepherds,"
+      },
+      {
+       "cyr": "овчари, млади чобани.",
+       "lat": "ovčari, mladi čobani.",
+       "en": "shepherds, young herdsmen."
+      },
+      {
+       "cyr": "- Ој вие млади овчари,",
+       "lat": "- Oj vie mladi ovčari,",
+       "en": "- Oh you young shepherds,"
+      },
+      {
+       "cyr": "ој вие, браќа да ми сте,",
+       "lat": "oj vie, braḱa da mi ste,",
+       "en": "oh, may you be my brothers,"
+      },
+      {
+       "cyr": "елајте, пат ми кажете.",
+       "lat": "elajte, pat mi kažete.",
+       "en": "please, show me the way."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Моме ле, мори убава,",
+       "lat": "- Mome le, mori ubava,",
+       "en": "- Girl, hey, beautiful one,"
+      },
+      {
+       "cyr": "моме ле, мори гиздава,",
+       "lat": "mome le, mori gizdava,",
+       "en": "girl, hey, lovely one,"
+      },
+      {
+       "cyr": "ние си сестри имаме,",
+       "lat": "nie si sestri imame,",
+       "en": "we have sisters,"
+      },
+      {
+       "cyr": "прво си либе немаме.",
+       "lat": "prvo si libe nemame.",
+       "en": "but we have no sweetheart yet."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

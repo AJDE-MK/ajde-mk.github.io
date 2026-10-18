@@ -1,0 +1,154 @@
+{
+ "id": 14,
+ "slug": "rasplakal-se-star-bel-dedo",
+ "title_cyr": "Расплакал се стар бел дедо",
+ "title_latin": "Rasplakal se star bel dedo",
+ "title_en": "Old White Grandfather Began to Cry",
+ "pesna_url": "https://pesna.org/song/14",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (folk-style humorous song, no author I can name). 'не бил веќе за љубење' I read as 'no longer fit to be kissed/to love'.",
+ "words_to_learn": [
+  {
+   "mk": "расплакал се",
+   "en": "burst into tears"
+  },
+  {
+   "mk": "остарел",
+   "en": "grown old"
+  },
+  {
+   "mk": "побелел",
+   "en": "gone white (hair)"
+  },
+  {
+   "mk": "баба",
+   "en": "grandmother, old woman"
+  },
+  {
+   "mk": "догледа",
+   "en": "noticed, saw"
+  },
+  {
+   "mk": "молчи",
+   "en": "be quiet"
+  },
+  {
+   "mk": "се грлевме",
+   "en": "we hugged each other"
+  },
+  {
+   "mk": "прегрнал",
+   "en": "hugged"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Драгица Николова"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1548"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1549"
+  },
+  {
+   "who": "Драгица Николова",
+   "url": "https://pesna.org/audio-download/3495"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Расплакал се стар бел дедо,",
+       "lat": "Rasplakal se star bel dedo,",
+       "en": "Old white grandfather began to cry,"
+      },
+      {
+       "cyr": "што остарел и побелел.",
+       "lat": "što ostarel i pobelel.",
+       "en": "because he had grown old and gone white."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што остарел и побелел,",
+       "lat": "Što ostarel i pobelel,",
+       "en": "Because he had grown old and gone white,"
+      },
+      {
+       "cyr": "не бил веќе за љубење.",
+       "lat": "ne bil veḱe za ljubenje.",
+       "en": "he was no longer fit for kissing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Го догледа баба Неда",
+       "lat": "Go dogleda baba Neda",
+       "en": "Granny Neda noticed him"
+      },
+      {
+       "cyr": "и на дедо тивко дума:",
+       "lat": "i na dedo tivko duma:",
+       "en": "and says quietly to grandfather:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Молчи, дедо, не ми плачи,",
+       "lat": "- Molči, dedo, ne mi plači,",
+       "en": "- Hush, grandfather, don't cry to me,"
+      },
+      {
+       "cyr": "нели бевме ние млади,",
+       "lat": "neli bevme nie mladi,",
+       "en": "were we not young too,"
+      },
+      {
+       "cyr": "се љубевме, се грлевме?",
+       "lat": "se ljubevme, se grlevme?",
+       "en": "did we not kiss, did we not hug?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се насмеал стар бел дедо,",
+       "lat": "Se nasmeal star bel dedo,",
+       "en": "Old white grandfather laughed,"
+      },
+      {
+       "cyr": "си прегрнал баба Неда,",
+       "lat": "si pregrnal baba Neda,",
+       "en": "hugged granny Neda,"
+      },
+      {
+       "cyr": "си ја бакнал баба Неда.",
+       "lat": "si ja baknal baba Neda.",
+       "en": "and kissed granny Neda."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

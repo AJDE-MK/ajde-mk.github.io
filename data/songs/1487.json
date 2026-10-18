@@ -1,0 +1,156 @@
+{
+ "id": 1487,
+ "slug": "aj-shto-ubavo-odat-le-mamo",
+ "title_cyr": "Ај што убаво одат ле мамо",
+ "title_latin": "Aj što ubavo odat le mamo",
+ "title_en": "How beautifully they walk, oh mother",
+ "pesna_url": "https://pesna.org/song/1487",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'тувенчиња' is a guess (my reading: kerchiefs), and 'сите ми се блеат' is my reading (they all bleat/coo, i.e. speak sweetly). Ајта is a wide white festive dress.",
+ "words_to_learn": [
+  {
+   "mk": "одат",
+   "en": "they walk/go"
+  },
+  {
+   "mk": "моми",
+   "en": "girls"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "straight, slender figure"
+  },
+  {
+   "mk": "тувенчиња",
+   "en": "(white) kerchiefs (my reading)"
+  },
+  {
+   "mk": "ф'станчиња",
+   "en": "little dresses"
+  },
+  {
+   "mk": "ајтичиња",
+   "en": "ajta dresses (white festive dress)"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "намрштени",
+   "en": "frowning"
+  },
+  {
+   "mk": "скромна",
+   "en": "modest"
+  }
+ ],
+ "performers": [
+  "Група Кактус",
+  "Катерина Брезева",
+  "Распеани велешани",
+  "Соната Велес"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/3862"
+  },
+  {
+   "who": "Катерина Брезева, Соната Велес",
+   "url": "https://pesna.org/audio-download/3863"
+  },
+  {
+   "who": "Група Кактус",
+   "url": "https://pesna.org/audio-download/3864"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, што убаво одат, ле мамо, велешките моми",
+       "lat": "Aj, što ubavo odat, le mamo, veleškite momi",
+       "en": "Oh, how beautifully they walk, oh mother, the girls of Veles"
+      },
+      {
+       "cyr": "ај, што убаво одат, ле мамо, рамна снага вијат",
+       "lat": "aj, što ubavo odat, le mamo, ramna snaga vijat",
+       "en": "oh, they carry a straight figure, oh mother,"
+      },
+      {
+       "cyr": "рамна снага вијат, ле мамо, со очи те пијат.",
+       "lat": "ramna snaga vijat, le mamo, so oči te pijat.",
+       "en": "they carry a straight figure, oh mother, they drink you in with their eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, сите бре врзале, ле мамо, бели тувенчиња",
+       "lat": "Aj, site bre vrzale, le mamo, beli tuvenčinja",
+       "en": "Oh, they have all tied on, oh mother, white kerchiefs"
+      },
+      {
+       "cyr": "ај, сите ми облекле, ле мамо, алови ф`станчиња",
+       "lat": "aj, site mi oblekle, le mamo, alovi f`stančinja",
+       "en": "oh, they have all put on, oh mother, red dresses"
+      },
+      {
+       "cyr": "алови ф`станчиња, ле мамо, бели ајтичиња.",
+       "lat": "alovi f`stančinja, le mamo, beli ajtičinja.",
+       "en": "red dresses, oh mother, white ajta dresses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, кога одат, мила ле мамо, како ветер вејат",
+       "lat": "Aj, koga odat, mila le mamo, kako veter vejat",
+       "en": "Oh, when they walk, dear oh mother, they blow like the wind"
+      },
+      {
+       "cyr": "ај, кога стојат, мила ле мамо, како сонце грејат",
+       "lat": "aj, koga stojat, mila le mamo, kako sonce grejat",
+       "en": "oh, when they stand, dear oh mother, they warm like the sun"
+      },
+      {
+       "cyr": "кога зборат, мила ле мамо, сите ми се блеат.",
+       "lat": "koga zborat, mila le mamo, site mi se bleat.",
+       "en": "when they speak, dear oh mother, they all bleat/coo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А велешки ергени, ле мамо, многу намрштени",
+       "lat": "A veleški ergeni, le mamo, mnogu namršteni",
+       "en": "But the bachelors of Veles, oh mother, are very frowning"
+      },
+      {
+       "cyr": "ај, они сакаат, мила ле мамо, мома да е скромна",
+       "lat": "aj, oni sakaat, mila le mamo, moma da e skromna",
+       "en": "oh, they want, dear oh mother, a girl to be modest"
+      },
+      {
+       "cyr": "мома да е скромна, ле мамо, да си седи дома.",
+       "lat": "moma da e skromna, le mamo, da si sedi doma.",
+       "en": "a girl to be modest, oh mother, to stay at home."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

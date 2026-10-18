@@ -1,0 +1,185 @@
+{
+ "id": 1006,
+ "slug": "stojan-na-stanka-dumashe",
+ "title_cyr": "Стојан на Станка думаше",
+ "title_latin": "Stojan na Stanka dumaše",
+ "title_en": "Stojan Spoke to Stanka",
+ "pesna_url": "https://pesna.org/song/1006",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'прво венчило' I read as 'my first wedding wreath', i.e. first wife; a guess.",
+ "words_to_learn": [
+  {
+   "mk": "думаше",
+   "en": "spoke, said"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "венчило",
+   "en": "wreath, wedding (my reading)"
+  },
+  {
+   "mk": "стопан",
+   "en": "master, owner"
+  },
+  {
+   "mk": "домаќин",
+   "en": "head of the household"
+  },
+  {
+   "mk": "жалој",
+   "en": "sorrow, grief"
+  },
+  {
+   "mk": "родила",
+   "en": "given birth to"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2338"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојан на Станка думаше,",
+       "lat": "Stojan na Stanka dumaše,",
+       "en": "Stojan spoke to Stanka,"
+      },
+      {
+       "cyr": "Стојан на Станка думаше:",
+       "lat": "Stojan na Stanka dumaše:",
+       "en": "Stojan spoke to Stanka:"
+      },
+      {
+       "cyr": "- Станке ле, Станке убава,",
+       "lat": "- Stanke le, Stanke ubava,",
+       "en": "- Stanka, hey, beautiful Stanka,"
+      },
+      {
+       "cyr": "Станке ле, прво венчило.",
+       "lat": "Stanke le, prvo venčilo.",
+       "en": "Stanka, hey, my first wreath."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зашто не си ми убава,",
+       "lat": "Zašto ne si mi ubava,",
+       "en": "Why are you not beautiful to me,"
+      },
+      {
+       "cyr": "зашто не си ми убава,",
+       "lat": "zašto ne si mi ubava,",
+       "en": "why are you not beautiful to me,"
+      },
+      {
+       "cyr": "како што беше убава,",
+       "lat": "kako što beše ubava,",
+       "en": "as beautiful as you were"
+      },
+      {
+       "cyr": "прва и втора година?",
+       "lat": "prva i vtora godina?",
+       "en": "the first and second year?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Станка на Стојан думаше,",
+       "lat": "Stanka na Stojan dumaše,",
+       "en": "Stanka spoke to Stojan,"
+      },
+      {
+       "cyr": "Станка на Стојан думаше:",
+       "lat": "Stanka na Stojan dumaše:",
+       "en": "Stanka spoke to Stojan:"
+      },
+      {
+       "cyr": "- Стојане, мили стопане,",
+       "lat": "- Stojane, mili stopane,",
+       "en": "- Stojan, dear master,"
+      },
+      {
+       "cyr": "Стојане, прв домаќине.",
+       "lat": "Stojane, prv domaḱine.",
+       "en": "Stojan, first head of the house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како да сум ти убава,",
+       "lat": "Kako da sum ti ubava,",
+       "en": "How could I be beautiful for you,"
+      },
+      {
+       "cyr": "како да сум ти убава,",
+       "lat": "kako da sum ti ubava,",
+       "en": "how could I be beautiful for you,"
+      },
+      {
+       "cyr": "нели сум жалој имала,",
+       "lat": "neli sum žaloj imala,",
+       "en": "have I not had sorrow,"
+      },
+      {
+       "cyr": "девет сум деца родила?",
+       "lat": "devet sum deca rodila?",
+       "en": "have I not borne nine children?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет сум деца родила,",
+       "lat": "Devet sum deca rodila,",
+       "en": "Nine children I have borne,"
+      },
+      {
+       "cyr": "девет сум деца родила,",
+       "lat": "devet sum deca rodila,",
+       "en": "nine children I have borne,"
+      },
+      {
+       "cyr": "девет гроба напраила,",
+       "lat": "devet groba napraila,",
+       "en": "nine graves I have made,"
+      },
+      {
+       "cyr": "ниедно живо немаме!",
+       "lat": "niedno živo nemame!",
+       "en": "not one of them is alive!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

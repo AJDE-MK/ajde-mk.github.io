@@ -1,0 +1,163 @@
+{
+ "id": 883,
+ "slug": "otishla-ljuba-kaj-tetka-je",
+ "title_cyr": "Отишла Љуба кај тетка је",
+ "title_latin": "Otišla Ljuba kaj tetka je",
+ "title_en": "Ljuba Went to Her Aunt's",
+ "pesna_url": "https://pesna.org/song/883",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional bawdy song. Line 2, 'на љупење кочање', is a guess (my reading); 'жити теткина' is a term of endearment, roughly 'auntie dear'.",
+ "words_to_learn": [
+  {
+   "mk": "тетка",
+   "en": "aunt"
+  },
+  {
+   "mk": "љупеле",
+   "en": "they kissed (dialect, from љуби)"
+  },
+  {
+   "mk": "преспијат",
+   "en": "they sleep over (dialect)"
+  },
+  {
+   "mk": "викнала",
+   "en": "cried out"
+  },
+  {
+   "mk": "треснала",
+   "en": "shrieked, banged"
+  },
+  {
+   "mk": "ламба",
+   "en": "lamp"
+  },
+  {
+   "mk": "запали",
+   "en": "light, set alight"
+  },
+  {
+   "mk": "коленото",
+   "en": "the knee"
+  },
+  {
+   "mk": "погоре",
+   "en": "higher up"
+  }
+ ],
+ "performers": [
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1923"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1924"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Отишла Љуба кај тетка је,",
+       "lat": "Otišla Ljuba kaj tetka je,",
+       "en": "Ljuba went to her aunt's,"
+      },
+      {
+       "cyr": "на љупење кочање.",
+       "lat": "na ljupenje kočanje.",
+       "en": "for kissing, for cuddling (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љупеле дури љупеле,",
+       "lat": "Ljupele duri ljupele,",
+       "en": "They kissed and kissed,"
+      },
+      {
+       "cyr": "легнале да си преспијат.",
+       "lat": "legnale da si prespijat.",
+       "en": "they lay down to sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Легнале да си преспијат,",
+       "lat": "Legnale da si prespijat,",
+       "en": "They lay down to sleep,"
+      },
+      {
+       "cyr": "викнала Љуба, треснала:",
+       "lat": "viknala Ljuba, tresnala:",
+       "en": "Ljuba cried out, shrieked:"
+      },
+      {
+       "cyr": "- Тето ле, жити теткина!",
+       "lat": "- Teto le, žiti tetkina!",
+       "en": "- Auntie, oh, dear auntie,"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тето ле, жити теткина,",
+       "lat": "Teto le, žiti tetkina,",
+       "en": "Auntie, oh, dear auntie,"
+      },
+      {
+       "cyr": "запали ја ламбата.",
+       "lat": "zapali ja lambata.",
+       "en": "light the lamp."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запали га ламбата,",
+       "lat": "Zapali ga lambata,",
+       "en": "Light the lamp,"
+      },
+      {
+       "cyr": "да го видим кој беше,",
+       "lat": "da go vidim koj beše,",
+       "en": "so I can see who it was,"
+      },
+      {
+       "cyr": "тој што ме фати за нога,",
+       "lat": "toj što me fati za noga,",
+       "en": "who grabbed me by the leg,"
+      },
+      {
+       "cyr": "за нога, за коленото,",
+       "lat": "za noga, za kolenoto,",
+       "en": "by the leg, by the knee,"
+      },
+      {
+       "cyr": "погоре, подебелото.",
+       "lat": "pogore, podebeloto.",
+       "en": "higher up, the thicker part."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,294 @@
+{
+ "id": 62,
+ "slug": "nazad-kalino-mome",
+ "title_cyr": "Назад Калино моме",
+ "title_latin": "Nazad Kalino mome",
+ "title_en": "Go back, Kalina girl",
+ "pesna_url": "https://pesna.org/song/62",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александра Пилева",
+  "Анета Љумаковска",
+  "Биоритам",
+  "Виктор Синадиноски",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Горан Андонов",
+  "Димитар Гугов",
+  "Димитар Талазов",
+  "Диран Тавитјан",
+  "Инструментал",
+  "Јован Јованов",
+  "Јосипа Лисац",
+  "Маринко Роквиќ",
+  "Миле Кузмановски",
+  "Молика",
+  "Перун",
+  "Сузана Спасовска",
+  "Bayasen Mustafov"
+ ],
+ "audio": [
+  {
+   "who": "Александра Пилева, Јован Јованов",
+   "url": "https://pesna.org/audio-download/37"
+  },
+  {
+   "who": "Инструментал",
+   "url": "https://pesna.org/audio-download/38"
+  },
+  {
+   "who": "Сузана Спасовска, Биоритам",
+   "url": "https://pesna.org/audio-download/39"
+  },
+  {
+   "who": "Сузана Спасовска, Горан Андонов",
+   "url": "https://pesna.org/audio-download/40"
+  },
+  {
+   "who": "Сузана Спасовска, Миле Кузмановски",
+   "url": "https://pesna.org/audio-download/41"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Јосипа Лисац",
+   "url": "https://pesna.org/audio-download/887"
+  },
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/1328"
+  },
+  {
+   "who": "Анета Љумаковска, Маринко Роквиќ, Молика",
+   "url": "https://pesna.org/audio-download/3052"
+  },
+  {
+   "who": "Димитар Талазов",
+   "url": "https://pesna.org/audio-download/3172"
+  },
+  {
+   "who": "Bayasen Mustafov, Димитар Гугов",
+   "url": "https://pesna.org/audio-download/3275"
+  },
+  {
+   "who": "Виктор Синадиноски",
+   "url": "https://pesna.org/audio-download/3796"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Назад, назад, Калино моме,",
+       "lat": "Nazad, nazad, Kalino mome,",
+       "en": "Go back, go back, Kalina girl,"
+      },
+      {
+       "cyr": "немој да одиш по мене.",
+       "lat": "nemoj da odiš po mene.",
+       "en": "don't go after me."
+      },
+      {
+       "cyr": "Кај нас си има висока гора,",
+       "lat": "Kaj nas si ima visoka gora,",
+       "en": "At our place we have a tall forest,"
+      },
+      {
+       "cyr": "не ќе можеш да ја поминеш.",
+       "lat": "ne ḱe možeš da ja pomineš.",
+       "en": "you won't be able to cross it."
+      },
+      {
+       "cyr": "Кај нас си има висока гора,",
+       "lat": "Kaj nas si ima visoka gora,",
+       "en": "At our place we have a tall forest,"
+      },
+      {
+       "cyr": "не ќе можеш да ја поминеш.",
+       "lat": "ne ḱe možeš da ja pomineš.",
+       "en": "you won't be able to cross it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се сторам јас сокол пиле",
+       "lat": "Ḱe se storam jas sokol pile",
+       "en": "I will turn into a hawk,"
+      },
+      {
+       "cyr": "и пак кај тебе ќе дојдам.",
+       "lat": "i pak kaj tebe ḱe dojdam.",
+       "en": "and I will get to you again."
+      },
+      {
+       "cyr": "Гора ќе прелетам, кај тебе ќе дојдам,",
+       "lat": "Gora ḱe preletam, kaj tebe ḱe dojdam,",
+       "en": "I will fly over the forest, I will find you,"
+      },
+      {
+       "cyr": "вечно твоја ќе бидам.",
+       "lat": "večno tvoja ḱe bidam.",
+       "en": "I will be yours forever."
+      },
+      {
+       "cyr": "Гора ќе прелетам, кај тебе ќе дојдам,",
+       "lat": "Gora ḱe preletam, kaj tebe ḱe dojdam,",
+       "en": "I will fly over the forest, I will find you,"
+      },
+      {
+       "cyr": "вечно твоја ќе бидам.",
+       "lat": "večno tvoja ḱe bidam.",
+       "en": "I will be yours forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Назад, назад, Калино моме,",
+       "lat": "Nazad, nazad, Kalino mome,",
+       "en": "Go back, go back, Kalina girl,"
+      },
+      {
+       "cyr": "немој да одиш по мене.",
+       "lat": "nemoj da odiš po mene.",
+       "en": "don't go after me."
+      },
+      {
+       "cyr": "Кај нас си има длабока река,",
+       "lat": "Kaj nas si ima dlaboka reka,",
+       "en": "At our place we have a deep river,"
+      },
+      {
+       "cyr": "не ќе можеш да ја поминеш.",
+       "lat": "ne ḱe možeš da ja pomineš.",
+       "en": "you won't be able to cross it."
+      },
+      {
+       "cyr": "Кај нас си има длабока река,",
+       "lat": "Kaj nas si ima dlaboka reka,",
+       "en": "At our place we have a deep river,"
+      },
+      {
+       "cyr": "не ќе можеш да ја поминеш.",
+       "lat": "ne ḱe možeš da ja pomineš.",
+       "en": "you won't be able to cross it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се сторам јас мрена риба",
+       "lat": "Ḱe se storam jas mrena riba",
+       "en": "I will turn into a barbel fish"
+      },
+      {
+       "cyr": "и пак кај тебе ќе дојдам.",
+       "lat": "i pak kaj tebe ḱe dojdam.",
+       "en": "and I will get to you again."
+      },
+      {
+       "cyr": "Река ќе препливам, кај тебе ќе дојдам,",
+       "lat": "Reka ḱe preplivam, kaj tebe ḱe dojdam,",
+       "en": "I will swim accross the river, I will find you,"
+      },
+      {
+       "cyr": "вечно твоја ќе бидам.",
+       "lat": "večno tvoja ḱe bidam.",
+       "en": "I will be yours forever."
+      },
+      {
+       "cyr": "Река ќе препливам, кај тебе ќе дојдам,",
+       "lat": "Reka ḱe preplivam, kaj tebe ḱe dojdam,",
+       "en": "I will swim accross the river, I will find you,"
+      },
+      {
+       "cyr": "вечно твоја ќе бидам.",
+       "lat": "večno tvoja ḱe bidam.",
+       "en": "I will be yours forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Назад, назад, Калино моме,",
+       "lat": "Nazad, nazad, Kalino mome,",
+       "en": "Go back, go back, Kalina girl,"
+      },
+      {
+       "cyr": "немој да одиш по мене.",
+       "lat": "nemoj da odiš po mene.",
+       "en": "don't go after me."
+      },
+      {
+       "cyr": "Кај нас си имам убава жена",
+       "lat": "Kaj nas si imam ubava žena",
+       "en": "At our place I have a beautiful wife,"
+      },
+      {
+       "cyr": "и две мали дечиња.",
+       "lat": "i dve mali dečinja.",
+       "en": "and two little kids."
+      },
+      {
+       "cyr": "Кај нас си имам убава жена",
+       "lat": "Kaj nas si imam ubava žena",
+       "en": "At our place I have a beautiful wife,"
+      },
+      {
+       "cyr": "и две мали дечиња.",
+       "lat": "i dve mali dečinja.",
+       "en": "and two little kids."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се сторам јас црна чума",
+       "lat": "Ḱe se storam jas crna čuma",
+       "en": "I will turn into Black Death"
+      },
+      {
+       "cyr": "и пак кај тебе ќе дојдам.",
+       "lat": "i pak kaj tebe ḱe dojdam.",
+       "en": "and I will get to you again."
+      },
+      {
+       "cyr": "Жена ќе ти сотрам, дечиња ќе гледам,",
+       "lat": "Žena ḱe ti sotram, dečinja ḱe gledam,",
+       "en": "I will annihilate your wife, I will raise your kids,"
+      },
+      {
+       "cyr": "вечно твоја ќе бидам.",
+       "lat": "večno tvoja ḱe bidam.",
+       "en": "I will be yours forever."
+      },
+      {
+       "cyr": "Жена ќе ти сотрам, дечиња ќе гледам,",
+       "lat": "Žena ḱe ti sotram, dečinja ḱe gledam,",
+       "en": "I will annihilate your wife, I will raise your kids,"
+      },
+      {
+       "cyr": "вечно твоја ќе бидам.",
+       "lat": "večno tvoja ḱe bidam.",
+       "en": "I will be yours forever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

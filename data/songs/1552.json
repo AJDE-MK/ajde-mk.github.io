@@ -1,0 +1,175 @@
+{
+ "id": 1552,
+ "slug": "ima-edna-zemja-sonce-shto-ja-gree",
+ "title_cyr": "Има една земја сонце што ја грее",
+ "title_latin": "Ima edna zemja sonce što ja gree",
+ "title_en": "There is a land that the sun warms",
+ "pesna_url": "https://pesna.org/song/1552",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern patriotic song; I cannot name an author, so origin unclear. The three rivers/mountains/sea (Vardar, Pirin, Aegean) stand for the three parts of geographic Macedonia; the 'Нека живеј' in the first refrain is a spelling variant of 'Нека живее'. Lines 3-6 of the third stanza are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "заборавај",
+   "en": "forget (imperative)"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native land, home region"
+  },
+  {
+   "mk": "се бранува",
+   "en": "ripples, waves (like grain or a flag)"
+  },
+  {
+   "mk": "земи ја",
+   "en": "take it"
+  },
+  {
+   "mk": "вечна",
+   "en": "eternal"
+  },
+  {
+   "mk": "нека живее",
+   "en": "long live"
+  },
+  {
+   "mk": "маки",
+   "en": "torments, hardships"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "изникнати",
+   "en": "sprung up, grown back"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/4044"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде, каде и да си",
+       "lat": "Kade, kade i da si",
+       "en": "Wherever, wherever you may be,"
+      },
+      {
+       "cyr": "немој, не заборавај",
+       "lat": "nemoj, ne zaboravaj",
+       "en": "do not, do not forget"
+      },
+      {
+       "cyr": "дека далеку на Југ",
+       "lat": "deka daleku na Jug",
+       "en": "that far away in the South"
+      },
+      {
+       "cyr": "се бранува твојот роден крај.",
+       "lat": "se branuva tvojot roden kraj.",
+       "en": "your native land is rippling."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Има една земја сонце што ја грее,",
+       "lat": "Ima edna zemja sonce što ja gree,",
+       "en": "There is a land that the sun warms,"
+      },
+      {
+       "cyr": "оди таму, в' срце земи ја,",
+       "lat": "odi tamu, v' srce zemi ja,",
+       "en": "go there, take it into your heart,"
+      },
+      {
+       "cyr": "слушни вечна песна таму што се пее:",
+       "lat": "slušni večna pesna tamu što se pee:",
+       "en": "hear the eternal song that is sung there:"
+      },
+      {
+       "cyr": "Нека живеј Македонија!",
+       "lat": "Neka živej Makedonija!",
+       "en": "Long live Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вардар, Пирин, Егеј си",
+       "lat": "Vardar, Pirin, Egej si",
+       "en": "Vardar, Pirin, the Aegean are"
+      },
+      {
+       "cyr": "три цвета во еден цвет,",
+       "lat": "tri cveta vo eden cvet,",
+       "en": "three flowers in one flower,"
+      },
+      {
+       "cyr": "маки, солзи кинати,",
+       "lat": "maki, solzi kinati,",
+       "en": "torments, tears, plucked,"
+      },
+      {
+       "cyr": "до повторно пак изникнати.",
+       "lat": "do povtorno pak izniknati.",
+       "en": "until sprung up anew again."
+      },
+      {
+       "cyr": "Маки, солзи топени,",
+       "lat": "Maki, solzi topeni,",
+       "en": "Torments, tears, melted,"
+      },
+      {
+       "cyr": "но никогаш нерастопени.",
+       "lat": "no nikogaš nerastopeni.",
+       "en": "but never melted away."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Има една земја сонце што ја грее,",
+       "lat": "Ima edna zemja sonce što ja gree,",
+       "en": "There is a land that the sun warms,"
+      },
+      {
+       "cyr": "оди таму, в' срце земи ја,",
+       "lat": "odi tamu, v' srce zemi ja,",
+       "en": "go there, take it into your heart,"
+      },
+      {
+       "cyr": "слушни вечна песна таму што се пее:",
+       "lat": "slušni večna pesna tamu što se pee:",
+       "en": "hear the eternal song that is sung there:"
+      },
+      {
+       "cyr": "Нека живее Македонија!",
+       "lat": "Neka živee Makedonija!",
+       "en": "Long live Macedonia!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

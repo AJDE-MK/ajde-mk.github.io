@@ -1,0 +1,171 @@
+{
+ "id": 1606,
+ "slug": "rachaj-porachaj-hajrije",
+ "title_cyr": "Рачај порачaj Хајрије",
+ "title_latin": "Račaj poračaj Hajrije",
+ "title_en": "Say, order, Hajrije",
+ "pesna_url": "https://pesna.org/song/1606",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional (Bitola area). 'Хајрије' is a woman's name. 'црвилце' as lip colour is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "порачај",
+   "en": "order, send word what you want"
+  },
+  {
+   "mk": "лудо",
+   "en": "dear, lad (endearment)"
+  },
+  {
+   "mk": "белилце",
+   "en": "face powder (lit. little white)"
+  },
+  {
+   "mk": "црвилце",
+   "en": "red colour, lip rouge"
+  },
+  {
+   "mk": "усте",
+   "en": "mouth"
+  },
+  {
+   "mk": "аман",
+   "en": "oh (plea, from Turkish)"
+  },
+  {
+   "mk": "се земиме",
+   "en": "we will marry"
+  },
+  {
+   "mk": "Битола",
+   "en": "Bitola (city)"
+  }
+ ],
+ "performers": [
+  "Aytunç Matracı",
+  "Ekrem",
+  "Nadir Saltik"
+ ],
+ "audio": [
+  {
+   "who": "Ekrem",
+   "url": "https://pesna.org/audio-download/4238"
+  },
+  {
+   "who": "Nadir Saltik",
+   "url": "https://pesna.org/audio-download/4270"
+  },
+  {
+   "who": "Aytunç Matracı",
+   "url": "https://pesna.org/audio-download/4271"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Рачај, порачaj, Хајрије",
+       "lat": "- Račaj, poračaj, Hajrije",
+       "en": "- Say, send word, Hajrije,"
+      },
+      {
+       "cyr": "што да ти купам од Битола?",
+       "lat": "što da ti kupam od Bitola?",
+       "en": "what shall I buy you from Bitola?"
+      },
+      {
+       "cyr": "Оф, аман, аман, оф, леле, ле,",
+       "lat": "Of, aman, aman, of, lele, le,",
+       "en": "Oh, aman, aman, oh, woe, oh,"
+      },
+      {
+       "cyr": "што да ти купам од Битола?",
+       "lat": "što da ti kupam od Bitola?",
+       "en": "what shall I buy you from Bitola?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Купи ми, лудо, купи ми",
+       "lat": "- Kupi mi, ludo, kupi mi",
+       "en": "- Buy me, dear, buy me"
+      },
+      {
+       "cyr": "на бело лице белилце.",
+       "lat": "na belo lice belilce.",
+       "en": "white powder for my white face."
+      },
+      {
+       "cyr": "Оф, аман, аман, оф, леле, ле,",
+       "lat": "Of, aman, aman, of, lele, le,",
+       "en": "Oh, aman, aman, oh, woe, oh,"
+      },
+      {
+       "cyr": "на бело лице белилце.",
+       "lat": "na belo lice belilce.",
+       "en": "white powder for my white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На бело лице белилце,",
+       "lat": "Na belo lice belilce,",
+       "en": "White powder for my white face,"
+      },
+      {
+       "cyr": "на мало усте црвилце.",
+       "lat": "na malo uste crvilce.",
+       "en": "red colour for my small mouth."
+      },
+      {
+       "cyr": "Оф, аман, аман, оф, леле, ле,",
+       "lat": "Of, aman, aman, of, lele, le,",
+       "en": "Oh, aman, aman, oh, woe, oh,"
+      },
+      {
+       "cyr": "на мало усте црвилце.",
+       "lat": "na malo uste crvilce.",
+       "en": "red colour for my small mouth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Кога се враќам од Битола,",
+       "lat": "- Koga se vraḱam od Bitola,",
+       "en": "- When I return from Bitola,"
+      },
+      {
+       "cyr": "ние двајца ќе се земиме.",
+       "lat": "nie dvajca ḱe se zemime.",
+       "en": "we two will marry each other."
+      },
+      {
+       "cyr": "Оф, аман, аман, оф, леле, ле,",
+       "lat": "Of, aman, aman, of, lele, le,",
+       "en": "Oh, aman, aman, oh, woe, oh,"
+      },
+      {
+       "cyr": "ние двајца ќе се земиме.",
+       "lat": "nie dvajca ḱe se zemime.",
+       "en": "we two will marry each other."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

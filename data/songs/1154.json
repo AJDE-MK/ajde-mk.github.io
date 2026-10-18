@@ -1,0 +1,234 @@
+{
+ "id": 1154,
+ "slug": "druga-ljubov-ne-sakam",
+ "title_cyr": "Друга љубов не сакам",
+ "title_latin": "Druga ljubov ne sakam",
+ "title_en": "I Want No Other Love",
+ "pesna_url": "https://pesna.org/song/1154",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern pechalbar (emigrant) song, no author I can name. The final line ends with an ellipsis in the source, rendered the same.",
+ "words_to_learn": [
+  {
+   "mk": "поздрав",
+   "en": "greeting"
+  },
+  {
+   "mk": "другар",
+   "en": "friend, comrade"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native region, homeland"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, abroad"
+  },
+  {
+   "mk": "збогувавме се",
+   "en": "we said goodbye"
+  },
+  {
+   "mk": "безмерно",
+   "en": "without measure, immensely"
+  },
+  {
+   "mk": "есен",
+   "en": "autumn"
+  },
+  {
+   "mk": "таги",
+   "en": "sorrows"
+  },
+  {
+   "mk": "писмо",
+   "en": "letter"
+  }
+ ],
+ "performers": [
+  "Дукат",
+  "Зоран Маневски",
+  "Зоран Настов",
+  "Менде Куноски",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/2790"
+  },
+  {
+   "who": "Менде Куноски",
+   "url": "https://pesna.org/audio-download/2791"
+  },
+  {
+   "who": "Зоран Маневски",
+   "url": "https://pesna.org/audio-download/2792"
+  },
+  {
+   "who": "Зоран Настов",
+   "url": "https://pesna.org/audio-download/2793"
+  },
+  {
+   "who": "Дукат",
+   "url": "https://pesna.org/audio-download/2794"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Поздрав ти праќам, другар стар,",
+       "lat": "Pozdrav ti praḱam, drugar star,",
+       "en": "I send you greetings, old friend,"
+      },
+      {
+       "cyr": "далеку од роден крај.",
+       "lat": "daleku od roden kraj.",
+       "en": "far from my native land."
+      },
+      {
+       "cyr": "Памтиш ли што зборувавме",
+       "lat": "Pamtiš li što zboruvavme",
+       "en": "Do you remember what we said"
+      },
+      {
+       "cyr": "кога се збогувавме?",
+       "lat": "koga se zboguvavme?",
+       "en": "when we parted?"
+      },
+      {
+       "cyr": "Колку ја љубев Билјана,",
+       "lat": "Kolku ja ljubev Biljana,",
+       "en": "How much I loved Biljana,"
+      },
+      {
+       "cyr": "колку бев среќен со неа,",
+       "lat": "kolku bev sreḱen so nea,",
+       "en": "how happy I was with her,"
+      },
+      {
+       "cyr": "сакавме да се земиме,",
+       "lat": "sakavme da se zemime,",
+       "en": "we wanted to marry,"
+      },
+      {
+       "cyr": "јас појдов, се разделивме.",
+       "lat": "jas pojdov, se razdelivme.",
+       "en": "I left, we parted."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Друга љубов не сакам,",
+       "lat": "Druga ljubov ne sakam,",
+       "en": "I want no other love,"
+      },
+      {
+       "cyr": "друга да љубам не можам,",
+       "lat": "druga da ljubam ne možam,",
+       "en": "I cannot love another,"
+      },
+      {
+       "cyr": "останав сам во туѓина,",
+       "lat": "ostanav sam vo tuǵina,",
+       "en": "I stayed alone in a foreign land,"
+      },
+      {
+       "cyr": "останав сам без Билјана.",
+       "lat": "ostanav sam bez Biljana.",
+       "en": "I stayed alone without Biljana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно цело топло лето",
+       "lat": "Edno celo toplo leto",
+       "en": "One whole warm summer"
+      },
+      {
+       "cyr": "безмерно се љубевме,",
+       "lat": "bezmerno se ljubevme,",
+       "en": "we loved each other without measure,"
+      },
+      {
+       "cyr": "бргу дојде рана есен,",
+       "lat": "brgu dojde rana esen,",
+       "en": "early autumn came quickly,"
+      },
+      {
+       "cyr": "жално се разделивме.",
+       "lat": "žalno se razdelivme.",
+       "en": "sadly we parted."
+      },
+      {
+       "cyr": "Заедно со птиците",
+       "lat": "Zaedno so pticite",
+       "en": "Together with the birds"
+      },
+      {
+       "cyr": "летнав во непознат крај,",
+       "lat": "letnav vo nepoznat kraj,",
+       "en": "I flew to an unknown land,"
+      },
+      {
+       "cyr": "љубов, мисли и таги мои",
+       "lat": "ljubov, misli i tagi moi",
+       "en": "love, thoughts and my sorrows"
+      },
+      {
+       "cyr": "со неа ми останаа.",
+       "lat": "so nea mi ostanaa.",
+       "en": "stayed with her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Друга љубов не сакам,",
+       "lat": "Druga ljubov ne sakam,",
+       "en": "I want no other love,"
+      },
+      {
+       "cyr": "друга да љубам не можам,",
+       "lat": "druga da ljubam ne možam,",
+       "en": "I cannot love another,"
+      },
+      {
+       "cyr": "останав сам во туѓина,",
+       "lat": "ostanav sam vo tuǵina,",
+       "en": "I stayed alone in a foreign land,"
+      },
+      {
+       "cyr": "останав сам без Билјана.",
+       "lat": "ostanav sam bez Biljana.",
+       "en": "I stayed alone without Biljana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Писмо ти праќам, другар стар...",
+       "lat": "Pismo ti praḱam, drugar star...",
+       "en": "I send you a letter, old friend..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,203 @@
+{
+ "id": 789,
+ "slug": "of-bre-stojane",
+ "title_cyr": "Оф бре, Стојане",
+ "title_latin": "Of bre, Stojane",
+ "title_en": "Oh, hey, Stojan",
+ "pesna_url": "https://pesna.org/song/789",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Notes in the source gloss зенгин as rich and дилбер as beautiful. 'ќе ти посвршам' rendered 'I will betroth you' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "свршеница",
+   "en": "betrothed (woman)"
+  },
+  {
+   "mk": "се омажи",
+   "en": "got married (of a woman)"
+  },
+  {
+   "mk": "се обесам",
+   "en": "I hang myself"
+  },
+  {
+   "mk": "да се удавам",
+   "en": "to drown"
+  },
+  {
+   "mk": "зенгин",
+   "en": "rich"
+  },
+  {
+   "mk": "вдовица",
+   "en": "widow"
+  },
+  {
+   "mk": "дилбер",
+   "en": "beautiful, lovely"
+  },
+  {
+   "mk": "миразџика",
+   "en": "woman with a dowry"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I don't want"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Јорданка Смилевска",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1478"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1479"
+  },
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/1480"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Оф бре, Стојане, сине Стојане,",
+       "lat": "- Of bre, Stojane, sine Stojane,",
+       "en": "- Oh, hey, Stojan, son Stojan,"
+      },
+      {
+       "cyr": "свршеницата ти се омажи.",
+       "lat": "svršenicata ti se omaži.",
+       "en": "your betrothed has married."
+      },
+      {
+       "cyr": "- Оф леле, мале, стара ле мале,",
+       "lat": "- Of lele, male, stara le male,",
+       "en": "- Oh dear, mother, old mother,"
+      },
+      {
+       "cyr": "нека се мажи, нека се жени.",
+       "lat": "neka se maži, neka se ženi.",
+       "en": "let her marry, let her wed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе си одам в' гора зелена,",
+       "lat": "Jas ḱe si odam v' gora zelena,",
+       "en": "I will go off to the green forest,"
+      },
+      {
+       "cyr": "в' гора зелена, да се обесам.",
+       "lat": "v' gora zelena, da se obesam.",
+       "en": "to the green forest, to hang myself."
+      },
+      {
+       "cyr": "Или ќе одам во река Вардар,",
+       "lat": "Ili ḱe odam vo reka Vardar,",
+       "en": "Or I will go to the river Vardar,"
+      },
+      {
+       "cyr": "во река Вардар да се удавам.",
+       "lat": "vo reka Vardar da se udavam.",
+       "en": "to the river Vardar to drown."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Оф бре Стојане, сине Стојане,",
+       "lat": "- Of bre Stojane, sine Stojane,",
+       "en": "- Oh, hey, Stojan, son Stojan,"
+      },
+      {
+       "cyr": "оф бре Стојане, сине Стојане,",
+       "lat": "of bre Stojane, sine Stojane,",
+       "en": "oh, hey, Stojan, son Stojan,"
+      },
+      {
+       "cyr": "зошто да идеш в' гора зелена,",
+       "lat": "zošto da ideš v' gora zelena,",
+       "en": "why go to the green forest,"
+      },
+      {
+       "cyr": "в' гора зелена, да се обесиш?",
+       "lat": "v' gora zelena, da se obesiš?",
+       "en": "to the green forest, to hang yourself?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе си одам в' града Битола,",
+       "lat": "Jas ḱe si odam v' grada Bitola,",
+       "en": "I will go to the town of Bitola,"
+      },
+      {
+       "cyr": "ќе ти посвршам зенгин вдовица.",
+       "lat": "ḱe ti posvršam zengin vdovica.",
+       "en": "I will betroth you to a rich widow."
+      },
+      {
+       "cyr": "Ќе ти посвршам зенгин вдовица,",
+       "lat": "Ḱe ti posvršam zengin vdovica,",
+       "en": "I will betroth you to a rich widow,"
+      },
+      {
+       "cyr": "дилбер Марика е миразџика.",
+       "lat": "dilber Marika e mirazdžika.",
+       "en": "lovely Marika, with a dowry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Оф леле, мале, стара ле мале,",
+       "lat": "- Of lele, male, stara le male,",
+       "en": "- Oh dear, mother, old mother,"
+      },
+      {
+       "cyr": "оф леле, мале, стара ле мале,",
+       "lat": "of lele, male, stara le male,",
+       "en": "oh dear, mother, old mother,"
+      },
+      {
+       "cyr": "ја ти ја нејќам дилбер Марика,",
+       "lat": "ja ti ja nejḱam dilber Marika,",
+       "en": "I do not want your lovely Marika,"
+      },
+      {
+       "cyr": "јас си го сакам моето либе.",
+       "lat": "jas si go sakam moeto libe.",
+       "en": "I love my own sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

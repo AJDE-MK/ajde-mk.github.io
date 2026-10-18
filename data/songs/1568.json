@@ -1,0 +1,313 @@
+{
+ "id": 1568,
+ "slug": "zaigrale-mamo-devojchinja",
+ "title_cyr": "Заиграле мамо девојчиња",
+ "title_latin": "Zaigrale mamo devojčinja",
+ "title_en": "The girls began to dance, mother",
+ "pesna_url": "https://pesna.org/song/1568",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. The refrain sound words are imitations of jingling and clatter; 'тропа' as 'flaps', 'гајтан веѓе' as 'braid-like eyebrows' and 'одоми ме' as 'settle me in a home' are my reading. Dialect forms: гу = ја (her), теј = тие.",
+ "words_to_learn": [
+  {
+   "mk": "оро",
+   "en": "round dance, circle dance"
+  },
+  {
+   "mk": "сербез",
+   "en": "free-spirited, bold (per the notes)"
+  },
+  {
+   "mk": "чорбаџиска",
+   "en": "of a rich household"
+  },
+  {
+   "mk": "домаќинска",
+   "en": "of a good housekeeper, housewifely"
+  },
+  {
+   "mk": "саја",
+   "en": "sleeveless dress or short vest"
+  },
+  {
+   "mk": "налани",
+   "en": "wooden clogs with a leather strap"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor, unmarried young man"
+  },
+  {
+   "mk": "препелица",
+   "en": "quail"
+  },
+  {
+   "mk": "јеребица",
+   "en": "partridge"
+  },
+  {
+   "mk": "ожени ме",
+   "en": "marry me off"
+  }
+ ],
+ "performers": [
+  "Ансамбл Пеце Атанасовски"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/4095"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заиграле мамо девојчиња,",
+       "lat": "Zaigrale mamo devojčinja,",
+       "en": "The girls began to dance, mother,"
+      },
+      {
+       "cyr": "девојчиња мори, селанчиња.",
+       "lat": "devojčinja mori, selančinja.",
+       "en": "girls, hey, village girls."
+      },
+      {
+       "cyr": "Оро води, мамо, сербез Митра,",
+       "lat": "Oro vodi, mamo, serbez Mitra,",
+       "en": "Serbez Mitra leads the dance, mother,"
+      },
+      {
+       "cyr": "чорбаџиска мори, домаќинска.",
+       "lat": "čorbadžiska mori, domaḱinska.",
+       "en": "the rich man's, hey, the housewife's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕин-ѕин-ѕингали, сајче тропа,",
+       "lat": "Dzin-dzin-dzingali, sajče tropa,",
+       "en": "Dzin-dzin-dzingali, the vest flaps,"
+      },
+      {
+       "cyr": "оп-рак-рака-трак, налани штракаат.",
+       "lat": "op-rak-raka-trak, nalani štrakaat.",
+       "en": "op-rak-raka-trak, the clogs clatter."
+      },
+      {
+       "cyr": "Опа-и-ху-ху, оро игра,",
+       "lat": "Opa-i-hu-hu, oro igra,",
+       "en": "Opa-i-hu-hu, she dances the oro,"
+      },
+      {
+       "cyr": "рај-тарај-рај-тарај, танац води.",
+       "lat": "raj-taraj-raj-taraj, tanac vodi.",
+       "en": "raj-taraj-raj-taraj, she leads the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бело лице, мамо, набелила,",
+       "lat": "Belo lice, mamo, nabelila,",
+       "en": "She whitened her face, mother,"
+      },
+      {
+       "cyr": "медни уста мори, нацрвила.",
+       "lat": "medni usta mori, nacrvila.",
+       "en": "she reddened her honey lips, hey."
+      },
+      {
+       "cyr": "Гајтан веѓе, мамо, навеѓила,",
+       "lat": "Gajtan veǵe, mamo, naveǵila,",
+       "en": "She drew braid-like eyebrows, mother,"
+      },
+      {
+       "cyr": "рамну снагу мори, променила.",
+       "lat": "ramnu snagu mori, promenila.",
+       "en": "her slender figure, hey, she changed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕин-ѕин-ѕингали, сајче тропа,",
+       "lat": "Dzin-dzin-dzingali, sajče tropa,",
+       "en": "Dzin-dzin-dzingali, the vest flaps,"
+      },
+      {
+       "cyr": "оп-рак-рака-трак, налани штракаат.",
+       "lat": "op-rak-raka-trak, nalani štrakaat.",
+       "en": "op-rak-raka-trak, the clogs clatter."
+      },
+      {
+       "cyr": "Опа-и-ху-ху, оро игра,",
+       "lat": "Opa-i-hu-hu, oro igra,",
+       "en": "Opa-i-hu-hu, she dances the oro,"
+      },
+      {
+       "cyr": "рај-тарај-рај-тарај, танац води.",
+       "lat": "raj-taraj-raj-taraj, tanac vodi.",
+       "en": "raj-taraj-raj-taraj, she leads the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оро игра како препелица,",
+       "lat": "Oro igra kako prepelica,",
+       "en": "She dances like a quail,"
+      },
+      {
+       "cyr": "снагу крши како јеребица.",
+       "lat": "snagu krši kako jerebica.",
+       "en": "she bends her figure like a partridge."
+      },
+      {
+       "cyr": "С' црни очи мене погледнуе,",
+       "lat": "S' crni oči mene poglednue,",
+       "en": "With black eyes she glanced at me,"
+      },
+      {
+       "cyr": "с' теј ми уста ми се насмевнуе.",
+       "lat": "s' tej mi usta mi se nasmevnue.",
+       "en": "with those lips she smiled at me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕин-ѕин-ѕингали, сајче тропа,",
+       "lat": "Dzin-dzin-dzingali, sajče tropa,",
+       "en": "Dzin-dzin-dzingali, the vest flaps,"
+      },
+      {
+       "cyr": "оп-рак-рака-трак, налани штракаат.",
+       "lat": "op-rak-raka-trak, nalani štrakaat.",
+       "en": "op-rak-raka-trak, the clogs clatter."
+      },
+      {
+       "cyr": "Опа-и-ху-ху, оро игра,",
+       "lat": "Opa-i-hu-hu, oro igra,",
+       "en": "Opa-i-hu-hu, she dances the oro,"
+      },
+      {
+       "cyr": "рај-тарај-рај-тарај, танац води.",
+       "lat": "raj-taraj-raj-taraj, tanac vodi.",
+       "en": "raj-taraj-raj-taraj, she leads the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Натрчаше, мамо, сви беќари,",
+       "lat": "Natrčaše, mamo, svi beḱari,",
+       "en": "All the bachelors ran up, mother,"
+      },
+      {
+       "cyr": "сербез Митру мори, погледаше.",
+       "lat": "serbez Mitru mori, pogledaše.",
+       "en": "they looked at Serbez Mitra, hey."
+      },
+      {
+       "cyr": "Кој како гу мори, погледује,",
+       "lat": "Koj kako gu mori, pogleduje,",
+       "en": "Whoever looks at her, hey,"
+      },
+      {
+       "cyr": "од мерак гу мори, засакује.",
+       "lat": "od merak gu mori, zasakuje.",
+       "en": "from longing falls in love with her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕин-ѕин-ѕингали, сајче тропа,",
+       "lat": "Dzin-dzin-dzingali, sajče tropa,",
+       "en": "Dzin-dzin-dzingali, the vest flaps,"
+      },
+      {
+       "cyr": "оп-рак-рака-трак, налани штракаат.",
+       "lat": "op-rak-raka-trak, nalani štrakaat.",
+       "en": "op-rak-raka-trak, the clogs clatter."
+      },
+      {
+       "cyr": "Опа-и-ху-ху, оро игра,",
+       "lat": "Opa-i-hu-hu, oro igra,",
+       "en": "Opa-i-hu-hu, she dances the oro,"
+      },
+      {
+       "cyr": "рај-тарај-рај-тарај, танац води.",
+       "lat": "raj-taraj-raj-taraj, tanac vodi.",
+       "en": "raj-taraj-raj-taraj, she leads the dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чини сепак, мамо, ожени ме,",
+       "lat": "Čini sepak, mamo, oženi me,",
+       "en": "Do it anyway, mother, marry me off,"
+      },
+      {
+       "cyr": "ожени ме мори, одоми ме.",
+       "lat": "oženi me mori, odomi me.",
+       "en": "marry me off, hey, settle me in a home."
+      },
+      {
+       "cyr": "Да гу земам, мамо, сербез Митру,",
+       "lat": "Da gu zemam, mamo, serbez Mitru,",
+       "en": "So that I take her, mother, Serbez Mitra,"
+      },
+      {
+       "cyr": "чорбаџиску мори, домаќинску.",
+       "lat": "čorbadžisku mori, domaḱinsku.",
+       "en": "the rich man's, hey, the housewife's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѕин-ѕин-ѕингали, сајче тропа,",
+       "lat": "Dzin-dzin-dzingali, sajče tropa,",
+       "en": "Dzin-dzin-dzingali, the vest flaps,"
+      },
+      {
+       "cyr": "оп-рак-рака-трак, налани штракаат.",
+       "lat": "op-rak-raka-trak, nalani štrakaat.",
+       "en": "op-rak-raka-trak, the clogs clatter."
+      },
+      {
+       "cyr": "Опа-и-ху-ху, оро игра,",
+       "lat": "Opa-i-hu-hu, oro igra,",
+       "en": "Opa-i-hu-hu, she dances the oro,"
+      },
+      {
+       "cyr": "рај-тарај-рај-тарај, танац води.",
+       "lat": "raj-taraj-raj-taraj, tanac vodi.",
+       "en": "raj-taraj-raj-taraj, she leads the dance."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

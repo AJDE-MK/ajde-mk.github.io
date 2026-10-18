@@ -1,0 +1,194 @@
+{
+ "id": 864,
+ "slug": "pesna-za-chento",
+ "title_cyr": "Песна за Ченто",
+ "title_latin": "Pesna za Čento",
+ "title_en": "Song about Chento",
+ "pesna_url": "https://pesna.org/song/864",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern patriotic song, origin unclear (I cannot name an author). Chento is Metodija Andonov-Cento, first president of ASNOM, which met at the Prohor Pcinski monastery in 1944.",
+ "words_to_learn": [
+  {
+   "mk": "среде",
+   "en": "in the middle of"
+  },
+  {
+   "mk": "мнозина",
+   "en": "many (people)"
+  },
+  {
+   "mk": "се собраа",
+   "en": "they gathered"
+  },
+  {
+   "mk": "вистина",
+   "en": "truth"
+  },
+  {
+   "mk": "кажете",
+   "en": "tell (plural)"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "борба",
+   "en": "struggle, fight"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "заборавај",
+   "en": "forget (imperative)"
+  },
+  {
+   "mk": "губел",
+   "en": "lost"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Гоце Николовски",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1887"
+  },
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/1888"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3532"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Среде Скопје)",
+       "lat": "(Srede Skopje)",
+       "en": "(In the middle of Skopje)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Среде Скопје мнозина ми се собраа,",
+       "lat": "Srede Skopje mnozina mi se sobraa,",
+       "en": "In the middle of Skopje many gathered,"
+      },
+      {
+       "cyr": "вистината за Ченто прашуваа:",
+       "lat": "vistinata za Čento prašuvaa:",
+       "en": "they asked for the truth about Chento:"
+      },
+      {
+       "cyr": "- Каде е Ченто, море, кажете,",
+       "lat": "- Kade e Čento, more, kažete,",
+       "en": "- Where is Chento, hey, tell us,"
+      },
+      {
+       "cyr": "дојде време вистината да се дознае.",
+       "lat": "dojde vreme vistinata da se doznae.",
+       "en": "the time has come for the truth to be learned."
+      },
+      {
+       "cyr": "- Каде е Ченто, море, кажете,",
+       "lat": "- Kade e Čento, more, kažete,",
+       "en": "- Where is Chento, hey, tell us,"
+      },
+      {
+       "cyr": "дојде време вистината, ајде, да се сознае.",
+       "lat": "dojde vreme vistinata, ajde, da se soznae.",
+       "en": "the time has come for the truth, come on, to be known."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Среде Скопје мнозина ми се собраа,",
+       "lat": "Srede Skopje mnozina mi se sobraa,",
+       "en": "In the middle of Skopje many gathered,"
+      },
+      {
+       "cyr": "за манастирот Прохор Пчински прашуваа.",
+       "lat": "za manastirot Prohor Pčinski prašuvaa.",
+       "en": "they asked about the monastery of Prohor Pcinski."
+      },
+      {
+       "cyr": "В' манастирот Прохор Пчински, таму започна",
+       "lat": "V' manastirot Prohor Pčinski, tamu započna",
+       "en": "In the monastery of Prohor Pcinski, there began"
+      },
+      {
+       "cyr": "нова борба за слобода, за Македонија.",
+       "lat": "nova borba za sloboda, za Makedonija.",
+       "en": "a new struggle for freedom, for Macedonia."
+      },
+      {
+       "cyr": "В' манастирот Прохор Пчински, таму започна",
+       "lat": "V' manastirot Prohor Pčinski, tamu započna",
+       "en": "In the monastery of Prohor Pcinski, there began"
+      },
+      {
+       "cyr": "нова борба македонска, ајде, за Македонија.",
+       "lat": "nova borba makedonska, ajde, za Makedonija.",
+       "en": "a new Macedonian struggle, come on, for Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, народе македонски, не заборавај,",
+       "lat": "Oj, narode makedonski, ne zaboravaj,",
+       "en": "Oh, Macedonian people, do not forget"
+      },
+      {
+       "cyr": "што си имал, што си губел, што си започнал.",
+       "lat": "što si imal, što si gubel, što si započnal.",
+       "en": "what you had, what you lost, what you began."
+      },
+      {
+       "cyr": "И да имаш сила јака, сила голема,",
+       "lat": "I da imaš sila jaka, sila golema,",
+       "en": "And even if you have a mighty strength, a great strength,"
+      },
+      {
+       "cyr": "пак ќе бидеш, земјо мила, наша најмила.",
+       "lat": "pak ḱe bideš, zemjo mila, naša najmila.",
+       "en": "you will be again, dear land, our dearest."
+      },
+      {
+       "cyr": "И да имаш сила јака, сила голема,",
+       "lat": "I da imaš sila jaka, sila golema,",
+       "en": "And even if you have a mighty strength, a great strength,"
+      },
+      {
+       "cyr": "пак ќе бидеш, земјо мила, ајде, наша победа.",
+       "lat": "pak ḱe bideš, zemjo mila, ajde, naša pobeda.",
+       "en": "you will be again, dear land, come on, our victory."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

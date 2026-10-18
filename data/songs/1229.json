@@ -1,0 +1,167 @@
+{
+ "id": 1229,
+ "slug": "ah-vanja",
+ "title_cyr": "Ах Вања",
+ "title_latin": "Ah Vanja",
+ "title_en": "Ah Vanja",
+ "pesna_url": "https://pesna.org/song/1229",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, no author I can name. 'Ја кршам' (break the figure) is my reading as a folk image of embracing tightly; 'ја љуби' uses ја as a repeated object marker.",
+ "words_to_learn": [
+  {
+   "mk": "мрси",
+   "en": "tousles, ruffles"
+  },
+  {
+   "mk": "руса коса",
+   "en": "fair hair"
+  },
+  {
+   "mk": "медна уста",
+   "en": "honeyed mouth"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "straight, even figure"
+  },
+  {
+   "mk": "остави",
+   "en": "left (past form 'you left')"
+  },
+  {
+   "mk": "заљуби",
+   "en": "fell in love (with)"
+  },
+  {
+   "mk": "се насрди",
+   "en": "got angry, took offence"
+  },
+  {
+   "mk": "посакав",
+   "en": "I wished, I wanted"
+  }
+ ],
+ "performers": [
+  "Чардак"
+ ],
+ "audio": [
+  {
+   "who": "Чардак",
+   "url": "https://pesna.org/audio-download/3069"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе ја мрси сега",
+       "lat": "Koj ḱe ja mrsi sega",
+       "en": "Who will tousle now"
+      },
+      {
+       "cyr": "твојата руса коса?",
+       "lat": "tvojata rusa kosa?",
+       "en": "your fair hair?"
+      },
+      {
+       "cyr": "Ах Вања, ти Вања,",
+       "lat": "Ah Vanja, ti Vanja,",
+       "en": "Ah Vanja, you Vanja,"
+      },
+      {
+       "cyr": "ти ме остави Вања,",
+       "lat": "ti me ostavi Vanja,",
+       "en": "you left me, Vanja,"
+      },
+      {
+       "cyr": "друг си заљуби.",
+       "lat": "drug si zaljubi.",
+       "en": "you fell in love with another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе ја љуби сега",
+       "lat": "Koj ḱe ja ljubi sega",
+       "en": "Who will kiss now"
+      },
+      {
+       "cyr": "твојата медна уста?",
+       "lat": "tvojata medna usta?",
+       "en": "your honey mouth?"
+      },
+      {
+       "cyr": "Ах Вања, ти Вања,",
+       "lat": "Ah Vanja, ti Vanja,",
+       "en": "Ah Vanja, you Vanja,"
+      },
+      {
+       "cyr": "ти ме остави Вања,",
+       "lat": "ti me ostavi Vanja,",
+       "en": "you left me, Vanja,"
+      },
+      {
+       "cyr": "друг си заљуби.",
+       "lat": "drug si zaljubi.",
+       "en": "you fell in love with another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе ја крши сега",
+       "lat": "Koj ḱe ja krši sega",
+       "en": "Who will break now"
+      },
+      {
+       "cyr": "твојата рамна снага?",
+       "lat": "tvojata ramna snaga?",
+       "en": "your straight, slender figure?"
+      },
+      {
+       "cyr": "А јас посакав",
+       "lat": "A jas posakav",
+       "en": "And I had wished"
+      },
+      {
+       "cyr": "јас да ја кршам,",
+       "lat": "jas da ja kršam,",
+       "en": "that I would break it,"
+      },
+      {
+       "cyr": "ти ми се Вања насрди.",
+       "lat": "ti mi se Vanja nasrdi.",
+       "en": "you got angry at me, Vanja."
+      },
+      {
+       "cyr": "Ах Вања, ти Вања,",
+       "lat": "Ah Vanja, ti Vanja,",
+       "en": "Ah Vanja, you Vanja,"
+      },
+      {
+       "cyr": "ти ме остави Вања,",
+       "lat": "ti me ostavi Vanja,",
+       "en": "you left me, Vanja,"
+      },
+      {
+       "cyr": "друг си заљуби.",
+       "lat": "drug si zaljubi.",
+       "en": "you fell in love with another."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,184 @@
+{
+ "id": 1107,
+ "slug": "len-sadila-moma",
+ "title_cyr": "Лен садила мома",
+ "title_latin": "Len sadila moma",
+ "title_en": "A Girl Planted Flax",
+ "pesna_url": "https://pesna.org/song/1107",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Усојница' is a guess ('poisonous' / 'sun-lover'). In the fourth stanza the text addresses the love but still says 'мале' (mother), kept literally. 'Поголема' rendered 'elder', my reading. Traditional.",
+ "words_to_learn": [
+  {
+   "mk": "лен",
+   "en": "flax"
+  },
+  {
+   "mk": "копала",
+   "en": "dug (f.)"
+  },
+  {
+   "mk": "змија",
+   "en": "snake"
+  },
+  {
+   "mk": "љута",
+   "en": "fierce, bitter"
+  },
+  {
+   "mk": "усојница",
+   "en": "poisonous snake (my reading; dialect)"
+  },
+  {
+   "mk": "запретај",
+   "en": "roll up (imperative)"
+  },
+  {
+   "mk": "ракав",
+   "en": "sleeve"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "мори / ле",
+   "en": "interjections: hey / oh"
+  }
+ ],
+ "performers": [
+  "Ајше Доспатска",
+  "Грашево",
+  "Плетена"
+ ],
+ "audio": [
+  {
+   "who": "Плетена",
+   "url": "https://pesna.org/audio-download/2658"
+  },
+  {
+   "who": "Ајше Доспатска",
+   "url": "https://pesna.org/audio-download/2659"
+  },
+  {
+   "who": "Грашево",
+   "url": "https://pesna.org/audio-download/2660"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лен садила мома, лен копала,",
+       "lat": "Len sadila moma, len kopala,",
+       "en": "A girl planted flax, a girl dug flax,"
+      },
+      {
+       "cyr": "ископала мома љута змија,",
+       "lat": "iskopala moma ljuta zmija,",
+       "en": "the girl dug up a fierce snake,"
+      },
+      {
+       "cyr": "љута змија, мома, усојница.",
+       "lat": "ljuta zmija, moma, usojnica.",
+       "en": "a fierce snake, girl, a poisonous one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викна мома, мори, та заплака:",
+       "lat": "Vikna moma, mori, ta zaplaka:",
+       "en": "The girl cried out, hey, and wept:"
+      },
+      {
+       "cyr": "- Ој ле, мале мори, старо мале,",
+       "lat": "- Oj le, male mori, staro male,",
+       "en": "- Oh, mother, hey, old mother,"
+      },
+      {
+       "cyr": "запретај си, мале, ракавето,",
+       "lat": "zapretaj si, male, rakaveto,",
+       "en": "roll up your sleeves, mother,"
+      },
+      {
+       "cyr": "да извадиш, мале, љута змија!",
+       "lat": "da izvadiš, male, ljuta zmija!",
+       "en": "to pull out the fierce snake!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ле, ќерко мори, поголема,",
+       "lat": "- Oj le, ḱerko mori, pogolema,",
+       "en": "- Oh, daughter, hey, my elder one,"
+      },
+      {
+       "cyr": "јас без тебе, ќерко, ќе си можам,",
+       "lat": "jas bez tebe, ḱerko, ḱe si možam,",
+       "en": "I can manage without you, daughter,"
+      },
+      {
+       "cyr": "но без рака, мори, јас не можам.",
+       "lat": "no bez raka, mori, jas ne možam.",
+       "en": "but without my hands, hey, I cannot."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викна мома, море, та заплака,",
+       "lat": "Vikna moma, more, ta zaplaka,",
+       "en": "The girl cried out, hey, and wept,"
+      },
+      {
+       "cyr": "- Ој ле, либе море, прво либе,",
+       "lat": "- Oj le, libe more, prvo libe,",
+       "en": "- Oh, love, hey, first love,"
+      },
+      {
+       "cyr": "запретај си, мале, ракавите,",
+       "lat": "zapretaj si, male, rakavite,",
+       "en": "roll up your sleeves, mother,"
+      },
+      {
+       "cyr": "да извадиш, мале, љута змија!",
+       "lat": "da izvadiš, male, ljuta zmija!",
+       "en": "to pull out the fierce snake!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ле, либе мори, прво либе,",
+       "lat": "- Oj le, libe mori, prvo libe,",
+       "en": "- Oh, love, hey, first love,"
+      },
+      {
+       "cyr": "јас без рака, либе, ќе си можам,",
+       "lat": "jas bez raka, libe, ḱe si možam,",
+       "en": "I can manage without hands, love,"
+      },
+      {
+       "cyr": "но без тебе, либе, јас не можам.",
+       "lat": "no bez tebe, libe, jas ne možam.",
+       "en": "but without you, love, I cannot."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

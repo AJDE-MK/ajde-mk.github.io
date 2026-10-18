@@ -1,0 +1,124 @@
+{
+ "id": 1015,
+ "slug": "uspala-mi-se-sveta-nedela",
+ "title_cyr": "Успала ми се Света Недела",
+ "title_latin": "Uspala mi se Sveta Nedela",
+ "title_en": "Holy Sunday fell asleep on me",
+ "pesna_url": "https://pesna.org/song/1015",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Киска босилек' is my reading ('a sprig/bunch of basil'; киска is unclear). Light dialect forms: моит, пробудит, в' раци.",
+ "words_to_learn": [
+  {
+   "mk": "успала",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "Света Недела",
+   "en": "Holy Sunday (St Kyriaki, personified)"
+  },
+  {
+   "mk": "друм",
+   "en": "road"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "буди",
+   "en": "wakes"
+  },
+  {
+   "mk": "калајно котле",
+   "en": "tin kettle"
+  },
+  {
+   "mk": "стребрено",
+   "en": "silver (dialect)"
+  },
+  {
+   "mk": "босилек",
+   "en": "basil"
+  },
+  {
+   "mk": "попрска",
+   "en": "sprinkled"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Успала ми се Света Недела",
+       "lat": "Uspala mi se Sveta Nedela",
+       "en": "Holy Sunday fell asleep on me"
+      },
+      {
+       "cyr": "меѓу два друма, два манастира.",
+       "lat": "meǵu dva druma, dva manastira.",
+       "en": "between two roads, two monasteries."
+      },
+      {
+       "cyr": "Секој помина и ја буди,",
+       "lat": "Sekoj pomina i ja budi,",
+       "en": "Everyone passes and wakes her,"
+      },
+      {
+       "cyr": "никој не моит да ја пробудит.",
+       "lat": "nikoj ne moit da ja probudit.",
+       "en": "no one can wake her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дур' ми помина сам Свети Јован,",
+       "lat": "Dur' mi pomina sam Sveti Jovan,",
+       "en": "Until Saint John himself passed,"
+      },
+      {
+       "cyr": "в' раци носеше калајно котле,",
+       "lat": "v' raci noseše kalajno kotle,",
+       "en": "in his hands carrying a tin kettle,"
+      },
+      {
+       "cyr": "калајно котле, стребрено крсте,",
+       "lat": "kalajno kotle, strebreno krste,",
+       "en": "a tin kettle, a silver cross,"
+      },
+      {
+       "cyr": "стребрено крсте, киска босилек.",
+       "lat": "strebreno krste, kiska bosilek.",
+       "en": "a silver cross, a sprig of basil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И ја попрска, и ја пробуди:",
+       "lat": "I ja poprska, i ja probudi:",
+       "en": "And he sprinkled her, and woke her:"
+      },
+      {
+       "cyr": "- Ај стани, стани Света Недело!",
+       "lat": "- Aj stani, stani Sveta Nedelo!",
+       "en": "- Come on, get up, Holy Sunday!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,180 @@
+{
+ "id": 1002,
+ "slug": "sednal-marko-malku-da-vechera",
+ "title_cyr": "Седнал Марко малку да вечера",
+ "title_latin": "Sednal Marko malku da večera",
+ "title_en": "Marko sat down to have a little supper",
+ "pesna_url": "https://pesna.org/song/1002",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional epic about Krale Marko; his mother is Evrosima. Rendering of 'венча' and 'крсти' as marrying off / being godfather is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news, message (Turkish loan)"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "венча",
+   "en": "to marry off, to crown (as best man)"
+  },
+  {
+   "mk": "крсти",
+   "en": "to christen, be godfather"
+  },
+  {
+   "mk": "крвава војна",
+   "en": "bloody war"
+  },
+  {
+   "mk": "себап",
+   "en": "good deed, spiritual merit"
+  },
+  {
+   "mk": "побожност",
+   "en": "piety"
+  },
+  {
+   "mk": "ја послуша",
+   "en": "he obeyed"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2334"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, седнал Марко малку да вечера,",
+       "lat": "Ej, sednal Marko malku da večera,",
+       "en": "Hey, Marko sat down to have a little supper,"
+      },
+      {
+       "cyr": "на вечера три абера дошле:",
+       "lat": "na večera tri abera došle:",
+       "en": "three messages came at supper:"
+      },
+      {
+       "cyr": "еден абер краља од Будима,",
+       "lat": "eden aber kralja od Budima,",
+       "en": "one message from the king of Budim,"
+      },
+      {
+       "cyr": "да му венча, Марко, мила сина.",
+       "lat": "da mu venča, Marko, mila sina.",
+       "en": "to crown Marko's dear son in marriage."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, други абер од Костура града:",
+       "lat": "Ej, drugi aber od Kostura grada:",
+       "en": "Hey, the second message from the town of Kostur:"
+      },
+      {
+       "cyr": "да му крсти Марко до два сина.",
+       "lat": "da mu krsti Marko do dva sina.",
+       "en": "to be godfather to Marko's two sons."
+      },
+      {
+       "cyr": "Трети абер од Стамбола града:",
+       "lat": "Treti aber od Stambola grada:",
+       "en": "The third message from the town of Istanbul:"
+      },
+      {
+       "cyr": "цар го кани на крвава војна.",
+       "lat": "car go kani na krvava vojna.",
+       "en": "the sultan calls him to a bloody war."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, па ја праша Марко стара мајка:",
+       "lat": "Ej, pa ja praša Marko stara majka:",
+       "en": "Hey, then Marko asked his old mother:"
+      },
+      {
+       "cyr": "- Кажи мајко каде јас да одам,",
+       "lat": "- Kaži majko kade jas da odam,",
+       "en": "- Tell me, mother, where should I go,"
+      },
+      {
+       "cyr": "тебе мајко јас ќе те послушам?",
+       "lat": "tebe majko jas ḱe te poslušam?",
+       "en": "mother, I will obey you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј одговара Евросима мајка:",
+       "lat": "Ej odgovara Evrosima majka:",
+       "en": "Hey, Evrosima the mother answers:"
+      },
+      {
+       "cyr": "- Ако идеш Марко на венчавка,",
+       "lat": "- Ako ideš Marko na venčavka,",
+       "en": "- If you go, Marko, to a wedding,"
+      },
+      {
+       "cyr": "на венчавка идеш на веселба,",
+       "lat": "na venčavka ideš na veselba,",
+       "en": "to a wedding you go, to a feast,"
+      },
+      {
+       "cyr": "на крштевка идеш на побожност.",
+       "lat": "na krštevka ideš na pobožnost.",
+       "en": "to a christening you go, for piety."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, иди сине во Стамбол на војна,",
+       "lat": "Ej, idi sine vo Stambol na vojna,",
+       "en": "Hey, go, son, to Istanbul to war,"
+      },
+      {
+       "cyr": "ако сакаш себап да направиш.",
+       "lat": "ako sakaš sebap da napraviš.",
+       "en": "if you want to earn a good deed."
+      },
+      {
+       "cyr": "Ја послуша, Марко, стара мајка,",
+       "lat": "Ja posluša, Marko, stara majka,",
+       "en": "Marko obeyed his old mother,"
+      },
+      {
+       "cyr": "си отиде на крвава војна.",
+       "lat": "si otide na krvava vojna.",
+       "en": "and went off to the bloody war."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

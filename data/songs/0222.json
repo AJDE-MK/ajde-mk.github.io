@@ -1,0 +1,130 @@
+{
+ "id": 222,
+ "slug": "ne-ragjaj-majko-lichna-makedonijo",
+ "title_cyr": "Не раѓај мајко, лична Македонијо",
+ "title_latin": "Ne raǵaj majko, lična Makedonijo",
+ "title_en": "Don't give birth, mother, fair Macedonia",
+ "pesna_url": "https://pesna.org/song/222",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Patriotic song from the era of Ottoman rule; 'синој' in line 9 is likely a typo for 'синови' (my reading). Could be a composed patriotic song, but it is treated as folk-style.",
+ "words_to_learn": [
+  {
+   "mk": "раѓај",
+   "en": "give birth"
+  },
+  {
+   "mk": "ќерки",
+   "en": "daughters"
+  },
+  {
+   "mk": "тиран",
+   "en": "tyrant"
+  },
+  {
+   "mk": "граба",
+   "en": "seizes, grabs"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag"
+  },
+  {
+   "mk": "поробен",
+   "en": "enslaved"
+  },
+  {
+   "mk": "аргатки",
+   "en": "female farm laborers"
+  },
+  {
+   "mk": "венат",
+   "en": "wither"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не раѓај мајко, лична Македонијо,",
+       "lat": "Ne raǵaj majko, lična Makedonijo,",
+       "en": "Don't give birth, mother, fair Macedonia,"
+      },
+      {
+       "cyr": "Не раѓај ќерки убави.",
+       "lat": "Ne raǵaj ḱerki ubavi.",
+       "en": "Don't give birth to beautiful daughters."
+      },
+      {
+       "cyr": "Твоите ќерки, мајко Македонијо,",
+       "lat": "Tvoite ḱerki, majko Makedonijo,",
+       "en": "Your daughters, mother Macedonia,"
+      },
+      {
+       "cyr": "Тиран ти граба на сила.",
+       "lat": "Tiran ti graba na sila.",
+       "en": "the tyrant seizes by force."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти раѓај само, мајко Македонијо,",
+       "lat": "Ti raǵaj samo, majko Makedonijo,",
+       "en": "Give birth only, mother Macedonia,"
+      },
+      {
+       "cyr": "Ти раѓај само синови.",
+       "lat": "Ti raǵaj samo sinovi.",
+       "en": "Give birth only to sons."
+      },
+      {
+       "cyr": "Знаме да развеат по Македонија,",
+       "lat": "Zname da razveat po Makedonija,",
+       "en": "They will raise the flag over Macedonia,"
+      },
+      {
+       "cyr": "Народ да зберат, поробен.",
+       "lat": "Narod da zberat, poroben.",
+       "en": "gather the people, enslaved."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твоите синој, по горја, планини,",
+       "lat": "Tvoite sinoj, po gorja, planini,",
+       "en": "Your sons, through forests and mountains,"
+      },
+      {
+       "cyr": "Крв си пролеват за тебе.",
+       "lat": "Krv si prolevat za tebe.",
+       "en": "shed their blood for you."
+      },
+      {
+       "cyr": "Момите лични, убави прикажани,",
+       "lat": "Momite lični, ubavi prikažani,",
+       "en": "The fair girls, beautiful and adorned,"
+      },
+      {
+       "cyr": "Венат си млади аргатки.",
+       "lat": "Venat si mladi argatki.",
+       "en": "wither young as farmhands."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

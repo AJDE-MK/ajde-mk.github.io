@@ -1,0 +1,197 @@
+{
+ "id": 1347,
+ "slug": "oj-suto-mori-sultano",
+ "title_cyr": "Ој Суто мори, Султано",
+ "title_latin": "Oj Suto mori, Sultano",
+ "title_en": "Oh Suta, Sultana",
+ "pesna_url": "https://pesna.org/song/1347",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "About Goce Delchev's mother (Sultana); origin unclear. In stanza 3 the second 'гордеј се што си родила' is rendered as a fragment to keep the line count; the sense continues 'the greatest son'.",
+ "words_to_learn": [
+  {
+   "mk": "перде",
+   "en": "curtain"
+  },
+  {
+   "mk": "поткреваш",
+   "en": "you lift up"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows"
+  },
+  {
+   "mk": "загинал",
+   "en": "perished"
+  },
+  {
+   "mk": "спомени",
+   "en": "memories"
+  },
+  {
+   "mk": "гордеј се",
+   "en": "be proud"
+  },
+  {
+   "mk": "родила",
+   "en": "gave birth"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3515"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Суто, Суто мори, Султано,",
+       "lat": "- Oj Suto, Suto mori, Sultano,",
+       "en": "- Oh Suta, Suta, hey Sultana,"
+      },
+      {
+       "cyr": "што цела ноќ, Суто, не спиеш,",
+       "lat": "što cela noḱ, Suto, ne spieš,",
+       "en": "why do you not sleep all night, Suta,"
+      },
+      {
+       "cyr": "што цела ноќ перде поткреваш,",
+       "lat": "što cela noḱ perde potkrevaš,",
+       "en": "why do you lift the curtain all night,"
+      },
+      {
+       "cyr": "кого го чекаш да дојде?",
+       "lat": "kogo go čekaš da dojde?",
+       "en": "who are you waiting to come?"
+      },
+      {
+       "cyr": "Кажи ни, Суто кажи ни,",
+       "lat": "Kaži ni, Suto kaži ni,",
+       "en": "Tell us, Suta, tell us,"
+      },
+      {
+       "cyr": "сите бре, Суто сме наши.",
+       "lat": "site bre, Suto sme naši.",
+       "en": "we are all your own, Suta."
+      },
+      {
+       "cyr": "Кажи ни, Суто кажи ни,",
+       "lat": "Kaži ni, Suto kaži ni,",
+       "en": "Tell us, Suta, tell us,"
+      },
+      {
+       "cyr": "да не го чекаш Гоцета?",
+       "lat": "da ne go čekaš Goceta?",
+       "en": "are you not waiting for Goce?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Оф вие мили комшии,",
+       "lat": "- Of vie mili komšii,",
+       "en": "- Oh, you dear neighbours,"
+      },
+      {
+       "cyr": "вие ги знајте мојте јадови.",
+       "lat": "vie gi znajte mojte jadovi.",
+       "en": "you know my sorrows."
+      },
+      {
+       "cyr": "Шеста година како помина,",
+       "lat": "Šesta godina kako pomina,",
+       "en": "The sixth year has passed"
+      },
+      {
+       "cyr": "како ми Гоце замина.",
+       "lat": "kako mi Goce zamina.",
+       "en": "since my Goce left."
+      },
+      {
+       "cyr": "За Гоце ништо не знаам,",
+       "lat": "Za Goce ništo ne znaam,",
+       "en": "I know nothing about Goce,"
+      },
+      {
+       "cyr": "дали е живо ил' мртво.",
+       "lat": "dali e živo il' mrtvo.",
+       "en": "whether he is alive or dead."
+      },
+      {
+       "cyr": "Оф леле, мене до бога",
+       "lat": "Of lele, mene do boga",
+       "en": "Oh woe, to God,"
+      },
+      {
+       "cyr": "срцево ми се искина.",
+       "lat": "srcevo mi se iskina.",
+       "en": "my heart has been torn apart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој Суто, Суто мори, Султано,",
+       "lat": "- Oj Suto, Suto mori, Sultano,",
+       "en": "- Oh Suta, Suta, hey Sultana,"
+      },
+      {
+       "cyr": "ако ти Гоце загинал",
+       "lat": "ako ti Goce zaginal",
+       "en": "if your Goce has perished"
+      },
+      {
+       "cyr": "спомени големи остаил,",
+       "lat": "spomeni golemi ostail,",
+       "en": "he left great memories,"
+      },
+      {
+       "cyr": "цел народ да го споменва.",
+       "lat": "cel narod da go spomenva.",
+       "en": "the whole people will remember him."
+      },
+      {
+       "cyr": "Не плачи, мајко Гоцева,",
+       "lat": "Ne plači, majko Goceva,",
+       "en": "Do not cry, Goce's mother,"
+      },
+      {
+       "cyr": "гордеј се што си родила,",
+       "lat": "gordej se što si rodila,",
+       "en": "be proud that you gave birth to"
+      },
+      {
+       "cyr": "гордеј се што си родила,",
+       "lat": "gordej se što si rodila,",
+       "en": "be proud that you gave birth to"
+      },
+      {
+       "cyr": "син најголем, македонски.",
+       "lat": "sin najgolem, makedonski.",
+       "en": "the greatest son, a Macedonian one."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

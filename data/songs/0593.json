@@ -1,0 +1,154 @@
+{
+ "id": 593,
+ "slug": "dafina-bolna-legnala",
+ "title_cyr": "Дафина болна легнала",
+ "title_latin": "Dafina bolna legnala",
+ "title_en": "Dafina lay down sick",
+ "pesna_url": "https://pesna.org/song/593",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бела руба' (white clothes, versus mourning black) and the wish to burn his heart are my reading of the dying girl's demand for a year of mourning.",
+ "words_to_learn": [
+  {
+   "mk": "легнала",
+   "en": "lay down"
+  },
+  {
+   "mk": "доктори",
+   "en": "doctors"
+  },
+  {
+   "mk": "ќе умре",
+   "en": "will die"
+  },
+  {
+   "mk": "повикај",
+   "en": "call (imperative)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "прозборам",
+   "en": "I speak, say"
+  },
+  {
+   "mk": "бела руба",
+   "en": "white clothes"
+  },
+  {
+   "mk": "година",
+   "en": "year"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Зоран Џорлев",
+  "Петар Петрушевски",
+  "Серенада",
+  "Софија Здравковска",
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/1384"
+  },
+  {
+   "who": "Александар Сариевски, Петар Петрушевски",
+   "url": "https://pesna.org/audio-download/2972"
+  },
+  {
+   "who": "Зоран Џорлев, Софија Здравковска",
+   "url": "https://pesna.org/audio-download/3043"
+  },
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/3044"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дафина болна легнала",
+       "lat": "Dafina bolna legnala",
+       "en": "Dafina lay down sick,"
+      },
+      {
+       "cyr": "над глава до три доктора.",
+       "lat": "nad glava do tri doktora.",
+       "en": "over her head two or three doctors."
+      },
+      {
+       "cyr": "Болна е, болна ќе умре,",
+       "lat": "Bolna e, bolna ḱe umre,",
+       "en": "She is sick, sick she will die,"
+      },
+      {
+       "cyr": "ќе умре млада Дафина.",
+       "lat": "ḱe umre mlada Dafina.",
+       "en": "young Dafina will die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мајко ле, стара мајчице",
+       "lat": "- Majko le, stara majčice",
+       "en": "- Mother, oh, old mother,"
+      },
+      {
+       "cyr": "повикај ми го либето,",
+       "lat": "povikaj mi go libeto,",
+       "en": "call my sweetheart for me,"
+      },
+      {
+       "cyr": "два збора да му прозборам,",
+       "lat": "dva zbora da mu prozboram,",
+       "en": "so I can say two words to him,"
+      },
+      {
+       "cyr": "до срце да го изгорам.",
+       "lat": "do srce da go izgoram.",
+       "en": "to burn his heart through."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дури не мине година,",
+       "lat": "Duri ne mine godina,",
+       "en": "Until a year has passed,"
+      },
+      {
+       "cyr": "бела руба да не носи.",
+       "lat": "bela ruba da ne nosi.",
+       "en": "let him not wear white clothes."
+      },
+      {
+       "cyr": "Бела руба да не носи,",
+       "lat": "Bela ruba da ne nosi,",
+       "en": "Let him not wear white clothes,"
+      },
+      {
+       "cyr": "друго либе да не љуби.",
+       "lat": "drugo libe da ne ljubi.",
+       "en": "let him not love another sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

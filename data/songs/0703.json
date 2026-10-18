@@ -1,0 +1,144 @@
+{
+ "id": 703,
+ "slug": "a-bre-vojniche-mlado-vojniche",
+ "title_cyr": "А бре војниче, младо војниче",
+ "title_latin": "A bre vojniče, mlado vojniče",
+ "title_en": "Hey soldier, young soldier",
+ "pesna_url": "https://pesna.org/song/703",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Literal translation; 'прсти кршеше' rendered 'wringing her fingers' (literally 'breaking fingers').",
+ "words_to_learn": [
+  {
+   "mk": "војниче",
+   "en": "soldier (vocative)"
+  },
+  {
+   "mk": "умислено",
+   "en": "lost in thought"
+  },
+  {
+   "mk": "раница",
+   "en": "backpack, pack"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruddy, dark red wine"
+  },
+  {
+   "mk": "ронеше",
+   "en": "was shedding (tears)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре војниче, младо војниче,",
+       "lat": "A bre vojniče, mlado vojniče,",
+       "en": "Hey soldier, young soldier,"
+      },
+      {
+       "cyr": "што си војниче толку умислено?",
+       "lat": "što si vojniče tolku umisleno?",
+       "en": "why are you, soldier, so deep in thought?"
+      },
+      {
+       "cyr": "Дали војниче раница тежи,",
+       "lat": "Dali vojniče ranica teži,",
+       "en": "Is it the pack, soldier, that is heavy,"
+      },
+      {
+       "cyr": "или војниче пушката тежи?",
+       "lat": "ili vojniče puškata teži?",
+       "en": "or is it the rifle, soldier, that is heavy?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ниту ми џанам раница тежи",
+       "lat": "- Nitu mi džanam ranica teži",
+       "en": "- Neither the pack, my dear, is heavy"
+      },
+      {
+       "cyr": "ниту ми џанам пушката тежи.",
+       "lat": "nitu mi džanam puškata teži.",
+       "en": "nor the rifle, my dear, is heavy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Синоќ поминав крај наш'те порти,",
+       "lat": "Sinoḱ pominav kraj naš'te porti,",
+       "en": "Last night I passed by our gate,"
+      },
+      {
+       "cyr": "мојата мајка низ двор одеше,",
+       "lat": "mojata majka niz dvor odeše,",
+       "en": "my mother was walking through the yard,"
+      },
+      {
+       "cyr": "низ двор одеше, сoлзи ронеше,",
+       "lat": "niz dvor odeše, solzi roneše,",
+       "en": "walking through the yard, shedding tears,"
+      },
+      {
+       "cyr": "с'лзи ронеше, прсти кршеше.",
+       "lat": "s'lzi roneše, prsti kršeše.",
+       "en": "shedding tears, wringing her fingers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А мојот татко в меана оди,",
+       "lat": "A mojot tatko v meana odi,",
+       "en": "And my father goes to the tavern,"
+      },
+      {
+       "cyr": "в меана оди, рујно вино пие,",
+       "lat": "v meana odi, rujno vino pie,",
+       "en": "goes to the tavern, drinks ruddy wine,"
+      },
+      {
+       "cyr": "в меана оди, рујно вино пие,",
+       "lat": "v meana odi, rujno vino pie,",
+       "en": "goes to the tavern, drinks ruddy wine,"
+      },
+      {
+       "cyr": "дома не иде, џанам да спие.",
+       "lat": "doma ne ide, džanam da spie.",
+       "en": "he does not come home, my dear, to sleep."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

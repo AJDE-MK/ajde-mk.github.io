@@ -1,0 +1,215 @@
+{
+ "id": 918,
+ "slug": "ne-kani-me",
+ "title_cyr": "Не кани ме",
+ "title_latin": "Ne kani me",
+ "title_en": "Do Not Invite Me",
+ "pesna_url": "https://pesna.org/song/918",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: dialogue-style song, no author I can name. 'Ќе заврне во душава' is my reading ('it will turn sour in the soul'); 'Те слушам мирисаш' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "дуњава",
+   "en": "world"
+  },
+  {
+   "mk": "невреме",
+   "en": "storm, bad weather"
+  },
+  {
+   "mk": "побегнам",
+   "en": "I run away"
+  },
+  {
+   "mk": "премолчиме",
+   "en": "we keep silent about"
+  },
+  {
+   "mk": "прелажам",
+   "en": "I deceive"
+  },
+  {
+   "mk": "небесна",
+   "en": "heavenly"
+  },
+  {
+   "mk": "убавина",
+   "en": "beauty"
+  },
+  {
+   "mk": "разбирам",
+   "en": "I understand"
+  }
+ ],
+ "performers": [
+  "Влатко Лозаноски",
+  "Миле Кузмановски",
+  "Орхидеја Дукова"
+ ],
+ "audio": [
+  {
+   "who": "Миле Кузмановски",
+   "url": "https://pesna.org/audio-download/2037"
+  },
+  {
+   "who": "Влатко Лозаноски, Орхидеја Дукова",
+   "url": "https://pesna.org/audio-download/2038"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Те слушам мирисаш пред мене,",
+       "lat": "- Te slušam mirisaš pred mene,",
+       "en": "- I hear you smelling sweet before me,"
+      },
+      {
+       "cyr": "а в гради срце и невреме",
+       "lat": "a v gradi srce i nevreme",
+       "en": "and in my chest a heart and a storm"
+      },
+      {
+       "cyr": "и не знам како ќе ми помогнеш",
+       "lat": "i ne znam kako ḱe mi pomogneš",
+       "en": "and I do not know how you will help me"
+      },
+      {
+       "cyr": "за да побегнам од тебе и од себе.",
+       "lat": "za da pobegnam od tebe i od sebe.",
+       "en": "to run away from you and from myself."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Те слушам и не си верувам,",
+       "lat": "- Te slušam i ne si veruvam,",
+       "en": "- I hear you and I do not believe myself,"
+      },
+      {
+       "cyr": "зар можам таков да бидам јас,",
+       "lat": "zar možam takov da bidam jas,",
+       "en": "can I really be such a man,"
+      },
+      {
+       "cyr": "да љубам кога срце не сака",
+       "lat": "da ljubam koga srce ne saka",
+       "en": "to love when the heart does not want to"
+      },
+      {
+       "cyr": "кога немам никого на дуњава?",
+       "lat": "koga nemam nikogo na dunjava?",
+       "en": "when I have no one in this world?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не кани ме со очите",
+       "lat": "Ne kani me so očite",
+       "en": "Do not invite me with your eyes"
+      },
+      {
+       "cyr": "не барај таква љубов да премолчиме.",
+       "lat": "ne baraj takva ljubov da premolčime.",
+       "en": "do not ask us to keep such a love silent."
+      },
+      {
+       "cyr": "Ќе заврне во душава,",
+       "lat": "Ḱe zavrne vo dušava,",
+       "en": "It will turn sour in the soul,"
+      },
+      {
+       "cyr": "еј, таква тажна песна не си слушала.",
+       "lat": "ej, takva tažna pesna ne si slušala.",
+       "en": "hey, you have never heard such a sad song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ме боли тоа што немам збор,",
+       "lat": "- Me boli toa što nemam zbor,",
+       "en": "- It hurts me that I have no word,"
+      },
+      {
+       "cyr": "немам ни уста, ни одговор.",
+       "lat": "nemam ni usta, ni odgovor.",
+       "en": "I have no mouth, nor an answer."
+      },
+      {
+       "cyr": "И кажи, небесна убавино,",
+       "lat": "I kaži, nebesna ubavino,",
+       "en": "And tell me, heavenly beauty,"
+      },
+      {
+       "cyr": "како да го прелажам јас срцево?",
+       "lat": "kako da go prelažam jas srcevo?",
+       "en": "how can I deceive this heart?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Те слушам, ништо не разбирам,",
+       "lat": "- Te slušam, ništo ne razbiram,",
+       "en": "- I hear you, I understand nothing,"
+      },
+      {
+       "cyr": "љубовта велиш нè одбрала,",
+       "lat": "ljubovta veliš nè odbrala,",
+       "en": "you say love has chosen us,"
+      },
+      {
+       "cyr": "а дали еднаш си ме прашала",
+       "lat": "a dali ednaš si me prašala",
+       "en": "but did you ever ask me once"
+      },
+      {
+       "cyr": "дали љубам некого на дуњава?",
+       "lat": "dali ljubam nekogo na dunjava?",
+       "en": "whether I love anyone in this world?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не кани ме со очите",
+       "lat": "Ne kani me so očite",
+       "en": "Do not invite me with your eyes"
+      },
+      {
+       "cyr": "не барај таква љубов да премолчиме.",
+       "lat": "ne baraj takva ljubov da premolčime.",
+       "en": "do not ask us to keep such a love silent."
+      },
+      {
+       "cyr": "Ќе заврне во душава,",
+       "lat": "Ḱe zavrne vo dušava,",
+       "en": "It will turn sour in the soul,"
+      },
+      {
+       "cyr": "еј, таква тажна песна не си слушнала.",
+       "lat": "ej, takva tažna pesna ne si slušnala.",
+       "en": "hey, you have never heard such a sad song."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

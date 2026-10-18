@@ -1,0 +1,221 @@
+{
+ "id": 250,
+ "slug": "bolen-lezhi-katil-gjorgji",
+ "title_cyr": "Болен лежи катил Ѓорѓи",
+ "title_latin": "Bolen leži katil Ǵorǵi",
+ "title_en": "Katil Gjorgi is lying sick",
+ "pesna_url": "https://pesna.org/song/250",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сарев",
+  "Борче Крстески",
+  "Виданка Георгиева",
+  "Гога Зафировски",
+  "Мице Гошевски",
+  "Непознат изведувач",
+  "Сашо Гигов - Гиш",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/1575"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1576"
+  },
+  {
+   "who": "Мице Гошевски",
+   "url": "https://pesna.org/audio-download/1577"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1578"
+  },
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/1639"
+  },
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/1640"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/1684"
+  },
+  {
+   "who": "Гога Зафировски",
+   "url": "https://pesna.org/audio-download/2523"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болен лежи катил Ѓорѓи,",
+       "lat": "Bolen leži katil Ǵorǵi,",
+       "en": "Gjorgi is lying sick,"
+      },
+      {
+       "cyr": "в Солунски зандани.",
+       "lat": "v Solunski zandani.",
+       "en": "in dungeons in Solun*."
+      },
+      {
+       "cyr": "Дење лежи катил Ѓорѓи,",
+       "lat": "Denje leži katil Ǵorǵi,",
+       "en": "During the day Gjorgi lies in bed,"
+      },
+      {
+       "cyr": "ноќе го испрашуваат.",
+       "lat": "noḱe go isprašuvaat.",
+       "en": "they interrogate him at night."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, кажи катил Ѓорѓи,",
+       "lat": "Kaži, kaži katil Ǵorǵi,",
+       "en": "- Say, say Katil** Gjorgi,"
+      },
+      {
+       "cyr": "кај е твојта пушка?",
+       "lat": "kaj e tvojta puška?",
+       "en": "where is your rifle"
+      },
+      {
+       "cyr": "Кај е твојта пушка Ѓорѓи,",
+       "lat": "Kaj e tvojta puška Ǵorǵi,",
+       "en": "Where is your rifle, George?"
+      },
+      {
+       "cyr": "пушка малихера?",
+       "lat": "puška malihera?",
+       "en": "Mannlicher rifle?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ал' ме праша клети душман,",
+       "lat": "Al' me praša kleti dušman,",
+       "en": "- Since you asked me, damned enemy,"
+      },
+      {
+       "cyr": "право ќе ти кажам.",
+       "lat": "pravo ḱe ti kažam.",
+       "en": "I'll tell you the truth."
+      },
+      {
+       "cyr": "Право ќе ти кажам душман,",
+       "lat": "Pravo ḱe ti kažam dušman,",
+       "en": "I'll tell you the truth, enemy,"
+      },
+      {
+       "cyr": "нема да те лажам.",
+       "lat": "nema da te lažam.",
+       "en": "I won't lie to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Глава давам клети душман,",
+       "lat": "Glava davam kleti dušman,",
+       "en": "I rather give my head to the damned enemy,"
+      },
+      {
+       "cyr": "пушка не кажувам.",
+       "lat": "puška ne kažuvam.",
+       "en": "I'm not telling you where my rifle is."
+      },
+      {
+       "cyr": "Пушка не кажувам душман,",
+       "lat": "Puška ne kažuvam dušman,",
+       "en": "I'm not telling you where my rifle is, enemy,"
+      },
+      {
+       "cyr": "пушка маликера.",
+       "lat": "puška malikera.",
+       "en": "my Mannlicher rifle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи, кажи катил Ѓорѓи,",
+       "lat": "Kaži, kaži katil Ǵorǵi,",
+       "en": "- Tell me, tell me Katil Gjorgi,"
+      },
+      {
+       "cyr": "каде го спечали?",
+       "lat": "kade go spečali?",
+       "en": "where did you earn it?"
+      },
+      {
+       "cyr": "Каде го спечали Ѓорѓи,",
+       "lat": "Kade go spečali Ǵorǵi,",
+       "en": "Where did you earn George,"
+      },
+      {
+       "cyr": "тешкото имање?",
+       "lat": "teškoto imanje?",
+       "en": "your famous wealth?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Планини сум шетал Турчин,",
+       "lat": "Planini sum šetal Turčin,",
+       "en": "- I have walked the mountains, you Turk,"
+      },
+      {
+       "cyr": "бегови сум клало.",
+       "lat": "begovi sum klalo.",
+       "en": "and I slaughtered Turkish beys."
+      },
+      {
+       "cyr": "Пари сум земало Турчин,",
+       "lat": "Pari sum zemalo Turčin,",
+       "en": "I have taken money, you Turk,"
+      },
+      {
+       "cyr": "пари неброени.",
+       "lat": "pari nebroeni.",
+       "en": "more money than can be counted."
+      },
+      {
+       "cyr": "Е, од тука сум спечалил",
+       "lat": "E, od tuka sum spečalil",
+       "en": "Well, that's how I earned"
+      },
+      {
+       "cyr": "тешкото имање.",
+       "lat": "teškoto imanje.",
+       "en": "my famous wealth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

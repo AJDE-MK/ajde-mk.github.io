@@ -1,0 +1,124 @@
+{
+ "id": 297,
+ "slug": "snoshti-minav-pokraj-vasheto-porte",
+ "title_cyr": "Сношти минав покрај вашето порте",
+ "title_latin": "Snošti minav pokraj vašeto porte",
+ "title_en": "Last night I passed by your gate",
+ "pesna_url": "https://pesna.org/song/297",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding song, origin unclear. Line 'Стани брате да би нестанало' is my reading: the sister urges the brother to get up, wishing the village gone; the speaker's meaning in the last stanza is a bit ambiguous.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "порте",
+   "en": "gate, doorway (dialect)"
+  },
+  {
+   "mk": "ливада",
+   "en": "meadow"
+  },
+  {
+   "mk": "шатор",
+   "en": "tent"
+  },
+  {
+   "mk": "стани",
+   "en": "get up"
+  },
+  {
+   "mk": "огон",
+   "en": "fire"
+  },
+  {
+   "mk": "машко дете",
+   "en": "male child, son"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сношти минав покрај вашето порте",
+       "lat": "Snošti minav pokraj vašeto porte",
+       "en": "Last night I passed by your gate"
+      },
+      {
+       "cyr": "ваш'то порте беше затворено.",
+       "lat": "vaš'to porte beše zatvoreno.",
+       "en": "your gate was closed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред портето зелена ливада",
+       "lat": "Pred porteto zelena livada",
+       "en": "In front of the gate a green meadow"
+      },
+      {
+       "cyr": "во ливада два бели шатори.",
+       "lat": "vo livada dva beli šatori.",
+       "en": "in the meadow two white tents."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во шатори брат и сестра лежат",
+       "lat": "Vo šatori brat i sestra ležat",
+       "en": "In the tents a brother and sister lie"
+      },
+      {
+       "cyr": "братот спие, а сестрата го буди.",
+       "lat": "bratot spie, a sestrata go budi.",
+       "en": "the brother sleeps, and the sister wakes him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани брате да би нестанало",
+       "lat": "Stani brate da bi nestanalo",
+       "en": "Get up, brother, may it be gone"
+      },
+      {
+       "cyr": "наш'то село оган го изгори.",
+       "lat": "naš'to selo ogan go izgori.",
+       "en": "our village, fire has burned it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако гори нека се запали",
+       "lat": "Ako gori neka se zapali",
+       "en": "If it burns, let it go up in flames"
+      },
+      {
+       "cyr": "кога немам свое машко дете.",
+       "lat": "koga nemam svoe maško dete.",
+       "en": "since I have no son of my own."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

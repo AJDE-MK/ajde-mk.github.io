@@ -1,0 +1,239 @@
+{
+ "id": 699,
+ "slug": "karanfilo-filfilo",
+ "title_cyr": "Каранфило филфило",
+ "title_latin": "Karanfilo filfilo",
+ "title_en": "Carnation, Filfilo",
+ "pesna_url": "https://pesna.org/song/699",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'филфило' is unclear to me and I left it untranslated (possibly a made-up or dialect epithet). 'Друшките' I read as 'дружките' (her girl friends); that and the exact sense of 'на каранфил мирисаш' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "каранфил",
+   "en": "carnation"
+  },
+  {
+   "mk": "носиш",
+   "en": "you wear, you carry"
+  },
+  {
+   "mk": "мирисаш",
+   "en": "you smell (of something)"
+  },
+  {
+   "mk": "друшка / дружка",
+   "en": "girl friend, companion"
+  },
+  {
+   "mk": "цел ден",
+   "en": "all day, the whole day"
+  },
+  {
+   "mk": "порти",
+   "en": "gate (of a yard), plural form"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle, gun"
+  },
+  {
+   "mk": "да убијам",
+   "en": "to kill"
+  },
+  {
+   "mk": "жал ми падна",
+   "en": "I felt pity (lit. pity fell on me)"
+  },
+  {
+   "mk": "сираче",
+   "en": "orphan"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Алтернатор",
+  "Анка Гиева",
+  "Атина Апостолова",
+  "Виолета Томовска",
+  "Гоце Арнаудов",
+  "Група Билјана",
+  "Орце Стевковски",
+  "Радио студио Скопје",
+  "Тоше Проески",
+  "JazzVez"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/143"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/144"
+  },
+  {
+   "who": "Алтернатор",
+   "url": "https://pesna.org/audio-download/145"
+  },
+  {
+   "who": "Тоше Проески",
+   "url": "https://pesna.org/audio-download/2439"
+  },
+  {
+   "who": "Гоце Арнаудов",
+   "url": "https://pesna.org/audio-download/2563"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/2607"
+  },
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3020"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/3345"
+  },
+  {
+   "who": "JazzVez",
+   "url": "https://pesna.org/audio-download/3475"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4464"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каранфило филфило моме,",
+       "lat": "Karanfilo filfilo mome,",
+       "en": "O carnation, filfilo, girl,"
+      },
+      {
+       "cyr": "карамфило филфило,",
+       "lat": "karamfilo filfilo,",
+       "en": "carnation, filfilo,"
+      },
+      {
+       "cyr": "Каранфило филфило моме,",
+       "lat": "Karanfilo filfilo mome,",
+       "en": "O carnation, filfilo, girl,"
+      },
+      {
+       "cyr": "ти каранфил не носиш.",
+       "lat": "ti karanfil ne nosiš.",
+       "en": "you don't wear a carnation."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти каранфил не носиш моме,",
+       "lat": "Ti karanfil ne nosiš mome,",
+       "en": "You don't wear a carnation, girl,"
+      },
+      {
+       "cyr": "ти каранфил не носиш,",
+       "lat": "ti karanfil ne nosiš,",
+       "en": "you don't wear a carnation,"
+      },
+      {
+       "cyr": "ти каранфил не носиш моме,",
+       "lat": "ti karanfil ne nosiš mome,",
+       "en": "you don't wear a carnation, girl,"
+      },
+      {
+       "cyr": "на каранфил мирисаш.",
+       "lat": "na karanfil mirisaš.",
+       "en": "you smell of carnation."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Друшките ти носеа моме,",
+       "lat": "Druškite ti nosea mome,",
+       "en": "Your friends were wearing them, girl,"
+      },
+      {
+       "cyr": "друшките ти носеа,",
+       "lat": "druškite ti nosea,",
+       "en": "your friends were wearing them,"
+      },
+      {
+       "cyr": "друшките ти носеа моме,",
+       "lat": "druškite ti nosea mome,",
+       "en": "your friends were wearing them, girl,"
+      },
+      {
+       "cyr": "ама не мирисаа.",
+       "lat": "ama ne mirisaa.",
+       "en": "but they didn't smell of it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цел ден стојам на порти моме,",
+       "lat": "Cel den stojam na porti mome,",
+       "en": "All day I stand at the gate, girl,"
+      },
+      {
+       "cyr": "цел ден стојам на порти,",
+       "lat": "cel den stojam na porti,",
+       "en": "all day I stand at the gate,"
+      },
+      {
+       "cyr": "цел ден стојам на порти моме,",
+       "lat": "cel den stojam na porti mome,",
+       "en": "all day I stand at the gate, girl,"
+      },
+      {
+       "cyr": "пушка држам во раце.",
+       "lat": "puška držam vo race.",
+       "en": "I hold a rifle in my hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да убијам татко ти моме,",
+       "lat": "Da ubijam tatko ti mome,",
+       "en": "To kill your father, girl,"
+      },
+      {
+       "cyr": "да убијам татко ти,",
+       "lat": "da ubijam tatko ti,",
+       "en": "to kill your father,"
+      },
+      {
+       "cyr": "жал ми падна за тебе моме,",
+       "lat": "žal mi padna za tebe mome,",
+       "en": "pity for you fell on me, girl,"
+      },
+      {
+       "cyr": "ќе останеш сираче.",
+       "lat": "ḱe ostaneš sirače.",
+       "en": "you would be left an orphan."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

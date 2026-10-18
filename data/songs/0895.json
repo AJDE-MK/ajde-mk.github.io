@@ -1,0 +1,235 @@
+{
+ "id": 895,
+ "slug": "libe-le-libe-ubavo",
+ "title_cyr": "Либе ле, либе убаво",
+ "title_latin": "Libe le, libe ubavo",
+ "title_en": "My dear, my beautiful love",
+ "pesna_url": "https://pesna.org/song/895",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Доста ми вртиш крај порти' rendered 'you've walked back and forth by the gate enough' (my reading). 'Куќа да гледа' rendered 'run a house' (my reading of the idiom).",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, darling"
+  },
+  {
+   "mk": "налутено",
+   "en": "angry, offended"
+  },
+  {
+   "mk": "расплакано",
+   "en": "tearful"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "вода",
+   "en": "water (here: going to the well/spring)"
+  },
+  {
+   "mk": "порти",
+   "en": "gate"
+  },
+  {
+   "mk": "резил",
+   "en": "shame, disgrace (Turkish-origin)"
+  },
+  {
+   "mk": "другарки",
+   "en": "female friends"
+  },
+  {
+   "mk": "век ќе векуваш",
+   "en": "you will live your whole life"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Ирина Паскалева",
+  "Костадин Гугов",
+  "Лили Цветкова"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1968"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/2048"
+  },
+  {
+   "who": "Лили Цветкова",
+   "url": "https://pesna.org/audio-download/2049"
+  },
+  {
+   "who": "Ирина Паскалева",
+   "url": "https://pesna.org/audio-download/2823"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Либе ле, либе убаво,",
+       "lat": "- Libe le, libe ubavo,",
+       "en": "- My dear, my beautiful love,"
+      },
+      {
+       "cyr": "зошто си ми налутено?",
+       "lat": "zošto si mi naluteno?",
+       "en": "why are you angry at me?"
+      },
+      {
+       "cyr": "Зошто си ми налутено,",
+       "lat": "Zošto si mi naluteno,",
+       "en": "Why are you angry at me,"
+      },
+      {
+       "cyr": "зошто си ми расплакано,",
+       "lat": "zošto si mi rasplakano,",
+       "en": "why are you tearful,"
+      },
+      {
+       "cyr": "зошто ти не ми зборуваш",
+       "lat": "zošto ti ne mi zboruvaš",
+       "en": "why do you not speak to me"
+      },
+      {
+       "cyr": "и во очи не ме погледнуваш?",
+       "lat": "i vo oči ne me poglednuvaš?",
+       "en": "and not look me in the eyes?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Либе ле, либе сакано,",
+       "lat": "- Libe le, libe sakano,",
+       "en": "- My dear, my beloved,"
+      },
+      {
+       "cyr": "сношти си појдов на вода.",
+       "lat": "snošti si pojdov na voda.",
+       "en": "last night I went to the water."
+      },
+      {
+       "cyr": "Сношти си појдов на вода",
+       "lat": "Snošti si pojdov na voda",
+       "en": "Last night I went to the water"
+      },
+      {
+       "cyr": "со мојте мили другарки,",
+       "lat": "so mojte mili drugarki,",
+       "en": "with my dear friends,"
+      },
+      {
+       "cyr": "крај твојте порти поминав",
+       "lat": "kraj tvojte porti pominav",
+       "en": "I passed by your gate"
+      },
+      {
+       "cyr": "за да те либе јас видам.",
+       "lat": "za da te libe jas vidam.",
+       "en": "to see you, dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе те либе не видов,",
+       "lat": "Tebe te libe ne vidov,",
+       "en": "You, dear, I did not see,"
+      },
+      {
+       "cyr": "туку ја видов мајка ти.",
+       "lat": "tuku ja vidov majka ti.",
+       "en": "but I saw your mother."
+      },
+      {
+       "cyr": "Туку ја видов мајка ти,",
+       "lat": "Tuku ja vidov majka ti,",
+       "en": "But I saw your mother,"
+      },
+      {
+       "cyr": "мајка ти на порти стоеше,",
+       "lat": "majka ti na porti stoeše,",
+       "en": "your mother stood at the gate,"
+      },
+      {
+       "cyr": "мене ме резил правеше",
+       "lat": "mene me rezil praveše",
+       "en": "she shamed me"
+      },
+      {
+       "cyr": "пред мојте верни другарки,",
+       "lat": "pred mojte verni drugarki,",
+       "en": "in front of my loyal friends,"
+      },
+      {
+       "cyr": "мене ми она велеше:",
+       "lat": "mene mi ona veleše:",
+       "en": "she said to me:"
+      },
+      {
+       "cyr": "- Доста ми вртиш крај порти.",
+       "lat": "- Dosta mi vrtiš kraj porti.",
+       "en": "- 'You've walked back and forth by the gate enough.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Либе ле, мое убаво,",
+       "lat": "- Libe le, moe ubavo,",
+       "en": "- My dear, my beautiful one,"
+      },
+      {
+       "cyr": "не си ја слушај мајка ми.",
+       "lat": "ne si ja slušaj majka mi.",
+       "en": "do not listen to my mother."
+      },
+      {
+       "cyr": "Не си ја слушај мајка ми,",
+       "lat": "Ne si ja slušaj majka mi,",
+       "en": "Do not listen to my mother,"
+      },
+      {
+       "cyr": "мајка ми е стара, не знае,",
+       "lat": "majka mi e stara, ne znae,",
+       "en": "my mother is old, she doesn't know,"
+      },
+      {
+       "cyr": "не може куќа да гледа,",
+       "lat": "ne može kuḱa da gleda,",
+       "en": "she cannot run a house,"
+      },
+      {
+       "cyr": "ти со мене куќа ќе гледаш",
+       "lat": "ti so mene kuḱa ḱe gledaš",
+       "en": "you will run the house with me"
+      },
+      {
+       "cyr": "и со мене век ќе векуваш.",
+       "lat": "i so mene vek ḱe vekuvaš.",
+       "en": "and live your life with me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

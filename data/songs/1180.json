@@ -1,0 +1,169 @@
+{
+ "id": 1180,
+ "slug": "legnalo-ludo-zaspalo",
+ "title_cyr": "Легнало лудо, заспало",
+ "title_latin": "Legnalo ludo, zaspalo",
+ "title_en": "The Young Man Lay Down and Fell Asleep",
+ "pesna_url": "https://pesna.org/song/1180",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. The last line 'Ај да се себе убодам, без мало селанче' is my reading: 'let me stab myself, nearly (did), village boy'.",
+ "words_to_learn": [
+  {
+   "mk": "легнало",
+   "en": "lay down (neuter form, dialect)"
+  },
+  {
+   "mk": "лудо",
+   "en": "young man, lad (endearing; literally foolish)"
+  },
+  {
+   "mk": "заспало",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "селанче",
+   "en": "village boy"
+  },
+  {
+   "mk": "бели гради",
+   "en": "white chest"
+  },
+  {
+   "mk": "куршумче",
+   "en": "little bullet"
+  },
+  {
+   "mk": "жарче",
+   "en": "little ember"
+  },
+  {
+   "mk": "тргна се",
+   "en": "he started, jerked"
+  },
+  {
+   "mk": "разбуди",
+   "en": "woke up"
+  }
+ ],
+ "performers": [
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2887"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Легнало лудо, заспало,",
+       "lat": "Legnalo ludo, zaspalo,",
+       "en": "The young man lay down, fell asleep,"
+      },
+      {
+       "cyr": "сладок си сон сонувало,",
+       "lat": "sladok si son sonuvalo,",
+       "en": "he dreamed a sweet dream,"
+      },
+      {
+       "cyr": "за едно моме убаво,",
+       "lat": "za edno mome ubavo,",
+       "en": "about a beautiful girl,"
+      },
+      {
+       "cyr": "селанче, селанче.",
+       "lat": "selanče, selanče.",
+       "en": "village boy, village boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На сон му дојде девојче,",
+       "lat": "Na son mu dojde devojče,",
+       "en": "In the dream a girl came to him,"
+      },
+      {
+       "cyr": "на бели му гради легнало,",
+       "lat": "na beli mu gradi legnalo,",
+       "en": "she lay on his white chest,"
+      },
+      {
+       "cyr": "на сон му дојде убаво",
+       "lat": "na son mu dojde ubavo",
+       "en": "in the dream a beautiful one came to him,"
+      },
+      {
+       "cyr": "девојче, девојче.",
+       "lat": "devojče, devojče.",
+       "en": "girl, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' десна му рака заспало,",
+       "lat": "V' desna mu raka zaspalo,",
+       "en": "On his right arm she fell asleep,"
+      },
+      {
+       "cyr": "како куршумче тежеше,",
+       "lat": "kako kuršumče težeše,",
+       "en": "it weighed like a little bullet,"
+      },
+      {
+       "cyr": "како жарче жежеше,",
+       "lat": "kako žarče žežeše,",
+       "en": "it burned like an ember,"
+      },
+      {
+       "cyr": "девојче, девојче.",
+       "lat": "devojče, devojče.",
+       "en": "girl, girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тргна се, лудо, разбуди,",
+       "lat": "Trgna se, ludo, razbudi,",
+       "en": "The young man started, woke up,"
+      },
+      {
+       "cyr": "нема го моме крај него:",
+       "lat": "nema go mome kraj nego:",
+       "en": "the girl is not beside him:"
+      },
+      {
+       "cyr": "- Ај да се себе убодам,",
+       "lat": "- Aj da se sebe ubodam,",
+       "en": "- Come on, let me stab myself,"
+      },
+      {
+       "cyr": "без мало селанче.",
+       "lat": "bez malo selanče.",
+       "en": "almost, village boy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

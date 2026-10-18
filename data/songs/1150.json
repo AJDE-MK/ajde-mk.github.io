@@ -1,0 +1,137 @@
+{
+ "id": 1150,
+ "slug": "alov-bajrak-makedonski",
+ "title_cyr": "Алов бајрак Македонски",
+ "title_latin": "Alov bajrak Makedonski",
+ "title_en": "The Scarlet Macedonian Banner",
+ "pesna_url": "https://pesna.org/song/1150",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; modern patriotic song, no author I can name. 'Гемиџии' refers to the Boatmen of Thessaloniki (my reading). 'Неврокопските' is Nevrokop, now Gotse Delchev in Bulgaria.",
+ "words_to_learn": [
+  {
+   "mk": "алов",
+   "en": "scarlet, bright red"
+  },
+  {
+   "mk": "бајрак",
+   "en": "banner, flag"
+  },
+  {
+   "mk": "марама",
+   "en": "kerchief, headscarf"
+  },
+  {
+   "mk": "навезеш",
+   "en": "you embroider"
+  },
+  {
+   "mk": "развеам",
+   "en": "I unfurl"
+  },
+  {
+   "mk": "камбани",
+   "en": "bells"
+  },
+  {
+   "mk": "гемиџии",
+   "en": "boatmen (the Thessaloniki bombers)"
+  },
+  {
+   "mk": "огништа",
+   "en": "hearths, homes"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4167"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти купам, стара мајко, алова марама,",
+       "lat": "Ḱe ti kupam, stara majko, alova marama,",
+       "en": "I will buy you, old mother, a scarlet kerchief,"
+      },
+      {
+       "cyr": "да навезеш, мила мајко, златен бајрак македонски.",
+       "lat": "da navezeš, mila majko, zlaten bajrak makedonski.",
+       "en": "so that you embroider, dear mother, a golden Macedonian banner."
+      },
+      {
+       "cyr": "Златен бајрак да развејам, мајко, срце изгоре",
+       "lat": "Zlaten bajrak da razvejam, majko, srce izgore",
+       "en": "I will unfurl the golden banner, mother, my heart burned,"
+      },
+      {
+       "cyr": "и крај Вардар и низ Пирин и крај Белото Море.",
+       "lat": "i kraj Vardar i niz Pirin i kraj Beloto More.",
+       "en": "both along the Vardar and through the Pirin and along the White Sea."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се качам, стара мајко, на Пирин Планина,",
+       "lat": "Ḱe se kačam, stara majko, na Pirin Planina,",
+       "en": "I will climb, old mother, onto Pirin Mountain,"
+      },
+      {
+       "cyr": "ќе ги удрам, мила мајко, Неврокопските камбани.",
+       "lat": "ḱe gi udram, mila majko, Nevrokopskite kambani.",
+       "en": "I will strike, dear mother, the bells of Nevrokop."
+      },
+      {
+       "cyr": "Па од Пирин ќе извикам: - Горе глава Македонци,",
+       "lat": "Pa od Pirin ḱe izvikam: - Gore glava Makedonci,",
+       "en": "And from Pirin I will shout: - Heads up, Macedonians,"
+      },
+      {
+       "cyr": "горе глава мили браќа, еј Пиринци, славни јунаци!",
+       "lat": "gore glava mili braḱa, ej Pirinci, slavni junaci!",
+       "en": "heads up, dear brothers, hey people of Pirin, glorious heroes!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ќе слезам, стара мајко, Голо Брдо, Преспа,",
+       "lat": "Pa ḱe slezam, stara majko, Golo Brdo, Prespa,",
+       "en": "Then I will go down, old mother, to Golo Brdo, Prespa,"
+      },
+      {
+       "cyr": "ќе разшетам, мила мајко, егејските родни огништа.",
+       "lat": "ḱe razšetam, mila majko, egejskite rodni ogništa.",
+       "en": "I will walk, dear mother, through the Aegean native hearths."
+      },
+      {
+       "cyr": "Па во Солун ќе извикам: - Вечна слава гемиџии,",
+       "lat": "Pa vo Solun ḱe izvikam: - Večna slava gemidžii,",
+       "en": "And in Thessaloniki I will shout: - Eternal glory to the boatmen,"
+      },
+      {
+       "cyr": "вечни да сме мили браќа, Македонци Беломорци!",
+       "lat": "večni da sme mili braḱa, Makedonci Belomorci!",
+       "en": "may we be eternal, dear brothers, Macedonians of the White Sea!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

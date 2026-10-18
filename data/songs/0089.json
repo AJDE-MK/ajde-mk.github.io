@@ -1,0 +1,151 @@
+{
+ "id": 89,
+ "slug": "oj-vince-vince",
+ "title_cyr": "Ој винце, винце",
+ "title_latin": "Oj vince, vince",
+ "title_en": "Oh wine, little wine",
+ "pesna_url": "https://pesna.org/song/89",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лока' rendered 'gulps' and 'по цел ноќ' (dialect, 'all night') as given; both are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "винце",
+   "en": "little wine (diminutive)"
+  },
+  {
+   "mk": "гроздово зрнце",
+   "en": "grape berry"
+  },
+  {
+   "mk": "пие",
+   "en": "drinks"
+  },
+  {
+   "mk": "лока",
+   "en": "gulps, laps up"
+  },
+  {
+   "mk": "тавани",
+   "en": "attics, lofts"
+  },
+  {
+   "mk": "сокаци",
+   "en": "alleys, streets"
+  },
+  {
+   "mk": "меани",
+   "en": "taverns"
+  },
+  {
+   "mk": "кисни",
+   "en": "gets soaked"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2081"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој винце, винце, гроздово зрнце,",
+       "lat": "Oj vince, vince, grozdovo zrnce,",
+       "en": "Oh wine, little wine, grape berry,"
+      },
+      {
+       "cyr": "кој те тебе пие, без жена спие.",
+       "lat": "koj te tebe pie, bez žena spie.",
+       "en": "whoever drinks you sleeps without a wife."
+      },
+      {
+       "cyr": "Ој винце, винце, бело ем црвено,",
+       "lat": "Oj vince, vince, belo em crveno,",
+       "en": "Oh wine, little wine, white and red,"
+      },
+      {
+       "cyr": "кој те тебе пие, без жена спие.",
+       "lat": "koj te tebe pie, bez žena spie.",
+       "en": "whoever drinks you sleeps without a wife."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој винце, винце, гроздово зрнце,",
+       "lat": "Oj vince, vince, grozdovo zrnce,",
+       "en": "Oh wine, little wine, grape berry,"
+      },
+      {
+       "cyr": "кој те тебе лока, по тавани скока.",
+       "lat": "koj te tebe loka, po tavani skoka.",
+       "en": "whoever gulps you jumps on the attics."
+      },
+      {
+       "cyr": "Ој винце, винце, гроздово зрнце,",
+       "lat": "Oj vince, vince, grozdovo zrnce,",
+       "en": "Oh wine, little wine, grape berry,"
+      },
+      {
+       "cyr": "кој те тебе пие, по цел ноќ не спие.",
+       "lat": "koj te tebe pie, po cel noḱ ne spie.",
+       "en": "whoever drinks you does not sleep all night."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој винце, винце, гроздово зрнце,",
+       "lat": "Oj vince, vince, grozdovo zrnce,",
+       "en": "Oh wine, little wine, grape berry,"
+      },
+      {
+       "cyr": "кој те тебе пие, по сокаци спие,",
+       "lat": "koj te tebe pie, po sokaci spie,",
+       "en": "whoever drinks you sleeps in the alleys,"
+      },
+      {
+       "cyr": "Ој винце, винце, гроздово зрнце,",
+       "lat": "Oj vince, vince, grozdovo zrnce,",
+       "en": "Oh wine, little wine, grape berry,"
+      },
+      {
+       "cyr": "кој на тебе мисли, по меани кисни.",
+       "lat": "koj na tebe misli, po meani kisni.",
+       "en": "whoever thinks of you soaks in the taverns."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој винце, винце, гроздово зрнце,",
+       "lat": "Oj vince, vince, grozdovo zrnce,",
+       "en": "Oh wine, little wine, grape berry,"
+      },
+      {
+       "cyr": "кој те тебе пие, без жена спие.",
+       "lat": "koj te tebe pie, bez žena spie.",
+       "en": "whoever drinks you sleeps without a wife."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,175 @@
+{
+ "id": 745,
+ "slug": "bitolchani-meraklii",
+ "title_cyr": "Битолчани мераклии",
+ "title_latin": "Bitolčani meraklii",
+ "title_en": "Bitola Merry-makers",
+ "pesna_url": "https://pesna.org/song/745",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Тумбе Кафе' is a place name (a cafe in Bitola, as I understand it). 'бели, црвени' for girls is my reading: fair and rosy-cheeked.",
+ "words_to_learn": [
+  {
+   "mk": "мераклија",
+   "en": "someone who enjoys life's pleasures, a bon vivant"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors, unmarried young men"
+  },
+  {
+   "mk": "моми",
+   "en": "girls, maidens"
+  },
+  {
+   "mk": "памет",
+   "en": "mind, sense"
+  },
+  {
+   "mk": "почекајте",
+   "en": "wait (plural)"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "лични",
+   "en": "pretty, handsome"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1073"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Битолчани мераклии,",
+       "lat": "Bitolčani meraklii,",
+       "en": "Bitola men, lovers of a good time,"
+      },
+      {
+       "cyr": "битолчани, еј ергени,",
+       "lat": "bitolčani, ej ergeni,",
+       "en": "Bitola men, hey bachelors,"
+      },
+      {
+       "cyr": "на убави моми, бели, црвени,",
+       "lat": "na ubavi momi, beli, crveni,",
+       "en": "for beautiful girls, white and red,"
+      },
+      {
+       "cyr": "на убави моми, бели, црвени.",
+       "lat": "na ubavi momi, beli, crveni.",
+       "en": "for beautiful girls, white and red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, битолчани, почекајте,",
+       "lat": "Ej, bitolčani, počekajte,",
+       "en": "Hey, Bitola men, wait a moment,"
+      },
+      {
+       "cyr": "по убави моми памет губите.",
+       "lat": "po ubavi momi pamet gubite.",
+       "en": "over beautiful girls you lose your minds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битолчани мераклии,",
+       "lat": "Bitolčani meraklii,",
+       "en": "Bitola men, lovers of a good time,"
+      },
+      {
+       "cyr": "битолчани, еј ергени,",
+       "lat": "bitolčani, ej ergeni,",
+       "en": "Bitola men, hey bachelors,"
+      },
+      {
+       "cyr": "по убаво вино, вино црвено,",
+       "lat": "po ubavo vino, vino crveno,",
+       "en": "for good wine, red wine,"
+      },
+      {
+       "cyr": "по убаво вино, вино црвено.",
+       "lat": "po ubavo vino, vino crveno.",
+       "en": "for good wine, red wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, битолчани, почекајте,",
+       "lat": "Ej, bitolčani, počekajte,",
+       "en": "Hey, Bitola men, wait a moment,"
+      },
+      {
+       "cyr": "од убаво вино памет губите.",
+       "lat": "od ubavo vino pamet gubite.",
+       "en": "over good wine you lose your minds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битолчани, мераклии,",
+       "lat": "Bitolčani, meraklii,",
+       "en": "Bitola men, lovers of a good time,"
+      },
+      {
+       "cyr": "битолчани, еј ергени,",
+       "lat": "bitolčani, ej ergeni,",
+       "en": "Bitola men, hey bachelors,"
+      },
+      {
+       "cyr": "да одиме Тумбе Кафе,",
+       "lat": "da odime Tumbe Kafe,",
+       "en": "let us go to Tumbe Kafe,"
+      },
+      {
+       "cyr": "таму има вино и моми убави.",
+       "lat": "tamu ima vino i momi ubavi.",
+       "en": "there is wine there and beautiful girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рујно вино ќе пиеме,",
+       "lat": "Rujno vino ḱe pieme,",
+       "en": "We will drink ruby wine,"
+      },
+      {
+       "cyr": "лични моми ќе љубиме.",
+       "lat": "lični momi ḱe ljubime.",
+       "en": "we will kiss pretty girls."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

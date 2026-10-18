@@ -1,0 +1,146 @@
+{
+ "id": 1245,
+ "slug": "cutela-e-ruzha",
+ "title_cyr": "Цутела е ружа",
+ "title_latin": "Cutela e ruža",
+ "title_en": "The Rose Has Bloomed",
+ "pesna_url": "https://pesna.org/song/1245",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional love song, origin unclear. Line 3-4 is my reading: 'ако ми е с' мојто прво либе' is ambiguous (possibly 'if she is not my first love').",
+ "words_to_learn": [
+  {
+   "mk": "цутела",
+   "en": "has bloomed"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "проклет",
+   "en": "cursed"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "посакав",
+   "en": "I wished for, courted"
+  },
+  {
+   "mk": "руба",
+   "en": "clothes, trousseau"
+  },
+  {
+   "mk": "се здомила",
+   "en": "settled into a home, married"
+  }
+ ],
+ "performers": [
+  "Велислава Костадинова",
+  "Ива Костадинова",
+  "Стојанка Бонева",
+  "ФГ Сите Бугари заедно"
+ ],
+ "audio": [
+  {
+   "who": "Стојанка Бонева",
+   "url": "https://pesna.org/audio-download/3131"
+  },
+  {
+   "who": "ФГ Сите Бугари заедно",
+   "url": "https://pesna.org/audio-download/3132"
+  },
+  {
+   "who": "Велислава Костадинова, Ива Костадинова",
+   "url": "https://pesna.org/audio-download/3133"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цутела е ружа в' градина ле,",
+       "lat": "Cutela e ruža v' gradina le,",
+       "en": "A rose has bloomed in the garden, oh,"
+      },
+      {
+       "cyr": "над ружата славеј слатко пее.",
+       "lat": "nad ružata slavej slatko pee.",
+       "en": "above the rose a nightingale sings sweetly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Проклет да е кој се с' мома љуби ле,",
+       "lat": "- Proklet da e koj se s' moma ljubi le,",
+       "en": "- Cursed be whoever courts a girl, oh,"
+      },
+      {
+       "cyr": "ако ми е с' мојто прво либе.",
+       "lat": "ako mi e s' mojto prvo libe.",
+       "en": "if she is not with my first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Посакав ја првата година ле,",
+       "lat": "Posakav ja prvata godina le,",
+       "en": "I courted her in the first year, oh,"
+      },
+      {
+       "cyr": "кажаа ми дека е уште мала.",
+       "lat": "kažaa mi deka e ušte mala.",
+       "en": "they told me she was still little."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Посакав ја втората година ле,",
+       "lat": "Posakav ja vtorata godina le,",
+       "en": "I courted her in the second year, oh,"
+      },
+      {
+       "cyr": "кажаа ми дека руба нема.",
+       "lat": "kažaa mi deka ruba nema.",
+       "en": "they told me she had no trousseau."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Посакав ја третата година ле,",
+       "lat": "Posakav ja tretata godina le,",
+       "en": "I courted her in the third year, oh,"
+      },
+      {
+       "cyr": "кажаа ми дека се здомила.",
+       "lat": "kažaa mi deka se zdomila.",
+       "en": "they told me she had already married."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

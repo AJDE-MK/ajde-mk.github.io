@@ -1,0 +1,206 @@
+{
+ "id": 1159,
+ "slug": "moma-solunchanka",
+ "title_cyr": "Мома солунчанка",
+ "title_latin": "Moma solunčanka",
+ "title_en": "The Girl from Salonika",
+ "pesna_url": "https://pesna.org/song/1159",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it sounds like a modern song but I cannot name an author. 'Ласта снага кршеше' as 'swallow-slim figure swayed' and 'браној' as 'wave' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "среќна",
+   "en": "lucky, happy"
+  },
+  {
+   "mk": "ѕвезда",
+   "en": "star"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty, good-looking"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "скришум",
+   "en": "secretly"
+  },
+  {
+   "mk": "крадум",
+   "en": "stealthily"
+  },
+  {
+   "mk": "пречекаа",
+   "en": "met, crossed (of eyes)"
+  },
+  {
+   "mk": "ергенче",
+   "en": "young bachelor"
+  },
+  {
+   "mk": "тенко половинче",
+   "en": "slender waist"
+  },
+  {
+   "mk": "душо",
+   "en": "my soul (endearment)"
+  }
+ ],
+ "performers": [
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2810"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Среќна ѕвезда сретнав, мајче,",
+       "lat": "Sreḱna dzvezda sretnav, majče,",
+       "en": "I met a lucky star, mother,"
+      },
+      {
+       "cyr": "лична мома солунчанка,",
+       "lat": "lična moma solunčanka,",
+       "en": "a pretty girl from Salonika,"
+      },
+      {
+       "cyr": "во Солуна се видовме,",
+       "lat": "vo Soluna se vidovme,",
+       "en": "we saw each other in Salonika,"
+      },
+      {
+       "cyr": "крај море се шеташе.",
+       "lat": "kraj more se šetaše.",
+       "en": "she was strolling by the sea."
+      },
+      {
+       "cyr": "Ласта снага кршеше,",
+       "lat": "Lasta snaga kršeše,",
+       "en": "Her swallow-slim figure swayed,"
+      },
+      {
+       "cyr": "како браној во морето,",
+       "lat": "kako branoj vo moreto,",
+       "en": "like a wave in the sea,"
+      },
+      {
+       "cyr": "ветер коса ѝ вееше,",
+       "lat": "veter kosa ì veeše,",
+       "en": "the wind blew her hair,"
+      },
+      {
+       "cyr": "мома тивко си пееше.",
+       "lat": "moma tivko si peeše.",
+       "en": "the girl sang softly to herself."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Скришум, крадум, ја погледнав,",
+       "lat": "Skrišum, kradum, ja poglednav,",
+       "en": "Secretly, stealthily, I glanced at her,"
+      },
+      {
+       "cyr": "очи ни се пречекаа:",
+       "lat": "oči ni se prečekaa:",
+       "en": "our eyes met:"
+      },
+      {
+       "cyr": "- Здраво, живо, ах девојче,",
+       "lat": "- Zdravo, živo, ah devojče,",
+       "en": "- Hello, alive and well, ah girl,"
+      },
+      {
+       "cyr": "милно, видно солунчанче.",
+       "lat": "milno, vidno solunčanče.",
+       "en": "dear, handsome Salonika girl."
+      },
+      {
+       "cyr": "- Здраво, живо, ергенче,",
+       "lat": "- Zdravo, živo, ergenče,",
+       "en": "- Hello, alive and well, young man,"
+      },
+      {
+       "cyr": "убаво битолчанче.",
+       "lat": "ubavo bitolčanče.",
+       "en": "handsome Bitola boy."
+      },
+      {
+       "cyr": "- Кажи што да сторам, душо,",
+       "lat": "- Kaži što da storam, dušo,",
+       "en": "- Tell me what to do, my soul,"
+      },
+      {
+       "cyr": "срцево ми изгоре!",
+       "lat": "srcevo mi izgore!",
+       "en": "my heart has burned up!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Прегрни ме, младо момче,",
+       "lat": "- Pregrni me, mlado momče,",
+       "en": "- Embrace me, young lad,"
+      },
+      {
+       "cyr": "за тенко половинче,",
+       "lat": "za tenko polovinče,",
+       "en": "by my slender waist,"
+      },
+      {
+       "cyr": "плач и радост ќе ти дарам,",
+       "lat": "plač i radost ḱe ti daram,",
+       "en": "I will give you tears and joy,"
+      },
+      {
+       "cyr": "љубовни солзи од Солуна.",
+       "lat": "ljubovni solzi od Soluna.",
+       "en": "love tears from Salonika."
+      },
+      {
+       "cyr": "Прегрни ме, младо момче,",
+       "lat": "Pregrni me, mlado momče,",
+       "en": "Embrace me, young lad,"
+      },
+      {
+       "cyr": "за тенко половинче,",
+       "lat": "za tenko polovinče,",
+       "en": "by my slender waist,"
+      },
+      {
+       "cyr": "колку вода во морето,",
+       "lat": "kolku voda vo moreto,",
+       "en": "as much as the water in the sea,"
+      },
+      {
+       "cyr": "песни ќе ти испеам.",
+       "lat": "pesni ḱe ti ispeam.",
+       "en": "I will sing you that many songs."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

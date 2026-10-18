@@ -1,0 +1,245 @@
+{
+ "id": 124,
+ "slug": "air-da-ne-storish-majko",
+ "title_cyr": "Аир да не сториш мајко",
+ "title_latin": "Air da ne storiš majko",
+ "title_en": "May no good come to you, mother",
+ "pesna_url": "https://pesna.org/song/124",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: David Golber)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Извор",
+  "Миле Коларов",
+  "Сашо Митев",
+  "Тодор Божков",
+  "Macedonian Women's Choir of Melbourne"
+ ],
+ "audio": [
+  {
+   "who": "Извор",
+   "url": "https://pesna.org/audio-download/1018"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1019"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/1020"
+  },
+  {
+   "who": "Macedonian Women's Choir of Melbourne",
+   "url": "https://pesna.org/audio-download/1021"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1217"
+  },
+  {
+   "who": "Васка Илиева, Миле Коларов, Тодор Божков",
+   "url": "https://pesna.org/audio-download/3010"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3920"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Аир да не сториш мајко",
+       "lat": "Air da ne storiš majko",
+       "en": "May no good come to you mother"
+      },
+      {
+       "cyr": "што ме на зло даде,",
+       "lat": "što me na zlo dade,",
+       "en": "That you married me to evil,"
+      },
+      {
+       "cyr": "многу надалеку, мамо,",
+       "lat": "mnogu nadaleku, mamo,",
+       "en": "Very far way, mama,"
+      },
+      {
+       "cyr": "преку црна гора.",
+       "lat": "preku crna gora.",
+       "en": "Through a black mountain."
+      },
+      {
+       "cyr": "Преку црна гора, мамо,",
+       "lat": "Preku crna gora, mamo,",
+       "en": "Through a black mountain, mama,"
+      },
+      {
+       "cyr": "преку матна вода.",
+       "lat": "preku matna voda.",
+       "en": "Through muddy water."
+      },
+      {
+       "cyr": "Преку матна вода, мамо,",
+       "lat": "Preku matna voda, mamo,",
+       "en": "Through muddy water, mama,"
+      },
+      {
+       "cyr": "у ајдучка куќа.",
+       "lat": "u ajdučka kuḱa.",
+       "en": "to a house of bandits."
+      },
+      {
+       "cyr": "Во ајдучка куќа, мамо,",
+       "lat": "Vo ajdučka kuḱa, mamo,",
+       "en": "In a house of bandits, mama,"
+      },
+      {
+       "cyr": "деветтина браќа.",
+       "lat": "devettina braḱa.",
+       "en": "nine brothers."
+      },
+      {
+       "cyr": "Деветина браќа, мамо,",
+       "lat": "Devetina braḱa, mamo,",
+       "en": "Nine brothers, mama,"
+      },
+      {
+       "cyr": "горски арамии,",
+       "lat": "gorski aramii,",
+       "en": "mountain bandits,"
+      },
+      {
+       "cyr": "а мојот десетти, мамо,",
+       "lat": "a mojot desetti, mamo,",
+       "en": "and mine, the tenth, mama,"
+      },
+      {
+       "cyr": "ем горски, ем полски.",
+       "lat": "em gorski, em polski.",
+       "en": "mountain and field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден дома седат, мамо,",
+       "lat": "Vezden doma sedat, mamo,",
+       "en": "The whole day they sit at home, mama,"
+      },
+      {
+       "cyr": "порти затворени,",
+       "lat": "porti zatvoreni,",
+       "en": "the doors closed,"
+      },
+      {
+       "cyr": "по изби се кријат, мамо,",
+       "lat": "po izbi se krijat, mamo,",
+       "en": "they hide in the cellar, mama,"
+      },
+      {
+       "cyr": "рујно вино пијат.",
+       "lat": "rujno vino pijat.",
+       "en": "drinking red wine."
+      },
+      {
+       "cyr": "А штом ќе се смрачи, мамо,",
+       "lat": "A štom ḱe se smrači, mamo,",
+       "en": "But when it gets dark, mama,"
+      },
+      {
+       "cyr": "порти ми отвараат.",
+       "lat": "porti mi otvaraat.",
+       "en": "they open the doors."
+      },
+      {
+       "cyr": "Порти ми отварат, мамо,",
+       "lat": "Porti mi otvarat, mamo,",
+       "en": "They open the doors, mama,"
+      },
+      {
+       "cyr": "по ајдутлак идат.",
+       "lat": "po ajdutlak idat.",
+       "en": "and go out on banditry."
+      },
+      {
+       "cyr": "Сношти отидоја, мамо,",
+       "lat": "Snošti otidoja, mamo,",
+       "en": "Last night they went out, mama,"
+      },
+      {
+       "cyr": "сабајле дојдоја.",
+       "lat": "sabajle dojdoja.",
+       "en": "they returned in the morning."
+      },
+      {
+       "cyr": "Они дотераја, мамо,",
+       "lat": "Oni doteraja, mamo,",
+       "en": "They carried, mama,"
+      },
+      {
+       "cyr": "до девет товара.",
+       "lat": "do devet tovara.",
+       "en": "nine loads."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До девет товара, мамо,",
+       "lat": "Do devet tovara, mamo,",
+       "en": "Nine loads, mama,"
+      },
+      {
+       "cyr": "таја бела свила,",
+       "lat": "taja bela svila,",
+       "en": "of fine silk,"
+      },
+      {
+       "cyr": "а десетти товар, мамо,",
+       "lat": "a desetti tovar, mamo,",
+       "en": "but the tenth load, mama,"
+      },
+      {
+       "cyr": "чиста богасија,",
+       "lat": "čista bogasija,",
+       "en": "sheer treasure,"
+      },
+      {
+       "cyr": "а у богасија, мамо,",
+       "lat": "a u bogasija, mamo,",
+       "en": "and in this treasure, mama,"
+      },
+      {
+       "cyr": "глава од јунака.",
+       "lat": "glava od junaka.",
+       "en": "the head of a hero."
+      },
+      {
+       "cyr": "Главата ми беше, мамо,",
+       "lat": "Glavata mi beše, mamo,",
+       "en": "It was the head, mama,"
+      },
+      {
+       "cyr": "на моето братче.",
+       "lat": "na moeto bratče.",
+       "en": "of my dear brother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

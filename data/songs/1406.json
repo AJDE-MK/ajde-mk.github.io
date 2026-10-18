@@ -1,0 +1,236 @@
+{
+ "id": 1406,
+ "slug": "makedonski-ergeni",
+ "title_cyr": "Македонски ергени",
+ "title_latin": "Makedonski ergeni",
+ "title_en": "Macedonian Bachelors",
+ "pesna_url": "https://pesna.org/song/1406",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (modern patriotic-style song), no author I can name. 'Пирин' and 'Солун' refer to the Pirin region and Thessaloniki.",
+ "words_to_learn": [
+  {
+   "mk": "ергени",
+   "en": "young bachelors"
+  },
+  {
+   "mk": "лични",
+   "en": "handsome"
+  },
+  {
+   "mk": "мажи",
+   "en": "men"
+  },
+  {
+   "mk": "ве раѓа",
+   "en": "bore/bears you (plural)"
+  },
+  {
+   "mk": "јунаци",
+   "en": "heroes, brave men"
+  },
+  {
+   "mk": "чиста крв",
+   "en": "pure blood"
+  },
+  {
+   "mk": "снага",
+   "en": "strength, physique"
+  },
+  {
+   "mk": "бистри",
+   "en": "clear"
+  },
+  {
+   "mk": "езера",
+   "en": "lakes"
+  },
+  {
+   "mk": "медни усни",
+   "en": "honeyed lips"
+  },
+  {
+   "mk": "подаруваат",
+   "en": "give as a gift"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3600"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Македонски ергени,",
+       "lat": "Makedonski ergeni,",
+       "en": "Macedonian bachelors,"
+      },
+      {
+       "cyr": "сите лични мажи,",
+       "lat": "site lični maži,",
+       "en": "all handsome men,"
+      },
+      {
+       "cyr": "да го прашаш сиот свет,",
+       "lat": "da go prašaš siot svet,",
+       "en": "ask the whole world,"
+      },
+      {
+       "cyr": "исто ќе ти кажи.",
+       "lat": "isto ḱe ti kaži.",
+       "en": "it will tell you the same."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ве раѓа мајка Македонија,",
+       "lat": "Ve raǵa majka Makedonija,",
+       "en": "Mother Macedonia bore you,"
+      },
+      {
+       "cyr": "од Охрид, Пирин,",
+       "lat": "od Ohrid, Pirin,",
+       "en": "from Ohrid, Pirin,"
+      },
+      {
+       "cyr": "дур' до Солуна.",
+       "lat": "dur' do Soluna.",
+       "en": "all the way to Salonica."
+      },
+      {
+       "cyr": "А таа мајка раѓа јунаци,",
+       "lat": "A taa majka raǵa junaci,",
+       "en": "And that mother bears heroes,"
+      },
+      {
+       "cyr": "јунаци, чиста крв Македонци.",
+       "lat": "junaci, čista krv Makedonci.",
+       "en": "heroes, pure Macedonian blood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Машка снага имате,",
+       "lat": "Maška snaga imate,",
+       "en": "You have a man's strength,"
+      },
+      {
+       "cyr": "како мермер планина,",
+       "lat": "kako mermer planina,",
+       "en": "like a marble mountain,"
+      },
+      {
+       "cyr": "очи бистри езера,",
+       "lat": "oči bistri ezera,",
+       "en": "eyes like clear lakes,"
+      },
+      {
+       "cyr": "лице - цветна долина.",
+       "lat": "lice - cvetna dolina.",
+       "en": "a face like a flowery valley."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ве раѓа мајка Македонија,",
+       "lat": "Ve raǵa majka Makedonija,",
+       "en": "Mother Macedonia bore you,"
+      },
+      {
+       "cyr": "од Охрид, Пирин,",
+       "lat": "od Ohrid, Pirin,",
+       "en": "from Ohrid, Pirin,"
+      },
+      {
+       "cyr": "дур' до Солуна.",
+       "lat": "dur' do Soluna.",
+       "en": "all the way to Salonica."
+      },
+      {
+       "cyr": "А таа мајка раѓа јунаци,",
+       "lat": "A taa majka raǵa junaci,",
+       "en": "And that mother bears heroes,"
+      },
+      {
+       "cyr": "јунаци, чиста крв Македонци.",
+       "lat": "junaci, čista krv Makedonci.",
+       "en": "heroes, pure Macedonian blood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девојки ве милуваат,",
+       "lat": "Devojki ve miluvaat,",
+       "en": "Girls caress you,"
+      },
+      {
+       "cyr": "медни усни целуваат,",
+       "lat": "medni usni celuvaat,",
+       "en": "kiss you with honeyed lips,"
+      },
+      {
+       "cyr": "на вас мажи сакани",
+       "lat": "na vas maži sakani",
+       "en": "to you, beloved men,"
+      },
+      {
+       "cyr": "срца ви подаруваат.",
+       "lat": "srca vi podaruvaat.",
+       "en": "they give their hearts as a gift."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ве раѓа мајка Македонија,",
+       "lat": "Ve raǵa majka Makedonija,",
+       "en": "Mother Macedonia bore you,"
+      },
+      {
+       "cyr": "од Охрид, Пирин,",
+       "lat": "od Ohrid, Pirin,",
+       "en": "from Ohrid, Pirin,"
+      },
+      {
+       "cyr": "дур' до Солуна.",
+       "lat": "dur' do Soluna.",
+       "en": "all the way to Salonica."
+      },
+      {
+       "cyr": "А таа мајка раѓа јунаци,",
+       "lat": "A taa majka raǵa junaci,",
+       "en": "And that mother bears heroes,"
+      },
+      {
+       "cyr": "јунаци, чиста крв Македонци.",
+       "lat": "junaci, čista krv Makedonci.",
+       "en": "heroes, pure Macedonian blood."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

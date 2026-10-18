@@ -1,0 +1,149 @@
+{
+ "id": 679,
+ "slug": "makedonija",
+ "title_cyr": "Македонија",
+ "title_latin": "Makedonija",
+ "title_en": "Macedonia",
+ "pesna_url": "https://pesna.org/song/679",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Patriotic song, origin unclear, no author I can name. 'Векој течат' is my reading of 'векови течат' (centuries flow); 'цветој' is a guessed poetic form.",
+ "words_to_learn": [
+  {
+   "mk": "земја",
+   "en": "land, earth"
+  },
+  {
+   "mk": "ширна",
+   "en": "vast, spacious"
+  },
+  {
+   "mk": "висока",
+   "en": "high"
+  },
+  {
+   "mk": "цветој",
+   "en": "blossoms (dialect/poetic plural)"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native region, homeland"
+  },
+  {
+   "mk": "течат",
+   "en": "they flow"
+  },
+  {
+   "mk": "ќе измине",
+   "en": "will pass"
+  },
+  {
+   "mk": "чиста",
+   "en": "pure"
+  },
+  {
+   "mk": "исконска",
+   "en": "primal, ancestral"
+  }
+ ],
+ "performers": [
+  "Бански старчета"
+ ],
+ "audio": [
+  {
+   "who": "Бански старчета",
+   "url": "https://pesna.org/audio-download/857"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Земјо моја, ширна, широка,",
+       "lat": "Zemjo moja, širna, široka,",
+       "en": "My land, wide and broad,"
+      },
+      {
+       "cyr": "песно моја, вишна, висока,",
+       "lat": "pesno moja, višna, visoka,",
+       "en": "my song, lofty and high,"
+      },
+      {
+       "cyr": "сите цветој си ги собрала,",
+       "lat": "site cvetoj si gi sobrala,",
+       "en": "you have gathered all the blossoms,"
+      },
+      {
+       "cyr": "љубов наша ти си набрала.",
+       "lat": "ljubov naša ti si nabrala.",
+       "en": "you have gathered our love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Македонијо, еј убав роден крај",
+       "lat": "Ej, Makedonijo, ej ubav roden kraj",
+       "en": "Hey, Macedonia, hey beautiful homeland"
+      },
+      {
+       "cyr": "Еј, Македонијо, ти мајко, срце големо.",
+       "lat": "Ej, Makedonijo, ti majko, srce golemo.",
+       "en": "Hey, Macedonia, you mother, great heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Векој течат, сè ќе измине,",
+       "lat": "Vekoj tečat, sè ḱe izmine,",
+       "en": "Centuries flow, everything will pass,"
+      },
+      {
+       "cyr": "љубов наша нема да згине,",
+       "lat": "ljubov naša nema da zgine,",
+       "en": "our love will not perish,"
+      },
+      {
+       "cyr": "лична земјо, чиста исконска,",
+       "lat": "lična zemjo, čista iskonska,",
+       "en": "beautiful land, pure and primal,"
+      },
+      {
+       "cyr": "лична земјо, ти Македонска.",
+       "lat": "lična zemjo, ti Makedonska.",
+       "en": "beautiful land, you Macedonian one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Македонијо, еј убав роден крај",
+       "lat": "Ej, Makedonijo, ej ubav roden kraj",
+       "en": "Hey, Macedonia, hey beautiful homeland"
+      },
+      {
+       "cyr": "Еј, Македонијо, ти мајко, срце големо.",
+       "lat": "Ej, Makedonijo, ti majko, srce golemo.",
+       "en": "Hey, Macedonia, you mother, great heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

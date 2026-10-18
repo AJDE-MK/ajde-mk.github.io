@@ -1,0 +1,312 @@
+{
+ "id": 1535,
+ "slug": "carot-negotinski",
+ "title_cyr": "Царот неготински",
+ "title_latin": "Carot negotinski",
+ "title_en": "The Tsar of Negotino",
+ "pesna_url": "https://pesna.org/song/1535",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional song about the beg Uso (Husein) of Timjanik, per the source note. Line 'дупето му нанино' I render literally as 'his mother's backside', a vulgar jeer in the refrain; my reading. The '(друга верзија)' marker is copied unchanged.",
+ "words_to_learn": [
+  {
+   "mk": "карала",
+   "en": "scolded, admonished (dialect past participle)"
+  },
+  {
+   "mk": "каурска",
+   "en": "infidel's, of the non-Muslims (from гяур/каур)"
+  },
+  {
+   "mk": "каури",
+   "en": "infidels (Turkish-era term for non-Muslims)"
+  },
+  {
+   "mk": "поднапијат",
+   "en": "will get a bit tipsy"
+  },
+  {
+   "mk": "послуша",
+   "en": "listened to, obeyed"
+  },
+  {
+   "mk": "кавга",
+   "en": "brawl, quarrel"
+  },
+  {
+   "mk": "жално",
+   "en": "sorrowfully"
+  },
+  {
+   "mk": "царот",
+   "en": "the tsar, emperor"
+  },
+  {
+   "mk": "ми је отишол",
+   "en": "he went (dialect, with ми as filler)"
+  }
+ ],
+ "performers": [
+  "Драган Вучиќ",
+  "Кавадарка",
+  "Орце Стевковски",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4007"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/4009"
+  },
+  {
+   "who": "Кавадарка",
+   "url": "https://pesna.org/audio-download/4010"
+  },
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/4011"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Карала го мајка Усо тимјанички",
+       "lat": "Karala go majka Uso timjanički",
+       "en": "Mother scolded Uso of Timjanik,"
+      },
+      {
+       "cyr": "Усо тимјанички, Царот неготински:",
+       "lat": "Uso timjanički, Carot negotinski:",
+       "en": "Uso of Timjanik, the Tsar of Negotino:"
+      },
+      {
+       "cyr": "- Ај послушај Усо старата си мајка,",
+       "lat": "- Aj poslušaj Uso starata si majka,",
+       "en": "- Come, Uso, listen to your old mother,"
+      },
+      {
+       "cyr": "немој, не ми оди на каурска свадба.",
+       "lat": "nemoj, ne mi odi na kaurska svadba.",
+       "en": "don't go, don't go to the infidel wedding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми оди Усо на каурска свадба,",
+       "lat": "Ne mi odi Uso na kaurska svadba,",
+       "en": "Don't go, Uso, to the infidel wedding,"
+      },
+      {
+       "cyr": "каури се лоши, ќе се поднапијат.",
+       "lat": "kauri se loši, ḱe se podnapijat.",
+       "en": "the infidels are bad, they will get a bit drunk."
+      },
+      {
+       "cyr": "Каури се лоши, ќе се поднапијат,",
+       "lat": "Kauri se loši, ḱe se podnapijat,",
+       "en": "The infidels are bad, they will get a bit drunk,"
+      },
+      {
+       "cyr": "ќе се поднапијат, ќе ми те убијат!",
+       "lat": "ḱe se podnapijat, ḱe mi te ubijat!",
+       "en": "they will get a bit drunk, they will kill you!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Усо не послуша старата си мајка,",
+       "lat": "Uso ne posluša starata si majka,",
+       "en": "Uso did not listen to his old mother,"
+      },
+      {
+       "cyr": "па ми је отишол на каурска свадба.",
+       "lat": "pa mi je otišol na kaurska svadba.",
+       "en": "and he went to the infidel wedding."
+      },
+      {
+       "cyr": "Каурите лоши, ми се поднапиле,",
+       "lat": "Kaurite loši, mi se podnapile,",
+       "en": "The infidels, bad ones, got a bit drunk,"
+      },
+      {
+       "cyr": "ми се поднапиле, Усо го убиле!",
+       "lat": "mi se podnapile, Uso go ubile!",
+       "en": "they got a bit drunk, they killed Uso!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ду-ду, ду-ду, ду-ду дупето му нанино",
+       "lat": "Du-du, du-du, du-du dupeto mu nanino",
+       "en": "Du-du, du-du, du-du, his mother's backside"
+      },
+      {
+       "cyr": "на Усо тимјанички, на Царот неготински.",
+       "lat": "na Uso timjanički, na Carot negotinski.",
+       "en": "to Uso of Timjanik, to the Tsar of Negotino."
+      },
+      {
+       "cyr": "Зошто не послушал старата си мајка,",
+       "lat": "Zošto ne poslušal starata si majka,",
+       "en": "Because he did not listen to his old mother,"
+      },
+      {
+       "cyr": "па ми е отишол на каурска свадба.",
+       "lat": "pa mi e otišol na kaurska svadba.",
+       "en": "and went to the infidel wedding."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дуру, дуру, дуру,",
+       "lat": "Duru, duru, duru,",
+       "en": "Duru, duru, duru,"
+      },
+      {
+       "cyr": "Бог да го убие",
+       "lat": "Bog da go ubie",
+       "en": "may God strike him down,"
+      },
+      {
+       "cyr": "Усо Тимјанички",
+       "lat": "Uso Timjanički",
+       "en": "Uso of Timjanik,"
+      },
+      {
+       "cyr": "царот неготински.",
+       "lat": "carot negotinski.",
+       "en": "the Tsar of Negotino."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде сине Усо",
+       "lat": "- Ajde sine Uso",
+       "en": "- Come, son Uso,"
+      },
+      {
+       "cyr": "не ми оди сину,",
+       "lat": "ne mi odi sinu,",
+       "en": "don't go, my son,"
+      },
+      {
+       "cyr": "на каурска свадба.",
+       "lat": "na kaurska svadba.",
+       "en": "to the infidel wedding."
+      },
+      {
+       "cyr": "Каури се лоши",
+       "lat": "Kauri se loši",
+       "en": "The infidels are bad,"
+      },
+      {
+       "cyr": "ќе се поднапијат,",
+       "lat": "ḱe se podnapijat,",
+       "en": "they will get a bit drunk,"
+      },
+      {
+       "cyr": "ќе ми те убијат.",
+       "lat": "ḱe mi te ubijat.",
+       "en": "they will kill you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не послуша мајка Усо",
+       "lat": "Ne posluša majka Uso",
+       "en": "Uso did not listen to his mother,"
+      },
+      {
+       "cyr": "си отиде на каурска свадба,",
+       "lat": "si otide na kaurska svadba,",
+       "en": "he went to the infidel wedding,"
+      },
+      {
+       "cyr": "се започна кавга",
+       "lat": "se započna kavga",
+       "en": "a brawl began,"
+      },
+      {
+       "cyr": "таму, ваму Усо,",
+       "lat": "tamu, vamu Uso,",
+       "en": "there and here, Uso,"
+      },
+      {
+       "cyr": "нигде го немаше,",
+       "lat": "nigde go nemaše,",
+       "en": "he was nowhere to be found,"
+      },
+      {
+       "cyr": "дудуро, дуру, дудуро,",
+       "lat": "duduro, duru, duduro,",
+       "en": "dudu-ro, duru, dudu-ro,"
+      },
+      {
+       "cyr": "Усовата мајка,",
+       "lat": "Usovata majka,",
+       "en": "Uso's mother"
+      },
+      {
+       "cyr": "жално го плачеше:",
+       "lat": "žalno go plačeše:",
+       "en": "wept for him sorrowfully:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Оти сине, Усо",
+       "lat": "- Oti sine, Uso",
+       "en": "- Why, son Uso,"
+      },
+      {
+       "cyr": "мајка не послуша",
+       "lat": "majka ne posluša",
+       "en": "did you not listen to your mother,"
+      },
+      {
+       "cyr": "на свадба отиде",
+       "lat": "na svadba otide",
+       "en": "you went to the wedding"
+      },
+      {
+       "cyr": "глава да загубиш.",
+       "lat": "glava da zagubiš.",
+       "en": "to lose your head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

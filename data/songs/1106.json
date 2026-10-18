@@ -1,0 +1,166 @@
+{
+ "id": 1106,
+ "slug": "pijan-idam-od-grada",
+ "title_cyr": "Пијан идам од града",
+ "title_latin": "Pijan idam od grada",
+ "title_en": "I'm coming back from town drunk",
+ "pesna_url": "https://pesna.org/song/1106",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Група АС",
+  "Добри Ставревски",
+  "Наум Петрески",
+  "Цане Николовски",
+  "Чардаш"
+ ],
+ "audio": [
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/2651"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2652"
+  },
+  {
+   "who": "Чардаш",
+   "url": "https://pesna.org/audio-download/2653"
+  },
+  {
+   "who": "Група АС",
+   "url": "https://pesna.org/audio-download/2654"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/2655"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пијан идам од града,",
+       "lat": "Pijan idam od grada,",
+       "en": "I'm coming back from town drunk,"
+      },
+      {
+       "cyr": "Велико, моме сен ѓузел,",
+       "lat": "Veliko, mome sen ǵuzel,",
+       "en": "Velika, you beautiful girl,"
+      },
+      {
+       "cyr": "пијан идам од града.",
+       "lat": "pijan idam od grada.",
+       "en": "I'm coming back from town drunk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сретнав моме в' ливада,",
+       "lat": "Sretnav mome v' livada,",
+       "en": "I met a girl in the meadow,"
+      },
+      {
+       "cyr": "Велико, моме сен ѓузел,",
+       "lat": "Veliko, mome sen ǵuzel,",
+       "en": "Velika, you beautiful girl,"
+      },
+      {
+       "cyr": "кај си трева береше.",
+       "lat": "kaj si treva bereše.",
+       "en": "while she was plucking grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај што брало, заспало,",
+       "lat": "Kaj što bralo, zaspalo,",
+       "en": "Where she was plucking, there she fell asleep,"
+      },
+      {
+       "cyr": "Велико, моме сен ѓузел,",
+       "lat": "Veliko, mome sen ǵuzel,",
+       "en": "Velika, you beautiful girl,"
+      },
+      {
+       "cyr": "со трева се покрило.",
+       "lat": "so treva se pokrilo.",
+       "en": "and covered herself with grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Камен клало виз главје,",
+       "lat": "Kamen klalo viz glavje,",
+       "en": "She put a stone under her head,"
+      },
+      {
+       "cyr": "Велико, моме сен ѓузел,",
+       "lat": "Veliko, mome sen ǵuzel,",
+       "en": "Velika, you beautiful girl,"
+      },
+      {
+       "cyr": "со трева се покрило.",
+       "lat": "so treva se pokrilo.",
+       "en": "and covered herself with grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ојдов да го целивам,",
+       "lat": "Ojdov da go celivam,",
+       "en": "I tried to kiss her,"
+      },
+      {
+       "cyr": "Велико, моме сен ѓузел,",
+       "lat": "Veliko, mome sen ǵuzel,",
+       "en": "Velika, you beautiful girl,"
+      },
+      {
+       "cyr": "прсна моме да бега.",
+       "lat": "prsna mome da bega.",
+       "en": "but the girl broke into a run."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Постој моме, почекај,",
+       "lat": "Postoj mome, počekaj,",
+       "en": "- Stay girl, wait for me,"
+      },
+      {
+       "cyr": "Велико, моме сен ѓузел,",
+       "lat": "Veliko, mome sen ǵuzel,",
+       "en": "Velika, you beautifull girl,"
+      },
+      {
+       "cyr": "ти си моја, пак моја.",
+       "lat": "ti si moja, pak moja.",
+       "en": "you are mine, mine again."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

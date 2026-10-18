@@ -1,0 +1,136 @@
+{
+ "id": 353,
+ "slug": "napravilo-mome-ladna-meana",
+ "title_cyr": "Направило моме ладна меана",
+ "title_latin": "Napravilo mome ladna meana",
+ "title_en": "A Girl Built a Cool Tavern",
+ "pesna_url": "https://pesna.org/song/353",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јало ми, пило' is my reading: 'he rode, he drank', possibly a rhyming filler phrase. 'Испило коњчето' read as drinking away the price of the horse.",
+ "words_to_learn": [
+  {
+   "mk": "меана",
+   "en": "tavern, inn (Turkish loan)"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  },
+  {
+   "mk": "ладна",
+   "en": "cool, cold"
+  },
+  {
+   "mk": "научило",
+   "en": "got used to, got in the habit"
+  },
+  {
+   "mk": "пие",
+   "en": "drinks"
+  },
+  {
+   "mk": "испило",
+   "en": "drank up"
+  },
+  {
+   "mk": "коњче",
+   "en": "little horse"
+  },
+  {
+   "mk": "со здравје",
+   "en": "in good health (farewell)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Митева",
+   "url": "https://pesna.org/audio-download/1239"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1240"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Направило моме",
+       "lat": "Napravilo mome",
+       "en": "A girl built"
+      },
+      {
+       "cyr": "ладна меана в' градина.",
+       "lat": "ladna meana v' gradina.",
+       "en": "a cool tavern in the garden."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми се научило",
+       "lat": "Mi se naučilo",
+       "en": "A young lad"
+      },
+      {
+       "cyr": "едно лудо младо да пие.",
+       "lat": "edno ludo mlado da pie.",
+       "en": "got into the habit of drinking."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јало ми, пило,",
+       "lat": "Jalo mi, pilo,",
+       "en": "He rode, he drank,"
+      },
+      {
+       "cyr": "дури си испило коњчето.",
+       "lat": "duri si ispilo konjčeto.",
+       "en": "until he drank away his little horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Оди си со здравје",
+       "lat": "- Odi si so zdravje",
+       "en": "- Go in good health,"
+      },
+      {
+       "cyr": "море лудо, младо, без коња.",
+       "lat": "more ludo, mlado, bez konja.",
+       "en": "hey young lad, without your horse."
+      },
+      {
+       "cyr": "- Седи си со здравје,",
+       "lat": "- Sedi si so zdravje,",
+       "en": "- Stay in good health,"
+      },
+      {
+       "cyr": "мори малој моме, в' меана.",
+       "lat": "mori maloj mome, v' meana.",
+       "en": "hey young girl, in your tavern."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

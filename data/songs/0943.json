@@ -1,0 +1,170 @@
+{
+ "id": 943,
+ "slug": "pesna-za-babata-mitra",
+ "title_cyr": "Песна за бабата Митра",
+ "title_latin": "Pesna za babata Mitra",
+ "title_en": "Song of Grandma Mitra",
+ "pesna_url": "https://pesna.org/song/943",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern WWII partisan song; origin unclear, no author named. The last line ('на место дваесет партизани') is my reading as twenty partisans being saved because of her; 'зрно кибрит' I rendered as a lit match.",
+ "words_to_learn": [
+  {
+   "mk": "бабата",
+   "en": "the grandmother, old woman"
+  },
+  {
+   "mk": "бој",
+   "en": "battle"
+  },
+  {
+   "mk": "партизани",
+   "en": "partisans"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "скришум",
+   "en": "secretly"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  },
+  {
+   "mk": "пилци",
+   "en": "chicks (here, endearment for the young men)"
+  },
+  {
+   "mk": "бензин",
+   "en": "petrol"
+  },
+  {
+   "mk": "кибрит",
+   "en": "match, matches"
+  }
+ ],
+ "performers": [
+  "Мишко Крстевски",
+  "Неготино"
+ ],
+ "audio": [
+  {
+   "who": "Неготино",
+   "url": "https://pesna.org/audio-download/2173"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/2174"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Таму крај Вардар, неготинско поле,",
+       "lat": "Tamu kraj Vardar, negotinsko pole,",
+       "en": "There by the Vardar, the Negotino plain,"
+      },
+      {
+       "cyr": "бој се започна, бој нерамен,",
+       "lat": "boj se započna, boj neramen,",
+       "en": "a battle began, an uneven battle,"
+      },
+      {
+       "cyr": "германци бегаат, возови палат,",
+       "lat": "germanci begaat, vozovi palat,",
+       "en": "the Germans flee, trains burn,"
+      },
+      {
+       "cyr": "пламен се дига дури до небо.",
+       "lat": "plamen se diga duri do nebo.",
+       "en": "flames rise all the way to the sky."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во манастирот Св. Ѓорѓија,",
+       "lat": "Vo manastirot Sv. Ǵorǵija,",
+       "en": "In the monastery of St. George,"
+      },
+      {
+       "cyr": "ги затвориле партизаните",
+       "lat": "gi zatvorile partizanite",
+       "en": "the partisans were locked in,"
+      },
+      {
+       "cyr": "и така нешто на германски јазик,",
+       "lat": "i taka nešto na germanski jazik,",
+       "en": "and something in the German language,"
+      },
+      {
+       "cyr": "тие збореја да ги запалат.",
+       "lat": "tie zboreja da gi zapalat.",
+       "en": "they said, they would set them on fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тоа го слушна бабата Митра",
+       "lat": "Toa go slušna babata Mitra",
+       "en": "Grandma Mitra heard that"
+      },
+      {
+       "cyr": "и скришум пошла кај партизаните,",
+       "lat": "i skrišum pošla kaj partizanite,",
+       "en": "and went secretly to the partisans,"
+      },
+      {
+       "cyr": "порти отворила со двете крила:",
+       "lat": "porti otvorila so dvete krila:",
+       "en": "she opened the gates with both wings:"
+      },
+      {
+       "cyr": "- Бегајте пилци в' гора зелена.",
+       "lat": "- Begajte pilci v' gora zelena.",
+       "en": "- Flee, chicks, to the green forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Клетите фашисти бензин фрлија",
+       "lat": "Kletite fašisti benzin frlija",
+       "en": "The damned fascists threw petrol"
+      },
+      {
+       "cyr": "и зрно кибрит на старата,",
+       "lat": "i zrno kibrit na starata,",
+       "en": "and a grain of matchfire on the old woman,"
+      },
+      {
+       "cyr": "пламен се дига, баба Митра гори,",
+       "lat": "plamen se diga, baba Mitra gori,",
+       "en": "the flame rises, Grandma Mitra burns,"
+      },
+      {
+       "cyr": "на место дваесет партизани.",
+       "lat": "na mesto dvaeset partizani.",
+       "en": "and twenty partisans are saved on the spot."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

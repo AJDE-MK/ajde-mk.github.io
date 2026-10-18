@@ -1,0 +1,171 @@
+{
+ "id": 360,
+ "slug": "mome-odi-na-voda",
+ "title_cyr": "Моме оди на вода",
+ "title_latin": "Mome odi na voda",
+ "title_en": "A girl goes for water",
+ "pesna_url": "https://pesna.org/song/360",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Изгора' (rendered 'izgora') is unclear to me, probably a rhyming echo of 'збора'; my reading. 'Тук'' is a dialect form of 'туку' (instead, but).",
+ "words_to_learn": [
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "шарена",
+   "en": "colorful, patterned"
+  },
+  {
+   "mk": "беќар",
+   "en": "bachelor, carefree young man"
+  },
+  {
+   "mk": "постој",
+   "en": "stop, wait"
+  },
+  {
+   "mk": "почекај",
+   "en": "wait"
+  },
+  {
+   "mk": "искара",
+   "en": "will scold"
+  },
+  {
+   "mk": "отепа",
+   "en": "will beat to death, kill"
+  }
+ ],
+ "performers": [
+  "Благој Петров - Караѓуле",
+  "Никола Бадев",
+  "Персиди"
+ ],
+ "audio": [
+  {
+   "who": "Персиди",
+   "url": "https://pesna.org/audio-download/1716"
+  },
+  {
+   "who": "Благој Петров - Караѓуле, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2909"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Моме оди на вода",
+       "lat": "Mome odi na voda",
+       "en": "A girl goes for water"
+      },
+      {
+       "cyr": "со две стомни шарени.",
+       "lat": "so dve stomni šareni.",
+       "en": "with two colorful jugs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По неа оди беќар",
+       "lat": "Po nea odi beḱar",
+       "en": "After her goes a bachelor"
+      },
+      {
+       "cyr": "и на моме говори:",
+       "lat": "i na mome govori:",
+       "en": "and speaks to the girl:"
+      },
+      {
+       "cyr": "- „Постој моме, почекај.",
+       "lat": "- „Postoj mome, počekaj.",
+       "en": "- 'Stop, girl, wait."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Постој моме почекај, леле",
+       "lat": "Postoj mome počekaj, lele",
+       "en": "Stop, girl, wait, oh dear,"
+      },
+      {
+       "cyr": "да ти кажам два збора,",
+       "lat": "da ti kažam dva zbora,",
+       "en": "let me tell you two words,"
+      },
+      {
+       "cyr": "два збора, два изгора“.",
+       "lat": "dva zbora, dva izgora“.",
+       "en": "two words, two 'izgora'.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ѝ кажа два збора,",
+       "lat": "Ne ì kaža dva zbora,",
+       "en": "He did not tell her two words,"
+      },
+      {
+       "cyr": "тук' ја фати за рака",
+       "lat": "tuk' ja fati za raka",
+       "en": "instead he grabbed her by the hand"
+      },
+      {
+       "cyr": "и ги скрши стомните.",
+       "lat": "i gi skrši stomnite.",
+       "en": "and broke the jugs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викна моме да плачи:",
+       "lat": "Vikna mome da plači:",
+       "en": "The girl began to cry:"
+      },
+      {
+       "cyr": "- „Леле боже, до бога,",
+       "lat": "- „Lele bože, do boga,",
+       "en": "- 'Oh dear God, oh God,"
+      },
+      {
+       "cyr": "како ќе одам на вода?",
+       "lat": "kako ḱe odam na voda?",
+       "en": "how will I go for water?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ќе ме искара,",
+       "lat": "Majka ḱe me iskara,",
+       "en": "Mother will scold me,"
+      },
+      {
+       "cyr": "тато ќе ме отепа“.",
+       "lat": "tato ḱe me otepa“.",
+       "en": "father will kill me.'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

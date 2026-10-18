@@ -1,0 +1,211 @@
+{
+ "id": 184,
+ "slug": "dali-si-se-naspalo",
+ "title_cyr": "Дали си се наспало",
+ "title_latin": "Dali si se naspalo",
+ "title_en": "Have you slept enough",
+ "pesna_url": "https://pesna.org/song/184",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Калешо' is rendered 'dear one' (my reading, likely an endearment or invitation). 'Чарето' as 'remedy' is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "наспало",
+   "en": "slept enough"
+  },
+  {
+   "mk": "дилбер",
+   "en": "beauty, lovely (Turkish loan)"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "посестрими",
+   "en": "sworn sisters, close girlfriends"
+  },
+  {
+   "mk": "љубиш",
+   "en": "you love"
+  },
+  {
+   "mk": "право кажи ми",
+   "en": "tell me straight"
+  },
+  {
+   "mk": "губам времето",
+   "en": "I waste time"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/2155"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2741"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дали си се наспало, мори",
+       "lat": "Dali si se naspalo, mori",
+       "en": "Have you slept enough, hey,"
+      },
+      {
+       "cyr": "дилбер бела Јованке,",
+       "lat": "dilber bela Jovanke,",
+       "en": "lovely fair Jovanka,"
+      },
+      {
+       "cyr": "три вечери без мене?",
+       "lat": "tri večeri bez mene?",
+       "en": "three nights without me?"
+      },
+      {
+       "cyr": "Јане ле мори калешо,",
+       "lat": "Jane le mori kalešo,",
+       "en": "Jane, oh, hey, dear one,"
+      },
+      {
+       "cyr": "три вечери без мене?",
+       "lat": "tri večeri bez mene?",
+       "en": "three nights without me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На четврта јас дојдов, мори",
+       "lat": "Na četvrta jas dojdov, mori",
+       "en": "On the fourth I came, hey,"
+      },
+      {
+       "cyr": "дилбер бела Јованке,",
+       "lat": "dilber bela Jovanke,",
+       "en": "lovely fair Jovanka,"
+      },
+      {
+       "cyr": "тебе дома не најдов.",
+       "lat": "tebe doma ne najdov.",
+       "en": "I did not find you at home."
+      },
+      {
+       "cyr": "Јане ле море калешо,",
+       "lat": "Jane le more kalešo,",
+       "en": "Jane, oh, hey, dear one,"
+      },
+      {
+       "cyr": "тебе дома не најдов.",
+       "lat": "tebe doma ne najdov.",
+       "en": "I did not find you at home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тук' те најдов по комшии, мори",
+       "lat": "Tuk' te najdov po komšii, mori",
+       "en": "I found you at the neighbours', hey,"
+      },
+      {
+       "cyr": "дилбер бела Јованке,",
+       "lat": "dilber bela Jovanke,",
+       "en": "lovely fair Jovanka,"
+      },
+      {
+       "cyr": "со твоите посестрими.",
+       "lat": "so tvoite posestrimi.",
+       "en": "with your sworn sisters."
+      },
+      {
+       "cyr": "Јагне ле мори калешо,",
+       "lat": "Jagne le mori kalešo,",
+       "en": "Lamb, oh, hey, dear one,"
+      },
+      {
+       "cyr": "со твоите посестрими.",
+       "lat": "so tvoite posestrimi.",
+       "en": "with your sworn sisters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме љубиш, љуби ме, мори",
+       "lat": "Ako me ljubiš, ljubi me, mori",
+       "en": "If you love me, love me, hey,"
+      },
+      {
+       "cyr": "дилбер бела Јованке,",
+       "lat": "dilber bela Jovanke,",
+       "en": "lovely fair Jovanka,"
+      },
+      {
+       "cyr": "ако не, право кажи ми.",
+       "lat": "ako ne, pravo kaži mi.",
+       "en": "if not, tell me straight."
+      },
+      {
+       "cyr": "Јагне ле море калешо,",
+       "lat": "Jagne le more kalešo,",
+       "en": "Lamb, oh, hey, dear one,"
+      },
+      {
+       "cyr": "ако не, право кажи ми.",
+       "lat": "ako ne, pravo kaži mi.",
+       "en": "if not, tell me straight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако не, право кажи ми, мори",
+       "lat": "Ako ne, pravo kaži mi, mori",
+       "en": "If not, tell me straight, hey,"
+      },
+      {
+       "cyr": "дилбер бела Јованке,",
+       "lat": "dilber bela Jovanke,",
+       "en": "lovely fair Jovanka,"
+      },
+      {
+       "cyr": "да си го барам чарето.",
+       "lat": "da si go baram čareto.",
+       "en": "so I can look for my remedy."
+      },
+      {
+       "cyr": "Јане море калешо,",
+       "lat": "Jane more kalešo,",
+       "en": "Jane, hey, dear one,"
+      },
+      {
+       "cyr": "да не си губам времето.",
+       "lat": "da ne si gubam vremeto.",
+       "en": "so I won't waste my time."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

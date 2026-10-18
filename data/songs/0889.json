@@ -1,0 +1,141 @@
+{
+ "id": 889,
+ "slug": "usni-rumeni",
+ "title_cyr": "Усни румени",
+ "title_latin": "Usni rumeni",
+ "title_en": "Rosy Lips",
+ "pesna_url": "https://pesna.org/song/889",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; the polished wording may be a newer composed song but I cannot name an author. 'Сал јадови... душа пламнаа' is my reading ('only sorrows set my soul aflame'); 'зборој' is a dialect plural of 'зборови'.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "поминав",
+   "en": "I passed by"
+  },
+  {
+   "mk": "посакав",
+   "en": "I wished, I desired"
+  },
+  {
+   "mk": "усни",
+   "en": "lips"
+  },
+  {
+   "mk": "румени",
+   "en": "rosy, ruddy"
+  },
+  {
+   "mk": "бакнува",
+   "en": "kisses"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, griefs"
+  },
+  {
+   "mk": "ветиш",
+   "en": "you promise"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  }
+ ],
+ "performers": [
+  "Атина Апостолова"
+ ],
+ "audio": [
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/1943"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас поминав, момче, сношти крај тебе",
+       "lat": "Jas pominav, momče, snošti kraj tebe",
+       "en": "I passed by you last night, boy,"
+      },
+      {
+       "cyr": "и посакав, лудо, да си со мене.",
+       "lat": "i posakav, ludo, da si so mene.",
+       "en": "and I wished, foolishly, that you were with me."
+      },
+      {
+       "cyr": "Усни румени, лице белина,",
+       "lat": "Usni rumeni, lice belina,",
+       "en": "Rosy lips, white face,"
+      },
+      {
+       "cyr": "кој ли сега, мило либе, нив ги бакнува?",
+       "lat": "koj li sega, milo libe, niv gi baknuva?",
+       "en": "who is kissing them now, dear love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сал јадови, момче, душа пламнаа,",
+       "lat": "Sal jadovi, momče, duša plamnaa,",
+       "en": "Only sorrows, boy, set my soul aflame,"
+      },
+      {
+       "cyr": "три години, либе, век создадоа.",
+       "lat": "tri godini, libe, vek sozdadoa.",
+       "en": "three years, love, made an age."
+      },
+      {
+       "cyr": "Усни румени, лице белина,",
+       "lat": "Usni rumeni, lice belina,",
+       "en": "Rosy lips, white face,"
+      },
+      {
+       "cyr": "кој ли сега, мило либе, нив ги бакнува?",
+       "lat": "koj li sega, milo libe, niv gi baknuva?",
+       "en": "who is kissing them now, dear love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ми кажеш ти, момче, зборој сакани,",
+       "lat": "Ako mi kažeš ti, momče, zboroj sakani,",
+       "en": "If you tell me, boy, beloved words,"
+      },
+      {
+       "cyr": "ако ми ветиш ти, либе, љубов без рани.",
+       "lat": "ako mi vetiš ti, libe, ljubov bez rani.",
+       "en": "if you promise me, love, a love without wounds."
+      },
+      {
+       "cyr": "Усни румени, лице белина,",
+       "lat": "Usni rumeni, lice belina,",
+       "en": "Rosy lips, white face,"
+      },
+      {
+       "cyr": "кој ли сега, мило либе, нив ги бакнува?",
+       "lat": "koj li sega, milo libe, niv gi baknuva?",
+       "en": "who is kissing them now, dear love?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

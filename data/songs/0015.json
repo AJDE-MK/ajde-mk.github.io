@@ -1,0 +1,143 @@
+{
+ "id": 15,
+ "slug": "pusta-mladost",
+ "title_cyr": "Пуста младост",
+ "title_latin": "Pusta mladost",
+ "title_en": "Futile youth",
+ "pesna_url": "https://pesna.org/song/15",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Банско",
+  "Вечерница",
+  "Здравка Христова",
+  "Љубимка Бисерова",
+  "Митра Бисерова",
+  "Неда Бисерова",
+  "Пиринка Христова",
+  "Противпожарна бригада Банско",
+  "Стојан Радев",
+  "Теодосиј Спасов",
+  "Balkan Sevdah",
+  "Balkansky",
+  "Giorgo Makri",
+  "Matsurov Male Folklore Group from Bansko",
+  "Soundtrack from Letter to America",
+  "Vay Doudouley"
+ ],
+ "audio": [
+  {
+   "who": "Matsurov Male Folklore Group from Bansko",
+   "url": "https://pesna.org/audio-download/1738"
+  },
+  {
+   "who": "Банско",
+   "url": "https://pesna.org/audio-download/1739"
+  },
+  {
+   "who": "Soundtrack from Letter to America",
+   "url": "https://pesna.org/audio-download/1740"
+  },
+  {
+   "who": "Вечерница",
+   "url": "https://pesna.org/audio-download/1741"
+  },
+  {
+   "who": "Стојан Радев",
+   "url": "https://pesna.org/audio-download/1742"
+  },
+  {
+   "who": "Balkansky, Теодосиј Спасов",
+   "url": "https://pesna.org/audio-download/1743"
+  },
+  {
+   "who": "Balkan Sevdah",
+   "url": "https://pesna.org/audio-download/2247"
+  },
+  {
+   "who": "Здравка Христова, Пиринка Христова",
+   "url": "https://pesna.org/audio-download/2796"
+  },
+  {
+   "who": "Љубимка Бисерова, Митра Бисерова, Неда Бисерова",
+   "url": "https://pesna.org/audio-download/2797"
+  },
+  {
+   "who": "Противпожарна бригада Банско",
+   "url": "https://pesna.org/audio-download/2798"
+  },
+  {
+   "who": "Giorgo Makri, Vay Doudouley",
+   "url": "https://pesna.org/audio-download/4222"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пуста младост мамо, пуста младост.",
+       "lat": "Pusta mladost mamo, pusta mladost.",
+       "en": "Futile youth, mother, futile youth,"
+      },
+      {
+       "cyr": "Пуста младост милај мамо, не се стига.",
+       "lat": "Pusta mladost milaj mamo, ne se stiga.",
+       "en": "futile youth, dear mother, it can't be reached."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се стига мамо, не се срешча.",
+       "lat": "Ne se stiga mamo, ne se srešča.",
+       "en": "It can't be reached, mother, it can't be met,"
+      },
+      {
+       "cyr": "Ни се с' пари, милај мамо, не купува.",
+       "lat": "Ni se s' pari, milaj mamo, ne kupuva.",
+       "en": "even with money, dear mother, it can't be bought."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Младост тече мамо, младост тече.",
+       "lat": "Mladost teče mamo, mladost teče.",
+       "en": "The youth flows, mother, the youth flows,"
+      },
+      {
+       "cyr": "Младост тече милај мамо като вода.",
+       "lat": "Mladost teče milaj mamo kato voda.",
+       "en": "the youth flows, dear mother, like water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Старост дебни мамо, старост дебни.",
+       "lat": "Starost debni mamo, starost debni.",
+       "en": "The old age lurks, mother, the old age lurks,"
+      },
+      {
+       "cyr": "Старост дебни милај мамо като сенка.",
+       "lat": "Starost debni milaj mamo kato senka.",
+       "en": "the old age lurks, dear mother, like a shadow."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

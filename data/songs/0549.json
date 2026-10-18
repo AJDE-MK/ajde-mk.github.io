@@ -1,0 +1,142 @@
+{
+ "id": 549,
+ "slug": "moma-kraj-izvor-sedeshe",
+ "title_cyr": "Мома крај извор седеше",
+ "title_latin": "Moma kraj izvor sedeše",
+ "title_en": "A Girl Sat by the Spring",
+ "pesna_url": "https://pesna.org/song/549",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (folk-style, no author I can name). Forms like 'течит', 'венит', 'пукнит', 'мачит' are dialect third-person endings in -ит.",
+ "words_to_learn": [
+  {
+   "mk": "извор",
+   "en": "spring (water source)"
+  },
+  {
+   "mk": "венец",
+   "en": "wreath"
+  },
+  {
+   "mk": "плетеше",
+   "en": "was weaving"
+  },
+  {
+   "mk": "течеше",
+   "en": "was flowing"
+  },
+  {
+   "mk": "венее",
+   "en": "withers"
+  },
+  {
+   "mk": "пролет",
+   "en": "spring (season)"
+  },
+  {
+   "mk": "пукнит",
+   "en": "bursts, cracks open (dialect: пукне)"
+  },
+  {
+   "mk": "мачи",
+   "en": "torments"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Наум Бурназ"
+ ],
+ "audio": [
+  {
+   "who": "Наум Бурназ",
+   "url": "https://pesna.org/audio-download/655"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/656"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мома крај извор седеше",
+       "lat": "Moma kraj izvor sedeše",
+       "en": "A girl sat by a spring"
+      },
+      {
+       "cyr": "од рози венец плетеше",
+       "lat": "od rozi venec pleteše",
+       "en": "weaving a wreath of roses,"
+      },
+      {
+       "cyr": "изворот брзо течеше",
+       "lat": "izvorot brzo tečeše",
+       "en": "the spring flowed fast,"
+      },
+      {
+       "cyr": "венецот вечно венеше.",
+       "lat": "venecot večno veneše.",
+       "en": "the wreath kept withering forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, како течит тој извор",
+       "lat": "Ah, kako tečit toj izvor",
+       "en": "Ah, as that spring flows,"
+      },
+      {
+       "cyr": "така ми течат моите дни",
+       "lat": "taka mi tečat moite dni",
+       "en": "so my days flow,"
+      },
+      {
+       "cyr": "ах како венит венецот",
+       "lat": "ah kako venit venecot",
+       "en": "ah, as the wreath withers,"
+      },
+      {
+       "cyr": "така ми венит младоста.",
+       "lat": "taka mi venit mladosta.",
+       "en": "so my youth withers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А штом ќе пукнит пролетта",
+       "lat": "A štom ḱe puknit proletta",
+       "en": "And when spring bursts open"
+      },
+      {
+       "cyr": "и се' се живо распеват",
+       "lat": "i se' se živo raspevat",
+       "en": "and everything alive sings out,"
+      },
+      {
+       "cyr": "пак ќе ме прашаш мене ти",
+       "lat": "pak ḱe me prašaš mene ti",
+       "en": "you will ask me again"
+      },
+      {
+       "cyr": "колку ме мачит љубовта.",
+       "lat": "kolku me mačit ljubovta.",
+       "en": "how much love torments me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

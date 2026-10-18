@@ -1,0 +1,97 @@
+{
+ "id": 1374,
+ "slug": "bolen-si-lezham",
+ "title_cyr": "Болен си лежам",
+ "title_latin": "Bolen si ležam",
+ "title_en": "I have fallen sick",
+ "pesna_url": "https://pesna.org/song/1374",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Болен си лежам, јас ќе си умрам",
+       "lat": "- Bolen si ležam, jas ḱe si umram",
+       "en": "- I have fallen sick, I will die"
+      },
+      {
+       "cyr": "од тешка болест, од силна треска,",
+       "lat": "od teška bolest, od silna treska,",
+       "en": "From a grave illness, from a high fever."
+      },
+      {
+       "cyr": "од силна треска, од силна глава,",
+       "lat": "od silna treska, od silna glava,",
+       "en": "From a high fever, a terrible headache,"
+      },
+      {
+       "cyr": "од силна глава.",
+       "lat": "od silna glava.",
+       "en": "a terrible headache."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не бој се сину од таква болест,",
+       "lat": "- Ne boj se sinu od takva bolest,",
+       "en": "- Don't fret, my son, from such illness,"
+      },
+      {
+       "cyr": "од таква болест, од таква треска,",
+       "lat": "od takva bolest, od takva treska,",
+       "en": "From such illness, from that kind of fever."
+      },
+      {
+       "cyr": "што не ми кажа три дни понапрет,",
+       "lat": "što ne mi kaža tri dni ponapret,",
+       "en": "Why didn’t you tell me three days ago,"
+      },
+      {
+       "cyr": "три дни понапред!",
+       "lat": "tri dni ponapred!",
+       "en": "three days ago!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти напишам три хамајлии:",
+       "lat": "Da ti napišam tri hamajlii:",
+       "en": "So I could prescribe you three remedies:"
+      },
+      {
+       "cyr": "прва за глава, втора за треска,",
+       "lat": "prva za glava, vtora za treska,",
+       "en": "The first for your head, the second for your fever."
+      },
+      {
+       "cyr": "да ти напишам три хамајлии,",
+       "lat": "da ti napišam tri hamajlii,",
+       "en": "So I could prescribe you three remedies,"
+      },
+      {
+       "cyr": "втора за треска, треќа за срце.",
+       "lat": "vtora za treska, treḱa za srce.",
+       "en": "The second for your fever, the third for your heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

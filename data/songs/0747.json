@@ -1,0 +1,246 @@
+{
+ "id": 747,
+ "slug": "koce-berberot-chalgadzhijata",
+ "title_cyr": "Коце берберот - чалгаџијата",
+ "title_latin": "Koce berberot - čalgadžijata",
+ "title_en": "Koce the barber, the musician",
+ "pesna_url": "https://pesna.org/song/747",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1076"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3127"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/4005"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коце берберот, чалгаџијата,",
+       "lat": "Koce berberot, čalgadžijata,",
+       "en": "Koce the barber, the musician,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце берберот, мераклијата,",
+       "lat": "Koce berberot, meraklijata,",
+       "en": "Koce the barber, the passionate one.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце не јади расол со месо (јок!),",
+       "lat": "Koce, Koce ne jadi rasol so meso (jok!),",
+       "en": "Koce, Koce does not eat salted meat (no!),",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце не јади грав со пастрма.",
+       "lat": "Koce, Koce ne jadi grav so pastrma.",
+       "en": "Koce, Koce does not eat beans with preserved meat.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Леле, гравче убаво!)",
+       "lat": "(Lele, gravče ubavo!)",
+       "en": "(Oh, tasty beans!)",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море, Коце берберот, чалгаџијата,",
+       "lat": "More, Koce berberot, čalgadžijata,",
+       "en": "Koce the barber, the musician,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце берберот, мераклијата,",
+       "lat": "Koce berberot, meraklijata,",
+       "en": "Koce the barber, the passionate one.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце ми јади гаска печена, еј,",
+       "lat": "Koce, Koce mi jadi gaska pečena, ej,",
+       "en": "Koce eats roasted goose, hey,",
+       "en_mt": false
+      },
+      {
+       "cyr": "гаска, гаска печена, ражен вртена,",
+       "lat": "gaska, gaska pečena, ražen vrtena,",
+       "en": "goose roasted on a spit turned.",
+       "en_mt": false
+      },
+      {
+       "cyr": "гаска, гаска печена, ражен вртена,",
+       "lat": "gaska, gaska pečena, ražen vrtena,",
+       "en": "Goose, goose roasted, on a spit turned",
+       "en_mt": false
+      },
+      {
+       "cyr": "суво грозје целата гаска полнета.",
+       "lat": "suvo grozje celata gaska polneta.",
+       "en": "with raisins the whole goose filled.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Коце мустаќлија, на убаво меркалија!)",
+       "lat": "(Koce mustaḱlija, na ubavo merkalija!)",
+       "en": "(Koce with the large moustache, who likes only the good things!)",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море, Коце берберот, чалгаџијата,",
+       "lat": "More, Koce berberot, čalgadžijata,",
+       "en": "Koce the barber, the musician,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце берберот, мераклијата,",
+       "lat": "Koce berberot, meraklijata,",
+       "en": "Koce the barber, the passionate one.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце не пие мека ракија (јок!),",
+       "lat": "Koce, Koce ne pie meka rakija (jok!),",
+       "en": "Koce, Koce does not drink mild rakiya (no!),",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце не пие вино кисело.",
+       "lat": "Koce, Koce ne pie vino kiselo.",
+       "en": "Koce, Koce does not drink sour wine.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "(Еј, знае Коце што јаде,",
+       "lat": "(Ej, znae Koce što jade,",
+       "en": "(Hey, Koce is choosy about what he eats,",
+       "en_mt": false
+      },
+      {
+       "cyr": "знае Коце што пие,",
+       "lat": "znae Koce što pie,",
+       "en": "Koce is choosy about what he drinks,",
+       "en_mt": false
+      },
+      {
+       "cyr": "знае многу работи, е хе хеј!)",
+       "lat": "znae mnogu raboti, e he hej!)",
+       "en": "he is a real gourmet, hey, hey!)",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море, Коце берберот, чалгаџијата,",
+       "lat": "More, Koce berberot, čalgadžijata,",
+       "en": "Koce the barber, the musician,",
+       "en_mt": false
+      },
+      {
+       "cyr": "море Коце берберот, мераклијата.",
+       "lat": "more Koce berberot, meraklijata.",
+       "en": "Koce the barber, the passionate one.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце си пие лута ракија, хеј,",
+       "lat": "Koce, Koce si pie luta rakija, hej,",
+       "en": "Koce, Koce drinks strong rakiya, hey,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце си пие вино лежано.",
+       "lat": "Koce, Koce si pie vino ležano.",
+       "en": "Koce, Koce drinks aged wine.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Море Коце, Коце си пие лута ракија, хеј,",
+       "lat": "More Koce, Koce si pie luta rakija, hej,",
+       "en": "Koce, Koce drinks strong rakiya, hey,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце, Коце си пие вино лежано.",
+       "lat": "Koce, Koce si pie vino ležano.",
+       "en": "Koce, Koce drinks aged wine.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако сакате да ви засвири,",
+       "lat": "Ako sakate da vi zasviri,",
+       "en": "If you want him to play for you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дајте му на Коцета што ќе посака.",
+       "lat": "dajte mu na Koceta što ḱe posaka.",
+       "en": "give Koce what he wants.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Коце ќе ви засвири и ќе запее,",
+       "lat": "Koce ḱe vi zasviri i ḱe zapee,",
+       "en": "Koce will play and sing for you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "старо, младо на оро ќе развесели, хеј!",
+       "lat": "staro, mlado na oro ḱe razveseli, hej!",
+       "en": "old and young will rejoice in the dance, hey!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

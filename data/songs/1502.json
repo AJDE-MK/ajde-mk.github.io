@@ -1,0 +1,164 @@
+{
+ "id": 1502,
+ "slug": "mesechino-majrudo",
+ "title_cyr": "Месечино мајрудо",
+ "title_latin": "Mesečino majrudo",
+ "title_en": "Moon, Mother-Moon",
+ "pesna_url": "https://pesna.org/song/1502",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect is heavy and several lines are my reading: 'мајрудо' (possibly 'mother-moon' or an epithet), 'лудо' (fool/young one), 'на лику е капеше' and 'је редеше'. Traditional, no author named.",
+ "words_to_learn": [
+  {
+   "mk": "месечина",
+   "en": "moonlight, the moon"
+  },
+  {
+   "mk": "пенџер",
+   "en": "window (Turkish loan)"
+  },
+  {
+   "mk": "огревај",
+   "en": "warm, shine on (imperative)"
+  },
+  {
+   "mk": "вечера",
+   "en": "eat supper"
+  },
+  {
+   "mk": "ливаѓе",
+   "en": "meadow (dialect)"
+  },
+  {
+   "mk": "кључ",
+   "en": "key"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose (dialect)"
+  },
+  {
+   "mk": "јоргован",
+   "en": "lilac"
+  },
+  {
+   "mk": "шамивче",
+   "en": "small kerchief"
+  }
+ ],
+ "performers": [
+  "Распеани дебарчани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани дебарчани",
+   "url": "https://pesna.org/audio-download/3918"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Месечино мајрудо леле",
+       "lat": "Mesečino majrudo lele",
+       "en": "Moon, mother-moon, oh dear,"
+      },
+      {
+       "cyr": "не огревај пенџеру леле",
+       "lat": "ne ogrevaj pendžeru lele",
+       "en": "do not warm the window, oh dear,"
+      },
+      {
+       "cyr": "дур' да лудо вечера.",
+       "lat": "dur' da ludo večera.",
+       "en": "while the fool has his supper."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дур' да лудо вечера, леле,",
+       "lat": "Dur' da ludo večera, lele,",
+       "en": "While the fool has his supper, oh dear,"
+      },
+      {
+       "cyr": "коњи му се в' ливаѓе,",
+       "lat": "konji mu se v' livaǵe,",
+       "en": "his horses are in the meadow,"
+      },
+      {
+       "cyr": "во девојка кључеви.",
+       "lat": "vo devojka ključevi.",
+       "en": "the keys are with the girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девојка ми заспала леле,",
+       "lat": "Devojka mi zaspala lele,",
+       "en": "The girl fell asleep, oh dear,"
+      },
+      {
+       "cyr": "во црвени трендафил,",
+       "lat": "vo crveni trendafil,",
+       "en": "in the red rose,"
+      },
+      {
+       "cyr": "под расцутен јоргован.",
+       "lat": "pod rascuten jorgovan.",
+       "en": "under the blossoming lilac."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јоргован ми цутеше, леле,",
+       "lat": "Jorgovan mi cuteše, lele,",
+       "en": "The lilac was blooming, oh dear,"
+      },
+      {
+       "cyr": "на лику е капеше,",
+       "lat": "na liku e kapeše,",
+       "en": "it was dripping on her face,"
+      },
+      {
+       "cyr": "момче е го береше.",
+       "lat": "momče e go bereše.",
+       "en": "the lad was picking it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момче е го береше леле,",
+       "lat": "Momče e go bereše lele,",
+       "en": "The lad was picking it, oh dear,"
+      },
+      {
+       "cyr": "со свилено шамивче,",
+       "lat": "so svileno šamivče,",
+       "en": "with a silk kerchief,"
+      },
+      {
+       "cyr": "на глава је редеше.",
+       "lat": "na glava je redeše.",
+       "en": "he was arranging it on her head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

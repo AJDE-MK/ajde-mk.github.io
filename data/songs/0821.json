@@ -1,0 +1,141 @@
+{
+ "id": 821,
+ "slug": "aber-dojde-od-ovcharo",
+ "title_cyr": "Абер дојде од овчаро",
+ "title_latin": "Aber dojde od ovčaro",
+ "title_en": "News Came from the Shepherd",
+ "pesna_url": "https://pesna.org/song/821",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional pastoral song, no author known. 'Двечки' I read as an affectionate form of 'two'; 'мори' is a filler, here part of the name refrain 'Maro oh Maro'.",
+ "words_to_learn": [
+  {
+   "mk": "абер",
+   "en": "news (Turkish loan)"
+  },
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "козар",
+   "en": "goatherd"
+  },
+  {
+   "mk": "говедар",
+   "en": "cowherd"
+  },
+  {
+   "mk": "објагниле",
+   "en": "have lambed"
+  },
+  {
+   "mk": "окозиле",
+   "en": "have kidded"
+  },
+  {
+   "mk": "отелила",
+   "en": "has calved"
+  },
+  {
+   "mk": "шарени",
+   "en": "speckled, multicolored"
+  },
+  {
+   "mk": "близначета",
+   "en": "twins"
+  }
+ ],
+ "performers": [
+  "Милко Златков"
+ ],
+ "audio": [
+  {
+   "who": "Милко Златков",
+   "url": "https://pesna.org/audio-download/3607"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абер дојде од овчаро, Маро мори, Маро,",
+       "lat": "Aber dojde od ovčaro, Maro mori, Maro,",
+       "en": "News came from the shepherd, Maro oh Maro,"
+      },
+      {
+       "cyr": "овците се објагниле, Маро мори, Маро,",
+       "lat": "ovcite se objagnile, Maro mori, Maro,",
+       "en": "the sheep have lambed, Maro oh Maro,"
+      },
+      {
+       "cyr": "двечки бели, две шарени, Маро мори, Маро,",
+       "lat": "dvečki beli, dve šareni, Maro mori, Maro,",
+       "en": "two white, two speckled, Maro oh Maro,"
+      },
+      {
+       "cyr": "Маро мори, Маро.",
+       "lat": "Maro mori, Maro.",
+       "en": "Maro oh Maro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абер дојде од козаро, Маро мори, Маро,",
+       "lat": "Aber dojde od kozaro, Maro mori, Maro,",
+       "en": "News came from the goatherd, Maro oh Maro,"
+      },
+      {
+       "cyr": "козите се окозиле, Маро мори, Маро,",
+       "lat": "kozite se okozile, Maro mori, Maro,",
+       "en": "the goats have kidded, Maro oh Maro,"
+      },
+      {
+       "cyr": "едно бело, друго црно, Маро мори, Маро,",
+       "lat": "edno belo, drugo crno, Maro mori, Maro,",
+       "en": "one white, the other black, Maro oh Maro,"
+      },
+      {
+       "cyr": "Маро мори, Маро.",
+       "lat": "Maro mori, Maro.",
+       "en": "Maro oh Maro."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абер дојде од говедаро, Маро мори, Маро,",
+       "lat": "Aber dojde od govedaro, Maro mori, Maro,",
+       "en": "News came from the cowherd, Maro oh Maro,"
+      },
+      {
+       "cyr": "кравата се отелила, Маро мори, Маро,",
+       "lat": "kravata se otelila, Maro mori, Maro,",
+       "en": "the cow has calved, Maro oh Maro,"
+      },
+      {
+       "cyr": "две теленца, близначета, Маро мори, Маро,",
+       "lat": "dve telenca, bliznačeta, Maro mori, Maro,",
+       "en": "two calves, twins, Maro oh Maro,"
+      },
+      {
+       "cyr": "Маро мори, Маро.",
+       "lat": "Maro mori, Maro.",
+       "en": "Maro oh Maro."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

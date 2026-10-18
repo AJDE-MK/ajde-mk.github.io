@@ -1,0 +1,264 @@
+{
+ "id": 578,
+ "slug": "eleno-kjerko-eleno",
+ "title_cyr": "Елено ќерко, Елено",
+ "title_latin": "Eleno ḱerko, Eleno",
+ "title_en": "Elena, my daughter",
+ "pesna_url": "https://pesna.org/song/578",
+ "background": "A mother-daughter dialogue. Why are you standing there writing a letter, daughter? To Edirne, to my love. And what do you tell him? To buy me a *kapela*, a coin-studded bridal headdress, worth three hundred groats. Brides in Ottoman Macedonia negotiated their wishes through songs like this one.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Амира Медуњанин",
+  "Анка Гиева",
+  "Ансамбл Билјана",
+  "Ансамбл Лоле",
+  "Атина Апостолова",
+  "Влатко Стефановски",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Даниела Калаџиска",
+  "Дертум",
+  "Диран Тавитјан",
+  "Ѓорѓи Желчевски",
+  "Елена Велевска",
+  "Кајда",
+  "Кевсер Селимова",
+  "Масимо Савиќ",
+  "Мирослав Тадиќ",
+  "Непознат изведувач",
+  "Пајтон",
+  "Петранка Костадинова",
+  "Пијано бар",
+  "Раде Шербеџија",
+  "Распеани стружани",
+  "Тип-топ",
+  "Томче Симовски",
+  "Штипјани",
+  "Ethnusiasm",
+  "Mitan Project",
+  "Yvette Holzwarth"
+ ],
+ "audio": [
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/363"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/364"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/365"
+  },
+  {
+   "who": "Атина Апостолова",
+   "url": "https://pesna.org/audio-download/366"
+  },
+  {
+   "who": "Распеани стружани",
+   "url": "https://pesna.org/audio-download/367"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/368"
+  },
+  {
+   "who": "Дертум",
+   "url": "https://pesna.org/audio-download/369"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/370"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/371"
+  },
+  {
+   "who": "Пајтон",
+   "url": "https://pesna.org/audio-download/372"
+  },
+  {
+   "who": "Штипјани",
+   "url": "https://pesna.org/audio-download/373"
+  },
+  {
+   "who": "Тип-топ",
+   "url": "https://pesna.org/audio-download/374"
+  },
+  {
+   "who": "Томче Симовски",
+   "url": "https://pesna.org/audio-download/375"
+  },
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Масимо Савиќ",
+   "url": "https://pesna.org/audio-download/376"
+  },
+  {
+   "who": "Раде Шербеџија",
+   "url": "https://pesna.org/audio-download/377"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/378"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/379"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/943"
+  },
+  {
+   "who": "Кајда",
+   "url": "https://pesna.org/audio-download/1580"
+  },
+  {
+   "who": "Ансамбл Лоле",
+   "url": "https://pesna.org/audio-download/1581"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1950"
+  },
+  {
+   "who": "Ethnusiasm",
+   "url": "https://pesna.org/audio-download/2545"
+  },
+  {
+   "who": "Yvette Holzwarth, Мирослав Тадиќ",
+   "url": "https://pesna.org/audio-download/3502"
+  },
+  {
+   "who": "Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/3580"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Елено ќерко, Елено,",
+       "lat": "Eleno ḱerko, Eleno,",
+       "en": "Elena, my daughter, Elena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти една на мајка,",
+       "lat": "ti edna na majka,",
+       "en": "you are my only child,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што стоиш ќерко, што мислиш,",
+       "lat": "što stoiš ḱerko, što misliš,",
+       "en": "why are you distant, daughter, what are you thinking,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што книга пишуваш?",
+       "lat": "što kniga pišuvaš?",
+       "en": "what are you writing?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На кого ќерко, на кого,",
+       "lat": "Na kogo ḱerko, na kogo,",
+       "en": "To whom, daughter, to whom,",
+       "en_mt": false
+      },
+      {
+       "cyr": "книга ќе испраќаш?",
+       "lat": "kniga ḱe ispraḱaš?",
+       "en": "will you send that letter?",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Испраќам мајко, испраќам",
+       "lat": "- Ispraḱam majko, ispraḱam",
+       "en": "- I am sending it, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до градот Едрене.",
+       "lat": "do gradot Edrene.",
+       "en": "to the city of Edrene.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едрене мајко, Едрене",
+       "lat": "Edrene majko, Edrene",
+       "en": "Edrene, mother, Edrene,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на моето либе,",
+       "lat": "na moeto libe,",
+       "en": "to my love,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да купи мајко, да купи",
+       "lat": "da kupi majko, da kupi",
+       "en": "to ask him to buy, mother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за мене капела.",
+       "lat": "za mene kapela.",
+       "en": "a hat for me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Капела мајко, капела",
+       "lat": "Kapela majko, kapela",
+       "en": "A hat, mother, a hat,",
+       "en_mt": false
+      },
+      {
+       "cyr": "од триста гроша",
+       "lat": "od trista groša",
+       "en": "for 300 grosh,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да носам мајко, да носам",
+       "lat": "da nosam majko, da nosam",
+       "en": "I'll wear it, mother, I'll wear it",
+       "en_mt": false
+      },
+      {
+       "cyr": "на ден за Илинден.",
+       "lat": "na den za Ilinden.",
+       "en": "on the day Ilinden.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

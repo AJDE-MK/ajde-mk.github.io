@@ -1,0 +1,129 @@
+{
+ "id": 46,
+ "slug": "uchi-me-mila-majko-karaj-me",
+ "title_cyr": "Учи ме мила мајко, карај ме",
+ "title_latin": "Uči me mila majko, karaj me",
+ "title_en": "Teach me, dear mother, advise me",
+ "pesna_url": "https://pesna.org/song/46",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Грозданка Данилова",
+  "Нада Макеларска"
+ ],
+ "audio": [
+  {
+   "who": "Нада Макеларска, Грозданка Данилова",
+   "url": "https://pesna.org/audio-download/707"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Учи ме мила мајко, карај ме,",
+       "lat": "Uči me mila majko, karaj me,",
+       "en": "Teach me, dear mother, advise me,"
+      },
+      {
+       "cyr": "леле карај ме,",
+       "lat": "lele karaj me,",
+       "en": "oh, advise me,"
+      },
+      {
+       "cyr": "како да кандисам, мајко, по него,",
+       "lat": "kako da kandisam, majko, po nego,",
+       "en": "how to agree, mother, to be with him,"
+      },
+      {
+       "cyr": "леле, по него.",
+       "lat": "lele, po nego.",
+       "en": "oh, be with him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Са ноќ сум мила мајко, неспана,",
+       "lat": "Sa noḱ sum mila majko, nespana,",
+       "en": "All night I am, dear mother, without sleep,"
+      },
+      {
+       "cyr": "леле неспана,",
+       "lat": "lele nespana,",
+       "en": "oh, awake,"
+      },
+      {
+       "cyr": "од тоа лудо младо, пијано,",
+       "lat": "od toa ludo mlado, pijano,",
+       "en": "because of that crazy, young, drunk,"
+      },
+      {
+       "cyr": "леле, пијано.",
+       "lat": "lele, pijano.",
+       "en": "oh, drunk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лажи го, мила ќерко, мами го,",
+       "lat": "Laži go, mila ḱerko, mami go,",
+       "en": "Lie to him, dear daughter, flirt with him,"
+      },
+      {
+       "cyr": "леле мами го,",
+       "lat": "lele mami go,",
+       "en": "oh, flirt with him,"
+      },
+      {
+       "cyr": "дури да си дојдат, ќерко, браќа ти,",
+       "lat": "duri da si dojdat, ḱerko, braḱa ti,",
+       "en": "until your brothers, daughter, come home,"
+      },
+      {
+       "cyr": "леле, браќа ти.",
+       "lat": "lele, braḱa ti.",
+       "en": "oh, your brothers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Браќа ти се, мила ќерко, комити,",
+       "lat": "Braḱa ti se, mila ḱerko, komiti,",
+       "en": "Your brothers are, dear daughter, komiti,"
+      },
+      {
+       "cyr": "леле комити,",
+       "lat": "lele komiti,",
+       "en": "oh, komiti,"
+      },
+      {
+       "cyr": "тие ќе му глава, ќерко, отсечат,",
+       "lat": "tie ḱe mu glava, ḱerko, otsečat,",
+       "en": "they will cut off, daughter, his head,"
+      },
+      {
+       "cyr": "леле отсечат.",
+       "lat": "lele otsečat.",
+       "en": "oh, his head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,230 @@
+{
+ "id": 1380,
+ "slug": "sadila-moma",
+ "title_cyr": "Садила мома",
+ "title_latin": "Sadila moma",
+ "title_en": "A Girl Planted",
+ "pesna_url": "https://pesna.org/song/1380",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'јадено лозје' (vineyard to be eaten from) and the reversal 'Садила е...вадила' (she planted, she dug up) are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "садила",
+   "en": "she planted"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "рујно",
+   "en": "ruby red"
+  },
+  {
+   "mk": "вино",
+   "en": "wine"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong brandy"
+  },
+  {
+   "mk": "чудом се чуди",
+   "en": "marvels, is amazed"
+  },
+  {
+   "mk": "крстопат",
+   "en": "crossroads"
+  },
+  {
+   "mk": "дуќанче",
+   "en": "little shop"
+  }
+ ],
+ "performers": [
+  "Брезница",
+  "Никола Тодоров",
+  "Пирински гриваци",
+  "Gulfie"
+ ],
+ "audio": [
+  {
+   "who": "Пирински гриваци",
+   "url": "https://pesna.org/audio-download/3563"
+  },
+  {
+   "who": "Gulfie, Брезница",
+   "url": "https://pesna.org/audio-download/3564"
+  },
+  {
+   "who": "Никола Тодоров",
+   "url": "https://pesna.org/audio-download/3565"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Садила мома, ајде",
+       "lat": "Sadila moma, ajde",
+       "en": "A girl planted, hey,"
+      },
+      {
+       "cyr": "јадено лозје,",
+       "lat": "jadeno lozje,",
+       "en": "a vineyard to be eaten from,"
+      },
+      {
+       "cyr": "Садила е, мома мори,",
+       "lat": "Sadila e, moma mori,",
+       "en": "She planted it, girl oh girl,"
+      },
+      {
+       "cyr": "вадила.",
+       "lat": "vadila.",
+       "en": "she dug it up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се родило, ајде,",
+       "lat": "Ne se rodilo, ajde,",
+       "en": "It did not bear, hey,"
+      },
+      {
+       "cyr": "јадено грозје.",
+       "lat": "jadeno grozje.",
+       "en": "the grapes to be eaten."
+      },
+      {
+       "cyr": "Родило се рујно",
+       "lat": "Rodilo se rujno",
+       "en": "It bore ruby"
+      },
+      {
+       "cyr": "вино црвено.",
+       "lat": "vino crveno.",
+       "en": "red wine."
+      },
+      {
+       "cyr": "Родила се бела",
+       "lat": "Rodila se bela",
+       "en": "It bore white"
+      },
+      {
+       "cyr": "лута ракија.",
+       "lat": "luta rakija.",
+       "en": "strong brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чудом се чуди ајде",
+       "lat": "Čudom se čudi ajde",
+       "en": "She marvels, hey,"
+      },
+      {
+       "cyr": "таа мала мома,",
+       "lat": "taa mala moma,",
+       "en": "that little girl,"
+      },
+      {
+       "cyr": "што да прави с' тоа",
+       "lat": "što da pravi s' toa",
+       "en": "what to do with this"
+      },
+      {
+       "cyr": "вино црвено,",
+       "lat": "vino crveno,",
+       "en": "red wine,"
+      },
+      {
+       "cyr": "што да прави с' таа",
+       "lat": "što da pravi s' taa",
+       "en": "what to do with that"
+      },
+      {
+       "cyr": "лута ракија.",
+       "lat": "luta rakija.",
+       "en": "strong brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па е изградила ајде",
+       "lat": "Pa e izgradila ajde",
+       "en": "So she built, hey,"
+      },
+      {
+       "cyr": "на крстопата.",
+       "lat": "na krstopata.",
+       "en": "at the crossroads,"
+      },
+      {
+       "cyr": "Изградила е едно",
+       "lat": "Izgradila e edno",
+       "en": "she built a"
+      },
+      {
+       "cyr": "мало дуќанче.",
+       "lat": "malo duḱanče.",
+       "en": "little shop."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој га замине ајде,",
+       "lat": "Koj ga zamine ajde,",
+       "en": "Whoever passes by, hey,"
+      },
+      {
+       "cyr": "кој га помине,",
+       "lat": "koj ga pomine,",
+       "en": "whoever goes past,"
+      },
+      {
+       "cyr": "да ми пие тоа",
+       "lat": "da mi pie toa",
+       "en": "let him drink for me this"
+      },
+      {
+       "cyr": "вино црвено,",
+       "lat": "vino crveno,",
+       "en": "red wine,"
+      },
+      {
+       "cyr": "да ми пие таа",
+       "lat": "da mi pie taa",
+       "en": "let him drink for me that"
+      },
+      {
+       "cyr": "лута ракија.",
+       "lat": "luta rakija.",
+       "en": "strong brandy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

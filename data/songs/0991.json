@@ -1,0 +1,161 @@
+{
+ "id": 991,
+ "slug": "oj-prilepe-grade",
+ "title_cyr": "Ој, Прилепе граде",
+ "title_latin": "Oj, Prilepe grade",
+ "title_en": "Oh, Prilep, Town",
+ "pesna_url": "https://pesna.org/song/991",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a 20th-century patriotic song but I cannot name an author. 'Македонско злато' as Prilep tobacco is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "гордост",
+   "en": "pride"
+  },
+  {
+   "mk": "храбри",
+   "en": "brave"
+  },
+  {
+   "mk": "Маркови Кули",
+   "en": "Marko's Towers (ruins above Prilep)"
+  },
+  {
+   "mk": "Крали Марко",
+   "en": "Kraljević Marko, epic hero"
+  },
+  {
+   "mk": "опеан",
+   "en": "sung about (in song)"
+  },
+  {
+   "mk": "злато",
+   "en": "gold (here probably the Prilep tobacco, my reading)"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "пукна",
+   "en": "fired, went off"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2309"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Прилепе граде, гордост македонска,",
+       "lat": "Oj, Prilepe grade, gordost makedonska,",
+       "en": "Oh, Prilep, town, pride of Macedonia,"
+      },
+      {
+       "cyr": "за тебе ќе пејам, има и што да пејам.",
+       "lat": "za tebe ḱe pejam, ima i što da pejam.",
+       "en": "I will sing of you, there is much to sing about."
+      },
+      {
+       "cyr": "Во тебе се раѓаат храбри Македонци,",
+       "lat": "Vo tebe se raǵaat hrabri Makedonci,",
+       "en": "In you brave Macedonians are born,"
+      },
+      {
+       "cyr": "храбри Македонци, сите патриоти.",
+       "lat": "hrabri Makedonci, site patrioti.",
+       "en": "brave Macedonians, all patriots."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе ми те красат Маркови Кули,",
+       "lat": "Tebe mi te krasat Markovi Kuli,",
+       "en": "The Marko's Towers adorn you,"
+      },
+      {
+       "cyr": "во тебе се роди славни Крали Марко,",
+       "lat": "vo tebe se rodi slavni Krali Marko,",
+       "en": "in you was born the famous Kraljević Marko,"
+      },
+      {
+       "cyr": "легендарни Марко, во песни опеан,",
+       "lat": "legendarni Marko, vo pesni opean,",
+       "en": "legendary Marko, sung in songs,"
+      },
+      {
+       "cyr": "во песни опеан, во целиот Балкан.",
+       "lat": "vo pesni opean, vo celiot Balkan.",
+       "en": "sung in songs, in the whole Balkans."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во тебе се раѓа македонско злато,",
+       "lat": "Vo tebe se raǵa makedonsko zlato,",
+       "en": "In you Macedonian gold is born,"
+      },
+      {
+       "cyr": "македонско злато, што во свет го нема.",
+       "lat": "makedonsko zlato, što vo svet go nema.",
+       "en": "Macedonian gold, which the world has no equal of."
+      },
+      {
+       "cyr": "Затоа се, Прилеп, со тебе гордеам,",
+       "lat": "Zatoa se, Prilep, so tebe gordeam,",
+       "en": "That is why, Prilep, I am proud of you,"
+      },
+      {
+       "cyr": "за тебе ќе пеам, по свет ќе те славам.",
+       "lat": "za tebe ḱe peam, po svet ḱe te slavam.",
+       "en": "I will sing of you, I will glorify you across the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Прилепе граде, гордост македонска,",
+       "lat": "Oj, Prilepe grade, gordost makedonska,",
+       "en": "Oh, Prilep, town, pride of Macedonia,"
+      },
+      {
+       "cyr": "и во тебе пукна прва пушка, граде,",
+       "lat": "i vo tebe pukna prva puška, grade,",
+       "en": "in you too the first gun fired, town,"
+      },
+      {
+       "cyr": "прва пушка пукна против душмани,",
+       "lat": "prva puška pukna protiv dušmani,",
+       "en": "the first gun fired against the enemies,"
+      },
+      {
+       "cyr": "за Македонија, за име македонско.",
+       "lat": "za Makedonija, za ime makedonsko.",
+       "en": "for Macedonia, for the Macedonian name."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

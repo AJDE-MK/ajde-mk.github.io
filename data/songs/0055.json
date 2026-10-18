@@ -1,0 +1,142 @@
+{
+ "id": 55,
+ "slug": "jas-si-pojdov-vo-bitola",
+ "title_cyr": "Јас си појдов во Битола",
+ "title_latin": "Jas si pojdov vo Bitola",
+ "title_en": "I went to Bitola",
+ "pesna_url": "https://pesna.org/song/55",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Straightforward. Lenche is a girl's name used as an address.",
+ "words_to_learn": [
+  {
+   "mk": "појдов",
+   "en": "I went"
+  },
+  {
+   "mk": "Битола",
+   "en": "Bitola (city)"
+  },
+  {
+   "mk": "занает",
+   "en": "trade, craft"
+  },
+  {
+   "mk": "научив",
+   "en": "I learned"
+  },
+  {
+   "mk": "тук",
+   "en": "but, rather (dialect)"
+  },
+  {
+   "mk": "љубовта",
+   "en": "love (the love)"
+  },
+  {
+   "mk": "слатко",
+   "en": "sweet"
+  },
+  {
+   "mk": "не знае",
+   "en": "does not know"
+  }
+ ],
+ "performers": [
+  "Езерски вез",
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/2415"
+  },
+  {
+   "who": "Езерски вез",
+   "url": "https://pesna.org/audio-download/2416"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас си појдов во Битола,",
+       "lat": "Jas si pojdov vo Bitola,",
+       "en": "I went to Bitola,"
+      },
+      {
+       "cyr": "јас си појдов во Битола,",
+       "lat": "jas si pojdov vo Bitola,",
+       "en": "I went to Bitola,"
+      },
+      {
+       "cyr": "јас си појдов во Битола, Ленче бре,",
+       "lat": "jas si pojdov vo Bitola, Lenče bre,",
+       "en": "I went to Bitola, hey Lenche,"
+      },
+      {
+       "cyr": "занает да научам.",
+       "lat": "zanaet da naučam.",
+       "en": "to learn a trade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не научив занаетот,",
+       "lat": "Ne naučiv zanaetot,",
+       "en": "I did not learn the trade,"
+      },
+      {
+       "cyr": "не научив занаетот,",
+       "lat": "ne naučiv zanaetot,",
+       "en": "I did not learn the trade,"
+      },
+      {
+       "cyr": "не научив занаетот, Ленче бре,",
+       "lat": "ne naučiv zanaetot, Lenče bre,",
+       "en": "I did not learn the trade, hey Lenche,"
+      },
+      {
+       "cyr": "тук научив љубовта.",
+       "lat": "tuk naučiv ljubovta.",
+       "en": "but I learned love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љубовта е слатко нешто,",
+       "lat": "Ljubovta e slatko nešto,",
+       "en": "Love is a sweet thing,"
+      },
+      {
+       "cyr": "љубовта е слатко нешто,",
+       "lat": "ljubovta e slatko nešto,",
+       "en": "love is a sweet thing,"
+      },
+      {
+       "cyr": "љубовта е слатко нешто, Ленче бре,",
+       "lat": "ljubovta e slatko nešto, Lenče bre,",
+       "en": "love is a sweet thing, hey Lenche,"
+      },
+      {
+       "cyr": "кој не љуби не знае.",
+       "lat": "koj ne ljubi ne znae.",
+       "en": "whoever does not love does not know."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

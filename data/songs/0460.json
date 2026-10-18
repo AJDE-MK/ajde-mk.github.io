@@ -1,0 +1,158 @@
+{
+ "id": 460,
+ "slug": "pominaa-ludi-mladi-godini",
+ "title_cyr": "Поминаа луди млади години",
+ "title_latin": "Pominaa ludi mladi godini",
+ "title_en": "The Foolish Young Years Have Passed",
+ "pesna_url": "https://pesna.org/song/460",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Regretful love song about a couple who never married; origin unclear, I cannot name an author. 'ветивне' and 'зедојме' in the repeat are variant spellings of the same verbs.",
+ "words_to_learn": [
+  {
+   "mk": "секоја вечер",
+   "en": "every evening"
+  },
+  {
+   "mk": "лудо",
+   "en": "crazy one (endearment, vocative)"
+  },
+  {
+   "mk": "поминаа",
+   "en": "they passed"
+  },
+  {
+   "mk": "си ветивме",
+   "en": "we promised each other"
+  },
+  {
+   "mk": "се зедовме",
+   "en": "we married each other"
+  },
+  {
+   "mk": "порти",
+   "en": "gate"
+  },
+  {
+   "mk": "младост",
+   "en": "youth"
+  },
+  {
+   "mk": "старост",
+   "en": "old age"
+  },
+  {
+   "mk": "тажни",
+   "en": "sad"
+  }
+ ],
+ "performers": [
+  "Бански старчета"
+ ],
+ "audio": [
+  {
+   "who": "Бански старчета",
+   "url": "https://pesna.org/audio-download/3228"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Секоја вечер на тебе мислам еј лудо бре",
+       "lat": "Sekoja večer na tebe mislam ej ludo bre",
+       "en": "Every evening I think of you, hey crazy one,"
+      },
+      {
+       "cyr": "само се мислам што да ти кажам еј лудо бре.",
+       "lat": "samo se mislam što da ti kažam ej ludo bre.",
+       "en": "I only keep thinking what to tell you, hey crazy one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминаа луди млади години",
+       "lat": "Pominaa ludi mladi godini",
+       "en": "The foolish young years have passed,"
+      },
+      {
+       "cyr": "си ветивме, ама не се зедовме.",
+       "lat": "si vetivme, ama ne se zedovme.",
+       "en": "we promised each other, but we did not marry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секоја вечер на порти чекам да поминеш",
+       "lat": "Sekoja večer na porti čekam da pomineš",
+       "en": "Every evening I wait at the gate for you to pass by,"
+      },
+      {
+       "cyr": "а ти минуваш и не ми збориш не ме гледаш.",
+       "lat": "a ti minuvaš i ne mi zboriš ne me gledaš.",
+       "en": "but you pass and do not speak to me, you do not look at me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминаа луди млади години",
+       "lat": "Pominaa ludi mladi godini",
+       "en": "The foolish young years have passed,"
+      },
+      {
+       "cyr": "си ветивне, ама не се зедојме.",
+       "lat": "si vetivne, ama ne se zedojme.",
+       "en": "we promised each other, but we did not marry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе мине младост, ќе дојде старост еј лудо бре,",
+       "lat": "Ḱe mine mladost, ḱe dojde starost ej ludo bre,",
+       "en": "Youth will pass, old age will come, hey crazy one,"
+      },
+      {
+       "cyr": "очите тажни мои и твои ќе останат",
+       "lat": "očite tažni moi i tvoi ḱe ostanat",
+       "en": "my sad eyes and yours will remain,"
+      },
+      {
+       "cyr": "очите тажни мои до века ќе тагуваат.",
+       "lat": "očite tažni moi do veka ḱe taguvaat.",
+       "en": "my sad eyes will grieve forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поминаа луди млади години",
+       "lat": "Pominaa ludi mladi godini",
+       "en": "The foolish young years have passed,"
+      },
+      {
+       "cyr": "си ветивме, ама не се зедовме.",
+       "lat": "si vetivme, ama ne se zedovme.",
+       "en": "we promised each other, but we did not marry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,364 @@
+{
+ "id": 436,
+ "slug": "zemjo-makedonska",
+ "title_cyr": "Земјо Македонска",
+ "title_latin": "Zemjo Makedonska",
+ "title_en": "Macedonian land",
+ "pesna_url": "https://pesna.org/song/436",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Владо Јаневски",
+  "Габриела Новевска",
+  "Зоран Џорлев",
+  "Македонски мерак",
+  "Сашо Гигов - Гиш",
+  "Симеон Гугуловски",
+  "Танец",
+  "Kazuhiro Kotetsu"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/149"
+  },
+  {
+   "who": "Симеон Гугуловски",
+   "url": "https://pesna.org/audio-download/150"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/151"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/152"
+  },
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/153"
+  },
+  {
+   "who": "Владо Јаневски",
+   "url": "https://pesna.org/audio-download/154"
+  },
+  {
+   "who": "Зоран Џорлев, Танец",
+   "url": "https://pesna.org/audio-download/1574"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/2811"
+  },
+  {
+   "who": "Kazuhiro Kotetsu",
+   "url": "https://pesna.org/audio-download/3624"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/4452"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Земјо Македонска, уважавам те,",
+       "lat": "Zemjo Makedonska, uvažavam te,",
+       "en": "Macedonian land, I respect you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "земјо Македонска,",
+       "lat": "zemjo Makedonska,",
+       "en": "Macedonian land,",
+       "en_mt": false
+      },
+      {
+       "cyr": "земјо турско-ропска Македонијо",
+       "lat": "zemjo tursko-ropska Makedonijo",
+       "en": "Ottoman-enslaved land Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "уважавам те.",
+       "lat": "uvažavam te.",
+       "en": "I respect you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уважавам твојте Македонијо",
+       "lat": "Uvažavam tvojte Makedonijo",
+       "en": "I respect your, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "гори високи,",
+       "lat": "gori visoki,",
+       "en": "high forests,",
+       "en_mt": false
+      },
+      {
+       "cyr": "горите, висојте",
+       "lat": "gorite, visojte",
+       "en": "your forests, your mountains,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и во теб' херојте Македонијо",
+       "lat": "i vo teb' herojte Makedonijo",
+       "en": "and the heroes, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ги раѓаш ти.",
+       "lat": "što gi raǵaš ti.",
+       "en": "that you give birth to.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По теб' се белеат Македонијо,",
+       "lat": "Po teb' se beleat Makedonijo,",
+       "en": "Across you there are white, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "безбројни стада,",
+       "lat": "bezbrojni stada,",
+       "en": "endless herds,",
+       "en_mt": false
+      },
+      {
+       "cyr": "стадата белеат",
+       "lat": "stadata beleat",
+       "en": "the herds are white,",
+       "en_mt": false
+      },
+      {
+       "cyr": "а гроздови зрејат Македонијо,",
+       "lat": "a grozdovi zrejat Makedonijo,",
+       "en": "and the grapes are maturing, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по твој ридови.",
+       "lat": "po tvoj ridovi.",
+       "en": "across your hills.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ништо не те плаши Македонијо,",
+       "lat": "Ništo ne te plaši Makedonijo,",
+       "en": "You are afraid of nothing, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "на овој бели свет,",
+       "lat": "na ovoj beli svet,",
+       "en": "in the entire world,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кој душман ќе влезе",
+       "lat": "koj dušman ḱe vleze",
+       "en": "any foe that enters",
+       "en_mt": false
+      },
+      {
+       "cyr": "жив нема да излезе Македонијо,",
+       "lat": "živ nema da izleze Makedonijo,",
+       "en": "will not come out alive, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти го ставаш в гроб.",
+       "lat": "ti go stavaš v grob.",
+       "en": "you put him to his grave.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Земјо Македонска чудна си на глед,",
+       "lat": "Zemjo Makedonska čudna si na gled,",
+       "en": "Macedonian land, you are wondrous to look at,",
+       "en_mt": true
+      },
+      {
+       "cyr": "земјо Македонска,",
+       "lat": "zemjo Makedonska,",
+       "en": "Macedonian land,",
+       "en_mt": false
+      },
+      {
+       "cyr": "земјо турско-ропска Македонијо",
+       "lat": "zemjo tursko-ropska Makedonijo",
+       "en": "Ottoman-enslaved land Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "уважавам те.",
+       "lat": "uvažavam te.",
+       "en": "I respect you.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уважавам твојте Македонијо",
+       "lat": "Uvažavam tvojte Makedonijo",
+       "en": "I respect your, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "гори високи,",
+       "lat": "gori visoki,",
+       "en": "high forests,",
+       "en_mt": false
+      },
+      {
+       "cyr": "горите, висојте",
+       "lat": "gorite, visojte",
+       "en": "your forests, your mountains,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и во тебе геројте Македонијо",
+       "lat": "i vo tebe gerojte Makedonijo",
+       "en": "and the heroes, Macedonia,",
+       "en_mt": false
+      },
+      {
+       "cyr": "што ги раѓаш ти.",
+       "lat": "što gi raǵaš ti.",
+       "en": "that you give birth to.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Убава си мила мајко",
+       "lat": "Ubava si mila majko",
+       "en": "You are beautiful, dear mother,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Македонијо,",
+       "lat": "Makedonijo,",
+       "en": "Macedonia,",
+       "en_mt": true
+      },
+      {
+       "cyr": "стада се белеат",
+       "lat": "stada se beleat",
+       "en": "the herds are white,",
+       "en_mt": true
+      },
+      {
+       "cyr": "лозјата вирејат",
+       "lat": "lozjata virejat",
+       "en": "the vineyards are sprouting,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ти ни даваш сè.",
+       "lat": "ti ni davaš sè.",
+       "en": "you give us everything.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ништо не те плаши",
+       "lat": "Ništo ne te plaši",
+       "en": "You are afraid of nothing,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Македонијо,",
+       "lat": "Makedonijo,",
+       "en": "Macedonia,",
+       "en_mt": true
+      },
+      {
+       "cyr": "кој душман влегол",
+       "lat": "koj dušman vlegol",
+       "en": "any foe that entered",
+       "en_mt": true
+      },
+      {
+       "cyr": "тој жив не излегол Македонијо,",
+       "lat": "toj živ ne izlegol Makedonijo,",
+       "en": "did not come out alive, Macedonia,",
+       "en_mt": true
+      },
+      {
+       "cyr": "ти го клаваш в гроб.",
+       "lat": "ti go klavaš v grob.",
+       "en": "you put him to his grave.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земјо Македонијо",
+       "lat": "Zemjo Makedonijo",
+       "en": "Macedonian land,",
+       "en_mt": true
+      },
+      {
+       "cyr": "наша татковино",
+       "lat": "naša tatkovino",
+       "en": "our fatherland,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Македонијо!",
+       "lat": "Makedonijo!",
+       "en": "Macedonia!",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,241 @@
+{
+ "id": 189,
+ "slug": "smilevo-slavno-v-ogan-gori",
+ "title_cyr": "Смилево славно в' оган гори",
+ "title_latin": "Smilevo slavno v' ogan gori",
+ "title_en": "Glorious Smilevo burns in fire",
+ "pesna_url": "https://pesna.org/song/189",
+ "background": "One of the further Ilinden songs your songbook listed to explore. Its title means \"Glorious Smilevo Burns\". Not checked whether it is traditional or a later composition.",
+ "background_source": "Source of these notes: your 6-song songbook.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Song about the 1903 Smilevo Congress/Ilinden uprising; second version has dialect forms (горит, командувет, паднит). The line 'И на ова царство ќе достоеме' is my reading ('we will outlast this empire').",
+ "words_to_learn": [
+  {
+   "mk": "топ",
+   "en": "cannon"
+  },
+  {
+   "mk": "татни",
+   "en": "rumbles"
+  },
+  {
+   "mk": "пламен",
+   "en": "flame"
+  },
+  {
+   "mk": "тиран",
+   "en": "tyrant"
+  },
+  {
+   "mk": "дружина",
+   "en": "band, company of fighters"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "татковина",
+   "en": "fatherland"
+  },
+  {
+   "mk": "беспокој",
+   "en": "distress, unrest"
+  },
+  {
+   "mk": "царство",
+   "en": "empire, kingdom"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Охридски трубадури",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/336"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2282"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/3064"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Топовите грмат, татни земјата",
+       "lat": "Topovite grmat, tatni zemjata",
+       "en": "The cannons thunder, the earth rumbles,"
+      },
+      {
+       "cyr": "пламен се дига до небото.",
+       "lat": "plamen se diga do neboto.",
+       "en": "flame rises to the sky."
+      },
+      {
+       "cyr": "Жалете браќа, браќа славјани",
+       "lat": "Žalete braḱa, braḱa slavjani",
+       "en": "Mourn, brothers, Slavic brothers,"
+      },
+      {
+       "cyr": "Смилево славно в' оган гори.",
+       "lat": "Smilevo slavno v' ogan gori.",
+       "en": "glorious Smilevo burns in fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жените плачат, пиштат децата,",
+       "lat": "Ženite plačat, pištat decata,",
+       "en": "Women weep, children scream,"
+      },
+      {
+       "cyr": "моми се кријат во беспокој.",
+       "lat": "momi se krijat vo bespokoj.",
+       "en": "girls hide in distress."
+      },
+      {
+       "cyr": "Наспроти стои Даме Груев,",
+       "lat": "Nasproti stoi Dame Gruev,",
+       "en": "Opposite stands Dame Gruev,"
+      },
+      {
+       "cyr": "верна дружина командува.",
+       "lat": "verna družina komanduva.",
+       "en": "he commands the faithful band."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Удрете браќа, не се плашете,",
+       "lat": "Udrete braḱa, ne se plašete,",
+       "en": "Strike, brothers, do not be afraid,"
+      },
+      {
+       "cyr": "скоро ќе падне овој тиран.",
+       "lat": "skoro ḱe padne ovoj tiran.",
+       "en": "soon this tyrant will fall."
+      },
+      {
+       "cyr": "И на ова царство ќе достоеме,",
+       "lat": "I na ova carstvo ḱe dostoeme,",
+       "en": "And we will outlast this empire,"
+      },
+      {
+       "cyr": "на таја пуста тиранија.",
+       "lat": "na taja pusta tiranija.",
+       "en": "this wretched tyranny."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "# # # (Друга верзија) # # #",
+       "lat": "# # # (Druga verzija) # # #",
+       "en": "# # # (Друга верзија) # # #"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зора зазори, сонце изгреват",
+       "lat": "Zora zazori, sonce izgrevat",
+       "en": "Dawn breaks, the sun rises"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зора зазори, сонце изгреват,",
+       "lat": "Zora zazori, sonce izgrevat,",
+       "en": "Dawn breaks, the sun rises,"
+      },
+      {
+       "cyr": "со румен пламен небо покри.",
+       "lat": "so rumen plamen nebo pokri.",
+       "en": "with red flame it covers the sky."
+      },
+      {
+       "cyr": "Топови грмат, татнит земјата,",
+       "lat": "Topovi grmat, tatnit zemjata,",
+       "en": "Cannons thunder, the earth rumbles,"
+      },
+      {
+       "cyr": "Смилево славно в' огон горит.",
+       "lat": "Smilevo slavno v' ogon gorit.",
+       "en": "glorious Smilevo burns in fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Жените плачат, пиштат децата,",
+       "lat": "Ženite plačat, pištat decata,",
+       "en": "Women weep, children scream,"
+      },
+      {
+       "cyr": "моми се кријат во беспокој.",
+       "lat": "momi se krijat vo bespokoj.",
+       "en": "girls hide in distress."
+      },
+      {
+       "cyr": "На чело стојат Груев, Сугарев,",
+       "lat": "Na čelo stojat Gruev, Sugarev,",
+       "en": "At the head stand Gruev and Sugarev,"
+      },
+      {
+       "cyr": "верна дружина командувет.",
+       "lat": "verna družina komanduvet.",
+       "en": "the faithful band is commanded."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Држ'те се браќа, не се боите,",
+       "lat": "Drž'te se braḱa, ne se boite,",
+       "en": "Hold on, brothers, do not fear,"
+      },
+      {
+       "cyr": "скоро ќе паднит овој тиран",
+       "lat": "skoro ḱe padnit ovoj tiran",
+       "en": "soon this tyrant will fall"
+      },
+      {
+       "cyr": "и туѓо царство не ќе постоит",
+       "lat": "i tuǵo carstvo ne ḱe postoit",
+       "en": "and foreign rule will not remain"
+      },
+      {
+       "cyr": "во наша мила татковина.",
+       "lat": "vo naša mila tatkovina.",
+       "en": "in our dear fatherland."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

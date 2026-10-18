@@ -1,0 +1,171 @@
+{
+ "id": 1360,
+ "slug": "snoshti-pominav-mamo-zaminav",
+ "title_cyr": "Сношти поминав мамо, заминав",
+ "title_latin": "Snošti pominav mamo, zaminav",
+ "title_en": "Last Night I Passed By, Mother",
+ "pesna_url": "https://pesna.org/song/1360",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The raven/nightingale verse is a metaphor (the small girl can manage by herself); 'му' in the raven lines is my reading as 'for him'.",
+ "words_to_learn": [
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "поминав",
+   "en": "I passed by"
+  },
+  {
+   "mk": "кладенец",
+   "en": "well, spring"
+  },
+  {
+   "mk": "моме",
+   "en": "girl"
+  },
+  {
+   "mk": "малечко",
+   "en": "quite small"
+  },
+  {
+   "mk": "посакај",
+   "en": "ask for (her hand)"
+  },
+  {
+   "mk": "гавран",
+   "en": "raven"
+  },
+  {
+   "mk": "гнездо",
+   "en": "nest"
+  },
+  {
+   "mk": "славејче",
+   "en": "nightingale"
+  }
+ ],
+ "performers": [
+  "Марија Димкова"
+ ],
+ "audio": [
+  {
+   "who": "Марија Димкова",
+   "url": "https://pesna.org/audio-download/3529"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Сношти поминав мамо, заминав,",
+       "lat": "- Snošti pominav mamo, zaminav,",
+       "en": "- Last night I passed by, mother, I went,"
+      },
+      {
+       "cyr": "крај студен бистар мамо, кладенец,",
+       "lat": "kraj studen bistar mamo, kladenec,",
+       "en": "beside a cold clear, mother, well,"
+      },
+      {
+       "cyr": "крај студен бистар мамо, кладенец.",
+       "lat": "kraj studen bistar mamo, kladenec.",
+       "en": "beside a cold clear, mother, well."
+      },
+      {
+       "cyr": "Там' најдов моме, мамо, малечко,",
+       "lat": "Tam' najdov mome, mamo, malečko,",
+       "en": "There I found a girl, mother, a little one,"
+      },
+      {
+       "cyr": "студена вода, мамо, пиеше,",
+       "lat": "studena voda, mamo, pieše,",
+       "en": "she was drinking cold water, mother,"
+      },
+      {
+       "cyr": "бело си лице, мамо, миеше.",
+       "lat": "belo si lice, mamo, mieše.",
+       "en": "she was washing her white face, mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Иди ја, мила мамо, посакај,",
+       "lat": "Idi ja, mila mamo, posakaj,",
+       "en": "Go, dear mother, and ask for her,"
+      },
+      {
+       "cyr": "дали ќе ти ја дадат за мене,",
+       "lat": "dali ḱe ti ja dadat za mene,",
+       "en": "whether they will give her to you for me,"
+      },
+      {
+       "cyr": "дали ќе ти ја дадат за мене?",
+       "lat": "dali ḱe ti ja dadat za mene?",
+       "en": "whether they will give her to you for me?"
+      },
+      {
+       "cyr": "- Мала е, сине море, Стојане,",
+       "lat": "- Mala e, sine more, Stojane,",
+       "en": "- She is small, my son, hey, Stojan,"
+      },
+      {
+       "cyr": "не знае куќа, синко, да гледа,",
+       "lat": "ne znae kuḱa, sinko, da gleda,",
+       "en": "she does not know, son, how to keep house,"
+      },
+      {
+       "cyr": "не знае куќа, синко, да гледа.",
+       "lat": "ne znae kuḱa, sinko, da gleda.",
+       "en": "she does not know, son, how to keep house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Гавраните се, мамо, големи,",
+       "lat": "- Gavranite se, mamo, golemi,",
+       "en": "- The ravens, mother, are big,"
+      },
+      {
+       "cyr": "други му гнездо, мамо, правеа,",
+       "lat": "drugi mu gnezdo, mamo, pravea,",
+       "en": "others made a nest for him, mother,"
+      },
+      {
+       "cyr": "други му пилци, мамо, гледаа.",
+       "lat": "drugi mu pilci, mamo, gledaa.",
+       "en": "others tended his chicks, mother."
+      },
+      {
+       "cyr": "Славејче пиле, мамо, малечко,",
+       "lat": "Slavejče pile, mamo, malečko,",
+       "en": "The nightingale is a small bird, mother,"
+      },
+      {
+       "cyr": "само си гнездо, мамо, правеше,",
+       "lat": "samo si gnezdo, mamo, praveše,",
+       "en": "it made its own nest, mother,"
+      },
+      {
+       "cyr": "само си гнездо, мамо, правеше.",
+       "lat": "samo si gnezdo, mamo, praveše.",
+       "en": "it made its own nest, mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

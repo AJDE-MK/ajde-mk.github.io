@@ -1,0 +1,189 @@
+{
+ "id": 684,
+ "slug": "lenka-pishi-bela-kniga",
+ "title_cyr": "Ленка пиши бела книга",
+ "title_latin": "Lenka piši bela kniga",
+ "title_en": "Lenka Writes a White Letter",
+ "pesna_url": "https://pesna.org/song/684",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Книга' here means a sheet/letter. 'Како знаеш... дома да дојдиш' is my reading: 'however you can, come home'. 'Ал дорија' read as 'a bay (horse)'.",
+ "words_to_learn": [
+  {
+   "mk": "бела книга",
+   "en": "white paper / letter"
+  },
+  {
+   "mk": "црно писмо",
+   "en": "black writing"
+  },
+  {
+   "mk": "Стамбол",
+   "en": "Istanbul"
+  },
+  {
+   "mk": "мило брате",
+   "en": "dear brother"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "јавна",
+   "en": "mounted (rode up)"
+  },
+  {
+   "mk": "брза",
+   "en": "hurries, spurs on"
+  },
+  {
+   "mk": "дорија",
+   "en": "bay horse (dark-brown)"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани",
+  "Непознат изведувач",
+  "Персиди"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/121"
+  },
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/3705"
+  },
+  {
+   "who": "Персиди",
+   "url": "https://pesna.org/audio-download/4384"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ленка пиши бела книга",
+       "lat": "Lenka piši bela kniga",
+       "en": "Lenka writes a white letter,"
+      },
+      {
+       "cyr": "бела книга, бела книга",
+       "lat": "bela kniga, bela kniga",
+       "en": "a white letter, a white letter,"
+      },
+      {
+       "cyr": "црно писмо.",
+       "lat": "crno pismo.",
+       "en": "in black writing."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе го прати во Стамбола",
+       "lat": "Ḱe go prati vo Stambola",
+       "en": "She will send it to Istanbul,"
+      },
+      {
+       "cyr": "во Стамбола, во Стамбола",
+       "lat": "vo Stambola, vo Stambola",
+       "en": "to Istanbul, to Istanbul,"
+      },
+      {
+       "cyr": "кај брата ѝ.",
+       "lat": "kaj brata ì.",
+       "en": "to her brother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај ти Спире мило брате",
+       "lat": "- Aj ti Spire milo brate",
+       "en": "- Hey you, Spiro, dear brother,"
+      },
+      {
+       "cyr": "како знаеш, како знаеш",
+       "lat": "kako znaeš, kako znaeš",
+       "en": "how do you know, how do you know"
+      },
+      {
+       "cyr": "дома да дојдиш.",
+       "lat": "doma da dojdiš.",
+       "en": "to come home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти е болна невестата",
+       "lat": "Ti e bolna nevestata",
+       "en": "Your bride is ill,"
+      },
+      {
+       "cyr": "невестата, невестата",
+       "lat": "nevestata, nevestata",
+       "en": "your bride, your bride,"
+      },
+      {
+       "cyr": "Ангелина.",
+       "lat": "Angelina.",
+       "en": "Angelina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јавна Спире брза коња",
+       "lat": "Javna Spire brza konja",
+       "en": "Spiro mounts, hurries his horse,"
+      },
+      {
+       "cyr": "брза коња, брза коња",
+       "lat": "brza konja, brza konja",
+       "en": "hurries his horse, hurries his horse,"
+      },
+      {
+       "cyr": "ал дорија.",
+       "lat": "al dorija.",
+       "en": "a bay one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ја види невестата",
+       "lat": "Da ja vidi nevestata",
+       "en": "To see the bride,"
+      },
+      {
+       "cyr": "невестата, невестата",
+       "lat": "nevestata, nevestata",
+       "en": "the bride, the bride,"
+      },
+      {
+       "cyr": "Ангелина.",
+       "lat": "Angelina.",
+       "en": "Angelina."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

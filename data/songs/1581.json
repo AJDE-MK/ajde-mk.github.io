@@ -1,0 +1,256 @@
+{
+ "id": 1581,
+ "slug": "kinisala-ruma-na-voda-da-odi",
+ "title_cyr": "Кинисала Рума на вода да оди",
+ "title_latin": "Kinisala Ruma na voda da odi",
+ "title_en": "Ruma set out to go for water",
+ "pesna_url": "https://pesna.org/song/1581",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Veles song; the notes give the meanings of чапкан, угурсуз, сарош and that Kojnik is a Veles neighborhood. 'Ситниот барут, клетото срце' is my reading: the shot hits her forehead and heart.",
+ "words_to_learn": [
+  {
+   "mk": "ќолук",
+   "en": "flirting, dallying (ќолук прави = to flirt)"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "чапкан",
+   "en": "street-rake, libertine"
+  },
+  {
+   "mk": "угурсуз",
+   "en": "good-for-nothing, spendthrift"
+  },
+  {
+   "mk": "сарош",
+   "en": "drunkard"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "нишан",
+   "en": "target, aim"
+  },
+  {
+   "mk": "барут",
+   "en": "gunpowder"
+  },
+  {
+   "mk": "бисер",
+   "en": "pearl"
+  },
+  {
+   "mk": "другачка",
+   "en": "girlfriend, female companion"
+  }
+ ],
+ "performers": [
+  "Распеани велешани"
+ ],
+ "audio": [
+  {
+   "who": "Распеани велешани",
+   "url": "https://pesna.org/audio-download/4118"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кинисала Рума ајде, на вода да оди,",
+       "lat": "Kinisala Ruma ajde, na voda da odi,",
+       "en": "Ruma set out, come on, to go for water,"
+      },
+      {
+       "cyr": "вода да донесе, глава да се мие.",
+       "lat": "voda da donese, glava da se mie.",
+       "en": "to bring water, to wash her head."
+      },
+      {
+       "cyr": "Ќолук да им прави на ергените,",
+       "lat": "Ḱoluk da im pravi na ergenite,",
+       "en": "To flirt with the bachelors,"
+      },
+      {
+       "cyr": "на чапканите, на угурсузите,",
+       "lat": "na čapkanite, na ugursuzite,",
+       "en": "with the street-rakes, with the good-for-nothings,"
+      },
+      {
+       "cyr": "на сарошите, на којничани.",
+       "lat": "na sarošite, na kojničani.",
+       "en": "with the drunkards, with the Kojnik folk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми дочуле џанам, којнички ергени,",
+       "lat": "Koga mi dočule džanam, kojnički ergeni,",
+       "en": "When they heard, my dear, the Kojnik bachelors,"
+      },
+      {
+       "cyr": "па ја зедоа на око, на нишан,",
+       "lat": "pa ja zedoa na oko, na nišan,",
+       "en": "they took her in their sights, as a target,"
+      },
+      {
+       "cyr": "ми ја удрија на умното чело,",
+       "lat": "mi ja udrija na umnoto čelo,",
+       "en": "and struck her on her clever forehead,"
+      },
+      {
+       "cyr": "а ситниот барут, клетото срце.",
+       "lat": "a sitniot barut, kletoto srce.",
+       "en": "and the fine gunpowder, the poor heart."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај што ми паднала Рума, крв подлеала,",
+       "lat": "Kaj što mi padnala Ruma, krv podleala,",
+       "en": "Where Ruma fell, blood flowed,"
+      },
+      {
+       "cyr": "кај што стоеше, сонце грееше,",
+       "lat": "kaj što stoeše, sonce greeše,",
+       "en": "where she stood, the sun shone,"
+      },
+      {
+       "cyr": "кога одеше, ветер вееше,",
+       "lat": "koga odeše, veter veeše,",
+       "en": "when she walked, the wind blew,"
+      },
+      {
+       "cyr": "кога збореше, бисер велеше.",
+       "lat": "koga zboreše, biser veleše.",
+       "en": "when she spoke, she spoke pearls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми дочула џанам, нејзината мајка,",
+       "lat": "Koga mi dočula džanam, nejzinata majka,",
+       "en": "When she heard, my dear, her mother,"
+      },
+      {
+       "cyr": "трчум, трчум, трчум, плачум, плачум, плачум,",
+       "lat": "trčum, trčum, trčum, plačum, plačum, plačum,",
+       "en": "running, running, running, weeping, weeping, weeping,"
+      },
+      {
+       "cyr": "косите си куби, прстите си крши:",
+       "lat": "kosite si kubi, prstite si krši:",
+       "en": "she tears her hair, breaks her fingers:"
+      },
+      {
+       "cyr": "- Оф леле, леле, Рума, Румена,",
+       "lat": "- Of lele, lele, Ruma, Rumena,",
+       "en": "- Oh woe, woe, Ruma, Rumena,"
+      },
+      {
+       "cyr": "една на мајка, една на татко!",
+       "lat": "edna na majka, edna na tatko!",
+       "en": "the only one to her mother, the only one to her father!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели тебе Румо мори, мајка те учеше",
+       "lat": "Neli tebe Rumo mori, majka te učeše",
+       "en": "Didn't your mother teach you, Ruma, hey,"
+      },
+      {
+       "cyr": "ќолук да не правиш на ергените,",
+       "lat": "ḱoluk da ne praviš na ergenite,",
+       "en": "not to flirt with the bachelors,"
+      },
+      {
+       "cyr": "на чапканите, на угурсузите,",
+       "lat": "na čapkanite, na ugursuzite,",
+       "en": "with the street-rakes, with the good-for-nothings,"
+      },
+      {
+       "cyr": "на сарошите, на којничани?",
+       "lat": "na sarošite, na kojničani?",
+       "en": "with the drunkards, with the Kojnik folk?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ми дочуле џанам, нејзини другачки,",
+       "lat": "Koga mi dočule džanam, nejzini drugački,",
+       "en": "When they heard, my dear, her girlfriends,"
+      },
+      {
+       "cyr": "трчум, трчум, трчум, плачум, плачум, плачум,",
+       "lat": "trčum, trčum, trčum, plačum, plačum, plačum,",
+       "en": "running, running, running, weeping, weeping, weeping,"
+      },
+      {
+       "cyr": "косите си кубат, прстите си кршат:",
+       "lat": "kosite si kubat, prstite si kršat:",
+       "en": "they tear their hair, break their fingers:"
+      },
+      {
+       "cyr": "- Оф леле, леле, Рума, Румена,",
+       "lat": "- Of lele, lele, Ruma, Rumena,",
+       "en": "- Oh woe, woe, Ruma, Rumena,"
+      },
+      {
+       "cyr": "Рума, Румена, наша другачка.",
+       "lat": "Ruma, Rumena, naša drugačka.",
+       "en": "Ruma, Rumena, our girlfriend."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели тебе Румо мори, сите те учевме",
+       "lat": "Neli tebe Rumo mori, site te učevme",
+       "en": "Didn't we all teach you, Ruma, hey,"
+      },
+      {
+       "cyr": "ќолук да не правиш на ергените,",
+       "lat": "ḱoluk da ne praviš na ergenite,",
+       "en": "not to flirt with the bachelors,"
+      },
+      {
+       "cyr": "на чапканите, на угурсузите,",
+       "lat": "na čapkanite, na ugursuzite,",
+       "en": "with the street-rakes, with the good-for-nothings,"
+      },
+      {
+       "cyr": "на сарошите, на којничани?",
+       "lat": "na sarošite, na kojničani?",
+       "en": "with the drunkards, with the Kojnik folk?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

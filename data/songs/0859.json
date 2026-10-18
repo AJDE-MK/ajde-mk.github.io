@@ -1,0 +1,172 @@
+{
+ "id": 859,
+ "slug": "shto-si-naluteno-libe",
+ "title_cyr": "Што си налутено либе",
+ "title_latin": "Što si naluteno libe",
+ "title_en": "Why are you angry, my love",
+ "pesna_url": "https://pesna.org/song/859",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, probably a love song of folk style. Last verse is a reply, speaker's identity is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "налутен",
+   "en": "angry, upset"
+  },
+  {
+   "mk": "нажален",
+   "en": "grieved, sad"
+  },
+  {
+   "mk": "потемни",
+   "en": "to darken"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "бришам",
+   "en": "to wipe"
+  },
+  {
+   "mk": "коса",
+   "en": "hair"
+  },
+  {
+   "mk": "тајно",
+   "en": "secretly"
+  },
+  {
+   "mk": "узнае",
+   "en": "to find out, notice"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Анка Гиева",
+  "Ванчо Дојранлиев",
+  "Васка Илиева",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Ристо Пулевски",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1877"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1878"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/3074"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/3673"
+  },
+  {
+   "who": "Ристо Пулевски",
+   "url": "https://pesna.org/audio-download/3674"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/3675"
+  },
+  {
+   "who": "Ванчо Дојранлиев",
+   "url": "https://pesna.org/audio-download/3676"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што си налутено либе,",
+       "lat": "Što si naluteno libe,",
+       "en": "Why are you angry, my love,"
+      },
+      {
+       "cyr": "што си нажалено?",
+       "lat": "što si nažaleno?",
+       "en": "why are you grieved?"
+      },
+      {
+       "cyr": "Што ти потемнело, либе,",
+       "lat": "Što ti potemnelo, libe,",
+       "en": "Why has your white face,"
+      },
+      {
+       "cyr": "белото ти лице?",
+       "lat": "beloto ti lice?",
+       "en": "my love, grown dark?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што ти црни очи, либе,",
+       "lat": "Što ti crni oči, libe,",
+       "en": "Why do your black eyes, my love,"
+      },
+      {
+       "cyr": "пливаат во солзи,",
+       "lat": "plivaat vo solzi,",
+       "en": "swim in tears,"
+      },
+      {
+       "cyr": "ти очи си бришеш, либе",
+       "lat": "ti oči si brišeš, libe",
+       "en": "you wipe your eyes, my love,"
+      },
+      {
+       "cyr": "с' долгата ти коса?",
+       "lat": "s' dolgata ti kosa?",
+       "en": "with your long hair?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дали знаеш, мило либе,",
+       "lat": "- Dali znaeš, milo libe,",
+       "en": "- Do you know, dear love,"
+      },
+      {
+       "cyr": "колку се години",
+       "lat": "kolku se godini",
+       "en": "how many years it is"
+      },
+      {
+       "cyr": "што те тајно љубам, либе,",
+       "lat": "što te tajno ljubam, libe,",
+       "en": "that I have loved you in secret, my love,"
+      },
+      {
+       "cyr": "без да ме узнаеш?",
+       "lat": "bez da me uznaeš?",
+       "en": "without you finding out?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

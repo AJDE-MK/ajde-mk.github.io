@@ -1,0 +1,104 @@
+{
+ "id": 805,
+ "slug": "vodarka",
+ "title_cyr": "Водарка",
+ "title_latin": "Vodarka",
+ "title_en": "Girl fetching water",
+ "pesna_url": "https://pesna.org/song/805",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1552"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Крај кладенец бистра вода,",
+       "lat": "Kraj kladenec bistra voda,",
+       "en": "At the mountain spring, clear water,"
+      },
+      {
+       "cyr": "моми се собраја.",
+       "lat": "momi se sobraja.",
+       "en": "girls gathered there."
+      },
+      {
+       "cyr": "Вода црпат со лејките",
+       "lat": "Voda crpat so lejkite",
+       "en": "They fetch water with their calabashes"
+      },
+      {
+       "cyr": "и си зборат за Тодорка.",
+       "lat": "i si zborat za Todorka.",
+       "en": "and they talk about Todorka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тодорка је избегала",
+       "lat": "- Todorka je izbegala",
+       "en": "- Todorka ran away"
+      },
+      {
+       "cyr": "многу надалеку.",
+       "lat": "mnogu nadaleku.",
+       "en": "very far away."
+      },
+      {
+       "cyr": "Оставила стара мајка",
+       "lat": "Ostavila stara majka",
+       "en": "She left her old mother"
+      },
+      {
+       "cyr": "и прво си верно либе.",
+       "lat": "i prvo si verno libe.",
+       "en": "and her first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срам да ѝ е на Тодорка",
+       "lat": "Sram da ì e na Todorka",
+       "en": "Shame on Todorka"
+      },
+      {
+       "cyr": "што е избегала.",
+       "lat": "što e izbegala.",
+       "en": "because she ran away."
+      },
+      {
+       "cyr": "Оставила машко дете,",
+       "lat": "Ostavila maško dete,",
+       "en": "She left a baby boy"
+      },
+      {
+       "cyr": "да плака десет месеци.",
+       "lat": "da plaka deset meseci.",
+       "en": "to cry for ten months."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

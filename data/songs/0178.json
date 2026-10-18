@@ -1,0 +1,247 @@
+{
+ "id": 178,
+ "slug": "omarno-zheshko-sonce",
+ "title_cyr": "Омарно жешко сонце",
+ "title_latin": "Omarno žeško sonce",
+ "title_en": "The Sultry Hot Sun",
+ "pesna_url": "https://pesna.org/song/178",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Revolutionary song about a young fighter at Smilevo; origin unclear, I cannot name an author. Verbs ending in -ит (греит, смеит) are dialect forms; 'до Бога' and 'з'ш' are unclear, my reading.",
+ "words_to_learn": [
+  {
+   "mk": "омарно",
+   "en": "sultry, stifling"
+  },
+  {
+   "mk": "жешко",
+   "en": "hot, scorching"
+  },
+  {
+   "mk": "тиран",
+   "en": "tyrant"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "крвожеден",
+   "en": "bloodthirsty"
+  },
+  {
+   "mk": "одмаздит",
+   "en": "to take revenge"
+  },
+  {
+   "mk": "куршум",
+   "en": "bullet"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "проштавај",
+   "en": "farewell"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/435"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Омарно жешко сонцето греит",
+       "lat": "Omarno žeško sonceto greit",
+       "en": "The sultry hot sun is burning"
+      },
+      {
+       "cyr": "и никој на земјата не смеит",
+       "lat": "i nikoj na zemjata ne smeit",
+       "en": "and no one on earth dares"
+      },
+      {
+       "cyr": "очи да отворит, ура, ура.",
+       "lat": "oči da otvorit, ura, ura.",
+       "en": "to open their eyes, hurrah, hurrah."
+      },
+      {
+       "cyr": "И никој на земјата не смеит",
+       "lat": "I nikoj na zemjata ne smeit",
+       "en": "And no one on earth dares"
+      },
+      {
+       "cyr": "очи да отворит, напред, напред.",
+       "lat": "oči da otvorit, napred, napred.",
+       "en": "to open their eyes, forward, forward."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја народ црнеит, таму на брегот",
+       "lat": "Ja narod crneit, tamu na bregot",
+       "en": "The people grow dark there on the shore"
+      },
+      {
+       "cyr": "и ноќта ангел јасно викаше:",
+       "lat": "i noḱta angel jasno vikaše:",
+       "en": "and at night an angel cried out clearly:"
+      },
+      {
+       "cyr": "„О Боже, до кога и до кога“?",
+       "lat": "„O Bože, do koga i do koga“?",
+       "en": "\"Oh God, until when and until when?\""
+      },
+      {
+       "cyr": "И ноќта ангел јасно викаше:",
+       "lat": "I noḱta angel jasno vikaše:",
+       "en": "And at night an angel cried out clearly:"
+      },
+      {
+       "cyr": "„О Боже, до кога и до Бога“?",
+       "lat": "„O Bože, do koga i do Boga“?",
+       "en": "\"Oh God, until when and until God?\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј таму Смилево, борба настана",
+       "lat": "Ej tamu Smilevo, borba nastana",
+       "en": "Hey, there at Smilevo a fight began"
+      },
+      {
+       "cyr": "со петстотин'годишниот тиран",
+       "lat": "so petstotin'godišniot tiran",
+       "en": "with the five-hundred-year-old tyrant,"
+      },
+      {
+       "cyr": "крв ќе се излеит, ура, ура.",
+       "lat": "krv ḱe se izleit, ura, ura.",
+       "en": "blood will be spilled, hurrah, hurrah."
+      },
+      {
+       "cyr": "Со петстотин'годишниот тиран",
+       "lat": "So petstotin'godišniot tiran",
+       "en": "With the five-hundred-year-old tyrant"
+      },
+      {
+       "cyr": "крв ќе се излеит, напред, напред.",
+       "lat": "krv ḱe se izleit, napred, napred.",
+       "en": "blood will be spilled, forward, forward."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И денес мале, младиот јунак,",
+       "lat": "I denes male, mladiot junak,",
+       "en": "And today, mother, a young hero"
+      },
+      {
+       "cyr": "се фрли на крвожедниот тиран,",
+       "lat": "se frli na krvožedniot tiran,",
+       "en": "threw himself at the bloodthirsty tyrant,"
+      },
+      {
+       "cyr": "за да се одмаздит, ура, ура.",
+       "lat": "za da se odmazdit, ura, ura.",
+       "en": "to take revenge, hurrah, hurrah."
+      },
+      {
+       "cyr": "Се фрли на крвожедниот тиран,",
+       "lat": "Se frli na krvožedniot tiran,",
+       "en": "He threw himself at the bloodthirsty tyrant,"
+      },
+      {
+       "cyr": "за да се одмаздит, напред, напред.",
+       "lat": "za da se odmazdit, napred, napred.",
+       "en": "to take revenge, forward, forward."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Но и за жалост, угасна младост",
+       "lat": "No i za žalost, ugasna mladost",
+       "en": "But alas, his youth was extinguished,"
+      },
+      {
+       "cyr": "свиреп го куршум в' срце погоди,",
+       "lat": "svirep go kuršum v' srce pogodi,",
+       "en": "a cruel bullet struck him in the heart,"
+      },
+      {
+       "cyr": "со знаме во рака, ура, ура.",
+       "lat": "so zname vo raka, ura, ura.",
+       "en": "with a flag in his hand, hurrah, hurrah."
+      },
+      {
+       "cyr": "Свиреп го куршум в' срце погоди,",
+       "lat": "Svirep go kuršum v' srce pogodi,",
+       "en": "A cruel bullet struck him in the heart,"
+      },
+      {
+       "cyr": "со знаме во рака, напред, напред.",
+       "lat": "so zname vo raka, napred, napred.",
+       "en": "with a flag in his hand, forward, forward."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум, проштавај, млади јунаку,",
+       "lat": "Zbogum, proštavaj, mladi junaku,",
+       "en": "Farewell, forgive us, young hero,"
+      },
+      {
+       "cyr": "з'ш скоро слобода ќе изгреит",
+       "lat": "z'š skoro sloboda ḱe izgreit",
+       "en": "soon freedom will rise"
+      },
+      {
+       "cyr": "над Македонија, ура, ура.",
+       "lat": "nad Makedonija, ura, ura.",
+       "en": "over Macedonia, hurrah, hurrah."
+      },
+      {
+       "cyr": "Наскоро слобода ќе изгреит",
+       "lat": "Naskoro sloboda ḱe izgreit",
+       "en": "Soon freedom will rise"
+      },
+      {
+       "cyr": "над Македонија, напред, напред.",
+       "lat": "nad Makedonija, napred, napred.",
+       "en": "over Macedonia, forward, forward."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

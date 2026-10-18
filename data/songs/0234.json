@@ -1,0 +1,156 @@
+{
+ "id": 234,
+ "slug": "kate-kate-lichno-mome",
+ "title_cyr": "Кате, Кате лично моме",
+ "title_latin": "Kate, Kate lično mome",
+ "title_en": "Kata, Kata, pretty girl",
+ "pesna_url": "https://pesna.org/song/234",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Скандисаат' (from a loan verb for shaming/scandalising) and 'јаболкници' as orchards are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "лично",
+   "en": "pretty, comely"
+  },
+  {
+   "mk": "моме",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies, ill-wishers"
+  },
+  {
+   "mk": "скандисаат",
+   "en": "they will disgrace (my reading)"
+  },
+  {
+   "mk": "пиле",
+   "en": "little bird, chick"
+  },
+  {
+   "mk": "јаболкници",
+   "en": "apple orchards (my reading)"
+  },
+  {
+   "mk": "времиња",
+   "en": "times"
+  },
+  {
+   "mk": "не се зедовме",
+   "en": "we did not marry"
+  }
+ ],
+ "performers": [
+  "Алексо Димов",
+  "Пепи Бафтировски",
+  "Пет плус"
+ ],
+ "audio": [
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/851"
+  },
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1065"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/2624"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кате, Кате лично моме,",
+       "lat": "Kate, Kate lično mome,",
+       "en": "Kata, Kata, pretty girl,"
+      },
+      {
+       "cyr": "нели ти реков да не се љубиме?",
+       "lat": "neli ti rekov da ne se ljubime?",
+       "en": "did I not tell you we should not kiss?"
+      },
+      {
+       "cyr": "Ќе разберат комшиите,",
+       "lat": "Ḱe razberat komšiite,",
+       "en": "The neighbours will find out,"
+      },
+      {
+       "cyr": "ќе те скандисаат душманите.",
+       "lat": "ḱe te skandisaat dušmanite.",
+       "en": "the enemies will shame you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кате, Кате лично моме,",
+       "lat": "Kate, Kate lično mome,",
+       "en": "Kata, Kata, pretty girl,"
+      },
+      {
+       "cyr": "ај, стори се едно пиле.",
+       "lat": "aj, stori se edno pile.",
+       "en": "hey, turn into a little bird."
+      },
+      {
+       "cyr": "Да прелеташ јаболкници,",
+       "lat": "Da preletaš jabolknici,",
+       "en": "To fly over the apple orchards,"
+      },
+      {
+       "cyr": "да преброиш јаболките.",
+       "lat": "da prebroiš jabolkite.",
+       "en": "to count the apples."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да преброиш јаболките,",
+       "lat": "Da prebroiš jabolkite,",
+       "en": "To count the apples,"
+      },
+      {
+       "cyr": "да разбереш времињата.",
+       "lat": "da razbereš vreminjata.",
+       "en": "to learn the times."
+      },
+      {
+       "cyr": "Да разбереш времињата,",
+       "lat": "Da razbereš vreminjata,",
+       "en": "To learn the times,"
+      },
+      {
+       "cyr": "колку време се љубевме,",
+       "lat": "kolku vreme se ljubevme,",
+       "en": "how long we loved each other,"
+      },
+      {
+       "cyr": "и на крајот не се зедовме!",
+       "lat": "i na krajot ne se zedovme!",
+       "en": "and in the end we did not marry!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

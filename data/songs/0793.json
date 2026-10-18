@@ -1,0 +1,109 @@
+{
+ "id": 793,
+ "slug": "od-granka-v-granka",
+ "title_cyr": "Од гранка, в' гранка",
+ "title_latin": "Od granka, v' granka",
+ "title_en": "From one branch, to another",
+ "pesna_url": "https://pesna.org/song/793",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Пирин",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1500"
+  },
+  {
+   "who": "Ансамбл Пирин",
+   "url": "https://pesna.org/audio-download/1505"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од гранка, в' гранка, јунаку рака",
+       "lat": "Od granka, v' granka, junaku raka",
+       "en": "From one branch, to another, in the hero's arms"
+      },
+      {
+       "cyr": "да не ми падне, да се утепа.",
+       "lat": "da ne mi padne, da se utepa.",
+       "en": "so that she does not fell, and hurt herself."
+      },
+      {
+       "cyr": "Еј Ѓурѓе ле, Ѓурѓе девојко,",
+       "lat": "Ej Ǵurǵe le, Ǵurǵe devojko,",
+       "en": "Hey Gjurgja, hey, Gjurgja girl,"
+      },
+      {
+       "cyr": "еј Ѓурѓе ле, Ѓурѓе девојко.",
+       "lat": "ej Ǵurǵe le, Ǵurǵe devojko.",
+       "en": "hey Gjurgja, hey, Gjurgja girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не ми падна, да се утепа,",
+       "lat": "Da ne mi padna, da se utepa,",
+       "en": "So that she does not fell and hurt herself,"
+      },
+      {
+       "cyr": "јаже јазливо, дрво црвливо.",
+       "lat": "jaže jazlivo, drvo crvlivo.",
+       "en": "the rope is old, the tree is rotten."
+      },
+      {
+       "cyr": "Еј Ѓурѓе ле, Ѓурѓе девојко,",
+       "lat": "Ej Ǵurǵe le, Ǵurǵe devojko,",
+       "en": "Hey Gjurgja, hey, Gjurgja girl,"
+      },
+      {
+       "cyr": "еј Ѓурѓе ле, Ѓурѓе девојко.",
+       "lat": "ej Ǵurǵe le, Ǵurǵe devojko.",
+       "en": "hey Gjurgja, hey, Gjurgja girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чекај ја, чекај, фидан ли Јован",
+       "lat": "Čekaj ja, čekaj, fidan li Jovan",
+       "en": "Wait for her, wait, tall Jovan,"
+      },
+      {
+       "cyr": "ју десна рака, ју лева пола.",
+       "lat": "ju desna raka, ju leva pola.",
+       "en": "in your right hand, and half in your left."
+      },
+      {
+       "cyr": "Еј Ѓурѓе ле, Ѓурѓе девојко,",
+       "lat": "Ej Ǵurǵe le, Ǵurǵe devojko,",
+       "en": "Hey Gjurgja, hey, Gjurgja girl,"
+      },
+      {
+       "cyr": "еј Ѓурѓе ле, Ѓурѓе девојко.",
+       "lat": "ej Ǵurǵe le, Ǵurǵe devojko.",
+       "en": "hey Gjurgja, hey, Gjurgja girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

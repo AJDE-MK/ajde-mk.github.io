@@ -1,0 +1,170 @@
+{
+ "id": 1343,
+ "slug": "a-jas-ostanav-tebe-da-te-chekam",
+ "title_cyr": "А јас останав тебе да те чекам",
+ "title_latin": "A jas ostanav tebe da te čekam",
+ "title_en": "And I Stayed to Wait for You",
+ "pesna_url": "https://pesna.org/song/1343",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; the modern wording suggests a recent pop song but I cannot name an author. Standard Macedonian, no dialect forms.",
+ "words_to_learn": [
+  {
+   "mk": "долги",
+   "en": "long"
+  },
+  {
+   "mk": "тешки",
+   "en": "heavy, hard"
+  },
+  {
+   "mk": "празно",
+   "en": "empty"
+  },
+  {
+   "mk": "поздрав",
+   "en": "greeting, farewell"
+  },
+  {
+   "mk": "се надевам",
+   "en": "I hope"
+  },
+  {
+   "mk": "страдам",
+   "en": "I suffer"
+  },
+  {
+   "mk": "споменот",
+   "en": "the memory"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "допрам",
+   "en": "to touch"
+  }
+ ],
+ "performers": [
+  "Опус",
+  "Чеде Спасиќ"
+ ],
+ "audio": [
+  {
+   "who": "Чеде Спасиќ",
+   "url": "https://pesna.org/audio-download/3476"
+  },
+  {
+   "who": "Опус",
+   "url": "https://pesna.org/audio-download/4181"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Долги се ноќите тешки,",
+       "lat": "Dolgi se noḱite teški,",
+       "en": "The nights are long and heavy,"
+      },
+      {
+       "cyr": "празно се сè без тебе.",
+       "lat": "prazno se sè bez tebe.",
+       "en": "everything is empty without you."
+      },
+      {
+       "cyr": "Замина сама без поздрав,",
+       "lat": "Zamina sama bez pozdrav,",
+       "en": "You left alone without a goodbye,"
+      },
+      {
+       "cyr": "но понесе дел од мене.",
+       "lat": "no ponese del od mene.",
+       "en": "but you took a part of me with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас останав тебе да те чекам,",
+       "lat": "A jas ostanav tebe da te čekam,",
+       "en": "And I stayed to wait for you,"
+      },
+      {
+       "cyr": "да се надевам и за тебе страдам.",
+       "lat": "da se nadevam i za tebe stradam.",
+       "en": "to hope and to suffer for you."
+      },
+      {
+       "cyr": "Што ми остави љубовта наша,",
+       "lat": "Što mi ostavi ljubovta naša,",
+       "en": "What our love left me"
+      },
+      {
+       "cyr": "само слика и споменот што боли.",
+       "lat": "samo slika i spomenot što boli.",
+       "en": "is only a photo and a memory that hurts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде си пак да те видам,",
+       "lat": "Kade si pak da te vidam,",
+       "en": "Where are you, so that I may see you,"
+      },
+      {
+       "cyr": "можеби болка ќе сопрам.",
+       "lat": "možebi bolka ḱe sopram.",
+       "en": "maybe I will stop the pain."
+      },
+      {
+       "cyr": "Но толку си далеку мила,",
+       "lat": "No tolku si daleku mila,",
+       "en": "But you are so far away, my dear,"
+      },
+      {
+       "cyr": "далеку за да те допрам.",
+       "lat": "daleku za da te dopram.",
+       "en": "too far for me to touch you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас останав тебе да те чекам,",
+       "lat": "A jas ostanav tebe da te čekam,",
+       "en": "And I stayed to wait for you,"
+      },
+      {
+       "cyr": "да се надевам и за тебе страдам.",
+       "lat": "da se nadevam i za tebe stradam.",
+       "en": "to hope and to suffer for you."
+      },
+      {
+       "cyr": "Што ми остави љубовта наша,",
+       "lat": "Što mi ostavi ljubovta naša,",
+       "en": "What our love left me"
+      },
+      {
+       "cyr": "само слика и споменот што боли.",
+       "lat": "samo slika i spomenot što boli.",
+       "en": "is only a photo and a memory that hurts."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

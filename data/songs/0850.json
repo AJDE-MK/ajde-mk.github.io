@@ -1,0 +1,303 @@
+{
+ "id": 850,
+ "slug": "tvojte-ochi-leno-mori",
+ "title_cyr": "Твојте очи Лено мори",
+ "title_latin": "Tvojte oči Leno mori",
+ "title_en": "Your eyes, Lena",
+ "pesna_url": "https://pesna.org/song/850",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Драги Спасовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Академци",
+  "Амира Медуњанин",
+  "Анета Љумаковска",
+  "Баклава",
+  "Бапчорки",
+  "Драги Спасовски",
+  "Елена Јовческа",
+  "Елена Христова",
+  "Кирил Митоски",
+  "Љубојна",
+  "Молика",
+  "Петар Нечовски",
+  "Т'га за југ",
+  "Chalgia Sound System",
+  "David Bilides",
+  "Gamze Matraci"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/1836"
+  },
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/1837"
+  },
+  {
+   "who": "Chalgia Sound System",
+   "url": "https://pesna.org/audio-download/1838"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/1839"
+  },
+  {
+   "who": "Елена Христова",
+   "url": "https://pesna.org/audio-download/2056"
+  },
+  {
+   "who": "Елена Јовческа",
+   "url": "https://pesna.org/audio-download/3182"
+  },
+  {
+   "who": "Амира Медуњанин",
+   "url": "https://pesna.org/audio-download/3183"
+  },
+  {
+   "who": "Анета Љумаковска, Молика",
+   "url": "https://pesna.org/audio-download/3184"
+  },
+  {
+   "who": "Академци, Кирил Митоски",
+   "url": "https://pesna.org/audio-download/3185"
+  },
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/3186"
+  },
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3245"
+  },
+  {
+   "who": "David Bilides, Драги Спасовски",
+   "url": "https://pesna.org/audio-download/3374"
+  },
+  {
+   "who": "Gamze Matraci",
+   "url": "https://pesna.org/audio-download/3763"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Твојте очи Лено мори",
+       "lat": "Tvojte oči Leno mori",
+       "en": "Your eyes, Lena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "воденски череши се,",
+       "lat": "vodenski čereši se,",
+       "en": "are like cherries from Voden.",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај ми ги на мене,",
+       "lat": "daj mi gi na mene,",
+       "en": "Give them to me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јаска да ги изедам.",
+       "lat": "jaska da gi izedam.",
+       "en": "so I can eat them up.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мерак, Лено мори,",
+       "lat": "Merak, Leno mori,",
+       "en": "Desire, Lena,",
+       "en_mt": true
+      },
+      {
+       "cyr": "мерак да ми помини,",
+       "lat": "merak da mi pomini,",
+       "en": "So that my desire goes away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "севда, севда моја,",
+       "lat": "sevda, sevda moja,",
+       "en": "my passion, my passion,",
+       "en_mt": true
+      },
+      {
+       "cyr": "севда да ми излези.",
+       "lat": "sevda da mi izlezi.",
+       "en": "So my passion for you can get out of me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојто лице, Лено мори,",
+       "lat": "Tvojto lice, Leno mori,",
+       "en": "Your face, Lena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "леринско симиче е,",
+       "lat": "lerinsko simiče e,",
+       "en": "is a sweet chickpea bun from Lerin.",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај ми го на мене,",
+       "lat": "daj mi go na mene,",
+       "en": "Give it to me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јаска да го изедам.",
+       "lat": "jaska da go izedam.",
+       "en": "so I can eat it up.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мерак, Лено мори,",
+       "lat": "Merak, Leno mori,",
+       "en": "Desire, Lena,",
+       "en_mt": true
+      },
+      {
+       "cyr": "мерак да ми помини,",
+       "lat": "merak da mi pomini,",
+       "en": "So that my desire goes away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "севда, севда моја,",
+       "lat": "sevda, sevda moja,",
+       "en": "my passion, my passion,",
+       "en_mt": true
+      },
+      {
+       "cyr": "севда да ми излези.",
+       "lat": "sevda da mi izlezi.",
+       "en": "So my passion for you can get out of me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојто усте, Лено мори,",
+       "lat": "Tvojto uste, Leno mori,",
+       "en": "Your mouth, Lena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "костурско кутивче е,",
+       "lat": "kostursko kutivče e,",
+       "en": "is a little jewelry box from Kostur.",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај ми го на мене,",
+       "lat": "daj mi go na mene,",
+       "en": "Give it to me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јаска да го отворам.",
+       "lat": "jaska da go otvoram.",
+       "en": "so I can open it up.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мерак, Лено мори,",
+       "lat": "Merak, Leno mori,",
+       "en": "Desire, Lena,",
+       "en_mt": true
+      },
+      {
+       "cyr": "мерак да ми помини,",
+       "lat": "merak da mi pomini,",
+       "en": "So that my desire goes away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "севда, севда моја,",
+       "lat": "sevda, sevda moja,",
+       "en": "my passion, my passion,",
+       "en_mt": true
+      },
+      {
+       "cyr": "севда да ми излези.",
+       "lat": "sevda da mi izlezi.",
+       "en": "So my passion for you can get out of me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојта снага, Лено мори,",
+       "lat": "Tvojta snaga, Leno mori,",
+       "en": "Your body, Lena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тенка ем висока е,",
+       "lat": "tenka em visoka e,",
+       "en": "is both slender and tall.",
+       "en_mt": false
+      },
+      {
+       "cyr": "дај ми ја на мене,",
+       "lat": "daj mi ja na mene,",
+       "en": "Give it to me,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јаска да ја прегрнам.",
+       "lat": "jaska da ja pregrnam.",
+       "en": "so I can embrace it.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мерак, Лено мори,",
+       "lat": "Merak, Leno mori,",
+       "en": "Desire, Lena,",
+       "en_mt": true
+      },
+      {
+       "cyr": "мерак да ми помини,",
+       "lat": "merak da mi pomini,",
+       "en": "So that my desire goes away,",
+       "en_mt": false
+      },
+      {
+       "cyr": "севда, севда моја,",
+       "lat": "sevda, sevda moja,",
+       "en": "my passion, my passion,",
+       "en_mt": true
+      },
+      {
+       "cyr": "севда да ми излези.",
+       "lat": "sevda da mi izlezi.",
+       "en": "So my passion for you can get out of me.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,161 @@
+{
+ "id": 42,
+ "slug": "aj-zasvirete-mladi-momchinja",
+ "title_cyr": "Ај засвирете млади момчиња",
+ "title_latin": "Aj zasvirete mladi momčinja",
+ "title_en": "Come On, Play, Young Lads",
+ "pesna_url": "https://pesna.org/song/42",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'мерак' has no exact English equivalent: a feeling of pleasure and wanting to enjoy something.",
+ "words_to_learn": [
+  {
+   "mk": "засвирете",
+   "en": "play (instrument), start playing"
+  },
+  {
+   "mk": "момчиња",
+   "en": "lads"
+  },
+  {
+   "mk": "мерак",
+   "en": "desire, relish, good cheer"
+  },
+  {
+   "mk": "мераклиска",
+   "en": "full of merak, hearty"
+  },
+  {
+   "mk": "весела",
+   "en": "cheerful"
+  },
+  {
+   "mk": "зло",
+   "en": "evil"
+  },
+  {
+   "mk": "победи",
+   "en": "will win"
+  },
+  {
+   "mk": "претвори",
+   "en": "will turn into"
+  }
+ ],
+ "performers": [
+  "Виолета Томовска",
+  "Група Сарај"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/11"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3722"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај засвирете млади момчиња,",
+       "lat": "Aj zasvirete mladi momčinja,",
+       "en": "Come on, play, young lads,"
+      },
+      {
+       "cyr": "песна весела со душа и срце,",
+       "lat": "pesna vesela so duša i srce,",
+       "en": "a cheerful song with soul and heart,"
+      },
+      {
+       "cyr": "мерак имам jас со вас да запеам,",
+       "lat": "merak imam jas so vas da zapeam,",
+       "en": "I have the desire to sing with you,"
+      },
+      {
+       "cyr": "песна убава, песна македонска.",
+       "lat": "pesna ubava, pesna makedonska.",
+       "en": "a beautiful song, a Macedonian song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мерак имам jас со вас да запеам,",
+       "lat": "Merak imam jas so vas da zapeam,",
+       "en": "I have the desire to sing with you,"
+      },
+      {
+       "cyr": "песна весела, песна мераклиска,",
+       "lat": "pesna vesela, pesna merakliska,",
+       "en": "a cheerful song, a song of good cheer,"
+      },
+      {
+       "cyr": "песна весела, песна македонска.",
+       "lat": "pesna vesela, pesna makedonska.",
+       "en": "a cheerful song, a Macedonian song."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Аj со мерак ќе ти засвириме,",
+       "lat": "Aj so merak ḱe ti zasvirime,",
+       "en": "Come on, with merak we will play for you,"
+      },
+      {
+       "cyr": "и со мерак ќе ти запееме,",
+       "lat": "i so merak ḱe ti zapeeme,",
+       "en": "and with merak we will sing for you,"
+      },
+      {
+       "cyr": "коj што пее зло не мисли,",
+       "lat": "koj što pee zlo ne misli,",
+       "en": "whoever sings thinks no evil,"
+      },
+      {
+       "cyr": "тоа го велат и старите.",
+       "lat": "toa go velat i starite.",
+       "en": "that is what the old people say too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моjата песна знаj сè ќе победи,",
+       "lat": "Mojata pesna znaj sè ḱe pobedi,",
+       "en": "Know that my song will conquer everything,"
+      },
+      {
+       "cyr": "среќа љубов тоj во песна ќе претвори.",
+       "lat": "sreḱa ljubov toj vo pesna ḱe pretvori.",
+       "en": "it will turn happiness and love into song."
+      },
+      {
+       "cyr": "Среќен живот jас со песна поминав",
+       "lat": "Sreḱen život jas so pesna pominav",
+       "en": "I spent a happy life with song,"
+      },
+      {
+       "cyr": "со песна живеам, со песна ќе умрам.",
+       "lat": "so pesna živeam, so pesna ḱe umram.",
+       "en": "I live with song, with song I will die."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

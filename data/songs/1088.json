@@ -1,0 +1,181 @@
+{
+ "id": 1088,
+ "slug": "trgna-mi-lenka",
+ "title_cyr": "Тргна ми Ленка",
+ "title_latin": "Trgna mi Lenka",
+ "title_en": "Lenka Set Off",
+ "pesna_url": "https://pesna.org/song/1088",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Криво магаре' translated as 'lame donkey' (my reading; literally 'crooked donkey'). 'Ќе ме раскости' is rendered as 'will tear me apart' (my reading, roughly 'will pull my bones apart').",
+ "words_to_learn": [
+  {
+   "mk": "воденица",
+   "en": "water mill"
+  },
+  {
+   "mk": "жито",
+   "en": "grain"
+  },
+  {
+   "mk": "мели",
+   "en": "to grind"
+  },
+  {
+   "mk": "магаре",
+   "en": "donkey"
+  },
+  {
+   "mk": "невесто",
+   "en": "bride, young wife (vocative)"
+  },
+  {
+   "mk": "вреќи",
+   "en": "sacks"
+  },
+  {
+   "mk": "поштипнал",
+   "en": "pinched"
+  },
+  {
+   "mk": "белег",
+   "en": "mark, scar"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law (husband's mother)"
+  },
+  {
+   "mk": "мераклија",
+   "en": "pleasure-lover, one who enjoys life"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Кирил Манчевски",
+  "КУД Абрашевиќ Краљево"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2558"
+  },
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2559"
+  },
+  {
+   "who": "КУД Абрашевиќ Краљево",
+   "url": "https://pesna.org/audio-download/2560"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тргна ми Ленка на воденица,",
+       "lat": "Trgna mi Lenka na vodenica,",
+       "en": "Lenka set off for the mill,"
+      },
+      {
+       "cyr": "жито да мели, бела пшеница.",
+       "lat": "žito da meli, bela pšenica.",
+       "en": "to grind grain, white wheat."
+      },
+      {
+       "cyr": "Па ми товари, мори, криво магаре,",
+       "lat": "Pa mi tovari, mori, krivo magare,",
+       "en": "And she loads, hey, a lame donkey,"
+      },
+      {
+       "cyr": "криво магаре, мори, баш магарица.",
+       "lat": "krivo magare, mori, baš magarica.",
+       "en": "a lame donkey, hey, a real she-donkey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми ја причекал чичо Јанкула,",
+       "lat": "Mi ja pričekal čičo Jankula,",
+       "en": "Uncle Yankula was waiting for her,"
+      },
+      {
+       "cyr": "чичо Јанкула, стар мераклија:",
+       "lat": "čičo Jankula, star meraklija:",
+       "en": "Uncle Yankula, an old pleasure-lover:"
+      },
+      {
+       "cyr": "- Постој невесто, мори, да ти помогнам,",
+       "lat": "- Postoj nevesto, mori, da ti pomognam,",
+       "en": "- Wait, bride, hey, let me help you,"
+      },
+      {
+       "cyr": "вреќи да кренам, мори, да растоварам.",
+       "lat": "vreḱi da krenam, mori, da rastovaram.",
+       "en": "to lift the sacks, hey, to unload them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ѝ ги кренал тешките вреќи,",
+       "lat": "Ne ì gi krenal teškite vreḱi,",
+       "en": "He did not lift the heavy sacks for her,"
+      },
+      {
+       "cyr": "тук' ми ја грабнал убава Ленка.",
+       "lat": "tuk' mi ja grabnal ubava Lenka.",
+       "en": "but grabbed beautiful Lenka."
+      },
+      {
+       "cyr": "Ем ја постегнал, мори, ем ја поштипнал,",
+       "lat": "Em ja postegnal, mori, em ja poštipnal,",
+       "en": "He squeezed her, hey, and he pinched her,"
+      },
+      {
+       "cyr": "на бело лице, мори, белег направил.",
+       "lat": "na belo lice, mori, beleg napravil.",
+       "en": "on her white face, hey, he left a mark."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Писна ми Ленка: „Ох, леле, боже,",
+       "lat": "Pisna mi Lenka: „Oh, lele, bože,",
+       "en": "Lenka squealed: 'Oh my, oh God,"
+      },
+      {
+       "cyr": "како ќе одам жива до дома“?",
+       "lat": "kako ḱe odam živa do doma“?",
+       "en": "how will I get home alive?"
+      },
+      {
+       "cyr": "Белким мажот ми, мори, ќе ми опрости,",
+       "lat": "Belkim mažot mi, mori, ḱe mi oprosti,",
+       "en": "Perhaps my husband, hey, will forgive me,"
+      },
+      {
+       "cyr": "ама свекрва, леле, ќе ме раскости!",
+       "lat": "ama svekrva, lele, ḱe me raskosti!",
+       "en": "but my mother-in-law, oh dear, will tear me apart!'"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,202 @@
+{
+ "id": 1319,
+ "slug": "ne-se-karaj-stara-le-majko",
+ "title_cyr": "Не се карај, стара ле мајко",
+ "title_latin": "Ne se karaj, stara le majko",
+ "title_en": "Don't Scold Me, Old Mother",
+ "pesna_url": "https://pesna.org/song/1319",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern tavern song; no author known to me. 'мако моја ти' is my reading as an exclamation ('woe to you, my...' or 'my dear'); the refrain may be addressed to the woman, not the mother.",
+ "words_to_learn": [
+  {
+   "mk": "не се карај",
+   "en": "do not scold"
+  },
+  {
+   "mk": "пијан",
+   "en": "drunk"
+  },
+  {
+   "mk": "заб'рава",
+   "en": "forgets (dialect: заборава)"
+  },
+  {
+   "mk": "прва љубов",
+   "en": "first love"
+  },
+  {
+   "mk": "заљуби",
+   "en": "made fall in love"
+  },
+  {
+   "mk": "остави",
+   "en": "left, abandoned"
+  },
+  {
+   "mk": "ѕвезди",
+   "en": "stars"
+  },
+  {
+   "mk": "заклучвај",
+   "en": "lock (imperative)"
+  },
+  {
+   "mk": "влезна врата",
+   "en": "front door"
+  },
+  {
+   "mk": "ќор",
+   "en": "blind (here: dead drunk)"
+  }
+ ],
+ "performers": [
+  "Перун"
+ ],
+ "audio": [
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/3338"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не се карај, стара ле мајко,",
+       "lat": "Ne se karaj, stara le majko,",
+       "en": "Do not scold me, old mother,"
+      },
+      {
+       "cyr": "кога сум пијан.",
+       "lat": "koga sum pijan.",
+       "en": "when I am drunk."
+      },
+      {
+       "cyr": "Зошто лесно не се заб'рава",
+       "lat": "Zošto lesno ne se zab'rava",
+       "en": "Because it is not easily forgotten,"
+      },
+      {
+       "cyr": "првата љубов.",
+       "lat": "prvata ljubov.",
+       "en": "first love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мако моја ти,",
+       "lat": "Ej, mako moja ti,",
+       "en": "Hey, my dear mother,"
+      },
+      {
+       "cyr": "што ме заљуби,",
+       "lat": "što me zaljubi,",
+       "en": "who made me fall in love,"
+      },
+      {
+       "cyr": "што ме остави.",
+       "lat": "što me ostavi.",
+       "en": "who left me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бев заљубил, стара ле мајко,",
+       "lat": "Bev zaljubil, stara le majko,",
+       "en": "I had fallen in love, old mother,"
+      },
+      {
+       "cyr": "две црни очи.",
+       "lat": "dve crni oči.",
+       "en": "with two black eyes."
+      },
+      {
+       "cyr": "Ама други ги однесе",
+       "lat": "Ama drugi gi odnese",
+       "en": "But another took away"
+      },
+      {
+       "cyr": "тие две ѕвезди.",
+       "lat": "tie dve dzvezdi.",
+       "en": "those two stars."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мако моја ти,",
+       "lat": "Ej, mako moja ti,",
+       "en": "Hey, my dear mother,"
+      },
+      {
+       "cyr": "што ме заљуби,",
+       "lat": "što me zaljubi,",
+       "en": "who made me fall in love,"
+      },
+      {
+       "cyr": "што ме остави.",
+       "lat": "što me ostavi.",
+       "en": "who left me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не заклучвај, стара ле мајко,",
+       "lat": "Ne zaklučvaj, stara le majko,",
+       "en": "Do not lock, old mother,"
+      },
+      {
+       "cyr": "влезната врата.",
+       "lat": "vleznata vrata.",
+       "en": "the front door."
+      },
+      {
+       "cyr": "Таа вечер ќе се вратам",
+       "lat": "Taa večer ḱe se vratam",
+       "en": "That night I will come back"
+      },
+      {
+       "cyr": "ќор ќутук пијан.",
+       "lat": "ḱor ḱutuk pijan.",
+       "en": "blind, silent, drunk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, мако моја ти,",
+       "lat": "Ej, mako moja ti,",
+       "en": "Hey, my dear mother,"
+      },
+      {
+       "cyr": "што ме заљуби,",
+       "lat": "što me zaljubi,",
+       "en": "who made me fall in love,"
+      },
+      {
+       "cyr": "што ме остави.",
+       "lat": "što me ostavi.",
+       "en": "who left me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

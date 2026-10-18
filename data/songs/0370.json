@@ -1,0 +1,189 @@
+{
+ "id": 370,
+ "slug": "zemi-nozh-probodi-me",
+ "title_cyr": "Земи нож прободи ме",
+ "title_latin": "Zemi nož probodi me",
+ "title_en": "Take a Knife and Stab Me",
+ "pesna_url": "https://pesna.org/song/370",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; reads like a modern song but I cannot name an author. 'На нозе се исушив' is my reading as 'I wasted away standing/waiting'.",
+ "words_to_learn": [
+  {
+   "mk": "се љубеа",
+   "en": "loved each other"
+  },
+  {
+   "mk": "се зедоа",
+   "en": "married (lit. took each other)"
+  },
+  {
+   "mk": "свадби",
+   "en": "weddings"
+  },
+  {
+   "mk": "нож",
+   "en": "knife"
+  },
+  {
+   "mk": "прободи",
+   "en": "stab"
+  },
+  {
+   "mk": "пиштол",
+   "en": "pistol"
+  },
+  {
+   "mk": "грев",
+   "en": "sin"
+  },
+  {
+   "mk": "се исушив",
+   "en": "I withered"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3612"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сите што се љубеа",
+       "lat": "Site što se ljubea",
+       "en": "All those who loved each other"
+      },
+      {
+       "cyr": "со љубов се зедоа,",
+       "lat": "so ljubov se zedoa,",
+       "en": "married out of love,"
+      },
+      {
+       "cyr": "свадби весели си направија.",
+       "lat": "svadbi veseli si napravija.",
+       "en": "they held merry weddings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние двајца најмлади",
+       "lat": "Nie dvajca najmladi",
+       "en": "We two, the youngest,"
+      },
+      {
+       "cyr": "најмногу се сакаме,",
+       "lat": "najmnogu se sakame,",
+       "en": "love each other the most,"
+      },
+      {
+       "cyr": "пак не си се земаме.",
+       "lat": "pak ne si se zemame.",
+       "en": "yet we still do not marry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земи нож прободи ме,",
+       "lat": "Zemi nož probodi me,",
+       "en": "Take a knife, stab me,"
+      },
+      {
+       "cyr": "земи пиштол уби ме,",
+       "lat": "zemi pištol ubi me,",
+       "en": "take a pistol, kill me,"
+      },
+      {
+       "cyr": "само мене немој,",
+       "lat": "samo mene nemoj,",
+       "en": "only do not, not me,"
+      },
+      {
+       "cyr": "не оставај ме.",
+       "lat": "ne ostavaj me.",
+       "en": "do not leave me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зарем не ми веруваш?",
+       "lat": "Zarem ne mi veruvaš?",
+       "en": "Do you not believe me?"
+      },
+      {
+       "cyr": "Грев ќе имаш на душа,",
+       "lat": "Grev ḱe imaš na duša,",
+       "en": "You will have a sin on your soul,"
+      },
+      {
+       "cyr": "на нозе се исушив.",
+       "lat": "na noze se isušiv.",
+       "en": "I have withered on my feet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние двајца најмлади",
+       "lat": "Nie dvajca najmladi",
+       "en": "We two, the youngest,"
+      },
+      {
+       "cyr": "најмногу се сакаме,",
+       "lat": "najmnogu se sakame,",
+       "en": "love each other the most,"
+      },
+      {
+       "cyr": "пак не си се земаме.",
+       "lat": "pak ne si se zemame.",
+       "en": "yet we still do not marry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Земи нож прободи ме,",
+       "lat": "Zemi nož probodi me,",
+       "en": "Take a knife, stab me,"
+      },
+      {
+       "cyr": "земи пиштол уби ме,",
+       "lat": "zemi pištol ubi me,",
+       "en": "take a pistol, kill me,"
+      },
+      {
+       "cyr": "само мене немој,",
+       "lat": "samo mene nemoj,",
+       "en": "only do not, not me,"
+      },
+      {
+       "cyr": "не оставај ме.",
+       "lat": "ne ostavaj me.",
+       "en": "do not leave me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

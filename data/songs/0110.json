@@ -1,0 +1,155 @@
+{
+ "id": 110,
+ "slug": "vo-nasheto-selo-kukja-shimshirova",
+ "title_cyr": "Во нашето село куќа шимширова",
+ "title_latin": "Vo našeto selo kuḱa šimširova",
+ "title_en": "In our village, a boxwood house",
+ "pesna_url": "https://pesna.org/song/110",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last stanza's 'татко да ти видов' and 'мојто либе тамо' are my reading; the sense is that the narrator sees his sweetheart with another man.",
+ "words_to_learn": [
+  {
+   "mk": "шимширова",
+   "en": "of boxwood"
+  },
+  {
+   "mk": "дилбер",
+   "en": "handsome, lovely (Turkish loan)"
+  },
+  {
+   "mk": "одаја",
+   "en": "room"
+  },
+  {
+   "mk": "седенка",
+   "en": "evening social gathering"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor"
+  },
+  {
+   "mk": "да се лаже",
+   "en": "to be deceived / to lie"
+  }
+ ],
+ "performers": [
+  "Martin Koenig"
+ ],
+ "audio": [
+  {
+   "who": "Martin Koenig",
+   "url": "https://pesna.org/audio-download/3459"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во нашето село куќа шимширова",
+       "lat": "Vo našeto selo kuḱa šimširova",
+       "en": "In our village, a boxwood house,"
+      },
+      {
+       "cyr": "де дилбер моме шарена одаја.",
+       "lat": "de dilber mome šarena odaja.",
+       "en": "oh handsome girl, a colorful room."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тамо се собрале сите млади момци,",
+       "lat": "Tamo se sobrale site mladi momci,",
+       "en": "There all the young lads gathered,"
+      },
+      {
+       "cyr": "де дилбер моме редум со момите.",
+       "lat": "de dilber mome redum so momite.",
+       "en": "oh handsome girl, in a row with the girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас си дома чекам либе да ми дојде,",
+       "lat": "Jas si doma čekam libe da mi dojde,",
+       "en": "I wait at home for my sweetheart to come,"
+      },
+      {
+       "cyr": "де дилбер моме либе ќе дојди.",
+       "lat": "de dilber mome libe ḱe dojdi.",
+       "en": "oh handsome girl, the sweetheart will come."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Малку го почекав и го недочекав,",
+       "lat": "Malku go počekav i go nedočekav,",
+       "en": "I waited a little and did not wait for her,"
+      },
+      {
+       "cyr": "де дилбер моме на седенка појдов.",
+       "lat": "de dilber mome na sedenka pojdov.",
+       "en": "oh handsome girl, I went to the gathering."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кратко си почукав, врата се отвори,",
+       "lat": "Kratko si počukav, vrata se otvori,",
+       "en": "I knocked briefly, the door opened,"
+      },
+      {
+       "cyr": "де дилбер моме татко да ти видов,",
+       "lat": "de dilber mome tatko da ti vidov,",
+       "en": "oh handsome girl, I saw your father,"
+      },
+      {
+       "cyr": "де дилбер моме мојто либе тамо.",
+       "lat": "de dilber mome mojto libe tamo.",
+       "en": "oh handsome girl, my sweetheart there."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Колку лесно било моме да се лаже,",
+       "lat": "Kolku lesno bilo mome da se laže,",
+       "en": "How easy it is, girl, to be deceived,"
+      },
+      {
+       "cyr": "де дилбер моме самата го видов,",
+       "lat": "de dilber mome samata go vidov,",
+       "en": "oh handsome girl, I saw it myself,"
+      },
+      {
+       "cyr": "де дилбер моме ерген да се љуби.",
+       "lat": "de dilber mome ergen da se ljubi.",
+       "en": "oh handsome girl, her kissing a bachelor."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

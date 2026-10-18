@@ -1,0 +1,250 @@
+{
+ "id": 44,
+ "slug": "neshto-kje-te-prasham-sine",
+ "title_cyr": "Нешто ќе те прашам сине",
+ "title_latin": "Nešto ḱe te prašam sine",
+ "title_en": "I will ask you something, son",
+ "pesna_url": "https://pesna.org/song/44",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad. 'бојски планини' is my reading (Bojska mountains or possibly 'war-like'/'bandit' mountains).",
+ "words_to_learn": [
+  {
+   "mk": "болен",
+   "en": "sick"
+  },
+  {
+   "mk": "лежиш",
+   "en": "you lie (in bed)"
+  },
+  {
+   "mk": "арамија",
+   "en": "bandit, outlaw"
+  },
+  {
+   "mk": "шетав",
+   "en": "I wandered"
+  },
+  {
+   "mk": "оган",
+   "en": "fire"
+  },
+  {
+   "mk": "испечат",
+   "en": "roast"
+  },
+  {
+   "mk": "колнеа",
+   "en": "were cursing"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Нешто ќе те прашам сине",
+       "lat": "Nešto ḱe te prašam sine",
+       "en": "I will ask you something, son"
+      },
+      {
+       "cyr": "право да ми кажеш.",
+       "lat": "pravo da mi kažeš.",
+       "en": "tell me straight."
+      },
+      {
+       "cyr": "Право да ми кажеш сине,",
+       "lat": "Pravo da mi kažeš sine,",
+       "en": "Tell me straight, son,"
+      },
+      {
+       "cyr": "без да ме излажеш.",
+       "lat": "bez da me izlažeš.",
+       "en": "without lying to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зошто сине болен лежиш,",
+       "lat": "Zošto sine bolen ležiš,",
+       "en": "Why do you lie sick, son,"
+      },
+      {
+       "cyr": "време три години?",
+       "lat": "vreme tri godini?",
+       "en": "for three years' time?"
+      },
+      {
+       "cyr": "Време три години,",
+       "lat": "Vreme tri godini,",
+       "en": "For three years' time,"
+      },
+      {
+       "cyr": "па и шест месеци?",
+       "lat": "pa i šest meseci?",
+       "en": "and even six months?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом ме прашаш стара мајко,",
+       "lat": "Štom me prašaš stara majko,",
+       "en": "Since you ask me, old mother,"
+      },
+      {
+       "cyr": "право ќе ти кажам.",
+       "lat": "pravo ḱe ti kažam.",
+       "en": "I will tell you straight."
+      },
+      {
+       "cyr": "Право ќе ти кажам мајко,",
+       "lat": "Pravo ḱe ti kažam majko,",
+       "en": "I will tell you straight, mother,"
+      },
+      {
+       "cyr": "без да те излажам.",
+       "lat": "bez da te izlažam.",
+       "en": "without lying to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога си бев стара мајко,",
+       "lat": "Koga si bev stara majko,",
+       "en": "When I was, old mother,"
+      },
+      {
+       "cyr": "на млади години,",
+       "lat": "na mladi godini,",
+       "en": "in my young years,"
+      },
+      {
+       "cyr": "арамија шетав мајко",
+       "lat": "aramija šetav majko",
+       "en": "I wandered as a bandit, mother,"
+      },
+      {
+       "cyr": "по бојски планини.",
+       "lat": "po bojski planini.",
+       "en": "through the Bojska mountains."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На пат сретнав стара мајко,",
+       "lat": "Na pat sretnav stara majko,",
+       "en": "On the road I met, old mother,"
+      },
+      {
+       "cyr": "момче и девојче.",
+       "lat": "momče i devojče.",
+       "en": "a lad and a girl."
+      },
+      {
+       "cyr": "В раце си држеа стара мајко,",
+       "lat": "V race si držea stara majko,",
+       "en": "In their arms they held, old mother,"
+      },
+      {
+       "cyr": "едно машко дете.",
+       "lat": "edno maško dete.",
+       "en": "a baby boy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас им реков стара мајко,",
+       "lat": "Jas im rekov stara majko,",
+       "en": "I told them, old mother,"
+      },
+      {
+       "cyr": "оган да запалат.",
+       "lat": "ogan da zapalat.",
+       "en": "to light a fire."
+      },
+      {
+       "cyr": "Оган да запалат стара мајко,",
+       "lat": "Ogan da zapalat stara majko,",
+       "en": "To light a fire, old mother,"
+      },
+      {
+       "cyr": "дете да испечат.",
+       "lat": "dete da ispečat.",
+       "en": "and roast the child."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога го печеа мајко",
+       "lat": "Koga go pečea majko",
+       "en": "While they roasted it, mother,"
+      },
+      {
+       "cyr": "мене ме гледаа.",
+       "lat": "mene me gledaa.",
+       "en": "they were looking at me."
+      },
+      {
+       "cyr": "Кога го јадеа мајко,",
+       "lat": "Koga go jadea majko,",
+       "en": "While they ate it, mother,"
+      },
+      {
+       "cyr": "мене ме колнеа.",
+       "lat": "mene me kolnea.",
+       "en": "they were cursing me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зато сум ти стара мајко",
+       "lat": "Zato sum ti stara majko",
+       "en": "That is why, old mother,"
+      },
+      {
+       "cyr": "толку болен, лежам.",
+       "lat": "tolku bolen, ležam.",
+       "en": "I lie so sick."
+      },
+      {
+       "cyr": "Време три години,",
+       "lat": "Vreme tri godini,",
+       "en": "For three years' time,"
+      },
+      {
+       "cyr": "па и шест месеци.",
+       "lat": "pa i šest meseci.",
+       "en": "and even six months."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

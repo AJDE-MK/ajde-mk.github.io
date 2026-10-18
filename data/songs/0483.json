@@ -1,0 +1,194 @@
+{
+ "id": 483,
+ "slug": "aber-mi-ide-od-mogila",
+ "title_cyr": "Абер ми иде од Могила",
+ "title_latin": "Aber mi ide od Mogila",
+ "title_en": "There's news coming from Mogila",
+ "pesna_url": "https://pesna.org/song/483",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Билјан Стојаноски",
+  "Петар Нечовски",
+  "Тоде Мицевски"
+ ],
+ "audio": [
+  {
+   "who": "Петар Нечовски",
+   "url": "https://pesna.org/audio-download/844"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/845"
+  },
+  {
+   "who": "Тоде Мицевски",
+   "url": "https://pesna.org/audio-download/846"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Абер ми иди од Могила,",
+       "lat": "Aber mi idi od Mogila,",
+       "en": "There's news coming from Mogila,",
+       "en_mt": false
+      },
+      {
+       "cyr": "низ поле Пелагониско,",
+       "lat": "niz pole Pelagonisko,",
+       "en": "through the Pelagonian plain,",
+       "en_mt": false
+      },
+      {
+       "cyr": "право ми оди Битола,",
+       "lat": "pravo mi odi Bitola,",
+       "en": "it's going straight for Bitola,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Битола кај валијата.",
+       "lat": "Bitola kaj valijata.",
+       "en": "Bitola, straight for the vali.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Валијо бре Селим-ефенди,",
+       "lat": "- Valijo bre Selim-efendi,",
+       "en": "- Oh vali, Selim-Efendi,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Могила е полна комити,",
+       "lat": "Mogila e polna komiti,",
+       "en": "Mogila is full of komiti,",
+       "en_mt": false
+      },
+      {
+       "cyr": "таму е Димче Могилче.",
+       "lat": "tamu e Dimče Mogilče.",
+       "en": "Dimche Mogilche is there.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Налутил се Селим-ефенди,",
+       "lat": "Nalutil se Selim-efendi,",
+       "en": "Selim-Efendi became angered,",
+       "en_mt": false
+      },
+      {
+       "cyr": "боднал си коња дорија,",
+       "lat": "bodnal si konja dorija,",
+       "en": "he harnessed his dark red horses,",
+       "en_mt": false
+      },
+      {
+       "cyr": "утре ќе оди Могила.",
+       "lat": "utre ḱe odi Mogila.",
+       "en": "he will go to Mogila tomorrow.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Собрал си аскер најсилен,",
+       "lat": "Sobral si asker najsilen,",
+       "en": "He gathered his strongest asker,",
+       "en_mt": false
+      },
+      {
+       "cyr": "низ прстен јајце да боде.",
+       "lat": "niz prsten jajce da bode.",
+       "en": "to aim an egg through a ring.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај од тука, Димче Могилче",
+       "lat": "- Aj od tuka, Dimče Mogilče",
+       "en": "- Come on, get out, Dimche Mogilche,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај од тука куче каурско,",
+       "lat": "aj od tuka kuče kaursko,",
+       "en": "get out of here, you infidel dog,",
+       "en_mt": true
+      },
+      {
+       "cyr": "жената ќе ти ја украдам,",
+       "lat": "ženata ḱe ti ja ukradam,",
+       "en": "I will steal your wife,",
+       "en_mt": false
+      },
+      {
+       "cyr": "далеку ќе ја однесам,",
+       "lat": "daleku ḱe ja odnesam,",
+       "en": "I will take her far away.",
+       "en_mt": false
+      },
+      {
+       "cyr": "во сарај ќе ја потурчам.",
+       "lat": "vo saraj ḱe ja poturčam.",
+       "en": "in the saray I will make her Turkish.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај од тука Селим-ефенди,",
+       "lat": "- Aj od tuka Selim-efendi,",
+       "en": "- Get out of here, Selim-Efendi,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај од тука куче касапско,",
+       "lat": "aj od tuka kuče kasapsko,",
+       "en": "get out of here, you buthcer's dog,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кожата ќе ти ја одерам,",
+       "lat": "kožata ḱe ti ja oderam,",
+       "en": "I will skin you",
+       "en_mt": false
+      },
+      {
+       "cyr": "на плевна ќе ја обесам,",
+       "lat": "na plevna ḱe ja obesam,",
+       "en": "and hang your skin from a barn.",
+       "en_mt": false
+      },
+      {
+       "cyr": "тапан ќе ја направам.",
+       "lat": "tapan ḱe ja napravam.",
+       "en": "I will make a drum of it.",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

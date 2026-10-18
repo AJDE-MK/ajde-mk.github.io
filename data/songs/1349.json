@@ -1,0 +1,202 @@
+{
+ "id": 1349,
+ "slug": "neven-kitka",
+ "title_cyr": "Невен китка",
+ "title_latin": "Neven kitka",
+ "title_en": "Marigold Bouquet",
+ "pesna_url": "https://pesna.org/song/1349",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Елеци им ју терзии' is my reading (the tailors have made them vests, with 'ју' as a dialect particle I am unsure of); 'ич не можат' I read as 'cannot at all'.",
+ "words_to_learn": [
+  {
+   "mk": "невен",
+   "en": "marigold"
+  },
+  {
+   "mk": "китка",
+   "en": "bouquet, posy"
+  },
+  {
+   "mk": "Цариград",
+   "en": "Constantinople, Istanbul"
+  },
+  {
+   "mk": "наберена",
+   "en": "picked, gathered"
+  },
+  {
+   "mk": "префрлена",
+   "en": "thrown across"
+  },
+  {
+   "mk": "наречена",
+   "en": "intended, destined for"
+  },
+  {
+   "mk": "леле",
+   "en": "oh my (interjection)"
+  },
+  {
+   "mk": "елеци",
+   "en": "vests, waistcoats"
+  },
+  {
+   "mk": "терзија",
+   "en": "tailor"
+  },
+  {
+   "mk": "непробани",
+   "en": "untried, not tried on"
+  },
+  {
+   "mk": "неносени",
+   "en": "unworn"
+  }
+ ],
+ "performers": [
+  "Монистра",
+  "Осоговски извор"
+ ],
+ "audio": [
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/3523"
+  },
+  {
+   "who": "Осоговски извор",
+   "url": "https://pesna.org/audio-download/3524"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Невен китка невенова леле,",
+       "lat": "Neven kitka nevenova lele,",
+       "en": "A marigold bouquet, oh my,"
+      },
+      {
+       "cyr": "невен китка невенова,",
+       "lat": "neven kitka nevenova,",
+       "en": "a marigold bouquet,"
+      },
+      {
+       "cyr": "в' Цариграда наберена леле,",
+       "lat": "v' Carigrada naberena lele,",
+       "en": "picked in Constantinople, oh my,"
+      },
+      {
+       "cyr": "в' Цариграда наберена.",
+       "lat": "v' Carigrada naberena.",
+       "en": "picked in Constantinople."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Преко море префрлена леле,",
+       "lat": "Preko more prefrlena lele,",
+       "en": "Thrown across the sea, oh my,"
+      },
+      {
+       "cyr": "преко море префрлена,",
+       "lat": "preko more prefrlena,",
+       "en": "thrown across the sea,"
+      },
+      {
+       "cyr": "на момите наречена леле,",
+       "lat": "na momite narečena lele,",
+       "en": "intended for the girls, oh my,"
+      },
+      {
+       "cyr": "на момите наречена.",
+       "lat": "na momite narečena.",
+       "en": "intended for the girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А момите болни лежат леле,",
+       "lat": "A momite bolni ležat lele,",
+       "en": "And the girls lie sick, oh my,"
+      },
+      {
+       "cyr": "а момите болни лежат,",
+       "lat": "a momite bolni ležat,",
+       "en": "and the girls lie sick,"
+      },
+      {
+       "cyr": "болни лежат, ич не можат леле,",
+       "lat": "bolni ležat, ič ne možat lele,",
+       "en": "lie sick, cannot at all, oh my,"
+      },
+      {
+       "cyr": "болни лежат, ич не можат.",
+       "lat": "bolni ležat, ič ne možat.",
+       "en": "lie sick, cannot at all."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Елеци им ју терзии леле,",
+       "lat": "Eleci im ju terzii lele,",
+       "en": "Their vests the tailors, oh my,"
+      },
+      {
+       "cyr": "елеци им ју терзии,",
+       "lat": "eleci im ju terzii,",
+       "en": "their vests the tailors,"
+      },
+      {
+       "cyr": "сошиени, непробани леле,",
+       "lat": "sošieni, neprobani lele,",
+       "en": "sewn, untried, oh my,"
+      },
+      {
+       "cyr": "сошиени, непробани.",
+       "lat": "sošieni, neprobani.",
+       "en": "sewn, untried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Непробани, неплатени леле,",
+       "lat": "Neprobani, neplateni lele,",
+       "en": "Untried, unpaid, oh my,"
+      },
+      {
+       "cyr": "непробани, неплатени,",
+       "lat": "neprobani, neplateni,",
+       "en": "untried, unpaid,"
+      },
+      {
+       "cyr": "неплатени, неносени леле,",
+       "lat": "neplateni, nenoseni lele,",
+       "en": "unpaid, unworn, oh my,"
+      },
+      {
+       "cyr": "неплатени, неносени.",
+       "lat": "neplateni, nenoseni.",
+       "en": "unpaid, unworn."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

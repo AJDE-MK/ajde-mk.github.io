@@ -1,0 +1,194 @@
+{
+ "id": 272,
+ "slug": "tri-neveste-tikve-brale",
+ "title_cyr": "Три невесте тикве брале",
+ "title_latin": "Tri neveste tikve brale",
+ "title_en": "Three brides picked pumpkins",
+ "pesna_url": "https://pesna.org/song/272",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Aleksey Dvorecki)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Панче Пешев",
+  "Ансамбл Перун",
+  "Ансамбл Стевче Стојановски",
+  "Кумановско трио",
+  "Jar"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Стевче Стојановски",
+   "url": "https://pesna.org/audio-download/42"
+  },
+  {
+   "who": "Ансамбл Перун",
+   "url": "https://pesna.org/audio-download/43"
+  },
+  {
+   "who": "Кумановско трио",
+   "url": "https://pesna.org/audio-download/2240"
+  },
+  {
+   "who": "Jar",
+   "url": "https://pesna.org/audio-download/2850"
+  },
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/3847"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Две невести тикви брале)",
+       "lat": "(Dve nevesti tikvi brale)",
+       "en": "(Two brides picked pumpkins)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три невесте тикве брале бре",
+       "lat": "Tri neveste tikve brale bre",
+       "en": "Three brides picked pumpkins, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "три невесте тикве брале, бре, бре, бре",
+       "lat": "tri neveste tikve brale, bre, bre, bre",
+       "en": "Three brides picked pumpkins, hey, hey, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "тикве брале бре.",
+       "lat": "tikve brale bre.",
+       "en": "They picked pumpkins, hey!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Куде брале там' заспале бре",
+       "lat": "Kude brale tam' zaspale bre",
+       "en": "They fell asleep on the spot, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "куде брале там' заспале бре, бре, бре",
+       "lat": "kude brale tam' zaspale bre, bre, bre",
+       "en": "They fell asleep on the spot, hey, hey, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "там' заспале бре.",
+       "lat": "tam' zaspale bre.",
+       "en": "On the spot, hey!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свекрва ги разбудила бре",
+       "lat": "Svekrva gi razbudila bre",
+       "en": "Their mother-in-law woke them up, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "ој невесте мрзеливке бре, бре, бре",
+       "lat": "oj neveste mrzelivke bre, bre, bre",
+       "en": "- Hey you, lazy brides, hey, hey, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "ај станујте бре.",
+       "lat": "aj stanujte bre.",
+       "en": "Come and stand up, hey!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Невесте се разлутиле бре",
+       "lat": "Neveste se razlutile bre",
+       "en": "The brides got angry, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "па почнале да се карат бре, бре, бре",
+       "lat": "pa počnale da se karat bre, bre, bre",
+       "en": "So they sweared, hey, hey, hey",
+       "en_mt": false
+      },
+      {
+       "cyr": "па збориле бре.",
+       "lat": "pa zborile bre.",
+       "en": "So they cursed, hey!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Една вика ој свекрво бре",
+       "lat": "Edna vika oj svekrvo bre",
+       "en": "The first shouted: Hey you, mother-in-law!",
+       "en_mt": false
+      },
+      {
+       "cyr": "една вика ој свекрво бре, бре, бре",
+       "lat": "edna vika oj svekrvo bre, bre, bre",
+       "en": "The first shouted: Hey you, mother-in-law!",
+       "en_mt": false
+      },
+      {
+       "cyr": "котрљаво бре.",
+       "lat": "kotrljavo bre.",
+       "en": "Hey you, fat mother-in-law!",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Друга вика ој ти свекре бре",
+       "lat": "Druga vika oj ti svekre bre",
+       "en": "The second shouted: Hey you, father-in-law!",
+       "en_mt": false
+      },
+      {
+       "cyr": "ој ти свекре диви вепре вре, бре, бре",
+       "lat": "oj ti svekre divi vepre vre, bre, bre",
+       "en": "Hey you, father-in-law,",
+       "en_mt": false
+      },
+      {
+       "cyr": "диви вепре бре.",
+       "lat": "divi vepre bre.",
+       "en": "wild boar!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

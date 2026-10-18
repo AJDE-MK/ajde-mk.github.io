@@ -1,0 +1,142 @@
+{
+ "id": 1605,
+ "slug": "golemi-maki-tegnevme",
+ "title_cyr": "Големи маки тегневме",
+ "title_latin": "Golemi maki tegnevme",
+ "title_en": "We suffered great hardships",
+ "pesna_url": "https://pesna.org/song/1605",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "WWII partisan-era song; origin unclear. 'калеша' is a guess (endearment, possibly 'invited one'); 'балисти' = Balli Kombetar is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "маки",
+   "en": "hardships, torments"
+  },
+  {
+   "mk": "тегневме",
+   "en": "we endured (dialect)"
+  },
+  {
+   "mk": "балисти",
+   "en": "Balli Kombetar nationalists (Albanian anti-communist fighters)"
+  },
+  {
+   "mk": "стомни",
+   "en": "jugs, pitchers"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "кирија",
+   "en": "fare, hire payment"
+  },
+  {
+   "mk": "калеша",
+   "en": "dear one (endearment, my reading)"
+  }
+ ],
+ "performers": [
+  "Ангел Џамбаз",
+  "Група Плетенка"
+ ],
+ "audio": [
+  {
+   "who": "Ангел Џамбаз, Група Плетенка",
+   "url": "https://pesna.org/audio-download/4237"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Големи маки тегневме по албанските планини,",
+       "lat": "Golemi maki tegnevme po albanskite planini,",
+       "en": "We suffered great hardships in the Albanian mountains,"
+      },
+      {
+       "cyr": "по албанските планини, од тие клети балисти.",
+       "lat": "po albanskite planini, od tie kleti balisti.",
+       "en": "in the Albanian mountains, from those cursed Balists."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Озгора иде партизан, оздола иде невеста,",
+       "lat": "Ozgora ide partizan, ozdola ide nevesta,",
+       "en": "From above comes a partisan, from below comes a bride,"
+      },
+      {
+       "cyr": "оздола иде невеста, со двете стомни шарени.",
+       "lat": "ozdola ide nevesta, so dvete stomni šareni.",
+       "en": "from below comes a bride, with two colorful jugs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто лична, калеша, дај вода да се напијам,",
+       "lat": "- Nevesto lična, kaleša, daj voda da se napijam,",
+       "en": "- Lovely bride, dear one, give me water to drink,"
+      },
+      {
+       "cyr": "дај вода да се напијам од тие стомни шарени,",
+       "lat": "daj voda da se napijam od tie stomni šareni,",
+       "en": "give me water to drink from those colorful jugs,"
+      },
+      {
+       "cyr": "дај вода да се напијам, нешто ново да ти кажам.",
+       "lat": "daj voda da se napijam, nešto novo da ti kažam.",
+       "en": "give me water to drink, I have some news to tell you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нешто ново да ти кажам, за твоето прво либе,",
+       "lat": "Nešto novo da ti kažam, za tvoeto prvo libe,",
+       "en": "I have some news to tell you, about your first sweetheart,"
+      },
+      {
+       "cyr": "либето ти го убија на албанската планина,",
+       "lat": "libeto ti go ubija na albanskata planina,",
+       "en": "they killed your sweetheart in the Albanian mountains,"
+      },
+      {
+       "cyr": "на албанската планина, на албанската граница.",
+       "lat": "na albanskata planina, na albanskata granica.",
+       "en": "in the Albanian mountains, on the Albanian border."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф леле, леле, партизан колку кирија ќе сакаш,",
+       "lat": "Of lele, lele, partizan kolku kirija ḱe sakaš,",
+       "en": "Oh woe, woe, partisan, how much fare will you want,"
+      },
+      {
+       "cyr": "колку кирија ќе сакаш, до таму да ме однесиш.",
+       "lat": "kolku kirija ḱe sakaš, do tamu da me odnesiš.",
+       "en": "how much fare will you want, to carry me there."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,178 @@
+{
+ "id": 1516,
+ "slug": "sho-mi-se-zabavi-tino",
+ "title_cyr": "Шо ми се забави Тино",
+ "title_latin": "Šo mi se zabavi Tino",
+ "title_en": "What Kept Tino So Long",
+ "pesna_url": "https://pesna.org/song/1516",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Фати за р'ка' is rendered 'took by the hand'; 'Македонче' as 'young Macedonian' (diminutive). 'Тино' is a girl's name in dialect (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "се забави",
+   "en": "was delayed, took long"
+  },
+  {
+   "mk": "пошчо",
+   "en": "why (dialect)"
+  },
+  {
+   "mk": "опитваш",
+   "en": "you question, ask"
+  },
+  {
+   "mk": "табур",
+   "en": "battalion (Turkish loan)"
+  },
+  {
+   "mk": "аскер",
+   "en": "army, soldiers (Turkish loan)"
+  },
+  {
+   "mk": "тргаше",
+   "en": "was setting out, riding off"
+  },
+  {
+   "mk": "фрли",
+   "en": "threw himself, leapt"
+  },
+  {
+   "mk": "меџидија",
+   "en": "Ottoman silver coin"
+  }
+ ],
+ "performers": [
+  "Лета Барџиева",
+  "Пеце Атанасовски"
+ ],
+ "audio": [
+  {
+   "who": "Лета Барџиева, Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/3966"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Шо ми се забави Тино",
+       "lat": "- Šo mi se zabavi Tino",
+       "en": "- What kept my Tino so long"
+      },
+      {
+       "cyr": "на Дунав, за вода?",
+       "lat": "na Dunav, za voda?",
+       "en": "at the Danube, fetching water?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пошчо ме опитваш, мајко,",
+       "lat": "- Poščo me opitvaš, majko,",
+       "en": "- Why do you question me, mother,"
+      },
+      {
+       "cyr": "право ќе ти кажам.",
+       "lat": "pravo ḱe ti kažam.",
+       "en": "I will tell you straight."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Право ќе ти кажам, мајко,",
+       "lat": "Pravo ḱe ti kažam, majko,",
+       "en": "I will tell you straight, mother,"
+      },
+      {
+       "cyr": "без да те излажам.",
+       "lat": "bez da te izlažam.",
+       "en": "without lying to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму поминаје мајко",
+       "lat": "Tamu pominaje majko",
+       "en": "There passed, mother,"
+      },
+      {
+       "cyr": "три табури аскер.",
+       "lat": "tri taburi asker.",
+       "en": "three battalions of soldiers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Напред ми тргаше, мајко,",
+       "lat": "Napred mi trgaše, majko,",
+       "en": "In front rode, mother,"
+      },
+      {
+       "cyr": "једно Македонче.",
+       "lat": "jedno Makedonče.",
+       "en": "one young Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ка ме виде мене мајко",
+       "lat": "Ka me vide mene majko",
+       "en": "When he saw me, mother,"
+      },
+      {
+       "cyr": "од коњо се фрли.",
+       "lat": "od konjo se frli.",
+       "en": "he leapt from his horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За р'ка ме фати мајко",
+       "lat": "Za r'ka me fati majko",
+       "en": "He took me by the hand, mother,"
+      },
+      {
+       "cyr": "леле шо ми даде.",
+       "lat": "lele šo mi dade.",
+       "en": "oh, what he gave me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле шо ми даде мајко",
+       "lat": "Lele šo mi dade majko",
+       "en": "Oh, what he gave me, mother,"
+      },
+      {
+       "cyr": "три бели меџиди.",
+       "lat": "tri beli medžidi.",
+       "en": "three white silver coins."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,163 @@
+{
+ "id": 1289,
+ "slug": "son-sonuvav-libe-le",
+ "title_cyr": "Сон сонував либе ле",
+ "title_latin": "Son sonuvav libe le",
+ "title_en": "I Dreamed a Dream, My Love",
+ "pesna_url": "https://pesna.org/song/1289",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Ми заврна' is rendered 'poured on me' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "сон",
+   "en": "dream"
+  },
+  {
+   "mk": "сонував",
+   "en": "I dreamed"
+  },
+  {
+   "mk": "галаб",
+   "en": "dove, pigeon"
+  },
+  {
+   "mk": "ливада",
+   "en": "meadow"
+  },
+  {
+   "mk": "цутат",
+   "en": "they bloom (dialect)"
+  },
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "ситен дождец",
+   "en": "fine drizzle"
+  },
+  {
+   "mk": "порој",
+   "en": "torrent"
+  },
+  {
+   "mk": "Вардар",
+   "en": "the Vardar river"
+  }
+ ],
+ "performers": [
+  "Костадинка Палазова"
+ ],
+ "audio": [
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/3254"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сон сонував, либе ле, сон сонував,",
+       "lat": "Son sonuvav, libe le, son sonuvav,",
+       "en": "I dreamed a dream, my love, I dreamed a dream,"
+      },
+      {
+       "cyr": "сон за мене, либе ле, сон за тебе.",
+       "lat": "son za mene, libe le, son za tebe.",
+       "en": "a dream about me, my love, a dream about you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сме станале, либе ле, два галаба,",
+       "lat": "Sme stanale, libe le, dva galaba,",
+       "en": "We turned into, my love, two doves,"
+      },
+      {
+       "cyr": "одлетавме, либе ле, на високо,",
+       "lat": "odletavme, libe le, na visoko,",
+       "en": "we flew away, my love, up high,"
+      },
+      {
+       "cyr": "на високо, либе ле, на широко.",
+       "lat": "na visoko, libe le, na široko.",
+       "en": "up high, my love, far and wide."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Си летавме, либе ле, низ ливада,",
+       "lat": "Si letavme, libe le, niz livada,",
+       "en": "We flew, my love, over a meadow,"
+      },
+      {
+       "cyr": "кај што цутат, либе ле, цвеќињата,",
+       "lat": "kaj što cutat, libe le, cveḱinjata,",
+       "en": "where, my love, the flowers bloom,"
+      },
+      {
+       "cyr": "каде играат, либе ле, дечињата.",
+       "lat": "kade igraat, libe le, dečinjata.",
+       "en": "where, my love, the children play."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се зададе, либе ле, темен облак,",
+       "lat": "Se zadade, libe le, temen oblak,",
+       "en": "A dark cloud came up, my love,"
+      },
+      {
+       "cyr": "ми заврна, либе ле, ситен дождец.",
+       "lat": "mi zavrna, libe le, siten doždec.",
+       "en": "fine rain poured on me, my love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми дотече, либе ле, силен порој,",
+       "lat": "Mi doteče, libe le, silen poroj,",
+       "en": "A strong torrent came to me, my love,"
+      },
+      {
+       "cyr": "ми дотече, либе ле, матен Вардар,",
+       "lat": "mi doteče, libe le, maten Vardar,",
+       "en": "muddy Vardar came to me, my love,"
+      },
+      {
+       "cyr": "ние двајцата, либе ле, си летнавме,",
+       "lat": "nie dvajcata, libe le, si letnavme,",
+       "en": "we two, my love, flew away,"
+      },
+      {
+       "cyr": "си летнавме либе ле, избегавме.",
+       "lat": "si letnavme libe le, izbegavme.",
+       "en": "we flew away, my love, we escaped."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

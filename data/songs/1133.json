@@ -1,0 +1,162 @@
+{
+ "id": 1133,
+ "slug": "otvori-mi-kuzum-leno",
+ "title_cyr": "Отвори ми кузум Лено",
+ "title_latin": "Otvori mi kuzum Leno",
+ "title_en": "Open to me, my darling Lena",
+ "pesna_url": "https://pesna.org/song/1133",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect first-person forms in -у (можу, стану, отвору). Line 'Налегна ми русе косе' is my reading (her hair has fallen over her, as she lies beside her mother).",
+ "words_to_learn": [
+  {
+   "mk": "кузум",
+   "en": "my darling (from Turkish kuzum, 'my lamb')"
+  },
+  {
+   "mk": "врата",
+   "en": "door"
+  },
+  {
+   "mk": "порта",
+   "en": "gate"
+  },
+  {
+   "mk": "улезу",
+   "en": "I may enter (dialect form)"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "foolish young one (affectionate address)"
+  },
+  {
+   "mk": "русе коси",
+   "en": "fair / reddish-blond hair"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave young man"
+  },
+  {
+   "mk": "стану",
+   "en": "I get up (dialect form)"
+  }
+ ],
+ "performers": [
+  "Гаве Миладинов",
+  "Јовица Димитровски"
+ ],
+ "audio": [
+  {
+   "who": "Гаве Миладинов, Јовица Димитровски",
+   "url": "https://pesna.org/audio-download/2731"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Отвори ми кузум Лено",
+       "lat": "- Otvori mi kuzum Leno",
+       "en": "- Open to me, my darling Lena,"
+      },
+      {
+       "cyr": "вратата, портете,",
+       "lat": "vratata, portete,",
+       "en": "the door, the gates,"
+      },
+      {
+       "cyr": "да улезу, кузум Лено,",
+       "lat": "da ulezu, kuzum Leno,",
+       "en": "so that I may come in, my darling Lena,"
+      },
+      {
+       "cyr": "при тебе, кај тебе.",
+       "lat": "pri tebe, kaj tebe.",
+       "en": "to you, by your side."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја не можу, лудо младо,",
+       "lat": "- Ja ne možu, ludo mlado,",
+       "en": "- I cannot, foolish young man,"
+      },
+      {
+       "cyr": "да стану, да ти отвору,",
+       "lat": "da stanu, da ti otvoru,",
+       "en": "get up to open for you,"
+      },
+      {
+       "cyr": "при мене е стара мајка",
+       "lat": "pri mene e stara majka",
+       "en": "beside me my old mother"
+      },
+      {
+       "cyr": "легнала, заспала.",
+       "lat": "legnala, zaspala.",
+       "en": "has lain down, fallen asleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Налегна ми русе косе,",
+       "lat": "Nalegna mi ruse kose,",
+       "en": "My fair hair has fallen over me,"
+      },
+      {
+       "cyr": "ој јунак, ој јунак,",
+       "lat": "oj junak, oj junak,",
+       "en": "oh hero, oh hero,"
+      },
+      {
+       "cyr": "па не можу, лудо младо,",
+       "lat": "pa ne možu, ludo mlado,",
+       "en": "so I cannot, foolish young man,"
+      },
+      {
+       "cyr": "да стану, да ти отвору.",
+       "lat": "da stanu, da ti otvoru.",
+       "en": "get up to open for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Отвори ми, кузум Лено,",
+       "lat": "- Otvori mi, kuzum Leno,",
+       "en": "- Open to me, my darling Lena,"
+      },
+      {
+       "cyr": "вратата, портете,",
+       "lat": "vratata, portete,",
+       "en": "the door, the gates,"
+      },
+      {
+       "cyr": "да улезу, кузум Лено,",
+       "lat": "da ulezu, kuzum Leno,",
+       "en": "so that I may come in, my darling Lena,"
+      },
+      {
+       "cyr": "при тебе, крај тебе.",
+       "lat": "pri tebe, kraj tebe.",
+       "en": "to you, beside you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

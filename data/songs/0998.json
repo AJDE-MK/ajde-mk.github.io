@@ -1,0 +1,245 @@
+{
+ "id": 998,
+ "slug": "pesna-za-seloto-buf",
+ "title_cyr": "Песна за селото Буф",
+ "title_latin": "Pesna za seloto Buf",
+ "title_en": "Song about the village of Buf",
+ "pesna_url": "https://pesna.org/song/998",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Commemorates the village of Buf (Aegean Macedonia); origin unclear, no named author. 'прекрстија', 'истепаја' and 'игроорки' (read as 'dancers') are my reading; 'клетва' may mean a vow or a curse.",
+ "words_to_learn": [
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "шпиони",
+   "en": "spies"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "удовица",
+   "en": "widow"
+  },
+  {
+   "mk": "сираци",
+   "en": "orphans"
+  },
+  {
+   "mk": "чупа",
+   "en": "girl, daughter (dialect)"
+  },
+  {
+   "mk": "клетва",
+   "en": "vow, oath (also curse)"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "освети",
+   "en": "avenge"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2318"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог ги убил душманите,",
+       "lat": "Bog gi ubil dušmanite,",
+       "en": "God has killed the enemies,"
+      },
+      {
+       "cyr": "душманите, шпионите,",
+       "lat": "dušmanite, špionite,",
+       "en": "the enemies, the spies,"
+      },
+      {
+       "cyr": "што изгореја наши села,",
+       "lat": "što izgoreja naši sela,",
+       "en": "who burned our villages,"
+      },
+      {
+       "cyr": "изгореа, прекрстија.",
+       "lat": "izgorea, prekrstija.",
+       "en": "they burned, they crossed themselves."
+      },
+      {
+       "cyr": "Истурија буфско село,",
+       "lat": "Isturija bufsko selo,",
+       "en": "They scattered the village of Buf,"
+      },
+      {
+       "cyr": "Буф ми беше прочуено,",
+       "lat": "Buf mi beše pročueno,",
+       "en": "Buf was renowned,"
+      },
+      {
+       "cyr": "со јунаци Македонци,",
+       "lat": "so junaci Makedonci,",
+       "en": "with heroes, Macedonians,"
+      },
+      {
+       "cyr": "Македонци патриоти.",
+       "lat": "Makedonci patrioti.",
+       "en": "Macedonians, patriots."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Истепаја наши деца,",
+       "lat": "Istepaja naši deca,",
+       "en": "They exterminated our children,"
+      },
+      {
+       "cyr": "наши татќа, наши мажи,",
+       "lat": "naši tatḱa, naši maži,",
+       "en": "our fathers, our men,"
+      },
+      {
+       "cyr": "меѓу нив и мојто момче,",
+       "lat": "meǵu niv i mojto momče,",
+       "en": "among them my young man,"
+      },
+      {
+       "cyr": "мојто момче Крсте Ѓашо.",
+       "lat": "mojto momče Krste Ǵašo.",
+       "en": "my young man Krste Gjasho."
+      },
+      {
+       "cyr": "Си останав удовица,",
+       "lat": "Si ostanav udovica,",
+       "en": "I was left a widow,"
+      },
+      {
+       "cyr": "удовица со сираци,",
+       "lat": "udovica so siraci,",
+       "en": "a widow with orphans,"
+      },
+      {
+       "cyr": "со три чупи и едно дете,",
+       "lat": "so tri čupi i edno dete,",
+       "en": "with three girls and one child,"
+      },
+      {
+       "cyr": "машко дете, мајкин Кољо.",
+       "lat": "maško dete, majkin Koljo.",
+       "en": "a male child, mother's Koljo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крсте клетва ми остави",
+       "lat": "Krste kletva mi ostavi",
+       "en": "Krste left me a vow"
+      },
+      {
+       "cyr": "да му гледам сирачиња,",
+       "lat": "da mu gledam siračinja,",
+       "en": "to look after the orphans,"
+      },
+      {
+       "cyr": "а највеќе машко дете,",
+       "lat": "a najveḱe maško dete,",
+       "en": "and most of all the male child,"
+      },
+      {
+       "cyr": "да порасне, да ме освети.",
+       "lat": "da porasne, da me osveti.",
+       "en": "to grow up and avenge me."
+      },
+      {
+       "cyr": "Бог ги убил душманите,",
+       "lat": "Bog gi ubil dušmanite,",
+       "en": "God has killed the enemies,"
+      },
+      {
+       "cyr": "нас не жални пропатија,",
+       "lat": "nas ne žalni propatija,",
+       "en": "they made us suffer, poor ones,"
+      },
+      {
+       "cyr": "в' чужди земји непознати,",
+       "lat": "v' čuždi zemji nepoznati,",
+       "en": "in foreign unknown lands,"
+      },
+      {
+       "cyr": "еден со друг не се знајме.",
+       "lat": "eden so drug ne se znajme.",
+       "en": "we do not know one another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Буф имаше лични моми,",
+       "lat": "Buf imaše lični momi,",
+       "en": "Buf had beautiful girls,"
+      },
+      {
+       "cyr": "лични моми Македонки,",
+       "lat": "lični momi Makedonki,",
+       "en": "beautiful girls, Macedonian women,"
+      },
+      {
+       "cyr": "Македонки песнопојки,",
+       "lat": "Makedonki pesnopojki,",
+       "en": "Macedonian women, singers,"
+      },
+      {
+       "cyr": "песнопојки игроорки.",
+       "lat": "pesnopojki igroorki.",
+       "en": "singers, dancers."
+      },
+      {
+       "cyr": "Буфски мајки изродија",
+       "lat": "Bufski majki izrodija",
+       "en": "The mothers of Buf bore"
+      },
+      {
+       "cyr": "сè јунаци Македонци,",
+       "lat": "sè junaci Makedonci,",
+       "en": "only Macedonian heroes,"
+      },
+      {
+       "cyr": "први беја во борбите,",
+       "lat": "prvi beja vo borbite,",
+       "en": "they were first in the battles,"
+      },
+      {
+       "cyr": "се бореја за слобода.",
+       "lat": "se boreja za sloboda.",
+       "en": "they fought for freedom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

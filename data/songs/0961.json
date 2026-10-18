@@ -1,0 +1,137 @@
+{
+ "id": 961,
+ "slug": "ne-pretezaj",
+ "title_cyr": "Не претезај",
+ "title_latin": "Ne pretezaj",
+ "title_en": "Don't overreach",
+ "pesna_url": "https://pesna.org/song/961",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Не претезај ... половина' is my reading and uncertain. The second half is the girl's reply, telling the boy how to raise the money to buy her. Origin unclear.",
+ "words_to_learn": [
+  {
+   "mk": "претезај",
+   "en": "overreach, be too demanding (my reading)"
+  },
+  {
+   "mk": "беќарина",
+   "en": "bachelor life"
+  },
+  {
+   "mk": "овчарина",
+   "en": "shepherd's life"
+  },
+  {
+   "mk": "трло",
+   "en": "sheepfold"
+  },
+  {
+   "mk": "стадо",
+   "en": "flock"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  },
+  {
+   "mk": "седло",
+   "en": "saddle"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  }
+ ],
+ "performers": [
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/2222"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не претезај, Јовке мори, половина,",
+       "lat": "Ne pretezaj, Jovke mori, polovina,",
+       "en": "Don't overreach, Jovka, hey, by half,"
+      },
+      {
+       "cyr": "не претезај, добро мори, половина.",
+       "lat": "ne pretezaj, dobro mori, polovina.",
+       "en": "don't overreach, my dear, hey, by half."
+      },
+      {
+       "cyr": "Спрема мене, Јовке мори, беќарина,",
+       "lat": "Sprema mene, Jovke mori, beḱarina,",
+       "en": "Next to me, Jovka, hey, is bachelor life,"
+      },
+      {
+       "cyr": "спрема мене, Јовке мори, овчарина.",
+       "lat": "sprema mene, Jovke mori, ovčarina.",
+       "en": "next to me, Jovka, hey, is shepherd life."
+      },
+      {
+       "cyr": "Немам пари, Јовке мори, да те купам,",
+       "lat": "Nemam pari, Jovke mori, da te kupam,",
+       "en": "I have no money, Jovka, hey, to buy you,"
+      },
+      {
+       "cyr": "немам пари, Јовке мори, да те купам.",
+       "lat": "nemam pari, Jovke mori, da te kupam.",
+       "en": "I have no money, Jovka, hey, to buy you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Па и тој ли, лудо море, да те учам!",
+       "lat": "- Pa i toj li, ludo more, da te učam!",
+       "en": "- And must I teach you even that, foolish one!"
+      },
+      {
+       "cyr": "Продај трло, лудо море, сосе стадо,",
+       "lat": "Prodaj trlo, ludo more, sose stado,",
+       "en": "Sell the sheepfold, foolish one, with the flock,"
+      },
+      {
+       "cyr": "продај лозје, лудо море, сосе грозје,",
+       "lat": "prodaj lozje, ludo more, sose grozje,",
+       "en": "sell the vineyard, foolish one, with the grapes,"
+      },
+      {
+       "cyr": "продај коња, лудо море, сосе седло.",
+       "lat": "prodaj konja, ludo more, sose sedlo.",
+       "en": "sell the horse, foolish one, with the saddle."
+      },
+      {
+       "cyr": "Земи пари, лудо море, купи мене,",
+       "lat": "Zemi pari, ludo more, kupi mene,",
+       "en": "Take the money, foolish one, buy me,"
+      },
+      {
+       "cyr": "води дома, лудо море, за невеста.",
+       "lat": "vodi doma, ludo more, za nevesta.",
+       "en": "take me home, foolish one, as your bride."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

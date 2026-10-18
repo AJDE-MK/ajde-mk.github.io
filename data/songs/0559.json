@@ -1,0 +1,204 @@
+{
+ "id": 559,
+ "slug": "kazhi-rajne-kazhi-dusho",
+ "title_cyr": "Кажи Рајне, кажи душо",
+ "title_latin": "Kaži Rajne, kaži dušo",
+ "title_en": "Tell Me, Rajna, Tell Me, Dear",
+ "pesna_url": "https://pesna.org/song/559",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Нишан' is rendered as 'mark'; it could also mean a token or love-bite, so the sense is my reading. 'Главатар' as 'leader' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "кажи",
+   "en": "tell (imperative)"
+  },
+  {
+   "mk": "душо",
+   "en": "dear, my soul"
+  },
+  {
+   "mk": "нишан",
+   "en": "mark, sign"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  },
+  {
+   "mk": "штом",
+   "en": "since, as soon as"
+  },
+  {
+   "mk": "право",
+   "en": "straight, truthfully"
+  },
+  {
+   "mk": "излажам",
+   "en": "I lie to, deceive"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  },
+  {
+   "mk": "уздa",
+   "en": "bridle"
+  },
+  {
+   "mk": "главатар",
+   "en": "leader, chief"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски",
+  "Зоран Ванев",
+  "Зоран Марковски",
+  "Зоран Џорлев",
+  "Круме Спасовски",
+  "Мишко Крстевски",
+  "Никола Бадев",
+  "Оливер Глигоров"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/515"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/516"
+  },
+  {
+   "who": "Мишко Крстевски",
+   "url": "https://pesna.org/audio-download/517"
+  },
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/518"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/519"
+  },
+  {
+   "who": "Оливер Глигоров",
+   "url": "https://pesna.org/audio-download/520"
+  },
+  {
+   "who": "Зоран Џорлев, Круме Спасовски",
+   "url": "https://pesna.org/audio-download/521"
+  },
+  {
+   "who": "Зоран Ванев",
+   "url": "https://pesna.org/audio-download/2393"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кажи Рајне, кажи душо",
+       "lat": "Kaži Rajne, kaži dušo",
+       "en": "Tell me, Rajna, tell me, dear,"
+      },
+      {
+       "cyr": "кој ти нишан стори",
+       "lat": "koj ti nišan stori",
+       "en": "who left you a mark,"
+      },
+      {
+       "cyr": "кој ти нишан стори Рајне",
+       "lat": "koj ti nišan stori Rajne",
+       "en": "who left you a mark, Rajna,"
+      },
+      {
+       "cyr": "на белото лице.",
+       "lat": "na beloto lice.",
+       "en": "on your white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом ме прашаш стара мајко",
+       "lat": "Štom me prašaš stara majko",
+       "en": "Since you ask me, old mother,"
+      },
+      {
+       "cyr": "право ќе ти кажам",
+       "lat": "pravo ḱe ti kažam",
+       "en": "I will tell you straight,"
+      },
+      {
+       "cyr": "право ќе ти кажам мајко",
+       "lat": "pravo ḱe ti kažam majko",
+       "en": "I will tell you straight, mother,"
+      },
+      {
+       "cyr": "без да те излажам.",
+       "lat": "bez da te izlažam.",
+       "en": "without lying to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сношти беа стара мајко",
+       "lat": "Snošti bea stara majko",
+       "en": "Last night, old mother,"
+      },
+      {
+       "cyr": "момци Македонци",
+       "lat": "momci Makedonci",
+       "en": "there were Macedonian lads,"
+      },
+      {
+       "cyr": "се' на бели коњи мајко",
+       "lat": "se' na beli konji majko",
+       "en": "all on white horses, mother,"
+      },
+      {
+       "cyr": "ем со жолти узди.",
+       "lat": "em so žolti uzdi.",
+       "en": "and with yellow bridles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Главатар им беше мајко",
+       "lat": "Glavatar im beše majko",
+       "en": "Their leader was, mother,"
+      },
+      {
+       "cyr": "мојто прво либе",
+       "lat": "mojto prvo libe",
+       "en": "my first love,"
+      },
+      {
+       "cyr": "тој ми нишан стори мајко",
+       "lat": "toj mi nišan stori majko",
+       "en": "he left me the mark, mother,"
+      },
+      {
+       "cyr": "на белото лице.",
+       "lat": "na beloto lice.",
+       "en": "on my white face."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

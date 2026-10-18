@@ -1,0 +1,162 @@
+{
+ "id": 31,
+ "slug": "more-chicho-reche-pajdushko",
+ "title_cyr": "Море чичо рече (Пајдушко)",
+ "title_latin": "More čičo reče (Pajduško)",
+ "title_en": "My uncle said",
+ "pesna_url": "https://pesna.org/song/31",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "ВИС Аманет",
+  "Влатко Стефановски",
+  "Ѓурѓа Пинџурова",
+  "Ивана Тасиќ"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/176"
+  },
+  {
+   "who": "Влатко Стефановски",
+   "url": "https://pesna.org/audio-download/177"
+  },
+  {
+   "who": "Ѓурѓа Пинџурова",
+   "url": "https://pesna.org/audio-download/2293"
+  },
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2294"
+  },
+  {
+   "who": "ВИС Аманет",
+   "url": "https://pesna.org/audio-download/3594"
+  },
+  {
+   "who": "Ивана Тасиќ",
+   "url": "https://pesna.org/audio-download/3595"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море чичо рече да ме жени,",
+       "lat": "More čičo reče da me ženi,",
+       "en": "My uncle said to find me a wife,"
+      },
+      {
+       "cyr": "море 'чера рече, сега нејќе.",
+       "lat": "more 'čera reče, sega nejḱe.",
+       "en": "he said that yesterday, but today he won't."
+      },
+      {
+       "cyr": "Море 'чера рече, сега нејќе,",
+       "lat": "More 'čera reče, sega nejḱe,",
+       "en": "He said that yesterday, today he won't,"
+      },
+      {
+       "cyr": "а па стрина Сава, ич не дава.",
+       "lat": "a pa strina Sava, ič ne dava.",
+       "en": "and my aunt Sava, she forbids it, too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море не даваше, не даваше,",
+       "lat": "More ne davaše, ne davaše,",
+       "en": "They didn't allow, didn't allow,"
+      },
+      {
+       "cyr": "море најпосле се сагласише.",
+       "lat": "more najposle se saglasiše.",
+       "en": "and finally they agreed."
+      },
+      {
+       "cyr": "Море најпосле се сагласише,",
+       "lat": "More najposle se saglasiše,",
+       "en": "Finally they agreed,"
+      },
+      {
+       "cyr": "море ми згодише бела Неда.",
+       "lat": "more mi zgodiše bela Neda.",
+       "en": "but they found the white Neda."
+      },
+      {
+       "cyr": "Море бела, бела како арапка,",
+       "lat": "More bela, bela kako arapka,",
+       "en": "She was white, white as an Arab,"
+      },
+      {
+       "cyr": "море т'нка, т'нка како мечка.",
+       "lat": "more t'nka, t'nka kako mečka.",
+       "en": "she was slim, slim as a bear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море качеше ја на колата,",
+       "lat": "More kačeše ja na kolata,",
+       "en": "They put her on the coach,"
+      },
+      {
+       "cyr": "море, а колата прикрцаја.",
+       "lat": "more, a kolata prikrcaja.",
+       "en": "and the coach cracled."
+      },
+      {
+       "cyr": "Море, а колата прикрцаја,",
+       "lat": "More, a kolata prikrcaja,",
+       "en": "The coach crackled,"
+      },
+      {
+       "cyr": "море биволите примрцаја.",
+       "lat": "more bivolite primrcaja.",
+       "en": "and the oxes swinged forward."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море кога Неда потеглише,",
+       "lat": "More koga Neda potegliše,",
+       "en": "When they pulled the coach,"
+      },
+      {
+       "cyr": "море, до две даске се скршише.",
+       "lat": "more, do dve daske se skršiše.",
+       "en": "two boards broke."
+      },
+      {
+       "cyr": "Море, до две даске се скршише,",
+       "lat": "More, do dve daske se skršiše,",
+       "en": "Two boards broke,"
+      },
+      {
+       "cyr": "море, биволите с' уплашише.",
+       "lat": "more, bivolite s' uplašiše.",
+       "en": "and the oxes got scared."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,160 @@
+{
+ "id": 922,
+ "slug": "izlegov-da-se-razshetam",
+ "title_cyr": "Излегов да се разшетам",
+ "title_latin": "Izlegov da se razšetam",
+ "title_en": "I went out for a stroll",
+ "pesna_url": "https://pesna.org/song/922",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional Bitola song; 'чикмаци' is a guess (my reading: cobbled lanes). 'ништо си мезе немаа' rendered literally as 'they had no snack'.",
+ "words_to_learn": [
+  {
+   "mk": "сокаци",
+   "en": "alleys, streets"
+  },
+  {
+   "mk": "чикмаци",
+   "en": "cobblestones (my reading)"
+  },
+  {
+   "mk": "русо",
+   "en": "blond"
+  },
+  {
+   "mk": "колнеше",
+   "en": "was cursing"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market street, bazaar"
+  },
+  {
+   "mk": "беќари",
+   "en": "idlers, bachelors, carousers"
+  },
+  {
+   "mk": "мезе",
+   "en": "snack eaten with rakija"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong rakija"
+  }
+ ],
+ "performers": [
+  "КУД Стив Наумов"
+ ],
+ "audio": [
+  {
+   "who": "КУД Стив Наумов",
+   "url": "https://pesna.org/audio-download/2064"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегов да се разшетам, леле",
+       "lat": "Izlegov da se razšetam, lele",
+       "en": "I went out for a stroll, oh,"
+      },
+      {
+       "cyr": "низ Битолските сокаци, леле",
+       "lat": "niz Bitolskite sokaci, lele",
+       "en": "through the alleys of Bitola, oh,"
+      },
+      {
+       "cyr": "низ тие тесни чикмаци.",
+       "lat": "niz tie tesni čikmaci.",
+       "en": "through those narrow cobbled lanes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' најдов моме убаво, леле",
+       "lat": "Tam' najdov mome ubavo, lele",
+       "en": "There I found a pretty girl, oh,"
+      },
+      {
+       "cyr": "руса си коса чешлаше, леле",
+       "lat": "rusa si kosa češlaše, lele",
+       "en": "combing her blond hair, oh,"
+      },
+      {
+       "cyr": "луто си мајка колнеше:",
+       "lat": "luto si majka kolneše:",
+       "en": "bitterly cursing her mother:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пукнала мајко, треснала, леле",
+       "lat": "- Puknala majko, tresnala, lele",
+       "en": "- May you burst, mother, may you crack, oh,"
+      },
+      {
+       "cyr": "зошто ме роди убава, леле.",
+       "lat": "zošto me rodi ubava, lele.",
+       "en": "why did you bear me beautiful, oh."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не можам мајко д' отидам, леле",
+       "lat": "Ne možam majko d' otidam, lele",
+       "en": "I cannot go, mother, oh,"
+      },
+      {
+       "cyr": "низ таа пуста чаршија, леле",
+       "lat": "niz taa pusta čaršija, lele",
+       "en": "through that wretched market street, oh,"
+      },
+      {
+       "cyr": "од тие пусти беќари.",
+       "lat": "od tie pusti beḱari.",
+       "en": "because of those wretched idlers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На мермер плоча седеја, леле,",
+       "lat": "Na mermer ploča sedeja, lele,",
+       "en": "On a marble slab they sat, oh,"
+      },
+      {
+       "cyr": "лута ракија пиеја,",
+       "lat": "luta rakija pieja,",
+       "en": "they drank strong rakija,"
+      },
+      {
+       "cyr": "ништо си мезе немаа, леле",
+       "lat": "ništo si meze nemaa, lele",
+       "en": "they had no snack, oh,"
+      },
+      {
+       "cyr": "мене ме мезе сакаја.",
+       "lat": "mene me meze sakaja.",
+       "en": "they want me as their snack."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,206 @@
+{
+ "id": 769,
+ "slug": "poginal-stojan-zaginal",
+ "title_cyr": "Погинал Стојан, загинал",
+ "title_latin": "Poginal Stojan, zaginal",
+ "title_en": "Stojan Has Perished, Fallen",
+ "pesna_url": "https://pesna.org/song/769",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Нарачал Стојан, порачал, како да знае мајка му' is my reading: he sent word so his mother would know, asking her to send a picture of Kalina. 'во зандани' kept as 'in a dungeon'.",
+ "words_to_learn": [
+  {
+   "mk": "загинал",
+   "en": "perished, fallen"
+  },
+  {
+   "mk": "борба",
+   "en": "battle, struggle"
+  },
+  {
+   "mk": "затворен",
+   "en": "imprisoned"
+  },
+  {
+   "mk": "зандани",
+   "en": "dungeon, prison (Turkish loan)"
+  },
+  {
+   "mk": "порача",
+   "en": "sent word"
+  },
+  {
+   "mk": "слика",
+   "en": "picture, portrait"
+  },
+  {
+   "mk": "лична",
+   "en": "beautiful, comely"
+  },
+  {
+   "mk": "пуштиме",
+   "en": "we will let go (dialect)"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Војо Стојановски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1311"
+  },
+  {
+   "who": "Војо Стојановски",
+   "url": "https://pesna.org/audio-download/1312"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Погинал Стојан, загинал,",
+       "lat": "Poginal Stojan, zaginal,",
+       "en": "Stojan has perished, fallen,"
+      },
+      {
+       "cyr": "во таа борба нерамна.",
+       "lat": "vo taa borba neramna.",
+       "en": "in that uneven battle."
+      },
+      {
+       "cyr": "Не ми е Стојан загинал",
+       "lat": "Ne mi e Stojan zaginal",
+       "en": "Stojan has not died,"
+      },
+      {
+       "cyr": "туку е Стојан затворен.",
+       "lat": "tuku e Stojan zatvoren.",
+       "en": "but Stojan is imprisoned."
+      },
+      {
+       "cyr": "Не ми е Стојан загинал,",
+       "lat": "Ne mi e Stojan zaginal,",
+       "en": "Stojan has not died,"
+      },
+      {
+       "cyr": "тук' ми е Стојан затворен.",
+       "lat": "tuk' mi e Stojan zatvoren.",
+       "en": "but Stojan is imprisoned."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци го Стојан фатиле",
+       "lat": "Turci go Stojan fatile",
+       "en": "The Turks captured Stojan,"
+      },
+      {
+       "cyr": "в' зандани го затвориле.",
+       "lat": "v' zandani go zatvorile.",
+       "en": "they locked him in a dungeon."
+      },
+      {
+       "cyr": "Нарачал Стојан, порачал,",
+       "lat": "Naračal Stojan, poračal,",
+       "en": "Stojan sent word, he ordered,"
+      },
+      {
+       "cyr": "како да знае мајка му",
+       "lat": "kako da znae majka mu",
+       "en": "that his mother should know,"
+      },
+      {
+       "cyr": "да му испрати сликата,",
+       "lat": "da mu isprati slikata,",
+       "en": "to send him a picture,"
+      },
+      {
+       "cyr": "слика од лична Калина.",
+       "lat": "slika od lična Kalina.",
+       "en": "a picture of beautiful Kalina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци на Стојан велеа:",
+       "lat": "Turci na Stojan velea:",
+       "en": "The Turks said to Stojan:"
+      },
+      {
+       "cyr": "- Дај ни ја Стојан Калина,",
+       "lat": "- Daj ni ja Stojan Kalina,",
+       "en": "- Give us Kalina, Stojan,"
+      },
+      {
+       "cyr": "дај ни ја Стојан Калина,",
+       "lat": "daj ni ja Stojan Kalina,",
+       "en": "give us Kalina, Stojan,"
+      },
+      {
+       "cyr": "ние ќе тебе Стојан пуштиме.",
+       "lat": "nie ḱe tebe Stojan puštime.",
+       "en": "and we will let you go, Stojan."
+      },
+      {
+       "cyr": "Дај ни ја Стојан Калина,",
+       "lat": "Daj ni ja Stojan Kalina,",
+       "en": "Give us Kalina, Stojan,"
+      },
+      {
+       "cyr": "ние ќе тебе пуштиме.",
+       "lat": "nie ḱe tebe puštime.",
+       "en": "we will let you go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стојан на Турци велеше:",
+       "lat": "Stojan na Turci veleše:",
+       "en": "Stojan said to the Turks:"
+      },
+      {
+       "cyr": "- Девет години сум лежал",
+       "lat": "- Devet godini sum ležal",
+       "en": "- I have lain nine years"
+      },
+      {
+       "cyr": "и уште девет ќе лежам,",
+       "lat": "i ušte devet ḱe ležam,",
+       "en": "and I will lie nine more,"
+      },
+      {
+       "cyr": "Калина не ви ја давам.",
+       "lat": "Kalina ne vi ja davam.",
+       "en": "I will not give you Kalina."
+      },
+      {
+       "cyr": "И уште девет ќе лежам,",
+       "lat": "I ušte devet ḱe ležam,",
+       "en": "And I will lie nine more,"
+      },
+      {
+       "cyr": "Калина моја ќе биде.",
+       "lat": "Kalina moja ḱe bide.",
+       "en": "Kalina will be mine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

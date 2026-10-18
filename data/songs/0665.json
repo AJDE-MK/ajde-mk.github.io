@@ -1,0 +1,185 @@
+{
+ "id": 665,
+ "slug": "dali-znaesh-milo-libe",
+ "title_cyr": "Дали знаеш мило либе",
+ "title_latin": "Dali znaeš milo libe",
+ "title_en": "Do You Know, Dear Love",
+ "pesna_url": "https://pesna.org/song/665",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (folk-style, no author I can name). The first line in brackets is an alternative first line. 'Али никна, не изникна' is my reading as 'whether it sprouted or not'.",
+ "words_to_learn": [
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "галаби",
+   "en": "doves (dialect plural)"
+  },
+  {
+   "mk": "крилца",
+   "en": "little wings"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "румени",
+   "en": "rosy, red"
+  },
+  {
+   "mk": "расцветани",
+   "en": "in full bloom"
+  },
+  {
+   "mk": "судбата",
+   "en": "fate"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  }
+ ],
+ "performers": [
+  "Елена Стевковска",
+  "Зора Василевска",
+  "Костадинка Палазова",
+  "Ружа Петкова"
+ ],
+ "audio": [
+  {
+   "who": "Зора Василевска",
+   "url": "https://pesna.org/audio-download/3033"
+  },
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/3034"
+  },
+  {
+   "who": "Елена Стевковска",
+   "url": "https://pesna.org/audio-download/3035"
+  },
+  {
+   "who": "Ружа Петкова",
+   "url": "https://pesna.org/audio-download/3036"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Дали памтиш мило либе)",
+       "lat": "(Dali pamtiš milo libe)",
+       "en": "(Do you remember, dear love)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали знаеш мило либе",
+       "lat": "Dali znaeš milo libe",
+       "en": "Do you know, dear love,"
+      },
+      {
+       "cyr": "кога двата се љубевме?",
+       "lat": "koga dvata se ljubevme?",
+       "en": "when we two loved each other?"
+      },
+      {
+       "cyr": "Како два галаби бели",
+       "lat": "Kako dva galabi beli",
+       "en": "Like two white doves"
+      },
+      {
+       "cyr": "ширно високо летавме.",
+       "lat": "širno visoko letavme.",
+       "en": "we flew wide and high."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ни скрши мило либе",
+       "lat": "Koj ni skrši milo libe",
+       "en": "Who broke, dear love,"
+      },
+      {
+       "cyr": "крилца бели, та паднавме?",
+       "lat": "krilca beli, ta padnavme?",
+       "en": "our white wings, so we fell?"
+      },
+      {
+       "cyr": "Крилцата ни се скршија",
+       "lat": "Krilcata ni se skršija",
+       "en": "Our little wings were broken,"
+      },
+      {
+       "cyr": "мене тешко ме ранија.",
+       "lat": "mene teško me ranija.",
+       "en": "and it wounded me badly."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние бевме, мило либе",
+       "lat": "Nie bevme, milo libe",
+       "en": "We were, dear love,"
+      },
+      {
+       "cyr": "трендафили два румени",
+       "lat": "trendafili dva rumeni",
+       "en": "two red roses"
+      },
+      {
+       "cyr": "в' мајско утро расцветани",
+       "lat": "v' majsko utro rascvetani",
+       "en": "bloomed on a May morning,"
+      },
+      {
+       "cyr": "еден до друг посадени.",
+       "lat": "eden do drug posadeni.",
+       "en": "planted one next to the other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Али никна, не изникна",
+       "lat": "Ali nikna, ne iznikna",
+       "en": "But whether it sprouted or not,"
+      },
+      {
+       "cyr": "судбата нас нè раздели",
+       "lat": "sudbata nas nè razdeli",
+       "en": "fate parted us,"
+      },
+      {
+       "cyr": "еден од друг на две страни",
+       "lat": "eden od drug na dve strani",
+       "en": "one from the other to two sides,"
+      },
+      {
+       "cyr": "еден од друг с' тешки рани.",
+       "lat": "eden od drug s' teški rani.",
+       "en": "one from the other with heavy wounds."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,358 @@
+{
+ "id": 1056,
+ "slug": "draganka-gjergjef-vezeshe",
+ "title_cyr": "Драганка ѓерѓеф везеше",
+ "title_latin": "Draganka ǵerǵef vezeše",
+ "title_en": "Draganka Embroidered a Frame",
+ "pesna_url": "https://pesna.org/song/1056",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, with a Mariovo version after the marker. 'Пркна' (darted) and 'кондиса' (perched) are my reading of dialect verbs; 'у таја' is dialect for 'in that'. In the Mariovo version the outcome is reversed: the nightingale wins.",
+ "words_to_learn": [
+  {
+   "mk": "ѓерѓеф",
+   "en": "embroidery frame"
+  },
+  {
+   "mk": "бавча",
+   "en": "garden"
+  },
+  {
+   "mk": "славеј",
+   "en": "nightingale"
+  },
+  {
+   "mk": "кондиса",
+   "en": "perched, alighted"
+  },
+  {
+   "mk": "облог",
+   "en": "wager, bet"
+  },
+  {
+   "mk": "натпее",
+   "en": "outsings"
+  },
+  {
+   "mk": "крилца",
+   "en": "little wings"
+  },
+  {
+   "mk": "трендафил",
+   "en": "rose"
+  },
+  {
+   "mk": "раменца",
+   "en": "shoulders (diminutive)"
+  },
+  {
+   "mk": "милно",
+   "en": "piteously, tenderly"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2413"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Драганка ѓерѓеф везеше",
+       "lat": "Draganka ǵerǵef vezeše",
+       "en": "Draganka was embroidering on a frame"
+      },
+      {
+       "cyr": "у таја бавча шарена,",
+       "lat": "u taja bavča šarena,",
+       "en": "in that colourful garden,"
+      },
+      {
+       "cyr": "на таја трева зелена,",
+       "lat": "na taja treva zelena,",
+       "en": "on that green grass,"
+      },
+      {
+       "cyr": "до таја вода студена.",
+       "lat": "do taja voda studena.",
+       "en": "by that cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ем везе Драга, ем пее,",
+       "lat": "Em veze Draga, em pee,",
+       "en": "She both embroiders and sings,"
+      },
+      {
+       "cyr": "славеј високо леташе",
+       "lat": "slavej visoko letaše",
+       "en": "a nightingale was flying high"
+      },
+      {
+       "cyr": "и си Драганка слушаше,",
+       "lat": "i si Draganka slušaše,",
+       "en": "and listening to Draganka,"
+      },
+      {
+       "cyr": "и си Драганка слушаше.",
+       "lat": "i si Draganka slušaše.",
+       "en": "and listening to Draganka."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пркна ми славеј, долета",
+       "lat": "Prkna mi slavej, doleta",
+       "en": "The nightingale darted and landed"
+      },
+      {
+       "cyr": "до Драганка си кондиса",
+       "lat": "do Draganka si kondisa",
+       "en": "and perched by Draganka,"
+      },
+      {
+       "cyr": "на Драганка ѝ продума,",
+       "lat": "na Draganka ì produma,",
+       "en": "and spoke to Draganka,"
+      },
+      {
+       "cyr": "на Драганка ѝ продума:",
+       "lat": "na Draganka ì produma:",
+       "en": "and spoke to Draganka:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Драганке, моме убаво,",
+       "lat": "- Draganke, mome ubavo,",
+       "en": "- Draganka, beautiful girl,"
+      },
+      {
+       "cyr": "ај да си облог ставиме,",
+       "lat": "aj da si oblog stavime,",
+       "en": "come, let's make a wager,"
+      },
+      {
+       "cyr": "кој кого ќе го натпее,",
+       "lat": "koj kogo ḱe go natpee,",
+       "en": "who will outsing whom,"
+      },
+      {
+       "cyr": "кој кого ќе го натпее.",
+       "lat": "koj kogo ḱe go natpee.",
+       "en": "who will outsing whom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако ме мене натпееш,",
+       "lat": "Ako me mene natpeeš,",
+       "en": "If you outsing me,"
+      },
+      {
+       "cyr": "крилцата да ми одрежеш,",
+       "lat": "krilcata da mi odrežeš,",
+       "en": "you will cut off my wings,"
+      },
+      {
+       "cyr": "крилцата до раменцата,",
+       "lat": "krilcata do ramencata,",
+       "en": "wings up to the shoulders,"
+      },
+      {
+       "cyr": "крилцата до раменцата.",
+       "lat": "krilcata do ramencata.",
+       "en": "wings up to the shoulders."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако те тебе натпеам,",
+       "lat": "Ako te tebe natpeam,",
+       "en": "If I outsing you,"
+      },
+      {
+       "cyr": "косите да ти пресечам,",
+       "lat": "kosite da ti presečam,",
+       "en": "I will cut your hair,"
+      },
+      {
+       "cyr": "косите од руса глава,",
+       "lat": "kosite od rusa glava,",
+       "en": "the hair from your fair head,"
+      },
+      {
+       "cyr": "косите од руса глава.",
+       "lat": "kosite od rusa glava.",
+       "en": "the hair from your fair head."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Драганка славеј натпеа,",
+       "lat": "Draganka slavej natpea,",
+       "en": "Draganka outsang the nightingale,"
+      },
+      {
+       "cyr": "славеј се милно молеше:",
+       "lat": "slavej se milno moleše:",
+       "en": "the nightingale begged piteously:"
+      },
+      {
+       "cyr": "- Драганке моме убаво,",
+       "lat": "- Draganke mome ubavo,",
+       "en": "- Draganka, beautiful girl,"
+      },
+      {
+       "cyr": "немој ми крилца одрежуј.",
+       "lat": "nemoj mi krilca odrežuj.",
+       "en": "don't cut off my wings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој ми крилца одрежуј,",
+       "lat": "Nemoj mi krilca odrežuj,",
+       "en": "Don't cut off my wings,"
+      },
+      {
+       "cyr": "јас ќе ти пеам, препевам,",
+       "lat": "jas ḱe ti peam, prepevam,",
+       "en": "I will sing to you, sing again,"
+      },
+      {
+       "cyr": "на бел, на црвен трендафил,",
+       "lat": "na bel, na crven trendafil,",
+       "en": "on the white and the red rose,"
+      },
+      {
+       "cyr": "на бел, на црвен трендафил.",
+       "lat": "na bel, na crven trendafil.",
+       "en": "on the white and the red rose."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Славејче ми пее",
+       "lat": "Slavejče mi pee",
+       "en": "A nightingale sings to me"
+      },
+      {
+       "cyr": "на дрво маслинка,",
+       "lat": "na drvo maslinka,",
+       "en": "on an olive tree,"
+      },
+      {
+       "cyr": "Драгица убава",
+       "lat": "Dragica ubava",
+       "en": "beautiful Dragica"
+      },
+      {
+       "cyr": "на пиле говори:",
+       "lat": "na pile govori:",
+       "en": "speaks to the bird:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Пиленце, славејче,",
+       "lat": "- Pilence, slavejče,",
+       "en": "- Little bird, nightingale,"
+      },
+      {
+       "cyr": "ќе се обложиме,",
+       "lat": "ḱe se obložime,",
+       "en": "let's make a wager,"
+      },
+      {
+       "cyr": "кој ќе натпееме.",
+       "lat": "koj ḱe natpeeme.",
+       "en": "who will outsing the other."
+      },
+      {
+       "cyr": "Aко јас те натпеам",
+       "lat": "Ako jas te natpeam",
+       "en": "If I outsing you"
+      },
+      {
+       "cyr": "крилца ќе ти сечам,",
+       "lat": "krilca ḱe ti sečam,",
+       "en": "I will cut your wings,"
+      },
+      {
+       "cyr": "крилца до раменца,",
+       "lat": "krilca do ramenca,",
+       "en": "wings up to the shoulders,"
+      },
+      {
+       "cyr": "нозе до коленца.",
+       "lat": "noze do kolenca.",
+       "en": "legs up to the knees."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Славејче пееше",
+       "lat": "Slavejče peeše",
+       "en": "The nightingale sang"
+      },
+      {
+       "cyr": "на девет јазици,",
+       "lat": "na devet jazici,",
+       "en": "in nine tongues,"
+      },
+      {
+       "cyr": "со многу гласови,",
+       "lat": "so mnogu glasovi,",
+       "en": "with many voices,"
+      },
+      {
+       "cyr": "Драга ја натпеја.",
+       "lat": "Draga ja natpeja.",
+       "en": "it outsang Draga."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

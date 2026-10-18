@@ -1,0 +1,142 @@
+{
+ "id": 1166,
+ "slug": "povekje-ne-mi-doagjaj",
+ "title_cyr": "Повеќе не ми доаѓај",
+ "title_latin": "Poveḱe ne mi doaǵaj",
+ "title_en": "Don't Come to Me Anymore",
+ "pesna_url": "https://pesna.org/song/1166",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Sounds like a modern pop-style song; origin unclear, no author I can name, so translated in full.",
+ "words_to_learn": [
+  {
+   "mk": "повеќе не",
+   "en": "no more, not anymore"
+  },
+  {
+   "mk": "доаѓај",
+   "en": "come (imperative)"
+  },
+  {
+   "mk": "најди",
+   "en": "find (imperative)"
+  },
+  {
+   "mk": "искрено",
+   "en": "sincerely"
+  },
+  {
+   "mk": "верував",
+   "en": "I believed"
+  },
+  {
+   "mk": "лажеше",
+   "en": "you were lying"
+  },
+  {
+   "mk": "далеку",
+   "en": "far away"
+  },
+  {
+   "mk": "засака",
+   "en": "fell in love with, started to love"
+  },
+  {
+   "mk": "подари",
+   "en": "gave as a gift"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2834"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Повеќе не ми доаѓај, за мене не си ти,",
+       "lat": "Poveḱe ne mi doaǵaj, za mene ne si ti,",
+       "en": "Don't come to me anymore, you are not for me,"
+      },
+      {
+       "cyr": "најди друга ти, со неа појди си.",
+       "lat": "najdi druga ti, so nea pojdi si.",
+       "en": "find another, go off with her."
+      },
+      {
+       "cyr": "Љубев искрено и сè ти верував,",
+       "lat": "Ljubev iskreno i sè ti veruvav,",
+       "en": "I loved sincerely and believed you in everything,"
+      },
+      {
+       "cyr": "а ти лажеше кога ме љубеше.",
+       "lat": "a ti lažeše koga me ljubeše.",
+       "en": "but you lied when you kissed me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе појдам негде далеку, далеку од тебе,",
+       "lat": "Ḱe pojdam negde daleku, daleku od tebe,",
+       "en": "I will go somewhere far, far from you,"
+      },
+      {
+       "cyr": "радост среќа и живот ќе побарам.",
+       "lat": "radost sreḱa i život ḱe pobaram.",
+       "en": "I will look for joy, happiness and life."
+      },
+      {
+       "cyr": "Љубев искрено и сè ти верував,",
+       "lat": "Ljubev iskreno i sè ti veruvav,",
+       "en": "I loved sincerely and believed you in everything,"
+      },
+      {
+       "cyr": "а ти лажеше кога ме љубеше.",
+       "lat": "a ti lažeše koga me ljubeše.",
+       "en": "but you lied when you kissed me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Повеќе не ми доаѓај, за мене не си ти,",
+       "lat": "Poveḱe ne mi doaǵaj, za mene ne si ti,",
+       "en": "Don't come to me anymore, you are not for me,"
+      },
+      {
+       "cyr": "друг ме засака, срце ми подари.",
+       "lat": "drug me zasaka, srce mi podari.",
+       "en": "another has fallen for me, he gave me his heart."
+      },
+      {
+       "cyr": "Љубев искрено и сè ти верував,",
+       "lat": "Ljubev iskreno i sè ti veruvav,",
+       "en": "I loved sincerely and believed you in everything,"
+      },
+      {
+       "cyr": "а ти лажеше кога ме љубеше.",
+       "lat": "a ti lažeše koga me ljubeše.",
+       "en": "but you lied when you kissed me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,162 @@
+{
+ "id": 969,
+ "slug": "pesna-za-stiv-naumov",
+ "title_cyr": "Песна за Стив Наумов",
+ "title_latin": "Pesna za Stiv Naumov",
+ "title_en": "Song for Stiv Naumov",
+ "pesna_url": "https://pesna.org/song/969",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Commemorates Stefan (Stiv) Naumov, a people's hero of the WWII liberation war (per the source notes); origin of the song unclear, I cannot name an author. 'Одови' in the last line is my reading as 'from now on / for these times'; I rendered it loosely as 'for us'.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "маки",
+   "en": "troubles, hardships"
+  },
+  {
+   "mk": "крај",
+   "en": "end"
+  },
+  {
+   "mk": "не ме жали",
+   "en": "do not mourn me"
+  },
+  {
+   "mk": "загинам",
+   "en": "I perish, fall"
+  },
+  {
+   "mk": "огреа",
+   "en": "shone, rose"
+  },
+  {
+   "mk": "зори",
+   "en": "dawn"
+  },
+  {
+   "mk": "родните гори",
+   "en": "native forests"
+  }
+ ],
+ "performers": [
+  "Зафир Хаџиманов",
+  "Сенка Валетаниќ"
+ ],
+ "audio": [
+  {
+   "who": "Зафир Хаџиманов, Сенка Валетаниќ",
+   "url": "https://pesna.org/audio-download/2243"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Долго трае овој пат, таа планина е висока",
+       "lat": "- Dolgo trae ovoj pat, taa planina e visoka",
+       "en": "- This road is long, that mountain is high,"
+      },
+      {
+       "cyr": "тешко ми е мили синко, ден да дочекам.",
+       "lat": "teško mi e mili sinko, den da dočekam.",
+       "en": "it is hard for me, dear son, to see the day."
+      },
+      {
+       "cyr": "- Мојте маки имат крај, мојот пат е, мајко, слобода,",
+       "lat": "- Mojte maki imat kraj, mojot pat e, majko, sloboda,",
+       "en": "- My troubles have an end, my road, mother, is freedom,"
+      },
+      {
+       "cyr": "не ме жали мила мајко, ако загинам.",
+       "lat": "ne me žali mila majko, ako zaginam.",
+       "en": "do not mourn me, dear mother, if I fall."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стив Наумов знаеше храбро да се бори,",
+       "lat": "Stiv Naumov znaeše hrabro da se bori,",
+       "en": "Stiv Naumov knew how to fight bravely,"
+      },
+      {
+       "cyr": "Стив Наумов огреа како сонце в зори,",
+       "lat": "Stiv Naumov ogrea kako sonce v zori,",
+       "en": "Stiv Naumov shone like the sun at dawn,"
+      },
+      {
+       "cyr": "Стив Наумов остана во родните гори,",
+       "lat": "Stiv Naumov ostana vo rodnite gori,",
+       "en": "Stiv Naumov remained in the native forests,"
+      },
+      {
+       "cyr": "Стив Наумов слобода одови ни створи.",
+       "lat": "Stiv Naumov sloboda odovi ni stvori.",
+       "en": "Stiv Naumov made freedom for us."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мојте маки имаат крај, мојот пат е, браќа, слобода,",
+       "lat": "- Mojte maki imaat kraj, mojot pat e, braḱa, sloboda,",
+       "en": "- My troubles have an end, my road, brothers, is freedom,"
+      },
+      {
+       "cyr": "не ме жали, мила мајко, ако загинам.",
+       "lat": "ne me žali, mila majko, ako zaginam.",
+       "en": "do not mourn me, dear mother, if I fall."
+      },
+      {
+       "cyr": "- Долго трае овој пат, таа планина е висока,",
+       "lat": "- Dolgo trae ovoj pat, taa planina e visoka,",
+       "en": "- This road is long, that mountain is high,"
+      },
+      {
+       "cyr": "тешко ми е мили синко, ден да дочекам.",
+       "lat": "teško mi e mili sinko, den da dočekam.",
+       "en": "it is hard for me, dear son, to see the day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стив Наумов знаеше храбро да се бори,",
+       "lat": "Stiv Naumov znaeše hrabro da se bori,",
+       "en": "Stiv Naumov knew how to fight bravely,"
+      },
+      {
+       "cyr": "Стив Наумов огреа како сонце в зори,",
+       "lat": "Stiv Naumov ogrea kako sonce v zori,",
+       "en": "Stiv Naumov shone like the sun at dawn,"
+      },
+      {
+       "cyr": "Стив Наумов остана во родните гори,",
+       "lat": "Stiv Naumov ostana vo rodnite gori,",
+       "en": "Stiv Naumov remained in the native forests,"
+      },
+      {
+       "cyr": "Стив Наумов слобода одови ни створи.",
+       "lat": "Stiv Naumov sloboda odovi ni stvori.",
+       "en": "Stiv Naumov made freedom for us."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

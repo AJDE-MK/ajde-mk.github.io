@@ -1,0 +1,157 @@
+{
+ "id": 132,
+ "slug": "biljane-mome-ubavo",
+ "title_cyr": "Билјане моме убаво",
+ "title_latin": "Biljane mome ubavo",
+ "title_en": "Biljana, beautiful girl",
+ "pesna_url": "https://pesna.org/song/132",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл чалгија",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/1697"
+  },
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/1729"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Билјане моме убаво,",
+       "lat": "Biljane mome ubavo,",
+       "en": "Biljana, beautiful girl"
+      },
+      {
+       "cyr": "на сон те браќа водиле.",
+       "lat": "na son te braḱa vodile.",
+       "en": "in my dream your brothers were taking you."
+      },
+      {
+       "cyr": "На сон те браќа водиле",
+       "lat": "Na son te braḱa vodile",
+       "en": "In my dream your brothers were taking you"
+      },
+      {
+       "cyr": "во таја града Костура.",
+       "lat": "vo taja grada Kostura.",
+       "en": "in that city of Kostur."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Билјане моме убаво,",
+       "lat": "Biljane mome ubavo,",
+       "en": "Biljana, beautiful girl"
+      },
+      {
+       "cyr": "качи се горе на чардак.",
+       "lat": "kači se gore na čardak.",
+       "en": "get up on the oriel."
+      },
+      {
+       "cyr": "Качи се горе на чардак,",
+       "lat": "Kači se gore na čardak,",
+       "en": "Get up on the oriel,"
+      },
+      {
+       "cyr": "разгледај долу на поле.",
+       "lat": "razgledaj dolu na pole.",
+       "en": "look down towards the field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори мајко, мајчице,",
+       "lat": "Ah mori majko, majčice,",
+       "en": "Ah, dear mother,"
+      },
+      {
+       "cyr": "оздола идат ветрови.",
+       "lat": "ozdola idat vetrovi.",
+       "en": "there are winds coming from down there."
+      },
+      {
+       "cyr": "Оздола идат ветрови,",
+       "lat": "Ozdola idat vetrovi,",
+       "en": "There are winds coming from down there,"
+      },
+      {
+       "cyr": "ветрови, бури, ратови.",
+       "lat": "vetrovi, buri, ratovi.",
+       "en": "winds, storms, wars."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Билјане моме убаво,",
+       "lat": "Biljane mome ubavo,",
+       "en": "Biljana, beautiful girl,"
+      },
+      {
+       "cyr": "не ми се бури, ветрови.",
+       "lat": "ne mi se buri, vetrovi.",
+       "en": "those are not storms, winds."
+      },
+      {
+       "cyr": "Не ми се бури, ветрови,",
+       "lat": "Ne mi se buri, vetrovi,",
+       "en": "Those are not storms, winds,"
+      },
+      {
+       "cyr": "тук' ми се силни сватови.",
+       "lat": "tuk' mi se silni svatovi.",
+       "en": "they are a lot of wedding guests."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори мајко, мајчице,",
+       "lat": "Ah mori majko, majčice,",
+       "en": "Ah, dear mother,"
+      },
+      {
+       "cyr": "жива ќе лежам во гроба.",
+       "lat": "živa ḱe ležam vo groba.",
+       "en": "I'll rather lie in a grave alive."
+      },
+      {
+       "cyr": "Жива ќе лежам во гроба,",
+       "lat": "Živa ḱe ležam vo groba,",
+       "en": "I'll rather lie in a grave alive,"
+      },
+      {
+       "cyr": "костурско момче не земам.",
+       "lat": "kostursko momče ne zemam.",
+       "en": "but I am not marrying a man from Kostur."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

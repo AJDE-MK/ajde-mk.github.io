@@ -1,0 +1,327 @@
+{
+ "id": 252,
+ "slug": "zoshto-mi-se-srdish-libe",
+ "title_cyr": "Зошто ми се срдиш либе",
+ "title_latin": "Zošto mi se srdiš libe",
+ "title_en": "Why are you angry, dear?",
+ "pesna_url": "https://pesna.org/song/252",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Даниела Калаџиска",
+  "Драган Вучиќ",
+  "Ѓорѓи Андреевски",
+  "Ѓорѓи Желчевски",
+  "Јорданка Куцулова",
+  "Кевсер Селимова",
+  "Марина Пухариќ",
+  "Пијано бар"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1721"
+  },
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/1722"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/1736"
+  },
+  {
+   "who": "Марина Пухариќ",
+   "url": "https://pesna.org/audio-download/2581"
+  },
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/3037"
+  },
+  {
+   "who": "Даниела Калаџиска, Пијано бар",
+   "url": "https://pesna.org/audio-download/3754"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Китка)",
+       "lat": "(Kitka)",
+       "en": "(Medley)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Зашто ми се срдиш либе",
+       "lat": "- Zašto mi se srdiš libe",
+       "en": "- Why are you angry, dear,",
+       "en_mt": false
+      },
+      {
+       "cyr": "срдиш не доаѓаш?",
+       "lat": "srdiš ne doaǵaš?",
+       "en": "angry, not visiting me?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дали коња немаш либе",
+       "lat": "Dali konja nemaš libe",
+       "en": "Don't you have a horse, dear,",
+       "en_mt": false
+      },
+      {
+       "cyr": "или друм не знаеш?",
+       "lat": "ili drum ne znaeš?",
+       "en": "or did you forget the road?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Врана коња имам либе",
+       "lat": "- Vrana konja imam libe",
+       "en": "- I have a black stallion, dear,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до три друма знае,",
+       "lat": "do tri druma znae,",
+       "en": "he knows all roads,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само ти се срдам либе",
+       "lat": "samo ti se srdam libe",
+       "en": "I am just angry at you",
+       "en_mt": false
+      },
+      {
+       "cyr": "за сношната вечер.",
+       "lat": "za snošnata večer.",
+       "en": "for last night.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "# # #",
+       "lat": "# # #",
+       "en": "# # #",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Јас ти реков: добро вечер",
+       "lat": "- Jas ti rekov: dobro večer",
+       "en": "- I said: good evening,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти ми рече: дојди вечер.",
+       "lat": "ti mi reče: dojdi večer.",
+       "en": "you said: come tonight.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Јас ти реков: добро вечер",
+       "lat": "Jas ti rekov: dobro večer",
+       "en": "I said: good evening,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ти ми рече: дојди вечер.",
+       "lat": "ti mi reče: dojdi večer.",
+       "en": "you said: come tonight.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди вечер на вечера",
+       "lat": "Dojdi večer na večera",
+       "en": "Come tonight to dinner",
+       "en_mt": false
+      },
+      {
+       "cyr": "дури не сме вечерале,",
+       "lat": "duri ne sme večerale,",
+       "en": "before we start dining,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дури не сме вечерале,",
+       "lat": "duri ne sme večerale,",
+       "en": "before we start dining,",
+       "en_mt": false
+      },
+      {
+       "cyr": "вити порти затвориле.",
+       "lat": "viti porti zatvorile.",
+       "en": "before we close our gates.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "# # #",
+       "lat": "# # #",
+       "en": "# # #",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рајна на порти стоеше,",
+       "lat": "Rajna na porti stoeše,",
+       "en": "Rajna was standing at the gates,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Рајна на порти стоеше,",
+       "lat": "Rajna na porti stoeše,",
+       "en": "Rajna was standing at the gates,",
+       "en_mt": false
+      },
+      {
+       "cyr": "меракот си го чекаше,",
+       "lat": "merakot si go čekaše,",
+       "en": "waiting for her love,",
+       "en_mt": false
+      },
+      {
+       "cyr": "меракот си го чекаше.",
+       "lat": "merakot si go čekaše.",
+       "en": "waiting for her love.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, ој Рајне Бурева",
+       "lat": "Of, oj Rajne Bureva",
+       "en": "Oh, oh, Rajna Bureva,",
+       "en_mt": false
+      },
+      {
+       "cyr": "прибери ме мили Боже при неа",
+       "lat": "priberi me mili Bože pri nea",
+       "en": "dear God, put me next to her.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Оф, ој Рајна Бурева",
+       "lat": "Of, oj Rajna Bureva",
+       "en": "Oh, oh, Rajna Bureva,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас не можам мили Боже без неа.",
+       "lat": "jas ne možam mili Bože bez nea.",
+       "en": "I can't go on, dear God, without her.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола иде Ѓошето,",
+       "lat": "Ozdola ide Ǵošeto,",
+       "en": "From down there here comes Gjoshe,",
+       "en_mt": false
+      },
+      {
+       "cyr": "оздола иде Ѓошето,",
+       "lat": "ozdola ide Ǵošeto,",
+       "en": "from down there here comes Gjoshe,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ѓошето на Поп-јаневци.",
+       "lat": "Ǵošeto na Pop-janevci.",
+       "en": "Gjoshe of Pop-janev family.",
+       "en_mt": false
+      },
+      {
+       "cyr": "И на Рајна вели, говори,",
+       "lat": "I na Rajna veli, govori,",
+       "en": "And he says to Rajna, tells her,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и на Рајна вели, говори:",
+       "lat": "i na Rajna veli, govori:",
+       "en": "and he says to Rajna, tells her:",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оф, ој Рајне Бурева",
+       "lat": "Of, oj Rajne Bureva",
+       "en": "Oh, oh, Rajna Bureva,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Изгоре ме мили Боже со неа.",
+       "lat": "Izgore me mili Bože so nea.",
+       "en": "you inflamed me with her, dear God, with her.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Оф, ој Рајна Бурева",
+       "lat": "Of, oj Rajna Bureva",
+       "en": "Oh, oh, Rajna Bureva,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас не можам мили Боже",
+       "lat": "jas ne možam mili Bože",
+       "en": "I can't go on, dear God, without her,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ич без неа.",
+       "lat": "ič bez nea.",
+       "en": "at all.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,186 @@
+{
+ "id": 899,
+ "slug": "dve-kitki",
+ "title_cyr": "Две китки",
+ "title_latin": "Dve kitki",
+ "title_en": "Two Flowers",
+ "pesna_url": "https://pesna.org/song/899",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (no author I can name). 'двте' in the original is a typo for 'двете' (both); 'дваете во еден вљубени' I read as both girls in love with one man.",
+ "words_to_learn": [
+  {
+   "mk": "китка",
+   "en": "bouquet, flower"
+  },
+  {
+   "mk": "гранка",
+   "en": "branch"
+  },
+  {
+   "mk": "цутени",
+   "en": "in bloom"
+  },
+  {
+   "mk": "ветре",
+   "en": "breeze, wind"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "запалени",
+   "en": "set alight, ignited"
+  },
+  {
+   "mk": "одберам",
+   "en": "I choose"
+  },
+  {
+   "mk": "откинам",
+   "en": "I pick, pluck"
+  }
+ ],
+ "performers": [
+  "Влатко Лозаноски",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1976"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/1977"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Две китки, две ми девојки,",
+       "lat": "Dve kitki, dve mi devojki,",
+       "en": "Two flowers, two girls of mine,"
+      },
+      {
+       "cyr": "на иста гранка цутени,",
+       "lat": "na ista granka cuteni,",
+       "en": "bloomed on the same branch,"
+      },
+      {
+       "cyr": "на иста гранка цутени,",
+       "lat": "na ista granka cuteni,",
+       "en": "bloomed on the same branch,"
+      },
+      {
+       "cyr": "на исто ветре галени,",
+       "lat": "na isto vetre galeni,",
+       "en": "caressed by the same breeze,"
+      },
+      {
+       "cyr": "од ист оган запалени,",
+       "lat": "od ist ogan zapaleni,",
+       "en": "set alight by the same fire,"
+      },
+      {
+       "cyr": "двете во еден вљубени.",
+       "lat": "dvete vo eden vljubeni.",
+       "en": "both in love with one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи ми мајко, кажи ми,",
+       "lat": "Kaži mi majko, kaži mi,",
+       "en": "Tell me, mother, tell me,"
+      },
+      {
+       "cyr": "која мома да ја одберам?",
+       "lat": "koja moma da ja odberam?",
+       "en": "which girl should I choose?"
+      },
+      {
+       "cyr": "Која китка да ја откинам,",
+       "lat": "Koja kitka da ja otkinam,",
+       "en": "Which flower should I pick,"
+      },
+      {
+       "cyr": "дома да ја донесам?",
+       "lat": "doma da ja donesam?",
+       "en": "to bring home?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две китки, две ми девојки,",
+       "lat": "Dve kitki, dve mi devojki,",
+       "en": "Two flowers, two girls of mine,"
+      },
+      {
+       "cyr": "на иста гранка цутени,",
+       "lat": "na ista granka cuteni,",
+       "en": "bloomed on the same branch,"
+      },
+      {
+       "cyr": "од иста роса росени,",
+       "lat": "od ista rosa roseni,",
+       "en": "watered by the same dew,"
+      },
+      {
+       "cyr": "од исти раце носени,",
+       "lat": "od isti race noseni,",
+       "en": "carried by the same hands,"
+      },
+      {
+       "cyr": "од ист оган запалени,",
+       "lat": "od ist ogan zapaleni,",
+       "en": "set alight by the same fire,"
+      },
+      {
+       "cyr": "двте во еден вљубени.",
+       "lat": "dvte vo eden vljubeni.",
+       "en": "both in love with one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кажи ми мајко, кажи ми,",
+       "lat": "Kaži mi majko, kaži mi,",
+       "en": "Tell me, mother, tell me,"
+      },
+      {
+       "cyr": "која мома да ја одберам?",
+       "lat": "koja moma da ja odberam?",
+       "en": "which girl should I choose?"
+      },
+      {
+       "cyr": "Која китка да ја откинам,",
+       "lat": "Koja kitka da ja otkinam,",
+       "en": "Which flower should I pick,"
+      },
+      {
+       "cyr": "дома да ја донесам?",
+       "lat": "doma da ja donesam?",
+       "en": "to bring home?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

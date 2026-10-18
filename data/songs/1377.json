@@ -1,0 +1,150 @@
+{
+ "id": 1377,
+ "slug": "brale-mi-se-se-sobrale",
+ "title_cyr": "Брале ми се, се собрале",
+ "title_latin": "Brale mi se, se sobrale",
+ "title_en": "Brothers, They Gathered",
+ "pesna_url": "https://pesna.org/song/1377",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Partisan-era song in honour of Dimitar 'Dimkata' Angelov Gaberot, per the source note. 'Левана / деснана' are dialect for left / right; 'во левана страна, срцето' is my reading as 'heart on the left side'.",
+ "words_to_learn": [
+  {
+   "mk": "брале",
+   "en": "brothers (dialect vocative)"
+  },
+  {
+   "mk": "собрале",
+   "en": "gathered"
+  },
+  {
+   "mk": "одбор",
+   "en": "committee, council"
+  },
+  {
+   "mk": "тргаат",
+   "en": "they set off"
+  },
+  {
+   "mk": "Кожуф",
+   "en": "Kozhuf (mountain)"
+  },
+  {
+   "mk": "пештера",
+   "en": "cave"
+  },
+  {
+   "mk": "заспале",
+   "en": "fell asleep"
+  },
+  {
+   "mk": "даскал",
+   "en": "teacher"
+  },
+  {
+   "mk": "колено",
+   "en": "knee"
+  },
+  {
+   "mk": "јаска",
+   "en": "I (dialect, emphatic)"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3559"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Брале ми се, се собрале,",
+       "lat": "Brale mi se, se sobrale,",
+       "en": "Brothers, they gathered together,"
+      },
+      {
+       "cyr": "седнати одбор Македонци,",
+       "lat": "sednati odbor Makedonci,",
+       "en": "sat down in a council, the Macedonians,"
+      },
+      {
+       "cyr": "Право ми тргаат Кожуф Планина,",
+       "lat": "Pravo mi trgaat Kožuf Planina,",
+       "en": "they head straight for Kozhuf Mountain,"
+      },
+      {
+       "cyr": "Кожуф Планина, в' темни пештери.",
+       "lat": "Kožuf Planina, v' temni pešteri.",
+       "en": "Kozhuf Mountain, into dark caves."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дур' ми стигнале, легнале,",
+       "lat": "Dur' mi stignale, legnale,",
+       "en": "Until they arrived, they lay down,"
+      },
+      {
+       "cyr": "дур' ми легнале, заспале,",
+       "lat": "dur' mi legnale, zaspale,",
+       "en": "until they lay down, they fell asleep,"
+      },
+      {
+       "cyr": "сон ми сонува Габерот,",
+       "lat": "son mi sonuva Gaberot,",
+       "en": "Gaber dreams a dream,"
+      },
+      {
+       "cyr": "Габерот, Димче даскалот.",
+       "lat": "Gaberot, Dimče daskalot.",
+       "en": "Gaber, Dimche the teacher."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црно ми го куче изело,",
+       "lat": "Crno mi go kuče izelo,",
+       "en": "A black dog ate"
+      },
+      {
+       "cyr": "во левана страна, срцето,",
+       "lat": "vo levana strana, srceto,",
+       "en": "his heart on the left side,"
+      },
+      {
+       "cyr": "во деснана нога, колено.",
+       "lat": "vo desnana noga, koleno.",
+       "en": "his knee in the right leg."
+      },
+      {
+       "cyr": "- Мајко, јаска ќе си умрам",
+       "lat": "- Majko, jaska ḱe si umram",
+       "en": "- Mother, I will die"
+      },
+      {
+       "cyr": "за наш'та Македонија.",
+       "lat": "za naš'ta Makedonija.",
+       "en": "for our Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

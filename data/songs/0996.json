@@ -1,0 +1,243 @@
+{
+ "id": 996,
+ "slug": "pesna-za-nikola-badev",
+ "title_cyr": "Песна за Никола Бадев",
+ "title_latin": "Pesna za Nikola Badev",
+ "title_en": "Song for Nikola Badev",
+ "pesna_url": "https://pesna.org/song/996",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "A tribute song for the singer Nikola Badev; the lyricist is not named in the text, so origin unclear and I translated it. Refrain switches between 'his' and 'your' song, kept as in the original.",
+ "words_to_learn": [
+  {
+   "mk": "нема веќе",
+   "en": "is no more"
+  },
+  {
+   "mk": "да запее",
+   "en": "to start singing"
+  },
+  {
+   "mk": "да засвири",
+   "en": "to start playing"
+  },
+  {
+   "mk": "тамбура",
+   "en": "tambura, a plucked string instrument"
+  },
+  {
+   "mk": "весели",
+   "en": "makes merry, cheers up"
+  },
+  {
+   "mk": "се слуша",
+   "en": "is heard"
+  },
+  {
+   "mk": "жалат",
+   "en": "mourn"
+  },
+  {
+   "mk": "кукавица",
+   "en": "cuckoo (symbol of mourning in folk songs)"
+  },
+  {
+   "mk": "дур' до",
+   "en": "all the way to"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2316"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Меѓу нас го нема веќе",
+       "lat": "Meǵu nas go nema veḱe",
+       "en": "He is no longer among us,"
+      },
+      {
+       "cyr": "наш Никола Бадев,",
+       "lat": "naš Nikola Badev,",
+       "en": "our Nikola Badev,"
+      },
+      {
+       "cyr": "да запее, да засвири,",
+       "lat": "da zapee, da zasviri,",
+       "en": "to sing, to play,"
+      },
+      {
+       "cyr": "да нè развесели,",
+       "lat": "da nè razveseli,",
+       "en": "to cheer us up,"
+      },
+      {
+       "cyr": "да засвири на тамбура",
+       "lat": "da zasviri na tambura",
+       "en": "to play the tambura"
+      },
+      {
+       "cyr": "и да нè весели.",
+       "lat": "i da nè veseli.",
+       "en": "and to cheer us up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со негова песна",
+       "lat": "So negova pesna",
+       "en": "With his song"
+      },
+      {
+       "cyr": "секој се весели,",
+       "lat": "sekoj se veseli,",
+       "en": "everyone is merry,"
+      },
+      {
+       "cyr": "неговата песна",
+       "lat": "negovata pesna",
+       "en": "his song"
+      },
+      {
+       "cyr": "по цел свет се слуша.",
+       "lat": "po cel svet se sluša.",
+       "en": "is heard all over the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За тебе се слушна Бадев,",
+       "lat": "Za tebe se slušna Badev,",
+       "en": "Badev became known for you"
+      },
+      {
+       "cyr": "дур' до Америка,",
+       "lat": "dur' do Amerika,",
+       "en": "as far as America,"
+      },
+      {
+       "cyr": "Австралија и Европа",
+       "lat": "Avstralija i Evropa",
+       "en": "Australia and Europe"
+      },
+      {
+       "cyr": "и цела Канада,",
+       "lat": "i cela Kanada,",
+       "en": "and all of Canada,"
+      },
+      {
+       "cyr": "тебе ми те жалат Бадев",
+       "lat": "tebe mi te žalat Badev",
+       "en": "old and young"
+      },
+      {
+       "cyr": "и старо и младо.",
+       "lat": "i staro i mlado.",
+       "en": "mourn you, Badev."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со негова песна",
+       "lat": "So negova pesna",
+       "en": "With his song"
+      },
+      {
+       "cyr": "секој се весели,",
+       "lat": "sekoj se veseli,",
+       "en": "everyone is merry,"
+      },
+      {
+       "cyr": "неговата песна",
+       "lat": "negovata pesna",
+       "en": "his song"
+      },
+      {
+       "cyr": "по цел свет се слуша.",
+       "lat": "po cel svet se sluša.",
+       "en": "is heard all over the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Најмногу те жали Бадев",
+       "lat": "Najmnogu te žali Badev",
+       "en": "Most of all mourns you, Badev,"
+      },
+      {
+       "cyr": "твојта стара мајка,",
+       "lat": "tvojta stara majka,",
+       "en": "your old mother,"
+      },
+      {
+       "cyr": "твојте браќа, Коле Бадев,",
+       "lat": "tvojte braḱa, Kole Badev,",
+       "en": "your brothers, Kole Badev,"
+      },
+      {
+       "cyr": "и твоите деца,",
+       "lat": "i tvoite deca,",
+       "en": "and your children,"
+      },
+      {
+       "cyr": "твојта жена, Коле Бадев,",
+       "lat": "tvojta žena, Kole Badev,",
+       "en": "your wife, Kole Badev,"
+      },
+      {
+       "cyr": "како кукавица.",
+       "lat": "kako kukavica.",
+       "en": "like a cuckoo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со твојата песна",
+       "lat": "So tvojata pesna",
+       "en": "With your song"
+      },
+      {
+       "cyr": "секој се весели,",
+       "lat": "sekoj se veseli,",
+       "en": "everyone is merry,"
+      },
+      {
+       "cyr": "неговата песна",
+       "lat": "negovata pesna",
+       "en": "his song"
+      },
+      {
+       "cyr": "по цел свет се слуша.",
+       "lat": "po cel svet se sluša.",
+       "en": "is heard all over the world."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

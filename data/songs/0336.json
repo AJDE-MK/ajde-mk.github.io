@@ -1,0 +1,229 @@
+{
+ "id": 336,
+ "slug": "oj-vardare-makedonski",
+ "title_cyr": "Ој Вардаре македонски",
+ "title_latin": "Oj Vardare makedonski",
+ "title_en": "Oh, Macedonian Vardar",
+ "pesna_url": "https://pesna.org/song/336",
+ "background": "A river-song. The Vardar runs through the middle of Skopje, its cities strung like pearls on its banks, its water healing the wounds of heroes. Wherever it passes it brings luck and joy, from its source to Thessaloniki. Gentle and good for singing along.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Бански старчета",
+  "Виолета Томовска",
+  "Елена Велевска",
+  "Злата Теодосиевска",
+  "Зоран Џорлев",
+  "Искра Трпева",
+  "Јонче Христовски",
+  "Кирил Манчевски",
+  "Сузана Јовчева",
+  "Mitan Project"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/323"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/324"
+  },
+  {
+   "who": "Бански старчета",
+   "url": "https://pesna.org/audio-download/325"
+  },
+  {
+   "who": "Злата Теодосиевска",
+   "url": "https://pesna.org/audio-download/326"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/327"
+  },
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/328"
+  },
+  {
+   "who": "Зоран Џорлев, Искра Трпева",
+   "url": "https://pesna.org/audio-download/329"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/330"
+  },
+  {
+   "who": "Сузана Јовчева",
+   "url": "https://pesna.org/audio-download/331"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1954"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Среде Скопје Вардар врви,",
+       "lat": "Srede Skopje Vardar vrvi,",
+       "en": "Midst of Skopje, Vardar flows,"
+      },
+      {
+       "cyr": "Вардар река распеана.",
+       "lat": "Vardar reka raspeana.",
+       "en": "Vardar, the singing river."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Вардаре македонски",
+       "lat": "Oj, Vardare makedonski",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "од извора дур' до Солуна.",
+       "lat": "od izvora dur' do Soluna.",
+       "en": "From its source to Thessaloniki."
+      },
+      {
+       "cyr": "Ој, Вардаре македонски,",
+       "lat": "Oj, Vardare makedonski,",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "ти ја красиш Македонија.",
+       "lat": "ti ja krasiš Makedonija.",
+       "en": "You adorn Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте градој како бисери",
+       "lat": "Tvojte gradoj kako biseri",
+       "en": "Your cities like pearls,"
+      },
+      {
+       "cyr": "ти закитиле брегови.",
+       "lat": "ti zakitile bregovi.",
+       "en": "Have decorated your banks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Вардаре македонски",
+       "lat": "Oj, Vardare makedonski",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "од извора дур' до Солуна.",
+       "lat": "od izvora dur' do Soluna.",
+       "en": "From its source to Thessaloniki."
+      },
+      {
+       "cyr": "Ој, Вардаре македонски,",
+       "lat": "Oj, Vardare makedonski,",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "ти ја красиш Македонија.",
+       "lat": "ti ja krasiš Makedonija.",
+       "en": "You adorn Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лути рани на јунаци",
+       "lat": "Luti rani na junaci",
+       "en": "The fierce wounds of heroes,"
+      },
+      {
+       "cyr": "твојта вода ги лекува.",
+       "lat": "tvojta voda gi lekuva.",
+       "en": "Your water can cure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Вардаре македонски",
+       "lat": "Oj, Vardare makedonski",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "од извора дур' до Солуна.",
+       "lat": "od izvora dur' do Soluna.",
+       "en": "From its source to Thessaloniki."
+      },
+      {
+       "cyr": "Ој, Вардаре македонски,",
+       "lat": "Oj, Vardare makedonski,",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "ти ја красиш Македонија.",
+       "lat": "ti ja krasiš Makedonija.",
+       "en": "You adorn Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде Вардар поминуваш",
+       "lat": "Kade Vardar pominuvaš",
+       "en": "Wherever you pass, oh Vardar,"
+      },
+      {
+       "cyr": "среќа, радост донесуваш.",
+       "lat": "sreḱa, radost donesuvaš.",
+       "en": "You bring happiness and joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој, Вардаре македонски",
+       "lat": "Oj, Vardare makedonski",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "од извора дур' до Солуна.",
+       "lat": "od izvora dur' do Soluna.",
+       "en": "From its source to Thessaloniki."
+      },
+      {
+       "cyr": "Ој, Вардаре македонски,",
+       "lat": "Oj, Vardare makedonski,",
+       "en": "Oh, Macedonian Vardar,"
+      },
+      {
+       "cyr": "ти ја красиш Македонија.",
+       "lat": "ti ja krasiš Makedonija.",
+       "en": "You adorn Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

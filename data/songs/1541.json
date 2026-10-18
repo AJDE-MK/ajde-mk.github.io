@@ -1,0 +1,484 @@
+{
+ "id": 1541,
+ "slug": "bog-da-go-bie-toj-iljo-topalo",
+ "title_cyr": "Бог да го бие тој Иљо Топало",
+ "title_latin": "Bog da go bie toj Iljo Topalo",
+ "title_en": "May God Strike Down That Iljo Topalo",
+ "pesna_url": "https://pesna.org/song/1541",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional hajduk/revolutionary song; three versions in one text. Marker lines '(друга верзија)' kept unchanged. 'Предо и непредо' ('spinner and non-spinner', i.e. women who spin and those who do not) and 'кадро и некадро' ('able and unable') are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "Бог да го бие",
+   "en": "may God strike him down"
+  },
+  {
+   "mk": "теслим",
+   "en": "surrender (Turkish loan)"
+  },
+  {
+   "mk": "теслим се чини",
+   "en": "pretend to surrender"
+  },
+  {
+   "mk": "фудул",
+   "en": "proud, arrogant (Turkish loan)"
+  },
+  {
+   "mk": "сардиса",
+   "en": "surrounded, besieged"
+  },
+  {
+   "mk": "шпион",
+   "en": "spy, informer"
+  },
+  {
+   "mk": "тиранин",
+   "en": "tyrant"
+  },
+  {
+   "mk": "муљазим",
+   "en": "Turkish junior officer"
+  },
+  {
+   "mk": "бесат",
+   "en": "(they) hang"
+  },
+  {
+   "mk": "каурско",
+   "en": "infidel, Christian (Turkish-era word)"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгија",
+  "Методија Спировски",
+  "Сашко Савески"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/4023"
+  },
+  {
+   "who": "Сашко Савески",
+   "url": "https://pesna.org/audio-download/4024"
+  },
+  {
+   "who": "Методија Спировски",
+   "url": "https://pesna.org/audio-download/4025"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го бие,",
+       "lat": "Bog da go bie,",
+       "en": "May God strike him down,"
+      },
+      {
+       "cyr": "бог да го бие,",
+       "lat": "bog da go bie,",
+       "en": "may God strike him down,"
+      },
+      {
+       "cyr": "бог да го бие,",
+       "lat": "bog da go bie,",
+       "en": "may God strike him down,"
+      },
+      {
+       "cyr": "тој Иљо Топало,",
+       "lat": "toj Iljo Topalo,",
+       "en": "that Iljo Topalo,"
+      },
+      {
+       "cyr": "бог да го бие,",
+       "lat": "bog da go bie,",
+       "en": "may God strike him down,"
+      },
+      {
+       "cyr": "тој Иљо Топало.",
+       "lat": "toj Iljo Topalo.",
+       "en": "that Iljo Topalo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде што ми пошол,",
+       "lat": "Ajde što mi pošol,",
+       "en": "Come on, what has he gone to,"
+      },
+      {
+       "cyr": "ајде што ми пошол,",
+       "lat": "ajde što mi pošol,",
+       "en": "come on, what has he gone to,"
+      },
+      {
+       "cyr": "ајде што ми пошол,",
+       "lat": "ajde što mi pošol,",
+       "en": "come on, what has he gone to,"
+      },
+      {
+       "cyr": "славно Јени Маале,",
+       "lat": "slavno Jeni Maale,",
+       "en": "glorious Jeni Maale,"
+      },
+      {
+       "cyr": "славно Јени Маале,",
+       "lat": "slavno Jeni Maale,",
+       "en": "glorious Jeni Maale,"
+      },
+      {
+       "cyr": "кај фудул Васа,",
+       "lat": "kaj fudul Vasa,",
+       "en": "to proud Vasa's,"
+      },
+      {
+       "cyr": "кај фудул Васа,",
+       "lat": "kaj fudul Vasa,",
+       "en": "to proud Vasa's,"
+      },
+      {
+       "cyr": "Васа Карејца.",
+       "lat": "Vasa Karejca.",
+       "en": "Vasa Karejca's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што го предадоа,",
+       "lat": "Što go predadoa,",
+       "en": "Who betrayed him,"
+      },
+      {
+       "cyr": "што го предадоа,",
+       "lat": "što go predadoa,",
+       "en": "who betrayed him,"
+      },
+      {
+       "cyr": "што го предадоа,",
+       "lat": "što go predadoa,",
+       "en": "who betrayed him,"
+      },
+      {
+       "cyr": "клетите шпиони,",
+       "lat": "kletite špioni,",
+       "en": "the cursed spies,"
+      },
+      {
+       "cyr": "што го сардисаа,",
+       "lat": "što go sardisaa,",
+       "en": "who surrounded him,"
+      },
+      {
+       "cyr": "клетите тирани.",
+       "lat": "kletite tirani.",
+       "en": "the cursed tyrants."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Теслим бре Иљо,",
+       "lat": "- Teslim bre Iljo,",
+       "en": "- Surrender, hey Iljo,"
+      },
+      {
+       "cyr": "теслим бре Иљо,",
+       "lat": "teslim bre Iljo,",
+       "en": "surrender, hey Iljo,"
+      },
+      {
+       "cyr": "теслим чини се,",
+       "lat": "teslim čini se,",
+       "en": "surrender, pretend to,"
+      },
+      {
+       "cyr": "за да не загинеш.",
+       "lat": "za da ne zagineš.",
+       "en": "so that you do not perish."
+      },
+      {
+       "cyr": "- Теслим не се чинам",
+       "lat": "- Teslim ne se činam",
+       "en": "- I do not pretend to surrender"
+      },
+      {
+       "cyr": "во тирански раце.",
+       "lat": "vo tiranski race.",
+       "en": "into tyrant hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За да ме бесат,",
+       "lat": "Za da me besat,",
+       "en": "So that they hang me,"
+      },
+      {
+       "cyr": "за да ме бесат,",
+       "lat": "za da me besat,",
+       "en": "so that they hang me,"
+      },
+      {
+       "cyr": "за да ме бесат,",
+       "lat": "za da me besat,",
+       "en": "so that they hang me,"
+      },
+      {
+       "cyr": "по мостовите,",
+       "lat": "po mostovite,",
+       "en": "on the bridges,"
+      },
+      {
+       "cyr": "за да ме бесат,",
+       "lat": "za da me besat,",
+       "en": "so that they hang me,"
+      },
+      {
+       "cyr": "по мостовите.",
+       "lat": "po mostovite.",
+       "en": "on the bridges."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За да ми се смеат,",
+       "lat": "Za da mi se smeat,",
+       "en": "So that they laugh at me,"
+      },
+      {
+       "cyr": "за да ми се смеат,",
+       "lat": "za da mi se smeat,",
+       "en": "so that they laugh at me,"
+      },
+      {
+       "cyr": "за да ми се смеат,",
+       "lat": "za da mi se smeat,",
+       "en": "so that they laugh at me,"
+      },
+      {
+       "cyr": "турско ем каурско,",
+       "lat": "tursko em kaursko,",
+       "en": "Turk and infidel alike,"
+      },
+      {
+       "cyr": "турско ем каурско,",
+       "lat": "tursko em kaursko,",
+       "en": "Turk and infidel alike,"
+      },
+      {
+       "cyr": "предо и непредо,",
+       "lat": "predo i nepredo,",
+       "en": "spinner and non-spinner,"
+      },
+      {
+       "cyr": "предо и непредо,",
+       "lat": "predo i nepredo,",
+       "en": "spinner and non-spinner,"
+      },
+      {
+       "cyr": "мало ем големо.",
+       "lat": "malo em golemo.",
+       "en": "small and big."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ми го сардисале, ми го сардисале,",
+       "lat": "Mi go sardisale, mi go sardisale,",
+       "en": "They surrounded him, they surrounded him,"
+      },
+      {
+       "cyr": "ми го сардисале, славно Јени Мале,",
+       "lat": "mi go sardisale, slavno Jeni Male,",
+       "en": "they surrounded him, glorious Jeni Maale,"
+      },
+      {
+       "cyr": "ми го сардисале, славно Јени Маале.",
+       "lat": "mi go sardisale, slavno Jeni Maale.",
+       "en": "they surrounded him, glorious Jeni Maale."
+      },
+      {
+       "cyr": "Славно Јени Маале, славно Јени Маале,",
+       "lat": "Slavno Jeni Maale, slavno Jeni Maale,",
+       "en": "Glorious Jeni Maale, glorious Jeni Maale,"
+      },
+      {
+       "cyr": "славно Јени Маале, кај фудул Васа,",
+       "lat": "slavno Jeni Maale, kaj fudul Vasa,",
+       "en": "glorious Jeni Maale, to proud Vasa's,"
+      },
+      {
+       "cyr": "славно Јени Маале, кај фудул Васа.",
+       "lat": "slavno Jeni Maale, kaj fudul Vasa.",
+       "en": "glorious Jeni Maale, to proud Vasa's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај, предај се предај, ај, предај се предај,",
+       "lat": "- Aj, predaj se predaj, aj, predaj se predaj,",
+       "en": "- Hey, surrender, surrender, hey, surrender, surrender,"
+      },
+      {
+       "cyr": "ај, предај се предај, ти Иљо Топало,",
+       "lat": "aj, predaj se predaj, ti Iljo Topalo,",
+       "en": "hey, surrender, surrender, you Iljo Topalo,"
+      },
+      {
+       "cyr": "ај, предај се предај, ти Иљо Топало.",
+       "lat": "aj, predaj se predaj, ti Iljo Topalo.",
+       "en": "hey, surrender, surrender, you Iljo Topalo."
+      },
+      {
+       "cyr": "- Не се предавам, не се предавам,",
+       "lat": "- Ne se predavam, ne se predavam,",
+       "en": "- I do not surrender, I do not surrender,"
+      },
+      {
+       "cyr": "не се предавам во тирански раце,",
+       "lat": "ne se predavam vo tiranski race,",
+       "en": "I do not surrender into tyrant hands,"
+      },
+      {
+       "cyr": "не се предавам во тирански раце.",
+       "lat": "ne se predavam vo tiranski race.",
+       "en": "I do not surrender into tyrant hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За да ме бесат, за да ме бесат,",
+       "lat": "Za da me besat, za da me besat,",
+       "en": "So that they hang me, so that they hang me,"
+      },
+      {
+       "cyr": "за да ме бесат по мостовите,",
+       "lat": "za da me besat po mostovite,",
+       "en": "so that they hang me on the bridges,"
+      },
+      {
+       "cyr": "за да ме бесат по мостовите.",
+       "lat": "za da me besat po mostovite.",
+       "en": "so that they hang me on the bridges."
+      },
+      {
+       "cyr": "За да ми се смеат, за да ми се смеат,",
+       "lat": "Za da mi se smeat, za da mi se smeat,",
+       "en": "So that they laugh at me, so that they laugh at me,"
+      },
+      {
+       "cyr": "за да ми се смеат старо и младо,",
+       "lat": "za da mi se smeat staro i mlado,",
+       "en": "so that they laugh at me, old and young,"
+      },
+      {
+       "cyr": "старо и младо, кадро и некадро.",
+       "lat": "staro i mlado, kadro i nekadro.",
+       "en": "old and young, able and unable."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 3",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да ги бие клетите шпиони",
+       "lat": "Bog da gi bie kletite špioni",
+       "en": "May God strike down the cursed spies"
+      },
+      {
+       "cyr": "што го предадоа тој Иљо Топало,",
+       "lat": "što go predadoa toj Iljo Topalo,",
+       "en": "who betrayed that Iljo Topalo,"
+      },
+      {
+       "cyr": "што ми сардисале славно Јенимаале,",
+       "lat": "što mi sardisale slavno Jenimaale,",
+       "en": "who surrounded glorious Jenimaale for me,"
+      },
+      {
+       "cyr": "славно Јенимале, куќата на Васа,",
+       "lat": "slavno Jenimale, kuḱata na Vasa,",
+       "en": "glorious Jenimale, Vasa's house,"
+      },
+      {
+       "cyr": "куќата на Васа, на Васа Карејца.",
+       "lat": "kuḱata na Vasa, na Vasa Karejca.",
+       "en": "Vasa's house, Vasa Karejca's."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Та што ми извика турскиот муљазим:",
+       "lat": "Ta što mi izvika turskiot muljazim:",
+       "en": "And the Turkish officer shouted to me:"
+      },
+      {
+       "cyr": "- Ја предај се, предај, ти Иљо Топало!",
+       "lat": "- Ja predaj se, predaj, ti Iljo Topalo!",
+       "en": "- Hey, surrender, surrender, you Iljo Topalo!"
+      },
+      {
+       "cyr": "- Јас не се предавам, за да ме мачите,",
+       "lat": "- Jas ne se predavam, za da me mačite,",
+       "en": "- I do not surrender, so that you torment me,"
+      },
+      {
+       "cyr": "за да ме мачите по мостовите,",
+       "lat": "za da me mačite po mostovite,",
+       "en": "so that you torment me on the bridges,"
+      },
+      {
+       "cyr": "за да ми се смеат и старо и младо,",
+       "lat": "za da mi se smeat i staro i mlado,",
+       "en": "so that old and young laugh at me,"
+      },
+      {
+       "cyr": "и старо и младо и машко и женско.",
+       "lat": "i staro i mlado i maško i žensko.",
+       "en": "and old and young, and men and women."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

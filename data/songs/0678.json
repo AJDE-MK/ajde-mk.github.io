@@ -1,0 +1,165 @@
+{
+ "id": 678,
+ "slug": "makedonijo-zhalna-le-majko",
+ "title_cyr": "Македонијо жална ле мајко",
+ "title_latin": "Makedonijo žalna le majko",
+ "title_en": "Macedonia, Sorrowful Mother",
+ "pesna_url": "https://pesna.org/song/678",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Горо ле мајко' (vocative to the forest) is my reading of line 5; the mother is both Macedonia and the forest here. Appears to be an old revolutionary-era (komitadji) song, but I am not certain of its origin.",
+ "words_to_learn": [
+  {
+   "mk": "жална",
+   "en": "sorrowful, grieving"
+  },
+  {
+   "mk": "страдала",
+   "en": "(have) suffered"
+  },
+  {
+   "mk": "векови",
+   "en": "centuries"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band (of fighters)"
+  },
+  {
+   "mk": "душман",
+   "en": "enemy"
+  },
+  {
+   "mk": "знаме",
+   "en": "banner, flag"
+  },
+  {
+   "mk": "смрт",
+   "en": "death"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  }
+ ],
+ "performers": [
+  "Македонски мерак"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/858"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Македонијо, жална ле мајко",
+       "lat": "Makedonijo, žalna le majko",
+       "en": "Macedonia, sorrowful mother,"
+      },
+      {
+       "cyr": "доста си страдала,",
+       "lat": "dosta si stradala,",
+       "en": "you have suffered enough,"
+      },
+      {
+       "cyr": "страдала си, жална ле мајко,",
+       "lat": "stradala si, žalna le majko,",
+       "en": "you have suffered, sorrowful mother,"
+      },
+      {
+       "cyr": "цели пет векови.",
+       "lat": "celi pet vekovi.",
+       "en": "for five whole centuries."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако сакаш, горо ле мајко",
+       "lat": "Ako sakaš, goro le majko",
+       "en": "If you wish, forest, mother,"
+      },
+      {
+       "cyr": "јас да си пораснам,",
+       "lat": "jas da si porasnam,",
+       "en": "let me grow up,"
+      },
+      {
+       "cyr": "села ќе соберам ле, мајко",
+       "lat": "sela ḱe soberam le, majko",
+       "en": "I will gather villages, mother,"
+      },
+      {
+       "cyr": "чета ќе направам.",
+       "lat": "četa ḱe napravam.",
+       "en": "I will form a band of fighters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' планина ќе одам ле мајко",
+       "lat": "V' planina ḱe odam le majko",
+       "en": "I will go into the mountain, mother,"
+      },
+      {
+       "cyr": "с' душман ќе се бијам,",
+       "lat": "s' dušman ḱe se bijam,",
+       "en": "I will fight the enemy,"
+      },
+      {
+       "cyr": "с' душман ќе се бијам ле мајко",
+       "lat": "s' dušman ḱe se bijam le majko",
+       "en": "I will fight the enemy, mother,"
+      },
+      {
+       "cyr": "знаме ќе развијам.",
+       "lat": "zname ḱe razvijam.",
+       "en": "I will unfurl the banner."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На знамето да пише мајко:",
+       "lat": "Na znameto da piše majko:",
+       "en": "Let the banner read, mother:"
+      },
+      {
+       "cyr": "„Смрт или слобода“,",
+       "lat": "„Smrt ili sloboda“,",
+       "en": "'Death or freedom',"
+      },
+      {
+       "cyr": "смрт или слобода ле, мајко",
+       "lat": "smrt ili sloboda le, majko",
+       "en": "death or freedom, mother,"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

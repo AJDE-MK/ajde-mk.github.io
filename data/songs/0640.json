@@ -1,0 +1,245 @@
+{
+ "id": 640,
+ "slug": "ferman-dojde-od-stambola",
+ "title_cyr": "Ферман дојде од Стамбола",
+ "title_latin": "Ferman dojde od Stambola",
+ "title_en": "A Decree Came from Istanbul",
+ "pesna_url": "https://pesna.org/song/640",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Заирче' (rendered 'soldier') and 'ружи' (rendered 'saddling', maybe 'readies') are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ферман",
+   "en": "decree, edict (Ottoman)"
+  },
+  {
+   "mk": "телал",
+   "en": "town crier"
+  },
+  {
+   "mk": "чаршија",
+   "en": "market, bazaar quarter"
+  },
+  {
+   "mk": "спахија",
+   "en": "sipahi (Ottoman cavalryman or landowner)"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul"
+  },
+  {
+   "mk": "диван стои",
+   "en": "stands respectfully silent"
+  },
+  {
+   "mk": "дробни солзи",
+   "en": "small tears"
+  },
+  {
+   "mk": "Московија",
+   "en": "Muscovy (Russia)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Дарко Билбиловски",
+  "Зоран Џорлев",
+  "Круме Спасовски",
+  "Наум Петрески",
+  "Никола Бадев",
+  "Хармонија"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/500"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/501"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/502"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/503"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/504"
+  },
+  {
+   "who": "Хармонија",
+   "url": "https://pesna.org/audio-download/505"
+  },
+  {
+   "who": "Зоран Џорлев, Дарко Билбиловски",
+   "url": "https://pesna.org/audio-download/506"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, ферман дојде џанам од Стамбола",
+       "lat": "Aj, ferman dojde džanam od Stambola",
+       "en": "Oh, a decree came, my dear, from Istanbul,"
+      },
+      {
+       "cyr": "телал личит по чаршија,",
+       "lat": "telal ličit po čaršija,",
+       "en": "the town crier walks through the market,"
+      },
+      {
+       "cyr": "да се зберат спахиите",
+       "lat": "da se zberat spahiite",
+       "en": "let the sipahis (cavalrymen) gather,"
+      },
+      {
+       "cyr": "се отвори силна војна,",
+       "lat": "se otvori silna vojna,",
+       "en": "a great war has broken out,"
+      },
+      {
+       "cyr": "силна војна в' Московија, де.",
+       "lat": "silna vojna v' Moskovija, de.",
+       "en": "a great war in Muscovy, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, спаивчето џанам само се посврши",
+       "lat": "Aj, spaivčeto džanam samo se posvrši",
+       "en": "Oh, the young sipahi, my dear, only just got engaged,"
+      },
+      {
+       "cyr": "во четврток зборот тој ми даде,",
+       "lat": "vo četvrtok zborot toj mi dade,",
+       "en": "on Thursday he gave his word,"
+      },
+      {
+       "cyr": "во сабота свадба ќе прави",
+       "lat": "vo sabota svadba ḱe pravi",
+       "en": "on Saturday he will hold the wedding,"
+      },
+      {
+       "cyr": "во недела војник да оди.",
+       "lat": "vo nedela vojnik da odi.",
+       "en": "on Sunday the soldier is to go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, спаивчето џанам коња ми ружи",
+       "lat": "Aj, spaivčeto džanam konja mi ruži",
+       "en": "Oh, the young sipahi, my dear, is saddling his horse,"
+      },
+      {
+       "cyr": "невестата диван му стои",
+       "lat": "nevestata divan mu stoi",
+       "en": "the bride stands there silent before him,"
+      },
+      {
+       "cyr": "и негова стара мајка",
+       "lat": "i negova stara majka",
+       "en": "and his old mother"
+      },
+      {
+       "cyr": "диван стоет дробни солзи ронет, де.",
+       "lat": "divan stoet drobni solzi ronet, de.",
+       "en": "stands silent, shedding small tears, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, го прашала џанам неговата мајка",
+       "lat": "Aj, go prašala džanam negovata majka",
+       "en": "Oh, his mother asked him, my dear,"
+      },
+      {
+       "cyr": "ај спаивче ти младо заирче,",
+       "lat": "aj spaivče ti mlado zairče,",
+       "en": "oh young sipahi, you young soldier,"
+      },
+      {
+       "cyr": "коња спремаш каде ти ќе одиш?",
+       "lat": "konja spremaš kade ti ḱe odiš?",
+       "en": "you ready your horse, where will you go?"
+      },
+      {
+       "cyr": "Кому ќе оставиш младата невеста",
+       "lat": "Komu ḱe ostaviš mladata nevesta",
+       "en": "To whom will you leave your young bride"
+      },
+      {
+       "cyr": "и твојата стара мајка, де?",
+       "lat": "i tvojata stara majka, de?",
+       "en": "and your old mother, hey?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, ој ти мајко џанам стара мајко,",
+       "lat": "Aj, oj ti majko džanam stara majko,",
+       "en": "Oh, you mother, my dear, old mother,"
+      },
+      {
+       "cyr": "дел' ме прашаш право ќе ти кажам,",
+       "lat": "del' me prašaš pravo ḱe ti kažam,",
+       "en": "since you ask me I will tell you straight,"
+      },
+      {
+       "cyr": "тебе мајко нема да те лажам:",
+       "lat": "tebe majko nema da te lažam:",
+       "en": "I will not lie to you, mother:"
+      },
+      {
+       "cyr": "ферман дојде од Стамбола,",
+       "lat": "ferman dojde od Stambola,",
+       "en": "a decree came from Istanbul,"
+      },
+      {
+       "cyr": "телал личит по чаршија,",
+       "lat": "telal ličit po čaršija,",
+       "en": "the town crier walks through the market,"
+      },
+      {
+       "cyr": "да се зберат спаиите.",
+       "lat": "da se zberat spaiite.",
+       "en": "let the sipahis gather."
+      },
+      {
+       "cyr": "Се отвори силна војна,",
+       "lat": "Se otvori silna vojna,",
+       "en": "A great war has broken out,"
+      },
+      {
+       "cyr": "силна војна в' Московија, де.",
+       "lat": "silna vojna v' Moskovija, de.",
+       "en": "a great war in Muscovy, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

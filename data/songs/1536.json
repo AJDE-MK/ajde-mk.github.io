@@ -1,0 +1,137 @@
+{
+ "id": 1536,
+ "slug": "kaljo-le-kaljo-kalino",
+ "title_cyr": "Каљо ле, Каљо Калино",
+ "title_latin": "Kaljo le, Kaljo Kalino",
+ "title_en": "Oh Kalja, Kalja Kalina",
+ "pesna_url": "https://pesna.org/song/1536",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Каља' is a short form of the name Калина. 'Абре' is a Turkish-origin interjection, here roughly 'hey you'.",
+ "words_to_learn": [
+  {
+   "mk": "разболела се",
+   "en": "fell ill"
+  },
+  {
+   "mk": "среде полето",
+   "en": "in the middle of the field"
+  },
+  {
+   "mk": "рода",
+   "en": "relative, kin"
+  },
+  {
+   "mk": "сал'",
+   "en": "only"
+  },
+  {
+   "mk": "пиле шарено",
+   "en": "speckled bird"
+  },
+  {
+   "mk": "абре ле",
+   "en": "hey you (exclamation)"
+  },
+  {
+   "mk": "станам",
+   "en": "I get up"
+  },
+  {
+   "mk": "умрам",
+   "en": "I die"
+  }
+ ],
+ "performers": [
+  "Иринка Бујуклиева"
+ ],
+ "audio": [
+  {
+   "who": "Иринка Бујуклиева",
+   "url": "https://pesna.org/audio-download/4008"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каљо ле, Каљо Калино,",
+       "lat": "Kaljo le, Kaljo Kalino,",
+       "en": "Oh Kalja, Kalja Kalina,"
+      },
+      {
+       "cyr": "разболела се Калина.",
+       "lat": "razbolela se Kalina.",
+       "en": "Kalina fell ill."
+      },
+      {
+       "cyr": "Разболела се Калина",
+       "lat": "Razbolela se Kalina",
+       "en": "Kalina fell ill"
+      },
+      {
+       "cyr": "сред лето, среде полето.",
+       "lat": "sred leto, srede poleto.",
+       "en": "in midsummer, in the middle of the field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сред лето, среде полето",
+       "lat": "Sred leto, srede poleto",
+       "en": "In midsummer, in the middle of the field"
+      },
+      {
+       "cyr": "никоја рода при неа,",
+       "lat": "nikoja roda pri nea,",
+       "en": "no relative near her,"
+      },
+      {
+       "cyr": "сал' едно пиле шарено.",
+       "lat": "sal' edno pile šareno.",
+       "en": "only one speckled bird."
+      },
+      {
+       "cyr": "Каља му вели, говори.",
+       "lat": "Kalja mu veli, govori.",
+       "en": "Kalja speaks to it, says."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каља му вели, говори:",
+       "lat": "Kalja mu veli, govori:",
+       "en": "Kalja speaks to it, says:"
+      },
+      {
+       "cyr": "- Абре ле пиле шарено.",
+       "lat": "- Abre le pile šareno.",
+       "en": "- Hey you, speckled bird,"
+      },
+      {
+       "cyr": "Дали ме чекаш да станам,",
+       "lat": "Dali me čekaš da stanam,",
+       "en": "are you waiting for me to get up,"
+      },
+      {
+       "cyr": "или ме чекаш да умрам?",
+       "lat": "ili me čekaš da umram?",
+       "en": "or are you waiting for me to die?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

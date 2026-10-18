@@ -1,0 +1,171 @@
+{
+ "id": 631,
+ "slug": "jas-sum-moma-pak-moma",
+ "title_cyr": "Јас сум мома пак мома",
+ "title_latin": "Jas sum moma pak moma",
+ "title_en": "I Am a Girl, Still a Girl",
+ "pesna_url": "https://pesna.org/song/631",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Елено' is read as a refrain addressed to a girl named Elena; 'галено на мама си ми' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, unmarried young woman"
+  },
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "до земја",
+   "en": "down to the ground"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "галено",
+   "en": "darling, cherished"
+  },
+  {
+   "mk": "носам",
+   "en": "I wear (dialect)"
+  },
+  {
+   "mk": "елено",
+   "en": "Elena, girl (refrain)"
+  }
+ ],
+ "performers": [
+  "Анка Гиева",
+  "Дана Јевремова",
+  "Елена Валеова"
+ ],
+ "audio": [
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1325"
+  },
+  {
+   "who": "Дана Јевремова",
+   "url": "https://pesna.org/audio-download/1326"
+  },
+  {
+   "who": "Елена Валеова",
+   "url": "https://pesna.org/audio-download/3168"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум мома пак мома",
+       "lat": "Jas sum moma pak moma",
+       "en": "I am a girl, still a girl,"
+      },
+      {
+       "cyr": "широк фустан носам до земја.",
+       "lat": "širok fustan nosam do zemja.",
+       "en": "I wear a wide dress down to the ground."
+      },
+      {
+       "cyr": "Елено, галено",
+       "lat": "Eleno, galeno",
+       "en": "Elena, darling,"
+      },
+      {
+       "cyr": "на мама си ми галено.",
+       "lat": "na mama si mi galeno.",
+       "en": "my mother's darling."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Купила сум си ракија,",
+       "lat": "Kupila sum si rakija,",
+       "en": "I have bought some rakija,"
+      },
+      {
+       "cyr": "нема со кого да пијам.",
+       "lat": "nema so kogo da pijam.",
+       "en": "there is nobody to drink with."
+      },
+      {
+       "cyr": "Елено, галено",
+       "lat": "Eleno, galeno",
+       "en": "Elena, darling,"
+      },
+      {
+       "cyr": "на мама си ми галено.",
+       "lat": "na mama si mi galeno.",
+       "en": "my mother's darling."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зготвила сум си вечера",
+       "lat": "Zgotvila sum si večera",
+       "en": "I have cooked supper,"
+      },
+      {
+       "cyr": "нема со кого да вечерам.",
+       "lat": "nema so kogo da večeram.",
+       "en": "there is nobody to have supper with."
+      },
+      {
+       "cyr": "Елено, галено",
+       "lat": "Eleno, galeno",
+       "en": "Elena, darling,"
+      },
+      {
+       "cyr": "на мама си ми галено.",
+       "lat": "na mama si mi galeno.",
+       "en": "my mother's darling."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум мома пак мома",
+       "lat": "Jas sum moma pak moma",
+       "en": "I am a girl, still a girl,"
+      },
+      {
+       "cyr": "широк фустан носам до земја.",
+       "lat": "širok fustan nosam do zemja.",
+       "en": "I wear a wide dress down to the ground."
+      },
+      {
+       "cyr": "Елено, галено",
+       "lat": "Eleno, galeno",
+       "en": "Elena, darling,"
+      },
+      {
+       "cyr": "на мама си ми галено.",
+       "lat": "na mama si mi galeno.",
+       "en": "my mother's darling."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

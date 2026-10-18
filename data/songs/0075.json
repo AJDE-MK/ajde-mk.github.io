@@ -1,0 +1,170 @@
+{
+ "id": 75,
+ "slug": "oj-mesechino-novino",
+ "title_cyr": "Ој Месечино, новино",
+ "title_latin": "Oj Mesečino, novino",
+ "title_en": "Oh Moon, new moon",
+ "pesna_url": "https://pesna.org/song/75",
+ "background": "An image-song about time passing over one night of love. A young man asks the new moon to shine bright tonight so he can go to white Jane. On the way there the cherries are in blossom, the wheat is in the ear and the springs are running; on the way back everything is picked, harvested and dried up.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect verb forms (ц'теја, класеја, обрале, ожнале) translated by my reading: the trip there happens in spring bloom, the return finds everything harvested and the water dry (time passing).",
+ "words_to_learn": [
+  {
+   "mk": "месечино",
+   "en": "moon (affectionate)"
+  },
+  {
+   "mk": "новино",
+   "en": "new moon"
+  },
+  {
+   "mk": "јасно",
+   "en": "brightly, clearly"
+  },
+  {
+   "mk": "вечерва",
+   "en": "this evening"
+  },
+  {
+   "mk": "вишни",
+   "en": "sour cherries"
+  },
+  {
+   "mk": "црешни",
+   "en": "cherries"
+  },
+  {
+   "mk": "пченица",
+   "en": "wheat"
+  },
+  {
+   "mk": "класеја",
+   "en": "were in ear (dialect)"
+  },
+  {
+   "mk": "секнале",
+   "en": "had dried up"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Драган Даутовски квартет"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/1723"
+  },
+  {
+   "who": "Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/1724"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Месечино, новиној, леле,",
+       "lat": "Oj Mesečino, novinoj, lele,",
+       "en": "Oh Moon, new moon, oh dear,"
+      },
+      {
+       "cyr": "јасно да грејеш мори, вечерва.",
+       "lat": "jasno da greješ mori, večerva.",
+       "en": "shine brightly, hey, this evening."
+      },
+      {
+       "cyr": "Јасно да грееш вечервај леле,",
+       "lat": "Jasno da greeš večervaj lele,",
+       "en": "Shine brightly this evening, oh dear,"
+      },
+      {
+       "cyr": "по бела Јана, леле, ќ' одиме.",
+       "lat": "po bela Jana, lele, ḱ' odime.",
+       "en": "we are going to white Jana, oh dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога по Јана ојдовме, лелеј,",
+       "lat": "Koga po Jana ojdovme, lelej,",
+       "en": "When we went to Jana, oh dear,"
+      },
+      {
+       "cyr": "вишни ем црешни, леле, ц'теја.",
+       "lat": "višni em crešni, lele, c'teja.",
+       "en": "sour cherries and cherries, oh dear, were blooming."
+      },
+      {
+       "cyr": "Вишни ем цреши цатеја, леле,",
+       "lat": "Višni em creši cateja, lele,",
+       "en": "Sour cherries and cherries were blooming, oh dear,"
+      },
+      {
+       "cyr": "бели пченици леле, класеја.",
+       "lat": "beli pčenici lele, klaseja.",
+       "en": "white wheat, oh dear, was in ear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бели пченици класеа, леле,",
+       "lat": "Beli pčenici klasea, lele,",
+       "en": "White wheat was in ear, oh dear,"
+      },
+      {
+       "cyr": "и в' зори вода, мори, течеја.",
+       "lat": "i v' zori voda, mori, tečeja.",
+       "en": "and at dawn water, hey, was flowing."
+      },
+      {
+       "cyr": "Кога се назад враќавме, леле,",
+       "lat": "Koga se nazad vraḱavme, lele,",
+       "en": "When we were coming back, oh dear,"
+      },
+      {
+       "cyr": "вишни ем цреши, леле, обрале.",
+       "lat": "višni em creši, lele, obrale.",
+       "en": "sour cherries and cherries, oh dear, had been picked."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вишни ем цреши обрале, леле,",
+       "lat": "Višni em creši obrale, lele,",
+       "en": "Sour cherries and cherries had been picked, oh dear,"
+      },
+      {
+       "cyr": "бели пченици, леле, ожнале.",
+       "lat": "beli pčenici, lele, ožnale.",
+       "en": "white wheat, oh dear, had been reaped."
+      },
+      {
+       "cyr": "Бели пченици ожнеале, леле,",
+       "lat": "Beli pčenici ožneale, lele,",
+       "en": "White wheat had been reaped, oh dear,"
+      },
+      {
+       "cyr": "и в' зори вода, леле, секнале.",
+       "lat": "i v' zori voda, lele, seknale.",
+       "en": "and at dawn the water, oh dear, had dried up."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

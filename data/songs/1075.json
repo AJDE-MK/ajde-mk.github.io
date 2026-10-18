@@ -1,0 +1,156 @@
+{
+ "id": 1075,
+ "slug": "zhenata-e-zlo-bez-koe-ne-se-mozhe",
+ "title_cyr": "Жената е зло без кое не се може",
+ "title_latin": "Ženata e zlo bez koe ne se može",
+ "title_en": "A Wife Is an Evil Without Which One Cannot Live",
+ "pesna_url": "https://pesna.org/song/1075",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, humorous song of unknown authorship. 'Нејќе пред очи да види' is my reading as 'will not bear to see'; 'подмавнува' I guess as 'provokes, needles'; 'надрапав' is 'I stumbled upon'.",
+ "words_to_learn": [
+  {
+   "mk": "беќар",
+   "en": "bachelor"
+  },
+  {
+   "mk": "се оженив",
+   "en": "I got married (of a man)"
+  },
+  {
+   "mk": "беља",
+   "en": "trouble, calamity"
+  },
+  {
+   "mk": "ѓавол",
+   "en": "devil"
+  },
+  {
+   "mk": "домаќин",
+   "en": "householder, head of the house"
+  },
+  {
+   "mk": "лом",
+   "en": "wreck, mess, uproar"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law (husband's mother)"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law (husband's father)"
+  },
+  {
+   "mk": "с'л се кара",
+   "en": "(she) is always quarreling (с'л = сал/сѐ)"
+  }
+ ],
+ "performers": [
+  "Александар Сарев"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сарев",
+   "url": "https://pesna.org/audio-download/2506"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Долго време беќар одев, убаво ми беше,",
+       "lat": "Dolgo vreme beḱar odev, ubavo mi beše,",
+       "en": "For a long time I went about a bachelor, it was nice,"
+      },
+      {
+       "cyr": "ама што се оженив, тоа не ми требаше,",
+       "lat": "ama što se oženiv, toa ne mi trebaše,",
+       "en": "but that I got married, I did not need that,"
+      },
+      {
+       "cyr": "беља што си зедов, кој ме ѓавол тераше.",
+       "lat": "belja što si zedov, koj me ǵavol teraše.",
+       "en": "the trouble I took on, what devil drove me."
+      },
+      {
+       "cyr": "Арно велат сите, од жена чувај Боже,",
+       "lat": "Arno velat site, od žena čuvaj Bože,",
+       "en": "Everyone says rightly, God keep me from a woman,"
+      },
+      {
+       "cyr": "жената е зло без кое не се може.",
+       "lat": "ženata e zlo bez koe ne se može.",
+       "en": "a wife is an evil without which one cannot live."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едвај решив да се женам, домаќин да бидам,",
+       "lat": "Edvaj rešiv da se ženam, domaḱin da bidam,",
+       "en": "Barely did I decide to marry, to be a householder,"
+      },
+      {
+       "cyr": "надрапав на чудна мома, лом направи дома,",
+       "lat": "nadrapav na čudna moma, lom napravi doma,",
+       "en": "I ran into a strange girl, she wrecked the home,"
+      },
+      {
+       "cyr": "леле што да правам, лом направи дома.",
+       "lat": "lele što da pravam, lom napravi doma.",
+       "en": "oh, what shall I do, she wrecked the home."
+      },
+      {
+       "cyr": "Арно велат сите, од жена чувај Боже,",
+       "lat": "Arno velat site, od žena čuvaj Bože,",
+       "en": "Everyone says rightly, God keep me from a woman,"
+      },
+      {
+       "cyr": "жената е зло без кое не се може.",
+       "lat": "ženata e zlo bez koe ne se može.",
+       "en": "a wife is an evil without which one cannot live."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свекрва и свекор нејќе пред очи да види,",
+       "lat": "Svekrva i svekor nejḱe pred oči da vidi,",
+       "en": "She will not look at mother-in-law and father-in-law,"
+      },
+      {
+       "cyr": "с'л се кара, с'л се љути, сите сме ѝ криви,",
+       "lat": "s'l se kara, s'l se ljuti, site sme ì krivi,",
+       "en": "she is always quarreling, always angry, we are all to blame,"
+      },
+      {
+       "cyr": "а често започнува и да подмавнува.",
+       "lat": "a često započnuva i da podmavnuva.",
+       "en": "and she often starts up and provokes them."
+      },
+      {
+       "cyr": "Арно велат сите, од жена чувај Боже,",
+       "lat": "Arno velat site, od žena čuvaj Bože,",
+       "en": "Everyone says rightly, God keep me from a woman,"
+      },
+      {
+       "cyr": "жената е зло без кое не се може.",
+       "lat": "ženata e zlo bez koe ne se može.",
+       "en": "a wife is an evil without which one cannot live."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

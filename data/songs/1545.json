@@ -1,0 +1,148 @@
+{
+ "id": 1545,
+ "slug": "ej-mori-jano-bela-mori-jano",
+ "title_cyr": "Еј мори Јано, бела мори Јано",
+ "title_latin": "Ej mori Jano, bela mori Jano",
+ "title_en": "Hey Jana, white Jana",
+ "pesna_url": "https://pesna.org/song/1545",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Лудо младо' is rendered 'young man' (endearment, not 'crazy').",
+ "words_to_learn": [
+  {
+   "mk": "изгорев",
+   "en": "I burned up (with love)"
+  },
+  {
+   "mk": "спроти",
+   "en": "opposite, in front of"
+  },
+  {
+   "mk": "горам",
+   "en": "I burn"
+  },
+  {
+   "mk": "се кара",
+   "en": "scolds, quarrels"
+  },
+  {
+   "mk": "не ме дава",
+   "en": "does not give me (in marriage)"
+  },
+  {
+   "mk": "кажуваат",
+   "en": "they say"
+  },
+  {
+   "mk": "мераклија",
+   "en": "reveller, enthusiast, lover of pleasures"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong rakija"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгии на РТС, Филиграни",
+   "url": "https://pesna.org/audio-download/4034"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мори Јано, бела мори Јано,",
+       "lat": "- Ej mori Jano, bela mori Jano,",
+       "en": "- Hey, Jana, white Jana,"
+      },
+      {
+       "cyr": "не стој спроти мене,",
+       "lat": "ne stoj sproti mene,",
+       "en": "do not stand before me,"
+      },
+      {
+       "cyr": "ај, мори бела Јано,",
+       "lat": "aj, mori bela Jano,",
+       "en": "oh, white Jana,"
+      },
+      {
+       "cyr": "изгорев за тебе.",
+       "lat": "izgorev za tebe.",
+       "en": "I have burned up for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ај море лудо, море лудо младо,",
+       "lat": "- Aj more ludo, more ludo mlado,",
+       "en": "- Oh, young man, young man,"
+      },
+      {
+       "cyr": "и јас така горам,",
+       "lat": "i jas taka goram,",
+       "en": "I burn the same way,"
+      },
+      {
+       "cyr": "ај, море лудо младо,",
+       "lat": "aj, more ludo mlado,",
+       "en": "oh, young man,"
+      },
+      {
+       "cyr": "мама ми се кара,",
+       "lat": "mama mi se kara,",
+       "en": "my mother scolds me,"
+      },
+      {
+       "cyr": "ај, море лудо младо,",
+       "lat": "aj, more ludo mlado,",
+       "en": "oh, young man,"
+      },
+      {
+       "cyr": "за тебе не ме дава.",
+       "lat": "za tebe ne me dava.",
+       "en": "she will not give me to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе те кажуваат, море лудо младо,",
+       "lat": "Tebe te kažuvaat, more ludo mlado,",
+       "en": "They say of you, young man,"
+      },
+      {
+       "cyr": "голем мераклија,",
+       "lat": "golem meraklija,",
+       "en": "a great reveller,"
+      },
+      {
+       "cyr": "ај, море лудо младо,",
+       "lat": "aj, more ludo mlado,",
+       "en": "oh, young man,"
+      },
+      {
+       "cyr": "за лута ракија.",
+       "lat": "za luta rakija.",
+       "en": "for strong rakija."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

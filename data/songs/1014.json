@@ -1,0 +1,209 @@
+{
+ "id": 1014,
+ "slug": "ilino-mome-ubavo",
+ "title_cyr": "Илино моме убаво",
+ "title_latin": "Ilino mome ubavo",
+ "title_en": "Beautiful girl Ilina",
+ "pesna_url": "https://pesna.org/song/1014",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. The wordplay is trlo/grlo, ovci/oci, cifliko/liceto: she says she is worth as much as everything he owns. 'Деј гиди' rendered 'come on' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "трло",
+   "en": "sheepfold, pen"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "чифлик",
+   "en": "farmstead, estate"
+  },
+  {
+   "mk": "будало",
+   "en": "fool (vocative)"
+  },
+  {
+   "mk": "деј гиди",
+   "en": "hey, you (exclamation)"
+  },
+  {
+   "mk": "грло",
+   "en": "throat"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  }
+ ],
+ "performers": [
+  "Мирвет Беловска"
+ ],
+ "audio": [
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2350"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Илино моме убаво,",
+       "lat": "Ilino mome ubavo,",
+       "en": "Beautiful girl Ilina,"
+      },
+      {
+       "cyr": "слушај што вели Ѓорѓија:",
+       "lat": "slušaj što veli Ǵorǵija:",
+       "en": "listen to what Gjorgjija says:"
+      },
+      {
+       "cyr": "- Трлото ќе го продадам,",
+       "lat": "- Trloto ḱe go prodadam,",
+       "en": "- I will sell the sheepfold,"
+      },
+      {
+       "cyr": "Илина мома да земам.",
+       "lat": "Ilina moma da zemam.",
+       "en": "to marry the girl Ilina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Илина вели, говори:",
+       "lat": "Ilina veli, govori:",
+       "en": "Ilina says, she speaks:"
+      },
+      {
+       "cyr": "- Деј гиди Ѓорѓи, будало,",
+       "lat": "- Dej gidi Ǵorǵi, budalo,",
+       "en": "- Come on, silly Gjorgji, you fool,"
+      },
+      {
+       "cyr": "колку ти чини трлото,",
+       "lat": "kolku ti čini trloto,",
+       "en": "what your sheepfold costs you,"
+      },
+      {
+       "cyr": "толку ми чини грлото.",
+       "lat": "tolku mi čini grloto.",
+       "en": "that is what my throat costs me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Илино моме убаво,",
+       "lat": "Ilino mome ubavo,",
+       "en": "Beautiful girl Ilina,"
+      },
+      {
+       "cyr": "слушај што вели Ѓорѓија:",
+       "lat": "slušaj što veli Ǵorǵija:",
+       "en": "listen to what Gjorgjija says:"
+      },
+      {
+       "cyr": "- Овците ќе ги продадам,",
+       "lat": "- Ovcite ḱe gi prodadam,",
+       "en": "- I will sell the sheep,"
+      },
+      {
+       "cyr": "Илина мома да земам.",
+       "lat": "Ilina moma da zemam.",
+       "en": "to marry the girl Ilina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Илина вели, говори:",
+       "lat": "Ilina veli, govori:",
+       "en": "Ilina says, she speaks:"
+      },
+      {
+       "cyr": "- Деј гиди Ѓорѓи, будало,",
+       "lat": "- Dej gidi Ǵorǵi, budalo,",
+       "en": "- Come on, silly Gjorgji, you fool,"
+      },
+      {
+       "cyr": "колку ти чинат овците,",
+       "lat": "kolku ti činat ovcite,",
+       "en": "what your sheep cost you,"
+      },
+      {
+       "cyr": "толку ми чинат очите.",
+       "lat": "tolku mi činat očite.",
+       "en": "that is what my eyes cost me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Илино моме убаво,",
+       "lat": "Ilino mome ubavo,",
+       "en": "Beautiful girl Ilina,"
+      },
+      {
+       "cyr": "слушај што вели Ѓорѓија:",
+       "lat": "slušaj što veli Ǵorǵija:",
+       "en": "listen to what Gjorgjija says:"
+      },
+      {
+       "cyr": "- Чифликот ќе го продадам",
+       "lat": "- Čiflikot ḱe go prodadam",
+       "en": "- I will sell the farmstead"
+      },
+      {
+       "cyr": "Илина мома да земам.",
+       "lat": "Ilina moma da zemam.",
+       "en": "to marry the girl Ilina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Илина вели: говори:",
+       "lat": "Ilina veli: govori:",
+       "en": "Ilina says, she speaks:"
+      },
+      {
+       "cyr": "- Деј гиди Ѓорѓи, будало,",
+       "lat": "- Dej gidi Ǵorǵi, budalo,",
+       "en": "- Come on, silly Gjorgji, you fool,"
+      },
+      {
+       "cyr": "колку ти чини чифликот,",
+       "lat": "kolku ti čini čiflikot,",
+       "en": "what your farmstead costs you,"
+      },
+      {
+       "cyr": "толку ми чини лицето.",
+       "lat": "tolku mi čini liceto.",
+       "en": "that is what my face costs me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,199 @@
+{
+ "id": 907,
+ "slug": "oj-dosto-dosto",
+ "title_cyr": "Ој Досто, Досто",
+ "title_latin": "Oj Dosto, Dosto",
+ "title_en": "Oh Dosta, Dosta",
+ "pesna_url": "https://pesna.org/song/907",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; the song cuts the last syllable of each first line and repeats it whole in the next. 'немо ѝ вадила' is my reading ('no one to water it'); 'врато' for 'врат' is dialect.",
+ "words_to_learn": [
+  {
+   "mk": "босилек",
+   "en": "basil"
+  },
+  {
+   "mk": "рид / рида",
+   "en": "hill, rise"
+  },
+  {
+   "mk": "ерген",
+   "en": "bachelor, unmarried young man"
+  },
+  {
+   "mk": "делија",
+   "en": "brave young man, hero"
+  },
+  {
+   "mk": "китка",
+   "en": "flower, bouquet"
+  },
+  {
+   "mk": "вдовец",
+   "en": "widower"
+  },
+  {
+   "mk": "врато",
+   "en": "neck (dialect form)"
+  },
+  {
+   "mk": "пато",
+   "en": "path, road (dialect form)"
+  }
+ ],
+ "performers": [
+  "Комитите"
+ ],
+ "audio": [
+  {
+   "who": "Комитите",
+   "url": "https://pesna.org/audio-download/1989"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ој Досто, Досто, ој милна До-,",
+       "lat": "Oj Dosto, Dosto, oj milna Do-,",
+       "en": "Oh Dosta, Dosta, oh sweet Do-,"
+      },
+      {
+       "cyr": "ој Досто, Досто леле, ој милна Досто.",
+       "lat": "oj Dosto, Dosto lele, oj milna Dosto.",
+       "en": "oh Dosta, Dosta, oh, oh sweet Dosta."
+      },
+      {
+       "cyr": "Садила е Доста ран бел боси-,",
+       "lat": "Sadila e Dosta ran bel bosi-,",
+       "en": "Dosta planted white bas-,"
+      },
+      {
+       "cyr": "садила е Доста, леле, ран бел босилек.",
+       "lat": "sadila e Dosta, lele, ran bel bosilek.",
+       "en": "Dosta planted, oh, white basil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Садила горе на суха ри-,",
+       "lat": "Sadila gore na suha ri-,",
+       "en": "She planted it up on a dry hil-,"
+      },
+      {
+       "cyr": "садила горе, леле, на суха рида.",
+       "lat": "sadila gore, lele, na suha rida.",
+       "en": "she planted up there, oh, on a dry hill."
+      },
+      {
+       "cyr": "На суха рида, рида без во-,",
+       "lat": "Na suha rida, rida bez vo-,",
+       "en": "On a dry hill, a hill with no wa-,"
+      },
+      {
+       "cyr": "на сиха рида, леле, рида без вода.",
+       "lat": "na siha rida, lele, rida bez voda.",
+       "en": "on a dry hill, oh, a hill with no water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како ѝ садила, немо ѝ вади-,",
+       "lat": "Kako ì sadila, nemo ì vadi-,",
+       "en": "As she planted it, she had no one to wa-,"
+      },
+      {
+       "cyr": "како ѝ садила, леле, немо ѝ вадила.",
+       "lat": "kako ì sadila, lele, nemo ì vadila.",
+       "en": "as she planted it, oh, no one to water it."
+      },
+      {
+       "cyr": "Од там' помина ерген дели-,",
+       "lat": "Od tam' pomina ergen deli-,",
+       "en": "A young man, a hero, passed by from there,"
+      },
+      {
+       "cyr": "од там' помина, леле, ерген делија.",
+       "lat": "od tam' pomina, lele, ergen delija.",
+       "en": "from there he passed, oh, a young hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На Доста вели, вели гово-,",
+       "lat": "Na Dosta veli, veli govo-,",
+       "en": "To Dosta he says, he says, speak-,"
+      },
+      {
+       "cyr": "на Доста вели, леле, вели говори:",
+       "lat": "na Dosta veli, lele, veli govori:",
+       "en": "to Dosta he says, oh, he speaks:"
+      },
+      {
+       "cyr": "- Ја дај ми Досто од твојта ки-,",
+       "lat": "- Ja daj mi Dosto od tvojta ki-,",
+       "en": "- Come, give me, Dosta, some of your flow-,"
+      },
+      {
+       "cyr": "ја дај ми Досто, леле од твојта китка.",
+       "lat": "ja daj mi Dosto, lele od tvojta kitka.",
+       "en": "come, give me, Dosta, oh, some of your flower."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ако си ерген, влези, ски-,",
+       "lat": "- Ako si ergen, vlezi, ski-,",
+       "en": "- If you are a bachelor, come in, pic-,"
+      },
+      {
+       "cyr": "ако си ерген, леле, влези, скини си.",
+       "lat": "ako si ergen, lele, vlezi, skini si.",
+       "en": "if you are a bachelor, oh, come in, pick it."
+      },
+      {
+       "cyr": "Ако си вдовец, скршај си вра-,",
+       "lat": "Ako si vdovec, skršaj si vra-,",
+       "en": "If you are a widower, break your ne-,"
+      },
+      {
+       "cyr": "ако си вдовец, леле, скршај си врато.",
+       "lat": "ako si vdovec, lele, skršaj si vrato.",
+       "en": "if you are a widower, oh, break your neck."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Скршај си врато, врато по па-,",
+       "lat": "Skršaj si vrato, vrato po pa-,",
+       "en": "Break your neck, your neck on the pa-,"
+      },
+      {
+       "cyr": "скршај си врато, леле, врато по пато.",
+       "lat": "skršaj si vrato, lele, vrato po pato.",
+       "en": "break your neck, oh, your neck on the path."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

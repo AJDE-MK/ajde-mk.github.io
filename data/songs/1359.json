@@ -1,0 +1,399 @@
+{
+ "id": 1359,
+ "slug": "ludi-bre-gono",
+ "title_cyr": "Луди бре Гоно",
+ "title_latin": "Ludi bre Gono",
+ "title_en": "Crazy Gono",
+ "pesna_url": "https://pesna.org/song/1359",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional outlaw (hajduk-style) song with two versions. 'Престегнал магаренцето' is my reading (he girded/saddled the donkey); 'малихера' I read as the Mannlicher rifle; Resava is a place name I could not verify.",
+ "words_to_learn": [
+  {
+   "mk": "луди",
+   "en": "crazy, wild"
+  },
+  {
+   "mk": "ајде",
+   "en": "come on (filler/urging)"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (emphatic particle)"
+  },
+  {
+   "mk": "селаните",
+   "en": "the villagers"
+  },
+  {
+   "mk": "Паша",
+   "en": "Pasha, Ottoman official"
+  },
+  {
+   "mk": "магаренце",
+   "en": "little donkey"
+  },
+  {
+   "mk": "се преправил",
+   "en": "disguised himself"
+  },
+  {
+   "mk": "мариовец",
+   "en": "man from Mariovo"
+  },
+  {
+   "mk": "ќебе",
+   "en": "blanket (rough woollen)"
+  },
+  {
+   "mk": "малихера",
+   "en": "Mannlicher rifle"
+  },
+  {
+   "mk": "ефенди",
+   "en": "effendi, sir (Ottoman title)"
+  }
+ ],
+ "performers": [
+  "Академци",
+  "Ѓорѓи Желчевски",
+  "Тиквешки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/3528"
+  },
+  {
+   "who": "Академци",
+   "url": "https://pesna.org/audio-download/4048"
+  },
+  {
+   "who": "Тиквешки бисери",
+   "url": "https://pesna.org/audio-download/4049"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да го бие и да го убие",
+       "lat": "Bog da go bie i da go ubie",
+       "en": "May God strike him and kill him,"
+      },
+      {
+       "cyr": "луди Гоно.",
+       "lat": "ludi Gono.",
+       "en": "crazy Gono."
+      },
+      {
+       "cyr": "Ајде ќе ми оди, луди бре Гоно,",
+       "lat": "Ajde ḱe mi odi, ludi bre Gono,",
+       "en": "Come on, he goes off, crazy Gono,"
+      },
+      {
+       "cyr": "за Ресава.",
+       "lat": "za Resava.",
+       "en": "to Resava."
+      },
+      {
+       "cyr": "Ајде ќе ми оди, луди бре Гоно,",
+       "lat": "Ajde ḱe mi odi, ludi bre Gono,",
+       "en": "Come on, he goes off, crazy Gono,"
+      },
+      {
+       "cyr": "за Ресава.",
+       "lat": "za Resava.",
+       "en": "to Resava."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде го сретнаја, ем му викаја",
+       "lat": "Ajde go sretnaja, em mu vikaja",
+       "en": "Come on, they met him and called out to him,"
+      },
+      {
+       "cyr": "селаните:",
+       "lat": "selanite:",
+       "en": "the villagers:"
+      },
+      {
+       "cyr": "- Ајде не ми оди, луди бре Гоно,",
+       "lat": "- Ajde ne mi odi, ludi bre Gono,",
+       "en": "- Come on, do not go, crazy Gono,"
+      },
+      {
+       "cyr": "за Ресава.",
+       "lat": "za Resava.",
+       "en": "to Resava."
+      },
+      {
+       "cyr": "Ајде ќе те сретне, луди бре Гоно,",
+       "lat": "Ajde ḱe te sretne, ludi bre Gono,",
+       "en": "Come on, he will meet you, crazy Gono,"
+      },
+      {
+       "cyr": "Селил Паша.",
+       "lat": "Selil Paša.",
+       "en": "Selil Pasha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде не послушал луди бре Гоно,",
+       "lat": "Ajde ne poslušal ludi bre Gono,",
+       "en": "Come on, he did not listen, crazy Gono,"
+      },
+      {
+       "cyr": "селаните,",
+       "lat": "selanite,",
+       "en": "to the villagers,"
+      },
+      {
+       "cyr": "ајде ми престегнал, луди бре Гоно,",
+       "lat": "ajde mi prestegnal, ludi bre Gono,",
+       "en": "come on, he girded on, crazy Gono,"
+      },
+      {
+       "cyr": "магаренцето.",
+       "lat": "magarenceto.",
+       "en": "the little donkey."
+      },
+      {
+       "cyr": "Ајде ми го удри, луди бре Гоно,",
+       "lat": "Ajde mi go udri, ludi bre Gono,",
+       "en": "Come on, he struck him, crazy Gono,"
+      },
+      {
+       "cyr": "Селил Паша.",
+       "lat": "Selil Paša.",
+       "en": "Selil Pasha."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде бог да бие и да го убие",
+       "lat": "Ajde bog da bie i da go ubie",
+       "en": "Come on, may God strike and kill him,"
+      },
+      {
+       "cyr": "луди Гоно.",
+       "lat": "ludi Gono.",
+       "en": "crazy Gono."
+      },
+      {
+       "cyr": "Ајде се преправил, луди бре Гоно,",
+       "lat": "Ajde se prepravil, ludi bre Gono,",
+       "en": "Come on, he disguised himself, crazy Gono,"
+      },
+      {
+       "cyr": "стари дедо.",
+       "lat": "stari dedo.",
+       "en": "as an old grandfather."
+      },
+      {
+       "cyr": "Ајде стари дедо, луди бре Гоно,",
+       "lat": "Ajde stari dedo, ludi bre Gono,",
+       "en": "Come on, an old grandfather, crazy Gono,"
+      },
+      {
+       "cyr": "мариовец.",
+       "lat": "mariovec.",
+       "en": "from Mariovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде си наметнал, луди бре Гоно,",
+       "lat": "Ajde si nametnal, ludi bre Gono,",
+       "en": "Come on, he threw over himself, crazy Gono,"
+      },
+      {
+       "cyr": "ќебенцето.",
+       "lat": "ḱebenceto.",
+       "en": "a little blanket."
+      },
+      {
+       "cyr": "И под ќебенце, луди бре Гоно,",
+       "lat": "I pod ḱebence, ludi bre Gono,",
+       "en": "And under the blanket, crazy Gono,"
+      },
+      {
+       "cyr": "малихера.",
+       "lat": "malihera.",
+       "en": "a Mannlicher rifle."
+      },
+      {
+       "cyr": "И под ќебенце, луди бре Гоно,",
+       "lat": "I pod ḱebence, ludi bre Gono,",
+       "en": "And under the blanket, crazy Gono,"
+      },
+      {
+       "cyr": "малихера.",
+       "lat": "malihera.",
+       "en": "a Mannlicher rifle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ќе ми оди, луди бре Гоно,",
+       "lat": "Ajde ḱe mi odi, ludi bre Gono,",
+       "en": "Come on, he goes off, crazy Gono,"
+      },
+      {
+       "cyr": "за Ресава.",
+       "lat": "za Resava.",
+       "en": "to Resava."
+      },
+      {
+       "cyr": "На пат го пречекал, луди бре Гоно,",
+       "lat": "Na pat go prečekal, ludi bre Gono,",
+       "en": "On the road he was met, crazy Gono,"
+      },
+      {
+       "cyr": "Селим Паша.",
+       "lat": "Selim Paša.",
+       "en": "by Selim Pasha."
+      },
+      {
+       "cyr": "На пат го пречекал, луди бре Гоно,",
+       "lat": "Na pat go prečekal, ludi bre Gono,",
+       "en": "On the road he was met, crazy Gono,"
+      },
+      {
+       "cyr": "Селим Паша.",
+       "lat": "Selim Paša.",
+       "en": "by Selim Pasha."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде каде одиш, стари бре дедо,",
+       "lat": "- Ajde kade odiš, stari bre dedo,",
+       "en": "- Come on, where are you going, old grandfather,"
+      },
+      {
+       "cyr": "мариовец?",
+       "lat": "mariovec?",
+       "en": "from Mariovo?"
+      },
+      {
+       "cyr": "Нели го виде, стари бре дедо,",
+       "lat": "Neli go vide, stari bre dedo,",
+       "en": "Did you not see, old grandfather,"
+      },
+      {
+       "cyr": "луди Гоно?",
+       "lat": "ludi Gono?",
+       "en": "crazy Gono?"
+      },
+      {
+       "cyr": "Нели го виде, стари бре дедо,",
+       "lat": "Neli go vide, stari bre dedo,",
+       "en": "Did you not see, old grandfather,"
+      },
+      {
+       "cyr": "луди Гоно?",
+       "lat": "ludi Gono?",
+       "en": "crazy Gono?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да го видам, Селим бре Паша,",
+       "lat": "- I da go vidam, Selim bre Paša,",
+       "en": "- Even if I saw him, Selim Pasha,"
+      },
+      {
+       "cyr": "луди Гоно,",
+       "lat": "ludi Gono,",
+       "en": "crazy Gono,"
+      },
+      {
+       "cyr": "Јас луди Гоно, Селим бре Паша,",
+       "lat": "Jas ludi Gono, Selim bre Paša,",
+       "en": "I do not know crazy Gono, Selim Pasha,"
+      },
+      {
+       "cyr": "не го познавам.",
+       "lat": "ne go poznavam.",
+       "en": "I do not know him."
+      },
+      {
+       "cyr": "Јас луди Гоно, Селим бре Паша,",
+       "lat": "Jas ludi Gono, Selim bre Paša,",
+       "en": "I do not know crazy Gono, Selim Pasha,"
+      },
+      {
+       "cyr": "не го познавам.",
+       "lat": "ne go poznavam.",
+       "en": "I do not know him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Одил што одил, луди бре Гоно,",
+       "lat": "Odil što odil, ludi bre Gono,",
+       "en": "He walked as he walked, crazy Gono,"
+      },
+      {
+       "cyr": "па се повратил.",
+       "lat": "pa se povratil.",
+       "en": "and then turned back."
+      },
+      {
+       "cyr": "Па си откачил пушка малихера",
+       "lat": "Pa si otkačil puška malihera",
+       "en": "And he unhooked the Mannlicher rifle"
+      },
+      {
+       "cyr": "од рамото.",
+       "lat": "od ramoto.",
+       "en": "from his shoulder."
+      },
+      {
+       "cyr": "- Елај да го видиш, аго бре ефенди,",
+       "lat": "- Elaj da go vidiš, ago bre efendi,",
+       "en": "- Come here and see him, aga, effendi,"
+      },
+      {
+       "cyr": "луди Гоно!",
+       "lat": "ludi Gono!",
+       "en": "crazy Gono!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,169 @@
+{
+ "id": 368,
+ "slug": "marika-moma-ubava",
+ "title_cyr": "Марика мома убава",
+ "title_latin": "Marika moma ubava",
+ "title_en": "Marika, the Beautiful Maiden",
+ "pesna_url": "https://pesna.org/song/368",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Кристина Боцеска)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Алексо Димов",
+  "Благоја Николовски",
+  "Виртус Велес",
+  "Драган Вучиќ",
+  "Зафир Хаџиманов",
+  "Зоран Џорлев",
+  "Зуица Лазова",
+  "Љупчо Бубо Каров",
+  "Октет Македонија",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев, Љупчо Бубо Каров",
+   "url": "https://pesna.org/audio-download/1530"
+  },
+  {
+   "who": "Алексо Димов",
+   "url": "https://pesna.org/audio-download/1531"
+  },
+  {
+   "who": "Драган Вучиќ",
+   "url": "https://pesna.org/audio-download/1532"
+  },
+  {
+   "who": "Филиграни",
+   "url": "https://pesna.org/audio-download/1533"
+  },
+  {
+   "who": "Зуица Лазова",
+   "url": "https://pesna.org/audio-download/2902"
+  },
+  {
+   "who": "Октет Македонија",
+   "url": "https://pesna.org/audio-download/4069"
+  },
+  {
+   "who": "Зафир Хаџиманов",
+   "url": "https://pesna.org/audio-download/4070"
+  },
+  {
+   "who": "Благоја Николовски",
+   "url": "https://pesna.org/audio-download/4071"
+  },
+  {
+   "who": "Виртус Велес",
+   "url": "https://pesna.org/audio-download/4072"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Марика мома убава,",
+       "lat": "Marika moma ubava,",
+       "en": "Marika, the beautiful maiden,"
+      },
+      {
+       "cyr": "Марика, турски карамфил,",
+       "lat": "Marika, turski karamfil,",
+       "en": "Marika, a Turkish carnation,"
+      },
+      {
+       "cyr": "девет години носена",
+       "lat": "devet godini nosena",
+       "en": "carried for nine years"
+      },
+      {
+       "cyr": "во ергенските џепови.",
+       "lat": "vo ergenskite džepovi.",
+       "en": "in the pockets of bachelors."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва година отидов",
+       "lat": "Prva godina otidov",
+       "en": "The first year I went"
+      },
+      {
+       "cyr": "Марика да ја посакам,",
+       "lat": "Marika da ja posakam,",
+       "en": "to ask for Marika’s hand,"
+      },
+      {
+       "cyr": "мајка ѝ вели говори:",
+       "lat": "majka ì veli govori:",
+       "en": "her mother said:"
+      },
+      {
+       "cyr": "- Мала е наш'та Марика.",
+       "lat": "- Mala e naš'ta Marika.",
+       "en": "- Our Marika is too young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втора година отидов",
+       "lat": "Vtora godina otidov",
+       "en": "The second year I went"
+      },
+      {
+       "cyr": "Марика да ја посвршам,",
+       "lat": "Marika da ja posvršam,",
+       "en": "to propose to Marika,"
+      },
+      {
+       "cyr": "мајка ѝ вели говори:",
+       "lat": "majka ì veli govori:",
+       "en": "her mother said:"
+      },
+      {
+       "cyr": "- Болна е наш'та Марика.",
+       "lat": "- Bolna e naš'ta Marika.",
+       "en": "- Our Marika is unwell."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трета година отидов",
+       "lat": "Treta godina otidov",
+       "en": "The third year I went"
+      },
+      {
+       "cyr": "Марика да ја земам,",
+       "lat": "Marika da ja zemam,",
+       "en": "to take Marika,"
+      },
+      {
+       "cyr": "мајка ѝ вели говори:",
+       "lat": "majka ì veli govori:",
+       "en": "her mother said:"
+      },
+      {
+       "cyr": "- Премина наш'та Марика.",
+       "lat": "- Premina naš'ta Marika.",
+       "en": "- Our Marika has passed away."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

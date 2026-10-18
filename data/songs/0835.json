@@ -1,0 +1,207 @@
+{
+ "id": 835,
+ "slug": "gjorgji-i-elena",
+ "title_cyr": "Ѓорѓи и Елена",
+ "title_latin": "Ǵorǵi i Elena",
+ "title_en": "Gjorgji and Elena",
+ "pesna_url": "https://pesna.org/song/835",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, no author known (origin unclear). 'сајбија' read as 'master, lord' (Turkish sahibi), my reading; 'Трендафилче' read as Gjorgji's nickname or surname.",
+ "words_to_learn": [
+  {
+   "mk": "се армаса",
+   "en": "got engaged (dialect)"
+  },
+  {
+   "mk": "скришно",
+   "en": "secretly"
+  },
+  {
+   "mk": "остави",
+   "en": "left, abandoned"
+  },
+  {
+   "mk": "граница",
+   "en": "border"
+  },
+  {
+   "mk": "прекле",
+   "en": "cursed"
+  },
+  {
+   "mk": "куршум",
+   "en": "bullet"
+  },
+  {
+   "mk": "пукни",
+   "en": "fires, goes off"
+  },
+  {
+   "mk": "дека",
+   "en": "where (dialect)"
+  },
+  {
+   "mk": "рани",
+   "en": "wounds"
+  },
+  {
+   "mk": "крпи",
+   "en": "rags, bandages"
+  }
+ ],
+ "performers": [
+  "Воденки",
+  "Зоран Џорлев"
+ ],
+ "audio": [
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1778"
+  },
+  {
+   "who": "Воденки",
+   "url": "https://pesna.org/audio-download/3121"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Скришно се Лена армаса)",
+       "lat": "(Skrišno se Lena armasa)",
+       "en": "(Secretly Lena got engaged)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко се Елена армаса",
+       "lat": "Ko se Elena armasa",
+       "en": "When Elena got engaged"
+      },
+      {
+       "cyr": "за Ѓорги Трендафилчето,",
+       "lat": "za Ǵorgi Trendafilčeto,",
+       "en": "to Gjorgji Trendafilche,"
+      },
+      {
+       "cyr": "Ѓорги Елена остави,",
+       "lat": "Ǵorgi Elena ostavi,",
+       "en": "Gjorgji left Elena,"
+      },
+      {
+       "cyr": "преку гр'ница префрли.",
+       "lat": "preku gr'nica prefrli.",
+       "en": "he crossed over the border."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Луто го Лена прек'лна:",
+       "lat": "Luto go Lena prek'lna:",
+       "en": "Lena cursed him bitterly:"
+      },
+      {
+       "cyr": "- Да дади Господ, бре Ѓорги,",
+       "lat": "- Da dadi Gospod, bre Ǵorgi,",
+       "en": "- May the Lord grant, hey Gjorgji,"
+      },
+      {
+       "cyr": "да дади Господ, бре Ѓорги,",
+       "lat": "da dadi Gospod, bre Ǵorgi,",
+       "en": "may the Lord grant, hey Gjorgji,"
+      },
+      {
+       "cyr": "сајбија бој да отвори.",
+       "lat": "sajbija boj da otvori.",
+       "en": "that the master opens a battle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сајбија бој да отвори,",
+       "lat": "Sajbija boj da otvori,",
+       "en": "That the master opens a battle,"
+      },
+      {
+       "cyr": "девет куршуми да пукни.",
+       "lat": "devet kuršumi da pukni.",
+       "en": "that nine bullets fire."
+      },
+      {
+       "cyr": "Девет куршуми да пукни,",
+       "lat": "Devet kuršumi da pukni,",
+       "en": "That nine bullets fire,"
+      },
+      {
+       "cyr": "десетио Ѓорги да удри.",
+       "lat": "desetio Ǵorgi da udri.",
+       "en": "and the tenth strikes Gjorgji."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѓорги Елена побара:",
+       "lat": "Ǵorgi Elena pobara:",
+       "en": "Gjorgji asked for Elena:"
+      },
+      {
+       "cyr": "- Дека си Лено, дека си.",
+       "lat": "- Deka si Leno, deka si.",
+       "en": "- Where are you, Lena, where are you."
+      },
+      {
+       "cyr": "Дека си Лено, дека си,",
+       "lat": "Deka si Leno, deka si,",
+       "en": "Where are you, Lena, where are you,"
+      },
+      {
+       "cyr": "сега при мене да дојдиш?",
+       "lat": "sega pri mene da dojdiš?",
+       "en": "to come to me now?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега при мене да дојдиш,",
+       "lat": "Sega pri mene da dojdiš,",
+       "en": "To come to me now,"
+      },
+      {
+       "cyr": "љутите рани да миеш.",
+       "lat": "ljutite rani da mieš.",
+       "en": "to wash my bitter wounds."
+      },
+      {
+       "cyr": "Лутите рани да миеш,",
+       "lat": "Lutite rani da mieš,",
+       "en": "To wash my bitter wounds,"
+      },
+      {
+       "cyr": "крвави крпи да периш.",
+       "lat": "krvavi krpi da periš.",
+       "en": "to wash the bloody rags."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

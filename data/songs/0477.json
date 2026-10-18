@@ -1,0 +1,117 @@
+{
+ "id": 477,
+ "slug": "vasilica",
+ "title_cyr": "Василица",
+ "title_latin": "Vasilica",
+ "title_en": "Vasilica",
+ "pesna_url": "https://pesna.org/song/477",
+ "background": "A New Year's Eve round for the Old New Year (St. Basil). The greyed New Year wanders; the household answers at the door with the call \"open up, host\", and the wishes at midnight are for a good harvest.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Looks like a New Year (Vasilica) carol; that context is my reading from the closing call to the householder. 'Сива' may be a term of address rather than literal grey hair.",
+ "words_to_learn": [
+  {
+   "mk": "сива",
+   "en": "grey"
+  },
+  {
+   "mk": "осивила",
+   "en": "turned grey"
+  },
+  {
+   "mk": "таму долу",
+   "en": "down there"
+  },
+  {
+   "mk": "бел Дунав",
+   "en": "white Danube"
+  },
+  {
+   "mk": "шчо / што",
+   "en": "what"
+  },
+  {
+   "mk": "имаше",
+   "en": "had"
+  },
+  {
+   "mk": "златна чаша",
+   "en": "golden cup"
+  },
+  {
+   "mk": "икона",
+   "en": "icon"
+  },
+  {
+   "mk": "отвори",
+   "en": "open (imperative)"
+  },
+  {
+   "mk": "домаќин",
+   "en": "master of the house, host"
+  }
+ ],
+ "performers": [
+  "Дарија Андриеска",
+  "Драгана Танеска",
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2085"
+  },
+  {
+   "who": "Драгана Танеска",
+   "url": "https://pesna.org/audio-download/3768"
+  },
+  {
+   "who": "Дарија Андриеска",
+   "url": "https://pesna.org/audio-download/3770"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сива, сива Василице,",
+       "lat": "Siva, siva Vasilice,",
+       "en": "Grey, grey Vasilica,"
+      },
+      {
+       "cyr": "каде си се осивила?",
+       "lat": "kade si se osivila?",
+       "en": "where did you turn grey?"
+      },
+      {
+       "cyr": "- Таму долу, на бел Дунав.",
+       "lat": "- Tamu dolu, na bel Dunav.",
+       "en": "- Down there, on the white Danube."
+      },
+      {
+       "cyr": "Што имаше, што немаше?",
+       "lat": "Što imaše, što nemaše?",
+       "en": "What did you have, what didn't you have?"
+      },
+      {
+       "cyr": "- Златна чаша и икона.",
+       "lat": "- Zlatna čaša i ikona.",
+       "en": "- A golden cup and an icon."
+      },
+      {
+       "cyr": "- Ееј, ОТВОРИ, ДОМАЌИНЕ!",
+       "lat": "- Eej, OTVORI, DOMAḰINE!",
+       "en": "- Heey, OPEN UP, MASTER OF THE HOUSE!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

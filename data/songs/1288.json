@@ -1,0 +1,141 @@
+{
+ "id": 1288,
+ "slug": "majka-pesna-za-lerin",
+ "title_cyr": "Мајка (песна за Лерин)",
+ "title_latin": "Majka (pesna za Lerin)",
+ "title_en": "Mother (Song for Lerin)",
+ "pesna_url": "https://pesna.org/song/1288",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; I cannot name an author. Lerin is the Macedonian name of Florina in Greece. Dash lines are a son and mother dialogue.",
+ "words_to_learn": [
+  {
+   "mk": "сакана",
+   "en": "beloved"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "ведро небо",
+   "en": "clear sky"
+  },
+  {
+   "mk": "чедо",
+   "en": "child"
+  },
+  {
+   "mk": "тирани",
+   "en": "tyrants"
+  },
+  {
+   "mk": "клети",
+   "en": "accursed"
+  },
+  {
+   "mk": "избркаа",
+   "en": "drove out"
+  },
+  {
+   "mk": "желба",
+   "en": "wish"
+  },
+  {
+   "mk": "Егеј",
+   "en": "the Aegean"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3252"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мајко моја, сакана и мила,",
+       "lat": "- Ej majko moja, sakana i mila,",
+       "en": "- Hey, my mother, beloved and dear,"
+      },
+      {
+       "cyr": "кажи каква тага в' срце ти си скрила?",
+       "lat": "kaži kakva taga v' srce ti si skrila?",
+       "en": "tell me what sorrow you have hidden in your heart."
+      },
+      {
+       "cyr": "- Пред многу години, под ведро небо",
+       "lat": "- Pred mnogu godini, pod vedro nebo",
+       "en": "- Many years ago, under a clear sky,"
+      },
+      {
+       "cyr": "во градот Лерин родена сум чедо.",
+       "lat": "vo gradot Lerin rodena sum čedo.",
+       "en": "I was born a child in the town of Lerin."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мајко моја, сакана и мила,",
+       "lat": "- Ej majko moja, sakana i mila,",
+       "en": "- Hey, my mother, beloved and dear,"
+      },
+      {
+       "cyr": "кажи каква тага в' срце ти си скрила?",
+       "lat": "kaži kakva taga v' srce ti si skrila?",
+       "en": "tell me what sorrow you have hidden in your heart."
+      },
+      {
+       "cyr": "- Пред многу години, тирани клети",
+       "lat": "- Pred mnogu godini, tirani kleti",
+       "en": "- Many years ago, accursed tyrants"
+      },
+      {
+       "cyr": "нè избркаа, сине, од домови свети.",
+       "lat": "nè izbrkaa, sine, od domovi sveti.",
+       "en": "drove us out, son, from our holy homes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мајко моја, сакана и мила,",
+       "lat": "- Ej majko moja, sakana i mila,",
+       "en": "- Hey, my mother, beloved and dear,"
+      },
+      {
+       "cyr": "кажи која желба последна би ти била?",
+       "lat": "kaži koja želba posledna bi ti bila?",
+       "en": "tell me what your last wish would be."
+      },
+      {
+       "cyr": "- Пред да умрам, сине, Егеј јас да видам,",
+       "lat": "- Pred da umram, sine, Egej jas da vidam,",
+       "en": "- Before I die, son, to see the Aegean,"
+      },
+      {
+       "cyr": "барем уште еднаш Лерин да си видам.",
+       "lat": "barem ušte ednaš Lerin da si vidam.",
+       "en": "at least once more to see Lerin."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

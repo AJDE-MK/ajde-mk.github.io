@@ -1,0 +1,161 @@
+{
+ "id": 503,
+ "slug": "zaljubiv-edno-mlado-devojche",
+ "title_cyr": "Заљубив едно младо девојче",
+ "title_latin": "Zaljubiv edno mlado devojče",
+ "title_en": "I fell in love with a young girl",
+ "pesna_url": "https://pesna.org/song/503",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Line 3 of stanza 1 ('најџвевме', 'кажвевме') looks like garbled or dialect forms; 'found each other / told each other' is my reading. 'Несвршено' as 'not yet promised' is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "девојче",
+   "en": "young girl"
+  },
+  {
+   "mk": "несвршено",
+   "en": "not yet betrothed (my reading)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "неверна",
+   "en": "unfaithful"
+  },
+  {
+   "mk": "полудеам",
+   "en": "I go mad"
+  },
+  {
+   "mk": "посврши",
+   "en": "betrothed (you to someone)"
+  },
+  {
+   "mk": "гласно да редиш",
+   "en": "to lament aloud"
+  }
+ ],
+ "performers": [
+  "Ансамбл ресенчани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/3224"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Заљубив едно младо девојче",
+       "lat": "Zaljubiv edno mlado devojče",
+       "en": "I fell in love with a young girl"
+      },
+      {
+       "cyr": "што ми беше несвршено",
+       "lat": "što mi beše nesvršeno",
+       "en": "who was not yet promised,"
+      },
+      {
+       "cyr": "кај се најџвевме, се' си кажвевме",
+       "lat": "kaj se najdžvevme, se' si kažvevme",
+       "en": "where we found each other, we told each other everything,"
+      },
+      {
+       "cyr": "болки на срце што си имавме.",
+       "lat": "bolki na srce što si imavme.",
+       "en": "the pains of the heart that we had."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нашата љубов беше неверна",
+       "lat": "Našata ljubov beše neverna",
+       "en": "Our love was unfaithful,"
+      },
+      {
+       "cyr": "што си ја ние либе имавме",
+       "lat": "što si ja nie libe imavme",
+       "en": "the love we had, sweetheart,"
+      },
+      {
+       "cyr": "јас да те љубам, да полудеам",
+       "lat": "jas da te ljubam, da poludeam",
+       "en": "that I love you, that I go mad,"
+      },
+      {
+       "cyr": "заради љубовта што си ја имавме.",
+       "lat": "zaradi ljubovta što si ja imavme.",
+       "en": "because of the love we had."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да убие либе мајка ти",
+       "lat": "Bog da ubie libe majka ti",
+       "en": "May God strike down your mother, sweetheart,"
+      },
+      {
+       "cyr": "што те посврши за друго либе",
+       "lat": "što te posvrši za drugo libe",
+       "en": "who betrothed you to another love,"
+      },
+      {
+       "cyr": "колку е жално, колку е горко",
+       "lat": "kolku e žalno, kolku e gorko",
+       "en": "how sad it is, how bitter,"
+      },
+      {
+       "cyr": "јас да те љубам, друг да те земи.",
+       "lat": "jas da te ljubam, drug da te zemi.",
+       "en": "that I love you, and another takes you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе умрам мори либе ле",
+       "lat": "Koga ḱe umram mori libe le",
+       "en": "When I die, oh sweetheart,"
+      },
+      {
+       "cyr": "ти на гробот мој либе да дојдиш",
+       "lat": "ti na grobot moj libe da dojdiš",
+       "en": "you come to my grave, sweetheart,"
+      },
+      {
+       "cyr": "солзи да рониш, гласно да редиш",
+       "lat": "solzi da roniš, glasno da rediš",
+       "en": "shed tears, lament aloud,"
+      },
+      {
+       "cyr": "заради љубовта што ја имавме.",
+       "lat": "zaradi ljubovta što ja imavme.",
+       "en": "because of the love we had."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

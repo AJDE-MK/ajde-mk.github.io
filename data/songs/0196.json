@@ -1,0 +1,165 @@
+{
+ "id": 196,
+ "slug": "jas-koga-bev-ovcharche",
+ "title_cyr": "Јас кога бев овчарче",
+ "title_latin": "Jas koga bev ovčarče",
+ "title_en": "When I Was a Little Shepherd",
+ "pesna_url": "https://pesna.org/song/196",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Nostalgic song about leaving shepherd life; origin unclear, I cannot name an author. 'зшчо' is a typo, read as 'зошто' (why); 'од лек' and 'на цел пат' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "овчарче",
+   "en": "little shepherd"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "благодарен",
+   "en": "thankful"
+  },
+  {
+   "mk": "сиромав",
+   "en": "poor"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "свирев",
+   "en": "I played (an instrument)"
+  },
+  {
+   "mk": "од лек",
+   "en": "out of ease, carefree joy"
+  },
+  {
+   "mk": "пиле",
+   "en": "little bird (endearment)"
+  },
+  {
+   "mk": "шарено",
+   "en": "speckled, colorful"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Јовчо Караиванов"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3230"
+  },
+  {
+   "who": "Јовчо Караиванов",
+   "url": "https://pesna.org/audio-download/3372"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јас кога бев овчарче",
+       "lat": "Jas koga bev ovčarče",
+       "en": "When I was a little shepherd"
+      },
+      {
+       "cyr": "и овци си пасев,",
+       "lat": "i ovci si pasev,",
+       "en": "and grazed my sheep,"
+      },
+      {
+       "cyr": "бев многу благодарен,",
+       "lat": "bev mnogu blagodaren,",
+       "en": "I was very thankful,"
+      },
+      {
+       "cyr": "макар и сиромав.",
+       "lat": "makar i siromav.",
+       "en": "even though I was poor."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом зора зазореше",
+       "lat": "Štom zora zazoreše",
+       "en": "As soon as dawn broke"
+      },
+      {
+       "cyr": "ги терав надвор јас,",
+       "lat": "gi terav nadvor jas,",
+       "en": "I drove them out,"
+      },
+      {
+       "cyr": "низ гората си свирев",
+       "lat": "niz gorata si svirev",
+       "en": "through the forest I played the flute"
+      },
+      {
+       "cyr": "од лек понекогаш.",
+       "lat": "od lek ponekogaš.",
+       "en": "out of happiness sometimes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И сега кога гледам",
+       "lat": "I sega koga gledam",
+       "en": "And now when I see"
+      },
+      {
+       "cyr": "овчарче мало јас,",
+       "lat": "ovčarče malo jas,",
+       "en": "a little shepherd boy,"
+      },
+      {
+       "cyr": "не знам зшчо заминувам",
+       "lat": "ne znam zščo zaminuvam",
+       "en": "I do not know why I am leaving"
+      },
+      {
+       "cyr": "и одам на цел пат.",
+       "lat": "i odam na cel pat.",
+       "en": "and setting out on a long road."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој не ме видел, пиле, пиле",
+       "lat": "Koj ne me videl, pile, pile",
+       "en": "Whoever has not seen me, little bird, little bird,"
+      },
+      {
+       "cyr": "тој не ме знае,",
+       "lat": "toj ne me znae,",
+       "en": "he does not know me,"
+      },
+      {
+       "cyr": "вервај ме пиле, пиле шарено.",
+       "lat": "vervaj me pile, pile šareno.",
+       "en": "believe me, little bird, speckled little bird."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

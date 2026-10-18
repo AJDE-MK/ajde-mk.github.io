@@ -1,0 +1,141 @@
+{
+ "id": 663,
+ "slug": "dano-le-danche-ubava",
+ "title_cyr": "Дано ле Данче убава",
+ "title_latin": "Dano le Danče ubava",
+ "title_en": "Dana, Beautiful Danche",
+ "pesna_url": "https://pesna.org/song/663",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Дано ле Данче' is an affectionate address (Dana, diminutive Danche). 'Преваре' as 'deceived' and 'се армаса' as 'got engaged' are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "стројна",
+   "en": "slender, shapely"
+  },
+  {
+   "mk": "гиздава",
+   "en": "adorned, elegant"
+  },
+  {
+   "mk": "замислена",
+   "en": "pensive, lost in thought"
+  },
+  {
+   "mk": "натажена",
+   "en": "sad, sorrowful"
+  },
+  {
+   "mk": "искара",
+   "en": "scolded"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "се армаса",
+   "en": "got engaged"
+  },
+  {
+   "mk": "сношти",
+   "en": "last night"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/117"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дано ле Данче убава",
+       "lat": "Dano le Danče ubava",
+       "en": "Oh Dana, beautiful Danche,"
+      },
+      {
+       "cyr": "Дано ле стројна гиздава",
+       "lat": "Dano le strojna gizdava",
+       "en": "oh Dana, slender and adorned,"
+      },
+      {
+       "cyr": "што си ми замислена",
+       "lat": "što si mi zamislena",
+       "en": "why are you so pensive,"
+      },
+      {
+       "cyr": "што си ми натажена?",
+       "lat": "što si mi natažena?",
+       "en": "why are you so sorrowful?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дали те некој навредил",
+       "lat": "Dali te nekoj navredil",
+       "en": "Did someone insult you"
+      },
+      {
+       "cyr": "или те мајка искара,",
+       "lat": "ili te majka iskara,",
+       "en": "or did your mother scold you,"
+      },
+      {
+       "cyr": "та твојте црни очи",
+       "lat": "ta tvojte crni oči",
+       "en": "that your black eyes"
+      },
+      {
+       "cyr": "често се полни солзи?",
+       "lat": "često se polni solzi?",
+       "en": "are so often full of tears?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ниту ме некој навредил",
+       "lat": "Nitu me nekoj navredil",
+       "en": "No one insulted me"
+      },
+      {
+       "cyr": "ниту ме мајка искара,",
+       "lat": "nitu me majka iskara,",
+       "en": "and my mother did not scold me,"
+      },
+      {
+       "cyr": "туку ме либето превари",
+       "lat": "tuku me libeto prevari",
+       "en": "but my sweetheart deceived me,"
+      },
+      {
+       "cyr": "за друга сношти се армаса.",
+       "lat": "za druga snošti se armasa.",
+       "en": "last night he got engaged to another."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

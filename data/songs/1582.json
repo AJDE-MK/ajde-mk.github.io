@@ -1,0 +1,139 @@
+{
+ "id": 1582,
+ "slug": "mnogu-sam-gori-proshetal",
+ "title_cyr": "Многу сам гори прошетал",
+ "title_latin": "Mnogu sam gori prošetal",
+ "title_en": "I have wandered many forests",
+ "pesna_url": "https://pesna.org/song/1582",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional haiduk-type song; 'биро' is my reading as 'bailiff/officer' (guess). 'вршник да гори' is my reading: probably 'to tend the fire' or burn something for the roast; uncertain.",
+ "words_to_learn": [
+  {
+   "mk": "гори",
+   "en": "forests (dialect plural of гора)"
+  },
+  {
+   "mk": "прошетал",
+   "en": "(I have) strolled through"
+  },
+  {
+   "mk": "расплакал",
+   "en": "(I have) made cry"
+  },
+  {
+   "mk": "наредба",
+   "en": "order, decree"
+  },
+  {
+   "mk": "испече",
+   "en": "be roasted"
+  },
+  {
+   "mk": "дрва",
+   "en": "firewood"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (end-blown flute)"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  }
+ ],
+ "performers": [
+  "Трио Гавровски"
+ ],
+ "audio": [
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/4121"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Многу сам гори прошетал, биро бре,",
+       "lat": "Mnogu sam gori prošetal, biro bre,",
+       "en": "I have wandered many forests, hey, bailiff,"
+      },
+      {
+       "cyr": "најмногу Пирин планина.",
+       "lat": "najmnogu Pirin planina.",
+       "en": "most of all the Pirin mountain."
+      },
+      {
+       "cyr": "Многу сам мајки расплакал, биро бре,",
+       "lat": "Mnogu sam majki rasplakal, biro bre,",
+       "en": "I have made many mothers weep, hey, bailiff,"
+      },
+      {
+       "cyr": "најмногу мајка Асана.",
+       "lat": "najmnogu majka Asana.",
+       "en": "most of all Asan's mother."
+      },
+      {
+       "cyr": "Наредба сум му прочитал, биро бре,",
+       "lat": "Naredba sum mu pročital, biro bre,",
+       "en": "I read him the order, hey, bailiff,"
+      },
+      {
+       "cyr": "жив Асан да се испече.",
+       "lat": "živ Asan da se ispeče.",
+       "en": "that Asan be roasted alive."
+      },
+      {
+       "cyr": "Татко му сум го наредил, биро бре,",
+       "lat": "Tatko mu sum go naredil, biro bre,",
+       "en": "I ordered his father, hey, bailiff,"
+      },
+      {
+       "cyr": "за Асан дрва да збира.",
+       "lat": "za Asan drva da zbira.",
+       "en": "to gather wood for Asan."
+      },
+      {
+       "cyr": "Мајка му сум ја наредил, биро бре,",
+       "lat": "Majka mu sum ja naredil, biro bre,",
+       "en": "I ordered his mother, hey, bailiff,"
+      },
+      {
+       "cyr": "за Асан вршник да гори.",
+       "lat": "za Asan vršnik da gori.",
+       "en": "to burn the spit for Asan."
+      },
+      {
+       "cyr": "Браќа му сум ги наредил, биро бре,",
+       "lat": "Braḱa mu sum gi naredil, biro bre,",
+       "en": "I ordered his brothers, hey, bailiff,"
+      },
+      {
+       "cyr": "за Асан кавал да свират.",
+       "lat": "za Asan kaval da svirat.",
+       "en": "to play the flute for Asan."
+      },
+      {
+       "cyr": "Сестри му сум ги наредил, биро бре,",
+       "lat": "Sestri mu sum gi naredil, biro bre,",
+       "en": "I ordered his sisters, hey, bailiff,"
+      },
+      {
+       "cyr": "за Асан оро да играат.",
+       "lat": "za Asan oro da igraat.",
+       "en": "to dance the oro for Asan."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

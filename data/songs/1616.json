@@ -1,0 +1,89 @@
+{
+ "id": 1616,
+ "slug": "ubava-mome-janiko",
+ "title_cyr": "Убава моме Јанико",
+ "title_latin": "Ubava mome Janiko",
+ "title_en": "Beautiful girl Janika",
+ "pesna_url": "https://pesna.org/song/1616",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Драгица Мавровска"
+ ],
+ "audio": [
+  {
+   "who": "Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4302"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Убава моме Јанико",
+       "lat": "Ubava mome Janiko",
+       "en": "Beautiful girl Janika"
+      },
+      {
+       "cyr": "сонце се слага да зајде",
+       "lat": "sonce se slaga da zajde",
+       "en": "the sun is setting"
+      },
+      {
+       "cyr": "зад таа равна ридина.",
+       "lat": "zad taa ravna ridina.",
+       "en": "behind that flat hill."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зад ридината зелен бор,",
+       "lat": "Zad ridinata zelen bor,",
+       "en": "Behind the hill is a green pine,"
+      },
+      {
+       "cyr": "под борот седат аргати.",
+       "lat": "pod borot sedat argati.",
+       "en": "under the pine sit the workers."
+      },
+      {
+       "cyr": "Голем си одбор правеа.",
+       "lat": "Golem si odbor pravea.",
+       "en": "They were making a big board."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе одбори калинка,",
+       "lat": "Koj ḱe odbori kalinka,",
+       "en": "Whoever picks a pomegranate,"
+      },
+      {
+       "cyr": "тој ќе си земе Јанинка,",
+       "lat": "toj ḱe si zeme Janinka,",
+       "en": "will take Janinka,"
+      },
+      {
+       "cyr": "Јанинка мома убава.",
+       "lat": "Janinka moma ubava.",
+       "en": "the beautiful girl Janinka."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

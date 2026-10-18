@@ -1,0 +1,135 @@
+{
+ "id": 1073,
+ "slug": "duvni-mi-bel-vetre",
+ "title_cyr": "Дувни ми бел ветре",
+ "title_latin": "Duvni mi bel vetre",
+ "title_en": "Blow for me fair winds",
+ "pesna_url": "https://pesna.org/song/1073",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виевска фолк група",
+  "Гуна Иванова",
+  "Да! Можем",
+  "Илија Аргиров",
+  "Костадинка Палазова",
+  "Костадинка Танчева",
+  "Ливада",
+  "Перун"
+ ],
+ "audio": [
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/2497"
+  },
+  {
+   "who": "Илија Аргиров",
+   "url": "https://pesna.org/audio-download/2498"
+  },
+  {
+   "who": "Виевска фолк група",
+   "url": "https://pesna.org/audio-download/2499"
+  },
+  {
+   "who": "Гуна Иванова",
+   "url": "https://pesna.org/audio-download/2500"
+  },
+  {
+   "who": "Ливада",
+   "url": "https://pesna.org/audio-download/2501"
+  },
+  {
+   "who": "Костадинка Танчева",
+   "url": "https://pesna.org/audio-download/2502"
+  },
+  {
+   "who": "Да! Можем",
+   "url": "https://pesna.org/audio-download/3077"
+  },
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/3888"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дувни ми, дувни, бел ветре,",
+       "lat": "Duvni mi, duvni, bel vetre,",
+       "en": "Blow for me fair winds,"
+      },
+      {
+       "cyr": "разлулај гора зелена,",
+       "lat": "razlulaj gora zelena,",
+       "en": "roll the green forest,"
+      },
+      {
+       "cyr": "растопи бели снегови.",
+       "lat": "rastopi beli snegovi.",
+       "en": "melt the white snow."
+      },
+      {
+       "cyr": "Растопи бели снегови,",
+       "lat": "Rastopi beli snegovi,",
+       "en": "Melt the white snow"
+      },
+      {
+       "cyr": "отвори пат за Драма,",
+       "lat": "otvori pat za Drama,",
+       "en": "open the road to Drama,"
+      },
+      {
+       "cyr": "во Драма сакам да одам.",
+       "lat": "vo Drama sakam da odam.",
+       "en": "to Drama I want to go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во Драма сакам да одам,",
+       "lat": "Vo Drama sakam da odam,",
+       "en": "To Drama I want to go"
+      },
+      {
+       "cyr": "там' има либе болничко",
+       "lat": "tam' ima libe bolničko",
+       "en": "there my love is ill."
+      },
+      {
+       "cyr": "од дома да му донесам.",
+       "lat": "od doma da mu donesam.",
+       "en": "From home to take to him,"
+      },
+      {
+       "cyr": "Од дома да му донесам",
+       "lat": "Od doma da mu donesam",
+       "en": "from home to take to him"
+      },
+      {
+       "cyr": "печено јагне герговско,",
+       "lat": "pečeno jagne gergovsko,",
+       "en": "roast lamb of Gergovo,"
+      },
+      {
+       "cyr": "мелнишко вино црвено.",
+       "lat": "melniško vino crveno.",
+       "en": "red wine of Melnik."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

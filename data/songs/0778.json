@@ -1,0 +1,169 @@
+{
+ "id": 778,
+ "slug": "devojche-devojche",
+ "title_cyr": "Девојче, девојче",
+ "title_latin": "Devojče, devojče",
+ "title_en": "Girl, girl",
+ "pesna_url": "https://pesna.org/song/778",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Alan Moore)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Амајлија",
+  "Афион",
+  "Бело платно",
+  "Даниела Темелковска",
+  "Петар Петрушевски",
+  "Пеце Атанасовски",
+  "Стефче Стојковски",
+  "Темјанушки",
+  "Jar"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1354"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/1357"
+  },
+  {
+   "who": "Темјанушки",
+   "url": "https://pesna.org/audio-download/1359"
+  },
+  {
+   "who": "Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/1360"
+  },
+  {
+   "who": "Афион",
+   "url": "https://pesna.org/audio-download/2227"
+  },
+  {
+   "who": "Амајлија, Даниела Темелковска",
+   "url": "https://pesna.org/audio-download/2228"
+  },
+  {
+   "who": "Бело платно",
+   "url": "https://pesna.org/audio-download/2229"
+  },
+  {
+   "who": "Jar",
+   "url": "https://pesna.org/audio-download/2851"
+  },
+  {
+   "who": "Александар Сариевски, Петар Петрушевски",
+   "url": "https://pesna.org/audio-download/3401"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девојче, девојче, црвено јаболче,",
+       "lat": "Devojče, devojče, crveno jabolče,",
+       "en": "Girl, girl, red apple,"
+      },
+      {
+       "cyr": "не стој спроти мене, изгорев за тебе,",
+       "lat": "ne stoj sproti mene, izgorev za tebe,",
+       "en": "don't stand in front of me, I burn for you,"
+      },
+      {
+       "cyr": "изгорев за тебе како лен за вода,",
+       "lat": "izgorev za tebe kako len za voda,",
+       "en": "burn for you like flax for water,"
+      },
+      {
+       "cyr": "како лен за вода, босиљок за сенка.",
+       "lat": "kako len za voda, bosiljok za senka.",
+       "en": "like flax for water, basil for shade."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гори, лудо, гори, и јас така горам,",
+       "lat": "Gori, ludo, gori, i jas taka goram,",
+       "en": "Burn, crazy lad, burn, that's how I burn,"
+      },
+      {
+       "cyr": "гори, лудо, гори, и јас така горам,",
+       "lat": "gori, ludo, gori, i jas taka goram,",
+       "en": "burn, crazy lad, burn, that's how I burn,"
+      },
+      {
+       "cyr": "и јас така горам, нема што да сторам,",
+       "lat": "i jas taka goram, nema što da storam,",
+       "en": "that's how I burn, there is nothing I can do,"
+      },
+      {
+       "cyr": "и јас така горам, нема што да сторам!",
+       "lat": "i jas taka goram, nema što da storam!",
+       "en": "that's how I burn, there is nothing I can do!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девојче, девојче, дават ли те тебе,",
+       "lat": "Devojče, devojče, davat li te tebe,",
+       "en": "Girl, girl, are they giving you,"
+      },
+      {
+       "cyr": "девојче, девојче, дават ли те тебе,",
+       "lat": "devojče, devojče, davat li te tebe,",
+       "en": "girl, girl, are they giving you,"
+      },
+      {
+       "cyr": "дават ли те тебе, за мене сиромав,",
+       "lat": "davat li te tebe, za mene siromav,",
+       "en": "are they giving you, for me, so poor,"
+      },
+      {
+       "cyr": "дават ли те тебе, за мене сиромав?",
+       "lat": "davat li te tebe, za mene siromav?",
+       "en": "are they giving you, for me, so poor?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мама не ме дава уште годинава,",
+       "lat": "Mama ne me dava ušte godinava,",
+       "en": "Mother won't give me for another year,"
+      },
+      {
+       "cyr": "мама не ме дава уште годинава,",
+       "lat": "mama ne me dava ušte godinava,",
+       "en": "mother won't give me for another year,"
+      },
+      {
+       "cyr": "уште годинава, оти сум малечка,",
+       "lat": "ušte godinava, oti sum malečka,",
+       "en": "another year, because I'm too young,"
+      },
+      {
+       "cyr": "уште годинава, оти сум малечка!",
+       "lat": "ušte godinava, oti sum malečka!",
+       "en": "another year, because I'm too young!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

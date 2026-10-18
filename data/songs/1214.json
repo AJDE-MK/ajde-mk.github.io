@@ -1,0 +1,172 @@
+{
+ "id": 1214,
+ "slug": "da-mi-kupish-dervish-bajram",
+ "title_cyr": "Да ми купиш Дервиш Бајрам",
+ "title_latin": "Da mi kupiš Derviš Bajram",
+ "title_en": "Buy Me, Dervish Bayram",
+ "pesna_url": "https://pesna.org/song/1214",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding; origin unclear. 'Пуш елече' I read as a light tulle-like vest; 'распеглаш' as 'iron/smooth out', both my reading.",
+ "words_to_learn": [
+  {
+   "mk": "да ми купиш",
+   "en": "buy me (so that you buy me)"
+  },
+  {
+   "mk": "елече",
+   "en": "bolero, short vest"
+  },
+  {
+   "mk": "пиле",
+   "en": "chick (endearment)"
+  },
+  {
+   "mk": "ѓуло",
+   "en": "rose (Turkish gul, endearment)"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "раци",
+   "en": "hands"
+  },
+  {
+   "mk": "шарен",
+   "en": "colorful"
+  },
+  {
+   "mk": "шалвар",
+   "en": "baggy trousers"
+  },
+  {
+   "mk": "распеглаш",
+   "en": "you iron out"
+  }
+ ],
+ "performers": [
+  "Вера Филипова",
+  "Драгица Николова"
+ ],
+ "audio": [
+  {
+   "who": "Вера Филипова, Драгица Николова",
+   "url": "https://pesna.org/audio-download/2989"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Да ми купиш Дервиш Бајрам",
+       "lat": "- Da mi kupiš Derviš Bajram",
+       "en": "- Buy me, Dervish Bayram,"
+      },
+      {
+       "cyr": "пуш елече.",
+       "lat": "puš eleče.",
+       "en": "a tulle bolero (my reading)."
+      },
+      {
+       "cyr": "- Ќе ти купам, пиле ѓуло,",
+       "lat": "- Ḱe ti kupam, pile ǵulo,",
+       "en": "- I will buy you, my rose chick,"
+      },
+      {
+       "cyr": "ќе ти купам.",
+       "lat": "ḱe ti kupam.",
+       "en": "I will buy you."
+      },
+      {
+       "cyr": "Очи немам, пиле ѓуло,",
+       "lat": "Oči nemam, pile ǵulo,",
+       "en": "I have no eyes, my rose chick,"
+      },
+      {
+       "cyr": "да те видам.",
+       "lat": "da te vidam.",
+       "en": "to see you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ак' не можеш Дервиш Бајрам",
+       "lat": "- Ak' ne možeš Derviš Bajram",
+       "en": "- If you cannot, Dervish Bayram,"
+      },
+      {
+       "cyr": "да ме видиш,",
+       "lat": "da me vidiš,",
+       "en": "see me,"
+      },
+      {
+       "cyr": "раци имаш, Дервиш Бајрам,",
+       "lat": "raci imaš, Derviš Bajram,",
+       "en": "you have hands, Dervish Bayram,"
+      },
+      {
+       "cyr": "да распеглаш,",
+       "lat": "da raspeglaš,",
+       "en": "to iron it out,"
+      },
+      {
+       "cyr": "да распеглаш, Дервиш Бајрам,",
+       "lat": "da raspeglaš, Derviš Bajram,",
+       "en": "to iron it out, Dervish Bayram,"
+      },
+      {
+       "cyr": "пуш елече.",
+       "lat": "puš eleče.",
+       "en": "the tulle bolero (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да ми купиш Дервиш Бајрам",
+       "lat": "- Da mi kupiš Derviš Bajram",
+       "en": "- Buy me, Dervish Bayram,"
+      },
+      {
+       "cyr": "шарен шалвар.",
+       "lat": "šaren šalvar.",
+       "en": "baggy colorful trousers."
+      },
+      {
+       "cyr": "- Ќе ти купам, пиле ѓуло,",
+       "lat": "- Ḱe ti kupam, pile ǵulo,",
+       "en": "- I will buy you, my rose chick,"
+      },
+      {
+       "cyr": "ќе ти купам.",
+       "lat": "ḱe ti kupam.",
+       "en": "I will buy you."
+      },
+      {
+       "cyr": "Очи немам, пиле ѓуло,",
+       "lat": "Oči nemam, pile ǵulo,",
+       "en": "I have no eyes, my rose chick,"
+      },
+      {
+       "cyr": "да те видам.",
+       "lat": "da te vidam.",
+       "en": "to see you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

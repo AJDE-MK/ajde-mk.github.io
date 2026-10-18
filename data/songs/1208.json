@@ -1,0 +1,196 @@
+{
+ "id": 1208,
+ "slug": "prokleto-da-e-prikleto",
+ "title_cyr": "Проклето да е, приклето",
+ "title_latin": "Prokleto da e, prikleto",
+ "title_en": "Cursed Be, Accursed",
+ "pesna_url": "https://pesna.org/song/1208",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'лудо' is used as an endearment ('silly/dear one'); 'лојзе' as vineyard is my reading of dialect form.",
+ "words_to_learn": [
+  {
+   "mk": "проклето",
+   "en": "cursed"
+  },
+  {
+   "mk": "заљуби",
+   "en": "fell in love with"
+  },
+  {
+   "mk": "маало",
+   "en": "neighborhood"
+  },
+  {
+   "mk": "отвори",
+   "en": "open (imperative)"
+  },
+  {
+   "mk": "цигара",
+   "en": "cigarette"
+  },
+  {
+   "mk": "лојзе",
+   "en": "vineyard (dialect)"
+  },
+  {
+   "mk": "мотика",
+   "en": "hoe"
+  },
+  {
+   "mk": "платно",
+   "en": "linen cloth"
+  },
+  {
+   "mk": "белела",
+   "en": "was bleaching"
+  },
+  {
+   "mk": "лудо",
+   "en": "silly, dear (endearment)"
+  }
+ ],
+ "performers": [
+  "Група Билјана",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Група Билјана, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2970"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Проклето да е, приклето,",
+       "lat": "Prokleto da e, prikleto,",
+       "en": "Cursed be, accursed,"
+      },
+      {
+       "cyr": "кој си заљуби две моми,",
+       "lat": "koj si zaljubi dve momi,",
+       "en": "whoever fell in love with two girls,"
+      },
+      {
+       "cyr": "Проклето да е, приклето,",
+       "lat": "Prokleto da e, prikleto,",
+       "en": "Cursed be, accursed,"
+      },
+      {
+       "cyr": "кој си заљуби две моми",
+       "lat": "koj si zaljubi dve momi",
+       "en": "whoever fell in love with two girls"
+      },
+      {
+       "cyr": "и двете в' едно маало,",
+       "lat": "i dvete v' edno maalo,",
+       "en": "and both in the same neighborhood,"
+      },
+      {
+       "cyr": "Анка и Станка на едно.",
+       "lat": "Anka i Stanka na edno.",
+       "en": "Anka and Stanka together."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ја стани Станке, отвори,",
+       "lat": "- Ja stani Stanke, otvori,",
+       "en": "- Get up, Stanka, open the door,"
+      },
+      {
+       "cyr": "цигара да си запалам,",
+       "lat": "cigara da si zapalam,",
+       "en": "so I can light a cigarette,"
+      },
+      {
+       "cyr": "цигара да си запалам,",
+       "lat": "cigara da si zapalam,",
+       "en": "so I can light a cigarette,"
+      },
+      {
+       "cyr": "две думи да ти продумам.",
+       "lat": "dve dumi da ti produmam.",
+       "en": "and say two words to you."
+      },
+      {
+       "cyr": "- Не можам, лудо, да станам,",
+       "lat": "- Ne možam, ludo, da stanam,",
+       "en": "- I cannot get up, silly,"
+      },
+      {
+       "cyr": "цел ден сум лојзе копала,",
+       "lat": "cel den sum lojze kopala,",
+       "en": "I have dug the vineyard all day,"
+      },
+      {
+       "cyr": "цел ден сум лојзе копала,",
+       "lat": "cel den sum lojze kopala,",
+       "en": "I have dug the vineyard all day,"
+      },
+      {
+       "cyr": "тешка мотика дигала.",
+       "lat": "teška motika digala.",
+       "en": "I have lifted a heavy hoe."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја иди, лудо, при Анка,",
+       "lat": "Ja idi, ludo, pri Anka,",
+       "en": "Go, silly, to Anka,"
+      },
+      {
+       "cyr": "Анка е дома седела,",
+       "lat": "Anka e doma sedela,",
+       "en": "Anka has been sitting at home,"
+      },
+      {
+       "cyr": "Анка е дома седела,",
+       "lat": "Anka e doma sedela,",
+       "en": "Anka has been sitting at home,"
+      },
+      {
+       "cyr": "бело е платно белела.",
+       "lat": "belo e platno belela.",
+       "en": "bleaching white linen."
+      },
+      {
+       "cyr": "Бело е платно белела,",
+       "lat": "Belo e platno belela,",
+       "en": "Bleaching white linen,"
+      },
+      {
+       "cyr": "бело е лице измила,",
+       "lat": "belo e lice izmila,",
+       "en": "she washed her white face,"
+      },
+      {
+       "cyr": "бело е лице измила,",
+       "lat": "belo e lice izmila,",
+       "en": "she washed her white face,"
+      },
+      {
+       "cyr": "за тебе го исправила.",
+       "lat": "za tebe go ispravila.",
+       "en": "she prepared it for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

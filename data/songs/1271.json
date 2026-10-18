@@ -1,0 +1,161 @@
+{
+ "id": 1271,
+ "slug": "vojnik-ti-zaminuvash",
+ "title_cyr": "Војник ти заминуваш",
+ "title_latin": "Vojnik ti zaminuvaš",
+ "title_en": "Soldier, you are leaving",
+ "pesna_url": "https://pesna.org/song/1271",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (folk-style soldier song).",
+ "words_to_learn": [
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "заминуваш",
+   "en": "you are leaving"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "забраваш",
+   "en": "you forget"
+  },
+  {
+   "mk": "побарувам",
+   "en": "I look for"
+  },
+  {
+   "mk": "писмо",
+   "en": "letter"
+  },
+  {
+   "mk": "тагува",
+   "en": "grieves"
+  },
+  {
+   "mk": "проронува",
+   "en": "sheds (tears)"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3204"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Војник ти заминуваш,",
+       "lat": "Vojnik ti zaminuvaš,",
+       "en": "Soldier, you are leaving,"
+      },
+      {
+       "cyr": "мене ме млада оставаш,",
+       "lat": "mene me mlada ostavaš,",
+       "en": "you leave me, young as I am,"
+      },
+      {
+       "cyr": "ако ме либе оставаш,",
+       "lat": "ako me libe ostavaš,",
+       "en": "if you leave me, my love,"
+      },
+      {
+       "cyr": "само немој да ме забраваш.",
+       "lat": "samo nemoj da me zabravaš.",
+       "en": "just do not forget me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секаде јас погледнувам,",
+       "lat": "Sekade jas poglednuvam,",
+       "en": "Everywhere I look,"
+      },
+      {
+       "cyr": "тебе те побарувам,",
+       "lat": "tebe te pobaruvam,",
+       "en": "I search for you,"
+      },
+      {
+       "cyr": "тебе те нема крај мене,",
+       "lat": "tebe te nema kraj mene,",
+       "en": "you are not beside me,"
+      },
+      {
+       "cyr": "мене ме нема крај тебе.",
+       "lat": "mene me nema kraj tebe.",
+       "en": "I am not beside you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Често писмо пишувај,",
+       "lat": "Često pismo pišuvaj,",
+       "en": "Write letters often,"
+      },
+      {
+       "cyr": "немој, не ме забравај,",
+       "lat": "nemoj, ne me zabravaj,",
+       "en": "do not, do not forget me,"
+      },
+      {
+       "cyr": "душава за тебе тагува,",
+       "lat": "dušava za tebe taguva,",
+       "en": "my soul grieves for you,"
+      },
+      {
+       "cyr": "од срце солзи проронува.",
+       "lat": "od srce solzi proronuva.",
+       "en": "from my heart it sheds tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Секаде јас погледнувам,",
+       "lat": "Sekade jas poglednuvam,",
+       "en": "Everywhere I look,"
+      },
+      {
+       "cyr": "тебе те побарувам,",
+       "lat": "tebe te pobaruvam,",
+       "en": "I search for you,"
+      },
+      {
+       "cyr": "тебе те нема крај мене,",
+       "lat": "tebe te nema kraj mene,",
+       "en": "you are not beside me,"
+      },
+      {
+       "cyr": "мене ме нема крај тебе.",
+       "lat": "mene me nema kraj tebe.",
+       "en": "I am not beside you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

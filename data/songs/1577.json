@@ -1,0 +1,133 @@
+{
+ "id": 1577,
+ "slug": "aj-shto-merak-imam-babo",
+ "title_cyr": "Ај што мерак имам бабо",
+ "title_latin": "Aj što merak imam babo",
+ "title_en": "Oh, what a wish I have, father",
+ "pesna_url": "https://pesna.org/song/1577",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Local folk song from the Radovish area. 'раклишкото џаде' is my reading (the Raklish road); the town on the right is probably Radovish (my guess).",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "wish, longing, pleasure"
+  },
+  {
+   "mk": "бабо",
+   "en": "father, dad (dialect)"
+  },
+  {
+   "mk": "железар",
+   "en": "ironworker, blacksmith"
+  },
+  {
+   "mk": "џаде",
+   "en": "road, highway (Turkish loan)"
+  },
+  {
+   "mk": "моми",
+   "en": "girls"
+  },
+  {
+   "mk": "убавици",
+   "en": "beauties"
+  },
+  {
+   "mk": "градче",
+   "en": "little town"
+  }
+ ],
+ "performers": [
+  "Јордан Митев"
+ ],
+ "audio": [
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/4112"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај што мерак имам бабо, ај што мерак имам,",
+       "lat": "Aj što merak imam babo, aj što merak imam,",
+       "en": "Oh, what a wish I have, father, oh, what a wish I have,"
+      },
+      {
+       "cyr": "ај што мерак имам бабо, железар да бидам.",
+       "lat": "aj što merak imam babo, železar da bidam.",
+       "en": "oh, what a wish I have, father, to be an ironworker."
+      },
+      {
+       "cyr": "Железар да бидам бабо, железар да бидам,",
+       "lat": "Železar da bidam babo, železar da bidam,",
+       "en": "To be an ironworker, father, to be an ironworker,"
+      },
+      {
+       "cyr": "железар да бидам бабо, раклишкото џаде.",
+       "lat": "železar da bidam babo, rakliškoto džade.",
+       "en": "to be an ironworker, father, on the Raklish road."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па да си ги гледам бабо, па да си ги гледам,",
+       "lat": "Pa da si gi gledam babo, pa da si gi gledam,",
+       "en": "So that I can look at them, father, so that I can look at them,"
+      },
+      {
+       "cyr": "па да си ги гледам бабо, раклишките моми.",
+       "lat": "pa da si gi gledam babo, rakliškite momi.",
+       "en": "so that I can look at them, father, the girls of Raklish."
+      },
+      {
+       "cyr": "Раклишките моми бабо, раклишките моми",
+       "lat": "Rakliškite momi babo, rakliškite momi",
+       "en": "The girls of Raklish, father, the girls of Raklish,"
+      },
+      {
+       "cyr": "раклишките моми бабо, сите убавици.",
+       "lat": "rakliškite momi babo, site ubavici.",
+       "en": "the girls of Raklish, father, all of them beauties."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Од левата страна бабо, од левата страна,",
+       "lat": "Od levata strana babo, od levata strana,",
+       "en": "On the left side, father, on the left side,"
+      },
+      {
+       "cyr": "од левата страна бабо, село Ораовица.",
+       "lat": "od levata strana babo, selo Oraovica.",
+       "en": "on the left side, father, the village of Oraovica."
+      },
+      {
+       "cyr": "Па од десна страна бабо, па од десна страна,",
+       "lat": "Pa od desna strana babo, pa od desna strana,",
+       "en": "And on the right side, father, and on the right side,"
+      },
+      {
+       "cyr": "па од десна страна бабо, наш'то мало градче.",
+       "lat": "pa od desna strana babo, naš'to malo gradče.",
+       "en": "and on the right side, father, our little town."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

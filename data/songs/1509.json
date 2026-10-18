@@ -1,0 +1,181 @@
+{
+ "id": 1509,
+ "slug": "vishe-selo-rosa-rosi",
+ "title_cyr": "Више село роса роси",
+ "title_latin": "Više selo rosa rosi",
+ "title_en": "Above the village the dew falls",
+ "pesna_url": "https://pesna.org/song/1509",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The note says кросно is the beam of a loom. Last stanza is partly my reading: 'да не зему' is a dialect negative purpose clause, and the Plague is personified as a visitor who is chased off.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "dear, my dear (Turkish-origin endearment)"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "чума",
+   "en": "plague"
+  },
+  {
+   "mk": "селани",
+   "en": "villagers"
+  },
+  {
+   "mk": "сал",
+   "en": "only (dialect)"
+  },
+  {
+   "mk": "платно",
+   "en": "linen, woven cloth"
+  },
+  {
+   "mk": "лакти",
+   "en": "cubits (arm-length units)"
+  },
+  {
+   "mk": "кросно",
+   "en": "loom beam/loom (see note)"
+  }
+ ],
+ "performers": [
+  "Бело платно",
+  "Виданка Георгиева",
+  "Добрила Грашеска",
+  "Дориан Јовановиќ",
+  "Рајна Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Рајна Спасовска",
+   "url": "https://pesna.org/audio-download/3941"
+  },
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3942"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3943"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/3944"
+  },
+  {
+   "who": "Бело платно",
+   "url": "https://pesna.org/audio-download/3945"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Више село џанам роса роси,",
+       "lat": "Više selo džanam rosa rosi,",
+       "en": "Above the village, dear, the dew falls,"
+      },
+      {
+       "cyr": "и по село џанам ветар дува.",
+       "lat": "i po selo džanam vetar duva.",
+       "en": "and through the village, dear, the wind blows."
+      },
+      {
+       "cyr": "Среде село џанам чума бие,",
+       "lat": "Srede selo džanam čuma bie,",
+       "en": "In the middle of the village, dear, the plague strikes,"
+      },
+      {
+       "cyr": "сè селани џанам избегале.",
+       "lat": "sè selani džanam izbegale.",
+       "en": "all the villagers, dear, have fled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сал остана џанам бела Неда",
+       "lat": "Sal ostana džanam bela Neda",
+       "en": "Only white Neda, dear, was left,"
+      },
+      {
+       "cyr": "бела Неда џанам платно ткае.",
+       "lat": "bela Neda džanam platno tkae.",
+       "en": "white Neda, dear, weaves linen."
+      },
+      {
+       "cyr": "- Добро јутро џанам, бела Недо,",
+       "lat": "- Dobro jutro džanam, bela Nedo,",
+       "en": "- Good morning, dear, white Neda,"
+      },
+      {
+       "cyr": "да ми дадеш малку од платното?",
+       "lat": "da mi dadeš malku od platnoto?",
+       "en": "will you give me a little of the linen?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "У дужина, Недо, триста лакти,",
+       "lat": "U dužina, Nedo, trista lakti,",
+       "en": "In length, Neda, three hundred cubits,"
+      },
+      {
+       "cyr": "у ширина, Недо, девет лакти.",
+       "lat": "u širina, Nedo, devet lakti.",
+       "en": "in width, Neda, nine cubits."
+      },
+      {
+       "cyr": "Да направам, Недо, кошулчиња,",
+       "lat": "Da napravam, Nedo, košulčinja,",
+       "en": "Let me make, Neda, little shirts,"
+      },
+      {
+       "cyr": "кошулчиња Недо на чумчиња.",
+       "lat": "košulčinja Nedo na čumčinja.",
+       "en": "little shirts, Neda, for the little plagues."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ајде од туј мори, црна чумо,",
+       "lat": "- Ajde od tuj mori, crna čumo,",
+       "en": "- Go away from here, hey, black plague,"
+      },
+      {
+       "cyr": "да не зему чумо кроснетину.",
+       "lat": "da ne zemu čumo krosnetinu.",
+       "en": "lest the plague take my loom beam."
+      },
+      {
+       "cyr": "Да не зему, чумо, кроснетину,",
+       "lat": "Da ne zemu, čumo, krosnetinu,",
+       "en": "Lest the plague take my loom beam,"
+      },
+      {
+       "cyr": "да ти скршу, чумо, главетину!",
+       "lat": "da ti skršu, čumo, glavetinu!",
+       "en": "so that I smash your head, plague!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

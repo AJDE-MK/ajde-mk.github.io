@@ -1,0 +1,114 @@
+{
+ "id": 1027,
+ "slug": "bukite-razvivaat-brakja",
+ "title_cyr": "Буките развиваат браќа",
+ "title_latin": "Bukite razvivaat braḱa",
+ "title_en": "The beech turn green",
+ "pesna_url": "https://pesna.org/song/1027",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2367"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Буките развиваат браќа,",
+       "lat": "Bukite razvivaat braḱa,",
+       "en": "The beech turn green, brothers,"
+      },
+      {
+       "cyr": "горе в' планина,",
+       "lat": "gore v' planina,",
+       "en": "up there in the mountain,"
+      },
+      {
+       "cyr": "горе в' планина ле браќа,",
+       "lat": "gore v' planina le braḱa,",
+       "en": "up there in the mountain, brothers,"
+      },
+      {
+       "cyr": "в' Македонија.",
+       "lat": "v' Makedonija.",
+       "en": "in Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусии ставија браќа,",
+       "lat": "Pusii stavija braḱa,",
+       "en": "They made traps, brothers,"
+      },
+      {
+       "cyr": "млади војводи,",
+       "lat": "mladi vojvodi,",
+       "en": "young voivodas,"
+      },
+      {
+       "cyr": "млади војводи ле браќа,",
+       "lat": "mladi vojvodi le braḱa,",
+       "en": "young voivodas, brothers,"
+      },
+      {
+       "cyr": "сè Македонци.",
+       "lat": "sè Makedonci.",
+       "en": "all Macedonians."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусии ставија браќа,",
+       "lat": "Pusii stavija braḱa,",
+       "en": "They made traps, brothers,"
+      },
+      {
+       "cyr": "од трите страни,",
+       "lat": "od trite strani,",
+       "en": "from three sides,"
+      },
+      {
+       "cyr": "првата пусија ле браќа,",
+       "lat": "prvata pusija le braḱa,",
+       "en": "the first trap, brothers,"
+      },
+      {
+       "cyr": "Јане Сандански,",
+       "lat": "Jane Sandanski,",
+       "en": "Jane Sandanski,"
+      },
+      {
+       "cyr": "втората пусија ле браќа",
+       "lat": "vtorata pusija le braḱa",
+       "en": "the second trap, brothers,"
+      },
+      {
+       "cyr": "на Хаџи Димов.",
+       "lat": "na Hadži Dimov.",
+       "en": "Hadzhi Dimov."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,162 @@
+{
+ "id": 1492,
+ "slug": "kade-se-chulo-videlo",
+ "title_cyr": "Каде се чуло, видело",
+ "title_latin": "Kade se čulo, videlo",
+ "title_en": "Where has it been heard or seen",
+ "pesna_url": "https://pesna.org/song/1492",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style печалба song; origin unclear. Kolyo is a diminutive of Kole/Nikola.",
+ "words_to_learn": [
+  {
+   "mk": "ерген",
+   "en": "bachelor"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land, abroad"
+  },
+  {
+   "mk": "печалба",
+   "en": "seasonal work away from home"
+  },
+  {
+   "mk": "коњ",
+   "en": "horse"
+  },
+  {
+   "mk": "дробни солзи",
+   "en": "small/fine tears"
+  },
+  {
+   "mk": "ронеше",
+   "en": "was shedding"
+  },
+  {
+   "mk": "роснo",
+   "en": "dewy"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  }
+ ],
+ "performers": [
+  "Васка Илиева",
+  "Јорданка Смилевска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3882"
+  },
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/3887"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Каде се чуло, видело,",
+       "lat": "Kade se čulo, videlo,",
+       "en": "Where has it been heard or seen,"
+      },
+      {
+       "cyr": "мома за ерген да плаче?",
+       "lat": "moma za ergen da plače?",
+       "en": "a girl crying for a bachelor?"
+      },
+      {
+       "cyr": "Мома за ерген да плаче,",
+       "lat": "Moma za ergen da plače,",
+       "en": "A girl crying for a bachelor,"
+      },
+      {
+       "cyr": "како Марика за Кољо.",
+       "lat": "kako Marika za Koljo.",
+       "en": "like Marika for Kolyo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кољо ќе оди в' туѓина,",
+       "lat": "Koljo ḱe odi v' tuǵina,",
+       "en": "Kolyo will go abroad,"
+      },
+      {
+       "cyr": "в' туѓина, пуста печалба.",
+       "lat": "v' tuǵina, pusta pečalba.",
+       "en": "abroad, to wretched migrant work."
+      },
+      {
+       "cyr": "Марика пред коњ стоеше,",
+       "lat": "Marika pred konj stoeše,",
+       "en": "Marika stood before his horse,"
+      },
+      {
+       "cyr": "дробни си солзи ронеше.",
+       "lat": "drobni si solzi roneše.",
+       "en": "she shed small tears."
+      },
+      {
+       "cyr": "Дробни си солзи ронеше",
+       "lat": "Drobni si solzi roneše",
+       "en": "She shed small tears"
+      },
+      {
+       "cyr": "и Кољо ми го молеше:",
+       "lat": "i Koljo mi go moleše:",
+       "en": "and begged Kolyo:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не оди Кољо в' туѓина,",
+       "lat": "- Ne odi Koljo v' tuǵina,",
+       "en": "- Do not go abroad, Kolyo,"
+      },
+      {
+       "cyr": "в' туѓина, пуста печалба.",
+       "lat": "v' tuǵina, pusta pečalba.",
+       "en": "abroad, to wretched migrant work."
+      },
+      {
+       "cyr": "Цвеќе се, Кољо, мириса,",
+       "lat": "Cveḱe se, Koljo, mirisa,",
+       "en": "A flower smells, Kolyo,"
+      },
+      {
+       "cyr": "дури е росно в' градина,",
+       "lat": "duri e rosno v' gradina,",
+       "en": "while it is dewy in the garden,"
+      },
+      {
+       "cyr": "моме се, Кољо, пак љуби",
+       "lat": "mome se, Koljo, pak ljubi",
+       "en": "a girl is kissed, Kolyo,"
+      },
+      {
+       "cyr": "дури е младо, убаво.",
+       "lat": "duri e mlado, ubavo.",
+       "en": "while she is young and beautiful."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

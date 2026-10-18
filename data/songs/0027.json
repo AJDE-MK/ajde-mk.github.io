@@ -1,0 +1,132 @@
+{
+ "id": 27,
+ "slug": "grozda-moma-mesti-tri-bajraka",
+ "title_cyr": "Грозда мома мести три бајрака",
+ "title_latin": "Grozda moma mesti tri bajraka",
+ "title_en": "The Girl Grozda Arranges Three Flags",
+ "pesna_url": "https://pesna.org/song/27",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The text lists the third flag as red twice; the second 'red' may be a variant of another colour, translated as written. 'Мести' read as 'arranges' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, young woman"
+  },
+  {
+   "mk": "бунар",
+   "en": "well"
+  },
+  {
+   "mk": "бојаџика",
+   "en": "dyer (female)"
+  },
+  {
+   "mk": "бајрак",
+   "en": "flag, banner"
+  },
+  {
+   "mk": "модер",
+   "en": "blue"
+  },
+  {
+   "mk": "собор",
+   "en": "village gathering / fair"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "војна",
+   "en": "war"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Грозда мома, Грозда мома,",
+       "lat": "Grozda moma, Grozda moma,",
+       "en": "Girl Grozda, girl Grozda,"
+      },
+      {
+       "cyr": "Грозда мома, на бунаро.",
+       "lat": "Grozda moma, na bunaro.",
+       "en": "girl Grozda, at the well."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Она била бојаџика,",
+       "lat": "Ona bila bojadžika,",
+       "en": "She was a dyer,"
+      },
+      {
+       "cyr": "она мести три бајрака.",
+       "lat": "ona mesti tri bajraka.",
+       "en": "she arranges three flags."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еден зелен, други модер,",
+       "lat": "Eden zelen, drugi moder,",
+       "en": "One green, another blue,"
+      },
+      {
+       "cyr": "треќи црвен, трети црвен.",
+       "lat": "treḱi crven, treti crven.",
+       "en": "the third red, the third red."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еден бајрак за на собор,",
+       "lat": "Eden bajrak za na sobor,",
+       "en": "One flag for the gathering,"
+      },
+      {
+       "cyr": "други бајрак за на свадба.",
+       "lat": "drugi bajrak za na svadba.",
+       "en": "another flag for the wedding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Црвен бајрак за на војна,",
+       "lat": "Crven bajrak za na vojna,",
+       "en": "The red flag for the war,"
+      },
+      {
+       "cyr": "за на борба, за слобода.",
+       "lat": "za na borba, za sloboda.",
+       "en": "for the fight, for freedom."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

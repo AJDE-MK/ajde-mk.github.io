@@ -1,0 +1,161 @@
+{
+ "id": 1263,
+ "slug": "lazaropole-tamu-najgore",
+ "title_cyr": "Лазарополе, таму најгоре",
+ "title_latin": "Lazaropole, tamu najgore",
+ "title_en": "Lazaropole, Up There on High",
+ "pesna_url": "https://pesna.org/song/1263",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, sounds like a modern song. 'Лична Калина ... ѝ напишала' is my reading: someone (Kalina) wrote a sad tale to the old mother; 'гороцвеќе' is a guess at 'wildflowers'. Lazaropole is a village in the Mala Reka region.",
+ "words_to_learn": [
+  {
+   "mk": "судбо",
+   "en": "fate (vocative)"
+  },
+  {
+   "mk": "погледни",
+   "en": "look"
+  },
+  {
+   "mk": "припаѓам",
+   "en": "I belong"
+  },
+  {
+   "mk": "најгоре",
+   "en": "at the very top, up high"
+  },
+  {
+   "mk": "ливада",
+   "en": "meadow"
+  },
+  {
+   "mk": "гороцвет",
+   "en": "wildflower (my reading)"
+  },
+  {
+   "mk": "одамнина",
+   "en": "long ago"
+  },
+  {
+   "mk": "преморена",
+   "en": "worn out, weary"
+  }
+ ],
+ "performers": [
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/3194"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Погледни ме, судбо, ти во очиве,",
+       "lat": "Pogledni me, sudbo, ti vo očive,",
+       "en": "Look me in the eyes, fate,"
+      },
+      {
+       "cyr": "ајде да си кажеме право каде згрешивме.",
+       "lat": "ajde da si kažeme pravo kade zgrešivme.",
+       "en": "come on, let us say honestly where we went wrong."
+      },
+      {
+       "cyr": "Однеси ме таму кај што припаѓам,",
+       "lat": "Odnesi me tamu kaj što pripaǵam,",
+       "en": "Carry me to where I belong,"
+      },
+      {
+       "cyr": "таму кај што пораснав, судбо, да си остарам.",
+       "lat": "tamu kaj što porasnav, sudbo, da si ostaram.",
+       "en": "to where I grew up, fate, so I can grow old there."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лазарополе, таму најгоре,",
+       "lat": "Lazaropole, tamu najgore,",
+       "en": "Lazaropole, up there on high,"
+      },
+      {
+       "cyr": "слика убава, мајко, е на душава.",
+       "lat": "slika ubava, majko, e na dušava.",
+       "en": "a beautiful picture, mother, is on my soul."
+      },
+      {
+       "cyr": "Лична Калина, еј одамнина,",
+       "lat": "Lična Kalina, ej odamnina,",
+       "en": "Beautiful Kalina, hey, long ago,"
+      },
+      {
+       "cyr": "тажна сказна, мајко стара, ѝ напишала.",
+       "lat": "tažna skazna, majko stara, ì napišala.",
+       "en": "old mother, she wrote a sad tale."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Однеси ме, судбо, кај ливадите,",
+       "lat": "Odnesi me, sudbo, kaj livadite,",
+       "en": "Carry me, fate, to the meadows,"
+      },
+      {
+       "cyr": "таму кај што мириса силно на гороцвеќе.",
+       "lat": "tamu kaj što mirisa silno na gorocveḱe.",
+       "en": "to where it smells strongly of flowers."
+      },
+      {
+       "cyr": "Во нашата, судбо, куќа голема,",
+       "lat": "Vo našata, sudbo, kuḱa golema,",
+       "en": "In our big house, fate,"
+      },
+      {
+       "cyr": "таму да си одморам душа, еј преморена.",
+       "lat": "tamu da si odmoram duša, ej premorena.",
+       "en": "there let my soul rest, hey, so weary."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лазарополе, таму најгоре,",
+       "lat": "Lazaropole, tamu najgore,",
+       "en": "Lazaropole, up there on high,"
+      },
+      {
+       "cyr": "слика убава, мајко, е на душава.",
+       "lat": "slika ubava, majko, e na dušava.",
+       "en": "a beautiful picture, mother, is on my soul."
+      },
+      {
+       "cyr": "Лична Калина, еј одамнина,",
+       "lat": "Lična Kalina, ej odamnina,",
+       "en": "Beautiful Kalina, hey, long ago,"
+      },
+      {
+       "cyr": "тажна сказна, мајко стара, ѝ напишала.",
+       "lat": "tažna skazna, majko stara, ì napišala.",
+       "en": "old mother, she wrote a sad tale."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

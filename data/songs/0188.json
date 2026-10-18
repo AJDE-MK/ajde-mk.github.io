@@ -1,0 +1,224 @@
+{
+ "id": 188,
+ "slug": "ah-mori-babo-stara-babo",
+ "title_cyr": "Ах мори бабо, стара бабо",
+ "title_latin": "Ah mori babo, stara babo",
+ "title_en": "Oh Granny, Old Granny",
+ "pesna_url": "https://pesna.org/song/188",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бабо' could be 'granny' or 'old woman'; I used 'granny'. 'Та кучиња лаеле' is my reading as 'let the dogs bark'.",
+ "words_to_learn": [
+  {
+   "mk": "бабо",
+   "en": "granny, old woman"
+  },
+  {
+   "mk": "ќерка",
+   "en": "daughter"
+  },
+  {
+   "mk": "убава",
+   "en": "beautiful"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "зборвеја",
+   "en": "they talked (dialect)"
+  },
+  {
+   "mk": "ѕвезди",
+   "en": "stars"
+  },
+  {
+   "mk": "Црна Река",
+   "en": "the Crna (Black) River"
+  },
+  {
+   "mk": "лисја",
+   "en": "leaves"
+  },
+  {
+   "mk": "ѓердани",
+   "en": "necklaces"
+  },
+  {
+   "mk": "гајтани",
+   "en": "braid cords"
+  }
+ ],
+ "performers": [
+  "Билјан Стојаноски",
+  "Борче Крстески",
+  "Охридски трубадури",
+  "Пет плус"
+ ],
+ "audio": [
+  {
+   "who": "Пет плус",
+   "url": "https://pesna.org/audio-download/1058"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1059"
+  },
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1060"
+  },
+  {
+   "who": "Борче Крстески",
+   "url": "https://pesna.org/audio-download/1061"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори бабо, стара бабо,",
+       "lat": "Ah mori babo, stara babo,",
+       "en": "Oh, hey granny, old granny,"
+      },
+      {
+       "cyr": "ах што имаш ќерка убава",
+       "lat": "ah što imaš ḱerka ubava",
+       "en": "oh, you have a beautiful daughter,"
+      },
+      {
+       "cyr": "бабо, аман, аман.",
+       "lat": "babo, aman, aman.",
+       "en": "granny, aman, aman."
+      },
+      {
+       "cyr": "А што имаш ќерка убава,",
+       "lat": "A što imaš ḱerka ubava,",
+       "en": "Oh, you have a beautiful daughter,"
+      },
+      {
+       "cyr": "ама имаш лоши комшии",
+       "lat": "ama imaš loši komšii",
+       "en": "but you have bad neighbours,"
+      },
+      {
+       "cyr": "бабо, аман, аман.",
+       "lat": "babo, aman, aman.",
+       "en": "granny, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах што имаш лоши комшии,",
+       "lat": "Ah što imaš loši komšii,",
+       "en": "Oh, you have bad neighbours,"
+      },
+      {
+       "cyr": "што лоши зборој зборвеја",
+       "lat": "što loši zboroj zborveja",
+       "en": "who say bad words,"
+      },
+      {
+       "cyr": "бабо, аман, аман.",
+       "lat": "babo, aman, aman.",
+       "en": "granny, aman, aman."
+      },
+      {
+       "cyr": "Како на небото ѕвездите,",
+       "lat": "Kako na neboto dzvezdite,",
+       "en": "As many as the stars in the sky,"
+      },
+      {
+       "cyr": "како в' Црна Река рибите",
+       "lat": "kako v' Crna Reka ribite",
+       "en": "as the fish in the Black River,"
+      },
+      {
+       "cyr": "бабо, аман, аман.",
+       "lat": "babo, aman, aman.",
+       "en": "granny, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како во гората лисјата,",
+       "lat": "Kako vo gorata lisjata,",
+       "en": "As the leaves in the forest,"
+      },
+      {
+       "cyr": "како во полето тревата,",
+       "lat": "kako vo poleto trevata,",
+       "en": "as the grass in the field,"
+      },
+      {
+       "cyr": "бабо, аман, аман.",
+       "lat": "babo, aman, aman.",
+       "en": "granny, aman, aman."
+      },
+      {
+       "cyr": "Како на момите ѓерданите,",
+       "lat": "Kako na momite ǵerdanite,",
+       "en": "As the necklaces on the girls,"
+      },
+      {
+       "cyr": "како на момците гајтаните",
+       "lat": "kako na momcite gajtanite",
+       "en": "as the braid cords on the lads,"
+      },
+      {
+       "cyr": "бабо, аман, аман.",
+       "lat": "babo, aman, aman.",
+       "en": "granny, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, море синко, мили синко,",
+       "lat": "Ah, more sinko, mili sinko,",
+       "en": "Oh, hey son, dear son,"
+      },
+      {
+       "cyr": "кога имам ќерка убава,",
+       "lat": "koga imam ḱerka ubava,",
+       "en": "when I have a beautiful daughter,"
+      },
+      {
+       "cyr": "синко, аман, аман,",
+       "lat": "sinko, aman, aman,",
+       "en": "son, aman, aman,"
+      },
+      {
+       "cyr": "та кучиња лаеле,",
+       "lat": "ta kučinja laele,",
+       "en": "let the dogs bark,"
+      },
+      {
+       "cyr": "та комшии зборвеле,",
+       "lat": "ta komšii zborvele,",
+       "en": "let the neighbours talk,"
+      },
+      {
+       "cyr": "исто ми е.",
+       "lat": "isto mi e.",
+       "en": "it's all the same to me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

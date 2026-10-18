@@ -1,0 +1,198 @@
+{
+ "id": 1625,
+ "slug": "ubava-makedonka",
+ "title_cyr": "Убава Македонка",
+ "title_latin": "Ubava Makedonka",
+ "title_en": "Beautiful Macedonian girl",
+ "pesna_url": "https://pesna.org/song/1625",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; it sounds like a modern composed song but I cannot name an author. 'Ј понудив' (written 'Ѝ понудив') is read as 'I offered her'.",
+ "words_to_learn": [
+  {
+   "mk": "поле",
+   "en": "field"
+  },
+  {
+   "mk": "Вардар",
+   "en": "the Vardar river"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "коса",
+   "en": "hair"
+  },
+  {
+   "mk": "босилок",
+   "en": "basil"
+  },
+  {
+   "mk": "венче",
+   "en": "wreath"
+  },
+  {
+   "mk": "китка",
+   "en": "bunch, bouquet"
+  },
+  {
+   "mk": "свила",
+   "en": "silk"
+  },
+  {
+   "mk": "чесна",
+   "en": "honest, of good name"
+  },
+  {
+   "mk": "адет",
+   "en": "custom, tradition"
+  },
+  {
+   "mk": "цар",
+   "en": "king, tsar"
+  }
+ ],
+ "performers": [
+  "Горд Македонец"
+ ],
+ "audio": [
+  {
+   "who": "Горд Македонец",
+   "url": "https://pesna.org/audio-download/4324"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во поле зелено, кај што Вардар тече,",
+       "lat": "Vo pole zeleno, kaj što Vardar teče,",
+       "en": "In the green field, where the Vardar flows,"
+      },
+      {
+       "cyr": "песна се слуша од утро до вечер.",
+       "lat": "pesna se sluša od utro do večer.",
+       "en": "a song is heard from morning till evening."
+      },
+      {
+       "cyr": "Таму пее девојче,",
+       "lat": "Tamu pee devojče,",
+       "en": "There a girl is singing,"
+      },
+      {
+       "cyr": "девојче Македонче,",
+       "lat": "devojče Makedonče,",
+       "en": "a little Macedonian girl,"
+      },
+      {
+       "cyr": "чисто како роса,",
+       "lat": "čisto kako rosa,",
+       "en": "pure as dew,"
+      },
+      {
+       "cyr": "со црна долга коса.",
+       "lat": "so crna dolga kosa.",
+       "en": "with long black hair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој убава Македонко,",
+       "lat": "Oj ubava Makedonko,",
+       "en": "Oh beautiful Macedonian girl,"
+      },
+      {
+       "cyr": "црно око, алтан мој,",
+       "lat": "crno oko, altan moj,",
+       "en": "black eye, my gold,"
+      },
+      {
+       "cyr": "срце ти ми зеде, мори,",
+       "lat": "srce ti mi zede, mori,",
+       "en": "you took my heart, hey,"
+      },
+      {
+       "cyr": "со погледот твој.",
+       "lat": "so pogledot tvoj.",
+       "en": "with your gaze."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во коса венче од босилче,",
+       "lat": "Vo kosa venče od bosilče,",
+       "en": "In her hair a wreath of basil,"
+      },
+      {
+       "cyr": "во рака - китка бело цвеќе.",
+       "lat": "vo raka - kitka belo cveḱe.",
+       "en": "in her hand a bunch of white flowers."
+      },
+      {
+       "cyr": "Ѝ понудив скапа свила,",
+       "lat": "Ì ponudiv skapa svila,",
+       "en": "I offered her precious silk,"
+      },
+      {
+       "cyr": "вели: „Јас сум чесна,",
+       "lat": "veli: „Jas sum česna,",
+       "en": "she says: \"I am honest,"
+      },
+      {
+       "cyr": "мајка, татко имам јас.",
+       "lat": "majka, tatko imam jas.",
+       "en": "I have a mother and a father."
+      },
+      {
+       "cyr": "Ќе дојдеш од нив да ме земеш,",
+       "lat": "Ḱe dojdeš od niv da me zemeš,",
+       "en": "You will come to take me from them,"
+      },
+      {
+       "cyr": "тоа адет е кај нас.“",
+       "lat": "toa adet e kaj nas.“",
+       "en": "that is the custom with us.\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој убава Македонко,",
+       "lat": "Oj ubava Makedonko,",
+       "en": "Oh beautiful Macedonian girl,"
+      },
+      {
+       "cyr": "божји ти си дар,",
+       "lat": "božji ti si dar,",
+       "en": "you are God's gift,"
+      },
+      {
+       "cyr": "кое момче ќе те земе,",
+       "lat": "koe momče ḱe te zeme,",
+       "en": "the boy who takes you,"
+      },
+      {
+       "cyr": "тоа ќе е цар.",
+       "lat": "toa ḱe e car.",
+       "en": "he will be a king."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

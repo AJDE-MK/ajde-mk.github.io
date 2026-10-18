@@ -1,0 +1,134 @@
+{
+ "id": 1169,
+ "slug": "ovchar-sviri-mamo",
+ "title_cyr": "Овчар свири мамо",
+ "title_latin": "Ovčar sviri mamo",
+ "title_en": "The Shepherd Plays, Mother",
+ "pesna_url": "https://pesna.org/song/1169",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The last stanza is my reading: 'with a young lad' seems to mean she will return with a baby son; the sense is not fully certain.",
+ "words_to_learn": [
+  {
+   "mk": "овчар",
+   "en": "shepherd"
+  },
+  {
+   "mk": "свири",
+   "en": "plays (an instrument)"
+  },
+  {
+   "mk": "поле",
+   "en": "field"
+  },
+  {
+   "mk": "чаире",
+   "en": "meadow, pasture"
+  },
+  {
+   "mk": "до година",
+   "en": "for a year, until next year"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy"
+  },
+  {
+   "mk": "в'",
+   "en": "in (short form of во)"
+  }
+ ],
+ "performers": [
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2837"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Овчар свири мамо, овчар свири,",
+       "lat": "Ovčar sviri mamo, ovčar sviri,",
+       "en": "The shepherd plays, mother, the shepherd plays,"
+      },
+      {
+       "cyr": "овчар свири доле в' поле, де.",
+       "lat": "ovčar sviri dole v' pole, de.",
+       "en": "the shepherd plays down in the field, hey."
+      },
+      {
+       "cyr": "Доле в' поле, мамо, доле в' поле,",
+       "lat": "Dole v' pole, mamo, dole v' pole,",
+       "en": "Down in the field, mother, down in the field,"
+      },
+      {
+       "cyr": "доле в' поле, во чаирето.",
+       "lat": "dole v' pole, vo čaireto.",
+       "en": "down in the field, in the meadow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе одам мамо, јас ќе одам,",
+       "lat": "Jas ḱe odam mamo, jas ḱe odam,",
+       "en": "I will go, mother, I will go,"
+      },
+      {
+       "cyr": "јас ќе одам доле в' поле де.",
+       "lat": "jas ḱe odam dole v' pole de.",
+       "en": "I will go down to the field, hey."
+      },
+      {
+       "cyr": "Да ме чекаш мамо, да ме чекаш,",
+       "lat": "Da me čekaš mamo, da me čekaš,",
+       "en": "Wait for me, mother, wait for me,"
+      },
+      {
+       "cyr": "да ме чекаш до година де.",
+       "lat": "da me čekaš do godina de.",
+       "en": "wait for me for a year, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До година мамо, до година,",
+       "lat": "Do godina mamo, do godina,",
+       "en": "For a year, mother, for a year,"
+      },
+      {
+       "cyr": "до година с' младо момче де.",
+       "lat": "do godina s' mlado momče de.",
+       "en": "for a year, with a young lad, hey."
+      },
+      {
+       "cyr": "С' младо момче мамо, с' младо момче,",
+       "lat": "S' mlado momče mamo, s' mlado momče,",
+       "en": "With a young lad, mother, with a young lad,"
+      },
+      {
+       "cyr": "с' младо момче, со машко дете.",
+       "lat": "s' mlado momče, so maško dete.",
+       "en": "with a young lad, a male child."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,176 @@
+{
+ "id": 1672,
+ "slug": "pesna-za-kichevo",
+ "title_cyr": "Песна за Кичево",
+ "title_latin": "Pesna za Kičevo",
+ "title_en": "Song about Kicevo",
+ "pesna_url": "https://pesna.org/song/1672",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/4480"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ние кичевчаните",
+       "lat": "Nie kičevčanite",
+       "en": "We, the people of Kicehvo,"
+      },
+      {
+       "cyr": "од ништо не се плашиме,",
+       "lat": "od ništo ne se plašime,",
+       "en": "are not afraid of anything,"
+      },
+      {
+       "cyr": "тука сме се родиле,",
+       "lat": "tuka sme se rodile,",
+       "en": "we were born here,"
+      },
+      {
+       "cyr": "Кичево го сакаме.",
+       "lat": "Kičevo go sakame.",
+       "en": "we love Kichevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде и да одиме,",
+       "lat": "Kade i da odime,",
+       "en": "Wherever we go,"
+      },
+      {
+       "cyr": "назад пак се враќаме",
+       "lat": "nazad pak se vraḱame",
+       "en": "we return back"
+      },
+      {
+       "cyr": "наше родно Кичево",
+       "lat": "naše rodno Kičevo",
+       "en": "to our native Kichevo"
+      },
+      {
+       "cyr": "од срце го сакаме.",
+       "lat": "od srce go sakame.",
+       "en": "we love it from the bottom of our hearts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ништо нема помило",
+       "lat": "Ništo nema pomilo",
+       "en": "There is nothing more precious"
+      },
+      {
+       "cyr": "и на душа радосно,",
+       "lat": "i na duša radosno,",
+       "en": "and joyful in the soul"
+      },
+      {
+       "cyr": "кога ќе се вратиме",
+       "lat": "koga ḱe se vratime",
+       "en": "when we return"
+      },
+      {
+       "cyr": "во наше родно Кичево.",
+       "lat": "vo naše rodno Kičevo.",
+       "en": "to our native Kichevo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму горе високо",
+       "lat": "Tamu gore visoko",
+       "en": "Up there, high"
+      },
+      {
+       "cyr": "испод Бистра и Стогово",
+       "lat": "ispod Bistra i Stogovo",
+       "en": "below Bistra and Stogovo"
+      },
+      {
+       "cyr": "родно село едно е,",
+       "lat": "rodno selo edno e,",
+       "en": "there is one native village,"
+      },
+      {
+       "cyr": "наша рајска убавина.",
+       "lat": "naša rajska ubavina.",
+       "en": "our heavenly beauty."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во наше село Ехлоец",
+       "lat": "Vo naše selo Ehloec",
+       "en": "In our village of Ehloec"
+      },
+      {
+       "cyr": "Водици го славиме.",
+       "lat": "Vodici go slavime.",
+       "en": "we celebrate Vodici."
+      },
+      {
+       "cyr": "Од цел свет народ доаѓа,",
+       "lat": "Od cel svet narod doaǵa,",
+       "en": "People come from all over the world,"
+      },
+      {
+       "cyr": "родни куќи отвора.",
+       "lat": "rodni kuḱi otvora.",
+       "en": "they open their native houses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со зурли и со тапани",
+       "lat": "So zurli i so tapani",
+       "en": "With flutes and drums"
+      },
+      {
+       "cyr": "кумот да го пречекаат,",
+       "lat": "kumot da go prečekaat,",
+       "en": "to welcome the godfather,"
+      },
+      {
+       "cyr": "среде село на оро",
+       "lat": "srede selo na oro",
+       "en": "in the middle of the village,"
+      },
+      {
+       "cyr": "пеат и се веселат.",
+       "lat": "peat i se veselat.",
+       "en": "they sing and are merry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

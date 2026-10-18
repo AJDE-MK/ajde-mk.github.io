@@ -1,0 +1,166 @@
+{
+ "id": 446,
+ "slug": "aj-v-makedonija-glas-se-slusha",
+ "title_cyr": "Ај, в Македонија глас се слуша",
+ "title_latin": "Aj, v Makedonija glas se sluša",
+ "title_en": "Hey, a Voice Is Heard in Macedonia",
+ "pesna_url": "https://pesna.org/song/446",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Revolutionary-era patriotic song, treated as traditional. Last line 'среде војска и јатаган' is rendered literally; 'алово знаме' as 'crimson banner' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "душман",
+   "en": "enemy"
+  },
+  {
+   "mk": "побеснеа",
+   "en": "went mad, raged"
+  },
+  {
+   "mk": "колат",
+   "en": "they slaughter"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "алов",
+   "en": "bright red, crimson"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag, banner"
+  },
+  {
+   "mk": "јатаган",
+   "en": "yatagan (curved Ottoman sword)"
+  },
+  {
+   "mk": "се разбуди",
+   "en": "woke up"
+  }
+ ],
+ "performers": [
+  "Конак",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Конак",
+   "url": "https://pesna.org/audio-download/1180"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/3992"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај, в Македонија глас се слуша",
+       "lat": "Aj, v Makedonija glas se sluša",
+       "en": "Hey, in Macedonia a voice is heard"
+      },
+      {
+       "cyr": "од нејзини синови.",
+       "lat": "od nejzini sinovi.",
+       "en": "from her sons."
+      },
+      {
+       "cyr": "Ај, душманите побеснале,",
+       "lat": "Aj, dušmanite pobesnale,",
+       "en": "Hey, the enemies have gone mad,"
+      },
+      {
+       "cyr": "колат, бесат сè на ред.",
+       "lat": "kolat, besat sè na red.",
+       "en": "they slaughter, they rage, all in a row."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, вие браќа Македонци,",
+       "lat": "Aj, vie braḱa Makedonci,",
+       "en": "Hey, you Macedonian brothers,"
+      },
+      {
+       "cyr": "вие славни јунаци.",
+       "lat": "vie slavni junaci.",
+       "en": "you glorious heroes."
+      },
+      {
+       "cyr": "Алово знаме да развејме",
+       "lat": "Alovo zname da razvejme",
+       "en": "Let us unfurl the crimson banner"
+      },
+      {
+       "cyr": "над македонски долини.",
+       "lat": "nad makedonski dolini.",
+       "en": "over the Macedonian valleys."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, на знаме е напишано:",
+       "lat": "Aj, na zname e napišano:",
+       "en": "Hey, on the banner it is written:"
+      },
+      {
+       "cyr": "„Слобода или смрт“.",
+       "lat": "„Sloboda ili smrt“.",
+       "en": "\"Freedom or death\"."
+      },
+      {
+       "cyr": "Ај, нека чует и Европа,",
+       "lat": "Aj, neka čuet i Evropa,",
+       "en": "Hey, let Europe hear too,"
+      },
+      {
+       "cyr": "народот се разбуди.",
+       "lat": "narodot se razbudi.",
+       "en": "the people have awakened."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај, Македонец не се плаши",
+       "lat": "Aj, Makedonec ne se plaši",
+       "en": "Hey, the Macedonian is not afraid"
+      },
+      {
+       "cyr": "од душмански јатаган.",
+       "lat": "od dušmanski jatagan.",
+       "en": "of the enemy's yatagan."
+      },
+      {
+       "cyr": "Ај, како лавот тој се фрла",
+       "lat": "Aj, kako lavot toj se frla",
+       "en": "Hey, like a lion he throws himself"
+      },
+      {
+       "cyr": "среде војска и јатаган.",
+       "lat": "srede vojska i jatagan.",
+       "en": "into the midst of the army and the yatagan."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

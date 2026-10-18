@@ -1,0 +1,210 @@
+{
+ "id": 1504,
+ "slug": "proshetala-se-kalina",
+ "title_cyr": "Прошетала се Калина",
+ "title_latin": "Prošetala se Kalina",
+ "title_en": "Kalina went for a walk",
+ "pesna_url": "https://pesna.org/song/1504",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional ballad, origin unclear. The line 'Да помогнеш ели мене, ели мене, ели нему' is my reading: 'ели' is a dialect form of 'или' (or).",
+ "words_to_learn": [
+  {
+   "mk": "прошетала се",
+   "en": "went for a walk"
+  },
+  {
+   "mk": "ѓердане",
+   "en": "necklace (of coins or beads)"
+  },
+  {
+   "mk": "наките",
+   "en": "jewellery, adornment"
+  },
+  {
+   "mk": "ајдук",
+   "en": "outlaw, haiduk (rebel bandit)"
+  },
+  {
+   "mk": "борат се",
+   "en": "they fight"
+  },
+  {
+   "mk": "сеир гледаш",
+   "en": "you watch the spectacle"
+  },
+  {
+   "mk": "пријде",
+   "en": "she approached"
+  },
+  {
+   "mk": "помогне",
+   "en": "helps"
+  }
+ ],
+ "performers": [
+  "Добрила Грашеска",
+  "Дориан Јовановиќ"
+ ],
+ "audio": [
+  {
+   "who": "Добрила Грашеска, Дориан Јовановиќ",
+   "url": "https://pesna.org/audio-download/3929"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Прошетала се Калина",
+       "lat": "Prošetala se Kalina",
+       "en": "Kalina went for a walk"
+      },
+      {
+       "cyr": "низ таја гора зелена.",
+       "lat": "niz taja gora zelena.",
+       "en": "through that green forest."
+      },
+      {
+       "cyr": "Низ таа гора зелена",
+       "lat": "Niz taa gora zelena",
+       "en": "Through that green forest"
+      },
+      {
+       "cyr": "со мила брата Стојана.",
+       "lat": "so mila brata Stojana.",
+       "en": "with her dear brother Stojan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара брат ѝ Стојан:",
+       "lat": "Progovara brat ì Stojan:",
+       "en": "Her brother Stojan speaks:"
+      },
+      {
+       "cyr": "- Калино, сестро Калино,",
+       "lat": "- Kalino, sestro Kalino,",
+       "en": "- Kalina, sister Kalina,"
+      },
+      {
+       "cyr": "ја откопчај ѓердането,",
+       "lat": "ja otkopčaj ǵerdaneto,",
+       "en": "unfasten the necklace,"
+      },
+      {
+       "cyr": "ја извади накитето.",
+       "lat": "ja izvadi nakiteto.",
+       "en": "take off the jewellery."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да не чује тој Никола,",
+       "lat": "Da ne čuje toj Nikola,",
+       "en": "So that he does not hear, that Nikola,"
+      },
+      {
+       "cyr": "тој Никола, тој ајдукот.",
+       "lat": "toj Nikola, toj ajdukot.",
+       "en": "that Nikola, that outlaw."
+      },
+      {
+       "cyr": "Уште зборот не изрече,",
+       "lat": "Ušte zborot ne izreče,",
+       "en": "He had not yet finished the word,"
+      },
+      {
+       "cyr": "те го иде тој Никола.",
+       "lat": "te go ide toj Nikola.",
+       "en": "when that Nikola comes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бориле се два-три дена,",
+       "lat": "Borile se dva-tri dena,",
+       "en": "They fought for two or three days,"
+      },
+      {
+       "cyr": "два-три дена, два-три ноќа.",
+       "lat": "dva-tri dena, dva-tri noḱa.",
+       "en": "two or three days, two or three nights."
+      },
+      {
+       "cyr": "Проговара брат ѝ Стојан:",
+       "lat": "Progovara brat ì Stojan:",
+       "en": "Her brother Stojan speaks:"
+      },
+      {
+       "cyr": "- Калино, сестро Калино.",
+       "lat": "- Kalino, sestro Kalino.",
+       "en": "- Kalina, sister Kalina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зошто стоиш, сеир гледаш,",
+       "lat": "Zošto stoiš, seir gledaš,",
+       "en": "Why do you stand watching the show,"
+      },
+      {
+       "cyr": "што не пријдеш да помогнеш.",
+       "lat": "što ne prijdeš da pomogneš.",
+       "en": "why do you not come to help."
+      },
+      {
+       "cyr": "Да помогнеш ели мене,",
+       "lat": "Da pomogneš eli mene,",
+       "en": "To help me, or"
+      },
+      {
+       "cyr": "ели мене, ели нему?",
+       "lat": "eli mene, eli nemu?",
+       "en": "me, or him?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога пријде да помогне,",
+       "lat": "Koga prijde da pomogne,",
+       "en": "When she came to help,"
+      },
+      {
+       "cyr": "не помогна на брата си,",
+       "lat": "ne pomogna na brata si,",
+       "en": "she did not help her brother,"
+      },
+      {
+       "cyr": "помогнала на Николу,",
+       "lat": "pomognala na Nikolu,",
+       "en": "she helped Nikola,"
+      },
+      {
+       "cyr": "на Николу - тој ајдукот.",
+       "lat": "na Nikolu - toj ajdukot.",
+       "en": "Nikola, that outlaw."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

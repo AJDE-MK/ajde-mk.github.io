@@ -1,0 +1,186 @@
+{
+ "id": 1479,
+ "slug": "polenka-chukaj-na-porti",
+ "title_cyr": "Поленка чукај на порти",
+ "title_latin": "Polenka čukaj na porti",
+ "title_en": "Polenka, knock at the gate",
+ "pesna_url": "https://pesna.org/song/1479",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear, treated as traditional. The refrain 'достум тривели' is left untranslated because I am unsure of its meaning (possibly 'my friend' plus a nonsense word); 'ј'ожени' is my reading of a contracted dialect form.",
+ "words_to_learn": [
+  {
+   "mk": "чукај",
+   "en": "knock"
+  },
+  {
+   "mk": "порти",
+   "en": "gate (plural form)"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "јагне галено",
+   "en": "pampered lamb (endearment)"
+  },
+  {
+   "mk": "душманки",
+   "en": "enemies (female)"
+  },
+  {
+   "mk": "ј'ожени",
+   "en": "will marry (me) off"
+  },
+  {
+   "mk": "не мож' да се виждаме",
+   "en": "we cannot see each other"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Тајфата на Гошо"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3825"
+  },
+  {
+   "who": "Тајфата на Гошо",
+   "url": "https://pesna.org/audio-download/3826"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Поленка чукај на порти,",
+       "lat": "Polenka čukaj na porti,",
+       "en": "Polenka, knock at the gate,"
+      },
+      {
+       "cyr": "достум тривели,",
+       "lat": "dostum triveli,",
+       "en": "dostum triveli (refrain),"
+      },
+      {
+       "cyr": "да не те чујат комшиите,",
+       "lat": "da ne te čujat komšiite,",
+       "en": "so the neighbours don't hear you,"
+      },
+      {
+       "cyr": "јагне галено.",
+       "lat": "jagne galeno.",
+       "en": "my pampered lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Комшии ми са бабите,",
+       "lat": "Komšii mi sa babite,",
+       "en": "The neighbours are the grandmothers,"
+      },
+      {
+       "cyr": "достум тривели,",
+       "lat": "dostum triveli,",
+       "en": "dostum triveli (refrain),"
+      },
+      {
+       "cyr": "бабите, мојте душманки,",
+       "lat": "babite, mojte dušmanki,",
+       "en": "the grannies, my enemies,"
+      },
+      {
+       "cyr": "јагне галено.",
+       "lat": "jagne galeno.",
+       "en": "my pampered lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Они ќе кажат на мама,",
+       "lat": "Oni ḱe kažat na mama,",
+       "en": "They will tell mother,"
+      },
+      {
+       "cyr": "достум тривели,",
+       "lat": "dostum triveli,",
+       "en": "dostum triveli (refrain),"
+      },
+      {
+       "cyr": "мама ќе каже на тате,",
+       "lat": "mama ḱe kaže na tate,",
+       "en": "mother will tell father,"
+      },
+      {
+       "cyr": "јагне галено.",
+       "lat": "jagne galeno.",
+       "en": "my pampered lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Та ќе ме младо ј'ожени",
+       "lat": "Ta ḱe me mlado j'oženi",
+       "en": "And they will marry me off young,"
+      },
+      {
+       "cyr": "достум тривели,",
+       "lat": "dostum triveli,",
+       "en": "dostum triveli (refrain),"
+      },
+      {
+       "cyr": "та ќе ме даде далеко,",
+       "lat": "ta ḱe me dade daleko,",
+       "en": "and give me away far off,"
+      },
+      {
+       "cyr": "јагне галено.",
+       "lat": "jagne galeno.",
+       "en": "my pampered lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Далеко, село Чифлико,",
+       "lat": "Daleko, selo Čifliko,",
+       "en": "Far away, the village of Chifliko,"
+      },
+      {
+       "cyr": "достум тривели,",
+       "lat": "dostum triveli,",
+       "en": "dostum triveli (refrain),"
+      },
+      {
+       "cyr": "да не мож' да се виждаме,",
+       "lat": "da ne mož' da se viždame,",
+       "en": "so that we cannot see each other,"
+      },
+      {
+       "cyr": "јагне галено.",
+       "lat": "jagne galeno.",
+       "en": "my pampered lamb."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

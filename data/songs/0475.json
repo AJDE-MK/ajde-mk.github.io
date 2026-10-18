@@ -1,0 +1,210 @@
+{
+ "id": 475,
+ "slug": "koleda-leda",
+ "title_cyr": "Коледа леда",
+ "title_latin": "Koleda leda",
+ "title_en": "Koleda leda",
+ "pesna_url": "https://pesna.org/song/475",
+ "background": "A comic carol tied to the *koledување* custom: on Christmas Eve, and through the twelve days after, bands of men and boys went door to door singing. The host had to give them food, wine and money or be cheerfully insulted. This one is the comic kind; the blessing kind wishes the house good harvests and health.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Children's koleda carol. 'леда' is probably a rhyming nonsense word. 'квачи' and 'гускини, шаткини' are my reading ('clucks', 'goose/duck eggs'); 'шаткини' is uncertain. The version marker is '(друга верзија)' as in the original.",
+ "words_to_learn": [
+  {
+   "mk": "Коледа",
+   "en": "Koleda, Christmas-season carol festival"
+  },
+  {
+   "mk": "греда",
+   "en": "beam"
+  },
+  {
+   "mk": "дедо",
+   "en": "grandfather, old man"
+  },
+  {
+   "mk": "баба",
+   "en": "grandmother"
+  },
+  {
+   "mk": "магарче",
+   "en": "little donkey"
+  },
+  {
+   "mk": "кусо",
+   "en": "short, stumpy"
+  },
+  {
+   "mk": "јајца",
+   "en": "eggs"
+  },
+  {
+   "mk": "теле",
+   "en": "calf"
+  },
+  {
+   "mk": "зелје",
+   "en": "cabbage, greens"
+  },
+  {
+   "mk": "пита",
+   "en": "pie, pastry"
+  }
+ ],
+ "performers": [
+  "Даниела Китановска"
+ ],
+ "audio": [
+  {
+   "who": "Даниела Китановска",
+   "url": "https://pesna.org/audio-download/3220"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коледа леда",
+       "lat": "Koleda leda",
+       "en": "Koleda leda"
+      },
+      {
+       "cyr": "паднала греда",
+       "lat": "padnala greda",
+       "en": "a beam fell"
+      },
+      {
+       "cyr": "удрила деда",
+       "lat": "udrila deda",
+       "en": "it hit grandfather"
+      },
+      {
+       "cyr": "дедо се влече",
+       "lat": "dedo se vleče",
+       "en": "grandfather drags himself along"
+      },
+      {
+       "cyr": "баба го плаче",
+       "lat": "baba go plače",
+       "en": "grandmother weeps for him"
+      },
+      {
+       "cyr": "оф леле старче",
+       "lat": "of lele starče",
+       "en": "oh dear, old man"
+      },
+      {
+       "cyr": "со кусото магарче!",
+       "lat": "so kusoto magarče!",
+       "en": "with the short-tailed donkey!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Коледе леде,",
+       "lat": "Kolede lede,",
+       "en": "Koleda leda,"
+      },
+      {
+       "cyr": "паднало греде,",
+       "lat": "padnalo grede,",
+       "en": "a beam fell,"
+      },
+      {
+       "cyr": "утепало деде.",
+       "lat": "utepalo dede.",
+       "en": "it beat up grandfather."
+      },
+      {
+       "cyr": "Деде се мачи,",
+       "lat": "Dede se mači,",
+       "en": "Grandfather struggles,"
+      },
+      {
+       "cyr": "баба го квачи,",
+       "lat": "baba go kvači,",
+       "en": "grandmother clucks over him,"
+      },
+      {
+       "cyr": "со четири јајца,",
+       "lat": "so četiri jajca,",
+       "en": "with four eggs,"
+      },
+      {
+       "cyr": "гускини, шаткини.",
+       "lat": "guskini, šatkini.",
+       "en": "goose eggs, duck eggs (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Денес е Коледе,",
+       "lat": "Denes e Kolede,",
+       "en": "Today is Koleda,"
+      },
+      {
+       "cyr": "утре е Божиќ,",
+       "lat": "utre e Božiḱ,",
+       "en": "tomorrow is Christmas,"
+      },
+      {
+       "cyr": "ќе колеме теле,",
+       "lat": "ḱe koleme tele,",
+       "en": "we will slaughter the calf,"
+      },
+      {
+       "cyr": "теле вика: - Леле",
+       "lat": "tele vika: - Lele",
+       "en": "the calf cries: - Oh dear,"
+      },
+      {
+       "cyr": "не колете мене,",
+       "lat": "ne kolete mene,",
+       "en": "don't slaughter me,"
+      },
+      {
+       "cyr": "ќе ви купам зелје,",
+       "lat": "ḱe vi kupam zelje,",
+       "en": "I will buy you cabbage,"
+      },
+      {
+       "cyr": "да месите пита,",
+       "lat": "da mesite pita,",
+       "en": "so that you can make pie,"
+      },
+      {
+       "cyr": "да јадете сите.",
+       "lat": "da jadete site.",
+       "en": "so that you can all eat."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коледеее...",
+       "lat": "Koledeee...",
+       "en": "Koledeee..."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

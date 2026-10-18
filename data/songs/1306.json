@@ -1,0 +1,136 @@
+{
+ "id": 1306,
+ "slug": "teshka-borba",
+ "title_cyr": "Тешка борба",
+ "title_latin": "Teška borba",
+ "title_en": "Hard struggle",
+ "pesna_url": "https://pesna.org/song/1306",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-style partisan/revolutionary song, origin unclear. Place names (Kratovo, Shlegovo, Zdravchin Kamen, Shopsko Rudare) are as written; I cannot place the event historically.",
+ "words_to_learn": [
+  {
+   "mk": "борба",
+   "en": "struggle, fight"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "нападнаа",
+   "en": "they attacked"
+  },
+  {
+   "mk": "оган",
+   "en": "fire"
+  },
+  {
+   "mk": "пламен",
+   "en": "flame"
+  },
+  {
+   "mk": "загинаа",
+   "en": "they perished"
+  },
+  {
+   "mk": "другари",
+   "en": "comrades"
+  },
+  {
+   "mk": "извикнаа",
+   "en": "they cried out"
+  }
+ ],
+ "performers": [
+  "Драгана Максимова",
+  "Тоше Максимов"
+ ],
+ "audio": [
+  {
+   "who": "Драгана Максимова, Тоше Максимов",
+   "url": "https://pesna.org/audio-download/3311"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Тешка е била борба за слобода,",
+       "lat": "Teška e bila borba za sloboda,",
+       "en": "Hard was the struggle for freedom,"
+      },
+      {
+       "cyr": "борба за слобода, за Македонија.",
+       "lat": "borba za sloboda, za Makedonija.",
+       "en": "the struggle for freedom, for Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми го нападнаа градот Кратово,",
+       "lat": "Mi go napadnaa gradot Kratovo,",
+       "en": "They attacked the town of Kratovo,"
+      },
+      {
+       "cyr": "градот Кратово, село Шлегово.",
+       "lat": "gradot Kratovo, selo Šlegovo.",
+       "en": "the town of Kratovo, the village of Shlegovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ми отворија оган и пламен,",
+       "lat": "Pa mi otvorija ogan i plamen,",
+       "en": "And they opened fire and flame,"
+      },
+      {
+       "cyr": "оган и пламен над Здравчин Камен.",
+       "lat": "ogan i plamen nad Zdravčin Kamen.",
+       "en": "fire and flame above Zdravchin Kamen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Таму загинаа двајца другари,",
+       "lat": "Tamu zaginaa dvajca drugari,",
+       "en": "There two comrades fell,"
+      },
+      {
+       "cyr": "двајца другари од Шопско Рударе.",
+       "lat": "dvajca drugari od Šopsko Rudare.",
+       "en": "two comrades from Shopsko Rudare."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога загинаа, тие извикнаа:",
+       "lat": "Koga zaginaa, tie izviknaa:",
+       "en": "When they fell, they cried out:"
+      },
+      {
+       "cyr": "- ние загинавме за Македонија.",
+       "lat": "- nie zaginavme za Makedonija.",
+       "en": "- we died for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

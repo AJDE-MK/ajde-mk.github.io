@@ -1,0 +1,185 @@
+{
+ "id": 702,
+ "slug": "moma-uf-zandana",
+ "title_cyr": "Мома уф зандана",
+ "title_latin": "Moma uf zandana",
+ "title_en": "The girl in the dungeon",
+ "pesna_url": "https://pesna.org/song/702",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'руси коси посмолеле' is my reading (hair turned dark like pitch); 'уште душа стои во тебе' I read as 'the soul still stays in you'. The title uses 'уф', probably a variant of 'во' (in).",
+ "words_to_learn": [
+  {
+   "mk": "зандана",
+   "en": "dungeon, prison (Turkish loan)"
+  },
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "борчеви",
+   "en": "debts"
+  },
+  {
+   "mk": "крвнини",
+   "en": "blood-feuds, blood money"
+  },
+  {
+   "mk": "рисјанска вера",
+   "en": "Christian faith"
+  },
+  {
+   "mk": "Турци",
+   "en": "Turks"
+  },
+  {
+   "mk": "продавај",
+   "en": "sell (imperative)"
+  },
+  {
+   "mk": "дворови",
+   "en": "yards, courtyards"
+  }
+ ],
+ "performers": [
+  "Болеробенд"
+ ],
+ "audio": [
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/261"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дека се чуло џанам, видело,",
+       "lat": "Deka se čulo džanam, videlo,",
+       "en": "Where was it heard, my dear, where was it seen,"
+      },
+      {
+       "cyr": "мома зандани, џанам, да лежи,",
+       "lat": "moma zandani, džanam, da leži,",
+       "en": "a girl lying in a dungeon, my dear,"
+      },
+      {
+       "cyr": "за таткови, си, борчеви,",
+       "lat": "za tatkovi, si, borčevi,",
+       "en": "for her father's debts,"
+      },
+      {
+       "cyr": "за братовите џанам, крвнини.",
+       "lat": "za bratovite džanam, krvnini.",
+       "en": "for her brothers' blood-feuds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Девет години ка' лежи,",
+       "lat": "Devet godini ka' leži,",
+       "en": "She has lain nine years,"
+      },
+      {
+       "cyr": "никој не дојде да го види,",
+       "lat": "nikoj ne dojde da go vidi,",
+       "en": "no one came to see her,"
+      },
+      {
+       "cyr": "на десеттата мајка оди,",
+       "lat": "na desettata majka odi,",
+       "en": "in the tenth her mother goes,"
+      },
+      {
+       "cyr": "од големи жалој проговори:",
+       "lat": "od golemi žaloj progovori:",
+       "en": "from great sorrow she speaks:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Бело ти лице, мајко, потемнало,",
+       "lat": "- Belo ti lice, majko, potemnalo,",
+       "en": "- Your white face, mother, has darkened,"
+      },
+      {
+       "cyr": "руси ти коси посмолеле,",
+       "lat": "rusi ti kosi posmolele,",
+       "en": "your golden hair has turned to pitch,"
+      },
+      {
+       "cyr": "за вера, ќерко, рисјанска,",
+       "lat": "za vera, ḱerko, risjanska,",
+       "en": "for the Christian faith, daughter,"
+      },
+      {
+       "cyr": "уште душа стои во тебе.",
+       "lat": "ušte duša stoi vo tebe.",
+       "en": "the soul still stays within you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Мајко ле мила, мајчице,",
+       "lat": "- Majko le mila, majčice,",
+       "en": "- Dear mother, little mother,"
+      },
+      {
+       "cyr": "девет години ка' лежам,",
+       "lat": "devet godini ka' ležam,",
+       "en": "nine years I have lain,"
+      },
+      {
+       "cyr": "и уште девет ќе лежам,",
+       "lat": "i ušte devet ḱe ležam,",
+       "en": "and nine more I will lie,"
+      },
+      {
+       "cyr": "вера рисјанска не давам.",
+       "lat": "vera risjanska ne davam.",
+       "en": "I will not give up the Christian faith."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Продавај мајко куќи, дворови,",
+       "lat": "- Prodavaj majko kuḱi, dvorovi,",
+       "en": "- Sell, mother, houses and yards,"
+      },
+      {
+       "cyr": "да ме извадиш мајко од зандани.",
+       "lat": "da me izvadiš majko od zandani.",
+       "en": "to get me out, mother, of the dungeon."
+      },
+      {
+       "cyr": "- Турците пари ќерко не сакаат,",
+       "lat": "- Turcite pari ḱerko ne sakaat,",
+       "en": "- The Turks do not want money, daughter,"
+      },
+      {
+       "cyr": "белото лице, ќерко ти сакаат.",
+       "lat": "beloto lice, ḱerko ti sakaat.",
+       "en": "they want your white face, daughter."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,119 @@
+{
+ "id": 1040,
+ "slug": "sobrala-gjurgja-nabrala",
+ "title_cyr": "Собрала Ѓурѓа, набрала",
+ "title_latin": "Sobrala Ǵurǵa, nabrala",
+ "title_en": "Gjurga gathered, collected",
+ "pesna_url": "https://pesna.org/song/1040",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Last stanza has 'Тренда' where the earlier stanza has 'Тренка'; I treated it as the same name. Ѓурѓа as a woman's name and Николица as a village are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "собрала",
+   "en": "she gathered"
+  },
+  {
+   "mk": "набрала",
+   "en": "she collected"
+  },
+  {
+   "mk": "секоја",
+   "en": "every"
+  },
+  {
+   "mk": "куќа",
+   "en": "house"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "викае",
+   "en": "is called (dialect)"
+  },
+  {
+   "mk": "трески",
+   "en": "kindling, wood splinters"
+  },
+  {
+   "mk": "вода",
+   "en": "water"
+  },
+  {
+   "mk": "грозје",
+   "en": "grapes"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Собрала Ѓурѓа, набрала",
+       "lat": "Sobrala Ǵurǵa, nabrala",
+       "en": "Gjurga gathered, collected"
+      },
+      {
+       "cyr": "од секоја куќа и мома,",
+       "lat": "od sekoja kuḱa i moma,",
+       "en": "from every house a girl,"
+      },
+      {
+       "cyr": "од Николица три моми.",
+       "lat": "od Nikolica tri momi.",
+       "en": "from Nikolitsa three girls."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Првата Тренка викае,",
+       "lat": "Prvata Trenka vikae,",
+       "en": "The first is called Trenka,"
+      },
+      {
+       "cyr": "другата Војда викае,",
+       "lat": "drugata Vojda vikae,",
+       "en": "the second is called Vojda,"
+      },
+      {
+       "cyr": "третата Грозда викае.",
+       "lat": "tretata Grozda vikae.",
+       "en": "the third is called Grozda."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тренда отиде на трески,",
+       "lat": "Trenda otide na treski,",
+       "en": "Trenka went for kindling,"
+      },
+      {
+       "cyr": "Војда отиде на вода,",
+       "lat": "Vojda otide na voda,",
+       "en": "Vojda went for water,"
+      },
+      {
+       "cyr": "Грозда отиде на грозје.",
+       "lat": "Grozda otide na grozje.",
+       "en": "Grozda went for grapes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

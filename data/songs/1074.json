@@ -1,0 +1,141 @@
+{
+ "id": 1074,
+ "slug": "vetar-vee-sneg-doleta",
+ "title_cyr": "Ветар вее, снег долета",
+ "title_latin": "Vetar vee, sneg doleta",
+ "title_en": "The Wind Blows, Snow Has Arrived",
+ "pesna_url": "https://pesna.org/song/1074",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional pechalbar (migrant labourer) style song. 'Чук мој верен' and 'камак црн' are my reading (tool and stone being worked); source spelling has a stray 'j' for 'ј' which I read normally.",
+ "words_to_learn": [
+  {
+   "mk": "ветар",
+   "en": "wind"
+  },
+  {
+   "mk": "снег",
+   "en": "snow"
+  },
+  {
+   "mk": "студ",
+   "en": "cold"
+  },
+  {
+   "mk": "бичкија",
+   "en": "saw (large two-handed)"
+  },
+  {
+   "mk": "режи",
+   "en": "cut, saw (imperative)"
+  },
+  {
+   "mk": "сиромаштија",
+   "en": "poverty"
+  },
+  {
+   "mk": "дребни",
+   "en": "small, tiny"
+  },
+  {
+   "mk": "чук",
+   "en": "hammer, axe-blow (my reading)"
+  },
+  {
+   "mk": "камак",
+   "en": "stone (dialect)"
+  }
+ ],
+ "performers": [
+  "Перун"
+ ],
+ "audio": [
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/2503"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ветар вее, снег долета,",
+       "lat": "Vetar vee, sneg doleta,",
+       "en": "The wind blows, snow has arrived,"
+      },
+      {
+       "cyr": "Македонец студ не знаj,",
+       "lat": "Makedonec stud ne znaj,",
+       "en": "the Macedonian knows no cold,"
+      },
+      {
+       "cyr": "режи, режи ти бичкиjо,",
+       "lat": "reži, reži ti bičkijo,",
+       "en": "cut, cut, you little saw,"
+      },
+      {
+       "cyr": "бегаj црна сиромаштиjо!",
+       "lat": "begaj crna siromaštijo!",
+       "en": "flee, black poverty!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тоj остави в' Македониjа",
+       "lat": "Toj ostavi v' Makedonija",
+       "en": "He left in Macedonia"
+      },
+      {
+       "cyr": "до три дребни дечица.",
+       "lat": "do tri drebni dečica.",
+       "en": "three small children."
+      },
+      {
+       "cyr": "режи, режи ти бичкиjо,",
+       "lat": "reži, reži ti bičkijo,",
+       "en": "Cut, cut, you little saw,"
+      },
+      {
+       "cyr": "бегаj црна сиромаштиjо!",
+       "lat": "begaj crna siromaštijo!",
+       "en": "flee, black poverty!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чукаj, чукаj, чук моj верен,",
+       "lat": "Čukaj, čukaj, čuk moj veren,",
+       "en": "Chop, chop, my faithful axe,"
+      },
+      {
+       "cyr": "пукаj, пукаj камак црн,",
+       "lat": "pukaj, pukaj kamak crn,",
+       "en": "burst, burst, black stone,"
+      },
+      {
+       "cyr": "режи, режи ти бичкиjо,",
+       "lat": "reži, reži ti bičkijo,",
+       "en": "cut, cut, you little saw,"
+      },
+      {
+       "cyr": "бегаj црна сиромаштиjо!",
+       "lat": "begaj crna siromaštijo!",
+       "en": "flee, black poverty!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

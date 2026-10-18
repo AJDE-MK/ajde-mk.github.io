@@ -1,0 +1,693 @@
+{
+ "id": 473,
+ "slug": "storil-niet-zajko-zajko-kokorajko",
+ "title_cyr": "Сторил ниет зајко, зајко кокорајко",
+ "title_latin": "Storil niet zajko, zajko kokorajko",
+ "title_en": "The rabbit decided, the rabbit dandy",
+ "pesna_url": "https://pesna.org/song/473",
+ "background": "It is the rabbit's wedding day. A dandy rabbit dresses up and gets engaged to a widowed fox. He invites an animal wedding party: a she-bear, a she-wolf as godmother, a frog on the *zurla* (folk oboe) and a hedgehog on the drum. He crosses the plain of Solun (Thessaloniki) to fetch his bride, finds a mother hen with chicks instead, runs into hunters and bolts, shouting that he is no bridegroom. It is a parody of a village wedding, and kids love it. *Kokorajko* is a playful rhyming nickname with no exact meaning, roughly \"cocky little bunny\". The song is packed with Turkish loanwords ending in *-džija* (one who does a job), a trace of Ottoman-era speech. Pesna.org lists two versions, and this page shows both. A couple of dialect words (*lindra lija*, *džimrika*) have no clean English equivalent.",
+ "background_source": "Source of these notes: your 6-song songbook, with details from Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Ансамбл Деспина",
+  "Пула",
+  "Иван Дјаков",
+  "Костадин Гугов",
+  "Лачезар Кирилов",
+  "Непознат изведувач",
+  "Сузана Спасовска",
+  "Татиана Сарбинска",
+  "Тодор Божков",
+  "Dj iNTEX",
+  "Mousikorama",
+  "Μουσικό Ηχόχρωμα",
+  "Ot izvora",
+  "Philoproodos Association of Edessa Alexander the Great",
+  "Rumeli Semih",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/512"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/513"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/514"
+  },
+  {
+   "who": "Dj iNTEX",
+   "url": "https://pesna.org/audio-download/692"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/693"
+  },
+  {
+   "who": "Тодор Божков",
+   "url": "https://pesna.org/audio-download/2944"
+  },
+  {
+   "who": "Ансамбл Деспина, Пула",
+   "url": "https://pesna.org/audio-download/3801"
+  },
+  {
+   "who": "Rumeli Semih",
+   "url": "https://pesna.org/audio-download/3814"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/4239"
+  },
+  {
+   "who": "Ot izvora",
+   "url": "https://pesna.org/audio-download/4364"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/4365"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4366"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4381"
+  },
+  {
+   "who": "Philoproodos Association of Edessa Alexander the Great",
+   "url": "https://pesna.org/audio-download/4382"
+  },
+  {
+   "who": "Μουσικό Ηχόχρωμα",
+   "url": "https://pesna.org/audio-download/4383"
+  },
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/4408"
+  },
+  {
+   "who": "Иван Дјаков",
+   "url": "https://pesna.org/audio-download/4409"
+  },
+  {
+   "who": "Лачезар Кирилов",
+   "url": "https://pesna.org/audio-download/4410"
+  },
+  {
+   "who": "Татиана Сарбинска",
+   "url": "https://pesna.org/audio-download/4411"
+  }
+ ],
+ "versions": [
+  {
+   "label": "As sung in the video",
+   "en_source": "mt",
+   "origin": "Lyrics from the YouTube description of https://www.youtube.com/watch?v=-2tR0iKUagU, pasted by Mike. Cyrillic spelling and English written by Claude, not checked by a native speaker.",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сторил ниет зајко, зајко да се жени,",
+       "lat": "Storil niet zajko, zajko da se ženi,",
+       "en": "The rabbit made up his mind, the rabbit would marry,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Зајко кокорајко, зајко сербезлија,",
+       "lat": "Zajko kokorajko, zajko serbezlija,",
+       "en": "rabbit dandy, the daring rabbit,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Си натресол гаќи, упрчил мустаќи,",
+       "lat": "Si natresol gaḱi, uprčil mustaḱi,",
+       "en": "he shook out his trousers, twirled up his moustache,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Нагрнал џамадан, капа фискулија,",
+       "lat": "Nagrnal džamadan, kapa fiskulija,",
+       "en": "put on his vest and a sporty cap,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море, што мислете бре? Личи на младоженја!",
+       "lat": "More, što mislete bre? Liči na mladoženja!",
+       "en": "Hey, what do you think? He looks like a bridegroom!",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми оженил зајко лиса удовица,",
+       "lat": "Mi oženil zajko lisa udovica,",
+       "en": "The rabbit got engaged to a fox, a widow,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Тажна натажена, петол за комшивка,",
+       "lat": "Tažna natažena, petol za komšivka,",
+       "en": "sorrowful and worn down, a rooster for a neighbor,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Позната џимрија, маза размазана",
+       "lat": "Poznata džimrija, maza razmazana",
+       "en": "a well-known fusspot, pampered and spoiled,",
+       "en_mt": true
+      },
+      {
+       "cyr": "светска испослица,",
+       "lat": "svetska isposlica,",
+       "en": "a worldly hermit,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море, селска визитарка!",
+       "lat": "More, selska vizitarka!",
+       "en": "hey, the village chatterbox!",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми поканил зајко китени сватови,",
+       "lat": "Mi pokanil zajko kiteni svatovi,",
+       "en": "The rabbit invited his prettily dressed wedding guests:",
+       "en_mt": true
+      },
+      {
+       "cyr": "Мечка месарија, вучица кумица,",
+       "lat": "Mečka mesarija, vučica kumica,",
+       "en": "a she-bear butcher, a she-wolf godmother,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ежо тапанџија, жаба зурлаџијка,",
+       "lat": "Ežo tapandžija, žaba zurladžijka,",
+       "en": "a hedgehog drummer, a frog zurna player,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Бурџо аберџија,",
+       "lat": "Burdžo aberdžija,",
+       "en": "a shaggy herald,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Зајко кокорајко,",
+       "lat": "Zajko kokorajko,",
+       "en": "the rabbit dandy,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Си натресол гаќи, упрчил мустаќи,",
+       "lat": "Si natresol gaḱi, uprčil mustaḱi,",
+       "en": "he shook out his trousers, twirled up his moustache,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Нагрнал џамадан, капа фискулија,",
+       "lat": "Nagrnal džamadan, kapa fiskulija,",
+       "en": "put on his vest and a sporty cap,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море, токмо младоженја!",
+       "lat": "More, tokmo mladoženja!",
+       "en": "hey, a perfect bridegroom!",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си тргнал зајко низ Солунско поле,",
+       "lat": "Pa si trgnal zajko niz Solunsko pole,",
+       "en": "Then the rabbit set off across the Thessaloniki plain,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Там си сретнал зајко до два-три ловџии,",
+       "lat": "Tam si sretnal zajko do dva-tri lovdžii,",
+       "en": "there he met two or three hunters,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Ем они си носат пушки сачмалии,",
+       "lat": "Em oni si nosat puški sačmalii,",
+       "en": "and they carried shotguns,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море, 'рти ем загари!",
+       "lat": "More, 'rti em zagari!",
+       "en": "hey, hounds and hunting dogs!",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ми летнал зајко, зајко да ми бега,",
+       "lat": "Pa mi letnal zajko, zajko da mi bega,",
+       "en": "Then the rabbit darted off, the rabbit ran away,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Си искинал гаќи, размрсил мустаќи,",
+       "lat": "Si iskinal gaḱi, razmrsil mustaḱi,",
+       "en": "he tore his trousers, messed up his moustache,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Искинал џамадан, викнал се провикнал,",
+       "lat": "Iskinal džamadan, viknal se proviknal,",
+       "en": "tore his vest, shouted and called out:",
+       "en_mt": true
+      },
+      {
+       "cyr": "Пуштете ме бре луѓе, ловџии има, морам да избегнам од овде,",
+       "lat": "Puštete me bre luǵe, lovdžii ima, moram da izbegnam od ovde,",
+       "en": "Let me go, people, there are hunters, I have to run away from here,",
+       "en_mt": true
+      },
+      {
+       "cyr": "Море, не сум младоженја!",
+       "lat": "More, ne sum mladoženja!",
+       "en": "hey, I am no bridegroom!",
+       "en_mt": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сторил ниет зајко, зајко да се жени",
+       "lat": "Storil niet zajko, zajko da se ženi",
+       "en": "The rabbit decided, the rabbit dandy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зајко кокорајко, токмо младожења",
+       "lat": "zajko kokorajko, tokmo mladoženja",
+       "en": "the rabbit would marry, bold rabbit",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сторил ниет зајко, зајко да се жени",
+       "lat": "Storil niet zajko, zajko da se ženi",
+       "en": "The rabbit decided, the rabbit dandy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зајко кокорајко, зајко да се жени, зајко кокорајко",
+       "lat": "zajko kokorajko, zajko da se ženi, zajko kokorajko",
+       "en": "the rabbit would marry, bold rabbit",
+       "en_mt": false
+      },
+      {
+       "cyr": "зајко сербеслија упрчил мустаќи",
+       "lat": "zajko serbeslija uprčil mustaḱi",
+       "en": "he shook his trousers, twirled [lit.: flaunted] his moustache",
+       "en_mt": false
+      },
+      {
+       "cyr": "си натресол гаќи, нагрнал џамадан",
+       "lat": "si natresol gaḱi, nagrnal džamadan",
+       "en": "wrapped his vest, his tassled cap,",
+       "en_mt": false
+      },
+      {
+       "cyr": "капа писќулија, море, токмо младожења.",
+       "lat": "kapa pisḱulija, more, tokmo mladoženja.",
+       "en": "hey, what a bridegroom.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми оженил зајко лиса удовица",
+       "lat": "Mi oženil zajko lisa udovica",
+       "en": "Rabbit got engaged to a fox widow,",
+       "en_mt": false
+      },
+      {
+       "cyr": "свеска испосница, личи на невеста.",
+       "lat": "sveska isposnica, liči na nevesta.",
+       "en": "well-known picky eater, a famous ascetic",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ми поканил зајко, китени сватови",
+       "lat": "Mi pokanil zajko, kiteni svatovi",
+       "en": "The rabbit invited his prettily dressed wedding guests",
+       "en_mt": false
+      },
+      {
+       "cyr": "мечка месарија, вучица кумица, ежо тапанџија.",
+       "lat": "mečka mesarija, vučica kumica, ežo tapandžija.",
+       "en": "a she-bear butcher, a she-wolf godmother, a frog to play zurna, a hedgehog for drummer,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Се накити лиса, лиса удовица,",
+       "lat": "Se nakiti lisa, lisa udovica,",
+       "en": "adorned bouquet, pampered and spoiled",
+       "en_mt": false
+      },
+      {
+       "cyr": "маза размазана, селска визитарка.",
+       "lat": "maza razmazana, selska vizitarka.",
+       "en": "hey, the village chatterbox.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Кога виде зајко, 'рти ем ловџии,",
+       "lat": "Koga vide zajko, 'rti em lovdžii,",
+       "en": "When the rabbit saw the greyhounds and the hunters,",
+       "en_mt": true
+      },
+      {
+       "cyr": "се уплашил зајо, личен младожења.",
+       "lat": "se uplašil zajo, ličen mladoženja.",
+       "en": "the rabbit got scared, the handsome bridegroom.",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си тргна зајко, низ Солунско поле,",
+       "lat": "Pa si trgna zajko, niz Solunsko pole,",
+       "en": "The rabbit went over the Thessaloniki plain",
+       "en_mt": false
+      },
+      {
+       "cyr": "там' си сретнал зајко, до два-три ловчии",
+       "lat": "tam' si sretnal zajko, do dva-tri lovčii",
+       "en": "where he encountered two or three hunters",
+       "en_mt": false
+      },
+      {
+       "cyr": "ем они си носат пушки сачмајлии,",
+       "lat": "em oni si nosat puški sačmajlii,",
+       "en": "and they carried shotguns,",
+       "en_mt": false
+      },
+      {
+       "cyr": "'рти ем загари, све одбор ловџии,",
+       "lat": "'rti em zagari, sve odbor lovdžii,",
+       "en": "hey, hounds and hunting dogs.",
+       "en_mt": false
+      },
+      {
+       "cyr": "море, силни нишанџии.",
+       "lat": "more, silni nišandžii.",
+       "en": "hey, mighty marksmen.",
+       "en_mt": true
+      },
+      {
+       "cyr": "Па си летнал зајко, зајко да ми бега,",
+       "lat": "Pa si letnal zajko, zajko da mi bega,",
+       "en": "The rabbit darted off and ran,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зајко кокорајко, лишен младожења",
+       "lat": "zajko kokorajko, lišen mladoženja",
+       "en": "the rabbit dandy, no longer a bridegroom,",
+       "en_mt": true
+      },
+      {
+       "cyr": "си искинал гаќи, размрсил мустаќи,",
+       "lat": "si iskinal gaḱi, razmrsil mustaḱi,",
+       "en": "tore his trousers, disentangled his moustache",
+       "en_mt": false
+      },
+      {
+       "cyr": "искинал гаќи, расмрсил мустаќи,",
+       "lat": "iskinal gaḱi, rasmrsil mustaḱi,",
+       "en": "tore his trousers, disentangled his moustache",
+       "en_mt": false
+      },
+      {
+       "cyr": "искинал џамадан, викнал, се провикнал:",
+       "lat": "iskinal džamadan, viknal, se proviknal:",
+       "en": "tore his vest, shouted and exclaimed:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Море не сум младожења!",
+       "lat": "- More ne sum mladoženja!",
+       "en": "hey, I am no bridegroom!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 3",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сторил ниет зајко, зајко кокорајко,",
+       "lat": "Storil niet zajko, zajko kokorajko,",
+       "en": "The rabbit decided, the rabbit dandy,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зајко да се жени, зајко сербезлија",
+       "lat": "zajko da se ženi, zajko serbezlija",
+       "en": "the rabbit would marry, bold rabbit",
+       "en_mt": false
+      },
+      {
+       "cyr": "си натресол гаќи, упрчил мустаќи",
+       "lat": "si natresol gaḱi, uprčil mustaḱi",
+       "en": "he shook his trousers, twirled [lit.: flaunted] his moustache",
+       "en_mt": false
+      },
+      {
+       "cyr": "нагрнал џамадан, капа пискулија",
+       "lat": "nagrnal džamadan, kapa piskulija",
+       "en": "wrapped his vest, his tassled cap,",
+       "en_mt": false
+      },
+      {
+       "cyr": "море, токмо младожења.",
+       "lat": "more, tokmo mladoženja.",
+       "en": "hey, what a bridegroom.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми посвршил зајко лина удовица",
+       "lat": "Mi posvršil zajko lina udovica",
+       "en": "Rabbit got engaged to a fox widow,",
+       "en_mt": false
+      },
+      {
+       "cyr": "китка накитена, маза размажена",
+       "lat": "kitka nakitena, maza razmažena",
+       "en": "adorned bouquet, pampered and spoiled",
+       "en_mt": false
+      },
+      {
+       "cyr": "посната џимрика, светска испосница,",
+       "lat": "posnata džimrika, svetska isposnica,",
+       "en": "well-known picky eater, a famous ascetic",
+       "en_mt": false
+      },
+      {
+       "cyr": "море, селска визитарка.",
+       "lat": "more, selska vizitarka.",
+       "en": "hey, the village chatterbox.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми поканил, зајко, китени сватови",
+       "lat": "Mi pokanil, zajko, kiteni svatovi",
+       "en": "The rabbit invited his prettily dressed wedding guests",
+       "en_mt": false
+      },
+      {
+       "cyr": "мечка месарија, вучица кумица,",
+       "lat": "mečka mesarija, vučica kumica,",
+       "en": "a she-bear butcher, a she-wolf godmother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "жаба зурлаџика, ежо тупанџија,",
+       "lat": "žaba zurladžika, ežo tupandžija,",
+       "en": "a frog to play zurna, a hedgehog for drummer,",
+       "en_mt": false
+      },
+      {
+       "cyr": "овен есапџија, мурџо аберџија,",
+       "lat": "oven esapdžija, murdžo aberdžija,",
+       "en": "a ram for bookkeeper, a watchdog wedding-crier,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зајко кокорајко,",
+       "lat": "zajko kokorajko,",
+       "en": "the rabbit dandy",
+       "en_mt": false
+      },
+      {
+       "cyr": "си натресол гаќи, упрчил мустаќи",
+       "lat": "si natresol gaḱi, uprčil mustaḱi",
+       "en": "he shook his trousers, twirled his moustache",
+       "en_mt": false
+      },
+      {
+       "cyr": "нагрнал џамадан, капа пискулија",
+       "lat": "nagrnal džamadan, kapa piskulija",
+       "en": "wrapped his vest, his tassled cap,",
+       "en_mt": false
+      },
+      {
+       "cyr": "море, токмо младожења.",
+       "lat": "more, tokmo mladoženja.",
+       "en": "hey, what a bridegroom.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ми тргнал зајко низ Солунско поле,",
+       "lat": "Pa mi trgnal zajko niz Solunsko pole,",
+       "en": "The rabbit went over the Thessaloniki plain",
+       "en_mt": false
+      },
+      {
+       "cyr": "да си види, зајко, лиса удовица",
+       "lat": "da si vidi, zajko, lisa udovica",
+       "en": "to see the fox widow",
+       "en_mt": false
+      },
+      {
+       "cyr": "там си најде, зајко, место линдра лија",
+       "lat": "tam si najde, zajko, mesto lindra lija",
+       "en": "but to find, instead of the fox,",
+       "en_mt": false
+      },
+      {
+       "cyr": "квачка со пилиња, тешка миразџика",
+       "lat": "kvačka so pilinja, teška mirazdžika",
+       "en": "a hen with chicks, a heavy dowry-bearer",
+       "en_mt": false
+      },
+      {
+       "cyr": "личи за невеста.",
+       "lat": "liči za nevesta.",
+       "en": "it resembles the bride.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога виде, зајко, тоа чудно чудо",
+       "lat": "Koga vide, zajko, toa čudno čudo",
+       "en": "Upon seeing this strange wonder",
+       "en_mt": false
+      },
+      {
+       "cyr": "па ми летна, зајко, назад на трагови",
+       "lat": "pa mi letna, zajko, nazad na tragovi",
+       "en": "the rabbit turned tail, went back in his tracks",
+       "en_mt": false
+      },
+      {
+       "cyr": "там' си сретна, зајко, до два-три ловџии",
+       "lat": "tam' si sretna, zajko, do dva-tri lovdžii",
+       "en": "where he encountered two or three hunters",
+       "en_mt": false
+      },
+      {
+       "cyr": "ем они си носат пушки сачмалии",
+       "lat": "em oni si nosat puški sačmalii",
+       "en": "and they carried shotguns,",
+       "en_mt": false
+      },
+      {
+       "cyr": "море, р'ти ем загари.",
+       "lat": "more, r'ti em zagari.",
+       "en": "hey, hounds and hunting dogs.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Па ми прснал зајко, зајко да ми бега,",
+       "lat": "Pa mi prsnal zajko, zajko da mi bega,",
+       "en": "The rabbit darted off and ran,",
+       "en_mt": false
+      },
+      {
+       "cyr": "си искинал гаќи, размрсил мустаки,",
+       "lat": "si iskinal gaḱi, razmrsil mustaki,",
+       "en": "tore his trousers, disentangled his moustache",
+       "en_mt": false
+      },
+      {
+       "cyr": "искинал џамадан, викна се провикна:",
+       "lat": "iskinal džamadan, vikna se provikna:",
+       "en": "tore his vest, shouted and exclaimed:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Море, не сум младожења!",
+       "lat": "- More, ne sum mladoženja!",
+       "en": "hey, I am no bridegroom!",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false,
+ "aliases": [
+  "Зајко",
+  "Zajko"
+ ]
+}

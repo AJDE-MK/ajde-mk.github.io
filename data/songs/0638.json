@@ -1,0 +1,155 @@
+{
+ "id": 638,
+ "slug": "gori-balkan",
+ "title_cyr": "Гори Балкан",
+ "title_latin": "Gori Balkan",
+ "title_en": "The Balkan Burns",
+ "pesna_url": "https://pesna.org/song/638",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Гори Балкан' could be 'the Balkan burns' or 'the Balkan forests'; I chose burns (my reading). 'Wedding with beasts' presumably refers to a battle, which is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "гори",
+   "en": "burns / (also) forest"
+  },
+  {
+   "mk": "славна",
+   "en": "glorious"
+  },
+  {
+   "mk": "село",
+   "en": "village"
+  },
+  {
+   "mk": "стари",
+   "en": "old (title before a name)"
+  },
+  {
+   "mk": "свадба",
+   "en": "wedding"
+  },
+  {
+   "mk": "ѕверови",
+   "en": "wild beasts"
+  },
+  {
+   "mk": "помош",
+   "en": "help"
+  },
+  {
+   "mk": "никаде",
+   "en": "nowhere"
+  },
+  {
+   "mk": "сал",
+   "en": "only"
+  },
+  {
+   "mk": "горна",
+   "en": "upper"
+  }
+ ],
+ "performers": [
+  "Елита",
+  "Кирил Мицкоски",
+  "Македонски мерак",
+  "Наум Петрески",
+  "Славна Дебарца"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/910"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/911"
+  },
+  {
+   "who": "Славна Дебарца",
+   "url": "https://pesna.org/audio-download/912"
+  },
+  {
+   "who": "Елита",
+   "url": "https://pesna.org/audio-download/913"
+  },
+  {
+   "who": "Кирил Мицкоски",
+   "url": "https://pesna.org/audio-download/914"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Гори Балкан, гори Балкан",
+       "lat": "Gori Balkan, gori Balkan",
+       "en": "The Balkan burns, the Balkan burns,"
+      },
+      {
+       "cyr": "во горна Дебрца",
+       "lat": "vo gorna Debrca",
+       "en": "in upper Debrca,"
+      },
+      {
+       "cyr": "во славна Дебарца, Балкан,",
+       "lat": "vo slavna Debarca, Balkan,",
+       "en": "in glorious Debarca, the Balkan,"
+      },
+      {
+       "cyr": "село Арбиново.",
+       "lat": "selo Arbinovo.",
+       "en": "the village of Arbinovo."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стари Дејан свадба прави,",
+       "lat": "Stari Dejan svadba pravi,",
+       "en": "Old Dejan holds a wedding,"
+      },
+      {
+       "cyr": "свадба прави со ѕверови.",
+       "lat": "svadba pravi so dzverovi.",
+       "en": "holds a wedding with beasts."
+      },
+      {
+       "cyr": "Од никаде помош нема,",
+       "lat": "Od nikade pomoš nema,",
+       "en": "From nowhere is there help,"
+      },
+      {
+       "cyr": "само Ѓурчин од Слатино.",
+       "lat": "samo Ǵurčin od Slatino.",
+       "en": "only Gjurchin from Slatino."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сал од Ѓурчин од Слатино",
+       "lat": "Sal od Ǵurčin od Slatino",
+       "en": "Only Gjurchin from Slatino"
+      },
+      {
+       "cyr": "и тој Климе Злестовчето.",
+       "lat": "i toj Klime Zlestovčeto.",
+       "en": "and that Klime Zlestovche."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

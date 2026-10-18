@@ -1,0 +1,171 @@
+{
+ "id": 935,
+ "slug": "mashala",
+ "title_cyr": "Машала",
+ "title_latin": "Mašala",
+ "title_en": "Mashala",
+ "pesna_url": "https://pesna.org/song/935",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Мелодија бенд",
+  "Рајна Терзијска"
+ ],
+ "audio": [
+  {
+   "who": "Мелодија бенд",
+   "url": "https://pesna.org/audio-download/2141"
+  },
+  {
+   "who": "Рајна Терзијска",
+   "url": "https://pesna.org/audio-download/4268"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Насред село големо, извор вода студена,",
+       "lat": "Nasred selo golemo, izvor voda studena,",
+       "en": "In the center of a big village, a spring with cold water,",
+       "en_mt": false
+      },
+      {
+       "cyr": "до водата студена прават свадба голема,",
+       "lat": "do vodata studena pravat svadba golema,",
+       "en": "close to the cold water, they have a big wedding,",
+       "en_mt": false
+      },
+      {
+       "cyr": "еве ja невестата, орото го заигра.",
+       "lat": "eve ja nevestata, oroto go zaigra.",
+       "en": "here comes the bride, she starts to dance the oro.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што убава си невесто, машала, машала,",
+       "lat": "Što ubava si nevesto, mašala, mašala,",
+       "en": "How beautiful are you, bride, mashala, mashala,",
+       "en_mt": false
+      },
+      {
+       "cyr": "руси коси, медни усни, машала, машала.",
+       "lat": "rusi kosi, medni usni, mašala, mašala.",
+       "en": "a blond hair, honey lips, mashala, mashala.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Руси коси за мрсење, машала, машала",
+       "lat": "Rusi kosi za mrsenje, mašala, mašala",
+       "en": "A blond hair for caressing, mashala, mashala,",
+       "en_mt": false
+      },
+      {
+       "cyr": "медни усни за љубење.",
+       "lat": "medni usni za ljubenje.",
+       "en": "honey lips for kissing.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај машала, машала,",
+       "lat": "Aj mašala, mašala,",
+       "en": "Hey, mashalla, mashalla,",
+       "en_mt": false
+      },
+      {
+       "cyr": "каква свадба голема,",
+       "lat": "kakva svadba golema,",
+       "en": "what a big wedding,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде весело, весело,",
+       "lat": "ajde veselo, veselo,",
+       "en": "come on, merrily, merrily",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде сите на оро.",
+       "lat": "ajde site na oro.",
+       "en": "come on everbody to the oro.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што убава си невесто, машала, машала,",
+       "lat": "Što ubava si nevesto, mašala, mašala,",
+       "en": "How beautiful are you, bride, mashala, mashala,",
+       "en_mt": false
+      },
+      {
+       "cyr": "лице бело, кршно тело, машала, машала.",
+       "lat": "lice belo, kršno telo, mašala, mašala.",
+       "en": "a white face, a graceful body, mashala, mashala.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Лице бело за гледање, машала, машала,",
+       "lat": "Lice belo za gledanje, mašala, mašala,",
+       "en": "A white face for looking, mashala, mashala,",
+       "en_mt": false
+      },
+      {
+       "cyr": "кршно тело за играње.",
+       "lat": "kršno telo za igranje.",
+       "en": "a graceful body for dancing.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај машала, машала,",
+       "lat": "Aj mašala, mašala,",
+       "en": "Hey, mashalla, mashalla,",
+       "en_mt": false
+      },
+      {
+       "cyr": "каква свадба голема,",
+       "lat": "kakva svadba golema,",
+       "en": "what a big wedding,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде весело, весело,",
+       "lat": "ajde veselo, veselo,",
+       "en": "come on, merrily, merrily",
+       "en_mt": false
+      },
+      {
+       "cyr": "ајде сите на оро.",
+       "lat": "ajde site na oro.",
+       "en": "come on everbody to the oro.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

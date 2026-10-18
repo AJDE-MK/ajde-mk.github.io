@@ -1,0 +1,204 @@
+{
+ "id": 570,
+ "slug": "izvikna-jana-provikna",
+ "title_cyr": "Извикна Јана провикна",
+ "title_latin": "Izvikna Jana provikna",
+ "title_en": "Jana called out",
+ "pesna_url": "https://pesna.org/song/570",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Сега је в котел Турција' is my reading ('now Turkey is in the cauldron', i.e. in trouble); 'је' is dialect. 'Маликери' read as Mannlicher rifles.",
+ "words_to_learn": [
+  {
+   "mk": "чардак",
+   "en": "balcony, veranda"
+  },
+  {
+   "mk": "пармаци",
+   "en": "railings, balusters"
+  },
+  {
+   "mk": "војводи",
+   "en": "voivodes, band leaders"
+  },
+  {
+   "mk": "комити",
+   "en": "komitas, irregular fighters"
+  },
+  {
+   "mk": "маликери",
+   "en": "Mannlicher rifles"
+  },
+  {
+   "mk": "леворвери",
+   "en": "revolvers"
+  },
+  {
+   "mk": "патрондаши",
+   "en": "cartridge belts"
+  },
+  {
+   "mk": "удрете",
+   "en": "strike (plural imperative)"
+  },
+  {
+   "mk": "момчиња",
+   "en": "lads"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана",
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/1398"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/3993"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ај извикна Јана, провикна,",
+       "lat": "Aj izvikna Jana, provikna,",
+       "en": "Ah, Jana called out, cried out,"
+      },
+      {
+       "cyr": "извикна Јана провикна,",
+       "lat": "izvikna Jana provikna,",
+       "en": "Jana called out, cried out,"
+      },
+      {
+       "cyr": "од високите чардаци",
+       "lat": "od visokite čardaci",
+       "en": "from the high balconies,"
+      },
+      {
+       "cyr": "од сребрените пармаци.",
+       "lat": "od srebrenite parmaci.",
+       "en": "from the silver railings."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Озгора идат војводи",
+       "lat": "Ozgora idat vojvodi",
+       "en": "From above come the voivodes,"
+      },
+      {
+       "cyr": "по нив ми одат комити,",
+       "lat": "po niv mi odat komiti,",
+       "en": "behind them go the komitas,"
+      },
+      {
+       "cyr": "на рамо маликерите",
+       "lat": "na ramo malikerite",
+       "en": "on the shoulder the rifles,"
+      },
+      {
+       "cyr": "на појас леворверите.",
+       "lat": "na pojas levorverite.",
+       "en": "at the belt the revolvers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај на појас леворверите,",
+       "lat": "Aj na pojas levorverite,",
+       "en": "Ah, at the belt the revolvers,"
+      },
+      {
+       "cyr": "на појас леворверите,",
+       "lat": "na pojas levorverite,",
+       "en": "at the belt the revolvers,"
+      },
+      {
+       "cyr": "на гради патрондашите,",
+       "lat": "na gradi patrondašite,",
+       "en": "on the chest the cartridge belts,"
+      },
+      {
+       "cyr": "на гради патрондашите.",
+       "lat": "na gradi patrondašite.",
+       "en": "on the chest the cartridge belts."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај извикна Јана, провикна,",
+       "lat": "Aj izvikna Jana, provikna,",
+       "en": "Ah, Jana called out, cried out,"
+      },
+      {
+       "cyr": "извикна Јана, провикна:",
+       "lat": "izvikna Jana, provikna:",
+       "en": "Jana called out, cried out:"
+      },
+      {
+       "cyr": "- Удрете браќа, удрете,",
+       "lat": "- Udrete braḱa, udrete,",
+       "en": "- Strike, brothers, strike,"
+      },
+      {
+       "cyr": "удрете не се бојите.",
+       "lat": "udrete ne se bojite.",
+       "en": "strike, do not be afraid."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај удрете, не се бојите,",
+       "lat": "Aj udrete, ne se bojite,",
+       "en": "Ah, strike, do not be afraid,"
+      },
+      {
+       "cyr": "удрете не се бојете,",
+       "lat": "udrete ne se bojete,",
+       "en": "strike, do not be afraid,"
+      },
+      {
+       "cyr": "овде не ми е Грција",
+       "lat": "ovde ne mi e Grcija",
+       "en": "here is not Greece,"
+      },
+      {
+       "cyr": "сега је в котел Турција,",
+       "lat": "sega je v kotel Turcija,",
+       "en": "now Turkey is in the cauldron,"
+      },
+      {
+       "cyr": "овде се бијат момчиња,",
+       "lat": "ovde se bijat momčinja,",
+       "en": "here the lads fight,"
+      },
+      {
+       "cyr": "момчиња Македончиња.",
+       "lat": "momčinja Makedončinja.",
+       "en": "lads, little Macedonians."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

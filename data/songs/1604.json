@@ -1,0 +1,184 @@
+{
+ "id": 1604,
+ "slug": "ka-mi-ispadnala-moma-katerina",
+ "title_cyr": "Ка ми испаднала мома Катерина",
+ "title_latin": "Ka mi ispadnala moma Katerina",
+ "title_en": "As the girl Katerina came out",
+ "pesna_url": "https://pesna.org/song/1604",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јаска' is read as 'I would' (dialect, my reading). 'Да ти кршам таја рамна снага' is my reading as 'to hold/embrace your figure'; literally 'to bend/break'. Origin unclear, treated as traditional.",
+ "words_to_learn": [
+  {
+   "mk": "испаднала",
+   "en": "came out, rushed out"
+  },
+  {
+   "mk": "рамни двори",
+   "en": "level courtyards"
+  },
+  {
+   "mk": "растресела",
+   "en": "shook loose"
+  },
+  {
+   "mk": "руса коса",
+   "en": "fair hair"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "straight, slender figure"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young lad"
+  },
+  {
+   "mk": "вели",
+   "en": "says"
+  },
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "елај",
+   "en": "come (imperative)"
+  },
+  {
+   "mk": "мрсам",
+   "en": "I comb, tidy (hair, dialect)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Никола Јонков Вапцаров",
+  "Воденки",
+  "Габриела Новевска",
+  "Јана Стојановска",
+  "Ленче Кукиќ",
+  "Непознат изведувач",
+  "Чалгија Мерак",
+  "Chepkalo Projects",
+  "Christos Tsiparis",
+  "Lidija Dokuzovich Trio"
+ ],
+ "audio": [
+  {
+   "who": "Воденки",
+   "url": "https://pesna.org/audio-download/4221"
+  },
+  {
+   "who": "Јана Стојановска, Чалгија Мерак",
+   "url": "https://pesna.org/audio-download/4223"
+  },
+  {
+   "who": "Christos Tsiparis",
+   "url": "https://pesna.org/audio-download/4224"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/4225"
+  },
+  {
+   "who": "Ансамбл Никола Јонков Вапцаров",
+   "url": "https://pesna.org/audio-download/4226"
+  },
+  {
+   "who": "Chepkalo Projects",
+   "url": "https://pesna.org/audio-download/4227"
+  },
+  {
+   "who": "Ленче Кукиќ",
+   "url": "https://pesna.org/audio-download/4228"
+  },
+  {
+   "who": "Габриела Новевска",
+   "url": "https://pesna.org/audio-download/4229"
+  },
+  {
+   "who": "Lidija Dokuzovich Trio",
+   "url": "https://pesna.org/audio-download/4230"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ка ми испаднала мома Катерина,",
+       "lat": "Ka mi ispadnala moma Katerina,",
+       "en": "As the girl Katerina came out,"
+      },
+      {
+       "cyr": "низ тие нејни, нејни рамни двори.",
+       "lat": "niz tie nejni, nejni ramni dvori.",
+       "en": "through those her level courtyards."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ка ми растресела нејна руса коса,",
+       "lat": "Ka mi rastresela nejna rusa kosa,",
+       "en": "As she shook out her fair hair,"
+      },
+      {
+       "cyr": "низ таја нејна, нејна рамна снага.",
+       "lat": "niz taja nejna, nejna ramna snaga.",
+       "en": "over her straight figure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Tам ми ја видело едно лудо младо,",
+       "lat": "Tam mi ja videlo edno ludo mlado,",
+       "en": "There a young lad saw her,"
+      },
+      {
+       "cyr": "и на Катерина вели, ем говори:",
+       "lat": "i na Katerina veli, em govori:",
+       "en": "and says to Katerina, speaks:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ој ти Катерино, ти малој моме,",
+       "lat": "Oj ti Katerino, ti maloj mome,",
+       "en": "Oh you Katerina, you young girl,"
+      },
+      {
+       "cyr": "Ајде елај, елај, елај ти при мене.",
+       "lat": "Ajde elaj, elaj, elaj ti pri mene.",
+       "en": "come on, come, come to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јаска да ти мрсам таја руса коса,",
+       "lat": "Jaska da ti mrsam taja rusa kosa,",
+       "en": "I would comb your fair hair,"
+      },
+      {
+       "cyr": "Јаска да ти кршам таја рамна снага.",
+       "lat": "Jaska da ti kršam taja ramna snaga.",
+       "en": "I would hold your straight figure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

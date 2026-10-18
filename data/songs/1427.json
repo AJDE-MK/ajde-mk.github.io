@@ -1,0 +1,232 @@
+{
+ "id": 1427,
+ "slug": "tatko",
+ "title_cyr": "Татко",
+ "title_latin": "Tatko",
+ "title_en": "Father",
+ "pesna_url": "https://pesna.org/song/1427",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern lament, apparently a recent original song; I cannot name an author, so origin unclear. 'Да му кажам колку грешев' read as 'how much I erred'.",
+ "words_to_learn": [
+  {
+   "mk": "татко",
+   "en": "father"
+  },
+  {
+   "mk": "срце гори",
+   "en": "the heart burns"
+  },
+  {
+   "mk": "милост",
+   "en": "mercy"
+  },
+  {
+   "mk": "болка",
+   "en": "pain"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "гроб",
+   "en": "grave"
+  },
+  {
+   "mk": "прошка",
+   "en": "forgiveness"
+  },
+  {
+   "mk": "проколна",
+   "en": "cursed"
+  },
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "гушневме",
+   "en": "we might have hugged"
+  }
+ ],
+ "performers": [
+  "Јордан Митев"
+ ],
+ "audio": [
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/3646"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах татко, татко, дали мислиш ти на мене",
+       "lat": "Ah tatko, tatko, dali misliš ti na mene",
+       "en": "Ah father, father, do you think of me,"
+      },
+      {
+       "cyr": "ах татко, татко, срце гори знај по тебе,",
+       "lat": "ah tatko, tatko, srce gori znaj po tebe,",
+       "en": "ah father, father, know that my heart burns for you,"
+      },
+      {
+       "cyr": "само се молам и од тебе милост барам,",
+       "lat": "samo se molam i od tebe milost baram,",
+       "en": "I only pray and ask mercy from you,"
+      },
+      {
+       "cyr": "за тебе горам и од болка јас ќе умрам.",
+       "lat": "za tebe goram i od bolka jas ḱe umram.",
+       "en": "I burn for you and from pain I will die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Е, е, еј, татко слушни ме,",
+       "lat": "E, e, ej, tatko slušni me,",
+       "en": "Hey, hey, hey, father, hear me,"
+      },
+      {
+       "cyr": "оваа песна ја пеам за тебе,",
+       "lat": "ovaa pesna ja peam za tebe,",
+       "en": "this song I sing for you,"
+      },
+      {
+       "cyr": "е, е, еј,",
+       "lat": "e, e, ej,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "татко чекај нè, горе со мајка",
+       "lat": "tatko čekaj nè, gore so majka",
+       "en": "father, wait for us up there with mother,"
+      },
+      {
+       "cyr": "на едно место пак да се збереме.",
+       "lat": "na edno mesto pak da se zbereme.",
+       "en": "so we can gather again in one place."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пред гробот стојам, болка стега, солзи ронам,",
+       "lat": "Pred grobot stojam, bolka stega, solzi ronam,",
+       "en": "I stand before the grave, pain squeezes, I shed tears,"
+      },
+      {
+       "cyr": "кажи ми боже, дали горе ќе го видам",
+       "lat": "kaži mi bože, dali gore ḱe go vidam",
+       "en": "tell me, God, will I see him up there,"
+      },
+      {
+       "cyr": "за да му кажам колку грешев, колку жалам,",
+       "lat": "za da mu kažam kolku grešev, kolku žalam,",
+       "en": "to tell him how much I erred, how much I regret,"
+      },
+      {
+       "cyr": "кажи ми боже, за прошка да му побарам.",
+       "lat": "kaži mi bože, za proška da mu pobaram.",
+       "en": "tell me, God, so I may ask him for forgiveness."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Е, е, еј, татко слушни ме,",
+       "lat": "E, e, ej, tatko slušni me,",
+       "en": "Hey, hey, hey, father, hear me,"
+      },
+      {
+       "cyr": "оваа песна ја пеам за тебе,",
+       "lat": "ovaa pesna ja peam za tebe,",
+       "en": "this song I sing for you,"
+      },
+      {
+       "cyr": "е, е, еј,",
+       "lat": "e, e, ej,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "татко чекај нè, горе со мајка",
+       "lat": "tatko čekaj nè, gore so majka",
+       "en": "father, wait for us up there with mother,"
+      },
+      {
+       "cyr": "на едно место пак да се збереме.",
+       "lat": "na edno mesto pak da se zbereme.",
+       "en": "so we can gather again in one place."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах татко, татко, кој нè казни, кој нè проколна,",
+       "lat": "Ah tatko, tatko, koj nè kazni, koj nè prokolna,",
+       "en": "Ah father, father, who punished us, who cursed us,"
+      },
+      {
+       "cyr": "без поздрав татко, тивко од нас ти си замина.",
+       "lat": "bez pozdrav tatko, tivko od nas ti si zamina.",
+       "en": "without a farewell, father, quietly you left us."
+      },
+      {
+       "cyr": "И не ни кажа, збогум внуче, збогум сине,",
+       "lat": "I ne ni kaža, zbogum vnuče, zbogum sine,",
+       "en": "And you did not say to us goodbye grandchild, goodbye son,"
+      },
+      {
+       "cyr": "бар уште еднаш, силно татко да те гушневме.",
+       "lat": "bar ušte ednaš, silno tatko da te gušnevme.",
+       "en": "at least once more, tightly, father, we would have hugged you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Е, е, еј, татко слушни ме,",
+       "lat": "E, e, ej, tatko slušni me,",
+       "en": "Hey, hey, hey, father, hear me,"
+      },
+      {
+       "cyr": "оваа песна ја пеам за тебе,",
+       "lat": "ovaa pesna ja peam za tebe,",
+       "en": "this song I sing for you,"
+      },
+      {
+       "cyr": "е, е, еј,",
+       "lat": "e, e, ej,",
+       "en": "hey, hey, hey,"
+      },
+      {
+       "cyr": "татко чекај нè, горе со мајка",
+       "lat": "tatko čekaj nè, gore so majka",
+       "en": "father, wait for us up there with mother,"
+      },
+      {
+       "cyr": "на едно место пак да се збереме.",
+       "lat": "na edno mesto pak da se zbereme.",
+       "en": "so we can gather again in one place."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

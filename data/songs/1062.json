@@ -1,0 +1,133 @@
+{
+ "id": 1062,
+ "slug": "bistro-le-bistro-planino",
+ "title_cyr": "Бистро ле, Бистро планино",
+ "title_latin": "Bistro le, Bistro planino",
+ "title_en": "Bistra, oh, Bistra mountain",
+ "pesna_url": "https://pesna.org/song/1062",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; Bistra is a mountain in western Macedonia. 'тија', 'таја' are dialect forms of 'тие', 'таа'.",
+ "words_to_learn": [
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "трева",
+   "en": "grass"
+  },
+  {
+   "mk": "студена вода",
+   "en": "cold water"
+  },
+  {
+   "mk": "буки",
+   "en": "beech trees"
+  },
+  {
+   "mk": "сенки",
+   "en": "shadows"
+  },
+  {
+   "mk": "стада",
+   "en": "flocks"
+  },
+  {
+   "mk": "овчари",
+   "en": "shepherds"
+  }
+ ],
+ "performers": [
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/2458"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бистро ле, Бистро планино,",
+       "lat": "Bistro le, Bistro planino,",
+       "en": "Bistra, oh, Bistra mountain,"
+      },
+      {
+       "cyr": "што си ми толку убава.",
+       "lat": "što si mi tolku ubava.",
+       "en": "how beautiful you are to me."
+      },
+      {
+       "cyr": "Што си ми толку убава,",
+       "lat": "Što si mi tolku ubava,",
+       "en": "How beautiful you are to me,"
+      },
+      {
+       "cyr": "со твојта трева зелена.",
+       "lat": "so tvojta treva zelena.",
+       "en": "with your green grass."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со твојта трева зелена,",
+       "lat": "So tvojta treva zelena,",
+       "en": "With your green grass,"
+      },
+      {
+       "cyr": "со таја вода студена,",
+       "lat": "so taja voda studena,",
+       "en": "with that cold water,"
+      },
+      {
+       "cyr": "со тија буки високи,",
+       "lat": "so tija buki visoki,",
+       "en": "with those tall beech trees,"
+      },
+      {
+       "cyr": "под ними, сенки широки.",
+       "lat": "pod nimi, senki široki.",
+       "en": "under them, wide shadows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бистро ле, Бистро планино,",
+       "lat": "Bistro le, Bistro planino,",
+       "en": "Bistra, oh, Bistra mountain,"
+      },
+      {
+       "cyr": "што си ми толку убава",
+       "lat": "što si mi tolku ubava",
+       "en": "how beautiful you are to me"
+      },
+      {
+       "cyr": "со твојте стада големи",
+       "lat": "so tvojte stada golemi",
+       "en": "with your large flocks"
+      },
+      {
+       "cyr": "и тије млади овчари.",
+       "lat": "i tije mladi ovčari.",
+       "en": "and those young shepherds."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

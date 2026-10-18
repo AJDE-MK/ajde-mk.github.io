@@ -1,0 +1,200 @@
+{
+ "id": 40,
+ "slug": "ceniv-se-u-popa",
+ "title_cyr": "Ценив се у попа",
+ "title_latin": "Ceniv se u popa",
+ "title_en": "I was hired by the priest",
+ "pesna_url": "https://pesna.org/song/40",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кумановско трио",
+  "Николај Славеев",
+  "Октет Куманово",
+  "Пеце Атанасовски",
+  "Jar"
+ ],
+ "audio": [
+  {
+   "who": "Кумановско трио, Пеце Атанасовски",
+   "url": "https://pesna.org/audio-download/586"
+  },
+  {
+   "who": "Октет Куманово",
+   "url": "https://pesna.org/audio-download/2848"
+  },
+  {
+   "who": "Jar",
+   "url": "https://pesna.org/audio-download/2849"
+  },
+  {
+   "who": "Николај Славеев",
+   "url": "https://pesna.org/audio-download/3384"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ценив се у попа,",
+       "lat": "Ceniv se u popa,",
+       "en": "I was hired by the priest,"
+      },
+      {
+       "cyr": "да му чувам гуските.",
+       "lat": "da mu čuvam guskite.",
+       "en": "to look after his geese."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шарена гајда изшарана,",
+       "lat": "Šarena gajda izšarana,",
+       "en": "Colorful patterned gajda*,"
+      },
+      {
+       "cyr": "с'с мониста нанижана.",
+       "lat": "s's monista nanižana.",
+       "en": "strung with beads."
+      },
+      {
+       "cyr": "Зумбај, зум-ба-ба.",
+       "lat": "Zumbaj, zum-ba-ba.",
+       "en": "Zumbai, zum-ba-ba."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Откара ги долови,",
+       "lat": "Otkara gi dolovi,",
+       "en": "I've taken them away,"
+      },
+      {
+       "cyr": "куде вода не тече.",
+       "lat": "kude voda ne teče.",
+       "en": "where the water doesn't flow."
+      },
+      {
+       "cyr": "Куде вода не тече,",
+       "lat": "Kude voda ne teče,",
+       "en": "Where the water doesn't flow,"
+      },
+      {
+       "cyr": "куде трава не ница.",
+       "lat": "kude trava ne nica.",
+       "en": "where the grass doesn't sprout."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шарена гајда изшарана,",
+       "lat": "Šarena gajda izšarana,",
+       "en": "Colorful patterned gajda,"
+      },
+      {
+       "cyr": "с'с мониста нанижана.",
+       "lat": "s's monista nanižana.",
+       "en": "strung with beads."
+      },
+      {
+       "cyr": "Зумбај, зум-ба-ба.",
+       "lat": "Zumbaj, zum-ba-ba.",
+       "en": "Zumbai, zum-ba-ba."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздол' иде попиште,",
+       "lat": "Ozdol' ide popište,",
+       "en": "Along came the priest,"
+      },
+      {
+       "cyr": "врти очи к'о плочи.",
+       "lat": "vrti oči k'o ploči.",
+       "en": "rolling his eyes like plates."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шарена гајда изшарана,",
+       "lat": "Šarena gajda izšarana,",
+       "en": "Colorful patterned gajda,"
+      },
+      {
+       "cyr": "с'с монисти нанижана.",
+       "lat": "s's monisti nanižana.",
+       "en": "strung with beads."
+      },
+      {
+       "cyr": "Зумбај, зум баба.",
+       "lat": "Zumbaj, zum baba.",
+       "en": "Zumbai, zum-ba-ba."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Два шамара ми удри,",
+       "lat": "Dva šamara mi udri,",
+       "en": "He has slapped me twice,"
+      },
+      {
+       "cyr": "гуските ми отера.",
+       "lat": "guskite mi otera.",
+       "en": "and scared away the geese."
+      },
+      {
+       "cyr": "Гуските ми отера,",
+       "lat": "Guskite mi otera,",
+       "en": "He scared away the geese,"
+      },
+      {
+       "cyr": "гајдата ми ја зема.",
+       "lat": "gajdata mi ja zema.",
+       "en": "and took my gajda."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шарена гајда ишарана,",
+       "lat": "Šarena gajda išarana,",
+       "en": "Colorful patterned gajda,"
+      },
+      {
+       "cyr": "сас мониста нанижана.",
+       "lat": "sas monista nanižana.",
+       "en": "strung with beads."
+      },
+      {
+       "cyr": "Зумбај, зумбаба.",
+       "lat": "Zumbaj, zumbaba.",
+       "en": "Zumbai, zum-ba-ba."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

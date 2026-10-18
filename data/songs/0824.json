@@ -1,0 +1,413 @@
+{
+ "id": 824,
+ "slug": "temen-se-oblak-zadade",
+ "title_cyr": "Темен се облак зададе",
+ "title_latin": "Temen se oblak zadade",
+ "title_en": "A dark cloud approached",
+ "pesna_url": "https://pesna.org/song/824",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Ilinden-era revolutionary song naming Dame Gruev, Alekso Turundzhov and Gjurchin Slanchanec; no named author, so translated. 'четничката рамнина', 'кумити' as best men and 'малихер' as Mannlicher are my reading; 'ни еден не се издаде' is also my reading.",
+ "words_to_learn": [
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "орле",
+   "en": "eagle (little eagle)"
+  },
+  {
+   "mk": "знаме",
+   "en": "flag"
+  },
+  {
+   "mk": "станвајте",
+   "en": "get up (plural, dialect)"
+  },
+  {
+   "mk": "дуљбија",
+   "en": "spyglass, binoculars"
+  },
+  {
+   "mk": "потера",
+   "en": "pursuit, posse"
+  },
+  {
+   "mk": "чета",
+   "en": "armed band, cheta"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel leader"
+  },
+  {
+   "mk": "мамѕер",
+   "en": "Mauser rifle"
+  },
+  {
+   "mk": "кумит",
+   "en": "komita, rebel fighter"
+  }
+ ],
+ "performers": [
+  "Александар Тарабунов"
+ ],
+ "audio": [
+  {
+   "who": "Александар Тарабунов",
+   "url": "https://pesna.org/audio-download/2680"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Темен се облак зададе",
+       "lat": "Temen se oblak zadade",
+       "en": "A dark cloud approached"
+      },
+      {
+       "cyr": "на врв Пелистер планина.",
+       "lat": "na vrv Pelister planina.",
+       "en": "over the peak of Pelister mountain."
+      },
+      {
+       "cyr": "Под облак орле леташе,",
+       "lat": "Pod oblak orle letaše,",
+       "en": "Under the cloud an eagle flew,"
+      },
+      {
+       "cyr": "црвено знаме носеше,",
+       "lat": "crveno zname noseše,",
+       "en": "it carried a red flag,"
+      },
+      {
+       "cyr": "крвави солзи ронеше.",
+       "lat": "krvavi solzi roneše.",
+       "en": "it shed bloody tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Орлето грачи, говори:",
+       "lat": "Orleto grači, govori:",
+       "en": "The eagle screeches, speaks:"
+      },
+      {
+       "cyr": "- „Станвајте, браќа, не спијте,",
+       "lat": "- „Stanvajte, braḱa, ne spijte,",
+       "en": "- \"Get up, brothers, do not sleep,"
+      },
+      {
+       "cyr": "од сон се разбудувајте!",
+       "lat": "od son se razbuduvajte!",
+       "en": "wake up from sleep!"
+      },
+      {
+       "cyr": "Турчин реформи не дава,",
+       "lat": "Turčin reformi ne dava,",
+       "en": "The Turk does not grant reforms,"
+      },
+      {
+       "cyr": "купува пушки мамѕери",
+       "lat": "kupuva puški mamdzeri",
+       "en": "he buys Mauser rifles"
+      },
+      {
+       "cyr": "сос долги бојни ножови!",
+       "lat": "sos dolgi bojni nožovi!",
+       "en": "with long battle knives!"
+      },
+      {
+       "cyr": "Станвајте, браќа, не спијте,",
+       "lat": "Stanvajte, braḱa, ne spijte,",
+       "en": "Get up, brothers, do not sleep,"
+      },
+      {
+       "cyr": "сос него да се биеме!“",
+       "lat": "sos nego da se bieme!“",
+       "en": "let us fight with him!\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На врв Пелистер планина",
+       "lat": "Na vrv Pelister planina",
+       "en": "On the peak of Pelister mountain"
+      },
+      {
+       "cyr": "над четничката рамнина,",
+       "lat": "nad četničkata ramnina,",
+       "en": "above the rebel plain,"
+      },
+      {
+       "cyr": "кај Пупучево кладенче,",
+       "lat": "kaj Pupučevo kladenče,",
+       "en": "at the Pupuchevo spring,"
+      },
+      {
+       "cyr": "там' седеја три војводи,",
+       "lat": "tam' sedeja tri vojvodi,",
+       "en": "there sat three voivodes,"
+      },
+      {
+       "cyr": "три војводи за слобода.",
+       "lat": "tri vojvodi za sloboda.",
+       "en": "three voivodes for freedom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Први војвода ми беше",
+       "lat": "Prvi vojvoda mi beše",
+       "en": "The first voivode was"
+      },
+      {
+       "cyr": "тој Даме Груев војвода;",
+       "lat": "toj Dame Gruev vojvoda;",
+       "en": "voivode Dame Gruev;"
+      },
+      {
+       "cyr": "втори војвода ми беше",
+       "lat": "vtori vojvoda mi beše",
+       "en": "the second voivode was"
+      },
+      {
+       "cyr": "војвода Алексо Турунџов;",
+       "lat": "vojvoda Alekso Turundžov;",
+       "en": "voivode Alekso Turundzhov;"
+      },
+      {
+       "cyr": "трети војвода ми беше",
+       "lat": "treti vojvoda mi beše",
+       "en": "the third voivode was"
+      },
+      {
+       "cyr": "војвода Ѓурчин Сланчанец.",
+       "lat": "vojvoda Ǵurčin Slančanec.",
+       "en": "voivode Gjurchin Slanchanec."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Војвода Гурчин Сланчанец",
+       "lat": "Vojvoda Gurčin Slančanec",
+       "en": "Voivode Gjurchin Slanchanec"
+      },
+      {
+       "cyr": "в' раце ми држи дуљбија.",
+       "lat": "v' race mi drži duljbija.",
+       "en": "holds a spyglass in his hands."
+      },
+      {
+       "cyr": "Рипна Алексо на нозе",
+       "lat": "Ripna Alekso na noze",
+       "en": "Alekso jumped to his feet"
+      },
+      {
+       "cyr": "и зеде да ми зборува:",
+       "lat": "i zede da mi zboruva:",
+       "en": "and began to speak:"
+      },
+      {
+       "cyr": "- „Слушајте, браќа војводи,",
+       "lat": "- „Slušajte, braḱa vojvodi,",
+       "en": "- \"Listen, brother voivodes,"
+      },
+      {
+       "cyr": "што збор зборува орлето,",
+       "lat": "što zbor zboruva orleto,",
+       "en": "what the eagle says,"
+      },
+      {
+       "cyr": "солзи крвави ми рони,",
+       "lat": "solzi krvavi mi roni,",
+       "en": "it sheds bloody tears,"
+      },
+      {
+       "cyr": "в уста ми носи знамето“.",
+       "lat": "v usta mi nosi znameto“.",
+       "en": "it carries the flag in its mouth\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Орлето грачи, говори:",
+       "lat": "Orleto grači, govori:",
+       "en": "The eagle screeches, speaks:"
+      },
+      {
+       "cyr": "„Четите да ѝ збериме",
+       "lat": "„Četite da ì zberime",
+       "en": "\"Let us gather the bands"
+      },
+      {
+       "cyr": "горе Пелистер планина“.",
+       "lat": "gore Pelister planina“.",
+       "en": "up on Pelister mountain\"."
+      },
+      {
+       "cyr": "Рипна Сланчанец на нозе,",
+       "lat": "Ripna Slančanec na noze,",
+       "en": "Slanchanec jumped to his feet,"
+      },
+      {
+       "cyr": "в' раце ми држи дуљбија,",
+       "lat": "v' race mi drži duljbija,",
+       "en": "holding a spyglass in his hands,"
+      },
+      {
+       "cyr": "се тој ми гледа низ поле,",
+       "lat": "se toj mi gleda niz pole,",
+       "en": "he keeps looking across the field,"
+      },
+      {
+       "cyr": "низ тоа поле Битолско.",
+       "lat": "niz toa pole Bitolsko.",
+       "en": "across that field of Bitola."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едно ми време догледа,",
+       "lat": "Edno mi vreme dogleda,",
+       "en": "After a while he made out"
+      },
+      {
+       "cyr": "догледа силна потера:",
+       "lat": "dogleda silna potera:",
+       "en": "a strong pursuit:"
+      },
+      {
+       "cyr": "Сите сос' бели атови,",
+       "lat": "Site sos' beli atovi,",
+       "en": "all on white horses,"
+      },
+      {
+       "cyr": "сите сос' пушки мамѕери",
+       "lat": "site sos' puški mamdzeri",
+       "en": "all with Mauser rifles"
+      },
+      {
+       "cyr": "и с' тие долги ножови.",
+       "lat": "i s' tie dolgi nožovi.",
+       "en": "and those long knives."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рипна ми Груев на нозе,",
+       "lat": "Ripna mi Gruev na noze,",
+       "en": "Gruev jumped to his feet,"
+      },
+      {
+       "cyr": "в раце ми зеде малихер,",
+       "lat": "v race mi zede maliher,",
+       "en": "took a Mannlicher in his hands,"
+      },
+      {
+       "cyr": "двајсипет пати испука,",
+       "lat": "dvajsipet pati ispuka,",
+       "en": "fired twenty-five times,"
+      },
+      {
+       "cyr": "дур' да се зберат четите.",
+       "lat": "dur' da se zberat četite.",
+       "en": "until the bands could gather."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дофтасаја ми четите",
+       "lat": "Doftasaja mi četite",
+       "en": "The bands arrived"
+      },
+      {
+       "cyr": "на чело с' Ѓорѓи Сугарев",
+       "lat": "na čelo s' Ǵorǵi Sugarev",
+       "en": "at the head Gjorgji Sugarev"
+      },
+      {
+       "cyr": "сос' триста души кумити",
+       "lat": "sos' trista duši kumiti",
+       "en": "with three hundred men, best men,"
+      },
+      {
+       "cyr": "горе в' Пелистер планина.",
+       "lat": "gore v' Pelister planina.",
+       "en": "up on Pelister mountain."
+      },
+      {
+       "cyr": "Таму се тие удрија,",
+       "lat": "Tamu se tie udrija,",
+       "en": "There they clashed,"
+      },
+      {
+       "cyr": "ситички и загубија,",
+       "lat": "sitički i zagubija,",
+       "en": "and all of them were lost,"
+      },
+      {
+       "cyr": "ни еден жив не се врати.",
+       "lat": "ni eden živ ne se vrati.",
+       "en": "not one returned alive."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Даме ми распна знамето,",
+       "lat": "Dame mi raspna znameto,",
+       "en": "Dame unfurled the flag,"
+      },
+      {
+       "cyr": "под знаме собра четници,",
+       "lat": "pod zname sobra četnici,",
+       "en": "under the flag he gathered the fighters,"
+      },
+      {
+       "cyr": "голем подарок им даде,",
+       "lat": "golem podarok im dade,",
+       "en": "gave them a great gift,"
+      },
+      {
+       "cyr": "зашчо се братски бореа,",
+       "lat": "zaščo se bratski borea,",
+       "en": "because they fought like brothers,"
+      },
+      {
+       "cyr": "ни еден не се издаде.",
+       "lat": "ni eden ne se izdade.",
+       "en": "not one betrayed himself."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

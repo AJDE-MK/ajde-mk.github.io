@@ -1,0 +1,173 @@
+{
+ "id": 1472,
+ "slug": "molitva",
+ "title_cyr": "Молитва",
+ "title_latin": "Molitva",
+ "title_en": "Prayer",
+ "pesna_url": "https://pesna.org/song/1472",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional rain-prayer song. 'навади' is read as 'water/pour water on' (my reading). Ojlijarche is a girl who takes part in rain rituals, per the source note.",
+ "words_to_learn": [
+  {
+   "mk": "бога моли",
+   "en": "prays to God"
+  },
+  {
+   "mk": "роса",
+   "en": "dew, light rain"
+  },
+  {
+   "mk": "ситна",
+   "en": "fine, small"
+  },
+  {
+   "mk": "рамно поле",
+   "en": "flat field"
+  },
+  {
+   "mk": "бериќет",
+   "en": "abundance, good harvest"
+  },
+  {
+   "mk": "клас",
+   "en": "ear of grain"
+  },
+  {
+   "mk": "жито",
+   "en": "grain, wheat"
+  },
+  {
+   "mk": "грозд",
+   "en": "bunch of grapes"
+  },
+  {
+   "mk": "лозје",
+   "en": "vineyard"
+  }
+ ],
+ "performers": [
+  "Александра Поповска",
+  "Драган Даутовски квартет"
+ ],
+ "audio": [
+  {
+   "who": "Александра Поповска, Драган Даутовски квартет",
+   "url": "https://pesna.org/audio-download/3810"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ојлијарче бога моли,",
+       "lat": "Ojlijarče boga moli,",
+       "en": "Little Oyliyarche prays to God,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "да зароси ситна роса,",
+       "lat": "da zarosi sitna rosa,",
+       "en": "to let a fine dew fall,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "да навади рамно поле,",
+       "lat": "da navadi ramno pole,",
+       "en": "to water the flat field,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "да се роди бериќетот,",
+       "lat": "da se rodi beriḱetot,",
+       "en": "for abundance to be born,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "зелен клас по житјата,",
+       "lat": "zelen klas po žitjata,",
+       "en": "green ear among the grain,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "црвен грозд по лозјата,",
+       "lat": "crven grozd po lozjata,",
+       "en": "red grape on the vines,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "да навади рамно поле,",
+       "lat": "da navadi ramno pole,",
+       "en": "to water the flat field,"
+      },
+      {
+       "cyr": "ој лие, ој лие,",
+       "lat": "oj lie, oj lie,",
+       "en": "oh lie, oh lie,"
+      },
+      {
+       "cyr": "да се роди бериќетот,",
+       "lat": "da se rodi beriḱetot,",
+       "en": "for abundance to be born,"
+      },
+      {
+       "cyr": "ој лие, ој лие.",
+       "lat": "oj lie, oj lie.",
+       "en": "oh lie, oh lie."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да зароси ситна роса,",
+       "lat": "Da zarosi sitna rosa,",
+       "en": "Let a fine dew fall,"
+      },
+      {
+       "cyr": "да се роди бериќет.",
+       "lat": "da se rodi beriḱet.",
+       "en": "for abundance to be born."
+      },
+      {
+       "cyr": "О, бог!",
+       "lat": "O, bog!",
+       "en": "Oh, God!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

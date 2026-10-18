@@ -1,0 +1,104 @@
+{
+ "id": 1622,
+ "slug": "ej-dushanke-ti-bitushanke",
+ "title_cyr": "Еј Душанке, ти битушанке",
+ "title_latin": "Ej Dušanke, ti bitušanke",
+ "title_en": "Hey Dushanka from Bitushe",
+ "pesna_url": "https://pesna.org/song/1622",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Бранко Бишкоски",
+  "Љубе Бишкоски",
+  "Томче Бојаџиески"
+ ],
+ "audio": [
+  {
+   "who": "Бранко Бишкоски, Љубе Бишкоски",
+   "url": "https://pesna.org/audio-download/4312"
+  },
+  {
+   "who": "Томче Бојаџиески",
+   "url": "https://pesna.org/audio-download/4354"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј Душанке, ти битушанке,",
+       "lat": "Ej Dušanke, ti bitušanke,",
+       "en": "Hey Dushanka from Bitushe,"
+      },
+      {
+       "cyr": "дал' ти дојде ергенчето?",
+       "lat": "dal' ti dojde ergenčeto?",
+       "en": "has your bachelor come yet?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дојде, дојде, да не доет,",
+       "lat": "- Dojde, dojde, da ne doet,",
+       "en": "- He came, he came, may he didn't come,"
+      },
+      {
+       "cyr": "коња гловет пак да одет.",
+       "lat": "konja glovet pak da odet.",
+       "en": "he is preparing the horse to go away again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ја му веља - земај мене,",
+       "lat": "Ja mu velja - zemaj mene,",
+       "en": "I tell him - take me with you,"
+      },
+      {
+       "cyr": "тој ми велет - не те зема.",
+       "lat": "toj mi velet - ne te zema.",
+       "en": "he tells me - I won't take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој ми велет - не те зема,",
+       "lat": "Toj mi velet - ne te zema,",
+       "en": "He tells me - I won't take you,"
+      },
+      {
+       "cyr": "лоша ми је дружината,",
+       "lat": "loša mi je družinata,",
+       "en": "my company is bad,"
+      },
+      {
+       "cyr": "мене ќа ме отепает,",
+       "lat": "mene ḱa me otepaet,",
+       "en": "they'll kill me and"
+      },
+      {
+       "cyr": "тебе млада ќа те земет.",
+       "lat": "tebe mlada ḱa te zemet.",
+       "en": "they'll take you 'cause you are young."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,150 @@
+{
+ "id": 41,
+ "slug": "ajde-legnala-e-liljana",
+ "title_cyr": "Ајде легнала е Лилјана",
+ "title_latin": "Ajde legnala e Liljana",
+ "title_en": "Come on, Liljana lay down",
+ "pesna_url": "https://pesna.org/song/41",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ајде' is an opening filler ('come on'). The last line 'нас двајца ќе нè однеси' is my reading: the dew will carry the two away (the verb form 'однеси' looks irregular).",
+ "words_to_learn": [
+  {
+   "mk": "полјана",
+   "en": "meadow, clearing"
+  },
+  {
+   "mk": "колено",
+   "en": "knee, lap"
+  },
+  {
+   "mk": "будеше",
+   "en": "was waking"
+  },
+  {
+   "mk": "лице",
+   "en": "face"
+  },
+  {
+   "mk": "чудо",
+   "en": "wonder, marvel"
+  },
+  {
+   "mk": "облак",
+   "en": "cloud"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  }
+ ],
+ "performers": [
+  "Аце Петковски",
+  "Блага Видец",
+  "Борче Крстески",
+  "Васка Илиева",
+  "Грозда Стоева",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1256"
+  },
+  {
+   "who": "Аце Петковски",
+   "url": "https://pesna.org/audio-download/1257"
+  },
+  {
+   "who": "Блага Видец, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2901"
+  },
+  {
+   "who": "Борче Крстески, Грозда Стоева",
+   "url": "https://pesna.org/audio-download/3453"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде легнала е Лилјана",
+       "lat": "Ajde legnala e Liljana",
+       "en": "Come on, Liljana lay down"
+      },
+      {
+       "cyr": "на зелената полјана.",
+       "lat": "na zelenata poljana.",
+       "en": "on the green meadow."
+      },
+      {
+       "cyr": "Ај, на зелената полјана,",
+       "lat": "Aj, na zelenata poljana,",
+       "en": "Oh, on the green meadow,"
+      },
+      {
+       "cyr": "на Радевото колено.",
+       "lat": "na Radevoto koleno.",
+       "en": "on Rade's lap."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде, Раде ми ја будеше,",
+       "lat": "Ajde, Rade mi ja budeše,",
+       "en": "Come on, Rade woke her,"
+      },
+      {
+       "cyr": "бело ѝ лице љубеше:",
+       "lat": "belo ì lice ljubeše:",
+       "en": "kissed her white face:"
+      },
+      {
+       "cyr": "- „Ајде, стани, стани, Лилјано,",
+       "lat": "- „Ajde, stani, stani, Liljano,",
+       "en": "- \"Come on, get up, get up, Liljana,"
+      },
+      {
+       "cyr": "да видиш чудо големо.",
+       "lat": "da vidiš čudo golemo.",
+       "en": "to see a great wonder."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајд' темен се облак зададе,",
+       "lat": "Ajd' temen se oblak zadade,",
+       "en": "Come on, a dark cloud rose"
+      },
+      {
+       "cyr": "од високите планини.",
+       "lat": "od visokite planini.",
+       "en": "from the high mountains."
+      },
+      {
+       "cyr": "Ајде, ситна роса ќе зароси.",
+       "lat": "Ajde, sitna rosa ḱe zarosi.",
+       "en": "Come on, fine dew will fall,"
+      },
+      {
+       "cyr": "нас двајца ќе нè однеси“.",
+       "lat": "nas dvajca ḱe nè odnesi“.",
+       "en": "it will carry us both away\"."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,214 @@
+{
+ "id": 187,
+ "slug": "ano-pominuvash",
+ "title_cyr": "Ано поминуваш",
+ "title_latin": "Ano pominuvaš",
+ "title_en": "Ana, you pass by",
+ "pesna_url": "https://pesna.org/song/187",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialect; 'је знаиш' I read as 'do you know' and 'Тасканџивка' as a surname (my reading). 'жити' oath lines are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "заминуваш",
+   "en": "you leave, go away"
+  },
+  {
+   "mk": "жити Бога",
+   "en": "by your God (oath)"
+  },
+  {
+   "mk": "жити брата",
+   "en": "by your brother's life (oath)"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "севдо",
+   "en": "love, passionate longing"
+  },
+  {
+   "mk": "изгорев",
+   "en": "I burned"
+  },
+  {
+   "mk": "порта",
+   "en": "gate, yard door"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "кир",
+   "en": "Mister (Greek-derived title)"
+  },
+  {
+   "mk": "зборвам",
+   "en": "I talk (dialect)"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури"
+ ],
+ "audio": [
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/1635"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ано поминуваш, Ано заминуваш,",
+       "lat": "Ano pominuvaš, Ano zaminuvaš,",
+       "en": "Ana, you pass by, Ana, you go away,"
+      },
+      {
+       "cyr": "што писма држиш, со мене не збориш?",
+       "lat": "što pisma držiš, so mene ne zboriš?",
+       "en": "you hold a letter, you do not speak to me?"
+      },
+      {
+       "cyr": "Ано ле, душо ле,",
+       "lat": "Ano le, dušo le,",
+       "en": "Oh Ana, oh my soul,"
+      },
+      {
+       "cyr": "душа не остана Ано во мене,",
+       "lat": "duša ne ostana Ano vo mene,",
+       "en": "no soul is left in me, Ana,"
+      },
+      {
+       "cyr": "севдо ле, изгорев Ано за тебе.",
+       "lat": "sevdo le, izgorev Ano za tebe.",
+       "en": "oh love, I burned for you, Ana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ано жити Бога, дај ми една вода,",
+       "lat": "Ano žiti Boga, daj mi edna voda,",
+       "en": "Ana, by your God, give me a drink of water,"
+      },
+      {
+       "cyr": "со твојата рака, од твојата стомна",
+       "lat": "so tvojata raka, od tvojata stomna",
+       "en": "with your hand, from your jug"
+      },
+      {
+       "cyr": "да се напијам, срце изгорело",
+       "lat": "da se napijam, srce izgorelo",
+       "en": "so I can drink, my heart is burnt"
+      },
+      {
+       "cyr": "Ано ле, душо ле,",
+       "lat": "Ano le, dušo le,",
+       "en": "Oh Ana, oh my soul,"
+      },
+      {
+       "cyr": "душа не остана Ано во мене,",
+       "lat": "duša ne ostana Ano vo mene,",
+       "en": "no soul is left in me, Ana,"
+      },
+      {
+       "cyr": "севдо ле, изгорев Ано за тебе.",
+       "lat": "sevdo le, izgorev Ano za tebe.",
+       "en": "oh love, I burned for you, Ana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ано жити брата, отвори ми врата",
+       "lat": "Ano žiti brata, otvori mi vrata",
+       "en": "Ana, by your brother's life, open the door for me"
+      },
+      {
+       "cyr": "да ти го видам белото ти лице.",
+       "lat": "da ti go vidam beloto ti lice.",
+       "en": "so I can see your white face."
+      },
+      {
+       "cyr": "Твое бело лице и црните очи.",
+       "lat": "Tvoe belo lice i crnite oči.",
+       "en": "Your white face and your black eyes."
+      },
+      {
+       "cyr": "Ано ле, душо ле,",
+       "lat": "Ano le, dušo le,",
+       "en": "Oh Ana, oh my soul,"
+      },
+      {
+       "cyr": "душа не остана Ано во мене,",
+       "lat": "duša ne ostana Ano vo mene,",
+       "en": "no soul is left in me, Ana,"
+      },
+      {
+       "cyr": "севдо ле, изгорев Ано за тебе.",
+       "lat": "sevdo le, izgorev Ano za tebe.",
+       "en": "oh love, I burned for you, Ana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ај ти бре Димо, кир Димо Шанов,",
+       "lat": "Aj ti bre Dimo, kir Dimo Šanov,",
+       "en": "Hey you, Dimo, Mister Dimo Shanov,"
+      },
+      {
+       "cyr": "нели је знаиш мојата свекрва?",
+       "lat": "neli je znaiš mojata svekrva?",
+       "en": "don't you know my mother-in-law?"
+      },
+      {
+       "cyr": "Мојата свекрва Љуба Тасканџивка",
+       "lat": "Mojata svekrva Ljuba Taskandživka",
+       "en": "My mother-in-law, Ljuba Taskandzhivka"
+      },
+      {
+       "cyr": "не ме остава на порта да слезам,",
+       "lat": "ne me ostava na porta da slezam,",
+       "en": "will not let me go down to the gate,"
+      },
+      {
+       "cyr": "на порта да слезам, со тебе да зборвам.",
+       "lat": "na porta da slezam, so tebe da zborvam.",
+       "en": "to the gate to talk with you."
+      },
+      {
+       "cyr": "Димо ле, душо ле,",
+       "lat": "Dimo le, dušo le,",
+       "en": "Oh Dimo, oh my soul,"
+      },
+      {
+       "cyr": "душа не остана Димо во мене,",
+       "lat": "duša ne ostana Dimo vo mene,",
+       "en": "no soul is left in me, Dimo,"
+      },
+      {
+       "cyr": "севдо ле, изгорев Димо за тебе.",
+       "lat": "sevdo le, izgorev Dimo za tebe.",
+       "en": "oh love, I burned for you, Dimo."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,183 @@
+{
+ "id": 265,
+ "slug": "vojnik-odam",
+ "title_cyr": "Војник одам",
+ "title_latin": "Vojnik odam",
+ "title_en": "I Go as a Soldier",
+ "pesna_url": "https://pesna.org/song/265",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Conscript's farewell to his sweetheart; origin unclear, I cannot name an author. The line 'пат не чека нас дури на граница' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "тргам",
+   "en": "I set out"
+  },
+  {
+   "mk": "оставам",
+   "en": "I leave behind"
+  },
+  {
+   "mk": "не ме жали",
+   "en": "do not grieve for me"
+  },
+  {
+   "mk": "солзи",
+   "en": "tears"
+  },
+  {
+   "mk": "граница",
+   "en": "border"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "до гроба",
+   "en": "until the grave"
+  }
+ ],
+ "performers": [
+  "Сестрите Мавровски"
+ ],
+ "audio": [
+  {
+   "who": "Сестрите Мавровски",
+   "url": "https://pesna.org/audio-download/1636"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На пат тргам, војник одам јас",
+       "lat": "Na pat trgam, vojnik odam jas",
+       "en": "I set out on the road, I go as a soldier,"
+      },
+      {
+       "cyr": "либе, многу далеку.",
+       "lat": "libe, mnogu daleku.",
+       "en": "my love, very far away."
+      },
+      {
+       "cyr": "Татко, мајка, браќа и сестри",
+       "lat": "Tatko, majka, braḱa i sestri",
+       "en": "Father, mother, brothers and sisters,"
+      },
+      {
+       "cyr": "сите вас ве оставам.",
+       "lat": "site vas ve ostavam.",
+       "en": "I am leaving all of you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мило либе, ти не ме жали, не плачи",
+       "lat": "Milo libe, ti ne me žali, ne plači",
+       "en": "Dear love, do not pity me, do not cry,"
+      },
+      {
+       "cyr": "солзи не рони, радосно чекај ме.",
+       "lat": "solzi ne roni, radosno čekaj me.",
+       "en": "do not shed tears, wait for me joyfully."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде време да си заминам",
+       "lat": "Dojde vreme da si zaminam",
+       "en": "The time has come for me to leave,"
+      },
+      {
+       "cyr": "либе, многу далеку.",
+       "lat": "libe, mnogu daleku.",
+       "en": "my love, very far away."
+      },
+      {
+       "cyr": "Со другари пат не чека нас",
+       "lat": "So drugari pat ne čeka nas",
+       "en": "With my comrades the road does not wait for us"
+      },
+      {
+       "cyr": "дури на граница.",
+       "lat": "duri na granica.",
+       "en": "until the border."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мило либе, ти не ме жали, не плачи",
+       "lat": "Milo libe, ti ne me žali, ne plači",
+       "en": "Dear love, do not pity me, do not cry,"
+      },
+      {
+       "cyr": "солзи не рони, радосно чекај ме.",
+       "lat": "solzi ne roni, radosno čekaj me.",
+       "en": "do not shed tears, wait for me joyfully."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две години бргу ќе минат",
+       "lat": "Dve godini brgu ḱe minat",
+       "en": "Two years will pass quickly,"
+      },
+      {
+       "cyr": "либе, јас ќе се вратам.",
+       "lat": "libe, jas ḱe se vratam.",
+       "en": "my love, I will return."
+      },
+      {
+       "cyr": "Ќе ми бидеш лична невеста",
+       "lat": "Ḱe mi bideš lična nevesta",
+       "en": "You will be my beautiful bride,"
+      },
+      {
+       "cyr": "моја ќе си до гроба.",
+       "lat": "moja ḱe si do groba.",
+       "en": "you will be mine until the grave."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мило либе, ти не ме жали, не плачи",
+       "lat": "Milo libe, ti ne me žali, ne plači",
+       "en": "Dear love, do not pity me, do not cry,"
+      },
+      {
+       "cyr": "солзи не рони, радосно чекај ме.",
+       "lat": "solzi ne roni, radosno čekaj me.",
+       "en": "do not shed tears, wait for me joyfully."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

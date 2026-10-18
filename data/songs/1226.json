@@ -1,0 +1,153 @@
+{
+ "id": 1226,
+ "slug": "shto-e-chudo-stanalo",
+ "title_cyr": "Што е чудо станало",
+ "title_latin": "Što e čudo stanalo",
+ "title_en": "What a Wonder Has Happened",
+ "pesna_url": "https://pesna.org/song/1226",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional revolutionary song about the voivodes Ivancho Gevgeliski and Apostol Petkov, per the source note. 'Фатиме пусија' I read as 'catch (them) in an ambush'.",
+ "words_to_learn": [
+  {
+   "mk": "чудо",
+   "en": "wonder, marvel"
+  },
+  {
+   "mk": "пуста",
+   "en": "deserted, empty"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel leader"
+  },
+  {
+   "mk": "калдрма",
+   "en": "cobblestone road"
+  },
+  {
+   "mk": "се тресеа",
+   "en": "were shaking"
+  },
+  {
+   "mk": "тивко",
+   "en": "quietly"
+  },
+  {
+   "mk": "шпион",
+   "en": "spy"
+  },
+  {
+   "mk": "чорбаџија",
+   "en": "wealthy notable (Ottoman era)"
+  },
+  {
+   "mk": "пусија",
+   "en": "ambush"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Радио студио Скопје",
+  "Славка Чрчева",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3213"
+  },
+  {
+   "who": "Славка Чрчева, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/3214"
+  },
+  {
+   "who": "Никола Бадев, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3409"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Што е чудо станало",
+       "lat": "Što e čudo stanalo",
+       "en": "What a wonder has happened"
+      },
+      {
+       "cyr": "во таа пуста Гуменџа,",
+       "lat": "vo taa pusta Gumendža,",
+       "en": "in that deserted Gumendzha,"
+      },
+      {
+       "cyr": "војводите врвеа, калдрми се тресеа,",
+       "lat": "vojvodite vrvea, kaldrmi se tresea,",
+       "en": "the voivodes were marching, the cobblestones were shaking,"
+      },
+      {
+       "cyr": "војводите врвеа, калдрми се тресеа.",
+       "lat": "vojvodite vrvea, kaldrmi se tresea.",
+       "en": "the voivodes were marching, the cobblestones were shaking."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Најнапред ми врвеше",
+       "lat": "Najnapred mi vrveše",
+       "en": "In front of all marched"
+      },
+      {
+       "cyr": "тој ми стари Апостол,",
+       "lat": "toj mi stari Apostol,",
+       "en": "that old Apostol,"
+      },
+      {
+       "cyr": "и по него врвеше тој Иванчо војвода,",
+       "lat": "i po nego vrveše toj Ivančo vojvoda,",
+       "en": "and after him marched that voivode Ivancho,"
+      },
+      {
+       "cyr": "и по него врвеше тој Иванчо војвода.",
+       "lat": "i po nego vrveše toj Ivančo vojvoda.",
+       "en": "and after him marched that voivode Ivancho."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Што им вели Апостол:",
+       "lat": "Što im veli Apostol:",
+       "en": "What Apostol says to them:"
+      },
+      {
+       "cyr": "- Тивко, тивко, момчиња,",
+       "lat": "- Tivko, tivko, momčinja,",
+       "en": "- Quietly, quietly, lads,"
+      },
+      {
+       "cyr": "да не чујат шпиони, шпиони чорбаџиски,",
+       "lat": "da ne čujat špioni, špioni čorbadžiski,",
+       "en": "so the spies do not hear, the spies of the wealthy,"
+      },
+      {
+       "cyr": "да фатиме пусија, пусија Гевгелија.",
+       "lat": "da fatime pusija, pusija Gevgelija.",
+       "en": "so we can catch the ambush, the ambush of Gevgelija."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

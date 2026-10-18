@@ -1,0 +1,186 @@
+{
+ "id": 1608,
+ "slug": "golemo-chudo-stanalo",
+ "title_cyr": "Големо чудо станало",
+ "title_latin": "Golemo čudo stanalo",
+ "title_en": "A great miracle happened",
+ "pesna_url": "https://pesna.org/song/1608",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл ресенчани"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл ресенчани",
+   "url": "https://pesna.org/audio-download/4248"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Големо чудо станало",
+       "lat": "Golemo čudo stanalo",
+       "en": "A great miracle happened"
+      },
+      {
+       "cyr": "во това село Кривени,",
+       "lat": "vo tova selo Kriveni,",
+       "en": "in this village of Kriveni,"
+      },
+      {
+       "cyr": "во това село Кривени,",
+       "lat": "vo tova selo Kriveni,",
+       "en": "in this village of Kriveni,"
+      },
+      {
+       "cyr": "најгоре кај тој Недана.",
+       "lat": "najgore kaj toj Nedana.",
+       "en": "over ther at the house of Nedan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еj море дете, ќерата1,",
+       "lat": "- Ej more dete, ḱerata1,",
+       "en": "- Hey, you, good-for-nothing,"
+      },
+      {
+       "cyr": "овде ли има комити?",
+       "lat": "ovde li ima komiti?",
+       "en": "are there any komiti here?"
+      },
+      {
+       "cyr": "- Да не си нешто постранал",
+       "lat": "- Da ne si nešto postranal",
+       "en": "- Don't you think you're a bit off"
+      },
+      {
+       "cyr": "оти сум младо свршено.",
+       "lat": "oti sum mlado svršeno.",
+       "en": "because I'm a young betrothed."
+      },
+      {
+       "cyr": "Oти сум младо свршено",
+       "lat": "Oti sum mlado svršeno",
+       "en": "Because I'm a young betrothed"
+      },
+      {
+       "cyr": "в' недела ми е свадбата.",
+       "lat": "v' nedela mi e svadbata.",
+       "en": "my wedding is on Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Отвори, Недан, кералот2",
+       "lat": "- Otvori, Nedan, keralot2",
+       "en": "- Open the door, Nedan,"
+      },
+      {
+       "cyr": "да ти видиме гостиве.",
+       "lat": "da ti vidime gostive.",
+       "en": "let's see your guests."
+      },
+      {
+       "cyr": "Гостите Јонче Крушјанче",
+       "lat": "Gostite Jonče Krušjanče",
+       "en": "The guests are Jonche Krushjanche"
+      },
+      {
+       "cyr": "и тој ми Геро војвода.",
+       "lat": "i toj mi Gero vojvoda.",
+       "en": "and also Gero Vojvoda."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште зборот недоречен,",
+       "lat": "Ušte zborot nedorečen,",
+       "en": "Before he finished the sentence,"
+      },
+      {
+       "cyr": "пукна ми пушка од Гера,",
+       "lat": "pukna mi puška od Gera,",
+       "en": "a rifle fired from Gero,"
+      },
+      {
+       "cyr": "удри го Мале онбаши3",
+       "lat": "udri go Male onbaši3",
+       "en": "hitting Male the corporal,"
+      },
+      {
+       "cyr": "Малета, ем Имамчета.",
+       "lat": "Maleta, em Imamčeta.",
+       "en": "Male, and also Imam."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј, море, Геро војвода,",
+       "lat": "- Ej, more, Gero vojvoda,",
+       "en": "- Hey you, Gero Vojvoda,"
+      },
+      {
+       "cyr": "теслим4 стори ја пушката.",
+       "lat": "teslim4 stori ja puškata.",
+       "en": "surrender the rifle."
+      },
+      {
+       "cyr": "Теслим стори ја пушката,",
+       "lat": "Teslim stori ja puškata,",
+       "en": "Surrender the rifle,"
+      },
+      {
+       "cyr": "тебе те царот попросил.",
+       "lat": "tebe te carot poprosil.",
+       "en": "the Tsar asked for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј, море, Мале онбаши",
+       "lat": "- Ej, more, Male onbaši",
+       "en": "- Hey you, corporal Male,"
+      },
+      {
+       "cyr": "јас тебе теслим пушката,",
+       "lat": "jas tebe teslim puškata,",
+       "en": "if I surrender to you my rifle,"
+      },
+      {
+       "cyr": "јас тебе теслим пушката,",
+       "lat": "jas tebe teslim puškata,",
+       "en": "if I surrender to you my rifle,"
+      },
+      {
+       "cyr": "ти мене теслим главата.",
+       "lat": "ti mene teslim glavata.",
+       "en": "you will surrender my head."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

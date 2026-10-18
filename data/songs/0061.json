@@ -1,0 +1,209 @@
+{
+ "id": 61,
+ "slug": "moma-odi-za-voda",
+ "title_cyr": "Мома оди за вода",
+ "title_latin": "Moma odi za voda",
+ "title_en": "A girl fetches water",
+ "pesna_url": "https://pesna.org/song/61",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Баклава",
+  "Бапчорки",
+  "Зора",
+  "Љубојна",
+  "Танец",
+  "Gamze Matraci"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/215"
+  },
+  {
+   "who": "Баклава",
+   "url": "https://pesna.org/audio-download/1121"
+  },
+  {
+   "who": "Зора",
+   "url": "https://pesna.org/audio-download/1961"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2232"
+  },
+  {
+   "who": "Љубојна",
+   "url": "https://pesna.org/audio-download/2759"
+  },
+  {
+   "who": "Gamze Matraci",
+   "url": "https://pesna.org/audio-download/3762"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мома оди за вода,",
+       "lat": "Moma odi za voda,",
+       "en": "A girl fetches water,"
+      },
+      {
+       "cyr": "и беќаро по неа:",
+       "lat": "i beḱaro po nea:",
+       "en": "and the boy goes after her:"
+      },
+      {
+       "cyr": "- Постој моме, почекај,",
+       "lat": "- Postoj mome, počekaj,",
+       "en": "- Hold on, girl, wait a second,"
+      },
+      {
+       "cyr": "да ти речам два збора.",
+       "lat": "da ti rečam dva zbora.",
+       "en": "I want to tell you a word or two."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди моме убаво,",
+       "lat": "Dejgidi mome ubavo,",
+       "en": "Hey, beautiful girl,"
+      },
+      {
+       "cyr": "деј гиди севдо голема.",
+       "lat": "dej gidi sevdo golema.",
+       "en": "hey, my big love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да ми дадиш тро вода,",
+       "lat": "- Da mi dadiš tro voda,",
+       "en": "- Give me some water,"
+      },
+      {
+       "cyr": "да улада срцето.",
+       "lat": "da ulada srceto.",
+       "en": "to cool down my heart."
+      },
+      {
+       "cyr": "Се измами момето,",
+       "lat": "Se izmami mometo,",
+       "en": "The girl took the bait"
+      },
+      {
+       "cyr": "му подаде стомнето.",
+       "lat": "mu podade stomneto.",
+       "en": "and gave him the pitcher."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди моме убаво,",
+       "lat": "Dejgidi mome ubavo,",
+       "en": "Hey, beautiful girl,"
+      },
+      {
+       "cyr": "деј гиди севдо голема.",
+       "lat": "dej gidi sevdo golema.",
+       "en": "hey, my big love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој не фати стомнето,",
+       "lat": "Toj ne fati stomneto,",
+       "en": "He didn't took the pitcher,"
+      },
+      {
+       "cyr": "тук ѝ фати раката.",
+       "lat": "tuk ì fati rakata.",
+       "en": "he grabbed her hand instead."
+      },
+      {
+       "cyr": "Ја префрли на коња,",
+       "lat": "Ja prefrli na konja,",
+       "en": "He put her on a horse,"
+      },
+      {
+       "cyr": "ѝ го скрши прстено.",
+       "lat": "ì go skrši prsteno.",
+       "en": "he broke her ring."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди моме убаво,",
+       "lat": "Dejgidi mome ubavo,",
+       "en": "Hey, beautiful girl,"
+      },
+      {
+       "cyr": "деј гиди севдо голема.",
+       "lat": "dej gidi sevdo golema.",
+       "en": "hey, my big love."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каку ветар вееше,",
+       "lat": "Kaku vetar veeše,",
+       "en": "Just as the wind was blowing,"
+      },
+      {
+       "cyr": "така коњот бегаше.",
+       "lat": "taka konjot begaše.",
+       "en": "that's how the horse was running."
+      },
+      {
+       "cyr": "Како роса росеше,",
+       "lat": "Kako rosa roseše,",
+       "en": "Just as the dew was dripping,"
+      },
+      {
+       "cyr": "така мома плачеше.",
+       "lat": "taka moma plačeše.",
+       "en": "that's how the girl was crying."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди моме убаво,",
+       "lat": "Dejgidi mome ubavo,",
+       "en": "Hey, beautiful girl,"
+      },
+      {
+       "cyr": "деј гиди севдо голема.",
+       "lat": "dej gidi sevdo golema.",
+       "en": "hey, my big love."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

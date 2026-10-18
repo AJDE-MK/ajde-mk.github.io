@@ -1,0 +1,213 @@
+{
+ "id": 606,
+ "slug": "bitola-babam-bitola",
+ "title_cyr": "Битола, бабам Битола",
+ "title_latin": "Bitola, babam Bitola",
+ "title_en": "Bitola, My Dear Bitola",
+ "pesna_url": "https://pesna.org/song/606",
+ "background": "A love letter and a roast in one. Bitola is where life is actually lived: eating, drinking and beautiful girls. Then the curse: who hexed you, Bitola, to keep bearing girls this beautiful and driving every bachelor mad?",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Буцо' and 'чикмаци' are guesses (buca as a nickname/address, chikmak as a street or neighbourhood type); my reading only.",
+ "words_to_learn": [
+  {
+   "mk": "бабам",
+   "en": "my dear (lit. my father; exclamation)"
+  },
+  {
+   "mk": "беќари",
+   "en": "bachelors"
+  },
+  {
+   "mk": "проколна",
+   "en": "cursed"
+  },
+  {
+   "mk": "раѓаш",
+   "en": "you bear (give birth)"
+  },
+  {
+   "mk": "горат",
+   "en": "burn (with longing)"
+  },
+  {
+   "mk": "крепи се",
+   "en": "hold yourself up, pull yourself together"
+  },
+  {
+   "mk": "шетаме",
+   "en": "we stroll"
+  },
+  {
+   "mk": "пајтон",
+   "en": "horse-drawn carriage (phaeton)"
+  },
+  {
+   "mk": "лични",
+   "en": "pretty, comely"
+  },
+  {
+   "mk": "на лице",
+   "en": "in the face"
+  }
+ ],
+ "performers": [
+  "Ванчо Дојранлиев",
+  "Виолета Томовска",
+  "Добри Ставревски",
+  "Цветанка Ласкова",
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/558"
+  },
+  {
+   "who": "Добри Ставревски",
+   "url": "https://pesna.org/audio-download/559"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/560"
+  },
+  {
+   "who": "Ванчо Дојранлиев",
+   "url": "https://pesna.org/audio-download/562"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3905"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Битола, бабам Битола",
+       "lat": "Bitola, babam Bitola",
+       "en": "Bitola, my dear Bitola,"
+      },
+      {
+       "cyr": "таму се живот живее.",
+       "lat": "tamu se život živee.",
+       "en": "there life is lived."
+      },
+      {
+       "cyr": "Таму се живот живее,",
+       "lat": "Tamu se život živee,",
+       "en": "There life is lived,"
+      },
+      {
+       "cyr": "таму се јаде и пие.",
+       "lat": "tamu se jade i pie.",
+       "en": "there people eat and drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола, мајска природа,",
+       "lat": "Bitola, majska priroda,",
+       "en": "Bitola, nature of May,"
+      },
+      {
+       "cyr": "Битола рајска градина,",
+       "lat": "Bitola rajska gradina,",
+       "en": "Bitola, garden of paradise,"
+      },
+      {
+       "cyr": "со лични моми убави,",
+       "lat": "so lični momi ubavi,",
+       "en": "with pretty, beautiful girls,"
+      },
+      {
+       "cyr": "на лице бели црвени.",
+       "lat": "na lice beli crveni.",
+       "en": "white and red in the face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Битола бабам Битола,",
+       "lat": "Bitola babam Bitola,",
+       "en": "Bitola, my dear Bitola,"
+      },
+      {
+       "cyr": "кој ми те тебе проколна?",
+       "lat": "koj mi te tebe prokolna?",
+       "en": "who cursed you?"
+      },
+      {
+       "cyr": "Да раѓаш моми убави,",
+       "lat": "Da raǵaš momi ubavi,",
+       "en": "May you bear beautiful girls,"
+      },
+      {
+       "cyr": "да горат сите беќари.",
+       "lat": "da gorat site beḱari.",
+       "en": "may all the bachelors burn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крепи се буцо, крепи се,",
+       "lat": "Krepi se buco, krepi se,",
+       "en": "Hold yourself up, buca, hold yourself up,"
+      },
+      {
+       "cyr": "мене ме пијан пак носат.",
+       "lat": "mene me pijan pak nosat.",
+       "en": "they carry me home drunk again."
+      },
+      {
+       "cyr": "Мене ме пијан пак носат,",
+       "lat": "Mene me pijan pak nosat,",
+       "en": "They carry me home drunk again,"
+      },
+      {
+       "cyr": "низ битолските чикмаци.",
+       "lat": "niz bitolskite čikmaci.",
+       "en": "through the Bitola chikmaks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крепи се буцо, крепи се",
+       "lat": "Krepi se buco, krepi se",
+       "en": "Hold yourself up, buca, hold yourself up,"
+      },
+      {
+       "cyr": "Битола да ја шетаме.",
+       "lat": "Bitola da ja šetame.",
+       "en": "let us stroll through Bitola."
+      },
+      {
+       "cyr": "Битола да ја шетаме,",
+       "lat": "Bitola da ja šetame,",
+       "en": "Let us stroll through Bitola,"
+      },
+      {
+       "cyr": "дур' да си пајтон најдиме.",
+       "lat": "dur' da si pajton najdime.",
+       "en": "until we find a phaeton."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,109 @@
+{
+ "id": 581,
+ "slug": "edno-maloj-mome",
+ "title_cyr": "Едно малој моме",
+ "title_latin": "Edno maloj mome",
+ "title_en": "A Small Young Girl",
+ "pesna_url": "https://pesna.org/song/581",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: John Pappas)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Митева",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Петранка Костадинова",
+  "Bill Skimos Band",
+  "Lindo"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Митева",
+   "url": "https://pesna.org/audio-download/825"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/826"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/827"
+  },
+  {
+   "who": "Lindo",
+   "url": "https://pesna.org/audio-download/2882"
+  },
+  {
+   "who": "Bill Skimos Band",
+   "url": "https://pesna.org/audio-download/2883"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Едно малој моме",
+       "lat": "Edno maloj mome",
+       "en": "A small young girl"
+      },
+      {
+       "cyr": "без мајка остана.",
+       "lat": "bez majka ostana.",
+       "en": "did not have a mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Расна, ми порасна",
+       "lat": "Rasna, mi porasna",
+       "en": "As she grew up"
+      },
+      {
+       "cyr": "и за мајка праша.",
+       "lat": "i za majka praša.",
+       "en": "she searched for her mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тате, мили тате,",
+       "lat": "- Tate, mili tate,",
+       "en": "- Tell me father, dear dad"
+      },
+      {
+       "cyr": "каде е мојата мајка?",
+       "lat": "kade e mojata majka?",
+       "en": "where is my mother?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Твојта мајка, чедо,",
+       "lat": "- Tvojta majka, čedo,",
+       "en": "- Your mother, dear child"
+      },
+      {
+       "cyr": "в' црна земја спие.",
+       "lat": "v' crna zemja spie.",
+       "en": "is sleeping in the dark ground."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,255 @@
+{
+ "id": 1440,
+ "slug": "si-trgnala-gina-moma",
+ "title_cyr": "Си тргнала Гина мома",
+ "title_latin": "Si trgnala Gina moma",
+ "title_en": "Gina the girl set out",
+ "pesna_url": "https://pesna.org/song/1440",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Line 'Уста да ти капне' is my reading (a mild curse or wish, 'may your mouth drip'); 'Крши глава' is an idiomatic exhortation, rendered literally. Origin unclear, looks traditional.",
+ "words_to_learn": [
+  {
+   "mk": "мома",
+   "en": "girl, maiden"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young lad (lit. 'mad young', a folk epithet for a young man)"
+  },
+  {
+   "mk": "налее",
+   "en": "draws/pours (water)"
+  },
+  {
+   "mk": "подранила",
+   "en": "got up early"
+  },
+  {
+   "mk": "стомни",
+   "en": "water jugs"
+  },
+  {
+   "mk": "абер",
+   "en": "news, word"
+  },
+  {
+   "mk": "кавгаџии",
+   "en": "brawlers, quarrelsome people"
+  },
+  {
+   "mk": "аир",
+   "en": "good, luck, benefit"
+  },
+  {
+   "mk": "усрамат",
+   "en": "will shame"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/3672"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Си тргнала Гина мома",
+       "lat": "Si trgnala Gina moma",
+       "en": "Gina the girl set out"
+      },
+      {
+       "cyr": "мори на вода да иде,",
+       "lat": "mori na voda da ide,",
+       "en": "hey, to go for water,"
+      },
+      {
+       "cyr": "вода да налее Гина,",
+       "lat": "voda da nalee Gina,",
+       "en": "to draw water, Gina,"
+      },
+      {
+       "cyr": "лице да измие.",
+       "lat": "lice da izmie.",
+       "en": "to wash her face."
+      },
+      {
+       "cyr": "Ја сретнало лудо младо",
+       "lat": "Ja sretnalo ludo mlado",
+       "en": "A young lad met her"
+      },
+      {
+       "cyr": "мори па ја запрашало:",
+       "lat": "mori pa ja zaprašalo:",
+       "en": "hey, and he asked her:"
+      },
+      {
+       "cyr": "- Што си нуда имаш Гино",
+       "lat": "- Što si nuda imaš Gino",
+       "en": "- What need do you have, Gina,"
+      },
+      {
+       "cyr": "мори што си подранила?",
+       "lat": "mori što si podranila?",
+       "en": "hey, that you got up so early?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уста да ти капне Гино",
+       "lat": "Usta da ti kapne Gino",
+       "en": "May your mouth drip, Gina,"
+      },
+      {
+       "cyr": "мори штом не си викнала",
+       "lat": "mori štom ne si viknala",
+       "en": "hey, since you did not call out"
+      },
+      {
+       "cyr": "со тебе да дојдам Гино",
+       "lat": "so tebe da dojdam Gino",
+       "en": "for me to come with you, Gina,"
+      },
+      {
+       "cyr": "мори другар да ти бидам.",
+       "lat": "mori drugar da ti bidam.",
+       "en": "hey, to be your companion."
+      },
+      {
+       "cyr": "Стомни да ти носам Гино",
+       "lat": "Stomni da ti nosam Gino",
+       "en": "I would carry the jugs for you, Gina,"
+      },
+      {
+       "cyr": "мори вода да ти полнам,",
+       "lat": "mori voda da ti polnam,",
+       "en": "hey, I would fill the water for you,"
+      },
+      {
+       "cyr": "вода да ти полнам Гино",
+       "lat": "voda da ti polnam Gino",
+       "en": "I would fill the water for you, Gina,"
+      },
+      {
+       "cyr": "мори, раце да одменам.",
+       "lat": "mori, race da odmenam.",
+       "en": "hey, so your hands could rest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стој почекај, лудо младо",
+       "lat": "- Stoj počekaj, ludo mlado",
+       "en": "- Stand and wait, young lad,"
+      },
+      {
+       "cyr": "море до дома да идам,",
+       "lat": "more do doma da idam,",
+       "en": "hey, let me go home,"
+      },
+      {
+       "cyr": "да ги прашам мојте браќа",
+       "lat": "da gi prašam mojte braḱa",
+       "en": "to ask my brothers,"
+      },
+      {
+       "cyr": "море абер ќе ти сторам",
+       "lat": "more aber ḱe ti storam",
+       "en": "hey, I will send you word"
+      },
+      {
+       "cyr": "кога ти да дојдеш, лудо",
+       "lat": "koga ti da dojdeš, ludo",
+       "en": "whether you may come, lad,"
+      },
+      {
+       "cyr": "море другар да ми бидеш,",
+       "lat": "more drugar da mi bideš,",
+       "en": "hey, to be my companion,"
+      },
+      {
+       "cyr": "вода да ми полниш лудо",
+       "lat": "voda da mi polniš ludo",
+       "en": "to fill the water for me, lad,"
+      },
+      {
+       "cyr": "море стомни да ми носиш.",
+       "lat": "more stomni da mi nosiš.",
+       "en": "hey, to carry the jugs for me."
+      },
+      {
+       "cyr": "Стомни да ми носиш лудо,",
+       "lat": "Stomni da mi nosiš ludo,",
+       "en": "To carry the jugs for me, lad,"
+      },
+      {
+       "cyr": "море раце да одмениш.",
+       "lat": "more race da odmeniš.",
+       "en": "hey, to rest my hands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Крши глава, Гино моме",
+       "lat": "- Krši glava, Gino mome",
+       "en": "- Break your head, Gina girl,"
+      },
+      {
+       "cyr": "мори аир да не видиш,",
+       "lat": "mori air da ne vidiš,",
+       "en": "hey, may you see no good,"
+      },
+      {
+       "cyr": "твоите браќа Гино моме",
+       "lat": "tvoite braḱa Gino mome",
+       "en": "your brothers, Gina girl,"
+      },
+      {
+       "cyr": "мори многу кавгаџии.",
+       "lat": "mori mnogu kavgadžii.",
+       "en": "hey, are great brawlers."
+      },
+      {
+       "cyr": "Кавга ќе направат Гино",
+       "lat": "Kavga ḱe napravat Gino",
+       "en": "They will start a quarrel, Gina,"
+      },
+      {
+       "cyr": "мори, мене ќе претепаат.",
+       "lat": "mori, mene ḱe pretepaat.",
+       "en": "hey, they will beat me up."
+      },
+      {
+       "cyr": "Мене ќе претепаат Гино",
+       "lat": "Mene ḱe pretepaat Gino",
+       "en": "They will beat me up, Gina,"
+      },
+      {
+       "cyr": "мори, тебе ќе усрамат.",
+       "lat": "mori, tebe ḱe usramat.",
+       "en": "hey, and they will shame you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,218 @@
+{
+ "id": 77,
+ "slug": "da-sum-bistra-voda",
+ "title_cyr": "Да сум бистра вода",
+ "title_latin": "Da sum bistra voda",
+ "title_en": "If I Were Clear Water",
+ "pesna_url": "https://pesna.org/song/77",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Стале' is unclear to me (left untranslated as a filler); 'стара мори душице' is my reading as an affectionate address, not literally 'old'.",
+ "words_to_learn": [
+  {
+   "mk": "бистра вода",
+   "en": "clear water"
+  },
+  {
+   "mk": "мамо мори",
+   "en": "oh mother"
+  },
+  {
+   "mk": "мајчице",
+   "en": "dear little mother"
+  },
+  {
+   "mk": "мамице",
+   "en": "mommy"
+  },
+  {
+   "mk": "течам",
+   "en": "I flow"
+  },
+  {
+   "mk": "кај",
+   "en": "where"
+  },
+  {
+   "mk": "близу",
+   "en": "near"
+  },
+  {
+   "mk": "душице",
+   "en": "dear soul"
+  },
+  {
+   "mk": "крај",
+   "en": "beside, next to"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  }
+ ],
+ "performers": [
+  "Алтернатор",
+  "Анка Гиева",
+  "Ацо Андонов",
+  "Виолета Томовска",
+  "Гарабет Тавитјан",
+  "Гарабет Тавитјан Јр.",
+  "Диран Тавитјан",
+  "Драгица Николова",
+  "Јорданка Варџијска",
+  "Леб и сол",
+  "Маријана Мишева",
+  "Павлина Здравкова",
+  "Стојна Китановска",
+  "Хари Варешановиќ",
+  "Ethnusiasm"
+ ],
+ "audio": [
+  {
+   "who": "Гарабет Тавитјан, Гарабет Тавитјан Јр., Диран Тавитјан, Хари Варешановиќ",
+   "url": "https://pesna.org/audio-download/889"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/1860"
+  },
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/1861"
+  },
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/1862"
+  },
+  {
+   "who": "Маријана Мишева",
+   "url": "https://pesna.org/audio-download/1863"
+  },
+  {
+   "who": "Стојна Китановска",
+   "url": "https://pesna.org/audio-download/1864"
+  },
+  {
+   "who": "Леб и сол",
+   "url": "https://pesna.org/audio-download/1865"
+  },
+  {
+   "who": "Ethnusiasm",
+   "url": "https://pesna.org/audio-download/2531"
+  },
+  {
+   "who": "Драгица Николова",
+   "url": "https://pesna.org/audio-download/2538"
+  },
+  {
+   "who": "Павлина Здравкова",
+   "url": "https://pesna.org/audio-download/2539"
+  },
+  {
+   "who": "Алтернатор",
+   "url": "https://pesna.org/audio-download/2540"
+  },
+  {
+   "who": "Јорданка Варџијска",
+   "url": "https://pesna.org/audio-download/3307"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Да сум бистра вода,",
+       "lat": "Da sum bistra voda,",
+       "en": "If I were clear water,"
+      },
+      {
+       "cyr": "мори мамо,",
+       "lat": "mori mamo,",
+       "en": "oh mother,"
+      },
+      {
+       "cyr": "да сум бистра вода,",
+       "lat": "da sum bistra voda,",
+       "en": "if I were clear water,"
+      },
+      {
+       "cyr": "мамо мори, мајчице,",
+       "lat": "mamo mori, majčice,",
+       "en": "mother, oh, dear mother,"
+      },
+      {
+       "cyr": "јас знам кај да течам.",
+       "lat": "jas znam kaj da tečam.",
+       "en": "I know where I would flow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас би текла,",
+       "lat": "Jas bi tekla,",
+       "en": "I would flow,"
+      },
+      {
+       "cyr": "мамо мори,",
+       "lat": "mamo mori,",
+       "en": "oh mother,"
+      },
+      {
+       "cyr": "јас би текла, стале,",
+       "lat": "jas bi tekla, stale,",
+       "en": "I would flow, stale,"
+      },
+      {
+       "cyr": "мамо мори, мамице,",
+       "lat": "mamo mori, mamice,",
+       "en": "mother, oh, mommy,"
+      },
+      {
+       "cyr": "близу Митровица.",
+       "lat": "blizu Mitrovica.",
+       "en": "near Mitrovica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас би текла,",
+       "lat": "Jas bi tekla,",
+       "en": "I would flow,"
+      },
+      {
+       "cyr": "мамо мори,",
+       "lat": "mamo mori,",
+       "en": "oh mother,"
+      },
+      {
+       "cyr": "јас би текла, стале,",
+       "lat": "jas bi tekla, stale,",
+       "en": "I would flow, stale,"
+      },
+      {
+       "cyr": "стара мори душице,",
+       "lat": "stara mori dušice,",
+       "en": "old one, oh, dear soul,"
+      },
+      {
+       "cyr": "крај мојето либе.",
+       "lat": "kraj mojeto libe.",
+       "en": "beside my beloved."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

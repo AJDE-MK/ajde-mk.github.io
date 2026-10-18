@@ -1,0 +1,157 @@
+{
+ "id": 1126,
+ "slug": "ne-plachi-majko-ne-zhali",
+ "title_cyr": "Не плачи мајко, не жали",
+ "title_latin": "Ne plači majko, ne žali",
+ "title_en": "Don't cry mother, don't mourn",
+ "pesna_url": "https://pesna.org/song/1126",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Група Крушево 1903",
+  "Орце Стевковски"
+ ],
+ "audio": [
+  {
+   "who": "Група Крушево 1903",
+   "url": "https://pesna.org/audio-download/2695"
+  },
+  {
+   "who": "Орце Стевковски",
+   "url": "https://pesna.org/audio-download/2696"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не плачи мајко, не жали,",
+       "lat": "Ne plači majko, ne žali,",
+       "en": "Don't cry mother, don't mourn"
+      },
+      {
+       "cyr": "ако ти загинам, аман, аман.",
+       "lat": "ako ti zaginam, aman, aman.",
+       "en": "if I lose my life, please."
+      },
+      {
+       "cyr": "Не плачи мајко, не жали,",
+       "lat": "Ne plači majko, ne žali,",
+       "en": "Don't cry mother, don't mourn"
+      },
+      {
+       "cyr": "ако ти загинам, аман, аман.",
+       "lat": "ako ti zaginam, aman, aman.",
+       "en": "if I lose my life, please."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со душман јас ќе се борам,",
+       "lat": "So dušman jas ḱe se boram,",
+       "en": "With the enemy I will fight,"
+      },
+      {
+       "cyr": "да го истераме од нашата земја,",
+       "lat": "da go isterame od našata zemja,",
+       "en": "to get rid of him from our homeland."
+      },
+      {
+       "cyr": "Со душман јас ќе се борам,",
+       "lat": "So dušman jas ḱe se boram,",
+       "en": "With the enemy I will fight"
+      },
+      {
+       "cyr": "да го истераме од Македонија.",
+       "lat": "da go isterame od Makedonija.",
+       "en": "to get rid of him from Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Старо и младо станете",
+       "lat": "Staro i mlado stanete",
+       "en": "Old and young, stand up,"
+      },
+      {
+       "cyr": "сите на нога, аман, аман.",
+       "lat": "site na noga, aman, aman.",
+       "en": "everyone on your feet, please."
+      },
+      {
+       "cyr": "Земете пушки, патрони и револвери",
+       "lat": "Zemete puški, patroni i revolveri",
+       "en": "Get your rifles, cartridges and revolvers,"
+      },
+      {
+       "cyr": "и револвери.",
+       "lat": "i revolveri.",
+       "en": "and revolvers."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душманот да го истераме",
+       "lat": "Dušmanot da go isterame",
+       "en": "Let's get rid of the enemy,"
+      },
+      {
+       "cyr": "од нашата земја, аман, аман.",
+       "lat": "od našata zemja, aman, aman.",
+       "en": "from our homeland, please."
+      },
+      {
+       "cyr": "Душманот да го истераме",
+       "lat": "Dušmanot da go isterame",
+       "en": "Let's get rid of the enemy"
+      },
+      {
+       "cyr": "ко црв од јаболко, од Македонија.",
+       "lat": "ko crv od jabolko, od Makedonija.",
+       "en": "like a worm from an apple, from Macedonia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крстот да си направиме",
+       "lat": "Krstot da si napravime",
+       "en": "Let's make a cross"
+      },
+      {
+       "cyr": "во града Солуна, аман, аман.",
+       "lat": "vo grada Soluna, aman, aman.",
+       "en": "in the city of Solun (Salonica), please."
+      },
+      {
+       "cyr": "Знаме да си развееме,",
+       "lat": "Zname da si razveeme,",
+       "en": "Let's wave the flag,"
+      },
+      {
+       "cyr": "знаме македонско, во Македонија.",
+       "lat": "zname makedonsko, vo Makedonija.",
+       "en": "a Macedonian flag, in Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

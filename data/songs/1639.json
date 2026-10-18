@@ -1,0 +1,215 @@
+{
+ "id": 1639,
+ "slug": "imeto-makedonsko",
+ "title_cyr": "Името македонско",
+ "title_latin": "Imeto makedonsko",
+ "title_en": "Macedonian name",
+ "pesna_url": "https://pesna.org/song/1639",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Децата од Буф",
+  "Chryses Notes",
+  "Makedoniko meraki",
+  "Χάλκινα Ηχοχρώματα (Bronze Tones)"
+ ],
+ "audio": [
+  {
+   "who": "Децата од Буф",
+   "url": "https://pesna.org/audio-download/4387"
+  },
+  {
+   "who": "Makedoniko meraki",
+   "url": "https://pesna.org/audio-download/4388"
+  },
+  {
+   "who": "Chryses Notes",
+   "url": "https://pesna.org/audio-download/4389"
+  },
+  {
+   "who": "Χάλκινα Ηχοχρώματα (Bronze Tones)",
+   "url": "https://pesna.org/audio-download/4390"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Во далечна илјада деветсто и тринајаста",
+       "lat": "Vo dalečna iljada devetsto i trinajasta",
+       "en": "In the distant 1913th,",
+       "en_mt": false
+      },
+      {
+       "cyr": "граница ја подели нашата татковина,",
+       "lat": "granica ja podeli našata tatkovina,",
+       "en": "the border divided our homeland,",
+       "en_mt": false
+      },
+      {
+       "cyr": "имиња променија, јазикот забранија",
+       "lat": "iminja promenija, jazikot zabranija",
+       "en": "changed our names, banned our language,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нè мачеа, нè стамеа дури да нè истераат.",
+       "lat": "nè mačea, nè stamea duri da nè isteraat.",
+       "en": "tortured us, shamed us, until they forced us to leave.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега сме во чуждина, во слободна Канада",
+       "lat": "Sega sme vo čuždina, vo slobodna Kanada",
+       "en": "Now we are abroad, in free Canada,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нема да се плашиме мајчин јазик да зборваме,",
+       "lat": "nema da se plašime majčin jazik da zborvame,",
+       "en": "we will not be afraid to speak our native language,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во наша црква си верваме,",
+       "lat": "vo naša crkva si vervame,",
+       "en": "we will have faith in our church,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и гордо ќе го носиме името македонско.",
+       "lat": "i gordo ḱe go nosime imeto makedonsko.",
+       "en": "and we will proudly bear the Macedonian name.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојдовме како селани со куфер в' раце и без пари",
+       "lat": "Dojdovme kako selani so kufer v' race i bez pari",
+       "en": "We came as peasants with a suitcase in our hands and without money,",
+       "en_mt": false
+      },
+      {
+       "cyr": "си најдовме работи и брзо станавме граѓани.",
+       "lat": "si najdovme raboti i brzo stanavme graǵani.",
+       "en": "we found work and quickly became citizens.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Буф, Герман и Баница, ни останаја во соништа",
+       "lat": "Buf, German i Banica, ni ostanaja vo soništa",
+       "en": "Buff, German and Banica, they remained in our dreams,",
+       "en_mt": false
+      },
+      {
+       "cyr": "со убави спомени за времиња поминати.",
+       "lat": "so ubavi spomeni za vreminja pominati.",
+       "en": "with beautiful memories of times gone by.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега сме во чуждина, во слободна Канада",
+       "lat": "Sega sme vo čuždina, vo slobodna Kanada",
+       "en": "Now we are abroad, in free Canada,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нема да се плашиме мајчин јазик да зборваме",
+       "lat": "nema da se plašime majčin jazik da zborvame",
+       "en": "we will not be afraid to speak our native language,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во наша црква си верваме,",
+       "lat": "vo naša crkva si vervame,",
+       "en": "we will have faith in our church,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и гордо ќе го носиме името македонско.",
+       "lat": "i gordo ḱe go nosime imeto makedonsko.",
+       "en": "and we will proudly bear the Macedonian name.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ние сме Македонци и сите се гордеме",
+       "lat": "Nie sme Makedonci i site se gordeme",
+       "en": "We are Macedonians and we are all proud",
+       "en_mt": false
+      },
+      {
+       "cyr": "со новата суверена македонска република.",
+       "lat": "so novata suverena makedonska republika.",
+       "en": "of the new sovereign Macedonian republic.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Останаа три дела во Пирин, Егеј, Албанија",
+       "lat": "Ostanaa tri dela vo Pirin, Egej, Albanija",
+       "en": "There are three parts left in Pirin, Aegean, Albania",
+       "en_mt": false
+      },
+      {
+       "cyr": "што уште правда не имаат, ко ние во Канада.",
+       "lat": "što ušte pravda ne imaat, ko nie vo Kanada.",
+       "en": "that still do not have justice, like us in Canada.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега сме во чуждина, во слободна Канада",
+       "lat": "Sega sme vo čuždina, vo slobodna Kanada",
+       "en": "Now we are abroad, in free Canada,",
+       "en_mt": false
+      },
+      {
+       "cyr": "нема да се плашиме мајчин јазик да зборваме",
+       "lat": "nema da se plašime majčin jazik da zborvame",
+       "en": "we will not be afraid to speak our native language,",
+       "en_mt": false
+      },
+      {
+       "cyr": "во наша црква си верваме,",
+       "lat": "vo naša crkva si vervame,",
+       "en": "we will have faith in our church,",
+       "en_mt": false
+      },
+      {
+       "cyr": "и гордо ќе го носиме името македонско.",
+       "lat": "i gordo ḱe go nosime imeto makedonsko.",
+       "en": "and we will proudly bear the Macedonian name.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

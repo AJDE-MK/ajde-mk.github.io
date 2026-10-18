@@ -1,0 +1,217 @@
+{
+ "id": 1495,
+ "slug": "ne-plachi-majko-ne-zhali",
+ "title_cyr": "Не плачи мајко, не жали",
+ "title_latin": "Ne plači majko, ne žali",
+ "title_en": "Do Not Cry, Mother, Do Not Grieve",
+ "pesna_url": "https://pesna.org/song/1495",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding lament. Speaker changes are not marked in the original in every stanza; I read the dialogue as son and mother alternating, with the last stanza the son again.",
+ "words_to_learn": [
+  {
+   "mk": "жали",
+   "en": "grieve, mourn"
+  },
+  {
+   "mk": "оти",
+   "en": "because, for (dialect)"
+  },
+  {
+   "mk": "аман",
+   "en": "oh woe, alas (Turkish-origin exclamation)"
+  },
+  {
+   "mk": "расплака",
+   "en": "made weep"
+  },
+  {
+   "mk": "изгоре",
+   "en": "burned up"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, beloved"
+  },
+  {
+   "mk": "за друг појде",
+   "en": "went (married) to another"
+  },
+  {
+   "mk": "неженет",
+   "en": "unmarried (of a man)"
+  },
+  {
+   "mk": "прелага",
+   "en": "deceives, lies to"
+  },
+  {
+   "mk": "се омажи",
+   "en": "got married (of a woman)"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/3891"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Не плачи мајко, не жали",
+       "lat": "- Ne plači majko, ne žali",
+       "en": "- Do not cry, mother, do not grieve,"
+      },
+      {
+       "cyr": "оти јас млад ќе ти умрам,",
+       "lat": "oti jas mlad ḱe ti umram,",
+       "en": "for I will die young on you,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "оти јас млад ќе ти умрам.",
+       "lat": "oti jas mlad ḱe ti umram.",
+       "en": "for I will die young on you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Немој сине, не ми збори,",
+       "lat": "- Nemoj sine, ne mi zbori,",
+       "en": "- Do not, son, do not speak so,"
+      },
+      {
+       "cyr": "душата ми ја расплака,",
+       "lat": "dušata mi ja rasplaka,",
+       "en": "you have made my soul weep,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "срцето ми го изгоре!",
+       "lat": "srceto mi go izgore!",
+       "en": "you have burned my heart!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Девет години ја љубев,",
+       "lat": "- Devet godini ja ljubev,",
+       "en": "- Nine years I loved her,"
+      },
+      {
+       "cyr": "а на десетта за друг појде,",
+       "lat": "a na desetta za drug pojde,",
+       "en": "and in the tenth she went to another,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "а на десетта за друг појде.",
+       "lat": "a na desetta za drug pojde.",
+       "en": "and in the tenth she went to another."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Слушај ме синко, послушај,",
+       "lat": "- Slušaj me sinko, poslušaj,",
+       "en": "- Listen to me, my boy, listen,"
+      },
+      {
+       "cyr": "јас ќе ти најдам друго либе,",
+       "lat": "jas ḱe ti najdam drugo libe,",
+       "en": "I will find you another sweetheart,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "друго либе, поубаво.",
+       "lat": "drugo libe, poubavo.",
+       "en": "another sweetheart, a prettier one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не сакам мајко, не сакам,",
+       "lat": "- Ne sakam majko, ne sakam,",
+       "en": "- I do not want one, mother, I do not want one,"
+      },
+      {
+       "cyr": "јас ќе си умрам млад, неженет,",
+       "lat": "jas ḱe si umram mlad, neženet,",
+       "en": "I will die young, unmarried,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "јас ќе си умрам млад, неженет.",
+       "lat": "jas ḱe si umram mlad, neženet.",
+       "en": "I will die young, unmarried."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оти ме Милка прелага",
+       "lat": "Oti me Milka prelaga",
+       "en": "Because Milka deceived me"
+      },
+      {
+       "cyr": "и за друг, мајко, се омажи,",
+       "lat": "i za drug, majko, se omaži,",
+       "en": "and married another, mother,"
+      },
+      {
+       "cyr": "аман, аман,",
+       "lat": "aman, aman,",
+       "en": "aman, aman,"
+      },
+      {
+       "cyr": "и за друг, мајко, се омажи.",
+       "lat": "i za drug, majko, se omaži.",
+       "en": "and married another, mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,172 @@
+{
+ "id": 32,
+ "slug": "od-koga-e-zora-zazorila",
+ "title_cyr": "Од кога е зора зазорила",
+ "title_latin": "Od koga e zora zazorila",
+ "title_en": "Since the Dawn Broke",
+ "pesna_url": "https://pesna.org/song/32",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Repeated lines are kept as in the source. No guessed lines.",
+ "words_to_learn": [
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "зазорила",
+   "en": "has dawned"
+  },
+  {
+   "mk": "војска",
+   "en": "army"
+  },
+  {
+   "mk": "заврвела",
+   "en": "has set off marching"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "сабја",
+   "en": "sabre"
+  },
+  {
+   "mk": "бајрактар",
+   "en": "standard-bearer"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  }
+ ],
+ "performers": [
+  "Драгица Мавровска",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1512"
+  },
+  {
+   "who": "Драгица Мавровска",
+   "url": "https://pesna.org/audio-download/4308"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Од кога е, мила моја мајчице,",
+       "lat": "Od koga e, mila moja majčice,",
+       "en": "Since, my dear mother,"
+      },
+      {
+       "cyr": "зора зазорила, мила моја мајчице,",
+       "lat": "zora zazorila, mila moja majčice,",
+       "en": "the dawn broke, my dear mother,"
+      },
+      {
+       "cyr": "зора зазорила.",
+       "lat": "zora zazorila.",
+       "en": "the dawn broke."
+      },
+      {
+       "cyr": "Од тогаш е, мила моја мајчице,",
+       "lat": "Od togaš e, mila moja majčice,",
+       "en": "Since then, my dear mother,"
+      },
+      {
+       "cyr": "војска заврвела, мила моја мајчице,",
+       "lat": "vojska zavrvela, mila moja majčice,",
+       "en": "the army has been marching, my dear mother,"
+      },
+      {
+       "cyr": "војска заврвела.",
+       "lat": "vojska zavrvela.",
+       "en": "the army has been marching."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коњ до коња, мила моја мајчице,",
+       "lat": "Konj do konja, mila moja majčice,",
+       "en": "Horse by horse, my dear mother,"
+      },
+      {
+       "cyr": "јунак до јунака, мила моја мајчице,",
+       "lat": "junak do junaka, mila moja majčice,",
+       "en": "hero by hero, my dear mother,"
+      },
+      {
+       "cyr": "јунак до јунака.",
+       "lat": "junak do junaka.",
+       "en": "hero by hero."
+      },
+      {
+       "cyr": "Сабјите им светат, мила моја мајчице,",
+       "lat": "Sabjite im svetat, mila moja majčice,",
+       "en": "Their sabres shine, my dear mother,"
+      },
+      {
+       "cyr": "како јасно сонце, мила моја мајчице,",
+       "lat": "kako jasno sonce, mila moja majčice,",
+       "en": "like the bright sun, my dear mother,"
+      },
+      {
+       "cyr": "како јасно сонце.",
+       "lat": "kako jasno sonce.",
+       "en": "like the bright sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бајрактар им беше, мила мајчице,",
+       "lat": "Bajraktar im beše, mila majčice,",
+       "en": "Their standard-bearer was, dear mother,"
+      },
+      {
+       "cyr": "мојто прво либе, мила моја мајчице,",
+       "lat": "mojto prvo libe, mila moja majčice,",
+       "en": "my first love, my dear mother,"
+      },
+      {
+       "cyr": "мојто верно либе.",
+       "lat": "mojto verno libe.",
+       "en": "my faithful love."
+      },
+      {
+       "cyr": "Ќе се борат, мила моја мајчице,",
+       "lat": "Ḱe se borat, mila moja majčice,",
+       "en": "They will fight, my dear mother,"
+      },
+      {
+       "cyr": "за Македонија, мила моја мајчице,",
+       "lat": "za Makedonija, mila moja majčice,",
+       "en": "for Macedonia, my dear mother,"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

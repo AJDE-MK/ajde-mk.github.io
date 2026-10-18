@@ -1,0 +1,161 @@
+{
+ "id": 78,
+ "slug": "elaj-libe-elaj",
+ "title_cyr": "Елај либе, елај",
+ "title_latin": "Elaj libe, elaj",
+ "title_en": "Come, Love, Come",
+ "pesna_url": "https://pesna.org/song/78",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Елај на колено' is my reading as 'come and kneel'; 'како сум ти болен' as 'how ill I am for you'. 'Околу фрлаат' I read as 'they throw all around'.",
+ "words_to_learn": [
+  {
+   "mk": "елај",
+   "en": "come (dialect imperative)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "мило",
+   "en": "dear"
+  },
+  {
+   "mk": "трева",
+   "en": "grass"
+  },
+  {
+   "mk": "оган / огин",
+   "en": "fire"
+  },
+  {
+   "mk": "рамена",
+   "en": "shoulders"
+  },
+  {
+   "mk": "бомби",
+   "en": "bombs"
+  },
+  {
+   "mk": "ранило",
+   "en": "wounded"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/962"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Елај либе, елај,",
+       "lat": "Elaj libe, elaj,",
+       "en": "Come, love, come,"
+      },
+      {
+       "cyr": "елај на колено,",
+       "lat": "elaj na koleno,",
+       "en": "come and kneel,"
+      },
+      {
+       "cyr": "еј, мило ле либе,",
+       "lat": "ej, milo le libe,",
+       "en": "hey, my dear love,"
+      },
+      {
+       "cyr": "како сум ти болен.",
+       "lat": "kako sum ti bolen.",
+       "en": "how ill I am for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трева до колена,",
+       "lat": "Treva do kolena,",
+       "en": "Grass up to the knees,"
+      },
+      {
+       "cyr": "оган до рамена,",
+       "lat": "ogan do ramena,",
+       "en": "fire up to the shoulders,"
+      },
+      {
+       "cyr": "еј, мило ле либе,",
+       "lat": "ej, milo le libe,",
+       "en": "hey, my dear love,"
+      },
+      {
+       "cyr": "огин до рамена.",
+       "lat": "ogin do ramena.",
+       "en": "fire up to the shoulders."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Околу фрлаат,",
+       "lat": "Okolu frlaat,",
+       "en": "All around they throw"
+      },
+      {
+       "cyr": "бомби и куршуми,",
+       "lat": "bombi i kuršumi,",
+       "en": "bombs and bullets,"
+      },
+      {
+       "cyr": "еј, мило ле либе,",
+       "lat": "ej, milo le libe,",
+       "en": "hey, my dear love,"
+      },
+      {
+       "cyr": "бомби и куршуми.",
+       "lat": "bombi i kuršumi.",
+       "en": "bombs and bullets."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене ме ранило,",
+       "lat": "Mene me ranilo,",
+       "en": "I was wounded"
+      },
+      {
+       "cyr": "среде во срцето,",
+       "lat": "srede vo srceto,",
+       "en": "right in the heart,"
+      },
+      {
+       "cyr": "еј, мило ле либе,",
+       "lat": "ej, milo le libe,",
+       "en": "hey, my dear love,"
+      },
+      {
+       "cyr": "среде во срцето.",
+       "lat": "srede vo srceto.",
+       "en": "right in the heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

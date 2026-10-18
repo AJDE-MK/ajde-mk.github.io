@@ -1,0 +1,150 @@
+{
+ "id": 1182,
+ "slug": "pusti-ti-bile-meanite-ile",
+ "title_cyr": "Пусти ти биле меаните Иле",
+ "title_latin": "Pusti ti bile meanite Ile",
+ "title_en": "Cursed Be the Taverns, Ile",
+ "pesna_url": "https://pesna.org/song/1182",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. 'Меанџика да те успива' is my reading: a tavern woman lulls you to sleep; it could also mean the tavern itself. Ile and Ilija are forms of the same name.",
+ "words_to_learn": [
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "меанџика",
+   "en": "tavern-keeper's woman / barmaid"
+  },
+  {
+   "mk": "бекрија",
+   "en": "drunkard"
+  },
+  {
+   "mk": "пусти",
+   "en": "cursed, wretched"
+  },
+  {
+   "mk": "затворија",
+   "en": "they closed"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "порти",
+   "en": "gates"
+  }
+ ],
+ "performers": [
+  "Анета Љумаковска",
+  "Класико бенд",
+  "Молика",
+  "Смилја Митревска",
+  "Соната Велес",
+  "Татјана Стефановска"
+ ],
+ "audio": [
+  {
+   "who": "Анета Љумаковска, Молика",
+   "url": "https://pesna.org/audio-download/2890"
+  },
+  {
+   "who": "Смилја Митревска",
+   "url": "https://pesna.org/audio-download/2891"
+  },
+  {
+   "who": "Татјана Стефановска",
+   "url": "https://pesna.org/audio-download/2892"
+  },
+  {
+   "who": "Класико бенд",
+   "url": "https://pesna.org/audio-download/2893"
+  },
+  {
+   "who": "Соната Велес",
+   "url": "https://pesna.org/audio-download/2894"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Еј, море Илија,",
+       "lat": "Ej, more Ilija,",
+       "en": "Hey, hey Ilija,"
+      },
+      {
+       "cyr": "зошто пиеш вино, ракија?",
+       "lat": "zošto pieš vino, rakija?",
+       "en": "why do you drink wine, rakija?"
+      },
+      {
+       "cyr": "Еј, не си бекрија,",
+       "lat": "Ej, ne si bekrija,",
+       "en": "Hey, you are not a drunkard,"
+      },
+      {
+       "cyr": "меанџика да те успива.",
+       "lat": "meandžika da te uspiva.",
+       "en": "the tavern-keeper's girl lulls you to sleep."
+      },
+      {
+       "cyr": "Еј, Иле, Илија,",
+       "lat": "Ej, Ile, Ilija,",
+       "en": "Hey, Ile, Ilija,"
+      },
+      {
+       "cyr": "сите порти ги затворија,",
+       "lat": "site porti gi zatvorija,",
+       "en": "they have shut all the gates,"
+      },
+      {
+       "cyr": "еј, а ти остана",
+       "lat": "ej, a ti ostana",
+       "en": "hey, and you stayed"
+      },
+      {
+       "cyr": "пак во таа пуста меана.",
+       "lat": "pak vo taa pusta meana.",
+       "en": "again in that wretched tavern."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Пусти ти биле меаните Иле",
+       "lat": "Pusti ti bile meanite Ile",
+       "en": "Cursed be the taverns, Ile,"
+      },
+      {
+       "cyr": "и тоа вино црвено,",
+       "lat": "i toa vino crveno,",
+       "en": "and that red wine,"
+      },
+      {
+       "cyr": "а јас те чекам дома да ми дојдеш,",
+       "lat": "a jas te čekam doma da mi dojdeš,",
+       "en": "and I wait for you to come home to me,"
+      },
+      {
+       "cyr": "во бела мека постела.",
+       "lat": "vo bela meka postela.",
+       "en": "in a white soft bed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,132 @@
+{
+ "id": 1547,
+ "slug": "se-sobrale-trieset-bekjari",
+ "title_cyr": "Се собрале триесет беќари",
+ "title_latin": "Se sobrale trieset beḱari",
+ "title_en": "Thirty Bachelors Gathered",
+ "pesna_url": "https://pesna.org/song/1547",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Слуга' here is feminine, a serving girl, as the song makes clear (my reading). 'Ладна меана' is a cool/cold tavern.",
+ "words_to_learn": [
+  {
+   "mk": "беќар",
+   "en": "bachelor"
+  },
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish loan)"
+  },
+  {
+   "mk": "слуга",
+   "en": "servant, maid"
+  },
+  {
+   "mk": "љуба",
+   "en": "lover, sweetheart"
+  },
+  {
+   "mk": "фесче",
+   "en": "little fez"
+  },
+  {
+   "mk": "над око",
+   "en": "over the eye"
+  },
+  {
+   "mk": "испод око",
+   "en": "from under the eye, sidelong"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгии на РТС",
+  "Филиграни"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгии на РТС, Филиграни",
+   "url": "https://pesna.org/audio-download/4036"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се собрале триесет беќари џанам,",
+       "lat": "Se sobrale trieset beḱari džanam,",
+       "en": "Thirty bachelors gathered, dear,"
+      },
+      {
+       "cyr": "ќе ми одат на ладна меана,",
+       "lat": "ḱe mi odat na ladna meana,",
+       "en": "they will go to the cold tavern,"
+      },
+      {
+       "cyr": "ќе ми пијат вино, ем ракија.",
+       "lat": "ḱe mi pijat vino, em rakija.",
+       "en": "they will drink wine and brandy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Слуга служи Ануша девојка џанам,",
+       "lat": "Sluga služi Anuša devojka džanam,",
+       "en": "The girl Anusha serves as a maid, dear,"
+      },
+      {
+       "cyr": "слуга служи, за рака ја фаќаат.",
+       "lat": "sluga služi, za raka ja faḱaat.",
+       "en": "she serves, they grab her by the hand."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Проговара Ануша девојка, џанам:",
+       "lat": "Progovara Anuša devojka, džanam:",
+       "en": "The girl Anusha speaks, dear:"
+      },
+      {
+       "cyr": "- Слуга служам, љуба не бидувам.",
+       "lat": "- Sluga služam, ljuba ne biduvam.",
+       "en": "- I serve as a maid, I do not become a lover."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Љуба сум си само на едного, џанам,",
+       "lat": "Ljuba sum si samo na ednogo, džanam,",
+       "en": "I am a lover only to one, dear,"
+      },
+      {
+       "cyr": "што го носи фесчето над око,",
+       "lat": "što go nosi fesčeto nad oko,",
+       "en": "who wears his fez over his eye,"
+      },
+      {
+       "cyr": "а мене ме гледа испод око.",
+       "lat": "a mene me gleda ispod oko.",
+       "en": "and looks at me from under his eye."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,135 @@
+{
+ "id": 215,
+ "slug": "petlite-peat-zora-se-zori",
+ "title_cyr": "Петлите пеат, зора се зори",
+ "title_latin": "Petlite peat, zora se zori",
+ "title_en": "The roosters are crowing, a dawn is breaking",
+ "pesna_url": "https://pesna.org/song/215",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Круме Спасовски",
+  "Ленче Марковска",
+  "Мирвет Беловска",
+  "Петранка Костадинова",
+  "Радио студио Скопје",
+  "MRTV Chalgija orchestra"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/1106"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/1107"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/1108"
+  },
+  {
+   "who": "Мирвет Беловска",
+   "url": "https://pesna.org/audio-download/2467"
+  },
+  {
+   "who": "MRTV Chalgija orchestra",
+   "url": "https://pesna.org/audio-download/2468"
+  },
+  {
+   "who": "Ленче Марковска, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/2702"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Петлите пеат, зора се зори,",
+       "lat": "- Petlite peat, zora se zori,",
+       "en": "The roosters are crowing, the dawn is breaking,"
+      },
+      {
+       "cyr": "пушти ме бела Митро да станам,",
+       "lat": "pušti me bela Mitro da stanam,",
+       "en": "let me, dear Mitra, get up,"
+      },
+      {
+       "cyr": "пушти ме бела Митро да одам.",
+       "lat": "pušti me bela Mitro da odam.",
+       "en": "let me, dear Mitra, go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нашите петли од вечер пеат,",
+       "lat": "- Našite petli od večer peat,",
+       "en": "Our roosters are crowing at night,"
+      },
+      {
+       "cyr": "поспиј ми, мило либе поспи ми,",
+       "lat": "pospij mi, milo libe pospi mi,",
+       "en": "continue to sleep, dear, sleep,"
+      },
+      {
+       "cyr": "пољуби бело лице Митрино.",
+       "lat": "poljubi belo lice Mitrino.",
+       "en": "kiss Mitra's white face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нашите дрвари по дрва одат,",
+       "lat": "- Našite drvari po drva odat,",
+       "en": "Our lumberjacks are going to gather wood,"
+      },
+      {
+       "cyr": "пушти ме бела Митро да одам,",
+       "lat": "pušti me bela Mitro da odam,",
+       "en": "let me, dear Mitra, get up,"
+      },
+      {
+       "cyr": "пуштај ме бела Митро да одам.",
+       "lat": "puštaj me bela Mitro da odam.",
+       "en": "let me, dear Mitra, go."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Нашите дрвари од вечер одат,",
+       "lat": "- Našite drvari od večer odat,",
+       "en": "Our lumberjacks are going at night,"
+      },
+      {
+       "cyr": "поспи ми, мило либе, поспи си,",
+       "lat": "pospi mi, milo libe, pospi si,",
+       "en": "continue to sleep, dear, sleep,"
+      },
+      {
+       "cyr": "загрли рамна снага Митрина.",
+       "lat": "zagrli ramna snaga Mitrina.",
+       "en": "hold Mitra's pretty body."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

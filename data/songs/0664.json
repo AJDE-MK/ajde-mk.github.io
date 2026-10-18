@@ -1,0 +1,126 @@
+{
+ "id": 664,
+ "slug": "dali-znaesh-mome-pametuvash",
+ "title_cyr": "Дали знаеш моме паметуваш",
+ "title_latin": "Dali znaeš mome pametuvaš",
+ "title_en": "Do you know, girl, do you remember",
+ "pesna_url": "https://pesna.org/song/664",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ливаѓе' is my reading (meadow or fruit-garden). The final stanza is read as bitter irony: he will arrive still teased by dogs and girls.",
+ "words_to_learn": [
+  {
+   "mk": "паметуваш",
+   "en": "you remember"
+  },
+  {
+   "mk": "ливаѓе",
+   "en": "meadow, orchard (my reading)"
+  },
+  {
+   "mk": "тополи",
+   "en": "poplars"
+  },
+  {
+   "mk": "пари",
+   "en": "money, coins"
+  },
+  {
+   "mk": "брза",
+   "en": "fast"
+  },
+  {
+   "mk": "пеш",
+   "en": "on foot"
+  },
+  {
+   "mk": "кучињата",
+   "en": "the dogs"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дали знаеш моме паметуваш",
+       "lat": "Dali znaeš mome pametuvaš",
+       "en": "Do you know, girl, do you remember"
+      },
+      {
+       "cyr": "кога бевме моме во ливаѓе?",
+       "lat": "koga bevme mome vo livaǵe?",
+       "en": "when we were together, girl, in the meadow?"
+      },
+      {
+       "cyr": "Кога бевме моме во ливаѓе,",
+       "lat": "Koga bevme mome vo livaǵe,",
+       "en": "When we were together, girl, in the meadow,"
+      },
+      {
+       "cyr": "во ливаѓе моме под тополи?",
+       "lat": "vo livaǵe mome pod topoli?",
+       "en": "in the meadow, girl, under the poplars?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите пари моме ми ги зеде",
+       "lat": "Site pari mome mi gi zede",
+       "en": "You took all my money, girl,"
+      },
+      {
+       "cyr": "без пет пари моме ме остави.",
+       "lat": "bez pet pari mome me ostavi.",
+       "en": "and left me without five coins, girl."
+      },
+      {
+       "cyr": "Дај ми малку моме од парите",
+       "lat": "Daj mi malku mome od parite",
+       "en": "Give me a little, girl, of the money"
+      },
+      {
+       "cyr": "да си купам моме брза коња.",
+       "lat": "da si kupam mome brza konja.",
+       "en": "so I can buy, girl, a fast horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да си купам моме брза коња",
+       "lat": "Da si kupam mome brza konja",
+       "en": "So I can buy, girl, a fast horse"
+      },
+      {
+       "cyr": "да не одам моме пеш до село.",
+       "lat": "da ne odam mome peš do selo.",
+       "en": "so I don't go, girl, on foot to the village."
+      },
+      {
+       "cyr": "Кучињата моме да ме лајат",
+       "lat": "Kučinjata mome da me lajat",
+       "en": "So the dogs, girl, bark at me"
+      },
+      {
+       "cyr": "а момите моме да се смејат.",
+       "lat": "a momite mome da se smejat.",
+       "en": "and the girls, girl, laugh."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

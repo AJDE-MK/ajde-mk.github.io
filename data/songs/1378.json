@@ -1,0 +1,104 @@
+{
+ "id": 1378,
+ "slug": "stani-stani-drugar-aleksovski",
+ "title_cyr": "Стани, стани, другар Алексовски",
+ "title_latin": "Stani, stani, drugar Aleksovski",
+ "title_en": "Get up, get up, comrade Aleksovski",
+ "pesna_url": "https://pesna.org/song/1378",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: John Pappas)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/3560"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, стани, другар Алексовски,",
+       "lat": "- Stani, stani, drugar Aleksovski,",
+       "en": "- Get up, get up, comrade Aleksovski,"
+      },
+      {
+       "cyr": "стани, стани, стани, Васил Алексовски.",
+       "lat": "stani, stani, stani, Vasil Aleksovski.",
+       "en": "Get up, get up, Vasil Aleksovski,"
+      },
+      {
+       "cyr": "Да видиш, да видиш твои другари,",
+       "lat": "Da vidiš, da vidiš tvoi drugari,",
+       "en": "So you can see, so you can see your comrades,"
+      },
+      {
+       "cyr": "твоите другари по планини оде.",
+       "lat": "tvoite drugari po planini ode.",
+       "en": "Your comrades are in the mountains."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По планини оде, по планини,",
+       "lat": "Po planini ode, po planini,",
+       "en": "They go to the mountains, in the mountains,"
+      },
+      {
+       "cyr": "Васил да намере, а Васил го нема.",
+       "lat": "Vasil da namere, a Vasil go nema.",
+       "en": "Searching for Vasil, but they cannot find Vasil."
+      },
+      {
+       "cyr": "Васил го убие, го убие,",
+       "lat": "Vasil go ubie, go ubie,",
+       "en": "They killed Vasil, they killed him,"
+      },
+      {
+       "cyr": "Васил го убие проклети фашисти,",
+       "lat": "Vasil go ubie prokleti fašisti,",
+       "en": "The damned fascists have killed Vasil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани, стани, другар Алексовски,",
+       "lat": "Stani, stani, drugar Aleksovski,",
+       "en": "Get up, get up, comrade Aleksovski,"
+      },
+      {
+       "cyr": "стани, стани, стани, Васил Алексовски.",
+       "lat": "stani, stani, stani, Vasil Aleksovski.",
+       "en": "Get up, get up, Vasil Aleksovski."
+      },
+      {
+       "cyr": "- Не можа да стана, за да стана,",
+       "lat": "- Ne moža da stana, za da stana,",
+       "en": "- I cannot get up, I cannot awaken,"
+      },
+      {
+       "cyr": "не можа да стана, куршум ме прениза.",
+       "lat": "ne moža da stana, kuršum me preniza.",
+       "en": "I cannot awaken, a bullet has penetrated me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

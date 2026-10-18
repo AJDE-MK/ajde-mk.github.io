@@ -1,0 +1,186 @@
+{
+ "id": 1273,
+ "slug": "poziv-za-vojnik",
+ "title_cyr": "Позив за војник",
+ "title_latin": "Poziv za vojnik",
+ "title_en": "Call-up for a Soldier",
+ "pesna_url": "https://pesna.org/song/1273",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (no author named), translated as traditional-style song. 'Ме разболи, ме изгори' is rendered literally.",
+ "words_to_learn": [
+  {
+   "mk": "позив",
+   "en": "call-up, summons"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, love"
+  },
+  {
+   "mk": "разделам",
+   "en": "I part, separate"
+  },
+  {
+   "mk": "верна",
+   "en": "faithful"
+  },
+  {
+   "mk": "рони",
+   "en": "(you) shed (tears)"
+  },
+  {
+   "mk": "тага",
+   "en": "sorrow"
+  },
+  {
+   "mk": "омажи се",
+   "en": "got married (of a woman)"
+  },
+  {
+   "mk": "рана",
+   "en": "wound"
+  }
+ ],
+ "performers": [
+  "Цвета и Петар Павловски"
+ ],
+ "audio": [
+  {
+   "who": "Цвета и Петар Павловски",
+   "url": "https://pesna.org/audio-download/3207"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Позивот ми дојде, либе,",
+       "lat": "Pozivot mi dojde, libe,",
+       "en": "The call-up came to me, my love,"
+      },
+      {
+       "cyr": "војник да одам,",
+       "lat": "vojnik da odam,",
+       "en": "to go as a soldier,"
+      },
+      {
+       "cyr": "и од тебе, мило либе,",
+       "lat": "i od tebe, milo libe,",
+       "en": "and from you, dear love,"
+      },
+      {
+       "cyr": "да се разделам.",
+       "lat": "da se razdelam.",
+       "en": "to part."
+      },
+      {
+       "cyr": "Еј, мило либе бре,",
+       "lat": "Ej, milo libe bre,",
+       "en": "Hey, dear love,"
+      },
+      {
+       "cyr": "те оставам при мајка ми,",
+       "lat": "te ostavam pri majka mi,",
+       "en": "I leave you with my mother,"
+      },
+      {
+       "cyr": "верна да бидеш.",
+       "lat": "verna da bideš.",
+       "en": "may you be faithful."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој либе ти да плачеш,",
+       "lat": "Nemoj libe ti da plačeš,",
+       "en": "Don't you, love, weep,"
+      },
+      {
+       "cyr": "солзи да рониш,",
+       "lat": "solzi da roniš,",
+       "en": "shedding tears,"
+      },
+      {
+       "cyr": "јас при тебе пак ќе дојдам,",
+       "lat": "jas pri tebe pak ḱe dojdam,",
+       "en": "I will come to you again,"
+      },
+      {
+       "cyr": "моја ќе бидеш.",
+       "lat": "moja ḱe bideš.",
+       "en": "you will be mine."
+      },
+      {
+       "cyr": "Еј, верни другари,",
+       "lat": "Ej, verni drugari,",
+       "en": "Hey, faithful comrades,"
+      },
+      {
+       "cyr": "ви оставам мое либе",
+       "lat": "vi ostavam moe libe",
+       "en": "I leave my love to you,"
+      },
+      {
+       "cyr": "при вас да биде.",
+       "lat": "pri vas da bide.",
+       "en": "to be with you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојде денот, јас се вратив,",
+       "lat": "Dojde denot, jas se vrativ,",
+       "en": "The day came, I returned,"
+      },
+      {
+       "cyr": "тага си најдов,",
+       "lat": "taga si najdov,",
+       "en": "I found sorrow,"
+      },
+      {
+       "cyr": "мојто либе се омажи",
+       "lat": "mojto libe se omaži",
+       "en": "my love got married"
+      },
+      {
+       "cyr": "за верен другар.",
+       "lat": "za veren drugar.",
+       "en": "to a faithful comrade."
+      },
+      {
+       "cyr": "Еј, неверна љубов,",
+       "lat": "Ej, neverna ljubov,",
+       "en": "Hey, unfaithful love,"
+      },
+      {
+       "cyr": "ме разболи, ме изгори,",
+       "lat": "me razboli, me izgori,",
+       "en": "you made me ill, you burned me,"
+      },
+      {
+       "cyr": "рана ми стори.",
+       "lat": "rana mi stori.",
+       "en": "you wounded me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,178 @@
+{
+ "id": 313,
+ "slug": "samo-me-gledash",
+ "title_cyr": "Само ме гледаш",
+ "title_latin": "Samo me gledaš",
+ "title_en": "You only look at me",
+ "pesna_url": "https://pesna.org/song/313",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding, no author known (origin unclear). 'Мојте очи да бидат твој' and 'соној' are dialect forms; my reading of the meaning.",
+ "words_to_learn": [
+  {
+   "mk": "гледаш",
+   "en": "you look"
+  },
+  {
+   "mk": "либе",
+   "en": "darling, sweetheart"
+  },
+  {
+   "mk": "ле",
+   "en": "oh (interjection)"
+  },
+  {
+   "mk": "дојди",
+   "en": "come"
+  },
+  {
+   "mk": "овенат",
+   "en": "they will wither"
+  },
+  {
+   "mk": "соно",
+   "en": "sleep (dialect form of сон)"
+  },
+  {
+   "mk": "дамна",
+   "en": "long ago"
+  },
+  {
+   "mk": "пленив",
+   "en": "I captured, enchanted"
+  },
+  {
+   "mk": "збор",
+   "en": "word"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Само ме гледаш, очи ми пиеш",
+       "lat": "Samo me gledaš, oči mi pieš",
+       "en": "You only look at me, you drink my eyes"
+      },
+      {
+       "cyr": "но ни збор јас не чув",
+       "lat": "no ni zbor jas ne čuv",
+       "en": "but I have not heard a single word"
+      },
+      {
+       "cyr": "ти да ми го кажеш.",
+       "lat": "ti da mi go kažeš.",
+       "en": "that you would say to me."
+      },
+      {
+       "cyr": "Ах либе, либе ле [х2]",
+       "lat": "Ah libe, libe le [h2]",
+       "en": "Ah, darling, oh darling [x2]"
+      },
+      {
+       "cyr": "но ни збор јас не чув",
+       "lat": "no ni zbor jas ne čuv",
+       "en": "but I have not heard a single word"
+      },
+      {
+       "cyr": "ти да ми го кажеш.",
+       "lat": "ti da mi go kažeš.",
+       "en": "that you would say to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, дојди либе",
+       "lat": "Dojdi, dojdi libe",
+       "en": "Come, come, darling"
+      },
+      {
+       "cyr": "мојте очи да бидат твој",
+       "lat": "mojte oči da bidat tvoj",
+       "en": "let my eyes be yours"
+      },
+      {
+       "cyr": "зошто ко цвет ќе овенат",
+       "lat": "zošto ko cvet ḱe ovenat",
+       "en": "for like flowers they will wither"
+      },
+      {
+       "cyr": "дојди либе ти.",
+       "lat": "dojdi libe ti.",
+       "en": "come, darling, you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срце и соној дамна ти пленив",
+       "lat": "Srce i sonoj damna ti pleniv",
+       "en": "Long ago I captured your heart and sleep"
+      },
+      {
+       "cyr": "но ни зборој не чув",
+       "lat": "no ni zboroj ne čuv",
+       "en": "but I have not heard a word"
+      },
+      {
+       "cyr": "колку ти ме љубиш.",
+       "lat": "kolku ti me ljubiš.",
+       "en": "of how much you love me."
+      },
+      {
+       "cyr": "Ах либе, либе ле [х2]",
+       "lat": "Ah libe, libe le [h2]",
+       "en": "Ah, darling, oh darling [x2]"
+      },
+      {
+       "cyr": "но ни зборој јас не чув",
+       "lat": "no ni zboroj jas ne čuv",
+       "en": "but I have not heard a word"
+      },
+      {
+       "cyr": "колку ти ме љубиш.",
+       "lat": "kolku ti me ljubiš.",
+       "en": "of how much you love me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, дојди либе",
+       "lat": "Dojdi, dojdi libe",
+       "en": "Come, come, darling"
+      },
+      {
+       "cyr": "мојте очи да бидат твој",
+       "lat": "mojte oči da bidat tvoj",
+       "en": "let my eyes be yours"
+      },
+      {
+       "cyr": "зошто ко цвет ќе овенат",
+       "lat": "zošto ko cvet ḱe ovenat",
+       "en": "for like flowers they will wither"
+      },
+      {
+       "cyr": "дојди либе ти.",
+       "lat": "dojdi libe ti.",
+       "en": "come, darling, you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,195 @@
+{
+ "id": 461,
+ "slug": "niz-dvori-se-sheta-moma-katerina",
+ "title_cyr": "Низ двори се шета мома Катерина",
+ "title_latin": "Niz dvori se šeta moma Katerina",
+ "title_en": "Maiden Katerina strolls through the yards",
+ "pesna_url": "https://pesna.org/song/461",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'кадуша' is a dialect word I am unsure about; 'capable girl' is my reading. The last stanza ('редум') is my reading: 'order/propriety', meaning Kata is unmatched in good conduct.",
+ "words_to_learn": [
+  {
+   "mk": "двор",
+   "en": "yard, courtyard"
+  },
+  {
+   "mk": "галабица",
+   "en": "dove, pigeon"
+  },
+  {
+   "mk": "еребица",
+   "en": "partridge"
+  },
+  {
+   "mk": "кротко",
+   "en": "meekly, gently"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "young lad"
+  },
+  {
+   "mk": "разигрува",
+   "en": "makes (it) prance"
+  },
+  {
+   "mk": "кадуша",
+   "en": "capable, able woman (my reading)"
+  },
+  {
+   "mk": "оф аман",
+   "en": "oh, alas (interjection)"
+  }
+ ],
+ "performers": [
+  "Група Сарај",
+  "Захаринка Милосављевиќ",
+  "Зоран Џорлев",
+  "Јасмина Мукаетова",
+  "Николче Спировски",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/760"
+  },
+  {
+   "who": "Зоран Џорлев, Николче Спировски",
+   "url": "https://pesna.org/audio-download/761"
+  },
+  {
+   "who": "Јасмина Мукаетова",
+   "url": "https://pesna.org/audio-download/762"
+  },
+  {
+   "who": "Захаринка Милосављевиќ",
+   "url": "https://pesna.org/audio-download/3329"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3723"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Низ двори се шета мома Катерина,",
+       "lat": "Niz dvori se šeta moma Katerina,",
+       "en": "Maiden Katerina strolls through the yards,"
+      },
+      {
+       "cyr": "бело променета како галабица.",
+       "lat": "belo promeneta kako galabica.",
+       "en": "she has turned white like a dove."
+      },
+      {
+       "cyr": "Оф аман, аман како галабица.",
+       "lat": "Of aman, aman kako galabica.",
+       "en": "Oh aman, aman, like a dove."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ситно, кротко оди како еребица.",
+       "lat": "Sitno, krotko odi kako erebica.",
+       "en": "She walks daintily, meekly like a partridge."
+      },
+      {
+       "cyr": "Оф аман, аман како еребица.",
+       "lat": "Of aman, aman kako erebica.",
+       "en": "Oh aman, aman, like a partridge."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Оздола ми иди едно лудо младо",
+       "lat": "Ozdola mi idi edno ludo mlado",
+       "en": "From below comes a young lad,"
+      },
+      {
+       "cyr": "сива коња јава, коња разигрува.",
+       "lat": "siva konja java, konja razigruva.",
+       "en": "riding a grey horse, making the horse prance."
+      },
+      {
+       "cyr": "Оф аман, аман и на коња вели:",
+       "lat": "Of aman, aman i na konja veli:",
+       "en": "Oh aman, aman, and he says to the horse:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Играј коњу играј, ти да се наиграш",
+       "lat": "- Igraj konju igraj, ti da se naigraš",
+       "en": "- Dance, horse, dance, have your fill of dancing,"
+      },
+      {
+       "cyr": "јас ќе те продавам на мома кадуша.",
+       "lat": "jas ḱe te prodavam na moma kaduša.",
+       "en": "I will sell you to a capable girl."
+      },
+      {
+       "cyr": "Оф аман, аман на мома кадуша.",
+       "lat": "Of aman, aman na moma kaduša.",
+       "en": "Oh aman, aman, to a capable girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом ми го дочула мома Катерина",
+       "lat": "Štom mi go dočula moma Katerina",
+       "en": "As soon as maiden Katerina heard him"
+      },
+      {
+       "cyr": "и на лудо вели: - Коња не продавај.",
+       "lat": "i na ludo veli: - Konja ne prodavaj.",
+       "en": "she says to the lad: - Don't sell the horse."
+      },
+      {
+       "cyr": "Оф аман, аман коња не продавај.",
+       "lat": "Of aman, aman konja ne prodavaj.",
+       "en": "Oh aman, aman, don't sell the horse."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како твојта коња сегде редум има",
+       "lat": "Kako tvojta konja segde redum ima",
+       "en": "As your horse has order everywhere,"
+      },
+      {
+       "cyr": "како мома Ката нигде редум нема.",
+       "lat": "kako moma Kata nigde redum nema.",
+       "en": "so nowhere is there order like maiden Kata."
+      },
+      {
+       "cyr": "Оф аман, аман нигде редум нема.",
+       "lat": "Of aman, aman nigde redum nema.",
+       "en": "Oh aman, aman, nowhere is there order."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

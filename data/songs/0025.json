@@ -1,0 +1,130 @@
+{
+ "id": 25,
+ "slug": "kazhi-jano",
+ "title_cyr": "Кажи Јано",
+ "title_latin": "Kaži Jano",
+ "title_en": "Tell me, Jana",
+ "pesna_url": "https://pesna.org/song/25",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Изим даваш' is unclear to me; 'give way' is my reading. The sense seems to be that her unmarried state holds her siblings back from marrying (custom of marrying in order).",
+ "words_to_learn": [
+  {
+   "mk": "кажи",
+   "en": "tell (imperative)"
+  },
+  {
+   "mk": "бре",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "аман",
+   "en": "oh, alas (Turkish-origin exclamation)"
+  },
+  {
+   "mk": "се мажиш",
+   "en": "you marry (of a woman)"
+  },
+  {
+   "mk": "ред",
+   "en": "turn, order"
+  },
+  {
+   "mk": "побратими",
+   "en": "sworn brothers"
+  },
+  {
+   "mk": "посестрими",
+   "en": "sworn sisters"
+  },
+  {
+   "mk": "бричат",
+   "en": "they shave"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кажи Јано, кажи бре ќерко,",
+       "lat": "Kaži Jano, kaži bre ḱerko,",
+       "en": "Tell me, Jana, tell me, hey daughter,"
+      },
+      {
+       "cyr": "зошчо не се мажиш?",
+       "lat": "zoščo ne se mažiš?",
+       "en": "why don't you marry?"
+      },
+      {
+       "cyr": "Аман, ниту ти се мажиш,",
+       "lat": "Aman, nitu ti se mažiš,",
+       "en": "Oh, you neither marry,"
+      },
+      {
+       "cyr": "Јано ќерко, ниту изим даваш.",
+       "lat": "Jano ḱerko, nitu izim davaš.",
+       "en": "Jana daughter, nor do you give way."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ниту ред им даваш, бре Јано,",
+       "lat": "Nitu red im davaš, bre Jano,",
+       "en": "Nor do you give their turn, hey Jana,"
+      },
+      {
+       "cyr": "на твоите браќа,",
+       "lat": "na tvoite braḱa,",
+       "en": "to your brothers,"
+      },
+      {
+       "cyr": "аман на твоите браќа, Јано ле ќерко,",
+       "lat": "aman na tvoite braḱa, Jano le ḱerko,",
+       "en": "oh, to your brothers, Jana my daughter,"
+      },
+      {
+       "cyr": "на твоите сестри.",
+       "lat": "na tvoite sestri.",
+       "en": "to your sisters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твојте побратими, бре Јано,",
+       "lat": "Tvojte pobratimi, bre Jano,",
+       "en": "Your sworn brothers, hey Jana,"
+      },
+      {
+       "cyr": "бели бради бричат,",
+       "lat": "beli bradi bričat,",
+       "en": "are shaving white beards,"
+      },
+      {
+       "cyr": "аман, твоите посестрими, Јано ќерко,",
+       "lat": "aman, tvoite posestrimi, Jano ḱerko,",
+       "en": "oh, your sworn sisters, Jana daughter,"
+      },
+      {
+       "cyr": "бели коси плетат.",
+       "lat": "beli kosi pletat.",
+       "en": "are braiding white hair."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

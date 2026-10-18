@@ -1,0 +1,106 @@
+{
+ "id": 1036,
+ "slug": "chivo-e-ova-devojche",
+ "title_cyr": "Чиво е ова девојче",
+ "title_latin": "Čivo e ova devojče",
+ "title_en": "Whose Is This Girl",
+ "pesna_url": "https://pesna.org/song/1036",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Wedding custom song from Struga Malesija. 'око калешо' I read as 'eye of a bud/dear one', a guess.",
+ "words_to_learn": [
+  {
+   "mk": "чиво",
+   "en": "whose (dialect)"
+  },
+  {
+   "mk": "девојче",
+   "en": "girl"
+  },
+  {
+   "mk": "рано",
+   "en": "early"
+  },
+  {
+   "mk": "стомна",
+   "en": "water jug"
+  },
+  {
+   "mk": "шарени",
+   "en": "colorful, patterned"
+  },
+  {
+   "mk": "ибрик",
+   "en": "pitcher, ewer"
+  },
+  {
+   "mk": "стребро",
+   "en": "silver (dialect)"
+  },
+  {
+   "mk": "кротко",
+   "en": "meekly, gently"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Чиво е ова девојче,",
+       "lat": "Čivo e ova devojče,",
+       "en": "Whose is this girl,"
+      },
+      {
+       "cyr": "што рано оди на вода",
+       "lat": "što rano odi na voda",
+       "en": "who goes early to the water"
+      },
+      {
+       "cyr": "со две стомни шарени,",
+       "lat": "so dve stomni šareni,",
+       "en": "with two colorful jugs,"
+      },
+      {
+       "cyr": "со два ибрика стребрени?",
+       "lat": "so dva ibrika strebreni?",
+       "en": "with two silver pitchers?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Невесто, око калешо,",
+       "lat": "- Nevesto, oko kalešo,",
+       "en": "- Bride, the eye of a bud,"
+      },
+      {
+       "cyr": "што кротко одиш на вода,",
+       "lat": "što krotko odiš na voda,",
+       "en": "why do you go so meekly to the water,"
+      },
+      {
+       "cyr": "дали ти тежат стомните",
+       "lat": "dali ti težat stomnite",
+       "en": "are the jugs heavy for you"
+      },
+      {
+       "cyr": "или ти тежи стреброто?",
+       "lat": "ili ti teži strebroto?",
+       "en": "or is the silver heavy for you?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

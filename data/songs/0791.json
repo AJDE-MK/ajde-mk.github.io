@@ -1,0 +1,244 @@
+{
+ "id": 791,
+ "slug": "neveno-mori-neveno",
+ "title_cyr": "Невено мори, Невено",
+ "title_latin": "Neveno mori, Neveno",
+ "title_en": "Nevena dear, Nevena",
+ "pesna_url": "https://pesna.org/song/791",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева",
+  "Никола Бадев",
+  "Танец",
+  "Трио Сватови"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1497"
+  },
+  {
+   "who": "Трио Сватови",
+   "url": "https://pesna.org/audio-download/4428"
+  },
+  {
+   "who": "Александар Сариевски, Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/4429"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Невено мори, Невено,",
+       "lat": "Neveno mori, Neveno,",
+       "en": "Nevena dear, Nevena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено мори, Невено,",
+       "lat": "Neveno mori, Neveno,",
+       "en": "Nevena dear, Nevena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дејгиди име галено, леле",
+       "lat": "dejgidi ime galeno, lele",
+       "en": "hey, pampered name, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дејгиди име галено.",
+       "lat": "dejgidi ime galeno.",
+       "en": "hey, pampered name.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено мори, Невено, леле,",
+       "lat": "Neveno mori, Neveno, lele,",
+       "en": "Nevena dear, Nevena, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дејгиди име галено.",
+       "lat": "dejgidi ime galeno.",
+       "en": "hey, pampered name.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бог да убие, Невено,",
+       "lat": "Bog da ubie, Neveno,",
+       "en": "May God strike dead, Nevena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "бог да убие Невено,",
+       "lat": "bog da ubie Neveno,",
+       "en": "may God strike dead, Nevena,",
+       "en_mt": false
+      },
+      {
+       "cyr": "твоите стари кумови, леле,",
+       "lat": "tvoite stari kumovi, lele,",
+       "en": "your old godparents, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "твоите стари кумови.",
+       "lat": "tvoite stari kumovi.",
+       "en": "your old godparents.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Бог да убие, Невено леле,",
+       "lat": "Bog da ubie, Neveno lele,",
+       "en": "May God strike dead, Nevena, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "твоите стари кумови.",
+       "lat": "tvoite stari kumovi.",
+       "en": "your old godparents;",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ш'о ти турија името,",
+       "lat": "Š'o ti turija imeto,",
+       "en": "Who gave you the name,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ш'о ти турија името,",
+       "lat": "š'o ti turija imeto,",
+       "en": "who gave you the name,",
+       "en_mt": false
+      },
+      {
+       "cyr": "името лична Невена, леле,",
+       "lat": "imeto lična Nevena, lele,",
+       "en": "the name of pretty Nevena, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "името лична Невена.",
+       "lat": "imeto lična Nevena.",
+       "en": "the name of pretty Nevena.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Ш'о ти турија името, леле,",
+       "lat": "Š'o ti turija imeto, lele,",
+       "en": "Who gave you the name, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "името лична Невена.",
+       "lat": "imeto lična Nevena.",
+       "en": "the name of pretty Nevena.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Невено, невен в' градина,",
+       "lat": "Neveno, neven v' gradina,",
+       "en": "Nevena, marigold in the garden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено, невен в' градина,",
+       "lat": "Neveno, neven v' gradina,",
+       "en": "Nevena, marigold in the garden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено една на мајка, леле,",
+       "lat": "Neveno edna na majka, lele,",
+       "en": "Nevena, mother’s only daughter, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено една на татко.",
+       "lat": "Neveno edna na tatko.",
+       "en": "Nevena, father’s only daughter.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено една на мајка, леле,",
+       "lat": "Neveno edna na majka, lele,",
+       "en": "Nevena, mother’s only daughter, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Невено една на татко.",
+       "lat": "Neveno edna na tatko.",
+       "en": "Nevena, father’s only daughter.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како ш'о вене невен в' градина,",
+       "lat": "Kako š'o vene neven v' gradina,",
+       "en": "As the marigold withers in the garden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "како ш'о вене невен в' градина,",
+       "lat": "kako š'o vene neven v' gradina,",
+       "en": "as the marigold withers in the garden,",
+       "en_mt": false
+      },
+      {
+       "cyr": "така да венат момчиња, леле,",
+       "lat": "taka da venat momčinja, lele,",
+       "en": "may the boys wither, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по наш'та лична Невена.",
+       "lat": "po naš'ta lična Nevena.",
+       "en": "for our pretty Nevena.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Така да венат момчиња, леле,",
+       "lat": "Taka da venat momčinja, lele,",
+       "en": "May the boys wither, lele,",
+       "en_mt": false
+      },
+      {
+       "cyr": "по наш'та лична Невена.",
+       "lat": "po naš'ta lična Nevena.",
+       "en": "for our pretty Nevena.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

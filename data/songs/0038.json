@@ -1,0 +1,126 @@
+{
+ "id": 38,
+ "slug": "vodarki",
+ "title_cyr": "Водарки",
+ "title_latin": "Vodarki",
+ "title_en": "Girls went to fetch water",
+ "pesna_url": "https://pesna.org/song/38",
+ "background": "Songs of the evening water-carrying hour, when the village girls came to the well with their coloured jugs. It was also a socially accepted place for courtship. The girls pick flowers on the way home; Dafina picks a bouquet of damask roses.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Weber-Karn)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/461"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mixed",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Моми за вода одеа)",
+       "lat": "(Momi za voda odea)",
+       "en": "(Girls went to fetch water)",
+       "en_mt": true
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Моми на вода одеа,",
+       "lat": "Momi na voda odea,",
+       "en": "Girls went to fetch water",
+       "en_mt": false
+      },
+      {
+       "cyr": "со тие стомни шарени.",
+       "lat": "so tie stomni šareni.",
+       "en": "with their colourful jugs.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Темна ги вечер затече,",
+       "lat": "Temna gi večer zateče,",
+       "en": "The dark of the evening came flowing by,",
+       "en_mt": false
+      },
+      {
+       "cyr": "стомни им корен фанаа.",
+       "lat": "stomni im koren fanaa.",
+       "en": "the jugs got caught in the roots.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Темна ги вечер затече,",
+       "lat": "Temna gi večer zateče,",
+       "en": "The dark of the evening came flowing by,",
+       "en_mt": false
+      },
+      {
+       "cyr": "стомни им корен фанаа.",
+       "lat": "stomni im koren fanaa.",
+       "en": "the jugs got caught in the roots.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Пеејќи песни убави,",
+       "lat": "Peejḱi pesni ubavi,",
+       "en": "They sang beautiful songs,",
+       "en_mt": false
+      },
+      {
+       "cyr": "берејќи цвеќе шарено.",
+       "lat": "berejḱi cveḱe šareno.",
+       "en": "picked colourful flowers.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите ми моми набрале,",
+       "lat": "Site mi momi nabrale,",
+       "en": "While the girls picked",
+       "en_mt": false
+      },
+      {
+       "cyr": "планинско цвеќе убаво.",
+       "lat": "planinsko cveḱe ubavo.",
+       "en": "pretty mountain flowers,",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дафина мома набрала,",
+       "lat": "Dafina moma nabrala,",
+       "en": "the girl Dafina picked",
+       "en_mt": false
+      },
+      {
+       "cyr": "алова китка трендафил.",
+       "lat": "alova kitka trendafil.",
+       "en": "A bouquet of red roses.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

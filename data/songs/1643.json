@@ -1,0 +1,184 @@
+{
+ "id": 1643,
+ "slug": "navrvila-bela-jana",
+ "title_cyr": "Наврвила бела Јана",
+ "title_latin": "Navrvila bela Jana",
+ "title_en": "White Jana went to the vineyard",
+ "pesna_url": "https://pesna.org/song/1643",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Visóka"
+ ],
+ "audio": [
+  {
+   "who": "Visóka",
+   "url": "https://pesna.org/audio-download/4401"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Наврвила бела Јана",
+       "lat": "Navrvila bela Jana",
+       "en": "White Jana went",
+       "en_mt": false
+      },
+      {
+       "cyr": "да оди на лозјето.",
+       "lat": "da odi na lozjeto.",
+       "en": "to the vineyard.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Мари да набере бело грозде,",
+       "lat": "Mari da nabere belo grozde,",
+       "en": "She picked white grapes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "бело грозде и црвено.",
+       "lat": "belo grozde i crveno.",
+       "en": "white grapes and red grapes.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не набрала од нејното,",
+       "lat": "Ne nabrala od nejnoto,",
+       "en": "She didn't pick her own,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ем набрала од комшиско.",
+       "lat": "em nabrala od komšisko.",
+       "en": "she picked her neighbor's.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Море виде ли ја драхатето1",
+       "lat": "More vide li ja drahateto1",
+       "en": "But the field keeper saw her",
+       "en_mt": false
+      },
+      {
+       "cyr": "фате ли ја, вржа ли ја.",
+       "lat": "fate li ja, vrža li ja.",
+       "en": "he caught her, he tied her up.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Де а чула јанината,",
+       "lat": "De a čula janinata,",
+       "en": "Jana's mother heard about it,",
+       "en_mt": false
+      },
+      {
+       "cyr": "јанината стара мајка.",
+       "lat": "janinata stara majka.",
+       "en": "Jana's old mother.",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Ој драхате, мили брате,",
+       "lat": "- Oj drahate, mili brate,",
+       "en": "- Oh, field keeper, my dear brother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ој драхате, милни брате,",
+       "lat": "oj drahate, milni brate,",
+       "en": "Oh, field keeper, my dear brother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори пушните ми бела Јана,",
+       "lat": "mori pušnite mi bela Jana,",
+       "en": "let white Jana go,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пушните ми бела Јана.",
+       "lat": "pušnite mi bela Jana.",
+       "en": "let white Jana go.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ви дадам жолти гроше,",
+       "lat": "Da vi dadam žolti groše,",
+       "en": "I will give you yellow groshes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дванадиси желти гроше,",
+       "lat": "dvanadisi želti groše,",
+       "en": "twelve yellow groshes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "дванадиси желти гроше,",
+       "lat": "dvanadisi želti groše,",
+       "en": "twelve yellow groshes,",
+       "en_mt": false
+      },
+      {
+       "cyr": "тринадиси кара гроше.",
+       "lat": "trinadisi kara groše.",
+       "en": "thirteen black groshes.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој драхате, мили брате,",
+       "lat": "- Oj drahate, mili brate,",
+       "en": "- Oh, field keeper, my dear brother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ој драхате, милни брате,",
+       "lat": "oj drahate, milni brate,",
+       "en": "Oh, field keeper, my dear brother,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мори пушните ми бела Јана,",
+       "lat": "mori pušnite mi bela Jana,",
+       "en": "let white Jana go,",
+       "en_mt": false
+      },
+      {
+       "cyr": "пушните ми бела Јана.",
+       "lat": "pušnite mi bela Jana.",
+       "en": "let white Jana go.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,219 @@
+{
+ "id": 1463,
+ "slug": "makedonsko-da-zaigrame",
+ "title_cyr": "Македонско да заиграме",
+ "title_latin": "Makedonsko da zaigrame",
+ "title_en": "Let Us Dance the Macedonian",
+ "pesna_url": "https://pesna.org/song/1463",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern folk-style song; origin unclear (no author I can name). 'Дај' before a plural verb is an urging particle, 'come on'.",
+ "words_to_learn": [
+  {
+   "mk": "векови",
+   "en": "centuries"
+  },
+  {
+   "mk": "оро",
+   "en": "round dance"
+  },
+  {
+   "mk": "маки",
+   "en": "troubles, hardships"
+  },
+  {
+   "mk": "кавал",
+   "en": "kaval (end-blown flute)"
+  },
+  {
+   "mk": "гајда",
+   "en": "bagpipe"
+  },
+  {
+   "mk": "зурла",
+   "en": "zurla (loud double-reed pipe)"
+  },
+  {
+   "mk": "тапан",
+   "en": "tapan (large drum)"
+  },
+  {
+   "mk": "засвирете",
+   "en": "start playing (plural)"
+  },
+  {
+   "mk": "песнопојци",
+   "en": "singers"
+  },
+  {
+   "mk": "играорци",
+   "en": "dancers"
+  }
+ ],
+ "performers": [
+  "Јордан Митев"
+ ],
+ "audio": [
+  {
+   "who": "Јордан Митев",
+   "url": "https://pesna.org/audio-download/3758"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Со векови сме играле,",
+       "lat": "So vekovi sme igrale,",
+       "en": "For centuries we have danced,"
+      },
+      {
+       "cyr": "со векови сме пееле",
+       "lat": "so vekovi sme peele",
+       "en": "for centuries we have sung,"
+      },
+      {
+       "cyr": "и со песна и со оро,",
+       "lat": "i so pesna i so oro,",
+       "en": "both with song and with dance"
+      },
+      {
+       "cyr": "маки сме заборавале.",
+       "lat": "maki sme zaboravale.",
+       "en": "we have forgotten our troubles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кавали, гајди, дај засвирете",
+       "lat": "Kavali, gajdi, daj zasvirete",
+       "en": "Shepherd's flutes, bagpipes, come on, play,"
+      },
+      {
+       "cyr": "песна македонска да запееме.",
+       "lat": "pesna makedonska da zapeeme.",
+       "en": "let us sing a Macedonian song."
+      },
+      {
+       "cyr": "Да се чуе на сите страни, еј македонски",
+       "lat": "Da se čue na site strani, ej makedonski",
+       "en": "Let it be heard on all sides, hey Macedonian"
+      },
+      {
+       "cyr": "села, полиња и градови,",
+       "lat": "sela, polinja i gradovi,",
+       "en": "villages, fields and towns,"
+      },
+      {
+       "cyr": "до високите планини.",
+       "lat": "do visokite planini.",
+       "en": "up to the high mountains."
+      },
+      {
+       "cyr": "Зурли и тапани дај загрмете,",
+       "lat": "Zurli i tapani daj zagrmete,",
+       "en": "Zurlas and drums, come on, thunder,"
+      },
+      {
+       "cyr": "земја македонска да се затресе,",
+       "lat": "zemja makedonska da se zatrese,",
+       "en": "let the Macedonian land shake,"
+      },
+      {
+       "cyr": "тешко оро македонско да заиграме,",
+       "lat": "teško oro makedonsko da zaigrame,",
+       "en": "let us dance the heavy Macedonian dance,"
+      },
+      {
+       "cyr": "тешки маки македонски да заборавиме.",
+       "lat": "teški maki makedonski da zaboravime.",
+       "en": "let us forget the heavy Macedonian troubles."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Под ова небо македонско,",
+       "lat": "Pod ova nebo makedonsko,",
+       "en": "Under this Macedonian sky,"
+      },
+      {
+       "cyr": "во оваа земја убава,",
+       "lat": "vo ovaa zemja ubava,",
+       "en": "in this beautiful land,"
+      },
+      {
+       "cyr": "песнопојци, играорци,",
+       "lat": "pesnopojci, igraorci,",
+       "en": "singers and dancers"
+      },
+      {
+       "cyr": "секогаш се раѓале.",
+       "lat": "sekogaš se raǵale.",
+       "en": "have always been born."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кавали, гајди, дај засвирете",
+       "lat": "Kavali, gajdi, daj zasvirete",
+       "en": "Shepherd's flutes, bagpipes, come on, play,"
+      },
+      {
+       "cyr": "песна македонска да запееме.",
+       "lat": "pesna makedonska da zapeeme.",
+       "en": "let us sing a Macedonian song."
+      },
+      {
+       "cyr": "Да се чуе на сите страни, еј македонски",
+       "lat": "Da se čue na site strani, ej makedonski",
+       "en": "Let it be heard on all sides, hey Macedonian"
+      },
+      {
+       "cyr": "села, полиња и градови,",
+       "lat": "sela, polinja i gradovi,",
+       "en": "villages, fields and towns,"
+      },
+      {
+       "cyr": "до високите планини.",
+       "lat": "do visokite planini.",
+       "en": "up to the high mountains."
+      },
+      {
+       "cyr": "Зурли и тапани дај загрмете,",
+       "lat": "Zurli i tapani daj zagrmete,",
+       "en": "Zurlas and drums, come on, thunder,"
+      },
+      {
+       "cyr": "земја македонска да се затресе,",
+       "lat": "zemja makedonska da se zatrese,",
+       "en": "let the Macedonian land shake,"
+      },
+      {
+       "cyr": "тешко оро македонско да заиграме,",
+       "lat": "teško oro makedonsko da zaigrame,",
+       "en": "let us dance the heavy Macedonian dance,"
+      },
+      {
+       "cyr": "тешки маки македонски да заборавиме.",
+       "lat": "teški maki makedonski da zaboravime.",
+       "en": "let us forget the heavy Macedonian troubles."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

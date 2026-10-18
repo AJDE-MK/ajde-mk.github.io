@@ -1,0 +1,254 @@
+{
+ "id": 57,
+ "slug": "razvivaj-goro-goro-zelena",
+ "title_cyr": "Развивај горо, горо зелена",
+ "title_latin": "Razvivaj goro, goro zelena",
+ "title_en": "Unfurl, green forest",
+ "pesna_url": "https://pesna.org/song/57",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin noted as Demir Hisar region. The last stanza's 'малике (маликера)' I read as a Mannlicher rifle, and the last two lines are my reading (the hero threatens the eagle with the rifle); 'испија' read as 'drink out'.",
+ "words_to_learn": [
+  {
+   "mk": "развивај",
+   "en": "unfurl, leaf out"
+  },
+  {
+   "mk": "извирај",
+   "en": "spring forth, gush"
+  },
+  {
+   "mk": "јуначе",
+   "en": "young hero (dim.)"
+  },
+  {
+   "mk": "куршумени",
+   "en": "from bullets"
+  },
+  {
+   "mk": "штико",
+   "en": "bayonet"
+  },
+  {
+   "mk": "орлица",
+   "en": "female eagle"
+  },
+  {
+   "mk": "аман",
+   "en": "alas, mercy (interjection)"
+  },
+  {
+   "mk": "тргни се",
+   "en": "move away, get back"
+  }
+ ],
+ "performers": [
+  "Благојка Бадњикова",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Благојка Бадњикова, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3007"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Сета ми гора развила)",
+       "lat": "(Seta mi gora razvila)",
+       "en": "(The whole forest has leafed out)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Развивај горо, горо зелена, аман, аман,",
+       "lat": "Razvivaj goro, goro zelena, aman, aman,",
+       "en": "Unfurl, forest, green forest, aman, aman,"
+      },
+      {
+       "cyr": "извирај водо, водо студена, аман, аман.",
+       "lat": "izviraj vodo, vodo studena, aman, aman.",
+       "en": "spring forth, water, cold water, aman, aman."
+      },
+      {
+       "cyr": "Сите ми дрва, све ми развиле, аман, аман,",
+       "lat": "Site mi drva, sve mi razvile, aman, aman,",
+       "en": "All the trees have all leafed out, aman, aman,"
+      },
+      {
+       "cyr": "само едно дрво не ми развило, аман, аман.",
+       "lat": "samo edno drvo ne mi razvilo, aman, aman.",
+       "en": "only one tree has not leafed out, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Под него лежи младо јуначе, аман, аман,",
+       "lat": "Pod nego leži mlado junače, aman, aman,",
+       "en": "Under it lies a young hero, aman, aman,"
+      },
+      {
+       "cyr": "младо јуначе со десет рани, аман, аман.",
+       "lat": "mlado junače so deset rani, aman, aman.",
+       "en": "a young hero with ten wounds, aman, aman."
+      },
+      {
+       "cyr": "Девет рани све куршумени, аман, аман,",
+       "lat": "Devet rani sve kuršumeni, aman, aman,",
+       "en": "Nine wounds all from bullets, aman, aman,"
+      },
+      {
+       "cyr": "само една рана штико бодена, аман, аман.",
+       "lat": "samo edna rana štiko bodena, aman, aman.",
+       "en": "only one wound pierced by a bayonet, aman, aman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над него лета сива орлица, аман, аман,",
+       "lat": "Nad nego leta siva orlica, aman, aman,",
+       "en": "Above him flies a gray eagle, aman, aman,"
+      },
+      {
+       "cyr": "сива орлица, проклета птица, аман, аман.",
+       "lat": "siva orlica, prokleta ptica, aman, aman.",
+       "en": "a gray eagle, cursed bird, aman, aman."
+      },
+      {
+       "cyr": "- „Ја умри, умри младо јуначе, аман, аман,",
+       "lat": "- „Ja umri, umri mlado junače, aman, aman,",
+       "en": "- \"Go on, die, die, young hero, aman, aman,"
+      },
+      {
+       "cyr": "да ти испија црните очи, аман, аман,",
+       "lat": "da ti ispija crnite oči, aman, aman,",
+       "en": "so I can drink out your black eyes, aman, aman,"
+      },
+      {
+       "cyr": "да ти исколва белото ти лице“!",
+       "lat": "da ti iskolva beloto ti lice“!",
+       "en": "so I can peck out your white face\"!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сета ми гора, гора развила",
+       "lat": "Seta mi gora, gora razvila",
+       "en": "The whole forest, the forest has leafed out,"
+      },
+      {
+       "cyr": "само едно дрво, не ми развило.",
+       "lat": "samo edno drvo, ne mi razvilo.",
+       "en": "only one tree has not leafed out."
+      },
+      {
+       "cyr": "Под дрво лежи млад ранет јунак,",
+       "lat": "Pod drvo leži mlad ranet junak,",
+       "en": "Under the tree lies a young wounded hero,"
+      },
+      {
+       "cyr": "млад ранет јунак, сос девет рани.",
+       "lat": "mlad ranet junak, sos devet rani.",
+       "en": "a young wounded hero with nine wounds."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До девет рани, све куршумлии,",
+       "lat": "Do devet rani, sve kuršumlii,",
+       "en": "Nine wounds, all from bullets,"
+      },
+      {
+       "cyr": "десетта рана со нож прободена.",
+       "lat": "desetta rana so nož probodena.",
+       "en": "the tenth wound pierced with a knife."
+      },
+      {
+       "cyr": "На дрво стои црна орлица",
+       "lat": "Na drvo stoi crna orlica",
+       "en": "On the tree sits a black eagle"
+      },
+      {
+       "cyr": "и на јунакот тихо продума:",
+       "lat": "i na junakot tiho produma:",
+       "en": "and quietly speaks to the hero:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Умри си, умри младо јуначе,",
+       "lat": "- Umri si, umri mlado junače,",
+       "en": "- Die, die, young hero,"
+      },
+      {
+       "cyr": "да ти испија црните очи!",
+       "lat": "da ti ispija crnite oči!",
+       "en": "so I can drink out your black eyes!"
+      },
+      {
+       "cyr": "Млад ранет јунак тихо продума:",
+       "lat": "Mlad ranet junak tiho produma:",
+       "en": "The young wounded hero quietly speaks:"
+      },
+      {
+       "cyr": "- Тргни се тргни, црна орлице!",
+       "lat": "- Trgni se trgni, crna orlice!",
+       "en": "- Move away, move away, black eagle!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Тргни се тргни, црна орлице,",
+       "lat": "- Trgni se trgni, crna orlice,",
+       "en": "- Move away, move away, black eagle,"
+      },
+      {
+       "cyr": "да не си зема, пушка малике (маликера).",
+       "lat": "da ne si zema, puška malike (malikera).",
+       "en": "so that you do not take it, the Mannlicher rifle (maliker)."
+      },
+      {
+       "cyr": "Да не си зема, пушка малике",
+       "lat": "Da ne si zema, puška malike",
+       "en": "So that you do not take it, the rifle,"
+      },
+      {
+       "cyr": "да ти убија клетото срце!",
+       "lat": "da ti ubija kletoto srce!",
+       "en": "so that it kills your cursed heart!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

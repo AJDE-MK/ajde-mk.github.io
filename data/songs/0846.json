@@ -1,0 +1,251 @@
+{
+ "id": 846,
+ "slug": "pavle-mi-pie",
+ "title_cyr": "Павле ми пие",
+ "title_latin": "Pavle mi pie",
+ "title_en": "Pavle is drinking",
+ "pesna_url": "https://pesna.org/song/846",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Адријана Алачки",
+  "Борче Крстески",
+  "Грозда Стоева",
+  "Китка",
+  "Македонски мерак",
+  "Марица Зилковска",
+  "Наум Петрески",
+  "Непознат изведувач",
+  "Перса Николова",
+  "Перун",
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Македонски мерак",
+   "url": "https://pesna.org/audio-download/1826"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1827"
+  },
+  {
+   "who": "Китка",
+   "url": "https://pesna.org/audio-download/1828"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1829"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/2830"
+  },
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/3481"
+  },
+  {
+   "who": "Марица Зилковска, Перса Николова",
+   "url": "https://pesna.org/audio-download/3482"
+  },
+  {
+   "who": "Борче Крстески, Грозда Стоева",
+   "url": "https://pesna.org/audio-download/3483"
+  },
+  {
+   "who": "Адријана Алачки",
+   "url": "https://pesna.org/audio-download/3484"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Павле ми пие, Павле ми пие",
+       "lat": "Pavle mi pie, Pavle mi pie",
+       "en": "Pavle is drinking, Pavle is drinking,"
+      },
+      {
+       "cyr": "вино ем ракија, вино ем ракија.",
+       "lat": "vino em rakija, vino em rakija.",
+       "en": "wine and brandy, wine and brandy."
+      },
+      {
+       "cyr": "Море тој ми испил",
+       "lat": "More toj mi ispil",
+       "en": "He already drank"
+      },
+      {
+       "cyr": "три илјади гроша.",
+       "lat": "tri iljadi groša.",
+       "en": "three thousand Groschen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден седи Павле море,",
+       "lat": "Vezden sedi Pavle more,",
+       "en": "Pavle sits all day"
+      },
+      {
+       "cyr": "во ладна меана,",
+       "lat": "vo ladna meana,",
+       "en": "in the cold tavern,"
+      },
+      {
+       "cyr": "вино пие, ем лута ракија.",
+       "lat": "vino pie, em luta rakija.",
+       "en": "drinking wine and strong spirits."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога дојде време",
+       "lat": "Koga dojde vreme",
+       "en": "When the time came"
+      },
+      {
+       "cyr": "вино да се плати,",
+       "lat": "vino da se plati,",
+       "en": "to pay for the wine,"
+      },
+      {
+       "cyr": "Павле пари нема.",
+       "lat": "Pavle pari nema.",
+       "en": "Pavle has no money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден седи Павле море,",
+       "lat": "Vezden sedi Pavle more,",
+       "en": "Pavle sits all day"
+      },
+      {
+       "cyr": "во ладна меана,",
+       "lat": "vo ladna meana,",
+       "en": "in the cold tavern,"
+      },
+      {
+       "cyr": "вино пие, ем лута ракија.",
+       "lat": "vino pie, em luta rakija.",
+       "en": "drinking wine and strong spirits."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде проговара, проговара,",
+       "lat": "Ajde progovara, progovara,",
+       "en": "The young landlord's wife"
+      },
+      {
+       "cyr": "млада меанџика:",
+       "lat": "mlada meandžika:",
+       "en": "says:"
+      },
+      {
+       "cyr": "- Море ја продај си",
+       "lat": "- More ja prodaj si",
+       "en": "- You better sell"
+      },
+      {
+       "cyr": "твоја брза коња,",
+       "lat": "tvoja brza konja,",
+       "en": "your fast horse"
+      },
+      {
+       "cyr": "вино да си платиш!",
+       "lat": "vino da si platiš!",
+       "en": "to pay for the wine!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден седи Павле море,",
+       "lat": "Vezden sedi Pavle more,",
+       "en": "Pavle sits all day"
+      },
+      {
+       "cyr": "во ладна меана,",
+       "lat": "vo ladna meana,",
+       "en": "in the cold tavern,"
+      },
+      {
+       "cyr": "вино пие ем лута ракија.",
+       "lat": "vino pie em luta rakija.",
+       "en": "drinking wine and strong spirits."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дејгиди Павле,",
+       "lat": "Dejgidi Pavle,",
+       "en": "Hey Pavle,"
+      },
+      {
+       "cyr": "Павле пијаница.",
+       "lat": "Pavle pijanica.",
+       "en": "drunkard Pavle."
+      },
+      {
+       "cyr": "Дејгиди Павле,",
+       "lat": "Dejgidi Pavle,",
+       "en": "Hey Pavle,"
+      },
+      {
+       "cyr": "зошто вино пиеш",
+       "lat": "zošto vino pieš",
+       "en": "why do you drink wine"
+      },
+      {
+       "cyr": "кога пари немаш?",
+       "lat": "koga pari nemaš?",
+       "en": "when you have no money?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Везден седи Павле море,",
+       "lat": "Vezden sedi Pavle more,",
+       "en": "Pavle sits all day"
+      },
+      {
+       "cyr": "во ладна меана,",
+       "lat": "vo ladna meana,",
+       "en": "in the cold tavern,"
+      },
+      {
+       "cyr": "вино пие ем лута ракија.",
+       "lat": "vino pie em luta rakija.",
+       "en": "drinking wine and strong spirits."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

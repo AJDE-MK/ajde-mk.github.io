@@ -1,0 +1,121 @@
+{
+ "id": 872,
+ "slug": "stojne-le-stojne-nevesto",
+ "title_cyr": "Стојне ле, Стојне невесто",
+ "title_latin": "Stojne le, Stojne nevesto",
+ "title_en": "Stojna, hey Stojna the bride",
+ "pesna_url": "https://pesna.org/song/872",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear. The speaker of line 6 is the bride; 'ти си си лудо женето' is my reading: 'you are silly, you are a married one'.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "заврте оро",
+   "en": "lead/turn the dance"
+  },
+  {
+   "mk": "лицето",
+   "en": "the face"
+  },
+  {
+   "mk": "фајде",
+   "en": "benefit, use"
+  },
+  {
+   "mk": "женето",
+   "en": "married (one)"
+  },
+  {
+   "mk": "дадено",
+   "en": "given away (in marriage)"
+  },
+  {
+   "mk": "машко детенце",
+   "en": "little baby boy"
+  },
+  {
+   "mk": "леле",
+   "en": "oh, alas (refrain)"
+  }
+ ],
+ "performers": [
+  "Непознат изведувач"
+ ],
+ "audio": [
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/1908"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Стојне ле, Стојне невесто, леле,",
+       "lat": "- Stojne le, Stojne nevesto, lele,",
+       "en": "- Stojna, hey Stojna the bride, lele,"
+      },
+      {
+       "cyr": "заврте оро кај мене, леле.",
+       "lat": "zavrte oro kaj mene, lele.",
+       "en": "lead the dance over to me, lele."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти го видам лицето, леле,",
+       "lat": "Da ti go vidam liceto, lele,",
+       "en": "Let me see your face, lele,"
+      },
+      {
+       "cyr": "дали е бело, црвено, леле.",
+       "lat": "dali e belo, crveno, lele.",
+       "en": "whether it is white or red, lele."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да го видеш, фајде немаш, леле,",
+       "lat": "- I da go videš, fajde nemaš, lele,",
+       "en": "- Even if you see it, you gain nothing, lele,"
+      },
+      {
+       "cyr": "ти си си лудо женето, леле.",
+       "lat": "ti si si ludo ženeto, lele.",
+       "en": "you are a silly one, already wed, lele."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас сум си, моме дадено, леле,",
+       "lat": "Jas sum si, mome dadeno, lele,",
+       "en": "- I am, girl, already given away, lele,"
+      },
+      {
+       "cyr": "имам си машко детенце, леле.",
+       "lat": "imam si maško detence, lele.",
+       "en": "I have a little baby boy, lele."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

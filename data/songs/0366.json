@@ -1,0 +1,154 @@
+{
+ "id": 366,
+ "slug": "meani-meani",
+ "title_cyr": "Меани, меани",
+ "title_latin": "Meani, meani",
+ "title_en": "Taverns, Taverns",
+ "pesna_url": "https://pesna.org/song/366",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. I treated this as an urban tavern folk song; I could not confirm it has no known author. 'Пеачки' as singing girls is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "меана",
+   "en": "tavern, inn"
+  },
+  {
+   "mk": "пеачки",
+   "en": "singing girls"
+  },
+  {
+   "mk": "витки",
+   "en": "slender"
+  },
+  {
+   "mk": "разболеа",
+   "en": "made (me) sick"
+  },
+  {
+   "mk": "саноќ",
+   "en": "all night"
+  },
+  {
+   "mk": "ракија",
+   "en": "brandy"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "заборави",
+   "en": "forgot"
+  }
+ ],
+ "performers": [
+  "Марјан Коцев",
+  "Пепи Бафтировски"
+ ],
+ "audio": [
+  {
+   "who": "Марјан Коцев",
+   "url": "https://pesna.org/audio-download/2095"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/2118"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Меаните, мајко ле, ме запустија,",
+       "lat": "Meanite, majko le, me zapustija,",
+       "en": "The taverns, mother dear, have ruined me,"
+      },
+      {
+       "cyr": "тие витки пеачки ме разболеа.",
+       "lat": "tie vitki peački me razbolea.",
+       "en": "those slender singing girls have made me sick."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меани, меани, што ми сторивте,",
+       "lat": "Meani, meani, što mi storivte,",
+       "en": "Taverns, taverns, what have you done to me,"
+      },
+      {
+       "cyr": "животот меани ми го зедовте.",
+       "lat": "životot meani mi go zedovte.",
+       "en": "you taverns have taken my life from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цел ноќ седам в' меана, саноќ си пијам,",
+       "lat": "Cel noḱ sedam v' meana, sanoḱ si pijam,",
+       "en": "All night I sit in the tavern, all night I drink,"
+      },
+      {
+       "cyr": "песна, свирка сал слушам и се веселам.",
+       "lat": "pesna, svirka sal slušam i se veselam.",
+       "en": "I only listen to song and playing and make merry."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меани, меани, што ми сторивте,",
+       "lat": "Meani, meani, što mi storivte,",
+       "en": "Taverns, taverns, what have you done to me,"
+      },
+      {
+       "cyr": "животот меани ми го зедовте.",
+       "lat": "životot meani mi go zedovte.",
+       "en": "you taverns have taken my life from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Либето ме остави, ме заборави,",
+       "lat": "Libeto me ostavi, me zaboravi,",
+       "en": "My sweetheart left me, forgot me,"
+      },
+      {
+       "cyr": "сè за таа ракија, што ми направи.",
+       "lat": "sè za taa rakija, što mi napravi.",
+       "en": "all because of that brandy, what it did to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Меани, меани, што ми сторивте,",
+       "lat": "Meani, meani, što mi storivte,",
+       "en": "Taverns, taverns, what have you done to me,"
+      },
+      {
+       "cyr": "животот меани ми го зедовте.",
+       "lat": "životot meani mi go zedovte.",
+       "en": "you taverns have taken my life from me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

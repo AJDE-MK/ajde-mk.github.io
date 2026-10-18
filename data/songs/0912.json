@@ -1,0 +1,201 @@
+{
+ "id": 912,
+ "slug": "ej-ridovi-sini-morinja",
+ "title_cyr": "Еј ридови, сини мориња",
+ "title_latin": "Ej ridovi, sini morinja",
+ "title_en": "Hey Hills, Blue Seas",
+ "pesna_url": "https://pesna.org/song/912",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: no author I can name. Line 2 ('не кревај магли, силни јадови') and 'во градиве едра' in line 10 are my reading.",
+ "words_to_learn": [
+  {
+   "mk": "ридови",
+   "en": "hills"
+  },
+  {
+   "mk": "мориња",
+   "en": "seas"
+  },
+  {
+   "mk": "кораби",
+   "en": "ships"
+  },
+  {
+   "mk": "едра",
+   "en": "sails"
+  },
+  {
+   "mk": "огнови",
+   "en": "fires"
+  },
+  {
+   "mk": "магли",
+   "en": "mists, fogs"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, troubles"
+  },
+  {
+   "mk": "згрешам",
+   "en": "I err, make a mistake"
+  }
+ ],
+ "performers": [
+  "Александар Цветковски",
+  "Арија бенд",
+  "Виктор Синадиноски",
+  "Влатко Лозаноски",
+  "Димитар Димитров",
+  "Каролина Гочева",
+  "Пепи Бафтировски",
+  "Цуле",
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2019"
+  },
+  {
+   "who": "Арија бенд",
+   "url": "https://pesna.org/audio-download/2020"
+  },
+  {
+   "who": "Александар Цветковски",
+   "url": "https://pesna.org/audio-download/2021"
+  },
+  {
+   "who": "Цуле",
+   "url": "https://pesna.org/audio-download/2022"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2520"
+  },
+  {
+   "who": "Каролина Гочева",
+   "url": "https://pesna.org/audio-download/2582"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/3049"
+  },
+  {
+   "who": "Димитар Димитров",
+   "url": "https://pesna.org/audio-download/3050"
+  },
+  {
+   "who": "Виктор Синадиноски",
+   "url": "https://pesna.org/audio-download/3794"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ти не плачи мајко што сум далеку и сам,",
+       "lat": "Ti ne plači majko što sum daleku i sam,",
+       "en": "Do not cry, mother, that I am far away and alone,"
+      },
+      {
+       "cyr": "и не кревај магли, силни јадови,",
+       "lat": "i ne krevaj magli, silni jadovi,",
+       "en": "and do not raise mists, mighty sorrows,"
+      },
+      {
+       "cyr": "својот пат, затрупан, сеуште го знам,",
+       "lat": "svojot pat, zatrupan, seušte go znam,",
+       "en": "my road, buried, I still know,"
+      },
+      {
+       "cyr": "ако згрешам, нека изгорам.",
+       "lat": "ako zgrešam, neka izgoram.",
+       "en": "if I err, let me burn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј ридови, сини мориња,",
+       "lat": "Ej ridovi, sini morinja,",
+       "en": "Hey hills, blue seas,"
+      },
+      {
+       "cyr": "сам ќе морам да ве пробијам,",
+       "lat": "sam ḱe moram da ve probijam,",
+       "en": "I will have to break through you alone,"
+      },
+      {
+       "cyr": "еј кораби, назад пловете,",
+       "lat": "ej korabi, nazad plovete,",
+       "en": "hey ships, sail back,"
+      },
+      {
+       "cyr": "ако згрешам, нека изгорам.",
+       "lat": "ako zgrešam, neka izgoram.",
+       "en": "if I err, let me burn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе препливам води, назад ќе се вратам пак,",
+       "lat": "Ḱe preplivam vodi, nazad ḱe se vratam pak,",
+       "en": "I will swim across waters, I will come back again,"
+      },
+      {
+       "cyr": "во градиве едра, распнувам за пат,",
+       "lat": "vo gradive edra, raspnuvam za pat,",
+       "en": "in this town I raise sails for the journey,"
+      },
+      {
+       "cyr": "огнови високи, сам ќе изодам,",
+       "lat": "ognovi visoki, sam ḱe izodam,",
+       "en": "high fires, I will walk through alone,"
+      },
+      {
+       "cyr": "ако згрешам, нека изгорам.",
+       "lat": "ako zgrešam, neka izgoram.",
+       "en": "if I err, let me burn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј ридови, сини мориња,",
+       "lat": "Ej ridovi, sini morinja,",
+       "en": "Hey hills, blue seas,"
+      },
+      {
+       "cyr": "сам ќе морам да ве пробијам,",
+       "lat": "sam ḱe moram da ve probijam,",
+       "en": "I will have to break through you alone,"
+      },
+      {
+       "cyr": "еј кораби, назад пловете,",
+       "lat": "ej korabi, nazad plovete,",
+       "en": "hey ships, sail back,"
+      },
+      {
+       "cyr": "ако згрешам, нека изгорам.",
+       "lat": "ako zgrešam, neka izgoram.",
+       "en": "if I err, let me burn."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

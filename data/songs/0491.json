@@ -1,0 +1,230 @@
+{
+ "id": 491,
+ "slug": "poslushajte-patrioti",
+ "title_cyr": "Послушајте патриоти",
+ "title_latin": "Poslušajte patrioti",
+ "title_en": "Listen up patriots",
+ "pesna_url": "https://pesna.org/song/491",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Марио Христовски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Митевски",
+  "Ансамбл Билјана",
+  "Бански старчета",
+  "Зоран Џорлев",
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Сашо Гигов - Гиш"
+ ],
+ "audio": [
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/628"
+  },
+  {
+   "who": "Сашо Гигов - Гиш",
+   "url": "https://pesna.org/audio-download/629"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/630"
+  },
+  {
+   "who": "Бански старчета",
+   "url": "https://pesna.org/audio-download/631"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/632"
+  },
+  {
+   "who": "Александар Митевски",
+   "url": "https://pesna.org/audio-download/633"
+  },
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/3778"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Послушајте патриоти",
+       "lat": "Poslušajte patrioti",
+       "en": "Listen up patriots,",
+       "en_mt": false
+      },
+      {
+       "cyr": "да ви кажам словото,",
+       "lat": "da vi kažam slovoto,",
+       "en": "so that I can tell you clearly:",
+       "en_mt": false
+      },
+      {
+       "cyr": "на Ѓурѓовден бев затворен,",
+       "lat": "na Ǵurǵovden bev zatvoren,",
+       "en": "I was locked up on St. George's Day",
+       "en_mt": false
+      },
+      {
+       "cyr": "в' црни темни зандани.",
+       "lat": "v' crni temni zandani.",
+       "en": "in black, dark dungeons.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во зандани бев предаден",
+       "lat": "Vo zandani bev predaden",
+       "en": "In the dungeons I was betrayed",
+       "en_mt": false
+      },
+      {
+       "cyr": "од проклети шпиони.",
+       "lat": "od prokleti špioni.",
+       "en": "because of the damned spies.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Oд проклетите шпиони,",
+       "lat": "Od prokletite špioni,",
+       "en": "Because of the damn spies",
+       "en_mt": false
+      },
+      {
+       "cyr": "неразбрани врховци.",
+       "lat": "nerazbrani vrhovci.",
+       "en": "misbehaving Vrhovists.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во зандани бев измачен",
+       "lat": "Vo zandani bev izmačen",
+       "en": "In the dungeons I was tortured,",
+       "en_mt": false
+      },
+      {
+       "cyr": "ниту вода ниту леб,",
+       "lat": "nitu voda nitu leb,",
+       "en": "neither water, nor bread,",
+       "en_mt": false
+      },
+      {
+       "cyr": "телото ми потемнело,",
+       "lat": "teloto mi potemnelo,",
+       "en": "my body darkened,",
+       "en_mt": false
+      },
+      {
+       "cyr": "долга риза до земја.",
+       "lat": "dolga riza do zemja.",
+       "en": "a long shirt to the floor.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, немој да ме мачејте,",
+       "lat": "Ah, nemoj da me mačejte,",
+       "en": "- Come on, don't torture me",
+       "en_mt": false
+      },
+      {
+       "cyr": "јас сум невин како цвет.",
+       "lat": "jas sum nevin kako cvet.",
+       "en": "I am as innocent as a flower.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сум се борел за слобода,",
+       "lat": "Sum se borel za sloboda,",
+       "en": "I have fought for freedom,",
+       "en_mt": false
+      },
+      {
+       "cyr": "за човечки правдини.",
+       "lat": "za čovečki pravdini.",
+       "en": "for humans rights.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ах, да знае мојта мајка",
+       "lat": "Ah, da znae mojta majka",
+       "en": "Oh, if only my mother knew,",
+       "en_mt": false
+      },
+      {
+       "cyr": "гробот да ми ископа.",
+       "lat": "grobot da mi iskopa.",
+       "en": "to dig up my grave.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Гробот да ми го ископа",
+       "lat": "Grobot da mi go iskopa",
+       "en": "To dig up my grave",
+       "en_mt": false
+      },
+      {
+       "cyr": "спрема јасното сонце.",
+       "lat": "sprema jasnoto sonce.",
+       "en": "towards the clear Sun.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И на гробот да напише:",
+       "lat": "I na grobot da napiše:",
+       "en": "And on the grave she should write:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- „Тук' почива маченик,",
+       "lat": "- „Tuk' počiva mačenik,",
+       "en": "- \"Here lies a martyr.",
+       "en_mt": false
+      },
+      {
+       "cyr": "тук' почива Александро",
+       "lat": "tuk' počiva Aleksandro",
+       "en": "Here lies Alexander",
+       "en_mt": false
+      },
+      {
+       "cyr": "Караѓуле Охридски“.",
+       "lat": "Karaǵule Ohridski“.",
+       "en": "Karagjule from Ohrid\".",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

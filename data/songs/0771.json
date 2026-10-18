@@ -1,0 +1,156 @@
+{
+ "id": 771,
+ "slug": "so-jabolko-frli",
+ "title_cyr": "Со јаболко фрли",
+ "title_latin": "So jabolko frli",
+ "title_en": "Throw an Apple",
+ "pesna_url": "https://pesna.org/song/771",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. The title 'Со јаболко фрли' has a missing subject; I read the third stanza as the girl's voice and the apple as thrown by the young man (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "кара",
+   "en": "scolds"
+  },
+  {
+   "mk": "повечерина",
+   "en": "evening"
+  },
+  {
+   "mk": "разигруваш",
+   "en": "you make (the horse) prance"
+  },
+  {
+   "mk": "изгоруваш",
+   "en": "you burn, set on fire"
+  },
+  {
+   "mk": "јаболко",
+   "en": "apple"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace"
+  },
+  {
+   "mk": "ѕвекна",
+   "en": "jingled"
+  },
+  {
+   "mk": "текна",
+   "en": "it occurred to (her), she noticed"
+  }
+ ],
+ "performers": [
+  "Анастасиа Митровска",
+  "Билјан Стојаноски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1317"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2685"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4233"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Ангелино моме)",
+       "lat": "(Angelino mome)",
+       "en": "(Maiden Angelina)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ангелино, моме, што те мајка кара,",
+       "lat": "- Angelino, mome, što te majka kara,",
+       "en": "- Angelina, maiden, why does your mother scold you,"
+      },
+      {
+       "cyr": "што те мајка кара сè на исто време,",
+       "lat": "što te majka kara sè na isto vreme,",
+       "en": "why does your mother scold you all the time,"
+      },
+      {
+       "cyr": "сè на исто време, сè повечерина, џанам,",
+       "lat": "sè na isto vreme, sè povečerina, džanam,",
+       "en": "all the time, every evening, my dear,"
+      },
+      {
+       "cyr": "сè на исто време, сè повечерина.",
+       "lat": "sè na isto vreme, sè povečerina.",
+       "en": "all the time, every evening."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Море лудо, младо, сè заради тебе, џанам,",
+       "lat": "- More ludo, mlado, sè zaradi tebe, džanam,",
+       "en": "- You crazy young fool, all because of you, my dear,"
+      },
+      {
+       "cyr": "што ми низ двор врвиш, коња разигруваш,",
+       "lat": "što mi niz dvor vrviš, konja razigruvaš,",
+       "en": "because you ride through our yard, making your horse prance,"
+      },
+      {
+       "cyr": "коња разигруваш, мене изгоруваш, лудо,",
+       "lat": "konja razigruvaš, mene izgoruvaš, ludo,",
+       "en": "making your horse prance, setting me on fire, fool,"
+      },
+      {
+       "cyr": "коња разигруваш, мене изгоруваш.",
+       "lat": "konja razigruvaš, mene izgoruvaš.",
+       "en": "making your horse prance, setting me on fire."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Со јаболко фрли, по грло ме удри, џанам,",
+       "lat": "So jabolko frli, po grlo me udri, džanam,",
+       "en": "He threw an apple, hit me on the throat, my dear,"
+      },
+      {
+       "cyr": "ѓерданот ми ѕвекна, на мама ѝ текна,",
+       "lat": "ǵerdanot mi dzvekna, na mama ì tekna,",
+       "en": "my necklace jingled, mama noticed,"
+      },
+      {
+       "cyr": "на мама ѝ текна, мама ќе ме кара, лудо,",
+       "lat": "na mama ì tekna, mama ḱe me kara, ludo,",
+       "en": "mama noticed, mama will scold me, fool,"
+      },
+      {
+       "cyr": "мама ќе ме кара, тате ќе ме тепа.",
+       "lat": "mama ḱe me kara, tate ḱe me tepa.",
+       "en": "mama will scold me, father will beat me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

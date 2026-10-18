@@ -1,0 +1,282 @@
+{
+ "id": 1109,
+ "slug": "tebe-da-te-plenat-mome-mariovsko",
+ "title_cyr": "Тебе да те пленат, моме мариовско",
+ "title_latin": "Tebe da te plenat, mome mariovsko",
+ "title_en": "They would capture you, Mariovo girl",
+ "pesna_url": "https://pesna.org/song/1109",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Качиле' (set up / raised) in the palaces is my reading. 'Нешо' in the refrain is a name or diminutive, treated as a vocative. Traditional (Mariovo).",
+ "words_to_learn": [
+  {
+   "mk": "јанбаро",
+   "en": "granary, barn (Mariovo dialect, my reading)"
+  },
+  {
+   "mk": "седет",
+   "en": "they sit (dialect)"
+  },
+  {
+   "mk": "тровица",
+   "en": "three of them (dialect for тројца)"
+  },
+  {
+   "mk": "јеничари",
+   "en": "janissaries"
+  },
+  {
+   "mk": "беглерџии",
+   "en": "tax collectors (begluk collectors)"
+  },
+  {
+   "mk": "ушак",
+   "en": "attendant, courier"
+  },
+  {
+   "mk": "зборуваја",
+   "en": "they were speaking (dialect)"
+  },
+  {
+   "mk": "пленат",
+   "en": "they capture"
+  },
+  {
+   "mk": "сараји",
+   "en": "palaces"
+  },
+  {
+   "mk": "булки",
+   "en": "brides"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "На јанбаро седет, Недо мори,",
+       "lat": "Na janbaro sedet, Nedo mori,",
+       "en": "They are sitting at the granary, Neda hey,"
+      },
+      {
+       "cyr": "на јанбаро седет,",
+       "lat": "na janbaro sedet,",
+       "en": "they are sitting at the granary,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "до тровица Турци.",
+       "lat": "do trovica Turci.",
+       "en": "up to three Turks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "До тровица Турци, Недо мори,",
+       "lat": "Do trovica Turci, Nedo mori,",
+       "en": "Up to three Turks, Neda hey,"
+      },
+      {
+       "cyr": "до тровица Турци,",
+       "lat": "do trovica Turci,",
+       "en": "up to three Turks,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "Турци јеничари.",
+       "lat": "Turci jeničari.",
+       "en": "Janissary Turks."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци јеничари, Недо мори,",
+       "lat": "Turci jeničari, Nedo mori,",
+       "en": "Janissary Turks, Neda hey,"
+      },
+      {
+       "cyr": "Турци јеничари,",
+       "lat": "Turci jeničari,",
+       "en": "Janissary Turks,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "двајца беглерџии.",
+       "lat": "dvajca beglerdžii.",
+       "en": "two beglerdzhii (tax collectors)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Двајца беглерџии, Недо мори,",
+       "lat": "Dvajca beglerdžii, Nedo mori,",
+       "en": "Two beglerdzhii, Neda hey,"
+      },
+      {
+       "cyr": "двајца беглерџии,",
+       "lat": "dvajca beglerdžii,",
+       "en": "two beglerdzhii,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "а третио ушак.",
+       "lat": "a tretio ušak.",
+       "en": "and the third an usak (attendant)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турски зборуваја, Недо мори,",
+       "lat": "Turski zboruvaja, Nedo mori,",
+       "en": "They were speaking Turkish, Neda hey,"
+      },
+      {
+       "cyr": "турски зборуваја,",
+       "lat": "turski zboruvaja,",
+       "en": "they were speaking Turkish,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "тебе да те земат.",
+       "lat": "tebe da te zemat.",
+       "en": "to take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе да те земат, Недо мори,",
+       "lat": "Tebe da te zemat, Nedo mori,",
+       "en": "To take you, Neda hey,"
+      },
+      {
+       "cyr": "тебе да те пленат,",
+       "lat": "tebe da te plenat,",
+       "en": "to capture you,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "моме мариовско.",
+       "lat": "mome mariovsko.",
+       "en": "Mariovo girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тебе да те пленат, Недо мори,",
+       "lat": "Tebe da te plenat, Nedo mori,",
+       "en": "To capture you, Neda hey,"
+      },
+      {
+       "cyr": "тебе да те носат,",
+       "lat": "tebe da te nosat,",
+       "en": "to carry you off,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "дури во Јанино.",
+       "lat": "duri vo Janino.",
+       "en": "all the way to Janina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога те качиле, Недо мори,",
+       "lat": "Koga te kačile, Nedo mori,",
+       "en": "When they set you up, Neda hey,"
+      },
+      {
+       "cyr": "кога те качиле,",
+       "lat": "koga te kačile,",
+       "en": "when they set you up,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "пашини сараји.",
+       "lat": "pašini saraji.",
+       "en": "in the pashas' palaces."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ти побело дојде, Недо мори,",
+       "lat": "Ti pobelo dojde, Nedo mori,",
+       "en": "You came out whiter, Neda hey,"
+      },
+      {
+       "cyr": "ти побело дојде,",
+       "lat": "ti pobelo dojde,",
+       "en": "you came out whiter,"
+      },
+      {
+       "cyr": "Недо мори, Нешо мори,",
+       "lat": "Nedo mori, Nešo mori,",
+       "en": "Neda hey, Nesho hey,"
+      },
+      {
+       "cyr": "од белите булки.",
+       "lat": "od belite bulki.",
+       "en": "than the white brides."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,110 @@
+{
+ "id": 621,
+ "slug": "ajde-da-odime-vo-bitola",
+ "title_cyr": "Ајде да одиме во Битола",
+ "title_latin": "Ajde da odime vo Bitola",
+ "title_en": "Let's go to Bitola",
+ "pesna_url": "https://pesna.org/song/621",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гоце Николовски",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/731"
+  },
+  {
+   "who": "Јорданка Куцулова, Ѓорѓи Андреевски",
+   "url": "https://pesna.org/audio-download/732"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде да одиме во Битола,",
+       "lat": "Ajde da odime vo Bitola,",
+       "en": "Let's go to Bitola,"
+      },
+      {
+       "cyr": "во Битола, Широк Сокак.",
+       "lat": "vo Bitola, Širok Sokak.",
+       "en": "to Bitola, Shirok Sokak."
+      },
+      {
+       "cyr": "Таму, таму има моми убави",
+       "lat": "Tamu, tamu ima momi ubavi",
+       "en": "There, there they have beautiful girls,"
+      },
+      {
+       "cyr": "бели, црвени, баш македонски.",
+       "lat": "beli, crveni, baš makedonski.",
+       "en": "white, red, and so very Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде да одиме на меана,",
+       "lat": "Ajde da odime na meana,",
+       "en": "Let us go to a restaurant,"
+      },
+      {
+       "cyr": "во меана, Тумбе Кафе.",
+       "lat": "vo meana, Tumbe Kafe.",
+       "en": "to a restaurant, Tumbe Kafe."
+      },
+      {
+       "cyr": "Таму, таму има рујно вино,",
+       "lat": "Tamu, tamu ima rujno vino,",
+       "en": "There, there they have red wine,"
+      },
+      {
+       "cyr": "песни весели, баш македонски.",
+       "lat": "pesni veseli, baš makedonski.",
+       "en": "joyful songs, so very Macedonian."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде да одиме на Пелистер,",
+       "lat": "Ajde da odime na Pelister,",
+       "en": "Let's go to Pelister,"
+      },
+      {
+       "cyr": "на Пелистер, Бегова Чешма.",
+       "lat": "na Pelister, Begova Češma.",
+       "en": "to Pelister, Begova Cheshma."
+      },
+      {
+       "cyr": "Таму пеат, играат Македонци,",
+       "lat": "Tamu peat, igraat Makedonci,",
+       "en": "There sing and dance Macedonians,"
+      },
+      {
+       "cyr": "оро комитско, баш македонско!",
+       "lat": "oro komitsko, baš makedonsko!",
+       "en": "a komita oro, so very Macedonian!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,145 @@
+{
+ "id": 656,
+ "slug": "digni-si-maro-marche-ochite",
+ "title_cyr": "Дигни си Маро, Марче очите",
+ "title_latin": "Digni si Maro, Marče očite",
+ "title_en": "Raise Your Eyes, Maro, Marche",
+ "pesna_url": "https://pesna.org/song/656",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Lines 6 and 7 ('свршија ли ергените / како за тебе момите') are my reading: roughly 'have the bachelors run out, the way girls have for you?'. 'Свршија' may also be dialectal for 'finished/run out'.",
+ "words_to_learn": [
+  {
+   "mk": "дигни",
+   "en": "lift, raise (imperative)"
+  },
+  {
+   "mk": "очите",
+   "en": "the eyes"
+  },
+  {
+   "mk": "плакало",
+   "en": "(have) cried"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "ергени",
+   "en": "bachelors"
+  },
+  {
+   "mk": "срце",
+   "en": "heart"
+  },
+  {
+   "mk": "табиет",
+   "en": "nature, character, temperament"
+  }
+ ],
+ "performers": [
+  "Грозданка Данилова",
+  "Ѓорѓи Желчевски",
+  "Кевсер Селимова",
+  "Нада Макеларска",
+  "Октет Астибо"
+ ],
+ "audio": [
+  {
+   "who": "Октет Астибо",
+   "url": "https://pesna.org/audio-download/880"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/881"
+  },
+  {
+   "who": "Грозданка Данилова, Нада Макеларска",
+   "url": "https://pesna.org/audio-download/2961"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дигни си Маро, Марче очите,",
+       "lat": "Digni si Maro, Marče očite,",
+       "en": "Raise your eyes, Maro, Marche,"
+      },
+      {
+       "cyr": "да видам плакало ли си?",
+       "lat": "da vidam plakalo li si?",
+       "en": "let me see whether you have been crying."
+      },
+      {
+       "cyr": "Да видам плакало ли си,",
+       "lat": "Da vidam plakalo li si,",
+       "en": "Let me see whether you have been crying,"
+      },
+      {
+       "cyr": "плакало ли си или не?",
+       "lat": "plakalo li si ili ne?",
+       "en": "have you been crying or not?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како да плачам, либе ле,",
+       "lat": "Kako da plačam, libe le,",
+       "en": "How could I cry, my love,"
+      },
+      {
+       "cyr": "свршија ли ергените?",
+       "lat": "svršija li ergenite?",
+       "en": "have the bachelors run out?"
+      },
+      {
+       "cyr": "Свршија ли ергените,",
+       "lat": "Svršija li ergenite,",
+       "en": "Have the bachelors run out,"
+      },
+      {
+       "cyr": "како за тебе момите?",
+       "lat": "kako za tebe momite?",
+       "en": "as the girls have for you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не се, бре, либе свршиле,",
+       "lat": "Ne se, bre, libe svršile,",
+       "en": "They have not run out, hey love,"
+      },
+      {
+       "cyr": "но нема друга как' тебе.",
+       "lat": "no nema druga kak' tebe.",
+       "en": "but there is no other like you."
+      },
+      {
+       "cyr": "Но нема друга как' тебе,",
+       "lat": "No nema druga kak' tebe,",
+       "en": "But there is no other like you,"
+      },
+      {
+       "cyr": "по срце и по табиет.",
+       "lat": "po srce i po tabiet.",
+       "en": "in heart and in character."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

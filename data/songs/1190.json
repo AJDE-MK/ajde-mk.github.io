@@ -1,0 +1,172 @@
+{
+ "id": 1190,
+ "slug": "more-zedov-zhena-mnogu-mlada",
+ "title_cyr": "Море зедов жена многу млада",
+ "title_latin": "More zedov žena mnogu mlada",
+ "title_en": "Hey, I Took a Very Young Wife",
+ "pesna_url": "https://pesna.org/song/1190",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song. 'Гарагачка' (magpie) and 'зелник' (a savory pie, here the place or dish) are my reading; the last verses are a joke about the new bride not knowing household things.",
+ "words_to_learn": [
+  {
+   "mk": "море",
+   "en": "hey (address particle)"
+  },
+  {
+   "mk": "зедов",
+   "en": "I took (as a wife)"
+  },
+  {
+   "mk": "заба",
+   "en": "teeth (dialect plural)"
+  },
+  {
+   "mk": "прекар",
+   "en": "nickname"
+  },
+  {
+   "mk": "свекрва",
+   "en": "mother-in-law"
+  },
+  {
+   "mk": "свекор",
+   "en": "father-in-law"
+  },
+  {
+   "mk": "плевна",
+   "en": "barn, shed"
+  },
+  {
+   "mk": "разбој",
+   "en": "loom"
+  },
+  {
+   "mk": "се зачуди",
+   "en": "was amazed"
+  },
+  {
+   "mk": "шкрипни",
+   "en": "creak (imperative)"
+  }
+ ],
+ "performers": [
+  "Блага Видец",
+  "Благој Петров - Караѓуле",
+  "Васка Илиева",
+  "Кочо Петровски"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец, Благој Петров - Караѓуле, Васка Илиева, Кочо Петровски",
+   "url": "https://pesna.org/audio-download/2921"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море зедов жена многу млада,",
+       "lat": "More zedov žena mnogu mlada,",
+       "en": "Hey, I took a very young wife,"
+      },
+      {
+       "cyr": "море многу млада, со два заба.",
+       "lat": "more mnogu mlada, so dva zaba.",
+       "en": "hey, very young, with two teeth."
+      },
+      {
+       "cyr": "Море зедов жена многу млада,",
+       "lat": "More zedov žena mnogu mlada,",
+       "en": "Hey, I took a very young wife,"
+      },
+      {
+       "cyr": "море многу млада, со два заба.",
+       "lat": "more mnogu mlada, so dva zaba.",
+       "en": "hey, very young, with two teeth."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море кога дојде, прекар стави,",
+       "lat": "More koga dojde, prekar stavi,",
+       "en": "Hey, when she came, she gave nicknames,"
+      },
+      {
+       "cyr": "море на свекрва: „стара гарагачка“.",
+       "lat": "more na svekrva: „stara garagačka“.",
+       "en": "hey, to the mother-in-law: 'old magpie'."
+      },
+      {
+       "cyr": "Море на свекрва: „стара гарагачка“,",
+       "lat": "More na svekrva: „stara garagačka“,",
+       "en": "Hey, to the mother-in-law: 'old magpie',"
+      },
+      {
+       "cyr": "море на свекорот: „старо вампириште“.",
+       "lat": "more na svekorot: „staro vampirište“.",
+       "en": "hey, to the father-in-law: 'old vampire'."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море виде плевна, се зачуди,",
+       "lat": "More vide plevna, se začudi,",
+       "en": "Hey, she saw the barn, was amazed,"
+      },
+      {
+       "cyr": "море што е оваа убавина?",
+       "lat": "more što e ovaa ubavina?",
+       "en": "hey, what is this beauty?"
+      },
+      {
+       "cyr": "Море виде зелник, се зачуди,",
+       "lat": "More vide zelnik, se začudi,",
+       "en": "Hey, she saw the pie-kitchen, was amazed,"
+      },
+      {
+       "cyr": "море што е ова, вртен, сучен?",
+       "lat": "more što e ova, vrten, sučen?",
+       "en": "hey, what is this, twisted, rolled?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море виде разбој, се зачуди,",
+       "lat": "More vide razboj, se začudi,",
+       "en": "Hey, she saw the loom, was amazed,"
+      },
+      {
+       "cyr": "море што е ова, шкрипни, рипни?",
+       "lat": "more što e ova, škripni, ripni?",
+       "en": "hey, what is this, creak and jump?"
+      },
+      {
+       "cyr": "Море што е ова, шкрипни, рипни,",
+       "lat": "More što e ova, škripni, ripni,",
+       "en": "Hey, what is this, creak and jump,"
+      },
+      {
+       "cyr": "море шкрипни, рипни, в' среде чукни.",
+       "lat": "more škripni, ripni, v' srede čukni.",
+       "en": "hey, creak and jump, bang in the middle."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

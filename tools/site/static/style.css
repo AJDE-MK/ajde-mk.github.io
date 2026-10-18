@@ -1,0 +1,236 @@
+/* Macedonian Songbook: woven textile look.
+   Red and black lead. Small stitch colors (pink, green, yellow, blue) appear only in the border and tiny accents. */
+:root {
+  --cloth: #f3ead8;
+  --cloth-dark: #e8dcc2;
+  --red: #a3151c;
+  --ink: #1c1410;
+  --ink-soft: #5a4a3a;
+  --stitch-pink: #d9607a;
+  --stitch-green: #4f8a4b;
+  --stitch-yellow: #e0b030;
+  --stitch-blue: #3a6ea5;
+  --serif: Georgia, "Times New Roman", "Noto Serif", serif;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 106%; }
+
+body {
+  margin: 0;
+  background: var(--cloth);
+  color: var(--ink);
+  font-family: var(--serif);
+  line-height: 1.55;
+}
+
+/* Embroidery border: hard-stop bars, no gradients between colors. */
+.border {
+  height: 16px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--red) 0 14px,
+    var(--ink) 14px 18px,
+    var(--cloth) 18px 24px,
+    var(--stitch-pink) 24px 28px,
+    var(--cloth) 28px 32px,
+    var(--red) 32px 46px,
+    var(--ink) 46px 50px,
+    var(--cloth) 50px 54px,
+    var(--stitch-green) 54px 58px,
+    var(--cloth) 58px 60px,
+    var(--red) 60px 74px,
+    var(--ink) 74px 78px,
+    var(--cloth) 78px 84px,
+    var(--stitch-yellow) 84px 88px,
+    var(--cloth) 88px 92px,
+    var(--red) 92px 106px,
+    var(--ink) 106px 110px,
+    var(--cloth) 110px 114px,
+    var(--stitch-blue) 114px 118px,
+    var(--cloth) 118px 120px
+  );
+}
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px 24px;
+  padding: 14px 16px 10px;
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.brand { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 14px; }
+.tagline { color: var(--ink-soft); font-size: 0.9rem; font-style: italic; }
+.site-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--red);
+  text-decoration: none;
+  letter-spacing: 0.5px;
+}
+
+.site-nav a {
+  margin-right: 16px;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.site-nav a:hover { border-bottom-color: var(--red); }
+.site-nav a[aria-current="page"] { border-bottom-color: var(--red); font-weight: bold; }
+
+main {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 8px 16px 32px;
+}
+
+h1, h2, h3 { line-height: 1.2; }
+h1 { font-size: 2rem; margin: 0.4em 0 0.1em; }
+a { color: var(--red); }
+
+.site-footer {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 8px 16px 20px;
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+}
+
+/* Song page */
+.eyebrow {
+  margin: 8px 0 0;
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--red);
+}
+.subtitle { margin: 0 0 12px; font-style: italic; color: var(--ink-soft); }
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 14px 0;
+  padding: 8px 0;
+  border-top: 3px solid var(--red);
+  border-bottom: 1px solid var(--ink);
+}
+.col-toggles button, .tabs button { margin-right: 6px; }
+.tabs { margin: 0 0 10px; }
+
+.about {
+  background: var(--cloth-dark);
+  border-left: 6px solid var(--red);
+  padding: 4px 16px 8px;
+  margin: 12px 0;
+}
+.about h2 { font-size: 1.1rem; margin: 8px 0 4px; }
+.source-note { font-size: 0.8rem; color: var(--ink-soft); margin: 0; }
+
+.en-label { font-size: 0.85rem; color: var(--ink-soft); font-style: italic; margin: 6px 0; }
+
+table.lyrics {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 18px;
+  table-layout: fixed;
+}
+table.lyrics td {
+  padding: 3px 12px 3px 0;
+  vertical-align: top;
+  border-bottom: 1px dotted var(--cloth-dark);
+  overflow-wrap: anywhere;
+}
+td.c-cyr { font-weight: bold; font-size: 1.05rem; }
+td.c-lat { color: var(--ink-soft); }
+td.c-en { font-style: italic; }
+table.lyrics td.mt-line { border-left: 3px solid var(--stitch-blue); padding-left: 8px; }
+.en-credit, .en-legend { font-size: 0.85rem; color: var(--ink-soft); margin: 2px 0 6px; }
+
+body.hide-cyr .c-cyr, body.hide-lat .c-lat, body.hide-en .c-en { display: none; }
+
+.listen h2, .translator-notes summary { font-size: 1.05rem; }
+.attribution { margin-top: 28px; font-size: 0.85rem; color: var(--ink-soft); }
+
+/* Video player. On wide screens it lives in its own left column that stays in view while the lyrics scroll. */
+.player { margin: 10px 0; background: var(--cloth); }
+.player-frame { position: relative; aspect-ratio: 16 / 9; background: var(--ink); }
+.player-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.player-links { margin: 6px 0 0; font-size: 0.9rem; }
+.player.no-video { padding: 10px 14px; border: 2px dashed var(--ink-soft); }
+@media (min-width: 900px) {
+  .song-layout { display: grid; grid-template-columns: minmax(300px, 380px) minmax(0, 1fr); gap: 0 32px; align-items: start; }
+  .song-side { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; }
+  .song-side .player { margin-top: 0; }
+  .song-main .toolbar { margin-top: 0; }
+}
+
+.notice {
+  margin: 10px 0;
+  padding: 8px 12px;
+  background: var(--cloth-dark);
+  border-left: 6px solid var(--stitch-yellow);
+}
+.status { min-height: 1.5em; font-weight: bold; }
+label.button { display: inline-block; }
+
+/* Browse and search */
+.jump { margin: 12px 0; line-height: 2; }
+.jump a { margin-right: 10px; font-weight: bold; text-decoration: none; border-bottom: 2px solid var(--red); }
+.letter-group h2 { border-bottom: 3px solid var(--red); padding-bottom: 2px; margin-top: 26px; }
+.letter-group ul, .results { list-style: none; padding: 0; columns: 2 18rem; column-gap: 28px; }
+.letter-group li, .results li { break-inside: avoid; padding: 2px 0; }
+.latin { color: var(--ink-soft); font-size: 0.9rem; }
+input[type="search"] { font-family: var(--serif); font-size: 1.05rem; padding: 8px; width: 100%; max-width: 32rem; border: 2px solid var(--ink); background: var(--cloth); }
+.hero h1 { font-size: 2.4rem; }
+.lead { font-size: 1.2rem; max-width: 40rem; }
+.start, .songs-intro { border-left: 6px solid var(--red); padding: 2px 16px; margin: 20px 0; }
+
+/* Alphabet */
+.tiles { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
+.tile { min-width: 3.6rem; font-size: 1.3rem; font-weight: bold; padding: 8px 10px; }
+.letter-detail { border-left: 6px solid var(--red); background: var(--cloth-dark); padding: 6px 16px 10px; margin: 8px 0; }
+.letter-detail h3 { font-size: 2rem; margin: 6px 0; }
+.special-note { color: var(--red); font-style: italic; }
+.quiz { margin-top: 28px; border-top: 3px solid var(--red); }
+.quiz-letter { font-size: 4rem; margin: 6px 0; font-weight: bold; color: var(--red); }
+.quiz-options button { margin: 0 8px 8px 0; font-size: 1.2rem; min-width: 4rem; }
+
+/* Feedback box */
+.feedback { margin: 8px 0; padding: 6px 12px; border: 1px solid var(--ink-soft); background: var(--cloth-dark); }
+.feedback summary { cursor: pointer; color: var(--red); font-weight: bold; }
+.feedback .steps { margin: 6px 0 10px 1.1rem; padding: 0; }
+.feedback input[type="text"], .feedback textarea {
+  font-family: var(--serif); font-size: 1rem; width: 100%; max-width: 32rem;
+  padding: 6px; border: 2px solid var(--ink); background: var(--cloth);
+}
+.botcheck { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.feedback-status { min-height: 1.5em; font-weight: bold; }
+
+/* Phone: stack the three columns inside each row */
+@media (max-width: 700px) {
+  table.lyrics, table.lyrics tbody, table.lyrics tr, table.lyrics td { display: block; width: 100%; }
+  table.lyrics tr { padding: 6px 0; border-bottom: 1px solid var(--cloth-dark); }
+  table.lyrics td { border: 0; padding: 0; }
+  td.c-en { font-size: 0.95rem; }
+}
+
+button, .button {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  background: var(--cloth);
+  color: var(--ink);
+  border: 2px solid var(--ink);
+  padding: 6px 12px;
+  cursor: pointer;
+}
+button:hover, .button:hover { background: var(--ink); color: var(--cloth); }
+button[aria-pressed="true"] { background: var(--red); color: var(--cloth); border-color: var(--red); }

@@ -1,0 +1,211 @@
+{
+ "id": 628,
+ "slug": "kako-shto-e-taa-chasha",
+ "title_cyr": "Како што е таа чаша",
+ "title_latin": "Kako što e taa čaša",
+ "title_en": "Just As That Cup",
+ "pesna_url": "https://pesna.org/song/628",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Dialogue between son and mother; the forest band refers to haiduk or rebel fighters in my reading. 'фајде си немаш' I read as 'you have no benefit'.",
+ "words_to_learn": [
+  {
+   "mk": "чаша",
+   "en": "cup, glass"
+  },
+  {
+   "mk": "полна",
+   "en": "full"
+  },
+  {
+   "mk": "јадови",
+   "en": "sorrows, griefs"
+  },
+  {
+   "mk": "да се опијам",
+   "en": "to get drunk"
+  },
+  {
+   "mk": "заборавам",
+   "en": "I forget"
+  },
+  {
+   "mk": "фајде",
+   "en": "use, benefit"
+  },
+  {
+   "mk": "берданка",
+   "en": "Berdan rifle (old breech-loading rifle)"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "верна дружина",
+   "en": "faithful company, band of comrades"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Драгица Николова",
+  "Ѓорѓи Желчевски",
+  "Јанко Неделчев",
+  "Кевсер Селимова",
+  "Лихнид банд",
+  "Никола Бадев",
+  "Петранка Костадинова",
+  "Цветанка Ласкова",
+  "Mitan Project",
+  "Słowianki"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/523"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/524"
+  },
+  {
+   "who": "Mitan Project",
+   "url": "https://pesna.org/audio-download/1953"
+  },
+  {
+   "who": "Słowianki",
+   "url": "https://pesna.org/audio-download/2273"
+  },
+  {
+   "who": "Драгица Николова, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2960"
+  },
+  {
+   "who": "Цветанка Ласкова",
+   "url": "https://pesna.org/audio-download/3537"
+  },
+  {
+   "who": "Ѓорѓи Желчевски, Кевсер Селимова",
+   "url": "https://pesna.org/audio-download/3538"
+  },
+  {
+   "who": "Лихнид банд",
+   "url": "https://pesna.org/audio-download/3539"
+  },
+  {
+   "who": "Јанко Неделчев",
+   "url": "https://pesna.org/audio-download/3540"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Како што е таа чаша полна со вино,",
+       "lat": "- Kako što e taa čaša polna so vino,",
+       "en": "- Just as that cup is full of wine,"
+      },
+      {
+       "cyr": "како што е таа чаша полна со вино,",
+       "lat": "kako što e taa čaša polna so vino,",
+       "en": "just as that cup is full of wine,"
+      },
+      {
+       "cyr": "така е и мојто срце полно с' јадови,",
+       "lat": "taka e i mojto srce polno s' jadovi,",
+       "en": "so is my heart full of sorrows,"
+      },
+      {
+       "cyr": "така е и мојто срце полно с' јадови.",
+       "lat": "taka e i mojto srce polno s' jadovi.",
+       "en": "so is my heart full of sorrows."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај да пијам, мила мајко, да се опијам,",
+       "lat": "Daj da pijam, mila majko, da se opijam,",
+       "en": "Let me drink, dear mother, to get drunk,"
+      },
+      {
+       "cyr": "дај да пијам, мила мајко, да се опијам,",
+       "lat": "daj da pijam, mila majko, da se opijam,",
+       "en": "let me drink, dear mother, to get drunk,"
+      },
+      {
+       "cyr": "јадовите, мила мајко, да заборавам,",
+       "lat": "jadovite, mila majko, da zaboravam,",
+       "en": "to forget the sorrows, dear mother,"
+      },
+      {
+       "cyr": "јадовите, мила мајко, да заборавам.",
+       "lat": "jadovite, mila majko, da zaboravam.",
+       "en": "to forget the sorrows, dear mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И да пиеш, мили сине, фајде си немаш,",
+       "lat": "- I da pieš, mili sine, fajde si nemaš,",
+       "en": "- Even if you drink, dear son, it does no good,"
+      },
+      {
+       "cyr": "и да пиеш, мили сине, фајде си немаш,",
+       "lat": "i da pieš, mili sine, fajde si nemaš,",
+       "en": "even if you drink, dear son, it does no good,"
+      },
+      {
+       "cyr": "ја земи си, мили сине, пушка берданка,",
+       "lat": "ja zemi si, mili sine, puška berdanka,",
+       "en": "rather take, dear son, a Berdan rifle,"
+      },
+      {
+       "cyr": "па си појди, мили сине, в' гора зелена.",
+       "lat": "pa si pojdi, mili sine, v' gora zelena.",
+       "en": "and go, dear son, to the green forest."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Там' ќе најдеш, мили синко, верна дружина,",
+       "lat": "Tam' ḱe najdeš, mili sinko, verna družina,",
+       "en": "There you will find, dear son, a faithful band,"
+      },
+      {
+       "cyr": "там' ќе најдеш, мили синко, верна дружина.",
+       "lat": "tam' ḱe najdeš, mili sinko, verna družina.",
+       "en": "there you will find, dear son, a faithful band."
+      },
+      {
+       "cyr": "Борба води, мили сине, за слобода,",
+       "lat": "Borba vodi, mili sine, za sloboda,",
+       "en": "Fight the fight, dear son, for freedom,"
+      },
+      {
+       "cyr": "за слобода, мили сине, за Македонија.",
+       "lat": "za sloboda, mili sine, za Makedonija.",
+       "en": "for freedom, dear son, for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

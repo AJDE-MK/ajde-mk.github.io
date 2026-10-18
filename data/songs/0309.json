@@ -1,0 +1,323 @@
+{
+ "id": 309,
+ "slug": "selvie-sen-gjuzel",
+ "title_cyr": "Селвие, сен ѓузел",
+ "title_latin": "Selvie, sen ǵuzel",
+ "title_en": "Selvie, You Are Beautiful",
+ "pesna_url": "https://pesna.org/song/309",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'ј'око мори калешо' is my reading (a filler addressed to the beloved, rendered 'hey, my dear'); 'моја прва изгоро' is my reading ('my first one, my burnt one'). 'Селвие, сен ѓузел' is Turkish-influenced (sen guzel = you are beautiful).",
+ "words_to_learn": [
+  {
+   "mk": "дреми",
+   "en": "doze, nap"
+  },
+  {
+   "mk": "кузум",
+   "en": "my lamb (Turkish term of endearment)"
+  },
+  {
+   "mk": "ѓузел",
+   "en": "beautiful (Turkish guzel)"
+  },
+  {
+   "mk": "комшии",
+   "en": "neighbours"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "лаф муабет",
+   "en": "idle chat, gossip (Turkish loan)"
+  },
+  {
+   "mk": "ифтири",
+   "en": "slander, false accusations"
+  },
+  {
+   "mk": "домаќин",
+   "en": "master of the house, husband"
+  },
+  {
+   "mk": "мераклија",
+   "en": "lover of pleasure, enthusiast"
+  },
+  {
+   "mk": "најдов",
+   "en": "I found (dialect)"
+  }
+ ],
+ "performers": [
+  "Благоја Грујовски",
+  "Влатко Лозаноски",
+  "Мирко Митревски"
+ ],
+ "audio": [
+  {
+   "who": "Мирко Митревски",
+   "url": "https://pesna.org/audio-download/1077"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2006"
+  },
+  {
+   "who": "Благоја Грујовски",
+   "url": "https://pesna.org/audio-download/2007"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Не спи, не спи, не дреми",
+       "lat": "Ne spi, ne spi, ne dremi",
+       "en": "Don't sleep, don't sleep, don't doze,"
+      },
+      {
+       "cyr": "кузум бела Селвие",
+       "lat": "kuzum bela Selvie",
+       "en": "my lamb, white Selvie,"
+      },
+      {
+       "cyr": "зар не си се наспало,",
+       "lat": "zar ne si se naspalo,",
+       "en": "haven't you slept enough,"
+      },
+      {
+       "cyr": "ј'око мори калешо",
+       "lat": "j'oko mori kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "три вечери без мене?",
+       "lat": "tri večeri bez mene?",
+       "en": "three nights without me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селвие, сен ѓузел,",
+       "lat": "Selvie, sen ǵuzel,",
+       "en": "Selvie, you are beautiful,"
+      },
+      {
+       "cyr": "ј'око мори калешо",
+       "lat": "j'oko mori kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "моја прва изгоро.",
+       "lat": "moja prva izgoro.",
+       "en": "my first one, my burnt one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На четврта јас дојдов",
+       "lat": "Na četvrta jas dojdov",
+       "en": "On the fourth I came,"
+      },
+      {
+       "cyr": "кузум бела Селвие",
+       "lat": "kuzum bela Selvie",
+       "en": "my lamb, white Selvie,"
+      },
+      {
+       "cyr": "тебе дома не најдов,",
+       "lat": "tebe doma ne najdov,",
+       "en": "I did not find you at home,"
+      },
+      {
+       "cyr": "j'око моe калешо",
+       "lat": "j'oko moe kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "тебе дома не најдов.",
+       "lat": "tebe doma ne najdov.",
+       "en": "I did not find you at home."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селвие, сен ѓузел,",
+       "lat": "Selvie, sen ǵuzel,",
+       "en": "Selvie, you are beautiful,"
+      },
+      {
+       "cyr": "ј'око мори калешо",
+       "lat": "j'oko mori kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "моја прва изгоро.",
+       "lat": "moja prva izgoro.",
+       "en": "my first one, my burnt one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тук' те најдов в' комшии",
+       "lat": "Tuk' te najdov v' komšii",
+       "en": "I found you only among the neighbours,"
+      },
+      {
+       "cyr": "кузум бела Селвие",
+       "lat": "kuzum bela Selvie",
+       "en": "my lamb, white Selvie,"
+      },
+      {
+       "cyr": "у нашите душмани,",
+       "lat": "u našite dušmani,",
+       "en": "with our enemies,"
+      },
+      {
+       "cyr": "ј'око мое калешо,",
+       "lat": "j'oko moe kalešo,",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "у нашите душмани.",
+       "lat": "u našite dušmani.",
+       "en": "with our enemies."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селвие, сен ѓузел,",
+       "lat": "Selvie, sen ǵuzel,",
+       "en": "Selvie, you are beautiful,"
+      },
+      {
+       "cyr": "ј'око мори калешо",
+       "lat": "j'oko mori kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "моја прва изгоро.",
+       "lat": "moja prva izgoro.",
+       "en": "my first one, my burnt one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Теб' те најдов зад врата",
+       "lat": "Teb' te najdov zad vrata",
+       "en": "I found you behind the door,"
+      },
+      {
+       "cyr": "кузум бела Селвие,",
+       "lat": "kuzum bela Selvie,",
+       "en": "my lamb, white Selvie,"
+      },
+      {
+       "cyr": "лаф муабет правеше,",
+       "lat": "laf muabet praveše,",
+       "en": "you were having idle chats,"
+      },
+      {
+       "cyr": "ј'око моје калешо",
+       "lat": "j'oko moje kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "лаф муабет правеше.",
+       "lat": "laf muabet praveše.",
+       "en": "you were having idle chats."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селвие, сен ѓузел,",
+       "lat": "Selvie, sen ǵuzel,",
+       "en": "Selvie, you are beautiful,"
+      },
+      {
+       "cyr": "ј'око мори калешо",
+       "lat": "j'oko mori kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "моја прва изгоро.",
+       "lat": "moja prva izgoro.",
+       "en": "my first one, my burnt one."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми фрлај ифтири",
+       "lat": "Ne mi frlaj iftiri",
+       "en": "Don't throw slander at me,"
+      },
+      {
+       "cyr": "море мој домаќине,",
+       "lat": "more moj domaḱine,",
+       "en": "hey, my husband,"
+      },
+      {
+       "cyr": "ти си голем мераклија",
+       "lat": "ti si golem meraklija",
+       "en": "you are a great lover of pleasure,"
+      },
+      {
+       "cyr": "море мој домаќине,",
+       "lat": "more moj domaḱine,",
+       "en": "hey, my husband,"
+      },
+      {
+       "cyr": "на вино и на лута ракија.",
+       "lat": "na vino i na luta rakija.",
+       "en": "of wine and strong rakija."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Селвие, сен ѓузел,",
+       "lat": "Selvie, sen ǵuzel,",
+       "en": "Selvie, you are beautiful,"
+      },
+      {
+       "cyr": "ј'око мори калешо",
+       "lat": "j'oko mori kalešo",
+       "en": "hey, my dear,"
+      },
+      {
+       "cyr": "моја прва изгоро.",
+       "lat": "moja prva izgoro.",
+       "en": "my first one, my burnt one."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

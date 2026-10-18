@@ -1,0 +1,145 @@
+{
+ "id": 361,
+ "slug": "moj-roden-kraj",
+ "title_cyr": "Мој роден крај",
+ "title_latin": "Moj roden kraj",
+ "title_en": "My Native Land",
+ "pesna_url": "https://pesna.org/song/361",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a gurbet (emigrant) style song. 'мој'та / мојта' means 'my' with the definite article attached.",
+ "words_to_learn": [
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "прости",
+   "en": "forgive / goodbye"
+  },
+  {
+   "mk": "роден крај",
+   "en": "native land, homeland"
+  },
+  {
+   "mk": "туѓина",
+   "en": "foreign land"
+  },
+  {
+   "mk": "рај",
+   "en": "paradise"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting"
+  },
+  {
+   "mk": "градина",
+   "en": "garden"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/1072"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Збогум и прости мој роден крај,",
+       "lat": "Zbogum i prosti moj roden kraj,",
+       "en": "Farewell and forgive me, my native land,"
+      },
+      {
+       "cyr": "в' туѓина одам, оставам рај.",
+       "lat": "v' tuǵina odam, ostavam raj.",
+       "en": "I am going to a foreign land, I am leaving paradise."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мој роден крај, рајска градина,",
+       "lat": "Moj roden kraj, rajska gradina,",
+       "en": "My native land, garden of paradise,"
+      },
+      {
+       "cyr": "тешка е со тебе мој'та разделба.",
+       "lat": "teška e so tebe moj'ta razdelba.",
+       "en": "hard is my parting from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Има на светов земји богати,",
+       "lat": "Ima na svetov zemji bogati,",
+       "en": "There are rich lands in this world,"
+      },
+      {
+       "cyr": "ама како тебе нема убави.",
+       "lat": "ama kako tebe nema ubavi.",
+       "en": "but none as beautiful as you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мој роден крај рајска градина",
+       "lat": "Moj roden kraj rajska gradina",
+       "en": "My native land, garden of paradise,"
+      },
+      {
+       "cyr": "тешка е со тебе мојта разделба.",
+       "lat": "teška e so tebe mojta razdelba.",
+       "en": "hard is my parting from you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде да одам, пак ќе се вратам,",
+       "lat": "Kade da odam, pak ḱe se vratam,",
+       "en": "Wherever I go, I will come back again,"
+      },
+      {
+       "cyr": "тука се родив, тука да умрам.",
+       "lat": "tuka se rodiv, tuka da umram.",
+       "en": "I was born here, here I want to die."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мој роден крај рајска градина",
+       "lat": "Moj roden kraj rajska gradina",
+       "en": "My native land, garden of paradise,"
+      },
+      {
+       "cyr": "тешка е со тебе мојта разделба.",
+       "lat": "teška e so tebe mojta razdelba.",
+       "en": "hard is my parting from you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

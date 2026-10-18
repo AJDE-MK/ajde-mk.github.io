@@ -1,0 +1,109 @@
+{
+ "id": 47,
+ "slug": "poseala-baba",
+ "title_cyr": "Посеала баба",
+ "title_latin": "Poseala baba",
+ "title_en": "A grandmother sowed",
+ "pesna_url": "https://pesna.org/song/47",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Афион",
+  "Јонче Христовски",
+  "Нино Величковски",
+  "Танец",
+  "Трпе Череповски"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/178"
+  },
+  {
+   "who": "Нино Величковски",
+   "url": "https://pesna.org/audio-download/179"
+  },
+  {
+   "who": "Јонче Христовски, Трпе Череповски",
+   "url": "https://pesna.org/audio-download/180"
+  },
+  {
+   "who": "Афион",
+   "url": "https://pesna.org/audio-download/1749"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Посеала баба, до три зрна просо,",
+       "lat": "Poseala baba, do tri zrna proso,",
+       "en": "A grandmother sowed, up to three grains of millet,"
+      },
+      {
+       "cyr": "цицири, вицири, ци цу цу, до три зрна просо.",
+       "lat": "ciciri, viciri, ci cu cu, do tri zrna proso.",
+       "en": "three grains of millet."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се зачуди баба, како ќе ги жнее,",
+       "lat": "Se začudi baba, kako ḱe gi žnee,",
+       "en": "The grandmother wondered, how's she gonna harvest them,"
+      },
+      {
+       "cyr": "цинцири, минцири, ци цу цу, како ќе ги жнее.",
+       "lat": "cinciri, minciri, ci cu cu, kako ḱe gi žnee.",
+       "en": "how's she gonna harvest them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Повикала баба, три села аргати,",
+       "lat": "Povikala baba, tri sela argati,",
+       "en": "She summoned helpers from three villages,"
+      },
+      {
+       "cyr": "се зачуди баба, што ќе ги наруча.",
+       "lat": "se začudi baba, što ḱe gi naruča.",
+       "en": "and grandmother wondered, how's she gonna feed them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми се бркна баба в' десната пазува,",
+       "lat": "Mi se brkna baba v' desnata pazuva,",
+       "en": "The grandmother checked in her right armpit,"
+      },
+      {
+       "cyr": "ми извади баба тригодишна вошка,",
+       "lat": "mi izvadi baba trigodišna voška,",
+       "en": "and she took a louse, three years old,"
+      },
+      {
+       "cyr": "ми навари баба три казани чорба.",
+       "lat": "mi navari baba tri kazani čorba.",
+       "en": "and she boiled three cauldrons of broth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

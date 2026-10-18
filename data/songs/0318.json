@@ -1,0 +1,235 @@
+{
+ "id": 318,
+ "slug": "razbole-se-mlado-makedonche",
+ "title_cyr": "Разболе се младо Македонче",
+ "title_latin": "Razbole se mlado Makedonče",
+ "title_en": "The young Macedonian fell ill",
+ "pesna_url": "https://pesna.org/song/318",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'завали' and 'око калешо' are refrain words I am unsure about; I left them transliterated or guessed ('dear eye kalesho' is my reading).",
+ "words_to_learn": [
+  {
+   "mk": "разболе се",
+   "en": "fell ill"
+  },
+  {
+   "mk": "род",
+   "en": "kin, family"
+  },
+  {
+   "mk": "комшивче",
+   "en": "little neighbor"
+  },
+  {
+   "mk": "понуди",
+   "en": "offers"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I do not want (dialect)"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, desire"
+  },
+  {
+   "mk": "вене",
+   "en": "wilts"
+  },
+  {
+   "mk": "аман",
+   "en": "mercy (Turkish-origin exclamation)"
+  },
+  {
+   "mk": "јабанџија",
+   "en": "stranger, foreigner"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Ацо Андонов",
+  "Велко Трпчевски",
+  "Јорданка Варџијска",
+  "Кирил Костов",
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Пепи Бафтировски",
+  "Поли Паскова",
+  "Славка Петровска",
+  "Сузана Спасовска"
+ ],
+ "audio": [
+  {
+   "who": "Ацо Андонов",
+   "url": "https://pesna.org/audio-download/1184"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1185"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1186"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2568"
+  },
+  {
+   "who": "Александар Сариевски, Велко Трпчевски",
+   "url": "https://pesna.org/audio-download/2569"
+  },
+  {
+   "who": "Александар Сариевски, Велко Трпчевски",
+   "url": "https://pesna.org/audio-download/2570"
+  },
+  {
+   "who": "Јорданка Варџијска, Кирил Костов",
+   "url": "https://pesna.org/audio-download/2571"
+  },
+  {
+   "who": "Поли Паскова",
+   "url": "https://pesna.org/audio-download/2572"
+  },
+  {
+   "who": "Славка Петровска",
+   "url": "https://pesna.org/audio-download/2573"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/2574"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Разболе се младо Македонче,",
+       "lat": "Razbole se mlado Makedonče,",
+       "en": "The young Macedonian fell ill,"
+      },
+      {
+       "cyr": "никој нема од род да го види,",
+       "lat": "nikoj nema od rod da go vidi,",
+       "en": "none of his kin is there to see him,"
+      },
+      {
+       "cyr": "оф леле, завали аман, аман јабанџиче,",
+       "lat": "of lele, zavali aman, aman jabandžiče,",
+       "en": "oh dear, zavali mercy, mercy, little stranger,"
+      },
+      {
+       "cyr": "оф леле, завали аман, аман јабанџиче.",
+       "lat": "of lele, zavali aman, aman jabandžiče.",
+       "en": "oh dear, zavali mercy, mercy, little stranger."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Само дошло едно малој моме,",
+       "lat": "Samo došlo edno maloj mome,",
+       "en": "Only one young girl came,"
+      },
+      {
+       "cyr": "малој моме, негово комшивче,",
+       "lat": "maloj mome, negovo komšivče,",
+       "en": "a young girl, his neighbor,"
+      },
+      {
+       "cyr": "оф аман, завали аман, заман јабанџиче,",
+       "lat": "of aman, zavali aman, zaman jabandžiče,",
+       "en": "oh mercy, zavali mercy, mercy, little stranger,"
+      },
+      {
+       "cyr": "оф аман, завали аман, аман око калешо.",
+       "lat": "of aman, zavali aman, aman oko kalešo.",
+       "en": "oh mercy, zavali mercy, mercy, dear eye kalesho."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Му донело две-три благи понуди,",
+       "lat": "Mu donelo dve-tri blagi ponudi,",
+       "en": "She brought him two or three gentle offers,"
+      },
+      {
+       "cyr": "земи лудо тие мали понуди,",
+       "lat": "zemi ludo tie mali ponudi,",
+       "en": "take, silly one, these little offers,"
+      },
+      {
+       "cyr": "оф леле, завали аман, аман јабанџиче,",
+       "lat": "of lele, zavali aman, aman jabandžiče,",
+       "en": "oh dear, zavali mercy, mercy, little stranger,"
+      },
+      {
+       "cyr": "оф леле завали аман, аман јабанџиче.",
+       "lat": "of lele zavali aman, aman jabandžiče.",
+       "en": "oh dear, zavali mercy, mercy, little stranger."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нејќам, моме тие благи понуди,",
+       "lat": "Nejḱam, mome tie blagi ponudi,",
+       "en": "I do not want, girl, those gentle offers,"
+      },
+      {
+       "cyr": "срце ми изгоре моме за тебе,",
+       "lat": "srce mi izgore mome za tebe,",
+       "en": "my heart burned for you, girl,"
+      },
+      {
+       "cyr": "оф леле завали аман, аман јабанџиче,",
+       "lat": "of lele zavali aman, aman jabandžiče,",
+       "en": "oh dear, zavali mercy, mercy, little stranger,"
+      },
+      {
+       "cyr": "оф аман, завали аман, аман око калешо.",
+       "lat": "of aman, zavali aman, aman oko kalešo.",
+       "en": "oh mercy, zavali mercy, mercy, dear eye kalesho."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде моме двата да се земеме,",
+       "lat": "Ajde mome dvata da se zememe,",
+       "en": "Come on, girl, let the two of us marry,"
+      },
+      {
+       "cyr": "мерак в' срце мене да ми не вене,",
+       "lat": "merak v' srce mene da mi ne vene,",
+       "en": "so the longing in my heart does not wither,"
+      },
+      {
+       "cyr": "оф леле завали аман, аман јабанџиче,",
+       "lat": "of lele zavali aman, aman jabandžiče,",
+       "en": "oh dear, zavali mercy, mercy, little stranger,"
+      },
+      {
+       "cyr": "оф леле завали аман, аман јабанџиче.",
+       "lat": "of lele zavali aman, aman jabandžiče.",
+       "en": "oh dear, zavali mercy, mercy, little stranger."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

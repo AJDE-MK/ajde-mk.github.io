@@ -1,0 +1,150 @@
+{
+ "id": 1177,
+ "slug": "ori-jano-sokol-jano",
+ "title_cyr": "Ори Јано, сокол Јано",
+ "title_latin": "Ori Jano, sokol Jano",
+ "title_en": "Hey Jana, falcon Jana",
+ "pesna_url": "https://pesna.org/song/1177",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Са' is a dialect form of 'се/се' meaning 'are' (my reading); 'лудо' I render as 'my dear'.",
+ "words_to_learn": [
+  {
+   "mk": "ори",
+   "en": "hey (call)"
+  },
+  {
+   "mk": "сокол",
+   "en": "falcon"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "црни",
+   "en": "black"
+  },
+  {
+   "mk": "шарени",
+   "en": "mottled, multicoloured"
+  },
+  {
+   "mk": "ајде",
+   "en": "come on"
+  },
+  {
+   "mk": "измешаме",
+   "en": "we mix"
+  },
+  {
+   "mk": "одвоиме",
+   "en": "we separate"
+  },
+  {
+   "mk": "лудо",
+   "en": "dear, crazy one (endearment)"
+  }
+ ],
+ "performers": [
+  "Драги Спасовски",
+  "Трио Гавровски"
+ ],
+ "audio": [
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/2863"
+  },
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/3123"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ори Јано, сокол Јано,",
+       "lat": "- Ori Jano, sokol Jano,",
+       "en": "- Hey Jana, falcon Jana,"
+      },
+      {
+       "cyr": "имаш очи соколови,",
+       "lat": "imaš oči sokolovi,",
+       "en": "you have falcon eyes,"
+      },
+      {
+       "cyr": "имаш очи, Јано мори, соколови.",
+       "lat": "imaš oči, Jano mori, sokolovi.",
+       "en": "you have eyes, Jana, hey, falcon eyes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имаш очи соколови Јано,",
+       "lat": "Imaš oči sokolovi Jano,",
+       "en": "You have falcon eyes, Jana,"
+      },
+      {
+       "cyr": "твои са црни, мои шарени,",
+       "lat": "tvoi sa crni, moi šareni,",
+       "en": "yours are black, mine are mottled,"
+      },
+      {
+       "cyr": "твои са црни, Јано мори, мои шарени.",
+       "lat": "tvoi sa crni, Jano mori, moi šareni.",
+       "en": "yours are black, Jana, hey, mine are mottled."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Твои са црни, мои шарени Јано,",
+       "lat": "Tvoi sa crni, moi šareni Jano,",
+       "en": "Yours are black, mine are mottled, Jana,"
+      },
+      {
+       "cyr": "ајде да ги измешаме,",
+       "lat": "ajde da gi izmešame,",
+       "en": "come, let us mix them,"
+      },
+      {
+       "cyr": "ајде да ги, Јано мори, измешаме.",
+       "lat": "ajde da gi, Jano mori, izmešame.",
+       "en": "come, let us, Jana, hey, mix them."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Лесно ќе ги измешаме, лудо,",
+       "lat": "- Lesno ḱe gi izmešame, ludo,",
+       "en": "- We will mix them easily, my dear,"
+      },
+      {
+       "cyr": "како ќе ги одвоиме,",
+       "lat": "kako ḱe gi odvoime,",
+       "en": "but how will we separate them,"
+      },
+      {
+       "cyr": "како ќе ги, лудо море, одвоиме?",
+       "lat": "kako ḱe gi, ludo more, odvoime?",
+       "en": "how will we, my dear, hey, separate them?"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

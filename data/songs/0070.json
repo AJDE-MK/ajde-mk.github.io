@@ -1,0 +1,239 @@
+{
+ "id": 70,
+ "slug": "cveta-moma-ubava",
+ "title_cyr": "Цвета мома убава",
+ "title_latin": "Cveta moma ubava",
+ "title_en": "Cveta pretty girl",
+ "pesna_url": "https://pesna.org/song/70",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Костадин Гугов",
+  "Нада Макеларска"
+ ],
+ "audio": [
+  {
+   "who": "Костадин Гугов",
+   "url": "https://pesna.org/audio-download/1759"
+  },
+  {
+   "who": "Нада Макеларска",
+   "url": "https://pesna.org/audio-download/1983"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цвета мома убава,",
+       "lat": "Cveta moma ubava,",
+       "en": "Cveta pretty girl",
+       "en_mt": false
+      },
+      {
+       "cyr": "солзи рони, само се пита:",
+       "lat": "solzi roni, samo se pita:",
+       "en": "is shedding tears and asking herself:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Зошто Димчо ти да не дојдеш",
+       "lat": "- Zošto Dimčo ti da ne dojdeš",
+       "en": "- Why, Dimche, aren't you coming",
+       "en_mt": false
+      },
+      {
+       "cyr": "мене да видиш?",
+       "lat": "mene da vidiš?",
+       "en": "to see me?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турил шапче над око,",
+       "lat": "Turil šapče nad oko,",
+       "en": "He put a fez above his eye,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мен' ме гледа сe' испод око.",
+       "lat": "men' me gleda se' ispod oko.",
+       "en": "he's looking at me secretly.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дигни шапче, јас да те видам,",
+       "lat": "Digni šapče, jas da te vidam,",
+       "en": "Pull up your fez, let me see you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "зарем изгоре?",
+       "lat": "zarem izgore?",
+       "en": "you enflamed my heart.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти рече, Димчо бре:",
+       "lat": "Neli ti reče, Dimčo bre:",
+       "en": "Didn't I tell you, hey Dimche,",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Само мене верно ќе љубиш?",
+       "lat": "- Samo mene verno ḱe ljubiš?",
+       "en": "to faithfully love only me?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сè ти праштам, оти си лудо,",
+       "lat": "Sè ti praštam, oti si ludo,",
+       "en": "I forgive you everything, because you are young,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само врати се.",
+       "lat": "samo vrati se.",
+       "en": "just return to me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Цвета мома убава,",
+       "lat": "Cveta moma ubava,",
+       "en": "Cveta pretty girl",
+       "en_mt": false
+      },
+      {
+       "cyr": "солзи рони, само се пита:",
+       "lat": "solzi roni, samo se pita:",
+       "en": "is shedding tears and asking herself:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Зошто Димчо ти да не дојдеш",
+       "lat": "- Zošto Dimčo ti da ne dojdeš",
+       "en": "- Why, Dimche, aren't you coming",
+       "en_mt": false
+      },
+      {
+       "cyr": "мене да видиш?",
+       "lat": "mene da vidiš?",
+       "en": "to see me?",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цвета мома убава,",
+       "lat": "Cveta moma ubava,",
+       "en": "Cveta pretty girl",
+       "en_mt": false
+      },
+      {
+       "cyr": "солзи рони, сама се пита:",
+       "lat": "solzi roni, sama se pita:",
+       "en": "is shedding tears and asking herself:",
+       "en_mt": false
+      },
+      {
+       "cyr": "- Зошто Димче ти да не дојдиш",
+       "lat": "- Zošto Dimče ti da ne dojdiš",
+       "en": "- Why, Dimche, aren't you coming",
+       "en_mt": false
+      },
+      {
+       "cyr": "мене да видиш?",
+       "lat": "mene da vidiš?",
+       "en": "to see me?",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нели ти реков, Димчо бре,",
+       "lat": "Neli ti rekov, Dimčo bre,",
+       "en": "Didn't I tell you, hey Dimche,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само мене да љубиш верно.",
+       "lat": "samo mene da ljubiš verno.",
+       "en": "to faithfully love only me?",
+       "en_mt": false
+      },
+      {
+       "cyr": "Сè ти праштам, оти си лудо,",
+       "lat": "Sè ti praštam, oti si ludo,",
+       "en": "I forgive you everything, because you are young,",
+       "en_mt": false
+      },
+      {
+       "cyr": "само врати се.",
+       "lat": "samo vrati se.",
+       "en": "just return to me.",
+       "en_mt": false
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турил фесче над око,",
+       "lat": "Turil fesče nad oko,",
+       "en": "He put a fez above his eye,",
+       "en_mt": false
+      },
+      {
+       "cyr": "мен' ме гледа сe' испод око.",
+       "lat": "men' me gleda se' ispod oko.",
+       "en": "he's looking at me secretly.",
+       "en_mt": false
+      },
+      {
+       "cyr": "Дигни фесче, јас да те видам,",
+       "lat": "Digni fesče, jas da te vidam,",
+       "en": "Pull up your fez, let me see you,",
+       "en_mt": false
+      },
+      {
+       "cyr": "срце ми изгоре.",
+       "lat": "srce mi izgore.",
+       "en": "you enflamed my heart.",
+       "en_mt": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

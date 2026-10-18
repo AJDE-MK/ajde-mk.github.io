@@ -1,0 +1,202 @@
+{
+ "id": 232,
+ "slug": "liljano-mome-liljano",
+ "title_cyr": "Лилјано моме, Лилјано",
+ "title_latin": "Liljano mome, Liljano",
+ "title_en": "Girl Liljana, Liljana",
+ "pesna_url": "https://pesna.org/song/232",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "The girl's replies ('what your sheepfold costs, my throat costs') are a line-for-line literal reading; the meaning (she is worth more) is my interpretation.",
+ "words_to_learn": [
+  {
+   "mk": "чифлик",
+   "en": "estate, farm (Turkish loan)"
+  },
+  {
+   "mk": "трло",
+   "en": "sheepfold, pen"
+  },
+  {
+   "mk": "овци",
+   "en": "sheep"
+  },
+  {
+   "mk": "грло",
+   "en": "throat"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "аман",
+   "en": "oh mercy (exclamation)"
+  },
+  {
+   "mk": "да те земам",
+   "en": "to marry you (lit. take you)"
+  },
+  {
+   "mk": "чини",
+   "en": "costs"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лилјано моме, Лилјано,",
+       "lat": "Liljano mome, Liljano,",
+       "en": "Girl Liljana, Liljana,"
+      },
+      {
+       "cyr": "слушај што вели Ѓорѓија,",
+       "lat": "slušaj što veli Ǵorǵija,",
+       "en": "listen to what Gjorgjija says,"
+      },
+      {
+       "cyr": "аман, оф аман,",
+       "lat": "aman, of aman,",
+       "en": "oh mercy, oh mercy,"
+      },
+      {
+       "cyr": "слушај што вели Ѓорѓија.",
+       "lat": "slušaj što veli Ǵorǵija.",
+       "en": "listen to what Gjorgjija says."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Чифликот ќе си продадам,",
+       "lat": "- Čiflikot ḱe si prodadam,",
+       "en": "- I will sell my estate"
+      },
+      {
+       "cyr": "тебе Лилјано да те земам,",
+       "lat": "tebe Liljano da te zemam,",
+       "en": "to take you, Liljana,"
+      },
+      {
+       "cyr": "аман, оф аман,",
+       "lat": "aman, of aman,",
+       "en": "oh mercy, oh mercy,"
+      },
+      {
+       "cyr": "тебе Лилјано да земам.",
+       "lat": "tebe Liljano da zemam.",
+       "en": "to take you, Liljana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трлото ќе си продадам,",
+       "lat": "Trloto ḱe si prodadam,",
+       "en": "I will sell my sheepfold"
+      },
+      {
+       "cyr": "тебе Лилјано да земам,",
+       "lat": "tebe Liljano da zemam,",
+       "en": "to take you, Liljana,"
+      },
+      {
+       "cyr": "аман, оф аман,",
+       "lat": "aman, of aman,",
+       "en": "oh mercy, oh mercy,"
+      },
+      {
+       "cyr": "тебе Лилјано да земам.",
+       "lat": "tebe Liljano da zemam.",
+       "en": "to take you, Liljana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Колку ти чини трлото,",
+       "lat": "- Kolku ti čini trloto,",
+       "en": "- What your sheepfold costs"
+      },
+      {
+       "cyr": "толку ми чини грлото,",
+       "lat": "tolku mi čini grloto,",
+       "en": "is what my throat costs,"
+      },
+      {
+       "cyr": "аман, оф аман,",
+       "lat": "aman, of aman,",
+       "en": "oh mercy, oh mercy,"
+      },
+      {
+       "cyr": "толку ми чини грлото.",
+       "lat": "tolku mi čini grloto.",
+       "en": "is what my throat costs."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Овците ќе си продадам,",
+       "lat": "- Ovcite ḱe si prodadam,",
+       "en": "- I will sell my sheep"
+      },
+      {
+       "cyr": "тебе Лилјано да те земам,",
+       "lat": "tebe Liljano da te zemam,",
+       "en": "to take you, Liljana,"
+      },
+      {
+       "cyr": "аман, оф аман,",
+       "lat": "aman, of aman,",
+       "en": "oh mercy, oh mercy,"
+      },
+      {
+       "cyr": "тебе Лилјано да земам.",
+       "lat": "tebe Liljano da zemam.",
+       "en": "to take you, Liljana."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Колку ти чинат овците,",
+       "lat": "- Kolku ti činat ovcite,",
+       "en": "- What your sheep cost"
+      },
+      {
+       "cyr": "толку ми чинат очите,",
+       "lat": "tolku mi činat očite,",
+       "en": "is what my eyes cost,"
+      },
+      {
+       "cyr": "аман, оф аман,",
+       "lat": "aman, of aman,",
+       "en": "oh mercy, oh mercy,"
+      },
+      {
+       "cyr": "толку ми чинат очите.",
+       "lat": "tolku mi činat očite.",
+       "en": "is what my eyes cost."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

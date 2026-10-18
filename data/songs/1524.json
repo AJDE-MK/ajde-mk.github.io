@@ -1,0 +1,155 @@
+{
+ "id": 1524,
+ "slug": "goce-sin-makedonski",
+ "title_cyr": "Гоце, син македонски",
+ "title_latin": "Goce, sin makedonski",
+ "title_en": "Gotse, Macedonian Son",
+ "pesna_url": "https://pesna.org/song/1524",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; a modern-sounding tribute to Gotse Delchev with no author I can name. Kukush is today's Kilkis in Greece.",
+ "words_to_learn": [
+  {
+   "mk": "јунак",
+   "en": "hero"
+  },
+  {
+   "mk": "војвода",
+   "en": "voivode, rebel commander"
+  },
+  {
+   "mk": "тиран",
+   "en": "tyrant"
+  },
+  {
+   "mk": "клет",
+   "en": "cursed"
+  },
+  {
+   "mk": "се кренал",
+   "en": "rose up"
+  },
+  {
+   "mk": "ослободи",
+   "en": "to free"
+  },
+  {
+   "mk": "мачен",
+   "en": "tormented"
+  },
+  {
+   "mk": "слобода",
+   "en": "freedom"
+  },
+  {
+   "mk": "спас",
+   "en": "salvation"
+  }
+ ],
+ "performers": [
+  "Блага Петреска"
+ ],
+ "audio": [
+  {
+   "who": "Блага Петреска",
+   "url": "https://pesna.org/audio-download/3985"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Таму в' Егејот, во тој Кукуш град,",
+       "lat": "Tamu v' Egejot, vo toj Kukuš grad,",
+       "en": "There in the Aegean, in that town of Kukush,"
+      },
+      {
+       "cyr": "таму се роди Делчев, јунак млад,",
+       "lat": "tamu se rodi Delčev, junak mlad,",
+       "en": "there Delchev was born, a young hero,"
+      },
+      {
+       "cyr": "против тиран клет прв се кренал тој,",
+       "lat": "protiv tiran klet prv se krenal toj,",
+       "en": "he was the first to rise against the cursed tyrant,"
+      },
+      {
+       "cyr": "да ослободи мачен народ свој.",
+       "lat": "da oslobodi mačen narod svoj.",
+       "en": "to free his tormented people."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Гоце војвода,",
+       "lat": "Ej, Goce vojvoda,",
+       "en": "Hey, Gotse the voivode,"
+      },
+      {
+       "cyr": "голем јунак наш,",
+       "lat": "golem junak naš,",
+       "en": "our great hero,"
+      },
+      {
+       "cyr": "син македонски!",
+       "lat": "sin makedonski!",
+       "en": "Macedonian son!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Гоце војвода повел храбар бој,",
+       "lat": "Goce vojvoda povel hrabar boj,",
+       "en": "Gotse the voivode led a brave fight,"
+      },
+      {
+       "cyr": "срце јуначко в' гради носел тој.",
+       "lat": "srce junačko v' gradi nosel toj.",
+       "en": "he carried a heroic heart in his chest."
+      },
+      {
+       "cyr": "Против тиран клет храбро кренал глас:",
+       "lat": "Protiv tiran klet hrabro krenal glas:",
+       "en": "Against the cursed tyrant he bravely raised his voice:"
+      },
+      {
+       "cyr": "- За Македонци - слобода и спас!",
+       "lat": "- Za Makedonci - sloboda i spas!",
+       "en": "- For Macedonians, freedom and salvation!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј, Гоце војвода,",
+       "lat": "Ej, Goce vojvoda,",
+       "en": "Hey, Gotse the voivode,"
+      },
+      {
+       "cyr": "голем јунак наш,",
+       "lat": "golem junak naš,",
+       "en": "our great hero,"
+      },
+      {
+       "cyr": "син македонски!",
+       "lat": "sin makedonski!",
+       "en": "Macedonian son!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,201 @@
+{
+ "id": 712,
+ "slug": "kaj-si-majko-da-me-vidish",
+ "title_cyr": "Кај си мајко да ме видиш",
+ "title_latin": "Kaj si majko da me vidiš",
+ "title_en": "Where Are You, Mother, to See Me",
+ "pesna_url": "https://pesna.org/song/712",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Не ќе го видам' is a dialect negative future I read as 'I shall not see'. 'Земни праг' is my reading as 'threshold of the earth'; I am unsure of it.",
+ "words_to_learn": [
+  {
+   "mk": "дереџе",
+   "en": "state, condition (Turkish-origin)"
+  },
+  {
+   "mk": "лути рани",
+   "en": "bitter, severe wounds"
+  },
+  {
+   "mk": "јатаган",
+   "en": "yataghan, curved Ottoman sword"
+  },
+  {
+   "mk": "куршум",
+   "en": "bullet"
+  },
+  {
+   "mk": "душмански",
+   "en": "enemy's, hostile"
+  },
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "богородно",
+   "en": "fertile"
+  },
+  {
+   "mk": "родниот крај",
+   "en": "native land"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/465"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Кај си мајко да ме видиш",
+       "lat": "Kaj si majko da me vidiš",
+       "en": "Where are you, mother, to see me,"
+      },
+      {
+       "cyr": "на какво сум мајко дереџе.",
+       "lat": "na kakvo sum majko deredže.",
+       "en": "in what a state I am, mother."
+      },
+      {
+       "cyr": "Лути рани да преврзиш",
+       "lat": "Luti rani da prevrziš",
+       "en": "To bandage my bitter wounds"
+      },
+      {
+       "cyr": "од душмански јатаган.",
+       "lat": "od dušmanski jatagan.",
+       "en": "from the enemy's yataghan."
+      },
+      {
+       "cyr": "Лути рани да преврзиш",
+       "lat": "Luti rani da prevrziš",
+       "en": "To bandage my bitter wounds"
+      },
+      {
+       "cyr": "од душмански јатаган.",
+       "lat": "od dušmanski jatagan.",
+       "en": "from the enemy's yataghan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "По снегојте се тркалам,",
+       "lat": "Po snegojte se trkalam,",
+       "en": "I roll about in the snow,"
+      },
+      {
+       "cyr": "крвта ми мајко не спијат.",
+       "lat": "krvta mi majko ne spijat.",
+       "en": "my blood, mother, will not stop."
+      },
+      {
+       "cyr": "Во гради ми куршум лежит,",
+       "lat": "Vo gradi mi kuršum ležit,",
+       "en": "A bullet lies in my chest,"
+      },
+      {
+       "cyr": "десна ми рака скршена.",
+       "lat": "desna mi raka skršena.",
+       "en": "my right arm is broken."
+      },
+      {
+       "cyr": "Во гради ми куршум лежит,",
+       "lat": "Vo gradi mi kuršum ležit,",
+       "en": "A bullet lies in my chest,"
+      },
+      {
+       "cyr": "десна ми рака скршена.",
+       "lat": "desna mi raka skršena.",
+       "en": "my right arm is broken."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зарад тебе, Македонијо,",
+       "lat": "Zarad tebe, Makedonijo,",
+       "en": "For you, Macedonia,"
+      },
+      {
+       "cyr": "заради твоите другари,",
+       "lat": "zaradi tvoite drugari,",
+       "en": "for your comrades,"
+      },
+      {
+       "cyr": "овие маки јас ги тргам,",
+       "lat": "ovie maki jas gi trgam,",
+       "en": "I bear these torments,"
+      },
+      {
+       "cyr": "за да умрам в' крвав бој.",
+       "lat": "za da umram v' krvav boj.",
+       "en": "so that I may die in bloody battle."
+      },
+      {
+       "cyr": "Овие маки јас ги тргам,",
+       "lat": "Ovie maki jas gi trgam,",
+       "en": "I bear these torments,"
+      },
+      {
+       "cyr": "за да умрам в' крвав бој.",
+       "lat": "za da umram v' krvav boj.",
+       "en": "so that I may die in bloody battle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Збогум поле богородно,",
+       "lat": "Zbogum pole bogorodno,",
+       "en": "Farewell, fertile field,"
+      },
+      {
+       "cyr": "збогум земјо, земни праг.",
+       "lat": "zbogum zemjo, zemni prag.",
+       "en": "farewell, earth, threshold of the land."
+      },
+      {
+       "cyr": "Збогум гори и планини,",
+       "lat": "Zbogum gori i planini,",
+       "en": "Farewell, forests and mountains,"
+      },
+      {
+       "cyr": "не ќе го видам родниот крај.",
+       "lat": "ne ḱe go vidam rodniot kraj.",
+       "en": "I shall not see my native land."
+      },
+      {
+       "cyr": "Збогум гори и планини,",
+       "lat": "Zbogum gori i planini,",
+       "en": "Farewell, forests and mountains,"
+      },
+      {
+       "cyr": "не ќе го видам родниот крај.",
+       "lat": "ne ḱe go vidam rodniot kraj.",
+       "en": "I shall not see my native land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

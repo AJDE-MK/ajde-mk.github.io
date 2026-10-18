@@ -1,0 +1,176 @@
+{
+ "id": 885,
+ "slug": "shekjerino-maloj-mome",
+ "title_cyr": "Шеќерино малој моме",
+ "title_latin": "Šeḱerino maloj mome",
+ "title_en": "Sugar-sweet little girl",
+ "pesna_url": "https://pesna.org/song/885",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Да се кити аџи Зоран' and 'на Ѓурчета' are my reading. The last two lines ('сакаш дојди, сакаш не иди') are unusual wording and probably 'come if you want, stay away if you don't'.",
+ "words_to_learn": [
+  {
+   "mk": "шеќерино",
+   "en": "sugar-sweet one (endearment)"
+  },
+  {
+   "mk": "пазува",
+   "en": "bosom, inside the shirt front"
+  },
+  {
+   "mk": "китка",
+   "en": "bunch (of flowers)"
+  },
+  {
+   "mk": "аџи",
+   "en": "hadji (man who made the pilgrimage)"
+  },
+  {
+   "mk": "беќари",
+   "en": "bachelors"
+  },
+  {
+   "mk": "севда",
+   "en": "love, passion (Turkish loan)"
+  },
+  {
+   "mk": "се кити",
+   "en": "adorns himself"
+  }
+ ],
+ "performers": [
+  "Виктор Масторидис",
+  "Драги Спасовски",
+  "Серенада"
+ ],
+ "audio": [
+  {
+   "who": "Серенада",
+   "url": "https://pesna.org/audio-download/1927"
+  },
+  {
+   "who": "Виктор Масторидис",
+   "url": "https://pesna.org/audio-download/1928"
+  },
+  {
+   "who": "Драги Спасовски",
+   "url": "https://pesna.org/audio-download/3417"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Шеќерино малој моме,",
+       "lat": "Šeḱerino maloj mome,",
+       "en": "Sugar-sweet little girl,"
+      },
+      {
+       "cyr": "шеќеројна ти миришиш,",
+       "lat": "šeḱerojna ti mirišiš,",
+       "en": "you smell of sugar,"
+      },
+      {
+       "cyr": "шеќер носиш у пазува.",
+       "lat": "šeḱer nosiš u pazuva.",
+       "en": "you carry sugar in your bosom."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Шеќер носиш у пазува,",
+       "lat": "Šeḱer nosiš u pazuva,",
+       "en": "You carry sugar in your bosom,"
+      },
+      {
+       "cyr": "а у рука китка цвеќе,",
+       "lat": "a u ruka kitka cveḱe,",
+       "en": "and in your hand a bunch of flowers,"
+      },
+      {
+       "cyr": "да се кити аџи Зоран.",
+       "lat": "da se kiti adži Zoran.",
+       "en": "to adorn Hadji Zoran."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се кити аџи Зоран,",
+       "lat": "Da se kiti adži Zoran,",
+       "en": "To adorn Hadji Zoran,"
+      },
+      {
+       "cyr": "да премами све беќари,",
+       "lat": "da premami sve beḱari,",
+       "en": "to lure all the bachelors,"
+      },
+      {
+       "cyr": "а највише млади Јордан.",
+       "lat": "a najviše mladi Jordan.",
+       "en": "and most of all young Jordan."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А највише млади Јордан,",
+       "lat": "A najviše mladi Jordan,",
+       "en": "And most of all young Jordan,"
+      },
+      {
+       "cyr": "млади Јордан, на Ѓурчета.",
+       "lat": "mladi Jordan, na Ǵurčeta.",
+       "en": "young Jordan, of the Gjurcheta family."
+      },
+      {
+       "cyr": "- Шеќерино мори, малој моме,",
+       "lat": "- Šeḱerino mori, maloj mome,",
+       "en": "- Sugar-sweet one, hey, little girl,"
+      },
+      {
+       "cyr": "која вечер ја да дојдем?",
+       "lat": "koja večer ja da dojdem?",
+       "en": "which evening shall I come?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Сакаш дојди, сакаш не иди,",
+       "lat": "- Sakaš dojdi, sakaš ne idi,",
+       "en": "- Come if you want, don't go if you don't,"
+      },
+      {
+       "cyr": "севдата ми поминала,",
+       "lat": "sevdata mi pominala,",
+       "en": "my passion has passed,"
+      },
+      {
+       "cyr": "сакаш дојди, сакаш не иди,",
+       "lat": "sakaš dojdi, sakaš ne idi,",
+       "en": "come if you want, don't go if you don't,"
+      },
+      {
+       "cyr": "лицето ми огрубело.",
+       "lat": "liceto mi ogrubelo.",
+       "en": "my face has grown coarse."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

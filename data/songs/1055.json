@@ -1,0 +1,214 @@
+{
+ "id": 1055,
+ "slug": "zapejte-site-angeli",
+ "title_cyr": "Запејте сите ангели",
+ "title_latin": "Zapejte site angeli",
+ "title_en": "Sing, All You Angels",
+ "pesna_url": "https://pesna.org/song/1055",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; seems a recent church-themed song. 'трет Илинден' I read as the third 'Ilinden' (referring to the day's significance); 'постоиме' is my reading of 'we exist/endure'.",
+ "words_to_learn": [
+  {
+   "mk": "ангели",
+   "en": "angels"
+  },
+  {
+   "mk": "камбани",
+   "en": "bells"
+  },
+  {
+   "mk": "збирајте се",
+   "en": "gather"
+  },
+  {
+   "mk": "благословени",
+   "en": "blessed"
+  },
+  {
+   "mk": "храм",
+   "en": "temple, church"
+  },
+  {
+   "mk": "црква",
+   "en": "church"
+  },
+  {
+   "mk": "газеа",
+   "en": "they trampled"
+  },
+  {
+   "mk": "гордост",
+   "en": "pride"
+  }
+ ],
+ "performers": [
+  "Гоце Николовски",
+  "Ламбе Алабаковски"
+ ],
+ "audio": [
+  {
+   "who": "Гоце Николовски",
+   "url": "https://pesna.org/audio-download/2405"
+  },
+  {
+   "who": "Ламбе Алабаковски",
+   "url": "https://pesna.org/audio-download/2598"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дванајсти август посветен,",
+       "lat": "Dvanajsti avgust posveten,",
+       "en": "Twelfth of August, sanctified,"
+      },
+      {
+       "cyr": "се роди трет Илинден,",
+       "lat": "se rodi tret Ilinden,",
+       "en": "the third Ilinden was born,"
+      },
+      {
+       "cyr": "среде Скопје храм македонски",
+       "lat": "srede Skopje hram makedonski",
+       "en": "in the middle of Skopje a Macedonian temple"
+      },
+      {
+       "cyr": "на Свети Климент Охридски.",
+       "lat": "na Sveti Kliment Ohridski.",
+       "en": "to Saint Clement of Ohrid."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запејте сите ангели,",
+       "lat": "Zapejte site angeli,",
+       "en": "Sing, all you angels,"
+      },
+      {
+       "cyr": "загрмете стари камбани,",
+       "lat": "zagrmete stari kambani,",
+       "en": "thunder, old bells,"
+      },
+      {
+       "cyr": "збирајте се, Македонци,",
+       "lat": "zbirajte se, Makedonci,",
+       "en": "gather, Macedonians,"
+      },
+      {
+       "cyr": "бидете благословени.",
+       "lat": "bidete blagosloveni.",
+       "en": "be blessed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Времиња тешки минаа,",
+       "lat": "Vreminja teški minaa,",
+       "en": "Hard times passed,"
+      },
+      {
+       "cyr": "срцата ни ги кинеа,",
+       "lat": "srcata ni gi kinea,",
+       "en": "they tore our hearts,"
+      },
+      {
+       "cyr": "кога наша црква газеа,",
+       "lat": "koga naša crkva gazea,",
+       "en": "when they trampled our church,"
+      },
+      {
+       "cyr": "ѕвезди од небо паѓаа.",
+       "lat": "dzvezdi od nebo paǵaa.",
+       "en": "stars fell from the sky."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запејте сите ангели,",
+       "lat": "Zapejte site angeli,",
+       "en": "Sing, all you angels,"
+      },
+      {
+       "cyr": "загрмете стари камбани,",
+       "lat": "zagrmete stari kambani,",
+       "en": "thunder, old bells,"
+      },
+      {
+       "cyr": "збирајте се, Македонци,",
+       "lat": "zbirajte se, Makedonci,",
+       "en": "gather, Macedonians,"
+      },
+      {
+       "cyr": "бидете благословени.",
+       "lat": "bidete blagosloveni.",
+       "en": "be blessed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Храмот е вознес за вечни времиња,",
+       "lat": "Hramot e voznes za večni vreminja,",
+       "en": "The temple is raised for eternal times,"
+      },
+      {
+       "cyr": "гордост на Македонија,",
+       "lat": "gordost na Makedonija,",
+       "en": "pride of Macedonia,"
+      },
+      {
+       "cyr": "признале некои или не,",
+       "lat": "priznale nekoi ili ne,",
+       "en": "whether some recognized it or not,"
+      },
+      {
+       "cyr": "со тебе, мајко, постоиме.",
+       "lat": "so tebe, majko, postoime.",
+       "en": "with you, mother, we endure."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Запејте сите ангели,",
+       "lat": "Zapejte site angeli,",
+       "en": "Sing, all you angels,"
+      },
+      {
+       "cyr": "загрмете стари камбани,",
+       "lat": "zagrmete stari kambani,",
+       "en": "thunder, old bells,"
+      },
+      {
+       "cyr": "збирајте се, Македонци,",
+       "lat": "zbirajte se, Makedonci,",
+       "en": "gather, Macedonians,"
+      },
+      {
+       "cyr": "бидете благословени.",
+       "lat": "bidete blagosloveni.",
+       "en": "be blessed."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

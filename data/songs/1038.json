@@ -1,0 +1,279 @@
+{
+ "id": 1038,
+ "slug": "letoechka-pesna",
+ "title_cyr": "Летоечка песна",
+ "title_latin": "Letoečka pesna",
+ "title_en": "Song of the Summer Festival (Letoechka)",
+ "pesna_url": "https://pesna.org/song/1038",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional song (title says Летоечка, a seasonal song). 'Мие' in line 4 and 'се подвирило' as 'been flooded' are my reading; 'зборвит', 'држит' are dialect -it forms.",
+ "words_to_learn": [
+  {
+   "mk": "двор(је)",
+   "en": "yard"
+  },
+  {
+   "mk": "сеир",
+   "en": "spectacle, sight to watch"
+  },
+  {
+   "mk": "поле",
+   "en": "plain, field"
+  },
+  {
+   "mk": "зандан",
+   "en": "dungeon"
+  },
+  {
+   "mk": "јунак",
+   "en": "hero, brave man"
+  },
+  {
+   "mk": "вилает",
+   "en": "province, homeland (Turkish loan)"
+  },
+  {
+   "mk": "Велигден",
+   "en": "Easter"
+  },
+  {
+   "mk": "Крстовден",
+   "en": "Holy Cross Day"
+  },
+  {
+   "mk": "Божиќ",
+   "en": "Christmas"
+  },
+  {
+   "mk": "грутка",
+   "en": "lump, clod"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Недо, бела Недо,",
+       "lat": "Nedo, bela Nedo,",
+       "en": "Nedo, white Nedo,"
+      },
+      {
+       "cyr": "ти излези во дворје,",
+       "lat": "ti izlezi vo dvorje,",
+       "en": "come out into the yard,"
+      },
+      {
+       "cyr": "сеир да гледаме,",
+       "lat": "seir da gledame,",
+       "en": "let us watch the spectacle,"
+      },
+      {
+       "cyr": "сеир мие да гледаме.",
+       "lat": "seir mie da gledame.",
+       "en": "the spectacle, let us watch it, my dear."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Над Солунско поле",
+       "lat": "Nad Solunsko pole",
+       "en": "Over the Salonika plain"
+      },
+      {
+       "cyr": "два орла се бијат,",
+       "lat": "dva orla se bijat,",
+       "en": "two eagles are fighting,"
+      },
+      {
+       "cyr": "црни крви од нив течат,",
+       "lat": "crni krvi od niv tečat,",
+       "en": "black blood flows from them,"
+      },
+      {
+       "cyr": "поле се подвирило.",
+       "lat": "pole se podvirilo.",
+       "en": "the plain has been flooded."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Поле се подвирило,",
+       "lat": "Pole se podvirilo,",
+       "en": "The plain has been flooded,"
+      },
+      {
+       "cyr": "до темни зандани,",
+       "lat": "do temni zandani,",
+       "en": "down to the dark dungeons,"
+      },
+      {
+       "cyr": "во зандани лежит",
+       "lat": "vo zandani ležit",
+       "en": "in the dungeon lies"
+      },
+      {
+       "cyr": "Дојчин добар јунак.",
+       "lat": "Dojčin dobar junak.",
+       "en": "Dojchin, a good hero."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На колено држит",
+       "lat": "Na koleno držit",
+       "en": "On his knee he holds"
+      },
+      {
+       "cyr": "пиле шарен глагол,",
+       "lat": "pile šaren glagol,",
+       "en": "a bird of colorful speech,"
+      },
+      {
+       "cyr": "на колено држит",
+       "lat": "na koleno držit",
+       "en": "on his knee he holds it"
+      },
+      {
+       "cyr": "и на пиле тој му зборвит:",
+       "lat": "i na pile toj mu zborvit:",
+       "en": "and speaks to the bird:"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не те ранам што си лепо,",
+       "lat": "- Ne te ranam što si lepo,",
+       "en": "- I do not feed you because you are pretty,"
+      },
+      {
+       "cyr": "тук' те ранам да те пратам",
+       "lat": "tuk' te ranam da te pratam",
+       "en": "but I feed you to send you"
+      },
+      {
+       "cyr": "на мој далечен вилает.",
+       "lat": "na moj dalečen vilaet.",
+       "en": "to my distant province."
+      },
+      {
+       "cyr": "Ти да видиш, пиле мое,",
+       "lat": "Ti da vidiš, pile moe,",
+       "en": "You are to see, my bird,"
+      },
+      {
+       "cyr": "која доба е на мој вилает,",
+       "lat": "koja doba e na moj vilaet,",
+       "en": "what season it is in my province,"
+      },
+      {
+       "cyr": "дал' Велигден, ил' Петровден,",
+       "lat": "dal' Veligden, il' Petrovden,",
+       "en": "whether it is Easter, or St Peter's Day,"
+      },
+      {
+       "cyr": "ил' Петровден, ил' Крстовден,",
+       "lat": "il' Petrovden, il' Krstovden,",
+       "en": "or St Peter's Day, or Holy Cross Day,"
+      },
+      {
+       "cyr": "или пак сега е Божиќ.",
+       "lat": "ili pak sega e Božiḱ.",
+       "en": "or else it is Christmas now."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е пиле Велигден,",
+       "lat": "Ako e pile Veligden,",
+       "en": "If it is Easter, bird,"
+      },
+      {
+       "cyr": "ти да ми донесиш",
+       "lat": "ti da mi donesiš",
+       "en": "you are to bring me"
+      },
+      {
+       "cyr": "две јајца црвени.",
+       "lat": "dve jajca crveni.",
+       "en": "two red eggs."
+      },
+      {
+       "cyr": "Ако е пиле Петровден,",
+       "lat": "Ako e pile Petrovden,",
+       "en": "If it is St Peter's Day, bird,"
+      },
+      {
+       "cyr": "ти да ми донесиш",
+       "lat": "ti da mi donesiš",
+       "en": "you are to bring me"
+      },
+      {
+       "cyr": "две грнци кисело млеко.",
+       "lat": "dve grnci kiselo mleko.",
+       "en": "two pots of sour milk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако е пиле Крстовден,",
+       "lat": "Ako e pile Krstovden,",
+       "en": "If it is Holy Cross Day, bird,"
+      },
+      {
+       "cyr": "ти да ми донесиш",
+       "lat": "ti da mi donesiš",
+       "en": "you are to bring me"
+      },
+      {
+       "cyr": "два грозда румени.",
+       "lat": "dva grozda rumeni.",
+       "en": "two ruddy bunches of grapes."
+      },
+      {
+       "cyr": "Ако е пиле Божиќ",
+       "lat": "Ako e pile Božiḱ",
+       "en": "If it is Christmas,"
+      },
+      {
+       "cyr": "ти да ми донесиш",
+       "lat": "ti da mi donesiš",
+       "en": "you are to bring me"
+      },
+      {
+       "cyr": "до две грутки снегој",
+       "lat": "do dve grutki snegoj",
+       "en": "up to two lumps of snow"
+      },
+      {
+       "cyr": "од мој далечен вилает.",
+       "lat": "od moj dalečen vilaet.",
+       "en": "from my distant province."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

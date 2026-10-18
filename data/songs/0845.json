@@ -1,0 +1,151 @@
+{
+ "id": 845,
+ "slug": "sadila-dimka-bosilche",
+ "title_cyr": "Садила Димка босилче",
+ "title_latin": "Sadila Dimka bosilče",
+ "title_en": "Dimka Planted Basil",
+ "pesna_url": "https://pesna.org/song/845",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'Коja ли гора да фатам' is my reading as a wail about where to flee or wander; the basil-and-flower exchange is a folk courtship image.",
+ "words_to_learn": [
+  {
+   "mk": "босилче",
+   "en": "basil (little basil, a courtship plant)"
+  },
+  {
+   "mk": "зумбулче",
+   "en": "little hyacinth"
+  },
+  {
+   "mk": "бавча",
+   "en": "garden"
+  },
+  {
+   "mk": "молчи",
+   "en": "hush, be quiet"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "никнало",
+   "en": "came up, sprouted"
+  },
+  {
+   "mk": "гора",
+   "en": "forest"
+  },
+  {
+   "mk": "фатам",
+   "en": "I take, I catch"
+  }
+ ],
+ "performers": [
+  "Атанаска Димитрова",
+  "Димитар Коларов"
+ ],
+ "audio": [
+  {
+   "who": "Атанаска Димитрова, Димитар Коларов",
+   "url": "https://pesna.org/audio-download/1825"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Садила Димка босилче",
+       "lat": "Sadila Dimka bosilče",
+       "en": "Dimka planted basil"
+      },
+      {
+       "cyr": "на една бавча крај море.",
+       "lat": "na edna bavča kraj more.",
+       "en": "in a garden by the sea."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми никнало босилче,",
+       "lat": "Ne mi niknalo bosilče,",
+       "en": "Basil did not come up for me,"
+      },
+      {
+       "cyr": "но ми никнало зумбулче.",
+       "lat": "no mi niknalo zumbulče.",
+       "en": "but a hyacinth came up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Викна ми Димка да плаче:",
+       "lat": "Vikna mi Dimka da plače:",
+       "en": "Dimka began to cry out:"
+      },
+      {
+       "cyr": "- Ој леле, Боже, до бога,",
+       "lat": "- Oj lele, Bože, do boga,",
+       "en": "- Oh woe, God, my God,"
+      },
+      {
+       "cyr": "која ли гора да фатам?",
+       "lat": "koja li gora da fatam?",
+       "en": "which forest shall I take?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка ѝ вели, говори:",
+       "lat": "Majka ì veli, govori:",
+       "en": "Her mother says to her, speaks:"
+      },
+      {
+       "cyr": "- Молчи ми, Димке, не плачи,",
+       "lat": "- Molči mi, Dimke, ne plači,",
+       "en": "- Hush, Dimka, don't cry,"
+      },
+      {
+       "cyr": "утре либето ќе дојде,",
+       "lat": "utre libeto ḱe dojde,",
+       "en": "tomorrow your sweetheart will come,"
+      },
+      {
+       "cyr": "тој ќе ти даде босилче.",
+       "lat": "toj ḱe ti dade bosilče.",
+       "en": "he will give you basil."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Он ќе ти даде босилче,",
+       "lat": "On ḱe ti dade bosilče,",
+       "en": "He will give you basil,"
+      },
+      {
+       "cyr": "ти ќе му дадеш зумбулче.",
+       "lat": "ti ḱe mu dadeš zumbulče.",
+       "en": "and you will give him a hyacinth."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

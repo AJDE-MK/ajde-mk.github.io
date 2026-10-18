@@ -1,0 +1,134 @@
+{
+ "id": 548,
+ "slug": "momche-mlado-ubavo",
+ "title_cyr": "Момче младо убаво",
+ "title_latin": "Momče mlado ubavo",
+ "title_en": "Beautiful Young Man",
+ "pesna_url": "https://pesna.org/song/548",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern composition but no author can be named). The addressee shifts between a young man and a girl (моме), and the second stanza is loosely worded, so 'Whether you want to or not, be mine and love another' is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "момче",
+   "en": "boy, young man"
+  },
+  {
+   "mk": "младо",
+   "en": "young"
+  },
+  {
+   "mk": "калешо",
+   "en": "lad, fellow (form of address, my reading)"
+  },
+  {
+   "mk": "очи",
+   "en": "eyes"
+  },
+  {
+   "mk": "прекрасни",
+   "en": "wonderful, splendid"
+  },
+  {
+   "mk": "сакаш",
+   "en": "you want, you love"
+  },
+  {
+   "mk": "нејќеш",
+   "en": "you don't want"
+  },
+  {
+   "mk": "љубов",
+   "en": "love"
+  },
+  {
+   "mk": "животот",
+   "en": "life (the life)"
+  }
+ ],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Момче младо убаво [2х]",
+       "lat": "Momče mlado ubavo [2h]",
+       "en": "Beautiful young man [2x]"
+      },
+      {
+       "cyr": "калешо Македонче",
+       "lat": "kalešo Makedonče",
+       "en": "Macedonian lad"
+      },
+      {
+       "cyr": "моиве очи прекрасни [2х]",
+       "lat": "moive oči prekrasni [2h]",
+       "en": "these eyes of mine, wonderful [2x]"
+      },
+      {
+       "cyr": "секој ден те гледаат.",
+       "lat": "sekoj den te gledaat.",
+       "en": "look at you every day."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сакаш, нејќеш да си моја",
+       "lat": "Sakaš, nejḱeš da si moja",
+       "en": "Whether you want to or not, be mine"
+      },
+      {
+       "cyr": "и да љубиш друг.",
+       "lat": "i da ljubiš drug.",
+       "en": "and love another."
+      },
+      {
+       "cyr": "Животот е многу краток",
+       "lat": "Životot e mnogu kratok",
+       "en": "Life is very short"
+      },
+      {
+       "cyr": "на овој чуден свет.",
+       "lat": "na ovoj čuden svet.",
+       "en": "in this strange world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Како вода течам јас",
+       "lat": "Kako voda tečam jas",
+       "en": "I flow like water"
+      },
+      {
+       "cyr": "и за тебе моме ќе умрам",
+       "lat": "i za tebe mome ḱe umram",
+       "en": "and I will die for you, girl,"
+      },
+      {
+       "cyr": "љубов моја дојди ми, сега ти",
+       "lat": "ljubov moja dojdi mi, sega ti",
+       "en": "my love, come to me, now you,"
+      },
+      {
+       "cyr": "и ти живеј само со мене.",
+       "lat": "i ti živej samo so mene.",
+       "en": "and you live only with me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

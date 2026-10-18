@@ -1,0 +1,147 @@
+{
+ "id": 861,
+ "slug": "ruse-le-mome-ubavo",
+ "title_cyr": "Русе ле моме убаво",
+ "title_latin": "Ruse le mome ubavo",
+ "title_en": "Fair-haired beautiful girl",
+ "pesna_url": "https://pesna.org/song/861",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'со Бога ли си вечерала' is an idiom for 'are you so divinely beautiful'; my reading. 'ле' is an interjection rendered 'hey'.",
+ "words_to_learn": [
+  {
+   "mk": "руса",
+   "en": "fair-haired, blonde"
+  },
+  {
+   "mk": "коси",
+   "en": "hair"
+  },
+  {
+   "mk": "се руси",
+   "en": "is blonde/golden"
+  },
+  {
+   "mk": "вечерала",
+   "en": "had dinner"
+  },
+  {
+   "mk": "со Бога",
+   "en": "with God"
+  },
+  {
+   "mk": "Солун",
+   "en": "Thessaloniki"
+  },
+  {
+   "mk": "Битола",
+   "en": "Bitola"
+  },
+  {
+   "mk": "не кревај се на големо",
+   "en": "don't put on airs"
+  }
+ ],
+ "performers": [
+  "Болеробенд",
+  "Наум Петрески"
+ ],
+ "audio": [
+  {
+   "who": "Болеробенд",
+   "url": "https://pesna.org/audio-download/1881"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/2107"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Русе ле моме убаво,",
+       "lat": "Ruse le mome ubavo,",
+       "en": "Hey fair-haired beautiful girl,"
+      },
+      {
+       "cyr": "што ти се руси косите,",
+       "lat": "što ti se rusi kosite,",
+       "en": "why is your hair so golden,"
+      },
+      {
+       "cyr": "со Бога ли си вечерала",
+       "lat": "so Boga li si večerala",
+       "en": "did you have dinner with God"
+      },
+      {
+       "cyr": "што си ми толку убава,",
+       "lat": "što si mi tolku ubava,",
+       "en": "that you are so beautiful for me,"
+      },
+      {
+       "cyr": "од Солуна до Битола",
+       "lat": "od Soluna do Bitola",
+       "en": "that from Solun to Bitola"
+      },
+      {
+       "cyr": "да нема момче за тебе?",
+       "lat": "da nema momče za tebe?",
+       "en": "there is no lad for you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Русе ле моме убаво",
+       "lat": "Ruse le mome ubavo",
+       "en": "Hey fair-haired beautiful girl,"
+      },
+      {
+       "cyr": "не кревај се на големо",
+       "lat": "ne krevaj se na golemo",
+       "en": "don't puff yourself up,"
+      },
+      {
+       "cyr": "со Бога ли си вечерала",
+       "lat": "so Boga li si večerala",
+       "en": "did you have dinner with God"
+      },
+      {
+       "cyr": "што си ми толку убава,",
+       "lat": "što si mi tolku ubava,",
+       "en": "that you are so beautiful for me,"
+      },
+      {
+       "cyr": "од Солуна до Битола",
+       "lat": "od Soluna do Bitola",
+       "en": "that from Solun to Bitola"
+      },
+      {
+       "cyr": "да нема момче за тебе?",
+       "lat": "da nema momče za tebe?",
+       "en": "there is no lad for you?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Русе ле, моме убаво.",
+       "lat": "Ruse le, mome ubavo.",
+       "en": "Hey fair-haired, beautiful girl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,88 @@
+{
+ "id": 1019,
+ "slug": "devojche-tenko-visoko",
+ "title_cyr": "Девојче тенко високо",
+ "title_latin": "Devojče tenko visoko",
+ "title_en": "Thin and tall girl",
+ "pesna_url": "https://pesna.org/song/1019",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2357"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девојче тенко, високо, аман, аман,",
+       "lat": "Devojče tenko, visoko, aman, aman,",
+       "en": "Thin and tall girl,"
+      },
+      {
+       "cyr": "не одај ситно пред мене.",
+       "lat": "ne odaj sitno pred mene.",
+       "en": "don't walk with short steps in front of me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не одај ситно пред мене, аман, аман,",
+       "lat": "Ne odaj sitno pred mene, aman, aman,",
+       "en": "Don't walk with short steps in front of me,"
+      },
+      {
+       "cyr": "не дигај магли, праови.",
+       "lat": "ne digaj magli, praovi.",
+       "en": "don't make mist and dust."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не дигај магли, праови, аман, аман,",
+       "lat": "Ne digaj magli, praovi, aman, aman,",
+       "en": "Don't make mist and dust,"
+      },
+      {
+       "cyr": "не ми скоривај јадови.",
+       "lat": "ne mi skorivaj jadovi.",
+       "en": "don't wake the grief inside me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Не ми скоривај јадови, аман, аман,",
+       "lat": "Ne mi skorivaj jadovi, aman, aman,",
+       "en": "Don't wake the grief inside me,"
+      },
+      {
+       "cyr": "каде сум само, јадовно.",
+       "lat": "kade sum samo, jadovno.",
+       "en": "when I am already alone, grieving."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

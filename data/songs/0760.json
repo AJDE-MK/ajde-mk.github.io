@@ -1,0 +1,146 @@
+{
+ "id": 760,
+ "slug": "ori-anche-belo-i-crveno",
+ "title_cyr": "Ори Анче бело и црвено",
+ "title_latin": "Ori Anče belo i crveno",
+ "title_en": "Hey Ance, white and red",
+ "pesna_url": "https://pesna.org/song/760",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1280"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ори Анче бело и црвено",
+       "lat": "Ori Anče belo i crveno",
+       "en": "Hey Ance, white and red,"
+      },
+      {
+       "cyr": "ил' мене не ме сакаш, бело Анче,",
+       "lat": "il' mene ne me sakaš, belo Anče,",
+       "en": "you don't love me, white Ance,"
+      },
+      {
+       "cyr": "ил' мене не ме сакаш, бре.",
+       "lat": "il' mene ne me sakaš, bre.",
+       "en": "you don't love me, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И тебе те сакам, калеш Димчо",
+       "lat": "I tebe te sakam, kaleš Dimčo",
+       "en": "I both love you, dear Dimco,"
+      },
+      {
+       "cyr": "и дворовите метам, калеш Димчо",
+       "lat": "i dvorovite metam, kaleš Dimčo",
+       "en": "and I am sweeping the yard, dear Dimco,"
+      },
+      {
+       "cyr": "и дворовите метам, бре.",
+       "lat": "i dvorovite metam, bre.",
+       "en": "and I am sweeping the yard, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лошо сум сонило, калеш Димчо",
+       "lat": "Lošo sum sonilo, kaleš Dimčo",
+       "en": "I had a bad dream, dear Dimco,"
+      },
+      {
+       "cyr": "звезда вечерница, калеш Димчо",
+       "lat": "zvezda večernica, kaleš Dimčo",
+       "en": "a night star, dear Dimco,"
+      },
+      {
+       "cyr": "звезда вечерница, бре.",
+       "lat": "zvezda večernica, bre.",
+       "en": "a night star, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Звезда вечерница, калеш Димчо",
+       "lat": "Zvezda večernica, kaleš Dimčo",
+       "en": "A night star, dear Dimco,"
+      },
+      {
+       "cyr": "во скут ми паднала, калеш Димчо",
+       "lat": "vo skut mi padnala, kaleš Dimčo",
+       "en": "fell into my lap, dear Dimco,"
+      },
+      {
+       "cyr": "скут ми изгорела, бре.",
+       "lat": "skut mi izgorela, bre.",
+       "en": "and burned my lap, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дај ми изим Анче, бело Анче,",
+       "lat": "Daj mi izim Anče, belo Anče,",
+       "en": "Give me permission Ance, white Ance,"
+      },
+      {
+       "cyr": "на гурбет да одам, бело Анче,",
+       "lat": "na gurbet da odam, belo Anče,",
+       "en": "to go to work abroad, white Ance,"
+      },
+      {
+       "cyr": "на гурбет да одам, бре.",
+       "lat": "na gurbet da odam, bre.",
+       "en": "to go to work abroad, hey."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На гурбет да одам, бело Анче,",
+       "lat": "Na gurbet da odam, belo Anče,",
+       "en": "To go to work abroad, white Ance,"
+      },
+      {
+       "cyr": "пари да спечалам, бело Анче,",
+       "lat": "pari da spečalam, belo Anče,",
+       "en": "to earn some money, white Ance,"
+      },
+      {
+       "cyr": "тебе да те земам, бре.",
+       "lat": "tebe da te zemam, bre.",
+       "en": "to marry you, hey."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

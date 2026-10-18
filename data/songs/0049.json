@@ -1,0 +1,128 @@
+{
+ "id": 49,
+ "slug": "lele-jano",
+ "title_cyr": "Леле Јано",
+ "title_latin": "Lele Jano",
+ "title_en": "Oh my Jana",
+ "pesna_url": "https://pesna.org/song/49",
+ "background": "A mother-daughter dialogue with a twist. Why do you sit all day at the embroidery frame? Not a silk headscarf, mother: I am embroidering a Macedonian flag, so I can become a young *komita* and cover (mourn) the voivoda Delčev, who died for Macedonia. The hidden object in the embroidery is a trick that appears in many Balkan songs.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Монистра",
+  "Танец",
+  "Lola Lafon",
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/998"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/999"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/1000"
+  },
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/1001"
+  },
+  {
+   "who": "Lola Lafon",
+   "url": "https://pesna.org/audio-download/2332"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Леле Јано, леле мила ќерко,",
+       "lat": "Lele Jano, lele mila ḱerko,",
+       "en": "Lele* Jana, lele dear daughter,"
+      },
+      {
+       "cyr": "а што седиш везден на ѓерѓефот?",
+       "lat": "a što sediš vezden na ǵerǵefot?",
+       "en": "why are you sitting all day at that embroidery frame?"
+      },
+      {
+       "cyr": "А што седиш везден на ѓерѓефот,",
+       "lat": "A što sediš vezden na ǵerǵefot,",
+       "en": "Why are you sitting all day at that embroidery frame,"
+      },
+      {
+       "cyr": "а што везеш свилена марама?",
+       "lat": "a što vezeš svilena marama?",
+       "en": "what are you embroidering, a silk kerchief?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Леле мајко, леле стара мајко,",
+       "lat": "Lele majko, lele stara majko,",
+       "en": "Lele mother, lele old mother,"
+      },
+      {
+       "cyr": "не си везам свилена марама.",
+       "lat": "ne si vezam svilena marama.",
+       "en": "I'm not embroidering a silk kerchief."
+      },
+      {
+       "cyr": "Не си везам свилена марама,",
+       "lat": "Ne si vezam svilena marama,",
+       "en": "I'm not embroidering a silk kerchief,"
+      },
+      {
+       "cyr": "тук си везам македонско знаме.",
+       "lat": "tuk si vezam makedonsko zname.",
+       "en": "but I'm embroidering a Macedonian flag."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да се сторам млада комита,",
+       "lat": "Da se storam mlada komita,",
+       "en": "I'll become a young Komitadji*,"
+      },
+      {
+       "cyr": "да покријам млад Делчев војвода.",
+       "lat": "da pokrijam mlad Delčev vojvoda.",
+       "en": "so that I can cover young Delchev Vojvoda*."
+      },
+      {
+       "cyr": "Да покријам Делчев војвода,",
+       "lat": "Da pokrijam Delčev vojvoda,",
+       "en": "To cover Delchev Vojvoda,"
+      },
+      {
+       "cyr": "тој загина за Македонија,",
+       "lat": "toj zagina za Makedonija,",
+       "en": "he died for Macedonia,"
+      },
+      {
+       "cyr": "за Македонија.",
+       "lat": "za Makedonija.",
+       "en": "for Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

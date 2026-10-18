@@ -1,0 +1,144 @@
+{
+ "id": 338,
+ "slug": "oj-ti-mome-ludo-li-si",
+ "title_cyr": "Ој ти моме лудо ли си",
+ "title_latin": "Oj ti mome ludo li si",
+ "title_en": "Hey girl, are you crazy?",
+ "pesna_url": "https://pesna.org/song/338",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Васка Илиева",
+  "Виолета Томовска",
+  "Ѓорѓи Андреевски",
+  "Јорданка Куцулова",
+  "Никола Бадев"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2450"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2451"
+  },
+  {
+   "who": "Ѓорѓи Андреевски, Јорданка Куцулова",
+   "url": "https://pesna.org/audio-download/2452"
+  },
+  {
+   "who": "Васка Илиева, Никола Бадев",
+   "url": "https://pesna.org/audio-download/2938"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ти моме лудо ли си,",
+       "lat": "- Oj ti mome ludo li si,",
+       "en": "- Hey girl, are you crazy,"
+      },
+      {
+       "cyr": "ој ти моме лудо ли си, леле,",
+       "lat": "oj ti mome ludo li si, lele,",
+       "en": "hey girl, are you crazy, oh,"
+      },
+      {
+       "cyr": "што љубиш, што мамиш",
+       "lat": "što ljubiš, što mamiš",
+       "en": "for loving, for luring (into loving you)"
+      },
+      {
+       "cyr": "моето братче?",
+       "lat": "moeto bratče?",
+       "en": "my little brother?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Само ти се братче лаже,",
+       "lat": "- Samo ti se bratče laže,",
+       "en": "- Your little brother is luring himself,"
+      },
+      {
+       "cyr": "само ти се братче лаже, леле",
+       "lat": "samo ti se bratče laže, lele",
+       "en": "your little brother is luring himself, oh,"
+      },
+      {
+       "cyr": "по мојва, по мојва рамнава снага,",
+       "lat": "po mojva, po mojva ramnava snaga,",
+       "en": "after my, after my tall body,"
+      },
+      {
+       "cyr": "по мојва, по мојва русава коса.",
+       "lat": "po mojva, po mojva rusava kosa.",
+       "en": "after my, after my blonde hair."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ој ти моме лудо ли си,",
+       "lat": "- Oj ti mome ludo li si,",
+       "en": "- Hey girl, are you crazy,"
+      },
+      {
+       "cyr": "ој ти моме лудо ли си, леле,",
+       "lat": "oj ti mome ludo li si, lele,",
+       "en": "hey girl, are you crazy, oh,"
+      },
+      {
+       "cyr": "што љубиш, што мамиш",
+       "lat": "što ljubiš, što mamiš",
+       "en": "for loving, for luring (into loving you)"
+      },
+      {
+       "cyr": "моето братче?",
+       "lat": "moeto bratče?",
+       "en": "my little brother?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Само ти се братче лаже,",
+       "lat": "- Samo ti se bratče laže,",
+       "en": "- Your little brother is luring himself,"
+      },
+      {
+       "cyr": "само ти се братче лаже, леле",
+       "lat": "samo ti se bratče laže, lele",
+       "en": "your little brother is luring himself, oh,"
+      },
+      {
+       "cyr": "по мојве, по мојве црниве очи,",
+       "lat": "po mojve, po mojve crnive oči,",
+       "en": "after my, after my black eyes,"
+      },
+      {
+       "cyr": "по мојве, по мојве гајтанли веѓи.",
+       "lat": "po mojve, po mojve gajtanli veǵi.",
+       "en": "after my, after my black eyebrows."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

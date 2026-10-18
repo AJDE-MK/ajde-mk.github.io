@@ -1,0 +1,215 @@
+{
+ "id": 520,
+ "slug": "sedenka-se-zbira",
+ "title_cyr": "Седенка се збира",
+ "title_latin": "Sedenka se zbira",
+ "title_en": "The evening gathering",
+ "pesna_url": "https://pesna.org/song/520",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Оти војник ќе оди' rendered 'because he is going to be a soldier' (my reading; could also mean 'since a soldier will come').",
+ "words_to_learn": [
+  {
+   "mk": "седенка",
+   "en": "evening gathering of young people (with songs, handwork)"
+  },
+  {
+   "mk": "се збира",
+   "en": "is gathering"
+  },
+  {
+   "mk": "пушта",
+   "en": "lets (go)"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart"
+  },
+  {
+   "mk": "војник",
+   "en": "soldier"
+  },
+  {
+   "mk": "вечераме",
+   "en": "we have supper"
+  },
+  {
+   "mk": "полегнаа",
+   "en": "lay down"
+  },
+  {
+   "mk": "разделба",
+   "en": "parting, separation"
+  }
+ ],
+ "performers": [
+  "Кале",
+  "Славка Чрчева",
+  "Томе Чрчев"
+ ],
+ "audio": [
+  {
+   "who": "Кале",
+   "url": "https://pesna.org/audio-download/842"
+  },
+  {
+   "who": "Славка Чрчева, Томе Чрчев",
+   "url": "https://pesna.org/audio-download/843"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Седенка се збира,",
+       "lat": "Sedenka se zbira,",
+       "en": "The evening gathering is forming,"
+      },
+      {
+       "cyr": "мама не ме пушта,",
+       "lat": "mama ne me pušta,",
+       "en": "mother does not let me,"
+      },
+      {
+       "cyr": "мама не ме пушта",
+       "lat": "mama ne me pušta",
+       "en": "mother does not let me"
+      },
+      {
+       "cyr": "на седенка да идам.",
+       "lat": "na sedenka da idam.",
+       "en": "go to the gathering."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На седенка да идам,",
+       "lat": "Na sedenka da idam,",
+       "en": "To go to the gathering,"
+      },
+      {
+       "cyr": "с' либе да се видам,",
+       "lat": "s' libe da se vidam,",
+       "en": "to see my sweetheart,"
+      },
+      {
+       "cyr": "с'либе да се видам",
+       "lat": "s'libe da se vidam",
+       "en": "to see my sweetheart"
+      },
+      {
+       "cyr": "оти војник ќe оди.",
+       "lat": "oti vojnik ḱe odi.",
+       "en": "because he is going to be a soldier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мама, тате велат:",
+       "lat": "Mama, tate velat:",
+       "en": "Mother, father say:"
+      },
+      {
+       "cyr": "- Ај да вечераме.",
+       "lat": "- Aj da večerame.",
+       "en": "- Come, let us have supper."
+      },
+      {
+       "cyr": "Сите полегнаа",
+       "lat": "Site polegnaa",
+       "en": "Everyone lay down,"
+      },
+      {
+       "cyr": "мене сон не фаќа.",
+       "lat": "mene son ne faḱa.",
+       "en": "sleep does not take me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сите полегнаа,",
+       "lat": "Site polegnaa,",
+       "en": "Everyone lay down,"
+      },
+      {
+       "cyr": "мене сон не фаќа",
+       "lat": "mene son ne faḱa",
+       "en": "sleep does not take me,"
+      },
+      {
+       "cyr": "мене сон не фаќа,",
+       "lat": "mene son ne faḱa,",
+       "en": "sleep does not take me,"
+      },
+      {
+       "cyr": "на седенка да идам.",
+       "lat": "na sedenka da idam.",
+       "en": "to go to the gathering."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На седенка да идам,",
+       "lat": "Na sedenka da idam,",
+       "en": "To go to the gathering,"
+      },
+      {
+       "cyr": "с' либе да се видам.",
+       "lat": "s' libe da se vidam.",
+       "en": "to see my sweetheart."
+      },
+      {
+       "cyr": "С' либе да се видам,",
+       "lat": "S' libe da se vidam,",
+       "en": "To see my sweetheart,"
+      },
+      {
+       "cyr": "оти војник ќ' оди.",
+       "lat": "oti vojnik ḱ' odi.",
+       "en": "because he is going to be a soldier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Излегов на порти,",
+       "lat": "Izlegov na porti,",
+       "en": "I went out to the gate,"
+      },
+      {
+       "cyr": "слушам жални песни.",
+       "lat": "slušam žalni pesni.",
+       "en": "I hear sad songs."
+      },
+      {
+       "cyr": "Слушам жални песни,",
+       "lat": "Slušam žalni pesni,",
+       "en": "I hear sad songs,"
+      },
+      {
+       "cyr": "песни за разделба.",
+       "lat": "pesni za razdelba.",
+       "en": "songs of parting."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

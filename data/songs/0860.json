@@ -1,0 +1,375 @@
+{
+ "id": 860,
+ "slug": "ej-more-mazhu",
+ "title_cyr": "Еј, море мажу",
+ "title_latin": "Ej, more mažu",
+ "title_en": "Hey, Husband",
+ "pesna_url": "https://pesna.org/song/860",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional humorous song; the second version has the husband beat his wife with a stick instead of fetching the food, as I read it. 'Манџија' (I rendered 'gourmand'), 'суровица' and 'недокастрена' are guesses; the '?' is in the source text.",
+ "words_to_learn": [
+  {
+   "mk": "погача",
+   "en": "flatbread"
+  },
+  {
+   "mk": "кокошка",
+   "en": "hen, chicken"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "преточено",
+   "en": "racked, decanted"
+  },
+  {
+   "mk": "севда",
+   "en": "love, passion (Turkish loan)"
+  },
+  {
+   "mk": "домаќин",
+   "en": "head of the household"
+  },
+  {
+   "mk": "изба",
+   "en": "cellar (dialect)"
+  },
+  {
+   "mk": "жалба",
+   "en": "complaint, grief"
+  },
+  {
+   "mk": "месила",
+   "en": "kneaded"
+  }
+ ],
+ "performers": [
+  "Ансамбл чалгија"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл чалгија",
+   "url": "https://pesna.org/audio-download/1880"
+  }
+ ],
+ "versions": [
+  {
+   "label": "Version 1",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Еј, море мажу, море манџија",
+       "lat": "- Ej, more mažu, more mandžija",
+       "en": "- Hey, my husband, hey, gourmand,"
+      },
+      {
+       "cyr": "море личен ти ?,",
+       "lat": "more ličen ti ?,",
+       "en": "hey, handsome you ?,"
+      },
+      {
+       "cyr": "кажи ми мажу што ти се јаде,",
+       "lat": "kaži mi mažu što ti se jade,",
+       "en": "tell me, husband, what you feel like eating,"
+      },
+      {
+       "cyr": "да си повечераме?",
+       "lat": "da si povečerame?",
+       "en": "so we can have supper?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мори млада, лична Илчовице,",
+       "lat": "- Ej mori mlada, lična Ilčovice,",
+       "en": "- Hey, wife, beautiful Ilchovitsa,"
+      },
+      {
+       "cyr": "моја прва севдо голема,",
+       "lat": "moja prva sevdo golema,",
+       "en": "my first great love,"
+      },
+      {
+       "cyr": "мене ми се јаде пресна погача",
+       "lat": "mene mi se jade presna pogača",
+       "en": "I feel like eating fresh flatbread"
+      },
+      {
+       "cyr": "што невеста месила,",
+       "lat": "što nevesta mesila,",
+       "en": "that a bride has kneaded,"
+      },
+      {
+       "cyr": "мене ми се јаде печена кокошка",
+       "lat": "mene mi se jade pečena kokoška",
+       "en": "I feel like eating roast chicken"
+      },
+      {
+       "cyr": "уште непронесена.",
+       "lat": "ušte nepronesena.",
+       "en": "that has not yet been carried out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И нас ни се јаде пресна погача",
+       "lat": "- I nas ni se jade presna pogača",
+       "en": "- We too feel like eating fresh flatbread"
+      },
+      {
+       "cyr": "што невеста месила,",
+       "lat": "što nevesta mesila,",
+       "en": "that a bride has kneaded,"
+      },
+      {
+       "cyr": "и нас ни се јаде печена кокошка",
+       "lat": "i nas ni se jade pečena kokoška",
+       "en": "we too feel like eating roast chicken"
+      },
+      {
+       "cyr": "уште непронесена.",
+       "lat": "ušte nepronesena.",
+       "en": "that has not yet been carried out."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еј море мажу, море манџија",
+       "lat": "Ej more mažu, more mandžija",
+       "en": "Hey, my husband, hey, gourmand,"
+      },
+      {
+       "cyr": "море личен ти ?,",
+       "lat": "more ličen ti ?,",
+       "en": "hey, handsome you ?,"
+      },
+      {
+       "cyr": "кажи ми мажу што ти се пие,",
+       "lat": "kaži mi mažu što ti se pie,",
+       "en": "tell me, husband, what you feel like drinking,"
+      },
+      {
+       "cyr": "да си се напиеме?",
+       "lat": "da si se napieme?",
+       "en": "so we can drink our fill?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Еј мори млада, лична Илчовице,",
+       "lat": "- Ej mori mlada, lična Ilčovice,",
+       "en": "- Hey, wife, beautiful Ilchovitsa,"
+      },
+      {
+       "cyr": "моја прва севдо голема,",
+       "lat": "moja prva sevdo golema,",
+       "en": "my first great love,"
+      },
+      {
+       "cyr": "мене ми се пие лута ракија",
+       "lat": "mene mi se pie luta rakija",
+       "en": "I feel like drinking strong rakija"
+      },
+      {
+       "cyr": "пет години лежана,",
+       "lat": "pet godini ležana,",
+       "en": "aged five years,"
+      },
+      {
+       "cyr": "мене ми се пие тригодишно вино",
+       "lat": "mene mi se pie trigodišno vino",
+       "en": "I feel like drinking three-year-old wine"
+      },
+      {
+       "cyr": "три пати преточено.",
+       "lat": "tri pati pretočeno.",
+       "en": "racked three times."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- И нас ни се пие лута ракија",
+       "lat": "- I nas ni se pie luta rakija",
+       "en": "- We too feel like drinking strong rakija"
+      },
+      {
+       "cyr": "пет години лежана,",
+       "lat": "pet godini ležana,",
+       "en": "aged five years,"
+      },
+      {
+       "cyr": "и нас ни се пие тригодишно вино",
+       "lat": "i nas ni se pie trigodišno vino",
+       "en": "we too feel like drinking three-year-old wine"
+      },
+      {
+       "cyr": "три пати преточено.",
+       "lat": "tri pati pretočeno.",
+       "en": "racked three times."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Version 2",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах море мажу, мил домаќин,",
+       "lat": "Ah more mažu, mil domaḱin,",
+       "en": "Oh my husband, dear head of the house,"
+      },
+      {
+       "cyr": "јас ќе ти умрам.",
+       "lat": "jas ḱe ti umram.",
+       "en": "I would die for you."
+      },
+      {
+       "cyr": "Ах мори жено, жалба ми падна,",
+       "lat": "Ah mori ženo, žalba mi padna,",
+       "en": "Oh wife, a complaint has fallen on me,"
+      },
+      {
+       "cyr": "кажи што ти се стори?",
+       "lat": "kaži što ti se stori?",
+       "en": "tell me what has happened to you?"
+      },
+      {
+       "cyr": "Ах мори жено, жалба ми падна,",
+       "lat": "Ah mori ženo, žalba mi padna,",
+       "en": "Oh wife, a complaint has fallen on me,"
+      },
+      {
+       "cyr": "кажи што ти се јаде?",
+       "lat": "kaži što ti se jade?",
+       "en": "tell me what you feel like eating?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мене ми се јаде пресна погача,",
+       "lat": "Mene mi se jade presna pogača,",
+       "en": "I feel like eating fresh flatbread"
+      },
+      {
+       "cyr": "шо невеста месила.",
+       "lat": "šo nevesta mesila.",
+       "en": "that a bride has kneaded."
+      },
+      {
+       "cyr": "Мене ми се јаде печена кокошка,",
+       "lat": "Mene mi se jade pečena kokoška,",
+       "en": "I feel like eating roast chicken"
+      },
+      {
+       "cyr": "уште не пронесена.",
+       "lat": "ušte ne pronesena.",
+       "en": "that has not yet been carried out."
+      },
+      {
+       "cyr": "Мене ми се пие тригодишно вино,",
+       "lat": "Mene mi se pie trigodišno vino,",
+       "en": "I feel like drinking three-year-old wine"
+      },
+      {
+       "cyr": "три пати преточено.",
+       "lat": "tri pati pretočeno.",
+       "en": "racked three times."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ти слегов долу во избата,",
+       "lat": "Jas ti slegov dolu vo izbata,",
+       "en": "I went down into the cellar,"
+      },
+      {
+       "cyr": "каде стојат дрвата,",
+       "lat": "kade stojat drvata,",
+       "en": "where the wood is kept,"
+      },
+      {
+       "cyr": "па си зедов една суровица,",
+       "lat": "pa si zedov edna surovica,",
+       "en": "and took a green switch,"
+      },
+      {
+       "cyr": "уште недокастрена,",
+       "lat": "ušte nedokastrena,",
+       "en": "not yet fully trimmed (my reading),"
+      },
+      {
+       "cyr": "десет пати удри, еднаш брои,",
+       "lat": "deset pati udri, ednaš broi,",
+       "en": "it strikes ten times, counts once,"
+      },
+      {
+       "cyr": "уште недокастрена.",
+       "lat": "ušte nedokastrena.",
+       "en": "not yet fully trimmed (my reading)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Еве ти жено пресна погача,",
+       "lat": "Eve ti ženo presna pogača,",
+       "en": "Here you are, wife, fresh flatbread"
+      },
+      {
+       "cyr": "шо невеста месила.",
+       "lat": "šo nevesta mesila.",
+       "en": "that a bride has kneaded."
+      },
+      {
+       "cyr": "Еве ти жено печена кокошка,",
+       "lat": "Eve ti ženo pečena kokoška,",
+       "en": "Here you are, wife, roast chicken"
+      },
+      {
+       "cyr": "уште не пронесена.",
+       "lat": "ušte ne pronesena.",
+       "en": "that has not yet been carried out."
+      },
+      {
+       "cyr": "Еве ти жено тригодишно вино,",
+       "lat": "Eve ti ženo trigodišno vino,",
+       "en": "Here you are, wife, three-year-old wine"
+      },
+      {
+       "cyr": "три пати преточено.",
+       "lat": "tri pati pretočeno.",
+       "en": "racked three times."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

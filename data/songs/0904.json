@@ -1,0 +1,137 @@
+{
+ "id": 904,
+ "slug": "mojta-svadba-bez-pesna-kje-bide",
+ "title_cyr": "Мојта свадба без песна ќе биде",
+ "title_latin": "Mojta svadba bez pesna ḱe bide",
+ "title_en": "My wedding will be without a song",
+ "pesna_url": "https://pesna.org/song/904",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Виолета Томовска",
+  "Кирил Манчевски",
+  "Zado"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска, Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1986"
+  },
+  {
+   "who": "Zado",
+   "url": "https://pesna.org/audio-download/3927"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мојта свадба без песна ќе биде, ох либе ле,",
+       "lat": "Mojta svadba bez pesna ḱe bide, oh libe le,",
+       "en": "My wedding will be without a song, oh my love,"
+      },
+      {
+       "cyr": "мојта свадба, нема свирки да свират",
+       "lat": "mojta svadba, nema svirki da svirat",
+       "en": "on my wedding, there won't be any music playing,"
+      },
+      {
+       "cyr": "по сокаци низ Битола, низ Битола.",
+       "lat": "po sokaci niz Bitola, niz Bitola.",
+       "en": "through the alleys of Bitola, through Bitola."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе ти ги простам сите гревои,",
+       "lat": "Jas ḱe ti gi prostam site grevoi,",
+       "en": "I will forgive all your sins,"
+      },
+      {
+       "cyr": "а мојта љубов вечна ќе биде.",
+       "lat": "a mojta ljubov večna ḱe bide.",
+       "en": "and my love will be forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојте сватој ќе бидат, мило либе, во црнина",
+       "lat": "Mojte svatoj ḱe bidat, milo libe, vo crnina",
+       "en": "My wedding guests will be dressed in black,"
+      },
+      {
+       "cyr": "облечени, место свирки мајка ми ќе ме тажи",
+       "lat": "oblečeni, mesto svirki majka mi ḱe me taži",
+       "en": "instead of music, my mother will mourn me"
+      },
+      {
+       "cyr": "крај постела, дење - ноќе.",
+       "lat": "kraj postela, denje - noḱe.",
+       "en": "next to my bed, day and night."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе ти ги простам сите гревои,",
+       "lat": "Jas ḱe ti gi prostam site grevoi,",
+       "en": "I will forgive all your sins,"
+      },
+      {
+       "cyr": "а мојта љубов вечна ќе биде.",
+       "lat": "a mojta ljubov večna ḱe bide.",
+       "en": "and my love will be forever."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тешка клетва ти оставам една, ох либе ле,",
+       "lat": "Teška kletva ti ostavam edna, oh libe le,",
+       "en": "I will leave you with one curse, oh my love,"
+      },
+      {
+       "cyr": "клетва голема: на полноќи да станваш,",
+       "lat": "kletva golema: na polnoḱi da stanvaš,",
+       "en": "a big curse: may you wake up at midnight,"
+      },
+      {
+       "cyr": "да се будиш, мене да сакаш, солзи да рониш.",
+       "lat": "da se budiš, mene da sakaš, solzi da roniš.",
+       "en": "may you get up, feel love for me and shed tears."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас ќе ти ги простам сите гревои,",
+       "lat": "Jas ḱe ti gi prostam site grevoi,",
+       "en": "I will forgive all your sins,"
+      },
+      {
+       "cyr": "а мојта љубов вечна ќе биде.",
+       "lat": "a mojta ljubov večna ḱe bide.",
+       "en": "and my love will be forever."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,149 @@
+{
+ "id": 1290,
+ "slug": "kambani-bijat-sred-banica",
+ "title_cyr": "Камбани бијат сред Баница",
+ "title_latin": "Kambani bijat sred Banica",
+ "title_en": "Bells are ringing in the middle of Banica",
+ "pesna_url": "https://pesna.org/song/1290",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Historical song from Aegean Macedonia (1947 events, see source notes). 'Вас не држи село Невеска' is my reading: Neveska is not your home, go back.",
+ "words_to_learn": [
+  {
+   "mk": "камбани",
+   "en": "bells"
+  },
+  {
+   "mk": "бијат",
+   "en": "they strike / ring"
+  },
+  {
+   "mk": "народот",
+   "en": "the people"
+  },
+  {
+   "mk": "да се собере",
+   "en": "to gather"
+  },
+  {
+   "mk": "делба",
+   "en": "division, separation"
+  },
+  {
+   "mk": "душмани",
+   "en": "enemies"
+  },
+  {
+   "mk": "пусти острови",
+   "en": "barren / deserted islands"
+  },
+  {
+   "mk": "невести",
+   "en": "brides, young wives"
+  },
+  {
+   "mk": "в' планина",
+   "en": "into the mountain (в' = во)"
+  },
+  {
+   "mk": "враќајте се",
+   "en": "come back (plural command)"
+  }
+ ],
+ "performers": [
+  "Петранка Костадинова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/3255"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Камбани бијат сред Баница,",
+       "lat": "Kambani bijat sred Banica,",
+       "en": "Bells are ringing in the middle of Banica,"
+      },
+      {
+       "cyr": "народот да се собере",
+       "lat": "narodot da se sobere",
+       "en": "for the people to gather"
+      },
+      {
+       "cyr": "во црква Свети Димитрија.",
+       "lat": "vo crkva Sveti Dimitrija.",
+       "en": "at the church of Saint Demetrius."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Делба ми прават душмани,",
+       "lat": "Delba mi pravat dušmani,",
+       "en": "Enemies are making a division of us,"
+      },
+      {
+       "cyr": "татковци, браќа, синови,",
+       "lat": "tatkovci, braḱa, sinovi,",
+       "en": "fathers, brothers, sons,"
+      },
+      {
+       "cyr": "во пусти острови ги праќаат.",
+       "lat": "vo pusti ostrovi gi praḱaat.",
+       "en": "they send them to barren islands."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајки, невести, мали дечиња,",
+       "lat": "Majki, nevesti, mali dečinja,",
+       "en": "Mothers, brides, small children,"
+      },
+      {
+       "cyr": "сите в' планина ги отераа,",
+       "lat": "site v' planina gi oteraa,",
+       "en": "they drove them all into the mountain,"
+      },
+      {
+       "cyr": "в' планина, село Невеска.",
+       "lat": "v' planina, selo Neveska.",
+       "en": "into the mountain, to the village of Neveska."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Вас не држи село Невеска",
+       "lat": "Vas ne drži selo Neveska",
+       "en": "Neveska village does not hold you,"
+      },
+      {
+       "cyr": "враќајте се, еј Баничани,",
+       "lat": "vraḱajte se, ej Baničani,",
+       "en": "return, hey people of Banica,"
+      },
+      {
+       "cyr": "враќајте се во село убаво.",
+       "lat": "vraḱajte se vo selo ubavo.",
+       "en": "return to your beautiful village."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

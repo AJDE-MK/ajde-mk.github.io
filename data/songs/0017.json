@@ -1,0 +1,189 @@
+{
+ "id": 17,
+ "slug": "golem-merak-imam-mamo",
+ "title_cyr": "Голем мерак имам мамо",
+ "title_latin": "Golem merak imam mamo",
+ "title_en": "I Have a Great Wish, Mother",
+ "pesna_url": "https://pesna.org/song/17",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Јаска' is my reading as 'I too'. Partisan-era song of unknown origin.",
+ "words_to_learn": [
+  {
+   "mk": "мерак",
+   "en": "great desire, longing"
+  },
+  {
+   "mk": "партизан",
+   "en": "partisan"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "верни",
+   "en": "faithful, loyal"
+  },
+  {
+   "mk": "браќа",
+   "en": "brothers"
+  },
+  {
+   "mk": "сестри",
+   "en": "sisters"
+  },
+  {
+   "mk": "јаска",
+   "en": "I too (dialect)"
+  },
+  {
+   "mk": "измачена",
+   "en": "tormented"
+  },
+  {
+   "mk": "клети",
+   "en": "cursed"
+  },
+  {
+   "mk": "пушка",
+   "en": "rifle"
+  }
+ ],
+ "performers": [
+  "Бапчорки"
+ ],
+ "audio": [
+  {
+   "who": "Бапчорки",
+   "url": "https://pesna.org/audio-download/763"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Голем мерак имам мамо,",
+       "lat": "Golem merak imam mamo,",
+       "en": "I have a great wish, mother,"
+      },
+      {
+       "cyr": "партизан да одам,",
+       "lat": "partizan da odam,",
+       "en": "to go as a partisan,"
+      },
+      {
+       "cyr": "партизан да одам мамо,",
+       "lat": "partizan da odam mamo,",
+       "en": "to go as a partisan, mother,"
+      },
+      {
+       "cyr": "на Вичо планина.",
+       "lat": "na Vičo planina.",
+       "en": "to Vicho mountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тамо ќе си најдам, мамо,",
+       "lat": "Tamo ḱe si najdam, mamo,",
+       "en": "There I will find, mother,"
+      },
+      {
+       "cyr": "мојте верни браќа,",
+       "lat": "mojte verni braḱa,",
+       "en": "my faithful brothers,"
+      },
+      {
+       "cyr": "мојте верни браќа мамо,",
+       "lat": "mojte verni braḱa mamo,",
+       "en": "my faithful brothers, mother,"
+      },
+      {
+       "cyr": "мојте верни сестри.",
+       "lat": "mojte verni sestri.",
+       "en": "my faithful sisters."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јаска ќе се борам мамо,",
+       "lat": "Jaska ḱe se boram mamo,",
+       "en": "I too will fight, mother,"
+      },
+      {
+       "cyr": "за Македонија,",
+       "lat": "za Makedonija,",
+       "en": "for Macedonia,"
+      },
+      {
+       "cyr": "за Македонија, мамо,",
+       "lat": "za Makedonija, mamo,",
+       "en": "for Macedonia, mother,"
+      },
+      {
+       "cyr": "земја измачена,",
+       "lat": "zemja izmačena,",
+       "en": "a tormented land,"
+      },
+      {
+       "cyr": "земја измачена мамо,",
+       "lat": "zemja izmačena mamo,",
+       "en": "a tormented land, mother,"
+      },
+      {
+       "cyr": "од клети фашисти.",
+       "lat": "od kleti fašisti.",
+       "en": "by the cursed fascists."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва пушка пукна мамо,",
+       "lat": "Prva puška pukna mamo,",
+       "en": "The first rifle fired, mother,"
+      },
+      {
+       "cyr": "мене ме погоди,",
+       "lat": "mene me pogodi,",
+       "en": "it hit me,"
+      },
+      {
+       "cyr": "мене ме погоди мамо,",
+       "lat": "mene me pogodi mamo,",
+       "en": "it hit me, mother,"
+      },
+      {
+       "cyr": "на левата страна,",
+       "lat": "na levata strana,",
+       "en": "on the left side,"
+      },
+      {
+       "cyr": "на левата страна мамо,",
+       "lat": "na levata strana mamo,",
+       "en": "on the left side, mother,"
+      },
+      {
+       "cyr": "близу до срцето.",
+       "lat": "blizu do srceto.",
+       "en": "close to the heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

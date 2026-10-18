@@ -1,0 +1,185 @@
+{
+ "id": 556,
+ "slug": "lazhi-lazhi-vere",
+ "title_cyr": "Лажи, лажи Вере",
+ "title_latin": "Laži, laži Vere",
+ "title_en": "Lie, lie, Vere",
+ "pesna_url": "https://pesna.org/song/556",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александра Поповска",
+  "Виолета Митева",
+  "Ѓорѓи Желчевски",
+  "Зоран Марковски",
+  "Зоран Џорлев",
+  "Иван Узунов",
+  "Кевсер Селимова",
+  "Непознат изведувач",
+  "Шабан Бајрамовиќ",
+  "Mostar Sevdah Reunion"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/474"
+  },
+  {
+   "who": "Кевсер Селимова, Ѓорѓи Желчевски",
+   "url": "https://pesna.org/audio-download/475"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/476"
+  },
+  {
+   "who": "Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/477"
+  },
+  {
+   "who": "Mostar Sevdah Reunion, Шабан Бајрамовиќ",
+   "url": "https://pesna.org/audio-download/3253"
+  },
+  {
+   "who": "Зоран Марковски",
+   "url": "https://pesna.org/audio-download/3767"
+  },
+  {
+   "who": "Александра Поповска",
+   "url": "https://pesna.org/audio-download/3811"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Лажи, лажи Вере",
+       "lat": "Laži, laži Vere",
+       "en": "Lie, lie, Vere,"
+      },
+      {
+       "cyr": "лажи кој ќе лажеш",
+       "lat": "laži koj ḱe lažeš",
+       "en": "lie whoever you want to lie,"
+      },
+      {
+       "cyr": "само мене Вере",
+       "lat": "samo mene Vere",
+       "en": "just please Vere,"
+      },
+      {
+       "cyr": "немој да ме лажеш.",
+       "lat": "nemoj da me lažeš.",
+       "en": "don't lie to me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас си имам Вере",
+       "lat": "Jas si imam Vere",
+       "en": "I have, Vere,"
+      },
+      {
+       "cyr": "леле јас си имам",
+       "lat": "lele jas si imam",
+       "en": "oh, I have"
+      },
+      {
+       "cyr": "јас си имам Вере",
+       "lat": "jas si imam Vere",
+       "en": "I have, Vere,"
+      },
+      {
+       "cyr": "до три болести.",
+       "lat": "do tri bolesti.",
+       "en": "three sicknesses."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прва болест Вере",
+       "lat": "Prva bolest Vere",
+       "en": "The first sickness, Vere,"
+      },
+      {
+       "cyr": "леле прва болест",
+       "lat": "lele prva bolest",
+       "en": "oh, the first sickness,"
+      },
+      {
+       "cyr": "прва болест Вере",
+       "lat": "prva bolest Vere",
+       "en": "the first sickness, Vere:"
+      },
+      {
+       "cyr": "струмички меани.",
+       "lat": "strumički meani.",
+       "en": "the taverns in Strumica."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Втора болест Вере",
+       "lat": "Vtora bolest Vere",
+       "en": "The second sickness, Vera,"
+      },
+      {
+       "cyr": "леле втора болест",
+       "lat": "lele vtora bolest",
+       "en": "oh, the second sickness,"
+      },
+      {
+       "cyr": "втора болест Вере",
+       "lat": "vtora bolest Vere",
+       "en": "the second sickness, Vera:"
+      },
+      {
+       "cyr": "в туѓина ќе одам.",
+       "lat": "v tuǵina ḱe odam.",
+       "en": "I'm going abroad."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Трета болест Вере",
+       "lat": "Treta bolest Vere",
+       "en": "The third sickness, Vera,"
+      },
+      {
+       "cyr": "леле трета болест",
+       "lat": "lele treta bolest",
+       "en": "oh, the third sickness,"
+      },
+      {
+       "cyr": "трета болест Вере",
+       "lat": "treta bolest Vere",
+       "en": "the third sickness, Vera:"
+      },
+      {
+       "cyr": "умирам за тебе.",
+       "lat": "umiram za tebe.",
+       "en": "I'm dying for you."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

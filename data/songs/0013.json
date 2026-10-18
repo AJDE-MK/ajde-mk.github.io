@@ -1,0 +1,122 @@
+{
+ "id": 13,
+ "slug": "tri-biljbilja-pojet",
+ "title_cyr": "Три биљбиља појет",
+ "title_latin": "Tri biljbilja pojet",
+ "title_en": "Three nightingales sing",
+ "pesna_url": "https://pesna.org/song/13",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ново Село",
+  "Трио Кучковки"
+ ],
+ "audio": [
+  {
+   "who": "Ново Село",
+   "url": "https://pesna.org/audio-download/970"
+  },
+  {
+   "who": "Трио Кучковки",
+   "url": "https://pesna.org/audio-download/2270"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три биљбиља појет, мори, на једно дрво.",
+       "lat": "Tri biljbilja pojet, mori, na jedno drvo.",
+       "en": "Three nightingales sing in a tree."
+      },
+      {
+       "cyr": "Први биљбиљ поје, море, за вечерање.",
+       "lat": "Prvi biljbilj poje, more, za večeranje.",
+       "en": "The first nightingale sings about suppertime."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Други биљбиљ поје, море, за легнување.",
+       "lat": "Drugi biljbilj poje, more, za legnuvanje.",
+       "en": "The second nightingale sings about bedtime."
+      },
+      {
+       "cyr": "Трети биљбиљ поје, мори, за станување.",
+       "lat": "Treti biljbilj poje, mori, za stanuvanje.",
+       "en": "The third nightingale sings about waking up."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О, да знам, да знам, мори, кој биљбиљ поје",
+       "lat": "O, da znam, da znam, mori, koj biljbilj poje",
+       "en": "Oh, if I only know which nightingale sings"
+      },
+      {
+       "cyr": "кој биљбиљ поје, море, за вечерање,",
+       "lat": "koj biljbilj poje, more, za večeranje,",
+       "en": "which nightingale sings about suppertime,"
+      },
+      {
+       "cyr": "би го ранела, мори, со суво грозје.",
+       "lat": "bi go ranela, mori, so suvo grozje.",
+       "en": "I'll feed him raisins."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О, да знам, да знам, мори, кој биљбиљ поје",
+       "lat": "O, da znam, da znam, mori, koj biljbilj poje",
+       "en": "Oh, if I only know which nightingale sings"
+      },
+      {
+       "cyr": "кој биљбиљ поје, море, за легнување,",
+       "lat": "koj biljbilj poje, more, za legnuvanje,",
+       "en": "which nightingale sings about bedtime,"
+      },
+      {
+       "cyr": "би го појела, мори, со рујно вино.",
+       "lat": "bi go pojela, mori, so rujno vino.",
+       "en": "I'll give him red wine to drink."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "О, да знам, да знам, мори, кој биљбиљ поје,",
+       "lat": "O, da znam, da znam, mori, koj biljbilj poje,",
+       "en": "Oh, if I only know which nightingale sings"
+      },
+      {
+       "cyr": "кој биљбиљ поје, море, за станување,",
+       "lat": "koj biljbilj poje, more, za stanuvanje,",
+       "en": "which nightingale sings about waking up,"
+      },
+      {
+       "cyr": "би га ранела, мори, црна отрова.",
+       "lat": "bi ga ranela, mori, crna otrova.",
+       "en": "I'll feed him black poison."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

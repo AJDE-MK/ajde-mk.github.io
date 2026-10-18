@@ -1,0 +1,142 @@
+{
+ "id": 311,
+ "slug": "se-smeat-mamo-se-smeat",
+ "title_cyr": "Се смеат мамо, се смеат",
+ "title_latin": "Se smeat mamo, se smeat",
+ "title_en": "They laugh, mother, they laugh",
+ "pesna_url": "https://pesna.org/song/311",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Зацрни' rendered as 'blackened' (brought sorrow); my reading. 'Under my heart' suggests she is pregnant with the second child.",
+ "words_to_learn": [
+  {
+   "mk": "се смејат",
+   "en": "they laugh"
+  },
+  {
+   "mk": "омажи",
+   "en": "married off (a daughter)"
+  },
+  {
+   "mk": "зацрни",
+   "en": "blackened (brought grief to)"
+  },
+  {
+   "mk": "сокак",
+   "en": "lane, street"
+  },
+  {
+   "mk": "пепел",
+   "en": "ashes"
+  },
+  {
+   "mk": "мајко ле",
+   "en": "oh mother"
+  },
+  {
+   "mk": "машко дете",
+   "en": "baby boy"
+  },
+  {
+   "mk": "на срце",
+   "en": "under the heart"
+  }
+ ],
+ "performers": [
+  "Анастасиа Митровска",
+  "Билјан Стојаноски"
+ ],
+ "audio": [
+  {
+   "who": "Билјан Стојаноски",
+   "url": "https://pesna.org/audio-download/1242"
+  },
+  {
+   "who": "Анастасиа Митровска",
+   "url": "https://pesna.org/audio-download/4232"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Се смеат, мамо, се смејат,",
+       "lat": "Se smeat, mamo, se smejat,",
+       "en": "They laugh, mother, they laugh,"
+      },
+      {
+       "cyr": "зошто ме мала омажи,",
+       "lat": "zošto me mala omaži,",
+       "en": "because you married me off young,"
+      },
+      {
+       "cyr": "зошто ме мала омажи,",
+       "lat": "zošto me mala omaži,",
+       "en": "because you married me off young,"
+      },
+      {
+       "cyr": "зошто ме млада зацрни.",
+       "lat": "zošto me mlada zacrni.",
+       "en": "because you blackened me while young."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојте другарки, мајко ле,",
+       "lat": "Mojte drugarki, majko le,",
+       "en": "My girlfriends, oh mother,"
+      },
+      {
+       "cyr": "уште по сокак играат,",
+       "lat": "ušte po sokak igraat,",
+       "en": "are still playing in the lane,"
+      },
+      {
+       "cyr": "уште по сокак играјат,",
+       "lat": "ušte po sokak igrajat,",
+       "en": "are still playing in the lane,"
+      },
+      {
+       "cyr": "од пепел куќи си прават.",
+       "lat": "od pepel kuḱi si pravat.",
+       "en": "making houses out of ashes."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А јас си одам, мајко ле,",
+       "lat": "A jas si odam, majko le,",
+       "en": "And I go along, oh mother,"
+      },
+      {
+       "cyr": "со машко дете на раце,",
+       "lat": "so maško dete na race,",
+       "en": "with a baby boy in my arms,"
+      },
+      {
+       "cyr": "со едно дете во раце,",
+       "lat": "so edno dete vo race,",
+       "en": "with one child in my arms,"
+      },
+      {
+       "cyr": "и друго мајко на срце.",
+       "lat": "i drugo majko na srce.",
+       "en": "and another, mother, under my heart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

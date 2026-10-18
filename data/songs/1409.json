@@ -1,0 +1,217 @@
+{
+ "id": 1409,
+ "slug": "zbogum-zbogum",
+ "title_cyr": "Збогум, збогум",
+ "title_latin": "Zbogum, zbogum",
+ "title_en": "Farewell, farewell",
+ "pesna_url": "https://pesna.org/song/1409",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (reads like a modern or urban song). Theme: suicidal heartbreak; 'не се жалам' is my reading 'I do not regret it'.",
+ "words_to_learn": [
+  {
+   "mk": "збогум",
+   "en": "farewell"
+  },
+  {
+   "mk": "тажен",
+   "en": "sad"
+  },
+  {
+   "mk": "несреќен",
+   "en": "unhappy"
+  },
+  {
+   "mk": "последен",
+   "en": "last"
+  },
+  {
+   "mk": "да се убијам",
+   "en": "to kill myself"
+  },
+  {
+   "mk": "не се жалам",
+   "en": "I don't regret/complain"
+  },
+  {
+   "mk": "лажи",
+   "en": "lies (3rd person)"
+  },
+  {
+   "mk": "љуби",
+   "en": "loves"
+  },
+  {
+   "mk": "сама",
+   "en": "alone (fem.)"
+  },
+  {
+   "mk": "срека",
+   "en": "happiness"
+  }
+ ],
+ "performers": [
+  "Јонче Христовски"
+ ],
+ "audio": [
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/3611"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Збогум, збогум живот мој,",
+       "lat": "Zbogum, zbogum život moj,",
+       "en": "Farewell, farewell, my life,"
+      },
+      {
+       "cyr": "тажен, несреќен,",
+       "lat": "tažen, nesreḱen,",
+       "en": "sad, unhappy,"
+      },
+      {
+       "cyr": "денот ми дојде",
+       "lat": "denot mi dojde",
+       "en": "my day has come"
+      },
+      {
+       "cyr": "и час последен.",
+       "lat": "i čas posleden.",
+       "en": "and the last hour."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И да се убијам,",
+       "lat": "I da se ubijam,",
+       "en": "Even if I kill myself,"
+      },
+      {
+       "cyr": "јас не се жалам,",
+       "lat": "jas ne se žalam,",
+       "en": "I don't regret it,"
+      },
+      {
+       "cyr": "не можам, не можам",
+       "lat": "ne možam, ne možam",
+       "en": "I can't, I can't"
+      },
+      {
+       "cyr": "сам да живеам.",
+       "lat": "sam da živeam.",
+       "en": "live alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За неа јас живеев,",
+       "lat": "Za nea jas živeev,",
+       "en": "For her I lived,"
+      },
+      {
+       "cyr": "ама не знаев",
+       "lat": "ama ne znaev",
+       "en": "but I did not know"
+      },
+      {
+       "cyr": "дека ме лажи",
+       "lat": "deka me laži",
+       "en": "that she lies to me"
+      },
+      {
+       "cyr": "и не ме љуби.",
+       "lat": "i ne me ljubi.",
+       "en": "and does not love me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И да се убијам,",
+       "lat": "I da se ubijam,",
+       "en": "Even if I kill myself,"
+      },
+      {
+       "cyr": "јас не се жалам,",
+       "lat": "jas ne se žalam,",
+       "en": "I don't regret it,"
+      },
+      {
+       "cyr": "не можам, не можам",
+       "lat": "ne možam, ne možam",
+       "en": "I can't, I can't"
+      },
+      {
+       "cyr": "сам да живеам.",
+       "lat": "sam da živeam.",
+       "en": "live alone."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сега нека живее",
+       "lat": "Sega neka živee",
+       "en": "Now let her live"
+      },
+      {
+       "cyr": "сама без мене.",
+       "lat": "sama bez mene.",
+       "en": "alone without me."
+      },
+      {
+       "cyr": "Нема, нема живот,",
+       "lat": "Nema, nema život,",
+       "en": "There is no, no life,"
+      },
+      {
+       "cyr": "среќа за мене.",
+       "lat": "sreḱa za mene.",
+       "en": "no happiness for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И да се убијам,",
+       "lat": "I da se ubijam,",
+       "en": "Even if I kill myself,"
+      },
+      {
+       "cyr": "јас не се жалам,",
+       "lat": "jas ne se žalam,",
+       "en": "I don't regret it,"
+      },
+      {
+       "cyr": "не можам, не можам",
+       "lat": "ne možam, ne možam",
+       "en": "I can't, I can't"
+      },
+      {
+       "cyr": "сам да живеам.",
+       "lat": "sam da živeam.",
+       "en": "live alone."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

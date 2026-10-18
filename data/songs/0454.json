@@ -1,0 +1,152 @@
+{
+ "id": 454,
+ "slug": "sobrale-mi-se-nabrale",
+ "title_cyr": "Собрале ми се набрале",
+ "title_latin": "Sobrale mi se nabrale",
+ "title_en": "Once there gathered",
+ "pesna_url": "https://pesna.org/song/454",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Jutta Malzbender)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Благоја Николовски",
+  "Костадинка Палазова",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1470"
+  },
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/1471"
+  },
+  {
+   "who": "Костадинка Палазова",
+   "url": "https://pesna.org/audio-download/1834"
+  },
+  {
+   "who": "Благоја Николовски",
+   "url": "https://pesna.org/audio-download/2375"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Собрале ми се набрале",
+       "lat": "Sobrale mi se nabrale",
+       "en": "Once there gathered,"
+      },
+      {
+       "cyr": "седумдесет млади момчиња",
+       "lat": "sedumdeset mladi momčinja",
+       "en": "sixty young men"
+      },
+      {
+       "cyr": "на кондиската рамнина",
+       "lat": "na kondiskata ramnina",
+       "en": "in the plain of Kondiska"
+      },
+      {
+       "cyr": "во таа ладна меана.",
+       "lat": "vo taa ladna meana.",
+       "en": "in a cool inn."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лута ракија пиеја",
+       "lat": "Luta rakija pieja",
+       "en": "They drank strong brandy"
+      },
+      {
+       "cyr": "тешко си клетва зедоја:",
+       "lat": "teško si kletva zedoja:",
+       "en": "and solemnly pledged allegiance:"
+      },
+      {
+       "cyr": "- Кој ќе се, браќа, разболе,",
+       "lat": "- Koj ḱe se, braḱa, razbole,",
+       "en": "If one of us gets ill"
+      },
+      {
+       "cyr": "на раце да го носиме.",
+       "lat": "na race da go nosime.",
+       "en": "we will bear him in our arms."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Разболел ми се млад Гоце",
+       "lat": "Razbolel mi se mlad Goce",
+       "en": "Young Goce fell ill,"
+      },
+      {
+       "cyr": "млад Гоце Делчев војвода",
+       "lat": "mlad Goce Delčev vojvoda",
+       "en": "and the young leader Goce Delchev"
+      },
+      {
+       "cyr": "и на дружина говори:",
+       "lat": "i na družina govori:",
+       "en": "spoke to his group of friends:"
+      },
+      {
+       "cyr": "- Дружино верна зговорна.",
+       "lat": "- Družino verna zgovorna.",
+       "en": "My true friends, who are gathered here,"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога ќе вие минете",
+       "lat": "Koga ḱe vie minete",
+       "en": "When you come"
+      },
+      {
+       "cyr": "низ мојта града Кукуша,",
+       "lat": "niz mojta grada Kukuša,",
+       "en": "to my Kukush, my home town,"
+      },
+      {
+       "cyr": "на мајка да ѝ кажете",
+       "lat": "na majka da ì kažete",
+       "en": "tell my mother,"
+      },
+      {
+       "cyr": "оти сум младо загинал,",
+       "lat": "oti sum mlado zaginal,",
+       "en": "that I died at young age,"
+      },
+      {
+       "cyr": "оти сум младо загинал,",
+       "lat": "oti sum mlado zaginal,",
+       "en": "that I died at young age,"
+      },
+      {
+       "cyr": "за жална Македонија.",
+       "lat": "za žalna Makedonija.",
+       "en": "for mourning Macedonia."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

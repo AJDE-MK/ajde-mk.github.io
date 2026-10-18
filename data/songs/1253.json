@@ -1,0 +1,141 @@
+{
+ "id": 1253,
+ "slug": "cvete-milo",
+ "title_cyr": "Цвете мило",
+ "title_latin": "Cvete milo",
+ "title_en": "Dear Flower",
+ "pesna_url": "https://pesna.org/song/1253",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear; the style suggests a later composed song but I cannot name an author. Line 4 'мојто ангелско лице' (my angelic face) is my reading of who trembles.",
+ "words_to_learn": [
+  {
+   "mk": "цвете",
+   "en": "flower"
+  },
+  {
+   "mk": "мило",
+   "en": "dear"
+  },
+  {
+   "mk": "маки",
+   "en": "troubles, torments"
+  },
+  {
+   "mk": "жалост",
+   "en": "sorrow"
+  },
+  {
+   "mk": "затреперило",
+   "en": "trembled"
+  },
+  {
+   "mk": "месечина",
+   "en": "moonlight"
+  },
+  {
+   "mk": "приспомни",
+   "en": "remember"
+  },
+  {
+   "mk": "поздрав",
+   "en": "greeting"
+  },
+  {
+   "mk": "солза",
+   "en": "tear"
+  }
+ ],
+ "performers": [
+  "Блаже Богев"
+ ],
+ "audio": [
+  {
+   "who": "Блаже Богев",
+   "url": "https://pesna.org/audio-download/3166"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цвете мило, кога би знаело,",
+       "lat": "Cvete milo, koga bi znaelo,",
+       "en": "Dear flower, if you only knew"
+      },
+      {
+       "cyr": "мојте маки на срце.",
+       "lat": "mojte maki na srce.",
+       "en": "the troubles of my heart."
+      },
+      {
+       "cyr": "Од жалост затреперило",
+       "lat": "Od žalost zatreperilo",
+       "en": "From sorrow it trembled,"
+      },
+      {
+       "cyr": "мојто ангелско лице.",
+       "lat": "mojto angelsko lice.",
+       "en": "my angelic face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На јасната Месечина,",
+       "lat": "Na jasnata Mesečina,",
+       "en": "In the bright moonlight,"
+      },
+      {
+       "cyr": "кога го чуеш славејот,",
+       "lat": "koga go čueš slavejot,",
+       "en": "when you hear the nightingale,"
+      },
+      {
+       "cyr": "приспомни си ти за мене,",
+       "lat": "prispomni si ti za mene,",
+       "en": "remember me,"
+      },
+      {
+       "cyr": "јас за тебе умирам.",
+       "lat": "jas za tebe umiram.",
+       "en": "I am dying for you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако умрам, душо моја,",
+       "lat": "Ako umram, dušo moja,",
+       "en": "If I die, my soul,"
+      },
+      {
+       "cyr": "носи поздрав ти славен:",
+       "lat": "nosi pozdrav ti slaven:",
+       "en": "carry this glorious greeting:"
+      },
+      {
+       "cyr": "заспа со мир на душата,",
+       "lat": "zaspa so mir na dušata,",
+       "en": "he fell asleep with peace in his soul,"
+      },
+      {
+       "cyr": "една солза пророна.",
+       "lat": "edna solza prorona.",
+       "en": "he shed one tear."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

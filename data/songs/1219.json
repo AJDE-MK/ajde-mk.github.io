@@ -1,0 +1,122 @@
+{
+ "id": 1219,
+ "slug": "lenche-bre-dusho-slana-e-padnala",
+ "title_cyr": "Ленче бре душо, слана е паднала",
+ "title_latin": "Lenče bre dušo, slana e padnala",
+ "title_en": "Flax, my dear, frost has fallen",
+ "pesna_url": "https://pesna.org/song/1219",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional-sounding. The last two couplets look like a riddle or measuring image (how high the flax grows); that is my reading, not confirmed.",
+ "words_to_learn": [
+  {
+   "mk": "ленче",
+   "en": "little flax"
+  },
+  {
+   "mk": "душо",
+   "en": "dear, my soul"
+  },
+  {
+   "mk": "слана",
+   "en": "frost"
+  },
+  {
+   "mk": "нива",
+   "en": "field"
+  },
+  {
+   "mk": "потфатила",
+   "en": "has begun to take hold of"
+  },
+  {
+   "mk": "колена",
+   "en": "knees"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "neck, necklace area"
+  },
+  {
+   "mk": "рамена",
+   "en": "shoulders"
+  }
+ ],
+ "performers": [
+  "Борис Ангелковски",
+  "Радио студио Скопје"
+ ],
+ "audio": [
+  {
+   "who": "Борис Ангелковски, Радио студио Скопје",
+   "url": "https://pesna.org/audio-download/3011"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ленче бре душо,",
+       "lat": "Lenče bre dušo,",
+       "en": "Flax, hey dear,"
+      },
+      {
+       "cyr": "слана е паднала.",
+       "lat": "slana e padnala.",
+       "en": "frost has fallen."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па ми потфатила,",
+       "lat": "Pa mi potfatila,",
+       "en": "And it has begun to cover"
+      },
+      {
+       "cyr": "големата нива.",
+       "lat": "golemata niva.",
+       "en": "the big field."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Коња до колена,",
+       "lat": "Konja do kolena,",
+       "en": "A horse up to the knee,"
+      },
+      {
+       "cyr": "мома до ѓердана.",
+       "lat": "moma do ǵerdana.",
+       "en": "a girl up to the neck."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мома до ѓердана,",
+       "lat": "Moma do ǵerdana,",
+       "en": "A girl up to the neck,"
+      },
+      {
+       "cyr": "момче до рамена.",
+       "lat": "momče do ramena.",
+       "en": "a lad up to the shoulders."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

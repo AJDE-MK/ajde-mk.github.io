@@ -1,0 +1,81 @@
+{
+ "id": 1368,
+ "slug": "molchi-mi-devojko",
+ "title_cyr": "Молчи ми девојко",
+ "title_latin": "Molči mi devojko",
+ "title_en": "Hush, hush my maiden",
+ "pesna_url": "https://pesna.org/song/1368",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Виктор Синадиноски)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [],
+ "audio": [],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Молчи ми молчи, девојко",
+       "lat": "Molči mi molči, devojko",
+       "en": "Hush, hush my maiden,"
+      },
+      {
+       "cyr": "не ми расипи црните очи.",
+       "lat": "ne mi rasipi crnite oči.",
+       "en": "don’t let your black eyes go to waste."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Немој си груби белото лице,",
+       "lat": "Nemoj si grubi beloto lice,",
+       "en": "Don’t let your white face wither away,"
+      },
+      {
+       "cyr": "јас ќе си појдам на град Солунски.",
+       "lat": "jas ḱe si pojdam na grad Solunski.",
+       "en": "I will go to the city of Solun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ти донесам до две робинки,",
+       "lat": "Ḱe ti donesam do dve robinki,",
+       "en": "I will bring back two slaves,"
+      },
+      {
+       "cyr": "едната тебе слуга да чине.",
+       "lat": "ednata tebe sluga da čine.",
+       "en": "one slave will serve you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Едната тебе слуга да чине,",
+       "lat": "Ednata tebe sluga da čine,",
+       "en": "One slave will serve you,"
+      },
+      {
+       "cyr": "другата чубук мене да пале.",
+       "lat": "drugata čubuk mene da pale.",
+       "en": "the other will light my tobacco pipe."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

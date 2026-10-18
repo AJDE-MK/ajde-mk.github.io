@@ -1,0 +1,327 @@
+{
+ "id": 1057,
+ "slug": "or-neveste-stojanice",
+ "title_cyr": "Ор невесте Стојанице",
+ "title_latin": "Or neveste Stojanice",
+ "title_en": "Hey Bride Stojanica",
+ "pesna_url": "https://pesna.org/song/1057",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Несте' is a dialect vocative of 'невесто'. 'Да ми пукнат ... твоите очи' in the first oath is my reading: the line seems to say 'may your eyes burst', and I kept it as written.",
+ "words_to_learn": [
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "потемнело",
+   "en": "has darkened"
+  },
+  {
+   "mk": "небелено платно",
+   "en": "unbleached linen"
+  },
+  {
+   "mk": "усте",
+   "en": "lips, mouth (dialect)"
+  },
+  {
+   "mk": "подгорело",
+   "en": "scorched"
+  },
+  {
+   "mk": "лушпе",
+   "en": "shell, husk"
+  },
+  {
+   "mk": "стопане",
+   "en": "master, husband"
+  },
+  {
+   "mk": "неправдини",
+   "en": "wrongdoings, injustices"
+  },
+  {
+   "mk": "се колнам",
+   "en": "I swear"
+  },
+  {
+   "mk": "осем",
+   "en": "besides, except"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Анета Арсовска",
+  "Васка Илиева",
+  "Виданка Георгиева",
+  "Гонче Гогова",
+  "Зановет",
+  "Јордан Митев",
+  "Македонски народен ансамбл",
+  "Мегдан",
+  "Танец",
+  "Тип-топ",
+  "Трио Сватови",
+  "Фаворити",
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2425"
+  },
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/2426"
+  },
+  {
+   "who": "Гонче Гогова, Јордан Митев",
+   "url": "https://pesna.org/audio-download/2427"
+  },
+  {
+   "who": "Зановет",
+   "url": "https://pesna.org/audio-download/2428"
+  },
+  {
+   "who": "Анета Арсовска, Фаворити",
+   "url": "https://pesna.org/audio-download/2429"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2430"
+  },
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2431"
+  },
+  {
+   "who": "Мегдан",
+   "url": "https://pesna.org/audio-download/2432"
+  },
+  {
+   "who": "Тип-топ",
+   "url": "https://pesna.org/audio-download/2433"
+  },
+  {
+   "who": "Македонски народен ансамбл",
+   "url": "https://pesna.org/audio-download/3014"
+  },
+  {
+   "who": "Трио Сватови",
+   "url": "https://pesna.org/audio-download/3486"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Ор, невесте, мори, Стојанице,",
+       "lat": "- Or, neveste, mori, Stojanice,",
+       "en": "- Hey, bride, oh, Stojanica,"
+      },
+      {
+       "cyr": "што ти лице потемнело,",
+       "lat": "što ti lice potemnelo,",
+       "en": "why has your face darkened,"
+      },
+      {
+       "cyr": "море, како платно небелено,",
+       "lat": "more, kako platno nebeleno,",
+       "en": "oh, like unbleached linen,"
+      },
+      {
+       "cyr": "што ти лице, несте, потемнело,",
+       "lat": "što ti lice, neste, potemnelo,",
+       "en": "why has your face, bride, darkened,"
+      },
+      {
+       "cyr": "што ти усте подгорело,",
+       "lat": "što ti uste podgorelo,",
+       "en": "why have your lips been scorched,"
+      },
+      {
+       "cyr": "море како лушпе ореово?",
+       "lat": "more kako lušpe oreovo?",
+       "en": "oh, like walnut shells?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ор, Стојане, море, мој стопане,",
+       "lat": "- Or, Stojane, more, moj stopane,",
+       "en": "- Hey, Stojan, oh, my master,"
+      },
+      {
+       "cyr": "од твоите неправдини,",
+       "lat": "od tvoite nepravdini,",
+       "en": "because of your wrongdoings,"
+      },
+      {
+       "cyr": "море, зошто одиш в' туѓа земја,",
+       "lat": "more, zošto odiš v' tuǵa zemja,",
+       "en": "oh, why do you go to a foreign land,"
+      },
+      {
+       "cyr": "зошто одиш, Стојан, в' туѓа земја,",
+       "lat": "zošto odiš, Stojan, v' tuǵa zemja,",
+       "en": "why do you go, Stojan, to a foreign land,"
+      },
+      {
+       "cyr": "тамо љубиш друго либе,",
+       "lat": "tamo ljubiš drugo libe,",
+       "en": "there you love another sweetheart,"
+      },
+      {
+       "cyr": "море друго либе осем мене.",
+       "lat": "more drugo libe osem mene.",
+       "en": "oh, another sweetheart besides me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да се колнам, несте, не ми веруваш,",
+       "lat": "- Da se kolnam, neste, ne mi veruvaš,",
+       "en": "- If I swear, bride, you will not believe me,"
+      },
+      {
+       "cyr": "да се крстам, ќе ми се смееш,",
+       "lat": "da se krstam, ḱe mi se smeeš,",
+       "en": "if I cross myself, you will laugh at me,"
+      },
+      {
+       "cyr": "море, да се крстам, ќе ми се смееш.",
+       "lat": "more, da se krstam, ḱe mi se smeeš.",
+       "en": "oh, if I cross myself, you will laugh at me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да ми пукнат, несте, твоите очи,",
+       "lat": "- Da mi puknat, neste, tvoite oči,",
+       "en": "- May my eyes burst, bride, yours,"
+      },
+      {
+       "cyr": "ако љубам друго либе,",
+       "lat": "ako ljubam drugo libe,",
+       "en": "if I love another sweetheart,"
+      },
+      {
+       "cyr": "море, друго либе осем тебе.",
+       "lat": "more, drugo libe osem tebe.",
+       "en": "oh, another sweetheart besides you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не колни се, Стојан, во очиве,",
+       "lat": "- Ne kolni se, Stojan, vo očive,",
+       "en": "- Do not swear by your eyes, Stojan,"
+      },
+      {
+       "cyr": "очиве се само мои,",
+       "lat": "očive se samo moi,",
+       "en": "my eyes are only mine,"
+      },
+      {
+       "cyr": "море, заколни се што е твое.",
+       "lat": "more, zakolni se što e tvoe.",
+       "en": "oh, swear by what is yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да ми пукне, несте, машкото дете,",
+       "lat": "- Da mi pukne, neste, maškoto dete,",
+       "en": "- May my son burst, bride, my male child,"
+      },
+      {
+       "cyr": "ако љубам друго либе,",
+       "lat": "ako ljubam drugo libe,",
+       "en": "if I love another sweetheart,"
+      },
+      {
+       "cyr": "море, друго либе осем тебе.",
+       "lat": "more, drugo libe osem tebe.",
+       "en": "oh, another sweetheart besides you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Не колни се, Стојан, во детено,",
+       "lat": "- Ne kolni se, Stojan, vo deteno,",
+       "en": "- Do not swear by the child, Stojan,"
+      },
+      {
+       "cyr": "детето е мое, твое,",
+       "lat": "deteto e moe, tvoe,",
+       "en": "the child is mine and yours,"
+      },
+      {
+       "cyr": "море, заколни се што е твое.",
+       "lat": "more, zakolni se što e tvoe.",
+       "en": "oh, swear by what is yours."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Да ми пукнат, несте, моиве очи,",
+       "lat": "- Da mi puknat, neste, moive oči,",
+       "en": "- May my own eyes burst, bride,"
+      },
+      {
+       "cyr": "ако љубам друго либе,",
+       "lat": "ako ljubam drugo libe,",
+       "en": "if I love another sweetheart,"
+      },
+      {
+       "cyr": "море друго либе осем тебе.",
+       "lat": "more drugo libe osem tebe.",
+       "en": "oh, another sweetheart besides you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Уште Стојан зборот не дорече,",
+       "lat": "Ušte Stojan zborot ne doreče,",
+       "en": "Stojan had not even finished the word,"
+      },
+      {
+       "cyr": "му пукнале двете очи,",
+       "lat": "mu puknale dvete oči,",
+       "en": "when both his eyes burst,"
+      },
+      {
+       "cyr": "море зошто љубел друго либе.",
+       "lat": "more zošto ljubel drugo libe.",
+       "en": "oh, because he loved another sweetheart."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

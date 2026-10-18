@@ -1,0 +1,205 @@
+{
+ "id": 1007,
+ "slug": "stojan-zapravil-vodenica",
+ "title_cyr": "Стојан заправил воденица",
+ "title_latin": "Stojan zapravil vodenica",
+ "title_en": "Stojan set up a watermill",
+ "pesna_url": "https://pesna.org/song/1007",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional (Kriva Palanka area). 'се наружиш' I read as 'make yourself up'; 'Света Недела' could be a saint's feast day rather than a plain Sunday (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "воденица",
+   "en": "watermill"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride, young wife"
+  },
+  {
+   "mk": "порано",
+   "en": "earlier"
+  },
+  {
+   "mk": "панаѓур",
+   "en": "fair, market fair"
+  },
+  {
+   "mk": "продадам",
+   "en": "I sell"
+  },
+  {
+   "mk": "доправам",
+   "en": "I finish, complete"
+  },
+  {
+   "mk": "стопан",
+   "en": "master, lord of the house"
+  },
+  {
+   "mk": "работна",
+   "en": "hard-working"
+  },
+  {
+   "mk": "лулка",
+   "en": "cradle"
+  },
+  {
+   "mk": "Света Недела",
+   "en": "Holy Sunday (church name day)"
+  }
+ ],
+ "performers": [
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/2339"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Стојан запраил воденица,",
+       "lat": "Stojan zaprail vodenica,",
+       "en": "Stojan set up a watermill,"
+      },
+      {
+       "cyr": "на Крива Река, Крива Паланка,",
+       "lat": "na Kriva Reka, Kriva Palanka,",
+       "en": "on Kriva Reka, Kriva Palanka,"
+      },
+      {
+       "cyr": "пусти му пари не стигаат,",
+       "lat": "pusti mu pari ne stigaat,",
+       "en": "the damned money is not enough for him,"
+      },
+      {
+       "cyr": "па на невеста ѝ вели:",
+       "lat": "pa na nevesta ì veli:",
+       "en": "so he says to his bride:"
+      },
+      {
+       "cyr": "- Русо ле, млада невесто,",
+       "lat": "- Ruso le, mlada nevesto,",
+       "en": "- Rusa, oh, young bride,"
+      },
+      {
+       "cyr": "утре да станеш порано,",
+       "lat": "utre da staneš porano,",
+       "en": "get up earlier tomorrow,"
+      },
+      {
+       "cyr": "убаво да се промениш,",
+       "lat": "ubavo da se promeniš,",
+       "en": "change yourself nicely,"
+      },
+      {
+       "cyr": "поубаво да се наружиш.",
+       "lat": "poubavo da se naružiš.",
+       "en": "make yourself up prettier."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Утре е Света Недела,",
+       "lat": "Utre e Sveta Nedela,",
+       "en": "Tomorrow is Holy Sunday,"
+      },
+      {
+       "cyr": "во Паланка е панаѓур,",
+       "lat": "vo Palanka e panaǵur,",
+       "en": "in Palanka there is a fair,"
+      },
+      {
+       "cyr": "тебе да те Русо продадам,",
+       "lat": "tebe da te Ruso prodadam,",
+       "en": "I will sell you, Rusa,"
+      },
+      {
+       "cyr": "воденицата да си доправам.",
+       "lat": "vodenicata da si dopravam.",
+       "en": "to finish my mill."
+      },
+      {
+       "cyr": "Русо ле, млада невесто,",
+       "lat": "Ruso le, mlada nevesto,",
+       "en": "Rusa, oh, young bride,"
+      },
+      {
+       "cyr": "утре да станеш порано,",
+       "lat": "utre da staneš porano,",
+       "en": "get up earlier tomorrow,"
+      },
+      {
+       "cyr": "убаво да се промениш,",
+       "lat": "ubavo da se promeniš,",
+       "en": "change yourself nicely,"
+      },
+      {
+       "cyr": "поубави пари да земам.",
+       "lat": "poubavi pari da zemam.",
+       "en": "so that I get better money."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Руса на Стојан говори:",
+       "lat": "Rusa na Stojan govori:",
+       "en": "Rusa speaks to Stojan:"
+      },
+      {
+       "cyr": "- Стојане, мили стопане,",
+       "lat": "- Stojane, mili stopane,",
+       "en": "- Stojan, dear master,"
+      },
+      {
+       "cyr": "зошто да ме Стојан продадеш,",
+       "lat": "zošto da me Stojan prodadeš,",
+       "en": "why would you sell me, Stojan,"
+      },
+      {
+       "cyr": "нели сум лична и работна?",
+       "lat": "neli sum lična i rabotna?",
+       "en": "am I not handsome and hard-working?"
+      },
+      {
+       "cyr": "- Убава си ми, работна,",
+       "lat": "- Ubava si mi, rabotna,",
+       "en": "- You are pretty to me, hard-working,"
+      },
+      {
+       "cyr": "ама немаш лулка над глава,",
+       "lat": "ama nemaš lulka nad glava,",
+       "en": "but you have no cradle above your head,"
+      },
+      {
+       "cyr": "си немаш лулка над глава,",
+       "lat": "si nemaš lulka nad glava,",
+       "en": "you have no cradle above your head,"
+      },
+      {
+       "cyr": "и во лулка машко детенце.",
+       "lat": "i vo lulka maško detence.",
+       "en": "and in the cradle a baby boy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

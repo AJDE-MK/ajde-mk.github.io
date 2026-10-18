@@ -1,0 +1,179 @@
+{
+ "id": 708,
+ "slug": "bog-da-gi-bie-arapite",
+ "title_cyr": "Бог да ги бие Арапите",
+ "title_latin": "Bog da gi bie Arapite",
+ "title_en": "May God Strike the Arabs",
+ "pesna_url": "https://pesna.org/song/708",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Куци Арапи' is my reading as 'wretched/lame Arabs'. Dovledzik is a place name near Bitola, left as written.",
+ "words_to_learn": [
+  {
+   "mk": "Арапи",
+   "en": "Arabs (here, dark-skinned soldiers or foreigners, my reading)"
+  },
+  {
+   "mk": "чаршија",
+   "en": "bazaar, market quarter"
+  },
+  {
+   "mk": "чадори",
+   "en": "tents"
+  },
+  {
+   "mk": "казан",
+   "en": "cauldron"
+  },
+  {
+   "mk": "кондисаја",
+   "en": "camped, lodged (dialect)"
+  },
+  {
+   "mk": "распнаја",
+   "en": "pitched, stretched out"
+  },
+  {
+   "mk": "битолчани",
+   "en": "people of Bitola"
+  },
+  {
+   "mk": "затворена",
+   "en": "closed"
+  }
+ ],
+ "performers": [
+  "Јорданка Смилевска"
+ ],
+ "audio": [
+  {
+   "who": "Јорданка Смилевска",
+   "url": "https://pesna.org/audio-download/175"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да ги бие, бог да ги бие,",
+       "lat": "Bog da gi bie, bog da gi bie,",
+       "en": "May God strike them, may God strike them,"
+      },
+      {
+       "cyr": "бог да ги бие Арапите,",
+       "lat": "bog da gi bie Arapite,",
+       "en": "may God strike the Arabs,"
+      },
+      {
+       "cyr": "Арапите од Арабиска.",
+       "lat": "Arapite od Arabiska.",
+       "en": "the Arabs from Arabia."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми дојдоја, ми дојдоа,",
+       "lat": "Mi dojdoja, mi dojdoa,",
+       "en": "They came to me, they came to me,"
+      },
+      {
+       "cyr": "ми дојдоја во Битола,",
+       "lat": "mi dojdoja vo Bitola,",
+       "en": "they came to me in Bitola,"
+      },
+      {
+       "cyr": "кондисаја на Довлеџик.",
+       "lat": "kondisaja na Dovledžik.",
+       "en": "they camped at Dovledzik."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми распнаја, ми распнаа,",
+       "lat": "Mi raspnaja, mi raspnaa,",
+       "en": "They pitched, they pitched,"
+      },
+      {
+       "cyr": "ми распнаја чадорите,",
+       "lat": "mi raspnaja čadorite,",
+       "en": "they pitched their tents for me,"
+      },
+      {
+       "cyr": "ми кладоја казаните.",
+       "lat": "mi kladoja kazanite.",
+       "en": "they set up their cauldrons for me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми појдоја, ми појдоа,",
+       "lat": "Mi pojdoja, mi pojdoa,",
+       "en": "They went, they went,"
+      },
+      {
+       "cyr": "ми појдоја во чаршија,",
+       "lat": "mi pojdoja vo čaršija,",
+       "en": "they went to the bazaar for me,"
+      },
+      {
+       "cyr": "чаршијата затворена.",
+       "lat": "čaršijata zatvorena.",
+       "en": "the bazaar was shut."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми излезе Џемаил ага,",
+       "lat": "Mi izleze Džemail aga,",
+       "en": "Dzemail Agha came out to me,"
+      },
+      {
+       "cyr": "што му вели на битолчани:",
+       "lat": "što mu veli na bitolčani:",
+       "en": "who says to the people of Bitola:"
+      },
+      {
+       "cyr": "- „Отворете ја чаршијата“!",
+       "lat": "- „Otvorete ja čaršijata“!",
+       "en": "- \"Open the bazaar!\""
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- „Ој бре вие, куци Арапи,",
+       "lat": "- „Oj bre vie, kuci Arapi,",
+       "en": "- \"Hey you, wretched Arabs,"
+      },
+      {
+       "cyr": "одете си во Арабиска,",
+       "lat": "odete si vo Arabiska,",
+       "en": "go back to Arabia,"
+      },
+      {
+       "cyr": "чаршијата не ја отвараме“!",
+       "lat": "čaršijata ne ja otvarame“!",
+       "en": "we are not opening the bazaar!\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

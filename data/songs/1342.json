@@ -1,0 +1,212 @@
+{
+ "id": 1342,
+ "slug": "mome-odi-niz-livada",
+ "title_cyr": "Моме оди низ ливада",
+ "title_latin": "Mome odi niz livada",
+ "title_en": "A Girl Walks Through the Meadow",
+ "pesna_url": "https://pesna.org/song/1342",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Stanzas 4 to 6 are obscure and the speakers are unclear; my reading of stanzas 4 and 6 is a loose guess (the word 'ле' in 'зашто да ле носам' taken as a particle, and 'земам' as 'marry/take').",
+ "words_to_learn": [
+  {
+   "mk": "моме",
+   "en": "girl, young woman"
+  },
+  {
+   "mk": "ливада",
+   "en": "meadow"
+  },
+  {
+   "mk": "росна",
+   "en": "dewy"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "foolish young one (young man; endearing)"
+  },
+  {
+   "mk": "леле",
+   "en": "oh dear (interjection)"
+  },
+  {
+   "mk": "постој",
+   "en": "stop, wait"
+  },
+  {
+   "mk": "почекај",
+   "en": "wait (imperative)"
+  },
+  {
+   "mk": "жолти чевли",
+   "en": "yellow shoes"
+  },
+  {
+   "mk": "машко детенце",
+   "en": "little baby boy"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Ева Нединковска"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/3462"
+  },
+  {
+   "who": "Ева Нединковска",
+   "url": "https://pesna.org/audio-download/3596"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Моме оди низ ливада,",
+       "lat": "Mome odi niz livada,",
+       "en": "A girl walks through the meadow,"
+      },
+      {
+       "cyr": "ливада е росна, леле,",
+       "lat": "livada e rosna, lele,",
+       "en": "the meadow is dewy, oh dear,"
+      },
+      {
+       "cyr": "ливада зелена.",
+       "lat": "livada zelena.",
+       "en": "the meadow is green."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "А по неа лудо младо,",
+       "lat": "A po nea ludo mlado,",
+       "en": "And after her a foolish young man,"
+      },
+      {
+       "cyr": "и на моме дума, леле,",
+       "lat": "i na mome duma, lele,",
+       "en": "and he speaks to the girl, oh dear,"
+      },
+      {
+       "cyr": "на моме дума.",
+       "lat": "na mome duma.",
+       "en": "speaks to the girl."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Постој моме, почекај ме,",
+       "lat": "- Postoj mome, počekaj me,",
+       "en": "- Stop, girl, wait for me,"
+      },
+      {
+       "cyr": "нешто да ти кажам, леле,",
+       "lat": "nešto da ti kažam, lele,",
+       "en": "I want to tell you something, oh dear,"
+      },
+      {
+       "cyr": "нешто да ти речам, леле,",
+       "lat": "nešto da ti rečam, lele,",
+       "en": "I want to say something to you, oh dear,"
+      },
+      {
+       "cyr": "нешто да те прашам.",
+       "lat": "nešto da te prašam.",
+       "en": "I want to ask you something."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да ти купам жолти чевли,",
+       "lat": "Da ti kupam žolti čevli,",
+       "en": "I will buy you yellow shoes,"
+      },
+      {
+       "cyr": "дали да ѝ носиш, леле",
+       "lat": "dali da ì nosiš, lele",
+       "en": "whether you wear them for her, oh dear,"
+      },
+      {
+       "cyr": "дали да ѝ носиш.",
+       "lat": "dali da ì nosiš.",
+       "en": "whether you wear them for her."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Купи лудо, купи младо,",
+       "lat": "- Kupi ludo, kupi mlado,",
+       "en": "- Buy them, foolish young man, buy them,"
+      },
+      {
+       "cyr": "нема што да носам, леле,",
+       "lat": "nema što da nosam, lele,",
+       "en": "I have nothing to wear, oh dear,"
+      },
+      {
+       "cyr": "зашто да ле носам?",
+       "lat": "zašto da le nosam?",
+       "en": "why should I not wear them?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Дали имаш, лудо младо,",
+       "lat": "- Dali imaš, ludo mlado,",
+       "en": "- Tell me, foolish young man, do you have,"
+      },
+      {
+       "cyr": "или да те земам, леле,",
+       "lat": "ili da te zemam, lele,",
+       "en": "or shall I take you, oh dear,"
+      },
+      {
+       "cyr": "или да те земам.",
+       "lat": "ili da te zemam.",
+       "en": "or shall I take you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Имам лудо, имам младо,",
+       "lat": "- Imam ludo, imam mlado,",
+       "en": "- I have, foolish one, I have, young one,"
+      },
+      {
+       "cyr": "и машко детенце, леле,",
+       "lat": "i maško detence, lele,",
+       "en": "and a little baby boy, oh dear,"
+      },
+      {
+       "cyr": "и машко детенце.",
+       "lat": "i maško detence.",
+       "en": "and a little baby boy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

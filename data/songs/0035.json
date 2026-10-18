@@ -1,0 +1,133 @@
+{
+ "id": 35,
+ "slug": "delba-delila",
+ "title_cyr": "Делба делила",
+ "title_latin": "Delba delila",
+ "title_en": "She was distributing",
+ "pesna_url": "https://pesna.org/song/35",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Трио П. Николова",
+  "Hedwig Schoots"
+ ],
+ "audio": [
+  {
+   "who": "Hedwig Schoots",
+   "url": "https://pesna.org/audio-download/1761"
+  },
+  {
+   "who": "Трио П. Николова",
+   "url": "https://pesna.org/audio-download/2529"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Делба делила тај бела Рада,",
+       "lat": "Delba delila taj bela Rada,",
+       "en": "She was distributing, that white Rada,"
+      },
+      {
+       "cyr": "делба делила тај бела Рада, и-ха.",
+       "lat": "delba delila taj bela Rada, i-ha.",
+       "en": "she was distributing, that white Rada, hey."
+      },
+      {
+       "cyr": "На сека мома по едно момче,",
+       "lat": "Na seka moma po edno momče,",
+       "en": "To each girl, one young man,"
+      },
+      {
+       "cyr": "на бела Рада, црно Арапче, и-ха, и-ха!",
+       "lat": "na bela Rada, crno Arapče, i-ha, i-ha!",
+       "en": "to white Rada, a black Arab, hey, hey!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па се чудила што да му прави",
+       "lat": "Pa se čudila što da mu pravi",
+       "en": "So she wondered what to do with him,"
+      },
+      {
+       "cyr": "па се чудила што да му прави, и-ха.",
+       "lat": "pa se čudila što da mu pravi, i-ha.",
+       "en": "so she wondered what to do with him, hey."
+      },
+      {
+       "cyr": "Па му купила три оки сапун,",
+       "lat": "Pa mu kupila tri oki sapun,",
+       "en": "So she bought him four kilos of soap,"
+      },
+      {
+       "cyr": "па го одвела Дебарски бањи, и-ха, и-ха!",
+       "lat": "pa go odvela Debarski banji, i-ha, i-ha!",
+       "en": "and she took him to Debar Spa, hey, hey!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дебарски бањи, на топла вода,",
+       "lat": "Debarski banji, na topla voda,",
+       "en": "To Debar Spa, in the hot water"
+      },
+      {
+       "cyr": "три дни го мила, два дни го трила, и-ха.",
+       "lat": "tri dni go mila, dva dni go trila, i-ha.",
+       "en": "she washed him for three days, she rubbed him for two days, hey."
+      },
+      {
+       "cyr": "Па му претрила десното уво,",
+       "lat": "Pa mu pretrila desnoto uvo,",
+       "en": "And she rubbed too much his right ear,"
+      },
+      {
+       "cyr": "десното уво, левото рамо, и-ха, и-ха!",
+       "lat": "desnoto uvo, levoto ramo, i-ha, i-ha!",
+       "en": "his right ear, his left shoulder, hey, hey!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па го качила на бела коња,",
+       "lat": "Pa go kačila na bela konja,",
+       "en": "So she mounted him on a white horse,"
+      },
+      {
+       "cyr": "па го качила на бела коња, и-ха.",
+       "lat": "pa go kačila na bela konja, i-ha.",
+       "en": "so she mounted him on a white horse, hey."
+      },
+      {
+       "cyr": "Коњ се белее, он се црнее,",
+       "lat": "Konj se belee, on se crnee,",
+       "en": "The horse is white, he is black,"
+      },
+      {
+       "cyr": "коњ се белеје, он се црнеје, и-ха, и-ха!",
+       "lat": "konj se beleje, on se crneje, i-ha, i-ha!",
+       "en": "the horse is white, he is black, hey, hey!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,261 @@
+{
+ "id": 713,
+ "slug": "momchence-i-momichence",
+ "title_cyr": "Момченце и момиченце",
+ "title_latin": "Momčence i momičence",
+ "title_en": "The Little Boy and the Little Girl",
+ "pesna_url": "https://pesna.org/song/713",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Се фатиле на вази' is my reading as 'pledged themselves'; 'оту' (until) and 'лудо' as an address are guesses.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish-origin endearment)"
+  },
+  {
+   "mk": "момченце",
+   "en": "little boy"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "јорган",
+   "en": "quilt"
+  },
+  {
+   "mk": "петли",
+   "en": "roosters"
+  },
+  {
+   "mk": "зора",
+   "en": "dawn"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "шарена",
+   "en": "colourful"
+  },
+  {
+   "mk": "лудо",
+   "en": "lad, love (here as address)"
+  }
+ ],
+ "performers": [
+  "Ансамбл Билјана"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/466"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Момченце и момиченце, џанам,",
+       "lat": "Momčence i momičence, džanam,",
+       "en": "The little boy and the little girl, dear,"
+      },
+      {
+       "cyr": "на вази се фатиле.",
+       "lat": "na vazi se fatile.",
+       "en": "have pledged themselves to each other."
+      },
+      {
+       "cyr": "Момченце и момиченце, џанам,",
+       "lat": "Momčence i momičence, džanam,",
+       "en": "The little boy and the little girl, dear,"
+      },
+      {
+       "cyr": "на вази се фатиле.",
+       "lat": "na vazi se fatile.",
+       "en": "have pledged themselves to each other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На вази се фатиле, џанам,",
+       "lat": "Na vazi se fatile, džanam,",
+       "en": "They pledged themselves to each other, dear,"
+      },
+      {
+       "cyr": "в' една постела да лежат.",
+       "lat": "v' edna postela da ležat.",
+       "en": "to lie in one bed."
+      },
+      {
+       "cyr": "В' една постела да лежат, џанам,",
+       "lat": "V' edna postela da ležat, džanam,",
+       "en": "To lie in one bed, dear,"
+      },
+      {
+       "cyr": "со свилен јорган да спијат.",
+       "lat": "so svilen jorgan da spijat.",
+       "en": "to sleep under a silk quilt."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лежале што ми лежале, џанам,",
+       "lat": "Ležale što mi ležale, džanam,",
+       "en": "They lay and lay, dear,"
+      },
+      {
+       "cyr": "три пати петли пропееле.",
+       "lat": "tri pati petli propeele.",
+       "en": "the roosters crowed three times."
+      },
+      {
+       "cyr": "Три пати петли пропеале, џанам,",
+       "lat": "Tri pati petli propeale, džanam,",
+       "en": "The roosters crowed three times, dear,"
+      },
+      {
+       "cyr": "момето сон не го фати.",
+       "lat": "mometo son ne go fati.",
+       "en": "the girl could not fall asleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тогај прозбори момето, џанам,",
+       "lat": "Togaj prozbori mometo, džanam,",
+       "en": "Then the girl spoke, dear:"
+      },
+      {
+       "cyr": "сврти се лудо кон мене.",
+       "lat": "svrti se ludo kon mene.",
+       "en": "Turn to me, my love."
+      },
+      {
+       "cyr": "Сврти се лудо кон мене, џанам,",
+       "lat": "Svrti se ludo kon mene, džanam,",
+       "en": "Turn to me, my love, dear,"
+      },
+      {
+       "cyr": "префрли рака на мене.",
+       "lat": "prefrli raka na mene.",
+       "en": "throw your arm over me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Префрли рака на мене, џанам,",
+       "lat": "Prefrli raka na mene, džanam,",
+       "en": "Throw your arm over me, dear,"
+      },
+      {
+       "cyr": "целувај лице Јанино.",
+       "lat": "celuvaj lice Janino.",
+       "en": "kiss Jana's face."
+      },
+      {
+       "cyr": "Префрли рака на мене, џанам,",
+       "lat": "Prefrli raka na mene, džanam,",
+       "en": "Throw your arm over me, dear,"
+      },
+      {
+       "cyr": "целувај лице Јанино.",
+       "lat": "celuvaj lice Janino.",
+       "en": "kiss Jana's face."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Целувај лице Јанино, џанам,",
+       "lat": "Celuvaj lice Janino, džanam,",
+       "en": "Kiss Jana's face, dear,"
+      },
+      {
+       "cyr": "оту се зора озори.",
+       "lat": "otu se zora ozori.",
+       "en": "until the dawn breaks."
+      },
+      {
+       "cyr": "Оту се зора озори, џанам,",
+       "lat": "Otu se zora ozori, džanam,",
+       "en": "Until the dawn breaks, dear,"
+      },
+      {
+       "cyr": "момите одат на вода.",
+       "lat": "momite odat na voda.",
+       "en": "the girls go to fetch water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момите одат на вода, џанам,",
+       "lat": "Momite odat na voda, džanam,",
+       "en": "The girls go to fetch water, dear,"
+      },
+      {
+       "cyr": "на таја чешма шарена.",
+       "lat": "na taja češma šarena.",
+       "en": "to that colourful fountain."
+      },
+      {
+       "cyr": "На таја чешма шарена, џанам,",
+       "lat": "Na taja češma šarena, džanam,",
+       "en": "To that colourful fountain, dear,"
+      },
+      {
+       "cyr": "да полнат вода студена.",
+       "lat": "da polnat voda studena.",
+       "en": "to fill cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "И јас ќе одам на вода, џанам,",
+       "lat": "I jas ḱe odam na voda, džanam,",
+       "en": "I too will go for water, dear,"
+      },
+      {
+       "cyr": "на таја чешма шарена.",
+       "lat": "na taja češma šarena.",
+       "en": "to that colourful fountain."
+      },
+      {
+       "cyr": "На таја чешма шарена, џанам,",
+       "lat": "Na taja češma šarena, džanam,",
+       "en": "To that colourful fountain, dear,"
+      },
+      {
+       "cyr": "да полнам вода студена.",
+       "lat": "da polnam voda studena.",
+       "en": "to fill cold water."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

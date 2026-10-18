@@ -1,0 +1,141 @@
+{
+ "id": 142,
+ "slug": "tri-godini-sejmen-shetav",
+ "title_cyr": "Три години сејмен шетав",
+ "title_latin": "Tri godini sejmen šetav",
+ "title_en": "For Three Years I Roamed as a Guard",
+ "pesna_url": "https://pesna.org/song/142",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ѓулави јаб'лка' (round apples) is likely a metaphor for breasts or for untouched purity; that is my reading. 'Да сториме здраво-живо' rendered as 'to say farewell' (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "сејмен",
+   "en": "seymen (armed guard or irregular soldier)"
+  },
+  {
+   "mk": "пусто село",
+   "en": "forsaken, empty village"
+  },
+  {
+   "mk": "здраво-живо",
+   "en": "farewell (lit. 'healthy-alive')"
+  },
+  {
+   "mk": "золва",
+   "en": "husband's sister"
+  },
+  {
+   "mk": "аманет",
+   "en": "pledge, thing entrusted"
+  },
+  {
+   "mk": "ѓулав",
+   "en": "round, plump"
+  },
+  {
+   "mk": "роса",
+   "en": "dew"
+  },
+  {
+   "mk": "огреани",
+   "en": "warmed (by the sun)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1482"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1483"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Три години сејмен шетав",
+       "lat": "Tri godini sejmen šetav",
+       "en": "For three years I roamed as a seymen"
+      },
+      {
+       "cyr": "низ вашето пусто село.",
+       "lat": "niz vašeto pusto selo.",
+       "en": "through your forsaken village."
+      },
+      {
+       "cyr": "Тебе дома не те најдов",
+       "lat": "Tebe doma ne te najdov",
+       "en": "I did not find you at home"
+      },
+      {
+       "cyr": "да сториме здраво-живо.",
+       "lat": "da storime zdravo-živo.",
+       "en": "to say farewell."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да је речеш на золва ти",
+       "lat": "Da je rečeš na zolva ti",
+       "en": "Tell your sister-in-law"
+      },
+      {
+       "cyr": "дал' го чуват аманетот?",
+       "lat": "dal' go čuvat amanetot?",
+       "en": "whether she keeps the pledge?"
+      },
+      {
+       "cyr": "Аманетот три годишен",
+       "lat": "Amanetot tri godišen",
+       "en": "The three-year-old pledge,"
+      },
+      {
+       "cyr": "две јаб'лка ѓулави.",
+       "lat": "dve jab'lka ǵulavi.",
+       "en": "two round apples."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Две јаболка ѓулави",
+       "lat": "Dve jabolka ǵulavi",
+       "en": "Two round apples"
+      },
+      {
+       "cyr": "ни од сонце огреани.",
+       "lat": "ni od sonce ogreani.",
+       "en": "not warmed by the sun."
+      },
+      {
+       "cyr": "Ни од с'нце огреани,",
+       "lat": "Ni od s'nce ogreani,",
+       "en": "Not warmed by the sun,"
+      },
+      {
+       "cyr": "ни од роса поросени.",
+       "lat": "ni od rosa poroseni.",
+       "en": "not wetted by the dew."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

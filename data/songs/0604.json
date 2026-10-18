@@ -1,0 +1,175 @@
+{
+ "id": 604,
+ "slug": "bog-da-bie-naumcheto",
+ "title_cyr": "Бог да бие Наумчето",
+ "title_latin": "Bog da bie Naumčeto",
+ "title_en": "God strike Naum",
+ "pesna_url": "https://pesna.org/song/604",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Бог да бие' used as a mock-affectionate curse is my reading. 'Едеса' is Edessa (Voden).",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "my dear, my soul (Turkish-origin)"
+  },
+  {
+   "mk": "бог да бие",
+   "en": "may God strike (an affectionate/mock curse, my reading)"
+  },
+  {
+   "mk": "утро рано",
+   "en": "early in the morning"
+  },
+  {
+   "mk": "недела",
+   "en": "Sunday"
+  },
+  {
+   "mk": "јавна",
+   "en": "mounted (a horse)"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "внука",
+   "en": "granddaughter"
+  },
+  {
+   "mk": "се посврши",
+   "en": "passed away, died"
+  },
+  {
+   "mk": "маало",
+   "en": "neighbourhood, quarter"
+  }
+ ],
+ "performers": [
+  "Круме Спасовски",
+  "Сузана Спасовска",
+  "Цане Николовски"
+ ],
+ "audio": [
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/1379"
+  },
+  {
+   "who": "Круме Спасовски",
+   "url": "https://pesna.org/audio-download/1380"
+  },
+  {
+   "who": "Цане Николовски",
+   "url": "https://pesna.org/audio-download/1381"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие џанам Наумчето,",
+       "lat": "Bog da bie džanam Naumčeto,",
+       "en": "God strike him, my dear, Naum,"
+      },
+      {
+       "cyr": "Наумчето, џанам, од Велеса,",
+       "lat": "Naumčeto, džanam, od Velesa,",
+       "en": "Naum, my dear, from Veles,"
+      },
+      {
+       "cyr": "што ми стана Наум утро рано,",
+       "lat": "što mi stana Naum utro rano,",
+       "en": "who got up, Naum, early in the morning,"
+      },
+      {
+       "cyr": "утро рано, Наум, во недела.",
+       "lat": "utro rano, Naum, vo nedela.",
+       "en": "early in the morning, Naum, on Sunday."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Па си јавна Наум брза коња,",
+       "lat": "Pa si javna Naum brza konja,",
+       "en": "And Naum mounted his swift horse,"
+      },
+      {
+       "cyr": "па си појде Наум в град Едеса.",
+       "lat": "pa si pojde Naum v grad Edesa.",
+       "en": "and Naum set off for the town of Edessa."
+      },
+      {
+       "cyr": "На пат сретна Наум бела чешма,",
+       "lat": "Na pat sretna Naum bela češma,",
+       "en": "On the road Naum met a white fountain,"
+      },
+      {
+       "cyr": "крај чешмата, џанам, стара баба.",
+       "lat": "kraj češmata, džanam, stara baba.",
+       "en": "by the fountain, my dear, an old woman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Ќе те прашам бабо да ми кажеш",
+       "lat": "- Ḱe te prašam babo da mi kažeš",
+       "en": "- I will ask you, granny, tell me"
+      },
+      {
+       "cyr": "дал' је жива бабо твојта внука.",
+       "lat": "dal' je živa babo tvojta vnuka.",
+       "en": "whether your granddaughter is alive, granny."
+      },
+      {
+       "cyr": "Дал' је жива бабо твојта внука,",
+       "lat": "Dal' je živa babo tvojta vnuka,",
+       "en": "Whether your granddaughter is alive, granny,"
+      },
+      {
+       "cyr": "твојта внука бабо, лична Евра?",
+       "lat": "tvojta vnuka babo, lična Evra?",
+       "en": "your granddaughter, granny, pretty Evra?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мојта внука синко се посврши,",
+       "lat": "Mojta vnuka sinko se posvrši,",
+       "en": "- My granddaughter, son, has passed away,"
+      },
+      {
+       "cyr": "се посврши синко, в град Битола.",
+       "lat": "se posvrši sinko, v grad Bitola.",
+       "en": "she passed away, son, in the town of Bitola."
+      },
+      {
+       "cyr": "Се посврши синко, в град Битола,",
+       "lat": "Se posvrši sinko, v grad Bitola,",
+       "en": "She passed away, son, in the town of Bitola,"
+      },
+      {
+       "cyr": "в град Битола синко, Баир маало.",
+       "lat": "v grad Bitola sinko, Bair maalo.",
+       "en": "in the town of Bitola, son, in Bair quarter."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

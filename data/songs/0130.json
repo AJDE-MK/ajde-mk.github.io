@@ -1,0 +1,106 @@
+{
+ "id": 130,
+ "slug": "a-bre-makedonche",
+ "title_cyr": "А бре Македонче",
+ "title_latin": "A bre Makedonče",
+ "title_en": "Hey Macedonian boy",
+ "pesna_url": "https://pesna.org/song/130",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Александар Сариевски",
+  "Гарабет Тавитјан",
+  "Децата од Буф",
+  "Никола Бадев",
+  "Парамециум"
+ ],
+ "audio": [
+  {
+   "who": "Гарабет Тавитјан, Парамециум",
+   "url": "https://pesna.org/audio-download/12"
+  },
+  {
+   "who": "Никола Бадев, Александар Сариевски",
+   "url": "https://pesna.org/audio-download/719"
+  },
+  {
+   "who": "Децата од Буф",
+   "url": "https://pesna.org/audio-download/730"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "А бре Македонче, за каде се спремаш?",
+       "lat": "A bre Makedonče, za kade se spremaš?",
+       "en": "Hey Macedonian boy, what are you preparing for?"
+      },
+      {
+       "cyr": "Борба те чека, борба за слобода.",
+       "lat": "Borba te čeka, borba za sloboda.",
+       "en": "A fight await for you, a fight for freedom."
+      },
+      {
+       "cyr": "Борба за слобода, за Македонија,",
+       "lat": "Borba za sloboda, za Makedonija,",
+       "en": "A fight for freedom, for Macedonia,"
+      },
+      {
+       "cyr": "за Македонија, земја поробена.",
+       "lat": "za Makedonija, zemja porobena.",
+       "en": "for Macedonia, enslaved land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Момци наредени, моми накитени,",
+       "lat": "Momci naredeni, momi nakiteni,",
+       "en": "Young men, decorated, young women with flowers,"
+      },
+      {
+       "cyr": "борба ќе одат, борба за слобода.",
+       "lat": "borba ḱe odat, borba za sloboda.",
+       "en": "they'll go to fight, to fight for freedom."
+      },
+      {
+       "cyr": "Борба за слобода, за Македонија,",
+       "lat": "Borba za sloboda, za Makedonija,",
+       "en": "A fight for freedom, for Macedonia,"
+      },
+      {
+       "cyr": "за Македонија, земја поробена.",
+       "lat": "za Makedonija, zemja porobena.",
+       "en": "for Macedonia, enslaved land."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нека разберат клетите фашисти,",
+       "lat": "Neka razberat kletite fašisti,",
+       "en": "Let the damned fascists know:"
+      },
+      {
+       "cyr": "македонско име нема да загине!",
+       "lat": "makedonsko ime nema da zagine!",
+       "en": "the Macedonian name will not die!"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

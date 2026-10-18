@@ -1,0 +1,80 @@
+{
+ "id": 816,
+ "slug": "dve-devojki",
+ "title_cyr": "Две девојки",
+ "title_latin": "Dve devojki",
+ "title_en": "Two girls",
+ "pesna_url": "https://pesna.org/song/816",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Synthesis"
+ ],
+ "audio": [
+  {
+   "who": "Synthesis",
+   "url": "https://pesna.org/audio-download/1667"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Две девојки, мајко, збор збореа",
+       "lat": "Dve devojki, majko, zbor zborea",
+       "en": "Two girls, mother, were talking:"
+      },
+      {
+       "cyr": "да се такви, џанам, наш'те мајки",
+       "lat": "da se takvi, džanam, naš'te majki",
+       "en": "- If only our mothers agree"
+      },
+      {
+       "cyr": "да нè дадат, џанам, в' едно село,",
+       "lat": "da nè dadat, džanam, v' edno selo,",
+       "en": "to give us into one village,"
+      },
+      {
+       "cyr": "в' едно село, в' една куќа.",
+       "lat": "v' edno selo, v' edna kuḱa.",
+       "en": "into one village, into one house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Да нè дадат, џанам, в' едно село,",
+       "lat": "Da nè dadat, džanam, v' edno selo,",
+       "en": "To give us into one village,"
+      },
+      {
+       "cyr": "в' едно село, в' една куќа.",
+       "lat": "v' edno selo, v' edna kuḱa.",
+       "en": "into one village, into one house."
+      },
+      {
+       "cyr": "Една куќа, џанам, за два браќа,",
+       "lat": "Edna kuḱa, džanam, za dva braḱa,",
+       "en": "Into one house, for two brothers,"
+      },
+      {
+       "cyr": "да бидеме, џанам, две јатрви.",
+       "lat": "da bideme, džanam, dve jatrvi.",
+       "en": "so that we are two co-sisters-in-law."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

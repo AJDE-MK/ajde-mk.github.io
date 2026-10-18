@@ -1,0 +1,254 @@
+{
+ "id": 855,
+ "slug": "svirete-mi-drugari",
+ "title_cyr": "Свирете ми другари",
+ "title_latin": "Svirete mi drugari",
+ "title_en": "Play for Me, Friends",
+ "pesna_url": "https://pesna.org/song/855",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (modern-sounding pop/folk song). 'таговна' I read as 'sorrowful'.",
+ "words_to_learn": [
+  {
+   "mk": "сабота",
+   "en": "Saturday"
+  },
+  {
+   "mk": "друштво",
+   "en": "company, group of friends"
+  },
+  {
+   "mk": "гитара",
+   "en": "guitar"
+  },
+  {
+   "mk": "молчи",
+   "en": "stays silent"
+  },
+  {
+   "mk": "тагува",
+   "en": "grieves"
+  },
+  {
+   "mk": "свирете",
+   "en": "play (instrument), imperative plural"
+  },
+  {
+   "mk": "мелем",
+   "en": "balm, ointment"
+  },
+  {
+   "mk": "ранета",
+   "en": "wounded"
+  }
+ ],
+ "performers": [
+  "Влатко Лозаноски",
+  "Христијан Кико Димитриевски"
+ ],
+ "audio": [
+  {
+   "who": "Христијан Кико Димитриевски",
+   "url": "https://pesna.org/audio-download/1868"
+  },
+  {
+   "who": "Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/2010"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сабота навечер",
+       "lat": "Sabota navečer",
+       "en": "Saturday evening"
+      },
+      {
+       "cyr": "друштвото се собра пак.",
+       "lat": "društvoto se sobra pak.",
+       "en": "the company has gathered again."
+      },
+      {
+       "cyr": "Мојата гитара",
+       "lat": "Mojata gitara",
+       "en": "My guitar"
+      },
+      {
+       "cyr": "немо молчи и тагува.",
+       "lat": "nemo molči i taguva.",
+       "en": "silently keeps quiet and grieves."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За сите наши вечери,",
+       "lat": "Za site naši večeri,",
+       "en": "For all our evenings,"
+      },
+      {
+       "cyr": "тие песни до зори",
+       "lat": "tie pesni do zori",
+       "en": "those songs until dawn"
+      },
+      {
+       "cyr": "и за сите среќни денови.",
+       "lat": "i za site sreḱni denovi.",
+       "en": "and for all the happy days."
+      },
+      {
+       "cyr": "Исти моми љубевме,",
+       "lat": "Isti momi ljubevme,",
+       "en": "We loved the same girls,"
+      },
+      {
+       "cyr": "тага, радост делевме,",
+       "lat": "taga, radost delevme,",
+       "en": "we shared sorrow and joy,"
+      },
+      {
+       "cyr": "животот нас нè раздели,",
+       "lat": "životot nas nè razdeli,",
+       "en": "life parted us,"
+      },
+      {
+       "cyr": "болка ни остави.",
+       "lat": "bolka ni ostavi.",
+       "en": "it left us pain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свирете ми, свирете ми, еј другари",
+       "lat": "Svirete mi, svirete mi, ej drugari",
+       "en": "Play for me, play for me, hey friends,"
+      },
+      {
+       "cyr": "свирете ми сè од срце.",
+       "lat": "svirete mi sè od srce.",
+       "en": "play for me everything from the heart."
+      },
+      {
+       "cyr": "Таква песна, мелем песна,",
+       "lat": "Takva pesna, melem pesna,",
+       "en": "Such a song, a balm song,"
+      },
+      {
+       "cyr": "мојта душа да ја лечи,",
+       "lat": "mojta duša da ja leči,",
+       "en": "to heal my soul,"
+      },
+      {
+       "cyr": "свирете ми, еј другари.",
+       "lat": "svirete mi, ej drugari.",
+       "en": "play for me, hey friends."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Душава ранета,",
+       "lat": "Dušava raneta,",
+       "en": "This wounded soul,"
+      },
+      {
+       "cyr": "со неа пак тагувам.",
+       "lat": "so nea pak taguvam.",
+       "en": "with it I grieve again."
+      },
+      {
+       "cyr": "Песнава таговна",
+       "lat": "Pesnava tagovna",
+       "en": "This sorrowful song"
+      },
+      {
+       "cyr": "тебе ти ја подарувам.",
+       "lat": "tebe ti ja podaruvam.",
+       "en": "I give to you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За сите наши вечери,",
+       "lat": "Za site naši večeri,",
+       "en": "For all our evenings,"
+      },
+      {
+       "cyr": "тие песни до зори",
+       "lat": "tie pesni do zori",
+       "en": "those songs until dawn"
+      },
+      {
+       "cyr": "и за сите среќни денови.",
+       "lat": "i za site sreḱni denovi.",
+       "en": "and for all the happy days."
+      },
+      {
+       "cyr": "Исти моми љубевме,",
+       "lat": "Isti momi ljubevme,",
+       "en": "We loved the same girls,"
+      },
+      {
+       "cyr": "тага, радост делевме,",
+       "lat": "taga, radost delevme,",
+       "en": "we shared sorrow and joy,"
+      },
+      {
+       "cyr": "животот нас нè раздели,",
+       "lat": "životot nas nè razdeli,",
+       "en": "life parted us,"
+      },
+      {
+       "cyr": "болка ни остави.",
+       "lat": "bolka ni ostavi.",
+       "en": "it left us pain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Свирете ми, свирете ми, еј другари",
+       "lat": "Svirete mi, svirete mi, ej drugari",
+       "en": "Play for me, play for me, hey friends,"
+      },
+      {
+       "cyr": "свирете ми сè од срце.",
+       "lat": "svirete mi sè od srce.",
+       "en": "play for me everything from the heart."
+      },
+      {
+       "cyr": "Таква песна, мелем песна,",
+       "lat": "Takva pesna, melem pesna,",
+       "en": "Such a song, a balm song,"
+      },
+      {
+       "cyr": "мојта душа да ја лечи,",
+       "lat": "mojta duša da ja leči,",
+       "en": "to heal my soul,"
+      },
+      {
+       "cyr": "свирете ми, еј другари.",
+       "lat": "svirete mi, ej drugari.",
+       "en": "play for me, hey friends."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

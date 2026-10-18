@@ -1,0 +1,193 @@
+{
+ "id": 659,
+ "slug": "devojchence-ljubish-li-me-mene",
+ "title_cyr": "Девојченце љубиш ли ме мене",
+ "title_latin": "Devojčence ljubiš li me mene",
+ "title_en": "Little Girl, Do You Love Me",
+ "pesna_url": "https://pesna.org/song/659",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Question and answer dialogue. 'на сон те сонувам' is rendered 'I dream of you in my sleep'.",
+ "words_to_learn": [
+  {
+   "mk": "девојченце",
+   "en": "little girl"
+  },
+  {
+   "mk": "љубиш",
+   "en": "you love"
+  },
+  {
+   "mk": "сонувам",
+   "en": "I dream"
+  },
+  {
+   "mk": "кажуваш",
+   "en": "you tell"
+  },
+  {
+   "mk": "штом",
+   "en": "when, as soon as"
+  },
+  {
+   "mk": "ко",
+   "en": "when (short form of 'кога')"
+  },
+  {
+   "mk": "лажи го",
+   "en": "deceive him, lie to him"
+  },
+  {
+   "mk": "ќерко",
+   "en": "daughter (address)"
+  },
+  {
+   "mk": "ќе го земам",
+   "en": "I will marry him"
+  }
+ ],
+ "performers": [
+  "Виданка Георгиева",
+  "Струшки бисери"
+ ],
+ "audio": [
+  {
+   "who": "Виданка Георгиева",
+   "url": "https://pesna.org/audio-download/882"
+  },
+  {
+   "who": "Струшки бисери",
+   "url": "https://pesna.org/audio-download/883"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девојченце, девојченце,",
+       "lat": "Devojčence, devojčence,",
+       "en": "Little girl, little girl,"
+      },
+      {
+       "cyr": "љубиш ли ме мене",
+       "lat": "ljubiš li me mene",
+       "en": "do you love me,"
+      },
+      {
+       "cyr": "девојченце љубиш ли ме мене?",
+       "lat": "devojčence ljubiš li me mene?",
+       "en": "little girl, do you love me?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас те љубам, јас те љубам",
+       "lat": "Jas te ljubam, jas te ljubam",
+       "en": "I love you, I love you,"
+      },
+      {
+       "cyr": "на сон те сонувам,",
+       "lat": "na son te sonuvam,",
+       "en": "I dream of you in my sleep,"
+      },
+      {
+       "cyr": "јас те љубам, на сон те сонувам.",
+       "lat": "jas te ljubam, na son te sonuvam.",
+       "en": "I love you, I dream of you in my sleep."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Штом сонуваш, штом сонуваш",
+       "lat": "Štom sonuvaš, štom sonuvaš",
+       "en": "When you dream, when you dream,"
+      },
+      {
+       "cyr": "на кого кажуваш,",
+       "lat": "na kogo kažuvaš,",
+       "en": "whom do you tell,"
+      },
+      {
+       "cyr": "штом сонуваш на кого кажуваш?",
+       "lat": "štom sonuvaš na kogo kažuvaš?",
+       "en": "when you dream, whom do you tell?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас кажувам, јас кажувам",
+       "lat": "Jas kažuvam, jas kažuvam",
+       "en": "I tell, I tell"
+      },
+      {
+       "cyr": "на мојата мајка,",
+       "lat": "na mojata majka,",
+       "en": "my mother,"
+      },
+      {
+       "cyr": "јас кажувам на мојата мајка.",
+       "lat": "jas kažuvam na mojata majka.",
+       "en": "I tell my mother."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ко кажуваш, ко кажуваш",
+       "lat": "Ko kažuvaš, ko kažuvaš",
+       "en": "When you tell, when you tell,"
+      },
+      {
+       "cyr": "што ти мајка вели,",
+       "lat": "što ti majka veli,",
+       "en": "what does your mother say,"
+      },
+      {
+       "cyr": "ко кажуваш што ти мајка вели?",
+       "lat": "ko kažuvaš što ti majka veli?",
+       "en": "when you tell, what does your mother say?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајка вели, мајка вели",
+       "lat": "Majka veli, majka veli",
+       "en": "Mother says, mother says,"
+      },
+      {
+       "cyr": "лажи го ќерко,",
+       "lat": "laži go ḱerko,",
+       "en": "deceive him, daughter,"
+      },
+      {
+       "cyr": "јас ѝ велам, си го љубам, мајко,",
+       "lat": "jas ì velam, si go ljubam, majko,",
+       "en": "I tell her, I love him, mother,"
+      },
+      {
+       "cyr": "јас ѝ велам, ќе го земам, мајко.",
+       "lat": "jas ì velam, ḱe go zemam, majko.",
+       "en": "I tell her, I will marry him, mother."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

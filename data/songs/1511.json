@@ -1,0 +1,171 @@
+{
+ "id": 1511,
+ "slug": "ozdola-ide-edno-ludo-mlado",
+ "title_cyr": "Оздола иде едно лудо младо",
+ "title_latin": "Ozdola ide edno ludo mlado",
+ "title_en": "A young man comes from below",
+ "pesna_url": "https://pesna.org/song/1511",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional, origin unclear. 'Тегле' is a dialect form I read as 'pulls, heads' (like 'тргнува'); it is a guess.",
+ "words_to_learn": [
+  {
+   "mk": "оздола",
+   "en": "from below"
+  },
+  {
+   "mk": "стара мајко",
+   "en": "old mother (address to mother)"
+  },
+  {
+   "mk": "трга",
+   "en": "sets off, heads"
+  },
+  {
+   "mk": "пречекај",
+   "en": "receive, greet (imperative)"
+  },
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "постела",
+   "en": "bedding, bed"
+  },
+  {
+   "mk": "слатки думи",
+   "en": "sweet words"
+  },
+  {
+   "mk": "рамна снага",
+   "en": "slender figure"
+  }
+ ],
+ "performers": [
+  "Блага Видец"
+ ],
+ "audio": [
+  {
+   "who": "Блага Видец",
+   "url": "https://pesna.org/audio-download/3952"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "- Оздола иде стара мајко",
+       "lat": "- Ozdola ide stara majko",
+       "en": "- From below comes, old mother,"
+      },
+      {
+       "cyr": "едно лудо младо,",
+       "lat": "edno ludo mlado,",
+       "en": "a young man,"
+      },
+      {
+       "cyr": "право трга стара мајко,",
+       "lat": "pravo trga stara majko,",
+       "en": "straight he heads, old mother,"
+      },
+      {
+       "cyr": "право наш'та куќа,",
+       "lat": "pravo naš'ta kuḱa,",
+       "en": "straight to our house,"
+      },
+      {
+       "cyr": "право тегле стара мајко,",
+       "lat": "pravo tegle stara majko,",
+       "en": "straight he pulls, old mother,"
+      },
+      {
+       "cyr": "право нашата куќа.",
+       "lat": "pravo našata kuḱa.",
+       "en": "straight to our house."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Стани, стани стара мајко,",
+       "lat": "Stani, stani stara majko,",
+       "en": "Get up, get up, old mother,"
+      },
+      {
+       "cyr": "стани пречекај го!",
+       "lat": "stani prečekaj go!",
+       "en": "get up and greet him!"
+      },
+      {
+       "cyr": "- Немој ќерко, немој душо,",
+       "lat": "- Nemoj ḱerko, nemoj dušo,",
+       "en": "- Don't, daughter, don't, dear,"
+      },
+      {
+       "cyr": "вечера немаме.",
+       "lat": "večera nemame.",
+       "en": "we have no supper."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Вечера ќе бидат мајко",
+       "lat": "- Večera ḱe bidat majko",
+       "en": "- Supper will be, mother,"
+      },
+      {
+       "cyr": "мојте слатки думи.",
+       "lat": "mojte slatki dumi.",
+       "en": "my sweet words."
+      },
+      {
+       "cyr": "- Немој ќерко, немој душо,",
+       "lat": "- Nemoj ḱerko, nemoj dušo,",
+       "en": "- Don't, daughter, don't, dear,"
+      },
+      {
+       "cyr": "постела немаме.",
+       "lat": "postela nemame.",
+       "en": "we have no bedding."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, стани стара мајко,",
+       "lat": "- Stani, stani stara majko,",
+       "en": "- Get up, get up, old mother,"
+      },
+      {
+       "cyr": "стани пречекај го.",
+       "lat": "stani prečekaj go.",
+       "en": "get up and greet him."
+      },
+      {
+       "cyr": "Постела ќе биде мајко",
+       "lat": "Postela ḱe bide majko",
+       "en": "The bedding will be, mother,"
+      },
+      {
+       "cyr": "мојта рамна снага.",
+       "lat": "mojta ramna snaga.",
+       "en": "my slender figure."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,202 @@
+{
+ "id": 29,
+ "slug": "mori-mome-shto-ne-dojdesh",
+ "title_cyr": "Мори моме, што не дојдеш",
+ "title_latin": "Mori mome, što ne dojdeš",
+ "title_en": "Hey Girl, Why Don't You Come",
+ "pesna_url": "https://pesna.org/song/29",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Лудо' is rendered as 'my love' (endearment); the refrain 'шеќерлија/леблебија' is my reading and approximate.",
+ "words_to_learn": [
+  {
+   "mk": "фустан",
+   "en": "dress"
+  },
+  {
+   "mk": "дуќан",
+   "en": "shop"
+  },
+  {
+   "mk": "терзиче",
+   "en": "little tailor"
+  },
+  {
+   "mk": "шеќерлија",
+   "en": "sweet seller / sweet-lover"
+  },
+  {
+   "mk": "леблебија",
+   "en": "roasted chickpeas (seller)"
+  },
+  {
+   "mk": "бакнам",
+   "en": "I kiss"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "скапо",
+   "en": "expensively, dearly"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Васка Илиева"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски, Васка Илиева",
+   "url": "https://pesna.org/audio-download/2649"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме, што не дојдеш,",
+       "lat": "Mori mome, što ne dojdeš,",
+       "en": "Hey girl, why don't you come"
+      },
+      {
+       "cyr": "фустан да си земеш лудо.",
+       "lat": "fustan da si zemeš ludo.",
+       "en": "to buy yourself a dress, my love."
+      },
+      {
+       "cyr": "Три години, лично моме, шиен фустан стои,",
+       "lat": "Tri godini, lično mome, šien fustan stoi,",
+       "en": "Three years, pretty girl, the sewn dress has been waiting,"
+      },
+      {
+       "cyr": "три години, лично моме, во дуќан ми стои.",
+       "lat": "tri godini, lično mome, vo duḱan mi stoi.",
+       "en": "three years, pretty girl, it has been waiting in my shop."
+      },
+      {
+       "cyr": "Лудо младо, моме, оф шеќерлија,",
+       "lat": "Ludo mlado, mome, of šeḱerlija,",
+       "en": "Young lad, girl, oh the sweet seller,"
+      },
+      {
+       "cyr": "лудо младо, моме, оф леблебија.",
+       "lat": "ludo mlado, mome, of leblebija.",
+       "en": "young lad, girl, oh the chickpea seller."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море момче, ако дојдам,",
+       "lat": "More momče, ako dojdam,",
+       "en": "Hey lad, if I come"
+      },
+      {
+       "cyr": "фустан да си земам, лудо.",
+       "lat": "fustan da si zemam, ludo.",
+       "en": "to buy myself a dress, my love."
+      },
+      {
+       "cyr": "Ако в' дуќан ти влезам, како ќе излезам,",
+       "lat": "Ako v' duḱan ti vlezam, kako ḱe izlezam,",
+       "en": "If I enter your shop, how will I leave,"
+      },
+      {
+       "cyr": "ако в' дуќан ти влезам, зло да не ме најде.",
+       "lat": "ako v' duḱan ti vlezam, zlo da ne me najde.",
+       "en": "if I enter your shop, may no evil find me."
+      },
+      {
+       "cyr": "Лудо младо, моме, оф шеќерлија,",
+       "lat": "Ludo mlado, mome, of šeḱerlija,",
+       "en": "Young lad, girl, oh the sweet seller,"
+      },
+      {
+       "cyr": "лудо младо, моме, оф леблебија.",
+       "lat": "ludo mlado, mome, of leblebija.",
+       "en": "young lad, girl, oh the chickpea seller."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мори моме, ако дојдеш,",
+       "lat": "Mori mome, ako dojdeš,",
+       "en": "Hey girl, if you come"
+      },
+      {
+       "cyr": "фустан да си земеш, лудо.",
+       "lat": "fustan da si zemeš, ludo.",
+       "en": "to buy yourself a dress, my love."
+      },
+      {
+       "cyr": "Ништо не ти чинам, лудо, само ќе те бакнам,",
+       "lat": "Ništo ne ti činam, ludo, samo ḱe te baknam,",
+       "en": "I will charge you nothing, my love, I will only kiss you,"
+      },
+      {
+       "cyr": "ако ми те бакнам, лудо, нема да си умреш.",
+       "lat": "ako mi te baknam, ludo, nema da si umreš.",
+       "en": "if I kiss you, my love, you will not die."
+      },
+      {
+       "cyr": "Лудо младо, моме, оф шеќерлија,",
+       "lat": "Ludo mlado, mome, of šeḱerlija,",
+       "en": "Young lad, girl, oh the sweet seller,"
+      },
+      {
+       "cyr": "лудо младо, моме, оф леблебија.",
+       "lat": "ludo mlado, mome, of leblebija.",
+       "en": "young lad, girl, oh the chickpea seller."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море момче, ти терзиче,",
+       "lat": "More momče, ti terziče,",
+       "en": "Hey lad, you tailor,"
+      },
+      {
+       "cyr": "многу скапо сакаш, лудо.",
+       "lat": "mnogu skapo sakaš, ludo.",
+       "en": "you want too much, my love."
+      },
+      {
+       "cyr": "Венчај мене, младо момче, тогај ќе ме бакнеш,",
+       "lat": "Venčaj mene, mlado momče, togaj ḱe me bakneš,",
+       "en": "Marry me, young lad, then you may kiss me,"
+      },
+      {
+       "cyr": "фустан што ми сошле, лудо, невеста ќе носам.",
+       "lat": "fustan što mi sošle, ludo, nevesta ḱe nosam.",
+       "en": "the dress you sew for me, my love, I will wear as a bride."
+      },
+      {
+       "cyr": "Лудо младо, моме, оф шеќерлија,",
+       "lat": "Ludo mlado, mome, of šeḱerlija,",
+       "en": "Young lad, girl, oh the sweet seller,"
+      },
+      {
+       "cyr": "лудо младо, моме, оф леблебија.",
+       "lat": "ludo mlado, mome, of leblebija.",
+       "en": "young lad, girl, oh the chickpea seller."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

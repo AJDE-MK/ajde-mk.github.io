@@ -1,0 +1,109 @@
+{
+ "id": 1130,
+ "slug": "uzreala-bela-pchenica",
+ "title_cyr": "Узреала бела пченица",
+ "title_latin": "Uzreala bela pčenica",
+ "title_en": "The White Wheat Has Ripened",
+ "pesna_url": "https://pesna.org/song/1130",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ќердоса' is a guess (Turkish-origin 'kerdos', roughly to profit or enjoy), my reading. Harvest song, traditional.",
+ "words_to_learn": [
+  {
+   "mk": "пченица",
+   "en": "wheat"
+  },
+  {
+   "mk": "узреала",
+   "en": "has ripened"
+  },
+  {
+   "mk": "жетвар",
+   "en": "reaper"
+  },
+  {
+   "mk": "жнее",
+   "en": "reaps"
+  },
+  {
+   "mk": "надбере",
+   "en": "out-gathers, gathers more than"
+  },
+  {
+   "mk": "ќердоса",
+   "en": "to prosper, make merry (my reading)"
+  },
+  {
+   "mk": "дечиња",
+   "en": "children"
+  }
+ ],
+ "performers": [
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/2721"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Узреала бела пченица,",
+       "lat": "Uzreala bela pčenica,",
+       "en": "The white wheat has ripened,"
+      },
+      {
+       "cyr": "узреала, долу легнала,",
+       "lat": "uzreala, dolu legnala,",
+       "en": "it has ripened, it has lain down low,"
+      },
+      {
+       "cyr": "ај жетвари да жнееме,",
+       "lat": "aj žetvari da žneeme,",
+       "en": "come, reapers, let us reap,"
+      },
+      {
+       "cyr": "да жнееме, да береме.",
+       "lat": "da žneeme, da bereme.",
+       "en": "let us reap, let us gather."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кој ќе Јана да наджнее,",
+       "lat": "Koj ḱe Jana da nadžnee,",
+       "en": "Whoever out-reaps Jana,"
+      },
+      {
+       "cyr": "кој ќе Јана да надбере,",
+       "lat": "koj ḱe Jana da nadbere,",
+       "en": "whoever out-gathers Jana,"
+      },
+      {
+       "cyr": "тој со Јана да ќердоса",
+       "lat": "toj so Jana da ḱerdosa",
+       "en": "he will make merry with Jana,"
+      },
+      {
+       "cyr": "полна куќа со дечиња.",
+       "lat": "polna kuḱa so dečinja.",
+       "en": "a house full of children."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

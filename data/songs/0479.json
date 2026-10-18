@@ -1,0 +1,181 @@
+{
+ "id": 479,
+ "slug": "bog-da-bie-koj-prv-pochna",
+ "title_cyr": "Бог да бие кој прв почна",
+ "title_latin": "Bog da bie koj prv počna",
+ "title_en": "May God strike whoever started it first",
+ "pesna_url": "https://pesna.org/song/479",
+ "background": "A pechalba song (see the guide *History, places and customs*). Curse whoever first went on pechalba to America. Three years without work or money; the steamship has arrived and he cannot afford the fare. So she must sell her coin necklace, then her jacket, to buy his ticket home.",
+ "background_source": "Source of these notes: Qwen's draft.",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'стаса' is rendered 'be enough' (my reading; it can also mean 'arrive').",
+ "words_to_learn": [
+  {
+   "mk": "Бог да бие",
+   "en": "may God strike (curse)"
+  },
+  {
+   "mk": "либе",
+   "en": "dear love, sweetheart"
+  },
+  {
+   "mk": "печалба",
+   "en": "work abroad, migrant labour"
+  },
+  {
+   "mk": "без работа",
+   "en": "without work"
+  },
+  {
+   "mk": "параход",
+   "en": "steamship"
+  },
+  {
+   "mk": "качам се",
+   "en": "I climb aboard"
+  },
+  {
+   "mk": "ѓердан",
+   "en": "necklace (of coins)"
+  },
+  {
+   "mk": "елече",
+   "en": "little vest, bodice"
+  },
+  {
+   "mk": "праќај",
+   "en": "send (imperative)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Дарко Билбиловски",
+  "Зоран Џорлев",
+  "Кирил Манчевски",
+  "Наум Петрески",
+  "Нина Спирова",
+  "Сашо Митев",
+  "Т'га за југ"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1134"
+  },
+  {
+   "who": "Сашо Митев",
+   "url": "https://pesna.org/audio-download/1135"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/1136"
+  },
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1137"
+  },
+  {
+   "who": "Дарко Билбиловски, Зоран Џорлев",
+   "url": "https://pesna.org/audio-download/1138"
+  },
+  {
+   "who": "Т'га за југ",
+   "url": "https://pesna.org/audio-download/3241"
+  },
+  {
+   "who": "Нина Спирова",
+   "url": "https://pesna.org/audio-download/4123"
+  },
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/4124"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Бог да бие кој прв почна,",
+       "lat": "Bog da bie koj prv počna,",
+       "en": "May God strike whoever started it first,"
+      },
+      {
+       "cyr": "кој прв почна, мило либе, да ми оди.",
+       "lat": "koj prv počna, milo libe, da mi odi.",
+       "en": "who first started, dear love, going away."
+      },
+      {
+       "cyr": "Да ми оди на печалба,",
+       "lat": "Da mi odi na pečalba,",
+       "en": "Going away to work abroad,"
+      },
+      {
+       "cyr": "на печалба, мило либе, в' Америка.",
+       "lat": "na pečalba, milo libe, v' Amerika.",
+       "en": "to work abroad, dear love, in America."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Три години без работа,",
+       "lat": "Tri godini bez rabota,",
+       "en": "Three years without work,"
+      },
+      {
+       "cyr": "без работа, мило либе, ем без пари.",
+       "lat": "bez rabota, milo libe, em bez pari.",
+       "en": "without work, dear love, and without money."
+      },
+      {
+       "cyr": "Параходот веќе пристигна,",
+       "lat": "Parahodot veḱe pristigna,",
+       "en": "The steamship has already arrived,"
+      },
+      {
+       "cyr": "пари немам, мило либе, да се качам.",
+       "lat": "pari nemam, milo libe, da se kačam.",
+       "en": "I have no money, dear love, to board."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако сакаш да си дојдам,",
+       "lat": "Ako sakaš da si dojdam,",
+       "en": "If you want me to come home,"
+      },
+      {
+       "cyr": "продај си го, мило либе, ѓерданчето.",
+       "lat": "prodaj si go, milo libe, ǵerdančeto.",
+       "en": "sell, dear love, your necklace."
+      },
+      {
+       "cyr": "Ако не стаса ѓерданчето,",
+       "lat": "Ako ne stasa ǵerdančeto,",
+       "en": "If the necklace is not enough,"
+      },
+      {
+       "cyr": "продај си го, мило либе, елечето,",
+       "lat": "prodaj si go, milo libe, elečeto,",
+       "en": "sell, dear love, your little vest,"
+      },
+      {
+       "cyr": "праќај пари, мило либе, да си дојдам.",
+       "lat": "praḱaj pari, milo libe, da si dojdam.",
+       "en": "send money, dear love, so I can come home."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

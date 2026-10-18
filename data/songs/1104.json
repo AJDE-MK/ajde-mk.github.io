@@ -1,0 +1,137 @@
+{
+ "id": 1104,
+ "slug": "ajde-dar-mi-vezle-momi",
+ "title_cyr": "Ајде дар ми везле моми",
+ "title_latin": "Ajde dar mi vezle momi",
+ "title_en": "Come On, the Girls Embroidered a Gift for Me",
+ "pesna_url": "https://pesna.org/song/1104",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Ниша' is a guess ('heddle' of a loom, my reading, possibly a place or loom part). 'Го пратиле' is read as 'they sent her/him'. Traditional.",
+ "words_to_learn": [
+  {
+   "mk": "дар",
+   "en": "gift"
+  },
+  {
+   "mk": "везле",
+   "en": "embroidered (dialect)"
+  },
+  {
+   "mk": "моми",
+   "en": "girls"
+  },
+  {
+   "mk": "извор",
+   "en": "spring (water source)"
+  },
+  {
+   "mk": "наполне",
+   "en": "to fill"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "a rash young man"
+  },
+  {
+   "mk": "неженето",
+   "en": "unmarried (of a man)"
+  },
+  {
+   "mk": "ајде",
+   "en": "come on (filler)"
+  }
+ ],
+ "performers": [
+  "Кирил Манчевски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/2648"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ајде дар ми везле моми,",
+       "lat": "Ajde dar mi vezle momi,",
+       "en": "Come on, the girls embroidered a gift for me,"
+      },
+      {
+       "cyr": "дар ми везле,",
+       "lat": "dar mi vezle,",
+       "en": "embroidered a gift for me,"
+      },
+      {
+       "cyr": "ајде дар ми везле моми, мори,",
+       "lat": "ajde dar mi vezle momi, mori,",
+       "en": "come on, the girls embroidered a gift for me, hey,"
+      },
+      {
+       "cyr": "в' наша ниша.",
+       "lat": "v' naša niša.",
+       "en": "in our heddle."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде го пратиле моме, мори,",
+       "lat": "Ajde go pratile mome, mori,",
+       "en": "Come on, they sent the girl, hey,"
+      },
+      {
+       "cyr": "на изворот,",
+       "lat": "na izvorot,",
+       "en": "to the spring,"
+      },
+      {
+       "cyr": "ајде да наполне, моме мори,",
+       "lat": "ajde da napolne, mome mori,",
+       "en": "come on, to fill, girl, hey,"
+      },
+      {
+       "cyr": "ладна вода.",
+       "lat": "ladna voda.",
+       "en": "cold water."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ајде ми го сретна лудо, море,",
+       "lat": "Ajde mi go sretna ludo, more,",
+       "en": "Come on, she met a young fool, hey,"
+      },
+      {
+       "cyr": "лудо младо,",
+       "lat": "ludo mlado,",
+       "en": "a young lad,"
+      },
+      {
+       "cyr": "лудо младо, моме мори,",
+       "lat": "ludo mlado, mome mori,",
+       "en": "a young lad, girl, hey,"
+      },
+      {
+       "cyr": "неженето.",
+       "lat": "neženeto.",
+       "en": "unmarried."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

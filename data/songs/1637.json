@@ -1,0 +1,187 @@
+{
+ "id": 1637,
+ "slug": "majko-mori",
+ "title_cyr": "Мајко мори",
+ "title_latin": "Majko mori",
+ "title_en": "Oh, mother",
+ "pesna_url": "https://pesna.org/song/1637",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Томче Бојаџиески"
+ ],
+ "audio": [
+  {
+   "who": "Томче Бојаџиески",
+   "url": "https://pesna.org/audio-download/4378"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ах мори мајко, стара мајко,",
+       "lat": "Ah mori majko, stara majko,",
+       "en": "Oh, mother, old mother,"
+      },
+      {
+       "cyr": "имаш син единец,",
+       "lat": "imaš sin edinec,",
+       "en": "you have an only son,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      },
+      {
+       "cyr": "Син што љуби мома сирота,",
+       "lat": "Sin što ljubi moma sirota,",
+       "en": "A son who loves a poor girl,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Срцата си ги врзаа,",
+       "lat": "Srcata si gi vrzaa,",
+       "en": "They tied their hearts,"
+      },
+      {
+       "cyr": "под месечина тивко се колнеа,",
+       "lat": "pod mesečina tivko se kolnea,",
+       "en": "under the moon they swore silently,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      },
+      {
+       "cyr": "Мајко не ги пушти,",
+       "lat": "Majko ne gi pušti,",
+       "en": "Mother, you did not let them,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лоши зборој тргнаа,",
+       "lat": "Loši zboroj trgnaa,",
+       "en": "They left with bad words,"
+      },
+      {
+       "cyr": "како нож во жива рана,",
+       "lat": "kako nož vo živa rana,",
+       "en": "like a knife in a living wound,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      },
+      {
+       "cyr": "Мајки ги разделија,",
+       "lat": "Majki gi razdelija,",
+       "en": "Mothers separated them,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Синот далеку тргна,",
+       "lat": "Sinot daleku trgna,",
+       "en": "The son went far,"
+      },
+      {
+       "cyr": "со солзи патот го полеа,",
+       "lat": "so solzi patot go polea,",
+       "en": "watered the road with tears,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      },
+      {
+       "cyr": "А мома дома остана,",
+       "lat": "A moma doma ostana,",
+       "en": "And the girl stayed at home,"
+      },
+      {
+       "cyr": "со црна мисла да остари,",
+       "lat": "so crna misla da ostari,",
+       "en": "with a black thought of growing old,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Синот млад падна,",
+       "lat": "Sinot mlad padna,",
+       "en": "The son fell young,"
+      },
+      {
+       "cyr": "под туѓо небо, без прошка,",
+       "lat": "pod tuǵo nebo, bez proška,",
+       "en": "under a foreign sky, without forgiveness,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      },
+      {
+       "cyr": "Мома венец си стави,",
+       "lat": "Moma venec si stavi,",
+       "en": "The girl put on a wreath,"
+      },
+      {
+       "cyr": "со љубовта во гроб легна,",
+       "lat": "so ljubovta vo grob legna,",
+       "en": "with love she lay in the grave,"
+      },
+      {
+       "cyr": "мајко, аман, аман.",
+       "lat": "majko, aman, aman.",
+       "en": "mother, please, please."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

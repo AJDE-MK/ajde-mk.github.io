@@ -1,0 +1,310 @@
+{
+ "id": 186,
+ "slug": "chudila-se-mila-mama",
+ "title_cyr": "Чудила се мила мама",
+ "title_latin": "Čudila se mila mama",
+ "title_en": "Dear Mother Wondered",
+ "pesna_url": "https://pesna.org/song/186",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Џангара, мангара, манга, данга' is a nonsense refrain, kept as sounds. Forms like 'свирит', 'печит' are dialect (my reading: 'will play', 'will bake').",
+ "words_to_learn": [
+  {
+   "mk": "даскалче",
+   "en": "little teacher"
+  },
+  {
+   "mk": "нејќум",
+   "en": "I don't want (dialect)"
+  },
+  {
+   "mk": "просјак",
+   "en": "beggar"
+  },
+  {
+   "mk": "мајсторче",
+   "en": "little craftsman, young master"
+  },
+  {
+   "mk": "чалгаџи",
+   "en": "musician (of a popular band)"
+  },
+  {
+   "mk": "фурнаџи",
+   "en": "baker"
+  },
+  {
+   "mk": "ќе се погодиме",
+   "en": "we will agree, get along"
+  },
+  {
+   "mk": "греда",
+   "en": "beam"
+  }
+ ],
+ "performers": [
+  "Охридски трубадури",
+  "Росица Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Росица Лазарова",
+   "url": "https://pesna.org/audio-download/2154"
+  },
+  {
+   "who": "Охридски трубадури",
+   "url": "https://pesna.org/audio-download/2487"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Чудила се мила мама:",
+       "lat": "Čudila se mila mama:",
+       "en": "Dear mother wondered:"
+      },
+      {
+       "cyr": "- Кому да те дадам?",
+       "lat": "- Komu da te dadam?",
+       "en": "- Whom shall I give you to?"
+      },
+      {
+       "cyr": "Да те дадам за даскалче?",
+       "lat": "Da te dadam za daskalče?",
+       "en": "Shall I give you to a little teacher?"
+      },
+      {
+       "cyr": "- Јас даскалче нејќум.",
+       "lat": "- Jas daskalče nejḱum.",
+       "en": "- I don't want a little teacher."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Даскалче е како просјак,",
+       "lat": "Daskalče e kako prosjak,",
+       "en": "A teacher is like a beggar,"
+      },
+      {
+       "cyr": "од село на село.",
+       "lat": "od selo na selo.",
+       "en": "from village to village."
+      },
+      {
+       "cyr": "Џангара, мангара, манга, данга",
+       "lat": "Džangara, mangara, manga, danga",
+       "en": "Jangara, mangara, manga, danga,"
+      },
+      {
+       "cyr": "од село на село.",
+       "lat": "od selo na selo.",
+       "en": "from village to village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чудила се мила мама,",
+       "lat": "Čudila se mila mama,",
+       "en": "Dear mother wondered,"
+      },
+      {
+       "cyr": "кому да ме дават?",
+       "lat": "komu da me davat?",
+       "en": "whom should they give me to?"
+      },
+      {
+       "cyr": "Да ме дават за рибарче,",
+       "lat": "Da me davat za ribarče,",
+       "en": "Should they give me to a little fisherman?"
+      },
+      {
+       "cyr": "јас рибарче нејќум.",
+       "lat": "jas ribarče nejḱum.",
+       "en": "I don't want a little fisherman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Рибарче е како мачка,",
+       "lat": "Ribarče e kako mačka,",
+       "en": "A fisherman is like a cat,"
+      },
+      {
+       "cyr": "од риба на риба.",
+       "lat": "od riba na riba.",
+       "en": "from fish to fish."
+      },
+      {
+       "cyr": "Џангара, мангара, манга, данга",
+       "lat": "Džangara, mangara, manga, danga",
+       "en": "Jangara, mangara, manga, danga,"
+      },
+      {
+       "cyr": "од риба на риба.",
+       "lat": "od riba na riba.",
+       "en": "from fish to fish."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чудила се мила мама,",
+       "lat": "Čudila se mila mama,",
+       "en": "Dear mother wondered,"
+      },
+      {
+       "cyr": "кому да ме дава?",
+       "lat": "komu da me dava?",
+       "en": "whom should she give me to?"
+      },
+      {
+       "cyr": "Да ме дава за мајсторче,",
+       "lat": "Da me dava za majstorče,",
+       "en": "Should she give me to a little craftsman?"
+      },
+      {
+       "cyr": "јас мајсторче нејќум.",
+       "lat": "jas majstorče nejḱum.",
+       "en": "I don't want a little craftsman."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Мајсторче е како петел,",
+       "lat": "Majstorče e kako petel,",
+       "en": "A craftsman is like a rooster,"
+      },
+      {
+       "cyr": "од греда на греда.",
+       "lat": "od greda na greda.",
+       "en": "from beam to beam."
+      },
+      {
+       "cyr": "Џангара, мангара, манга, данга",
+       "lat": "Džangara, mangara, manga, danga",
+       "en": "Jangara, mangara, manga, danga,"
+      },
+      {
+       "cyr": "од греда на греда.",
+       "lat": "od greda na greda.",
+       "en": "from beam to beam."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чудила се мила мама,",
+       "lat": "Čudila se mila mama,",
+       "en": "Dear mother wondered,"
+      },
+      {
+       "cyr": "кому да ме даде?",
+       "lat": "komu da me dade?",
+       "en": "whom should she give me to?"
+      },
+      {
+       "cyr": "Да ме дава за чалгаџи,",
+       "lat": "Da me dava za čalgadži,",
+       "en": "Should she give me to a musician?"
+      },
+      {
+       "cyr": "јас чалгаџи сакам.",
+       "lat": "jas čalgadži sakam.",
+       "en": "I want a musician."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој ќе свирит, јас ќе играм",
+       "lat": "Toj ḱe svirit, jas ḱe igram",
+       "en": "He will play, I will dance,"
+      },
+      {
+       "cyr": "ќе се погодиме.",
+       "lat": "ḱe se pogodime.",
+       "en": "we will get along."
+      },
+      {
+       "cyr": "Џангара, мангара, манга, данга",
+       "lat": "Džangara, mangara, manga, danga",
+       "en": "Jangara, mangara, manga, danga,"
+      },
+      {
+       "cyr": "ќе се погодиме.",
+       "lat": "ḱe se pogodime.",
+       "en": "we will get along."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чудила се мила мама,",
+       "lat": "Čudila se mila mama,",
+       "en": "Dear mother wondered,"
+      },
+      {
+       "cyr": "кому да ме дава?",
+       "lat": "komu da me dava?",
+       "en": "whom should she give me to?"
+      },
+      {
+       "cyr": "Да ме дава за фурнаџи,",
+       "lat": "Da me dava za furnadži,",
+       "en": "Should she give me to a baker?"
+      },
+      {
+       "cyr": "и него го сакам.",
+       "lat": "i nego go sakam.",
+       "en": "I want him too."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Тој ќе печит, јас ќе јадам",
+       "lat": "Toj ḱe pečit, jas ḱe jadam",
+       "en": "He will bake, I will eat,"
+      },
+      {
+       "cyr": "ќе се погодиме.",
+       "lat": "ḱe se pogodime.",
+       "en": "we will get along."
+      },
+      {
+       "cyr": "Џангара, мангара, манга, данга",
+       "lat": "Džangara, mangara, manga, danga",
+       "en": "Jangara, mangara, manga, danga,"
+      },
+      {
+       "cyr": "ќе се погодиме.",
+       "lat": "ḱe se pogodime.",
+       "en": "we will get along."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,123 @@
+{
+ "id": 1155,
+ "slug": "ela-kjerko-da-ti-kazham",
+ "title_cyr": "Ела ќерко да ти кажам",
+ "title_latin": "Ela ḱerko da ti kažam",
+ "title_en": "Come, Daughter, Let Me Tell You",
+ "pesna_url": "https://pesna.org/song/1155",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Mentions Bufchan (Buf) and the Kiproja fountain in Aegean Macedonia (per the song notes). 'Тешка дума ме попрати' is my reading as 'a heavy word followed me'.",
+ "words_to_learn": [
+  {
+   "mk": "ќерко",
+   "en": "daughter"
+  },
+  {
+   "mk": "сон",
+   "en": "dream, sleep"
+  },
+  {
+   "mk": "се колнеме",
+   "en": "we swear (to each other)"
+  },
+  {
+   "mk": "лубов",
+   "en": "love (dialect form of љубов)"
+  },
+  {
+   "mk": "чешма",
+   "en": "fountain, spring"
+  },
+  {
+   "mk": "постела",
+   "en": "bed"
+  },
+  {
+   "mk": "клета туѓина",
+   "en": "cursed foreign land"
+  },
+  {
+   "mk": "другарки",
+   "en": "female friends"
+  }
+ ],
+ "performers": [
+  "Mousikorama"
+ ],
+ "audio": [
+  {
+   "who": "Mousikorama",
+   "url": "https://pesna.org/audio-download/2795"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ела ќерко да ти кажам што си видов јас во сонот,",
+       "lat": "Ela ḱerko da ti kažam što si vidov jas vo sonot,",
+       "en": "Come, daughter, let me tell you what I saw in my dream,"
+      },
+      {
+       "cyr": "кога сум си била ќерко, малечко девојче.",
+       "lat": "koga sum si bila ḱerko, malečko devojče.",
+       "en": "when I was, daughter, a little girl."
+      },
+      {
+       "cyr": "Си играме, се смееме, и во очи се колнеме",
+       "lat": "Si igrame, se smeeme, i vo oči se kolneme",
+       "en": "We played, we laughed, and swore to each other in the eyes,"
+      },
+      {
+       "cyr": "за лубовта си мислиме, во буфчанска чешма.",
+       "lat": "za lubovta si mislime, vo bufčanska češma.",
+       "en": "we thought about love, at the Bufchan fountain."
+      },
+      {
+       "cyr": "Си играме, се смееме, и во очи се колнеме",
+       "lat": "Si igrame, se smeeme, i vo oči se kolneme",
+       "en": "We played, we laughed, and swore to each other in the eyes,"
+      },
+      {
+       "cyr": "за лубовта си мислиме, во Кипроја чешма.",
+       "lat": "za lubovta si mislime, vo Kiproja češma.",
+       "en": "we thought about love, at the Kiproja fountain."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога станав од постела и си видов кај сум била,",
+       "lat": "Koga stanav od postela i si vidov kaj sum bila,",
+       "en": "When I got up from bed and saw where I was,"
+      },
+      {
+       "cyr": "тешка дума ме попрати за клетата туѓина.",
+       "lat": "teška duma me poprati za kletata tuǵina.",
+       "en": "a heavy word followed me about the cursed foreign land."
+      },
+      {
+       "cyr": "Дали боже дал' се може во селото да си идам",
+       "lat": "Dali bože dal' se može vo seloto da si idam",
+       "en": "O God, is it possible to go to my village,"
+      },
+      {
+       "cyr": "со другарки да се видам, во белата црква.",
+       "lat": "so drugarki da se vidam, vo belata crkva.",
+       "en": "to see my friends, in the white church."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

@@ -1,0 +1,172 @@
+{
+ "id": 144,
+ "slug": "sulejman-sedit-na-kulata",
+ "title_cyr": "Сулејман седит на кулата",
+ "title_latin": "Sulejman sedit na kulata",
+ "title_en": "Suleiman Sits on the Tower",
+ "pesna_url": "https://pesna.org/song/144",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Unchecked machine translation. 'Мусандра' (rendered 'inlaid wood') is a guess; it usually means a built-in wall cupboard. 'Од грло да ти летувам' (rendered 'spend the summer at your throat') is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "кула",
+   "en": "tower"
+  },
+  {
+   "mk": "стомна",
+   "en": "jug, water pitcher"
+  },
+  {
+   "mk": "шарени",
+   "en": "colorful, patterned"
+  },
+  {
+   "mk": "долап",
+   "en": "cupboard"
+  },
+  {
+   "mk": "мусандра",
+   "en": "built-in wall cupboard"
+  },
+  {
+   "mk": "ракија",
+   "en": "brandy"
+  },
+  {
+   "mk": "скут",
+   "en": "lap"
+  },
+  {
+   "mk": "ага",
+   "en": "agha (Ottoman lord)"
+  }
+ ],
+ "performers": [
+  "Александар Сариевски",
+  "Монистра"
+ ],
+ "audio": [
+  {
+   "who": "Александар Сариевски",
+   "url": "https://pesna.org/audio-download/1297"
+  },
+  {
+   "who": "Монистра",
+   "url": "https://pesna.org/audio-download/3520"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сулејман седит на кула, џанам,",
+       "lat": "Sulejman sedit na kula, džanam,",
+       "en": "Suleiman sits on the tower, my dear,"
+      },
+      {
+       "cyr": "Милјана одит на вода,",
+       "lat": "Miljana odit na voda,",
+       "en": "Miljana goes to the water,"
+      },
+      {
+       "cyr": "Милјана одит на вода.",
+       "lat": "Miljana odit na voda.",
+       "en": "Miljana goes to the water."
+      },
+      {
+       "cyr": "Извикнал Сулејман ага, џанам:",
+       "lat": "Izviknal Sulejman aga, džanam:",
+       "en": "Suleiman Agha called out, my dear:"
+      },
+      {
+       "cyr": "- „Милјано моме убаво,",
+       "lat": "- „Miljano mome ubavo,",
+       "en": "- \"Miljana, beautiful maiden,"
+      },
+      {
+       "cyr": "остави стомни шарени“.",
+       "lat": "ostavi stomni šareni“.",
+       "en": "put down your colorful jugs\"."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Остави стомни шарени, џанам,",
+       "lat": "Ostavi stomni šareni, džanam,",
+       "en": "Put down the colorful jugs, my dear,"
+      },
+      {
+       "cyr": "качи се горе на кула,",
+       "lat": "kači se gore na kula,",
+       "en": "climb up to the tower,"
+      },
+      {
+       "cyr": "качи се горе на кула.",
+       "lat": "kači se gore na kula.",
+       "en": "climb up to the tower."
+      },
+      {
+       "cyr": "Качи се горе на кула, џанам,",
+       "lat": "Kači se gore na kula, džanam,",
+       "en": "Climb up to the tower, my dear,"
+      },
+      {
+       "cyr": "отвори долап мусандра,",
+       "lat": "otvori dolap musandra,",
+       "en": "open the cupboard of inlaid wood,"
+      },
+      {
+       "cyr": "отвори долап мусандра.",
+       "lat": "otvori dolap musandra.",
+       "en": "open the cupboard of inlaid wood."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Извади шише ракија, џанам,",
+       "lat": "Izvadi šiše rakija, džanam,",
+       "en": "Take out a bottle of brandy, my dear,"
+      },
+      {
+       "cyr": "тури ми да се напијам,",
+       "lat": "turi mi da se napijam,",
+       "en": "pour it for me to drink,"
+      },
+      {
+       "cyr": "тури ми да се напијам.",
+       "lat": "turi mi da se napijam.",
+       "en": "pour it for me to drink."
+      },
+      {
+       "cyr": "Да пијам, да се опијам, џанам,",
+       "lat": "Da pijam, da se opijam, džanam,",
+       "en": "Let me drink, let me get drunk, my dear,"
+      },
+      {
+       "cyr": "на скути да ти преспијам,",
+       "lat": "na skuti da ti prespijam,",
+       "en": "let me sleep on your lap,"
+      },
+      {
+       "cyr": "од грло да ти летувам.",
+       "lat": "od grlo da ti letuvam.",
+       "en": "let me spend the summer at your throat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

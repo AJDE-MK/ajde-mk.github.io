@@ -1,0 +1,287 @@
+{
+ "id": 758,
+ "slug": "dojdi-dojdi-maloj-mome",
+ "title_cyr": "Дојди, дојди, малој моме",
+ "title_latin": "Dojdi, dojdi, maloj mome",
+ "title_en": "Come, Come, Little Girl",
+ "pesna_url": "https://pesna.org/song/758",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'малој моме' is read as 'little girl' (vocative); 'лудо младо' as an affectionate 'silly young one', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "оро",
+   "en": "circle dance"
+  },
+  {
+   "mk": "фати се",
+   "en": "take hold, join hands"
+  },
+  {
+   "mk": "лудо младо",
+   "en": "silly young one (endearment)"
+  },
+  {
+   "mk": "нејќам",
+   "en": "I don't want to"
+  },
+  {
+   "mk": "препукна",
+   "en": "cracked, broke"
+  },
+  {
+   "mk": "стројници",
+   "en": "matchmakers, wedding envoys"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "кара",
+   "en": "scolds"
+  }
+ ],
+ "performers": [
+  "Ванчо Тарабунов",
+  "Петранка Костадинова",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/1223"
+  },
+  {
+   "who": "Петранка Костадинова, Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/1224"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, дојди, малој моме,",
+       "lat": "Dojdi, dojdi, maloj mome,",
+       "en": "Come, come, little girl,"
+      },
+      {
+       "cyr": "фати се до мене,",
+       "lat": "fati se do mene,",
+       "en": "take hold of me,"
+      },
+      {
+       "cyr": "да поиграш, малој моме,",
+       "lat": "da poigraš, maloj mome,",
+       "en": "to dance, little girl,"
+      },
+      {
+       "cyr": "до мене на оро.",
+       "lat": "do mene na oro.",
+       "en": "beside me in the circle dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нејќам, нејќам, лудо младо,",
+       "lat": "Nejḱam, nejḱam, ludo mlado,",
+       "en": "I don't want to, I don't want to, silly young one,"
+      },
+      {
+       "cyr": "до тебе да играм,",
+       "lat": "do tebe da igram,",
+       "en": "to dance beside you,"
+      },
+      {
+       "cyr": "зашто вечер, лудо младо,",
+       "lat": "zašto večer, ludo mlado,",
+       "en": "because in the evening, silly young one,"
+      },
+      {
+       "cyr": "тате ќе ме кара.",
+       "lat": "tate ḱe me kara.",
+       "en": "father will scold me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми препукна, лудо младо,",
+       "lat": "Mi prepukna, ludo mlado,",
+       "en": "My heart has cracked, silly young one,"
+      },
+      {
+       "cyr": "срцево за тебе.",
+       "lat": "srcevo za tebe.",
+       "en": "for you."
+      },
+      {
+       "cyr": "Дојди, дојди, лудо младо,",
+       "lat": "Dojdi, dojdi, ludo mlado,",
+       "en": "Come, come, silly young one,"
+      },
+      {
+       "cyr": "моја да ми бидеш.",
+       "lat": "moja da mi bideš.",
+       "en": "to be mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Јас те љубам, малој моме,",
+       "lat": "Jas te ljubam, maloj mome,",
+       "en": "I have loved you, little girl,"
+      },
+      {
+       "cyr": "уште од малечка,",
+       "lat": "ušte od malečka,",
+       "en": "since you were little,"
+      },
+      {
+       "cyr": "дојде време, малој моме,",
+       "lat": "dojde vreme, maloj mome,",
+       "en": "the time has come, little girl,"
+      },
+      {
+       "cyr": "моја да ми бидеш.",
+       "lat": "moja da mi bideš.",
+       "en": "for you to be mine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ако сакаш, лудо младо,",
+       "lat": "Ako sakaš, ludo mlado,",
+       "en": "If you wish, silly young one,"
+      },
+      {
+       "cyr": "твоја да ти бидам,",
+       "lat": "tvoja da ti bidam,",
+       "en": "that I be yours,"
+      },
+      {
+       "cyr": "да испратиш, лудо младо,",
+       "lat": "da ispratiš, ludo mlado,",
+       "en": "send, silly young one,"
+      },
+      {
+       "cyr": "стројници со време.",
+       "lat": "strojnici so vreme.",
+       "en": "matchmakers in good time."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе испратам, малој моме,",
+       "lat": "Ḱe ispratam, maloj mome,",
+       "en": "I will send, little girl,"
+      },
+      {
+       "cyr": "стројници по тебе,",
+       "lat": "strojnici po tebe,",
+       "en": "matchmakers for you,"
+      },
+      {
+       "cyr": "ќе те земам, малој моме,",
+       "lat": "ḱe te zemam, maloj mome,",
+       "en": "I will take you, little girl,"
+      },
+      {
+       "cyr": "за млада невеста.",
+       "lat": "za mlada nevesta.",
+       "en": "as a young bride."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, дојди, малој моме,",
+       "lat": "Dojdi, dojdi, maloj mome,",
+       "en": "Come, come, little girl,"
+      },
+      {
+       "cyr": "фати се до мене,",
+       "lat": "fati se do mene,",
+       "en": "take hold of me,"
+      },
+      {
+       "cyr": "да поиграш, малој моме,",
+       "lat": "da poigraš, maloj mome,",
+       "en": "to dance, little girl,"
+      },
+      {
+       "cyr": "до мене на оро.",
+       "lat": "do mene na oro.",
+       "en": "beside me in the circle dance."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Сакам, сакам, лудо младо,",
+       "lat": "Sakam, sakam, ludo mlado,",
+       "en": "I want to, I want to, silly young one,"
+      },
+      {
+       "cyr": "до тебе да играм,",
+       "lat": "do tebe da igram,",
+       "en": "to dance beside you,"
+      },
+      {
+       "cyr": "до тебе да играм, лудо,",
+       "lat": "do tebe da igram, ludo,",
+       "en": "to dance beside you, silly one,"
+      },
+      {
+       "cyr": "тебе да те гледам.",
+       "lat": "tebe da te gledam.",
+       "en": "to look at you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми препукна, лудо младо,",
+       "lat": "Mi prepukna, ludo mlado,",
+       "en": "My heart has cracked, silly young one,"
+      },
+      {
+       "cyr": "срцево за тебе.",
+       "lat": "srcevo za tebe.",
+       "en": "for you."
+      },
+      {
+       "cyr": "Дојди, дојди, лудо младо,",
+       "lat": "Dojdi, dojdi, ludo mlado,",
+       "en": "Come, come, silly young one,"
+      },
+      {
+       "cyr": "моја да ми бидеш.",
+       "lat": "moja da mi bideš.",
+       "en": "to be mine."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

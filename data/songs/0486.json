@@ -1,0 +1,199 @@
+{
+ "id": 486,
+ "slug": "leshochkiot-manastir",
+ "title_cyr": "Лешочкиот манастир",
+ "title_latin": "Lešočkiot manastir",
+ "title_en": "The Lesok Monastery",
+ "pesna_url": "https://pesna.org/song/486",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Сардисале' is my reading (besieged); 'кузум' is Turkish-derived address, meaning guessed. Last line has the mosque burned by Gotse Delchev as written.",
+ "words_to_learn": [
+  {
+   "mk": "сардисале",
+   "en": "they besieged / surrounded (my reading)"
+  },
+  {
+   "mk": "манастир",
+   "en": "monastery"
+  },
+  {
+   "mk": "егумен",
+   "en": "abbot"
+  },
+  {
+   "mk": "комити",
+   "en": "rebel fighters (komitadjis)"
+  },
+  {
+   "mk": "кај",
+   "en": "where"
+  },
+  {
+   "mk": "криеш",
+   "en": "you hide"
+  },
+  {
+   "mk": "кузум",
+   "en": "my dear (Turkish, address)"
+  },
+  {
+   "mk": "се налутил",
+   "en": "he got angry"
+  },
+  {
+   "mk": "запалил",
+   "en": "set on fire"
+  },
+  {
+   "mk": "џамија",
+   "en": "mosque"
+  }
+ ],
+ "performers": [
+  "Азра",
+  "Васка Илиева",
+  "Наум Петрески",
+  "Петранка Костадинова",
+  "Соња Тарчуловска"
+ ],
+ "audio": [
+  {
+   "who": "Васка Илиева",
+   "url": "https://pesna.org/audio-download/207"
+  },
+  {
+   "who": "Наум Петрески",
+   "url": "https://pesna.org/audio-download/208"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/209"
+  },
+  {
+   "who": "Соња Тарчуловска",
+   "url": "https://pesna.org/audio-download/210"
+  },
+  {
+   "who": "Азра",
+   "url": "https://pesna.org/audio-download/211"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Сардисале, сардисале,",
+       "lat": "Sardisale, sardisale,",
+       "en": "They have besieged, they have besieged,"
+      },
+      {
+       "cyr": "Лешочкиот манастир,",
+       "lat": "Lešočkiot manastir,",
+       "en": "the Lesok monastery,"
+      },
+      {
+       "cyr": "сардисале, сардисале,",
+       "lat": "sardisale, sardisale,",
+       "en": "they have besieged, they have besieged,"
+      },
+      {
+       "cyr": "арнаути слатинчани.",
+       "lat": "arnauti slatinčani.",
+       "en": "the Albanians of Slatina."
+      },
+      {
+       "cyr": "Сардисале, сардисале,",
+       "lat": "Sardisale, sardisale,",
+       "en": "They have besieged, they have besieged,"
+      },
+      {
+       "cyr": "арнаути слатинчани.",
+       "lat": "arnauti slatinčani.",
+       "en": "the Albanians of Slatina."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абре попе егумене",
+       "lat": "Abre pope egumene",
+       "en": "Hey, priest abbot,"
+      },
+      {
+       "cyr": "каде ти се комитите?",
+       "lat": "kade ti se komitite?",
+       "en": "where are your rebels?"
+      },
+      {
+       "cyr": "А бре попе егумене",
+       "lat": "A bre pope egumene",
+       "en": "Hey, priest abbot,"
+      },
+      {
+       "cyr": "кај ги криеш комитите?",
+       "lat": "kaj gi krieš komitite?",
+       "en": "where do you hide the rebels?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Абре паша, кузум паша,",
+       "lat": "Abre paša, kuzum paša,",
+       "en": "Hey, pasha, kuzum pasha,"
+      },
+      {
+       "cyr": "јас комити не познавам,",
+       "lat": "jas komiti ne poznavam,",
+       "en": "I do not know any rebels,"
+      },
+      {
+       "cyr": "а бре паша кузум паша",
+       "lat": "a bre paša kuzum paša",
+       "en": "hey, pasha, kuzum pasha,"
+      },
+      {
+       "cyr": "јас комити не познавам.",
+       "lat": "jas komiti ne poznavam.",
+       "en": "I do not know any rebels."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Се налутил турскиот паша,",
+       "lat": "Se nalutil turskiot paša,",
+       "en": "The Turkish pasha got angry,"
+      },
+      {
+       "cyr": "го запалил манастирот.",
+       "lat": "go zapalil manastirot.",
+       "en": "he set the monastery on fire."
+      },
+      {
+       "cyr": "Се налутил Гоце Делчев,",
+       "lat": "Se nalutil Goce Delčev,",
+       "en": "Gotse Delchev got angry,"
+      },
+      {
+       "cyr": "ја запалил џамијата.",
+       "lat": "ja zapalil džamijata.",
+       "en": "he set the mosque on fire."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

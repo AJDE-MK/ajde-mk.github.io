@@ -1,0 +1,213 @@
+{
+ "id": 725,
+ "slug": "bolna-e-legnala",
+ "title_cyr": "Болна е легнала",
+ "title_latin": "Bolna e legnala",
+ "title_en": "She Has Lain Down Sick",
+ "pesna_url": "https://pesna.org/song/725",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Маџирка' is my reading as a woman refugee/immigrant (muhajir); unsure. 'Понуда' read as an offering or treat.",
+ "words_to_learn": [
+  {
+   "mk": "џанам",
+   "en": "dear, my soul (Turkish-derived)"
+  },
+  {
+   "mk": "болна",
+   "en": "sick"
+  },
+  {
+   "mk": "легнала",
+   "en": "lain down"
+  },
+  {
+   "mk": "невеста",
+   "en": "bride"
+  },
+  {
+   "mk": "селанка",
+   "en": "village woman"
+  },
+  {
+   "mk": "гумно",
+   "en": "threshing floor"
+  },
+  {
+   "mk": "преврзала",
+   "en": "bandaged / tied up"
+  },
+  {
+   "mk": "жешко",
+   "en": "hot, scorching"
+  },
+  {
+   "mk": "алва",
+   "en": "halva"
+  },
+  {
+   "mk": "тиквешко",
+   "en": "of Tikves (wine region)"
+  }
+ ],
+ "performers": [
+  "Елена Велевска",
+  "Јасмина Мукаетова",
+  "Непознат изведувач",
+  "Никола Бадев",
+  "Пелагониски бисери"
+ ],
+ "audio": [
+  {
+   "who": "Пелагониски бисери",
+   "url": "https://pesna.org/audio-download/771"
+  },
+  {
+   "who": "Непознат изведувач",
+   "url": "https://pesna.org/audio-download/772"
+  },
+  {
+   "who": "Елена Велевска",
+   "url": "https://pesna.org/audio-download/2698"
+  },
+  {
+   "who": "Јасмина Мукаетова",
+   "url": "https://pesna.org/audio-download/2699"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/2839"
+  },
+  {
+   "who": "Никола Бадев",
+   "url": "https://pesna.org/audio-download/3042"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Болна е легнала, џанам,",
+       "lat": "Bolna e legnala, džanam,",
+       "en": "She has lain down sick, dear,"
+      },
+      {
+       "cyr": "болна је легнала,",
+       "lat": "bolna je legnala,",
+       "en": "she has lain down sick,"
+      },
+      {
+       "cyr": "младата маџирка,",
+       "lat": "mladata madžirka,",
+       "en": "the young refugee woman,"
+      },
+      {
+       "cyr": "новата селанка,",
+       "lat": "novata selanka,",
+       "en": "the new villager,"
+      },
+      {
+       "cyr": "младата невеста,",
+       "lat": "mladata nevesta,",
+       "en": "the young bride,"
+      },
+      {
+       "cyr": "новата селанка.",
+       "lat": "novata selanka.",
+       "en": "the new villager."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На гумно легнала, џанам,",
+       "lat": "Na gumno legnala, džanam,",
+       "en": "On the threshing floor she lay down, dear,"
+      },
+      {
+       "cyr": "на гумно легнала.",
+       "lat": "na gumno legnala.",
+       "en": "on the threshing floor she lay down."
+      },
+      {
+       "cyr": "Глава преврзала,",
+       "lat": "Glava prevrzala,",
+       "en": "Her head bandaged,"
+      },
+      {
+       "cyr": "очи затворила.",
+       "lat": "oči zatvorila.",
+       "en": "her eyes closed."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Глава преврзала, џанам,",
+       "lat": "Glava prevrzala, džanam,",
+       "en": "Her head bandaged, dear,"
+      },
+      {
+       "cyr": "очи затворила.",
+       "lat": "oči zatvorila.",
+       "en": "her eyes closed."
+      },
+      {
+       "cyr": "Главата ја боли",
+       "lat": "Glavata ja boli",
+       "en": "Her head aches"
+      },
+      {
+       "cyr": "од жешкото сонце.",
+       "lat": "od žeškoto sonce.",
+       "en": "from the hot sun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "- Стани, не станала, џанам,",
+       "lat": "- Stani, ne stanala, džanam,",
+       "en": "- Get up, do not get up, dear,"
+      },
+      {
+       "cyr": "стани да не станеш.",
+       "lat": "stani da ne staneš.",
+       "en": "get up, or do not get up."
+      },
+      {
+       "cyr": "Понуда ти дошла,",
+       "lat": "Ponuda ti došla,",
+       "en": "An offering has come to you,"
+      },
+      {
+       "cyr": "алва шеќерлија.",
+       "lat": "alva šeḱerlija.",
+       "en": "sugar halva."
+      },
+      {
+       "cyr": "Алва шеќерлија,",
+       "lat": "Alva šeḱerlija,",
+       "en": "Sugar halva,"
+      },
+      {
+       "cyr": "ем тиквешко грозје.",
+       "lat": "em tikveško grozje.",
+       "en": "and grapes from Tikves."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

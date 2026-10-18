@@ -1,0 +1,143 @@
+{
+ "id": 1168,
+ "slug": "blazhena-goro-mori-zelena",
+ "title_cyr": "Блажена горо, мори зелена",
+ "title_latin": "Blažena goro, mori zelena",
+ "title_en": "Blessed green forest",
+ "pesna_url": "https://pesna.org/song/1168",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional haiduk song; Malesh is a mountain region. Line 7 ('ајдуци за страв не знаат') is my reading.",
+ "words_to_learn": [
+  {
+   "mk": "блажена",
+   "en": "blessed"
+  },
+  {
+   "mk": "зелена",
+   "en": "green"
+  },
+  {
+   "mk": "планина",
+   "en": "mountain"
+  },
+  {
+   "mk": "овчари",
+   "en": "shepherds"
+  },
+  {
+   "mk": "ајдуци",
+   "en": "outlaws, haiduks"
+  },
+  {
+   "mk": "бег",
+   "en": "bey (Ottoman lord)"
+  },
+  {
+   "mk": "ропство",
+   "en": "bondage, slavery"
+  },
+  {
+   "mk": "грабнаа",
+   "en": "seized"
+  }
+ ],
+ "performers": [
+  "Ансамбл Малешевска китка",
+  "Виолета Митева",
+  "Иван Узунов"
+ ],
+ "audio": [
+  {
+   "who": "Иван Узунов, Виолета Митева",
+   "url": "https://pesna.org/audio-download/2836"
+  },
+  {
+   "who": "Ансамбл Малешевска китка",
+   "url": "https://pesna.org/audio-download/3792"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Блажена горо, мори зелена,",
+       "lat": "Blažena goro, mori zelena,",
+       "en": "Blessed forest, hey, green,"
+      },
+      {
+       "cyr": "убава Малеш мори планино,",
+       "lat": "ubava Maleš mori planino,",
+       "en": "beautiful Malesh, hey, mountain,"
+      },
+      {
+       "cyr": "в' лете си полна, мори, овчари,",
+       "lat": "v' lete si polna, mori, ovčari,",
+       "en": "in summer you are full, hey, of shepherds,"
+      },
+      {
+       "cyr": "в' зиме си полна, мори, ајдуци.",
+       "lat": "v' zime si polna, mori, ajduci.",
+       "en": "in winter you are full, hey, of outlaws."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Турци во село, море, влегоа,",
+       "lat": "Turci vo selo, more, vlegoa,",
+       "en": "The Turks, hey, entered the village,"
+      },
+      {
+       "cyr": "ајдучка сестра, море, грабнаа,",
+       "lat": "ajdučka sestra, more, grabnaa,",
+       "en": "they seized, hey, the outlaw's sister,"
+      },
+      {
+       "cyr": "ајдуци за страв, море, не знаат,",
+       "lat": "ajduci za strav, more, ne znaat,",
+       "en": "the outlaws, out of fear, hey, did not know,"
+      },
+      {
+       "cyr": "во турско село, море влегоа.",
+       "lat": "vo tursko selo, more vlegoa.",
+       "en": "they entered, hey, the Turkish village."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "В' бегова куќа море, влегоа,",
+       "lat": "V' begova kuḱa more, vlegoa,",
+       "en": "They entered, hey, the bey's house,"
+      },
+      {
+       "cyr": "куќата му ја, море, запалија,",
+       "lat": "kuḱata mu ja, more, zapalija,",
+       "en": "they set, hey, his house on fire,"
+      },
+      {
+       "cyr": "децата му ги, море, грабнаја,",
+       "lat": "decata mu gi, more, grabnaja,",
+       "en": "they seized, hey, his children,"
+      },
+      {
+       "cyr": "сестра од ропство, море, извадија.",
+       "lat": "sestra od ropstvo, more, izvadija.",
+       "en": "they freed, hey, the sister from bondage."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

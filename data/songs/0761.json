@@ -1,0 +1,113 @@
+{
+ "id": 761,
+ "slug": "devojche-belo-crveno",
+ "title_cyr": "Девојче бело, црвено",
+ "title_latin": "Devojče belo, crveno",
+ "title_en": "Girl white, red",
+ "pesna_url": "https://pesna.org/song/761",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Вања Лазарова"
+ ],
+ "audio": [
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/1284"
+  },
+  {
+   "who": "Вања Лазарова",
+   "url": "https://pesna.org/audio-download/1493"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Девојче бело, црвено,",
+       "lat": "Devojče belo, crveno,",
+       "en": "Girl white, red,"
+      },
+      {
+       "cyr": "а што си толку убаво?",
+       "lat": "a što si tolku ubavo?",
+       "en": "why are you so beautiful?"
+      },
+      {
+       "cyr": "Дал' си од бога паднала,",
+       "lat": "Dal' si od boga padnala,",
+       "en": "Have you fallen from the Heavens (God),"
+      },
+      {
+       "cyr": "ил' си од бавча никнала?",
+       "lat": "il' si od bavča niknala?",
+       "en": "or grown from a garden?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Нит' сум од бога паднала,",
+       "lat": "Nit' sum od boga padnala,",
+       "en": "I have neihter fallen from god,"
+      },
+      {
+       "cyr": "нит' с'м од бавча никнала.",
+       "lat": "nit' s'm od bavča niknala.",
+       "en": "nor have I grown from a garden."
+      },
+      {
+       "cyr": "Ти си ме мајка родила,",
+       "lat": "Ti si me majka rodila,",
+       "en": "You, my mother, gave birth to me,"
+      },
+      {
+       "cyr": "на Ѓурѓевдан ме родила.",
+       "lat": "na Ǵurǵevdan me rodila.",
+       "en": "you gave birth to me on Gjurgjevden (St. George's day)."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ѓурѓа ми име турила,",
+       "lat": "Ǵurǵa mi ime turila,",
+       "en": "Gjurgja is the name you gave me,"
+      },
+      {
+       "cyr": "с' пресно ме млеко бањала.",
+       "lat": "s' presno me mleko banjala.",
+       "en": "and you have bathed me with fresh milk."
+      },
+      {
+       "cyr": "Рујно ме вино поила,",
+       "lat": "Rujno me vino poila,",
+       "en": "You gave me red wine to drink,"
+      },
+      {
+       "cyr": "затој сам бела, црвена,",
+       "lat": "zatoj sam bela, crvena,",
+       "en": "and that's why I am white and red,"
+      },
+      {
+       "cyr": "затој с'м тенка, висока.",
+       "lat": "zatoj s'm tenka, visoka.",
+       "en": "that's why I am slim and tall."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

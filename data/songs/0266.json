@@ -1,0 +1,205 @@
+{
+ "id": 266,
+ "slug": "vo-strumica-na-ulica",
+ "title_cyr": "Во Струмица на улица",
+ "title_latin": "Vo Strumica na ulica",
+ "title_en": "In Strumica, on the Street",
+ "pesna_url": "https://pesna.org/song/266",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear: no author I can name. The first stanza is a grammatically odd (my reading): 'let two hearts suffer' for 'две срца да страдаат'.",
+ "words_to_learn": [
+  {
+   "mk": "проклет",
+   "en": "cursed"
+  },
+  {
+   "mk": "либе",
+   "en": "sweetheart, lover"
+  },
+  {
+   "mk": "трепери",
+   "en": "trembles"
+  },
+  {
+   "mk": "прозборам",
+   "en": "I speak up, say a word"
+  },
+  {
+   "mk": "грб",
+   "en": "back"
+  },
+  {
+   "mk": "заљубив",
+   "en": "I fell in love"
+  },
+  {
+   "mk": "насолзени",
+   "en": "tearful"
+  },
+  {
+   "mk": "натажено",
+   "en": "saddened"
+  }
+ ],
+ "performers": [
+  "Зуица Лазова",
+  "Ирена Спасовска",
+  "Петранка Костадинова",
+  "Софија Здравковска",
+  "Сузана Гавазова"
+ ],
+ "audio": [
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/53"
+  },
+  {
+   "who": "Софија Здравковска",
+   "url": "https://pesna.org/audio-download/54"
+  },
+  {
+   "who": "Зуица Лазова",
+   "url": "https://pesna.org/audio-download/55"
+  },
+  {
+   "who": "Ирена Спасовска",
+   "url": "https://pesna.org/audio-download/56"
+  },
+  {
+   "who": "Сузана Гавазова",
+   "url": "https://pesna.org/audio-download/1884"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/4206"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Проклет да биде среќа да не виде",
+       "lat": "Proklet da bide sreḱa da ne vide",
+       "en": "Cursed be the luck that did not see"
+      },
+      {
+       "cyr": "кој прв започна.",
+       "lat": "koj prv započna.",
+       "en": "who started first."
+      },
+      {
+       "cyr": "Кој прв започна љубов да води",
+       "lat": "Koj prv započna ljubov da vodi",
+       "en": "Who first started to lead love"
+      },
+      {
+       "cyr": "две срца да страдаaт.",
+       "lat": "dve srca da stradaat.",
+       "en": "let two hearts suffer."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Често со него се среќавам",
+       "lat": "Često so nego se sreḱavam",
+       "en": "I often meet him,"
+      },
+      {
+       "cyr": "срце ми трепери,",
+       "lat": "srce mi treperi,",
+       "en": "my heart trembles,"
+      },
+      {
+       "cyr": "срце ми трепери душа не ми дава",
+       "lat": "srce mi treperi duša ne mi dava",
+       "en": "my heart trembles, my soul does not let me"
+      },
+      {
+       "cyr": "како да му прозборам.",
+       "lat": "kako da mu prozboram.",
+       "en": "speak to him somehow."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Во Струмица на улица",
+       "lat": "Vo Strumica na ulica",
+       "en": "In Strumica, on the street"
+      },
+      {
+       "cyr": "пред него излегов",
+       "lat": "pred nego izlegov",
+       "en": "I came out before him,"
+      },
+      {
+       "cyr": "грбот ми го сврте и тивко ми рече:",
+       "lat": "grbot mi go svrte i tivko mi reče:",
+       "en": "he turned his back to me and said quietly:"
+      },
+      {
+       "cyr": "„Јас не те сакам.",
+       "lat": "„Jas ne te sakam.",
+       "en": "'I do not love you."
+      },
+      {
+       "cyr": "Јас си заљубив друго либе",
+       "lat": "Jas si zaljubiv drugo libe",
+       "en": "I have fallen in love with another sweetheart,"
+      },
+      {
+       "cyr": "заљуби си и ти“.",
+       "lat": "zaljubi si i ti“.",
+       "en": "fall in love with someone else too.'"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Очи насолзени, срце натажено",
+       "lat": "Oči nasolzeni, srce nataženo",
+       "en": "Eyes full of tears, a saddened heart,"
+      },
+      {
+       "cyr": "отидов далеку",
+       "lat": "otidov daleku",
+       "en": "I went far away,"
+      },
+      {
+       "cyr": "проклет да биде среќа да не виде",
+       "lat": "proklet da bide sreḱa da ne vide",
+       "en": "cursed be the luck that did not see"
+      },
+      {
+       "cyr": "кој прв започна.",
+       "lat": "koj prv započna.",
+       "en": "who started first."
+      },
+      {
+       "cyr": "Кој прв започна љубов да води",
+       "lat": "Koj prv započna ljubov da vodi",
+       "en": "Who first started to lead love"
+      },
+      {
+       "cyr": "две срца да страдаат.",
+       "lat": "dve srca da stradaat.",
+       "en": "let two hearts suffer."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

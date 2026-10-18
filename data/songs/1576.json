@@ -1,0 +1,226 @@
+{
+ "id": 1576,
+ "slug": "zapej-makedonijo",
+ "title_cyr": "Запеј, Македонијо",
+ "title_latin": "Zapej, Makedonijo",
+ "title_en": "Sing, Macedonia",
+ "pesna_url": "https://pesna.org/song/1576",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Modern patriotic pop-style song; I cannot name an author, so origin unclear. 'Титов Велес' is the old name of Veles, and the names in the third stanza are first names of performers (my reading).",
+ "words_to_learn": [
+  {
+   "mk": "запеј",
+   "en": "sing (imperative)"
+  },
+  {
+   "mk": "земја",
+   "en": "land, country"
+  },
+  {
+   "mk": "знај",
+   "en": "know (imperative)"
+  },
+  {
+   "mk": "рај",
+   "en": "paradise"
+  },
+  {
+   "mk": "весели срца",
+   "en": "cheerful hearts"
+  },
+  {
+   "mk": "успех",
+   "en": "success"
+  },
+  {
+   "mk": "малце",
+   "en": "a little"
+  },
+  {
+   "mk": "радост",
+   "en": "joy"
+  },
+  {
+   "mk": "горда биди",
+   "en": "be proud"
+  },
+  {
+   "mk": "нема крај",
+   "en": "has no end"
+  }
+ ],
+ "performers": [
+  "Есма Реџепова",
+  "Крсте Китановски"
+ ],
+ "audio": [
+  {
+   "who": "Есма Реџепова, Крсте Китановски",
+   "url": "https://pesna.org/audio-download/4111"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ла, ла-ла-ла-ла, Македонијо!",
+       "lat": "La, la-la-la-la, Makedonijo!",
+       "en": "La, la-la-la-la, Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Македонијо земјо знај,",
+       "lat": "Makedonijo zemjo znaj,",
+       "en": "Macedonia, land, know,"
+      },
+      {
+       "cyr": "во тебе е како рај,",
+       "lat": "vo tebe e kako raj,",
+       "en": "in you it is like paradise,"
+      },
+      {
+       "cyr": "ти весели срца роди",
+       "lat": "ti veseli srca rodi",
+       "en": "you give birth to cheerful hearts"
+      },
+      {
+       "cyr": "што низ светот успех води.",
+       "lat": "što niz svetot uspeh vodi.",
+       "en": "who lead success around the world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ла, ла-ла-ла-ла, Македонијо!",
+       "lat": "La, la-la-la-la, Makedonijo!",
+       "en": "La, la-la-la-la, Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Скопје, Прилеп, Битола,",
+       "lat": "Skopje, Prilep, Bitola,",
+       "en": "Skopje, Prilep, Bitola,"
+      },
+      {
+       "cyr": "Кочани, Берово, Струмица,",
+       "lat": "Kočani, Berovo, Strumica,",
+       "en": "Kocani, Berovo, Strumica,"
+      },
+      {
+       "cyr": "Штип, Титов Велес, Тетово,",
+       "lat": "Štip, Titov Veles, Tetovo,",
+       "en": "Stip, Titov Veles, Tetovo,"
+      },
+      {
+       "cyr": "Гевгелија, Куманово, Кавадарци,",
+       "lat": "Gevgelija, Kumanovo, Kavadarci,",
+       "en": "Gevgelija, Kumanovo, Kavadarci,"
+      },
+      {
+       "cyr": "Гостивар, Дебар, Кичево,",
+       "lat": "Gostivar, Debar, Kičevo,",
+       "en": "Gostivar, Debar, Kicevo,"
+      },
+      {
+       "cyr": "Преспа, Охрид, Струга,",
+       "lat": "Prespa, Ohrid, Struga,",
+       "en": "Prespa, Ohrid, Struga,"
+      },
+      {
+       "cyr": "малце игра, песна пее,",
+       "lat": "malce igra, pesna pee,",
+       "en": "a little dance, a song is sung,"
+      },
+      {
+       "cyr": "таква земја нема, нема друга.",
+       "lat": "takva zemja nema, nema druga.",
+       "en": "there is no such land, no other."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ла, ла-ла-ла-ла, Македонијо!",
+       "lat": "La, la-la-la-la, Makedonijo!",
+       "en": "La, la-la-la-la, Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кочо, Стево, Медо, Бурзо,",
+       "lat": "Kočo, Stevo, Medo, Burzo,",
+       "en": "Koco, Stevo, Medo, Burzo,"
+      },
+      {
+       "cyr": "Мате, Васка, Ацо, Есма,",
+       "lat": "Mate, Vaska, Aco, Esma,",
+       "en": "Mate, Vaska, Aco, Esma,"
+      },
+      {
+       "cyr": "свират, играт и пеат,",
+       "lat": "svirat, igrat i peat,",
+       "en": "they play, dance and sing,"
+      },
+      {
+       "cyr": "во цел свет ви носат песна.",
+       "lat": "vo cel svet vi nosat pesna.",
+       "en": "they carry a song for you to the whole world."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ла, ла-ла-ла-ла, Македонијо!",
+       "lat": "La, la-la-la-la, Makedonijo!",
+       "en": "La, la-la-la-la, Macedonia!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "За тебе пеам сега знај,",
+       "lat": "Za tebe peam sega znaj,",
+       "en": "I sing for you now, know,"
+      },
+      {
+       "cyr": "мојта радост нема крај,",
+       "lat": "mojta radost nema kraj,",
+       "en": "my joy has no end,"
+      },
+      {
+       "cyr": "горда биди земјо мила,",
+       "lat": "gorda bidi zemjo mila,",
+       "en": "be proud, dear land,"
+      },
+      {
+       "cyr": "што си од нас ти сторила.",
+       "lat": "što si od nas ti storila.",
+       "en": "of what you have made of us."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

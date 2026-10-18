@@ -1,0 +1,164 @@
+{
+ "id": 1323,
+ "slug": "pak-sum-pijan",
+ "title_cyr": "Пак сум пијан",
+ "title_latin": "Pak sum pijan",
+ "title_en": "Drunk Again",
+ "pesna_url": "https://pesna.org/song/1323",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Origin unclear (sounds like a modern tavern song, but no author I can name).",
+ "words_to_learn": [
+  {
+   "mk": "пак",
+   "en": "again"
+  },
+  {
+   "mk": "мака",
+   "en": "pain, suffering"
+  },
+  {
+   "mk": "крчмар",
+   "en": "innkeeper"
+  },
+  {
+   "mk": "ракија",
+   "en": "rakija (fruit brandy)"
+  },
+  {
+   "mk": "да се напијам",
+   "en": "to drink my fill"
+  },
+  {
+   "mk": "далеку",
+   "en": "far"
+  },
+  {
+   "mk": "прегрни",
+   "en": "embrace (command)"
+  },
+  {
+   "mk": "целувај",
+   "en": "kiss (command)"
+  }
+ ],
+ "performers": [
+  "Перун"
+ ],
+ "audio": [
+  {
+   "who": "Перун",
+   "url": "https://pesna.org/audio-download/3348"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Пак сум пијан од мака јас,",
+       "lat": "Pak sum pijan od maka jas,",
+       "en": "I am drunk again from pain,"
+      },
+      {
+       "cyr": "каде си ти, љубов моја?",
+       "lat": "kade si ti, ljubov moja?",
+       "en": "where are you, my love?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крчмару, дај ми вино и ракија,",
+       "lat": "Krčmaru, daj mi vino i rakija,",
+       "en": "Innkeeper, give me wine and rakija,"
+      },
+      {
+       "cyr": "јас да пијам, да се напијам,",
+       "lat": "jas da pijam, da se napijam,",
+       "en": "let me drink, let me drink my fill,"
+      },
+      {
+       "cyr": "што мојта мила е далеку од мен'.",
+       "lat": "što mojta mila e daleku od men'.",
+       "en": "because my sweetheart is far from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Каде си ти, љубов моја,",
+       "lat": "Kade si ti, ljubov moja,",
+       "en": "Where are you, my love,"
+      },
+      {
+       "cyr": "каде си ти, радост моја?",
+       "lat": "kade si ti, radost moja?",
+       "en": "where are you, my joy?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крчмару, дај ми вино и ракија,",
+       "lat": "Krčmaru, daj mi vino i rakija,",
+       "en": "Innkeeper, give me wine and rakija,"
+      },
+      {
+       "cyr": "јас да пијам, да се напијам,",
+       "lat": "jas da pijam, da se napijam,",
+       "en": "let me drink, let me drink my fill,"
+      },
+      {
+       "cyr": "што мојта мила е далеку од мен'.",
+       "lat": "što mojta mila e daleku od men'.",
+       "en": "because my sweetheart is far from me."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Прегрни ме с' нежни слова,",
+       "lat": "Pregrni me s' nežni slova,",
+       "en": "Embrace me with tender words,"
+      },
+      {
+       "cyr": "целувај ме, радост моја.",
+       "lat": "celuvaj me, radost moja.",
+       "en": "kiss me, my joy."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крчмару, дај ми вино и ракија,",
+       "lat": "Krčmaru, daj mi vino i rakija,",
+       "en": "Innkeeper, give me wine and rakija,"
+      },
+      {
+       "cyr": "јас да пијам, да се напијам,",
+       "lat": "jas da pijam, da se napijam,",
+       "en": "let me drink, let me drink my fill,"
+      },
+      {
+       "cyr": "што мојта мила е далеку од мен'.",
+       "lat": "što mojta mila e daleku od men'.",
+       "en": "because my sweetheart is far from me."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

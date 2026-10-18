@@ -1,0 +1,169 @@
+{
+ "id": 569,
+ "slug": "ja-izlezi-stara-majko",
+ "title_cyr": "Ја излези стара мајко",
+ "title_latin": "Ja izlezi stara majko",
+ "title_en": "Look out of the window, old mother",
+ "pesna_url": "https://pesna.org/song/569",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Анка Гиева",
+  "Ансамбл Билјана",
+  "Влатко Лозаноски",
+  "Група Сарај",
+  "Елена Ристеска",
+  "Зоран Џорлев",
+  "Јованка Житарова",
+  "Лихнидос",
+  "Николина Кузмановска",
+  "Петранка Костадинова",
+  "Сузана Спасовска",
+  "Тајфата на Шуле",
+  "Филиграни",
+  "Gamze Matraci"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Билјана",
+   "url": "https://pesna.org/audio-download/250"
+  },
+  {
+   "who": "Лихнидос",
+   "url": "https://pesna.org/audio-download/251"
+  },
+  {
+   "who": "Сузана Спасовска",
+   "url": "https://pesna.org/audio-download/252"
+  },
+  {
+   "who": "Анка Гиева",
+   "url": "https://pesna.org/audio-download/253"
+  },
+  {
+   "who": "Петранка Костадинова",
+   "url": "https://pesna.org/audio-download/254"
+  },
+  {
+   "who": "Тајфата на Шуле",
+   "url": "https://pesna.org/audio-download/255"
+  },
+  {
+   "who": "Филиграни",
+   "url": "https://pesna.org/audio-download/256"
+  },
+  {
+   "who": "Зоран Џорлев, Николина Кузмановска",
+   "url": "https://pesna.org/audio-download/257"
+  },
+  {
+   "who": "Зоран Џорлев, Влатко Лозаноски",
+   "url": "https://pesna.org/audio-download/258"
+  },
+  {
+   "who": "Јованка Житарова",
+   "url": "https://pesna.org/audio-download/259"
+  },
+  {
+   "who": "Елена Ристеска",
+   "url": "https://pesna.org/audio-download/260"
+  },
+  {
+   "who": "Група Сарај",
+   "url": "https://pesna.org/audio-download/3360"
+  },
+  {
+   "who": "Gamze Matraci",
+   "url": "https://pesna.org/audio-download/3761"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Ја излези стара мајко на пенџерето,",
+       "lat": "Ja izlezi stara majko na pendžereto,",
+       "en": "Look out of the window, old mother"
+      },
+      {
+       "cyr": "па да видиш кој помина, умрев за него.",
+       "lat": "pa da vidiš koj pomina, umrev za nego.",
+       "en": "and see who is passing by, I am dying for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ми помина Осман Бегот, мила мајчице",
+       "lat": "Mi pomina Osman Begot, mila majčice",
+       "en": "Osman Beg is passing by, dear mother,"
+      },
+      {
+       "cyr": "ми помина Осман Бегот, умрев за него.",
+       "lat": "mi pomina Osman Begot, umrev za nego.",
+       "en": "Osman Beg is passing, I am dying for him."
+      },
+      {
+       "cyr": "Кај што одит ветар веит, умрев за него",
+       "lat": "Kaj što odit vetar veit, umrev za nego",
+       "en": "Wherever he goes, wind blows, I am dying for him,"
+      },
+      {
+       "cyr": "кај што седит сонце греит, умрев за него.",
+       "lat": "kaj što sedit sonce greit, umrev za nego.",
+       "en": "wherever he sits, Sun is shining, I am dying for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе се грчам, ќе се турчам, мила мајчице,",
+       "lat": "Ḱe se grčam, ḱe se turčam, mila majčice,",
+       "en": "I will become a Greek, I'll become a Turk, dear mother,"
+      },
+      {
+       "cyr": "ќе се грчам, ќе се турчам, умрев за него.",
+       "lat": "ḱe se grčam, ḱe se turčam, umrev za nego.",
+       "en": "I'll become a Greek, I'll become a Turk, I am dying for him."
+      },
+      {
+       "cyr": "Ќе го земам Осман Бегот, умрев за него.",
+       "lat": "Ḱe go zemam Osman Begot, umrev za nego.",
+       "en": "I will marry Osman Beg, I am dying for him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Ќе ме носит во Охрида, мила мајчице",
+       "lat": "Ḱe me nosit vo Ohrida, mila majčice",
+       "en": "He will take me to Ohrid, dear mother,"
+      },
+      {
+       "cyr": "ќе ме носи во Охрида, умрев за него.",
+       "lat": "ḱe me nosi vo Ohrida, umrev za nego.",
+       "en": "he will take me to Ohrid, I am dying for him."
+      },
+      {
+       "cyr": "Ќе ме шетат со кајчето по езерото.",
+       "lat": "Ḱe me šetat so kajčeto po ezeroto.",
+       "en": "He will stroll me with his boat around the lake."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

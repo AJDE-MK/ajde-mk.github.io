@@ -1,0 +1,188 @@
+{
+ "id": 817,
+ "slug": "janichari-odat-mamo",
+ "title_cyr": "Јаничари одат, мамо",
+ "title_latin": "Janičari odat, mamo",
+ "title_en": "The Janissaries Are Coming, Mother",
+ "pesna_url": "https://pesna.org/song/817",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'Анами' is a word I am unsure of (possibly a slave-girl term); left untranslated. 'Зеле' is dialect for 'зеле/земаа' (took).",
+ "words_to_learn": [
+  {
+   "mk": "јаничари",
+   "en": "Janissaries (Ottoman soldiers)"
+  },
+  {
+   "mk": "зулум",
+   "en": "oppression, tyranny"
+  },
+  {
+   "mk": "потурчуваат",
+   "en": "convert to Islam"
+  },
+  {
+   "mk": "грабаат",
+   "en": "seize, snatch"
+  },
+  {
+   "mk": "единец",
+   "en": "only child"
+  },
+  {
+   "mk": "очите ѝ истекле",
+   "en": "her eyes ran dry"
+  },
+  {
+   "mk": "побелеле",
+   "en": "turned white"
+  }
+ ],
+ "performers": [
+  "Кирил Манчевски",
+  "Пепи Бафтировски",
+  "Стефче Стојковски"
+ ],
+ "audio": [
+  {
+   "who": "Кирил Манчевски",
+   "url": "https://pesna.org/audio-download/1670"
+  },
+  {
+   "who": "Пепи Бафтировски",
+   "url": "https://pesna.org/audio-download/1686"
+  },
+  {
+   "who": "Стефче Стојковски",
+   "url": "https://pesna.org/audio-download/1687"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јаничари одат, мамо",
+       "lat": "Janičari odat, mamo",
+       "en": "The Janissaries are coming, mother,"
+      },
+      {
+       "cyr": "од село во село,",
+       "lat": "od selo vo selo,",
+       "en": "from village to village,"
+      },
+      {
+       "cyr": "голем зулум прават,",
+       "lat": "golem zulum pravat,",
+       "en": "they commit great oppression,"
+      },
+      {
+       "cyr": "машки деца земаат мамо,",
+       "lat": "maški deca zemaat mamo,",
+       "en": "they take boy children, mother,"
+      },
+      {
+       "cyr": "земаат, потурчуваат,",
+       "lat": "zemaat, poturčuvaat,",
+       "en": "they take them, convert them to Islam,"
+      },
+      {
+       "cyr": "млади моми, грабаат мамо,",
+       "lat": "mladi momi, grabaat mamo,",
+       "en": "they seize young girls, mother,"
+      },
+      {
+       "cyr": "анами ги прават.",
+       "lat": "anami gi pravat.",
+       "en": "they make them anami."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Зеле ми го, зеле мамо,",
+       "lat": "Zele mi go, zele mamo,",
+       "en": "They took him, took him, mother,"
+      },
+      {
+       "cyr": "Стојана на мајка,",
+       "lat": "Stojana na majka,",
+       "en": "Stojan from his mother,"
+      },
+      {
+       "cyr": "зеле и одвеле,",
+       "lat": "zele i odvele,",
+       "en": "they took him and led him away,"
+      },
+      {
+       "cyr": "а Стојан ми беше, мамо,",
+       "lat": "a Stojan mi beše, mamo,",
+       "en": "and Stojan was, mother,"
+      },
+      {
+       "cyr": "единец на мајка.",
+       "lat": "edinec na majka.",
+       "en": "his mother's only child."
+      },
+      {
+       "cyr": "А Стојан ми беше, мамо,",
+       "lat": "A Stojan mi beše, mamo,",
+       "en": "And Stojan was, mother,"
+      },
+      {
+       "cyr": "единец на мајка.",
+       "lat": "edinec na majka.",
+       "en": "his mother's only child."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Плакала е многу време",
+       "lat": "Plakala e mnogu vreme",
+       "en": "For a long time she wept,"
+      },
+      {
+       "cyr": "Стојанова мајка,",
+       "lat": "Stojanova majka,",
+       "en": "Stojan's mother,"
+      },
+      {
+       "cyr": "сè за Стојана плачеше,",
+       "lat": "sè za Stojana plačeše,",
+       "en": "she wept only for Stojan,"
+      },
+      {
+       "cyr": "косите ѝ побелеле,",
+       "lat": "kosite ì pobelele,",
+       "en": "her hair turned white,"
+      },
+      {
+       "cyr": "очите ѝ истекле.",
+       "lat": "očite ì istekle.",
+       "en": "her eyes ran dry."
+      },
+      {
+       "cyr": "Косите ѝ побелеле,",
+       "lat": "Kosite ì pobelele,",
+       "en": "Her hair turned white,"
+      },
+      {
+       "cyr": "очите ѝ истекле.",
+       "lat": "očite ì istekle.",
+       "en": "her eyes ran dry."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

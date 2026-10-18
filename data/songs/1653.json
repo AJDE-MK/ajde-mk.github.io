@@ -1,0 +1,107 @@
+{
+ "id": 1653,
+ "slug": "more-dva-se-zmeja",
+ "title_cyr": "Море два се змеjа",
+ "title_latin": "More dva se zmeja",
+ "title_en": "Hey, there are two dragons",
+ "pesna_url": "https://pesna.org/song/1653",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Гоце Наумов",
+  "Драган Стојковски",
+  "Кристијан Цветковски",
+  "Сашо Гигов - Гиш",
+  "Стефче Стојковски",
+  "Трио Гавровски",
+  "Трио Кладенец"
+ ],
+ "audio": [
+  {
+   "who": "Трио Гавровски",
+   "url": "https://pesna.org/audio-download/4449"
+  },
+  {
+   "who": "Трио Кладенец",
+   "url": "https://pesna.org/audio-download/4450"
+  },
+  {
+   "who": "Сашо Гигов - Гиш, Стефче Стојковски, Драган Стојковски, Гоце Наумов, Кристијан Цветковски",
+   "url": "https://pesna.org/audio-download/4451"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Море два се змеjа, по небо се вејат.",
+       "lat": "More dva se zmeja, po nebo se vejat.",
+       "en": "Hey, there are two dragons, they are flying in the sky."
+      },
+      {
+       "cyr": "Под ним тече река руменеjа,",
+       "lat": "Pod nim teče reka rumeneja,",
+       "en": "A ruddy river flows below them,"
+      },
+      {
+       "cyr": "под ним тече, море, река руменеја.",
+       "lat": "pod nim teče, more, reka rumeneja.",
+       "en": "below them flows a ruddy river."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море под ним тече река руменеја,",
+       "lat": "More pod nim teče reka rumeneja,",
+       "en": "Hey, under them flows the ruddy river,"
+      },
+      {
+       "cyr": "право тече за Солуна града.",
+       "lat": "pravo teče za Soluna grada.",
+       "en": "straight it goes to the city of Thessaloniki."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море, право тече за Солуна града,",
+       "lat": "More, pravo teče za Soluna grada,",
+       "en": "Hey, flowing straight to Thessaloniki city,"
+      },
+      {
+       "cyr": "за Солуна, покраj занданете.",
+       "lat": "za Soluna, pokraj zandanete.",
+       "en": "to Thessaloniki, right past the dungeons."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Море ју зандани вода до колена,",
+       "lat": "More ju zandani voda do kolena,",
+       "en": "Hey, in the dungeons there is water up to the knees,"
+      },
+      {
+       "cyr": "море ју водата ми јунак.",
+       "lat": "more ju vodata mi junak.",
+       "en": "hey, in the water, there is a hero."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

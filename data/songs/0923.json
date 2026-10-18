@@ -1,0 +1,133 @@
+{
+ "id": 923,
+ "slug": "izlegov-da-se-proshetam-mamo",
+ "title_cyr": "Излегов да се прошетам, мамо",
+ "title_latin": "Izlegov da se prošetam, mamo",
+ "title_en": "I went out for a walk, mother",
+ "pesna_url": "https://pesna.org/song/923",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional; origin unclear. 'не сакав да го целивам' is rendered literally.",
+ "words_to_learn": [
+  {
+   "mk": "ливади",
+   "en": "meadows"
+  },
+  {
+   "mk": "кладенче",
+   "en": "little well"
+  },
+  {
+   "mk": "ергенче",
+   "en": "young bachelor"
+  },
+  {
+   "mk": "разбудам",
+   "en": "I wake up (someone)"
+  },
+  {
+   "mk": "целивам",
+   "en": "I kiss"
+  },
+  {
+   "mk": "милно",
+   "en": "sweetly, tenderly"
+  },
+  {
+   "mk": "рудо грло",
+   "en": "ruddy throat"
+  }
+ ],
+ "performers": [
+  "Ленче Манчева"
+ ],
+ "audio": [
+  {
+   "who": "Ленче Манчева",
+   "url": "https://pesna.org/audio-download/2065"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Излегов да се прошетам мамо",
+       "lat": "Izlegov da se prošetam mamo",
+       "en": "I went out for a walk, mother,"
+      },
+      {
+       "cyr": "низ зелените ливади.",
+       "lat": "niz zelenite livadi.",
+       "en": "through the green meadows."
+      },
+      {
+       "cyr": "Низ зелените ливади, мамо,",
+       "lat": "Niz zelenite livadi, mamo,",
+       "en": "Through the green meadows, mother,"
+      },
+      {
+       "cyr": "кај студеното кладенче.",
+       "lat": "kaj studenoto kladenče.",
+       "en": "by the cold little well."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кај студеното кладенче, мамо,",
+       "lat": "Kaj studenoto kladenče, mamo,",
+       "en": "By the cold little well, mother,"
+      },
+      {
+       "cyr": "заспало едно ергенче.",
+       "lat": "zaspalo edno ergenče.",
+       "en": "a young bachelor had fallen asleep."
+      },
+      {
+       "cyr": "Не сакав да го разбудам, мамо,",
+       "lat": "Ne sakav da go razbudam, mamo,",
+       "en": "I did not want to wake him, mother,"
+      },
+      {
+       "cyr": "не сакав да го целивам.",
+       "lat": "ne sakav da go celivam.",
+       "en": "I did not want to kiss him."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Кога се само разбуди, мамо,",
+       "lat": "Koga se samo razbudi, mamo,",
+       "en": "When he woke up, mother,"
+      },
+      {
+       "cyr": "милно ме мене погледна.",
+       "lat": "milno me mene pogledna.",
+       "en": "he looked at me sweetly."
+      },
+      {
+       "cyr": "Бело ми лице целива, мамо,",
+       "lat": "Belo mi lice celiva, mamo,",
+       "en": "He kissed my white face, mother,"
+      },
+      {
+       "cyr": "рудо ми грло бакнува.",
+       "lat": "rudo mi grlo baknuva.",
+       "en": "he kissed my ruddy throat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

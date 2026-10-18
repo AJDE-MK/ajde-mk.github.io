@@ -1,0 +1,230 @@
+{
+ "id": 654,
+ "slug": "dojdi-dojdi-kalesh-more-dimcho",
+ "title_cyr": "Дојди, дојди калеш море Димчо",
+ "title_latin": "Dojdi, dojdi kaleš more Dimčo",
+ "title_en": "Come, Come, Dear Dimcho",
+ "pesna_url": "https://pesna.org/song/654",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "'калеш' is an unclear word (possibly 'invited one' or a term of endearment); I rendered it as 'dear', my reading.",
+ "words_to_learn": [
+  {
+   "mk": "вечера",
+   "en": "supper"
+  },
+  {
+   "mk": "печено јагне",
+   "en": "roast lamb"
+  },
+  {
+   "mk": "лута ракија",
+   "en": "strong rakija"
+  },
+  {
+   "mk": "рујно вино",
+   "en": "ruby-red wine"
+  },
+  {
+   "mk": "мерак",
+   "en": "longing, pleasure, desire"
+  },
+  {
+   "mk": "лична",
+   "en": "pretty"
+  },
+  {
+   "mk": "љуби",
+   "en": "to kiss, love"
+  },
+  {
+   "mk": "крени чаша",
+   "en": "raise a glass"
+  }
+ ],
+ "performers": [
+  "Ансамбл Деспина",
+  "Пула",
+  "Виолета Томовска",
+  "Јонче Христовски",
+  "Танец"
+ ],
+ "audio": [
+  {
+   "who": "Виолета Томовска",
+   "url": "https://pesna.org/audio-download/878"
+  },
+  {
+   "who": "Ансамбл Деспина, Пула",
+   "url": "https://pesna.org/audio-download/3798"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4058"
+  },
+  {
+   "who": "Јонче Христовски",
+   "url": "https://pesna.org/audio-download/4059"
+  },
+  {
+   "who": "Танец",
+   "url": "https://pesna.org/audio-download/4060"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "(Да ми дојдеш, калеш море Димчо)",
+       "lat": "(Da mi dojdeš, kaleš more Dimčo)",
+       "en": "(May you come to me, dear Dimcho)"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дојди, дојди калеш море Димчо,",
+       "lat": "Dojdi, dojdi kaleš more Dimčo,",
+       "en": "Come, come, dear Dimcho, hey,"
+      },
+      {
+       "cyr": "вечер на вечера.",
+       "lat": "večer na večera.",
+       "en": "in the evening for supper."
+      },
+      {
+       "cyr": "Дојди, дојди калеш море Димчо,",
+       "lat": "Dojdi, dojdi kaleš more Dimčo,",
+       "en": "Come, come, dear Dimcho, hey,"
+      },
+      {
+       "cyr": "на печено јагне,",
+       "lat": "na pečeno jagne,",
+       "en": "for roast lamb,"
+      },
+      {
+       "cyr": "тра-ла, ла, ла, ла, ла, тра-ла, ла, ла, ла, ла,",
+       "lat": "tra-la, la, la, la, la, tra-la, la, la, la, la,",
+       "en": "tra-la, la, la, la, la, tra-la, la, la, la, la,"
+      },
+      {
+       "cyr": "на печено јагне.",
+       "lat": "na pečeno jagne.",
+       "en": "for roast lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "На печено јагне, калеш Димчо,",
+       "lat": "Na pečeno jagne, kaleš Dimčo,",
+       "en": "For roast lamb, dear Dimcho,"
+      },
+      {
+       "cyr": "на лута ракија.",
+       "lat": "na luta rakija.",
+       "en": "for strong rakija."
+      },
+      {
+       "cyr": "На лута ракија, калеш Димчо,",
+       "lat": "Na luta rakija, kaleš Dimčo,",
+       "en": "For strong rakija, dear Dimcho,"
+      },
+      {
+       "cyr": "и на рујно вино,",
+       "lat": "i na rujno vino,",
+       "en": "and for ruby-red wine,"
+      },
+      {
+       "cyr": "тра-ла, ла, ла, ла, ла, тра-ла, ла, ла, ла, ла,",
+       "lat": "tra-la, la, la, la, la, tra-la, la, la, la, la,",
+       "en": "tra-la, la, la, la, la, tra-la, la, la, la, la,"
+      },
+      {
+       "cyr": "и на рујно вино.",
+       "lat": "i na rujno vino.",
+       "en": "and for ruby-red wine."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Имам мерак, лично мори Севдо,",
+       "lat": "Imam merak, lično mori Sevdo,",
+       "en": "I have a longing, pretty Sevda, hey,"
+      },
+      {
+       "cyr": "тебе да те видам,",
+       "lat": "tebe da te vidam,",
+       "en": "to see you,"
+      },
+      {
+       "cyr": "ама сакам, лично мори Севдо,",
+       "lat": "ama sakam, lično mori Sevdo,",
+       "en": "but I want, pretty Sevda, hey,"
+      },
+      {
+       "cyr": "тебе да те љубам,",
+       "lat": "tebe da te ljubam,",
+       "en": "to kiss you,"
+      },
+      {
+       "cyr": "тра-ла, ла, ла, ла, ла, тра-ла, ла, ла, ла, ла,",
+       "lat": "tra-la, la, la, la, la, tra-la, la, la, la, la,",
+       "en": "tra-la, la, la, la, la, tra-la, la, la, la, la,"
+      },
+      {
+       "cyr": "тебе да те љубам.",
+       "lat": "tebe da te ljubam.",
+       "en": "to kiss you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Крени чаша, лична мори Севдо,",
+       "lat": "Kreni čaša, lična mori Sevdo,",
+       "en": "Raise a glass, pretty Sevda, hey,"
+      },
+      {
+       "cyr": "двајца да пиеме,",
+       "lat": "dvajca da pieme,",
+       "en": "let the two of us drink,"
+      },
+      {
+       "cyr": "двајца да пиеме, лична Севдо,",
+       "lat": "dvajca da pieme, lična Sevdo,",
+       "en": "the two of us drink, pretty Sevda,"
+      },
+      {
+       "cyr": "и да се љубиме,",
+       "lat": "i da se ljubime,",
+       "en": "and kiss each other,"
+      },
+      {
+       "cyr": "тра-ла, ла, ла, ла, ла, тра-ла, ла, ла, ла, ла,",
+       "lat": "tra-la, la, la, la, la, tra-la, la, la, la, la,",
+       "en": "tra-la, la, la, la, la, tra-la, la, la, la, la,"
+      },
+      {
+       "cyr": "и да се љубиме.",
+       "lat": "i da se ljubime.",
+       "en": "and kiss each other."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

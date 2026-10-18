@@ -1,0 +1,175 @@
+{
+ "id": 1589,
+ "slug": "cena-sluzhi-na-trpeza",
+ "title_cyr": "Цена служи на трпеза",
+ "title_latin": "Cena služi na trpeza",
+ "title_en": "Tsena serves at the table",
+ "pesna_url": "https://pesna.org/song/1589",
+ "background": "",
+ "background_source": "",
+ "english_kind": "mt",
+ "en_note": "Machine translation by Claude (my reading), not on Pesna.org and not checked by a native speaker. Treat it as a study aid.",
+ "translator_notes": "Traditional. 'коконо' is rendered 'lady' (my reading; from коњона/госпоѓа type forms, unsure). 'Лудото си исполила' is a guess; 'лудото' is unclear to me. 'излиснало' is my reading as 'put out leaves'.",
+ "words_to_learn": [
+  {
+   "mk": "трпеза",
+   "en": "(dining) table, meal"
+  },
+  {
+   "mk": "служи",
+   "en": "serves"
+  },
+  {
+   "mk": "задремала",
+   "en": "dozed off"
+  },
+  {
+   "mk": "отплиснала",
+   "en": "spilled, splashed"
+  },
+  {
+   "mk": "кротко",
+   "en": "gentle, meek"
+  },
+  {
+   "mk": "јагне",
+   "en": "lamb"
+  },
+  {
+   "mk": "бадем",
+   "en": "almond"
+  },
+  {
+   "mk": "алтани",
+   "en": "gold coins"
+  }
+ ],
+ "performers": [
+  "Битолски мерак",
+  "Ванчо Тарабунов",
+  "Цар Самуил"
+ ],
+ "audio": [
+  {
+   "who": "Цар Самуил",
+   "url": "https://pesna.org/audio-download/4151"
+  },
+  {
+   "who": "Битолски мерак",
+   "url": "https://pesna.org/audio-download/4152"
+  },
+  {
+   "who": "Ванчо Тарабунов",
+   "url": "https://pesna.org/audio-download/4153"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "mt",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Цена служи на трпеза,",
+       "lat": "Cena služi na trpeza,",
+       "en": "Tsena serves at the table,"
+      },
+      {
+       "cyr": "еј, еј, деј гиди Цено, ти коконо,",
+       "lat": "ej, ej, dej gidi Ceno, ti kokono,",
+       "en": "hey, hey, oh Tsena, you lady,"
+      },
+      {
+       "cyr": "еј, еј, дејгиди Цено, кротко јагне.",
+       "lat": "ej, ej, dejgidi Ceno, krotko jagne.",
+       "en": "hey, hey, oh Tsena, gentle lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Служејќи, задремала,",
+       "lat": "Služejḱi, zadremala,",
+       "en": "While serving, she dozed off,"
+      },
+      {
+       "cyr": "еј, еј, деј гиди Цено, ти коконо,",
+       "lat": "ej, ej, dej gidi Ceno, ti kokono,",
+       "en": "hey, hey, oh Tsena, you lady,"
+      },
+      {
+       "cyr": "еј, еј, дејгиди Цено, кротко јагне.",
+       "lat": "ej, ej, dejgidi Ceno, krotko jagne.",
+       "en": "hey, hey, oh Tsena, gentle lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Чаша вино отплиснала,",
+       "lat": "Čaša vino otplisnala,",
+       "en": "She spilled a glass of wine,"
+      },
+      {
+       "cyr": "еј, еј, деј гиди Цено, ти коконо,",
+       "lat": "ej, ej, dej gidi Ceno, ti kokono,",
+       "en": "hey, hey, oh Tsena, you lady,"
+      },
+      {
+       "cyr": "еј, еј, дејгиди Цено, кротко јагне.",
+       "lat": "ej, ej, dejgidi Ceno, krotko jagne.",
+       "en": "hey, hey, oh Tsena, gentle lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Лудото си исполила,",
+       "lat": "Ludoto si ispolila,",
+       "en": "She poured the foolish ... out,"
+      },
+      {
+       "cyr": "еј, еј, деј гиди Цено, ти коконо,",
+       "lat": "ej, ej, dej gidi Ceno, ti kokono,",
+       "en": "hey, hey, oh Tsena, you lady,"
+      },
+      {
+       "cyr": "еј, еј, дејгиди Цено, кротко јагне.",
+       "lat": "ej, ej, dejgidi Ceno, krotko jagne.",
+       "en": "hey, hey, oh Tsena, gentle lamb."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Бадем дрво излиснало,",
+       "lat": "Badem drvo izlisnalo,",
+       "en": "The almond tree put out leaves,"
+      },
+      {
+       "cyr": "лист-лиснало, сè алтани,",
+       "lat": "list-lisnalo, sè altani,",
+       "en": "leaf by leaf, all gold coins,"
+      },
+      {
+       "cyr": "еј, еј, деј гиди Цено, ти коконо,",
+       "lat": "ej, ej, dej gidi Ceno, ti kokono,",
+       "en": "hey, hey, oh Tsena, you lady,"
+      },
+      {
+       "cyr": "еј, еј, дејгиди Цено, кротко јагне.",
+       "lat": "ej, ej, dejgidi Ceno, krotko jagne.",
+       "en": "hey, hey, oh Tsena, gentle lamb."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

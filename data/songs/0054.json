@@ -1,0 +1,168 @@
+{
+ "id": 54,
+ "slug": "jadna-doca-leb-mesila",
+ "title_cyr": "Јадна Доца леб месила",
+ "title_latin": "Jadna Doca leb mesila",
+ "title_en": "Poor Doca kneading bread",
+ "pesna_url": "https://pesna.org/song/54",
+ "background": "",
+ "background_source": "",
+ "english_kind": "pesna",
+ "en_note": "From Pesna.org (translation: Pesna.org)*\n",
+ "translator_notes": "",
+ "words_to_learn": [],
+ "performers": [
+  "Ансамбл Панче Пешев",
+  "Кумановско трио",
+  "Синиша Грујоски"
+ ],
+ "audio": [
+  {
+   "who": "Ансамбл Панче Пешев",
+   "url": "https://pesna.org/audio-download/182"
+  },
+  {
+   "who": "Синиша Грујоски",
+   "url": "https://pesna.org/audio-download/183"
+  },
+  {
+   "who": "Кумановско трио",
+   "url": "https://pesna.org/audio-download/2239"
+  }
+ ],
+ "versions": [
+  {
+   "label": "",
+   "en_source": "pesna",
+   "stanzas": [
+    {
+     "lines": [
+      {
+       "cyr": "Јадна Доца леб месила,",
+       "lat": "Jadna Doca leb mesila,",
+       "en": "Poor Doca kneading bread,"
+      },
+      {
+       "cyr": "заб'равила сол да тури.",
+       "lat": "zab'ravila sol da turi.",
+       "en": "she forgets to put salt in it."
+      },
+      {
+       "cyr": "Куде иде, све казује,",
+       "lat": "Kude ide, sve kazuje,",
+       "en": "Wherever she goes, she is telling,"
+      },
+      {
+       "cyr": "јадна Доца леб месила,",
+       "lat": "jadna Doca leb mesila,",
+       "en": "poor Doca kneading bread,"
+      },
+      {
+       "cyr": "јадна Доца леб месила,",
+       "lat": "jadna Doca leb mesila,",
+       "en": "poor Doca kneading bread,"
+      },
+      {
+       "cyr": "заб'равила сол да тури.",
+       "lat": "zab'ravila sol da turi.",
+       "en": "she forgets to put salt in it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дочуле гу терзиите,",
+       "lat": "Dočule gu terziite,",
+       "en": "The tailors heard her,"
+      },
+      {
+       "cyr": "запишале на аршини.",
+       "lat": "zapišale na aršini.",
+       "en": "and wrote it on their measures."
+      },
+      {
+       "cyr": "Куде иде, све казује,",
+       "lat": "Kude ide, sve kazuje,",
+       "en": "Wherever she goes, she is telling,"
+      },
+      {
+       "cyr": "јадна Доца леб месила,",
+       "lat": "jadna Doca leb mesila,",
+       "en": "poor Doca kneading bread,"
+      },
+      {
+       "cyr": "јадна Доца леб месила,",
+       "lat": "jadna Doca leb mesila,",
+       "en": "poor Doca kneading bread,"
+      },
+      {
+       "cyr": "заб'равила сол да тури.",
+       "lat": "zab'ravila sol da turi.",
+       "en": "she forgets to put salt in it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Дочуле гу овчарите,",
+       "lat": "Dočule gu ovčarite,",
+       "en": "The shepherds heard her,"
+      },
+      {
+       "cyr": "запишале на кавали.",
+       "lat": "zapišale na kavali.",
+       "en": "and wrote it on their fifes."
+      },
+      {
+       "cyr": "Куде иде, све казује,",
+       "lat": "Kude ide, sve kazuje,",
+       "en": "Wherever she goes, she is telling,"
+      },
+      {
+       "cyr": "јадна Доца леб месила,",
+       "lat": "jadna Doca leb mesila,",
+       "en": "poor Doca kneading bread,"
+      },
+      {
+       "cyr": "јадна Доца леб месила,",
+       "lat": "jadna Doca leb mesila,",
+       "en": "poor Doca kneading bread,"
+      },
+      {
+       "cyr": "заб'равила сол да тури.",
+       "lat": "zab'ravila sol da turi.",
+       "en": "she forgets to put salt in it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "cyr": "Доце ми се досетило,",
+       "lat": "Doce mi se dosetilo,",
+       "en": "Then Doca remembered,"
+      },
+      {
+       "cyr": "дека сол не му турило,",
+       "lat": "deka sol ne mu turilo,",
+       "en": "that she didn't put salt in it,"
+      },
+      {
+       "cyr": "па почнала да га соли,",
+       "lat": "pa počnala da ga soli,",
+       "en": "so she started to salt the bread,"
+      },
+      {
+       "cyr": "и леба га пресолила.",
+       "lat": "i leba ga presolila.",
+       "en": "until she put too much."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "pending_english": false
+}

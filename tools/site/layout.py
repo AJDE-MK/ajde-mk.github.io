@@ -11,6 +11,7 @@ NAV = [
     ("songs", "Songs", "/songs/"),
     ("alphabet", "Alphabet", "/alphabet/"),
     ("progress", "My progress", "/progress/"),
+    ("about", "About", "/about/"),
 ]
 
 

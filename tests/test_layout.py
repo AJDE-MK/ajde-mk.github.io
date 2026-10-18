@@ -18,6 +18,7 @@ class LayoutTests(unittest.TestCase):
         self.assertIn('href="/x/songs/"', html)
         self.assertIn('href="/x/alphabet/"', html)
         self.assertIn('href="/x/progress/"', html)
+        self.assertIn('href="/x/about/"', html)
         self.assertIn('href="/x/static/style.css"', html)
 
     def test_site_is_called_ajde(self):

@@ -74,6 +74,7 @@ def build_all(out):
     _write(out, "songs/index.html", render_pages.render_browse(all_songs))
     _write(out, "alphabet/index.html", render_pages.render_alphabet())
     _write(out, "progress/index.html", render_pages.render_progress())
+    _write(out, "about/index.html", render_pages.render_about())
     _write(out, "404.html", _not_found())
     _write(out, ".nojekyll", "")
     _write(

@@ -74,6 +74,11 @@ class HomeTests(unittest.TestCase):
     def test_page_is_marked_active(self):
         self.assertIn('aria-current="page">Home', render_pages.render_home([fake(1, "Билбил")]))
 
+    def test_home_page_points_to_the_about_page_and_the_book(self):
+        html = render_pages.render_home([fake(1, "Билбил")])
+        self.assertIn('href="/about/"', html)
+        self.assertIn("Em Baba, Em Nevesta", html)
+
     def test_home_page_title_is_the_site_name(self):
         self.assertIn("<title>Ајде", render_pages.render_home([fake(1, "Билбил")]))
 

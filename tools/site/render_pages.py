@@ -152,8 +152,43 @@ def render_home(songs):
 </section>
 <section class="progress-intro">
 <p>Your progress is saved in your own browser. See <a href="{layout.url('/progress/')}">My progress</a> to keep a backup.</p>
+</section>
+<section class="book-intro">
+<p>Inspired by the book <em>Em Baba, Em Nevesta</em>. <a href="{layout.url('/about/')}">About this site and the book</a>.</p>
 </section>"""
     return layout.page(f"{config.SITE_TITLE} ({config.SITE_TAGLINE})", body, active="home")
+
+
+BOOK_URL = "https://www.amazon.com/dp/B08N3PJH7K"
+BOOK_TITLE = "Macedonia . . . Em Baba, Em Nevesta: The history and culture of Macedonia told through its folk songs"
+
+
+def render_about():
+    log.debug("render about page")
+    body = f"""<section class="about-page">
+<h1>About Ајде</h1>
+<p><em>Ајде</em> was inspired by <em>Em Baba, Em Nevesta</em>, a book by Dr. Kathy Dimitrievski about the history and
+culture of Macedonia told through its folk songs. The book follows the language and the culture through music, and it
+includes interviews she recorded in Macedonia.</p>
+<p>The title means "both a grandmother and a young bride": the author's way of describing a country that is
+ancient and new at the same time.</p>
+<p>This site is a separate project, made by her son, Michael Dimitrievski, to help people learn Macedonian the same
+way: through the songs.</p>
+<p><a class="button" href="{BOOK_URL}" rel="noopener">Get the book on Amazon</a></p>
+<p class="book-title">{_e(BOOK_TITLE)}</p>
+<h2>Where the words come from</h2>
+<ul>
+<li>The lyrics come from <a href="https://pesna.org/" rel="noopener">Pesna.org</a>. They are folk lyrics in the public domain, and the site content is CC BY.</li>
+<li>Pesna.org's English is used where it exists. Each song says which English you are reading.</li>
+<li>Where Pesna.org has no English, or no English for a version, the English was written with the help of an AI (Claude). It is machine translation, not checked by a native speaker. Treat it as a study aid.</li>
+<li>The videos are on YouTube and play from there. A song with no video has a search link instead.</li>
+<li>The Cyrillic spelling and the English for a few versions that people sing differently were written by hand and are marked in the same way.</li>
+</ul>
+<h2>Something wrong?</h2>
+<p>Every song page has a box called "Wrong or missing video? Tell us". It also takes reports of mistakes in the words.
+The message goes straight to the person who runs this site. Thank you for helping.</p>
+</section>"""
+    return layout.page(f"About - {config.SITE_TITLE}", body, active="about")
 
 
 def render_progress():

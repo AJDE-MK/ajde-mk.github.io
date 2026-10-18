@@ -31,9 +31,16 @@ jobs:
         run: node --test "tests/js/*.test.mjs"
       - name: Build site
         env:
-          MK_BASE_PATH: /${{ github.event.repository.name }}
+          REPO_NAME: ${{ github.event.repository.name }}
           MK_FORM_KEY: ${{ vars.MK_FORM_KEY }}
-        run: python tools/site/build_site.py --out site
+        run: |
+          # A repo named <user>.github.io is served from the root. Any other repo is served from /<repo>.
+          case "$REPO_NAME" in
+            *.github.io) export MK_BASE_PATH="" ;;
+            *) export MK_BASE_PATH="/$REPO_NAME" ;;
+          esac
+          echo "Base path: '$MK_BASE_PATH'"
+          python tools/site/build_site.py --out site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

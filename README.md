@@ -56,7 +56,7 @@ Set these as environment variables, or edit `tools\site\config.py`:
 
 ## Deploy
 
-`.github/workflows/deploy.yml` runs the tests, builds the site, and publishes it to GitHub Pages on every push to `main`. In the GitHub repo: Settings, Pages, set Source to "GitHub Actions". Add a repository variable named `MK_FORM_KEY` when the form key exists.
+`.github/workflows/deploy.yml` runs the tests, builds the site, and publishes it to GitHub Pages on every push to `main`. In the GitHub repo: Settings, Pages, set Source to "GitHub Actions". The Web3Forms access key is set in the workflow file. To change it, add a repository variable named `MK_FORM_KEY`, which overrides it. The key is public by design. The email address that receives messages is set only in the Web3Forms dashboard.
 
 ## Data
 

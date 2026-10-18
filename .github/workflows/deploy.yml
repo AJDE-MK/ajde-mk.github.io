@@ -32,7 +32,8 @@ jobs:
       - name: Build site
         env:
           REPO_NAME: ${{ github.event.repository.name }}
-          MK_FORM_KEY: ${{ vars.MK_FORM_KEY }}
+          # Web3Forms access key. Public by design. A repository variable named MK_FORM_KEY overrides it.
+          MK_FORM_KEY: ${{ vars.MK_FORM_KEY || '63268db3-8364-4843-b909-2b385aca7420' }}
         run: |
           # A repo named <user>.github.io is served from the root. Any other repo is served from /<repo>.
           case "$REPO_NAME" in

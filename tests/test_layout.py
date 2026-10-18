@@ -30,6 +30,14 @@ class LayoutTests(unittest.TestCase):
         self.assertIn('<a class="site-title" href="/" lang="mk">Ајде</a>', html)
         self.assertIn("Ajde: learn Macedonian through its songs", html)
 
+    def test_footer_is_honest_and_credits_the_sources(self):
+        html = layout.page("T", "<p>x</p>")
+        self.assertIn('<a href="https://pesna.org/" rel="noopener">Pesna.org</a>', html)
+        self.assertIn("Videos from YouTube.", html)
+        self.assertIn("Made by Michael Dimitrievski, who is relearning Macedonian one song at a time, mistakes included.", html)
+        self.assertNotIn("made with love", html)
+        self.assertNotIn("Song lyrics come from Pesna.org", html)
+
     def test_active_nav_item_is_marked(self):
         html = layout.page("T", "<p>x</p>", active="songs")
         self.assertIn('aria-current="page"', html)

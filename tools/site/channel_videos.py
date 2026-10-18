@@ -114,8 +114,15 @@ def find_continuation(data):
     return (preferred or any_token or [None])[0]
 
 
+def playlist_url(list_id):
+    return f"https://www.youtube.com/playlist?list={list_id}"
+
+
 def _http_get_first(channel_id):
-    url = f"https://www.youtube.com/channel/{channel_id}/videos"
+    return _http_get_page(f"https://www.youtube.com/channel/{channel_id}/videos")
+
+
+def _http_get_page(url):
     page = urlopen(Request(url, headers=vs.HEADERS), timeout=30).read().decode("utf-8", errors="replace")
     key = re.search(r'"INNERTUBE_API_KEY":"([^"]+)"', page)
     ver = re.search(r'"INNERTUBE_CONTEXT_CLIENT_VERSION":"([^"]+)"', page)
@@ -139,8 +146,18 @@ def _http_post_next(token):
 def fetch_channel_videos(channel_id, get_first=None, post_next=None, max_pages=80):
     """All videos on the channel, newest first, without repeats."""
     get_first = get_first or _http_get_first
+    return _fetch_all(lambda: get_first(channel_id), post_next, max_pages, f"channel {channel_id}")
+
+
+def fetch_playlist_videos(list_id, get_first=None, post_next=None, max_pages=80):
+    """All videos in a playlist, in playlist order, without repeats. `get_first` receives the playlist URL."""
+    get_first = get_first or _http_get_page
+    return _fetch_all(lambda: get_first(playlist_url(list_id)), post_next, max_pages, f"playlist {list_id}")
+
+
+def _fetch_all(first_page, post_next, max_pages, label):
     post_next = post_next or _http_post_next
-    data = get_first(channel_id)
+    data = first_page()
     videos, seen = [], set()
 
     def take(page):
@@ -157,7 +174,7 @@ def fetch_channel_videos(channel_id, get_first=None, post_next=None, max_pages=8
         pages += 1
         take(page)
         token = find_continuation(page)
-    log.debug("channel %s: %d videos in %d continuation pages", channel_id, len(videos), pages)
+    log.debug("%s: %d videos in %d continuation pages", label, len(videos), pages)
     return videos
 
 
@@ -170,20 +187,25 @@ def _word_set(text):
     return set(vs._normalize(text))
 
 
-def title_core_matches(song, video_title):
-    """Strict match: some part of the video title (split at ' - ', '/', '|') has the same words as the
+def title_score(song, video_title):
+    """0 to 1: how closely some part of the video title (split at ' - ', '/', '|') has the same words as the
     song title, in Cyrillic or Latin. Notes in brackets and 'Macedonian Song' style labels are ignored.
-    Short song titles therefore cannot match longer, different songs."""
+    1 means identical word sets."""
     cleaned = _SUFFIX_RE.sub(" ", _NOTE_RE.sub(" ", video_title))
     targets = [w for w in (_word_set(song["title_cyr"]), _word_set(song["title_latin"])) if w]
+    best = 0.0
     for piece in _SPLIT_RE.split(cleaned):
         words = _word_set(piece)
         if not words:
             continue
         for target in targets:
-            if len(words & target) / len(words | target) >= 0.8:
-                return True
-    return False
+            best = max(best, len(words & target) / len(words | target))
+    return best
+
+
+def title_core_matches(song, video_title):
+    """Strict match (score 0.8 or more). Short song titles cannot match longer, different songs."""
+    return title_score(song, video_title) >= 0.8
 
 
 def is_sung_song(title):

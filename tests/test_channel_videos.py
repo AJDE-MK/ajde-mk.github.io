@@ -138,6 +138,12 @@ class MatchChannelTests(unittest.TestCase):
         self.assertFalse(cv.is_sung_song("Which countries enjoy Macedonian Music the most?"))
         self.assertTrue(cv.is_sung_song("Oktet Makedonija - Ne Stoj Done, Donke - Macedonian Traditional Song"))
 
+    def test_instrument_and_lesson_titles_are_skipped(self):
+        for title in ("Kinisala rosa (for piano)", "Zajdi zajdi - guitar tutorial", "Oro - clarinet cover",
+                      "Zajdi zajdi remix 2020", "Zajdi zajdi - lesson 3", "Kaval solo - Zajdi"):
+            self.assertFalse(cv.is_sung_song(title), title)
+        self.assertTrue(cv.is_sung_song("Zajdi zajdi jasno sonce - Macedonian Song"))
+
     def test_best_for_song_takes_the_most_viewed_sung_match(self):
         videos = [
             {"id": "AAAAAAAAAAA", "title": "Zajdi, Zajdi, Jasno Sonce - Instrumental (Karaoke)", "views": 60000, "seconds": 200},

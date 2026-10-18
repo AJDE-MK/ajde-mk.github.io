@@ -11,6 +11,7 @@ import logging
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -24,7 +25,11 @@ log = logging.getLogger("site.channel_videos")
 ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 DURATION_RE = re.compile(r"^\d{1,2}:\d{2}(:\d{2})?$")
 VIEWS_RE = re.compile(r"^[\d.,]+\s*[KMB]?(\s*views?)?$", re.I)
-SKIP_TITLE_RE = re.compile(r"instrumental|karaoke|dance|orchestra|ranked by|\?", re.I)
+SKIP_TITLE_RE = re.compile(
+    r"instrumental|karaoke|dance|orchestra|ranked by|\?"
+    r"|piano|guitar|accordion|violin|clarinet|saxophone|flute|kaval|tutorial|lesson|remix|ringtone",
+    re.I,
+)
 _CTX = {"key": None, "version": "2.20240101.00.00"}
 
 
@@ -116,6 +121,37 @@ def find_continuation(data):
 
 def playlist_url(list_id):
     return f"https://www.youtube.com/playlist?list={list_id}"
+
+
+_CHANNEL_PATH_RE = re.compile(r"^/(@[^/]+|channel/[^/]+|c/[^/]+|user/[^/]+)")
+
+
+def resolve_source(ref):
+    """Turn a handle (@Name), a channel ID, a playlist ID, or any YouTube link into ('channel' | 'playlist', url).
+    Raises ValueError with a plain message when the text is none of those."""
+    ref = (ref or "").strip()
+    m = re.search(r"[?&]list=([A-Za-z0-9_-]+)", ref)
+    if m:
+        return "playlist", playlist_url(m.group(1))
+    if re.fullmatch(r"PL[A-Za-z0-9_-]{10,}", ref):
+        return "playlist", playlist_url(ref)
+    if ref.startswith("@") and "/" not in ref:
+        return "channel", f"https://www.youtube.com/{ref}/videos"
+    if re.fullmatch(r"UC[A-Za-z0-9_-]{22}", ref):
+        return "channel", f"https://www.youtube.com/channel/{ref}/videos"
+    parsed = urlparse(ref)
+    if parsed.hostname and parsed.hostname.endswith("youtube.com"):
+        path = _CHANNEL_PATH_RE.match(parsed.path)
+        if path:
+            return "channel", f"https://www.youtube.com{path.group(0)}/videos"
+    raise ValueError(f"I cannot tell what this is: {ref!r}. Give a channel link, an @handle, or a playlist link.")
+
+
+def fetch_source_videos(ref, get_first=None, post_next=None, max_pages=80):
+    """All videos of a channel or playlist, given a handle, ID or link."""
+    kind, url = resolve_source(ref)
+    get_first = get_first or _http_get_page
+    return _fetch_all(lambda: get_first(url), post_next, max_pages, f"{kind} {url}")
 
 
 def _http_get_first(channel_id):

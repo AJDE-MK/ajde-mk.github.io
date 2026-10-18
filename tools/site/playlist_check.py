@@ -1,9 +1,10 @@
-"""Check a YouTube playlist against the songbook.
+"""Check a YouTube channel or playlist against the songbook.
 
 For each sung video: is the song in the songbook, does it already have a video, can this video be added,
 or is the song missing (with the closest songbook titles as guesses)?
 
-Usage: python tools\\site\\playlist_check.py PLAYLIST_ID [--add] [--debug]
+Usage: python tools\\site\\playlist_check.py SOURCE [--add] [--debug]
+SOURCE is a channel link, an @handle, a channel ID, a playlist link or a playlist ID.
 Without --add it only reports. Debug log: data/playlist_check.log
 """
 import argparse
@@ -64,7 +65,7 @@ def _link(v):
 
 def main(argv=None):
     ap = argparse.ArgumentParser()
-    ap.add_argument("playlist_id")
+    ap.add_argument("source", help="a channel link or @handle, or a playlist link or ID")
     ap.add_argument("--add", action="store_true", help="add the can_add videos (embeddable only) to data/videos.json")
     ap.add_argument("--debug", action="store_true")
     args = ap.parse_args(argv)
@@ -77,11 +78,11 @@ def main(argv=None):
     )
     sys.stdout.reconfigure(encoding="utf-8")
 
-    videos = cv.fetch_playlist_videos(args.playlist_id)
+    videos = cv.fetch_source_videos(args.source)
     existing = songs_data.load_videos()
     rows = classify(videos, songs_data.load_songs(), existing)
     counts = summarize(rows)
-    print(f"playlist videos: {len(videos)}  sung: {len(rows)}")
+    print(f"videos found: {len(videos)}  sung: {len(rows)}")
     print("  " + "  ".join(f"{k}: {counts[k]}" for k in STATUSES))
 
     print("\nSONG IS IN THE SONGBOOK, VIDEO CAN BE ADDED")

@@ -21,6 +21,31 @@ SONGS = [
 ]
 
 
+class ResolveSourceTests(unittest.TestCase):
+    def test_handles_ids_and_links_for_channels(self):
+        self.assertEqual(cv.resolve_source("@MkDon"), ("channel", "https://www.youtube.com/@MkDon/videos"))
+        self.assertEqual(cv.resolve_source("UC_U8eNMmNpUXdsb8x-9MLjQ"),
+                         ("channel", "https://www.youtube.com/channel/UC_U8eNMmNpUXdsb8x-9MLjQ/videos"))
+        self.assertEqual(cv.resolve_source("https://www.youtube.com/@MkDon/videos"),
+                         ("channel", "https://www.youtube.com/@MkDon/videos"))
+        self.assertEqual(cv.resolve_source("https://www.youtube.com/@MkDon"),
+                         ("channel", "https://www.youtube.com/@MkDon/videos"))
+        self.assertEqual(cv.resolve_source("https://www.youtube.com/channel/UCY667t0M166NVn4UMRcDSAA"),
+                         ("channel", "https://www.youtube.com/channel/UCY667t0M166NVn4UMRcDSAA/videos"))
+
+    def test_playlist_ids_and_links(self):
+        self.assertEqual(cv.resolve_source("PL9629A9FA6085C586"),
+                         ("playlist", "https://www.youtube.com/playlist?list=PL9629A9FA6085C586"))
+        self.assertEqual(
+            cv.resolve_source("https://www.youtube.com/watch?v=jAHKy_rExWM&list=PL9629A9FA6085C586"),
+            ("playlist", "https://www.youtube.com/playlist?list=PL9629A9FA6085C586"),
+        )
+
+    def test_unreadable_source_raises_a_plain_error(self):
+        with self.assertRaises(ValueError):
+            cv.resolve_source("hello there")
+
+
 class UrlAndScoreTests(unittest.TestCase):
     def test_playlist_url(self):
         self.assertEqual(cv.playlist_url("PLabc"), "https://www.youtube.com/playlist?list=PLabc")

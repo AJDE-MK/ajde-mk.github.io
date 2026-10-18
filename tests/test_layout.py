@@ -30,13 +30,19 @@ class LayoutTests(unittest.TestCase):
         self.assertIn('<a class="site-title" href="/" lang="mk">Ајде</a>', html)
         self.assertIn("Ajde: learn Macedonian through its songs", html)
 
-    def test_footer_is_honest_and_credits_the_sources(self):
+    def test_there_is_no_footer(self):
         html = layout.page("T", "<p>x</p>")
-        self.assertIn('<a href="https://pesna.org/" rel="noopener">Pesna.org</a>', html)
-        self.assertIn("Videos from YouTube.", html)
-        self.assertIn("Made by Michael Dimitrievski, who is relearning Macedonian one song at a time, mistakes included.", html)
+        self.assertNotIn("<footer", html)
+        self.assertNotIn("site-footer", html)
+        self.assertNotIn("relearning Macedonian", html)
         self.assertNotIn("made with love", html)
-        self.assertNotIn("Song lyrics come from Pesna.org", html)
+
+    def test_page_still_ends_with_the_closing_border_and_scripts(self):
+        html = layout.page("T", "<p>x</p>")
+        self.assertEqual(html.count('class="border"'), 2)
+        self.assertIn("</main>", html)
+        self.assertLess(html.index("</main>"), html.rindex('class="border"'))
+        self.assertIn("static/app.js", html)
 
     def test_active_nav_item_is_marked(self):
         html = layout.page("T", "<p>x</p>", active="songs")

@@ -52,9 +52,6 @@ def page(title, body, active=""):
 <main>
 {body}
 </main>
-<footer class="site-footer">
-<p>Lyrics from <a href="https://pesna.org/" rel="noopener">Pesna.org</a>. Videos from YouTube. Made by Michael Dimitrievski, who is relearning Macedonian one song at a time, mistakes included.</p>
-</footer>
 <div class="border" aria-hidden="true"></div>
 <script src="{url('/static/progress.js')}" defer></script>
 <script src="{url('/static/app.js')}" defer></script>

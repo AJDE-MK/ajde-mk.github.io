@@ -52,8 +52,10 @@ add the right ones with `python tools\site\videos_tool.py add <song> <link>`.
 | 553 | Мара охриѓанка (Maria from Ohrid) | Мара Охриѓанка - македонскa народнa песнa | molikabt | 2,010 | [watch](https://www.youtube.com/watch?v=sd6eN1CPVQI) |
 | 554 | Љуби, љуби лудо младо (Love, love, dear young man) | Ljubi, ljubi ludo mlado | Sevda Collective - Topic | 74 | [watch](https://www.youtube.com/watch?v=VGhT6XuV4TU) |
 | 564 | Калеш Дончо (Prisoner Doncho) | Duet Violeta  Tomovska i Kiril Mancevski - Kales donco - ( Audio ) | Jugoton Music | 17,225 | [watch](https://www.youtube.com/watch?v=BWNeVJLkJ0w) |
+| 566 | Каде се чуло, мамо, видело (Is this ever heard of, mother) | Vaska Ilieva - Kade se čulo videlo (also fits song 945 better) | efendikajmakam | 36,202 | [watch](https://www.youtube.com/watch?v=GjLPPSTuYQU) |
 | 576 | Фатила зима (Winter Has Set In) | Октет Македонија - Фатила зима / Oktet Makedonija - Fatila zima / Партизанска песна | mkd cut | 721 | [watch](https://www.youtube.com/watch?v=S18L2bJhvC0) |
 | 592 | Дафино црвен каранфил (Dafina, Red Carnation) | Dafino Crven Karanfil | Dragica Mavrovska - Topic | 133 | [watch](https://www.youtube.com/watch?v=GEQNWZi0MT4) |
+| 602 | Болен ми лежи млад Стојан (Young Stojan lies sick) | Vaska Ilieva i Nikola Badev - Bolen leži mlad Stojan (also fits song 601 better) | efendikajmakam | 416,287 | [watch](https://www.youtube.com/watch?v=VcGHhfwa9ts) |
 | 622 | Ајде бостан садат мамо (Come On, Three Girls Plant a Melon Field) | Ајде бостан садат мамо | Macedonian Ethno Song | Pop Rock Version 🇲🇰 | Lyrics Video | Ethno Evolution Macedonia | 18 | [watch](https://www.youtube.com/watch?v=ruk93auXn_Q) |
 | 624 | Ај мерак имам (Oh, I Have a Longing) | Гого Зафироски - Ај мерак имам | Црноризец Храбар | 179 | [watch](https://www.youtube.com/watch?v=ZpYK2BAMGsU) |
 | 649 | Еднаш минав на мостето (Once I passed over the bridge) | Еднаш минав на мостето - Александар Сарев | Arhiva Makedonija / Архива Македонија | 234 | [watch](https://www.youtube.com/watch?v=t3Y94L009Nk) |
@@ -88,6 +90,8 @@ add the right ones with `python tools\site\videos_tool.py add <song> <link>`.
 | 916 | Стариот јоргован (The Old Lilac) | Naum Petreski - Stariot jorgovan | Naum Petreski | 30,250 | [watch](https://www.youtube.com/watch?v=Qha6ykN7LRw) |
 | 917 | Белите манастири (The white monasteries) | GLORIA - BELITE MANASTIRI / Глория - Белите манастири, 2005 | PlanetaOfficial | 10,672,804 | [watch](https://www.youtube.com/watch?v=5UB7oS7JMqE) |
 | 919 | Една комитска (A Komita Song) | Edna komitska - Smilja Andonovska | Една комитска (makedonski patriotski pesni) | makedonskonasledstvo | 100,173 | [watch](https://www.youtube.com/watch?v=mocwrVzI7QI) |
+| 923 | Излегов да се прошетам, мамо (I went out for a walk, mother) | Ansambl Resencani - Izlegov da se prosetam - ( Audio ) (also fits song 571 better) | Jugoton Music | 12,177 | [watch](https://www.youtube.com/watch?v=Hhu8Cf_YgJM) |
+| 930 | Сношти те Маре сонував (Last night, Mare, I dreamed of you) | Snosti te Mare mori sonuvav -  Vlado Kostoski & Grupa Cardak (ImaT nemaT) (also fits song 1160 better) | IN MEDIA  GROUP | 7,312 | [watch](https://www.youtube.com/watch?v=rzA5uwTjTBc) |
 | 934 | Стари баби (Old women) | Јонче Христовски - Стари баби | mac warr | 2,959 | [watch](https://www.youtube.com/watch?v=O_U0RXjuzMQ) |
 | 935 | Машала (Mashala) | Elena Jovceska - Mashala / Елена Јовческа - Машала (Official Video) | Elena Jovceska | 3,306,727 | [watch](https://www.youtube.com/watch?v=NsO_j9QLjy8) |
 | 948 | Ленка (Lenka) | Lenka - Trouble Is a Friend (Official Video) | lenkatv | 131,732,311 | [watch](https://www.youtube.com/watch?v=QHpvlr_kG6U) |
@@ -118,6 +122,7 @@ add the right ones with `python tools\site\videos_tool.py add <song> <link>`.
 | 1180 | Легнало лудо, заспало (The Young Man Lay Down and Fell Asleep) | Dunja Knebl - Legnalo ludo zaspalo - LIVE - Začarana Moč  28 6 17 | Dunja Knebl | 73 | [watch](https://www.youtube.com/watch?v=Kqn0a6q2jAQ) |
 | 1183 | Жалајте ми мајки (Pity me, mothers) | Добри Ставревски - Жалајте ми мајки | Vase Petkovski | 229 | [watch](https://www.youtube.com/watch?v=WJMz-EGMamw) |
 | 1193 | Мори сваќе (Hey, Father-in-Law) | Macedonian Folk Song - Vaska Ilieva - Mori svake, svake | Goce Dimitrov | 30,752 | [watch](https://www.youtube.com/watch?v=yj1DhM5dK9o) |
+| 1197 | Сношти си мори мамо отидов (Last night, mother, I went) | Snošti Si Mamo Mori (also fits song 107 better) | Release - Topic | 456 | [watch](https://www.youtube.com/watch?v=YaUBDRvl8ok) |
 | 1198 | Лидуду, лидуду (Lidudu, lidudu) | Sherbet - Lidudu - Maja Odzaklievska Шербет - Лидуду - Маја Оџаклиевска | Шербет Шербет | 2,214 | [watch](https://www.youtube.com/watch?v=eC5qJFrVoSU) |
 | 1199 | Ивано, Иванке (Ivana, Ivanka) | FORMATSIYA PASKALEV - IVANO, IVANKE / Формация Паскалев - Ивано, Иванке, 2014 | PlanetaOfficial | 587,686 | [watch](https://www.youtube.com/watch?v=mJCFedfdCz8) |
 | 1200 | Орал дедо (The Ploughing Grandfather) | Oral Dedo | Irena Spasovska - Topic | 586 | [watch](https://www.youtube.com/watch?v=AMBL1mOJsfQ) |
@@ -180,6 +185,7 @@ add the right ones with `python tools\site\videos_tool.py add <song> <link>`.
 | 1613 | Патруно моме (Patruna, beautiful girl) | Macedonian Folklore - Patruno mome (Vaska ilieva) | gaston88441 | 1,449 | [watch](https://www.youtube.com/watch?v=_wDg_cNospo) |
 | 1625 | Убава Македонка (Beautiful Macedonian girl) | Ubava Makedonka - Suzana Gavazova, Zoran Damjanov, i Gr. Luda Mara | Risto Veskov | 14,198 | [watch](https://www.youtube.com/watch?v=k034iBzB9Zc) |
 | 1639 | Името македонско (Macedonian name) | Chris Klashoff and Boys from Bouf - Imeto Makedonsko | MACEDONIANEWSFORUM | 27,204 | [watch](https://www.youtube.com/watch?v=-JEDhCx9eoI) |
+| 1641 | Учи ме мајко, леле, карај ме (Teach me, mother, oh, tell me) | Vlatko Stefanovski - Uci me majko karaj me (Official Video Clip Zlatna Bubamara 2019) (also fits song 423 better) | Radio Bubamara | 1,402,871 | [watch](https://www.youtube.com/watch?v=JlBEQfQdYyo) |
 | 1660 | Илинденска (For Ilinden) | Илинденска - Никола Вапцаров | Bojo Georgiev | 65 | [watch](https://www.youtube.com/watch?v=BbSzv23h7OE) |
 | 1667 | Чашка ракија (A glass of rakija) | Orce Stefkoski -  Caska rakija | INproduction | 38,960 | [watch](https://www.youtube.com/watch?v=r4V2nIQGb-Y) |
 | 1673 | Бела Рада (Fair Rada) | ORCE STEVKOVSKI - Bela Rada | Mister Company | 70,122 | [watch](https://www.youtube.com/watch?v=u5LM6QwVj4o) |

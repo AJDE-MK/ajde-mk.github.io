@@ -87,6 +87,20 @@ class AddVideoTests(unittest.TestCase):
             self.assertFalse(target.exists())
 
 
+class RemoveVideoTests(unittest.TestCase):
+    def test_remove_deletes_only_that_song_and_only_if_the_id_matches(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            target = Path(tmp) / "videos.json"
+            target.write_text(json.dumps({"450": {"id": GOOD_ID, "start": 0}, "451": {"id": "AAAAAAAAAAA", "start": 0}}),
+                              encoding="utf-8")
+            with mock.patch.object(config, "VIDEOS_FILE", target):
+                self.assertFalse(videos_tool.remove_video(450, only_if_id="ZZZZZZZZZZZ"))
+                self.assertTrue(videos_tool.remove_video(450, only_if_id=GOOD_ID))
+                self.assertFalse(videos_tool.remove_video(999))
+                self.assertTrue(videos_tool.remove_video(451))
+            self.assertEqual(json.loads(target.read_text(encoding="utf-8")), {})
+
+
 class PlayerTests(unittest.TestCase):
     def test_player_with_video(self):
         html = render_song.render_player(450, {"id": GOOD_ID, "start": 12}, "https://search")

@@ -94,6 +94,18 @@ def add_video(song_id, url, start=0):
     log.debug("added video %s for song %s start=%s", vid, song_id, start)
 
 
+def remove_video(song_id, only_if_id=None):
+    """Remove a song's video. With `only_if_id`, only when the saved video has that ID. True if something was removed."""
+    data = _load()
+    entry = data.get(str(song_id))
+    if entry is None or (only_if_id is not None and entry.get("id") != only_if_id):
+        return False
+    del data[str(song_id)]
+    config.VIDEOS_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    log.debug("removed video for song %s", song_id)
+    return True
+
+
 def _song_ids():
     return {int(p.stem) for p in config.SONGS_DIR.glob("*.json")}
 

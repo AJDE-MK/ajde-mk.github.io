@@ -112,7 +112,8 @@ def review_markdown(progress, songs_by_id):
         s = songs_by_id.get(int(key))
         v = progress["review"][key]
         title = f"{s['title_cyr']} ({s['title_en']})" if s else key
-        lines.append(f"| {key} | {title} | {v['title']} | {v['channel']} | {v['views']:,} | "
+        note = f" ({v['note']})" if v.get("note") else ""
+        lines.append(f"| {key} | {title} | {v['title']}{note} | {v['channel']} | {v['views']:,} | "
                      f"[watch](https://www.youtube.com/watch?v={v['id']}) |")
     return "\n".join(lines) + "\n"
 

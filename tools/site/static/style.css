@@ -1,5 +1,13 @@
 /* Macedonian Songbook: woven textile look.
    Red and black lead. Small stitch colors (pink, green, yellow, blue) appear only in the border and tiny accents. */
+/* Georgia has no glyphs for the Macedonian Latin letters Ǵ ǵ Ḱ ḱ, so the accent floats beside the letter.
+   Borrow a font that has them, for those four characters only. */
+@font-face {
+  font-family: "Ajde Macedonian Latin";
+  src: local("Cambria"), local("Times New Roman"), local("Noto Serif"), local("DejaVu Serif"), local("Palatino");
+  unicode-range: U+01F4-01F5, U+1E30-1E31;
+}
+
 :root {
   --cloth: #f3ead8;
   --cloth-dark: #e8dcc2;
@@ -10,7 +18,7 @@
   --stitch-green: #4f8a4b;
   --stitch-yellow: #e0b030;
   --stitch-blue: #3a6ea5;
-  --serif: Georgia, "Times New Roman", "Noto Serif", serif;
+  --serif: "Ajde Macedonian Latin", Georgia, "Times New Roman", "Noto Serif", serif;
 }
 
 * { box-sizing: border-box; }

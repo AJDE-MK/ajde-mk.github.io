@@ -27,6 +27,13 @@ _EMPHASIS = re.compile(r"\*(?=\S)([^*\n]*?\S)\*")
 UNCHECKED_NOTE = "These notes are a draft and have not been checked by a native speaker."
 
 
+def source_note(raw):
+    """Plain wording for where a background note came from. Hides internal names from the public page."""
+    if "Pesna.org" in (raw or ""):
+        return "Notes from Pesna.org."
+    return "Notes written for this site, partly drafted with an AI assistant."
+
+
 def _with_emphasis(text):
     """Escape the text, then turn *word* into italics. Safe: escaping happens first."""
     return _EMPHASIS.sub(r"<em>\1</em>", _e(text))
@@ -87,7 +94,7 @@ def _version_section(index, version, song):
     label = EN_LABELS.get(source, EN_LABELS["mt"])
     extra = ""
     if song.get("english_kind") == "pesna" and source in ("pesna", "mixed") and song.get("en_note"):
-        extra += f'<p class="en-credit">{_e(song["en_note"])}</p>\n'
+        extra += f'<p class="en-credit">{_e(song["en_note"].strip().strip("*").strip())}</p>\n'
     if source == "mixed":
         extra += f'<p class="en-legend">{_e(MIXED_LEGEND)}</p>\n'
     tables = "\n".join(_stanza_table(st) for st in version["stanzas"])
@@ -140,7 +147,7 @@ def render_song_page(song, video):
         about = (
             '<section class="about"><h2>About this song</h2>'
             f'<p>{_with_emphasis(song["background"])}</p>'
-            f'<p class="source-note">{_e(song.get("background_source", ""))} {_e(UNCHECKED_NOTE)}</p></section>'
+            f'<p class="source-note">{_e(source_note(song.get("background_source", "")))} {_e(UNCHECKED_NOTE)}</p></section>'
         )
     notes = ""
     if song.get("translator_notes"):

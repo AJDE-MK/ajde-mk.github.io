@@ -70,6 +70,47 @@ class VideoColumnTests(unittest.TestCase):
         self.assertNotRegex(css, r"\.player:not\(\.no-video\)\s*\{[^}]*position:\s*sticky")
 
 
+class PublicWordingTests(unittest.TestCase):
+    def page(self, source, background="A ballad."):
+        song = make_song(background=background)
+        song["background_source"] = source
+        return render_song.render_song_page(song, None)
+
+    def test_internal_source_names_never_reach_the_page(self):
+        for source in ("Source of these notes: Qwen's draft.",
+                       "Source of these notes: your 6-song songbook, with notes from Qwen's draft.",
+                       "Source of these notes: your 6-song songbook."):
+            html = self.page(source)
+            self.assertNotIn("Qwen", html)
+            self.assertNotIn("6-song", html)
+            self.assertNotIn("your ", html.split('class="source-note"')[1].split("</p>")[0])
+            self.assertIn("Notes written for this site, partly drafted with an AI assistant.", html)
+
+    def test_notes_from_pesna_say_so(self):
+        html = self.page("Source of these notes: the note on Pesna.org.")
+        self.assertIn("Notes from Pesna.org.", html)
+        self.assertNotIn("partly drafted with an AI assistant", html)
+
+    def test_stray_stars_and_newlines_are_stripped_from_the_pesna_credit(self):
+        song = make_song()
+        song["en_note"] = "From Pesna.org (translation: Jutta Malzbender)*\n"
+        html = render_song.render_song_page(song, None)
+        self.assertIn("From Pesna.org (translation: Jutta Malzbender)</p>", html)
+        self.assertNotIn(")*", html)
+
+
+class FontTests(unittest.TestCase):
+    def test_four_macedonian_latin_letters_get_a_font_that_has_them(self):
+        css = (support.SITE_TOOLS / "static" / "style.css").read_text(encoding="utf-8")
+        self.assertRegex(css, r"@font-face\s*\{[^}]*font-family:\s*\"Ajde Macedonian Latin\"")
+        face = css[css.index("@font-face"): css.index("}", css.index("@font-face"))]
+        self.assertIn("U+01F4-01F5", face)
+        self.assertIn("U+1E30-1E31", face)
+        self.assertIn('local("Cambria")', face)
+        self.assertIn('local("Times New Roman")', face)
+        self.assertRegex(css, r"--serif:\s*\"Ajde Macedonian Latin\",\s*Georgia")
+
+
 class CssTests(unittest.TestCase):
     def test_base_font_size_respects_the_browser_setting(self):
         import re

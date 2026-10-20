@@ -82,8 +82,9 @@ class ReviewPageTests(unittest.TestCase):
         self.assertNotIn("—", self.html)
         self.assertNotIn("–", self.html)
 
-    def test_page_is_marked_active_under_songs(self):
-        self.assertIn('aria-current="page">Songs', self.html)
+    def test_page_is_marked_active_in_the_menu(self):
+        self.assertIn('aria-current="page">Review videos', self.html)
+        self.assertIn('aria-current="page">Review videos', render_pages.render_review([], "K"))
 
 
 class HelpLinksTests(unittest.TestCase):

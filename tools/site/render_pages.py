@@ -183,7 +183,7 @@ def render_review(rows, form_key):
             "<h1>Please help by reviewing these</h1>"
             "<p>Nothing is waiting for review right now. Thank you to everyone who helped.</p>"
         )
-        return layout.page("Review videos", body, active="songs")
+        return layout.page("Review videos", body, active="review")
     n = len(rows)
     if form_key:
         send = (
@@ -211,7 +211,7 @@ def render_review(rows, form_key):
 {articles}
 {send}
 {script}"""
-    return layout.page("Review videos", body, active="songs")
+    return layout.page("Review videos", body, active="review")
 
 
 def render_needs_video(songs, videos, review_count=0):

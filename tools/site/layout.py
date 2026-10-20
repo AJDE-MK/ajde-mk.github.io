@@ -10,6 +10,7 @@ NAV = [
     ("home", "Home", "/"),
     ("songs", "Songs", "/songs/"),
     ("alphabet", "Alphabet", "/alphabet/"),
+    ("review", "Review videos", "/review/"),
     ("progress", "My progress", "/progress/"),
     ("about", "About", "/about/"),
 ]

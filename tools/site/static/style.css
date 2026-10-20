@@ -192,6 +192,9 @@ input[type="search"] { font-family: var(--serif); font-size: 1.05rem; padding: 8
 .lead { font-size: 1.2rem; max-width: 40rem; }
 .start, .songs-intro { border-left: 6px solid var(--red); padding: 2px 16px; margin: 20px 0; }
 
+.yt-search { font-size: 0.85rem; margin-left: 8px; white-space: nowrap; }
+.help-intro { margin: 20px 0; border-left: 6px solid var(--stitch-yellow); padding: 2px 16px; }
+
 /* Alphabet */
 .tiles { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
 .tile { min-width: 3.6rem; font-size: 1.3rem; font-weight: bold; padding: 8px 10px; }

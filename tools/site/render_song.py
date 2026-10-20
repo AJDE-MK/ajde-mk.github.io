@@ -48,6 +48,7 @@ def render_player(song_id, video, search):
             '<div class="player no-video">'
             "<p>No video for this song yet.</p>"
             f'<p><a href="{_e(search)}">Search YouTube for this song</a></p>'
+            "<p>Know this song? Suggest a video in the box below.</p>"
             "</div>"
         )
     vid = video["id"]

@@ -80,7 +80,7 @@ class FullBuildTests(unittest.TestCase):
 
     def test_top_level_pages_exist(self):
         for rel in ("index.html", "songs/index.html", "alphabet/index.html", "progress/index.html",
-                    "about/index.html", "404.html", "search-index.json", ".nojekyll", "static/style.css", "static/app.js",
+                    "about/index.html", "needs-video/index.html", "404.html", "search-index.json", ".nojekyll", "static/style.css", "static/app.js",
                     "static/progress.js", "static/feedback.js", "static/quiz.js", "static/search.js"):
             self.assertTrue((self.out / rel).exists(), rel)
 

@@ -134,8 +134,56 @@ def render_browse(songs):
     return layout.page("Songs", body, active="songs")
 
 
-def render_home(songs):
+def render_needs_video(songs, videos):
+    """List of songs that have no video yet, so visitors can see where they could help."""
+    missing = [s for s in songs if s["id"] not in videos]
+    log.debug("render needs-video page, %d songs", len(missing))
+    n = len(missing)
+    if not missing:
+        body = (
+            "<h1>Which songs have no video yet?</h1>"
+            "<p>Every song has a video. Thank you to everyone who helped.</p>"
+        )
+        return layout.page("Songs with no video yet", body, active="songs")
+    uppers = [l["upper"] for l in alphabet.load_letters()]
+    order = ["0-9"] + uppers + ["other"]
+    groups = {}
+    for s in sorted(missing, key=lambda x: (x["title_cyr"].lower(), x["id"])):
+        groups.setdefault(_group_key(s["title_cyr"], set(uppers)), []).append(s)
+    present = [k for k in order if k in groups]
+    jump = " ".join(f'<a href="#letter-{_e(k)}">{_e("Other" if k == "other" else k)}</a>' for k in present)
+    sections = []
+    for key in present:
+        items = "\n".join(
+            f'<li><a href="{_e(render_song.song_url(s))}" lang="mk">{_e(s["title_cyr"])}</a>'
+            f' <span class="latin">{_e(s["title_latin"])}</span>'
+            f' <a class="yt-search" href="{_e(render_song.search_url(s))}" rel="noopener">Search YouTube</a></li>'
+            for s in groups[key]
+        )
+        heading = "Other" if key == "other" else key
+        sections.append(
+            f'<section class="letter-group" id="letter-{_e(key)}"><h2>{_e(heading)}</h2><ul>\n{items}\n</ul></section>'
+        )
+    count = f"{n} song{'s' if n != 1 else ''} {'have' if n != 1 else 'has'} no video yet."
+    body = f"""<h1>Which songs have no video yet?</h1>
+<p>{count} If you know a recording of one, open the song and use the "Wrong or missing video? Tell us" box.
+All we need is a link to the YouTube video. A real recording by a singer or group is best.</p>
+<nav class="jump" aria-label="Jump to a letter">{jump}</nav>
+{chr(10).join(sections)}"""
+    return layout.page("Songs with no video yet", body, active="songs")
+
+
+def render_home(songs, videos=None):
     log.debug("render home page, %d songs", len(songs))
+    help_line = ""
+    if videos is not None:
+        missing = sum(1 for s in songs if s["id"] not in videos)
+        if missing:
+            help_line = (
+                f'<section class="help-intro"><p>{missing} song{"s" if missing != 1 else ""} still '
+                f'{"have" if missing != 1 else "has"} no video. '
+                f'<a href="{layout.url("/needs-video/")}">Help find them</a>.</p></section>'
+            )
     body = f"""<section class="hero">
 <h1>Learn Macedonian through its songs</h1>
 <p class="lead">Read the words while you listen. Every song here shows the Cyrillic, the Latin spelling, and the English side by side.</p>
@@ -153,6 +201,7 @@ def render_home(songs):
 <section class="progress-intro">
 <p>Your progress is saved in your own browser. See <a href="{layout.url('/progress/')}">My progress</a> to keep a backup.</p>
 </section>
+{help_line}
 <section class="book-intro">
 <p>Inspired by the book <em>Em Baba, Em Nevesta</em>. <a href="{layout.url('/about/')}">About this site and the book</a>.</p>
 </section>"""

@@ -70,7 +70,8 @@ def build_all(out):
     videos = songs_data.load_videos()
 
     copy_static(out)
-    _write(out, "index.html", render_pages.render_home(all_songs))
+    _write(out, "index.html", render_pages.render_home(all_songs, videos))
+    _write(out, "needs-video/index.html", render_pages.render_needs_video(all_songs, videos))
     _write(out, "songs/index.html", render_pages.render_browse(all_songs))
     _write(out, "alphabet/index.html", render_pages.render_alphabet())
     _write(out, "progress/index.html", render_pages.render_progress())

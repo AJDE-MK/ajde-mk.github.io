@@ -195,6 +195,17 @@ input[type="search"] { font-family: var(--serif); font-size: 1.05rem; padding: 8
 .yt-search { font-size: 0.85rem; margin-left: 8px; white-space: nowrap; }
 .help-intro { margin: 20px 0; border-left: 6px solid var(--stitch-yellow); padding: 2px 16px; }
 
+/* Review page */
+.review-row { border-top: 3px solid var(--red); margin: 22px 0; padding-top: 6px; max-width: 46rem; }
+.review-row h3 { margin: 6px 0; }
+.review-row .en, .review-row .meta, .review-row .note { color: var(--ink-soft); font-size: 0.9rem; }
+.lyric-peek { background: var(--cloth-dark); padding: 8px 12px; border-left: 6px solid var(--red); font-weight: bold; }
+.review-row .play-slot iframe { width: 100%; max-width: 560px; aspect-ratio: 16 / 9; border: 0; background: var(--ink); }
+.vote { border: 1px solid var(--ink-soft); padding: 6px 12px; }
+.vote label { display: inline-block; margin-right: 18px; padding: 4px 0; }
+.review-send { margin: 18px 0; padding: 10px 14px; background: var(--cloth-dark); max-width: 46rem; }
+.steps { max-width: 46rem; }
+
 /* Alphabet */
 .tiles { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
 .tile { min-width: 3.6rem; font-size: 1.3rem; font-weight: bold; padding: 8px 10px; }

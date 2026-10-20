@@ -37,17 +37,23 @@ def save_decisions(decisions, path=DECISIONS_FILE):
 def build_queue(pass1, pass2, songs_by_id, existing_videos, decisions):
     """Rows still to look at, most-viewed first. A song in both passes uses its pass-2 video."""
     chosen = {}
-    for progress in (pass1, pass2):
+    for source, progress in (("pass1", pass1), ("pass2", pass2)):
         for key, video in progress["review"].items():
-            chosen[int(key)] = video
+            chosen[int(key)] = (source, video)
     skip = set(decisions["accepted"]) | set(decisions["rejected"]) | set(existing_videos)
     rows = [
-        {"song_id": sid, "song": songs_by_id[sid], "video": video}
-        for sid, video in chosen.items()
+        {"song_id": sid, "song": songs_by_id[sid], "video": video, "source": source}
+        for sid, (source, video) in chosen.items()
         if sid not in skip and sid in songs_by_id
     ]
     rows.sort(key=lambda r: (-r["video"]["views"], r["song_id"]))
     return rows
+
+
+def page_order(rows):
+    """Order for the public review page: second-pass rows first (the performer or a close title matched),
+    then first-pass rows, most-viewed first within each."""
+    return sorted(rows, key=lambda r: (0 if r["source"] == "pass2" else 1, -r["video"]["views"], r["song_id"]))
 
 
 def next_batch(queue, n):

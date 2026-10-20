@@ -14,8 +14,11 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import config  # noqa: E402
 import layout  # noqa: E402
+import bulk_videos as b1  # noqa: E402
+import bulk_videos2 as b2  # noqa: E402
 import render_pages  # noqa: E402
 import render_song  # noqa: E402
+import review_queue  # noqa: E402
 import songs as songs_data  # noqa: E402
 import videos_tool  # noqa: E402
 
@@ -68,10 +71,21 @@ def build_all(out):
         log.error("videos.json problems: %s", problems)
         return 1
     videos = songs_data.load_videos()
+    review_rows = review_queue.page_order(
+        review_queue.build_queue(
+            b1.load_progress(b1.PROGRESS_FILE),
+            b1.load_progress(b2.PROGRESS2_FILE),
+            {s["id"]: s for s in all_songs},
+            videos,
+            review_queue.load_decisions(),
+        )
+    )
 
     copy_static(out)
-    _write(out, "index.html", render_pages.render_home(all_songs, videos))
-    _write(out, "needs-video/index.html", render_pages.render_needs_video(all_songs, videos))
+    _write(out, "index.html", render_pages.render_home(all_songs, videos, review_count=len(review_rows)))
+    _write(out, "needs-video/index.html",
+           render_pages.render_needs_video(all_songs, videos, review_count=len(review_rows)))
+    _write(out, "review/index.html", render_pages.render_review(review_rows, config.FORM_KEY))
     _write(out, "songs/index.html", render_pages.render_browse(all_songs))
     _write(out, "alphabet/index.html", render_pages.render_alphabet())
     _write(out, "progress/index.html", render_pages.render_progress())

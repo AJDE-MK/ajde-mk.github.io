@@ -134,7 +134,87 @@ def render_browse(songs):
     return layout.page("Songs", body, active="songs")
 
 
-def render_needs_video(songs, videos):
+def _count(n, noun):
+    return f"{n} {noun}{'s' if n != 1 else ''}"
+
+
+def _review_link(review_count, intro):
+    if not review_count:
+        return ""
+    return (
+        f'<p class="review-link">{intro} <a href="{layout.url("/review/")}">'
+        f"Help by reviewing {_count(review_count, 'video')}</a>.</p>"
+    )
+
+
+def _peek_lines(song, n=4):
+    try:
+        lines = [l["cyr"] for st in song["versions"][0]["stanzas"] for l in st["lines"]]
+    except (KeyError, IndexError):
+        return []
+    return lines[:n]
+
+
+def _review_row(row):
+    s, v = row["song"], row["video"]
+    sid = s["id"]
+    peek = "<br>".join(_e(line) for line in _peek_lines(s))
+    note = f' <span class="note">({_e(v["note"])})</span>' if v.get("note") else ""
+    watch = f"https://www.youtube.com/watch?v={_e(v['id'])}"
+    return f"""<article class="review-row" data-song-id="{sid}" data-video-id="{_e(v['id'])}">
+<h3><a href="{_e(render_song.song_url(s))}" lang="mk">{_e(s['title_cyr'])}</a> <span class="latin">{_e(s['title_latin'])}</span> <span class="en">&middot; {_e(s['title_en'])}</span></h3>
+<p class="lyric-peek" lang="mk">{peek}</p>
+<p class="video-line"><a href="{watch}" rel="noopener">Watch: {_e(v['title'])}</a> <span class="meta">{_e(v['channel'])}, {v['views']:,} views</span>{note}</p>
+<p><button type="button" data-play data-video-id="{_e(v['id'])}">Play it here</button></p>
+<div class="play-slot"></div>
+<fieldset class="vote"><legend>Is the video the same song as the words above?</legend>
+<label><input type="radio" name="vote-{sid}" value="yes"> Yes, same song</label>
+<label><input type="radio" name="vote-{sid}" value="no"> No, a different song</label>
+<label><input type="radio" name="vote-{sid}" value="skip" checked> Not sure</label>
+</fieldset>
+</article>"""
+
+
+def render_review(rows, form_key):
+    """Page where visitors listen to a candidate video and say whether it is the right song."""
+    log.debug("render review page, %d rows", len(rows))
+    if not rows:
+        body = (
+            "<h1>Please help by reviewing these</h1>"
+            "<p>Nothing is waiting for review right now. Thank you to everyone who helped.</p>"
+        )
+        return layout.page("Review videos", body, active="songs")
+    n = len(rows)
+    if form_key:
+        send = (
+            '<section class="review-send">'
+            '<div class="botcheck" aria-hidden="true"><input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off"></div>'
+            f'<button type="button" data-review-send data-access-key="{_e(form_key)}">Send my answers</button>'
+            '<p data-review-status role="status" aria-live="polite"></p>'
+            "</section>"
+        )
+        script = f'<script src="{layout.url("/static/review.js")}" defer></script>'
+    else:
+        send = '<section class="review-send"><p>Sending answers is coming soon.</p></section>'
+        script = ""
+    articles = "\n".join(_review_row(r) for r in rows)
+    body = f"""<h1>Please help by reviewing these</h1>
+<p>A computer found a video for each song below, but it cannot hear whether it is the right one.
+{_count(n, 'video')} still need a second pair of ears.</p>
+<ol class="steps">
+<li>Read the first lines of the song.</li>
+<li>Listen to the video. Press "Play it here", or open it on YouTube.</li>
+<li>If it is the same song, choose <strong>Yes</strong>. If it is a different song, choose <strong>No</strong>. If you are not sure, leave it.</li>
+<li>Press <strong>Send my answers</strong> at the end. You can answer a few or all of them.</li>
+</ol>
+{send}
+{articles}
+{send}
+{script}"""
+    return layout.page("Review videos", body, active="songs")
+
+
+def render_needs_video(songs, videos, review_count=0):
     """List of songs that have no video yet, so visitors can see where they could help."""
     missing = [s for s in songs if s["id"] not in videos]
     log.debug("render needs-video page, %d songs", len(missing))
@@ -168,22 +248,28 @@ def render_needs_video(songs, videos):
     body = f"""<h1>Which songs have no video yet?</h1>
 <p>{count} If you know a recording of one, open the song and use the "Wrong or missing video? Tell us" box.
 All we need is a link to the YouTube video. A real recording by a singer or group is best.</p>
+{_review_link(review_count, "Not sure of any? You can still help.")}
 <nav class="jump" aria-label="Jump to a letter">{jump}</nav>
 {chr(10).join(sections)}"""
     return layout.page("Songs with no video yet", body, active="songs")
 
 
-def render_home(songs, videos=None):
+def render_home(songs, videos=None, review_count=0):
     log.debug("render home page, %d songs", len(songs))
     help_line = ""
     if videos is not None:
         missing = sum(1 for s in songs if s["id"] not in videos)
+        parts = []
         if missing:
-            help_line = (
-                f'<section class="help-intro"><p>{missing} song{"s" if missing != 1 else ""} still '
+            parts.append(
+                f'<p>{missing} song{"s" if missing != 1 else ""} still '
                 f'{"have" if missing != 1 else "has"} no video. '
-                f'<a href="{layout.url("/needs-video/")}">Help find them</a>.</p></section>'
+                f'<a href="{layout.url("/needs-video/")}">Help find them</a>.</p>'
             )
+        if review_count:
+            parts.append(_review_link(review_count, "Or listen and check:").replace(' class="review-link"', ""))
+        if parts:
+            help_line = '<section class="help-intro">' + "".join(parts) + "</section>"
     body = f"""<section class="hero">
 <h1>Learn Macedonian through its songs</h1>
 <p class="lead">Read the words while you listen. Every song here shows the Cyrillic, the Latin spelling, and the English side by side.</p>

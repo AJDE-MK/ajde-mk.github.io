@@ -42,6 +42,20 @@ class QueueTests(unittest.TestCase):
         self.assertEqual(rq.next_batch([], 3), [])
 
 
+class PageOrderTests(unittest.TestCase):
+    def test_rows_carry_which_pass_found_them(self):
+        p1 = {"review": {"1": vid("AAAAAAAAAAA")}}
+        p2 = {"review": {"2": vid("BBBBBBBBBBB")}}
+        q = rq.build_queue(p1, p2, SONGS, {}, EMPTY)
+        self.assertEqual({r["song_id"]: r["source"] for r in q}, {1: "pass1", 2: "pass2"})
+
+    def test_second_pass_rows_come_first_on_the_page_then_by_views(self):
+        p1 = {"review": {"1": vid("AAAAAAAAAAA", views=9_000_000), "2": vid("BBBBBBBBBBB", views=100)}}
+        p2 = {"review": {"3": vid("CCCCCCCCCCC", views=50), "4": vid("DDDDDDDDDDD", views=700)}}
+        q = rq.build_queue(p1, p2, SONGS, {}, EMPTY)
+        self.assertEqual([r["song_id"] for r in rq.page_order(q)], [4, 3, 1, 2])
+
+
 class FormatTests(unittest.TestCase):
     def test_a_row_shows_song_video_channel_views_note_and_link(self):
         row = {"song_id": 590, "song": song(590, "Бог да бие мојта мајка", "Bog da bie mojta majka", "Hit my mother"),

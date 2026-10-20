@@ -20,13 +20,13 @@ class LayoutTests(unittest.TestCase):
         self.assertIn('href="/x/progress/"', html)
         self.assertIn('href="/x/about/"', html)
         self.assertIn('href="/x/review/"', html)
+        self.assertIn('href="/x/static/style.css"', html)
 
     def test_menu_has_review_videos_between_alphabet_and_my_progress(self):
         html = layout.page("T", "<p>x</p>")
         self.assertIn(">Review videos</a>", html)
         self.assertLess(html.index(">Alphabet</a>"), html.index(">Review videos</a>"))
         self.assertLess(html.index(">Review videos</a>"), html.index(">My progress</a>"))
-        self.assertIn('href="/x/static/style.css"', html)
 
     def test_site_is_called_ajde(self):
         self.assertEqual(config.SITE_TITLE, "Ајде")

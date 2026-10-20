@@ -98,8 +98,8 @@ class HelpLinksTests(unittest.TestCase):
 
     def test_no_link_when_nothing_to_review(self):
         songs = [{"id": 1, "slug": "s1", "title_cyr": "А", "title_latin": "A", "title_en": "A"}]
-        self.assertNotIn("/review/", render_pages.render_home(songs, {}, review_count=0))
-        self.assertNotIn("/review/", render_pages.render_needs_video(songs, {}, review_count=0))
+        self.assertNotIn("Help by reviewing", render_pages.render_home(songs, {}, review_count=0))
+        self.assertNotIn("Help by reviewing", render_pages.render_needs_video(songs, {}, review_count=0))
 
 
 if __name__ == "__main__":

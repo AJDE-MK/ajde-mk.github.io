@@ -84,6 +84,22 @@ class FullBuildTests(unittest.TestCase):
                     "static/progress.js", "static/feedback.js", "static/quiz.js", "static/search.js"):
             self.assertTrue((self.out / rel).exists(), rel)
 
+    def test_every_page_has_exactly_the_same_menu(self):
+        import re
+
+        menus = {}
+        for page in self.out.rglob("*.html"):
+            html = page.read_text(encoding="utf-8")
+            m = re.search(r'<nav class="site-nav">(.*?)</nav>', html, re.S)
+            self.assertIsNotNone(m, f"no menu in {page.relative_to(self.out)}")
+            # Ignore which item is highlighted; everything else must be identical.
+            menus[str(page.relative_to(self.out))] = re.sub(r' aria-current="page"', "", m.group(1))
+        self.assertGreater(len(menus), 1600)
+        self.assertEqual(len(set(menus.values())), 1, "pages have different menus")
+        only_menu = next(iter(menus.values()))
+        for label in ("Home", "Songs", "Alphabet", "Review videos", "My progress", "About"):
+            self.assertIn(f">{label}</a>", only_menu)
+
     def test_search_index_has_every_song(self):
         idx = json.loads((self.out / "search-index.json").read_text(encoding="utf-8"))
         self.assertEqual(len(idx), 1598)
